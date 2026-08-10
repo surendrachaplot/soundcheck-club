@@ -8,7 +8,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | 15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT | Aurelius, Benny Rodrigues, Eileen (NL), Frits Wentink, Kevin Lo, St. David, Vuur |
+| Sat, 15 Aug 2026 | 15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT | Aurelius, Benny Rodrigues, Eileen (NL), Frits Wentink, Kennedy, Kevin Lo, Nuno dos Santos, St. David, Vuur |
 | Sun, 16 Aug 2026 | 16 AUG - Thuishaven with Gaskin 5HRS | Ben Horton, Ellam, Ellia Jaya, Gaskin, George Smeddles, Lewis Taylor, Stef Davidse, Wildish |
 | Sat, 22 Aug 2026 | komm schon Alter - Das Mini Festival | Arabella Memdouh, Arjuna Schiks, Kartwheel, Kollektiv Turmstrasse, Nicky Elisabeth, Rose Ringed, Sarah Wild, Worakls |
 | Sun, 23 Aug 2026 | VYBZ Festival | AJ Christou |

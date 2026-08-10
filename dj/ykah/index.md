@@ -1,13 +1,14 @@
 # ykah
 
-ykah is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 20 Aug 2026.
+ykah is a Dub and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sat, 15 Aug 2026.
 
-ykah is a dub and techno artist tracked on soundcheck, with 73 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís (1). Next up: Enter Shibuya, Tokyo on Thu 20 Aug.
+ykah is a dub and techno artist tracked on soundcheck, with 74 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís (1). Next up: Suns Shimokitazawa, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Suns Shimokitazawa | Tokyo |
 | Thu, 20 Aug 2026 | Enter Shibuya | Tokyo |
 | Sat, 5 Sept 2026 | West Harlem | Kyoto |
 

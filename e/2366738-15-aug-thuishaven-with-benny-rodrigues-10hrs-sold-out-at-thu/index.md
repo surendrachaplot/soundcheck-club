@@ -1,6 +1,6 @@
 # 15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT at Thuishaven
 
-15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT on Sat 15 Aug, Amsterdam. 7 acts on the bill: Aurelius, Benny Rodrigues, Eileen (NL) and Frits Wentink and 3 more. Preview the line-up and save it on soundcheck.
+15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT on Sat 15 Aug, Amsterdam. 9 acts on the bill: Aurelius, Benny Rodrigues, Eileen (NL) and Frits Wentink and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,9 @@
 - Benny Rodrigues
 - Eileen (NL)
 - Frits Wentink
+- Kennedy
 - Kevin Lo
+- Nuno dos Santos
 - St. David
 - Vuur
 

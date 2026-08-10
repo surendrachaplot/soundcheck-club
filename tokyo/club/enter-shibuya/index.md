@@ -8,7 +8,7 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | ガガガガガッチャンコォ！ | Pokaska, Shimon Taka, chanai, kenichi yoshida |
+| Mon, 10 Aug 2026 | ガガガガガッチャンコォ！ | Pokaska, Shimon Taka, chanai, kenichi yoshida, ryuu (2) |
 | Wed, 12 Aug 2026 | Denki vol.2 | Eichi Abe, Pointhope, Tui (1) |
 | Thu, 13 Aug 2026 | Beatamin D / オトビタンD with DJ JM | DJ JM, Fetus, PANICWORKS, Seimei, VOX (1) |
 | Fri, 14 Aug 2026 | HIRAKE GOMA -Leefia KUMAGOYA RELEASE PARTY- | COCOLY, J.A.K.A.M., Leefia, Mamazu, michika |

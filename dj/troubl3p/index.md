@@ -2,7 +2,7 @@
 
 Troubl3p is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
-Troubl3p is a techno and trance artist based in Taiwan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside DANDAN, ERIMIYA and Hinode. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
+Troubl3p is a techno and trance artist based in Taiwan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Iga, Takuma Matsunaga and DANDAN. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Troubl3p is a techno and trance artist based in Taiwan, tracked on soundcheck, w
 
 ## Shares bills with
 
-DANDAN, ERIMIYA, Hinode
+Iga, Takuma Matsunaga, DANDAN
 
 *Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troubl3p/)*

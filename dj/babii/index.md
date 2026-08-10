@@ -1,14 +1,15 @@
 # BABii
 
-BABii is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Circus Osaka, Osaka on Fri, 14 Aug 2026.
+BABii is a Club and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Circus Osaka, Osaka on Fri, 14 Aug 2026.
 
-BABii is a club and electronica artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Bristol and Brussels and 17 more. Often billed alongside Iglooghost, User2222 and Isla Den. Next up: Circus Osaka, Osaka on Fri 14 Aug.
+BABii is a club and electronica artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside Iglooghost, User2222 and Isla Den. Next up: Circus Osaka, Osaka on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Circus Osaka | Osaka |
+| Sat, 15 Aug 2026 | Circus Tokyo | Tokyo |
 | Sat, 29 Aug 2026 | Strange Brew | Bristol |
 
 ## Recently played

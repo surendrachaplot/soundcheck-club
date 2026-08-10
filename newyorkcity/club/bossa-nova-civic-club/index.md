@@ -11,7 +11,7 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 35 u
 | Mon, 10 Aug 2026 | HARD DRIVE | CMD+JAZMINE, Henry R, estro, senoritajuicy |
 | Mon, 10 Aug 2026 | Happy Hour with MS.SMITH & Will Jack | MS.SMITH, Will Jack |
 | Tue, 11 Aug 2026 | GRID: Syd, Mayon, DJ Sour | DJ Sour, Mayon, Pacha DJ, Syd (US), ethereal.mvp, kyxm |
-| Tue, 11 Aug 2026 | Happy Hour: SGNL w/Sadmi, Perrin Grace & Primordian |  |
+| Tue, 11 Aug 2026 | Happy Hour: SGNL w/Sadmi, Perrin Grace & Primordian | Perrin Grace, Primordian, Sadmi |
 | Wed, 12 Aug 2026 | Torture Chamber VOL 14 - Alexander Technique, Brent Shay (Detroit), Pjay, DJ K2 | Alexander Technique, Brent Shay, Destro187, Pjay |
 | Wed, 12 Aug 2026 | Happy Hour: SYNTHBIOSIS | Constructible, Janus Rose, SEV1 |
 | Thu, 13 Aug 2026 | PAN!C ROOM | JESSXO, NIJEII, Saintclair, WADDLE, Ziyi, y2aura |

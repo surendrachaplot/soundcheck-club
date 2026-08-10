@@ -1,6 +1,6 @@
-# Interval - Miguel De Bois [MX] at Glamorama
+# Interval - Miguel de Bois [MX] at Glamorama
 
-Interval - Miguel De Bois [MX] at Glamorama on Fri 14 Aug, Melbourne. 1 act on the bill: Miguel De Bois. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Interval - Miguel de Bois [MX] at Glamorama on Fri 14 Aug, Melbourne. 3 acts on the bill: Caleb Jay, CHARBINKS and Miguel De Bois. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Interval - Miguel De Bois [MX] at Glamorama on Fri 14 Aug, Melbourne. 1 act on t
 
 ## Line-up
 
+- Caleb Jay
+- CHARBINKS
 - Miguel De Bois
 
 *Source: [soundcheck](https://soundcheck.club/e/2479016-interval-miguel-de-bois-mx-at-glamorama/)*

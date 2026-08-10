@@ -1,6 +1,6 @@
 # ガガガガガッチャンコォ！ at Enter Shibuya
 
-ガガガガガッチャンコォ！ at Enter Shibuya on Mon 10 Aug, Tokyo. 4 acts on the bill: chanai, kenichi yoshida, Pokaska and Shimon Taka. Techno. Preview the line-up and save it on soundcheck.
+ガガガガガッチャンコォ！ at Enter Shibuya on Mon 10 Aug, Tokyo. 5 acts on the bill: chanai, kenichi yoshida, Pokaska and ryuu (2) and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - chanai
 - kenichi yoshida
 - Pokaska
+- ryuu (2)
 - Shimon Taka
 
 *Source: [soundcheck](https://soundcheck.club/e/2506857-at-enter-shibuya/)*

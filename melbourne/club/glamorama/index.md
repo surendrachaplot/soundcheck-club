@@ -1,14 +1,14 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Interval - Miguel De Bois [MX]" on Fri, 14 Aug 2026.
+Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Interval - Miguel de Bois [MX]" on Fri, 14 Aug 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including A.Well, bellxsxs, Dan Newman and DAYZZI and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including A.Well, bellxsxs, Caleb Jay and CHARBINKS and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Interval - Miguel De Bois [MX] | Miguel De Bois |
+| Fri, 14 Aug 2026 | Interval - Miguel de Bois [MX] | CHARBINKS, Caleb Jay, Miguel De Bois |
 | Fri, 14 Aug 2026 | Glam Open Decks: Winter Series #4 |  |
 | Sat, 15 Aug 2026 | Work Wife + A.Well at Glamorama Saturdays x Club Well Takeover | A.Well, Work Wife |
 | Fri, 21 Aug 2026 | Interval - BURNR [NL] + DAYZZI | DAYZZI |
