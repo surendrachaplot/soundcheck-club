@@ -1,13 +1,14 @@
 # Carina Lawrence
 
-Carina Lawrence is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
+Carina Lawrence is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at NUMBER 90 LONDON, London on Thu, 27 Aug 2026.
 
-Carina Lawrence is a progressive house and techno artist tracked on soundcheck, with 63 sets logged across Brighton, Bristol, London and Losangeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: UNLOCKED, London on Sat 5 Sept.
+Carina Lawrence is a progressive house and techno artist tracked on soundcheck, with 64 sets logged across Brighton, Bristol, London and Losangeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: NUMBER 90 LONDON, London on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 5 Sept 2026 | UNLOCKED | London |
 | Fri, 2 Oct 2026 | Electric Bristol | Bristol |
 

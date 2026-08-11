@@ -1,8 +1,8 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sahar Z [OPEN TO CLOSE] - by SOMOS PRODUCE, LA BIBLIOTECA" on Fri, 14 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sahar Z [OPEN TO CLOSE] - by SOMOS PRODUCE, LA BIBLIOTECA" on Fri, 14 Aug 2026.
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 11 upcoming nights, with line-ups including Alex Stein, Antrim, Franco Dalmati and Jody Wisternoff and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

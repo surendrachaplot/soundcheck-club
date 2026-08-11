@@ -9,7 +9,7 @@ The Ministry is a music venue in London listed on soundcheck. 2 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | More Good Times Summer Party II - London |  |
-| Sun, 4 Oct 2026 | Cue Drops: Colin Dale x KABBAGE | Colin Dale, George Plant, KABBAGE |
+| Sun, 4 Oct 2026 | Cue Drops: Colin Dale & guests | Colin Dale, George Plant, KABBAGE |
 
 ## Address
 

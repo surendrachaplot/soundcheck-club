@@ -1,0 +1,28 @@
+# 0dysseus
+
+0dysseus is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 6 Sept 2026.
+
+0dysseus is a deep house and techno artist based in Greece, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside DJ Treibsand, danger soundsystem and Benjamin Freeney. Next up: TBA - Secret Location, Berlin on Sun 6 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 6 Sept 2026 | TBA - Secret Location | Berlin |
+
+## Recently played
+
+- Maaya, Berlin — Sat, 25 Jul 2026
+- TBA - Announced on our Telegram! , Berlin — Sun, 17 May 2026
+- TBA - Announced on our Telegram! , Berlin — Sun, 15 Mar 2026
+- TBA - Secret Location, Berlin — Sun, 18 Jan 2026
+- Lauschangriff, Berlin — Wed, 14 Jan 2026
+- TBA, Berlin — Sun, 9 Nov 2025
+- TBA, Berlin — Fri, 25 Jul 2025
+- TBA - Secret location Neukölln, Berlin — Sat, 31 May 2025
+
+## Shares bills with
+
+DJ Treibsand, danger soundsystem, Benjamin Freeney
+
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*

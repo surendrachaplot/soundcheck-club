@@ -1,14 +1,15 @@
 # Mylo Harvey
 
-Mylo Harvey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
+Mylo Harvey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
 
-Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Brighton, London and Manchester. Often billed alongside Chenzo, Acuña Collective and MUSCLECARS. Next up: Patterns, Brighton on Fri 28 Aug.
+Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London and Manchester. Often billed alongside Chenzo, Acuña Collective and Kojay. Next up: Patterns, Brighton on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Patterns | Brighton |
+| Sat, 12 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Chenzo, Acuña Collective, MUSCLECARS
+Chenzo, Acuña Collective, Kojay
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*

@@ -1,8 +1,8 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Pastry Selects at Vittoria Wharf Studio" on Fri, 14 Aug 2026.
+Vittoria Wharf Studio is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Pastry Selects at Vittoria Wharf Studio" on Fri, 14 Aug 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alfie Aukett, Amaliah, AmeliaBC and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alfie Aukett, Amaliah, AmeliaBC and Arnault and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcomin
 | Sun, 23 Aug 2026 | Ossia Summer Day Party - Hackney Wick |  |
 | Sat, 29 Aug 2026 | TranceParty:TBA |  |
 | Sat, 5 Sept 2026 | London Love Letter by Night | Amaliah, AmeliaBC, Danielle |
+| Sat, 5 Sept 2026 | Collide x Amaeo Label w/ SKALA & Theologos Day Party | Arnault, Greg Nox, Patrick Serhal, SKALA, Theologos |
 | Sat, 12 Sept 2026 | Amalfi Music x Bassic | Rhiavas, Wooka |
 | Sun, 27 Sept 2026 | Wachphase | CAMIVINA, Oculus., Tara Erizo, Tasman-UK, Vivra Verra |
 

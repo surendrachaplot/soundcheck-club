@@ -1,14 +1,15 @@
 # Kojay
 
-Kojay is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Kojay is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
-Kojay is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Birmingham, Bristol, Edinburgh and London. Often billed alongside P-Lucas, Jamesey and Matt L-S. Next up: Jumbi, London on Sat 15 Aug.
+Kojay is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Birmingham, Bristol, Edinburgh and London. Often billed alongside P-Lucas, Jamesey and Matt L-S. Next up: Jumbi, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Jumbi | London |
+| Sat, 12 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
 
-Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 16 more. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: Joyt, Antwerp on Sun 30 Aug.
+Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: Joyt, Antwerp on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Joyt | Antwerp |
+| Sat, 12 Sept 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
 | Thu, 22 Oct 2026 | Akhnaton | Amsterdam |
 | Sun, 25 Oct 2026 | Bridge Gardens | Glasgow |
 

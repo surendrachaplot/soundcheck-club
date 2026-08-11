@@ -1,8 +1,8 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
+LEV (UK) is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
 
-LEV (UK) is a house and disco artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: The BBE Store, London on Fri 14 Aug.
+LEV (UK) is a house and disco artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: The BBE Store, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LEV (UK) is a house and disco artist tracked on soundcheck, with 86 sets logged 
 | Fri, 14 Aug 2026 | The BBE Store | London |
 | Sun, 16 Aug 2026 | Filly Brook | London |
 | Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 12 Sept 2026 | The Glove That Fits | London |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Sat, 10 Oct 2026 | Omeara | London |
 | Sat, 17 Oct 2026 | Night Tales Loft | London |

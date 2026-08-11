@@ -11,7 +11,7 @@ Vespers Club is a music venue in London listed on soundcheck. 10 upcoming nights
 | Sun, 16 Aug 2026 | Industrial Dirt | Dhangsha, Kelan, Richard Fearless, Samson A.K, Wes Baggaley |
 | Tue, 18 Aug 2026 | Ku$h with Gang | Ku$h |
 | Tue, 18 Aug 2026 | KUSH w/GANG |  |
-| Fri, 21 Aug 2026 | STAR-LITE | Bekefi, Herberta, Jezebelle, Luca Perry, ellzyb |
+| Fri, 21 Aug 2026 | Vespers present: Herberta, Luca Perry, Bekefi, ellzyb & Jezebelle   | Bekefi, Herberta, Jezebelle, Luca Perry, ellzyb |
 | Fri, 21 Aug 2026 | Vespers present: Switch Angel, Wolf Cutt, Exjaynine | Switch Angel |
 | Sat, 22 Aug 2026 | Ghouls Kiss | FrEaKyNoRiKy, LUNAx3, Princess Elf Bar, Takenbymarshall, Triff (2) |
 | Sat, 29 Aug 2026 | VEN3NO | ORFIGYAL |

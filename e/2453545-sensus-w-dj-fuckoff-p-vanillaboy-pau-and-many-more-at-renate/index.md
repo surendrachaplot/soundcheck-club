@@ -1,6 +1,6 @@
-# SENSUS w/ DJ Fuckoff, P.Vanillaboy, Pau and many more at Renate
+# SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more at Renate
 
-SENSUS w/ DJ Fuckoff, P.Vanillaboy, Pau and many more at Renate on Fri 18 Sept, Berlin. 13 acts on the bill: Brauer, Carl Hang, DJ Buona Sara and DJ Fuckoff and 9 more. Preview the line-up and save it on soundcheck.
+SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more at Renate on Fri 18 Sept, Berlin. 13 acts on the bill: Brauer, Carl Hang, DJ Buona Sara and DJ Fuckoff and 9 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
