@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "NO DECAF w/ KODY (Leftwing:Kody) | Funktion-one sound system | Underground House" on Fri, 14 Aug 2026.
+Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "[FINAL RELEASE] NO DECAF w/ KODY (Leftwing:Kody) | Underground House" on Fri, 14 Aug 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -8,7 +8,7 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | NO DECAF w/ KODY (Leftwing:Kody) / Funktion-one sound system / Underground House | Ale Grooves, Jo Cruz, KAYDNCE, Leftwing & Kody, Sonata Collective |
+| Fri, 14 Aug 2026 | [FINAL RELEASE] NO DECAF w/ KODY (Leftwing:Kody) / Underground House | Ale Grooves, Jo Cruz, KAYDNCE, Leftwing & Kody, Sonata Collective |
 | Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT), TiBOR (HU), Tibor |
 | Sat, 15 Aug 2026 | Archie Holmes x Arts of the Unknown | Archie Holmes, Arts of the Unknown, Fredd Mann, Joe Tonic, Stresshead |
 | Sun, 16 Aug 2026 | Flurt. x Leftback | Josh Smith, Last Pines, Mortalyf, Oscar Jones, PiNG (UK) |

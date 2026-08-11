@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 30 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Recondite (Live)" on Fri, 14 Aug 2026.
+Phonox is a music venue in London with 30 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Phonox: Recondite (Live), Motip White" on Fri, 14 Aug 2026.
 
 Phonox is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,7 @@ Phonox is a music venue in London listed on soundcheck. 30 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Recondite (Live) | Motip White, Recondite |
+| Fri, 14 Aug 2026 | Phonox: Recondite (Live), Motip White | Motip White, Recondite |
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
 | Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE (Sean Johnston) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Sat, 22 Aug 2026 | Giegling: Edward, Konstantin | Edward, Konstantin |

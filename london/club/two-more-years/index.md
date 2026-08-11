@@ -8,7 +8,7 @@ Two More Years is a music venue in London listed on soundcheck. 3 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Two More Years - Fifth Birthday (House & Disco by The Canal) | Dan Howell, Franklin DJ, Giles Smith |
+| Sat, 15 Aug 2026 | Two More Years - Fifth Birthday (House & Disco by The Canal) | Dan Howell, Franklin DJ, Giles Smith, John Shabot |
 | Sat, 22 Aug 2026 | Spicy Juliet Summer Party ep.002 |  |
 | Sat, 29 Aug 2026 | Late Night Disco - Bank Holiday Special | Chris Wheatley, Late Night Disco, Nadia Ksaiba |
 

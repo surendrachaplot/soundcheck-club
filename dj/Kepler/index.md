@@ -1,13 +1,14 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: XOYO, London on Sat 15 Aug.
+Kepler is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: XOYO, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | XOYO | London |
 | Sat, 15 Aug 2026 | XOYO | London |
 | Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
@@ -19,7 +20,6 @@ Kepler is a house and tech house artist tracked on soundcheck, with 151 sets log
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
-| Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Kepler is a house and tech house artist tracked on soundcheck, with 151 sets log
 
 ## Shares bills with
 
-Burnski, L.P. Rhythm, Enzo Siragusa
+Burnski, Job de Jong, L.P. Rhythm
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

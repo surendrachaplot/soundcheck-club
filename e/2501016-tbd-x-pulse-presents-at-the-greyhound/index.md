@@ -1,6 +1,6 @@
 # TBD x Pulse presents at The Greyhound
 
-TBD x Pulse presents at The Greyhound on Fri 28 Aug, London. House and Garage. Preview the line-up and save it on soundcheck.
+TBD x Pulse presents at The Greyhound on Fri 28 Aug, London. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

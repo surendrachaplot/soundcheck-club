@@ -1,13 +1,14 @@
 # Cem G
 
-Cem G is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Fri, 21 Aug 2026.
+Cem G is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
 
-Cem G is a house and minimal artist tracked on soundcheck, with 24 sets logged across Berlin, Istanbul, Lisbon and Newyorkcity and 1 more. Often billed alongside Cesar Merveille, Andrea Ferlin and Rg. Next up: Club der Visionaere, Berlin on Fri 21 Aug.
+Cem G is a house and minimal artist tracked on soundcheck, with 25 sets logged across Berlin, Istanbul, Lisbon and Newyorkcity and 1 more. Often billed alongside Cesar Merveille, Andrea Ferlin and Rg. Next up: Green Room NYC, Newyorkcity on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Green Room NYC | New York City |
 | Fri, 21 Aug 2026 | Club der Visionaere | Berlin |
 
 ## Recently played

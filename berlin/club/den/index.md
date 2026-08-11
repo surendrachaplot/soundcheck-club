@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Lilith" on Wed, 12 Aug 2026.
+ÆDEN is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ＬＩＬＩＴＨ ✦ 5€ Pre-sale" on Wed, 12 Aug 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including 7CIRCLE, KIV., Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Lilith | OSKAR., The Camel, VNVK, luci. |
+| Wed, 12 Aug 2026 | ＬＩＬＩＴＨ ✦ 5€ Pre-sale | OSKAR., The Camel, VNVK, luci. |
 | Wed, 12 Aug 2026 | Lilith |  |
 | Wed, 12 Aug 2026 | Crêpes & Open Decks - SOLAR ECLIPSE EDITION |  |
 | Thu, 13 Aug 2026 | FREENETICA CREW at ÆDEN with Tarkno - 7CIRCLE - Caniche - Mython | 7CIRCLE, Caniche, Jacopo Forli, Linda shiro, Mat Hex, Mython, NKK (IT), Phreenetic, Soffice, Tarkno |

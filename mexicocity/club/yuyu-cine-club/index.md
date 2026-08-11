@@ -9,7 +9,7 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 7 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Yu Yu Cine Club: J. Dark takeover with Torgy, UUFFOO DJ, Eliel Capa | Eliel Capa, Torgy, UUFFOO DJ |
-| Sat, 15 Aug 2026 | Yu Yu x Desculonización takeover: Clementaum, Technopagan, Dj Fucci | Clementaum, Dj Fucci, Kelman Duran, Technopagan, Un4 L0kur4 |
+| Sat, 15 Aug 2026 | Yu Yu x Desculonización: Clementaum, Technopagan, Dj Fucci, Un4 Lokur4. Roxy & Nasty | Clementaum, Dj Fucci, Kelman Duran, Technopagan, Un4 L0kur4 |
 | Fri, 21 Aug 2026 | Yu Yu Cine Club: MUTEK takeover w/ Gerd Janson | Gerd Janson, Kodemul, Ursula Prawn |
 | Sat, 22 Aug 2026 | Yu Yu Cine Club: Materia Abierta takeover with Kelman Duran, La Bruja de Texcoco, KEBRA | Concepción Huerta, KEBRA, Kelman Duran |
 | Fri, 28 Aug 2026 | Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, ZutZut | Imaabs, Microhm, Siete Catorce |
