@@ -8,7 +8,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | ETNICA |  |
+| Sat, 15 Aug 2026 | ETNICA | Paul Ikky, Rayden 2 |
 | Fri, 28 Aug 2026 | Automata Drum & Bass 28AUG - Etherwood Barcelona | Etherwood |
 | Sat, 5 Sept 2026 | VOLTAGE x DETROIT | ERØXX, MMartinez, Rowsi, m4rküse |
 | Fri, 18 Sept 2026 | Mincode_ NICOLAS CETINA Invites: SVRECA  - YULIËN |  |

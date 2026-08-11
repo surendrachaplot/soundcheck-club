@@ -9,7 +9,7 @@ Kent Oria is a techno and house artist based in Japan, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Cave | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

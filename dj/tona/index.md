@@ -1,14 +1,15 @@
 # TONA
 
-TONA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+TONA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
-TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 6 sets logged across Munich. Often billed alongside ANASTASÍA, Akuma and Atzlina. Next up: Lieberscholli, Munich on Sat 22 Aug.
+TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Munich. Often billed alongside subcutan, ANASTASÍA and Akuma. Next up: Lieberscholli, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Lieberscholli | Munich |
+| Thu, 27 Aug 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 ## Shares bills with
 
-ANASTASÍA, Akuma, Atzlina
+subcutan, ANASTASÍA, Akuma
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tona/)*

@@ -12,7 +12,7 @@ Lightbox is a music venue in London listed on soundcheck. 13 upcoming nights, wi
 | Sat, 15 Aug 2026 | VIVA Reggaeton - New Talent Night |  |
 | Sat, 15 Aug 2026 | VIVA Baile |  |
 | Fri, 21 Aug 2026 | Pop & RnB All Night Long - Limited Free Tickets |  |
-| Sat, 22 Aug 2026 | VIVA Reggaeton |  |
+| Sat, 22 Aug 2026 | VIVA Reggaeton Live |  |
 | Sat, 22 Aug 2026 | VIVA Baile |  |
 | Fri, 28 Aug 2026 | Pop & RnB All Night Long - Limited Free Tickets |  |
 | Sat, 29 Aug 2026 | VIVA Reggaeton - Carnival Warm Up | AMP (1), Jordan, Loora, NORA (BR), ROLA, SHINZEE |

@@ -1,14 +1,15 @@
 # XTCLVR
 
-XTCLVR is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+XTCLVR is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
-XTCLVR is an experimental and club artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Neue Medecina, èvia and Buttechno. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
+XTCLVR is an experimental and club artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Neue Medecina, truthspeaker and èvia. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
+| Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ XTCLVR is an experimental and club artist tracked on soundcheck, with 9 sets log
 
 ## Shares bills with
 
-Neue Medecina, èvia, Buttechno
+Neue Medecina, truthspeaker, èvia
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtclvr/)*

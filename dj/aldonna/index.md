@@ -1,8 +1,8 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Aldonna is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Tjade, D Stone and DAWS. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Aldonna is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aldonna is a house and techno artist tracked on soundcheck, with 127 sets logged
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 4 Sept 2026 | Sacré | Paris |
+| Sat, 5 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |

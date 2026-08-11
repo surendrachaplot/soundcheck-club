@@ -1,8 +1,8 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "NO SLEEP ROOM" on Wed, 12 Aug 2026.
+Prozak 2.0 is a music venue in Krakow with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "NO SLEEP ROOM" on Wed, 12 Aug 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming nights, with line-ups including Error 404, Forest (PL), Kara Okay and Kuriozum and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 12 upcoming nights, with line-ups including BART (3), Error 404, Forest (PL) and Kara Okay and 2 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming nights, 
 | Fri, 14 Aug 2026 | GOT THAT GROOVE |  |
 | Sat, 15 Aug 2026 | PROZAK ON THE ROOF: Kara Okay | Kara Okay, Kuriozum, Meg (PL) |
 | Sat, 15 Aug 2026 | Prozak on the Roof: AFTERHOURS | Kara Okay, Kuriozum, Meg (PL) |
+| Wed, 19 Aug 2026 | NO SLEEP ROOM |  |
 | Thu, 20 Aug 2026 | SMACK MY 90s BEAT UP |  |
 | Fri, 21 Aug 2026 | GO GIRLS | Kuriozum |
 | Sat, 22 Aug 2026 | T U R B O |  |
-| Fri, 28 Aug 2026 | FROM AUSTRALIA WITH LOVE | Kuriozum |
-| Sat, 29 Aug 2026 | SCHRANZ-TRANCE | Forest (PL) |
+| Wed, 26 Aug 2026 | NO SLEEP ROOM | BART (3) |
 
 ## Address
 

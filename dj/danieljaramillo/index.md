@@ -1,8 +1,8 @@
 # Daniel Jaramillo
 
-Daniel Jaramillo is a Minimal and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
+Daniel Jaramillo is a Minimal and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
 
-Daniel Jaramillo is a minimal and deep house artist based in Ecuador, tracked on soundcheck, with 60 sets logged across Berlin and Paris. Often billed alongside DAZA, Culo Sucio and Marko Cardona. Next up: Bredouille, Berlin on Fri 14 Aug.
+Daniel Jaramillo is a minimal and deep house artist based in Ecuador, tracked on soundcheck, with 61 sets logged across Berlin and Paris. Often billed alongside DAZA, Culo Sucio and Marko Cardona. Next up: Bredouille, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daniel Jaramillo is a minimal and deep house artist based in Ecuador, tracked on
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Bredouille | Berlin |
 | Fri, 28 Aug 2026 | Minimal Bar | Berlin |
+| Fri, 9 Oct 2026 | TBA | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # ELYSIUM
 
-ELYSIUM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+ELYSIUM is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
-ELYSIUM is a techno and hardcore artist tracked on soundcheck, with 43 sets logged across Cologne, London, Losangeles and Newyorkcity and 2 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: Teritorija, Riga on Fri 14 Aug.
+ELYSIUM is a techno and hardcore artist tracked on soundcheck, with 44 sets logged across Cologne, London, Losangeles and Newyorkcity and 2 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: Teritorija, Riga on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ELYSIUM is a techno and hardcore artist tracked on soundcheck, with 43 sets logg
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Teritorija | Riga |
 | Sat, 15 Aug 2026 | Teritorija | Riga |
+| Mon, 9 Nov 2026 | HVEN | Tokyo |
 
 ## Recently played
 

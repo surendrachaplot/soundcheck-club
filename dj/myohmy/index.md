@@ -1,13 +1,14 @@
 # MYOHMY
 
-MYOHMY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Meraki, Liverpool on Sat, 31 Oct 2026.
+MYOHMY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
-MYOHMY is a techno and house artist tracked on soundcheck, with 36 sets logged across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and TAMAN (2). Next up: Meraki, Liverpool on Sat 31 Oct.
+MYOHMY is a techno and house artist tracked on soundcheck, with 37 sets logged across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and TAMAN (2). Next up: The DBA, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | The DBA | Manchester |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 

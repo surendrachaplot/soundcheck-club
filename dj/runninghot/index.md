@@ -1,0 +1,28 @@
+# Running Hot
+
+Running Hot is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
+
+Running Hot is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: Coco Boule, Berlin on Sat 22 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 22 Aug 2026 | Coco Boule | Berlin |
+
+## Recently played
+
+- gART.n, Berlin — Sat, 8 Aug 2026
+- KREUZWERK, Berlin — Sat, 27 Jun 2026
+- Renate, Berlin — Fri, 19 Jun 2026
+- Sacré, Paris — Sat, 13 Jun 2026
+- Ndsm x Helling, Amsterdam — Sat, 6 Jun 2026
+- FOLD, London — Fri, 5 Jun 2026
+- Les Ateliers Éclairés, Strasbourg — Sat, 23 May 2026
+- OST, Berlin — Fri, 1 May 2026
+
+## Shares bills with
+
+Alex Kassian, Vio PRG, DJ TEETH
+
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*

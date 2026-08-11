@@ -1,13 +1,14 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
+Tia Cousins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Depot Mayfield, Manchester on Sat, 29 Aug 2026.
 
-Tia Cousins is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: The Red Church, Bristol on Sun 30 Aug.
+Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: Depot Mayfield, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Depot Mayfield | Manchester |
 | Sun, 30 Aug 2026 | The Red Church | Bristol |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | The Glove That Fits | London |

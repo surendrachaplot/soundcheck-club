@@ -9,11 +9,11 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Welcome To My House: Flaaviø, dj prinskorv, La Terrasse | Flaaviø, La Terrasse, dj prinskorv |
-| Fri, 14 Aug 2026 | Fridaze: Tba |  |
+| Fri, 14 Aug 2026 | THE WEEKEND STARTS HERE: Sonuit, Fenster, Jason & More | Fenster, Sonuit |
 | Sat, 15 Aug 2026 | Organza invites: SENERGI, Agua con gas, elliephunk, Organza | Agua con gas, Organza, SENERGI, elliephunk |
 | Thu, 20 Aug 2026 | House of Others (Vol.11): Ahni, Dzoara, materia hache | Ahni, Dzoara, materia hache |
 | Fri, 21 Aug 2026 | NODE: B. Clarke, TUP, Bianchetti, AD | B. Clarke, Bianchetti |
-| Sat, 22 Aug 2026 | GOOD SOULS: Shabi, Javier Anxiety, Marcus Holder & More | Javier Anxiety, Marcus Holder, Shabi |
+| Sat, 22 Aug 2026 | GOOD SOULS: Shabi, Kat_Es, Javier Anxiety, Marcus Holder | Javier Anxiety, Kat_Es, Marcus Holder, Shabi |
 | Thu, 27 Aug 2026 | FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP | Buzz Boutique, ROBERT KAMP, Unna Foulanah |
 | Fri, 28 Aug 2026 | Durchreise: Etiennette, mp.ulle, Jasper Kråch, Siegfried Plemo | Etiennette, Jasper Kråch, Siegfried Plemo, mp.ulle |
 | Sat, 29 Aug 2026 | Bulbul Residents & Friends: Nikklaas, Casa Marrone & More | Nikklaas |

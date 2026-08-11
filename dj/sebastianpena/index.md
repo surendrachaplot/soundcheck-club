@@ -1,14 +1,15 @@
 # Sebastián Peña
 
-Sebastián Peña is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at NIX Barcelon, Barcelona on Sun, 30 Aug 2026.
+Sebastián Peña is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at NIX Barcelon, Barcelona on Sun, 30 Aug 2026.
 
-Sebastián Peña is a tech house and minimal artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Bassel Darwish, Hector Couto and Rafa Barrios. Next up: NIX Barcelon, Barcelona on Sun 30 Aug.
+Sebastián Peña is a tech house and minimal artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Bassel Darwish, Hector Couto and Rafa Barrios. Next up: NIX Barcelon, Barcelona on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | NIX Barcelon | Barcelona |
+| Sun, 27 Sept 2026 | Ku Barcelona | Barcelona |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
+Danny Howells is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
 
-Danny Howells is a progressive house and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Barcelona and Brighton and 19 more. Often billed alongside Dave Seaman, Anthony Pappa and Cris-H. Next up: The Horse & Groom, London on Sat 5 Sept.
+Danny Howells is a progressive house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Barcelona and Brighton and 19 more. Often billed alongside Dave Seaman, Anthony Pappa and Steve Parry. Next up: The Horse & Groom, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danny Howells is a progressive house and house artist tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Horse & Groom | London |
 | Sat, 3 Oct 2026 | Palm House | Liverpool |
+| Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Danny Howells is a progressive house and house artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Dave Seaman, Anthony Pappa, Cris-H
+Dave Seaman, Anthony Pappa, Steve Parry
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

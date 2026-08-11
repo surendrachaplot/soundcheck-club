@@ -1,8 +1,8 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "GLYPH - Summer Courtyard Session - Trance & Progressive: 1996-2026" on Sat, 15 Aug 2026.
+Sidney & Matilda is a music venue in Sheffield with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "GLYPH - Summer Courtyard Session - Trance & Progressive: 1996-2026" on Sat, 15 Aug 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 9 upcoming nights, with line-ups including Charla Green, Craig Cassiera, Dave Lazenby and Dead Man's Chest and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming nights, with line-ups including Bailey Ibbs, Charla Green, Cimmerian and Craig Cassiera and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 9 upcoming 
 | Sat, 15 Aug 2026 | GLYPH - Summer Courtyard Session - Trance & Progressive: 1996-2026 | Craig Cassiera, Dave Lazenby |
 | Fri, 21 Aug 2026 | S&M X Beat Bunker X Nowt Daft presents: DJ Paypal | DJ Paypal, Finn Eden, Livsey |
 | Fri, 11 Sept 2026 | BILL REAVER presents: Lady Passion | Lady Passion |
+| Fri, 18 Sept 2026 | ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more | Bailey Ibbs, Cimmerian, Harrison (UK), Move Elusive |
 | Fri, 25 Sept 2026 | James Lavelle (Unkle / Mo'Wax) | James Lavelle |
 | Sat, 26 Sept 2026 | Float Along Festival with Flowdan + Hijack | Drez, Flowdan |
 | Sat, 10 Oct 2026 | Phil Hartnoll (Orbital) |  |

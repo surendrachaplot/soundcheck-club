@@ -1,13 +1,14 @@
 # Breaka
 
-Breaka is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Fox and Firkin, London on Sat, 3 Oct 2026.
+Breaka is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
-Breaka is a bass and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: The Fox and Firkin, London on Sat 3 Oct.
+Breaka is a bass and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: Badaboum, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Badaboum | Paris |
 | Sat, 3 Oct 2026 | The Fox and Firkin | London |
 | Fri, 16 Oct 2026 | The DBA | Manchester |
 

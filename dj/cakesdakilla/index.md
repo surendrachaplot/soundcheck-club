@@ -1,14 +1,15 @@
 # Cakes Da Killa
 
-Cakes Da Killa is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Signal, New York City on Sun, 6 Sept 2026.
+Cakes Da Killa is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Signal, New York City on Sun, 6 Sept 2026.
 
-Cakes Da Killa is a club and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Byrell The Great, Honey Dijon and Roza Terenzi. Next up: Signal, Newyorkcity on Sun 6 Sept.
+Cakes Da Killa is a club and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Byrell The Great, Honey Dijon and Roza Terenzi. Next up: Signal, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Signal | New York City |
+| Sat, 24 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

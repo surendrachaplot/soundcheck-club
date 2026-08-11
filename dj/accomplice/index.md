@@ -1,13 +1,14 @@
 # Accomplice
 
-Accomplice is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Bernard Shaw, Dublin on Sat, 5 Sept 2026.
+Accomplice is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
 
-Accomplice is a house and acid artist based in Ireland, tracked on soundcheck, with 20 sets logged across Berlin and Dublin. Often billed alongside Prøwl, DJ Gary and Pineal Navigation. Next up: The Bernard Shaw, Dublin on Sat 5 Sept.
+Accomplice is a house and acid artist based in Ireland, tracked on soundcheck, with 21 sets logged across Berlin and Dublin. Often billed alongside Prøwl, Pineal Navigation and DJ Gary. Next up: Pawn Shop, Dublin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Pawn Shop | Dublin |
 | Sat, 5 Sept 2026 | The Bernard Shaw | Dublin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Accomplice is a house and acid artist based in Ireland, tracked on soundcheck, w
 
 ## Shares bills with
 
-Prøwl, DJ Gary, Pineal Navigation
+Prøwl, Pineal Navigation, DJ Gary
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/accomplice/)*

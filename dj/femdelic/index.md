@@ -1,14 +1,15 @@
 # Femdelic
 
-Femdelic is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Femdelic is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
-Femdelic is a funk / soul and disco artist based in Germany, tracked on soundcheck, with 83 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside Marc Hype, Soulski and Carl Hang. Next up: Kater, Berlin on Sat 15 Aug.
+Femdelic is a funk / soul and disco artist based in Germany, tracked on soundcheck, with 84 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside Marc Hype, Soulski and Carl Hang. Next up: Kater, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Kater | Berlin |
+| Sat, 29 Aug 2026 | Bar Neun | Berlin |
 
 ## Recently played
 

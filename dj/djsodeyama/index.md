@@ -11,7 +11,7 @@ DJ Sodeyama is a techno and house artist tracked on soundcheck, with 134 sets lo
 | Wed, 26 Aug 2026 | Numm | Tokyo |
 | Fri, 4 Sept 2026 | WOMB | Tokyo |
 | Sat, 5 Sept 2026 | DUNGEON akihabara | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

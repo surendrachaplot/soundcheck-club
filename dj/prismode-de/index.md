@@ -1,8 +1,8 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Prismode is a Techno and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Prismode is a techno and progressive house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: TBA - Straße des 17. Juni, Berlin on Sat 15 Aug.
+Prismode is a techno and progressive house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: TBA - Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Prismode is a techno and progressive house artist tracked on soundcheck, with 10
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 22 Aug 2026 | Bahnwärter Thiel | Munich |
+| Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Sat, 19 Sept 2026 | Ritter Butzke | Berlin |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |

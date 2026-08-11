@@ -1,6 +1,6 @@
 # Clara Cuvé ∞ ROXY Prague at Roxy
 
-Clara Cuvé ∞ ROXY Prague at Roxy on Fri 11 Sept, Prague. 1 act on the bill: Clara Cuvé. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Clara Cuvé ∞ ROXY Prague at Roxy on Fri 11 Sept, Prague. 2 acts on the bill: Clara Cuvé and RiVid. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Clara Cuvé ∞ ROXY Prague at Roxy on Fri 11 Sept, Prague. 1 act on the bill: C
 ## Line-up
 
 - Clara Cuvé
+- RiVid
 
 *Source: [soundcheck](https://soundcheck.club/e/2481394-clara-cuv-roxy-prague-at-roxy/)*

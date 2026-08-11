@@ -1,13 +1,14 @@
 # Toribio
 
-Toribio is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Toribio is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pastiche, Berlin on Fri, 14 Aug 2026.
 
-Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: Kater, Berlin on Sat 15 Aug.
+Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: Pastiche, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Pastiche | Berlin |
 | Sat, 15 Aug 2026 | Kater | Berlin |
 | Fri, 28 Aug 2026 | 24 Kitchen Street Green Room | Liverpool |
 | Sun, 30 Aug 2026 | NUMBER 90 LONDON | London |

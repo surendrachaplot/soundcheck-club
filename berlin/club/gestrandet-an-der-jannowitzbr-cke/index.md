@@ -10,7 +10,7 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | missed call · open air · edition 02 |  |
 | Fri, 14 Aug 2026 | Circular Music 'Open Air' with finest House Music with Djomby (ESP) | Djomby, Karsten Schmidt, Oliver Raumklang, Rafael |
-| Sat, 15 Aug 2026 | Onni presents: Ten Years, One Journey - Open Air | BUSSI, Cook Strummer, Hemi, ONNI, Peter Schumann, shot by stanley |
+| Sat, 15 Aug 2026 | Onni presents: Ten Years, One Journey - Open Air | BUSSI, Cook Strummer, Hemi, Max Joni, ONNI, Peter Schumann, shot by stanley |
 | Thu, 20 Aug 2026 | Afterwork Sessions with Mona Moore | Mona Moore, ganz oder gar nicht, justUS |
 | Fri, 21 Aug 2026 | PingPong #07 | Stefan Seay, UrbnMowgli, aaandscha |
 | Sat, 5 Sept 2026 | OPEN AIR DIREKT AM WASSER - FREE | Josiane, Mad Shivers, Nostro Ritmo, Philippe Autuori, Robert Owens, Æ Problæm |

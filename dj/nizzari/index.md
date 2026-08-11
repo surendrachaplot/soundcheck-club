@@ -1,13 +1,14 @@
 # Nizzari
 
-Nizzari is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
+Nizzari is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Georgia Bar, Berlin on Thu, 13 Aug 2026.
 
-Nizzari is a techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside 7CIRCLE, Berlin Bunny and Boris. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
+Nizzari is a techno and electro artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside 7CIRCLE, Berlin Bunny and Boris. Next up: Georgia Bar, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Georgia Bar | Berlin |
 | Mon, 31 Aug 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

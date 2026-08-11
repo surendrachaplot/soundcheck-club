@@ -1,8 +1,8 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+RUZE is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
+RUZE is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ RUZE is a house and tech house artist tracked on soundcheck, with 114 sets logge
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 3 Oct 2026 | Marcfait | Amsterdam |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played

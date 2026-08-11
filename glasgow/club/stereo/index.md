@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Queer Black Arts Festival Afterparty with Juliana Huxtable + more" on Fri, 14 Aug 2026.
+Stereo is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Queer Black Arts Festival Afterparty with Juliana Huxtable + more" on Fri, 14 Aug 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including 4KitSake, Aderayo, Angel Cake and Babyjaii and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with line-ups including 4KitSake, Aderayo, Angel Cake and Babyjaii and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Stereo is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, wit
 | Sat, 29 Aug 2026 | Adéráyọ̀ x Stereo: Ecstasy feat. Evissimax | Aderayo, Babyjaii, Evissimax, saparilla |
 | Thu, 3 Sept 2026 | TRANSFIXXED  | 4KitSake, Angel Cake, RXVEGRL, Swedger |
 | Fri, 4 Sept 2026 | Scandal.gla x Stereo: Cortisa Star | Rahul.mp3, fUnlistenable |
+| Fri, 11 Sept 2026 | SOUND: 20 Years of Dubstep | DJ Greenman, Hometown Sound, James Hometown, T-O-D |
 | Fri, 18 Sept 2026 | Bounce 101 x Stereo | Bellarosa, saparilla |
-| Sat, 19 Sept 2026 | Danse Macabre's Sixteenth Birthday | DJ Catnip |
 
 ## Address
 

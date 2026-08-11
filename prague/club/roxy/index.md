@@ -15,7 +15,7 @@ Roxy is a music venue in Prague listed on soundcheck. 16 upcoming nights, with l
 | Fri, 28 Aug 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
 | Sat, 29 Aug 2026 | TECHNO[RAVE] #14: KOBØV INVITES ∞ ROXY Prague | KOBOV, Nonalis |
 | Fri, 4 Sept 2026 | SICKICK ∞ ROXY Prague |  |
-| Fri, 11 Sept 2026 | Clara Cuvé ∞ ROXY Prague | Clara Cuvé |
+| Fri, 11 Sept 2026 | Clara Cuvé ∞ ROXY Prague | Clara Cuvé, RiVid |
 | Fri, 25 Sept 2026 | Lilly Palmer ∞ ROXY Prague | Lilly Palmer |
 | Sat, 26 Sept 2026 | Andy C & MC Tonn Piper ∞ ROXY Prague | Andy C, Tonn Piper |
 

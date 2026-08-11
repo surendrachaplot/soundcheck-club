@@ -1,6 +1,6 @@
 # INVITES: LB aka LABAT at Faust
 
-INVITES: LB aka LABAT at Faust on Sun 16 Aug, Seoul. 5 acts on the bill: BootyWagon, LB aka LABAT, Nocturnal (KR) and Suman and 1 more. Preview the line-up and save it on soundcheck.
+INVITES: LB aka LABAT at Faust on Sun 16 Aug, Seoul. 6 acts on the bill: BootyWagon, LB aka LABAT, Mars Parck and Nocturnal (KR) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ INVITES: LB aka LABAT at Faust on Sun 16 Aug, Seoul. 5 acts on the bill: BootyWa
 
 - BootyWagon
 - LB aka LABAT
+- Mars Parck
 - Nocturnal (KR)
 - Suman
 - TYSN

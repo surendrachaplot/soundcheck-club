@@ -1,6 +1,6 @@
-# FERAl Fringe at The Mash House
+# FERAL Fringe at The Mash House
 
-FERAl Fringe at The Mash House on Fri 14 Aug, Edinburgh. Preview the line-up and save it on soundcheck.
+FERAL Fringe at The Mash House on Fri 14 Aug, Edinburgh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

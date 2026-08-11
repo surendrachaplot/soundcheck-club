@@ -10,11 +10,11 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | DYNMO 002:presents | DJ John Paul |
 | Sat, 15 Aug 2026 | RAVAGE PRESENTS FULL THROTTLE | Costy, Gibby, TYZM |
-| Sat, 15 Aug 2026 | Club 69 Selects: MDDLTN |  |
 | Fri, 21 Aug 2026 | Cell Events presents: Swanny |  |
 | Fri, 28 Aug 2026 | Scott Brown b2b Davie Forbes (Vinyl Only) | NRG Trax, Scott Brown |
 | Sat, 29 Aug 2026 | CASADURA PRESENTS: CASA CLUB69 | Aileron, COURTEZ, SAPHOS |
 | Sat, 5 Sept 2026 | DYNMO 004: presents DYNMO AGENCY SHOWCASE |  |
+| Sat, 12 Sept 2026 | Club 69 Selects: MDDLTN |  |
 
 ## Address
 

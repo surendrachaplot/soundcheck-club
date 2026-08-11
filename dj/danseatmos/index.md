@@ -1,14 +1,15 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+Danse Atmos is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
 
-Danse Atmos is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
+Danse Atmos is a house and disco artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Berkeley Suite | Glasgow |
+| Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Fri, 11 Sept 2026 | La Cheetah Club | Glasgow |
 | Thu, 29 Oct 2026 | King Tut's Wah Wah Hut | Glasgow |
 

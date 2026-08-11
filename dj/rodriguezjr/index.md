@@ -1,14 +1,15 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
+Rodriguez Jr. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
 
-Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Nick Warren, Ralf Kollmann and Francesca Lombardo. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
+Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Nick Warren, Ralf Kollmann and Francesca Lombardo. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Luz De Gas | Barcelona |
+| Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 
 ## Recently played
 

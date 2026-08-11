@@ -1,8 +1,8 @@
 # T-Man (UK)
 
-T-Man (UK) is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+T-Man (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-T-Man (UK) is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: The Cause, London on Sat 22 Aug.
+T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ T-Man (UK) is a drum & bass and bass artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Mon, 21 Sept 2026 | Hidden | Manchester |
+| Sat, 26 Sept 2026 | Hidden | Manchester |
 
 ## Recently played
 

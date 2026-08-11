@@ -1,14 +1,15 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
 
-Danny Wabbit is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 17 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: Mia Mao, Paris on Fri 28 Aug.
+Danny Wabbit is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 18 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: Mia Mao, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Mia Mao | Paris |
+| Sat, 10 Oct 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 

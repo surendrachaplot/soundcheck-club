@@ -1,13 +1,14 @@
 # Willy Soul
 
-Willy Soul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jupiter Disco, New York City on Fri, 21 Aug 2026.
+Willy Soul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
-Willy Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Greg Paulus and Nickodemus. Next up: Jupiter Disco, Newyorkcity on Fri 21 Aug.
+Willy Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Greg Paulus and Nickodemus. Next up: OXI, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | OXI | Berlin |
 | Fri, 21 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played

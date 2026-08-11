@@ -1,6 +1,6 @@
 # 25.09.2026 Echonomist presented by Pimpernel at Filmtheater Sendlinger Tor
 
-25.09.2026 Echonomist presented by Pimpernel at Filmtheater Sendlinger Tor on Fri 25 Sept, Munich. 3 acts on the bill: Echonomist, Sonson and Thomas Herb. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+25.09.2026 Echonomist presented by Pimpernel at Filmtheater Sendlinger Tor on Fri 25 Sept, Munich. 3 acts on the bill: Echonomist, Sonson and Thomas Herb. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

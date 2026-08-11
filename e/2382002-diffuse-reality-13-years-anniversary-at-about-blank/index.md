@@ -1,6 +1,6 @@
 # DIFFUSE REALITY [13 Years Anniversary] at ://about blank
 
-DIFFUSE REALITY [13 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 10 acts on the bill: Catem, CSL, Fac3less and Florist and 6 more. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY [13 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 11 acts on the bill: Catem, CSL, Fac3less and Florist and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ DIFFUSE REALITY [13 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 
 - Florist
 - Just1
 - Keanu Raves
+- Leo Wieber
 - Marcel Heese
 - Origami
 - Raw Image

@@ -1,13 +1,14 @@
 # Big Miz
 
-Big Miz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 24 Sept 2026.
+Big Miz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
-Big Miz is a house and techno artist tracked on soundcheck, with 70 sets logged across Aberdeen, Barcelona, Bristol and Edinburgh and 12 more. Often billed alongside Bessa, Hayley Zalassi and Ben Hemsley. Next up: The Berkeley Suite, Glasgow on Thu 24 Sept.
+Big Miz is a house and techno artist tracked on soundcheck, with 71 sets logged across Aberdeen, Barcelona, Bristol and Edinburgh and 12 more. Often billed alongside Bessa, Hayley Zalassi and Ben Hemsley. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Thu, 24 Sept 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played

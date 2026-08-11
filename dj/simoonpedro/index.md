@@ -1,8 +1,8 @@
 # Simoon Pedro
 
-Simoon Pedro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Simoon Pedro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
-Simoon Pedro is a house and techno artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside Juliana Branco, Leonardo Cruz DJ and GOIA AMO. Next up: The Glove That Fits, London on Sat 29 Aug.
+Simoon Pedro is a house and techno artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Juliana Branco, Leonardo Cruz DJ and GOIA AMO. Next up: The Glove That Fits, London on Sat 29 Aug.
 
 ## Upcoming shows
 

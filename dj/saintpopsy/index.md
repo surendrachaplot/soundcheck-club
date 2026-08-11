@@ -1,14 +1,15 @@
 # Saint Popsy
 
-Saint Popsy is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Saint Popsy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
-Saint Popsy is a drum & bass and electronica artist tracked on soundcheck, with 8 sets logged across Berlin and Munich. Often billed alongside Hovercat, Kenzura and MixB. Next up: Void Club, Berlin on Fri 28 Aug.
+Saint Popsy is a drum & bass and jungle artist tracked on soundcheck, with 9 sets logged across Berlin and Munich. Often billed alongside Hovercat, Kenzura and MixB. Next up: Void Club, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Void Club | Berlin |
+| Fri, 18 Sept 2026 | Cassiopeia | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # LOCAL CONNECTION: ZAREMBA, jjvisionn, Hubsond, CONCLAVE at Sekta Selekta
 
-LOCAL CONNECTION: ZAREMBA, jjvisionn, Hubsond, CONCLAVE at Sekta Selekta on Sat 22 Aug, Krakow. 2 acts on the bill: Hubsond and ZAREMBA. Tech House and Electro. Preview the line-up and save it on soundcheck.
+LOCAL CONNECTION: ZAREMBA, jjvisionn, Hubsond, CONCLAVE at Sekta Selekta on Sat 22 Aug, Krakow. 2 acts on the bill: Hubsond and ZAREMBA. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

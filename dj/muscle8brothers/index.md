@@ -10,7 +10,7 @@ MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, t
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | ZEROTOKYO | Tokyo |
 | Fri, 21 Aug 2026 | clubasia | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

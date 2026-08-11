@@ -9,7 +9,7 @@ amuwa is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Sydney |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | 303 Residents pres | Bttologic, Fedo (UA) |
 | Fri, 4 Sept 2026 | Kommuna pres. Dawidu / CMYK at 303 | CMYK, Dawidu |
-| Sat, 5 Sept 2026 | Seguim - 3 Years Anniversary! at 303 | Alex Garcia, Prince de Takicardie, Vince Void |
+| Sat, 5 Sept 2026 | Seguim - 3 Years Anniversary! with Prince de Takicardie at 303 | Alex Garcia, Prince de Takicardie, Vince Void |
 | Thu, 10 Sept 2026 | DSS! x Love Lunatics at 303 |  |
 | Fri, 11 Sept 2026 | &Friends at 303 | Downtown Sai, Michael James |
 | Sat, 12 Sept 2026 | Just Modular at 303 | Selten |

@@ -10,7 +10,7 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 136 sets l
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | The Glove That Fits | London |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Wed, 30 Sept 2026 | Konzerthaus Berlin | Berlin |

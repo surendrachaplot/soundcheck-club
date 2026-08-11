@@ -1,14 +1,15 @@
 # Jive Talk
 
-Jive Talk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Fri, 14 Aug 2026.
+Jive Talk is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Fri, 14 Aug 2026.
 
-Jive Talk is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: The Glove That Fits, London on Fri 14 Aug.
+Jive Talk is a house and electro artist tracked on soundcheck, with 67 sets logged across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: The Glove That Fits, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The Glove That Fits | London |
+| Sat, 3 Oct 2026 | Low Profile Studios | London |
 
 ## Recently played
 

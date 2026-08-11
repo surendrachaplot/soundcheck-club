@@ -10,7 +10,7 @@ Larry Cadge is a house and tech house artist tracked on soundcheck, with 51 sets
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Colour Factory | London |
 | Sun, 20 Sept 2026 | Fabwick | London |
-| Sat, 10 Oct 2026 | Colour Factory | London |
+| Sat, 17 Oct 2026 | Colour Factory | London |
 
 ## Recently played
 

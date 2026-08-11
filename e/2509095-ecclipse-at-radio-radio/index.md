@@ -1,6 +1,6 @@
 # Ecclipse at Radio Radio
 
-Ecclipse at Radio Radio on Sat 19 Sept, Amsterdam. 1 act on the bill: Cleo Grooves. Preview the line-up and save it on soundcheck.
+Ecclipse at Radio Radio on Sat 19 Sept, Amsterdam. 2 acts on the bill: Cleo Grooves and Lex Valverde. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Ecclipse at Radio Radio on Sat 19 Sept, Amsterdam. 1 act on the bill: Cleo Groov
 ## Line-up
 
 - Cleo Grooves
+- Lex Valverde
 
 *Source: [soundcheck](https://soundcheck.club/e/2509095-ecclipse-at-radio-radio/)*

@@ -1,14 +1,15 @@
 # Graziano Raffa
 
-Graziano Raffa is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at CDLC Barcelona, Barcelona on Sat, 15 Aug 2026.
+Graziano Raffa is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at CDLC Barcelona, Barcelona on Sat, 15 Aug 2026.
 
-Graziano Raffa is a progressive house and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Brisbane and Buenosaires and 6 more. Often billed alongside Hernan Cattaneo, Simply City and Danny Howells. Next up: CDLC Barcelona, Barcelona on Sat 15 Aug.
+Graziano Raffa is a progressive house and techno artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Brisbane and Buenosaires and 6 more. Often billed alongside Hernan Cattaneo, Danny Howells and Simply City. Next up: CDLC Barcelona, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | CDLC Barcelona | Barcelona |
+| Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Graziano Raffa is a progressive house and techno artist tracked on soundcheck, w
 
 ## Shares bills with
 
-Hernan Cattaneo, Simply City, Danny Howells
+Hernan Cattaneo, Danny Howells, Simply City
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grazianoraffa/)*

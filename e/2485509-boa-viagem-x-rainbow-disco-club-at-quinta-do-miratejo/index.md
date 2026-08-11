@@ -1,6 +1,6 @@
 # Boa Viagem x Rainbow Disco Club at Quinta do Miratejo
 
-Boa Viagem x Rainbow Disco Club at Quinta do Miratejo on Sat 15 Aug, Lisbon. 6 acts on the bill: Antal, Capablanca, CHIDA and DJ Caring and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Boa Viagem x Rainbow Disco Club at Quinta do Miratejo on Sat 15 Aug, Lisbon. 7 acts on the bill: Antal, ANYA JAVYBZ, Capablanca and CHIDA and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Boa Viagem x Rainbow Disco Club at Quinta do Miratejo on Sat 15 Aug, Lisbon. 6 a
 ## Line-up
 
 - Antal
+- ANYA JAVYBZ
 - Capablanca
 - CHIDA
 - DJ Caring

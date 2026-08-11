@@ -10,7 +10,7 @@ John Plaza is a techno and dub techno artist based in Chile, tracked on soundche
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Gare Porto | Porto |
 | Sat, 5 Sept 2026 | DUNGEON akihabara | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

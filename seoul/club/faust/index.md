@@ -10,7 +10,7 @@ Faust is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | nacht | GPG (SK), NOVA ANIMUS, Stann Lumo, Yuriko (2) |
 | Sat, 15 Aug 2026 | LIBERATION | Marcus L, Minish, ROS3, hv9 (KR) |
-| Sun, 16 Aug 2026 | INVITES: LB aka LABAT | BootyWagon, LB aka LABAT, Nocturnal (KR), Suman, TYSN |
+| Sun, 16 Aug 2026 | INVITES: LB aka LABAT | BootyWagon, LB aka LABAT, Mars Parck, Nocturnal (KR), Suman, TYSN |
 | Fri, 21 Aug 2026 | nacht | Ginger (KR), Kim Bo Yeon, Marcus L, NUKiD, NUSNOOM |
 | Sat, 22 Aug 2026 | INVITES: Perc | Faacia, Mars Parck, Perc, Stann Lumo |
 

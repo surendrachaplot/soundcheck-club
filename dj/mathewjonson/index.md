@@ -10,7 +10,7 @@ Mathew Jonson is a techno and house artist tracked on soundcheck, with 138 sets 
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 30 Aug 2026 | Jardins de Joan Brossa | Barcelona |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Fri, 2 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 

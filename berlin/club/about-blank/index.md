@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | ://sektgarten x Electric Baile [free entry & open air] | Lancer (2), Robot Girl |
 | Wed, 12 Aug 2026 | ://sektgarten x sekt eclipse [free entry & open air] | Ebicake, Ligal Tamir |
-| Thu, 13 Aug 2026 | DIFFUSE REALITY [13 Years Anniversary] | CSL, Catem, Fac3less, Florist, Just1, Keanu Raves, Marcel Heese, Origami, Raw Image, Squaric |
+| Thu, 13 Aug 2026 | DIFFUSE REALITY [13 Years Anniversary] | CSL, Catem, Fac3less, Florist, Just1, Keanu Raves, Leo Wieber, Marcel Heese, Origami, Raw Image, Squaric |
 | Thu, 13 Aug 2026 | ://sektgarten x diffuse reality [free entry & open air] | Catem, Just1, Squaric |
 | Fri, 14 Aug 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
 | Fri, 14 Aug 2026 | King Kong Kicks • Indie Pop & Hypes • ://about blank Berlin |  |

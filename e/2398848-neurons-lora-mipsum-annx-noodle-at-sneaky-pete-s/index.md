@@ -1,6 +1,6 @@
 # neurons: Lora Mipsum, ANNX + noodle at Sneaky Pete's
 
-neurons: Lora Mipsum, ANNX + noodle at Sneaky Pete's on Sat 15 Aug, Edinburgh. 3 acts on the bill: ANNX, Lora Mipsum and noodle. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+neurons: Lora Mipsum, ANNX + noodle at Sneaky Pete's on Sat 15 Aug, Edinburgh. 3 acts on the bill: ANNX, Lora Mipsum and noodle. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

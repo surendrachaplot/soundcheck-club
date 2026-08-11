@@ -1,13 +1,14 @@
 # Akropolis
 
-Akropolis is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Parra for Cuva" on Thu, 8 Oct 2026.
+Akropolis is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Katarzia + support: Meowlau + Vojtik" on Wed, 30 Sept 2026.
 
-Akropolis is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including Digitalism and Parra for Cuva. Browse upcoming dates, start times and who's playing. Kubelíkova 1548/27, 130 00 Prague 3, Czech Republic.
+Akropolis is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including Digitalism and Parra for Cuva. Browse upcoming dates, start times and who's playing. Kubelíkova 1548/27, 130 00 Prague 3, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Katarzia + support: Meowlau + Vojtik |  |
 | Thu, 8 Oct 2026 | Parra for Cuva | Parra for Cuva |
 | Sat, 10 Oct 2026 | Digitalism: Optimism | Digitalism |
 

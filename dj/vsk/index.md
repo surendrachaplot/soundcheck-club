@@ -1,13 +1,14 @@
 # VSK
 
-VSK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
+VSK is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Forte Antenne, Rome on Sat, 15 Aug 2026.
 
-VSK is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 13 more. Often billed alongside Tommy Four Seven, Cristian Marras and Tauceti (FR). Next up: Lehmann Club, Stuttgart on Sat 22 Aug.
+VSK is a techno and acid artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 13 more. Often billed alongside Tommy Four Seven, Cristian Marras and Tauceti (FR). Next up: Forte Antenne, Rome on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Forte Antenne | Rome |
 | Sat, 22 Aug 2026 | Lehmann Club | Stuttgart |
 
 ## Recently played

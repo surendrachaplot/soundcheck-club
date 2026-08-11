@@ -14,7 +14,7 @@ Thekla is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with
 | Fri, 2 Oct 2026 | Dazed Muzic presents: Badger | BEN GERRANS, Badger (UK) |
 | Fri, 9 Oct 2026 | Dazed Muzic presents: Oh My Rosh & Friends |  |
 | Fri, 30 Oct 2026 | Charlie Tee presents: UNITEE [Halloween] | Charlie Tee, goddard. |
-| Fri, 6 Nov 2026 | Dazed Muzic presents: General Levy |  |
+| Fri, 6 Nov 2026 | Dazed Muzic presents: General Levy | General Levy |
 
 ## Address
 

@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - Secret Location 
 
-TBA - Secret Location is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
+TBA - Secret Location  is a music venue in London with 30 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including 550am, Amelia Holt, Arval and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location  is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 550am, Amelia Holt, Arval and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

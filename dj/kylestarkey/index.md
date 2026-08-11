@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Kyle Starkey is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 161 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets l
 | Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Hangaren | Copenhagen |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 4 Sept 2026 | block. | Dublin |
 | Sat, 5 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 5 Sept 2026 | Mondo | Madrid |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Moon Club | Bristol |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
-| Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
+| Sat, 19 Sept 2026 | SWG3 | Glasgow |
 
 ## Recently played
 

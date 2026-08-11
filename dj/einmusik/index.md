@@ -1,14 +1,15 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri, 14 Aug 2026.
+Einmusik is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri, 14 Aug 2026.
 
-Einmusik is a techno and progressive house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri 14 Aug.
+Einmusik is a techno and progressive house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 | Cologne |
+| Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Sat, 5 Sept 2026 | Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1. | Krakow |
 | Sat, 19 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 10 Oct 2026 | E1 | London |

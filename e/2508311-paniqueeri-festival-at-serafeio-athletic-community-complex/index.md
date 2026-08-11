@@ -1,10 +1,10 @@
 # Paniqueeri Festival at Serafeio Athletic & Community Complex
 
-Paniqueeri Festival at Serafeio Athletic & Community Complex on Sat 26 Sept, Athens. 1 act on the bill: Dance. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Paniqueeri Festival at Serafeio Athletic & Community Complex on Sun 27 Sept, Athens. 1 act on the bill: Dance. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Sun, 27 Sept 2026 |
 | Venue | Serafeio Athletic & Community Complex |
 | City | Athens |
 

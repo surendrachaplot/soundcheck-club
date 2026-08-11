@@ -1,13 +1,14 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+JUNO (DE) is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
-JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 10 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
+JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 9 Oct 2026 | 99 Scott Ave | New York City |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |

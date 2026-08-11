@@ -1,14 +1,15 @@
 # Jodie Mooney
 
-Jodie Mooney is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 28 Sept 2026.
+Jodie Mooney is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 28 Sept 2026.
 
-Jodie Mooney is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits (2) and amhailt.xox. Next up: Sneaky Pete's, Edinburgh on Mon 28 Sept.
+Jodie Mooney is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits (2) and amhailt.xox. Next up: Sneaky Pete's, Edinburgh on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | Sneaky Pete's | Edinburgh |
+| Mon, 26 Oct 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 

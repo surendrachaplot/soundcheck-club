@@ -1,13 +1,14 @@
 # PRIMIT
 
-PRIMIT is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
+PRIMIT is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Shelter, Seoul on Fri, 14 Aug 2026.
 
-PRIMIT is a techno and electro artist based in South Korea, tracked on soundcheck, with 58 sets logged across Seoul. Often billed alongside Honn, AVALON and Apachi. Next up: Modeci, Seoul on Sat 15 Aug.
+PRIMIT is a techno and electro artist based in South Korea, tracked on soundcheck, with 59 sets logged across Seoul. Often billed alongside Honn, AVALON and Apachi. Next up: Shelter, Seoul on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Shelter | Seoul |
 | Sat, 15 Aug 2026 | Modeci | Seoul |
 
 ## Recently played

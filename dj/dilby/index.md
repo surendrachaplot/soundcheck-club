@@ -1,14 +1,15 @@
 # Dilby
 
-Dilby is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Dilby is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
-Dilby is a house and deep house artist based in New Zealand, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Brisbane and Frankfurt and 5 more. Often billed alongside Leah Marie, JHNS and Pornbugs. Next up: Kater, Berlin on Fri 11 Sept.
+Dilby is a deep house and house artist based in New Zealand, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brisbane and Frankfurt and 5 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Kater, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Kater | Berlin |
+| Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dilby is a house and deep house artist based in New Zealand, tracked on soundche
 
 ## Shares bills with
 
-Leah Marie, JHNS, Pornbugs
+Leah Marie, Cris-H, JHNS
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*

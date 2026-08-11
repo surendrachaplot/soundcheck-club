@@ -1,14 +1,15 @@
 # Schorli
 
-Schorli is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
+Schorli is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
 
-Schorli is a house and trance artist tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside CHOREOPHILA, Stefoon and Erosiv. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
+Schorli is a house and trance artist tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside CHOREOPHILA, Stefoon and Erosiv. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Jonny Knüppel | Berlin |
+| Sun, 13 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 

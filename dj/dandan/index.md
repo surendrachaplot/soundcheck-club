@@ -9,7 +9,7 @@ DANDAN is a techno and house artist based in Japan, tracked on soundcheck, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | MIDNIGHT EAST | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

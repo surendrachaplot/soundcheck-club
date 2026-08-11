@@ -1,13 +1,14 @@
 # PRST
 
-PRST is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Travmkinder presents" on Fri, 14 Aug 2026.
+PRST is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Donnerstrada with Veronika Amie & Jubilee" on Thu, 13 Aug 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Anna Ullrich, C.Love (2), Chris Freud and COLD ASS ICE and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Anna Ullrich, C.Love (2), Chris Freud and COLD ASS ICE and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Donnerstrada with Veronika Amie & Jubilee | Veronika Amie |
 | Fri, 14 Aug 2026 | Travmkinder presents | C.Love (2), Frau Hofmann, MJULA, Travmkind |
 | Sat, 15 Aug 2026 | Travmkinder Vol.2 | C.Love (2), Frau Hofmann, MJULA, ONINE, Travmkind |
 | Fri, 21 Aug 2026 | EYES 001 | Dj Babatr, Yas Reven |

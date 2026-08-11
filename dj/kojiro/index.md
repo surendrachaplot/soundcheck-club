@@ -1,14 +1,14 @@
 # Kojiro
 
-Kojiro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    , Tokyo on Fri, 11 Sept 2026.
+Kojiro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Tokyo on Fri, 11 Sept 2026.
 
-Kojiro is a techno and house artist based in Japan, tracked on soundcheck, with 93 sets logged across Osaka and Tokyo. Often billed alongside Taichi Kawahira, DANDAN and PUSTER. Next up: TBA -    , Tokyo on Fri 11 Sept.
+Kojiro is a techno and house artist based in Japan, tracked on soundcheck, with 93 sets logged across Osaka and Tokyo. Often billed alongside Taichi Kawahira, DANDAN and PUSTER. Next up: TBA -    Kodamanomori Camp Ground, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Risa Taniguchi is a techno and house artist tracked on soundcheck, with 112 sets
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 6 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played

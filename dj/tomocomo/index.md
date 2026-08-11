@@ -9,7 +9,7 @@ Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | 7th Floor | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Mon, 21 Sept 2026 | Ooba Camping Village | Tokyo |
 
 ## Recently played

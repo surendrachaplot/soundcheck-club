@@ -1,13 +1,14 @@
 # Pseudobaul
 
-Pseudobaul is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Volnost, Seoul on Thu, 20 Aug 2026.
+Pseudobaul is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Paper, Seoul on Sat, 15 Aug 2026.
 
-Pseudobaul is a minimal and house artist based in South Korea, tracked on soundcheck, with 93 sets logged across Seoul. Often billed alongside Haemi Park, DJ Funny and SINAHILL. Next up: Volnost, Seoul on Thu 20 Aug.
+Pseudobaul is a house and minimal artist based in South Korea, tracked on soundcheck, with 94 sets logged across Seoul. Often billed alongside Haemi Park, DJ Funny and SINAHILL. Next up: Paper, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Paper | Seoul |
 | Thu, 20 Aug 2026 | Volnost | Seoul |
 
 ## Recently played

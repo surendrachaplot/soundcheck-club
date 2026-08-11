@@ -9,7 +9,7 @@ Autogenesis is a techno and psytrance artist based in Australia, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Hausmania | Oslo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

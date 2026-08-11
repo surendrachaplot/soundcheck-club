@@ -12,7 +12,7 @@ DJ Yazi is a techno and house artist based in Japan, tracked on soundcheck, with
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 22 Aug 2026 | HVEN | Tokyo |
 | Sat, 5 Sept 2026 | 宀 Club | Hong Kong |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

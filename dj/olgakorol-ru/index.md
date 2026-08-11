@@ -1,14 +1,15 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Olga Korol is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
-Olga Korol is a house and minimal artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: St Brides Church, Liverpool on Sat 22 Aug.
+Olga Korol is a house and minimal artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | St Brides Church | Liverpool |
+| Sat, 5 Sept 2026 | Distrikt | Leeds |
 
 ## Recently played
 

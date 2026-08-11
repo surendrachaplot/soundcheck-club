@@ -1,14 +1,14 @@
 # AMG SAIMURA (TECHVANE)
 
-AMG SAIMURA (TECHVANE) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    , Tokyo on Fri, 11 Sept 2026.
+AMG SAIMURA (TECHVANE) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Tokyo on Fri, 11 Sept 2026.
 
-AMG SAIMURA (TECHVANE) is a techno and acid artist tracked on soundcheck, with 50 sets logged across Osaka and Tokyo. Often billed alongside Kojiro, Remi Ohsugi and Ryusei Sato. Next up: TBA -    , Tokyo on Fri 11 Sept.
+AMG SAIMURA (TECHVANE) is a techno and acid artist tracked on soundcheck, with 50 sets logged across Osaka and Tokyo. Often billed alongside Kojiro, Remi Ohsugi and Ryusei Sato. Next up: TBA -    Kodamanomori Camp Ground, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

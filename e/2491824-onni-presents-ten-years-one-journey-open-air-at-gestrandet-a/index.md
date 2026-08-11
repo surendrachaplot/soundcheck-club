@@ -1,6 +1,6 @@
 # Onni presents: Ten Years, One Journey - Open Air at Gestrandet An Der Jannowitzbrücke
 
-Onni presents: Ten Years, One Journey - Open Air at Gestrandet An Der Jannowitzbrücke on Sat 15 Aug, Berlin. 6 acts on the bill: BUSSI, Cook Strummer, Hemi and ONNI and 2 more. Preview the line-up and save it on soundcheck.
+Onni presents: Ten Years, One Journey - Open Air at Gestrandet An Der Jannowitzbrücke on Sat 15 Aug, Berlin. 7 acts on the bill: BUSSI, Cook Strummer, Hemi and Max Joni and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Onni presents: Ten Years, One Journey - Open Air at Gestrandet An Der Jannowitzb
 - BUSSI
 - Cook Strummer
 - Hemi
+- Max Joni
 - ONNI
 - Peter Schumann
 - shot by stanley

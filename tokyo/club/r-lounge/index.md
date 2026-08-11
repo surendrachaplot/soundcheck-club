@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "秋葉原重工 - Akihabara Heavy Industry Inc. Shibuya Branch #15" on Tue, 11 Aug 2026.
+R Lounge is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "秋葉原重工 - Akihabara Heavy Industry Inc. Shibuya Branch #15" on Tue, 11 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 

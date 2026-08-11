@@ -1,8 +1,8 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Cherry on Top" on Sat, 15 Aug 2026.
+The Jam Jar is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Cherry on Top" on Sat, 15 Aug 2026.
 
-The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Fulu Mizik, Girls of the Internet and Tully. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
+The Jam Jar is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including Fulu Mizik, Girls of the Internet, Rukus (2) and Tully. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights,
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Cherry on Top | Tully |
 | Thu, 27 Aug 2026 | Fulu Miziki | Fulu Mizik |
+| Sat, 29 Aug 2026 | Terrain: 'Bangers Without Borders' RUKUS takeover feat. FFINN | Rukus (2) |
 | Fri, 6 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
 
 ## Address

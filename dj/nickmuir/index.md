@@ -1,8 +1,8 @@
 # Nick Muir
 
-Nick Muir is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
+Nick Muir is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
 
-Nick Muir is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Bristol, Buenosaires and Glasgow and 2 more. Often billed alongside Industry Standard, Grant McKay and Lloyd Barwood. Next up: The Horse & Groom, London on Sat 5 Sept.
+Nick Muir is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Buenosaires and Glasgow and 2 more. Often billed alongside Industry Standard, Grant McKay and Elliot Moriarty. Next up: The Horse & Groom, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nick Muir is a progressive house and techno artist based in United Kingdom, trac
 | Sat, 5 Sept 2026 | The Horse & Groom | London |
 | Sat, 12 Sept 2026 | TBA - Complejo Los Leones, Carlos Keen | Buenos Aires |
 | Sat, 19 Sept 2026 | After Dark | Bristol |
+| Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Nick Muir is a progressive house and techno artist based in United Kingdom, trac
 
 ## Shares bills with
 
-Industry Standard, Grant McKay, Lloyd Barwood
+Industry Standard, Grant McKay, Elliot Moriarty
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*

@@ -1,8 +1,8 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
+Guy J is a Progressive House and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
 
-Guy J is a progressive house and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Seaseaclub Barcelona, Barcelona on Fri 14 Aug.
+Guy J is a progressive house and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Seaseaclub Barcelona, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Guy J is a progressive house and house artist tracked on soundcheck, with 124 se
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Thu, 22 Oct 2026 | Ijland | Amsterdam |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Sun, 25 Oct 2026 | Bridge Gardens | Glasgow |
 | Sat, 7 Nov 2026 | Digital | Newcastle |
 
 ## Recently played

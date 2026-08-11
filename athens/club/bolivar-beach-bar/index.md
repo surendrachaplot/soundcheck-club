@@ -1,8 +1,8 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kevin de Vries I Sat Aug 15" on Sat, 15 Aug 2026.
+Bolivar Beach Bar is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kevin de Vries I Sat Aug 15" on Sat, 15 Aug 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 9 upcoming ni
 | Thu, 27 Aug 2026 | Mayans with Âme Live I Thu Aug 27 | DjSteph, Rezo (2), Âme |
 | Fri, 28 Aug 2026 | Caiiro b3b Da Capo b3b Enoo Napa I Fri Aug 28 | Caiiro, Da Capo, Enoo Napa |
 | Sat, 29 Aug 2026 | Enrico Sangiuliano I Sama' Abdulhadi Ι Sat 29 Aug | Enrico Sangiuliano, Manolaco, Sama' Abdulhadi |
+| Thu, 10 Sept 2026 | Mayans with Dave Seaman I Thu Sep 10 | Dave Seaman, DjSteph |
 | Sat, 12 Sept 2026 | Pan-Pot I Sat Sep 12 | DjSteph, Pan-Pot, Steve Sai |
 | Sat, 19 Sept 2026 | Faithless Dj Set I Sat Sep 19 | Sister Bliss |
 | Sat, 26 Sept 2026 | Drumcode Athens  I Sat Sep 26 | Adam Beyer, Brina Knauss, Ilario Alicante, Konstantin Sibold |

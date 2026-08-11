@@ -1,13 +1,14 @@
 # Rabih Beaini
 
-Rabih Beaini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Panke, Berlin on Wed, 9 Sept 2026.
+Rabih Beaini is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pastiche, Berlin on Fri, 21 Aug 2026.
 
-Rabih Beaini is an experimental and electronica artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Cork and Krakow and 3 more. Often billed alongside Mieko Suzuki, Assyouti and Deadbeat. Next up: Panke, Berlin on Wed 9 Sept.
+Rabih Beaini is an experimental and electronica artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Cork and Krakow and 3 more. Often billed alongside Mieko Suzuki, Assyouti and Deadbeat. Next up: Pastiche, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Pastiche | Berlin |
 | Wed, 9 Sept 2026 | Panke | Berlin |
 
 ## Recently played

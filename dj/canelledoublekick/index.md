@@ -1,14 +1,15 @@
 # Canelle Doublekick
 
-Canelle Doublekick is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+Canelle Doublekick is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
-Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
+Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Grelle Forelle | Vienna |
+| Sat, 19 Sept 2026 | Rex Club | Paris |
 
 ## Recently played
 

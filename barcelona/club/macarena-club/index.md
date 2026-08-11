@@ -10,7 +10,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 21 upcoming ni
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Bridge48 | Alex Blaze |
 | Wed, 12 Aug 2026 | Mise en Place | MAF |
-| Thu, 13 Aug 2026 | Magnolia | NUUP, marta aramini |
+| Thu, 13 Aug 2026 | Magnolia presents: NUUP & marta aramini | NUUP, marta aramini |
 | Fri, 14 Aug 2026 | Unnamed | Amadori, Frucula, Lea Corio, Marvio |
 | Sat, 15 Aug 2026 | Tempesta Music | Dj Kosmos, Mr. B |
 | Sun, 16 Aug 2026 | Move Your Body |  |

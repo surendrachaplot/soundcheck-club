@@ -1,8 +1,8 @@
 # DJ Brockie
 
-DJ Brockie is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+DJ Brockie is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
-DJ Brockie is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: Brixton Jamm, London on Fri 14 Aug.
+DJ Brockie is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: Brixton Jamm, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Brockie is a drum & bass and jungle artist tracked on soundcheck, with 64 set
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Brixton Jamm | London |
 | Sun, 30 Aug 2026 | Lvls | London |
+| Sat, 26 Sept 2026 | Hidden | Manchester |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played

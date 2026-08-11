@@ -9,7 +9,7 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 98 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Mitsuki | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Sat, 26 Sept 2026 | Saloon | Tokyo |
 
 ## Recently played

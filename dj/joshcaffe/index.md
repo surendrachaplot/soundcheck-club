@@ -1,8 +1,8 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Josh Caffé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
-Josh Caffé is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 38 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Kelvedon Hall, London on Fri 14 Aug.
+Josh Caffé is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 38 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Josh Caffé is a house and techno artist tracked on soundcheck, with 145 sets lo
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Silpagare
 
-Silpagare is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Silpagare is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
-Silpagare is a techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside DREIAN, Deranged and Gianmarco Gazzillo. Next up: Gaffe, London on Sat 15 Aug.
+Silpagare is a techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside DREIAN, Deranged and Desiree'. Next up: Gaffe, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Gaffe | London |
+| Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Silpagare is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 ## Shares bills with
 
-DREIAN, Deranged, Gianmarco Gazzillo
+DREIAN, Deranged, Desiree'
 
 *Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*

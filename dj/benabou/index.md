@@ -1,14 +1,15 @@
 # Benabou
 
-Benabou is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
+Benabou is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
 
-Benabou is a techno and electro artist based in France, tracked on soundcheck, with 28 sets logged across Berlin, Lyon and Paris. Often billed alongside Zadig, future.666 and ÜBERKIKZ. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
+Benabou is a techno and electro artist based in France, tracked on soundcheck, with 29 sets logged across Berlin, Lyon and Paris. Often billed alongside Zadig, future.666 and ÜBERKIKZ. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Tresor / Globus | Berlin |
+| Sat, 29 Aug 2026 | La Gare / Le Gore | Paris |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

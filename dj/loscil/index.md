@@ -1,13 +1,14 @@
 # Loscil
 
-Loscil is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Loscil is a Ambient and Drone artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Glad Cafe, Glasgow on Mon, 7 Sept 2026.
 
-Loscil is an ambient and drone artist based in Canada, tracked on soundcheck, with 11 sets logged across Athens, Basel, Berlin and Brisbane and 5 more. Often billed alongside Lawrence English, Patricia Wolf and BLUME. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+Loscil is an ambient and drone artist based in Canada, tracked on soundcheck, with 12 sets logged across Athens, Basel, Berlin and Brisbane and 6 more. Often billed alongside Lawrence English, Patricia Wolf and BLUME. Next up: The Glad Cafe, Glasgow on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 7 Sept 2026 | The Glad Cafe | Glasgow |
 | Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Initialize at Gallery
 
-Initialize at Gallery on Fri 30 Oct, London. Techno. Preview the line-up and save it on soundcheck.
+Initialize at Gallery on Fri 30 Oct, London. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

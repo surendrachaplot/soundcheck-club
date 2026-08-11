@@ -1,8 +1,8 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
+Baldo is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
 
-Baldo is a house and acid artist tracked on soundcheck, with 78 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Club der Visionaere, Berlin on Sat 22 Aug.
+Baldo is a house and acid artist tracked on soundcheck, with 79 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Club der Visionaere, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Baldo is a house and acid artist tracked on soundcheck, with 78 sets logged acro
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 5 Sept 2026 | Cadavra | Madrid |
+| Sun, 11 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Markov (cult)
 
-Markov (cult) is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
+Markov (cult) is a Deep House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
 
-Markov (cult) is a minimal and deep house artist based in Portugal, tracked on soundcheck, with 29 sets logged across Budapest and Lisbon. Often billed alongside Eric Furtado, Kristina (2) and Alex Arnout. Next up: Ministerium Club, Lisbon on Fri 28 Aug.
+Markov (cult) is a deep house and minimal techno artist based in Portugal, tracked on soundcheck, with 30 sets logged across Budapest and Lisbon. Often billed alongside Eric Furtado, Kristina (2) and Alex Arnout. Next up: Ministerium Club, Lisbon on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ministerium Club | Lisbon |
+| Sat, 29 Aug 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played
 

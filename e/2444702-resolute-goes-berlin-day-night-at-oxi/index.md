@@ -1,6 +1,6 @@
 # ReSolute goes Berlin (Day & Night) at OXI
 
-ReSolute goes Berlin (Day & Night) at OXI on Fri 14 Aug, Berlin. 6 acts on the bill: Mari.te, Melchior Productions Ltd, O.BEE and Rasho and 2 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+ReSolute goes Berlin (Day & Night) at OXI on Fri 14 Aug, Berlin. 10 acts on the bill: Danny Daze, Mari.te, Mayell and Melchior Productions Ltd and 6 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,15 @@ ReSolute goes Berlin (Day & Night) at OXI on Fri 14 Aug, Berlin. 6 acts on the b
 
 ## Line-up
 
+- Danny Daze
 - Mari.te
+- Mayell
 - Melchior Productions Ltd
 - O.BEE
 - Rasho
 - Tomas Station
+- Will Renuart
+- Willy Soul
 - XDB
 
 *Source: [soundcheck](https://soundcheck.club/e/2444702-resolute-goes-berlin-day-night-at-oxi/)*

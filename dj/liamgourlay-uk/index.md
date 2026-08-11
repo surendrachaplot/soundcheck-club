@@ -1,14 +1,15 @@
 # Gourlay
 
-Gourlay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
+Gourlay is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
 
-Gourlay is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: Sneaky Pete's, Edinburgh on Tue 18 Aug.
+Gourlay is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: Sneaky Pete's, Edinburgh on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | Sneaky Pete's | Edinburgh |
+| Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 
 ## Recently played
 

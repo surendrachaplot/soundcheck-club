@@ -9,7 +9,7 @@ Rickey Shannon is a techno and tech house artist based in Japan, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | WOMB | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

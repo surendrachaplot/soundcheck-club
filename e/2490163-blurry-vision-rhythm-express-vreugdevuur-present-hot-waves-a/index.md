@@ -1,6 +1,6 @@
 # Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves at Coco Boule
 
-Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves at Coco Boule on Sat 22 Aug, Berlin. 6 acts on the bill: CBR (Berlin), DJ Westfa, Laurent Lorenzo and Otal and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves at Coco Boule on Sat 22 Aug, Berlin. 7 acts on the bill: CBR (Berlin), DJ Westfa, Laurent Lorenzo and Otal and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves at Coco Boule on 
 - DJ Westfa
 - Laurent Lorenzo
 - Otal
+- Running Hot
 - SELESSA T.
 - Viénce
 

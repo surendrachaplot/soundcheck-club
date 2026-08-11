@@ -1,6 +1,6 @@
 # MERGER at Plattenvereinigung
 
-MERGER at Plattenvereinigung on Sun 16 Aug, Berlin. 4 acts on the bill: Aaronovsky, Carl Luis, Eleftheria and Giouann. Bass and Dub. Preview the line-up and save it on soundcheck.
+MERGER at Plattenvereinigung on Sun 16 Aug, Berlin. 5 acts on the bill: Aaronovsky, Afidissima, Carl Luis and Eleftheria and 1 more. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MERGER at Plattenvereinigung on Sun 16 Aug, Berlin. 4 acts on the bill: Aaronovs
 ## Line-up
 
 - Aaronovsky
+- Afidissima
 - Carl Luis
 - Eleftheria
 - Giouann

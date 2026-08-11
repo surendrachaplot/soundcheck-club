@@ -10,7 +10,7 @@ michika is a techno and house artist based in Japan, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Enter Shibuya | Tokyo |
 | Sat, 29 Aug 2026 | Enter Shibuya | Tokyo |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played

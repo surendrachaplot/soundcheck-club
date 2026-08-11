@@ -1,14 +1,14 @@
 # Hybrid Leisureland
 
-Hybrid Leisureland is a Ambient and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    , Tokyo on Fri, 11 Sept 2026.
+Hybrid Leisureland is a Ambient and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Tokyo on Fri, 11 Sept 2026.
 
-Hybrid Leisureland is an ambient and psytrance artist based in Japan, tracked on soundcheck, with 4 sets logged across Amsterdam and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Autogenesis and DANA NADA. Next up: TBA -    , Tokyo on Fri 11 Sept.
+Hybrid Leisureland is an ambient and psytrance artist based in Japan, tracked on soundcheck, with 4 sets logged across Amsterdam and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Autogenesis and DANA NADA. Next up: TBA -    Kodamanomori Camp Ground, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

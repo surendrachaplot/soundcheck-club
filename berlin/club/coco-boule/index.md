@@ -9,7 +9,7 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Discovery Sessions: Jay de Lys | Antss, Fabe, Jay de Lys |
-| Sat, 22 Aug 2026 | Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves | CBR (Berlin), DJ Westfa, Laurent Lorenzo, Otal, SELESSA T., Viénce |
+| Sat, 22 Aug 2026 | Blurry Vision, Rhythm Express & Vreugdevuur present: Hot Waves | CBR (Berlin), DJ Westfa, Laurent Lorenzo, Otal, Running Hot, SELESSA T., Viénce |
 
 ## Address
 

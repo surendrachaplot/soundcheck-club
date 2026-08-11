@@ -1,8 +1,8 @@
 # txybandi
 
-txybandi is a Bass and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - TUNA, Rakpart, Budapest on Sun, 16 Aug 2026.
+txybandi is a Hip-Hop and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - TUNA, Rakpart, Budapest on Sun, 16 Aug 2026.
 
-txybandi is a bass and afrobeats artist based in Hungary, tracked on soundcheck, with 41 sets logged across Budapest. Often billed alongside kornel (fr), baeker and SHUTDOWN. Next up: TBA - TUNA, Rakpart, Budapest on Sun 16 Aug.
+txybandi is a hip-hop and bass artist based in Hungary, tracked on soundcheck, with 42 sets logged across Budapest. Often billed alongside kornel (fr), baeker and SHUTDOWN. Next up: TBA - TUNA, Rakpart, Budapest on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ txybandi is a bass and afrobeats artist based in Hungary, tracked on soundcheck,
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | TBA - TUNA, Rakpart | Budapest |
 | Wed, 19 Aug 2026 | Pontoon Budapest | Budapest |
+| Wed, 19 Aug 2026 | TBA - Teufel, Nyolcésfél | Budapest |
 
 ## Recently played
 

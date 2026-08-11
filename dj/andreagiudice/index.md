@@ -9,7 +9,7 @@ Andrea Giudice is a house and tech house artist tracked on soundcheck, with 103 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Colour Factory | London |
-| Sat, 10 Oct 2026 | Colour Factory | London |
+| Sat, 17 Oct 2026 | Colour Factory | London |
 
 ## Recently played
 

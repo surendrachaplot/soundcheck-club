@@ -1,14 +1,15 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+Nastya Muravyova is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
-Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Fuchs2, Prague on Sat 15 Aug.
+Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 96 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Fuchs2, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played

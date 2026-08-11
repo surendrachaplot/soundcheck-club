@@ -1,6 +1,6 @@
 # Indiskret Berlin at Ritter Butzke
 
-Indiskret Berlin at Ritter Butzke on Fri 28 Aug, Berlin. 7 acts on the bill: Concentio, Confred, DOS and Le TIZI and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Indiskret Berlin at Ritter Butzke on Fri 28 Aug, Berlin. 8 acts on the bill: Concentio, Confred, DOS and DOS (DE) and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Indiskret Berlin at Ritter Butzke on Fri 28 Aug, Berlin. 7 acts on the bill: Con
 - Concentio
 - Confred
 - DOS
+- DOS (DE)
 - Le TIZI
 - Marius Holm
 - Rabauke

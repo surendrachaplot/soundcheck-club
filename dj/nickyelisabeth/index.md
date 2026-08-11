@@ -1,14 +1,15 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
+Nicky Elisabeth is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
 
-Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Rezident and Jody Wisternoff. Next up: Thuishaven, Amsterdam on Sat 22 Aug.
+Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Rezident and Jody Wisternoff. Next up: Thuishaven, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
+| Sat, 29 Aug 2026 | SAGE | Berlin |
 | Sat, 12 Sept 2026 | Colorado Charlie | The Hague |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |

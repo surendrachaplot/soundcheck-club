@@ -9,7 +9,7 @@ Kuniyuki is a house and techno artist tracked on soundcheck, with 67 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 
 ## Recently played

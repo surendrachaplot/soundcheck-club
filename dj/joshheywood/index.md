@@ -9,7 +9,7 @@ Josh Heywood is a techno and house artist tracked on soundcheck, with 56 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Timber Yard | Melbourne |
-| Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
 
 ## Recently played
 

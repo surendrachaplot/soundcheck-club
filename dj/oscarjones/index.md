@@ -1,8 +1,8 @@
 # Oscar Jones
 
-Oscar Jones is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Last Arch, London on Sun, 16 Aug 2026.
+Oscar Jones is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Last Arch, London on Sun, 16 Aug 2026.
 
-Oscar Jones is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds, London and Zurich. Often billed alongside Mortalyf, Sam Pratt and Gianluca Felline. Next up: Last Arch, London on Sun 16 Aug.
+Oscar Jones is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds, London and Zurich. Often billed alongside Mortalyf, Sam Pratt and Gianluca Felline. Next up: Last Arch, London on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oscar Jones is a minimal and house artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Last Arch | London |
 | Sat, 29 Aug 2026 | The Glove That Fits | London |
+| Sat, 29 Aug 2026 | TBA - Secret Location | London |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ SAGE is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | SPIN Open Air | Daisy Weweh, Ede, Fritz Kalkbrenner, KENZA KAYATI, Le TIZI, MUKKIMIAU, Swimming Paul, Tripolism |
-| Sat, 29 Aug 2026 | Christian Löffler Open Air Berlin | Christian Löffler |
+| Sat, 29 Aug 2026 | Christian Löffler Open Air Berlin | Christian Löffler, Mathilde Nordberg, Nicky Elisabeth, sue:ann |
 | Sun, 30 Aug 2026 | Kinky Beach Festival | Alyne, Bonq, CLAESSENS, Diana May, Epicx, Jakob Lesch, Miss Unleashed, Monty, Nat SuPrise, ROBSCH, Wiebe Roose |
 | Sat, 5 Sept 2026 | Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson | Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson |
 

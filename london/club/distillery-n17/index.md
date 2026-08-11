@@ -14,7 +14,7 @@ Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nigh
 | Sat, 29 Aug 2026 | INFERNO: The Red Summer |  |
 | Fri, 4 Sept 2026 | Roots On The Corner #44. Shere Khan Sound System meets Jah Messenjah Sound System | Shere Khan |
 | Sat, 5 Sept 2026 | Twilight Zone IV • Rafyx, Anchronorium • London | Freetech, Kling |
-| Fri, 11 Sept 2026 | CHARJE X P0RTAL: EQUUS DIVINE |  |
+| Fri, 11 Sept 2026 | CHARJE X P0RTAL: EQUUS DIVINE | Sid The Science Bitch, Stinny Stone |
 | Fri, 18 Sept 2026 | Planet Techno present: Biri's 50th Birthday celebration | !NN, Acerbic, Acid Steve, Billo Sama (2), Chris Liberator, DJ Birinight, DJ Kaeru Sama |
 | Sat, 19 Sept 2026 | Unmasked presents SP23 Rave - London | 69DB, Ixindamix, Madtronik, SP23 |
 | Fri, 25 Sept 2026 | Hartronika | Engineer (Live), LIZAZA, SIIIO |
