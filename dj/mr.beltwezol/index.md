@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Sun, 23 Aug 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cova Santa, Ibiza on Sun, 23 Aug 2026.
 
 Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Cova Santa, Ibiza on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 45 s
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

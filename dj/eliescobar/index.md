@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Eli Escobar is a House and Electro artist with 11 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
-Eli Escobar is a house and electro artist tracked on soundcheck, with 532 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Eli Escobar is a house and electro artist tracked on soundcheck, with 533 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 20 Aug 2026 | Gabriela | New York City |
 | Thu, 27 Aug 2026 | Gabriela | New York City |
@@ -16,12 +15,14 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 532 sets l
 | Fri, 4 Sept 2026 | House of Yes | New York City |
 | Sun, 6 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 | Mon, 7 Sept 2026 | public records | New York City |
+| Sat, 19 Sept 2026 | Floyd | Miami |
 | Fri, 2 Oct 2026 | House of Yes | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | House of Yes | New York City |
 
 ## Recently played
 
+- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Paragon, New York City — Fri, 24 Jul 2026
 - Gabriela, New York City — Thu, 23 Jul 2026
 - Le Bain, New York City — Wed, 22 Jul 2026
@@ -29,10 +30,9 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 532 sets l
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
 - Gabriela, New York City — Thu, 16 Jul 2026
 - Elsewhere, New York City — Fri, 10 Jul 2026
-- Gabriela, New York City — Thu, 9 Jul 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

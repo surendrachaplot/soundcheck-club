@@ -1,6 +1,6 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Else, Berlin on Sat, 15 Aug 2026.
+Barbara Boeing is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Else, Berlin on Sat, 15 Aug 2026.
 
 Barbara Boeing is a house and disco artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Else, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Barbara Boeing is a house and disco artist tracked on soundcheck, with 107 sets 
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

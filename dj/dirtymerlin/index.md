@@ -1,6 +1,6 @@
 # Dirty Merlin
 
-Dirty Merlin is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Que Sera, Los Angeles on Fri, 14 Aug 2026.
+Dirty Merlin is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Que Sera, Los Angeles on Fri, 14 Aug 2026.
 
 Dirty Merlin is a techno and neo perreo artist tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside BB Shaine, Alex Casillas and DJ Xboyfriend. Next up: Que Sera, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dirty Merlin is a techno and neo perreo artist tracked on soundcheck, with 10 se
 
 BB Shaine, Alex Casillas, DJ Xboyfriend
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymerlin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymerlin/)*

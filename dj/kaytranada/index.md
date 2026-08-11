@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Pacha Ibiza, Ibiza on Tue, 11 Aug 2026.
+Kaytranada is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pacha Ibiza, Ibiza on Tue, 11 Aug 2026.
 
 Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside Justice, Channel Tres and Dom Dolla. Next up: Pacha Ibiza, Ibiza on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets log
 
 Justice, Channel Tres, Dom Dolla
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

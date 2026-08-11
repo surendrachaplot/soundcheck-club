@@ -1,6 +1,6 @@
 # HVN (1)
 
-HVN (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Garrison, Toronto on Sat, 15 Aug 2026.
+HVN (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Garrison, Toronto on Sat, 15 Aug 2026.
 
 HVN (1) is a club and techno artist tracked on soundcheck, with 108 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Ard1n, Young Teesh and Litney. Next up: The Garrison, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ HVN (1) is a club and techno artist tracked on soundcheck, with 108 sets logged 
 
 Ard1n, Young Teesh, Litney
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*

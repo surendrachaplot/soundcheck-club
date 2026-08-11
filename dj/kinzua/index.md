@@ -1,6 +1,6 @@
 # Kinzua
 
-Kinzua is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Kinzua is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
 
 Kinzua is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 8 more. Often billed alongside Lena Willikens, Vladimir Ivkovic and Shinsuke Goto. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kinzua is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Lena Willikens, Vladimir Ivkovic, Shinsuke Goto
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*

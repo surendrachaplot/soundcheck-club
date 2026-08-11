@@ -1,6 +1,6 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
+Reboot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
 
 Reboot is a house and tech house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belfast and Bucharest and 13 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Reboot is a house and tech house artist tracked on soundcheck, with 57 sets logg
 
 Valenzia, Boutiq.808, Nick Curly
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*

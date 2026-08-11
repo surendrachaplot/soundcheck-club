@@ -1,13 +1,14 @@
 # San Nicola
 
-San Nicola is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
+San Nicola is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 20 Aug 2026.
 
-San Nicola is a house and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Naples and Rome. Often billed alongside Kodacci, Joe Rosh and lōrenzo. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Sept.
+San Nicola is a house and techno artist based in Italy, tracked on soundcheck, with 24 sets logged across Naples and Rome. Often billed alongside Kodacci, Joe Rosh and lōrenzo. Next up: THE MAGICK BAR, Rome on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | THE MAGICK BAR | Rome |
 | Sat, 19 Sept 2026 | TBA - Secret Location - Vesuvius Area  | Naples |
 
 ## Recently played
@@ -25,4 +26,4 @@ San Nicola is a house and techno artist based in Italy, tracked on soundcheck, w
 
 Kodacci, Joe Rosh, lōrenzo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*

@@ -1,6 +1,6 @@
 # ID
 
-ID is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Boxpark Wembley, London on Sun, 11 Oct 2026.
+ID is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Boxpark Wembley, London on Sun, 11 Oct 2026.
 
 ID is a drum & bass and bass artist tracked on soundcheck, with 29 sets logged across Birmingham, Bristol, London and Manchester and 5 more. Often billed alongside Sweets, Sub Focus and Tracksuits. Next up: Boxpark Wembley, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ ID is a drum & bass and bass artist tracked on soundcheck, with 29 sets logged a
 
 Sweets, Sub Focus, Tracksuits
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*

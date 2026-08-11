@@ -1,6 +1,6 @@
 # Somazed
 
-Somazed is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Várkert Bazár, Budapest on Sat, 15 Aug 2026.
+Somazed is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Várkert Bazár, Budapest on Sat, 15 Aug 2026.
 
 Somazed is an afro house and house artist based in Hungary, tracked on soundcheck, with 15 sets logged across Budapest. Often billed alongside Metha, Dubecticut and Lenny Lenoks. Next up: Várkert Bazár, Budapest on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Somazed is an afro house and house artist based in Hungary, tracked on soundchec
 
 Metha, Dubecticut, Lenny Lenoks
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somazed/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somazed/)*

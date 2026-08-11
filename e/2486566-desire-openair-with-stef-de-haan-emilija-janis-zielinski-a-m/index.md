@@ -1,11 +1,11 @@
-# Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m at Südbrücke
+# Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m at Südbrücke Open Air
 
-Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m at Südbrücke on Sat 15 Aug, Cologne. 8 acts on the bill: Annemalie, EMILIJA, Greta Perola and HiHat and 4 more. House. Preview the line-up and save it on soundcheck.
+Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m at Südbrücke Open Air on Sat 15 Aug, Cologne. 8 acts on the bill: Annemalie, EMILIJA, Greta Perola and HiHat and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 15 Aug 2026 |
-| Venue | Südbrücke |
+| Venue | Südbrücke Open Air |
 | City | Cologne |
 
 ## Line-up

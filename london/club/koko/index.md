@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "KOKO Electronic: Neil Frances" on Fri, 14 Aug 2026.
+KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "KOKO Electronic: Neil Frances" on Fri, 14 Aug 2026.
 
 KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Alan Dixon, Anane, Benji B and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -9,7 +9,7 @@ KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | KOKO Electronic: Neil Frances | Lulah Francs, Masha Mar, Neil Frances |
-| Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar |
+| Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar, Holly Lester, Rio Tashan |
 | Fri, 21 Aug 2026 | KOKO Electronic: Summer Closing - House & Disco |  |
 | Sat, 22 Aug 2026 | KOKO Electronic: DJ Jazzy Jeff | CARISTA, Jazzy Jeff |
 | Fri, 28 Aug 2026 | KOKO Electronic: Paco Osuna | Joëlla Jackson, Mason Collective, Paco Osuna |
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

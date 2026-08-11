@@ -1,6 +1,6 @@
 # BZZBZZ TECHNO 3 YEAR ANNIVERSARY at Schrotty
 
-BZZBZZ TECHNO 3 YEAR ANNIVERSARY at Schrotty on Fri 4 Sept, Cologne. 15 acts on the bill: Anuuk, Bounce MC, DJ SODBRENNEN and DonChoppa and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+BZZBZZ TECHNO 3 YEAR ANNIVERSARY at Schrotty on Fri 4 Sept, Cologne. 16 acts on the bill: Anuuk, Bounce MC, DJ SODBRENNEN and DonChoppa and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ BZZBZZ TECHNO 3 YEAR ANNIVERSARY at Schrotty on Fri 4 Sept, Cologne. 15 acts on 
 - HENNESY
 - HOTBOI2300
 - ICX (DE)
+- Jacky Ickx
 - NIKKI030
 - Sasuma
 - SCHMALLE

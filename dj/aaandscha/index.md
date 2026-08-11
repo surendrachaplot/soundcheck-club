@@ -1,6 +1,6 @@
 # aaandscha
 
-aaandscha is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
+aaandscha is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
 
 aaandscha is a house and downtempo artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Munich. Often billed alongside Almedina (2), Bonfante and Bunny. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ aaandscha is a house and downtempo artist based in Germany, tracked on soundchec
 
 Almedina (2), Bonfante, Bunny
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*

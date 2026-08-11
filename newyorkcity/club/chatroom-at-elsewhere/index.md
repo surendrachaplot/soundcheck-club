@@ -1,6 +1,6 @@
 # Chatroom at Elsewhere
 
-Chatroom at Elsewhere is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Chatroom: Jawshy (Yumi Zouma)" on Fri, 14 Aug 2026.
+Chatroom at Elsewhere is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Chatroom: Jawshy (Yumi Zouma)" on Fri, 14 Aug 2026.
 
 Chatroom at Elsewhere is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Zimmer. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237, USA, Brooklyn, USA.
 
@@ -16,4 +16,4 @@ Chatroom at Elsewhere is a music venue in Newyorkcity listed on soundcheck. 3 up
 
 599 Johnson Ave, Brooklyn, NY 11237, USA, Brooklyn, USA, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/chatroom-at-elsewhere/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/chatroom-at-elsewhere/)*

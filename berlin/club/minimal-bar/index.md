@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "manic.monday mit Nalin" on Mon, 10 Aug 2026.
+Minimal Bar is a music venue in Berlin with 75 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "go.play mit Chroma" on Tue, 11 Aug 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 75 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | manic.monday mit Nalin |  |
 | Tue, 11 Aug 2026 | go.play mit Chroma | Chroma |
 | Wed, 12 Aug 2026 | mittendrin mit Ian Fog |  |
 | Thu, 13 Aug 2026 | electronic.thursday mit Sciarada | Sciarada |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights,
 | Mon, 17 Aug 2026 | manic.monday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Tue, 18 Aug 2026 | go.play mit Sarah |  |
 | Wed, 19 Aug 2026 | mittendrin mit Fenoma | Fenoma |
+| Thu, 20 Aug 2026 | electronic.thursday mit CEEE | CEEE |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

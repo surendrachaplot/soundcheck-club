@@ -1,6 +1,6 @@
 # hi.fí
 
-hi.fí is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+hi.fí is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 hi.fí is a techno and club artist based in Ireland, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Meriem S, François Dulac and Miss T Delight. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ hi.fí is a techno and club artist based in Ireland, tracked on soundcheck, with
 
 Meriem S, François Dulac, Miss T Delight
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*

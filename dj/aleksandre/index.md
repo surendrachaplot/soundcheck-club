@@ -1,6 +1,6 @@
 # ALEKSANDRE
 
-ALEKSANDRE is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - SECRET LOCATION SANT MARTÍ BCN, Barcelona on Sat, 29 Aug 2026.
+ALEKSANDRE is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - SECRET LOCATION SANT MARTÍ BCN, Barcelona on Sat, 29 Aug 2026.
 
 ALEKSANDRE is a techno and hip-hop artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Madrid and Tbilisi. Often billed alongside VOID/DIVO, Jhort and ADHDaddy. Next up: TBA - SECRET LOCATION SANT MARTÍ BCN, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ALEKSANDRE is a techno and hip-hop artist based in Spain, tracked on soundcheck,
 
 VOID/DIVO, Jhort, ADHDaddy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandre/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandre/)*

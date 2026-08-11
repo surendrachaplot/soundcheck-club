@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 21 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "chroma4ever001: Dazegxd, Harmful Logic, DJ Kuroneko + MORE" on Thu, 13 Aug 2026.
+Wigwam is a music venue in Dublin with 21 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "chroma4ever001: Dazegxd, Harmful Logic, DJ Kuroneko + MORE" on Thu, 13 Aug 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming nights, with line-ups including ALPER SKR, Altern-8, Angel D'lite and BENZA and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

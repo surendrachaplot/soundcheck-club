@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
+Janeret is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
 
 Janeret is a house and minimal artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Traumer, Miroloja and Alex (ES). Next up: Sophie Festival, Malaga on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 128 sets logge
 
 Traumer, Miroloja, Alex (ES)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

@@ -1,8 +1,8 @@
 # New Young Pony Club
 
-New Young Pony Club is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+New Young Pony Club is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-New Young Pony Club is a house and club artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 2ManyDJs, Alan Braxe and Alexis Taylor. Next up: DRUMSHEDS, London on Sat 10 Oct.
+New Young Pony Club is a club and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 2ManyDJs, Alan Braxe and Alexis Taylor. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ New Young Pony Club is a house and club artist based in United Kingdom, tracked 
 
 2ManyDJs, Alan Braxe, Alexis Taylor
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newyoungponyclub/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newyoungponyclub/)*

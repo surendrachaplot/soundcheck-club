@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 10 Aug 2026.
+Francis Mercier is a Afro House and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 10 Aug.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | Santanna Mykonos | Mykonos |
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Mon, 10 Aug 2026
 - Santanna Mykonos, Mykonos — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 3 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
@@ -30,10 +31,9 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 - New City Gas, Montreal — Sat, 25 Jul 2026
 - Santanna Mykonos, Mykonos — Wed, 22 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 20 Jul 2026
-- Santanna Mykonos, Mykonos — Wed, 15 Jul 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

@@ -1,6 +1,6 @@
 # Experimental
 
-Experimental is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Society Clubhouse, Toronto on Sun, 16 Aug 2026.
+Experimental is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Society Clubhouse, Toronto on Sun, 16 Aug 2026.
 
 Experimental is an experimental and ambient artist tracked on soundcheck, with 9 sets logged across Berlin, Brussels, Denver and Leipzig and 2 more. Often billed alongside Drone (UK), Above The Shoulders and Bass. Next up: Society Clubhouse, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Experimental is an experimental and ambient artist tracked on soundcheck, with 9
 
 Drone (UK), Above The Shoulders, Bass
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/experimental-hu/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/experimental-hu/)*

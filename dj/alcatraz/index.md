@@ -1,6 +1,6 @@
 # ALCATRAZ
 
-ALCATRAZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+ALCATRAZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
 ALCATRAZ is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Burgess Park, London on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ ALCATRAZ is a techno and house artist tracked on soundcheck, with 56 sets logged
 
 DJ Gigola, MCR-T, Bauernfeind
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*

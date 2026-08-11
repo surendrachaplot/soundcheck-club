@@ -1,6 +1,6 @@
 # Bodin
 
-Bodin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+Bodin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 Bodin is a techno and house artist tracked on soundcheck, with 17 sets logged across Belgrade, Berlin, Frankfurt and Munich and 2 more. Often billed alongside Philipp Fritz, GERKE and Andi Britz. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bodin is a techno and house artist tracked on soundcheck, with 17 sets logged ac
 
 Philipp Fritz, GERKE, Andi Britz
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*

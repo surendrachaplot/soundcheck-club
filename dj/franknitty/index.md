@@ -1,6 +1,6 @@
 # Frank Nitty
 
-Frank Nitty is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 13 Aug 2026.
+Frank Nitty is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 13 Aug 2026.
 
 Frank Nitty is a house and tech house artist tracked on soundcheck, with 17 sets logged across Miami, Newyorkcity and Sanfrancisco. Often billed alongside Dj Seth Lowery, Agent Greg and Anthony Attalla. Next up: F8 1192 Folsom, Sanfrancisco on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Frank Nitty is a house and tech house artist tracked on soundcheck, with 17 sets
 
 Dj Seth Lowery, Agent Greg, Anthony Attalla
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franknitty/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franknitty/)*

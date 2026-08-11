@@ -1,6 +1,6 @@
 # Zoemalavida
 
-Zoemalavida is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar Oriente, Mexico City on Fri, 14 Aug 2026.
+Zoemalavida is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Oriente, Mexico City on Fri, 14 Aug 2026.
 
 Zoemalavida is a house and deep house artist tracked on soundcheck, with 44 sets logged across Chicago, Mexicocity, Montreal and Sanfrancisco. Often billed alongside Julia Toporek, Valeriana and Bonnz!. Next up: Bar Oriente, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Zoemalavida is a house and deep house artist tracked on soundcheck, with 44 sets
 
 Julia Toporek, Valeriana, Bonnz!
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemalavida/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemalavida/)*

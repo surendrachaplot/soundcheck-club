@@ -1,6 +1,6 @@
 # Wolfgang Amadidas
 
-Wolfgang Amadidas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Podlasie Club, Chicago on Thu, 13 Aug 2026.
+Wolfgang Amadidas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Podlasie Club, Chicago on Thu, 13 Aug 2026.
 
 Wolfgang Amadidas is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago. Often billed alongside Jeremiah Meece, Beppe Loda and Michael Serafini. Next up: Podlasie Club, Chicago on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Wolfgang Amadidas is a house and disco artist based in United States of America,
 
 Jeremiah Meece, Beppe Loda, Michael Serafini
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfgangamadidas/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfgangamadidas/)*

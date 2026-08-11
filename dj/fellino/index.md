@@ -1,6 +1,6 @@
 # Fellino
 
-Fellino is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sala El Sol, Madrid on Wed, 12 Aug 2026.
+Fellino is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sala El Sol, Madrid on Wed, 12 Aug 2026.
 
 Fellino is an acid and techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Pulpix, Alviker and JvggedDoggie. Next up: Sala El Sol, Madrid on Wed 12 Aug.
 
@@ -21,4 +21,4 @@ Fellino is an acid and techno artist based in Spain, tracked on soundcheck, with
 
 Pulpix, Alviker, JvggedDoggie
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fellino/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fellino/)*

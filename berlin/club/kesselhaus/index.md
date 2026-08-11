@@ -1,6 +1,6 @@
 # Kesselhaus
 
-Kesselhaus is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Temp Affairs w/ Jane Remover and Ninajirachi" on Wed, 19 Aug 2026.
+Kesselhaus is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Temp Affairs w/ Jane Remover and Ninajirachi" on Wed, 19 Aug 2026.
 
 Kesselhaus is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including ALCATRAZ, DJ Seinfeld, Izzy Camina and KREAM and 2 more. Browse upcoming dates, start times and who's playing. Knaackstraße 97, 10435 Berlin.
 
@@ -17,4 +17,4 @@ Kesselhaus is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 Knaackstraße 97, 10435 Berlin, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*

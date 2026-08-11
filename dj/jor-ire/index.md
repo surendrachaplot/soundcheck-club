@@ -1,6 +1,6 @@
 # JOR (IRE)
 
-JOR (IRE) is a Ghetto Tech and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Wigwam, Dublin on Sat, 15 Aug 2026.
+JOR (IRE) is a Ghetto Tech and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Wigwam, Dublin on Sat, 15 Aug 2026.
 
 JOR (IRE) is a ghetto tech and trance artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside ALPER SKR, DIEBYVEG and High Fidelity. Next up: Wigwam, Dublin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ JOR (IRE) is a ghetto tech and trance artist based in Ireland, tracked on soundc
 
 ALPER SKR, DIEBYVEG, High Fidelity
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jor-ire/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jor-ire/)*

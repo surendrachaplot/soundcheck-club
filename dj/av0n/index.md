@@ -1,6 +1,6 @@
 # Av0n
 
-Av0n is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Podlasie Club, Chicago on Sat, 15 Aug 2026.
+Av0n is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Podlasie Club, Chicago on Sat, 15 Aug 2026.
 
 Av0n is a house and deep house artist tracked on soundcheck, with 5 sets logged across Chicago and Detroit. Often billed alongside Glenn Underground, Andrew Emil and Cordell Johnson. Next up: Podlasie Club, Chicago on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Av0n is a house and deep house artist tracked on soundcheck, with 5 sets logged 
 
 Glenn Underground, Andrew Emil, Cordell Johnson
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/av0n/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/av0n/)*

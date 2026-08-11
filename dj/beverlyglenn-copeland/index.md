@@ -1,6 +1,6 @@
 # Beverly Glenn-Copeland
 
-Beverly Glenn-Copeland is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bellevue Teatret, Copenhagen on Mon, 7 Sept 2026.
+Beverly Glenn-Copeland is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bellevue Teatret, Copenhagen on Mon, 7 Sept 2026.
 
 Beverly Glenn-Copeland is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 4 sets logged across Copenhagen, Paris, Thehague and Vancouver. Often billed alongside Aaron Dilloway, Actress and Batu. Next up: Bellevue Teatret, Copenhagen on Mon 7 Sept.
 
@@ -20,4 +20,4 @@ Beverly Glenn-Copeland is an ambient and experimental artist based in United Sta
 
 Aaron Dilloway, Actress, Batu
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlyglenn-copeland/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlyglenn-copeland/)*

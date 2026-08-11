@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Echostage, Washington DC on Fri, 23 Oct 2026.
+Chris Lorenzo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Echostage, Washington DC on Fri, 23 Oct 2026.
 
 Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Chris Lake, Eats Everything and Eli & Fur. Next up: Echostage, Washingtondc on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 50 se
 
 Chris Lake, Eats Everything, Eli & Fur
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

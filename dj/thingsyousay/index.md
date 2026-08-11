@@ -1,14 +1,15 @@
 # Things You Say
 
-Things You Say is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sunset at EDITION, Los Angeles on Sat, 15 Aug 2026.
+Things You Say is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sunset at EDITION, Los Angeles on Sat, 15 Aug 2026.
 
-Things You Say is a house and disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and Losangeles. Often billed alongside Heidi Lawden, Masha Mar and Stacy Christine. Next up: Sunset at EDITION, Losangeles on Sat 15 Aug.
+Things You Say is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Berlin and Losangeles. Often billed alongside Heidi Lawden, Masha Mar and Stacy Christine. Next up: Sunset at EDITION, Losangeles on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Sunset at EDITION | Los Angeles |
+| Sat, 29 Aug 2026 | TBA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Things You Say is a house and disco artist based in United States of America, tr
 
 Heidi Lawden, Masha Mar, Stacy Christine
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thingsyousay/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thingsyousay/)*

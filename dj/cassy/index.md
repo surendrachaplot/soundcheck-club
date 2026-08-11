@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Cassy is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 160 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Carlos Valdes, Anja Schneider and Chris Stussy. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -32,4 +32,4 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Carlos Valdes, Anja Schneider, Chris Stussy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

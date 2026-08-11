@@ -1,6 +1,6 @@
 # Monsai
 
-Monsai is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
+Monsai is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
 
 Monsai is a house and uk funky artist tracked on soundcheck, with 18 sets logged across Berlin and Madrid. Often billed alongside anna G, Lobo (DE) and Kat_Es. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Monsai is a house and uk funky artist tracked on soundcheck, with 18 sets logged
 
 anna G, Lobo (DE), Kat_Es
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsai/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsai/)*

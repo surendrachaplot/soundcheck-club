@@ -1,6 +1,6 @@
 # Charmeine
 
-Charmeine is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bonus Parkorman, Istanbul on Sun, 16 Aug 2026.
+Charmeine is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bonus Parkorman, Istanbul on Sun, 16 Aug 2026.
 
 Charmeine is a house and afro house artist based in Turkey, tracked on soundcheck, with 25 sets logged across Barcelona, Ibiza, Istanbul and London and 2 more. Often billed alongside BLOND:ISH, Dorian Craft and MAGA. Next up: Bonus Parkorman, Istanbul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Charmeine is a house and afro house artist based in Turkey, tracked on soundchec
 
 BLOND:ISH, Dorian Craft, MAGA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*

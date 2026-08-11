@@ -1,6 +1,6 @@
 # ANABELEN
 
-ANABELEN is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
+ANABELEN is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
 
 ANABELEN is a tech house and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside demenz, 120 max and Cristobal ON. Next up: Mad Radio Miami, Miami on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ ANABELEN is a tech house and house artist based in United States of America, tra
 
 demenz, 120 max, Cristobal ON
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelen/)*

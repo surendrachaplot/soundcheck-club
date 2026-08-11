@@ -1,6 +1,6 @@
 # Mechatok
 
-Mechatok is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DDP 어울림광장, Seoul on Tue, 11 Aug 2026.
+Mechatok is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at DDP 어울림광장, Seoul on Tue, 11 Aug 2026.
 
 Mechatok is an electro and experimental artist based in Germany, tracked on soundcheck, with 68 sets logged across Antwerp, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Kamixlo, Oli XL and TOXE. Next up: DDP 어울림광장, Seoul on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Mechatok is an electro and experimental artist based in Germany, tracked on soun
 
 Kamixlo, Oli XL, TOXE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*

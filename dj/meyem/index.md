@@ -1,6 +1,6 @@
 # MEYEM
 
-MEYEM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
+MEYEM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
 MEYEM is a techno and trance artist tracked on soundcheck, with 49 sets logged across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside ADB (FR), Asaya and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MEYEM is a techno and trance artist tracked on soundcheck, with 49 sets logged a
 
 ADB (FR), Asaya, 4NOUK
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyem/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyem/)*

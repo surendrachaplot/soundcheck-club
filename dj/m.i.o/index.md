@@ -1,6 +1,6 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
+M.I.O is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
 
 M.I.O is a bass and techno artist tracked on soundcheck, with 45 sets logged across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: Planet Wax, London on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ M.I.O is a bass and techno artist tracked on soundcheck, with 45 sets logged acr
 
 akii, Aliceyuki, MUNÉO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*

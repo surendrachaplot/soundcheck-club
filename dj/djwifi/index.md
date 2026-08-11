@@ -1,6 +1,6 @@
 # DJ WIFI
 
-DJ WIFI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
+DJ WIFI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
 
 DJ WIFI is a techno and trance artist tracked on soundcheck, with 43 sets logged across Berlin, Chicago, London and Losangeles and 8 more. Often billed alongside Ca$h Bandicoot, Crystal O and Joey (2). Next up: Das Werk, Vienna on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ DJ WIFI is a techno and trance artist tracked on soundcheck, with 43 sets logged
 
 Ca$h Bandicoot, Crystal O, Joey (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi/)*

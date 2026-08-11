@@ -1,6 +1,6 @@
 # Seagit Arc
 
-Seagit Arc is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Rei Room, Mexico City on Sat, 22 Aug 2026.
+Seagit Arc is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rei Room, Mexico City on Sat, 22 Aug 2026.
 
 Seagit Arc is a house and electronica artist tracked on soundcheck, with 47 sets logged across Mexicocity. Often billed alongside Maseriche, Dj Render and Gerhard. Next up: Rei Room, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Seagit Arc is a house and electronica artist tracked on soundcheck, with 47 sets
 
 Maseriche, Dj Render, Gerhard
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seagitarc/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seagitarc/)*

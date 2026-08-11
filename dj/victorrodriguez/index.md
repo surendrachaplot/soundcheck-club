@@ -1,6 +1,6 @@
 # Victor Rodriguez
 
-Victor Rodriguez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
+Victor Rodriguez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
 
 Victor Rodriguez is a house and disco artist tracked on soundcheck, with 58 sets logged across Berlin, Bristol, London and Losangeles and 8 more. Often billed alongside Perfect Lovers, Bears In Space and Chris Bowen. Next up: On The Hiyu, Seattle on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Victor Rodriguez is a house and disco artist tracked on soundcheck, with 58 sets
 
 Perfect Lovers, Bears In Space, Chris Bowen
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguez/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguez/)*

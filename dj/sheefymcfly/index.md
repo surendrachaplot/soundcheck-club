@@ -1,6 +1,6 @@
 # Sheefy McFly
 
-Sheefy McFly is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Fri, 28 Aug 2026.
+Sheefy McFly is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lincoln Factory, Detroit on Fri, 28 Aug 2026.
 
 Sheefy McFly is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Denver, Detroit, London and Losangeles. Often billed alongside Nick Speed, DJ Godfather and Disc Jockey George. Next up: Lincoln Factory, Detroit on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sheefy McFly is a ghetto tech and techno artist based in United States of Americ
 
 Nick Speed, DJ Godfather, Disc Jockey George
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*

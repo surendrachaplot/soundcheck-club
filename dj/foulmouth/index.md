@@ -1,14 +1,15 @@
 # FOULMOUTH
 
-FOULMOUTH is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
+FOULMOUTH is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
 
-FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 25 sets logged across Leeds and Manchester. Often billed alongside Selvasolstice, Anop and FKA Hardcore. Next up: The DBA, Manchester on Fri 4 Sept.
+FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 26 sets logged across Leeds and Manchester. Often billed alongside Anop, Princess Elf Bar and Selvasolstice. Next up: The DBA, Manchester on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The DBA | Manchester |
+| Sat, 19 Sept 2026 | renae | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 25 set
 
 ## Shares bills with
 
-Selvasolstice, Anop, FKA Hardcore
+Anop, Princess Elf Bar, Selvasolstice
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

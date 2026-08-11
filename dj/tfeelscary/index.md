@@ -1,6 +1,6 @@
 # Tfeelscary
 
-Tfeelscary is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 宀 Club, Hong Kong on Fri, 14 Aug 2026.
+Tfeelscary is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 宀 Club, Hong Kong on Fri, 14 Aug 2026.
 
 Tfeelscary is a techno and club artist based in China, tracked on soundcheck, with 10 sets logged across Hongkong and Tokyo. Often billed alongside Nanogram, Dan-neo and Linh Violet. Next up: 宀 Club, Hongkong on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tfeelscary is a techno and club artist based in China, tracked on soundcheck, wi
 
 Nanogram, Dan-neo, Linh Violet
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tfeelscary/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tfeelscary/)*

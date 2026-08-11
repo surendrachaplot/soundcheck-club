@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
+Narciss is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
 Narciss is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Narciss is a techno and house artist tracked on soundcheck, with 189 sets logged
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

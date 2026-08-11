@@ -1,14 +1,15 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
+Jeneva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
-Jeneva is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Varanasi. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
+Jeneva is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Varanasi. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Starlane Pizza Bar | London |
+| Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jeneva is a techno and house artist tracked on soundcheck, with 39 sets logged a
 
 Greg Brockmann, LO-LOW, Varanasi
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

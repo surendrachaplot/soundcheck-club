@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Lubber Fiend, Newcastle on Fri, 28 Aug 2026.
+madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Lubber Fiend, Newcastle on Fri, 28 Aug 2026.
 
 madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit, Newcastle and Newyorkcity. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: The Lubber Fiend, Newcastle on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ madeera is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Antikkka, Tormented
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

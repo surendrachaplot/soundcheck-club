@@ -1,6 +1,6 @@
 # Azur
 
-Azur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
+Azur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
 
 Azur is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, London, Manchester and Miami and 1 more. Often billed alongside Animalize, Audeo and BEKIMACHINE. Next up: The DBA, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Azur is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Animalize, Audeo, BEKIMACHINE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azur/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azur/)*

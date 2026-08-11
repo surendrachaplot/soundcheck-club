@@ -1,13 +1,14 @@
 # KINTEL
 
-KINTEL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
+KINTEL is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Atelier Gardens Campus, Berlin on Sat, 5 Sept 2026.
 
-KINTEL is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Milan. Often billed alongside cliff, BUTZ and Amin Fallaha. Next up: Marmorbar, Berlin on Sat 12 Sept.
+KINTEL is a house and deep house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Milan. Often billed alongside cliff, BUTZ and Fletchy Boy. Next up: Atelier Gardens Campus, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Atelier Gardens Campus | Berlin |
 | Sat, 12 Sept 2026 | Marmorbar | Berlin |
 | Fri, 25 Sept 2026 | Tempio del Futuro Perduto | Milan |
 
@@ -24,6 +25,6 @@ KINTEL is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-cliff, BUTZ, Amin Fallaha
+cliff, BUTZ, Fletchy Boy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*

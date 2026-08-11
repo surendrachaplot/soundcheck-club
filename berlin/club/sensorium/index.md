@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TECHNO MITTWOCH: TAKE YOUR TICKETS" on Wed, 12 Aug 2026.
+Sensorium is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TECHNO MITTWOCH: TAKE YOUR FREE TICKETS" on Wed, 12 Aug 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Adrian Delmont, Blck-Swan, Camilla Tarantino and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -8,7 +8,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Eleonor Bianchi, UniKhatu, Zaphy |
+| Wed, 12 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR FREE TICKETS | Eleonor Bianchi, UniKhatu, Zaphy |
 | Fri, 14 Aug 2026 | ETHER |  |
 | Fri, 14 Aug 2026 | ETHER | DaSoMaZo, Erøx, Groove, Michi, Michi (US), SAOX, Sonse, k.meower, peak2soon, springēr |
 | Sat, 15 Aug 2026 | SENSO NACHT | Adrian Delmont |
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, w
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

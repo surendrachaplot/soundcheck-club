@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Devlin - Sheffield" on Thu, 8 Oct 2026.
+Electric Studios is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Devlin - Sheffield" on Thu, 8 Oct 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including Channel One Sound, Chicane and Dusky. Browse upcoming dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -17,4 +17,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 4 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

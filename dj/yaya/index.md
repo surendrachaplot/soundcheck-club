@@ -1,6 +1,6 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Yaya is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Bucharest and Budapest and 22 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged
 
 Mahony, Loco Dice, Joey Daniel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*

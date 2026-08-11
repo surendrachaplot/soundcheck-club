@@ -1,6 +1,6 @@
 # Silicon Kure Pres. Matrixxman at OIL Club
 
-Silicon Kure Pres. Matrixxman at OIL Club on Fri 21 Aug, Shenzhen. 4 acts on the bill: Jackie B, Jascer, Matrixxman and NK100. Preview the line-up and save it on soundcheck.
+Silicon Kure Pres. Matrixxman at OIL Club on Fri 21 Aug, Shenzhen. 4 acts on the bill: Jackie B, Jascer, Matrixxman and NK100. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # babsko
 
-babsko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
+babsko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
 
 babsko is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Copenhagen, London and Warsaw. Often billed alongside dgbt, WE.LL and AANO. Next up: Den Anden Side, Copenhagen on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ babsko is a techno and trance artist based in United Kingdom, tracked on soundch
 
 dgbt, WE.LL, AANO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*

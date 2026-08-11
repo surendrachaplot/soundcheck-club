@@ -1,13 +1,14 @@
 # Ryan O Gorman
 
-Ryan O Gorman is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
+Ryan O Gorman is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Ryan O Gorman is a house and balearic artist based in Ireland, tracked on soundcheck, with 32 sets logged across Barcelona, Frankfurt, Ibiza and Madrid. Often billed alongside Cami Jones, Nuzzo and Camilo Miranda. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
+Ryan O Gorman is a house and balearic artist based in Ireland, tracked on soundcheck, with 33 sets logged across Barcelona, Frankfurt, Ibiza and Madrid. Often billed alongside Cami Jones, Nuzzo and Camilo Miranda. Next up: 528 Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 11 Aug 2026 | 528 Ibiza | Ibiza |
 | Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ryan O Gorman is a house and balearic artist based in Ireland, tracked on soundc
 
 Cami Jones, Nuzzo, Camilo Miranda
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanogorman/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanogorman/)*

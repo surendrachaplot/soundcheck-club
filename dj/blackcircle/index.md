@@ -1,6 +1,6 @@
 # Black Circle
 
-Black Circle is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
+Black Circle is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
 
 Black Circle is a house and afro house artist based in Switzerland, tracked on soundcheck, with 26 sets logged across Chicago, Frankfurt, Ibiza and Istanbul and 12 more. Often billed alongside 1TWO, Airrica and Avangart Tabldot. Next up: Waranga, Stuttgart on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Black Circle is a house and afro house artist based in Switzerland, tracked on s
 
 1TWO, Airrica, Avangart Tabldot
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*

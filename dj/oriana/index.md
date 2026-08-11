@@ -1,6 +1,6 @@
 # Oriana
 
-Oriana is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Siwilai Radical Club, Bangkok on Fri, 14 Aug 2026.
+Oriana is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Siwilai Radical Club, Bangkok on Fri, 14 Aug 2026.
 
 Oriana is a techno and electro artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 21 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: Siwilai Radical Club, Bangkok on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Oriana is a techno and electro artist tracked on soundcheck, with 103 sets logge
 
 OMAR (UY), Ed Warner, Niff
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*

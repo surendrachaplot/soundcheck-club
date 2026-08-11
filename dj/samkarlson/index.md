@@ -1,6 +1,6 @@
 # Sam Karlson
 
-Sam Karlson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+Sam Karlson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Sam Karlson is a house and disco artist based in France, tracked on soundcheck, with 32 sets logged across Amsterdam, Bucharest, Ibiza and London and 3 more. Often billed alongside Bustin' Loose, Melon Bomb and Dave Lee. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sam Karlson is a house and disco artist based in France, tracked on soundcheck, 
 
 Bustin' Loose, Melon Bomb, Dave Lee
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*

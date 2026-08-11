@@ -1,6 +1,6 @@
 # The Jacaranda
 
-The Jacaranda is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Corto.Alto: Album Launch Show" on Wed, 9 Sept 2026.
+The Jacaranda is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Corto.Alto: Album Launch Show" on Wed, 9 Sept 2026.
 
 The Jacaranda is a music venue in Liverpool listed on soundcheck. 3 upcoming nights, with line-ups including corto.alto. Browse upcoming dates, start times and who's playing. 21-23 Slater St, Liverpool L1 4BW, UK.
 
@@ -16,4 +16,4 @@ The Jacaranda is a music venue in Liverpool listed on soundcheck. 3 upcoming nig
 
 21-23 Slater St, Liverpool L1 4BW, UK, Liverpool
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*

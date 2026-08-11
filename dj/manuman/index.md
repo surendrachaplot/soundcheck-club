@@ -1,6 +1,6 @@
 # Manüman
 
-Manüman is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Wiggle Room, Toronto on Sun, 16 Aug 2026.
+Manüman is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Wiggle Room, Toronto on Sun, 16 Aug 2026.
 
 Manüman is a techno and tech house artist based in Uruguay, tracked on soundcheck, with 8 sets logged across Amsterdam, Mexicocity, Montreal and Saopaulo and 1 more. Often billed alongside Jossie Telch, Manzone & Strong and Addy. Next up: Wiggle Room, Toronto on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Manüman is a techno and tech house artist based in Uruguay, tracked on soundche
 
 Jossie Telch, Manzone & Strong, Addy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuman/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuman/)*

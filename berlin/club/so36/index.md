@@ -1,6 +1,6 @@
 # So36
 
-So36 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "SPORTS (US) — live in Berlin" on Mon, 2 Nov 2026.
+So36 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "SPORTS (US) — live in Berlin" on Mon, 2 Nov 2026.
 
 So36 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Oranienstraße 190, 10999 Berlin, Germany.
 
@@ -14,4 +14,4 @@ So36 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse u
 
 Oranienstraße 190, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/so36/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/so36/)*

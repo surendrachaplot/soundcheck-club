@@ -1,6 +1,6 @@
 # Frau Hofmann
 
-Frau Hofmann is a Techno and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
+Frau Hofmann is a Techno and Afro House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
 
 Frau Hofmann is a techno and afro house artist based in Austria, tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside Purrdition, Alecid and C.Love (2). Next up: PRST, Vienna on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Frau Hofmann is a techno and afro house artist based in Austria, tracked on soun
 
 Purrdition, Alecid, C.Love (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frauhofmann/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frauhofmann/)*

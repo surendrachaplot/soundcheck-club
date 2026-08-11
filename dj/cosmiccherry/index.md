@@ -1,13 +1,14 @@
 # Cosmic Cherry
 
-Cosmic Cherry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Cosmic Cherry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kimchi Records, Berlin on Fri, 14 Aug 2026.
 
-Cosmic Cherry is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Renate, Berlin on Sat 15 Aug.
+Cosmic Cherry is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Kimchi Records, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Kimchi Records | Berlin |
 | Sat, 15 Aug 2026 | Renate | Berlin |
 | Sat, 5 Sept 2026 | OXI | Berlin |
 
@@ -26,4 +27,4 @@ Cosmic Cherry is a house and techno artist based in Germany, tracked on soundche
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*

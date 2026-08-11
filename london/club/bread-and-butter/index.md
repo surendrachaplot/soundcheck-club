@@ -1,17 +1,18 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Altar: Spill The Tea" on Sat, 15 Aug 2026.
+Bread and Butter is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Altar: Spill The Tea" on Sat, 15 Aug 2026.
 
-Bread and Butter is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Atibo. Browse upcoming dates, start times and who's playing. 72 rivington street London EC2A 3AY.
+Bread and Butter is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Atibo and Donae'o. Browse upcoming dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Altar: Spill The Tea | Atibo |
+| Fri, 30 Oct 2026 | An Evening with Donae'o (4HR UK Funky DJ Set) | Donae'o |
 
 ## Address
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

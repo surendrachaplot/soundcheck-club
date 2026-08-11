@@ -1,6 +1,6 @@
 # Kim Lightfoot
 
-Kim Lightfoot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Refuge, New York City on Sun, 16 Aug 2026.
+Kim Lightfoot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Refuge, New York City on Sun, 16 Aug 2026.
 
 Kim Lightfoot is a house and deep house artist tracked on soundcheck, with 16 sets logged across Newyorkcity and Tokyo. Often billed alongside k.tea, Herb Martin and Ozkar Fuller. Next up: Refuge, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Kim Lightfoot is a house and deep house artist tracked on soundcheck, with 16 se
 
 k.tea, Herb Martin, Ozkar Fuller
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlightfoot/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlightfoot/)*

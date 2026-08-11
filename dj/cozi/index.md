@@ -1,6 +1,6 @@
 # COZi
 
-COZi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+COZi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
 COZi is a house and techno artist based in Australia, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ COZi is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Elijah Something, Sasha Milani, Aldonna
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*

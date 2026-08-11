@@ -1,13 +1,14 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Kooky Ken: Label Launch Party" on Fri, 21 Aug 2026.
+NUMBER 90 LONDON is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Mixmag Lab London with MPH" on Thu, 20 Aug 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Mariiin, Ruby SD, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Mariiin, Ruby SD, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Mixmag Lab London with MPH | MPH (1) |
 | Fri, 21 Aug 2026 | Kooky Ken: Label Launch Party | A.Wild, Benny Bysouth, Cam Harrop, Kennedy (UK), Redshift (2) |
 | Sun, 23 Aug 2026 | Snooze After Hours | Alek Mater, Essentia (Duplicity), Gridlock, HMMND, OllyK, PAVEL__, Sofi., Vivra Verra |
 | Fri, 28 Aug 2026 | BST PRESENTS | COUCOU CHLOE, Jawnino, Woesum |
@@ -17,10 +18,9 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming ni
 | Fri, 11 Sept 2026 | Soundscape x Round About present: 90 Hideout | Adam Curtain, Buddy. (2), IZZY (UK), Silverlining, Ste Roberts, Sunny D |
 | Sat, 19 Sept 2026 | Faem e Li |  |
 | Thu, 24 Sept 2026 | Cosmo's Midnight |  |
-| Sat, 26 Sept 2026 | Jonetsu | Colin Dale, Guido Nemola, Joe Smooth, MAEDON, Mike Anderson, Teknobrat, Wade Teo |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

@@ -1,6 +1,6 @@
 # Hannah Taylor
 
-Hannah Taylor is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at WaV, Liverpool on Sat, 15 Aug 2026.
+Hannah Taylor is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WaV, Liverpool on Sat, 15 Aug 2026.
 
 Hannah Taylor is a hardcore and trance artist tracked on soundcheck, with 11 sets logged across Glasgow, Leeds, Liverpool and London and 4 more. Often billed alongside Ageusic, Lisa Pinup and Pete Monsoon. Next up: WaV, Liverpool on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hannah Taylor is a hardcore and trance artist tracked on soundcheck, with 11 set
 
 Ageusic, Lisa Pinup, Pete Monsoon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahtaylor/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahtaylor/)*

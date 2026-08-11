@@ -1,6 +1,6 @@
 # Paul Seul
 
-Paul Seul is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OIL Club, Shenzhen on Sat, 22 Aug 2026.
+Paul Seul is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at OIL Club, Shenzhen on Sat, 22 Aug 2026.
 
 Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck, with 44 sets logged across Amsterdam, Basel, Berlin and Brussels and 14 more. Often billed alongside Von Bikräv, Goffbaby and Gabber Eleganza. Next up: OIL Club, Shenzhen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck
 
 Von Bikräv, Goffbaby, Gabber Eleganza
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*

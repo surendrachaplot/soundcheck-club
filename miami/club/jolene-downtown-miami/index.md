@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "slugg b2b Ms. Mada (All Night Long)" on Thu, 13 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "slugg b2b Ms. Mada (All Night Long)" on Thu, 13 Aug 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Arapu, Archie Hamilton, Baby Jesus and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -23,4 +23,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

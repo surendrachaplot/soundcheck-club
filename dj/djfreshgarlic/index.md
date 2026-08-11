@@ -1,6 +1,6 @@
 # DJ Fresh Garlic
 
-DJ Fresh Garlic is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+DJ Fresh Garlic is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 DJ Fresh Garlic is a house and garage artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Cheap Coffee, Czech Strings and NicolasNico. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Fresh Garlic is a house and garage artist tracked on soundcheck, with 12 sets
 
 Cheap Coffee, Czech Strings, NicolasNico
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*

@@ -1,6 +1,6 @@
 # AR (UK)
 
-AR (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
+AR (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
 
 AR (UK) is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Bristol, London and Newyorkcity. Often billed alongside DJ Majesty, JAYDAA and Jerome Six. Next up: XOYO, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AR (UK) is a tech house and deep house artist based in United Kingdom, tracked o
 
 DJ Majesty, JAYDAA, Jerome Six
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ar-uk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ar-uk/)*

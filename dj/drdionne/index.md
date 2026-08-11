@@ -1,6 +1,6 @@
 # DR DIONNE
 
-DR DIONNE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Wonderville, New York City on Sun, 16 Aug 2026.
+DR DIONNE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Wonderville, New York City on Sun, 16 Aug 2026.
 
 DR DIONNE is a techno and house artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside BUNZ, CATA (1) and Emily Kalashnikova. Next up: Wonderville, Newyorkcity on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ DR DIONNE is a techno and house artist tracked on soundcheck, with 3 sets logged
 
 BUNZ, CATA (1), Emily Kalashnikova
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drdionne/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drdionne/)*

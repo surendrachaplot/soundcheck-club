@@ -1,6 +1,6 @@
 # MIT (6)
 
-MIT (6) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Boomerang Beach, The Hague on Sun, 16 Aug 2026.
+MIT (6) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Boomerang Beach, The Hague on Sun, 16 Aug 2026.
 
 MIT (6) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Antwerp, Copenhagen, Rotterdam and Thehague and 1 more. Often billed alongside BLNK, BØĘRY and Cynthia Spiering. Next up: Boomerang Beach, Thehague on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ MIT (6) is a techno and industrial artist based in Netherlands, tracked on sound
 
 BLNK, BØĘRY, Cynthia Spiering
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mit-6/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mit-6/)*

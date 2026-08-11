@@ -1,6 +1,6 @@
 # NTO
 
-NTO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
+NTO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
 
 NTO is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Nordstern, Basel on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ NTO is a techno and house artist tracked on soundcheck, with 118 sets logged acr
 
 Prismode, Solvane, Mees Salomé
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

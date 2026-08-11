@@ -1,6 +1,6 @@
 # Alexa Strange
 
-Alexa Strange is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Melkweg, Amsterdam on Tue, 11 Aug 2026.
+Alexa Strange is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Melkweg, Amsterdam on Tue, 11 Aug 2026.
 
 Alexa Strange is a techno and electronica artist based in Colombia, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Buenosaires and Porto. Often billed alongside TheRipped, A.R.T. and Bardo (1). Next up: Melkweg, Amsterdam on Tue 11 Aug.
 
@@ -20,4 +20,4 @@ Alexa Strange is a techno and electronica artist based in Colombia, tracked on s
 
 TheRipped, A.R.T., Bardo (1)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexastrange-/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexastrange-/)*

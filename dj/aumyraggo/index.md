@@ -1,6 +1,6 @@
 # Aumy Raggo
 
-Aumy Raggo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
+Aumy Raggo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 Aumy Raggo is a house and afro house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Angela Rose, Bobby Davis and Gavin Peters. Next up: Basing House, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Aumy Raggo is a house and afro house artist tracked on soundcheck, with 8 sets l
 
 Angela Rose, Bobby Davis, Gavin Peters
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aumyraggo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aumyraggo/)*

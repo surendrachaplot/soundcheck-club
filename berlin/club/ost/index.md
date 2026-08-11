@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Savory - Techno Every Thursday" on Thu, 13 Aug 2026.
+OST is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Savory - Techno Every Thursday" on Thu, 13 Aug 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -17,10 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with li
 | Fri, 28 Aug 2026 | ULTRA SOZIAL with Luciid, Obscure Shape, Tham  | An Chen, Luciid, Obscure Shape, Tham, Viscerale |
 | Sat, 29 Aug 2026 | Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more | +UMBRAX+, Axciid, BSLS, FOKUS (Live), GLASSBASS, Jordan.nsx, Karashò, Khyodo, Laviena, William Luck |
 | Sun, 30 Aug 2026 | EPS x OST Afterparty | Katy Rough, senaitstar |
-| Fri, 4 Sept 2026 | MAYHEM x OST | ALT8, Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
+| Fri, 4 Sept 2026 | MAYHEM x OST w. ALT8, Krl Mx | ALT8, Antonym, GM1 (IT), Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

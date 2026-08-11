@@ -1,6 +1,6 @@
 # Rodney (3)
 
-Rodney (3) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
+Rodney (3) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
 
 Rodney (3) is a house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Sahil, Josh German and A Hard Day's Dance. Next up: Starlane Pizza Bar, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Rodney (3) is a house artist based in United Kingdom, tracked on soundcheck, wit
 
 Sahil, Josh German, A Hard Day's Dance
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-3/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-3/)*

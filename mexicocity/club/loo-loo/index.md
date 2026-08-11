@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "RANGER TRUCO" on Thu, 13 Aug 2026.
+Loo Loo is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RANGER TRUCO" on Thu, 13 Aug 2026.
 
 Loo Loo is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including DECO (MX), Elderbrook, Forester and Hunter/Game and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -23,4 +23,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights,
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

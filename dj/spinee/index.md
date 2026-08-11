@@ -1,6 +1,6 @@
 # SPINEE
 
-SPINEE is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
+SPINEE is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
 
 SPINEE is a club and hardcore artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Budapest and Leeds and 2 more. Often billed alongside DJ Fingerblast, Trancey Beaker and Peggy Viennetta. Next up: Concept Haus, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SPINEE is a club and hardcore artist based in United Kingdom, tracked on soundch
 
 DJ Fingerblast, Trancey Beaker, Peggy Viennetta
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*

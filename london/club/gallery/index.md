@@ -1,8 +1,8 @@
 # Gallery
 
-Gallery is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Paradox Nexus: AJ Christou - Thursdays at Gallery" on Thu, 13 Aug 2026.
+Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Paradox Nexus: AJ Christou - Thursdays at Gallery" on Thu, 13 Aug 2026.
 
-Gallery is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AJ Christou, Ashibah, D1 x Samir (DVS) and DASHA (UK) and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including AJ Christou, Ashibah, D1 x Samir (DVS) and DASHA (UK) and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 13 upcoming nights, wit
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

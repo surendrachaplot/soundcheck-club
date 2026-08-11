@@ -1,6 +1,6 @@
 # BLUDHOUND
 
-BLUDHOUND is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Praterbrücke, Vienna on Fri, 14 Aug 2026.
+BLUDHOUND is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Praterbrücke, Vienna on Fri, 14 Aug 2026.
 
 BLUDHOUND is a techno and trance artist based in Austria, tracked on soundcheck, with 33 sets logged across Vienna. Often billed alongside pinklotion, Dj Wifi (3) and Silentsevir. Next up: Praterbrücke, Vienna on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ BLUDHOUND is a techno and trance artist based in Austria, tracked on soundcheck,
 
 pinklotion, Dj Wifi (3), Silentsevir
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*

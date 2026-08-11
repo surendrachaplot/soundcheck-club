@@ -1,6 +1,6 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ramova Loft, Chicago on Fri, 14 Aug 2026.
+DJ Slugo is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Ramova Loft, Chicago on Fri, 14 Aug 2026.
 
 DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: Ramova Loft, Chicago on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets l
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

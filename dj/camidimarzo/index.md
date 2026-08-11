@@ -1,6 +1,6 @@
 # Cami di Marzo
 
-Cami di Marzo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Cami di Marzo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Cami di Marzo is a house and afro house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami. Often billed alongside SIEGEL (2), Shir Miya and Souls Departed. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cami di Marzo is a house and afro house artist based in United States of America
 
 SIEGEL (2), Shir Miya, Souls Departed
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camidimarzo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camidimarzo/)*

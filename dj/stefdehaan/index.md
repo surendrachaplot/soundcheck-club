@@ -1,14 +1,14 @@
 # Stef de Haan
 
-Stef de Haan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
+Stef de Haan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
 
-Stef de Haan is a techno and house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Südbrücke, Cologne on Sat 15 Aug.
+Stef de Haan is a techno and house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Südbrücke Open Air, Cologne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Südbrücke | Cologne |
+| Sat, 15 Aug 2026 | Südbrücke Open Air | Cologne |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played
@@ -26,4 +26,4 @@ Stef de Haan is a techno and house artist based in Netherlands, tracked on sound
 
 Anton Jonathan, DJ Babyblade, EliaHaze
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*

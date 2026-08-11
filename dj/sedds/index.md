@@ -1,6 +1,6 @@
 # Sedds
 
-Sedds is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+Sedds is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
 Sedds is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh, Leeds and Newcastle. Often billed alongside Nooney, Lister and Adam Lance. Next up: Distrikt, Leeds on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sedds is a minimal and house artist based in United Kingdom, tracked on soundche
 
 Nooney, Lister, Adam Lance
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedds/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedds/)*

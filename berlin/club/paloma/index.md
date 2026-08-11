@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "LNS invites Curly Waters" on Fri, 14 Aug 2026.
+Paloma is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "LNS invites Curly Waters" on Fri, 14 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Arnaud Denzler, Balthazar Martinez, bb:fm and Bézier and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Arnaud Denzler, Balthazar Martinez, bb:fm and Bézier and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Fri, 4 Sept 2026 | Under Bass | Impérieux, Rhyw |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
+| Sat, 12 Sept 2026 | Coming Through |  |
 | Fri, 25 Sept 2026 | Long Gone Are The Old Traditions with Miles J Paralysis, Samson A.K (Live) | Daire Carolan, Miles J Paralysis, Samson A.K |
-| Sat, 26 Sept 2026 | Power Disco - The 9th Anniversary Edition | Conor L, Filippo Moscatello, Finn Johannsen |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

@@ -1,6 +1,6 @@
 # Vidaloca
 
-Vidaloca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
+Vidaloca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
 
 Vidaloca is a tech house and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Buenosaires and Frankfurt and 6 more. Often billed alongside Pau Guilera, DIROS and Abdon. Next up: BUS Hexperience, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Vidaloca is a tech house and house artist tracked on soundcheck, with 78 sets lo
 
 Pau Guilera, DIROS, Abdon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*

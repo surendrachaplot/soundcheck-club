@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Mat Zo, DATSKO, DEROZA, Gusta" on Fri, 14 Aug 2026.
+Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Mat Zo, DATSKO, DEROZA, Gusta" on Fri, 14 Aug 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nights, with line-ups including 444 (1), 999ADJ, AEREA and AKKI (DE) and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

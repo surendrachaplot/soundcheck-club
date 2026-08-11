@@ -1,13 +1,14 @@
 # Skyport Marina
 
-Skyport Marina is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026" on Sat, 15 Aug 2026.
+Skyport Marina is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Reggaeton Boat Party NYC - Avalon Yacht – Aug 14" on Fri, 14 Aug 2026.
 
-Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Bruce Wayne (US) and MP LOVE. Browse upcoming dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
+Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Bruce Wayne (US), MP LOVE and TBA. Browse upcoming dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Reggaeton Boat Party NYC - Avalon Yacht – Aug 14 | TBA |
 | Sat, 15 Aug 2026 | EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 |  |
 | Sat, 22 Aug 2026 | EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 |  |
 | Sat, 29 Aug 2026 | EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 |  |
@@ -21,4 +22,4 @@ Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 E 23rd St & FDR Dr, New York, New York 10010, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*

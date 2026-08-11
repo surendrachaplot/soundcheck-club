@@ -1,6 +1,6 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
+Jenn Gunn (2) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
 
 Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Et Al (1) and Gourlay. Next up: Sneaky Pete's, Edinburgh on Tue 18 Aug.
 
@@ -26,4 +26,4 @@ Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on s
 
 C Frame, Et Al (1), Gourlay
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*

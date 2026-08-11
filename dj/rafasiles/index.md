@@ -1,6 +1,6 @@
 # Rafa Siles
 
-Rafa Siles is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Barraca, Valencia on Sat, 24 Oct 2026.
+Rafa Siles is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Barraca, Valencia on Sat, 24 Oct 2026.
 
 Rafa Siles is a techno and industrial artist tracked on soundcheck, with 6 sets logged across Valencia. Often billed alongside Domen, Lucas Cabello and Sou Allen. Next up: Barraca, Valencia on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Rafa Siles is a techno and industrial artist tracked on soundcheck, with 6 sets 
 
 Domen, Lucas Cabello, Sou Allen
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasiles/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasiles/)*

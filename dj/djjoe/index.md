@@ -1,6 +1,6 @@
 # dj Joe
 
-dj Joe is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
+dj Joe is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
 
 dj Joe is a trance and techno artist based in Sweden, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside DRAHO, Alexander Santana and steamboi. Next up: Pumpehuset, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ dj Joe is a trance and techno artist based in Sweden, tracked on soundcheck, wit
 
 DRAHO, Alexander Santana, steamboi
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoe/)*

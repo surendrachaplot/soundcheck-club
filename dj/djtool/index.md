@@ -1,6 +1,6 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 DJ TOOL is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ DJ TOOL is a techno and house artist tracked on soundcheck, with 186 sets logged
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

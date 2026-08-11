@@ -1,6 +1,6 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Nowadays, New York City on Fri, 14 Aug 2026.
+Derrick Carter is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nowadays, New York City on Fri, 14 Aug 2026.
 
 Derrick Carter is a house and disco artist tracked on soundcheck, with 309 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Nowadays, Newyorkcity on Fri 14 Aug.
 
@@ -35,4 +35,4 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 309 sets 
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

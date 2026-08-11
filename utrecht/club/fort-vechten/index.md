@@ -1,6 +1,6 @@
 # Fort Vechten
 
-Fort Vechten is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Geheime Liefde, HRFST" on Sat, 3 Oct 2026.
+Fort Vechten is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Geheime Liefde, HRFST" on Sat, 3 Oct 2026.
 
 Fort Vechten is a music venue in Utrecht listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Marsdijk 2, Bunnik, 3981 HE.
 
@@ -14,4 +14,4 @@ Fort Vechten is a music venue in Utrecht listed on soundcheck. 1 upcoming night.
 
 Marsdijk 2, Bunnik, 3981 HE, Utrecht
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/fort-vechten/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/fort-vechten/)*

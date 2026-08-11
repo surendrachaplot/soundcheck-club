@@ -1,6 +1,6 @@
 # 753
 
-753 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 27 Aug 2026.
+753 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 27 Aug 2026.
 
 753 is a techno and industrial artist based in Spain, tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside 6EJOU, BSLS and Cassie Raptor. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@
 
 6EJOU, BSLS, Cassie Raptor
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/753/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/753/)*

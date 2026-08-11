@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Liquid Air" on Fri, 14 Aug 2026.
+Waterhouse Studios is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Liquid Air" on Fri, 14 Aug 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alex Pastor, Alex Pi, André Galluzzi and Crinkhoff and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -19,4 +19,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 6 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

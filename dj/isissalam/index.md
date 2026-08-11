@@ -1,6 +1,6 @@
 # Isis Salam
 
-Isis Salam is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
+Isis Salam is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
 Isis Salam is a hip-hop artist tracked on soundcheck, with 4 sets logged across Berlin and Toronto. Often billed alongside Athlete Whippet, Audio Vacanze and Cody Currie. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Isis Salam is a hip-hop artist tracked on soundcheck, with 4 sets logged across 
 
 Athlete Whippet, Audio Vacanze, Cody Currie
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isissalam/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isissalam/)*

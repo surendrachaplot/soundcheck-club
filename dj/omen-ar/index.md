@@ -1,6 +1,6 @@
 # Omen
 
-Omen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Switch Bar, Barcelona on Wed, 19 Aug 2026.
+Omen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Switch Bar, Barcelona on Wed, 19 Aug 2026.
 
 Omen is a techno and house artist tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Bristol and Hamburg and 7 more. Often billed alongside MENTA, J Bronsted and Laundry Service. Next up: Switch Bar, Barcelona on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Omen is a techno and house artist tracked on soundcheck, with 28 sets logged acr
 
 MENTA, J Bronsted, Laundry Service
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omen-ar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omen-ar/)*

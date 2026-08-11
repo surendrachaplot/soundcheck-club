@@ -1,6 +1,6 @@
 # ESCOBUTT
 
-ESCOBUTT is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
+ESCOBUTT is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
 
 ESCOBUTT is a club and bass artist tracked on soundcheck, with 42 sets logged across Marseille, Montreal, Toronto and Vancouver. Often billed alongside Juanit0, GUSSYEE and Kaspr. Next up: The Baby G, Toronto on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ ESCOBUTT is a club and bass artist tracked on soundcheck, with 42 sets logged ac
 
 Juanit0, GUSSYEE, Kaspr
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*

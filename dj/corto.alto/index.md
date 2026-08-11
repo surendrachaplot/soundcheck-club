@@ -1,8 +1,8 @@
 # corto.alto
 
-corto.alto is a Jazz and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cité De La Musique, Paris on Sat, 5 Sept 2026.
+corto.alto is a Jazz and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cité De La Musique, Paris on Sat, 5 Sept 2026.
 
-corto.alto is a jazz and experimental artist tracked on soundcheck, with 18 sets logged across Berlin, Birmingham, Bristol and Brussels and 10 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: Cité De La Musique, Paris on Sat 5 Sept.
+corto.alto is a jazz and experimental artist tracked on soundcheck, with 19 sets logged across Berlin, Birmingham, Bristol and Brussels and 10 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: Cité De La Musique, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ corto.alto is a jazz and experimental artist tracked on soundcheck, with 18 sets
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Cité De La Musique | Paris |
 | Wed, 9 Sept 2026 | The Jacaranda | Liverpool |
+| Mon, 12 Oct 2026 | AB Club (Ancienne Belgique) | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ corto.alto is a jazz and experimental artist tracked on soundcheck, with 18 sets
 
 Chunky, Craig Charles, Joy Guidry
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*

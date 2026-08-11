@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Unkompress Saturday Session: Eritrean Anthology" on Sat, 15 Aug 2026.
+Unkompress is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Unkompress Saturday Session: Eritrean Anthology" on Sat, 15 Aug 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Lovellious. Browse upcoming dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -18,4 +18,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 5 upcoming nights, w
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

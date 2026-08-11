@@ -1,14 +1,13 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Hot Gay Shit" on Mon, 10 Aug 2026.
+Paradise Palms is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "My Mum Told Me Not To Marry An Atheist" on Tue, 11 Aug 2026.
 
-Paradise Palms is a music venue in Edinburgh listed on soundcheck. 7 upcoming nights, with line-ups including aminabonthebeat. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
+Paradise Palms is a music venue in Edinburgh listed on soundcheck. 6 upcoming nights, with line-ups including aminabonthebeat. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | Hot Gay Shit |  |
 | Tue, 11 Aug 2026 | My Mum Told Me Not To Marry An Atheist | aminabonthebeat |
 | Mon, 17 Aug 2026 | Hot Gay Shit |  |
 | Tue, 18 Aug 2026 | My Mum Told Me Not To Marry An Atheist | aminabonthebeat |
@@ -20,4 +19,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 7 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

@@ -1,6 +1,6 @@
 # Tui (1)
 
-Tui (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 12 Aug 2026.
+Tui (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 12 Aug 2026.
 
 Tui (1) is a techno and acid artist based in Japan, tracked on soundcheck, with 23 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, Lewo Chyba and Daichi Wada. Next up: Enter Shibuya, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Tui (1) is a techno and acid artist based in Japan, tracked on soundcheck, with 
 
 Eichi Abe, Lewo Chyba, Daichi Wada
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

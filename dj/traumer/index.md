@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
+Traumer is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: West Street, Glasgow on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

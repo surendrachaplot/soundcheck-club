@@ -1,6 +1,6 @@
 # DINABN
 
-DINABN is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at El Cid, Los Angeles on Fri, 4 Sept 2026.
+DINABN is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at El Cid, Los Angeles on Fri, 4 Sept 2026.
 
 DINABN is a reggaeton and dembow artist based in United States of America, tracked on soundcheck, with 95 sets logged across Losangeles, Mexicocity, Portland and Sandiego and 1 more. Often billed alongside JOAQU.N, Cquestt and Diablito. Next up: El Cid, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DINABN is a reggaeton and dembow artist based in United States of America, track
 
 JOAQU.N, Cquestt, Diablito
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinabn/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinabn/)*

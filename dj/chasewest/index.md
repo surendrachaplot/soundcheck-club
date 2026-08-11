@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Radius, Chicago on Sun, 16 Aug 2026.
+ChaseWest is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Radius, Chicago on Sun, 16 Aug 2026.
 
 ChaseWest is a house and tech house artist tracked on soundcheck, with 45 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Radius, Chicago on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ ChaseWest is a house and tech house artist tracked on soundcheck, with 45 sets l
 
 Beltran, KinAhau, Max Dean
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

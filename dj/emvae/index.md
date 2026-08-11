@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Emvae is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Emvae is a house and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -27,4 +27,4 @@ Emvae is a house and trance artist tracked on soundcheck, with 67 sets logged ac
 
 Moxes, SAIDAH, Doppelgang
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

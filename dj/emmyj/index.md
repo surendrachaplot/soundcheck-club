@@ -1,6 +1,6 @@
 # EMMYJ
 
-EMMYJ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 19 Sept 2026.
+EMMYJ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 19 Sept 2026.
 
 EMMYJ is a techno and industrial artist based in New Zealand, tracked on soundcheck, with 3 sets logged across Auckland. Often billed alongside Takydon, H3LLRAIS3R and ONARSÉ. Next up: Il Brutto Auckland, Auckland on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ EMMYJ is a techno and industrial artist based in New Zealand, tracked on soundch
 
 Takydon, H3LLRAIS3R, ONARSÉ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*

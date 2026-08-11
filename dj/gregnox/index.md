@@ -1,6 +1,6 @@
 # Greg Nox
 
-Greg Nox is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
+Greg Nox is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
 
 Greg Nox is a techno and deep house artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin and London. Often billed alongside Kimsi, Monterosso and Desuba. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Greg Nox is a techno and deep house artist based in Italy, tracked on soundcheck
 
 Kimsi, Monterosso, Desuba
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregnox/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregnox/)*

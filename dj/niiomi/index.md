@@ -1,6 +1,6 @@
 # Niiomi
 
-Niiomi is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
+Niiomi is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Niiomi is an afro house and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Ibiza and London and 3 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: Chinois Ibiza, Ibiza on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Niiomi is an afro house and house artist based in Netherlands, tracked on soundc
 
 AMÉMÉ, Ammé, Cincity
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*

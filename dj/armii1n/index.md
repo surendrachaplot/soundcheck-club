@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 13 Aug 2026.
+Armii1n is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 13 Aug 2026.
 
 Armii1n is a house and deep house artist tracked on soundcheck, with 120 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Dead Letter No. 9, Newyorkcity on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ Armii1n is a house and deep house artist tracked on soundcheck, with 120 sets lo
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

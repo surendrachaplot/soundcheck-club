@@ -1,6 +1,6 @@
 # Francesca.Fagiani
 
-Francesca.Fagiani is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
+Francesca.Fagiani is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
 
 Francesca.Fagiani is a techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam and Frankfurt. Often billed alongside Luciano Mancini Luke, Sygma and Tribe Dj. Next up: Bar22, Amsterdam on Sun 25 Oct.
 
@@ -18,4 +18,4 @@ Francesca.Fagiani is a techno artist based in Italy, tracked on soundcheck, with
 
 Luciano Mancini Luke, Sygma, Tribe Dj
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca.fagiani/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca.fagiani/)*

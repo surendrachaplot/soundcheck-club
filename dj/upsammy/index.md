@@ -1,6 +1,6 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+upsammy is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 upsammy is a techno and experimental artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -34,4 +34,4 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 183 sets
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

@@ -1,6 +1,6 @@
 # HONEEAY
 
-HONEEAY is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bubba Oasis, Islington, London on Fri, 14 Aug 2026.
+HONEEAY is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bubba Oasis, Islington, London on Fri, 14 Aug 2026.
 
 HONEEAY is an afrobeat and afro house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Maevevelli, Blck Mamba and DJ Polo. Next up: Bubba Oasis, Islington, London on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ HONEEAY is an afrobeat and afro house artist tracked on soundcheck, with 4 sets 
 
 Maevevelli, Blck Mamba, DJ Polo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeeay/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeeay/)*

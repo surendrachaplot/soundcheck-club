@@ -1,6 +1,6 @@
 # DJ Wixel
 
-DJ Wixel is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mumma Rooftop, Mexico City on Sat, 15 Aug 2026.
+DJ Wixel is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mumma Rooftop, Mexico City on Sat, 15 Aug 2026.
 
 DJ Wixel is an electro and house artist tracked on soundcheck, with 2 sets logged across Mexicocity. Next up: Mumma Rooftop, Mexicocity on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ DJ Wixel is an electro and house artist tracked on soundcheck, with 2 sets logge
 
 - Mumma Rooftop, Mexico City — Sat, 23 May 2026
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwixel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwixel/)*

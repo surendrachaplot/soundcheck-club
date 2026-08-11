@@ -1,6 +1,6 @@
 # Bears In Space
 
-Bears In Space is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
+Bears In Space is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
 
 Bears In Space is a disco and house artist tracked on soundcheck, with 45 sets logged across London, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Perfect Lovers, Stacy Christine and Victor Rodriguez. Next up: On The Hiyu, Seattle on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bears In Space is a disco and house artist tracked on soundcheck, with 45 sets l
 
 Perfect Lovers, Stacy Christine, Victor Rodriguez
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*

@@ -1,6 +1,6 @@
 # Mez Monty
 
-Mez Monty is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Mez Monty is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Mez Monty is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Eli Escobar and Sevyn. Next up: The Great Northern, Sanfrancisco on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mez Monty is a house and techno artist tracked on soundcheck, with 86 sets logge
 
 Shane Thomas, Eli Escobar, Sevyn
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*

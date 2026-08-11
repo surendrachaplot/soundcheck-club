@@ -1,6 +1,6 @@
 # Rumores Speakeasy Cdmx
 
-Rumores Speakeasy Cdmx is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "[CANCELLED] NEO HOUSE ABSTRACTA X SHADU" on Sat, 15 Aug 2026.
+Rumores Speakeasy Cdmx is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "[CANCELLED] NEO HOUSE ABSTRACTA X SHADU" on Sat, 15 Aug 2026.
 
 Rumores Speakeasy Cdmx is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Mehill and ZIGNNAL. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 1839, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Rumores Speakeasy Cdmx is a music venue in Mexicocity listed on soundcheck. 1 up
 
 Av. Insurgentes Sur 1839, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX, Mexico City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rumores-speakeasy-cdmx/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rumores-speakeasy-cdmx/)*

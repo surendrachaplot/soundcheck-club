@@ -1,18 +1,21 @@
 # IKUZO
 
-IKUZO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Socore Factory, Osaka on Mon, 10 Aug 2026.
+IKUZO is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Area_osaka, Osaka on Thu, 13 Aug 2026.
 
-IKUZO is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside CHISE, Itou and ONO (3). Next up: Socore Factory, Osaka on Mon 10 Aug.
+IKUZO is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside CHISE, Itou and ONO (3). Next up: Area_osaka, Osaka on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | Socore Factory | Osaka |
 | Thu, 13 Aug 2026 | Area_osaka | Osaka |
+
+## Recently played
+
+- Socore Factory, Osaka — Mon, 10 Aug 2026
 
 ## Shares bills with
 
 CHISE, Itou, ONO (3)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikuzo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikuzo/)*

@@ -1,6 +1,6 @@
 # Seven
 
-Seven is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
+Seven is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
 Seven is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 2 more. Often billed alongside Ropemaker, GIULIO PERRELLA and Kalsa. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Seven is a techno and acid artist based in United Kingdom, tracked on soundcheck
 
 Ropemaker, GIULIO PERRELLA, Kalsa
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seven/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seven/)*

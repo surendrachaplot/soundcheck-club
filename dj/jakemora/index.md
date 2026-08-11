@@ -1,6 +1,6 @@
 # Jake Mora
 
-Jake Mora is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Spin, San Diego on Sat, 15 Aug 2026.
+Jake Mora is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spin, San Diego on Sat, 15 Aug 2026.
 
 Jake Mora is a house and minimal artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Adam Rose, Kana Hishiya and Laura Peck. Next up: Spin, Sandiego on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jake Mora is a house and minimal artist based in United States of America, track
 
 Adam Rose, Kana Hishiya, Laura Peck
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemora/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemora/)*

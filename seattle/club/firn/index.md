@@ -1,6 +1,6 @@
 # Firn
 
-Firn is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Time Together presents: Byron The Aquarius" on Sat, 22 Aug 2026.
+Firn is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Time Together: Byron The Aquarius" on Sat, 22 Aug 2026.
 
 Firn is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including Byron The Aquarius. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Firn is a music venue in Seattle listed on soundcheck. 1 upcoming night, with li
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Time Together presents: Byron The Aquarius | Byron The Aquarius |
+| Sat, 22 Aug 2026 | Time Together: Byron The Aquarius | Byron The Aquarius |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*

@@ -1,6 +1,6 @@
 # Afrodisiac
 
-Afrodisiac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
+Afrodisiac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
 
 Afrodisiac is a house and techno artist tracked on soundcheck, with 59 sets logged across Berlin, Melbourne, Munich and Sydney. Often billed alongside Baby G, Activator (AU) and Hannah D. Next up: Solace, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Afrodisiac is a house and techno artist tracked on soundcheck, with 59 sets logg
 
 Baby G, Activator (AU), Hannah D
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*

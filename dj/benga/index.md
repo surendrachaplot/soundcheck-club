@@ -1,6 +1,6 @@
 # Benga
 
-Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Night Tales, London on Thu, 20 Aug 2026.
+Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Night Tales, London on Thu, 20 Aug 2026.
 
 Benga is a dubstep and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Brisbane, Bristol and Brussels and 11 more. Often billed alongside Skream, Bakey and Girls Don't Sync. Next up: Night Tales, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Benga is a dubstep and techno artist tracked on soundcheck, with 25 sets logged 
 
 Skream, Bakey, Girls Don't Sync
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*

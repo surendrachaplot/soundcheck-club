@@ -1,6 +1,6 @@
 # VLADJ
 
-VLADJ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
+VLADJ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
 
 VLADJ is a techno and industrial artist based in Germany, tracked on soundcheck, with 17 sets logged across Toronto and Vancouver. Often billed alongside KINGO, MED!C and Bÿständer. Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ VLADJ is a techno and industrial artist based in Germany, tracked on soundcheck,
 
 KINGO, MED!C, Bÿständer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladj/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladj/)*

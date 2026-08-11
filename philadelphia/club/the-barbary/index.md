@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "RAGIE BAN x SOUND SELECTAS 2 YEAR ANNI" on Sat, 15 Aug 2026.
+The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RAGIE BAN x SOUND SELECTAS 2 YEAR ANNI" on Sat, 15 Aug 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Donnerstag (1), Joshwa, JULS (US) and Pietro and 2 more. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -17,4 +17,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming ni
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

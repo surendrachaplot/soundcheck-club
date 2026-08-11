@@ -1,6 +1,6 @@
 # Budakid
 
-Budakid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Paal69, Amsterdam on Sat, 29 Aug 2026.
+Budakid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Paal69, Amsterdam on Sat, 29 Aug 2026.
 
 Budakid is a house and deep house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Paal69, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Budakid is a house and deep house artist tracked on soundcheck, with 36 sets log
 
 Matthias Meyer, Guy J, Guy Mantzur
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*

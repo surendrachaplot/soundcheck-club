@@ -1,6 +1,6 @@
 # Blue Room
 
-Blue Room is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Planète Secrète takeover: Claire / Alicia Hush / Zepha" on Thu, 13 Aug 2026.
+Blue Room is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Planète Secrète takeover: Claire / Alicia Hush / Zepha" on Thu, 13 Aug 2026.
 
 Blue Room is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Alicia Hush, Claire, Dylan Cherry and Othman and 1 more. Browse upcoming dates, start times and who's playing. 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor.
 
@@ -15,4 +15,4 @@ Blue Room is a music venue in Montreal listed on soundcheck. 2 upcoming nights, 
 
 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor, Montreal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*

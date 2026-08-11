@@ -1,6 +1,6 @@
 # Anyss
 
-Anyss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+Anyss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
 
 Anyss is a house and techno artist tracked on soundcheck, with 29 sets logged across Hongkong. Often billed alongside Saint Bernard, Sunsiaré and Vence. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Anyss is a house and techno artist tracked on soundcheck, with 29 sets logged ac
 
 Saint Bernard, Sunsiaré, Vence
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*

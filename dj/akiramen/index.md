@@ -1,6 +1,6 @@
 # AKIRAM EN
 
-AKIRAM EN is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at SHeLTeR, Tokyo on Fri, 14 Aug 2026.
+AKIRAM EN is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at SHeLTeR, Tokyo on Fri, 14 Aug 2026.
 
 AKIRAM EN is a techno and experimental artist tracked on soundcheck, with 158 sets logged across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: SHeLTeR, Tokyo on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ AKIRAM EN is a techno and experimental artist tracked on soundcheck, with 158 se
 
 Ginji, KIMURA, SAITO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*

@@ -1,6 +1,6 @@
 # DJ SOURCE
 
-DJ SOURCE is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+DJ SOURCE is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 113 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundche
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*

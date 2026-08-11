@@ -1,6 +1,6 @@
 # TBA - Virgil Normal
 
-TBA - Virgil Normal is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "THE NEW NORMAL PRESENTS...CHAV" on Sat, 12 Sept 2026.
+TBA - Virgil Normal is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "THE NEW NORMAL PRESENTS...CHAV" on Sat, 12 Sept 2026.
 
 TBA - Virgil Normal is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Virgil Normal is a music venue in Losangeles listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | THE NEW NORMAL PRESENTS...CHAV |  |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-virgil-normal/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-virgil-normal/)*

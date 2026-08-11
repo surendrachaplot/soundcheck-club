@@ -1,6 +1,6 @@
 # Ovrtic
 
-Ovrtic is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
+Ovrtic is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
 
 Ovrtic is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Mo Dardouk, Missy T and Belmar (UK). Next up: Brixton Radio, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ovrtic is a garage and uk funky artist based in United Kingdom, tracked on sound
 
 Mo Dardouk, Missy T, Belmar (UK)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*

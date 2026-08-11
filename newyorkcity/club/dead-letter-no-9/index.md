@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Timo Lee, Armii1n - Dead Letter No.9" on Thu, 13 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Timo Lee, Armii1n - Dead Letter No.9" on Thu, 13 Aug 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -22,4 +22,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 9 upcomi
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

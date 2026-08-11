@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Virage, Paris on Thu, 13 Aug 2026.
+Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Virage, Paris on Thu, 13 Aug 2026.
 
 Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 52 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Virage, Paris on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 
 Adriana (1), DJ City, Babycino
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

@@ -1,6 +1,6 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "OCHO - The pOCHO Tour - SF" on Fri, 14 Aug 2026.
+Temple SF is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "OCHO - The pOCHO Tour - SF" on Fri, 14 Aug 2026.
 
 Temple SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
@@ -19,4 +19,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

@@ -1,6 +1,6 @@
 # BATACA
 
-BATACA is a Disco and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at MAD Radio NYC, New York City on Wed, 12 Aug 2026.
+BATACA is a Disco and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at MAD Radio NYC, New York City on Wed, 12 Aug 2026.
 
 BATACA is a disco and reggaeton artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside 8888, Honey Montana and Bergsonist. Next up: MAD Radio NYC, Newyorkcity on Wed 12 Aug.
 
@@ -24,4 +24,4 @@ BATACA is a disco and reggaeton artist based in United States of America, tracke
 
 8888, Honey Montana, Bergsonist
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bataca/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bataca/)*

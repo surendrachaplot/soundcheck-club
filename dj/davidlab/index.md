@@ -1,6 +1,6 @@
 # Davidlab
 
-Davidlab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
+Davidlab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
 
 Davidlab is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Guido Iacovitti, Hellotrip and disttler. Next up: Mena Berlin, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Davidlab is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Guido Iacovitti, Hellotrip, disttler
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlab/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlab/)*

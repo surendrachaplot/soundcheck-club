@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 23 Aug 2026.
+SHARE (NL) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 SHARE (NL) is a house and deep house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Basel, Berlin and Ibiza and 10 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: 528 Ibiza, Ibiza on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ SHARE (NL) is a house and deep house artist based in Netherlands, tracked on sou
 
 BOHEM, KAHMEYA, Mira
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

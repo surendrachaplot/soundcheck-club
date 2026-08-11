@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "14 JAHRE KOWA B-DAY – TIMELESS HOUSE CLASSICS" on Fri, 14 Aug 2026.
+Kowalski is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "14 JAHRE KOWA B-DAY – TIMELESS HOUSE CLASSICS" on Fri, 14 Aug 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including GIORG, Jochen Pash, Sayuri (GER) and Solvane and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -21,4 +21,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

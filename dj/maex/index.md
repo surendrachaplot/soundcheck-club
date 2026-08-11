@@ -1,6 +1,6 @@
 # Maex
 
-Maex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
+Maex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
 
 Maex is a house and tech house artist based in Germany, tracked on soundcheck, with 26 sets logged across Bali and Frankfurt. Often billed alongside James Taylor (AU), Claudius (DE) and Juliet Sikora. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Maex is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 James Taylor (AU), Claudius (DE), Juliet Sikora
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*

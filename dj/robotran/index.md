@@ -1,6 +1,6 @@
 # ROBOTRAN
 
-ROBOTRAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Local NY, New York City on Fri, 14 Aug 2026.
+ROBOTRAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Local NY, New York City on Fri, 14 Aug 2026.
 
 ROBOTRAN is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside SurfingDJs, FTZGRLD and Dockmaster. Next up: The Local NY, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ROBOTRAN is a techno and house artist based in United States of America, tracked
 
 SurfingDJs, FTZGRLD, Dockmaster
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*

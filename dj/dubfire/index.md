@@ -1,6 +1,6 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
+Dubfire is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Dubfire is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: Playa Soleil Ibiza, Ibiza on Wed 12 Aug.
 
@@ -31,4 +31,4 @@ Dubfire is a techno and house artist tracked on soundcheck, with 148 sets logged
 
 Joseph Capriati, Cristoph, Anfisa Letyago
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

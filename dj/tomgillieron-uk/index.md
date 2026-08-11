@@ -1,6 +1,6 @@
 # Tom Gillieron
 
-Tom Gillieron is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Four Quarters, London on Fri, 18 Sept 2026.
+Tom Gillieron is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Four Quarters, London on Fri, 18 Sept 2026.
 
 Tom Gillieron is a house and acid artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Prague. Often billed alongside Silverlining, Jon Hughes and Lucas Hulan. Next up: Four Quarters, London on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Tom Gillieron is a house and acid artist based in United Kingdom, tracked on sou
 
 Silverlining, Jon Hughes, Lucas Hulan
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomgillieron-uk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomgillieron-uk/)*

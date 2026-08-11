@@ -1,6 +1,6 @@
 # Costy
 
-Costy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club 69, Glasgow on Sat, 15 Aug 2026.
+Costy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club 69, Glasgow on Sat, 15 Aug 2026.
 
 Costy is a trance and techno artist based in Italy, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Gibby and TYZM. Next up: Club 69, Glasgow on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Costy is a trance and techno artist based in Italy, tracked on soundcheck, with 
 
 Gibby, TYZM
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costy/)*

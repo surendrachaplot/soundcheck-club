@@ -1,6 +1,6 @@
 # Micah Baxter
 
-Micah Baxter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Nest, Nottingham on Sun, 30 Aug 2026.
+Micah Baxter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Nest, Nottingham on Sun, 30 Aug 2026.
 
 Micah Baxter is a house and tech house artist tracked on soundcheck, with 22 sets logged across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C (1), Joss Dean and EVIE UK. Next up: The Nest, Nottingham on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Micah Baxter is a house and tech house artist tracked on soundcheck, with 22 set
 
 Jenny C (1), Joss Dean, EVIE UK
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micahbaxter/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micahbaxter/)*

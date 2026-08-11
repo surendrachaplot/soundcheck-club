@@ -1,6 +1,6 @@
 # Gammer
 
-Gammer is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Gammer is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
 Gammer is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Liverpool, London and Losangeles and 3 more. Often billed alongside Darren Styles, Hixxy and Klubfiller. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Gammer is a hardcore and club artist based in United Kingdom, tracked on soundch
 
 Darren Styles, Hixxy, Klubfiller
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*

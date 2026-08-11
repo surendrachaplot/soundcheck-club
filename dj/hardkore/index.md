@@ -1,6 +1,6 @@
 # HARDKORE
 
-HARDKORE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
+HARDKORE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
 
 HARDKORE is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 27 sets logged across Houston, Newyorkcity and Warsaw. Often billed alongside DREAMINSLOW, CYNICAL (US) and Via App. Next up: ErF Studios, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ HARDKORE is a techno and hardcore artist based in United States of America, trac
 
 DREAMINSLOW, CYNICAL (US), Via App
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardkore/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardkore/)*

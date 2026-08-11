@@ -1,6 +1,6 @@
 # Marco (UK)
 
-Marco (UK) is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Folklore, London on Sat, 17 Oct 2026.
+Marco (UK) is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Folklore, London on Sat, 17 Oct 2026.
 
 Marco (UK) is a deep house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: Folklore, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Marco (UK) is a deep house and techno artist based in United Kingdom, tracked on
 
 Dowden, Lavie Au Soleil, STRAY SON
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcouk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcouk/)*

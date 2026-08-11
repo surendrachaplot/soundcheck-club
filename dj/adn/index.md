@@ -1,6 +1,6 @@
 # ad*n
 
-ad*n is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+ad*n is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
 ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Emile and FITS ME FUNNY. Next up: Distrikt, Leeds on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Impulse Tracker, Emile, FITS ME FUNNY
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*

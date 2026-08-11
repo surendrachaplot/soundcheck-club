@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+TEDESCO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 TEDESCO is a techno and club artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Manuka Honey. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ TEDESCO is a techno and club artist tracked on soundcheck, with 120 sets logged 
 
 JONE OF ARX, Ivicore, Manuka Honey
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

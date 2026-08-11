@@ -1,6 +1,6 @@
 # Ms. Ed
 
-Ms. Ed is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Silverlake Lounge, Los Angeles on Thu, 13 Aug 2026.
+Ms. Ed is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Silverlake Lounge, Los Angeles on Thu, 13 Aug 2026.
 
 Ms. Ed is a deep house and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Losangeles, Portland and Sanfrancisco. Often billed alongside agraybé, Aaron Davis and Glo Phase. Next up: Silverlake Lounge, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Ms. Ed is a deep house and house artist based in United States of America, track
 
 agraybé, Aaron Davis, Glo Phase
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms-ed/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms-ed/)*

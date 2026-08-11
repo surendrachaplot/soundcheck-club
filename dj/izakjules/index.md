@@ -1,6 +1,6 @@
 # Izak Jules
 
-Izak Jules is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+Izak Jules is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Leeds, Rotterdam and Turin. Often billed alongside Daniele Temperilli, Julien Fuentes and LORI (NL). Next up: Shelter Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets 
 
 Daniele Temperilli, Julien Fuentes, LORI (NL)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*

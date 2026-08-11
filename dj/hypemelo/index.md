@@ -1,6 +1,6 @@
 # hypemelo
 
-hypemelo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Spkrbox, Detroit on Tue, 11 Aug 2026.
+hypemelo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spkrbox, Detroit on Tue, 11 Aug 2026.
 
 hypemelo is a techno and house artist based in United States of America, tracked on soundcheck, with 82 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Amino. Next up: Spkrbox, Detroit on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ hypemelo is a techno and house artist based in United States of America, tracked
 
 Garrison XR, Duck Trash, Amino
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypemelo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypemelo/)*

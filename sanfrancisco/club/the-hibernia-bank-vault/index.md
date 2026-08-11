@@ -1,6 +1,6 @@
 # The Hibernia Bank Vault
 
-The Hibernia Bank Vault is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "parked. vol. 4: recess in the sky" on Sun, 23 Aug 2026.
+The Hibernia Bank Vault is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "parked. vol. 4: recess in the sky" on Sun, 23 Aug 2026.
 
 The Hibernia Bank Vault is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Jones St., San Francisco, CA, 94102.
 
@@ -14,4 +14,4 @@ The Hibernia Bank Vault is a music venue in Sanfrancisco listed on soundcheck. 1
 
 1 Jones St., San Francisco, CA, 94102, San Francisco/Oakland
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-hibernia-bank-vault/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-hibernia-bank-vault/)*

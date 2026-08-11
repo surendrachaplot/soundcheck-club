@@ -1,6 +1,6 @@
 # Tinzo
 
-Tinzo is a House and Club artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TV Lounge, Detroit on Sat, 22 Aug 2026.
+Tinzo is a House and Club artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TV Lounge, Detroit on Sat, 22 Aug 2026.
 
 Tinzo is a house and club artist tracked on soundcheck, with 120 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Jojo Lorenzo, RaeCola and X & Ivy. Next up: TV Lounge, Detroit on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Tinzo is a house and club artist tracked on soundcheck, with 120 sets logged acr
 
 Jojo Lorenzo, RaeCola, X & Ivy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*

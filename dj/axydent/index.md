@@ -1,6 +1,6 @@
 # Axydent
 
-Axydent is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 21 Aug 2026.
+Axydent is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 21 Aug 2026.
 
 Axydent is a trance and techno artist tracked on soundcheck, with 11 sets logged across Budapest. Often billed alongside Akác, Technokool and Kamafaka. Next up: Aether Club Budapest, Budapest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Axydent is a trance and techno artist tracked on soundcheck, with 11 sets logged
 
 Akác, Technokool, Kamafaka
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axydent/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axydent/)*

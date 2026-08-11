@@ -1,13 +1,14 @@
 # Mati Amoretti
 
-Mati Amoretti is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Mati Amoretti is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kimchi Records, Berlin on Fri, 14 Aug 2026.
 
-Mati Amoretti is a house and deep house artist based in Argentina, tracked on soundcheck, with 22 sets logged across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
+Mati Amoretti is a house and deep house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: Kimchi Records, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Kimchi Records | Berlin |
 | Thu, 20 Aug 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mati Amoretti is a house and deep house artist based in Argentina, tracked on so
 
 oulcan, Tom Pavicich, Nacho Carbajal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*

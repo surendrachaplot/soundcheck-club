@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Cirque Du Soul: Leeds // Back To Beaver Works" on Fri, 25 Sept 2026.
+Beaver Works is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Cirque Du Soul: Leeds // Back To Beaver Works" on Fri, 25 Sept 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Bakey, ESC (5), Fonzo (UK) and Iration Steppas and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -17,4 +17,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming nights, 
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

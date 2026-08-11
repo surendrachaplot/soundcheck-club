@@ -1,6 +1,6 @@
 # DJ Syncbutton
 
-DJ Syncbutton is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 14 Aug 2026.
+DJ Syncbutton is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 14 Aug 2026.
 
 DJ Syncbutton is an ebm and italo disco artist based in Hungary, tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside Sobek, Arash Ete and Galactic Jackson. Next up: Pontoon Budapest, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Syncbutton is an ebm and italo disco artist based in Hungary, tracked on soun
 
 Sobek, Arash Ete, Galactic Jackson
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*

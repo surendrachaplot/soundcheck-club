@@ -1,6 +1,6 @@
 # Steve Bicknell
 
-Steve Bicknell is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Steve Bicknell is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
 
 Steve Bicknell is a techno and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Basel and 10 more. Often billed alongside Kerrie, Mareena and Bloody Mary. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Steve Bicknell is a techno and house artist based in United Kingdom, tracked on 
 
 Kerrie, Mareena, Bloody Mary
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*

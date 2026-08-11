@@ -1,6 +1,6 @@
 # Gianpula Village
 
-Gianpula Village is a music venue in Malta with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Glitch Festival 2026" on Wed, 12 Aug 2026.
+Gianpula Village is a music venue in Malta with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Glitch Festival 2026" on Wed, 12 Aug 2026.
 
 Gianpula Village is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Adrian Mills, Alarico, Amelie Lens and AMORAL and 2 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -14,4 +14,4 @@ Gianpula Village is a music venue in Malta listed on soundcheck. 1 upcoming nigh
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*

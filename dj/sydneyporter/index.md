@@ -1,6 +1,6 @@
 # Sydney Porter
 
-Sydney Porter is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
+Sydney Porter is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
 
 Sydney Porter is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside Ataxia, Mister Joshooa and The Bernabela Project. Next up: Marble Bar, Detroit on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Sydney Porter is an electronic artist based in United States of America, tracked
 
 Ataxia, Mister Joshooa, The Bernabela Project
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyporter/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyporter/)*

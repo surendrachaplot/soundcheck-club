@@ -1,6 +1,6 @@
 # TORAO
 
-TORAO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
+TORAO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
 
 TORAO is a house and techno artist tracked on soundcheck, with 76 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, Celter and Chihoshi. Next up: Oath, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ TORAO is a house and techno artist tracked on soundcheck, with 76 sets logged ac
 
 Wada Yosuke, Celter, Chihoshi
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torao/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torao/)*

@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+The Blaze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
 
 The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: TBA, Brussels on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logge
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

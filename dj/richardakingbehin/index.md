@@ -1,6 +1,6 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Blå, Oslo on Sat, 22 Aug 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Blå, Oslo on Sat, 22 Aug 2026.
 
 Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Blå, Oslo on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 Tikiman, Fadi Mohem, livwutang
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+1morning is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 1morning is a techno and club artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -31,4 +31,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

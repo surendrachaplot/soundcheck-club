@@ -1,14 +1,15 @@
 # Jase Jeffery
 
-Jase Jeffery is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
+Jase Jeffery is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
 
-Jase Jeffery is a house and techno artist tracked on soundcheck, with 47 sets logged across London, Manchester and Sheffield. Often billed alongside David James MCR, Esmé and Aiden Francis. Next up: The DBA, Manchester on Sat 29 Aug.
+Jase Jeffery is a house and techno artist tracked on soundcheck, with 48 sets logged across London, Manchester and Sheffield. Often billed alongside David James MCR, Esmé and Aiden Francis. Next up: The DBA, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The DBA | Manchester |
+| Fri, 4 Sept 2026 | Eastern Bloc Records | Manchester |
 | Sat, 5 Sept 2026 | The DBA | Manchester |
 | Fri, 18 Sept 2026 | The DBA | Manchester |
 
@@ -27,4 +28,4 @@ Jase Jeffery is a house and techno artist tracked on soundcheck, with 47 sets lo
 
 David James MCR, Esmé, Aiden Francis
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*

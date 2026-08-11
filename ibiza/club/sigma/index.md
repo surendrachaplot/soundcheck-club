@@ -1,14 +1,16 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Indeep" on Tue, 11 Aug 2026.
+Sigma is a music venue in Ibiza with 15 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Indeep //LAST FREE TICKET" on Tue, 11 Aug 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with line-ups including Arnaud Le Texier, Luigi Rossi, Marcelo Demarco and Santa Cruz. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 15 upcoming nights, with line-ups including Arnaud Le Texier, Frankp, Ilex and Luce and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Indeep |  |
+| Tue, 11 Aug 2026 | Indeep //LAST FREE TICKET |  |
+| Wed, 12 Aug 2026 | Doop Rec | Frankp, Mochitek |
+| Fri, 14 Aug 2026 | OFFSET | Ilex, Luce |
 | Tue, 18 Aug 2026 | Indeep |  |
 | Fri, 21 Aug 2026 | Episode 4 | Arnaud Le Texier, Marcelo Demarco, Santa Cruz |
 | Tue, 25 Aug 2026 | Indeep |  |
@@ -16,11 +18,9 @@ Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with l
 | Fri, 28 Aug 2026 | Makino Ibiza [Drum & Bass, Jungle, 140] |  |
 | Sun, 30 Aug 2026 | Bonus Sunday |  |
 | Tue, 1 Sept 2026 | Indeep |  |
-| Tue, 8 Sept 2026 | Indeep |  |
-| Tue, 15 Sept 2026 | Indeep |  |
 
 ## Address
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

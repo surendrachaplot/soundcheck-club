@@ -1,14 +1,15 @@
 # djsmuz
 
-djsmuz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Buff Club, Glasgow on Fri, 14 Aug 2026.
+djsmuz is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Buff Club, Glasgow on Fri, 14 Aug 2026.
 
-djsmuz is a house and disco artist tracked on soundcheck, with 30 sets logged across Glasgow. Often billed alongside C Frame, F Kay and Jenn Gunn (2). Next up: The Buff Club, Glasgow on Fri 14 Aug.
+djsmuz is a house and disco artist tracked on soundcheck, with 31 sets logged across Glasgow. Often billed alongside C Frame, F Kay and FinnJ. Next up: The Buff Club, Glasgow on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The Buff Club | Glasgow |
+| Fri, 21 Aug 2026 | The Buff Club | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ djsmuz is a house and disco artist tracked on soundcheck, with 30 sets logged ac
 
 ## Shares bills with
 
-C Frame, F Kay, Jenn Gunn (2)
+C Frame, F Kay, FinnJ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmuz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmuz/)*

@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "マサミーナイト" on Mon, 10 Aug 2026.
+ZUBAR is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "SEVENTH HEAVEN" on Fri, 21 Aug 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including AKARI, Dsitb, Futa and Tada and 1 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including AKARI, Dsitb, Futa and Tada and 1 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | マサミーナイト | TOSHIHISA HIRANO |
 | Fri, 21 Aug 2026 | SEVENTH HEAVEN |  |
 | Sat, 22 Aug 2026 | kosmoss |  |
 | Sun, 23 Aug 2026 | CLEAN #29 | TOSHIHISA HIRANO |
@@ -18,9 +17,10 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with l
 | Sat, 29 Aug 2026 | Loose Sessions ~ ゆるり |  |
 | Sun, 30 Aug 2026 | Atmosphere | Dsitb |
 | Sun, 30 Aug 2026 | SUMMERTIME SADNESS |  |
+| Wed, 2 Sept 2026 | JAZZ SENTINEL |  |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

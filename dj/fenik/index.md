@@ -1,6 +1,6 @@
 # FENIK
 
-FENIK is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Sat, 17 Oct 2026.
+FENIK is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lincoln Factory, Detroit on Sat, 17 Oct 2026.
 
 FENIK is a tech house and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit and Nashville. Often billed alongside Walker & Royce, Cisco and HNTR. Next up: Lincoln Factory, Detroit on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ FENIK is a tech house and house artist based in United States of America, tracke
 
 Walker & Royce, Cisco, HNTR
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenik/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenik/)*

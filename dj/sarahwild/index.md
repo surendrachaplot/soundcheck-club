@@ -1,6 +1,6 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Sarah Wild is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -10,7 +10,7 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
-| Sat, 5 Sept 2026 | Südbrücke | Cologne |
+| Sat, 5 Sept 2026 | Südbrücke Open Air | Cologne |
 | Sat, 5 Sept 2026 | Houtrijk | Amsterdam |
 
 ## Recently played
@@ -28,4 +28,4 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 
 Kotoe, Chris Schwarzwälder, Daniel Cowel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

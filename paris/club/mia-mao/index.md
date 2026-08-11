@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE" on Fri, 21 Aug 2026.
+Mia Mao is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE" on Fri, 21 Aug 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -10,7 +10,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE | Nightowl |
 | Sat, 22 Aug 2026 | CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe | Camille Doe, Ewan McVicar, Lu.Re, Matrefakt |
-| Fri, 28 Aug 2026 | RAW: Danny Wabbit, KLOUD, LARS HUISSMANN, Tigerhead & Dizzy | Danny Wabbit, Dizzy, KLOUD, Tigerhead |
+| Fri, 28 Aug 2026 | RAW : KLOUD, LARS HUISMANN, Danny Wabbit, Tigerhead & Dizzy | Danny Wabbit, Dizzy, KLOUD, Tigerhead |
 | Sat, 29 Aug 2026 | Roar By Pisica: Jayron, Stan Christ, Rebekah & More | Radar (RU), Rebekah, Stan Christ |
 | Fri, 4 Sept 2026 | KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer | 00rt, NEUX, Panzer, Regal |
 | Sat, 5 Sept 2026 | Fluid: DJ GUESTLIST, CLTX, Noimage, Ghosty & Tara Toska | CLTX, DJ GUESTLIST, Ghosty (1), Noimage |
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

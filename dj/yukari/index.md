@@ -1,6 +1,6 @@
 # Yukari
 
-Yukari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Colours Hoxton, London on Sat, 22 Aug 2026.
+Yukari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Colours Hoxton, London on Sat, 22 Aug 2026.
 
 Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Berlin, London, Tokyo and Vienna. Often billed alongside Kazuki Takahashi, Emilion Dollar Baby and Tina Technotic. Next up: Colours Hoxton, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Kazuki Takahashi, Emilion Dollar Baby, Tina Technotic
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*

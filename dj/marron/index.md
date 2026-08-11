@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+MARRØN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+MARRØN is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Fri, 14 Aug 2026 | Tanzhaus West | Frankfurt |
 | Fri, 4 Sept 2026 | Fuchs2 | Prague |
@@ -22,6 +21,7 @@ MARRØN is a techno and house artist tracked on soundcheck, with 253 sets logged
 
 ## Recently played
 
+- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Motel Campo, Geneva — Sat, 8 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
@@ -29,10 +29,9 @@ MARRØN is a techno and house artist tracked on soundcheck, with 253 sets logged
 - FOLD, London — Sat, 25 Jul 2026
 - Odonien, Cologne — Fri, 24 Jul 2026
 - Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 23 Jul 2026
-- Fabrik, Madrid — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

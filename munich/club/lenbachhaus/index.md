@@ -1,6 +1,6 @@
 # Lenbachhaus
 
-Lenbachhaus is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "extra+ with tba" on Thu, 3 Sept 2026.
+Lenbachhaus is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "extra+ with tba" on Thu, 3 Sept 2026.
 
 Lenbachhaus is a music venue in Munich listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Luisenstrasse 33 , 80333 Munich.
 
@@ -16,4 +16,4 @@ Lenbachhaus is a music venue in Munich listed on soundcheck. 3 upcoming nights. 
 
 Luisenstrasse 33 , 80333 Munich, Munich
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lenbachhaus/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lenbachhaus/)*

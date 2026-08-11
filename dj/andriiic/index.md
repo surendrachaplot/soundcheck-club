@@ -1,8 +1,8 @@
 # Andriiic
 
-Andriiic is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Andriiic is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-Andriiic is a techno and trance artist based in Chile, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside DJ Jordan, MCHL51 and Marí Kozlovska. Next up: Void Club, Berlin on Fri 25 Sept.
+Andriiic is a techno and trance artist based in Chile, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside DJ Jordan, Endica and MCHL51. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Andriiic is a techno and trance artist based in Chile, tracked on soundcheck, wi
 
 ## Shares bills with
 
-DJ Jordan, MCHL51, Marí Kozlovska
+DJ Jordan, Endica, MCHL51
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andriiic/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andriiic/)*

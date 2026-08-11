@@ -1,6 +1,6 @@
 # Maks
 
-Maks is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 22 Aug 2026.
+Maks is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 22 Aug 2026.
 
 Maks is a minimal techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bucharest, Tbilisi and Washingtondc. Often billed alongside Gescu, enz.O and Aksed. Next up: Platforma Wolff, Bucharest on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Maks is a minimal techno and house artist based in United Kingdom, tracked on so
 
 Gescu, enz.O, Aksed
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maks/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maks/)*

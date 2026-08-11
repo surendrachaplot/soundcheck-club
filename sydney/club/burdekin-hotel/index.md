@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Resonate A Journey Of Trance" on Sat, 22 Aug 2026.
+Burdekin Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Resonate A Journey Of Trance" on Sat, 22 Aug 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -15,4 +15,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming night
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

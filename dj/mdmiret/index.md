@@ -1,6 +1,6 @@
 # MdMiret
 
-MdMiret is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
+MdMiret is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
 
 MdMiret is a house and tech house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside MVGRI, ArceX and Bassel Darwish. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ MdMiret is a house and tech house artist based in Spain, tracked on soundcheck, 
 
 MVGRI, ArceX, Bassel Darwish
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmiret/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmiret/)*

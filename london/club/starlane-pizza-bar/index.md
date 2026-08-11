@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Twinspinsz ↠ Ishtar's Birthday Bash" on Fri, 14 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 27 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Twinspinsz ↠ Ishtar's Birthday Bash" on Fri, 14 Aug 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Aerofunk, Alfie, Belmonte and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Aerofunk, Alfie, Belmonte and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Twinspinsz ↠ Ishtar's Birthday Bash | Dylan James, Emile, FITS ME FUNNY, dylan.james |
 | Sat, 15 Aug 2026 | The Summerhouse Project: Starlane Pizza Bar | Rodney (3), Sahil |
-| Sat, 15 Aug 2026 | Subtil presents: Shkedul + Residents | Elijah Lawrence, Lescu, Shkedul |
+| Sat, 15 Aug 2026 | [CANCELLED] Subtil presents: Shkedul + Residents | Elijah Lawrence, Lescu, Shkedul |
 | Sun, 16 Aug 2026 | Saints & Sinners with Greg Brockmann, ØLMØ, Twang & Vindya | Greg Brockmann, Twang, Vindya, ØLMØ |
 | Sun, 16 Aug 2026 | Art Of Dark - Summer Heights After Party |  |
 | Fri, 21 Aug 2026 | WaxRunnerz at Starlane Pizza Bar | Ize (1), Jude Lenihan, Marcus Waxx, Mya (1), NOIDMATE, SCCO |
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

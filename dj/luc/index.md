@@ -1,6 +1,6 @@
 # Luc *
 
-Luc * is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Glove That Fits, London on Sat, 15 Aug 2026.
+Luc * is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Sat, 15 Aug 2026.
 
 Luc * is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, London, Mexicocity and Milan and 1 more. Often billed alongside OllyK, AINA.KRU and Alhena_. Next up: The Glove That Fits, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Luc * is a techno and electro artist based in United Kingdom, tracked on soundch
 
 OllyK, AINA.KRU, Alhena_
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luc/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luc/)*

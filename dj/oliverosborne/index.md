@@ -1,8 +1,8 @@
 # Oliver Osborne
 
-Oliver Osborne is a Electronica and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Oliver Osborne is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
-Oliver Osborne is an electronica and deep house artist based in Singapore, tracked on soundcheck, with 1 set logged across Mykonos. Often billed alongside Abana, Alex Dallas and Dest. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
+Oliver Osborne is a deep house and electronica artist based in Singapore, tracked on soundcheck, with 1 set logged across Mykonos. Often billed alongside Abana, Alex Dallas and Dest. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Oliver Osborne is an electronica and deep house artist based in Singapore, track
 
 Abana, Alex Dallas, Dest
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverosborne/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverosborne/)*

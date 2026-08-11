@@ -1,14 +1,15 @@
 # KING SHE
 
-KING SHE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
+KING SHE is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
 
-KING SHE is a club and techno artist tracked on soundcheck, with 35 sets logged across Seoul. Often billed alongside Ligrye, FAKEDEEPLEE and KISEWA. Next up: Cakeshop, Seoul on Fri 14 Aug.
+KING SHE is a club and techno artist tracked on soundcheck, with 36 sets logged across Seoul. Often billed alongside Ligrye, FAKEDEEPLEE and KISEWA. Next up: Cakeshop, Seoul on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Cakeshop | Seoul |
+| Sun, 16 Aug 2026 | Quest | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KING SHE is a club and techno artist tracked on soundcheck, with 35 sets logged 
 
 Ligrye, FAKEDEEPLEE, KISEWA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshe/)*

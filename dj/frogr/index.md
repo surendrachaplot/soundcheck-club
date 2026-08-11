@@ -1,6 +1,6 @@
 # FROGR
 
-FROGR is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
+FROGR is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
 
 FROGR is a tech house and trance artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside C-systems, DJMrB and Sago. Next up: XOYO, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ FROGR is a tech house and trance artist tracked on soundcheck, with 3 sets logge
 
 C-systems, DJMrB, Sago
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*

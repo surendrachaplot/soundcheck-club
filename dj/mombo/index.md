@@ -1,13 +1,14 @@
 # Mombo
 
-Mombo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
+Mombo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
 
-Mombo is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Brussels. Often billed alongside Groove Principality, AMARE and DOBE. Next up: Place D'espagne, Brussels on Sun 16 Aug.
+Mombo is a techno and house artist based in Spain, tracked on soundcheck, with 9 sets logged across Brussels. Often billed alongside Groove Principality, AMARE and bemira. Next up: Place D'espagne, Brussels on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Place D'espagne | Brussels |
 | Sun, 16 Aug 2026 | Place D'espagne | Brussels |
 
 ## Recently played
@@ -22,6 +23,6 @@ Mombo is a techno and house artist based in Spain, tracked on soundcheck, with 8
 
 ## Shares bills with
 
-Groove Principality, AMARE, DOBE
+Groove Principality, AMARE, bemira
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mombo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mombo/)*

@@ -1,6 +1,6 @@
 # Dedenia
 
-Dedenia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
+Dedenia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
 
 Dedenia is a techno and house artist based in Poland, tracked on soundcheck, with 27 sets logged across Krakow and Warsaw. Often billed alongside Viennaus, PayoYayo and DJNIEMUSIAŁ. Next up: Barka Schodki, Warsaw on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dedenia is a techno and house artist based in Poland, tracked on soundcheck, wit
 
 Viennaus, PayoYayo, DJNIEMUSIAŁ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dedenia/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dedenia/)*

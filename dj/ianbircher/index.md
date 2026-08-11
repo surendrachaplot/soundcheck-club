@@ -1,6 +1,6 @@
 # Ian Bircher
 
-Ian Bircher is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Alcove Nottingham, Nottingham on Sat, 31 Oct 2026.
+Ian Bircher is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Alcove Nottingham, Nottingham on Sat, 31 Oct 2026.
 
 Ian Bircher is a progressive house and deep house artist tracked on soundcheck, with 13 sets logged across London and Nottingham. Often billed alongside Robin Cooper, Naws and Coxon. Next up: Alcove Nottingham, Nottingham on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ian Bircher is a progressive house and deep house artist tracked on soundcheck, 
 
 Robin Cooper, Naws, Coxon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianbircher/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianbircher/)*

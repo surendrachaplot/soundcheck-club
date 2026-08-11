@@ -1,6 +1,6 @@
 # Pallas Projects Studios
 
-Pallas Projects Studios is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "In Electric Dreams" on Sat, 22 Aug 2026.
+Pallas Projects Studios is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "In Electric Dreams" on Sat, 22 Aug 2026.
 
 Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including BÁHDO, Bull Horris, JWY (1) and Rising Damp and 1 more. Browse upcoming dates, start times and who's playing. 115–117 The Coombe, The Liberties, Dublin 8, Ireland.
 
@@ -14,4 +14,4 @@ Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 1 upcom
 
 115–117 The Coombe, The Liberties, Dublin 8, Ireland, Dublin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*

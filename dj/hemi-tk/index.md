@@ -1,13 +1,14 @@
 # Hemi
 
-Hemi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at gART.n, Berlin on Sat, 29 Aug 2026.
+Hemi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
-Hemi is a house and techno artist based in Turkey, tracked on soundcheck, with 23 sets logged across Amsterdam, Athens, Berlin and Istanbul and 1 more. Often billed alongside Johannes Albert, Kantel and Space Motion. Next up: gART.n, Berlin on Sat 29 Aug.
+Hemi is a house and techno artist based in Turkey, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Berlin and Istanbul and 1 more. Often billed alongside Johannes Albert, Kantel and Space Motion. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Sat, 29 Aug 2026 | gART.n | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hemi is a house and techno artist based in Turkey, tracked on soundcheck, with 2
 
 Johannes Albert, Kantel, Space Motion
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hemi-tk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hemi-tk/)*

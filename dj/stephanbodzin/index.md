@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sun, 16 Aug 2026.
+Stephan Bodzin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sun, 16 Aug 2026.
 
 Stephan Bodzin is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: TBA - Chacra El Descanso, La Plata, Buenosaires on Sun 16 Aug.
 
@@ -29,4 +29,4 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 105 sets
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

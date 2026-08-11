@@ -1,6 +1,6 @@
 # ESSHAR
 
-ESSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+ESSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 ESSHAR is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside Surreal (DE), Marco Baskind and Antoine Baiser. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ESSHAR is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Surreal (DE), Marco Baskind, Antoine Baiser
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esshar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esshar/)*

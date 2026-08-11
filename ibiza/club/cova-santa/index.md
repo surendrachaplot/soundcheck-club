@@ -1,6 +1,6 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PIV IBIZA TUESDAYS - August 11" on Tue, 11 Aug 2026.
+Cova Santa is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "PIV IBIZA TUESDAYS - August 11" on Tue, 11 Aug 2026.
 
 Cova Santa is a music venue in Ibiza listed on soundcheck. 30 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 30 upcoming nights, w
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

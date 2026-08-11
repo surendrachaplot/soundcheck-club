@@ -1,8 +1,8 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "The Midnight Project" on Fri, 4 Sept 2026.
+Paradiso is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Midnight Project" on Fri, 4 Sept 2026.
 
-Paradiso is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including AAT (NL), Answer Code Request, Artefakt and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
+Paradiso is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including AAT (NL), Answer Code Request, Artefakt and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights,
 | Fri, 18 Sept 2026 | Delsin: 30 Years Anniversary | .VRIL, Answer Code Request, Artefakt, Claudio PRC, Conforce, Dave Huismans, Delta Funktionen, Laima Adelaide, Mattikk, Newworldaquarium, STERAC, Sandrien |
 | Sat, 10 Oct 2026 | Hush with Michel de Hey, AAT & More | AAT (NL), Michel de Hey, Simon Kidzoo |
 | Wed, 21 Oct 2026 | MALUGI - ADE | MALUGI |
+| Wed, 21 Oct 2026 | DJ Snake - ADE | DJ Snake |
 | Thu, 22 Oct 2026 | State OFFF // ADE | State OFFF |
 | Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart |
 | Thu, 22 Oct 2026 | Anjunadeep - ADE |  |
 | Sat, 24 Oct 2026 | Speedy J presents STOOR Live - ADE 2026 (Day 1) | JakoJako, Lady Starlight, Rødhåd, Speedy J, UFO95 |
-| Sun, 25 Oct 2026 | Speedy J presents STOOR Live - ADE 2026 (Day 2) | Donato Dozzy, Speedy J, The Fear Ratio, Wallis |
 
 ## Address
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

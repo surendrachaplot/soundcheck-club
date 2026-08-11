@@ -1,8 +1,8 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Motion" on Sun, 16 Aug 2026.
+Aoyama Hachi is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Motion" on Sun, 16 Aug 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 雷庵(RYan), BUD (1), DJ SHINTARO and Fox (US) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 雷庵(RYan), BUD (1), DJ SHINTARO and Fox (US) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, 
 | Sun, 23 Aug 2026 | tide |  |
 | Fri, 28 Aug 2026 | Jazz'N'Bass -Drum'n'Bass174/87 | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 30 Aug 2026 | Motion | DJ SHINTARO, Fox (US), Kamekawa, SIGNAL (JP), TAIYO (2) |
+| Tue, 1 Sept 2026 | Dancing Building | Hiroyuki Abe, Keigo |
 | Sun, 13 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Fri, 23 Oct 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
@@ -20,4 +21,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, 
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

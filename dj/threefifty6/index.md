@@ -1,6 +1,6 @@
 # ThreeFifty6
 
-ThreeFifty6 is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Crate Brewery, London on Sun, 16 Aug 2026.
+ThreeFifty6 is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crate Brewery, London on Sun, 16 Aug 2026.
 
 ThreeFifty6 is a house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside Alec Falconer, Garrett David and Jordan Masters. Next up: Crate Brewery, London on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ ThreeFifty6 is a house artist based in United Kingdom, tracked on soundcheck, wi
 
 Alec Falconer, Garrett David, Jordan Masters
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/threefifty6/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/threefifty6/)*

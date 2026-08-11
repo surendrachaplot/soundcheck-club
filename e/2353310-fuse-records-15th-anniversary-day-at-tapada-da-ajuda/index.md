@@ -1,0 +1,26 @@
+# Fuse Records: 15th Anniversary (Day) at Tapada da Ajuda
+
+Fuse Records: 15th Anniversary (Day) at Tapada da Ajuda on Sat 29 Aug, Lisbon. 12 acts on the bill: Ale De Tuglie, Analodjica, Booka Shade and Boundless (1) and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 29 Aug 2026 |
+| Venue | Tapada da Ajuda |
+| City | Lisbon |
+
+## Line-up
+
+- Ale De Tuglie
+- Analodjica
+- Booka Shade
+- Boundless (1)
+- Carlos Regadas
+- DJ Nox
+- Jorge Martins
+- Khalil Suleman
+- Luca Guichard
+- Luis M.
+- Moullinex
+- Syper
+
+*Source: [soundcheck](https://soundcheck.club/e/2353310-fuse-records-15th-anniversary-day-at-tapada-da-ajuda/)*

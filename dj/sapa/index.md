@@ -1,6 +1,6 @@
 # Sa Pa
 
-Sa Pa is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Sa Pa is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Sa Pa is an ambient and dub artist tracked on soundcheck, with 14 sets logged across Amsterdam, Belfast, Berlin and London and 3 more. Often billed alongside BLUME, Ario and F-on. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Sa Pa is an ambient and dub artist tracked on soundcheck, with 14 sets logged ac
 
 BLUME, Ario, F-on
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sapa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sapa/)*

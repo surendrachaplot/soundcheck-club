@@ -1,14 +1,15 @@
 # Kulage
 
-Kulage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Z Maruyama, Tokyo on Sat, 15 Aug 2026.
+Kulage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Z Maruyama, Tokyo on Sat, 15 Aug 2026.
 
-Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 104 sets logged across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: Z Maruyama, Tokyo on Sat 15 Aug.
+Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 105 sets logged across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: Z Maruyama, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Z Maruyama | Tokyo |
+| Sat, 22 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 WAKA XINXI, DJ AKi, YELLOCK
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*

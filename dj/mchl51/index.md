@@ -1,8 +1,8 @@
 # MCHL51
 
-MCHL51 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+MCHL51 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-MCHL51 is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Andriiic, DJ Jordan and Marí Kozlovska. Next up: Void Club, Berlin on Fri 25 Sept.
+MCHL51 is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Andriiic, DJ Jordan and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ MCHL51 is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Andriiic, DJ Jordan, Marí Kozlovska
+Andriiic, DJ Jordan, Endica
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mchl51/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mchl51/)*

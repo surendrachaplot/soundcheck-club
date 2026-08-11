@@ -1,6 +1,6 @@
 # Sketchy Beats Cafe
 
-Sketchy Beats Cafe is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SNOISIΔ - mashed up hard dance music" on Fri, 14 Aug 2026.
+Sketchy Beats Cafe is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "SNOISIΔ - mashed up hard dance music" on Fri, 14 Aug 2026.
 
 Sketchy Beats Cafe is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 208 Great Junction Street, Edinburgh, EH6 5LW, Scotland.
 
@@ -18,4 +18,4 @@ Sketchy Beats Cafe is a music venue in Edinburgh listed on soundcheck. 5 upcomin
 
 208 Great Junction Street, Edinburgh, EH6 5LW, Scotland, Edinburgh
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sketchy-beats-cafe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sketchy-beats-cafe/)*

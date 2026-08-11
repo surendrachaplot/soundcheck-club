@@ -1,6 +1,6 @@
 # Jim Rider
 
-Jim Rider is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 25 Sept 2026.
+Jim Rider is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 25 Sept 2026.
 
 Jim Rider is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 8 more. Often billed alongside Lee Burridge, Tim Green and Lost Desert. Next up: Do Not Sit On The Furniture, Miami on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jim Rider is a deep house and house artist based in United Kingdom, tracked on s
 
 Lee Burridge, Tim Green, Lost Desert
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimrider/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimrider/)*

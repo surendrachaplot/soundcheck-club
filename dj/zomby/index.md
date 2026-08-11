@@ -1,8 +1,8 @@
 # Zomby
 
-Zomby is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Phonox, London on Fri, 11 Sept 2026.
+Zomby is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Phonox, London on Fri, 11 Sept 2026.
 
-Zomby is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside leahgte, amil raja and MssingNo. Next up: Phonox, London on Fri 11 Sept.
+Zomby is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside MssingNo, amil raja and leahgte. Next up: Phonox, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Zomby is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 ## Shares bills with
 
-leahgte, amil raja, MssingNo
+MssingNo, amil raja, leahgte
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zomby/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zomby/)*

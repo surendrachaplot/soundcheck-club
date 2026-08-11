@@ -1,6 +1,6 @@
 # JALO (NL)
 
-JALO (NL) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 11 Sept 2026.
+JALO (NL) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 11 Sept 2026.
 
 JALO (NL) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Dublin and Montreal and 4 more. Often billed alongside BLNK, SANTØS and Hurts. Next up: Entrepôts Dominion, Les, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ JALO (NL) is a techno and industrial artist based in Netherlands, tracked on sou
 
 BLNK, SANTØS, Hurts
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalonl/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalonl/)*

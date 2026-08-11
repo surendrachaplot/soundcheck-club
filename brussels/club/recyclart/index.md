@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "ZAZA CLUB: Klein & XT1ANA / Shauwdii / Soa420 / iced lattina / VINESSETT" on Sat, 12 Sept 2026.
+Recyclart is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "ZAZA CLUB: Klein & XT1ANA / Shauwdii / Soa420 / iced lattina / VINESSETT" on Sat, 12 Sept 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including iced lattina, Klein, Soa420 and VINESSETT and 1 more. Browse upcoming dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -14,4 +14,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 1 upcoming night, w
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

@@ -1,6 +1,6 @@
 # Max Kulchinsky
 
-Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The A.I.R Building, Tokyo on Fri, 28 Aug 2026.
+Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The A.I.R Building, Tokyo on Fri, 28 Aug 2026.
 
 Max Kulchinsky is a house and funk / soul artist tracked on soundcheck, with 9 sets logged across Newyorkcity, Philadelphia and Tokyo. Often billed alongside Billy Bevevino, Rasaaq and Shinichiro Yokota. Next up: The A.I.R Building, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Max Kulchinsky is a house and funk / soul artist tracked on soundcheck, with 9 s
 
 Billy Bevevino, Rasaaq, Shinichiro Yokota
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*

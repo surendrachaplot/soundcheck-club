@@ -1,6 +1,6 @@
 # Paola Vigorito
 
-Paola Vigorito is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 11 Aug 2026.
+Paola Vigorito is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 11 Aug 2026.
 
 Paola Vigorito is a house and tech house artist based in Brazil, tracked on soundcheck, with 21 sets logged across Lisbon and Saopaulo. Often billed alongside Adnan Sharif, A-CIDO and Anderson Noise. Next up: Collect - Cais do Sodre, Lisbon on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Paola Vigorito is a house and tech house artist based in Brazil, tracked on soun
 
 Adnan Sharif, A-CIDO, Anderson Noise
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*

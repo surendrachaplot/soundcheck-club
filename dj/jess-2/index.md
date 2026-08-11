@@ -1,6 +1,6 @@
 # Jess (2)
 
-Jess (2) is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
+Jess (2) is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
 
 Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 10 sets logged across Budapest, Lisbon, Melbourne and Paris and 2 more. Often billed alongside Baazs, Jaffa Surfa and Adelina. Next up: Jasna 1, Warsaw on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 1
 
 Baazs, Jaffa Surfa, Adelina
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*

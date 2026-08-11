@@ -1,6 +1,6 @@
 # Amadori
 
-Amadori is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
+Amadori is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
 
 Amadori is a progressive house and house artist based in Argentina, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona and Istanbul. Often billed alongside Gespona, Djolee and Martin Cozar. Next up: Macarena Club, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Amadori is a progressive house and house artist based in Argentina, tracked on s
 
 Gespona, Djolee, Martin Cozar
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amadori/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amadori/)*

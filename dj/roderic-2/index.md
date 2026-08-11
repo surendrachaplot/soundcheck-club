@@ -1,6 +1,6 @@
 # Roderic (2)
 
-Roderic (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Do Not Sit On The Furniture, Miami on Sat, 15 Aug 2026.
+Roderic (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Do Not Sit On The Furniture, Miami on Sat, 15 Aug 2026.
 
 Roderic (2) is a house and deep house artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Jo.Ke, Barreto and GOLDEN PINEAPPLE. Next up: Do Not Sit On The Furniture, Miami on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Roderic (2) is a house and deep house artist based in Mexico, tracked on soundch
 
 Jo.Ke, Barreto, GOLDEN PINEAPPLE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic-2/)*

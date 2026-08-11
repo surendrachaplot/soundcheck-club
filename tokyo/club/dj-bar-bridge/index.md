@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 45 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "DJ MINOYAMA, DAH-ISHI, ISABELLE & CHEBB" on Mon, 10 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 44 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RYOSUKE, EDDY & DJ NOTSUYA" on Tue, 11 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 45 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 44 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | DJ MINOYAMA, DAH-ISHI, ISABELLE & CHEBB |  |
 | Tue, 11 Aug 2026 | RYOSUKE, EDDY & DJ NOTSUYA |  |
 | Wed, 12 Aug 2026 | KUBOTA,TAKESHI & ZUKIE |  |
 | Thu, 13 Aug 2026 | HOUSE-TEX | DJ Emma |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 45 upcoming nights
 | Tue, 18 Aug 2026 | ZUKIE, KDT & Kenskzm | KDT |
 | Wed, 19 Aug 2026 | HIROSHI KAWANABE & FELINE | FELINE (JP) |
 | Thu, 20 Aug 2026 | HOUSE-TEX | DJ Emma, KZA |
+| Fri, 21 Aug 2026 | LONDON AFTER MIDNIGHT |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

@@ -1,6 +1,6 @@
 # Visions: Deetron at Frankhan Selectist
 
-Visions: Deetron at Frankhan Selectist on Sat 15 Aug, Istanbul. 1 act on the bill: Deetron. Preview the line-up and save it on soundcheck.
+Visions: Deetron at Frankhan Selectist on Sat 15 Aug, Istanbul. 3 acts on the bill: Deetron, Jamie S (TR) and MANER. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Visions: Deetron at Frankhan Selectist on Sat 15 Aug, Istanbul. 1 act on the bil
 ## Line-up
 
 - Deetron
+- Jamie S (TR)
+- MANER
 
 *Source: [soundcheck](https://soundcheck.club/e/2503825-visions-deetron-at-frankhan-selectist/)*

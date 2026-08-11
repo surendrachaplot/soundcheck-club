@@ -1,6 +1,6 @@
 # Marvin Sykes
 
-Marvin Sykes is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
+Marvin Sykes is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
 
 Marvin Sykes is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Ashley Brickell, Jodie Weston and Max E Groove. Next up: TBA - The Wild Retreat, Bristol on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Marvin Sykes is a house and balearic artist based in United Kingdom, tracked on 
 
 Ashley Brickell, Jodie Weston, Max E Groove
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinsykes/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinsykes/)*

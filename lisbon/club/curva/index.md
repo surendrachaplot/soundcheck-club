@@ -1,6 +1,6 @@
 # Curva
 
-Curva is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Festa Normal" on Sat, 22 Aug 2026.
+Curva is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Festa Normal" on Sat, 22 Aug 2026.
 
 Curva is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Juaau. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Curva is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with li
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Festa Normal | Juaau |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/curva/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/curva/)*

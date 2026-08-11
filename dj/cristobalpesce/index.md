@@ -1,6 +1,6 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kømplex Lisbon, Lisbon on Fri, 14 Aug 2026.
+Cristobal Pesce is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kømplex Lisbon, Lisbon on Fri, 14 Aug 2026.
 
 Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside 999999999, Ornella and 6EJOU. Next up: Kømplex Lisbon, Lisbon on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 66 set
 
 999999999, Ornella, 6EJOU
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

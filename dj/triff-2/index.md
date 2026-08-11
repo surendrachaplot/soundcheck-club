@@ -1,6 +1,6 @@
 # Triff (2)
 
-Triff (2) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
+Triff (2) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
 
 Triff (2) is a hardcore and trance artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston, London, Manchester and Montreal. Often billed alongside 2004, D-Program (2) and Feardotcom. Next up: Honey Street Studio, Manchester on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Triff (2) is a hardcore and trance artist based in United States of America, tra
 
 2004, D-Program (2), Feardotcom
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triff-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triff-2/)*

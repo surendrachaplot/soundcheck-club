@@ -1,6 +1,6 @@
 # Hyejin
 
-Hyejin is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
+Hyejin is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
 
 Hyejin is a house and bass artist based in South Korea, tracked on soundcheck, with 87 sets logged across Seoul and Tokyo. Often billed alongside Shins, DJ Co.kr and untitled (2). Next up: Modeci, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hyejin is a house and bass artist based in South Korea, tracked on soundcheck, w
 
 Shins, DJ Co.kr, untitled (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*

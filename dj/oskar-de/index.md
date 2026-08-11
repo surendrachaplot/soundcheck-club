@@ -1,6 +1,6 @@
 # OSKAR.
 
-OSKAR. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ÆDEN, Berlin on Wed, 12 Aug 2026.
+OSKAR. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ÆDEN, Berlin on Wed, 12 Aug 2026.
 
 OSKAR. is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Bali, Berlin, Hamburg and Ibiza and 1 more. Often billed alongside Dj Tendersesh, DJ Hyperdrive and SHADYLINES. Next up: ÆDEN, Berlin on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ OSKAR. is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Dj Tendersesh, DJ Hyperdrive, SHADYLINES
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oskar-de/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oskar-de/)*

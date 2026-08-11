@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Šaknys Culture Lisbon: TSHA, Luke Alessi, Sally C, The Trip" on Sat, 26 Sept 2026.
+Quinta Mira Rio is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Šaknys Culture Lisbon: TSHA, Luke Alessi, Sally C, The Trip" on Sat, 26 Sept 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Luke Alessi, Sally C, The Trip and TSHA. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -14,4 +14,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 1 upcoming nigh
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

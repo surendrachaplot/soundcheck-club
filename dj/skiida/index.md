@@ -1,6 +1,6 @@
 # SKiiDA
 
-SKiiDA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bolero, Seoul on Fri, 14 Aug 2026.
+SKiiDA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bolero, Seoul on Fri, 14 Aug 2026.
 
 SKiiDA is a club and hip-hop artist based in South Korea, tracked on soundcheck, with 140 sets logged across Kyoto, Seoul and Tokyo. Often billed alongside DOBERMAN, Multivsn and ANDOW. Next up: Bolero, Seoul on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ SKiiDA is a club and hip-hop artist based in South Korea, tracked on soundcheck,
 
 DOBERMAN, Multivsn, ANDOW
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skiida/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skiida/)*

@@ -1,14 +1,15 @@
 # Death of Mars
 
-Death of Mars is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+Death of Mars is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
-Death of Mars is a techno and acid artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside Noise Not War, Filialleiter and SIKXTO. Next up: OST, Berlin on Sat 22 Aug.
+Death of Mars is a techno and acid artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside Noise Not War, Filialleiter and SIKXTO. Next up: OST, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | OST | Berlin |
+| Sat, 12 Sept 2026 | DNA Club | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Death of Mars is a techno and acid artist based in Germany, tracked on soundchec
 
 Noise Not War, Filialleiter, SIKXTO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deathofmars/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deathofmars/)*

@@ -1,6 +1,6 @@
 # ROOMTOO invites B^2M at OIL Club
 
-ROOMTOO invites B^2M at OIL Club on Fri 14 Aug, Shenzhen. 2 acts on the bill: Fatalis and mingo. Preview the line-up and save it on soundcheck.
+ROOMTOO invites B^2M at OIL Club on Fri 14 Aug, Shenzhen. 2 acts on the bill: Fatalis and mingo. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

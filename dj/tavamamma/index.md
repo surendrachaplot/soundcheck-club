@@ -1,6 +1,6 @@
 # Tava Mamma
 
-Tava Mamma is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Korpuss, Riga on Fri, 14 Aug 2026.
+Tava Mamma is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Korpuss, Riga on Fri, 14 Aug 2026.
 
 Tava Mamma is a drum & bass and techno artist tracked on soundcheck, with 2 sets logged across Riga. Often billed alongside DRAGONCAT, DV8 (LV) and Existal. Next up: Korpuss, Riga on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Tava Mamma is a drum & bass and techno artist tracked on soundcheck, with 2 sets
 
 DRAGONCAT, DV8 (LV), Existal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tavamamma/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tavamamma/)*

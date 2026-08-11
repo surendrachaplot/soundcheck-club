@@ -1,6 +1,6 @@
 # Midland
 
-Midland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 15 Aug 2026.
+Midland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 15 Aug 2026.
 
 Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Den Anden Side, Copenhagen on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Midland is a house and techno artist based in United Kingdom, tracked on soundch
 
 NIKS, Peach, Job Jobse
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

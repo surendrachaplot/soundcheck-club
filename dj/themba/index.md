@@ -1,6 +1,6 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 19 Aug 2026.
+THEMBA is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 19 Aug 2026.
 
 THEMBA is an afro house and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: Santanna Mykonos, Mykonos on Wed 19 Aug.
 
@@ -28,4 +28,4 @@ THEMBA is an afro house and house artist tracked on soundcheck, with 121 sets lo
 
 Black Coffee, Franky Wah, Hugel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

@@ -1,6 +1,6 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Night Tales, London on Thu, 13 Aug 2026.
+Mr. Redley is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Night Tales, London on Thu, 13 Aug 2026.
 
 Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Night Tales, London on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

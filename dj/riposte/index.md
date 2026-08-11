@@ -1,6 +1,6 @@
 # Riposte
 
-Riposte is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Riga on Fri, 14 Aug 2026.
+Riposte is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Riga on Fri, 14 Aug 2026.
 
 Riposte is a deep house and house artist based in Latvia, tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside zulfree, Kelvin and Nicolas Barnes. Next up: TBA, Riga on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Riposte is a deep house and house artist based in Latvia, tracked on soundcheck,
 
 zulfree, Kelvin, Nicolas Barnes
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riposte/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riposte/)*

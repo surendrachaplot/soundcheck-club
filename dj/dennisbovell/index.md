@@ -1,6 +1,6 @@
 # Dennis Bovell
 
-Dennis Bovell is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Dennis Bovell is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
 Dennis Bovell is a dub and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, London and Melbourne and 2 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: Jumbi, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Dennis Bovell is a dub and house artist tracked on soundcheck, with 21 sets logg
 
 Tash LC, Alex Kassian, Elijah Minnelli
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

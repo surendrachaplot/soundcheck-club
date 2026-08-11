@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Adrian Mills is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -36,4 +36,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

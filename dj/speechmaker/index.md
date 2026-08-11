@@ -1,8 +1,8 @@
 # Speechmaker
 
-Speechmaker is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
+Speechmaker is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
 
-Speechmaker is a techno and bass artist based in France, tracked on soundcheck, with 1 set logged across Nantes. Often billed alongside Antilogic and Eendracht. Next up: Macadam, Nantes on Thu 20 Aug.
+Speechmaker is a bass and techno artist based in France, tracked on soundcheck, with 1 set logged across Nantes. Often billed alongside Antilogic and Eendracht. Next up: Macadam, Nantes on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Speechmaker is a techno and bass artist based in France, tracked on soundcheck, 
 
 Antilogic, Eendracht
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speechmaker/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speechmaker/)*

@@ -1,6 +1,6 @@
 # Dysentrieb
 
-Dysentrieb is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kaos Berlin, Berlin on Fri, 21 Aug 2026.
+Dysentrieb is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kaos Berlin, Berlin on Fri, 21 Aug 2026.
 
 Dysentrieb is a minimal techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Joshua Meister. Next up: Kaos Berlin, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Dysentrieb is a minimal techno and house artist based in Germany, tracked on sou
 
 Joshua Meister
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dysentrieb/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dysentrieb/)*

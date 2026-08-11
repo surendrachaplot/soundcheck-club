@@ -1,6 +1,6 @@
 # BLOODHOUND (3)
 
-BLOODHOUND (3) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
+BLOODHOUND (3) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
 
 BLOODHOUND (3) is a house and disco artist based in United States of America, tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside DJ Sakee, Esteban Adame and Kosmik. Next up: The Airliner, Losangeles on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ BLOODHOUND (3) is a house and disco artist based in United States of America, tr
 
 DJ Sakee, Esteban Adame, Kosmik
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*

@@ -1,6 +1,6 @@
 # Childplay
 
-Childplay is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Yan Gastro, Istanbul on Fri, 14 Aug 2026.
+Childplay is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Yan Gastro, Istanbul on Fri, 14 Aug 2026.
 
 Childplay is a minimal and house artist based in Turkey, tracked on soundcheck, with 26 sets logged across Istanbul and Newyorkcity. Often billed alongside Ali Cem Esmeray, Baban and Morteza Minouei. Next up: Yan Gastro, Istanbul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Childplay is a minimal and house artist based in Turkey, tracked on soundcheck, 
 
 Ali Cem Esmeray, Baban, Morteza Minouei
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childplay/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childplay/)*

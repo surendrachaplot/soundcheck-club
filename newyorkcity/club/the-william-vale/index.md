@@ -1,6 +1,6 @@
 # The William Vale
 
-The William Vale is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Paraiso Sunset with SPECIAL GUEST" on Sun, 16 Aug 2026.
+The William Vale is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Paraiso Sunset with SPECIAL GUEST" on Sun, 16 Aug 2026.
 
 The William Vale is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Azzecca and Calussa. Browse upcoming dates, start times and who's playing. 111 North 12th Street.
 
@@ -17,4 +17,4 @@ The William Vale is a music venue in Newyorkcity listed on soundcheck. 4 upcomin
 
 111 North 12th Street, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-william-vale/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-william-vale/)*

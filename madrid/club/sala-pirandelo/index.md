@@ -1,6 +1,6 @@
 # Sala Pirandelo
 
-Sala Pirandelo is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "ITACA SUMMER EDITION WITH Dyans, Pulpix, Djen ND SCARLETT" on Sat, 15 Aug 2026.
+Sala Pirandelo is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ITACA SUMMER EDITION WITH Dyans, Pulpix, Djen ND SCARLETT" on Sat, 15 Aug 2026.
 
 Sala Pirandelo is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Djen, Dyans, Miguel Rivas and NVMB and 2 more. Browse upcoming dates, start times and who's playing. Calle de Martín de los Heros, 14; 28008 Madrid; Spain.
 
@@ -17,4 +17,4 @@ Sala Pirandelo is a music venue in Madrid listed on soundcheck. 4 upcoming night
 
 Calle de Martín de los Heros, 14; 28008 Madrid; Spain, Madrid
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*

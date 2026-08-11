@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and Reggaeton artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 13 Aug 2026.
+TBA is a Techno and Reggaeton artist with 12 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 13 Aug 2026.
 
-TBA is a techno and reggaeton artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 13 Aug.
+TBA is a techno and reggaeton artist tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 235 sets logged
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA - Rummelsburger Bucht | Berlin |
 | Fri, 14 Aug 2026 | La Station - Gare des Mines | Paris |
+| Fri, 14 Aug 2026 | Skyport Marina | New York City |
 | Thu, 20 Aug 2026 | TBA - Rummelsburger Bucht | Berlin |
 | Wed, 26 Aug 2026 | Smolna | Warsaw |
 | Thu, 27 Aug 2026 | TBA - Rummelsburger Bucht | Berlin |
@@ -35,4 +36,4 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 235 sets logged
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

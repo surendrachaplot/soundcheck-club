@@ -1,6 +1,6 @@
 # Rebeka Warrior
 
-Rebeka Warrior is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Le Trianon, Paris on Sun, 30 Aug 2026.
+Rebeka Warrior is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Trianon, Paris on Sun, 30 Aug 2026.
 
 Rebeka Warrior is an electro and techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Brussels, Geneva and Lyon and 4 more. Often billed alongside KOMPROMAT, Vitalic and Cate Hortl. Next up: Le Trianon, Paris on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Rebeka Warrior is an electro and techno artist tracked on soundcheck, with 16 se
 
 KOMPROMAT, Vitalic, Cate Hortl
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekawarrior/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekawarrior/)*

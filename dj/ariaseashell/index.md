@@ -1,6 +1,6 @@
 # Aria Seashell
 
-Aria Seashell is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 21 Aug 2026.
+Aria Seashell is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 21 Aug 2026.
 
 Aria Seashell is a techno artist based in France, tracked on soundcheck, with 2 sets logged across Berlin and Paris. Often billed alongside Diana May, MILLA LOU and Mars O10C. Next up: Der Weiße Hase, Berlin on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Aria Seashell is a techno artist based in France, tracked on soundcheck, with 2 
 
 Diana May, MILLA LOU, Mars O10C
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariaseashell/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariaseashell/)*

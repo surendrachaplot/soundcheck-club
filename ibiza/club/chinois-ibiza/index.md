@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 50 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "La Troya: GOK WAN, Hilit Kolet, RAMPINI, GINEVRA RAMOS" on Mon, 10 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Mahmut Orhan" on Wed, 12 Aug 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 50 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | La Troya: GOK WAN, Hilit Kolet, RAMPINI, GINEVRA RAMOS | Hilit Kolet |
 | Wed, 12 Aug 2026 | Mahmut Orhan | Mahmut Orhan |
 | Thu, 13 Aug 2026 | Defected: Darius Syrossian, Josh Butler b2b George Smeddles, Makez, Melé,Camila Ramirez | Darius Syrossian, George Smeddles, Josh Butler, Melé |
 | Fri, 14 Aug 2026 | Major League Djz presents: Kaz James, Kitty Amor, Max Menaged | Kaz James, Kitty Amor, Major League Djz, Max Menaged |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 50 upcoming nights
 | Wed, 19 Aug 2026 | Mahmut Orhan: Mahmut Orhan, Rivo, LUNA & LENTHE, VITE | Luna (1), Mahmut Orhan, Rivo, VITE |
 | Thu, 20 Aug 2026 | Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology | D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology |
 | Fri, 21 Aug 2026 | Major League Djz presents: SPARROW, Massuma, AMIYA | Major League Djz, Massuma, Sparrow (CH) |
+| Sat, 22 Aug 2026 | The Masquerade: Claptone, Solardo, Marco Lys, Jonathan Ulysses | Claptone, Jonathan Ulysses, Marco Lys, Solardo |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

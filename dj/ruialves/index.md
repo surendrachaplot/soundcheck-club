@@ -1,6 +1,6 @@
 # Rui Alves
 
-Rui Alves is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 23 Aug 2026.
+Rui Alves is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 23 Aug 2026.
 
 Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck, with 47 sets logged across Brussels, Ibiza, Lisbon and Porto. Often billed alongside SLIM J, Banon and Valerio Mazzoli. Next up: Carmo Rooftop, Lisbon on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck,
 
 SLIM J, Banon, Valerio Mazzoli
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruialves/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruialves/)*

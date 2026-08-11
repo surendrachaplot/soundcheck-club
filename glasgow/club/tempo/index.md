@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PRTY: CADZOW [Makina]" on Sat, 22 Aug 2026.
+Tempo is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "PRTY: CADZOW [Makina]" on Sat, 22 Aug 2026.
 
 Tempo is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including CADZOW. Browse upcoming dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
@@ -15,4 +15,4 @@ Tempo is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with 
 
 70 Dumbarton Rd, Clydebank G81 1UG, Glasgow
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*

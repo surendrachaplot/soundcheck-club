@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Season Opening 2026" on Fri, 11 Sept 2026.
+MÄX is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Season Opening 2026" on Fri, 11 Sept 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Antonym, BOVSKI, Karla Blum and Megix and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -17,4 +17,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with li
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

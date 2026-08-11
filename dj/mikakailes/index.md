@@ -1,6 +1,6 @@
 # Mika.
 
-Mika. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Mika. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Mika. is a techno and house artist tracked on soundcheck, with 16 sets logged across London, Saopaulo and Tbilisi. Often billed alongside Amphia, Gloria Rose and MarcelDune. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mika. is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 
 Amphia, Gloria Rose, MarcelDune
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikakailes/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikakailes/)*

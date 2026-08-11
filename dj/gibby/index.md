@@ -1,6 +1,6 @@
 # Gibby
 
-Gibby is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club 69, Glasgow on Sat, 15 Aug 2026.
+Gibby is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club 69, Glasgow on Sat, 15 Aug 2026.
 
 Gibby is a trance and techno artist tracked on soundcheck, with 18 sets logged across Brussels, Frankfurt, Glasgow and Leipzig and 2 more. Often billed alongside DIØR, Acidfinky and Ben Bertrand. Next up: Club 69, Glasgow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gibby is a trance and techno artist tracked on soundcheck, with 18 sets logged a
 
 DIØR, Acidfinky, Ben Bertrand
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibby/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibby/)*

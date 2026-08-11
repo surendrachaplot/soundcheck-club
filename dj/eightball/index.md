@@ -1,6 +1,6 @@
 # Eightball
 
-Eightball is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
+Eightball is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
 
 Eightball is a drum & bass and bass artist tracked on soundcheck, with 23 sets logged across Berlin and Hamburg. Often billed alongside Fibe, Sindicate and duaba. Next up: Uebel & Gefährlich, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Eightball is a drum & bass and bass artist tracked on soundcheck, with 23 sets l
 
 Fibe, Sindicate, duaba
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eightball/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eightball/)*

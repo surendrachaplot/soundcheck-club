@@ -1,6 +1,6 @@
 # babydj
 
-babydj is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+babydj is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 babydj is a house and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside damside, Eversines and Gregor AM. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ babydj is a house and acid artist based in United Kingdom, tracked on soundcheck
 
 damside, Eversines, Gregor AM
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babydj/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babydj/)*

@@ -1,6 +1,6 @@
 # Sugar Jim Jr.
 
-Sugar Jim Jr. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Süss War Gestern, Berlin on Tue, 11 Aug 2026.
+Sugar Jim Jr. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Süss War Gestern, Berlin on Tue, 11 Aug 2026.
 
 Sugar Jim Jr. is a house and electro artist tracked on soundcheck, with 14 sets logged across Berlin. Next up: Süss War Gestern, Berlin on Tue 11 Aug.
 
@@ -21,4 +21,4 @@ Sugar Jim Jr. is a house and electro artist tracked on soundcheck, with 14 sets 
 - Zu Mir Oder Zu Dir, Berlin — Thu, 17 Oct 2024
 - Zu Mir Oder Zu Dir, Berlin — Thu, 25 Jul 2024
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarjimjr/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarjimjr/)*

@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
+Prichindel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Prichindel is a house and minimal artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Boston and Brussels and 15 more. Often billed alongside Dragos Ilici, Mark Dumitrescu and Cap. Next up: Playa Soleil Ibiza, Ibiza on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ Prichindel is a house and minimal artist tracked on soundcheck, with 64 sets log
 
 Dragos Ilici, Mark Dumitrescu, Cap
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

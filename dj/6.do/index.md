@@ -1,6 +1,6 @@
 # 6.do
 
-6.do is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Live Haus, Tokyo on Fri, 21 Aug 2026.
+6.do is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Live Haus, Tokyo on Fri, 21 Aug 2026.
 
 6.do is a techno and electronica artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Miyajima（Breezy Houz）, OKAMOTO REIJI and TAKENOKO. Next up: Live Haus, Tokyo on Fri 21 Aug.
 
@@ -18,4 +18,4 @@
 
 Miyajima（Breezy Houz）, OKAMOTO REIJI, TAKENOKO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6.do/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6.do/)*

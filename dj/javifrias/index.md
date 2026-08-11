@@ -1,6 +1,6 @@
 # Javi Frias
 
-Javi Frias is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sala Villanos, Madrid on Fri, 16 Oct 2026.
+Javi Frias is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sala Villanos, Madrid on Fri, 16 Oct 2026.
 
 Javi Frias is a disco and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Berlin, Glasgow, Ibiza and London and 2 more. Often billed alongside Danilo Plessow, Dave Lee and Claudia León. Next up: Sala Villanos, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Javi Frias is a disco and house artist based in Spain, tracked on soundcheck, wi
 
 Danilo Plessow, Dave Lee, Claudia León
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javifrias/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javifrias/)*

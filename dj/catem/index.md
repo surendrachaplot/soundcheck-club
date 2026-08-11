@@ -1,6 +1,6 @@
 # Catem
 
-Catem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
+Catem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
 
 Catem is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin and Prague. Often billed alongside Just1, Squaric and CSL. Next up: ://about blank, Berlin on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Catem is a techno and house artist tracked on soundcheck, with 6 sets logged acr
 
 Just1, Squaric, CSL
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catem/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catem/)*

@@ -1,6 +1,6 @@
 # VHS F2F (Main Room Event, Free with RSVP) at SILO
 
-VHS F2F (Main Room Event, Free with RSVP) at SILO on Thu 20 Aug, Newyorkcity. 8 acts on the bill: Maha Kuma, NIJEII, Sam Valle and Sami and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+VHS F2F (Main Room Event, Free with RSVP) at SILO on Thu 20 Aug, Newyorkcity. 13 acts on the bill: GMG_ (US), Maha Kuma, NIJEII and PAC (2) and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,13 @@ VHS F2F (Main Room Event, Free with RSVP) at SILO on Thu 20 Aug, Newyorkcity. 8 
 
 ## Line-up
 
+- GMG_ (US)
 - Maha Kuma
 - NIJEII
+- PAC (2)
+- Paradøx
+- Purdy
+- S A M I
 - Sam Valle
 - Sami
 - SHRAY

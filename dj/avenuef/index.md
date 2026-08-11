@@ -1,6 +1,6 @@
 # Avenue F
 
-Avenue F is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Signal, New York City on Fri, 11 Sept 2026.
+Avenue F is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Signal, New York City on Fri, 11 Sept 2026.
 
 Avenue F is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Nema Hän, Drupe Jam and Max Sprauer. Next up: Signal, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Avenue F is a house and techno artist based in United States of America, tracked
 
 Nema Hän, Drupe Jam, Max Sprauer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avenuef/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avenuef/)*

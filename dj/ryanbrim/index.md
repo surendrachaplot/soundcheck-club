@@ -1,6 +1,6 @@
 # Ryan Brim
 
-Ryan Brim is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
+Ryan Brim is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
 Ryan Brim is a techno and trance artist tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside ADMINISTRATOR, ALIEN-A and Adrian LR. Next up: Solace, Melbourne on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ Ryan Brim is a techno and trance artist tracked on soundcheck, with 3 sets logge
 
 ADMINISTRATOR, ALIEN-A, Adrian LR
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanbrim/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanbrim/)*

@@ -1,13 +1,14 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
+Diffrent is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
-Diffrent is a house and garage artist tracked on soundcheck, with 126 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Artheater, Cologne on Fri 21 Aug.
+Diffrent is a house and garage artist tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Else, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Else | Berlin |
 | Fri, 21 Aug 2026 | Artheater | Cologne |
 | Mon, 24 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 27 Aug 2026 | Night Tales | London |
@@ -32,4 +33,4 @@ Diffrent is a house and garage artist tracked on soundcheck, with 126 sets logge
 
 Kyle Starkey, SAIDAH, Faster Horses
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

@@ -1,6 +1,6 @@
 # Robin RB
 
-Robin RB is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Club der Visionaere, Berlin on Thu, 13 Aug 2026.
+Robin RB is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Thu, 13 Aug 2026.
 
 Robin RB is a house and electro artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Bali, Barcelona and Berlin and 7 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: Club der Visionaere, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Robin RB is a house and electro artist based in Germany, tracked on soundcheck, 
 
 Ben Balance, Anthea, Carmelo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*

@@ -1,6 +1,6 @@
 # Francis FF
 
-Francis FF is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Francis FF is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Francis FF is a house and downtempo artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Ciao 3lla, TraumaMia and Carlo Bonanza. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Francis FF is a house and downtempo artist based in Germany, tracked on soundche
 
 Ciao 3lla, TraumaMia, Carlo Bonanza
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francisff/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francisff/)*

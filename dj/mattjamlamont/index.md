@@ -1,6 +1,6 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
+Matt Jam Lamont is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
 
 Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside MC DT, MC CKP and Scott Garcia. Next up: Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on
 
 MC DT, MC CKP, Scott Garcia
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*

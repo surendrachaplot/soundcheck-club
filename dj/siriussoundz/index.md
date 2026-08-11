@@ -1,6 +1,6 @@
 # Sirius Soundz
 
-Sirius Soundz is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Japan Monterrey, Mexico City on Sat, 22 Aug 2026.
+Sirius Soundz is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Japan Monterrey, Mexico City on Sat, 22 Aug 2026.
 
 Sirius Soundz is a drum & bass and bass artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Neukila, Astroboii and Ekcent. Next up: Japan Monterrey, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sirius Soundz is a drum & bass and bass artist based in Mexico, tracked on sound
 
 Neukila, Astroboii, Ekcent
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siriussoundz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siriussoundz/)*

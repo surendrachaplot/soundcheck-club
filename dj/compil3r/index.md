@@ -1,6 +1,6 @@
 # compil3r
 
-compil3r is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Chicago on Sat, 15 Aug 2026.
+compil3r is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Chicago on Sat, 15 Aug 2026.
 
 compil3r is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago. Often billed alongside Mr. Bobby, Pat Fee and Adorio. Next up: TBA, Chicago on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ compil3r is a house and techno artist based in United States of America, tracked
 
 Mr. Bobby, Pat Fee, Adorio
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compil3r/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compil3r/)*

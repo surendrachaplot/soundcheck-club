@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Headrush 008 - Hardgroove/Techno Club Night" on Fri, 14 Aug 2026.
+The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Headrush 008 - Hardgroove/Techno Club Night" on Fri, 14 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Arkane and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 | Fri, 28 Aug 2026 | FILTH: Alternative Queer Pride |  |
 | Fri, 28 Aug 2026 | QueerPOC Brazilian Funk Rave |  |
 | Sat, 29 Aug 2026 | BENT x Power Dance Club | Aiden Francis, David James MCR, Esmé, Jase Jeffery, Jess Rose, Luigi Di Venere, PHIA SKY, Stathis (GR) |
-| Sun, 30 Aug 2026 | LOVE.LAB DOES PRIDE |  |
+| Sun, 30 Aug 2026 | LOVE.LAB DOES PRIDE | Ali Roche (2), ZESTY (UK), blo rida, chlo333e, lol (8) |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

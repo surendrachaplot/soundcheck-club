@@ -1,6 +1,6 @@
 # Kollektiv KlangGut
 
-Kollektiv KlangGut is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Kollektiv KlangGut is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Kollektiv KlangGut is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside AVA Irandoost, Animal Trainer and Camerøn. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Kollektiv KlangGut is a techno artist based in Germany, tracked on soundcheck, w
 
 AVA Irandoost, Animal Trainer, Camerøn
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivklanggut/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivklanggut/)*

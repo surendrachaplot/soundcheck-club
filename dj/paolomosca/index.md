@@ -1,13 +1,14 @@
 # Paolo Mosca
 
-Paolo Mosca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Paolo Mosca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
 
-Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
+Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Sunseabar Beach Club, Barcelona on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*

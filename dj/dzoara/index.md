@@ -1,6 +1,6 @@
 # Dzoara
 
-Dzoara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 20 Aug 2026.
+Dzoara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 20 Aug 2026.
 
 Dzoara is a house and techno artist based in Mexico, tracked on soundcheck, with 7 sets logged across Berlin and Mexicocity. Often billed alongside Abaunza, Adriana Roma and Ahni. Next up: Bulbul Berlin, Berlin on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ Dzoara is a house and techno artist based in Mexico, tracked on soundcheck, with
 
 Abaunza, Adriana Roma, Ahni
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dzoara/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dzoara/)*

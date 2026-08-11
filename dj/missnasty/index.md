@@ -1,6 +1,6 @@
 # Miss Nasty
 
-Miss Nasty is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+Miss Nasty is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
 
 Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, with 2 sets logged across Munich and Vienna. Often billed alongside Kapote, A-DEE and Arpy Brown. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, 
 
 Kapote, A-DEE, Arpy Brown
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*

@@ -1,16 +1,17 @@
 # Janis Zielinski
 
-Janis Zielinski is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
+Janis Zielinski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
 
-Janis Zielinski is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Südbrücke, Cologne on Sat 15 Aug.
+Janis Zielinski is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Südbrücke Open Air, Cologne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Südbrücke | Cologne |
+| Sat, 15 Aug 2026 | Südbrücke Open Air | Cologne |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sun, 6 Sept 2026 | Boomerang Beach | The Hague |
+| Fri, 11 Sept 2026 | Gewölbe | Cologne |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Janis Zielinski is a techno and trance artist tracked on soundcheck, with 137 se
 
 Bad Boombox, Mischluft, Ollie Lishman
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*

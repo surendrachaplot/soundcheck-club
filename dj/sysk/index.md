@@ -1,6 +1,6 @@
 # sysk
 
-sysk is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+sysk is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 sysk is a bass and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Losangeles and Portland. Often billed alongside Danny Goliger, Adam O (1) and Carré. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ sysk is a bass and techno artist tracked on soundcheck, with 17 sets logged acro
 
 Danny Goliger, Adam O (1), Carré
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sysk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sysk/)*

@@ -1,6 +1,6 @@
 # Blackmoonchild
 
-Blackmoonchild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
+Blackmoonchild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
 
 Blackmoonchild is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside AK (US), DJ Etta (US) and something blue. Next up: public records, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Blackmoonchild is a techno and house artist based in United States of America, t
 
 AK (US), DJ Etta (US), something blue
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*

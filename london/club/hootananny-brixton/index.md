@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Brixton Soul Shake: Live Summer Special" on Fri, 14 Aug 2026.
+Hootananny Brixton is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Brixton Soul Shake: Live Summer Special" on Fri, 14 Aug 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including DJ Puffy. Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -19,4 +19,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 6 upcoming n
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

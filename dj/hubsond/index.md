@@ -1,6 +1,6 @@
 # Hubsond
 
-Hubsond is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sekta Selekta, Krakow on Sat, 22 Aug 2026.
+Hubsond is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sekta Selekta, Krakow on Sat, 22 Aug 2026.
 
 Hubsond is a minimal and electro artist tracked on soundcheck, with 17 sets logged across Krakow and Warsaw. Often billed alongside Wills Witbooi, Hodgson_ale and Nadezh No. Next up: Sekta Selekta, Krakow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Hubsond is a minimal and electro artist tracked on soundcheck, with 17 sets logg
 
 Wills Witbooi, Hodgson_ale, Nadezh No
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hubsond/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hubsond/)*

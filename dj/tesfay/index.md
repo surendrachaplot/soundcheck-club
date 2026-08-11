@@ -1,6 +1,6 @@
 # TESFAY
 
-TESFAY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bambi's, Toronto on Sat, 15 Aug 2026.
+TESFAY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bambi's, Toronto on Sat, 15 Aug 2026.
 
 TESFAY is a house and tech house artist based in Canada, tracked on soundcheck, with 16 sets logged across London and Toronto. Often billed alongside AKWA, Blooma and Forbss. Next up: Bambi's, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TESFAY is a house and tech house artist based in Canada, tracked on soundcheck, 
 
 AKWA, Blooma, Forbss
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*

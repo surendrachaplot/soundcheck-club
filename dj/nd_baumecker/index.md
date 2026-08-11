@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Romantica, Stuttgart on Sat, 29 Aug 2026.
+nd_baumecker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Romantica, Stuttgart on Sat, 29 Aug 2026.
 
 nd_baumecker is a house and techno artist tracked on soundcheck, with 114 sets logged across Athens, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Romantica, Stuttgart on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ nd_baumecker is a house and techno artist tracked on soundcheck, with 114 sets l
 
 Jorkes, Steffi, Efdemin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

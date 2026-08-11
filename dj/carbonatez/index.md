@@ -1,6 +1,6 @@
 # Carbonatez
 
-Carbonatez is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Chunhee, Seoul on Sat, 15 Aug 2026.
+Carbonatez is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Chunhee, Seoul on Sat, 15 Aug 2026.
 
 Carbonatez is a hardcore and gabber artist tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside BASSKRAP, Pennywize and HARDNENDZ. Next up: Chunhee, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Carbonatez is a hardcore and gabber artist tracked on soundcheck, with 32 sets l
 
 BASSKRAP, Pennywize, HARDNENDZ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonatez/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonatez/)*

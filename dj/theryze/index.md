@@ -1,6 +1,6 @@
 # The Ryze
 
-The Ryze is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Junction Public Market, Vancouver on Sat, 22 Aug 2026.
+The Ryze is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Junction Public Market, Vancouver on Sat, 22 Aug 2026.
 
 The Ryze is a house and experimental artist based in Canada, tracked on soundcheck, with 35 sets logged across Vancouver. Often billed alongside Adam 2, Body Double and Chloé. Next up: Junction Public Market, Vancouver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ The Ryze is a house and experimental artist based in Canada, tracked on soundche
 
 Adam 2, Body Double, Chloé
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theryze/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theryze/)*

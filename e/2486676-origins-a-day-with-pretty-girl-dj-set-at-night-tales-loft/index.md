@@ -1,6 +1,6 @@
 # Origins: A Day with Pretty Girl (DJ Set) at Night Tales Loft
 
-Origins: A Day with Pretty Girl (DJ Set) at Night Tales Loft on Sat 17 Oct, London. 1 act on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
+Origins: A Day with Pretty Girl (DJ Set) at Night Tales Loft on Sat 17 Oct, London. 1 act on the bill: Pretty Girl. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

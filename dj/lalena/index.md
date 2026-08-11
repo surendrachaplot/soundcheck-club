@@ -1,14 +1,14 @@
 # LALENA
 
-LALENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Südbrücke, Cologne on Sun, 16 Aug 2026.
+LALENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Südbrücke Open Air, Cologne on Sun, 16 Aug 2026.
 
-LALENA is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 3 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: Südbrücke, Cologne on Sun 16 Aug.
+LALENA is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 3 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: Südbrücke Open Air, Cologne on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Südbrücke | Cologne |
+| Sun, 16 Aug 2026 | Südbrücke Open Air | Cologne |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LALENA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 David Hasert, Diode Eins, Alchemiah
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*

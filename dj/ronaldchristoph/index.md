@@ -1,6 +1,6 @@
 # Ronald Christoph
 
-Ronald Christoph is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
+Ronald Christoph is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
 
 Ronald Christoph is a deep house and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside GiiO Q, Annina and Ash Roy. Next up: Luftschloss auf dem Tempelhofer Feld, Berlin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Ronald Christoph is a deep house and house artist based in Germany, tracked on s
 
 GiiO Q, Annina, Ash Roy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldchristoph/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldchristoph/)*

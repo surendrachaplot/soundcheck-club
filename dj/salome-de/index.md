@@ -1,14 +1,13 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+SALOME is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
-SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -17,6 +16,7 @@ SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logge
 
 ## Recently played
 
+- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Spot X, Budapest — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
@@ -24,10 +24,9 @@ SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logge
 - Union Park, Chicago — Sat, 18 Jul 2026
 - ESC, Montreal — Fri, 17 Jul 2026
 - TRANSMISSION DC, Washington DC — Thu, 16 Jul 2026
-- Fvtvr, Paris — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

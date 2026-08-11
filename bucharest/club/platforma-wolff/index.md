@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PW x Intuit FM • Sublee (live studio session), Lex" on Thu, 13 Aug 2026.
+Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "PW x Intuit FM • Sublee (live studio session), Lex" on Thu, 13 Aug 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including Barbu, DMX Krew, Dragos Ilici and Elia Nafzger and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -20,4 +20,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

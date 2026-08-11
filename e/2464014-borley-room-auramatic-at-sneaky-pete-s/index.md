@@ -1,6 +1,6 @@
 # Borley Room: Auramatic at Sneaky Pete's
 
-Borley Room: Auramatic at Sneaky Pete's on Wed 16 Sept, Edinburgh. 2 acts on the bill: Auramatic and BORLEY. Preview the line-up and save it on soundcheck.
+Borley Room: Auramatic at Sneaky Pete's on Wed 16 Sept, Edinburgh. 4 acts on the bill: Auramatic, BORLEY, cara hegarty and Phoebe Roper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Borley Room: Auramatic at Sneaky Pete's on Wed 16 Sept, Edinburgh. 2 acts on the
 
 - Auramatic
 - BORLEY
+- cara hegarty
+- Phoebe Roper
 
 *Source: [soundcheck](https://soundcheck.club/e/2464014-borley-room-auramatic-at-sneaky-pete-s/)*

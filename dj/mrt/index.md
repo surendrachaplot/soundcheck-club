@@ -1,6 +1,6 @@
 # Mrt
 
-Mrt is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Mrt is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Mrt is a tech house and house artist based in Russia, tracked on soundcheck, with 5 sets logged across Aberdeen, Ghent, London and Milan and 1 more. Often billed alongside A.L.F, ANTONIO TIMIS and Alt666. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Mrt is a tech house and house artist based in Russia, tracked on soundcheck, wit
 
 A.L.F, ANTONIO TIMIS, Alt666
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrt/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrt/)*

@@ -1,8 +1,8 @@
 # Hugo
 
-Hugo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
+Hugo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
 
-Hugo is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 6 more. Often billed alongside Britney Speed, Lorenzo Chiabotti and Matriark. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
+Hugo is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 6 more. Often billed alongside Britney Speed, Hugo (US) and Lorenzo Chiabotti. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Hugo is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Britney Speed, Lorenzo Chiabotti, Matriark
+Britney Speed, Hugo (US), Lorenzo Chiabotti
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-de/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-de/)*

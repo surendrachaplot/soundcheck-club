@@ -1,6 +1,6 @@
 # Drauf & Dran DJ Team
 
-Drauf & Dran DJ Team is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
+Drauf & Dran DJ Team is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
 
 Drauf & Dran DJ Team are a techno and tech house duo based in Germany, tracked on soundcheck, with 39 sets logged across Berlin and Hamburg. Often billed alongside Felix Reichelt, Maschine and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Drauf & Dran DJ Team are a techno and tech house duo based in Germany, tracked o
 
 Felix Reichelt, Maschine, Kaminka Merel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/draufdrandjteam/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/draufdrandjteam/)*

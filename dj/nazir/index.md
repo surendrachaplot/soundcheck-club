@@ -1,6 +1,6 @@
 # Nazir
 
-Nazir is a Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
+Nazir is a Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 Nazir is an afro house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Ibiza. Often billed alongside Francis Mercier, Andrea Oliva and Emmanuel Jal. Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
 
@@ -18,4 +18,4 @@ Nazir is an afro house artist based in United Kingdom, tracked on soundcheck, wi
 
 Francis Mercier, Andrea Oliva, Emmanuel Jal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazir/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazir/)*

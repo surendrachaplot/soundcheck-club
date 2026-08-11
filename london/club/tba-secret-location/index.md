@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - SECRET LOCATION
 
-TBA - Secret Location is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
+TBA - SECRET LOCATION is a music venue in London with 27 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including 550am, Amelia Holt, Arval and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 550am, Amelia Holt, Arval and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -10,7 +10,7 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 26 upcomi
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Tranzlink: Before Stonewall | CLOVES, Dr. Berry |
 | Fri, 14 Aug 2026 | Vermilion Sun Records - Release Party | John Debo, Wiersma, cutwoes |
-| Fri, 14 Aug 2026 | AN(8)X festival 2026: Love Village, August 15-16th, September 25th  | Dyan Tai, WaqWaq Kingdom |
+| Fri, 14 Aug 2026 | AN(8)X festival 2026: Love Village, August 15-16th | DJ COMEDOWN, Dyan Tai, WaqWaq Kingdom |
 | Fri, 14 Aug 2026 | NO SUGAR x FENCE HOP | JEY SYANO, MLLE CEE, Punk à Poules, Raylhem, namanariii, softwarewolfe |
 | Sat, 15 Aug 2026 | Fairy August | Johnson (2), Rafon (2) |
 | Sun, 16 Aug 2026 | DOGGY FAMILY FEST - POOL PARTY | Arval, Jorgge Decar, Nitrile Affair, Unreal Vibes, ildec, rubbio |
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 26 upcomi
 | Fri, 28 Aug 2026 | Green Machine 4 Year Anniversary with Amelia Holt (NY) | Amelia Holt, Fortune (US), Jaggy, Joel Chandler, Nolia, frail808, patrick conahan |
 | Fri, 28 Aug 2026 | Sound Out Recs - Label Launch Party |  |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

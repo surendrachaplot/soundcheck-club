@@ -1,6 +1,6 @@
 # Jodie Weston
 
-Jodie Weston is a Deep House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
+Jodie Weston is a Deep House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
 
 Jodie Weston is a deep house and balearic artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Marvin Sykes, Ashley Brickell and SAYA. Next up: TBA - The Wild Retreat, Bristol on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Jodie Weston is a deep house and balearic artist based in United Kingdom, tracke
 
 Marvin Sykes, Ashley Brickell, SAYA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieweston/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieweston/)*

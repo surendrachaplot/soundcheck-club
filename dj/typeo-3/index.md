@@ -1,6 +1,6 @@
 # TYPEO (3)
 
-TYPEO (3) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 2ten, Athens on Sat, 15 Aug 2026.
+TYPEO (3) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 2ten, Athens on Sat, 15 Aug 2026.
 
 TYPEO (3) is a techno and acid artist tracked on soundcheck, with 74 sets logged across Athens and Berlin. Often billed alongside Plagger, MOSHBEAT and Deadly 8. Next up: 2ten, Athens on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TYPEO (3) is a techno and acid artist tracked on soundcheck, with 74 sets logged
 
 Plagger, MOSHBEAT, Deadly 8
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/typeo-3/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/typeo-3/)*

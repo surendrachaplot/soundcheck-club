@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Playlist LDN - FREE ENTRY" on Fri, 14 Aug 2026.
+Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Playlist LDN - FREE ENTRY" on Fri, 14 Aug 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Aeroplane, Alex Metric, Amber Rose and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -17,10 +17,10 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nigh
 | Thu, 27 Aug 2026 | QUENCH presents: NyLon Carnival w/ Martelo, Run P. Say Less, Donis + more | Donis, Run P., Say Less |
 | Sun, 30 Aug 2026 | Popola Carnival Afterparty | Black Daria, CHEZA LUCINA, Ivicore |
 | Sun, 30 Aug 2026 | Colour Garden Free Party: House, Disco, Balearic & Boogie | Beavs, JOSH FB, Nadia Ksaiba |
-| Fri, 4 Sept 2026 | Brown Excellence - All Night Long | Brown Excellence |
+| Fri, 4 Sept 2026 | Brown Excellence - 5th Birthday  | Brown Excellence |
 
 ## Address
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

@@ -1,14 +1,15 @@
 # Agustina Aliaga
 
-Agustina Aliaga is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
+Agustina Aliaga is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
 
-Agustina Aliaga is an electronica and house artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Dublin and Madrid. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: City Hall, Barcelona on Tue 11 Aug.
+Agustina Aliaga is a techno and electronica artist based in Spain, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 1 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: City Hall, Barcelona on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | City Hall | Barcelona |
+| Fri, 14 Aug 2026 | John Doe | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Agustina Aliaga is an electronica and house artist based in Spain, tracked on so
 
 HNKS, Julieta Wins, Lautaro Ibañez
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*

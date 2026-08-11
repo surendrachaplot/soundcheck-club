@@ -1,6 +1,6 @@
 # Vitalik
 
-Vitalik is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
+Vitalik is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
 
 Vitalik is a techno and trance artist tracked on soundcheck, with 15 sets logged across Austin, Ibiza, Newyorkcity and Washingtondc. Often billed alongside Homotopies, Lucía Beyond and N3urodegenerate. Next up: Honey's, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Vitalik is a techno and trance artist tracked on soundcheck, with 15 sets logged
 
 Homotopies, Lucía Beyond, N3urodegenerate
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalik/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalik/)*

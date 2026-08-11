@@ -1,6 +1,6 @@
 # Shackleton
 
-Shackleton is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
+Shackleton is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
 
 Shackleton is an experimental and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: Tresor / Globus, Berlin on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Shackleton is an experimental and techno artist tracked on soundcheck, with 62 s
 
 upsammy, ojoo, Al Wootton
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*

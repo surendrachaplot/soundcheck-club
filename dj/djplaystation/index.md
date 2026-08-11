@@ -1,13 +1,14 @@
 # DJ PlayStation
 
-DJ PlayStation is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 14 Aug 2026.
+DJ PlayStation is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Phonobar, San Francisco/Oakland on Thu, 13 Aug 2026.
 
-DJ PlayStation is a house and disco artist based in United States of America, tracked on soundcheck, with 45 sets logged across Sanfrancisco. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: Monarch, Sanfrancisco on Fri 14 Aug.
+DJ PlayStation is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Sanfrancisco. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: Phonobar, Sanfrancisco on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Phonobar | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ PlayStation is a house and disco artist based in United States of America, tr
 
 Amatric, DJ Cira, DJ M3
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplaystation/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplaystation/)*

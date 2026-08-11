@@ -1,13 +1,14 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "7 Jahre TeamTURBO – Open Air & Club" on Fri, 14 Aug 2026.
+Bahnwärter Thiel is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "135+ mit 1CB & Dark Pulse" on Thu, 13 Aug 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including 9LALEY, A-DEE, ÆNZØ and Alicea and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including 9LALEY, A-DEE, ÆNZØ and Alicea and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | 135+ mit 1CB & Dark Pulse |  |
 | Fri, 14 Aug 2026 | 7 Jahre TeamTURBO – Open Air & Club | Gizmo, Lazykid, Mia More, Rad.Lez, Shabiki |
 | Sat, 15 Aug 2026 | Bahnsteig Open Air & Club mit Marcus Meinhardt | Calibird, Leika, Marcus Meinhardt, s.west |
 | Thu, 20 Aug 2026 | 135+ mit Grooveraiderz & Sonara – Open Air & Club | BUSSI, Luko, Pablo |
@@ -20,4 +21,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 7 upcoming ni
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

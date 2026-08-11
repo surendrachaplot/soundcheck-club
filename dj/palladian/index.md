@@ -1,6 +1,6 @@
 # PALLADIAN
 
-PALLADIAN is a Electronica and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+PALLADIAN is a Electronica and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
 PALLADIAN is an electronica and jungle artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, London and Madrid. Often billed alongside Libéré, RUVEN (2) and Romain Garcia. Next up: Camden Courtyard, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ PALLADIAN is an electronica and jungle artist based in Spain, tracked on soundch
 
 Libéré, RUVEN (2), Romain Garcia
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palladian/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palladian/)*

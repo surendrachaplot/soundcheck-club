@@ -1,6 +1,6 @@
 # Sami Daik
 
-Sami Daik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 22 Aug 2026.
+Sami Daik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 22 Aug 2026.
 
 Sami Daik is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Barcelona, Lisbon and London. Often billed alongside Megatronic, Adam Purnell and Afonso Peixoto. Next up: Sunseabar Beach Club, Barcelona on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Sami Daik is a techno and house artist based in United Kingdom, tracked on sound
 
 Megatronic, Adam Purnell, Afonso Peixoto
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samidaik/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samidaik/)*

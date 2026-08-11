@@ -1,6 +1,6 @@
 # AK (US)
 
-AK (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+AK (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
 AK (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and JMT (2). Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ AK (US) is a techno and house artist based in United States of America, tracked 
 
 Blackmoonchild, Disc Jockey George, JMT (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

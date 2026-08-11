@@ -1,6 +1,6 @@
 # Kickin Pigeon
 
-Kickin Pigeon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Carlton Club, Manchester on Sun, 30 Aug 2026.
+Kickin Pigeon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Carlton Club, Manchester on Sun, 30 Aug 2026.
 
 Kickin Pigeon is a house and disco artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Bristol, Liverpool, London and Manchester. Often billed alongside Pharaoh Brunson, Il Bosco and Rhod Parry. Next up: The Carlton Club, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Kickin Pigeon is a house and disco artist based in United Kingdom, tracked on so
 
 Pharaoh Brunson, Il Bosco, Rhod Parry
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kickinpigeon/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kickinpigeon/)*

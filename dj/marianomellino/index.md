@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Madrid on Fri, 4 Sept 2026.
+Mariano Mellino is a Progressive House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Madrid on Fri, 4 Sept 2026.
 
 Mariano Mellino is a progressive house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Barcelona and Buenosaires and 21 more. Often billed alongside Guy J, MASANORI MORITA and Nico Moon. Next up: TBA, Madrid on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Mariano Mellino is a progressive house and techno artist tracked on soundcheck, 
 
 Guy J, MASANORI MORITA, Nico Moon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

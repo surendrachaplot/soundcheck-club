@@ -1,6 +1,6 @@
 # Von Di
 
-Von Di is a Afrobeat and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Von Di is a Afrobeat and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Von Di is an afrobeat and electro artist based in Portugal, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Saint Caboclo, Fvbricia and Meg10. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Von Di is an afrobeat and electro artist based in Portugal, tracked on soundchec
 
 Saint Caboclo, Fvbricia, Meg10
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*

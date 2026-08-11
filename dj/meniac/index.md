@@ -1,6 +1,6 @@
 # Meniac
 
-Meniac is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
+Meniac is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
 
 Meniac is a house and acid artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Jakarta. Often billed alongside Jiminal (2), Aram Mukanay and Daiki Fukami. Next up: Radio Radio, Amsterdam on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Meniac is a house and acid artist based in Netherlands, tracked on soundcheck, w
 
 Jiminal (2), Aram Mukanay, Daiki Fukami
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meniac/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meniac/)*

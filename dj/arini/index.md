@@ -1,6 +1,6 @@
 # ARINI
 
-ARINI is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
+ARINI is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
 ARINI is a house and club artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ARINI is a house and club artist based in United States of America, tracked on s
 
 DJ ing, Brant Wolff, Mozn
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*

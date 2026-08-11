@@ -1,6 +1,6 @@
 # MUSIQUE at Onyx (E1)
 
-MUSIQUE at Onyx (E1) on Fri 11 Sept, London. 2 acts on the bill: DJ IC and LOKI (2). Preview the line-up and save it on soundcheck.
+MUSIQUE at Onyx (E1) on Fri 11 Sept, London. 4 acts on the bill: 40D (Dj), DJ IC, LOKI (2) and PIGMNT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ MUSIQUE at Onyx (E1) on Fri 11 Sept, London. 2 acts on the bill: DJ IC and LOKI 
 
 ## Line-up
 
+- 40D (Dj)
 - DJ IC
 - LOKI (2)
+- PIGMNT
 
 *Source: [soundcheck](https://soundcheck.club/e/2506292-musique-at-onyx-e1/)*

@@ -1,6 +1,6 @@
 # Majestic
 
-Majestic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 24 Aug 2026.
+Majestic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 24 Aug 2026.
 
 Majestic is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 5 more. Often billed alongside Charlotte Van de Peer, Sammy Porter and Beyond Chicago. Next up: Ushuaïa Ibiza, Ibiza on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Majestic is a house and tech house artist based in United Kingdom, tracked on so
 
 Charlotte Van de Peer, Sammy Porter, Beyond Chicago
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*

@@ -1,6 +1,6 @@
 # Synestesia
 
-Synestesia is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mood Ring, New York City on Wed, 19 Aug 2026.
+Synestesia is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mood Ring, New York City on Wed, 19 Aug 2026.
 
 Synestesia is a techno and garage artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Maha Kuma, R-DNA and Sam Valle. Next up: Mood Ring, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Synestesia is a techno and garage artist tracked on soundcheck, with 12 sets log
 
 Maha Kuma, R-DNA, Sam Valle
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*

@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 12 Aug 2026.
+Outer Heaven is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 12 Aug 2026.
 
 Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including André Baum, Aurora Halal, Bella Mutino and deep creep and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 11 upcoming n
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

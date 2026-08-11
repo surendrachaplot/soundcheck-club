@@ -1,6 +1,6 @@
 # The Bridge
 
-The Bridge is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sunday Sessions LA: Dylan Payne All Night Long (Vinyl Only)" on Sun, 16 Aug 2026.
+The Bridge is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sunday Sessions LA: Dylan Payne All Night Long (Vinyl Only)" on Sun, 16 Aug 2026.
 
 The Bridge is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Dylan Payne, Marques Wyatt and Monkey Safari. Browse upcoming dates, start times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.
 
@@ -15,4 +15,4 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 630 S Anderson St, Los Angeles, CA 90023, Los Angeles
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*

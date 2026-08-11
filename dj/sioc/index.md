@@ -1,6 +1,6 @@
 # Sioc
 
-Sioc is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+Sioc is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
 Sioc is a techno and trance artist tracked on soundcheck, with 26 sets logged across Basel, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Ana Malo, VEL (MA) and szoliver. Next up: Fuchs2, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sioc is a techno and trance artist tracked on soundcheck, with 26 sets logged ac
 
 Ana Malo, VEL (MA), szoliver
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*

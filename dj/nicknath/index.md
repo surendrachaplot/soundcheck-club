@@ -1,6 +1,6 @@
 # Nick & Nath
 
-Nick & Nath is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
+Nick & Nath is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
 
 Nick & Nath are a house and electro duo tracked on soundcheck, with 12 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Cut the Rug, Finn Nelson and KT. Next up: Honey Street Studio, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nick & Nath are a house and electro duo tracked on soundcheck, with 12 sets logg
 
 Cut the Rug, Finn Nelson, KT
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicknath/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicknath/)*

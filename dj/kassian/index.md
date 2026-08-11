@@ -1,14 +1,15 @@
 # Kassian
 
-Kassian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at radial, London on Sat, 22 Aug 2026.
+Kassian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at radial, London on Sat, 22 Aug 2026.
 
-Kassian is a house and techno artist tracked on soundcheck, with 47 sets logged across Auckland, Barcelona, Belfast and Berlin and 14 more. Often billed alongside Joe Milli, Jay Carder and Kiara Scuro. Next up: radial, London on Sat 22 Aug.
+Kassian is a house and techno artist tracked on soundcheck, with 48 sets logged across Auckland, Barcelona, Belfast and Berlin and 14 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: radial, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | radial | London |
+| Sat, 3 Oct 2026 | The Fox and Firkin | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kassian is a house and techno artist tracked on soundcheck, with 47 sets logged 
 
 ## Shares bills with
 
-Joe Milli, Jay Carder, Kiara Scuro
+Joe Milli, Jay Carder, Breaka
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*

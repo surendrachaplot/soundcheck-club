@@ -1,6 +1,6 @@
 # Fred Simon
 
-Fred Simon is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bluesquare, Milan on Fri, 18 Sept 2026.
+Fred Simon is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bluesquare, Milan on Fri, 18 Sept 2026.
 
 Fred Simon is a house and funk / soul artist tracked on soundcheck, with 6 sets logged across Milan, Paris and Rome. Often billed alongside Lela Xein, Matt D (IT) and Mel C. Next up: Bluesquare, Milan on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Fred Simon is a house and funk / soul artist tracked on soundcheck, with 6 sets 
 
 Lela Xein, Matt D (IT), Mel C
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredsimon/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredsimon/)*

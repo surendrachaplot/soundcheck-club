@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Lost Sundays — September 6 feat. Diffrent + Entasia" on Sun, 6 Sept 2026.
+The Ivy is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Lost Sundays — September 6 feat. Diffrent + Entasia" on Sun, 6 Sept 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -18,4 +18,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

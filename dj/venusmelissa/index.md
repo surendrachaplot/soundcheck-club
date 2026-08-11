@@ -1,6 +1,6 @@
 # Venus Melissa
 
-Venus Melissa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Venus Melissa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Venus Melissa is a techno and trance artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside INVERNO, Vera Moro and 25EMEHEURE. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Venus Melissa is a techno and trance artist tracked on soundcheck, with 11 sets 
 
 INVERNO, Vera Moro, 25EMEHEURE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*

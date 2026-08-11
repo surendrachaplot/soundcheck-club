@@ -1,6 +1,6 @@
 # Peter Van Hoesen
 
-Peter Van Hoesen is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Peter Van Hoesen is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 20 more. Often billed alongside Atom™, Cobahn and DJ SO. Next up: FOLD, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on sou
 
 Atom™, Cobahn, DJ SO
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*

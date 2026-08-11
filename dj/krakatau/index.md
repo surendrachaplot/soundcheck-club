@@ -1,6 +1,6 @@
 # Krakatau
 
-Krakatau is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Krakatau is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Krakatau is a house and jazz artist tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Amaliah, Cousin and Cutting Room. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Krakatau is a house and jazz artist tracked on soundcheck, with 3 sets logged ac
 
 Amaliah, Cousin, Cutting Room
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krakatau/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krakatau/)*

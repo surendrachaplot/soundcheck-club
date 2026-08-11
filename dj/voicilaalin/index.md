@@ -1,6 +1,6 @@
 # Voicila Alin
 
-Voicila Alin is a Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Sun, 16 Aug 2026.
+Voicila Alin is a Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Radio Radio, Amsterdam on Sun, 16 Aug 2026.
 
 Voicila Alin is a minimal artist based in Romania, tracked on soundcheck, with 2 sets logged across Amsterdam and Bucharest. Often billed alongside GENE, Hypnoize and Isaac Elejalde. Next up: Radio Radio, Amsterdam on Sun 16 Aug.
 
@@ -18,4 +18,4 @@ Voicila Alin is a minimal artist based in Romania, tracked on soundcheck, with 2
 
 GENE, Hypnoize, Isaac Elejalde
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voicilaalin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voicilaalin/)*

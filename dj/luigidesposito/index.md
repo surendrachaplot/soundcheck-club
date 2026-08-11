@@ -1,6 +1,6 @@
 # Luigi D'Esposito
 
-Luigi D'Esposito is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 20 Aug 2026.
+Luigi D'Esposito is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 20 Aug 2026.
 
 Luigi D'Esposito is a house and italo disco artist based in Italy, tracked on soundcheck, with 7 sets logged across Naples. Next up: Rumore Nightclub Capri, Naples on Thu 20 Aug.
 
@@ -19,4 +19,4 @@ Luigi D'Esposito is a house and italo disco artist based in Italy, tracked on so
 - Rumore Nightclub Capri, Naples — Sat, 3 May 2025
 - TBA - Da Gemma Beach Club, Naples — Sat, 10 Aug 2024
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidesposito/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidesposito/)*

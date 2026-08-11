@@ -1,6 +1,6 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "OG Records presents: bullet tooth" on Fri, 14 Aug 2026.
+BRET is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "OG Records presents: bullet tooth" on Fri, 14 Aug 2026.
 
 BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Tadeusz, Andy Luff, Anton Jonathan and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, wit
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

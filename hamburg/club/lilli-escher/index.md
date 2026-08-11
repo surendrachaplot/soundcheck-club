@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "CMP" on Tue, 11 Aug 2026.
+Lilli Escher is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "CMP" on Tue, 11 Aug 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including cmp (1), lenox, SILAS (DE) and SZELEST. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 6 upcoming nights
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

@@ -1,6 +1,6 @@
 # DJ Snuff
 
-DJ Snuff is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club Silly (Bosi), London on Thu, 20 Aug 2026.
+DJ Snuff is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club Silly (Bosi), London on Thu, 20 Aug 2026.
 
 DJ Snuff is a jazz and dub artist tracked on soundcheck, with 29 sets logged across London. Often billed alongside Slick N Bobby, Congo Natty and Sammseed. Next up: Club Silly (Bosi), London on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ DJ Snuff is a jazz and dub artist tracked on soundcheck, with 29 sets logged acr
 
 Slick N Bobby, Congo Natty, Sammseed
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnuff/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnuff/)*

@@ -1,6 +1,6 @@
 # Elias Erium
 
-Elias Erium is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NWHR, Montreal on Fri, 28 Aug 2026.
+Elias Erium is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at NWHR, Montreal on Fri, 28 Aug 2026.
 
 Elias Erium is a progressive house and techno artist tracked on soundcheck, with 9 sets logged across Montreal and Toronto. Often billed alongside 8KAYS, Adam Ten and Enamour. Next up: NWHR, Montreal on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Elias Erium is a progressive house and techno artist tracked on soundcheck, with
 
 8KAYS, Adam Ten, Enamour
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*

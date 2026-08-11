@@ -1,6 +1,6 @@
 # MMM
 
-MMM is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at R Lounge, Tokyo on Sun, 23 Aug 2026.
+MMM is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at R Lounge, Tokyo on Sun, 23 Aug 2026.
 
 MMM is a house and afrobeat artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg, Milan and Osaka and 2 more. Often billed alongside ALUCA, Anton Jonathan and Aquarian. Next up: R Lounge, Tokyo on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ MMM is a house and afrobeat artist based in Germany, tracked on soundcheck, with
 
 ALUCA, Anton Jonathan, Aquarian
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*

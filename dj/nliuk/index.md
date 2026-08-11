@@ -1,6 +1,6 @@
 # NLI
 
-NLI is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
+NLI is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
 
 NLI is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, Birmingham and London. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: Tresor / Globus, Berlin on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ NLI is a techno and hardcore artist based in United Kingdom, tracked on soundche
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*

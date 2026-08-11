@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+DJ SEXSTASY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 11 more. Often billed alongside OZA, PETERBLUE and Rishka. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 33 sets lo
 
 OZA, PETERBLUE, Rishka
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

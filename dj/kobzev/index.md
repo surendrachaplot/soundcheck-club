@@ -1,6 +1,6 @@
 # Kobzev
 
-Kobzev is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Sat, 22 Aug 2026.
+Kobzev is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Sat, 22 Aug 2026.
 
 Kobzev is a techno and acid artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Berlin, Milan, Paris and Prague. Often billed alongside Flight Mode (DE), G.oss and Bconscious. Next up: ://about blank, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kobzev is a techno and acid artist based in Ukraine, tracked on soundcheck, with
 
 Flight Mode (DE), G.oss, Bconscious
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*

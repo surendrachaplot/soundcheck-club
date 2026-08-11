@@ -1,6 +1,6 @@
 # Doc²
 
-Doc² is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Doc² is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Doc² is a techno and afro tech artist based in Australia, tracked on soundcheck, with 4 sets logged across London and Melbourne. Often billed alongside Charlotte Rooney, Char(k) and Data Flow. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Doc² is a techno and afro tech artist based in Australia, tracked on soundcheck
 
 Charlotte Rooney, Char(k), Data Flow
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doc²/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doc²/)*

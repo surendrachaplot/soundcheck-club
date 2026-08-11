@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Schrotty, Cologne on Fri, 14 Aug 2026.
+Bart Skils is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Schrotty, Cologne on Fri, 14 Aug 2026.
 
 Bart Skils is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Schrotty, Cologne on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Bart Skils is a techno and house artist tracked on soundcheck, with 125 sets log
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

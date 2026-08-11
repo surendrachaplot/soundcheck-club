@@ -1,6 +1,6 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+Jovonn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
 
 Jovonn is a house and deep house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Jovonn is a house and deep house artist tracked on soundcheck, with 48 sets logg
 
 Chez Damier, Garrett David, Omer Mil
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*

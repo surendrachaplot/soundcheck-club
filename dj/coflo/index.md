@@ -1,6 +1,6 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Bellevilloise, Paris on Sat, 26 Sept 2026.
+Coflo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Bellevilloise, Paris on Sat, 26 Sept 2026.
 
 Coflo is a house and deep house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Chicago, Denver and Detroit and 14 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: La Bellevilloise, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Coflo is a house and deep house artist tracked on soundcheck, with 55 sets logge
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

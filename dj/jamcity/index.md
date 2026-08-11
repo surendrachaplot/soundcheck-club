@@ -1,6 +1,6 @@
 # Jam City
 
-Jam City is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Smoke & Mirrors, Chicago on Thu, 24 Sept 2026.
+Jam City is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Smoke & Mirrors, Chicago on Thu, 24 Sept 2026.
 
 Jam City is an electro and experimental artist tracked on soundcheck, with 6 sets logged across Barcelona, Brussels, Chicago and Glasgow and 2 more. Often billed alongside Otis (BE), 96 Back and Akua. Next up: Smoke & Mirrors, Chicago on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ Jam City is an electro and experimental artist tracked on soundcheck, with 6 set
 
 Otis (BE), 96 Back, Akua
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamcity/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamcity/)*

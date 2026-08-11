@@ -1,6 +1,6 @@
 # dj flood
 
-dj flood is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Podlasie Club, Chicago on Fri, 21 Aug 2026.
+dj flood is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Podlasie Club, Chicago on Fri, 21 Aug 2026.
 
 dj flood is a techno and breakbeat artist tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside Eulalia, HOTPRETTY and Miss Twink USA. Next up: Podlasie Club, Chicago on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ dj flood is a techno and breakbeat artist tracked on soundcheck, with 4 sets log
 
 Eulalia, HOTPRETTY, Miss Twink USA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflood/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflood/)*

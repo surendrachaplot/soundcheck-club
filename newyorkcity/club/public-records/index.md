@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Joker, Don-Ri, Mui Mui" on Thu, 13 Aug 2026.
+public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Joker, Don-Ri, Mui Mui" on Thu, 13 Aug 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 30000AD, The AM/AMX, BLKshine and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

@@ -1,6 +1,6 @@
 # Mobilegirl
 
-Mobilegirl is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
+Mobilegirl is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
 
 Mobilegirl is a club and bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Basel, Berlin and Brisbane and 15 more. Often billed alongside Nico Adomako, Kanucia and Why Be. Next up: Kampnagel, Hamburg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mobilegirl is a club and bass artist tracked on soundcheck, with 68 sets logged 
 
 Nico Adomako, Kanucia, Why Be
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*

@@ -1,6 +1,6 @@
 # Tano
 
-Tano is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
+Tano is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
 
 Tano is a bass and club artist tracked on soundcheck, with 18 sets logged across Berlin, Detroit, Edinburgh and Glasgow and 5 more. Often billed alongside Don-Ri, Lewis Lowe and 2Lanes. Next up: 314 Scholes St, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tano is a bass and club artist tracked on soundcheck, with 18 sets logged across
 
 Don-Ri, Lewis Lowe, 2Lanes
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*

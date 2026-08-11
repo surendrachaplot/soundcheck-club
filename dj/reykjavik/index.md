@@ -1,6 +1,6 @@
 # Rey&Kjavik
 
-Rey&Kjavik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gretchen, Berlin on Sat, 7 Nov 2026.
+Rey&Kjavik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gretchen, Berlin on Sat, 7 Nov 2026.
 
 Rey&Kjavik is a techno and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Frankfurt, Geneva and Hamburg and 9 more. Often billed alongside Barseghian, Dominik Eulberg and Glani. Next up: Gretchen, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rey&Kjavik is a techno and house artist based in Germany, tracked on soundcheck,
 
 Barseghian, Dominik Eulberg, Glani
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*

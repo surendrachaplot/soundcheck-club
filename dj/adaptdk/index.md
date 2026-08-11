@@ -1,6 +1,6 @@
 # ADAPT (DK)
 
-ADAPT (DK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
+ADAPT (DK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
 
 ADAPT (DK) is a house and techno artist tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside CERJ, Aja Gulris and Safe Spacers. Next up: Culture Box, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ADAPT (DK) is a house and techno artist tracked on soundcheck, with 9 sets logge
 
 CERJ, Aja Gulris, Safe Spacers
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*

@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TOFFLER presents The Funkmoore Brothers and friends" on Fri, 14 Aug 2026.
+Toffler is a music venue in Rotterdam with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TOFFLER presents The Funkmoore Brothers and friends" on Fri, 14 Aug 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 17 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 17 upcoming nights, 
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

@@ -1,6 +1,6 @@
 # DECO (MX)
 
-DECO (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Loo Loo, Mexico City on Thu, 27 Aug 2026.
+DECO (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Loo Loo, Mexico City on Thu, 27 Aug 2026.
 
 DECO (MX) is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Nimue, Valeriana and Wolffer. Next up: Loo Loo, Mexicocity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ DECO (MX) is a house and deep house artist based in United States of America, tr
 
 Nimue, Valeriana, Wolffer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-mx/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-mx/)*

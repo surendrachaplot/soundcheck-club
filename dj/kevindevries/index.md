@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
+Kevin de Vries is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
 
 Kevin de Vries is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Tale Of Us, Chris Avantgarde and Anyma. Next up: [UNVRS], Ibiza on Tue 11 Aug.
 
@@ -29,4 +29,4 @@ Kevin de Vries is a techno and house artist tracked on soundcheck, with 164 sets
 
 Tale Of Us, Chris Avantgarde, Anyma
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

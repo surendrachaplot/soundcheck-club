@@ -1,6 +1,6 @@
 # Egø Deåth // Initiation // Hard & Industrial Techno at TBA - Venue MOT
 
-Egø Deåth // Initiation // Hard & Industrial Techno at TBA - Venue MOT on Fri 21 Aug, London. 3 acts on the bill: Labåzuy, SHARKA and Shugah. Preview the line-up and save it on soundcheck.
+Egø Deåth // Initiation // Hard & Industrial Techno at TBA - Venue MOT on Fri 21 Aug, London. 6 acts on the bill: Arts.Diø, Baptist (UK), Diana Bravo and Labåzuy and 2 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Egø Deåth // Initiation // Hard & Industrial Techno at TBA - Venue MOT on Fri 
 
 ## Line-up
 
+- Arts.Diø
+- Baptist (UK)
+- Diana Bravo
 - Labåzuy
 - SHARKA
 - Shugah

@@ -1,6 +1,6 @@
 # Children of Zeus
 
-Children of Zeus is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Children of Zeus is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Children of Zeus is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 5 more. Often billed alongside Chunky, DJ BORING and Dan Shake. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Children of Zeus is a hip-hop and r&b artist based in United Kingdom, tracked on
 
 Chunky, DJ BORING, Dan Shake
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofzeus/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofzeus/)*

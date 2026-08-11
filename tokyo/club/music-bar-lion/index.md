@@ -1,6 +1,6 @@
 # 不眠遊戯ライオン - Music Bar Lion
 
-不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "AIRCON" on Tue, 11 Aug 2026.
+不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "AIRCON" on Tue, 11 Aug 2026.
 
 不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including BiBiYUA, Big Animal Theory, ecec and Gen Yamada and 1 more. Browse upcoming dates, start times and who's playing. GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo.
 
@@ -15,4 +15,4 @@
 
 GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo, Tokyo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*

@@ -1,6 +1,6 @@
 # Petit Problème
 
-Petit Problème is a Grime and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
+Petit Problème is a Grime and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
 
 Petit Problème is a grime and jungle artist tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside SIMMS, Janaway and Nio-B. Next up: Planet Wax, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Petit Problème is a grime and jungle artist tracked on soundcheck, with 12 sets
 
 SIMMS, Janaway, Nio-B
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*

@@ -1,6 +1,6 @@
 # Stealing Sheep
 
-Stealing Sheep is a Electronica and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kazimier Garden, Liverpool on Thu, 27 Aug 2026.
+Stealing Sheep is a Electronica and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kazimier Garden, Liverpool on Thu, 27 Aug 2026.
 
 Stealing Sheep is an electronica and post-punk artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Liverpool, Manchester and Sheffield. Often billed alongside Alexis Taylor, Crimewave and Dance for Plants. Next up: Kazimier Garden, Liverpool on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Stealing Sheep is an electronica and post-punk artist based in United Kingdom, t
 
 Alexis Taylor, Crimewave, Dance for Plants
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stealingsheep/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stealingsheep/)*

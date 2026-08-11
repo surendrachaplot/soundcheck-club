@@ -1,6 +1,6 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Fumiya Tanaka is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets 
 
 Samuel Deep, Laidlaw, Doudou MD
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

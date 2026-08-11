@@ -1,6 +1,6 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 3 Sept 2026.
+Louie Vega is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Louie Vega is a house and disco artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: 528 Ibiza, Ibiza on Thu 3 Sept.
 
@@ -32,4 +32,4 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 203 sets logg
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

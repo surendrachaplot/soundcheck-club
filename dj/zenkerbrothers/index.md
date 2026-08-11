@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
+Zenker Brothers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
 
 Zenker Brothers is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Stenny, Skee Mask and Fireground. Next up: Bassiani, Tbilisi on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Zenker Brothers is a techno and house artist tracked on soundcheck, with 141 set
 
 Stenny, Skee Mask, Fireground
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

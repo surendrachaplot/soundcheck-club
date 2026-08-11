@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "GIROLOCO Presents: PETRUS" on Fri, 14 Aug 2026.
+Miscellania is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "GIROLOCO Presents: PETRUS" on Fri, 14 Aug 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including AMIRA, Black Dave, Bobo and Cristal No.5 and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -20,4 +20,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 7 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

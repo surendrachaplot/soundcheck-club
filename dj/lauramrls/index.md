@@ -1,6 +1,6 @@
 # Laura MRLS
 
-Laura MRLS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
+Laura MRLS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
 
 Laura MRLS is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, London and Losangeles. Often billed alongside JASSASS, Nnamael and Desiree'. Next up: M.O.T, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Laura MRLS is a techno and industrial artist tracked on soundcheck, with 16 sets
 
 JASSASS, Nnamael, Desiree'
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*

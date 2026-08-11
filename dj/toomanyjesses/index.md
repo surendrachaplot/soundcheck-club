@@ -1,6 +1,6 @@
 # too many Jesses
 
-too many Jesses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
+too many Jesses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
 
 too many Jesses is a techno and house artist based in Czech Republic, tracked on soundcheck, with 2 sets logged across Prague. Often billed alongside ishka machina, Adamatron and Arton (CZ). Next up: Altenburg 1964, Prague on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ too many Jesses is a techno and house artist based in Czech Republic, tracked on
 
 ishka machina, Adamatron, Arton (CZ)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*

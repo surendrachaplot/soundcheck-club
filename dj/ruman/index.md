@@ -1,6 +1,6 @@
 # Ruman
 
-Ruman is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 21 Aug 2026.
+Ruman is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Ruman is a techno and ambient artist based in Spain, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg, Madrid and Porto. Often billed alongside Katya Milch, Stanislav Tolkachev and Josef Kunz. Next up: RSO.BERLIN, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Ruman is a techno and ambient artist based in Spain, tracked on soundcheck, with
 
 Katya Milch, Stanislav Tolkachev, Josef Kunz
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruman/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruman/)*

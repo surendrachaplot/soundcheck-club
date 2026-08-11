@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "NIGHT VISION - Carrellee - Skoto - The Gallery - DJ Omar" on Fri, 14 Aug 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "NIGHT VISION - Carrellee - Skoto - The Gallery - DJ Omar" on Fri, 14 Aug 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including ANDYLAND, Avalon Emerson, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -20,4 +20,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upco
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

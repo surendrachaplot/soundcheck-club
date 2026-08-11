@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a Post-Punk and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 19 Sept 2026.
+Cabaret Voltaire is a Post-Punk and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 19 Sept 2026.
 
 Cabaret Voltaire is a post-punk and industrial artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Brussels and Glasgow and 4 more. Often billed alongside Olga Anna Markowska, 2K88 and 30drop. Next up: Société des arts technologiques, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Cabaret Voltaire is a post-punk and industrial artist tracked on soundcheck, wit
 
 Olga Anna Markowska, 2K88, 30drop
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*

@@ -1,6 +1,6 @@
 # Jeroen Search
 
-Jeroen Search is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 12 Sept 2026.
+Jeroen Search is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 12 Sept 2026.
 
 Jeroen Search is a techno and house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Ali-Az, Amanda Mussi and Border One. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jeroen Search is a techno and house artist based in Netherlands, tracked on soun
 
 Ali-Az, Amanda Mussi, Border One
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeroensearch/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeroensearch/)*

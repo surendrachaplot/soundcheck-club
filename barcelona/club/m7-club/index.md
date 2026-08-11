@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "HARD BOUNCE [Xexo & Nmb2000]" on Thu, 13 Aug 2026.
+M7 Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "HARD BOUNCE [Xexo & Nmb2000]" on Thu, 13 Aug 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Adviro, Ana Sclifos, Apokä and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -20,4 +20,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, w
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

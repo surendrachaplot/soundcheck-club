@@ -1,6 +1,6 @@
 # Bachi
 
-Bachi is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Left Bank, Tbilisi on Sat, 15 Aug 2026.
+Bachi is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Left Bank, Tbilisi on Sat, 15 Aug 2026.
 
 Bachi is a deep house and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Frankfurt, Ibiza and Tbilisi. Often billed alongside Musti Nero, Abraham (GER) and Alex Schmoll. Next up: Left Bank, Tbilisi on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Bachi is a deep house and house artist based in Germany, tracked on soundcheck, 
 
 Musti Nero, Abraham (GER), Alex Schmoll
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bachi-de/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bachi-de/)*

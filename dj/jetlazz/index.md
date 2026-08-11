@@ -1,6 +1,6 @@
 # Jet Lazz
 
-Jet Lazz is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Apeb, Brussels on Sat, 29 Aug 2026.
+Jet Lazz is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Apeb, Brussels on Sat, 29 Aug 2026.
 
 Jet Lazz is a house and r&b artist based in Portugal, tracked on soundcheck, with 3 sets logged across Barcelona, Brussels and Lisbon. Often billed alongside PAZ WAZ HERE, Alexxx and DJ Carlitos. Next up: Apeb, Brussels on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Jet Lazz is a house and r&b artist based in Portugal, tracked on soundcheck, wit
 
 PAZ WAZ HERE, Alexxx, DJ Carlitos
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jetlazz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jetlazz/)*

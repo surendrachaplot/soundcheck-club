@@ -1,6 +1,6 @@
 # Squaric
 
-Squaric is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
+Squaric is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
 
 Squaric is a techno and experimental artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: ://about blank, Berlin on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ Squaric is a techno and experimental artist tracked on soundcheck, with 99 sets 
 
 Atlantic Energy, Sender Berlin, Anri
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*

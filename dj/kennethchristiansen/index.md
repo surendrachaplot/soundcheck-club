@@ -1,6 +1,6 @@
 # Kenneth Christiansen
 
-Kenneth Christiansen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Kenneth Christiansen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
 
 Kenneth Christiansen is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen, Manchester and Prague. Often billed alongside Sabine Hoffmann, Deadbeat and Luke Hess. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kenneth Christiansen is a house and techno artist tracked on soundcheck, with 23
 
 Sabine Hoffmann, Deadbeat, Luke Hess
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethchristiansen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethchristiansen/)*

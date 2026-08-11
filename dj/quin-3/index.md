@@ -1,6 +1,6 @@
 # QUIN (3)
 
-QUIN (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
+QUIN (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
 
 QUIN (3) is a techno and house artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal and Toronto. Often billed alongside AADJA, Juan Evangelista and Mike Larry. Next up: TBA, Toronto on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ QUIN (3) is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 AADJA, Juan Evangelista, Mike Larry
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quin-3/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quin-3/)*

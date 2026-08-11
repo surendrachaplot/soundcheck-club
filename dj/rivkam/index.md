@@ -1,6 +1,6 @@
 # Rivka M
 
-Rivka M is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Spin, San Diego on Sat, 15 Aug 2026.
+Rivka M is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spin, San Diego on Sat, 15 Aug 2026.
 
 Rivka M is a techno and minimal artist tracked on soundcheck, with 12 sets logged across Sandiego. Often billed alongside Mall Grab, AMÉMÉ and ARP8. Next up: Spin, Sandiego on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rivka M is a techno and minimal artist tracked on soundcheck, with 12 sets logge
 
 Mall Grab, AMÉMÉ, ARP8
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkam/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkam/)*

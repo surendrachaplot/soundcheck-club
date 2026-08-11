@@ -1,6 +1,6 @@
 # UNITY AT KITKAT CLUB at KitKatClub
 
-UNITY AT KITKAT CLUB at KitKatClub on Thu 13 Aug, Berlin. 2 acts on the bill: Cobb Douglas and DJ Henk. Trance and Techno. Preview the line-up and save it on soundcheck.
+UNITY AT KITKAT CLUB at KitKatClub on Thu 13 Aug, Berlin. 3 acts on the bill: Cobb Douglas, DJ Henk and DJ Primitivo. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ UNITY AT KITKAT CLUB at KitKatClub on Thu 13 Aug, Berlin. 2 acts on the bill: Co
 
 - Cobb Douglas
 - DJ Henk
+- DJ Primitivo
 
 *Source: [soundcheck](https://soundcheck.club/e/2498427-unity-at-kitkat-club-at-kitkatclub/)*

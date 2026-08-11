@@ -1,6 +1,6 @@
 # Le Mazette
 
-Le Mazette is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Aurora & Atlas Project - Micky Hurts, Deepsea Grooves" on Fri, 25 Sept 2026.
+Le Mazette is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Aurora & Atlas Project - Micky Hurts, Deepsea Grooves" on Fri, 25 Sept 2026.
 
 Le Mazette is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Micky Hurts. Browse upcoming dates, start times and who's playing. 69 Port de la Rapée.
 
@@ -14,4 +14,4 @@ Le Mazette is a music venue in Paris listed on soundcheck. 1 upcoming night, wit
 
 69 Port de la Rapée, Paris
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*

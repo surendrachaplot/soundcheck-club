@@ -1,6 +1,6 @@
 # JELLY
 
-JELLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+JELLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 JELLY is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Mexicocity, Paris and Rotterdam and 3 more. Often billed alongside Jeans (NL), Jetti and Afra. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JELLY is a techno and house artist tracked on soundcheck, with 34 sets logged ac
 
 Jeans (NL), Jetti, Afra
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*

@@ -1,6 +1,6 @@
 # Paromanormal
 
-Paromanormal is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Paromanormal is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 Paromanormal is a techno artist tracked on soundcheck, with 3 sets logged across Nantes and Prague. Often billed alongside D.E.S Fr, Dialectics and Discostouf. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Paromanormal is a techno artist tracked on soundcheck, with 3 sets logged across
 
 D.E.S Fr, Dialectics, Discostouf
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paromanormal/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paromanormal/)*

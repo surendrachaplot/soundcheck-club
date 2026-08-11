@@ -1,6 +1,6 @@
 # IMANU presented by Hostile City x Lekker Selection x Tempted Music Group at Ground Floor
 
-IMANU presented by Hostile City x Lekker Selection x Tempted Music Group at Ground Floor on Sat 12 Sept, Philadelphia. 1 act on the bill: Imanu. Drum & Bass. Preview the line-up and save it on soundcheck.
+IMANU presented by Hostile City x Lekker Selection x Tempted Music Group at Ground Floor on Sat 12 Sept, Philadelphia. 4 acts on the bill: Imanu, ONHELL, REGA and Skuzz. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ IMANU presented by Hostile City x Lekker Selection x Tempted Music Group at Grou
 ## Line-up
 
 - Imanu
+- ONHELL
+- REGA
+- Skuzz
 
 *Source: [soundcheck](https://soundcheck.club/e/2493147-imanu-presented-by-hostile-city-x-lekker-selection-x-tempted/)*

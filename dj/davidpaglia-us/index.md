@@ -1,6 +1,6 @@
 # David Paglia
 
-David Paglia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Xanadu, New York City on Sun, 30 Aug 2026.
+David Paglia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Xanadu, New York City on Sun, 30 Aug 2026.
 
 David Paglia is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Detroit, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Jay Prouty, Connie and Elon. Next up: Xanadu, Newyorkcity on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ David Paglia is a house and techno artist based in United States of America, tra
 
 Jay Prouty, Connie, Elon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpaglia-us/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpaglia-us/)*

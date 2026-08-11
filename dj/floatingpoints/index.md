@@ -1,6 +1,6 @@
 # Floating Points
 
-Floating Points is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Floating Points is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Floating Points is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Floating Points is a house and techno artist tracked on soundcheck, with 70 sets
 
 Four Tet, Palms Trax, Daphni
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*

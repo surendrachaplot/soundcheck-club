@@ -1,6 +1,6 @@
 # DJ Get Luc(y)
 
-DJ Get Luc(y) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 15 Aug 2026.
+DJ Get Luc(y) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 15 Aug 2026.
 
 DJ Get Luc(y) is a techno and house artist based in Ireland, tracked on soundcheck, with 31 sets logged across Dublin, London, Madrid and Newyorkcity. Often billed alongside Dundar, Puzzy Wrangler and badapples. Next up: Yamamori Tengu, Dublin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Get Luc(y) is a techno and house artist based in Ireland, tracked on soundche
 
 Dundar, Puzzy Wrangler, badapples
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgetlucy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgetlucy/)*

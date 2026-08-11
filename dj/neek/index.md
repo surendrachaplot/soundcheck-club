@@ -1,14 +1,15 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
+Neek is a Techno and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
 
-Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
+Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Pitt Market | Edinburgh |
+| Fri, 4 Sept 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 16 Oct 2026 | The Dome | Liverpool |
 | Fri, 23 Oct 2026 | Room 2 Glasgow | Glasgow |
 
@@ -27,4 +28,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

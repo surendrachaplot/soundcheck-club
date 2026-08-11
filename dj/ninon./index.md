@@ -1,6 +1,6 @@
 # ninon.
 
-ninon. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+ninon. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 ninon. is a techno and dub techno artist tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside Eminelli, VOLTMARIE and Angiko (2). Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ ninon. is a techno and dub techno artist tracked on soundcheck, with 6 sets logg
 
 Eminelli, VOLTMARIE, Angiko (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*

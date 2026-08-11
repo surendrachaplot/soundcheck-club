@@ -1,14 +1,15 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Ali Güney, Matej Rusmir, lu:ka" on Sat, 15 Aug 2026.
+Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Ali Güney, Matej Rusmir, lu:ka" on Sat, 15 Aug 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, with line-ups including Ali Guney, Aneri, Ciel and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including Ali Guney, Aneri, Ciel and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Ali Güney, Matej Rusmir, lu:ka | Ali Guney, Matej Rusmir, lu:ka |
+| Fri, 21 Aug 2026 | WWA with Mamavitae, tadi, Frkica, and Zana | Mamavitae, tadi |
 | Sat, 22 Aug 2026 | YES | Stevie Whisper |
 | Fri, 28 Aug 2026 | Drugstore Garden with D.Dan, Lollipop Janosz, Aneri, Essio | Aneri, D.Dan, Essio, Lollipop Janosz |
 | Thu, 3 Sept 2026 | Nadja (CA) — Drone Doom Legends in Belgrade |  |
@@ -19,4 +20,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

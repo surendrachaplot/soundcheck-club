@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at BK Backyard, New York City on Fri, 21 Aug 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at BK Backyard, New York City on Fri, 21 Aug 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: BK Backyard, Newyorkcity on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

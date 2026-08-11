@@ -1,6 +1,6 @@
 # QV (1)
 
-QV (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at John Doe, Amsterdam on Thu, 20 Aug 2026.
+QV (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at John Doe, Amsterdam on Thu, 20 Aug 2026.
 
 QV (1) is a techno artist based in Colombia, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Marco Ramos. Next up: John Doe, Amsterdam on Thu 20 Aug.
 
@@ -14,4 +14,4 @@ QV (1) is a techno artist based in Colombia, tracked on soundcheck, with 1 set l
 
 Marco Ramos
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qv-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qv-1/)*

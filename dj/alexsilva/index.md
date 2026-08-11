@@ -1,6 +1,6 @@
 # Alex Silva
 
-Alex Silva is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Noxe Barcelona, Barcelona on Tue, 11 Aug 2026.
+Alex Silva is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Noxe Barcelona, Barcelona on Tue, 11 Aug 2026.
 
 Alex Silva is a house and deep house artist tracked on soundcheck, with 66 sets logged across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Noxe Barcelona, Barcelona on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Alex Silva is a house and deep house artist tracked on soundcheck, with 66 sets 
 
 Nesi, GIVIO, Vikki
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*

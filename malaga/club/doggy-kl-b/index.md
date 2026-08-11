@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Doggy & Friends: Hillgriffin" on Thu, 13 Aug 2026.
+Doggy Klœb is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Doggy & Friends: Hillgriffin" on Thu, 13 Aug 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 6 upcoming nights, with line-ups including Andrés Sancho, Arval, Joe Dylan and Louie Fresco and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -19,4 +19,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 6 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

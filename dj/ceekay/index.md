@@ -1,6 +1,6 @@
 # CEEKAY
 
-CEEKAY is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
+CEEKAY is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
 
 CEEKAY is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Liverpool and Manchester. Often billed alongside MAD Beats, Zoe Azad and DJ Elsie. Next up: The DBA, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ CEEKAY is a techno and dub techno artist based in United Kingdom, tracked on sou
 
 MAD Beats, Zoe Azad, DJ Elsie
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceekay/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceekay/)*

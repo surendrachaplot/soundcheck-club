@@ -1,6 +1,6 @@
 # Purobeach Barcelona
 
-Purobeach Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "WE LOVE THIS CITY" on Fri, 14 Aug 2026.
+Purobeach Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "WE LOVE THIS CITY" on Fri, 14 Aug 2026.
 
 Purobeach Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Art of Tones, Kanedo, Mr. B and Naommi and 1 more. Browse upcoming dates, start times and who's playing. Passeig del Taulat 262-264, Barcelona, 08019, Spain.
 
@@ -17,4 +17,4 @@ Purobeach Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcomi
 
 Passeig del Taulat 262-264, Barcelona, 08019, Spain, Barcelona
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/purobeach-barcelona/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/purobeach-barcelona/)*

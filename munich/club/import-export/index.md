@@ -1,6 +1,6 @@
 # Import Export
 
-Import Export is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Turntabletennis" on Tue, 11 Aug 2026.
+Import Export is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Turntabletennis" on Tue, 11 Aug 2026.
 
 Import Export is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including Carl Gari, CONTAGIOUS, Habibi Funk and Katscha and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
@@ -23,4 +23,4 @@ Import Export is a music venue in Munich listed on soundcheck. 10 upcoming night
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

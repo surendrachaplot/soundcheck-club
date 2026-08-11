@@ -1,6 +1,6 @@
 # Shi Shi
 
-Shi Shi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
+Shi Shi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
 
 Shi Shi is a house and club artist based in United States of America, tracked on soundcheck, with 38 sets logged across Chicago, London, Losangeles and Newyorkcity and 3 more. Often billed alongside Pacer, AceMo and sqip. Next up: The Sound Lounge at Percy, Philadelphia on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Shi Shi is a house and club artist based in United States of America, tracked on
 
 Pacer, AceMo, sqip
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*

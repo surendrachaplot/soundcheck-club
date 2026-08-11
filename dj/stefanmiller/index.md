@@ -1,6 +1,6 @@
 # Stefan Miller
 
-Stefan Miller is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pracht, Frankfurt on Sat, 15 Aug 2026.
+Stefan Miller is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pracht, Frankfurt on Sat, 15 Aug 2026.
 
 Stefan Miller is a house and deep house artist based in Germany, tracked on soundcheck, with 10 sets logged across Frankfurt. Often billed alongside Cvni, Danito and Human Rias. Next up: Pracht, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Stefan Miller is a house and deep house artist based in Germany, tracked on soun
 
 Cvni, Danito, Human Rias
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmiller/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmiller/)*

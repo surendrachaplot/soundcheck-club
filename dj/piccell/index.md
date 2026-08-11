@@ -1,6 +1,6 @@
 # PICCELL
 
-PICCELL is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+PICCELL is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
 PICCELL is a techno and amapiano artist based in Angola, tracked on soundcheck, with 6 sets logged across Berlin and Cologne. Often billed alongside Frau Beji, Foudjo and DORITOS DJ. Next up: Garagen, Cologne on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ PICCELL is a techno and amapiano artist based in Angola, tracked on soundcheck, 
 
 Frau Beji, Foudjo, DORITOS DJ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piccell/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piccell/)*

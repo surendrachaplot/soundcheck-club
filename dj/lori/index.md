@@ -1,6 +1,6 @@
 # Lori (1)
 
-Lori (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
+Lori (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
 
 Lori (1) is a house and disco artist based in Australia, tracked on soundcheck, with 17 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, DJ JNETT and Darcy Justice. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Lori (1) is a house and disco artist based in Australia, tracked on soundcheck, 
 
 Boris Coelman, DJ JNETT, Darcy Justice
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*

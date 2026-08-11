@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Job de Jong is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Job de Jong is a house and tech house artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 160 set
 
 Prunk, M-High, Dennis Quin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

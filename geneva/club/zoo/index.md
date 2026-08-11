@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Zoo IS BACK - RESISTENZA: David Löhlein • Philippa Pacho • ROÜGE • Hermeth [VJ Mondame Pigeon]" on Fri, 28 Aug 2026.
+Zoo is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Zoo IS BACK - RESISTENZA: David Löhlein • Philippa Pacho • ROÜGE • Hermeth [VJ Mondame Pigeon]" on Fri, 28 Aug 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 4 upcoming nights, with line-ups including Alpha Tracks, Bowmore, Cadence [HTRB] and David Löhlein and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -17,4 +17,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 4 upcoming nights, with lin
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

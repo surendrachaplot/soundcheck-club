@@ -1,19 +1,19 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
+Courtesy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Palais, London on Sat, 15 Aug 2026.
 
-Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: DC-10, Ibiza on Mon 10 Aug.
+Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: Palais, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sat, 15 Aug 2026 | Palais | London |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 10 Aug 2026
 - Else, Berlin — Sun, 2 Aug 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Bassiani, Tbilisi — Fri, 17 Jul 2026
@@ -21,10 +21,9 @@ Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logge
 - DC-10, Ibiza — Mon, 15 Jun 2026
 - TBA - Ferme de Bissy, Rue de Bissy, Bonnelles, France, Paris — Fri, 12 Jun 2026
 - Umoya, Naples — Fri, 5 Jun 2026
-- FOLD, London — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

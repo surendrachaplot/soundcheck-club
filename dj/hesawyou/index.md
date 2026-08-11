@@ -1,13 +1,14 @@
 # heSAWyou
 
-heSAWyou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Terraza Catedral, Mexico City on Sat, 29 Aug 2026.
+heSAWyou is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Terraza Catedral, Mexico City on Sat, 15 Aug 2026.
 
-heSAWyou is a house and minimal artist based in Mexico, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside Alain Hellion, Timid Boy and Anthony Attalla. Next up: Terraza Catedral, Mexicocity on Sat 29 Aug.
+heSAWyou is a house and minimal artist based in Mexico, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside Alain Hellion, Timid Boy and Anthony Attalla. Next up: Terraza Catedral, Mexicocity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Terraza Catedral | Mexico City |
 | Sat, 29 Aug 2026 | Terraza Catedral | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ heSAWyou is a house and minimal artist based in Mexico, tracked on soundcheck, w
 
 Alain Hellion, Timid Boy, Anthony Attalla
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*

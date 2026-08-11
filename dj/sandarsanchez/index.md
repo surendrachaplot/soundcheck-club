@@ -1,6 +1,6 @@
 # Sandar Sánchez
 
-Sandar Sánchez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 12 Aug 2026.
+Sandar Sánchez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Sandar Sánchez is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Frankfurt and Hamburg and 5 more. Often billed alongside Alay, BOHO and Bonnie Ford. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Sandar Sánchez is a techno and house artist based in Germany, tracked on soundc
 
 Alay, BOHO, Bonnie Ford
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*

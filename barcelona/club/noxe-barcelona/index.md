@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 10 Aug 2026.
+Noxe Barcelona is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Moods at Noxe (26th floor W Barcelona)" on Tue, 11 Aug 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Alex Silva, Drunk At Vogue, Gianmarco Limenta and GIVIO and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Alex Silva, Drunk At Vogue, Gianmarco Limenta and GIVIO and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 11 Aug 2026 | Moods at Noxe (26th floor W Barcelona) | Alex Silva, Vikki |
 | Wed, 12 Aug 2026 | Housy at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 | Thu, 13 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | GIVIO, Nesi |
@@ -18,9 +17,10 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 13 upcoming n
 | Thu, 20 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | Nesi, Pau Grima |
 | Mon, 24 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 25 Aug 2026 | Moods at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
+| Wed, 26 Aug 2026 | Housy at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 
 ## Address
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

@@ -1,6 +1,6 @@
 # Schwa
 
-Schwa is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Schwa is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Schwa is an acid and techno artist based in Czech Republic, tracked on soundcheck, with 1 set logged across Prague. Often billed alongside 2NDRA, 3ever and Bailey Ibbs. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Schwa is an acid and techno artist based in Czech Republic, tracked on soundchec
 
 2NDRA, 3ever, Bailey Ibbs
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwa/)*

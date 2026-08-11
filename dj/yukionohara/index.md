@@ -1,6 +1,6 @@
 # Yukio Nohara
 
-Yukio Nohara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Z Maruyama, Tokyo on Thu, 27 Aug 2026.
+Yukio Nohara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Z Maruyama, Tokyo on Thu, 27 Aug 2026.
 
 Yukio Nohara is a house and techno artist based in Japan, tracked on soundcheck, with 61 sets logged across Tokyo. Often billed alongside AMANE, DJ SHIKISAI and Hiroaki Iida. Next up: Z Maruyama, Tokyo on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Yukio Nohara is a house and techno artist based in Japan, tracked on soundcheck,
 
 AMANE, DJ SHIKISAI, Hiroaki Iida
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukionohara/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukionohara/)*

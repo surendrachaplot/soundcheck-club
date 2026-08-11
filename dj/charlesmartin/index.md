@@ -1,6 +1,6 @@
 # Charles Martin
 
-Charles Martin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
+Charles Martin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
 
 Charles Martin is a house and club artist tracked on soundcheck, with 16 sets logged across Washingtondc. Often billed alongside KayLaSoul, ANNYA and Edo. Next up: Flash, Washingtondc on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Charles Martin is a house and club artist tracked on soundcheck, with 16 sets lo
 
 KayLaSoul, ANNYA, Edo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmartin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmartin/)*

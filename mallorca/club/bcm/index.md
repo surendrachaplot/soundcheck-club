@@ -1,14 +1,13 @@
 # BCM
 
-BCM is a music venue in Mallorca with 24 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Gims" on Mon, 10 Aug 2026.
+BCM is a music venue in Mallorca with 23 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Patrick Topping" on Tue, 11 Aug 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 24 upcoming nights, with line-ups including AARON SEVILLA, Duke Dumont, East End Dubs and Hannah Laing and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 23 upcoming nights, with line-ups including AARON SEVILLA, Duke Dumont, East End Dubs and Hannah Laing and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | Gims |  |
 | Tue, 11 Aug 2026 | Patrick Topping | Patrick Topping |
 | Wed, 12 Aug 2026 | Guè |  |
 | Thu, 13 Aug 2026 | The Martinez Brothers | The Martinez Brothers |
@@ -18,9 +17,10 @@ BCM is a music venue in Mallorca listed on soundcheck. 24 upcoming nights, with 
 | Mon, 17 Aug 2026 | Mambolosco |  |
 | Tue, 18 Aug 2026 | Riordan | Riordan |
 | Wed, 19 Aug 2026 | Major Lazer - Sound System |  |
+| Thu, 20 Aug 2026 | Shiva |  |
 
 ## Address
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

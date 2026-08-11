@@ -1,6 +1,6 @@
 # Seven Lions
 
-Seven Lions is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Seven Lions is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
 Seven Lions is a dubstep and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Boston, Chicago and London and 7 more. Often billed alongside Deadmau5, KREAM and Audien. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Seven Lions is a dubstep and house artist based in United States of America, tra
 
 Deadmau5, KREAM, Audien
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

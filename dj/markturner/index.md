@@ -1,6 +1,6 @@
 # Mark Turner
 
-Mark Turner is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
+Mark Turner is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
 
 Mark Turner is a ghetto tech and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Jim Bane, Kerrie and Bugs Groove. Next up: The Golden Lion, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mark Turner is a ghetto tech and house artist based in United Kingdom, tracked o
 
 Jim Bane, Kerrie, Bugs Groove
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markturner/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markturner/)*

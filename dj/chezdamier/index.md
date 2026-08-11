@@ -1,14 +1,13 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Chez Damier is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
-Chez Damier is a house and deep house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Chez Damier is a house and deep house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 15 Aug 2026 | Tokonoma Club | Frankfurt |
 | Sat, 29 Aug 2026 | Container Brewing | Vancouver |
 | Sat, 5 Sept 2026 | SAGE | Berlin |
@@ -18,6 +17,7 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 145 set
 
 ## Recently played
 
+- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Cova Santa, Ibiza — Tue, 4 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Punch Bowl Social 360-Bar, Chicago — Thu, 30 Jul 2026
@@ -25,10 +25,9 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 145 set
 - Flash, Washington DC — Sat, 18 Jul 2026
 - Green Room NYC, New York City — Fri, 17 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Audio Club, Geneva — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

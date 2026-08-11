@@ -1,6 +1,6 @@
 # KAMIYA.
 
-KAMIYA. is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Violetta, Tokyo on Sun, 16 Aug 2026.
+KAMIYA. is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Violetta, Tokyo on Sun, 16 Aug 2026.
 
 KAMIYA. is a house and bass artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside DJ MOCHIZUKI, Masayoshi Kimura and KIMURA. Next up: Violetta, Tokyo on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ KAMIYA. is a house and bass artist based in Japan, tracked on soundcheck, with 2
 
 DJ MOCHIZUKI, Masayoshi Kimura, KIMURA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiya-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiya-2/)*

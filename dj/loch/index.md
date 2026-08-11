@@ -1,6 +1,6 @@
 # Loch
 
-Loch is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
+Loch is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
 Loch is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Losangeles and Toronto. Often billed alongside MEDDRY, Art Behaviour and CZYN. Next up: Rhythm, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Loch is a tech house and house artist based in Canada, tracked on soundcheck, wi
 
 MEDDRY, Art Behaviour, CZYN
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loch/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loch/)*

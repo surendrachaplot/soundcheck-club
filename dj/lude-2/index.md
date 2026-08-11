@@ -1,6 +1,6 @@
 # Lude (2)
 
-Lude (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at KALT, Strasbourg on Fri, 18 Sept 2026.
+Lude (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at KALT, Strasbourg on Fri, 18 Sept 2026.
 
 Lude (2) is a techno and bass artist based in France, tracked on soundcheck, with 10 sets logged across Strasbourg. Often billed alongside 6EJOU, Aloka and Bouki. Next up: KALT, Strasbourg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lude (2) is a techno and bass artist based in France, tracked on soundcheck, wit
 
 6EJOU, Aloka, Bouki
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*

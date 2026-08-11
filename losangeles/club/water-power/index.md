@@ -1,6 +1,6 @@
 # Water & Power
 
-Water & Power is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TR x W&P: MANAPOOL Tower Trance Release Party LA" on Sat, 15 Aug 2026.
+Water & Power is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TR x W&P: MANAPOOL Tower Trance Release Party LA" on Sat, 15 Aug 2026.
 
 Water & Power is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including MANAPOOL. Browse upcoming dates, start times and who's playing. 3027 S. Grand Ave. Los Angeles, CA 90007.
 
@@ -15,4 +15,4 @@ Water & Power is a music venue in Losangeles listed on soundcheck. 2 upcoming ni
 
 3027 S. Grand Ave. Los Angeles, CA 90007, Los Angeles
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*

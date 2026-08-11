@@ -1,6 +1,6 @@
 # Outset
 
-Outset is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "BL3SS" on Fri, 14 Aug 2026.
+Outset is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "BL3SS" on Fri, 14 Aug 2026.
 
 Outset is a music venue in Chicago listed on soundcheck. 5 upcoming nights, with line-ups including passengerprincess. Browse upcoming dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
@@ -18,4 +18,4 @@ Outset is a music venue in Chicago listed on soundcheck. 5 upcoming nights, with
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

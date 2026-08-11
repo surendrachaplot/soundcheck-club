@@ -1,6 +1,6 @@
 # Mørkøye
 
-Mørkøye is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Mørkøye is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Mørkøye is a techno and breakbeat artist tracked on soundcheck, with 17 sets logged across Copenhagen and Oslo. Often billed alongside Marius Bø, Mikkel Rev and Naboklage. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Mørkøye is a techno and breakbeat artist tracked on soundcheck, with 17 sets l
 
 Marius Bø, Mikkel Rev, Naboklage
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morkoye/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morkoye/)*

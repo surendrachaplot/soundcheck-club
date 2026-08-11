@@ -1,6 +1,6 @@
 # IAMX
 
-IAMX is a Electro and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kollektivet Livet Bar & Scen, Stockholm on Wed, 19 Aug 2026.
+IAMX is a Electro and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kollektivet Livet Bar & Scen, Stockholm on Wed, 19 Aug 2026.
 
 IAMX is an electro and industrial artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Montreal, Newyorkcity, Sandiego and Stockholm. Next up: Kollektivet Livet Bar & Scen, Stockholm on Wed 19 Aug.
 
@@ -18,4 +18,4 @@ IAMX is an electro and industrial artist based in United Kingdom, tracked on sou
 - Brick By Brick, San Diego — Sat, 27 May 2023
 - Brick By Brick, San Diego — Sat, 27 May 2023
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamx-us/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamx-us/)*

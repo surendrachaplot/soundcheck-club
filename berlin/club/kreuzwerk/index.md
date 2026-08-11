@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "ESTRO x OECUS Open Air " on Sun, 16 Aug 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ESTRO x OECUS Open Air " on Sun, 16 Aug 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 131bpm, 18:18, Amphia and BUTZ and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

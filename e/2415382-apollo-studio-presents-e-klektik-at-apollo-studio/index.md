@@ -1,6 +1,6 @@
 # Apollo Studio presents E'Klektik at Apollo Studio
 
-Apollo Studio presents E'Klektik on Fri 14 Aug, Newyorkcity. 5 acts on the bill: Arvi, Han G, Hugo and Jared Maharaj and 1 more. Preview the line-up and save it on soundcheck.
+Apollo Studio presents E'Klektik on Fri 14 Aug, Newyorkcity. 7 acts on the bill: Arvi, Han G, Harry Fletcher and Hugo and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Apollo Studio presents E'Klektik on Fri 14 Aug, Newyorkcity. 5 acts on the bill:
 
 - Arvi
 - Han G
+- Harry Fletcher
 - Hugo
+- Hugo (US)
 - Jared Maharaj
 - Taiga
 

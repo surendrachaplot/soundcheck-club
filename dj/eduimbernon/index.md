@@ -1,6 +1,6 @@
 # Edu Imbernon
 
-Edu Imbernon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 13 Aug 2026.
+Edu Imbernon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 13 Aug 2026.
 
 Edu Imbernon is a house and techno artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Buenosaires, Ibiza and Losangeles and 9 more. Often billed alongside Mike Gannu, Maik Miroux and ALISA FILATOVA. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Edu Imbernon is a house and techno artist based in Spain, tracked on soundcheck,
 
 Mike Gannu, Maik Miroux, ALISA FILATOVA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduimbernon/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduimbernon/)*

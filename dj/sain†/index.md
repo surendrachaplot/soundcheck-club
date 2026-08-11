@@ -1,6 +1,6 @@
 # sain†
 
-sain† is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Berlin on Fri, 28 Aug 2026.
+sain† is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Berlin on Fri, 28 Aug 2026.
 
 sain† is an electronica and experimental artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside KALI., Apu Nanu and B3CKI. Next up: TBA, Berlin on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ sain† is an electronica and experimental artist tracked on soundcheck, with 2 
 
 KALI., Apu Nanu, B3CKI
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sain†/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sain†/)*

@@ -1,6 +1,6 @@
 # Hope 808
 
-Hope 808 is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
+Hope 808 is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
 
 Hope 808 is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside James Juke, Misha Savage and porygon k. Next up: The Sultan Room, Newyorkcity on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Hope 808 is a house and disco artist based in United States of America, tracked 
 
 James Juke, Misha Savage, porygon k
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*

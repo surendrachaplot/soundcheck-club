@@ -1,6 +1,6 @@
 # Lil Bebe Cyborg
 
-Lil Bebe Cyborg is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+Lil Bebe Cyborg is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Lil Bebe Cyborg is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Sanfrancisco. Often billed alongside DJ Saratonin, Discnogirl and QUEENIE (US). Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lil Bebe Cyborg is a techno and club artist based in United States of America, t
 
 DJ Saratonin, Discnogirl, QUEENIE (US)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilbebecyborg/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilbebecyborg/)*

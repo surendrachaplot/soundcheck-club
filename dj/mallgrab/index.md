@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Mall Grab is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Mall Grab is a house and techno artist tracked on soundcheck, with 203 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -34,4 +34,4 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 203 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

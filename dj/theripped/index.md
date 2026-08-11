@@ -1,6 +1,6 @@
 # TheRipped
 
-TheRipped is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gare Porto, Porto on Fri, 21 Aug 2026.
+TheRipped is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gare Porto, Porto on Fri, 21 Aug 2026.
 
 TheRipped is an electronica and ambient artist based in Chile, tracked on soundcheck, with 3 sets logged across Berlin and Porto. Often billed alongside Alexa Strange, Bardo (1) and DJ Possum. Next up: Gare Porto, Porto on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ TheRipped is an electronica and ambient artist based in Chile, tracked on soundc
 
 Alexa Strange, Bardo (1), DJ Possum
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theripped/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theripped/)*

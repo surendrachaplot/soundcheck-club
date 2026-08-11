@@ -1,6 +1,6 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+DJ Sneak is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 DJ Sneak is a house and deep house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Dan and DJ Heather. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 74 sets lo
 
 Doc Martin, DJ Dan, DJ Heather
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*

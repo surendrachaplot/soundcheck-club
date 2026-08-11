@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Martyn Bootyspoon (All Night Long)" on Fri, 14 Aug 2026.
+StereoBar is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Martyn Bootyspoon (All Night Long)" on Fri, 14 Aug 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and CPR Annie and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -22,4 +22,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming nights, 
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

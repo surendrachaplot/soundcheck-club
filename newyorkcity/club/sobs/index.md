@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Jazz For Lovers: In The Mood For Love" on Thu, 13 Aug 2026.
+SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Jazz For Lovers: In The Mood For Love" on Thu, 13 Aug 2026.
 
 SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including DJ Vega. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -22,4 +22,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, wi
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

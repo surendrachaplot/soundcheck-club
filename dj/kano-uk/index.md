@@ -1,6 +1,6 @@
 # Kano (UK)
 
-Kano (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
+Kano (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
 
 Kano (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Barcelona, Melbourne and Osaka. Often billed alongside Kovac, Lewis Cancut and 3rd Orbit. Next up: Terminal Zero, Barcelona on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Kano (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Kovac, Lewis Cancut, 3rd Orbit
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-uk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-uk/)*

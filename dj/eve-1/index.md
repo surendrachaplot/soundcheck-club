@@ -1,6 +1,6 @@
 # EVE (1)
 
-EVE (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+EVE (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 EVE (1) is a techno and industrial artist based in South Korea, tracked on soundcheck, with 203 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and EMILIO (3). Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ EVE (1) is a techno and industrial artist based in South Korea, tracked on sound
 
 KAMIKAZE, TYPE-O RISK SYSTEM, EMILIO (3)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*

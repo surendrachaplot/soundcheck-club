@@ -1,6 +1,6 @@
 # Saige Sounds
 
-Saige Sounds is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
+Saige Sounds is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
 
 Saige Sounds is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Berlin and London. Often billed alongside Alexander Nut, joey manzi and Ben hauke. Next up: Eastway Baths, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Saige Sounds is a house and broken beat artist based in United Kingdom, tracked 
 
 Alexander Nut, joey manzi, Ben hauke
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*

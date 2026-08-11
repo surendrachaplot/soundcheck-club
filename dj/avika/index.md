@@ -1,6 +1,6 @@
 # Avika
 
-Avika is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Várkert Bazár, Budapest on Sat, 15 Aug 2026.
+Avika is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Várkert Bazár, Budapest on Sat, 15 Aug 2026.
 
 Avika is an afro house and techno artist based in Hungary, tracked on soundcheck, with 4 sets logged across Budapest. Often billed alongside Lenny Lenoks, Metha and Dubecticut. Next up: Várkert Bazár, Budapest on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Avika is an afro house and techno artist based in Hungary, tracked on soundcheck
 
 Lenny Lenoks, Metha, Dubecticut
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avika/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avika/)*

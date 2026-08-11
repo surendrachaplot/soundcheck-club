@@ -1,6 +1,6 @@
 # NRG at Amnesia Ibiza
 
-NRG at Amnesia Ibiza on Mon 24 Aug, Ibiza. 3 acts on the bill: Ben Hemsley, Black Traffic and Diffrent. Trance and Techno. Preview the line-up and save it on soundcheck.
+NRG at Amnesia Ibiza on Mon 24 Aug, Ibiza. 4 acts on the bill: Ben Hemsley, Black Traffic, Diffrent and Jezza & Jod. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ NRG at Amnesia Ibiza on Mon 24 Aug, Ibiza. 3 acts on the bill: Ben Hemsley, Blac
 - Ben Hemsley
 - Black Traffic
 - Diffrent
+- Jezza & Jod
 
 *Source: [soundcheck](https://soundcheck.club/e/2444366-nrg-at-amnesia-ibiza/)*

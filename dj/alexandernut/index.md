@@ -1,14 +1,15 @@
 # Alexander Nut
 
-Alexander Nut is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Night Tales Loft, London on Sat, 29 Aug 2026.
+Alexander Nut is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Night Tales Loft, London on Sat, 29 Aug 2026.
 
-Alexander Nut is a house and broken beat artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Birmingham and 8 more. Often billed alongside Chunky, Saige Sounds and Ella Knight. Next up: Night Tales Loft, London on Sat 29 Aug.
+Alexander Nut is a house and broken beat artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Birmingham and 8 more. Often billed alongside Chunky, Saige Sounds and Ella Knight. Next up: Night Tales Loft, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Night Tales Loft | London |
+| Sat, 12 Sept 2026 | The Carpet Shop | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alexander Nut is a house and broken beat artist tracked on soundcheck, with 74 s
 
 Chunky, Saige Sounds, Ella Knight
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*

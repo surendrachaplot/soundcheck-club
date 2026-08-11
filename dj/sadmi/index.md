@@ -1,6 +1,6 @@
 # Sadmi
 
-Sadmi is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+Sadmi is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
 
 Sadmi is a techno and drum & bass artist tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Moment of Terror, Perrin Grace and Kassebaum. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Sadmi is a techno and drum & bass artist tracked on soundcheck, with 17 sets log
 
 Moment of Terror, Perrin Grace, Kassebaum
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadmi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadmi/)*

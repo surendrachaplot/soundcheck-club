@@ -1,6 +1,6 @@
 # Yless
 
-Yless is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "[8am starts] Free entry morning rave " on Sat, 22 Aug 2026.
+Yless is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "[8am starts] Free entry morning rave " on Sat, 22 Aug 2026.
 
 Yless is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Chae, DJ Jinwook, Minji and Radio Revolution. Browse upcoming dates, start times and who's playing. 58 Bukchon-ro, Jongno-gu, Seoul.
 
@@ -14,4 +14,4 @@ Yless is a music venue in Seoul listed on soundcheck. 1 upcoming night, with lin
 
 58 Bukchon-ro, Jongno-gu, Seoul, Seoul
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/yless/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/yless/)*

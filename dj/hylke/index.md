@@ -1,6 +1,6 @@
 # Hylke
 
-Hylke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Hylke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
 
 Hylke is a house and techno artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Ghent and Madrid and 5 more. Often billed alongside Rey Colino, Iggy P and Kyra Khaldi. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Hylke is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Rey Colino, Iggy P, Kyra Khaldi
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*

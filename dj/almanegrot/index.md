@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Club NYX, Amsterdam on Sat, 15 Aug 2026.
+Alma Negrot is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club NYX, Amsterdam on Sat, 15 Aug 2026.
 
 Alma Negrot is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Club NYX, Amsterdam on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 40 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

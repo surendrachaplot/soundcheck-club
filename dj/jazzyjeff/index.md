@@ -1,6 +1,6 @@
 # Jazzy Jeff
 
-Jazzy Jeff is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at KOKO, London on Sat, 22 Aug 2026.
+Jazzy Jeff is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at KOKO, London on Sat, 22 Aug 2026.
 
 Jazzy Jeff is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Detroit, Ibiza and Lisbon and 6 more. Often billed alongside Melvo Baptiste, Rich Medina and Natasha Diggs. Next up: KOKO, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Jazzy Jeff is a house and hip-hop artist based in United States of America, trac
 
 Melvo Baptiste, Rich Medina, Natasha Diggs
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyjeff/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyjeff/)*

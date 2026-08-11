@@ -1,6 +1,6 @@
 # Joseph Steel
 
-Joseph Steel is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Club NYX, Amsterdam on Fri, 21 Aug 2026.
+Joseph Steel is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club NYX, Amsterdam on Fri, 21 Aug 2026.
 
 Joseph Steel is a pop and electro artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Aiscream, Babs op de beat and Mika Akela. Next up: Club NYX, Amsterdam on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Joseph Steel is a pop and electro artist based in Netherlands, tracked on soundc
 
 Aiscream, Babs op de beat, Mika Akela
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephsteel/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephsteel/)*

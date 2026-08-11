@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Dee Diggs: LoHi Rooftop" on Fri, 14 Aug 2026.
+314 Scholes is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Dee Diggs: LoHi Rooftop" on Fri, 14 Aug 2026.
 
 314 Scholes is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Bookworms, Dee Diggs, DJ Pierre and Dj Sliink and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

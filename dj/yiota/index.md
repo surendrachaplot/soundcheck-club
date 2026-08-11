@@ -1,6 +1,6 @@
 # Yiota
 
-Yiota is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+Yiota is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
 Yiota is a techno and trance artist tracked on soundcheck, with 41 sets logged across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside Spinks, ona:v and Atoxyl. Next up: Sui Generis, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Yiota is a techno and trance artist tracked on soundcheck, with 41 sets logged a
 
 Spinks, ona:v, Atoxyl
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*

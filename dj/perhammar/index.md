@@ -1,6 +1,6 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Per Hammar is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
 Per Hammar is a minimal and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Auckland, Austin and Bangkok and 32 more. Often billed alongside Olga Korol, Abbas and Bo Irion. Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 78 sets log
 
 Olga Korol, Abbas, Bo Irion
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

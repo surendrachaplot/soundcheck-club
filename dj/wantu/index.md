@@ -1,6 +1,6 @@
 # Wan Tu
 
-Wan Tu is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 15 Aug 2026.
+Wan Tu is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 15 Aug 2026.
 
 Wan Tu is a house and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Birmingham and London. Often billed alongside Gus de Silva, Martini and Adam Shelton. Next up: Two Tribes CAMPFIRE, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Wan Tu is a house and experimental artist based in United Kingdom, tracked on so
 
 Gus de Silva, Martini, Adam Shelton
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wantu/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wantu/)*

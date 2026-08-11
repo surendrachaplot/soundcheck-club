@@ -1,6 +1,6 @@
 # Slim (IE)
 
-Slim (IE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eavesdrop, New York City on Sun, 16 Aug 2026.
+Slim (IE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eavesdrop, New York City on Sun, 16 Aug 2026.
 
 Slim (IE) is a house and techno artist tracked on soundcheck, with 26 sets logged across Belfast, Bristol, Dublin and London and 2 more. Often billed alongside Niz (IE), Recipes and Royce Larøca. Next up: Eavesdrop, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Slim (IE) is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 Niz (IE), Recipes, Royce Larøca
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*

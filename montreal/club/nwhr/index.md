@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "UNHRD  Local Heroes" on Fri, 21 Aug 2026.
+NWHR is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "UNHRD  Local Heroes" on Fri, 21 Aug 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including AADJA, Elias Erium, Juan Evangelista and Mike Chidiac and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -17,4 +17,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

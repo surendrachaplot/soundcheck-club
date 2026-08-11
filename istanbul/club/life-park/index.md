@@ -1,6 +1,6 @@
 # Life Park
 
-Life Park is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Jeton presents Sara Landry" on Sat, 15 Aug 2026.
+Life Park is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Jeton presents Sara Landry" on Sat, 15 Aug 2026.
 
 Life Park is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Ferhat Albayrak, Sara Landry and Silvio Venezia. Browse upcoming dates, start times and who's playing. Kazımkarabekir DISC. Bahcekoy Cad. No: 114 Bahcekoy / Sariyer.
 
@@ -14,4 +14,4 @@ Life Park is a music venue in Istanbul listed on soundcheck. 1 upcoming night, w
 
 Kazımkarabekir DISC. Bahcekoy Cad. No: 114 Bahcekoy / Sariyer, Istanbul
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/life-park/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/life-park/)*

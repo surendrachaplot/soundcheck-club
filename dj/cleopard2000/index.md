@@ -1,6 +1,6 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Cleopard2000 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 Cleopard2000 is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 28 more. Often billed alongside Mika Heggemann, Elotrance and Justin Tinderdate. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -34,4 +34,4 @@ Cleopard2000 is a techno and trance artist tracked on soundcheck, with 156 sets 
 
 Mika Heggemann, Elotrance, Justin Tinderdate
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*

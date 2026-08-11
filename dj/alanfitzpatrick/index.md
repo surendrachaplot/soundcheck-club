@@ -1,8 +1,8 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Thu, 13 Aug 2026.
+Alan Fitzpatrick is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lincoln Factory, Detroit on Thu, 13 Aug 2026.
 
-Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Lincoln Factory, Detroit on Thu 13 Aug.
+Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Lincoln Factory, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 108 se
 | Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Phonox | London |
 | Sun, 27 Sept 2026 | [UNVRS] | Ibiza |
+| Sun, 4 Oct 2026 | The Glove That Fits | London |
 | Fri, 9 Oct 2026 | Oxford Art Factory | Sydney |
 | Sat, 10 Oct 2026 | The Night Cat | Melbourne |
 | Fri, 16 Oct 2026 | The Prince Consort | Brisbane |
-| Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 108 se
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 27 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Oliver Palfreyman - OOO Album Launch" on Thu, 13 Aug 2026.
+M.O.T is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Oliver Palfreyman - OOO Album Launch" on Thu, 13 Aug 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 27 upcoming nights, with 
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

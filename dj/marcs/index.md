@@ -1,6 +1,6 @@
 # Marcs
 
-Marcs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fable Bar & Grill, Vancouver on Sat, 5 Sept 2026.
+Marcs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fable Bar & Grill, Vancouver on Sat, 5 Sept 2026.
 
 Marcs is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Chicago, Hongkong and Vancouver. Often billed alongside Kardano, D3XTR and DJ Anthony2. Next up: Fable Bar & Grill, Vancouver on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Marcs is a house and deep house artist based in United Kingdom, tracked on sound
 
 Kardano, D3XTR, DJ Anthony2
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcs/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcs/)*

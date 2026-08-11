@@ -1,13 +1,14 @@
 # bemira
 
-bemira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
+bemira is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
 
-bemira is a techno and house artist based in Belgium, tracked on soundcheck, with 22 sets logged across Brussels. Often billed alongside ATARAXY, Oxtazz and Unsung. Next up: Place D'espagne, Brussels on Sun 16 Aug.
+bemira is a techno and house artist based in Belgium, tracked on soundcheck, with 23 sets logged across Brussels. Often billed alongside ATARAXY, Oxtazz and Unsung. Next up: Place D'espagne, Brussels on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Place D'espagne | Brussels |
 | Sun, 16 Aug 2026 | Place D'espagne | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ bemira is a techno and house artist based in Belgium, tracked on soundcheck, wit
 
 ATARAXY, Oxtazz, Unsung
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bemira/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bemira/)*

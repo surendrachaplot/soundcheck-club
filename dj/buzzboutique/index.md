@@ -1,6 +1,6 @@
 # Buzz Boutique
 
-Buzz Boutique is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
+Buzz Boutique is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
 
 Buzz Boutique is a house and club artist based in Switzerland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside ROBERT KAMP and Unna Foulanah. Next up: Bulbul Berlin, Berlin on Thu 27 Aug.
 
@@ -14,4 +14,4 @@ Buzz Boutique is a house and club artist based in Switzerland, tracked on soundc
 
 ROBERT KAMP, Unna Foulanah
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzboutique/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzboutique/)*

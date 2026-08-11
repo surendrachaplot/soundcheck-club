@@ -1,6 +1,6 @@
 # La Femme
 
-La Femme is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at MAD Radio NYC, New York City on Thu, 13 Aug 2026.
+La Femme is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at MAD Radio NYC, New York City on Thu, 13 Aug 2026.
 
 La Femme is a house and electro artist based in Colombia, tracked on soundcheck, with 13 sets logged across Austin, Newyorkcity and Paris. Often billed alongside CAMILLA, Skinny Girl and Alba (NYC). Next up: MAD Radio NYC, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ La Femme is a house and electro artist based in Colombia, tracked on soundcheck,
 
 CAMILLA, Skinny Girl, Alba (NYC)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/la_femme/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/la_femme/)*

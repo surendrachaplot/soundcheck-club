@@ -1,6 +1,6 @@
 # Hardy Heller
 
-Hardy Heller is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+Hardy Heller is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 Hardy Heller is a tech house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Frankfurt and London. Often billed alongside Francesco Poggi, Danjo and Tom Schön. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Hardy Heller is a tech house and techno artist based in Germany, tracked on soun
 
 Francesco Poggi, Danjo, Tom Schön
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyheller/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyheller/)*

@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
+Matrixxman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
 
 Matrixxman is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: OIL Club, Shenzhen on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Matrixxman is a techno and house artist tracked on soundcheck, with 165 sets log
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

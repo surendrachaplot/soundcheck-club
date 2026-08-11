@@ -1,6 +1,6 @@
 # Rakäthe
 
-Rakäthe is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
+Rakäthe is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
 
 Rakäthe is a downtempo and deep house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, Munich and Zurich. Often billed alongside Borella, Robin Dey and Chris Schwarzwälder. Next up: gART.n, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Rakäthe is a downtempo and deep house artist based in Germany, tracked on sound
 
 Borella, Robin Dey, Chris Schwarzwälder
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakathe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakathe/)*

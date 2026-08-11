@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
+Obscur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
 
 Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, with 8 sets logged across Amsterdam, Athens, Belgrade and Berlin and 2 more. Often billed alongside 04061, 314A and Anri. Next up: Tresor / Globus, Berlin on Wed 12 Aug.
 
@@ -24,4 +24,4 @@ Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, 
 
 04061, 314A, Anri
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

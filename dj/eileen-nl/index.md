@@ -1,6 +1,6 @@
 # Eileen (NL)
 
-Eileen (NL) is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Thuishaven, Amsterdam on Sat, 15 Aug 2026.
+Eileen (NL) is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Thuishaven, Amsterdam on Sat, 15 Aug 2026.
 
 Eileen (NL) is a house and disco artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Mowgli (NL), Leroy Rey and Yopo (NL). Next up: Thuishaven, Amsterdam on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Eileen (NL) is a house and disco artist based in Netherlands, tracked on soundch
 
 Mowgli (NL), Leroy Rey, Yopo (NL)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen-nl/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen-nl/)*

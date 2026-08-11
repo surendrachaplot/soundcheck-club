@@ -1,6 +1,6 @@
 # ANYA (2)
 
-ANYA (2) is a Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 15 Aug 2026.
+ANYA (2) is a Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 15 Aug 2026.
 
 ANYA (2) is an afro house artist tracked on soundcheck, with 15 sets logged across Barcelona and Lisbon. Often billed alongside Gee Beat, Abas and CLANDESTINE (2). Next up: Nobu Hotel, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ANYA (2) is an afro house artist tracked on soundcheck, with 15 sets logged acro
 
 Gee Beat, Abas, CLANDESTINE (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anya-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anya-2/)*

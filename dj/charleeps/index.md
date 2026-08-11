@@ -1,6 +1,6 @@
 # Charleeps
 
-Charleeps is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Glazart, Paris on Sun, 23 Aug 2026.
+Charleeps is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Glazart, Paris on Sun, 23 Aug 2026.
 
 Charleeps is a house and techno artist based in France, tracked on soundcheck, with 41 sets logged across Berlin, Nantes and Paris. Often billed alongside Break A Leg, A-440 and Jenny Cara. Next up: Glazart, Paris on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Charleeps is a house and techno artist based in France, tracked on soundcheck, w
 
 Break A Leg, A-440, Jenny Cara
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charleeps/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charleeps/)*

@@ -1,6 +1,6 @@
 # Sanat
 
-Sanat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jupiter Disco, New York City on Wed, 12 Aug 2026.
+Sanat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jupiter Disco, New York City on Wed, 12 Aug 2026.
 
 Sanat is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Newyorkcity and Rotterdam. Often billed alongside tv cave, Atilla Ural and BERTØ. Next up: Jupiter Disco, Newyorkcity on Wed 12 Aug.
 
@@ -22,4 +22,4 @@ Sanat is a house and techno artist based in Germany, tracked on soundcheck, with
 
 tv cave, Atilla Ural, BERTØ
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanat/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanat/)*

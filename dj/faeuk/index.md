@@ -1,6 +1,6 @@
 # fae (UK)
 
-fae (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
+fae (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
 
 fae (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside ohmydais, Ell Murphy and Jhumka. Next up: fabric, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ fae (UK) is a house and garage artist based in United Kingdom, tracked on soundc
 
 ohmydais, Ell Murphy, Jhumka
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*

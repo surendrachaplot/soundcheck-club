@@ -1,6 +1,6 @@
 # Nolia
 
-Nolia is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
+Nolia is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
 
 Nolia is an italo disco and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin and Chicago. Often billed alongside Pen Pals, frail808 and Club Drippy. Next up: Smoke & Mirrors, Chicago on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nolia is an italo disco and techno artist based in United States of America, tra
 
 Pen Pals, frail808, Club Drippy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nolia/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nolia/)*

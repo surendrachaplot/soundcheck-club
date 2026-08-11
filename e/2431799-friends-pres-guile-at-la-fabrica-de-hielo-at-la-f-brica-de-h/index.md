@@ -1,15 +1,16 @@
 # &Friends pres. Guile at La Fabrica de Hielo at La Fábrica de Hielo
 
-&Friends pres. Guile at La Fabrica de Hielo at La Fábrica de Hielo on Sat 15 Aug, Valencia. 2 acts on the bill: Guile and Tommaso Pizzelli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+&Friends pres. Guile at La Fabrica de Hielo at La Fábrica de Hielo on Fri 14 Aug, Valencia. 3 acts on the bill: Alexxx, Guile and Tommaso Pizzelli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Fri, 14 Aug 2026 |
 | Venue | La Fábrica de Hielo |
 | City | Valencia |
 
 ## Line-up
 
+- Alexxx
 - Guile
 - Tommaso Pizzelli
 

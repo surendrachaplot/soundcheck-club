@@ -1,6 +1,6 @@
 # House of Lords
 
-House of Lords is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
+House of Lords is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
 
 House of Lords is a house and deep house artist tracked on soundcheck, with 31 sets logged across Toronto. Often billed alongside Chloe J, Will Scheffel and me, myself &i. Next up: The Jama, Toronto on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ House of Lords is a house and deep house artist tracked on soundcheck, with 31 s
 
 Chloe J, Will Scheffel, me, myself &i
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*

@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Cologne on Sat, 29 Aug 2026.
+Detune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Cologne on Sat, 29 Aug 2026.
 
 Detune is a techno and house artist based in Belgium, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Cologne and Detroit. Often billed alongside Daniel Englisch, T.Linder and Big Joe Hix. Next up: TBA, Cologne on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Detune is a techno and house artist based in Belgium, tracked on soundcheck, wit
 
 Daniel Englisch, T.Linder, Big Joe Hix
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detune/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detune/)*

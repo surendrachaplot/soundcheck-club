@@ -1,6 +1,6 @@
-# Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya at Colorado Charlie
+# Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT) at Colorado Charlie
 
-Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya on Sun 13 Sept, Thehague. 5 acts on the bill: Ellam, Ellia Jaya, Gaskin and Michel de Hey and 1 more. House. Preview the line-up and save it on soundcheck.
+Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT) on Sun 13 Sept, Thehague. 5 acts on the bill: Ellam, Ellia Jaya, Gaskin and Michel de Hey and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

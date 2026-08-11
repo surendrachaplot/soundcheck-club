@@ -1,6 +1,6 @@
 # RAH (1)
 
-RAH (1) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Miscellania, Melbourne on Sat, 29 Aug 2026.
+RAH (1) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Miscellania, Melbourne on Sat, 29 Aug 2026.
 
 RAH (1) is a house and funk / soul artist based in Singapore, tracked on soundcheck, with 33 sets logged across Bali, Bangkok, Melbourne and Singapore. Often billed alongside Proto-Exotica, Club De Migo and DJ JNETT. Next up: Miscellania, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ RAH (1) is a house and funk / soul artist based in Singapore, tracked on soundch
 
 Proto-Exotica, Club De Migo, DJ JNETT
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-1/)*

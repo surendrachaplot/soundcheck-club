@@ -1,6 +1,6 @@
 # SHALL WE RECORDS? + MOTIVES + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - ELECTRO at TBA
 
-SHALL WE RECORDS? + MOTIVES + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - ELECTRO at TBA on Sat 15 Aug, London. 2 acts on the bill: Medu and Shallum. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+SHALL WE RECORDS? + MOTIVES + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - ELECTRO at TBA on Sat 15 Aug, London. 3 acts on the bill: mayflowduo, Medu and Shallum. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SHALL WE RECORDS? + MOTIVES + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - EL
 
 ## Line-up
 
+- mayflowduo
 - Medu
 - Shallum
 

@@ -1,13 +1,14 @@
 # SloMo
 
-SloMo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+SloMo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
-SloMo is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Munich, Osaka and Stockholm and 2 more. Often billed alongside Neverglass, Reduks and Toobris. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
+SloMo is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Munich, Osaka and Stockholm and 2 more. Often billed alongside Neverglass, Toobris and VSSL. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Rote Sonne | Munich |
 | Sat, 29 Aug 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
@@ -23,6 +24,6 @@ SloMo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Neverglass, Reduks, Toobris
+Neverglass, Toobris, VSSL
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*

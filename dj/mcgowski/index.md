@@ -1,6 +1,6 @@
 # McGowski
 
-McGowski is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nice N Sleazy, Glasgow on Wed, 12 Aug 2026.
+McGowski is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nice N Sleazy, Glasgow on Wed, 12 Aug 2026.
 
 McGowski is an acid and house artist tracked on soundcheck, with 12 sets logged across Glasgow. Often billed alongside Daniel Hive, Shoestepper.music and Austin Ato. Next up: Nice N Sleazy, Glasgow on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ McGowski is an acid and house artist tracked on soundcheck, with 12 sets logged 
 
 Daniel Hive, Shoestepper.music, Austin Ato
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgowski/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgowski/)*

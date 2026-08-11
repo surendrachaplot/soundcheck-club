@@ -1,6 +1,6 @@
 # DJ Life
 
-DJ Life is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Sat, 22 Aug 2026.
+DJ Life is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Radio Radio, Amsterdam on Sat, 22 Aug 2026.
 
 DJ Life is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside DJ Niamh, Hannah D and Mabel. Next up: Radio Radio, Amsterdam on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ Life is a house and techno artist based in Australia, tracked on soundcheck, 
 
 DJ Niamh, Hannah D, Mabel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlife/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlife/)*

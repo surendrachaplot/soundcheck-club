@@ -1,6 +1,6 @@
 # Beautiful Swimmers
 
-Beautiful Swimmers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Beautiful Swimmers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Beautiful Swimmers is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Bristol and Denver and 9 more. Often billed alongside CCL, livwutang and Aurora Halal. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Beautiful Swimmers is a house and techno artist tracked on soundcheck, with 30 s
 
 CCL, livwutang, Aurora Halal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beautifulswimmers/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beautifulswimmers/)*

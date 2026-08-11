@@ -1,6 +1,6 @@
 # Ali Gria
 
-Ali Gria is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+Ali Gria is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 Ali Gria is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sandiego. Often billed alongside Terry Jasinto, Jimbo James and Mitch Dodge. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ali Gria is a house and tech house artist based in United States of America, tra
 
 Terry Jasinto, Jimbo James, Mitch Dodge
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aligria/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aligria/)*

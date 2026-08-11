@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Doss & Friends" on Thu, 13 Aug 2026.
+Paragon is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Doss & Friends" on Thu, 13 Aug 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including MORENXXX, Adred, ALEXIS DE LA ROSA and Anna Eberg and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

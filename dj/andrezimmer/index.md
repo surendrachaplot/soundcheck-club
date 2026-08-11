@@ -1,13 +1,14 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FOLD, London on Fri, 9 Oct 2026.
+Andre Zimmer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Standard Time, Toronto on Fri, 4 Sept 2026.
 
-Andre Zimmer is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: FOLD, London on Fri 9 Oct.
+Andre Zimmer is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: Standard Time, Toronto on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Standard Time | Toronto |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 31 Oct 2026 | Hidden | Manchester |
 
@@ -26,4 +27,4 @@ Andre Zimmer is a house and techno artist tracked on soundcheck, with 55 sets lo
 
 AKWA, Jacob de Hooge, Venus in Foil
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

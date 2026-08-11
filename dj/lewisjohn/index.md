@@ -1,6 +1,6 @@
 # Lewis John
 
-Lewis John is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 45th & 7th, London on Sun, 23 Aug 2026.
+Lewis John is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 45th & 7th, London on Sun, 23 Aug 2026.
 
 Lewis John is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Cardiff and London. Often billed alongside Mas Que Nada Brothers, Bear Winder and Onncor. Next up: 45th & 7th, London on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ Lewis John is a house and deep house artist based in United Kingdom, tracked on 
 
 Mas Que Nada Brothers, Bear Winder, Onncor
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisjohn/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisjohn/)*

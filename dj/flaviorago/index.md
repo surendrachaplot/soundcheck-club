@@ -1,6 +1,6 @@
 # Flavio Rago
 
-Flavio Rago is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NEO CLUB ROMA, Rome on Sat, 15 Aug 2026.
+Flavio Rago is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at NEO CLUB ROMA, Rome on Sat, 15 Aug 2026.
 
 Flavio Rago is a house and club artist based in Italy, tracked on soundcheck, with 35 sets logged across Rome. Often billed alongside Kikko, Max Beat and Achille Lombardi. Next up: NEO CLUB ROMA, Rome on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Flavio Rago is a house and club artist based in Italy, tracked on soundcheck, wi
 
 Kikko, Max Beat, Achille Lombardi
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviorago/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviorago/)*

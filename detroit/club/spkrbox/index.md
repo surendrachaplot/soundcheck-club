@@ -1,8 +1,8 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Locomotion" on Tue, 11 Aug 2026.
+Spkrbox is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Locomotion" on Tue, 11 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including ADRI (LV), AIDEL, Andrea Ghita and Dj Disc and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including ADRI (LV), AIDEL, Al Ester and Andrea Ghita and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming nights, wi
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

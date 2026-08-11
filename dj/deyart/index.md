@@ -1,6 +1,6 @@
 # Deyart
 
-Deyart is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
+Deyart is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
 
 Deyart is a tech house and house artist based in Italy, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Billa Bazz, Enrico Chirchiello and Giusy S (2). Next up: Paloma, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Deyart is a tech house and house artist based in Italy, tracked on soundcheck, w
 
 Billa Bazz, Enrico Chirchiello, Giusy S (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deyart/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deyart/)*

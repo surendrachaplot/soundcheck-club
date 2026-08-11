@@ -1,10 +1,10 @@
 # Ezo Tea - Garden Edition at Lucavsalas Kopienas Dārzs
 
-Ezo Tea - Garden Edition at Lucavsalas Kopienas Dārzs on Sat 15 Aug, Riga. 2 acts on the bill: Grisha Nirgov and Herren Ivo. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Ezo Tea - Garden Edition at Lucavsalas Kopienas Dārzs on Sat 5 Sept, Riga. 2 acts on the bill: Grisha Nirgov and Herren Ivo. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Sat, 5 Sept 2026 |
 | Venue | Lucavsalas Kopienas Dārzs |
 | City | Riga |
 

@@ -1,6 +1,6 @@
 # zuzaeksperyment
 
-zuzaeksperyment is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 28 Aug 2026.
+zuzaeksperyment is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 28 Aug 2026.
 
 zuzaeksperyment is a house and tech house artist tracked on soundcheck, with 24 sets logged across Warsaw. Often billed alongside zenwerk, Dolu and Helga. Next up: MONKEY LOVE, Warsaw on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ zuzaeksperyment is a house and tech house artist tracked on soundcheck, with 24 
 
 zenwerk, Dolu, Helga
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzaeksperyment/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzaeksperyment/)*

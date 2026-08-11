@@ -1,6 +1,6 @@
 # Primordian
 
-Primordian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+Primordian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
 
 Primordian is a techno and acid artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Perrin Grace, kyxm and martine (5). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Primordian is a techno and acid artist tracked on soundcheck, with 14 sets logge
 
 Perrin Grace, kyxm, martine (5)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primordian/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primordian/)*

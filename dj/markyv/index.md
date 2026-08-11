@@ -1,6 +1,6 @@
 # Marky V
 
-Marky V is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
+Marky V is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
 
 Marky V is a garage and jungle artist tracked on soundcheck, with 38 sets logged across London. Often billed alongside A.N.T, Abby Daze and Drime. Next up: The Carpet Shop, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marky V is a garage and jungle artist tracked on soundcheck, with 38 sets logged
 
 A.N.T, Abby Daze, Drime
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markyv/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markyv/)*

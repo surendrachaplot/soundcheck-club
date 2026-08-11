@@ -1,6 +1,6 @@
 # Nikki Kent
 
-Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Edinburgh on Fri, 14 Aug 2026.
+Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Edinburgh on Fri, 14 Aug 2026.
 
 Nikki Kent is a house and disco artist tracked on soundcheck, with 63 sets logged across Edinburgh and Glasgow. Often billed alongside Ravelston, Hometown Sound and Jacuzzi General. Next up: TBA, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Nikki Kent is a house and disco artist tracked on soundcheck, with 63 sets logge
 
 Ravelston, Hometown Sound, Jacuzzi General
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*

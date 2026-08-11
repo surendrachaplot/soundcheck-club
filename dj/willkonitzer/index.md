@@ -1,6 +1,6 @@
 # Will Konitzer
 
-Will Konitzer is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Highland Lakes Marina, Austin on Sun, 13 Sept 2026.
+Will Konitzer is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Highland Lakes Marina, Austin on Sun, 13 Sept 2026.
 
 Will Konitzer is a house and progressive house artist tracked on soundcheck, with 15 sets logged across Austin and London. Often billed alongside Zkosta, Daniel Allen and Madison Palmer. Next up: Highland Lakes Marina, Austin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Will Konitzer is a house and progressive house artist tracked on soundcheck, wit
 
 Zkosta, Daniel Allen, Madison Palmer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willkonitzer/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willkonitzer/)*

@@ -1,6 +1,6 @@
 # Riza Yildirim
 
-Riza Yildirim is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
+Riza Yildirim is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
 
 Riza Yildirim is a techno and house artist based in Denmark, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Ashkan Dian, HEATER and 2SHAY. Next up: Story Toronto, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Riza Yildirim is a techno and house artist based in Denmark, tracked on soundche
 
 Ashkan Dian, HEATER, 2SHAY
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rizayildirim/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rizayildirim/)*

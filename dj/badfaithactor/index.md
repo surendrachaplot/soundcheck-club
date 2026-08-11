@@ -1,6 +1,6 @@
 # Bad Faith Actor
 
-Bad Faith Actor is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 15 Aug 2026.
+Bad Faith Actor is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 15 Aug 2026.
 
 Bad Faith Actor is an industrial and ebm artist tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Beau Wanzer, Dimitri Ok and Kontravoid. Next up: Bar Le Ritz PDB, Montreal on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Bad Faith Actor is an industrial and ebm artist tracked on soundcheck, with 5 se
 
 Beau Wanzer, Dimitri Ok, Kontravoid
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badfaithactor/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badfaithactor/)*

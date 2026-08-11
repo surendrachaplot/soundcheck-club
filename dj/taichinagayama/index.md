@@ -1,6 +1,6 @@
 # Taichi Nagayama
 
-Taichi Nagayama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Red Bar, Tokyo on Thu, 13 Aug 2026.
+Taichi Nagayama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Red Bar, Tokyo on Thu, 13 Aug 2026.
 
 Taichi Nagayama is a house and techno artist tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside MIZUKI OGISU, Masahide Ohno and niwa. Next up: Red Bar, Tokyo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Taichi Nagayama is a house and techno artist tracked on soundcheck, with 38 sets
 
 MIZUKI OGISU, Masahide Ohno, niwa
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*

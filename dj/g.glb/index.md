@@ -1,6 +1,6 @@
 # G.G (LB)
 
-G.G (LB) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
+G.G (LB) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
 
 G.G (LB) is a house and minimal artist based in Ireland, tracked on soundcheck, with 8 sets logged across Dublin. Often billed alongside Royce Larøca, (navarro) and Hera (IE). Next up: Pawn Shop, Dublin on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ G.G (LB) is a house and minimal artist based in Ireland, tracked on soundcheck, 
 
 Royce Larøca, (navarro), Hera (IE)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*

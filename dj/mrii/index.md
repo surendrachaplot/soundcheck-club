@@ -1,6 +1,6 @@
 # Mrii
 
-Mrii is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
+Mrii is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
 Mrii is an amapiano and house artist tracked on soundcheck, with 25 sets logged across London, Newyorkcity and Toronto. Often billed alongside Angelphroot, Vodka and ADEOLA. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Mrii is an amapiano and house artist tracked on soundcheck, with 25 sets logged 
 
 Angelphroot, Vodka, ADEOLA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrii/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrii/)*

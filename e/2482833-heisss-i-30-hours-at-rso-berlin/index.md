@@ -1,6 +1,6 @@
 # HEISSS I 30 hours at RSO.BERLIN
 
-HEISSS I 30 hours at RSO.BERLIN on Sat 24 Oct, Berlin. 5 acts on the bill: Disguised, Ignez, Kaiser (K S R) and Kim She and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+HEISSS I 30 hours at RSO.BERLIN on Sat 24 Oct, Berlin. 7 acts on the bill: Amphia, Cryptofauna, Disguised and Ignez and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ HEISSS I 30 hours at RSO.BERLIN on Sat 24 Oct, Berlin. 5 acts on the bill: Disgu
 
 ## Line-up
 
+- Amphia
+- Cryptofauna
 - Disguised
 - Ignez
 - Kaiser (K S R)

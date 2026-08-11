@@ -1,6 +1,6 @@
 # KLENA
 
-KLENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+KLENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
 KLENA is a techno and house artist based in Spain, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Biesmans, Eva Claudia and Kawun. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
@@ -14,4 +14,4 @@ KLENA is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 Biesmans, Eva Claudia, Kawun
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*

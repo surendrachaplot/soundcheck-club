@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "King Howl + Stoned Medusa // Neue Zukunft" on Wed, 12 Aug 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "King Howl + Stoned Medusa // Neue Zukunft" on Wed, 12 Aug 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Grischa Lichtenberger. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -22,4 +22,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights,
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

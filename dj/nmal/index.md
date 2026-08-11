@@ -1,8 +1,8 @@
 # Nmal
 
-Nmal is a Breakbeat and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
+Nmal is a Dub Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
 
-Nmal is a breakbeat and dub techno artist based in Mexico, tracked on soundcheck, with 1 set logged across Mexicocity. Often billed alongside Octoptic, Ranma Entero and Seli (2). Next up: Fünk, Mexicocity on Thu 13 Aug.
+Nmal is a dub techno and breakbeat artist based in Mexico, tracked on soundcheck, with 1 set logged across Mexicocity. Often billed alongside Octoptic, Ranma Entero and Seli (2). Next up: Fünk, Mexicocity on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Nmal is a breakbeat and dub techno artist based in Mexico, tracked on soundcheck
 
 Octoptic, Ranma Entero, Seli (2)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nmal/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nmal/)*

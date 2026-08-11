@@ -1,6 +1,6 @@
 # Mia Lund
 
-Mia Lund is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
+Mia Lund is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
 
 Mia Lund is a techno and trance artist based in Denmark, tracked on soundcheck, with 17 sets logged across Berlin and Copenhagen. Often billed alongside LUCKY4U, Goldmund.99 and vSto. Next up: Den Anden Side, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mia Lund is a techno and trance artist based in Denmark, tracked on soundcheck, 
 
 LUCKY4U, Goldmund.99, vSto
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mialund/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mialund/)*

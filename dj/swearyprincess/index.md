@@ -1,6 +1,6 @@
 # SwearyPrincess
 
-SwearyPrincess is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
+SwearyPrincess is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
 
 SwearyPrincess is a trance and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Glitch (LDN), Andy Farley and Config. Next up: The Queen Adelaide, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ SwearyPrincess is a trance and garage artist based in United Kingdom, tracked on
 
 Glitch (LDN), Andy Farley, Config
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swearyprincess/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swearyprincess/)*

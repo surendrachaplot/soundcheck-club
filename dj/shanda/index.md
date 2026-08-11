@@ -1,6 +1,6 @@
 # Shanda
 
-Shanda is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
+Shanda is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
 
 Shanda is a techno and house artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Dusseldorf and Hamburg and 8 more. Often billed alongside AngeliKa, Taste of Blue and .JKM. Next up: Karmen Camina, Strasbourg on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Shanda is a techno and house artist tracked on soundcheck, with 84 sets logged a
 
 AngeliKa, Taste of Blue, .JKM
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*

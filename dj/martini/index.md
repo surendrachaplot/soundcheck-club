@@ -1,6 +1,6 @@
 # Martini
 
-Martini is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 15 Aug 2026.
+Martini is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 15 Aug 2026.
 
 Martini is a house and disco artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Athens, Austin, Leeds and London and 2 more. Often billed alongside Wan Tu, AG (NYC) and Anubis. Next up: Two Tribes CAMPFIRE, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Martini is a house and disco artist based in United Kingdom, tracked on soundche
 
 Wan Tu, AG (NYC), Anubis
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martini/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martini/)*

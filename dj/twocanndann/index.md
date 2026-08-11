@@ -1,6 +1,6 @@
 # TWOCANNDANN
 
-TWOCANNDANN is a Hardcore and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Audio, Glasgow on Fri, 18 Sept 2026.
+TWOCANNDANN is a Hardcore and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Audio, Glasgow on Fri, 18 Sept 2026.
 
 TWOCANNDANN is a hardcore and breakbeat artist tracked on soundcheck, with 50 sets logged across Dundee, Edinburgh, Glasgow and Seoul. Often billed alongside amhailt.xox, dj bitrot and CELTIC TERROR SQUAD. Next up: Audio, Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ TWOCANNDANN is a hardcore and breakbeat artist tracked on soundcheck, with 50 se
 
 amhailt.xox, dj bitrot, CELTIC TERROR SQUAD
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twocanndann/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twocanndann/)*

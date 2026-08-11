@@ -1,14 +1,15 @@
 # Hamatsuki
 
-Hamatsuki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bassiani, Tbilisi on Sat, 15 Aug 2026.
+Hamatsuki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bassiani, Tbilisi on Sat, 15 Aug 2026.
 
-Hamatsuki is a techno and house artist tracked on soundcheck, with 73 sets logged across Berlin, Copenhagen, Madrid and Melbourne and 5 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Sat 15 Aug.
+Hamatsuki is a techno and house artist tracked on soundcheck, with 74 sets logged across Berlin, Copenhagen, Madrid and Melbourne and 5 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Bassiani | Tbilisi |
+| Sat, 5 Sept 2026 | Atelier Gardens Campus | Berlin |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -26,4 +27,4 @@ Hamatsuki is a techno and house artist tracked on soundcheck, with 73 sets logge
 
 Kvanchi, Sophie Phare, Newa
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*

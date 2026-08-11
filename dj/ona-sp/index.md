@@ -1,6 +1,6 @@
 # ONA (SP)
 
-ONA (SP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
+ONA (SP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
 
 ONA (SP) is a house and techno artist based in Spain, tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Madrid and Naples and 1 more. Often billed alongside Ale Hope, Pisano and Brieela. Next up: La Paloma, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ONA (SP) is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Ale Hope, Pisano, Brieela
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ona-sp/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ona-sp/)*

@@ -1,6 +1,6 @@
 # LASTER at LISBON for the THIRD TIME at 8 Marvila
 
-LASTER at LISBON for the THIRD TIME at 8 Marvila on Sat 12 Sept, Lisbon. 4 acts on the bill: Amulador, Laia, Marcel Dettmann and Roll Dann. Techno. Preview the line-up and save it on soundcheck.
+LASTER at LISBON for the THIRD TIME at 8 Marvila on Sat 12 Sept, Lisbon. 5 acts on the bill: Amulador, Ben Klock, Laia and Marcel Dettmann and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LASTER at LISBON for the THIRD TIME at 8 Marvila on Sat 12 Sept, Lisbon. 4 acts 
 ## Line-up
 
 - Amulador
+- Ben Klock
 - Laia
 - Marcel Dettmann
 - Roll Dann

@@ -1,13 +1,14 @@
 # Lowsteppa
 
-Lowsteppa is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at fabric, London on Fri, 14 Aug 2026.
+Lowsteppa is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at fabric, London on Fri, 14 Aug 2026.
 
-Lowsteppa is a house and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: fabric, London on Fri 14 Aug.
+Lowsteppa is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: fabric, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | fabric | London |
 | Fri, 14 Aug 2026 | fabric | London |
 | Thu, 27 Aug 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | Chinois Ibiza | Ibiza |
@@ -28,4 +29,4 @@ Lowsteppa is a house and tech house artist tracked on soundcheck, with 52 sets l
 
 Sam Divine, Hannah Wants, Arielle Free
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*

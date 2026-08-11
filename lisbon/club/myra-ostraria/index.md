@@ -1,6 +1,6 @@
 # Myra Ostraria
 
-Myra Ostraria is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "UNSEEN x KYMA" on Fri, 14 Aug 2026.
+Myra Ostraria is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "UNSEEN x KYMA" on Fri, 14 Aug 2026.
 
 Myra Ostraria is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including CHKLTE, Cin, Enkō and FRNZ and 2 more. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal.
 
@@ -15,4 +15,4 @@ Myra Ostraria is a music venue in Lisbon listed on soundcheck. 2 upcoming nights
 
 R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal, Lisbon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*

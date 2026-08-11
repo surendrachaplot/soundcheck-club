@@ -1,8 +1,8 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Maara Ultra Villain Album Live Debut" on Thu, 13 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Maara Ultra Villain Album Live Debut" on Thu, 13 Aug 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Alada, Albin (BR), alizé.e and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alada, Albin (BR), alizé.e and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
@@ -13,11 +13,10 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming night
 | Sat, 15 Aug 2026 | ✷Arkaoda's✷ | ELAYN, Kinzua, Marylou, Nic Krog, Nick Klein, TAKAKO, Tangela, Temple Rat, YSK. |
 | Thu, 20 Aug 2026 | dreamlink | Albin (BR), Andriy K., Baroque Hoe, Kasei P, alizé.e, endléa, silver pearl |
 | Thu, 27 Aug 2026 | Wormhole 005 and Last Thursday ever at Arkaoda | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez, Velasco |
-| Sat, 3 Oct 2026 | LEYA / Berlin Concert | LEYA |
 | Fri, 23 Oct 2026 | lovetempo (Mattie Safer of The Rapture), Moriah Plaza | Moriah Plaza, lovetempo |
 
 ## Address
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

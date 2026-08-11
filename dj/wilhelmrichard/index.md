@@ -1,6 +1,6 @@
 # Wilhelm Richard
 
-Wilhelm Richard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Wilhelm Richard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Wilhelm Richard is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Aber DJ, Asphalt DJ and Bambi (FR). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Wilhelm Richard is a techno and house artist tracked on soundcheck, with 5 sets 
 
 Aber DJ, Asphalt DJ, Bambi (FR)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmrichard/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmrichard/)*

@@ -1,6 +1,6 @@
 # Phase Line
 
-Phase Line is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at MODULE, Copenhagen on Sat, 5 Sept 2026.
+Phase Line is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at MODULE, Copenhagen on Sat, 5 Sept 2026.
 
 Phase Line is a techno and acid artist tracked on soundcheck, with 7 sets logged across Copenhagen, London and Riga. Often billed alongside Ksenia Kamikaza, HP-82 and Alex Krell. Next up: MODULE, Copenhagen on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Phase Line is a techno and acid artist tracked on soundcheck, with 7 sets logged
 
 Ksenia Kamikaza, HP-82, Alex Krell
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

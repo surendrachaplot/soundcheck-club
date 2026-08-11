@@ -1,6 +1,6 @@
 # SUPERNOVA at Akasha Las Dalias Club - Ibiza
 
-SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 29 Aug, Ibiza. 4 acts on the bill: Ernesto Altes, Greta Levska, Norman Weber and Tiga. Preview the line-up and save it on soundcheck.
+SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 29 Aug, Ibiza. 5 acts on the bill: Ernesto Altes, Greta Levska, Landikhan and Norman Weber and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 29 Aug, Ibiza. 4 acts on the 
 
 - Ernesto Altes
 - Greta Levska
+- Landikhan
 - Norman Weber
 - Tiga
 

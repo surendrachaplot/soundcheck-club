@@ -1,6 +1,6 @@
 # Bronnka
 
-Bronnka is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Zabal Techno, Buenos Aires on Sun, 16 Aug 2026.
+Bronnka is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Zabal Techno, Buenos Aires on Sun, 16 Aug 2026.
 
 Bronnka is a techno and hardcore artist based in Argentina, tracked on soundcheck, with 8 sets logged across Buenosaires. Often billed alongside Michel Lauriola, Cancel and DJ Lukas. Next up: Zabal Techno, Buenosaires on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Bronnka is a techno and hardcore artist based in Argentina, tracked on soundchec
 
 Michel Lauriola, Cancel, DJ Lukas
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronnka/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronnka/)*

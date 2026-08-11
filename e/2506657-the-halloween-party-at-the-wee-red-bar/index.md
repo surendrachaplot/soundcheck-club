@@ -1,6 +1,6 @@
 # The Halloween Party at The Wee Red Bar
 
-The Halloween Party at The Wee Red Bar on Sat 31 Oct, Edinburgh. Experimental. Preview the line-up and save it on soundcheck.
+The Halloween Party at The Wee Red Bar on Sat 31 Oct, Edinburgh. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

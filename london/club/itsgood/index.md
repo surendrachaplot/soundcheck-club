@@ -1,6 +1,6 @@
 # Itsgood
 
-Itsgood is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "leverson x Itsgood (vinyl set)" on Sat, 10 Oct 2026.
+Itsgood is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "leverson x Itsgood (vinyl set)" on Sat, 10 Oct 2026.
 
 Itsgood is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Itsgood is a music venue in London listed on soundcheck. 1 upcoming night, with 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | leverson x Itsgood (vinyl set) | leverson |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/itsgood/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/itsgood/)*

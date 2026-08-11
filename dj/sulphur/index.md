@@ -1,13 +1,14 @@
 # Sulphur
 
-Sulphur is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Sulphur is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
-Sulphur is a garage and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brighton, Bristol, Cardiff and Leeds and 4 more. Often billed alongside Oldboy (2), SUFI and Scruz. Next up: Mint XL, Leeds on Sat 3 Oct.
+Sulphur is a garage and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, Bristol, Cardiff and Leeds and 4 more. Often billed alongside Oldboy (2), SUFI and Scruz. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | M.O.T | London |
 
@@ -26,4 +27,4 @@ Sulphur is a garage and house artist based in United Kingdom, tracked on soundch
 
 Oldboy (2), SUFI, Scruz
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*

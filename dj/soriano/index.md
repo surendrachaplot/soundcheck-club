@@ -1,13 +1,14 @@
 # SORIANO
 
-SORIANO is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 28 Aug 2026.
+SORIANO is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at City Hall, Barcelona on Thu, 27 Aug 2026.
 
-SORIANO is a house and electro artist based in Spain, tracked on soundcheck, with 16 sets logged across Bangkok, Barcelona, Frankfurt and Mexicocity and 3 more. Often billed alongside Alphanova, Jo Kazan and Alan.D. Next up: Almar Beach Club, Barcelona on Fri 28 Aug.
+SORIANO is a house and electro artist based in Spain, tracked on soundcheck, with 17 sets logged across Bangkok, Barcelona, Frankfurt and Mexicocity and 3 more. Often billed alongside Alphanova, Jo Kazan and Alan.D. Next up: City Hall, Barcelona on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | City Hall | Barcelona |
 | Fri, 28 Aug 2026 | Almar Beach Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ SORIANO is a house and electro artist based in Spain, tracked on soundcheck, wit
 
 Alphanova, Jo Kazan, Alan.D
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*

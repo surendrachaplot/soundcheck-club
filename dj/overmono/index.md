@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Jacaranda Baltic, Liverpool on Thu, 13 Aug 2026.
+Overmono is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jacaranda Baltic, Liverpool on Thu, 13 Aug 2026.
 
 Overmono is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Jacaranda Baltic, Liverpool on Thu 13 Aug.
 
@@ -31,4 +31,4 @@ Overmono is a techno and house artist tracked on soundcheck, with 97 sets logged
 
 DJ Heartstring, Interplanetary Criminal, Joy Orbison
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

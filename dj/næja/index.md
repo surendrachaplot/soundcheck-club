@@ -1,6 +1,6 @@
 # Næja
 
-Næja is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jardin21, Paris on Fri, 14 Aug 2026.
+Næja is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jardin21, Paris on Fri, 14 Aug 2026.
 
 Næja is a club and dembow artist based in France, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside BJF, Jeune Gaou and Philou CxC. Next up: Jardin21, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Næja is a club and dembow artist based in France, tracked on soundcheck, with 9
 
 BJF, Jeune Gaou, Philou CxC
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/næja/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/næja/)*

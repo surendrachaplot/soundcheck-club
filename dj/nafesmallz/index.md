@@ -1,14 +1,16 @@
 # Nafe Smallz
 
-Nafe Smallz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Nafe Smallz is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Nafe Smallz is a house and minimal artist tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside Jaden Thompson, Luke Dean_ and ADMNTi. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Nafe Smallz is a tech house and house artist tracked on soundcheck, with 7 sets logged across Glasgow, Liverpool, London and Manchester. Often billed alongside FLETCH, Jaden Thompson and Joss Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Fri, 9 Oct 2026 | Camp and Furnace | Liverpool |
+| Sat, 10 Oct 2026 | IDRA | Manchester |
 
 ## Recently played
 
@@ -19,6 +21,6 @@ Nafe Smallz is a house and minimal artist tracked on soundcheck, with 5 sets log
 
 ## Shares bills with
 
-Jaden Thompson, Luke Dean_, ADMNTi
+FLETCH, Jaden Thompson, Joss Dean
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*

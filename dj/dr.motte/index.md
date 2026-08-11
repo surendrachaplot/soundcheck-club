@@ -1,6 +1,6 @@
 # Dr. Motte
 
-Dr. Motte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Dr. Motte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Dr. Motte is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Daniel Boon, Basstronauten and DAZA. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Dr. Motte is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Daniel Boon, Basstronauten, DAZA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*

@@ -1,6 +1,6 @@
 # Thila Ground
 
-Thila Ground is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "WeSA X ELEKTRA 'AI-SCAPE'" on Fri, 4 Sept 2026.
+Thila Ground is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "WeSA X ELEKTRA 'AI-SCAPE'" on Fri, 4 Sept 2026.
 
 Thila Ground is a music venue in Seoul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2, Tojeong-ro 9-gil, Mapo-gu, Seoul, Republic of Korea.
 
@@ -14,4 +14,4 @@ Thila Ground is a music venue in Seoul listed on soundcheck. 1 upcoming night. B
 
 2, Tojeong-ro 9-gil, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/thila-ground/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/thila-ground/)*

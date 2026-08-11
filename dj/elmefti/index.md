@@ -1,6 +1,6 @@
 # elMefti
 
-elMefti is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+elMefti is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
 elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Holy Priest, A.N.I. and Nicolas Julian. Next up: Arzenal, Budapest on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Holy Priest, A.N.I., Nicolas Julian
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*

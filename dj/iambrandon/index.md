@@ -1,6 +1,6 @@
 # iamBrandon
 
-iamBrandon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Le Nocturne, Chicago on Sun, 23 Aug 2026.
+iamBrandon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Nocturne, Chicago on Sun, 23 Aug 2026.
 
 iamBrandon is a house and tech house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, Detroit and Seattle. Often billed alongside Adorio, Czboogie and Derrick Carter. Next up: Le Nocturne, Chicago on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ iamBrandon is a house and tech house artist based in United States of America, t
 
 Adorio, Czboogie, Derrick Carter
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*

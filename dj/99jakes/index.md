@@ -1,6 +1,6 @@
 # 99jakes
 
-99jakes is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
+99jakes is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
 
 99jakes is a hardcore and gabber artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Lexxy Jax, Replicator and Casper McFadden. Next up: ESC, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@
 
 Lexxy Jax, Replicator, Casper McFadden
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/99jakes/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/99jakes/)*

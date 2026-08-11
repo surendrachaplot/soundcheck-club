@@ -1,6 +1,6 @@
 # Edgerunner
 
-Edgerunner is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
+Edgerunner is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
 
 Edgerunner is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Frankfurt, Nurnberg and Stuttgart. Often billed alongside Medusa, cyaabottom and Dagobird. Next up: Lehmann Club, Stuttgart on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Edgerunner is a gabber and hardcore artist based in Germany, tracked on soundche
 
 Medusa, cyaabottom, Dagobird
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edgerunner/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edgerunner/)*

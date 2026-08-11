@@ -1,6 +1,6 @@
 # Uus Laine
 
-Uus Laine is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Laine Klubiöö: DJ Plead (AU)" on Fri, 28 Aug 2026.
+Uus Laine is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Laine Klubiöö: DJ Plead (AU)" on Fri, 28 Aug 2026.
 
 Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with line-ups including Alma Negra, DJ Plead, mi-el and shbxsz and 1 more. Browse upcoming dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
 
@@ -17,4 +17,4 @@ Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, w
 
 Vana-Kalamaja 1 Tallinn, Estonia, Tallinn
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*

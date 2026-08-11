@@ -1,14 +1,15 @@
 # Frank Booker
 
-Frank Booker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Chinese Laundry, Sydney on Fri, 14 Aug 2026.
+Frank Booker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Chinese Laundry, Sydney on Fri, 14 Aug 2026.
 
-Frank Booker is a house and disco artist tracked on soundcheck, with 32 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: Chinese Laundry, Sydney on Fri 14 Aug.
+Frank Booker is a house and disco artist tracked on soundcheck, with 33 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: Chinese Laundry, Sydney on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Chinese Laundry | Sydney |
+| Sat, 22 Aug 2026 | Okahu Bay Wharf | Auckland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Frank Booker is a house and disco artist tracked on soundcheck, with 32 sets log
 
 Samuel Harmony, Flamingo Pier, Nathan Haines
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*

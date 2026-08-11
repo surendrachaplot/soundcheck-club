@@ -1,6 +1,6 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 20 Aug 2026.
+Flight Facilities is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Flight Facilities is a house and disco artist tracked on soundcheck, with 61 sets logged across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Pacha Ibiza, Ibiza on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Flight Facilities is a house and disco artist tracked on soundcheck, with 61 set
 
 Armand Van Helden, Claptone, Hannah Laing
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*

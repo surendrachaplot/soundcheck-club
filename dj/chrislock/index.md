@@ -1,6 +1,6 @@
 # Chris Lock
 
-Chris Lock is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Chris Lock is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Chris Lock is an experimental and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Washingtondc. Often billed alongside Brian Thabault, JWords and AL.P0. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Chris Lock is an experimental and techno artist based in United States of Americ
 
 Brian Thabault, JWords, AL.P0
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislock/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislock/)*

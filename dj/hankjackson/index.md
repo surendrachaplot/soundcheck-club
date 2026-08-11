@@ -1,6 +1,6 @@
 # Hank Jackson
 
-Hank Jackson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lullaby, New York City on Fri, 14 Aug 2026.
+Hank Jackson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lullaby, New York City on Fri, 14 Aug 2026.
 
 Hank Jackson is a techno and house artist tracked on soundcheck, with 29 sets logged across Losangeles, Newyorkcity and Tokyo. Often billed alongside Yumi, Jek (US) and K Wata. Next up: Lullaby, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hank Jackson is a techno and house artist tracked on soundcheck, with 29 sets lo
 
 Yumi, Jek (US), K Wata
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*

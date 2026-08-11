@@ -1,6 +1,6 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Axel Boman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
 
 Axel Boman is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Axel Boman is a house and techno artist tracked on soundcheck, with 140 sets log
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

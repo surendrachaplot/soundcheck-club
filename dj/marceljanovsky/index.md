@@ -1,6 +1,6 @@
 # Marcel Janovsky
 
-Marcel Janovsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gewölbe, Cologne on Sat, 22 Aug 2026.
+Marcel Janovsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gewölbe, Cologne on Sat, 22 Aug 2026.
 
 Marcel Janovsky is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Cologne. Often billed alongside Leolo Lozone, Eszter and Elisen. Next up: Gewölbe, Cologne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Marcel Janovsky is a techno and house artist based in Germany, tracked on soundc
 
 Leolo Lozone, Eszter, Elisen
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceljanovsky/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceljanovsky/)*

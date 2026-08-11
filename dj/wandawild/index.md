@@ -1,6 +1,6 @@
 # Wanda Wild
 
-Wanda Wild is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
+Wanda Wild is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
 Wanda Wild is a techno and tech house artist based in Germany, tracked on soundcheck, with 67 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Moritz Butschek, Rad.Lez and Etzo. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Wanda Wild is a techno and tech house artist based in Germany, tracked on soundc
 
 Moritz Butschek, Rad.Lez, Etzo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*

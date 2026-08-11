@@ -1,6 +1,6 @@
 # Echo Brown
 
-Echo Brown is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Echo Brown is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Echo Brown is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Austin, Denver and Edinburgh and 7 more. Often billed alongside Lenzman, MC Fox and Satl. Next up: The Cause, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Echo Brown is a drum & bass and jungle artist based in United States of America,
 
 Lenzman, MC Fox, Satl
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echobrown/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echobrown/)*

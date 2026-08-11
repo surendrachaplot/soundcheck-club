@@ -1,6 +1,6 @@
 # MISA
 
-MISA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
+MISA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
 
 MISA is a techno and tech house artist based in Venezuela, tracked on soundcheck, with 23 sets logged across Amsterdam, Hamburg, Newyorkcity and Osaka and 2 more. Often billed alongside Shogo Ito, U:ICHI and Dani Savant. Next up: WOMB, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MISA is a techno and tech house artist based in Venezuela, tracked on soundcheck
 
 Shogo Ito, U:ICHI, Dani Savant
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misa/)*

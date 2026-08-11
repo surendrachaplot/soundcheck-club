@@ -1,6 +1,6 @@
 # Castor
 
-Castor is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ritter Butzke, Berlin on Sat, 22 Aug 2026.
+Castor is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Ritter Butzke, Berlin on Sat, 22 Aug 2026.
 
 Castor is a drum & bass and jungle artist based in Turkey, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Detroit and 4 more. Often billed alongside Castor W., DJ Bet and K0uci. Next up: Ritter Butzke, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Castor is a drum & bass and jungle artist based in Turkey, tracked on soundcheck
 
 Castor W., DJ Bet, K0uci
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castor/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castor/)*

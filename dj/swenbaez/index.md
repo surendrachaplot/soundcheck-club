@@ -1,6 +1,6 @@
 # Swen Baez
 
-Swen Baez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
+Swen Baez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
 
 Swen Baez is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Berlin and Frankfurt. Often billed alongside Tom Schön, Wir & Beide and Avis Vox. Next up: Tanzhaus West, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Swen Baez is a techno and tech house artist tracked on soundcheck, with 15 sets 
 
 Tom Schön, Wir & Beide, Avis Vox
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swenbaez/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swenbaez/)*

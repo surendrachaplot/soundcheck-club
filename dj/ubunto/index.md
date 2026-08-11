@@ -1,6 +1,6 @@
 # UBUNTO
 
-UBUNTO is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 15 Aug 2026.
+UBUNTO is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 15 Aug 2026.
 
 UBUNTO is a house and balearic artist based in Brazil, tracked on soundcheck, with 24 sets logged across Lisbon, London, Porto and Saopaulo. Often billed alongside AmadoPeace, Caio T. and Diogo Strausz. Next up: Caracol Bar, Saopaulo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ UBUNTO is a house and balearic artist based in Brazil, tracked on soundcheck, wi
 
 AmadoPeace, Caio T., Diogo Strausz
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ubunto/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ubunto/)*

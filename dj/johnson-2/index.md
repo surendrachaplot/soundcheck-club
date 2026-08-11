@@ -1,6 +1,6 @@
 # Johnson (2)
 
-Johnson (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 15 Aug 2026.
+Johnson (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 15 Aug 2026.
 
 Johnson (2) is a house and techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Adrian Camilo, Francesco Salvadori and Al_Massimo. Next up: TBA - Secret Location, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Johnson (2) is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Adrian Camilo, Francesco Salvadori, Al_Massimo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*

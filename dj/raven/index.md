@@ -1,6 +1,6 @@
 # Raven
 
-Raven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+Raven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 Raven is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Kualalumpur, London and Paris and 6 more. Often billed alongside Chippy Nonstop, Akua and Amine Edge & DANCE. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Raven is a techno and house artist tracked on soundcheck, with 15 sets logged ac
 
 Chippy Nonstop, Akua, Amine Edge & DANCE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raven/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raven/)*

@@ -1,6 +1,6 @@
 # TROXY
 
-TROXY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
+TROXY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
 
 TROXY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brighton, Dublin and London. Often billed alongside GUEST (UK), Sway-B and Ashkaan. Next up: E1, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ TROXY is a house and tech house artist based in United Kingdom, tracked on sound
 
 GUEST (UK), Sway-B, Ashkaan
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troxy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troxy/)*

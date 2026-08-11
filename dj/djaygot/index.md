@@ -1,6 +1,6 @@
 # Djaygo T
 
-Djaygo T is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at John Doe, Amsterdam on Wed, 12 Aug 2026.
+Djaygo T is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at John Doe, Amsterdam on Wed, 12 Aug 2026.
 
 Djaygo T is a techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside NELLIE, DMS1N3RGY and Divain. Next up: John Doe, Amsterdam on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Djaygo T is a techno artist based in Netherlands, tracked on soundcheck, with 11
 
 NELLIE, DMS1N3RGY, Divain
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaygot/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaygot/)*

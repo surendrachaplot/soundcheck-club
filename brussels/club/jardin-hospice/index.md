@@ -1,6 +1,6 @@
 # Jardin Hospice
 
-Jardin Hospice is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "The Day Club x Jardin Hospice" on Thu, 13 Aug 2026.
+Jardin Hospice is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Day Club x Jardin Hospice" on Thu, 13 Aug 2026.
 
 Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including TeaOtim and Yōkai.. Browse upcoming dates, start times and who's playing. Rue du Grand Hospice 7, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming nig
 
 Rue du Grand Hospice 7, 1000 Bruxelles, Brussels
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*

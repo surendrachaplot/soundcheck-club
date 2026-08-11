@@ -1,6 +1,6 @@
 # Gabor Matty
 
-Gabor Matty is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 11 Aug 2026.
+Gabor Matty is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 11 Aug 2026.
 
 Gabor Matty is a garage and club artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Edinburgh and Glasgow. Often billed alongside Hu-Sane, ButhoTheWarrior and DJ Greenman. Next up: People's Leisure Club, Edinburgh on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Gabor Matty is a garage and club artist based in United Kingdom, tracked on soun
 
 Hu-Sane, ButhoTheWarrior, DJ Greenman
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*

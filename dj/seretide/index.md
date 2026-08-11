@@ -1,6 +1,6 @@
 # seretide
 
-seretide is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
+seretide is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
 
 seretide is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Barcelona, Geneva, Glasgow and London and 5 more. Often billed alongside Evian Christ, Leaha and Alex Farell. Next up: FOLD, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ seretide is a techno and trance artist based in United Kingdom, tracked on sound
 
 Evian Christ, Leaha, Alex Farell
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*

@@ -1,14 +1,14 @@
 # Annemalie
 
-Annemalie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
+Annemalie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
 
-Annemalie is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin and Cologne. Often billed alongside lollo, HiHat and Ariel (DE). Next up: Südbrücke, Cologne on Sat 15 Aug.
+Annemalie is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin and Cologne. Often billed alongside lollo, HiHat and Ariel (DE). Next up: Südbrücke Open Air, Cologne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Südbrücke | Cologne |
+| Sat, 15 Aug 2026 | Südbrücke Open Air | Cologne |
 | Sat, 22 Aug 2026 | Artheater | Cologne |
 
 ## Recently played
@@ -26,4 +26,4 @@ Annemalie is a techno and trance artist tracked on soundcheck, with 30 sets logg
 
 lollo, HiHat, Ariel (DE)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annemalie/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annemalie/)*

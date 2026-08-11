@@ -1,6 +1,6 @@
 # Filen
 
-Filen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
+Filen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
 
 Filen is a trance and techno artist based in Denmark, tracked on soundcheck, with 22 sets logged across Copenhagen and Ghent. Often billed alongside Samsnavs, Lucy Headburn and Matriark. Next up: De Vierde Zaal, Ghent on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Filen is a trance and techno artist based in Denmark, tracked on soundcheck, wit
 
 Samsnavs, Lucy Headburn, Matriark
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filen/)*

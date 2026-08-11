@@ -1,6 +1,6 @@
 # Marcjack
 
-Marcjack is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at City Hall, Barcelona on Tue, 25 Aug 2026.
+Marcjack is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at City Hall, Barcelona on Tue, 25 Aug 2026.
 
 Marcjack is a tech house and house artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona and Ibiza. Often billed alongside Oxy (Ro) and Umaedo. Next up: City Hall, Barcelona on Tue 25 Aug.
 
@@ -18,4 +18,4 @@ Marcjack is a tech house and house artist based in Spain, tracked on soundcheck,
 
 Oxy (Ro), Umaedo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcjack/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcjack/)*

@@ -1,6 +1,6 @@
 # Slyde Drexler
 
-Slyde Drexler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Stardust Garage , Austin on Sat, 19 Sept 2026.
+Slyde Drexler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Stardust Garage , Austin on Sat, 19 Sept 2026.
 
 Slyde Drexler is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin and Losangeles. Often billed alongside Jacques-André, Horse Opera and Brother Pate. Next up: TBA - Stardust Garage , Austin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Slyde Drexler is a house and deep house artist based in United States of America
 
 Jacques-André, Horse Opera, Brother Pate
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slydedrexler/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slydedrexler/)*

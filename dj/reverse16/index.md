@@ -1,6 +1,6 @@
 # Reverse16
 
-Reverse16 is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Nagomix, Tokyo on Sun, 16 Aug 2026.
+Reverse16 is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nagomix, Tokyo on Sun, 16 Aug 2026.
 
 Reverse16 is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Miyuki Omura, Tripped and Dynamax. Next up: Nagomix, Tokyo on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Reverse16 is a hardcore and gabber artist based in Japan, tracked on soundcheck,
 
 Miyuki Omura, Tripped, Dynamax
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reverse16/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reverse16/)*

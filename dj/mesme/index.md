@@ -1,6 +1,6 @@
 # Mesmé
 
-Mesmé is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Silverlake Lounge, Los Angeles on Thu, 13 Aug 2026.
+Mesmé is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Silverlake Lounge, Los Angeles on Thu, 13 Aug 2026.
 
 Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 41 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: Silverlake Lounge, Losangeles on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, w
 
 Maheras, X CLUB., Etari
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*

@@ -1,6 +1,6 @@
 # Kanedo
 
-Kanedo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 15 Aug 2026.
+Kanedo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 15 Aug 2026.
 
 Kanedo is a house and deep house artist tracked on soundcheck, with 124 sets logged across Athens, Barcelona, Ibiza and London and 1 more. Often billed alongside Viktor Olle, Naommi and Michael Sutton. Next up: Purobeach Barcelona, Barcelona on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Kanedo is a house and deep house artist tracked on soundcheck, with 124 sets log
 
 Viktor Olle, Naommi, Michael Sutton
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*

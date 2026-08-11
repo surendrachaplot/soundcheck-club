@@ -1,14 +1,15 @@
 # Elliott Taguchi
 
-Elliott Taguchi is a Techno and New Wave artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
+Elliott Taguchi is a Techno and New Wave artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
 
-Elliott Taguchi is a techno and new wave artist based in Denmark, tracked on soundcheck, with 33 sets logged across Copenhagen and Oslo. Often billed alongside Johannes Astrup, Milo Makua and DJ 2LATE. Next up: Hangaren, Copenhagen on Sat 15 Aug.
+Elliott Taguchi is a techno and new wave artist based in Denmark, tracked on soundcheck, with 34 sets logged across Copenhagen and Oslo. Often billed alongside Johannes Astrup, Milo Makua and DJ 2LATE. Next up: Hangaren, Copenhagen on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Hangaren | Copenhagen |
+| Sat, 22 Aug 2026 | MODULE | Copenhagen |
 | Sat, 29 Aug 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -26,4 +27,4 @@ Elliott Taguchi is a techno and new wave artist based in Denmark, tracked on sou
 
 Johannes Astrup, Milo Makua, DJ 2LATE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotttaguchi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotttaguchi/)*

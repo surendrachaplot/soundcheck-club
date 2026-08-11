@@ -1,6 +1,6 @@
 # Rummy Sharma
 
-Rummy Sharma is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
+Rummy Sharma is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
 
 Rummy Sharma is a techno and acid artist tracked on soundcheck, with 3 sets logged across Berlin and Malta. Often billed alongside Ghaston, Karim and Mijk van Dijk. Next up: DNA. CLUB - urban Space, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Rummy Sharma is a techno and acid artist tracked on soundcheck, with 3 sets logg
 
 Ghaston, Karim, Mijk van Dijk
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rummysharma/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rummysharma/)*

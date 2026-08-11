@@ -1,6 +1,6 @@
 # Niklas Becher
 
-Niklas Becher is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Niklas Becher is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Niklas Becher is a techno and electro artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Berlin. Often billed alongside UriBlanch, ANNASNEL and Black Box. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Niklas Becher is a techno and electro artist based in Netherlands, tracked on so
 
 UriBlanch, ANNASNEL, Black Box
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*

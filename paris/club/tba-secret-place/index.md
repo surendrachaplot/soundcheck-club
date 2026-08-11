@@ -1,6 +1,6 @@
 # TBA - SECRET PLACE
 
-TBA - SECRET PLACE is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "disc·o·patio: the unfolding session" on Sat, 26 Sept 2026.
+TBA - SECRET PLACE is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "disc·o·patio: the unfolding session" on Sat, 26 Sept 2026.
 
 TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Das Firmament, Exkursion, Innuendo and Sanctus Libido and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | disc·o·patio: the unfolding session | Das Firmament, Exkursion, Innuendo, Sanctus Libido, Sindh |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-secret-place/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-secret-place/)*

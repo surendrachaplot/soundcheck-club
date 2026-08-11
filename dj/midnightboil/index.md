@@ -1,6 +1,6 @@
 # Midnight Boil
 
-Midnight Boil is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Midnight Boil is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Midnight Boil is a house and progressive house artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Casper Collins, DJ Juice (2) and Activator (AU). Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Midnight Boil is a house and progressive house artist based in Australia, tracke
 
 Casper Collins, DJ Juice (2), Activator (AU)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightboil/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightboil/)*

@@ -1,6 +1,6 @@
 # Tokischa
 
-Tokischa is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+Tokischa is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
 Tokischa is a house and electronica artist based in Dominican Republic, tracked on soundcheck, with 11 sets logged across Berlin, London, Losangeles and Mexicocity and 3 more. Often billed alongside Jyoty, Confidence Man and D. Tiffany. Next up: Burgess Park, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Tokischa is a house and electronica artist based in Dominican Republic, tracked 
 
 Jyoty, Confidence Man, D. Tiffany
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

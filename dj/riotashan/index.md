@@ -1,13 +1,14 @@
 # Rio Tashan
 
-Rio Tashan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Rio Tashan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at KOKO, London on Sat, 15 Aug 2026.
 
-Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 6 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Rio Tashan is a house and disco artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 6 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: KOKO, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | KOKO | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logge
 
 Sam Divine, Eats Everything, Low Steppa
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*

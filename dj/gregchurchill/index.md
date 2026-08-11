@@ -1,6 +1,6 @@
 # Greg Churchill
 
-Greg Churchill is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Mothership, Auckland on Sat, 15 Aug 2026.
+Greg Churchill is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Mothership, Auckland on Sat, 15 Aug 2026.
 
 Greg Churchill is a house and techno artist tracked on soundcheck, with 32 sets logged across Auckland. Often billed alongside Andy Vann, Matt Drake and Ana Teles. Next up: The Mothership, Auckland on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Greg Churchill is a house and techno artist tracked on soundcheck, with 32 sets 
 
 Andy Vann, Matt Drake, Ana Teles
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*

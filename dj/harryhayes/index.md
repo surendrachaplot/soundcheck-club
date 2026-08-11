@@ -1,6 +1,6 @@
 # Harry Hayes
 
-Harry Hayes is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Civic Underground, Sydney on Sat, 12 Sept 2026.
+Harry Hayes is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Civic Underground, Sydney on Sat, 12 Sept 2026.
 
 Harry Hayes is a house and garage artist based in Australia, tracked on soundcheck, with 21 sets logged across Melbourne and Sydney. Often billed alongside LUPO.THEBOY, Mike McCaskill and Mimi J. Next up: Civic Underground, Sydney on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Harry Hayes is a house and garage artist based in Australia, tracked on soundche
 
 LUPO.THEBOY, Mike McCaskill, Mimi J
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*

@@ -1,8 +1,8 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+Bitter Babe is a Techno and Latin Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
-Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Backsteinboot, Berlin on Sat 15 Aug.
+Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 164 se
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
+| Fri, 18 Sept 2026 | The White Hotel | Manchester |
 | Fri, 25 Sept 2026 | HERE | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 164 se
 
 Nick León, Verraco, Kia (AU)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

@@ -1,6 +1,6 @@
 # MAQUINA.
 
-MAQUINA. is a Experimental and Krautrock artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Globe, Glossop, Manchester on Thu, 3 Sept 2026.
+MAQUINA. is a Experimental and Krautrock artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Globe, Glossop, Manchester on Thu, 3 Sept 2026.
 
 MAQUINA. is an experimental and krautrock artist tracked on soundcheck, with 5 sets logged across Barcelona, Glasgow, Lisbon and Manchester and 1 more. Often billed alongside Abul Mogard, Afra and Al Wootton. Next up: The Globe, Glossop, Manchester on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ MAQUINA. is an experimental and krautrock artist tracked on soundcheck, with 5 s
 
 Abul Mogard, Afra, Al Wootton
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maquina./)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maquina./)*

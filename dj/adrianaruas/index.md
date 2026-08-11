@@ -1,6 +1,6 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Plano B, Porto on Fri, 14 Aug 2026.
+Adriana Ruas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Plano B, Porto on Fri, 14 Aug 2026.
 
 Adriana Ruas is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Plano B, Porto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Adriana Ruas is a house and techno artist tracked on soundcheck, with 66 sets lo
 
 Alfonsvs, Nuno Carneiro, Jorge Caiado
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*

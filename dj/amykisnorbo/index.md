@@ -1,6 +1,6 @@
 # Amy Kisnorbo
 
-Amy Kisnorbo is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Amy Kisnorbo is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
 Amy Kisnorbo is a dubstep and garage artist tracked on soundcheck, with 37 sets logged across Berlin, Brighton, Bristol and Cardiff and 6 more. Often billed alongside Sam Binga, Commodo and Sir Hiss. Next up: Renate, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Amy Kisnorbo is a dubstep and garage artist tracked on soundcheck, with 37 sets 
 
 Sam Binga, Commodo, Sir Hiss
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*

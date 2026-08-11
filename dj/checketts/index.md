@@ -1,6 +1,6 @@
 # Checketts
 
-Checketts is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Village Underground, London on Fri, 25 Sept 2026.
+Checketts is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
 Checketts is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Barcelona, Edinburgh, Lisbon and London. Often billed alongside Adam Chapman, O.WEBSTER and Dembinski. Next up: Village Underground, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Checketts is a house and deep house artist based in United Kingdom, tracked on s
 
 Adam Chapman, O.WEBSTER, Dembinski
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/checketts/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/checketts/)*

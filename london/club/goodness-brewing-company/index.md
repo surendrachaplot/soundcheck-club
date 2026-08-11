@@ -1,6 +1,6 @@
 # Goodness Brewing Company
 
-Goodness Brewing Company is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Slimzos Recordings & Rocket Sound Summer Sessions" on Sat, 15 Aug 2026.
+Goodness Brewing Company is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Slimzos Recordings & Rocket Sound Summer Sessions" on Sat, 15 Aug 2026.
 
 Goodness Brewing Company is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including DubFreq (2), Eche., Edge <3 and Slimzee. Browse upcoming dates, start times and who's playing. 5a Clarendon Yard, Coburg Road, London N22 6TZ.
 
@@ -14,4 +14,4 @@ Goodness Brewing Company is a music venue in London listed on soundcheck. 1 upco
 
 5a Clarendon Yard, Coburg Road, London N22 6TZ, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/goodness-brewing-company/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/goodness-brewing-company/)*

@@ -1,13 +1,14 @@
 # piaconcept
 
-piaconcept is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
+piaconcept is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Point Ephémère, Paris on Fri, 28 Aug 2026.
 
-piaconcept is a techno artist tracked on soundcheck, with 20 sets logged across Lyon and Paris. Often billed alongside Lüma-G, Unsho and ABRAN. Next up: Bal Chavaux, Paris on Fri 4 Sept.
+piaconcept is a techno and bass artist tracked on soundcheck, with 21 sets logged across Lyon and Paris. Often billed alongside Lüma-G, Unsho and ABRAN. Next up: Point Ephémère, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Point Ephémère | Paris |
 | Fri, 4 Sept 2026 | Bal Chavaux | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ piaconcept is a techno artist tracked on soundcheck, with 20 sets logged across 
 
 Lüma-G, Unsho, ABRAN
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*

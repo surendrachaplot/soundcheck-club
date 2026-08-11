@@ -1,6 +1,6 @@
 # MOON BABE
 
-MOON BABE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Commodore Barry Park, New York City on Sun, 16 Aug 2026.
+MOON BABE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Commodore Barry Park, New York City on Sun, 16 Aug 2026.
 
 MOON BABE is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Mari Ella, BUNZ and Bunni. Next up: Commodore Barry Park, Newyorkcity on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ MOON BABE is a house and deep house artist based in United States of America, tr
 
 Mari Ella, BUNZ, Bunni
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbabe/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbabe/)*

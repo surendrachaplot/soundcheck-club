@@ -1,6 +1,6 @@
 # PLEASURES (US)
 
-PLEASURES (US) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Denver on Fri, 4 Sept 2026.
+PLEASURES (US) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Denver on Fri, 4 Sept 2026.
 
 PLEASURES (US) is a techno and electronica artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Chicago and Denver and 8 more. Often billed alongside Lindsey Herbert, Adrian Hex and jay york. Next up: TBA, Denver on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ PLEASURES (US) is a techno and electronica artist based in United States of Amer
 
 Lindsey Herbert, Adrian Hex, jay york
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasures-us/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasures-us/)*

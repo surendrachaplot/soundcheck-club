@@ -1,6 +1,6 @@
 # Epic B
 
-Epic B is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Friends & Lovers, New York City on Sat, 15 Aug 2026.
+Epic B is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Friends & Lovers, New York City on Sat, 15 Aug 2026.
 
 Epic B is a reggaeton and afrobeats artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Uproot Andy and Lil C. Next up: Friends & Lovers, Newyorkcity on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Epic B is a reggaeton and afrobeats artist tracked on soundcheck, with 2 sets lo
 
 Uproot Andy, Lil C
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epicb/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epicb/)*

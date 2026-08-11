@@ -1,6 +1,6 @@
 # Thursday Volnost at Volnost
 
-Thursday Volnost on Thu 20 Aug, Seoul. 2 acts on the bill: Haemi Park and Pseudobaul. House and Minimal. Preview the line-up and save it on soundcheck.
+Thursday Volnost on Thu 20 Aug, Seoul. 2 acts on the bill: Haemi Park and Pseudobaul. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

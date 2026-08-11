@@ -1,8 +1,8 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Perreo Del Futuro: Rosa Pistola" on Fri, 14 Aug 2026.
+The Ground at Club Space is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Perreo Del Futuro: Rosa Pistola" on Fri, 14 Aug 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Bok Bok, Bort, DomnRob and Flash Gea and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including Bok Bok, Bort, DomnRob and Flash Gea and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upco
 | Sat, 29 Aug 2026 | Casa Whispers presents: Caves of Kukulkán |  |
 | Fri, 4 Sept 2026 | Dennett |  |
 | Sat, 5 Sept 2026 | Andrew Music Club After Party |  |
-| Fri, 11 Sept 2026 | House Hats |  |
+| Sun, 6 Sept 2026 | Andrew Music Club After Party |  |
 
 ## Address
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

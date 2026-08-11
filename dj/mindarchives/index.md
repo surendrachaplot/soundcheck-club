@@ -1,6 +1,6 @@
 # Mind Archives
 
-Mind Archives is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
+Mind Archives is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
 
 Mind Archives is a techno and minimal artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Amulador, Yassine and AlFaer. Next up: Gare Porto, Porto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mind Archives is a techno and minimal artist based in Spain, tracked on soundche
 
 Amulador, Yassine, AlFaer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindarchives/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindarchives/)*

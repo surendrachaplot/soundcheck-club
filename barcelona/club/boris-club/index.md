@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Boris Friday  - FREE TICKETS" on Fri, 14 Aug 2026.
+BORIS CLUB is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Boris Friday  - FREE TICKETS" on Fri, 14 Aug 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Andrea Castells, Jessy, K:ROL and Pax Arabiana and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

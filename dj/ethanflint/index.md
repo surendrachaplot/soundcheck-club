@@ -1,14 +1,15 @@
 # Ethan Flint
 
-Ethan Flint is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Ethan Flint is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
-Ethan Flint is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Ibiza, Leeds and London. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
+Ethan Flint is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Ibiza, Leeds and London. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Starlane Pizza Bar | London |
+| Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ethan Flint is a house and tech house artist based in United Kingdom, tracked on
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*

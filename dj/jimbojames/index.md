@@ -1,6 +1,6 @@
 # Jimbo James
 
-Jimbo James is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+Jimbo James is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 Jimbo James is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Losangeles, Miami, Nashville and Newyorkcity and 1 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Jimbo James is a house and deep house artist based in United States of America, 
 
 Gian-Paul, Ramin Majlessi, AMIRA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*

@@ -1,6 +1,6 @@
 # Eastern Distributor
 
-Eastern Distributor is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Eastern Distributor is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brisbane and Melbourne and 4 more. Often billed alongside Andy Garvey, Cloudy Ku and Mabel. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32
 
 Andy Garvey, Cloudy Ku, Mabel
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*

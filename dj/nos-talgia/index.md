@@ -1,6 +1,6 @@
 # NOS-talgia
 
-NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Skylight Warehouse, Vancouver on Fri, 14 Aug 2026.
+NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Skylight Warehouse, Vancouver on Fri, 14 Aug 2026.
 
 NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, with 15 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Allterverse, Areeb Abbasi and Burnii. Next up: Skylight Warehouse, Vancouver on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Allterverse, Areeb Abbasi, Burnii
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*

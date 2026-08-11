@@ -1,6 +1,6 @@
 # Steven Cee
 
-Steven Cee is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+Steven Cee is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
 Steven Cee is a tech house and deep house artist tracked on soundcheck, with 62 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside JAYDAA, DJ Majesty and Jerome Six. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Steven Cee is a tech house and deep house artist tracked on soundcheck, with 62 
 
 JAYDAA, DJ Majesty, Jerome Six
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*

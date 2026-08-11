@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 16 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TECHNO NIGHT ∞ ROXY Prague" on Fri, 14 Aug 2026.
+Roxy is a music venue in Prague with 16 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TECHNO NIGHT ∞ ROXY Prague" on Fri, 14 Aug 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 16 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and AVHD and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -13,7 +13,7 @@ Roxy is a music venue in Prague listed on soundcheck. 16 upcoming nights, with l
 | Fri, 21 Aug 2026 | MAINSTAGE PARTY ∞ ROXY Prague | Jordy |
 | Sat, 22 Aug 2026 | HARD DANCE VOL. 5 ∞ ROXY Prague | AVHD, Paul Krist |
 | Fri, 28 Aug 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
-| Sat, 29 Aug 2026 | TECHNO[RAVE] #14 ∞ ROXY Prague | KOBOV, Nonalis |
+| Sat, 29 Aug 2026 | TECHNO[RAVE] #14: KOBØV INVITES ∞ ROXY Prague | KOBOV, Nonalis |
 | Fri, 4 Sept 2026 | SICKICK ∞ ROXY Prague |  |
 | Fri, 11 Sept 2026 | Clara Cuvé ∞ ROXY Prague | Clara Cuvé |
 | Fri, 25 Sept 2026 | Lilly Palmer ∞ ROXY Prague | Lilly Palmer |
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 16 upcoming nights, with l
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

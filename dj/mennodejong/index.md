@@ -1,6 +1,6 @@
 # Menno De Jong
 
-Menno De Jong is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at WestWeelde, Amsterdam on Sat, 12 Sept 2026.
+Menno De Jong is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WestWeelde, Amsterdam on Sat, 12 Sept 2026.
 
 Menno De Jong is a trance and psytrance artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Next up: WestWeelde, Amsterdam on Sat 12 Sept.
 
@@ -10,4 +10,4 @@ Menno De Jong is a trance and psytrance artist based in Netherlands, tracked on 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | WestWeelde | Amsterdam |
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mennodejong/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mennodejong/)*

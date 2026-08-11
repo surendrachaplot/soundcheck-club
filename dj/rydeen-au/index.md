@@ -1,6 +1,6 @@
 # Rydeen (AU)
 
-Rydeen (AU) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 14 Aug 2026.
+Rydeen (AU) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 14 Aug 2026.
 
 Rydeen (AU) is a techno and club artist based in Australia, tracked on soundcheck, with 64 sets logged across Bangkok, Melbourne, Prague and Sydney and 1 more. Often billed alongside sovblkpssy, Aquenta and Baschoe. Next up: Oxford Art Factory, Sydney on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Rydeen (AU) is a techno and club artist based in Australia, tracked on soundchec
 
 sovblkpssy, Aquenta, Baschoe
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-au/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-au/)*

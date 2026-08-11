@@ -1,6 +1,6 @@
 # Immy
 
-Immy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
+Immy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
 
 Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Immy is a house and techno artist tracked on soundcheck, with 98 sets logged acr
 
 Triqi, DJ NORTHERN, Jana Falcon
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

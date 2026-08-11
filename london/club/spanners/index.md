@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Body Hammer" on Sat, 15 Aug 2026.
+Spanners is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Body Hammer" on Sat, 15 Aug 2026.
 
 Spanners is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Angel D'lite, Bethan, Bitzer Maloney and BJ Holy and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -20,4 +20,4 @@ Spanners is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

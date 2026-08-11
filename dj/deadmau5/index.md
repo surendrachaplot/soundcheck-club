@@ -1,6 +1,6 @@
 # Deadmau5
 
-Deadmau5 is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Navy Pier, Chicago on Sat, 17 Oct 2026.
+Deadmau5 is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Navy Pier, Chicago on Sat, 17 Oct 2026.
 
 Deadmau5 is a progressive house and electro artist tracked on soundcheck, with 43 sets logged across Austin, Bali, Boston and Bristol and 12 more. Often billed alongside Above & Beyond, Artbat and Dubfire. Next up: Navy Pier, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Deadmau5 is a progressive house and electro artist tracked on soundcheck, with 4
 
 Above & Beyond, Artbat, Dubfire
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*

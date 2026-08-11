@@ -1,6 +1,6 @@
 # Zoe Zett
 
-Zoe Zett is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
+Zoe Zett is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
 
 Zoe Zett is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Kacy, Ephy Pinkman and Polytoxic. Next up: Nidderbad, Frankfurt on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Zoe Zett is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Kacy, Ephy Pinkman, Polytoxic
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezett/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezett/)*

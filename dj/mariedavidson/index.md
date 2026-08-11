@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Silencio, Paris on Thu, 13 Aug 2026.
+Marie Davidson is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Silencio, Paris on Thu, 13 Aug 2026.
 
 Marie Davidson is a techno and electro artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bangkok and 49 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Silencio, Paris on Thu 13 Aug.
 
@@ -32,4 +32,4 @@ Marie Davidson is a techno and electro artist tracked on soundcheck, with 150 se
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

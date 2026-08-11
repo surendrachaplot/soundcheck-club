@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Rhythm Workshop Series: Vinyl DJing" on Wed, 12 Aug 2026.
+Rhythm is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Rhythm Workshop Series: Vinyl DJing" on Wed, 12 Aug 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Amália Leandro, Antwon Faulkner, Art Behaviour and AUX_ID and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming nights, wit
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

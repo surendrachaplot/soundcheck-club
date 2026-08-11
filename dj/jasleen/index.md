@@ -1,6 +1,6 @@
 # Jasleen
 
-Jasleen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Village au Pied-du-Courant, Montreal on Fri, 21 Aug 2026.
+Jasleen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Village au Pied-du-Courant, Montreal on Fri, 21 Aug 2026.
 
 Jasleen is a house and disco artist tracked on soundcheck, with 6 sets logged across London, Montreal and Toronto. Often billed alongside Boogaloo Jones, CrisseMarqueur and Ellen Arkbro. Next up: Village au Pied-du-Courant, Montreal on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Jasleen is a house and disco artist tracked on soundcheck, with 6 sets logged ac
 
 Boogaloo Jones, CrisseMarqueur, Ellen Arkbro
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasleen/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasleen/)*

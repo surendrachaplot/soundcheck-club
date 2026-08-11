@@ -1,6 +1,6 @@
 # Nick Speed
 
-Nick Speed is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Sat, 15 Aug 2026.
+Nick Speed is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lincoln Factory, Detroit on Sat, 15 Aug 2026.
 
 Nick Speed is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Detroit. Often billed alongside Sheefy McFly, Andrés and Drummer B. Next up: Lincoln Factory, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nick Speed is a ghetto tech and techno artist based in United States of America,
 
 Sheefy McFly, Andrés, Drummer B
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspeed/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspeed/)*

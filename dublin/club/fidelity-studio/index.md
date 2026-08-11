@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Collie" on Sat, 22 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Collie" on Sat, 22 Aug 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including Collie (1), Joe Goddard, Pretty Girl and Romare. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -17,4 +17,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming nigh
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

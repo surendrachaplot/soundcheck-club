@@ -1,6 +1,6 @@
 # schönfeld
 
-schönfeld is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
+schönfeld is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
 
 schönfeld is an electronica and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Dreimal T, Zarling and degen. Next up: Tresor / Globus, Berlin on Wed 19 Aug.
 
@@ -21,4 +21,4 @@ schönfeld is an electronica and house artist based in Germany, tracked on sound
 
 Dreimal T, Zarling, degen
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld/)*

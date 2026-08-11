@@ -1,6 +1,6 @@
 # Alessio Panasiti
 
-Alessio Panasiti is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Studio Stereo, Barcelona on Fri, 28 Aug 2026.
+Alessio Panasiti is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Studio Stereo, Barcelona on Fri, 28 Aug 2026.
 
 Alessio Panasiti is an electro and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Angelo Cortines, LM and ALOT. Next up: Studio Stereo, Barcelona on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Alessio Panasiti is an electro and house artist based in Spain, tracked on sound
 
 Angelo Cortines, LM, ALOT
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiopanasiti/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiopanasiti/)*

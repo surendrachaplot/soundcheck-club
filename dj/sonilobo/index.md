@@ -1,6 +1,6 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mimosa, London on Sat, 22 Aug 2026.
+SONI LOBO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Mimosa, London on Sat, 22 Aug 2026.
 
 SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Any Koh, D LAI and Dimanté. Next up: Mimosa, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked
 
 Any Koh, D LAI, Dimanté
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

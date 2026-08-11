@@ -1,6 +1,6 @@
 # Zenø
 
-Zenø is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Le Red Room, Montreal on Wed, 26 Aug 2026.
+Zenø is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Red Room, Montreal on Wed, 26 Aug 2026.
 
 Zenø is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Basel, Ghent, Lisbon and London and 5 more. Often billed alongside Blaqq & Why'd, Alex.Black and De La Maso. Next up: Le Red Room, Montreal on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Zenø is a techno and industrial artist tracked on soundcheck, with 16 sets logg
 
 Blaqq & Why'd, Alex.Black, De La Maso
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno/)*

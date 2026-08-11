@@ -1,6 +1,6 @@
 # Italorama Bar at Berghain | Panorama Bar | Säule
 
-Italorama Bar at Berghain | Panorama Bar | Säule on Fri 18 Sept, Berlin. 7 acts on the bill: Curses, DASH (SLO), Franz Scala and Giulia Gutterer and 3 more. Preview the line-up and save it on soundcheck.
+Italorama Bar at Berghain | Panorama Bar | Säule on Fri 18 Sept, Berlin. 8 acts on the bill: Curses, DASH (SLO), Franz Scala and Giulia Gutterer and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Italorama Bar at Berghain | Panorama Bar | Säule on Fri 18 Sept, Berlin. 7 acts
 - Giulia Gutterer
 - Intergalactic Gary
 - Lennart
+- Lennart (NL)
 - N.O.I.A.
 
 *Source: [soundcheck](https://soundcheck.club/e/2507018-italorama-bar-at-berghain-panorama-bar-s-ule/)*

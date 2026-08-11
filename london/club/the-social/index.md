@@ -1,6 +1,6 @@
 # The Social
 
-The Social is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "LOCALISM: Kate Hutchinson" on Fri, 14 Aug 2026.
+The Social is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "LOCALISM: Kate Hutchinson" on Fri, 14 Aug 2026.
 
 The Social is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, Dj magic touch and dogheadsurigeri and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
@@ -20,4 +20,4 @@ The Social is a music venue in London listed on soundcheck. 7 upcoming nights, w
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

@@ -1,6 +1,6 @@
 # SALAS
 
-SALAS is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Renate, Berlin on Thu, 20 Aug 2026.
+SALAS is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Renate, Berlin on Thu, 20 Aug 2026.
 
 SALAS is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Bucharest and Oslo. Often billed alongside BRYZ, Bross and Finn Eddy. Next up: Renate, Berlin on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ SALAS is a house and minimal techno artist based in United Kingdom, tracked on s
 
 BRYZ, Bross, Finn Eddy
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salas/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salas/)*

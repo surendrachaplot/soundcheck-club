@@ -1,6 +1,6 @@
 # BarKa
 
-BarKa is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "IZBANANAZ na Barce - after po Lado w Mieście" on Thu, 13 Aug 2026.
+BarKa is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "IZBANANAZ na Barce - after po Lado w Mieście" on Thu, 13 Aug 2026.
 
 BarKa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Adobo (PL), Cosaco, Fourth World Music and KarateKnur and 1 more. Browse upcoming dates, start times and who's playing. Bulwar Bohdana Grzymały-Siedleckiego 00-379 Warszawa.
 
@@ -15,4 +15,4 @@ BarKa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with l
 
 Bulwar Bohdana Grzymały-Siedleckiego 00-379 Warszawa, Warsaw
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka/)*

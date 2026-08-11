@@ -1,6 +1,6 @@
 # Jeska
 
-Jeska is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Le Red Room, Montreal on Thu, 13 Aug 2026.
+Jeska is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Red Room, Montreal on Thu, 13 Aug 2026.
 
 Jeska is a drum & bass artist tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside STLKR, FlowHer and Crimewave. Next up: Le Red Room, Montreal on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jeska is a drum & bass artist tracked on soundcheck, with 19 sets logged across 
 
 STLKR, FlowHer, Crimewave
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*

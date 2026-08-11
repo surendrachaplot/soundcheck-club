@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Ark Welders Guild (Deadbeat & Elle Kai), Monty Luke: Mandingo Sound System, Isabassi & Uta, JJ" on Thu, 13 Aug 2026.
+OHM is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Ark Welders Guild (Deadbeat & Elle Kai), Monty Luke: Mandingo Sound System, Isabassi & Uta, JJ" on Thu, 13 Aug 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Abyss X, Alexy, Anele and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -16,11 +16,11 @@ OHM is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with li
 | Sat, 22 Aug 2026 | Daisy Records | Georgia Bird, Obelix |
 | Thu, 27 Aug 2026 | Neighbourhood with Stenny, Tasha & Victor | Stenny, Tasha, Victor |
 | Fri, 4 Sept 2026 | KOOKOO | Mieko Suzuki |
-| Sat, 5 Sept 2026 | KINETIC II, Secret Lineup + Tech Talk & Garden Pop-up |  |
+| Sat, 5 Sept 2026 | KINETIC II, Secret Lineup + Tech Talk & Garden Pop-up | Chami, Nadia Struiwigh, Sabine Hoffmann, Z.I.P.P.O |
 | Thu, 10 Sept 2026 | System Revival with Haruka, Patrick Russell, Mayss | Haruka, Mayss, Patrick Russell |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

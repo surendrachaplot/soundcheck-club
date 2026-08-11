@@ -1,6 +1,6 @@
 # Hometown Sound & Friends at TBA
 
-Hometown Sound & Friends at TBA on Fri 14 Aug, Edinburgh. 3 acts on the bill: Hometown Sound, James Hometown and Nikki Kent. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Hometown Sound & Friends at TBA on Fri 14 Aug, Edinburgh. 4 acts on the bill: Chris Astrojazz, Hometown Sound, James Hometown and Nikki Kent. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hometown Sound & Friends at TBA on Fri 14 Aug, Edinburgh. 3 acts on the bill: Ho
 
 ## Line-up
 
+- Chris Astrojazz
 - Hometown Sound
 - James Hometown
 - Nikki Kent

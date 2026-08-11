@@ -1,6 +1,6 @@
 # Berní
 
-Berní is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club der Visionaere, Berlin on Mon, 17 Aug 2026.
+Berní is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Mon, 17 Aug 2026.
 
 Berní is a techno and deep house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside 0dysseus, Doreen and JA JA. Next up: Club der Visionaere, Berlin on Mon 17 Aug.
 
@@ -18,4 +18,4 @@ Berní is a techno and deep house artist tracked on soundcheck, with 2 sets logg
 
 0dysseus, Doreen, JA JA
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berní/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berní/)*

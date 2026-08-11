@@ -1,6 +1,6 @@
 # mintwhisper
 
-mintwhisper is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
+mintwhisper is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
 
 mintwhisper is a deep house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Portland, Sandiego and Seattle. Often billed alongside Luum, Batom and Feu du Camp. Next up: Statera Cellars, Portland on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ mintwhisper is a deep house and club artist based in United States of America, t
 
 Luum, Batom, Feu du Camp
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*

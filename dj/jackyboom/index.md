@@ -1,6 +1,6 @@
 # Jackyboom
 
-Jackyboom is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
+Jackyboom is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
 
 Jackyboom is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 3 more. Often billed alongside 3PM RECORDS, AVA (3) and BETHANY (1). Next up: XOYO, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jackyboom is a house and deep house artist based in United Kingdom, tracked on s
 
 3PM RECORDS, AVA (3), BETHANY (1)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyboom/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyboom/)*

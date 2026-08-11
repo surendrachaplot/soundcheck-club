@@ -1,6 +1,6 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Tierhaus Fringe invites Trucha & Rònan White, with talks and events from The Late Utopians" on Fri, 14 Aug 2026.
+Leith Arches is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Tierhaus Fringe invites Trucha & Rònan White, with talks and events from The Late Utopians" on Fri, 14 Aug 2026.
 
 Leith Arches is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including Lewis Robertson, noodle, Rònan White and Trucha and 1 more. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
@@ -17,4 +17,4 @@ Leith Arches is a music venue in Edinburgh listed on soundcheck. 4 upcoming nigh
 
 6 Manderston St, Edinburgh, EH6 8LY, Edinburgh
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*

@@ -1,6 +1,6 @@
 # 25 Years Deep — Boogs x Revolver Sundays at Revolver Upstairs
 
-25 Years Deep — Boogs x Revolver Sundays at Revolver Upstairs on Sun 30 Aug, Melbourne. 5 acts on the bill: archiLo, Ben Silver (AUS), Boogs and Joey Coco and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+25 Years Deep — Boogs x Revolver Sundays at Revolver Upstairs on Sun 30 Aug, Melbourne. 6 acts on the bill: archiLo, Ben Silver (AUS), Boogs and DJ JNETT and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - archiLo
 - Ben Silver (AUS)
 - Boogs
+- DJ JNETT
 - Joey Coco
 - Spacey Space
 

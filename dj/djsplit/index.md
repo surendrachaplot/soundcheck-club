@@ -1,8 +1,8 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 14 Aug 2026.
+DJ Split is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 14 Aug 2026.
 
-DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Ido Toledano, AMANE and Alci. Next up: SISSI'S Amsterdam, Amsterdam on Fri 14 Aug.
+DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Ido Toledano, AMANE and Alci. Next up: SISSI'S Amsterdam, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 | Fri, 14 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 15 Aug 2026 | LAUT | Barcelona |
 | Sat, 29 Aug 2026 | Refuge | New York City |
+| Fri, 4 Sept 2026 | Standard Time | Toronto |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Ido Toledano, AMANE, Alci
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

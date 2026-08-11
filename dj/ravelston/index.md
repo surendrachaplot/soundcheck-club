@@ -1,6 +1,6 @@
 # Ravelston
 
-Ravelston is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
+Ravelston is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
 
 Ravelston is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Edinburgh and Glasgow. Often billed alongside Nikki Kent, otisworming and Ann Tweak. Next up: Leith FAB Cricket Club, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ravelston is a house and electronica artist based in United Kingdom, tracked on 
 
 Nikki Kent, otisworming, Ann Tweak
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*

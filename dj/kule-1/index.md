@@ -1,6 +1,6 @@
 # Kule
 
-Kule is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
+Kule is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
 
 Kule is a bass and techno artist based in Ireland, tracked on soundcheck, with 11 sets logged across Cork, Dublin, Limerick and London and 1 more. Often billed alongside Pinot G, Ayolxi and BONZ (3). Next up: Festival Povaleč, Prague on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Kule is a bass and techno artist based in Ireland, tracked on soundcheck, with 1
 
 Pinot G, Ayolxi, BONZ (3)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kule-1/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kule-1/)*

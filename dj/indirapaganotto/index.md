@@ -1,6 +1,6 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Indira Paganotto is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Indira Paganotto is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -36,4 +36,4 @@ Indira Paganotto is a techno and house artist tracked on soundcheck, with 192 se
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

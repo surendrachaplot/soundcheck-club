@@ -1,13 +1,14 @@
 # NoNameLeft
 
-NoNameLeft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
+NoNameLeft is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Viadukt Bar, Budapest on Fri, 14 Aug 2026.
 
-NoNameLeft is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin, Budapest, Copenhagen and Frankfurt and 10 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: Kassa Boat, Budapest on Sat 10 Oct.
+NoNameLeft is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Budapest, Copenhagen and Frankfurt and 10 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: Viadukt Bar, Budapest on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Viadukt Bar | Budapest |
 | Sat, 10 Oct 2026 | Kassa Boat | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ NoNameLeft is a techno and house artist tracked on soundcheck, with 40 sets logg
 
 Dreadsun, Ele Luz, Aio
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*

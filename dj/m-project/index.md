@@ -1,6 +1,6 @@
 # M-Project
 
-M-Project is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Asakusa Stella, Tokyo on Sun, 23 Aug 2026.
+M-Project is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Asakusa Stella, Tokyo on Sun, 23 Aug 2026.
 
 M-Project is a hardcore and gabber artist tracked on soundcheck, with 30 sets logged across Amsterdam, Osaka and Tokyo. Often billed alongside DJ Shimamura, Coretex and MIDI War. Next up: Asakusa Stella, Tokyo on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ M-Project is a hardcore and gabber artist tracked on soundcheck, with 30 sets lo
 
 DJ Shimamura, Coretex, MIDI War
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-project/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-project/)*

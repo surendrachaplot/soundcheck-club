@@ -1,6 +1,6 @@
 # Everyting Shiny at TBA - The Bridge, Digbeth, B12 0LD
 
-Everyting Shiny at TBA - The Bridge, Digbeth, B12 0LD on Sat 22 Aug, Birmingham. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+Everyting Shiny at TBA - The Bridge, Digbeth, B12 0LD on Sat 22 Aug, Birmingham. Afrobeat and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

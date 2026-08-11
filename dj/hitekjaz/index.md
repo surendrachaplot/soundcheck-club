@@ -1,6 +1,6 @@
 # hitekjaz
 
-hitekjaz is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+hitekjaz is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 hitekjaz is a tech house and electronica artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 3 more. Often billed alongside Koga, Aimz and Bambi (FR). Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ hitekjaz is a tech house and electronica artist based in Germany, tracked on sou
 
 Koga, Aimz, Bambi (FR)
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitekjaz/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitekjaz/)*

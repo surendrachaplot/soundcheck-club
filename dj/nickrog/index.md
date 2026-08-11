@@ -1,6 +1,6 @@
 # Nic Krog
 
-Nic Krog is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Nic Krog is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
 
 Nic Krog is an experimental and club artist based in Denmark, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Copenhagen and Glasgow and 8 more. Often billed alongside Nick Klein, Angelo Harmsworth and Bride. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nic Krog is an experimental and club artist based in Denmark, tracked on soundch
 
 Nick Klein, Angelo Harmsworth, Bride
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickrog/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickrog/)*

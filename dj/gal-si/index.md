@@ -1,6 +1,6 @@
 # gãl (SI)
 
-gãl (SI) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
+gãl (SI) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
 
 gãl (SI) is a techno and house artist based in Slovenia, tracked on soundcheck, with 14 sets logged across Berlin and Budapest. Often billed alongside supa rece, GLIA and Gustavo. Next up: Badehaus Berlin, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ gãl (SI) is a techno and house artist based in Slovenia, tracked on soundcheck,
 
 supa rece, GLIA, Gustavo
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gal-si/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gal-si/)*

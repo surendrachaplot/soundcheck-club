@@ -1,6 +1,6 @@
 # Reuben
 
-Reuben is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 11 Aug 2026.
+Reuben is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 11 Aug 2026.
 
 Reuben is a grime and drum & bass artist tracked on soundcheck, with 2 sets logged across Glasgow and London. Often billed alongside Bussa, HORN-E and Özten. Next up: Nice N Sleazy, Glasgow on Tue 11 Aug.
 
@@ -18,4 +18,4 @@ Reuben is a grime and drum & bass artist tracked on soundcheck, with 2 sets logg
 
 Bussa, HORN-E, Özten
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reuben/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reuben/)*

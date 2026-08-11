@@ -1,6 +1,6 @@
 # WAKA XINXI
 
-WAKA XINXI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
+WAKA XINXI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
 
 WAKA XINXI is a techno and house artist based in Japan, tracked on soundcheck, with 173 sets logged across Seoul and Tokyo. Often billed alongside YOSHI KANOU, Kulage and LiaRako. Next up: Decabar Super, Tokyo on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ WAKA XINXI is a techno and house artist based in Japan, tracked on soundcheck, w
 
 YOSHI KANOU, Kulage, LiaRako
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*

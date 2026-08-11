@@ -1,6 +1,6 @@
 # Jordan
 
-Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Forestlimit, Tokyo on Wed, 12 Aug 2026.
+Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Forestlimit, Tokyo on Wed, 12 Aug 2026.
 
 Jordan is a house and techno artist tracked on soundcheck, with 11 sets logged across Berlin, London, Sanfrancisco and Tokyo. Often billed alongside DJ Cira, Loora and SHINZEE. Next up: Forestlimit, Tokyo on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Jordan is a house and techno artist tracked on soundcheck, with 11 sets logged a
 
 DJ Cira, Loora, SHINZEE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*

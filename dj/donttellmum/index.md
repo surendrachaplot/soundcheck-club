@@ -1,6 +1,6 @@
 # Don't Tell Mum
 
-Don't Tell Mum is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
+Don't Tell Mum is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
 
 Don't Tell Mum is a techno and electro artist based in France, tracked on soundcheck, with 1 set logged across Strasbourg. Often billed alongside AMORAL, NEUX and Ponygirl. Next up: Karmen Camina, Strasbourg on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Don't Tell Mum is a techno and electro artist based in France, tracked on soundc
 
 AMORAL, NEUX, Ponygirl
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donttellmum/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donttellmum/)*

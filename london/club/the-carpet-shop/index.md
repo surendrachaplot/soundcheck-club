@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 15 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Glint 004: Leo's Revenge with FAFF, Seb Odyssey, Shannen SP + Shivum Sharma b2b Lagoon" on Fri, 14 Aug 2026.
+The Carpet Shop is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Glint 004: Leo's Revenge with FAFF, Seb Odyssey, Shannen SP + Shivum Sharma b2b Lagoon" on Fri, 14 Aug 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including A.N.T, Bluetoof, Boofy and Borokov Borokov and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including A.N.T, Alexander Nut, Bluetoof and Boofy and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 15 upcoming nig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

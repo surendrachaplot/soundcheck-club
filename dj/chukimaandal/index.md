@@ -1,6 +1,6 @@
 # chukimaandal
 
-chukimaandal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Volnost, Seoul on Sat, 15 Aug 2026.
+chukimaandal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Volnost, Seoul on Sat, 15 Aug 2026.
 
 chukimaandal is a techno and house artist based in South Korea, tracked on soundcheck, with 87 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Zorba, Knaif and Inger. Next up: Volnost, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ chukimaandal is a techno and house artist based in South Korea, tracked on sound
 
 Zorba, Knaif, Inger
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukimaandal/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukimaandal/)*

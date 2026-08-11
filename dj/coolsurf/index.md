@@ -1,6 +1,6 @@
 # coolsurf
 
-coolsurf is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at House Bar Muse, Osaka on Sat, 22 Aug 2026.
+coolsurf is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at House Bar Muse, Osaka on Sat, 22 Aug 2026.
 
 coolsurf is a house and disco artist tracked on soundcheck, with 39 sets logged across Kyoto and Osaka. Often billed alongside FUMiC, RICHKID and DMITRI ABSINTHE. Next up: House Bar Muse, Osaka on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ coolsurf is a house and disco artist tracked on soundcheck, with 39 sets logged 
 
 FUMiC, RICHKID, DMITRI ABSINTHE
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolsurf/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolsurf/)*

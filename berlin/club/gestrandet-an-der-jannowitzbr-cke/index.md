@@ -1,8 +1,8 @@
 # Gestrandet An Der Jannowitzbrücke
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "missed call · open air · edition 02" on Wed, 12 Aug 2026.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "missed call · open air · edition 02" on Wed, 12 Aug 2026.
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including aaandscha, Aimé You, Djomby and ganz oder gar nicht and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including aaandscha, Aimé You, BUSSI and Cook Strummer and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | missed call · open air · edition 02 |  |
 | Fri, 14 Aug 2026 | Circular Music 'Open Air' with finest House Music with Djomby (ESP) | Djomby, Karsten Schmidt, Oliver Raumklang, Rafael |
-| Sat, 15 Aug 2026 | Onni presents: Ten Years, One Journey - Open Air |  |
+| Sat, 15 Aug 2026 | Onni presents: Ten Years, One Journey - Open Air | BUSSI, Cook Strummer, Hemi, ONNI, Peter Schumann, shot by stanley |
 | Thu, 20 Aug 2026 | Afterwork Sessions with Mona Moore | Mona Moore, ganz oder gar nicht, justUS |
 | Fri, 21 Aug 2026 | PingPong #07 | Stefan Seay, UrbnMowgli, aaandscha |
 | Sat, 5 Sept 2026 | OPEN AIR DIREKT AM WASSER - FREE | Josiane, Mad Shivers, Nostro Ritmo, Philippe Autuori, Robert Owens, Æ Problæm |
@@ -20,4 +20,4 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 
 Rolandufer, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*

@@ -1,6 +1,6 @@
 # Enkō
 
-Enkō is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
+Enkō is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
 
 Enkō is a techno and house artist based in Portugal, tracked on soundcheck, with 55 sets logged across Lisbon, Lyon, Paris and Porto. Often billed alongside CRAVO, Tauer and John-E. Next up: Myra Ostraria, Lisbon on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Enkō is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 CRAVO, Tauer, John-E
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*

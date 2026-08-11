@@ -1,6 +1,6 @@
 # Spás Day Party at Hen's Teeth
 
-Spás Day Party at Hen's Teeth on Sat 29 Aug, Dublin. 2 acts on the bill: Marcelo Ortega and Sarah Lennox. House and Electro. Preview the line-up and save it on soundcheck.
+Spás Day Party at Hen's Teeth on Sat 29 Aug, Dublin. 3 acts on the bill: Marcelo Ortega, Ortega (2) and Sarah Lennox. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Spás Day Party at Hen's Teeth on Sat 29 Aug, Dublin. 2 acts on the bill: Marcel
 ## Line-up
 
 - Marcelo Ortega
+- Ortega (2)
 - Sarah Lennox
 
 *Source: [soundcheck](https://soundcheck.club/e/2506959-sp-s-day-party-at-hen-s-teeth/)*

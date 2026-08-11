@@ -1,6 +1,6 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
+Proc Fiskal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
 
 Proc Fiskal is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: Panke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Proc Fiskal is an experimental and techno artist based in United Kingdom, tracke
 
 Creep Woland, Ship Sket, Feena
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*

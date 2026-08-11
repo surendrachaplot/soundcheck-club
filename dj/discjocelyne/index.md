@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
+discjocelyne is a Post-Punk and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and al gu. Next up: Leith FAB Cricket Club, Edinburgh on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, tracked on
 
 Ravelston, Lara Sinclair, al gu
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

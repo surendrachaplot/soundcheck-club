@@ -1,6 +1,6 @@
 # homebody
 
-homebody is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Divine Playhouse, Sydney on Sat, 15 Aug 2026.
+homebody is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Divine Playhouse, Sydney on Sat, 15 Aug 2026.
 
 homebody is a club and techno artist based in Australia, tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside ATARANGI, Attu and Claire O'Brien. Next up: Divine Playhouse, Sydney on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ homebody is a club and techno artist based in Australia, tracked on soundcheck, 
 
 ATARANGI, Attu, Claire O'Brien
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homebody/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homebody/)*

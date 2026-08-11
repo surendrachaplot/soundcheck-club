@@ -1,8 +1,8 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Club artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
+Princess Elf Bar is a Trance and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
 
-Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and Leaha. Next up: The Glove That Fits, London on Thu 13 Aug.
+Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 153 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: The Glove That Fits, London on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 | Fri, 14 Aug 2026 | Stage and Radio | Manchester |
 | Sat, 22 Aug 2026 | Vespers Club | London |
 | Fri, 18 Sept 2026 | Hidden | Manchester |
+| Sat, 19 Sept 2026 | renae | Manchester |
 | Sat, 31 Oct 2026 | Left Bank Leeds | Leeds |
 
 ## Recently played
@@ -27,6 +28,6 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 
 ## Shares bills with
 
-AYDJ, Anop, Leaha
+AYDJ, Anop, ASHTYLR
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

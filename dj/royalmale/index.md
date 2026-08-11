@@ -1,13 +1,14 @@
 # Royal Male
 
-Royal Male is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Carlton Club, Manchester on Sun, 30 Aug 2026.
+Royal Male is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at renae, Manchester on Tue, 11 Aug 2026.
 
-Royal Male is a house and disco artist tracked on soundcheck, with 19 sets logged across Leeds, London and Manchester. Often billed alongside Pharaoh Brunson, Bobby Thorpe and Il Bosco. Next up: The Carlton Club, Manchester on Sun 30 Aug.
+Royal Male is a house and disco artist tracked on soundcheck, with 20 sets logged across Leeds, London and Manchester. Often billed alongside Pharaoh Brunson, Bobby Thorpe and Il Bosco. Next up: renae, Manchester on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 11 Aug 2026 | renae | Manchester |
 | Sun, 30 Aug 2026 | The Carlton Club | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Royal Male is a house and disco artist tracked on soundcheck, with 19 sets logge
 
 Pharaoh Brunson, Bobby Thorpe, Il Bosco
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*

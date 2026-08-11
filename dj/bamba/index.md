@@ -1,6 +1,6 @@
 # Bamba
 
-Bamba is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Bamba is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 Bamba is a downtempo and house artist tracked on soundcheck, with 31 sets logged across Newyorkcity, Tallinn and Washingtondc. Often billed alongside BehTarin, Chillosophy and Heather Luna. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bamba is a downtempo and house artist tracked on soundcheck, with 31 sets logged
 
 BehTarin, Chillosophy, Heather Luna
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bamba/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bamba/)*

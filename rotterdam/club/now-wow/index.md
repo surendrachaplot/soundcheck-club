@@ -1,6 +1,6 @@
 # Now&Wow
 
-Now&Wow is a music venue in Rotterdam with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "AFTER DARK // ROTTERDAM" on Sat, 5 Sept 2026.
+Now&Wow is a music venue in Rotterdam with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "AFTER DARK // ROTTERDAM" on Sat, 5 Sept 2026.
 
 Now&Wow is a music venue in Rotterdam listed on soundcheck. 4 upcoming nights, with line-ups including ALISHA, DAF (2), Fraulein Z and KAKI (GE) and 2 more. Browse upcoming dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Now&Wow is a music venue in Rotterdam listed on soundcheck. 4 upcoming nights, w
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*

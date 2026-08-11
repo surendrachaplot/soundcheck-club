@@ -1,6 +1,6 @@
 # FREDGETLIFTED
 
-FREDGETLIFTED is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
+FREDGETLIFTED is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
 
 FREDGETLIFTED is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Cris Cioata, EDEF and HAIG. Next up: XOYO, London on Wed 26 Aug.
 
@@ -20,4 +20,4 @@ FREDGETLIFTED is a deep house and tech house artist based in United Kingdom, tra
 
 Cris Cioata, EDEF, HAIG
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredgetlifted/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredgetlifted/)*

@@ -1,6 +1,6 @@
 # DREY (UK)
 
-DREY (UK) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Jazz Cafe, London on Fri, 23 Oct 2026.
+DREY (UK) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Jazz Cafe, London on Fri, 23 Oct 2026.
 
 DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton and London. Often billed alongside Donut, blissy e and Alexander Nut. Next up: The Jazz Cafe, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on 
 
 Donut, blissy e, Alexander Nut
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*

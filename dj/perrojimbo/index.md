@@ -1,6 +1,6 @@
 # Perro Jimbo
 
-Perro Jimbo is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 22 Aug 2026.
+Perro Jimbo is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 22 Aug 2026.
 
 Perro Jimbo is a house and electro artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Fatal. Next up: Citadelle de Marseille, Marseille on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Perro Jimbo is a house and electro artist tracked on soundcheck, with 85 sets lo
 
 VIKk, Family Matters, Fatal
 
-*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
+*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
