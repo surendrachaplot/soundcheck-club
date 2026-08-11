@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ" on Fri, 14 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ" on Fri, 14 Aug 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including AAlva, A For Alpha, Aniko and Denise Lopes and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including AAlva, A For Alpha, Aniko and Bibtiana and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 | Sat, 5 Sept 2026 | ANTÍDOTO |  |
 | Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 | Fri, 2 Oct 2026 | HET VELD: THE SECOND TRANSMISSION |  |
+| Fri, 2 Oct 2026 | het veld: The Second Transmission | Bibtiana, LOU FRE$H, MESSIE, Mathiéux, gau7t |
 | Sat, 17 Oct 2026 | PARKER FEST 3.0 |  |
 | Wed, 21 Oct 2026 | ADE - CHAMOS PRESENTS: HAWRAVE |  |
-| Thu, 22 Oct 2026 | Shanti Celeste Curates VBX - Skatecafe - ADE 22.10 | A For Alpha, Doudou MD, Jennifer Loveless, Pancratio, Shanti Celeste |
 
 ## Address
 

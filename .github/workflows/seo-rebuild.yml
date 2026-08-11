@@ -58,6 +58,14 @@ jobs:
         working-directory: soundcheck-api
         run: node build-seo.mjs
 
+      # The checks that would have caught every SEO fault found so far — a missing
+      # canonical, a canonical leaked onto 37k pages by the shared shell, a
+      # sitemap URL with no page. Runs BEFORE the push: a broken build should
+      # never reach the index in the first place.
+      - name: SEO audit (blocks the deploy)
+        working-directory: soundcheck-api
+        run: node seo-audit.mjs
+
       - name: Commit & push if anything changed
         working-directory: soundcheck-club
         run: |
