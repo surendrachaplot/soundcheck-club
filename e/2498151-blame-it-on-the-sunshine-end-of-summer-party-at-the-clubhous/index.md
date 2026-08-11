@@ -1,6 +1,6 @@
 # Blame It On The Sunshine - End of Summer Party at The Clubhouse at The Victoria
 
-Blame It On The Sunshine - End of Summer Party at The Clubhouse at The Victoria on Sun 30 Aug, London. 2 acts on the bill: Britton and Mayowa. Dancehall and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Blame It On The Sunshine - End of Summer Party at The Clubhouse at The Victoria on Sun 30 Aug, London. 2 acts on the bill: Britton and Mayowa. Dancehall and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

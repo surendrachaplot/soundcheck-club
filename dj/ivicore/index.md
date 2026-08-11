@@ -1,13 +1,15 @@
 # Ivicore
 
-Ivicore is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Colour Factory, London on Sun, 30 Aug 2026.
+Ivicore is a Latin Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
-Ivicore is a latin bass and techno artist tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Bristol and Leeds and 3 more. Often billed alongside TEDESCO, JONE OF ARX and CHEZA LUCINA. Next up: Colour Factory, London on Sun 30 Aug.
+Ivicore is a latin bass and techno artist tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Bristol and Leeds and 3 more. Often billed alongside TEDESCO, JONE OF ARX and CHEZA LUCINA. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Queen Elizabeth Olympic Park | London |
+| Sun, 23 Aug 2026 | Queen Elizabeth Olympic Park | London |
 | Sun, 30 Aug 2026 | Colour Factory | London |
 
 ## Recently played

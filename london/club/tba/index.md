@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 277 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Nepantla Frequencies" on Thu, 13 Aug 2026.
+TBA is a music venue in London with 278 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Nepantla Frequencies" on Thu, 13 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 277 upcoming nights, with line-ups including 1morning, 3 Minds, 619! and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 278 upcoming nights, with line-ups including 1morning, 3 Minds, 619! and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
