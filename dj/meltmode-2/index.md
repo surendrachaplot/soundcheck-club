@@ -1,6 +1,6 @@
 # Meltmode (2)
 
-Meltmode (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Meltmode (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Meltmode (2) is a house and tech house artist tracked on soundcheck, with 35 sets logged across Bali, Bangkok, Ibiza and Kualalumpur and 4 more. Often billed alongside Wildealer, IYY (TH) and Tissanai. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Meltmode (2) is a house and tech house artist tracked on soundcheck, with 35 set
 
 Wildealer, IYY (TH), Tissanai
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*

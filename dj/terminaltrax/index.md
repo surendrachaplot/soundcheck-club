@@ -1,6 +1,6 @@
 # Terminal Trax
 
-Terminal Trax is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kilomètre25, Paris on Fri, 11 Sept 2026.
+Terminal Trax is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kilomètre25, Paris on Fri, 11 Sept 2026.
 
 Terminal Trax is a techno and trance artist based in France, tracked on soundcheck, with 11 sets logged across Montreal, Nantes and Paris. Often billed alongside VI100, A.mo and ADB (FR). Next up: Kilomètre25, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Terminal Trax is a techno and trance artist based in France, tracked on soundche
 
 VI100, A.mo, ADB (FR)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*

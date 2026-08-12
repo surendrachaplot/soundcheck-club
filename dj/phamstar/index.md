@@ -1,6 +1,6 @@
 # Phamstar
 
-Phamstar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Neon Grotto, Austin on Thu, 13 Aug 2026.
+Phamstar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Neon Grotto, Austin on Thu, 13 Aug 2026.
 
 Phamstar is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin. Often billed alongside Daniel Allen, Bonnie Stoneman and Knos. Next up: Neon Grotto, Austin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Phamstar is a house and deep house artist based in United States of America, tra
 
 Daniel Allen, Bonnie Stoneman, Knos
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*

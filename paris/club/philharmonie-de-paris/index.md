@@ -1,6 +1,6 @@
 # Philharmonie de Paris
 
-Philharmonie de Paris is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "GoGo Penguin" on Sun, 30 Aug 2026.
+Philharmonie de Paris is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "GoGo Penguin" on Sun, 30 Aug 2026.
 
 Philharmonie de Paris is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including upsammy and Valentina Magaletti. Browse upcoming dates, start times and who's playing. 221 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -16,4 +16,4 @@ Philharmonie de Paris is a music venue in Paris listed on soundcheck. 3 upcoming
 
 221 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/philharmonie-de-paris/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/philharmonie-de-paris/)*

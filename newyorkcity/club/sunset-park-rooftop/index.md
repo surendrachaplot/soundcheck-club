@@ -1,6 +1,6 @@
 # Sunset Park Rooftop
 
-Sunset Park Rooftop is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Teksupport: Colyn" on Fri, 14 Aug 2026.
+Sunset Park Rooftop is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Teksupport: Colyn" on Fri, 14 Aug 2026.
 
 Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Aline Umber, Archie Hamilton, Colyn and Fleur Shore and 2 more. Browse upcoming dates, start times and who's playing. 14b 53rd St, Brooklyn, NY 11232.
 
@@ -17,4 +17,4 @@ Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 4 upco
 
 14b 53rd St, Brooklyn, NY 11232, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*

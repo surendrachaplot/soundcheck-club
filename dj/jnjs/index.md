@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
+JNJS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
 
 JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: Cova Santa, Ibiza on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged ac
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

@@ -1,6 +1,6 @@
 # Nico's Bar at Hackney Bridge
 
-Nico's Bar at Hackney Bridge is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Jalan Jalan - Celebrating Indonesian Culture" on Fri, 21 Aug 2026.
+Nico's Bar at Hackney Bridge is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Jalan Jalan - Celebrating Indonesian Culture" on Fri, 21 Aug 2026.
 
 Nico's Bar at Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including delirious.blanc, Glitch (LDN), LUMA (UK) and TIRTA and 1 more. Browse upcoming dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -16,4 +16,4 @@ Nico's Bar at Hackney Bridge is a music venue in London listed on soundcheck. 3 
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/nico-s-bar-at-hackney-bridge/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/nico-s-bar-at-hackney-bridge/)*

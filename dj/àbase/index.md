@@ -1,6 +1,6 @@
 # Àbáse
 
-Àbáse is a Jazz and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gretchen, Berlin on Thu, 5 Nov 2026.
+Àbáse is a Jazz and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gretchen, Berlin on Thu, 5 Nov 2026.
 
 Àbáse is a jazz and afrobeat artist based in Hungary, tracked on soundcheck, with 1 set logged across Berlin. Next up: Gretchen, Berlin on Thu 5 Nov.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Gretchen | Berlin |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/àbase/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/àbase/)*

@@ -1,6 +1,6 @@
 # soft:machina
 
-soft:machina is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Stammbar, Brussels on Sat, 15 Aug 2026.
+soft:machina is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Stammbar, Brussels on Sat, 15 Aug 2026.
 
 soft:machina is an electronic artist tracked on soundcheck, with 8 sets logged across Brussels. Often billed alongside ATARAXY, AZA and Ava Eva. Next up: Stammbar, Brussels on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ soft:machina is an electronic artist tracked on soundcheck, with 8 sets logged a
 
 ATARAXY, AZA, Ava Eva
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*

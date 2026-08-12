@@ -1,8 +1,8 @@
 # Ingy
 
-Ingy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Madre el Cabanyal, Valencia on Sat, 22 Aug 2026.
+Ingy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Madre el Cabanyal, Valencia on Sat, 22 Aug 2026.
 
-Ingy is a house and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Valencia. Often billed alongside Flowing, Pete Bandit and Dandy Jack. Next up: Madre el Cabanyal, Valencia on Sat 22 Aug.
+Ingy is a house and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Valencia. Often billed alongside Flowing, Flow and Pete Bandit. Next up: Madre el Cabanyal, Valencia on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Ingy is a house and disco artist based in Netherlands, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Flowing, Pete Bandit, Dandy Jack
+Flowing, Flow, Pete Bandit
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*

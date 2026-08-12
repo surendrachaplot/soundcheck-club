@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Certified Groovers: John Tejada and More" on Sat, 15 Aug 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Certified Groovers: John Tejada and More" on Sat, 15 Aug 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Chemtrail Johnny, Cromie, DJ Sneak and Gene On Earth and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 31 Oct 2026 | Certified Groovers: HALLOWEEN PARTY |  |
 | Sat, 7 Nov 2026 | Lights Down Low feat. yaego | yaego |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

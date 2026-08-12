@@ -1,6 +1,6 @@
 # Elliott Boyd
 
-Elliott Boyd is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
+Elliott Boyd is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
 
 Elliott Boyd is a techno and electro artist tracked on soundcheck, with 11 sets logged across Birmingham, London and Manchester. Often billed alongside Bunny, Croft (1) and ERIS. Next up: komunal, Birmingham on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Elliott Boyd is a techno and electro artist tracked on soundcheck, with 11 sets 
 
 Bunny, Croft (1), ERIS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottuk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottuk/)*

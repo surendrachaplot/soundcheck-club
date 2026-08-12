@@ -1,13 +1,14 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
+Todd Edwards is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Barbary, Philadelphia on Fri, 14 Aug 2026.
 
-Todd Edwards is a house and garage artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
+Todd Edwards is a house and garage artist tracked on soundcheck, with 121 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: The Barbary, Philadelphia on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | The Barbary | Philadelphia |
 | Sat, 22 Aug 2026 | Elsewhere | New York City |
 | Wed, 26 Aug 2026 | Eden | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -31,4 +32,4 @@ Todd Edwards is a house and garage artist tracked on soundcheck, with 120 sets l
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

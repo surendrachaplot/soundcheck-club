@@ -1,6 +1,6 @@
 # MAGMAOM
 
-MAGMAOM is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+MAGMAOM is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
 MAGMAOM is an industrial and techno artist based in Czech Republic, tracked on soundcheck, with 13 sets logged across Berlin, Birmingham, Budapest and London and 1 more. Often billed alongside ALICE ASTER, Labåzuy and Lezcano. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MAGMAOM is an industrial and techno artist based in Czech Republic, tracked on s
 
 ALICE ASTER, Labåzuy, Lezcano
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magmaom/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magmaom/)*

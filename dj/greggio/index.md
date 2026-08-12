@@ -1,6 +1,6 @@
 # Greggio
 
-Greggio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gallery, London on Sat, 15 Aug 2026.
+Greggio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gallery, London on Sat, 15 Aug 2026.
 
 Greggio is a tech house and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside JIOR, Bhaskar and Max Styler. Next up: Gallery, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Greggio is a tech house and house artist tracked on soundcheck, with 5 sets logg
 
 JIOR, Bhaskar, Max Styler
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*

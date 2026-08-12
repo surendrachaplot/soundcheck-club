@@ -1,14 +1,15 @@
 # House Mum
 
-House Mum is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
+House Mum is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
 
-House Mum is a techno and bass artist based in Australia, tracked on soundcheck, with 67 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Yollks, Haus of Ralph and Mon Franco. Next up: New Guernica, Melbourne on Fri 21 Aug.
+House Mum is a techno and bass artist based in Australia, tracked on soundcheck, with 68 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Yollks, Haus of Ralph and Mon Franco. Next up: New Guernica, Melbourne on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | New Guernica | Melbourne |
+| Sat, 12 Sept 2026 | TBA - Inner North Location | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ House Mum is a techno and bass artist based in Australia, tracked on soundcheck,
 
 Yollks, Haus of Ralph, Mon Franco
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housemum/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housemum/)*

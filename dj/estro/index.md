@@ -1,6 +1,6 @@
 # estro
 
-estro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
+estro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
 
 estro is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across London and Newyorkcity. Often billed alongside SENAIDA, Junkfile and A lana. Next up: TBA - Bushwick Rooftop (11237), Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ estro is a techno and house artist based in United States of America, tracked on
 
 SENAIDA, Junkfile, A lana
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*

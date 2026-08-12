@@ -1,6 +1,6 @@
 # Relict
 
-Relict is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
+Relict is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
 
 Relict is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Leipzig. Often billed alongside Cuepric, DJ Annita and Dubbalot. Next up: Distillery, Leipzig on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Relict is a drum & bass and jungle artist based in Germany, tracked on soundchec
 
 Cuepric, DJ Annita, Dubbalot
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relict/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relict/)*

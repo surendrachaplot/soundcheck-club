@@ -1,6 +1,6 @@
 # Chris Wheatley
 
-Chris Wheatley is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Two More Years, London on Sat, 29 Aug 2026.
+Chris Wheatley is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Two More Years, London on Sat, 29 Aug 2026.
 
 Chris Wheatley is a disco and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Rob Coley, LEV (UK) and OriaBela. Next up: Two More Years, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Chris Wheatley is a disco and house artist based in United Kingdom, tracked on s
 
 Rob Coley, LEV (UK), OriaBela
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*

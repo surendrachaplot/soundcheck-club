@@ -1,6 +1,6 @@
 # D.FERNANDO
 
-D.FERNANDO is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Wych, Toronto on Thu, 27 Aug 2026.
+D.FERNANDO is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Wych, Toronto on Thu, 27 Aug 2026.
 
 D.FERNANDO is a garage and techno artist tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside In Depth Subject, Akkai (2) and DJ Visitor. Next up: The Wych, Toronto on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ D.FERNANDO is a garage and techno artist tracked on soundcheck, with 6 sets logg
 
 In Depth Subject, Akkai (2), DJ Visitor
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.fernando/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.fernando/)*

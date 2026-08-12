@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Emotional Slut Music: Leo" on Fri, 14 Aug 2026.
+Stage and Radio is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Emotional Slut Music: Leo" on Fri, 14 Aug 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 20 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

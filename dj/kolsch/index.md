@@ -1,6 +1,6 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
+Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
 
 Kolsch is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Luz De Gas, Barcelona on Sat 15 Aug.
 
@@ -31,4 +31,4 @@ Kolsch is a techno and house artist tracked on soundcheck, with 141 sets logged 
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

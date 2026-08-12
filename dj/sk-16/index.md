@@ -1,6 +1,6 @@
 # SK (16)
 
-SK (16) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at White Space Lab, Tokyo on Thu, 13 Aug 2026.
+SK (16) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at White Space Lab, Tokyo on Thu, 13 Aug 2026.
 
 SK (16) is a bass and techno artist based in Canada, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside pip (4). Next up: White Space Lab, Tokyo on Thu 13 Aug.
 
@@ -14,4 +14,4 @@ SK (16) is a bass and techno artist based in Canada, tracked on soundcheck, with
 
 pip (4)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sk-16/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sk-16/)*

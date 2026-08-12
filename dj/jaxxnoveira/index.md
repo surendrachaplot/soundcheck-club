@@ -1,6 +1,6 @@
 # JAXX NOVEIRA
 
-JAXX NOVEIRA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Slow Club, Barcelona on Sat, 15 Aug 2026.
+JAXX NOVEIRA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Slow Club, Barcelona on Sat, 15 Aug 2026.
 
 JAXX NOVEIRA is a tech house and minimal artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Ibiza and Losangeles. Often billed alongside DLR, Dave Soul and Blaqq & Why'd. Next up: Slow Club, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ JAXX NOVEIRA is a tech house and minimal artist tracked on soundcheck, with 11 s
 
 DLR, Dave Soul, Blaqq & Why'd
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*

@@ -1,6 +1,6 @@
 # ENFY
 
-ENFY is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+ENFY is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
 ENFY is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Colaps, KAPP and SECO))). Next up: Square Studio Lab, London on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ ENFY is an electro and techno artist based in United Kingdom, tracked on soundch
 
 Colaps, KAPP, SECO)))
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enfy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enfy/)*

@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "SHØCC pres. Plea5urepul5e" on Fri, 14 Aug 2026.
+M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "SHØCC pres. Plea5urepul5e" on Fri, 14 Aug 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and BVNNII and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Toronto on Fri, 14 Aug 2026.
+Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Toronto on Fri, 14 Aug 2026.
 
 Noizar is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: TBA, Toronto on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist tracked on soundcheck, with 116 sets logged 
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

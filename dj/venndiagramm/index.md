@@ -1,6 +1,6 @@
 # Venn Diagramm
 
-Venn Diagramm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Strays, Detroit on Sat, 22 Aug 2026.
+Venn Diagramm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Strays, Detroit on Sat, 22 Aug 2026.
 
 Venn Diagramm is a techno and electro artist tracked on soundcheck, with 24 sets logged across Detroit and Washingtondc. Often billed alongside Tom McBride, Lady Witch and Miguel Cisne. Next up: The Strays, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Venn Diagramm is a techno and electro artist tracked on soundcheck, with 24 sets
 
 Tom McBride, Lady Witch, Miguel Cisne
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*

@@ -1,6 +1,6 @@
 # Dj Sarcastic
 
-Dj Sarcastic is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 22 Aug 2026.
+Dj Sarcastic is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 22 Aug 2026.
 
 Dj Sarcastic is an acid and techno artist based in Canada, tracked on soundcheck, with 35 sets logged across Montreal. Often billed alongside DJ InYourFace, Joss DeWitt and Thomas Von Party. Next up: Bar Le Ritz PDB, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dj Sarcastic is an acid and techno artist based in Canada, tracked on soundcheck
 
 DJ InYourFace, Joss DeWitt, Thomas Von Party
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarcastic/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarcastic/)*

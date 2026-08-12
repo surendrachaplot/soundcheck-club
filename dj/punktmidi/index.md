@@ -1,6 +1,6 @@
 # Punktmidi
 
-Punktmidi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Punktmidi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
 Punktmidi is a techno and trance artist tracked on soundcheck, with 76 sets logged across Berlin, Budapest, Cologne and Frankfurt and 8 more. Often billed alongside Bollmann, Omon Breaker and Kamafaka. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Punktmidi is a techno and trance artist tracked on soundcheck, with 76 sets logg
 
 Bollmann, Omon Breaker, Kamafaka
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*

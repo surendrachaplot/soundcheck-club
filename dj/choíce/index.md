@@ -1,6 +1,6 @@
 # CHOíCE
 
-CHOíCE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+CHOíCE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 CHOíCE is a house and minimal artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver and Losangeles. Often billed alongside Hazy, Highkin' and Kana Hishiya. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ CHOíCE is a house and minimal artist based in United States of America, tracked
 
 Hazy, Highkin', Kana Hishiya
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choíce/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choíce/)*

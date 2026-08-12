@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "://sektgarten x Electric Baile [free entry & open air]" on Tue, 11 Aug 2026.
+://about blank is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "://sektgarten x sekt eclipse [free entry & open air]" on Wed, 12 Aug 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | ://sektgarten x Electric Baile [free entry & open air] | Lancer (2), Robot Girl |
 | Wed, 12 Aug 2026 | ://sektgarten x sekt eclipse [free entry & open air] | Ebicake, Ligal Tamir |
 | Thu, 13 Aug 2026 | DIFFUSE REALITY [13 Years Anniversary] | CSL, Catem, Fac3less, Florist, Just1, Keanu Raves, Leo Wieber, Marcel Heese, Origami, Raw Image, Squaric |
 | Thu, 13 Aug 2026 | ://sektgarten x diffuse reality [free entry & open air] | Catem, Just1, Squaric |
@@ -18,9 +17,10 @@
 | Sat, 15 Aug 2026 | Rave am Ring w/ Kleptos, S.3000, TZK & Frau Ciel | Brauer, DJ-Ween, Ecke & Hugo, HiHat, Ini Lamborghini, Katta Lana, Pavelo Promillo, Sophti, XIMA, Zetson |
 | Tue, 18 Aug 2026 | ://sektgarten x LFO - LIVE FOCUSED OUTPUT [free entry & open air] | Balkhausen, Punktmidi, Tyrellativ, alemiko |
 | Thu, 20 Aug 2026 | DIFFUSE REALITY pres. Sender Berlin [Tresor] | Anri, Blosvenn, Ecilo, NYCTO, Obscur, SURCO, Sender Berlin, Squaric |
+| Thu, 20 Aug 2026 | ://sektgarten x Wohnzimmer-Kollektiv [free entry & open air] | Clarissa Gnade |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

@@ -1,6 +1,6 @@
 # Eren (Vamonos, IST)
 
-Eren (Vamonos, IST) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 13 Aug 2026.
+Eren (Vamonos, IST) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 13 Aug 2026.
 
 Eren (Vamonos, IST) are a house and techno duo based in Turkey, tracked on soundcheck, with 15 sets logged across Barcelona, Istanbul and Miami. Often billed alongside Emre Senol, Babsy and Aldebaran. Next up: Do Not Sit On The Furniture, Miami on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Eren (Vamonos, IST) are a house and techno duo based in Turkey, tracked on sound
 
 Emre Senol, Babsy, Aldebaran
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eren-vamonos-ist/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eren-vamonos-ist/)*

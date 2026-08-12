@@ -1,6 +1,6 @@
 # Albin (BR)
 
-Albin (BR) is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
+Albin (BR) is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
 
 Albin (BR) is an ambient and acid artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Chicago and Lisbon and 2 more. Often billed alongside Alvva, m50 and Acidnena. Next up: arkaoda Berlin, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Albin (BR) is an ambient and acid artist tracked on soundcheck, with 15 sets log
 
 Alvva, m50, Acidnena
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albin-br/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albin-br/)*

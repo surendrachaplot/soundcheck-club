@@ -1,6 +1,6 @@
 # Ça Roule
 
-Ça Roule is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
+Ça Roule is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
 
 Ça Roule is a house and disco artist tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside Misslead, Dylan Payne and Lian Vex. Next up: Surfside, Malta on Wed 12 Aug.
 
@@ -22,4 +22,4 @@
 
 Misslead, Dylan Payne, Lian Vex
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/çaroule/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/çaroule/)*

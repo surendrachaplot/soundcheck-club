@@ -1,14 +1,14 @@
 # DJ Infohazard
 
-DJ Infohazard is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
+DJ Infohazard is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ErF Studios, New York City on Fri, 28 Aug 2026.
 
-DJ Infohazard is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside DANIREV, Janus Rose and HARDKORE. Next up: ErF Studios, Newyorkcity on Sat 29 Aug.
+DJ Infohazard is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside DANIREV, Janus Rose and HARDKORE. Next up: ErF Studios, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | ErF Studios | New York City |
+| Fri, 28 Aug 2026 | ErF Studios | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ DJ Infohazard is a techno and hardcore artist tracked on soundcheck, with 21 set
 
 DANIREV, Janus Rose, HARDKORE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djinfohazard/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djinfohazard/)*

@@ -1,6 +1,6 @@
 # Hazmat Live
 
-Hazmat Live is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spkrbox, Detroit on Sat, 22 Aug 2026.
+Hazmat Live is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Spkrbox, Detroit on Sat, 22 Aug 2026.
 
 Hazmat Live is a techno and electro artist tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Garrison XR, Sheefy McFly and Tammy Lakkis. Next up: Spkrbox, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Hazmat Live is a techno and electro artist tracked on soundcheck, with 18 sets l
 
 Garrison XR, Sheefy McFly, Tammy Lakkis
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazmatlive/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazmatlive/)*

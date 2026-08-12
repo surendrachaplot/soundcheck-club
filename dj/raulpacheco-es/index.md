@@ -1,6 +1,6 @@
 # Raúl Pacheco
 
-Raúl Pacheco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
+Raúl Pacheco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
 
 Raúl Pacheco is a techno and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Fatima Hajji, Chelina Manuhutu and DIROS. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Raúl Pacheco is a techno and house artist based in Spain, tracked on soundcheck
 
 Fatima Hajji, Chelina Manuhutu, DIROS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*

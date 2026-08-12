@@ -1,14 +1,13 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 11 Aug 2026.
+Clara Cuvé is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
-Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Amnesia Ibiza, Ibiza on Tue 11 Aug.
+Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
@@ -23,6 +22,7 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets lo
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
 - Phonox, London — Sat, 1 Aug 2026
@@ -30,10 +30,9 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets lo
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Sala Urbana, Mexico City — Fri, 17 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Kobosil, MCR-T, 999999999
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

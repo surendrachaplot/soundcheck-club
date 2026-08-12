@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+Ede is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
 
 Ede is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: SAGE, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Ede is a techno and house artist based in Germany, tracked on soundcheck, with 8
 
 Skatman, julës jay, JAMIIE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

@@ -1,6 +1,6 @@
 # Francia Oropeza
 
-Francia Oropeza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
+Francia Oropeza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
 
 Francia Oropeza is a techno and house artist based in Mexico, tracked on soundcheck, with 1 set logged across Mexicocity. Often billed alongside Factory Setup, Rafatel and papa jazz. Next up: Fünk, Mexicocity on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ Francia Oropeza is a techno and house artist based in Mexico, tracked on soundch
 
 Factory Setup, Rafatel, papa jazz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciaoropeza/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciaoropeza/)*

@@ -1,6 +1,6 @@
 # J:DC
 
-J:DC is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at E1, London on Fri, 18 Sept 2026.
+J:DC is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at E1, London on Fri, 18 Sept 2026.
 
 J:DC is a techno and trance artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside ASHTREY, Astrid Gnosis and Basswell. Next up: E1, London on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ J:DC is a techno and trance artist tracked on soundcheck, with 4 sets logged acr
 
 ASHTREY, Astrid Gnosis, Basswell
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdc/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdc/)*

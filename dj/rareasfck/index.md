@@ -1,6 +1,6 @@
 # Rareasfck
 
-Rareasfck is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
+Rareasfck is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
 Rareasfck is a hardcore and techno artist based in Canada, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside 666.pastel, GUSSYEE and Stella Maise. Next up: TBA, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Rareasfck is a hardcore and techno artist based in Canada, tracked on soundcheck
 
 666.pastel, GUSSYEE, Stella Maise
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rareasfck/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rareasfck/)*

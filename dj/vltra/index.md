@@ -1,6 +1,6 @@
 # VLTRA (IT)
 
-VLTRA (IT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Die Kunstbar, Cologne on Thu, 20 Aug 2026.
+VLTRA (IT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Die Kunstbar, Cologne on Thu, 20 Aug 2026.
 
 VLTRA (IT) is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Chicago and Cologne and 8 more. Often billed alongside Eddy M, Ferreck Dawn and GENESI. Next up: Die Kunstbar, Cologne on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ VLTRA (IT) is a tech house and house artist tracked on soundcheck, with 22 sets 
 
 Eddy M, Ferreck Dawn, GENESI
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*

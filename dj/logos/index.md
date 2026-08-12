@@ -1,6 +1,6 @@
 # Logos
 
-Logos is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cu, London on Sat, 19 Sept 2026.
+Logos is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cu, London on Sat, 19 Sept 2026.
 
 Logos is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, London and Manchester. Often billed alongside DB1, Mumdance and Turbo Miffy. Next up: Cu, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Logos is an experimental and ambient artist based in United Kingdom, tracked on 
 
 DB1, Mumdance, Turbo Miffy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logos/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logos/)*

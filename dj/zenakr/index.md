@@ -1,6 +1,6 @@
 # ZENA (KR)
 
-ZENA (KR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tigullio, Malta on Thu, 27 Aug 2026.
+ZENA (KR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tigullio, Malta on Thu, 27 Aug 2026.
 
 ZENA (KR) is a techno and hardcore artist based in South Korea, tracked on soundcheck, with 25 sets logged across Amsterdam, Malta and Seoul. Often billed alongside D.E.F, NANAH and Rivako. Next up: Tigullio, Malta on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ ZENA (KR) is a techno and hardcore artist based in South Korea, tracked on sound
 
 D.E.F, NANAH, Rivako
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenakr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenakr/)*

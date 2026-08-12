@@ -1,6 +1,6 @@
 # LACS
 
-LACS is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sertaneja Portugal" on Sun, 16 Aug 2026.
+LACS is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sertaneja Portugal" on Sun, 16 Aug 2026.
 
 LACS is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Edifício LACS - Rocha Conde de Óbidos, 1350-352, Portugal.
 
@@ -14,4 +14,4 @@ LACS is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse u
 
 Edifício LACS - Rocha Conde de Óbidos, 1350-352, Portugal, Lisbon
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lacs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lacs/)*

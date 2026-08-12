@@ -1,6 +1,6 @@
 # Cecilia Tosh
 
-Cecilia Tosh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
+Cecilia Tosh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
 
 Cecilia Tosh is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Kat Davids, James Ruskin and future.666. Next up: fi, Cologne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Cecilia Tosh is a techno and house artist based in Germany, tracked on soundchec
 
 Kat Davids, James Ruskin, future.666
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*

@@ -1,8 +1,8 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Candy Rain // Addo, Mon Franco, Colette" on Thu, 13 Aug 2026.
+Angel Music Bar is a music venue in Melbourne with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Candy Rain // Addo, Mon Franco, Colette" on Thu, 13 Aug 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including BabyG, bbsanii, CHEAHDX and Chino and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 12 upcoming nights, with line-ups including BabyG, bbsanii, Charlotte Rooney and CHEAHDX and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming 
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

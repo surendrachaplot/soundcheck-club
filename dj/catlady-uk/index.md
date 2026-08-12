@@ -1,6 +1,6 @@
 # CATLADY
 
-CATLADY is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
+CATLADY is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
 
 CATLADY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Glasgow and London. Often billed alongside Acolyte, Compulsive Leia and DJ TinyHandz. Next up: Planet Wax, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CATLADY is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Acolyte, Compulsive Leia, DJ TinyHandz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catlady-uk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catlady-uk/)*

@@ -1,6 +1,6 @@
 # TeaOtim
 
-TeaOtim is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jardin Hospice, Brussels on Sat, 15 Aug 2026.
+TeaOtim is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jardin Hospice, Brussels on Sat, 15 Aug 2026.
 
 TeaOtim is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin and Brussels. Often billed alongside Backlight, Billy Boy and Ce$ar. Next up: Jardin Hospice, Brussels on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ TeaOtim is a techno and trance artist tracked on soundcheck, with 6 sets logged 
 
 Backlight, Billy Boy, Ce$ar
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teaotim/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teaotim/)*

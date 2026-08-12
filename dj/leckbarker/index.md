@@ -1,6 +1,6 @@
 # Leck Barker
 
-Leck Barker is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
+Leck Barker is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
 
 Leck Barker is a techno and industrial artist tracked on soundcheck, with 13 sets logged across Brussels. Often billed alongside OWD (1), Makoveev and SYSMIK. Next up: LEO, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Leck Barker is a techno and industrial artist tracked on soundcheck, with 13 set
 
 OWD (1), Makoveev, SYSMIK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leckbarker/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leckbarker/)*

@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "[CANCELLED] Slack Babbath" on Sat, 22 Aug 2026.
+Are You Affiliated is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "[CANCELLED] Slack Babbath" on Sat, 22 Aug 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Decius, Gerd Janson, HAAi and Jacklyn and 2 more. Browse upcoming dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -18,4 +18,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 5 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

@@ -1,6 +1,6 @@
 # Justice
 
-Justice is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+Justice is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 Justice is an electro and techno artist tracked on soundcheck, with 49 sets logged across Berlin, Boston, Brisbane and Cologne and 19 more. Often billed alongside Kaytranada, Jamie xx and Kolja Broxi. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Justice is an electro and techno artist tracked on soundcheck, with 49 sets logg
 
 Kaytranada, Jamie xx, Kolja Broxi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*

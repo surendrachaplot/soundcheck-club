@@ -1,6 +1,6 @@
 # Larry De Kat
 
-Larry De Kat is a House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Larry De Kat is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
 Larry De Kat is a house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside A.M. Project, Benny Rodrigues and Brawther. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Larry De Kat is a house artist based in Netherlands, tracked on soundcheck, with
 
 A.M. Project, Benny Rodrigues, Brawther
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larrydekat/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larrydekat/)*

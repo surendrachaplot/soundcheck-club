@@ -1,6 +1,6 @@
 # Pressha
 
-Pressha is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nectar Lounge, Seattle on Fri, 25 Sept 2026.
+Pressha is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nectar Lounge, Seattle on Fri, 25 Sept 2026.
 
 Pressha is a bass and dubstep artist tracked on soundcheck, with 2 sets logged across Seattle. Often billed alongside ill.Gates. Next up: Nectar Lounge, Seattle on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Pressha is a bass and dubstep artist tracked on soundcheck, with 2 sets logged a
 
 ill.Gates
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressha/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressha/)*

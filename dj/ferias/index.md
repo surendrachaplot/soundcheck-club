@@ -1,6 +1,6 @@
 # Ferias
 
-Ferias is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Marché des Possibles, Montreal on Sun, 23 Aug 2026.
+Ferias is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Marché des Possibles, Montreal on Sun, 23 Aug 2026.
 
 Ferias is a house and electro artist based in Canada, tracked on soundcheck, with 29 sets logged across Detroit, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Guthrie, Alina (MTL) and Andie. Next up: Marché des Possibles, Montreal on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Ferias is a house and electro artist based in Canada, tracked on soundcheck, wit
 
 Guthrie, Alina (MTL), Andie
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*

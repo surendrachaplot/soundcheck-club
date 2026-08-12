@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Rex Club, Paris on Fri, 28 Aug 2026.
+Paula Tape is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rex Club, Paris on Fri, 28 Aug 2026.
 
 Paula Tape is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 47 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Rex Club, Paris on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 156 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

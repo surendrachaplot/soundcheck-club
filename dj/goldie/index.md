@@ -1,6 +1,6 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 13 Aug 2026.
+Goldie is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 13 Aug.
 
@@ -34,4 +34,4 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets l
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

@@ -1,6 +1,6 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Location, London on Fri, 21 Aug 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Location, London on Fri, 21 Aug 2026.
 
 SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 45 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Saint Ludo and Figs. Next up: TBA - Secret Location, London on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 45 sets log
 
 JAZ IMSKY, Saint Ludo, Figs
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

@@ -1,6 +1,6 @@
 # Deborah Aime La Bagarre
 
-Deborah Aime La Bagarre is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Deborah Aime La Bagarre is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Deborah Aime La Bagarre is a house and electro artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Herr Krank, Emma B and THEOS (1). Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Deborah Aime La Bagarre is a house and electro artist tracked on soundcheck, wit
 
 Herr Krank, Emma B, THEOS (1)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*

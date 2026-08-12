@@ -1,6 +1,6 @@
 # Amapola Rose
 
-Amapola Rose is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Barba Azul, Mexico City on Fri, 14 Aug 2026.
+Amapola Rose is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Barba Azul, Mexico City on Fri, 14 Aug 2026.
 
 Amapola Rose is a techno and electronica artist based in Mexico, tracked on soundcheck, with 38 sets logged across Mexicocity and Newyorkcity. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: Barba Azul, Mexicocity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Amapola Rose is a techno and electronica artist based in Mexico, tracked on soun
 
 Choi, Alexandria (MX), Santa Bina
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*

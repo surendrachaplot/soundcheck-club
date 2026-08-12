@@ -1,6 +1,6 @@
 # Doguez
 
-Doguez is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at John Doe, Amsterdam on Fri, 14 Aug 2026.
+Doguez is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at John Doe, Amsterdam on Fri, 14 Aug 2026.
 
 Doguez is a techno and progressive house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Malaga and Saopaulo. Often billed alongside Agustina Aliaga, Alex Sharp and ELEVIN. Next up: John Doe, Amsterdam on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Doguez is a techno and progressive house artist based in Brazil, tracked on soun
 
 Agustina Aliaga, Alex Sharp, ELEVIN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doguez/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doguez/)*

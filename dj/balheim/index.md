@@ -1,6 +1,6 @@
 # Balheim
 
-Balheim is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 14 Aug 2026.
+Balheim is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 14 Aug 2026.
 
 Balheim is an electronica and electro artist tracked on soundcheck, with 22 sets logged across Edinburgh and Madrid. Often billed alongside La Ind0, Harut Hov and Feena. Next up: Sneaky Pete's, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Balheim is an electronica and electro artist tracked on soundcheck, with 22 sets
 
 La Ind0, Harut Hov, Feena
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balheim/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balheim/)*

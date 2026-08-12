@@ -1,6 +1,6 @@
 # Celice Monnette
 
-Celice Monnette is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Republik Club, Madrid on Fri, 14 Aug 2026.
+Celice Monnette is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Republik Club, Madrid on Fri, 14 Aug 2026.
 
 Celice Monnette is a house and techno artist tracked on soundcheck, with 123 sets logged across Losangeles, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside sadgal, Enya Botello and Portugal. Next up: Republik Club, Madrid on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Celice Monnette is a house and techno artist tracked on soundcheck, with 123 set
 
 sadgal, Enya Botello, Portugal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*

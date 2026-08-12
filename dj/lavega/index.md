@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
+La Vega is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
 
 La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Marteen and Alma Linda. Next up: The Sultan Room, Newyorkcity on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ La Vega is a house and deep house artist based in United States of America, trac
 
 Javier de la Vega, Marteen, Alma Linda
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

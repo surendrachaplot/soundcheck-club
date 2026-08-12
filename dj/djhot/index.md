@@ -1,6 +1,6 @@
 # DJ HOT
 
-DJ HOT is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
+DJ HOT is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
 
 DJ HOT is a house and hip-hop artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Mexicocity and Munich. Often billed alongside iamluie, CHUBBS and Philipp Lüers. Next up: TBA - xolo club, Munich on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ HOT is a house and hip-hop artist based in Germany, tracked on soundcheck, wi
 
 iamluie, CHUBBS, Philipp Lüers
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhot/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhot/)*

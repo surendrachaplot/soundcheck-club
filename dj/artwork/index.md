@@ -1,6 +1,6 @@
 # Artwork
 
-Artwork is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
+Artwork is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Artwork is a house and techno artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Athens, Berlin, Bristol and Ibiza and 11 more. Often billed alongside Dark Disco, An Dy and Eats Everything. Next up: 528 Ibiza, Ibiza on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Artwork is a house and techno artist based in United Kingdom, tracked on soundch
 
 Dark Disco, An Dy, Eats Everything
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artwork/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artwork/)*

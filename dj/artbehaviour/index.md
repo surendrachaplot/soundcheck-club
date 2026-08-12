@@ -1,6 +1,6 @@
 # Art Behaviour
 
-Art Behaviour is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
+Art Behaviour is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
 Art Behaviour is a tech house and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Loch, MEDDRY and CZYN. Next up: Rhythm, Toronto on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Art Behaviour is a tech house and house artist based in Canada, tracked on sound
 
 Loch, MEDDRY, CZYN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artbehaviour/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artbehaviour/)*

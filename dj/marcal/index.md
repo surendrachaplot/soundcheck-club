@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Le Sucre, Lyon on Fri, 14 Aug 2026.
+Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Le Sucre, Lyon on Fri, 14 Aug 2026.
 
 Marcal is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Ignez, Zisko and Amotik. Next up: Le Sucre, Lyon on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 94 sets logged a
 
 Ignez, Zisko, Amotik
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

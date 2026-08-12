@@ -1,6 +1,6 @@
 # Silver Event Location
 
-Silver Event Location is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Beat - World of Techno -" on Fri, 14 Aug 2026.
+Silver Event Location is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "The Beat - World of Techno -" on Fri, 14 Aug 2026.
 
 Silver Event Location is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Roelckestraße 6 , 13086 Berlin , Deutschland.
 
@@ -14,4 +14,4 @@ Silver Event Location is a music venue in Berlin listed on soundcheck. 1 upcomin
 
 Roelckestraße 6 , 13086 Berlin , Deutschland, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silver-event-location/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silver-event-location/)*

@@ -1,6 +1,6 @@
 # Lamb
 
-Lamb is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Débris, Tokyo on Fri, 14 Aug 2026.
+Lamb is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Débris, Tokyo on Fri, 14 Aug 2026.
 
 Lamb is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam and Tokyo. Often billed alongside DJ Shibata, Da Yama and Iori Wakasa. Next up: Débris, Tokyo on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Lamb is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 DJ Shibata, Da Yama, Iori Wakasa
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamb/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamb/)*

@@ -1,8 +1,8 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Soup, Manchester on Sat, 15 Aug 2026.
+O'Flynn is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Soup, Manchester on Sat, 15 Aug 2026.
 
-O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Brighton and Bristol and 25 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Soup, Manchester on Sat 15 Aug.
+O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Soup, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 | Sat, 15 Aug 2026 | Soup | Manchester |
 | Fri, 11 Sept 2026 | Oxford Art Factory | Sydney |
 | Sat, 12 Sept 2026 | The Night Cat | Melbourne |
+| Fri, 18 Sept 2026 | Neck of the Woods | Auckland |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | fabric | London |
@@ -30,4 +31,4 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

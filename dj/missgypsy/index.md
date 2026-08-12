@@ -1,6 +1,6 @@
 # Miss Gypsy
 
-Miss Gypsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at H0L0, New York City on Wed, 12 Aug 2026.
+Miss Gypsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at H0L0, New York City on Wed, 12 Aug 2026.
 
 Miss Gypsy is a house and techno artist tracked on soundcheck, with 40 sets logged across Detroit and Newyorkcity. Often billed alongside Mario Polanco, Disgonuts and JKriv. Next up: H0L0, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Miss Gypsy is a house and techno artist tracked on soundcheck, with 40 sets logg
 
 Mario Polanco, Disgonuts, JKriv
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*

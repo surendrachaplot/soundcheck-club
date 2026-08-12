@@ -1,6 +1,6 @@
 # Hyph11E
 
-Hyph11E is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Hyph11E is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Hyph11E is an experimental and techno artist based in China, tracked on soundcheck, with 17 sets logged across Amsterdam, Bristol, Glasgow and London and 5 more. Often billed alongside Swimful, Slikback and AKUMU. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hyph11E is an experimental and techno artist based in China, tracked on soundche
 
 Swimful, Slikback, AKUMU
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyph11e/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyph11e/)*

@@ -1,6 +1,6 @@
 # pinklotion
 
-pinklotion is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Praterbrücke, Vienna on Fri, 14 Aug 2026.
+pinklotion is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Praterbrücke, Vienna on Fri, 14 Aug 2026.
 
 pinklotion is a techno and trance artist based in Austria, tracked on soundcheck, with 53 sets logged across Berlin, Munich and Vienna. Often billed alongside BLUDHOUND, Dj Wifi (3) and Joey (2). Next up: Praterbrücke, Vienna on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ pinklotion is a techno and trance artist based in Austria, tracked on soundcheck
 
 BLUDHOUND, Dj Wifi (3), Joey (2)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*

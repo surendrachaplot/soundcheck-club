@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -35,4 +35,4 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 set
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

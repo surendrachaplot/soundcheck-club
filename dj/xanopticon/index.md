@@ -1,6 +1,6 @@
 # Xanopticon
 
-Xanopticon is a Breakcore and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Diablo Negro, Mexico City on Sat, 22 Aug 2026.
+Xanopticon is a Breakcore and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Diablo Negro, Mexico City on Sat, 22 Aug 2026.
 
 Xanopticon is a breakcore and idm artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Denver, Detroit and Mexicocity and 4 more. Often billed alongside Baseck, Spednar and AYLAK. Next up: Diablo Negro, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Xanopticon is a breakcore and idm artist based in United States of America, trac
 
 Baseck, Spednar, AYLAK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*

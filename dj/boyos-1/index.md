@@ -1,6 +1,6 @@
 # Boyos (1)
 
-Boyos (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
+Boyos (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
 
 Boyos (1) is a house and disco artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Hamburg and Lyon. Often billed alongside Lis Sarroca, Tom Trago and Anil Aras. Next up: Segelschiff Mare Frisium, Hamburg on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Boyos (1) is a house and disco artist based in Netherlands, tracked on soundchec
 
 Lis Sarroca, Tom Trago, Anil Aras
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyos-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyos-1/)*

@@ -1,13 +1,14 @@
 # Program Sam
 
-Program Sam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+Program Sam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rhythm, Toronto on Thu, 27 Aug 2026.
 
-Program Sam is a techno and house artist based in Canada, tracked on soundcheck, with 38 sets logged across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Cherry Beach, Toronto on Sun 30 Aug.
+Program Sam is a techno and house artist based in Canada, tracked on soundcheck, with 39 sets logged across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Rhythm, Toronto on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | Rhythm | Toronto |
 | Sun, 30 Aug 2026 | Cherry Beach | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Program Sam is a techno and house artist based in Canada, tracked on soundcheck,
 
 maxedvisa, florasystem, 999ADJ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*

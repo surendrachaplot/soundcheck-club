@@ -1,6 +1,6 @@
 # Occibel
 
-Occibel is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Java, Paris on Sat, 5 Sept 2026.
+Occibel is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at La Java, Paris on Sat, 5 Sept 2026.
 
 Occibel is a house and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Bristol and 15 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: La Java, Paris on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Occibel is a house and electro artist tracked on soundcheck, with 65 sets logged
 
 Vitess, HearThug, IAMBP
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

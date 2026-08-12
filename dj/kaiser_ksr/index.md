@@ -1,6 +1,6 @@
 # Kaiser (K S R)
 
-Kaiser (K S R) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Kaiser (K S R) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
 Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 39 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 124 sets
 
 Freddy K, Kwartz, Chami
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*

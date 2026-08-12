@@ -1,6 +1,6 @@
 # Toscan Haas
 
-Toscan Haas is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+Toscan Haas is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
 
 Toscan Haas is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Geneva and Leipzig and 3 more. Often billed alongside Lea Occhi, Alys LF and Reka Zalan. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Toscan Haas is a techno and trance artist tracked on soundcheck, with 56 sets lo
 
 Lea Occhi, Alys LF, Reka Zalan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*

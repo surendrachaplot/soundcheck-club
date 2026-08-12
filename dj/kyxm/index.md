@@ -1,18 +1,18 @@
 # kyxm
 
-kyxm is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+kyxm is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
 
-kyxm is a club and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside ethereal.mvp, martine (5) and Pacha DJ. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
+kyxm is a club and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside ethereal.mvp, martine (5) and Pacha DJ. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 14 Aug 2026 | TBA - Brooklyn Loft Location <3 | New York City |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Tue, 11 Aug 2026
 - Happyfun Hideaway, New York City — Tue, 28 Jul 2026
 - Boyfriend co-op, New York City — Wed, 24 Jun 2026
 - Bossa Nova Civic Club, New York City — Thu, 21 May 2026
@@ -20,10 +20,9 @@ kyxm is a club and bass artist based in United States of America, tracked on sou
 - Honey's, New York City — Sat, 2 May 2026
 - Million Goods, New York City — Fri, 1 May 2026
 - Honey's, New York City — Sun, 19 Apr 2026
-- Honey's, New York City — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 ethereal.mvp, martine (5), Pacha DJ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*

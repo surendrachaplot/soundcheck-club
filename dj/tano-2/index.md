@@ -1,6 +1,6 @@
 # Tano (2)
 
-Tano (2) is a Afro House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Refer To Whatsapp groups for it. , London on Sat, 22 Aug 2026.
+Tano (2) is a Afro House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Refer To Whatsapp groups for it. , London on Sat, 22 Aug 2026.
 
 Tano (2) is an afro house and electro artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Olesia_Ra. Next up: TBA - Refer To Whatsapp groups for it. , London on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Tano (2) is an afro house and electro artist tracked on soundcheck, with 2 sets 
 
 Olesia_Ra
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tano-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tano-2/)*

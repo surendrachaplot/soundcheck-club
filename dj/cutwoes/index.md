@@ -1,6 +1,6 @@
 # cutwoes
 
-cutwoes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Location, Boston on Fri, 14 Aug 2026.
+cutwoes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Location, Boston on Fri, 14 Aug 2026.
 
 cutwoes is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston. Often billed alongside Zella, Katya C and CHAOUKI. Next up: TBA - Secret Location, Boston on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ cutwoes is a house and techno artist based in United States of America, tracked 
 
 Zella, Katya C, CHAOUKI
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cutwoes/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cutwoes/)*

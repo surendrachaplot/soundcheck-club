@@ -1,6 +1,6 @@
 # GIO (AR)
 
-GIO (AR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Crown, New York City on Fri, 14 Aug 2026.
+GIO (AR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Crown, New York City on Fri, 14 Aug 2026.
 
 GIO (AR) is a house and techno artist based in Ecuador, tracked on soundcheck, with 12 sets logged across Athens, Berlin, Buenosaires and Newyorkcity and 4 more. Often billed alongside 2cute2destroy, AAT (NL) and AGILY. Next up: The Crown, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ GIO (AR) is a house and techno artist based in Ecuador, tracked on soundcheck, w
 
 2cute2destroy, AAT (NL), AGILY
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*

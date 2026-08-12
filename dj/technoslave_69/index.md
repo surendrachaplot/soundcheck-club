@@ -1,6 +1,6 @@
 # Technoslave_69
 
-Technoslave_69 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
+Technoslave_69 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
 
 Technoslave_69 is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Budapest and Leipzig and 5 more. Often billed alongside Cybersex, TEKNA and 131bpm. Next up: Algha's Plantroom, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Technoslave_69 is a techno and house artist tracked on soundcheck, with 34 sets 
 
 Cybersex, TEKNA, 131bpm
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*

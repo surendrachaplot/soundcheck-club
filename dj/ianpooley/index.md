@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Ian Pooley is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Ian Pooley is a house and techno artist tracked on soundcheck, with 107 sets log
 
 dj sweet6teen, Eva Crystaltips, Luca Olivotto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

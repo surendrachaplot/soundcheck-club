@@ -1,6 +1,6 @@
 # Copenhagen Contemporary
 
-Copenhagen Contemporary is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "CC Summer Nights" on Thu, 13 Aug 2026.
+Copenhagen Contemporary is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "CC Summer Nights" on Thu, 13 Aug 2026.
 
 Copenhagen Contemporary is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Refshalevej 173A, 1432 København.
 
@@ -14,4 +14,4 @@ Copenhagen Contemporary is a music venue in Copenhagen listed on soundcheck. 1 u
 
 Refshalevej 173A, 1432 København, Copenhagen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-contemporary/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-contemporary/)*

@@ -1,6 +1,6 @@
 # Adam Curtain
 
-Adam Curtain is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
+Adam Curtain is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
 
 Adam Curtain is a house and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, Edinburgh, Leeds and London and 2 more. Often billed alongside Ste Roberts, Alien Communications and Daisy Moon. Next up: NUMBER 90 LONDON, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Adam Curtain is a house and techno artist based in United Kingdom, tracked on so
 
 Ste Roberts, Alien Communications, Daisy Moon
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcurtain/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcurtain/)*

@@ -1,6 +1,6 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
+Sonido Tupinamba is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: 528 Ibiza, Ibiza on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 73 sets
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

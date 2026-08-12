@@ -1,6 +1,6 @@
 # Epoché
 
-Epoché is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tendance, Prague on Fri, 14 Aug 2026.
+Epoché is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tendance, Prague on Fri, 14 Aug 2026.
 
 Epoché is a techno and jungle artist based in Czech Republic, tracked on soundcheck, with 30 sets logged across Prague and Strasbourg. Often billed alongside takaDumm, Zuzana Hakl and TerminusTechnikus. Next up: Tendance, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Epoché is a techno and jungle artist based in Czech Republic, tracked on soundc
 
 takaDumm, Zuzana Hakl, TerminusTechnikus
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epoche/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epoche/)*

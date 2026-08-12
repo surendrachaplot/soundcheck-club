@@ -1,6 +1,6 @@
 # Cosmina
 
-Cosmina is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
+Cosmina is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
 
 Cosmina is a minimal and house artist tracked on soundcheck, with 11 sets logged across Birmingham, Bucharest, Copenhagen and Liverpool and 2 more. Often billed alongside BILA, Dan Andrei and Mihnea Rog. Next up: Culture Box, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cosmina is a minimal and house artist tracked on soundcheck, with 11 sets logged
 
 BILA, Dan Andrei, Mihnea Rog
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*

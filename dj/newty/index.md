@@ -1,13 +1,14 @@
 # Newty
 
-Newty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 4 Sept 2026.
+Newty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Apotheke, Los Angeles on Sat, 22 Aug 2026.
 
-Newty is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside Albina Van, BAUGRUPPE90 and BEC. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 4 Sept.
+Newty is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles. Often billed alongside Albina Van, BAUGRUPPE90 and BEC. Next up: Apotheke, Losangeles on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Apotheke | Los Angeles |
 | Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 
 ## Recently played
@@ -21,4 +22,4 @@ Newty is a techno and house artist based in United States of America, tracked on
 
 Albina Van, BAUGRUPPE90, BEC
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newty/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newty/)*

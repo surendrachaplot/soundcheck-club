@@ -1,6 +1,6 @@
 # TBA - NOC Not Only Coffee
 
-TBA - NOC Not Only Coffee is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "NOC COFFEE RAVE" on Sat, 22 Aug 2026.
+TBA - NOC Not Only Coffee is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "NOC COFFEE RAVE" on Sat, 22 Aug 2026.
 
 TBA - NOC Not Only Coffee is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Chris Ku and Sassy Honey. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - NOC Not Only Coffee is a music venue in Berlin listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | NOC COFFEE RAVE | Chris Ku, Sassy Honey |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-noc-not-only-coffee/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-noc-not-only-coffee/)*

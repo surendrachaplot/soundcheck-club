@@ -1,6 +1,6 @@
 # A lana
 
-A lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
+A lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
 
 A lana is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Boston and Newyorkcity. Often billed alongside DJ Christmas, Dee Diggs and Interpretive Sound. Next up: Good Room, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ A lana is a house and techno artist based in United States of America, tracked o
 
 DJ Christmas, Dee Diggs, Interpretive Sound
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*

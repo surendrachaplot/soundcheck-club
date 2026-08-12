@@ -1,6 +1,6 @@
 # Metropol
 
-Metropol is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ADAM Berlin" on Thu, 10 Sept 2026.
+Metropol is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ADAM Berlin" on Thu, 10 Sept 2026.
 
 Metropol is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Arson Fire, Estée Louder, Goat Spokesperson and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -16,4 +16,4 @@ Metropol is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wit
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*

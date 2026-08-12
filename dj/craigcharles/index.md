@@ -1,6 +1,6 @@
 # Craig Charles
 
-Craig Charles is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Freight Brixton, London on Sat, 19 Sept 2026.
+Craig Charles is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Freight Brixton, London on Sat, 19 Sept 2026.
 
 Craig Charles is a funk / soul and disco artist tracked on soundcheck, with 32 sets logged across Birmingham, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Norman Jay, Crazy P and Fabio. Next up: Freight Brixton, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Craig Charles is a funk / soul and disco artist tracked on soundcheck, with 32 s
 
 Norman Jay, Crazy P, Fabio
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*

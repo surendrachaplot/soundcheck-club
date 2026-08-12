@@ -1,6 +1,6 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
+Bennet (DE) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
 
 Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bambounou, Jenny Cara and dj sweet6teen. Next up: La Terrrazza, Barcelona on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Bambounou, Jenny Cara, dj sweet6teen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

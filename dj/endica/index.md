@@ -1,6 +1,6 @@
 # Endica
 
-Endica is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Endica is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
 Endica is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Valencia. Often billed alongside DJ Jordan, Marí Kozlovska and Alex Xandra. Next up: Void Club, Berlin on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Endica is a techno and trance artist tracked on soundcheck, with 3 sets logged a
 
 DJ Jordan, Marí Kozlovska, Alex Xandra
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endica/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endica/)*

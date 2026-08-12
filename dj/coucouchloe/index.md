@@ -1,6 +1,6 @@
 # COUCOU CHLOE
 
-COUCOU CHLOE is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
+COUCOU CHLOE is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
 
 COUCOU CHLOE is an experimental and electronica artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 19 more. Often billed alongside Amnesia Scanner, HOUSEWIFE 9 and Milian Dolla. Next up: NUMBER 90 LONDON, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ COUCOU CHLOE is an experimental and electronica artist tracked on soundcheck, wi
 
 Amnesia Scanner, HOUSEWIFE 9, Milian Dolla
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*

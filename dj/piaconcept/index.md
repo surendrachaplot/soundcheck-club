@@ -1,6 +1,6 @@
 # piaconcept
 
-piaconcept is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Point Ephémère, Paris on Fri, 28 Aug 2026.
+piaconcept is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Point Ephémère, Paris on Fri, 28 Aug 2026.
 
 piaconcept is a techno and bass artist tracked on soundcheck, with 21 sets logged across Lyon and Paris. Often billed alongside Lüma-G, Unsho and ABRAN. Next up: Point Ephémère, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ piaconcept is a techno and bass artist tracked on soundcheck, with 21 sets logge
 
 Lüma-G, Unsho, ABRAN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*

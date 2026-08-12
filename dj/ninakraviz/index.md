@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 13 Aug 2026.
+Nina Kraviz is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 13 Aug 2026.
 
 Nina Kraviz is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Cavo Paradiso, Mykonos on Thu 13 Aug.
 
@@ -33,4 +33,4 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 150 sets lo
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

@@ -1,6 +1,6 @@
 # JAVI VENERO
 
-JAVI VENERO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Prisma, Berlin on Thu, 13 Aug 2026.
+JAVI VENERO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Prisma, Berlin on Thu, 13 Aug 2026.
 
 JAVI VENERO is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Berlin and Madrid. Often billed alongside AARTS, HERPÖ and JAWS. Next up: Prisma, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ JAVI VENERO is a techno and industrial artist tracked on soundcheck, with 12 set
 
 AARTS, HERPÖ, JAWS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javivenero/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javivenero/)*

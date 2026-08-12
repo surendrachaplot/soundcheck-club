@@ -1,6 +1,6 @@
 # Saish K.
 
-Saish K. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Baby Battista @ Nico's, Los Angeles on Fri, 28 Aug 2026.
+Saish K. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Baby Battista @ Nico's, Los Angeles on Fri, 28 Aug 2026.
 
 Saish K. is a house and disco artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside MiMi (3), Max Ellington and Colored Craig. Next up: Baby Battista @ Nico's, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Saish K. is a house and disco artist based in United States of America, tracked 
 
 MiMi (3), Max Ellington, Colored Craig
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saishk./)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saishk./)*

@@ -1,6 +1,6 @@
 # Ortega (2)
 
-Ortega (2) is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hen's Teeth, Dublin on Sat, 29 Aug 2026.
+Ortega (2) is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hen's Teeth, Dublin on Sat, 29 Aug 2026.
 
 Ortega (2) is an electro and electronica artist tracked on soundcheck, with 22 sets logged across Dublin, Galway, Geneva and Lyon and 1 more. Often billed alongside Noisy Chilli, E l ö and Kontronatura. Next up: Hen's Teeth, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ortega (2) is an electro and electronica artist tracked on soundcheck, with 22 s
 
 Noisy Chilli, E l ö, Kontronatura
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*

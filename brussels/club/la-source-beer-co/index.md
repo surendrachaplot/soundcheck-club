@@ -1,6 +1,6 @@
 # La Source Beer Co
 
-La Source Beer Co is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Reservoir Dub 18 Years Pt 2 w/ Jahmbassador" on Fri, 21 Aug 2026.
+La Source Beer Co is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Reservoir Dub 18 Years Pt 2 w/ Jahmbassador" on Fri, 21 Aug 2026.
 
 La Source Beer Co is a music venue in Brussels listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. Rue Dieudonne Lefevre 4, Brussels, Belgium.
 
@@ -18,4 +18,4 @@ La Source Beer Co is a music venue in Brussels listed on soundcheck. 5 upcoming 
 
 Rue Dieudonne Lefevre 4, Brussels, Belgium, Brussels
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-source-beer-co/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-source-beer-co/)*

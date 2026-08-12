@@ -1,6 +1,6 @@
 # Leenberger
 
-Leenberger is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at fi, Cologne on Sat, 15 Aug 2026.
+Leenberger is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at fi, Cologne on Sat, 15 Aug 2026.
 
 Leenberger is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Mismatch Cologne, sixtimes8 and ALLES ATZIG. Next up: fi, Cologne on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Leenberger is a techno and trance artist based in Germany, tracked on soundcheck
 
 Mismatch Cologne, sixtimes8, ALLES ATZIG
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenberger/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenberger/)*

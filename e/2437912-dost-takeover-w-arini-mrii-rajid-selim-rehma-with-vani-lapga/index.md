@@ -1,6 +1,6 @@
 # DOST Takeover w/ ARINI, Mrii, [rajid selim], REHMA with VANI, Lapgan, rithu, DJ ing, + more at Elsewhere
 
-DOST Takeover w/ ARINI, Mrii, [rajid selim], REHMA with VANI, Lapgan, rithu, DJ ing, + more at Elsewhere on Sat 15 Aug, Newyorkcity. 7 acts on the bill: 444 (1), ARINI, dilhaar and DJ ing and 3 more. Preview the line-up and save it on soundcheck.
+DOST Takeover w/ ARINI, Mrii, [rajid selim], REHMA with VANI, Lapgan, rithu, DJ ing, + more at Elsewhere on Sat 15 Aug, Newyorkcity. 9 acts on the bill: 444 (1), ARINI, Arjun Shah and dilhaar and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,12 @@ DOST Takeover w/ ARINI, Mrii, [rajid selim], REHMA with VANI, Lapgan, rithu, DJ 
 
 - 444 (1)
 - ARINI
+- Arjun Shah
 - dilhaar
 - DJ ing
 - Lapgan
 - Mrii
 - Munasib
+- vikmatic
 
 *Source: [soundcheck](https://soundcheck.club/e/2437912-dost-takeover-w-arini-mrii-rajid-selim-rehma-with-vani-lapga/)*

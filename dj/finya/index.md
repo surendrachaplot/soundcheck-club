@@ -1,6 +1,6 @@
 # FINYA
 
-FINYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
+FINYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
 
 FINYA is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Tokyo. Often billed alongside EMILIO (3), STRATAH and uuu7. Next up: Humboldthain Club, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ FINYA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 EMILIO (3), STRATAH, uuu7
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finya/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finya/)*

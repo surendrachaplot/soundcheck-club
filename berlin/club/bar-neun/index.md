@@ -1,6 +1,6 @@
 # Bar Neun
 
-Bar Neun is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ACID GONE SAUER" on Fri, 14 Aug 2026.
+Bar Neun is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ACID GONE SAUER" on Fri, 14 Aug 2026.
 
 Bar Neun is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alice in Flames, Alonzo, Femdelic and guelay and 2 more. Browse upcoming dates, start times and who's playing. Pücklerstraße 34, 10997 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Bar Neun is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wit
 
 Pücklerstraße 34, 10997 Berlin, Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*

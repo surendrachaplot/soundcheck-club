@@ -1,6 +1,6 @@
 # Clara D
 
-Clara D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Clara D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Clara D is a techno and house artist tracked on soundcheck, with 54 sets logged across Antwerp, Berlin, Brussels and Ghent and 4 more. Often billed alongside Askkin, Initial Code and Azo. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Clara D is a techno and house artist tracked on soundcheck, with 54 sets logged 
 
 Askkin, Initial Code, Azo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*

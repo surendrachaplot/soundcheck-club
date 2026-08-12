@@ -1,6 +1,6 @@
 # DAV3
 
-DAV3 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
+DAV3 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
 
 DAV3 is a techno and tech house artist tracked on soundcheck, with 130 sets logged across Berlin. Often billed alongside ED2000, Bisk and Wiebe Roose. Next up: Bredouille, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ DAV3 is a techno and tech house artist tracked on soundcheck, with 130 sets logg
 
 ED2000, Bisk, Wiebe Roose
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dav3/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dav3/)*

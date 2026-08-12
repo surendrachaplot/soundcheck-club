@@ -1,6 +1,6 @@
 # BRUX (Aus)
 
-BRUX (Aus) is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+BRUX (Aus) is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 BRUX (Aus) is a bass and electronica artist based in Australia, tracked on soundcheck, with 11 sets logged across Denver, London, Losangeles and Newyorkcity and 3 more. Often billed alongside Audem, Badbadnotgood and Breaka. Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BRUX (Aus) is a bass and electronica artist based in Australia, tracked on sound
 
 Audem, Badbadnotgood, Breaka
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*

@@ -1,6 +1,6 @@
 # Miguel Gallardo
 
-Miguel Gallardo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
+Miguel Gallardo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
 
 Miguel Gallardo is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside RAAUL, Raw Phonics and Sasta. Next up: Apollo Studio, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Miguel Gallardo is a house and tech house artist based in United States of Ameri
 
 RAAUL, Raw Phonics, Sasta
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*

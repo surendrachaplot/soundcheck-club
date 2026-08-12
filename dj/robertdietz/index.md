@@ -1,6 +1,6 @@
 # Robert Dietz
 
-Robert Dietz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
+Robert Dietz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
 
 Robert Dietz is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Brussels and London and 2 more. Often billed alongside Atilla the Hvn, Baum and DJ Kilo. Next up: La Terrrazza, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Robert Dietz is a house and techno artist based in Germany, tracked on soundchec
 
 Atilla the Hvn, Baum, DJ Kilo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdietz/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdietz/)*

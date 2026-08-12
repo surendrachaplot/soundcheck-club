@@ -1,6 +1,6 @@
 # Siku pres. Marco Shuttle at Les Enfants Brillants
 
-Siku pres. Marco Shuttle at Les Enfants Brillants on Fri 25 Sept, Barcelona. 3 acts on the bill: Marco Shuttle, Onoffon and Sebastián. Techno and Electro. Preview the line-up and save it on soundcheck.
+Siku pres. Marco Shuttle at Les Enfants Brillants on Fri 25 Sept, Barcelona. 4 acts on the bill: Christian Arcila, Marco Shuttle, Onoffon and Sebastián. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Siku pres. Marco Shuttle at Les Enfants Brillants on Fri 25 Sept, Barcelona. 3 a
 
 ## Line-up
 
+- Christian Arcila
 - Marco Shuttle
 - Onoffon
 - Sebastián

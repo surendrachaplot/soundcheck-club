@@ -1,6 +1,6 @@
 # Racso Renniks
 
-Racso Renniks is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tola, London on Sat, 15 Aug 2026.
+Racso Renniks is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tola, London on Sat, 15 Aug 2026.
 
 Racso Renniks is a house and acid artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Chris Airplays, Noisy Neighbour and Lazy Bones. Next up: Tola, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Racso Renniks is a house and acid artist based in United Kingdom, tracked on sou
 
 Chris Airplays, Noisy Neighbour, Lazy Bones
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/racsorenniks/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/racsorenniks/)*

@@ -1,6 +1,6 @@
 # ÆTHELGON
 
-ÆTHELGON is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 21 Aug 2026.
+ÆTHELGON is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 21 Aug 2026.
 
 ÆTHELGON is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bangkok and Kualalumpur. Often billed alongside Mizuyo, justfin and Axel Groove. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 21 Aug.
 
@@ -19,4 +19,4 @@
 
 Mizuyo, justfin, Axel Groove
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aethelgon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aethelgon/)*

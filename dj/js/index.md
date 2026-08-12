@@ -1,6 +1,6 @@
 # JS
 
-JS is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pastiche, Berlin on Sat, 29 Aug 2026.
+JS is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pastiche, Berlin on Sat, 29 Aug 2026.
 
 JS is an electronica artist tracked on soundcheck, with 4 sets logged across Berlin, London, Montreal and Newyorkcity. Often billed alongside 8ULENTINA, Carnao Beats and Elise Meidell. Next up: Pastiche, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ JS is an electronica artist tracked on soundcheck, with 4 sets logged across Ber
 
 8ULENTINA, Carnao Beats, Elise Meidell
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*

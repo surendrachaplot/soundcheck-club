@@ -1,6 +1,6 @@
 # Theo Cave (2)
 
-Theo Cave (2) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Stage and Radio, Manchester on Sat, 26 Sept 2026.
+Theo Cave (2) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Stage and Radio, Manchester on Sat, 26 Sept 2026.
 
 Theo Cave (2) is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside j:me, Cristi Cons and Isabelle Koci. Next up: Stage and Radio, Manchester on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Theo Cave (2) is a minimal and tech house artist based in United Kingdom, tracke
 
 j:me, Cristi Cons, Isabelle Koci
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theocave-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theocave-2/)*

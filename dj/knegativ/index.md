@@ -1,6 +1,6 @@
 # Knegativ
 
-Knegativ is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mezzanine - Tooting, London on Sat, 29 Aug 2026.
+Knegativ is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mezzanine - Tooting, London on Sat, 29 Aug 2026.
 
 Knegativ is a bass and electronica artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Newyorkcity. Often billed alongside J V N, Darz and Lutsu. Next up: Mezzanine - Tooting, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Knegativ is a bass and electronica artist based in United Kingdom, tracked on so
 
 J V N, Darz, Lutsu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*

@@ -1,6 +1,6 @@
 # Kenny Cordeiro
 
-Kenny Cordeiro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 13 Aug 2026.
+Kenny Cordeiro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 13 Aug 2026.
 
 Kenny Cordeiro is a house and tech house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Losangeles and Sanfrancisco. Often billed alongside HIDRA, DJ Dials and IZIK. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Kenny Cordeiro is a house and tech house artist based in United States of Americ
 
 HIDRA, DJ Dials, IZIK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycordeiro/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycordeiro/)*

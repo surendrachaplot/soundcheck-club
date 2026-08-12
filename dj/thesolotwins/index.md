@@ -1,6 +1,6 @@
 # The Solo Twins
 
-The Solo Twins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 15 Aug 2026.
+The Solo Twins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 The Solo Twins is a house and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Mungo Sound Machine. Next up: Hedge Coffee, Sanfrancisco on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ The Solo Twins is a house and tech house artist based in United States of Americ
 
 Mungo Sound Machine
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesolotwins/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesolotwins/)*

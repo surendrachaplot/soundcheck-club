@@ -1,6 +1,6 @@
 # Piękny Pies
 
-Piękny Pies is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Dark Disko Ponad Wszystko: Jon Show, Meister, Grzechu Warty" on Sat, 15 Aug 2026.
+Piękny Pies is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Dark Disko Ponad Wszystko: Jon Show, Meister, Grzechu Warty" on Sat, 15 Aug 2026.
 
 Piękny Pies is a music venue in Krakow listed on soundcheck. 2 upcoming nights, with line-ups including Abuelita, Adobo (PL), Cosaco and Genosidra and 2 more. Browse upcoming dates, start times and who's playing. plac Wolnica 9, 31-060 Kraków, Poland.
 
@@ -15,4 +15,4 @@ Piękny Pies is a music venue in Krakow listed on soundcheck. 2 upcoming nights,
 
 plac Wolnica 9, 31-060 Kraków, Poland, Krakow
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/pi-kny-pies/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/pi-kny-pies/)*

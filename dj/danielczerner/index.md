@@ -1,6 +1,6 @@
 # Daniel Czerner
 
-Daniel Czerner is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
+Daniel Czerner is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
 
 Daniel Czerner is a minimal techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside Bonjour Ben, Vy Tran and Ana Karla. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Daniel Czerner is a minimal techno and house artist based in Germany, tracked on
 
 Bonjour Ben, Vy Tran, Ana Karla
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielczerner/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielczerner/)*

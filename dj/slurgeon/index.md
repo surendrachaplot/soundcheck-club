@@ -1,6 +1,6 @@
 # Slurgeon
 
-Slurgeon is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Process PDX, Portland on Thu, 3 Sept 2026.
+Slurgeon is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Process PDX, Portland on Thu, 3 Sept 2026.
 
 Slurgeon is a techno and bass artist tracked on soundcheck, with 11 sets logged across Portland. Often billed alongside Natasha Kmeto, Omari Jazz and Sol Elicio. Next up: Process PDX, Portland on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Slurgeon is a techno and bass artist tracked on soundcheck, with 11 sets logged 
 
 Natasha Kmeto, Omari Jazz, Sol Elicio
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slurgeon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slurgeon/)*

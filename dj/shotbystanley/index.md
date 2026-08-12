@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
+shot by stanley is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
 shot by stanley is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Chicago and Munich. Often billed alongside ALXJ, Bombata and Calypsis. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ shot by stanley is a house and techno artist tracked on soundcheck, with 16 sets
 
 ALXJ, Bombata, Calypsis
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

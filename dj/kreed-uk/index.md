@@ -1,14 +1,14 @@
 # KREED.
 
-KREED. is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Shoreditch, exact venue at 3pm on event day, London on Thu, 13 Aug 2026.
+KREED. is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Shoreditch venue announced 3pm on event day, London on Thu, 13 Aug 2026.
 
-KREED. is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 2 more. Often billed alongside Sho (UK), KAZIA and Meeshy. Next up: TBA - Shoreditch, exact venue at 3pm on event day, London on Thu 13 Aug.
+KREED. is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 2 more. Often billed alongside Sho (UK), KAZIA and Meeshy. Next up: TBA - Shoreditch venue announced 3pm on event day, London on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TBA - Shoreditch, exact venue at 3pm on event day | London |
+| Thu, 13 Aug 2026 | TBA - Shoreditch venue announced 3pm on event day | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ KREED. is a minimal and tech house artist based in United Kingdom, tracked on so
 
 Sho (UK), KAZIA, Meeshy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreed-uk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreed-uk/)*

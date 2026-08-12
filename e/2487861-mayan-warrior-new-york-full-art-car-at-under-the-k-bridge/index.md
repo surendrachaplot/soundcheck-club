@@ -1,6 +1,6 @@
 # MAYAN WARRIOR NEW YORK - FULL ART CAR at Under the K Bridge
 
-MAYAN WARRIOR NEW YORK - FULL ART CAR at Under the K Bridge on Sat 15 Aug, Newyorkcity. 3 acts on the bill: Art Department, Carl Craig and Chaim. House and Electronica. Preview the line-up and save it on soundcheck.
+MAYAN WARRIOR NEW YORK - FULL ART CAR at Under the K Bridge on Sat 15 Aug, Newyorkcity. 4 acts on the bill: Art Department, Carl Craig, Chaim and Lauren Ritter. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ MAYAN WARRIOR NEW YORK - FULL ART CAR at Under the K Bridge on Sat 15 Aug, Newyo
 - Art Department
 - Carl Craig
 - Chaim
+- Lauren Ritter
 
 *Source: [soundcheck](https://soundcheck.club/e/2487861-mayan-warrior-new-york-full-art-car-at-under-the-k-bridge/)*

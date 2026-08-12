@@ -1,6 +1,6 @@
 # shanlifiction
 
-shanlifiction is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
+shanlifiction is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
 
 shanlifiction is a techno and drum & bass artist tracked on soundcheck, with 4 sets logged across Stockholm. Often billed alongside OSO (3), DJ Godfather and DJ speedway. Next up: Eventhuset, Stockholm on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ shanlifiction is a techno and drum & bass artist tracked on soundcheck, with 4 s
 
 OSO (3), DJ Godfather, DJ speedway
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanlifiction/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanlifiction/)*

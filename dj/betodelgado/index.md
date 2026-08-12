@@ -1,6 +1,6 @@
 # Beto Delgado
 
-Beto Delgado is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+Beto Delgado is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 Beto Delgado is a progressive house and techno artist tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside KARELBLADE, Ibañez and JOANNA DARK. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Beto Delgado is a progressive house and techno artist tracked on soundcheck, wit
 
 KARELBLADE, Ibañez, JOANNA DARK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betodelgado/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betodelgado/)*

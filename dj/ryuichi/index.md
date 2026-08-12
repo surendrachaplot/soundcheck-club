@@ -1,6 +1,6 @@
 # Ryuichi
 
-Ryuichi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Numm, Tokyo on Thu, 13 Aug 2026.
+Ryuichi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Numm, Tokyo on Thu, 13 Aug 2026.
 
 Ryuichi is a house and disco artist based in Japan, tracked on soundcheck, with 31 sets logged across Losangeles and Tokyo. Often billed alongside KDT, TOYO and sui_rex. Next up: Numm, Tokyo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Ryuichi is a house and disco artist based in Japan, tracked on soundcheck, with 
 
 KDT, TOYO, sui_rex
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichi/)*

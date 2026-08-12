@@ -1,6 +1,6 @@
 # Gino Kampari
 
-Gino Kampari is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Fri, 14 Aug 2026.
+Gino Kampari is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ://about blank, Berlin on Fri, 14 Aug 2026.
 
 Gino Kampari is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Omi on Acid, Jose Puerto and Rhast. Next up: ://about blank, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gino Kampari is a techno and tech house artist tracked on soundcheck, with 12 se
 
 Omi on Acid, Jose Puerto, Rhast
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginokampari/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginokampari/)*

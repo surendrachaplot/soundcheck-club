@@ -1,6 +1,6 @@
 # polyterror
 
-polyterror is a Footwork and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Stereo, Glasgow on Sat, 22 Aug 2026.
+polyterror is a Footwork and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Stereo, Glasgow on Sat, 22 Aug 2026.
 
 polyterror is a footwork and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow and Sheffield. Often billed alongside Craggyland, makaya and xivro. Next up: Stereo, Glasgow on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ polyterror is a footwork and experimental artist based in United Kingdom, tracke
 
 Craggyland, makaya, xivro
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polyterror/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polyterror/)*

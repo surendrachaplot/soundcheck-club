@@ -1,6 +1,6 @@
 # Danny Lethal
 
-Danny Lethal is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Washington DC on Sat, 22 Aug 2026.
+Danny Lethal is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Washington DC on Sat, 22 Aug 2026.
 
 Danny Lethal is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Houston, London and Losangeles and 6 more. Often billed alongside Boomer Banks, Amarji King and Boris. Next up: TBA, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Danny Lethal is a house and tech house artist based in United States of America,
 
 Boomer Banks, Amarji King, Boris
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylethal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylethal/)*

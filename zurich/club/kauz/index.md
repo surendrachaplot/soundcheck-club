@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kauz Strassenfest" on Sat, 15 Aug 2026.
+Kauz is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Kauz Strassenfest" on Sat, 15 Aug 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Alex Kassian, Baerg, dit:eau and fabulus and 2 more. Browse upcoming dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -15,4 +15,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with li
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

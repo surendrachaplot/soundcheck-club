@@ -1,6 +1,6 @@
 # Alexander Technique
 
-Alexander Technique is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Alexander Technique is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Alexander Technique is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Chicago, Detroit and Miami and 2 more. Often billed alongside Destro187, SPEEDŸ and Brent Shay. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Alexander Technique is a techno and house artist based in United States of Ameri
 
 Destro187, SPEEDŸ, Brent Shay
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandertechnique/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandertechnique/)*

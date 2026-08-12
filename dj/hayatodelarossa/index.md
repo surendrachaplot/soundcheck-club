@@ -1,6 +1,6 @@
 # HAYATO DELAROSSA
 
-HAYATO DELAROSSA is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 15 Aug 2026.
+HAYATO DELAROSSA is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 15 Aug 2026.
 
 HAYATO DELAROSSA is a house and club artist tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside Mazlika, Shimpei Watanabe and A to C. Next up: Heavy Sick Zero, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ HAYATO DELAROSSA is a house and club artist tracked on soundcheck, with 16 sets 
 
 Mazlika, Shimpei Watanabe, A to C
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatodelarossa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatodelarossa/)*

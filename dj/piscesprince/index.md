@@ -1,6 +1,6 @@
 # Piscesprince
 
-Piscesprince is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
+Piscesprince is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
 
 Piscesprince is a pop and techno artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, ASTER (DJ) and Angel Arias. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Piscesprince is a pop and techno artist tracked on soundcheck, with 4 sets logge
 
 Robyn DaBank, ASTER (DJ), Angel Arias
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*

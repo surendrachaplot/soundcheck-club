@@ -1,6 +1,6 @@
 # DISMAL? & SCHLACHTAUS: Tarkno, ARRABIATA B2B LYMSA at Virage
 
-DISMAL? & SCHLACHTAUS: Tarkno, ARRABIATA B2B LYMSA at Virage on Wed 19 Aug, Paris. 1 act on the bill: Tarkno. Techno. Preview the line-up and save it on soundcheck.
+DISMAL? & SCHLACHTAUS: Tarkno, ARRABIATA B2B LYMSA at Virage on Wed 19 Aug, Paris. 3 acts on the bill: Alhena_, Artifex (DE) and Tarkno. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ DISMAL? & SCHLACHTAUS: Tarkno, ARRABIATA B2B LYMSA at Virage on Wed 19 Aug, Pari
 
 ## Line-up
 
+- Alhena_
+- Artifex (DE)
 - Tarkno
 
 *Source: [soundcheck](https://soundcheck.club/e/2491636-dismal-schlachtaus-tarkno-arrabiata-b2b-lymsa-at-virage/)*

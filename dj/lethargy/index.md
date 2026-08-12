@@ -1,6 +1,6 @@
 # Lethargy
 
-Lethargy is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Lethargy is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Lethargy is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and erika (SF). Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lethargy is a techno and drum & bass artist based in United States of America, t
 
 sfcowboy, moth (US), erika (SF)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lethargy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lethargy/)*

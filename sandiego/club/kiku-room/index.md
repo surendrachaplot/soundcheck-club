@@ -1,6 +1,6 @@
 # Kiku Room
 
-Kiku Room is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "YOON Day Party: Sinéad & Jack Lester" on Sat, 15 Aug 2026.
+Kiku Room is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "YOON Day Party: Sinéad & Jack Lester" on Sat, 15 Aug 2026.
 
 Kiku Room is a music venue in Sandiego listed on soundcheck. 1 upcoming night, with line-ups including Sinéad. Browse upcoming dates, start times and who's playing. 2812 Kettner Blvd, San Diego, CA 92101, USA.
 
@@ -14,4 +14,4 @@ Kiku Room is a music venue in Sandiego listed on soundcheck. 1 upcoming night, w
 
 2812 Kettner Blvd, San Diego, CA 92101, USA, San Diego
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*

@@ -1,6 +1,6 @@
 # Jezebelle
 
-Jezebelle is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
+Jezebelle is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
 
 Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, London and Saopaulo. Often billed alongside Aquamarine, Izzi and inda Flo. Next up: Ormside Projects, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundc
 
 Aquamarine, Izzi, inda Flo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*

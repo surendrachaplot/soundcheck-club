@@ -1,8 +1,8 @@
 # Ikss
 
-Ikss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+Ikss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
-Ikss is a techno and house artist tracked on soundcheck, with 89 sets logged across Riga. Often billed alongside HP-82, Ksenia Kamikaza and PUPA. Next up: Teritorija, Riga on Fri 14 Aug.
+Ikss is a techno and house artist tracked on soundcheck, with 90 sets logged across Riga. Often billed alongside HP-82, Ksenia Kamikaza and PUPA. Next up: Teritorija, Riga on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ikss is a techno and house artist tracked on soundcheck, with 89 sets logged acr
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Teritorija | Riga |
 | Fri, 21 Aug 2026 | Hartmanis Manor | Riga |
+| Fri, 4 Sept 2026 | Teritorija | Riga |
 | Sat, 19 Sept 2026 | Kaņepes Kultūras Centrs | Riga |
 
 ## Recently played
@@ -27,4 +28,4 @@ Ikss is a techno and house artist tracked on soundcheck, with 89 sets logged acr
 
 HP-82, Ksenia Kamikaza, PUPA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*

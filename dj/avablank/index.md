@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Airliner, Los Angeles on Thu, 13 Aug 2026.
+Ava Blank is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Airliner, Los Angeles on Thu, 13 Aug 2026.
 
 Ava Blank is a house and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: The Airliner, Losangeles on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Ava Blank is a house and club artist based in United States of America, tracked 
 
 Dazegxd, Akumen, Andy Oro
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

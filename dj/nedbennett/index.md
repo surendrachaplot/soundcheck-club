@@ -1,13 +1,14 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ned Bennett is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Neck of the Woods, Auckland on Fri, 25 Sept 2026.
 
-Ned Bennett is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 8 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Ned Bennett is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 9 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Neck of the Woods, Auckland on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Neck of the Woods | Auckland |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
@@ -28,4 +29,4 @@ Ned Bennett is a techno and house artist tracked on soundcheck, with 60 sets log
 
 KSMBA, 6 SENSE, Prizefight
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

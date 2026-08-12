@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ART ELECTRONIC" on Fri, 28 Aug 2026.
+Sala ART is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ART ELECTRONIC" on Fri, 28 Aug 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Carlos Pérez, Costa (2), JAIROSKUN and K-Style. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -17,4 +17,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

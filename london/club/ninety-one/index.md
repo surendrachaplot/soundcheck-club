@@ -1,6 +1,6 @@
 # Ninety One
 
-Ninety One is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Ninety One Presents: Resident DJs" on Sat, 15 Aug 2026.
+Ninety One is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Ninety One Presents: Resident DJs" on Sat, 15 Aug 2026.
 
 Ninety One is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
@@ -17,4 +17,4 @@ Ninety One is a music venue in London listed on soundcheck. 4 upcoming nights. B
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

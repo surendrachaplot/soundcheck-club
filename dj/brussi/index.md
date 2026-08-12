@@ -1,6 +1,6 @@
 # Brussi
 
-Brussi is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
+Brussi is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
 
 Brussi is a tech house and minimal artist tracked on soundcheck, with 10 sets logged across Krakow and Warsaw. Often billed alongside Anna Borsuk, Elvira and Okravan. Next up: B-SIDE, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Brussi is a tech house and minimal artist tracked on soundcheck, with 10 sets lo
 
 Anna Borsuk, Elvira, Okravan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*

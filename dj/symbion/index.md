@@ -1,6 +1,6 @@
 # symbion
 
-symbion is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
+symbion is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
 
 symbion is a trance and house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside elfie, DJ Bumski and DJ Frechdachs. Next up: Humboldthain Club, Berlin on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ symbion is a trance and house artist tracked on soundcheck, with 4 sets logged a
 
 elfie, DJ Bumski, DJ Frechdachs
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbion/)*

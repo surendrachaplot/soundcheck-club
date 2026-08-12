@@ -1,6 +1,6 @@
 # Torsion
 
-Torsion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Torsion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Torsion is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Detroit, Newyorkcity and Paris and 2 more. Often billed alongside Kudeki, RMNA and Neel. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Torsion is a techno and house artist based in United States of America, tracked 
 
 Kudeki, RMNA, Neel
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torsion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torsion/)*

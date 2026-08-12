@@ -1,6 +1,6 @@
 # MENACE 2 MENACE at Mood Ring
 
-MENACE 2 MENACE at Mood Ring on Thu 20 Aug, Newyorkcity. 4 acts on the bill: Madre Guía, Mz3 (1), Rhino Clark and Spam. Preview the line-up and save it on soundcheck.
+MENACE 2 MENACE at Mood Ring on Thu 20 Aug, Newyorkcity. 5 acts on the bill: Clit.hub, Madre Guía, Mz3 (1) and Rhino Clark and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MENACE 2 MENACE at Mood Ring on Thu 20 Aug, Newyorkcity. 4 acts on the bill: Mad
 
 ## Line-up
 
+- Clit.hub
 - Madre Guía
 - Mz3 (1)
 - Rhino Clark

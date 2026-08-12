@@ -1,6 +1,6 @@
 # dj dolares
 
-dj dolares is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
+dj dolares is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
 
 dj dolares is a techno and drum & bass artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Buenosaires, Lisbon and Madrid. Often billed alongside A.Fruit, Alvva and Tiyumii. Next up: Sunseabar Beach Club, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ dj dolares is a techno and drum & bass artist based in Argentina, tracked on sou
 
 A.Fruit, Alvva, Tiyumii
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolares/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolares/)*

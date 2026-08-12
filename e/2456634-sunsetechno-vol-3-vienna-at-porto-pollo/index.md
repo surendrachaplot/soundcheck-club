@@ -1,6 +1,6 @@
 # SunSETechno Vol. 3 Vienna at Porto Pollo
 
-SunSETechno Vol. 3 Vienna at Porto Pollo on Sun 23 Aug, Vienna. 2 acts on the bill: DELIVARY and Fede Frostl. Progressive House. Preview the line-up and save it on soundcheck.
+SunSETechno Vol. 3 Vienna at Porto Pollo on Sun 23 Aug, Vienna. 3 acts on the bill: DELIVARY, Fede Frostl and Mat Schubert. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ SunSETechno Vol. 3 Vienna at Porto Pollo on Sun 23 Aug, Vienna. 2 acts on the bi
 
 - DELIVARY
 - Fede Frostl
+- Mat Schubert
 
 *Source: [soundcheck](https://soundcheck.club/e/2456634-sunsetechno-vol-3-vienna-at-porto-pollo/)*

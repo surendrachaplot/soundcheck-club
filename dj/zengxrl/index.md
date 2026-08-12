@@ -1,6 +1,6 @@
 # Zengxrl
 
-Zengxrl is a Afro Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Onyx (E1), London on Sat, 22 Aug 2026.
+Zengxrl is a Afro Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Onyx (E1), London on Sat, 22 Aug 2026.
 
 Zengxrl is an afro tech and techno artist based in Portugal, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Geneva and Lisbon and 4 more. Often billed alongside Branko, Meg10 and VIL (PT). Next up: Onyx (E1), London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zengxrl is an afro tech and techno artist based in Portugal, tracked on soundche
 
 Branko, Meg10, VIL (PT)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*

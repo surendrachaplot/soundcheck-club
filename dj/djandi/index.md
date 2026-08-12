@@ -1,14 +1,15 @@
 # Andi
 
-Andi is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
+Andi is a Italo Disco and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
 
-Andi is an italo disco and ebm artist tracked on soundcheck, with 211 sets logged across Austin, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Virage, Paris on Fri 21 Aug.
+Andi is an italo disco and ebm artist tracked on soundcheck, with 212 sets logged across Austin, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Virage, Paris on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Virage | Paris |
+| Fri, 16 Oct 2026 | Xanadu | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Andi is an italo disco and ebm artist tracked on soundcheck, with 211 sets logge
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

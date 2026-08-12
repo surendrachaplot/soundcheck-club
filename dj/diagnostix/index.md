@@ -1,6 +1,6 @@
 # Diagnostix
 
-Diagnostix is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Diagnostix is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Diagnostix is a drum & bass and jungle artist tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 15 more. Often billed alongside Carasel, Crossy and Turno. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Diagnostix is a drum & bass and jungle artist tracked on soundcheck, with 48 set
 
 Carasel, Crossy, Turno
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*

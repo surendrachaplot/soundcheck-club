@@ -1,6 +1,6 @@
 # Lzztto
 
-Lzztto is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Moog Club, Barcelona on Thu, 13 Aug 2026.
+Lzztto is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Moog Club, Barcelona on Thu, 13 Aug 2026.
 
 Lzztto is a house and disco artist based in Venezuela, tracked on soundcheck, with 56 sets logged across Barcelona and Madrid. Often billed alongside Katmandü, Viktor Olle and Mr. B. Next up: Moog Club, Barcelona on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Lzztto is a house and disco artist based in Venezuela, tracked on soundcheck, wi
 
 Katmandü, Viktor Olle, Mr. B
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzztto/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzztto/)*

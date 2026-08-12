@@ -1,6 +1,6 @@
 # MUTO (2)
 
-MUTO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+MUTO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
 MUTO (2) is a house and techno artist based in Singapore, tracked on soundcheck, with 34 sets logged across Seoul, Singapore and Tokyo. Often billed alongside Bongomann, Toppings and Daryl Knows. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MUTO (2) is a house and techno artist based in Singapore, tracked on soundcheck,
 
 Bongomann, Toppings, Daryl Knows
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muto-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muto-2/)*

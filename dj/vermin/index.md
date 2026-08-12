@@ -1,6 +1,6 @@
 # VERMIN
 
-VERMIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
+VERMIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
 
 VERMIN is a techno and hardcore artist based in Romania, tracked on soundcheck, with 3 sets logged across Bucharest. Often billed alongside NTHR, BUTCHER BABY and SIX9LOVER. Next up: Nether Club, Bucharest on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ VERMIN is a techno and hardcore artist based in Romania, tracked on soundcheck, 
 
 NTHR, BUTCHER BABY, SIX9LOVER
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermin/)*

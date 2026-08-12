@@ -1,14 +1,15 @@
 # Zepha
 
-Zepha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
+Zepha is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
 
-Zepha is a house and minimal artist tracked on soundcheck, with 31 sets logged across Mexicocity, Montreal and Paris. Often billed alongside Rig Thrall, GOLDEN PINEAPPLE and Claire. Next up: Blue Room, Montreal on Thu 13 Aug.
+Zepha is a house and minimal artist tracked on soundcheck, with 32 sets logged across Mexicocity, Montreal and Paris. Often billed alongside Rig Thrall, Claire and GOLDEN PINEAPPLE. Next up: Blue Room, Montreal on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Blue Room | Montreal |
+| Fri, 21 Aug 2026 | NWHR | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Zepha is a house and minimal artist tracked on soundcheck, with 31 sets logged a
 
 ## Shares bills with
 
-Rig Thrall, GOLDEN PINEAPPLE, Claire
+Rig Thrall, Claire, GOLDEN PINEAPPLE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*

@@ -1,6 +1,6 @@
 # Rocco Arizona
 
-Rocco Arizona is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
+Rocco Arizona is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
 
 Rocco Arizona is a trance and house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside get no, $EITAN777 and DJ Henk. Next up: Humboldthain Club, Berlin on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Rocco Arizona is a trance and house artist tracked on soundcheck, with 4 sets lo
 
 get no, $EITAN777, DJ Henk
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccoarizona/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccoarizona/)*

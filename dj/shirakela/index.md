@@ -1,6 +1,6 @@
 # Shira Kela
 
-Shira Kela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
+Shira Kela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
 
 Shira Kela is a techno and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Munich and Thehague. Often billed alongside Handmade, Bailey Ibbs and Madalba. Next up: Renate, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Shira Kela is a techno and house artist tracked on soundcheck, with 45 sets logg
 
 Handmade, Bailey Ibbs, Madalba
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*

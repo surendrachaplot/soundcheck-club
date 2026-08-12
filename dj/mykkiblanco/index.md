@@ -1,6 +1,6 @@
 # Mykki Blanco
 
-Mykki Blanco is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Beursschouwburg, Brussels on Wed, 28 Oct 2026.
+Mykki Blanco is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Beursschouwburg, Brussels on Wed, 28 Oct 2026.
 
 Mykki Blanco is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Basel, Berlin, Bristol and Brussels and 13 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: Beursschouwburg, Brussels on Wed 28 Oct.
 
@@ -27,4 +27,4 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 
 COBRAH, Olof Dreijer, 2ManyDJs
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*

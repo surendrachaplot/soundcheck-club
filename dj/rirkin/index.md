@@ -1,6 +1,6 @@
 # RIRKIN
 
-RIRKIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spkrbox, Detroit on Wed, 12 Aug 2026.
+RIRKIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Spkrbox, Detroit on Wed, 12 Aug 2026.
 
 RIRKIN is a techno and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Detroit. Often billed alongside BeatLoaf, Jeff Garcia and Carl Bottles. Next up: Spkrbox, Detroit on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ RIRKIN is a techno and house artist based in United States of America, tracked o
 
 BeatLoaf, Jeff Garcia, Carl Bottles
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rirkin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rirkin/)*

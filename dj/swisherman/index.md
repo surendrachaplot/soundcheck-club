@@ -1,6 +1,6 @@
 # swisherman
 
-swisherman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
+swisherman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
 
 swisherman is a techno and bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Lopro, Pinz and Quakes. Next up: Chinese Laundry, Sydney on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ swisherman is a techno and bass artist based in Australia, tracked on soundcheck
 
 Lopro, Pinz, Quakes
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*

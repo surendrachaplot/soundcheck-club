@@ -1,6 +1,6 @@
 # Elvira
 
-Elvira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Elvira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Elvira is a house and techno artist based in Poland, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Frankfurt and Ghent and 6 more. Often billed alongside Samogulov, zenwerk and Bohan. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Elvira is a house and techno artist based in Poland, tracked on soundcheck, with
 
 Samogulov, zenwerk, Bohan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*

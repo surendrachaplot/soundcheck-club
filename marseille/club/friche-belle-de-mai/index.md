@@ -1,6 +1,6 @@
 # Friche Belle de Mai
 
-Friche Belle de Mai is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "UTOPIA FESTIVAL - TOME VI" on Fri, 25 Sept 2026.
+Friche Belle de Mai is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "UTOPIA FESTIVAL - TOME VI" on Fri, 25 Sept 2026.
 
 Friche Belle de Mai is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Justine Perry, Alycia Bezgo, Colin Benders and EARGASM GOD and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin 13003 Marseille.
 
@@ -14,4 +14,4 @@ Friche Belle de Mai is a music venue in Marseille listed on soundcheck. 1 upcomi
 
 41 rue Jobin 13003 Marseille, Marseille
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/friche-belle-de-mai/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/friche-belle-de-mai/)*

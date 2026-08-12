@@ -1,6 +1,6 @@
 # Cat Club
 
-Cat Club is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "New Wave City" on Sat, 15 Aug 2026.
+Cat Club is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "New Wave City" on Sat, 15 Aug 2026.
 
 Cat Club is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Adriana A and Jupiter Gatling. Browse upcoming dates, start times and who's playing. 1190 Folsom St, San Francisco, CA 94103, United States.
 
@@ -16,4 +16,4 @@ Cat Club is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming night
 
 1190 Folsom St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*

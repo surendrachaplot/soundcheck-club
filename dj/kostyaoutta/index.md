@@ -1,6 +1,6 @@
 # Kostya Outta
 
-Kostya Outta is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Kostya Outta is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
 Kostya Outta is a progressive house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Madrid, Malaga and Milan and 7 more. Often billed alongside Alísha, Angelo Mike and Bryan Wolf Ear. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kostya Outta is a progressive house and techno artist tracked on soundcheck, wit
 
 Alísha, Angelo Mike, Bryan Wolf Ear
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*

@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Friends & Lovers, New York City on Fri, 14 Aug 2026.
+Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Friends & Lovers, New York City on Fri, 14 Aug 2026.
 
 Matthew Law is a house and club artist based in United States of America, tracked on soundcheck, with 56 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Khalil, DJ Dommis and Jabair. Next up: Friends & Lovers, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Matthew Law is a house and club artist based in United States of America, tracke
 
 Khalil, DJ Dommis, Jabair
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Deborah De Luca" on Fri, 28 Aug 2026.
+Kaufleuten is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Deborah De Luca" on Fri, 28 Aug 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Bedouin and Deborah De Luca. Browse upcoming dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming nights, w
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

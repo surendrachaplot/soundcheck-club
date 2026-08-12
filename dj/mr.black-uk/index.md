@@ -1,6 +1,6 @@
 # Mr.Black (UK)
 
-Mr.Black (UK) is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Mr.Black (UK) is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Mr.Black (UK) is a psytrance and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Cologne, London and Tokyo. Often billed alongside DELTA LABS, Enaly and Gourski. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Mr.Black (UK) is a psytrance and techno artist based in United Kingdom, tracked 
 
 DELTA LABS, Enaly, Gourski
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.black-uk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.black-uk/)*

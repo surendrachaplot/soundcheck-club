@@ -1,6 +1,6 @@
 # Lars Heer
 
-Lars Heer is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Brandenburger Tor, Berlin on Sat, 15 Aug 2026.
+Lars Heer is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Brandenburger Tor, Berlin on Sat, 15 Aug 2026.
 
 Lars Heer is a bass and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Andree Wischnewski, Grace Thompson and Lale Hepborn. Next up: Brandenburger Tor, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Lars Heer is a bass and techno artist based in Germany, tracked on soundcheck, w
 
 Andree Wischnewski, Grace Thompson, Lale Hepborn
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larsheer/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larsheer/)*

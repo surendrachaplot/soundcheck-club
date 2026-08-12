@@ -1,8 +1,8 @@
 # Yollks
 
-Yollks is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
+Yollks is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
 
-Yollks is a techno and bass artist based in Australia, tracked on soundcheck, with 50 sets logged across Hobart, London, Melbourne and Sydney. Often billed alongside House Mum, Monfreaq and BDE. Next up: New Guernica, Melbourne on Fri 21 Aug.
+Yollks is a techno and bass artist based in Australia, tracked on soundcheck, with 51 sets logged across Hobart, London, Melbourne and Sydney. Often billed alongside House Mum, BDE and Monfreaq. Next up: New Guernica, Melbourne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yollks is a techno and bass artist based in Australia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | New Guernica | Melbourne |
 | Fri, 28 Aug 2026 | Revolver Upstairs | Melbourne |
+| Sat, 12 Sept 2026 | TBA - Inner North Location | Melbourne |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Yollks is a techno and bass artist based in Australia, tracked on soundcheck, wi
 
 ## Shares bills with
 
-House Mum, Monfreaq, BDE
+House Mum, BDE, Monfreaq
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*

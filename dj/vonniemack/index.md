@@ -1,6 +1,6 @@
 # Vonnie Mack
 
-Vonnie Mack is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Bain, New York City on Wed, 12 Aug 2026.
+Vonnie Mack is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Le Bain, New York City on Wed, 12 Aug 2026.
 
 Vonnie Mack is a hip-hop and afro house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Tim Fields, Ayanna Heaven and DOUG. Next up: Le Bain, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Vonnie Mack is a hip-hop and afro house artist based in United States of America
 
 Tim Fields, Ayanna Heaven, DOUG
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonniemack/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonniemack/)*

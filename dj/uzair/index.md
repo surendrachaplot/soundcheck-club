@@ -1,6 +1,6 @@
 # Uzair
 
-Uzair is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at fono, Kuala Lumpur on Fri, 14 Aug 2026.
+Uzair is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at fono, Kuala Lumpur on Fri, 14 Aug 2026.
 
 Uzair is a bass and breakbeat artist tracked on soundcheck, with 5 sets logged across Amsterdam and Kualalumpur. Often billed alongside Alam, Amir and Festen. Next up: fono, Kualalumpur on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Uzair is a bass and breakbeat artist tracked on soundcheck, with 5 sets logged a
 
 Alam, Amir, Festen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uzair/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uzair/)*

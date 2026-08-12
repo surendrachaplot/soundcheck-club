@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Bedstuy Loft, New York City on Fri, 14 Aug 2026.
+a.gar is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Bedstuy Loft, New York City on Fri, 14 Aug 2026.
 
 a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Pablo Vitale, AJACENT and shirlz. Next up: TBA - Secret Bedstuy Loft, Newyorkcity on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyor
 
 Pablo Vitale, AJACENT, shirlz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

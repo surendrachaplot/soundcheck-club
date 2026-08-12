@@ -1,14 +1,13 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Zsiráf, Budapest on Thu, 13 Aug 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Obudai Island, Budapest on Tue 11 Aug.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Zsiráf, Budapest on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Thu, 13 Aug 2026 | Zsiráf | Budapest |
 | Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 29 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
@@ -21,6 +20,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets lo
 
 ## Recently played
 
+- Obudai Island, Budapest — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
 - Castelo de Sesimbra, Lisbon — Fri, 17 Jul 2026
@@ -28,10 +28,9 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets lo
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 19 Jun 2026
 - Hï Ibiza, Ibiza — Thu, 18 Jun 2026
 - Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 13 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 23 May 2026
 
 ## Shares bills with
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

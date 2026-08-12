@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ANALOGIA beach: a Rave del Gat tribute - FREE BEACH PARTY" on Sat, 15 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ANALOGIA beach: a Rave del Gat tribute - FREE BEACH PARTY" on Sat, 15 Aug 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Alphanova, Babo, Bill Hates and Dolorosa and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -17,4 +17,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 4 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

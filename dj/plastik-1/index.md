@@ -1,6 +1,6 @@
 # Plastik (1)
 
-Plastik (1) is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sekta Selekta, Krakow on Fri, 14 Aug 2026.
+Plastik (1) is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sekta Selekta, Krakow on Fri, 14 Aug 2026.
 
 Plastik (1) is an electro and minimal artist tracked on soundcheck, with 45 sets logged across Hamburg, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Shjva, Samogulov and Pridi. Next up: Sekta Selekta, Krakow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Plastik (1) is an electro and minimal artist tracked on soundcheck, with 45 sets
 
 Shjva, Samogulov, Pridi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plastik-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plastik-1/)*

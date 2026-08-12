@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Oh Eight presents: The Exchange,  Lisbon × London" on Sat, 22 Aug 2026.
+Onyx (E1) is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Oh Eight presents: The Exchange,  Lisbon × London" on Sat, 22 Aug 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including 40D (Dj), DJ IC, Duat and Eva Banks and 2 more. Browse upcoming dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -19,4 +19,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 6 upcoming nights, wi
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

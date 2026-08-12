@@ -1,6 +1,6 @@
 # Yadava
 
-Yadava is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Shrimp, Manchester on Sat, 15 Aug 2026.
+Yadava is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Shrimp, Manchester on Sat, 15 Aug 2026.
 
 Yadava is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Manchester and Rotterdam. Often billed alongside Danuka, Admin and Contours. Next up: Bar Shrimp, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Yadava is a disco and funk / soul artist based in United Kingdom, tracked on sou
 
 Danuka, Admin, Contours
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yadava/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yadava/)*

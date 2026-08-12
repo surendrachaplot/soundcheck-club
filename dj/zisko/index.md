@@ -1,6 +1,6 @@
 # Zisko
 
-Zisko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 15 Aug 2026.
+Zisko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 15 Aug 2026.
 
 Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Zisko is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Blasha & Allatt, Marcal, Ogazón
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*

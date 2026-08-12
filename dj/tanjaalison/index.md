@@ -1,6 +1,6 @@
 # Tanja Alison
 
-Tanja Alison is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
+Tanja Alison is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
 
 Tanja Alison is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Basel, Berlin, Stuttgart and Zurich. Often billed alongside Galopp, KYLIE and Megix. Next up: Nordstern, Basel on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tanja Alison is a techno and house artist based in Germany, tracked on soundchec
 
 Galopp, KYLIE, Megix
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaalison/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaalison/)*

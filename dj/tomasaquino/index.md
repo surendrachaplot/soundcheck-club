@@ -1,6 +1,6 @@
 # Tomas Aquino
 
-Tomas Aquino is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
+Tomas Aquino is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
 
 Tomas Aquino is a house and tech house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside BRU ON, IVAN POSEIDON and juliboe. Next up: La Terrrazza, Barcelona on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Tomas Aquino is a house and tech house artist based in Argentina, tracked on sou
 
 BRU ON, IVAN POSEIDON, juliboe
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasaquino/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasaquino/)*

@@ -1,13 +1,14 @@
 # match.a.mor
 
-match.a.mor is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at EQ San Diego, San Diego on Fri, 2 Oct 2026.
+match.a.mor is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Spin, San Diego on Fri, 14 Aug 2026.
 
-match.a.mor is a house and bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sandiego. Often billed alongside Codak, MNTRA and AB3D. Next up: EQ San Diego, Sandiego on Fri 2 Oct.
+match.a.mor is a house and bass artist based in United States of America, tracked on soundcheck, with 12 sets logged across Sandiego. Often billed alongside Codak, MNTRA and AB3D. Next up: Spin, Sandiego on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Spin | San Diego |
 | Fri, 2 Oct 2026 | EQ San Diego | San Diego |
 
 ## Recently played
@@ -25,4 +26,4 @@ match.a.mor is a house and bass artist based in United States of America, tracke
 
 Codak, MNTRA, AB3D
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/match.a.mor/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/match.a.mor/)*

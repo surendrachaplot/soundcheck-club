@@ -1,6 +1,6 @@
 # Pabel
 
-Pabel is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
+Pabel is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
 
 Pabel is a house and italo disco artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Milan. Often billed alongside Joshua Liebe, Wolperdinger and LANA:YEN. Next up: Jonny Knüppel, Berlin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Pabel is a house and italo disco artist based in Germany, tracked on soundcheck,
 
 Joshua Liebe, Wolperdinger, LANA:YEN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabel/)*

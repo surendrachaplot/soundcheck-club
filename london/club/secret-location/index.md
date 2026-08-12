@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Moon Society present Open Air" on Fri, 14 Aug 2026.
+Secret Location is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Moon Society present Open Air" on Fri, 14 Aug 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Alec Falconer, CORP (IRE), Cricky Lyttle and Keeva G and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -16,4 +16,4 @@ Secret Location is a music venue in London listed on soundcheck. 3 upcoming nigh
 
 To Be Announced, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

@@ -1,6 +1,6 @@
 # DATA RYDER
 
-DATA RYDER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
+DATA RYDER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
 
 DATA RYDER is a techno and house artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin, Cork, Dublin and Galway and 1 more. Often billed alongside JWY (1), BK86 and Cailín. Next up: Crate Brewery, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DATA RYDER is a techno and house artist based in Ireland, tracked on soundcheck,
 
 JWY (1), BK86, Cailín
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*

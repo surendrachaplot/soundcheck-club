@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL" on Wed, 12 Aug 2026.
+nachbar is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL" on Wed, 12 Aug 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including 36framez, 7AZ (1), AEZARYA and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, 
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

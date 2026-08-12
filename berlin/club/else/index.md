@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Else x Hotlord Fest presented by LOVEFOXY" on Fri, 14 Aug 2026.
+Else is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Else x Hotlord Fest presented by LOVEFOXY" on Fri, 14 Aug 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including ALCATRAZ, Alex Kassian, Amanda Mussi and Anaté and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

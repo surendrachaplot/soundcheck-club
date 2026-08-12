@@ -1,6 +1,6 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+P.O.U is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
 P.O.U is a techno and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Nathassia. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ P.O.U is a techno and tech house artist tracked on soundcheck, with 26 sets logg
 
 Ginchy, Desyfer, Nathassia
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

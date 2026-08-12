@@ -1,6 +1,6 @@
 # Craig Alexander
 
-Craig Alexander is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Le Nocturne, Chicago on Sat, 15 Aug 2026.
+Craig Alexander is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Le Nocturne, Chicago on Sat, 15 Aug 2026.
 
 Craig Alexander is a house and deep house artist tracked on soundcheck, with 9 sets logged across Chicago and Detroit. Often billed alongside Adorio, DJ Rush and Gene Hunt. Next up: Le Nocturne, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Craig Alexander is a house and deep house artist tracked on soundcheck, with 9 s
 
 Adorio, DJ Rush, Gene Hunt
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigalexander/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigalexander/)*

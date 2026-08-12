@@ -1,14 +1,13 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 21 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "MÖKINA x Trance Italy (MALTA)" on Tue, 11 Aug 2026.
+Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "BLITZ - OBLX BDAY BASH 2026" on Sun, 16 Aug 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | MÖKINA x Trance Italy (MALTA) | CHVZ, DOCTOR MÜCKE, EDJM, FØBIA, MAMO (2), Thibo Verbeke |
 | Sun, 16 Aug 2026 | BLITZ - OBLX BDAY BASH 2026 | FIASKA, Joshua Calleja, NOOG, OBLX, iNK MT |
 | Fri, 21 Aug 2026 | BRAVE at Liquid - TBC |  |
 | Fri, 21 Aug 2026 | HARD NIGHT IN MALTA |  |
@@ -18,9 +17,10 @@ Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, 
 | Fri, 4 Sept 2026 | 77CELLAR: Ashibane, Molario, Uma Scheffer, P RISCO | Ashibane, Molario, P RISCO, Uma Scheffer |
 | Fri, 4 Sept 2026 | DJ Dextro | DJ Dextro, Echofaze, ØZZY |
 | Sat, 5 Sept 2026 | UTOPIA - B2B EDITION | Dicentra, Idealist (2), Naomi Baldacchino, Tntna, chouhal |
+| Sat, 5 Sept 2026 | Analogical Force x Frekwenzi | James Shinra, Mutex, Sound synthesis (2) |
 
 ## Address
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

@@ -1,8 +1,8 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+Tripolism is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
 
-Tripolism is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: SAGE, Berlin on Sat 15 Aug.
+Tripolism is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: SAGE, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tripolism is a house and techno artist tracked on soundcheck, with 72 sets logge
 | Mon, 31 Aug 2026 | Amok Club | Mallorca |
 | Tue, 8 Sept 2026 | Scorpios | Mykonos |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
+| Fri, 2 Oct 2026 | Wollman Rink | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 72 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

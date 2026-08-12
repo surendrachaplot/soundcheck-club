@@ -1,6 +1,6 @@
 # Delay Grounds
 
-Delay Grounds is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
+Delay Grounds is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
 
 Delay Grounds is a techno and bass artist tracked on soundcheck, with 21 sets logged across Bristol, Leeds and London. Often billed alongside carmen (7), Djuar and Paul McManamon. Next up: radial, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Delay Grounds is a techno and bass artist tracked on soundcheck, with 21 sets lo
 
 carmen (7), Djuar, Paul McManamon
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*

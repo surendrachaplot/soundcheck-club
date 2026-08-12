@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kollektiv Nachtkerze: Winke Winke - Ein Tanz durch die Zeit" on Sat, 15 Aug 2026.
+Jonny Knüppel is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Kollektiv Nachtkerze: Winke Winke - Ein Tanz durch die Zeit" on Sat, 15 Aug 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including AAMIROO, Aber DJ, alemiko and Alex Grebe and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -17,4 +17,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

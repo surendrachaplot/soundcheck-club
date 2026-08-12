@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Joint x Pager x Tokonoma" on Sat, 15 Aug 2026.
+Tokonoma Club is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "The Joint x Pager x Tokonoma" on Sat, 15 Aug 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Bodin, Chez Damier, DJ ASS TITS and LUXE and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -15,4 +15,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming nig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

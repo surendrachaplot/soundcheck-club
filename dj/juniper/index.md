@@ -1,6 +1,6 @@
 # Juniper
 
-Juniper is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Oriente, Mexico City on Thu, 13 Aug 2026.
+Juniper is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Oriente, Mexico City on Thu, 13 Aug 2026.
 
 Juniper is a house artist tracked on soundcheck, with 3 sets logged across Amsterdam and Mexicocity. Often billed alongside AVILA, Cobahn and Jephta. Next up: Bar Oriente, Mexicocity on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ Juniper is a house artist tracked on soundcheck, with 3 sets logged across Amste
 
 AVILA, Cobahn, Jephta
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniper/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniper/)*

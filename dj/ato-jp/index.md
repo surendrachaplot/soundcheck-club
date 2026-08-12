@@ -1,6 +1,6 @@
 # ato夢
 
-ato夢 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nakano Heavysick Zero, Tokyo on Sun, 16 Aug 2026.
+ato夢 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Nakano Heavysick Zero, Tokyo on Sun, 16 Aug 2026.
 
 ato夢 is a techno and experimental artist based in Japan, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside Tetsuya Fukada, deadfish eyes and Dana Ollestad. Next up: Nakano Heavysick Zero, Tokyo on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ ato夢 is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Tetsuya Fukada, deadfish eyes, Dana Ollestad
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*

@@ -1,14 +1,13 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
+Robbie Doherty is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Hï Ibiza, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,9 +19,11 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 
 | Fri, 25 Sept 2026 | SWG3 | Glasgow |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 11 Aug 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 9 Aug 2026
 - BRET, Amsterdam — Sat, 8 Aug 2026
 - Binks Yard, Nottingham — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 
 - Bronze Beach, Amsterdam — Sun, 26 Jul 2026
 - Cova Santa, Ibiza — Tue, 21 Jul 2026
 - Cova Santa, Ibiza — Mon, 13 Jul 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

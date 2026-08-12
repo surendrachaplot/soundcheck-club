@@ -1,6 +1,6 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
+FITS ME FUNNY is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
 
 FITS ME FUNNY is a techno and house artist tracked on soundcheck, with 51 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Starlane Pizza Bar, London on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ FITS ME FUNNY is a techno and house artist tracked on soundcheck, with 51 sets l
 
 ANLON, DJ VALENTINE, Emile
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*

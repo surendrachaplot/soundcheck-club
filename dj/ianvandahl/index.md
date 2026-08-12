@@ -1,6 +1,6 @@
 # Ian Van Dahl
 
-Ian Van Dahl is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Savoy, Glasgow on Sat, 31 Oct 2026.
+Ian Van Dahl is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Savoy, Glasgow on Sat, 31 Oct 2026.
 
 Ian Van Dahl is a trance and club artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Aberdeen, Glasgow, Ibiza and Liverpool and 1 more. Often billed alongside Ultrabeat, DJ Zitkus and Joe Deacon. Next up: Savoy, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ian Van Dahl is a trance and club artist based in United Kingdom, tracked on sou
 
 Ultrabeat, DJ Zitkus, Joe Deacon
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianvandahl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianvandahl/)*

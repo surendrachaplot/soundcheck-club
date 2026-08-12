@@ -1,6 +1,6 @@
 # Alex Dallas
 
-Alex Dallas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Alex Dallas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 Alex Dallas is an electronica and house artist tracked on soundcheck, with 67 sets logged across Berlin, Mykonos and Zurich. Often billed alongside Kalabrese, Manuel Fischer and Jenny Cara. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alex Dallas is an electronica and house artist tracked on soundcheck, with 67 se
 
 Kalabrese, Manuel Fischer, Jenny Cara
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*

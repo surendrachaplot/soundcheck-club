@@ -1,6 +1,6 @@
 # Chameleonas
 
-Chameleonas is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at EartH, London on Sat, 15 Aug 2026.
+Chameleonas is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at EartH, London on Sat, 15 Aug 2026.
 
 Chameleonas is an electronica and jazz artist based in Lithuania, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Bena, Emanuel Pavlova and Bushbby. Next up: EartH, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Chameleonas is an electronica and jazz artist based in Lithuania, tracked on sou
 
 Bena, Emanuel Pavlova, Bushbby
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*

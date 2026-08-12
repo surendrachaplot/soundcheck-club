@@ -1,14 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
+East End Dubs is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 14 Aug 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Pacha Ibiza, Ibiza on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 271 s
 | Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
+| Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 11 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 271 s
 - Colorado Charlie, The Hague — Sun, 2 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 29 Jul 2026
-- Hï Ibiza, Ibiza — Tue, 28 Jul 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

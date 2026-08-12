@@ -1,14 +1,14 @@
 # Kryptonicadjs
 
-Kryptonicadjs is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Kryptofabbrikk The Lab, Via Circonvallazione Idroscalo, 51, 20054 Novegro-Tregarezzo MI, Italy, Berlin on Sat, 17 Oct 2026.
+Kryptonicadjs is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kryptofabbrikk The Lab, Berlin on Sat, 17 Oct 2026.
 
-Kryptonicadjs is a minimal and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin and Milan. Often billed alongside Andrefabbrikk DJ. Next up: TBA - Kryptofabbrikk The Lab, Via Circonvallazione Idroscalo, 51, 20054 Novegro-Tregarezzo MI, Italy, Berlin on Sat 17 Oct.
+Kryptonicadjs is a minimal and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin and Milan. Often billed alongside Andrefabbrikk DJ. Next up: Kryptofabbrikk The Lab, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Kryptofabbrikk The Lab, Via Circonvallazione Idroscalo, 51, 20054 Novegro-Tregarezzo MI, Italy | Berlin |
+| Sat, 17 Oct 2026 | Kryptofabbrikk The Lab | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Kryptonicadjs is a minimal and tech house artist based in Italy, tracked on soun
 
 Andrefabbrikk DJ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptonicadjs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptonicadjs/)*

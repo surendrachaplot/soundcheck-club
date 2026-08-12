@@ -1,13 +1,14 @@
 # Creep Woland
 
-Creep Woland is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 23 Aug 2026.
+Creep Woland is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at West Port Oracle, Edinburgh on Sun, 16 Aug 2026.
 
-Creep Woland is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Skillis, Feena and LWS. Next up: Sneaky Pete's, Edinburgh on Sun 23 Aug.
+Creep Woland is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Skillis, Feena and LWS. Next up: West Port Oracle, Edinburgh on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | West Port Oracle | Edinburgh |
 | Sun, 23 Aug 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Creep Woland is a techno and bass artist based in United Kingdom, tracked on sou
 
 Skillis, Feena, LWS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creepwoland/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creepwoland/)*

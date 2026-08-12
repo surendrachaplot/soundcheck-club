@@ -1,6 +1,6 @@
 # Field Notes DJs
 
-Field Notes DJs is a Acid and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
+Field Notes DJs is a Acid and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
 
 Field Notes DJs is an acid and electronica artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Richii. Next up: The Carpet Shop, London on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Field Notes DJs is an acid and electronica artist tracked on soundcheck, with 31
 
 Sound Metaphors Djs, Alicia Carrera, Richii
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

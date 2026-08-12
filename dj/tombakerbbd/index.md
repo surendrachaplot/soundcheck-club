@@ -1,6 +1,6 @@
 # Tom Baker (AU)
 
-Tom Baker (AU) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
+Tom Baker (AU) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
 
 Tom Baker (AU) is a techno and bass artist based in Australia, tracked on soundcheck, with 7 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Doppel, Dylan Griffin and Ebony Willis. Next up: TBA, Sydney on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Tom Baker (AU) is a techno and bass artist based in Australia, tracked on soundc
 
 Doppel, Dylan Griffin, Ebony Willis
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakerbbd/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakerbbd/)*

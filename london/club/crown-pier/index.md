@@ -1,6 +1,6 @@
 # Crown Pier
 
-Crown Pier is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Scald presents: On The Sea 2026 // London Boat Party // The Last Ride" on Sat, 15 Aug 2026.
+Crown Pier is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Scald presents: On The Sea 2026 // London Boat Party // The Last Ride" on Sat, 15 Aug 2026.
 
 Crown Pier is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alfredo Romero, BämBäm, Eddie Van Poppel and EMROSE and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
 
@@ -21,4 +21,4 @@ Crown Pier is a music venue in London listed on soundcheck. 8 upcoming nights, w
 
 Victoria Embankment, London EC4Y 0HJ, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crown-pier/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crown-pier/)*

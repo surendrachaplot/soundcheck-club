@@ -1,6 +1,6 @@
 # Annabel's Music Hall
 
-Annabel's Music Hall is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Full Crate" on Thu, 20 Aug 2026.
+Annabel's Music Hall is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Full Crate" on Thu, 20 Aug 2026.
 
 Annabel's Music Hall is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 200 Princes' Blvd, Toronto, ON M6K 3C3.
 
@@ -14,4 +14,4 @@ Annabel's Music Hall is a music venue in Toronto listed on soundcheck. 1 upcomin
 
 200 Princes' Blvd, Toronto, ON M6K 3C3, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/annabel-s-music-hall/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/annabel-s-music-hall/)*

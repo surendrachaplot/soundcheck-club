@@ -1,6 +1,6 @@
 # Woke Brian & Friends: s.c.k, sanatswrld, Eddy K at Jupiter Disco
 
-Woke Brian & Friends: s.c.k, sanatswrld, Eddy K at Jupiter Disco on Wed 12 Aug, Newyorkcity. 3 acts on the bill: Sanat, sanatswrld and Woke Brian. Preview the line-up and save it on soundcheck.
+Woke Brian & Friends: s.c.k, sanatswrld, Eddy K at Jupiter Disco on Wed 12 Aug, Newyorkcity. 4 acts on the bill: Eddy K, Sanat, sanatswrld and Woke Brian. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Woke Brian & Friends: s.c.k, sanatswrld, Eddy K at Jupiter Disco on Wed 12 Aug, 
 
 ## Line-up
 
+- Eddy K
 - Sanat
 - sanatswrld
 - Woke Brian

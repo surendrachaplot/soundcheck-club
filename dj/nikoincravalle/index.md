@@ -1,6 +1,6 @@
 # NIKO INCRAVALLE
 
-NIKO INCRAVALLE is a Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
+NIKO INCRAVALLE is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
 
 NIKO INCRAVALLE is a techno artist tracked on soundcheck, with 22 sets logged across Berlin and Ibiza. Often billed alongside Maschine, Bisk and BioTec -official-. Next up: Der Weiße Hase, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ NIKO INCRAVALLE is a techno artist tracked on soundcheck, with 22 sets logged ac
 
 Maschine, Bisk, BioTec -official-
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*

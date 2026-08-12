@@ -1,6 +1,6 @@
 # Osmo
 
-Osmo is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Noce KRK, Krakow on Sat, 15 Aug 2026.
+Osmo is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Noce KRK, Krakow on Sat, 15 Aug 2026.
 
 Osmo is a drum & bass and bass artist tracked on soundcheck, with 2 sets logged across Krakow. Often billed alongside Halosha, Aetha and C Razey. Next up: Noce KRK, Krakow on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Osmo is a drum & bass and bass artist tracked on soundcheck, with 2 sets logged 
 
 Halosha, Aetha, C Razey
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osmo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osmo/)*

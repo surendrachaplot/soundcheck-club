@@ -1,6 +1,6 @@
 # Mindspray
 
-Mindspray is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Quest, Seoul on Sun, 16 Aug 2026.
+Mindspray is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Quest, Seoul on Sun, 16 Aug 2026.
 
 Mindspray is a club and bass artist based in South Korea, tracked on soundcheck, with 19 sets logged across Seoul. Often billed alongside DJ Soulscape, ANDOW and JADA MORAES. Next up: Quest, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Mindspray is a club and bass artist based in South Korea, tracked on soundcheck,
 
 DJ Soulscape, ANDOW, JADA MORAES
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindspray/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindspray/)*

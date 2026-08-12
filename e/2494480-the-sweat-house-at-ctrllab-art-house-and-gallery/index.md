@@ -1,6 +1,6 @@
 # The Sweat House at Ctrllab Art House and Gallery
 
-The Sweat House at Ctrllab Art House and Gallery on Fri 21 Aug, Montreal. 1 act on the bill: P3CO. Trance and Techno. Preview the line-up and save it on soundcheck.
+The Sweat House at Ctrllab Art House and Gallery on Fri 21 Aug, Montreal. 2 acts on the bill: EMN (1) and P3CO. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Sweat House at Ctrllab Art House and Gallery on Fri 21 Aug, Montreal. 1 act 
 
 ## Line-up
 
+- EMN (1)
 - P3CO
 
 *Source: [soundcheck](https://soundcheck.club/e/2494480-the-sweat-house-at-ctrllab-art-house-and-gallery/)*

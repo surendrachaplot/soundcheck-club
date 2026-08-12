@@ -1,6 +1,6 @@
 # Kneaku
 
-Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 29 Aug 2026.
+Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 29 Aug 2026.
 
 Kneaku is a club and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside DJ Shannon, Madre Guía and Bodegaparty. Next up: Loafers Cocktail Bar, Newyorkcity on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Kneaku is a club and techno artist based in United States of America, tracked on
 
 DJ Shannon, Madre Guía, Bodegaparty
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*

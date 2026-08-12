@@ -1,6 +1,6 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
+Jude Lenihan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
 
 Jude Lenihan is a house and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Starlane Pizza Bar, London on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Jude Lenihan is a house and tech house artist tracked on soundcheck, with 49 set
 
 Benji King, Phill de Janeiro, j:me
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*

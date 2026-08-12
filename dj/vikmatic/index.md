@@ -1,13 +1,14 @@
 # vikmatic
 
-vikmatic is a Disco and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Danger Danger, New York City on Fri, 21 Aug 2026.
+vikmatic is a Disco and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
-vikmatic is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside funkin donut, ራሄል (Rachel) and Arjun Shah. Next up: Danger Danger, Newyorkcity on Fri 21 Aug.
+vikmatic is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Arjun Shah, funkin donut and ራሄል (Rachel). Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Elsewhere | New York City |
 | Fri, 21 Aug 2026 | Danger Danger | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ vikmatic is a disco and afrobeat artist based in United States of America, track
 
 ## Shares bills with
 
-funkin donut, ራሄል (Rachel), Arjun Shah
+Arjun Shah, funkin donut, ራሄል (Rachel)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vikmatic/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vikmatic/)*

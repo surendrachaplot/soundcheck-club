@@ -1,6 +1,6 @@
 # Melle
 
-Melle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
+Melle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
 
 Melle is a techno and trance artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Bangkok and Vienna. Often billed alongside Joey (2), Charnaux and Crystal O. Next up: Das Werk, Vienna on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Melle is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 Joey (2), Charnaux, Crystal O
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melle/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melle/)*

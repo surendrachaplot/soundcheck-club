@@ -1,6 +1,6 @@
 # Quirin (DE)
 
-Quirin (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Quirin (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Addie Manson, Danca and LFES. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Addie Manson, Danca, LFES
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*

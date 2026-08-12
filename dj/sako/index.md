@@ -1,6 +1,6 @@
 # SAKO
 
-SAKO is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
+SAKO is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
 
 SAKO is a drum & bass and bass artist tracked on soundcheck, with 101 sets logged across Montreal, Osaka and Tokyo. Often billed alongside MOOTOE, ATAMI and Altemica. Next up: Système, Montreal on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ SAKO is a drum & bass and bass artist tracked on soundcheck, with 101 sets logge
 
 MOOTOE, ATAMI, Altemica
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*

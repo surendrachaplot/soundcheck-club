@@ -1,6 +1,6 @@
 # Gop Tun DJs
 
-Gop Tun DJs is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 15 Aug 2026.
+Gop Tun DJs is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 15 Aug 2026.
 
 Gop Tun DJs is a house and disco artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside Cashu, Millos Kaiser and Suelen Mesmo. Next up: Edifício Martinelli, Saopaulo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gop Tun DJs is a house and disco artist tracked on soundcheck, with 67 sets logg
 
 Cashu, Millos Kaiser, Suelen Mesmo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*

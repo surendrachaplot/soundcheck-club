@@ -1,6 +1,6 @@
 # Silki
 
-Silki is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Silki is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Silki is a tech house and minimal artist based in Australia, tracked on soundcheck, with 8 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and Miscmeg. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Silki is a tech house and minimal artist based in Australia, tracked on soundche
 
 Séarlait, Char(k), Miscmeg
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silki/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silki/)*

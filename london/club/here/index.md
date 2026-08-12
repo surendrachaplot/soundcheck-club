@@ -1,6 +1,6 @@
 # HERE
 
-HERE is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
+HERE is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
 
 HERE is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AliA, Alix Perez, Beatrice M. and Bitter Babe and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -21,4 +21,4 @@ HERE is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 
 Denmark Street, London WC2H, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/here/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/here/)*

@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "REGGAETON TRIBUTES: Become the Icon — Costume Edition [18+]" on Fri, 14 Aug 2026.
+The Meadows is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "REGGAETON TRIBUTES: Become the Icon — Costume Edition [18+]" on Fri, 14 Aug 2026.
 
 The Meadows is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -18,4 +18,4 @@ The Meadows is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nig
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

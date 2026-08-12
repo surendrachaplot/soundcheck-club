@@ -1,6 +1,6 @@
 # Not a BBQ at TBA
 
-Not a BBQ at TBA on Fri 18 Sept, Toronto. Preview the line-up and save it on soundcheck.
+Not a BBQ at TBA on Fri 18 Sept, Toronto. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

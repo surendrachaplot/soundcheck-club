@@ -1,6 +1,6 @@
 # SIM (CA)
 
-SIM (CA) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 15 Aug 2026.
+SIM (CA) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 15 Aug 2026.
 
 SIM (CA) is a bass and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Asha (4), MIASALAV and Pleurire. Next up: Gorg-O-Mish, Vancouver on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SIM (CA) is a bass and techno artist tracked on soundcheck, with 45 sets logged 
 
 Asha (4), MIASALAV, Pleurire
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim-ca/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim-ca/)*

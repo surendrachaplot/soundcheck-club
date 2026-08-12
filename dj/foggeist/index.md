@@ -1,6 +1,6 @@
 # Føggeist
 
-Føggeist is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - FLUXS, Barcelona on Fri, 14 Aug 2026.
+Føggeist is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - FLUXS, Barcelona on Fri, 14 Aug 2026.
 
 Føggeist is a techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Gabela. Next up: TBA - FLUXS, Barcelona on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Føggeist is a techno artist based in Spain, tracked on soundcheck, with 2 sets 
 
 Gabela
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foggeist/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foggeist/)*

@@ -1,6 +1,6 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Night Tales Loft, London on Fri, 2 Oct 2026.
+ESC (5) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Night Tales Loft, London on Fri, 2 Oct 2026.
 
 ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Antwerp, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Bakey, Dr Dubplate and Prozak (IRL). Next up: Night Tales Loft, London on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Bakey, Dr Dubplate, Prozak (IRL)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

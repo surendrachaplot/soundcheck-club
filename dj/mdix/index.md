@@ -1,6 +1,6 @@
 # MDIX
 
-MDIX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
+MDIX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
 
 MDIX is a house and techno artist based in Iran, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Juan Diego Drouet, Neksi and QOPA'K. Next up: Crack Bellmer, Berlin on Thu 13 Aug.
 
@@ -14,4 +14,4 @@ MDIX is a house and techno artist based in Iran, tracked on soundcheck, with 1 s
 
 Juan Diego Drouet, Neksi, QOPA'K
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdix/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdix/)*

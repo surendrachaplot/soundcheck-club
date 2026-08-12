@@ -1,6 +1,6 @@
 # Vodka
 
-Vodka is a Drum & Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
+Vodka is a Drum & Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
 
 Vodka is a drum & bass and baile funk artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Mrii, Angelphroot and Dargan. Next up: Geary Avenue Warehouse Project, Toronto on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Vodka is a drum & bass and baile funk artist based in Canada, tracked on soundch
 
 Mrii, Angelphroot, Dargan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*

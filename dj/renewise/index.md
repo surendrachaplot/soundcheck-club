@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Rene Wise is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Austin and Barcelona and 68 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -35,4 +35,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 238 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

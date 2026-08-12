@@ -1,6 +1,6 @@
 # Daniel Aguilar
 
-Daniel Aguilar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
+Daniel Aguilar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
 
 Daniel Aguilar is a tech house and house artist based in Nicaragua, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Armand Carrion, Darius Syrossian and Devicious. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Daniel Aguilar is a tech house and house artist based in Nicaragua, tracked on s
 
 Armand Carrion, Darius Syrossian, Devicious
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar/)*

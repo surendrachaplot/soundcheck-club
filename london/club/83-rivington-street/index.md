@@ -1,6 +1,6 @@
 # 83 Rivington Street
 
-83 Rivington Street is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "⋆⁺₊⋆ FREE DAY PARTY ⋆⁺₊⋆ Half East Records 3rd Birthday ⋆⁺₊⋆" on Sat, 15 Aug 2026.
+83 Rivington Street is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "⋆⁺₊⋆ FREE DAY PARTY ⋆⁺₊⋆ Half East Records 3rd Birthday ⋆⁺₊⋆" on Sat, 15 Aug 2026.
 
 83 Rivington Street is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 83 Rivington Street,  EC2A 3AY.
 
@@ -16,4 +16,4 @@
 
 83 Rivington Street,  EC2A 3AY, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*

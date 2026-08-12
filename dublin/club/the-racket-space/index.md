@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "KLIQ KOLLECTIV PRESENTS: DANCE FOR DRCC" on Sat, 15 Aug 2026.
+The Racket Space is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "KLIQ KOLLECTIV PRESENTS: DANCE FOR DRCC" on Sat, 15 Aug 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including 1morning, camoufly, DIEBYVEG and EMMIE and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -21,4 +21,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 8 upcoming nig
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

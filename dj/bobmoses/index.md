@@ -1,8 +1,8 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat, 15 Aug 2026.
+Bob Moses is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat, 15 Aug 2026.
 
-Bob Moses is a house and deep house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Claptone, Justin Martin and Ben Böhmer. Next up: TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat 15 Aug.
+Bob Moses is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Ben Böhmer, Claptone and Justin Martin. Next up: TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bob Moses is a house and deep house artist tracked on soundcheck, with 49 sets l
 | Sat, 15 Aug 2026 | TBA - The Roof at The Ritz-Carlton, Istanbul | Istanbul |
 | Fri, 21 Aug 2026 | Nitsa Club | Barcelona |
 | Sun, 23 Aug 2026 | 528 Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Fri, 30 Oct 2026 | Het Sieraad | Amsterdam |
 | Sun, 1 Nov 2026 | Akvárium Klub | Budapest |
 
@@ -27,6 +28,6 @@ Bob Moses is a house and deep house artist tracked on soundcheck, with 49 sets l
 
 ## Shares bills with
 
-Claptone, Justin Martin, Ben Böhmer
+Ben Böhmer, Claptone, Justin Martin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

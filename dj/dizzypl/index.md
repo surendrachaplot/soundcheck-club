@@ -1,6 +1,6 @@
 # Dizzy (PL)
 
-Dizzy (PL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at PRST, Vienna on Sat, 22 Aug 2026.
+Dizzy (PL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at PRST, Vienna on Sat, 22 Aug 2026.
 
 Dizzy (PL) is a techno artist based in Poland, tracked on soundcheck, with 15 sets logged across Berlin, Krakow, Prague and Vienna and 1 more. Often billed alongside 7CIRCLE, Forest (PL) and Hekato. Next up: PRST, Vienna on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dizzy (PL) is a techno artist based in Poland, tracked on soundcheck, with 15 se
 
 7CIRCLE, Forest (PL), Hekato
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*

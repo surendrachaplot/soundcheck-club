@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sacré présente: Schak & Camporeale" on Fri, 28 Aug 2026.
+Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sacré présente: Schak & Camporeale" on Fri, 28 Aug 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Aldonna, Autograf, Basile de Suresnes and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -17,10 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 | Sat, 12 Sept 2026 | Sacré présente: The Disco Express | Crystal Touch, Magnolia, Monsieur Van Pratt |
 | Fri, 18 Sept 2026 | Sacré présente: Frappé Takeover with Irfane, Basile de Suresnes & Ten Fingerz | Basile de Suresnes, Irfane, Ten Fingerz |
 | Sat, 19 Sept 2026 | Sacré présente: Demuja & Serious A | Demuja, Serious A |
-| Fri, 25 Sept 2026 | Sacré présente: Happiness Therapy Take Over | Crowd Control, Maggy Smiss, Marius Acke |
+| Fri, 25 Sept 2026 | Sacré présente: Happiness Therapy Takeover | Crowd Control, Maggy Smiss, Marius Acke |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

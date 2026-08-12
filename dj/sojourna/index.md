@@ -1,6 +1,6 @@
 # Sojourna
 
-Sojourna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at White Space Lab, Tokyo on Fri, 14 Aug 2026.
+Sojourna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at White Space Lab, Tokyo on Fri, 14 Aug 2026.
 
 Sojourna is a techno and house artist based in Japan, tracked on soundcheck, with 165 sets logged across Tokyo. Often billed alongside Gojitmal, Anapol and Drinkss. Next up: White Space Lab, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sojourna is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 Gojitmal, Anapol, Drinkss
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sojourna/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sojourna/)*

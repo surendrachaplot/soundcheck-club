@@ -1,6 +1,6 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lane's Edge Wine Bar, Melbourne on Sat, 15 Aug 2026.
+Julius Myles is a Deep House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lane's Edge Wine Bar, Melbourne on Sat, 15 Aug 2026.
 
 Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and NALIITA. Next up: Lane's Edge Wine Bar, Melbourne on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 
 Miles Ahead, Emotive Experience, NALIITA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

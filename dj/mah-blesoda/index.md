@@ -1,6 +1,6 @@
 # mah-ble soda
 
-mah-ble soda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Oath, Tokyo on Wed, 12 Aug 2026.
+mah-ble soda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Oath, Tokyo on Wed, 12 Aug 2026.
 
 mah-ble soda is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across Tokyo. Often billed alongside kagurun, VECSILLE and YOXIKI. Next up: Oath, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ mah-ble soda is a techno and house artist based in Japan, tracked on soundcheck,
 
 kagurun, VECSILLE, YOXIKI
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mah-blesoda/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mah-blesoda/)*

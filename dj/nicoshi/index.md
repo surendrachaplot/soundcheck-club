@@ -1,6 +1,6 @@
 # Nicoshi
 
-Nicoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 15 Aug 2026.
+Nicoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Nicoshi is a house and techno artist tracked on soundcheck, with 24 sets logged across Losangeles, Mexicocity, Sandiego and Sanfrancisco and 1 more. Often billed alongside Capes, COLOURS 87 and Club Tularosa. Next up: Public Works, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nicoshi is a house and techno artist tracked on soundcheck, with 24 sets logged 
 
 Capes, COLOURS 87, Club Tularosa
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*

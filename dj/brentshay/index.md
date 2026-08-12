@@ -1,6 +1,6 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Brent Shay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logg
 
 Dj Disc, Pitchblnd, Nikkie Nocturnal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

@@ -1,6 +1,6 @@
 # AH-Effects
 
-AH-Effects is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Warschauerstr. Skatepark, Berlin on Sat, 15 Aug 2026.
+AH-Effects is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Warschauerstr. Skatepark, Berlin on Sat, 15 Aug 2026.
 
 AH-Effects is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Phat Beat, Phat Effects and JaFrei Loufoque. Next up: Warschauerstr. Skatepark, Berlin on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ AH-Effects is a house and techno artist tracked on soundcheck, with 4 sets logge
 
 Phat Beat, Phat Effects, JaFrei Loufoque
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-effects/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-effects/)*

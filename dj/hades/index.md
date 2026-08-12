@@ -1,6 +1,6 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Hades is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Hades is a techno and hardcore artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside KARAH, CARV and JAZZY (2). Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Hades is a techno and hardcore artist tracked on soundcheck, with 66 sets logged
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

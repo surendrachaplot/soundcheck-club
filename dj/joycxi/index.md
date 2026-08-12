@@ -1,6 +1,6 @@
 # joycxi
 
-joycxi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Location sent out day of, Detroit on Sat, 22 Aug 2026.
+joycxi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Location sent out day of, Detroit on Sat, 22 Aug 2026.
 
 joycxi is a techno and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago and Detroit. Often billed alongside we1sman, Wax Assassin and jamea.. Next up: TBA - Location sent out day of, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ joycxi is a techno and club artist based in United States of America, tracked on
 
 we1sman, Wax Assassin, jamea.
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*

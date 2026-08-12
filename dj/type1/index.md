@@ -1,6 +1,6 @@
 # Type1
 
-Type1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tšungel, Tallinn on Wed, 12 Aug 2026.
+Type1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tšungel, Tallinn on Wed, 12 Aug 2026.
 
 Type1 is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, White Gloss and celestica. Next up: Tšungel, Tallinn on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Type1 is a techno and house artist tracked on soundcheck, with 12 sets logged ac
 
 Tanel Mütt, White Gloss, celestica
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/type1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/type1/)*

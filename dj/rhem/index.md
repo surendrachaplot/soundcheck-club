@@ -1,6 +1,6 @@
 # Rhem
 
-Rhem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
+Rhem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
 
 Rhem is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bucharest and London. Often billed alongside Midnight Manoeuvres, Joshua (3) and Elfadil. Next up: Brixton Radio, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rhem is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Midnight Manoeuvres, Joshua (3), Elfadil
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhem/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhem/)*

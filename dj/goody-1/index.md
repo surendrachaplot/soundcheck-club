@@ -1,6 +1,6 @@
 # Goody (1)
 
-Goody (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
+Goody (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
 
 Goody (1) is an electro and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Ibiza, Leipzig and London. Often billed alongside Sammy Porter, George Mensah and sleeptwitch. Next up: elipamanoke, Leipzig on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Goody (1) is an electro and techno artist tracked on soundcheck, with 23 sets lo
 
 Sammy Porter, George Mensah, sleeptwitch
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goody-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goody-1/)*

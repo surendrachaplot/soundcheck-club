@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "UKG + Jungle Sunset Session at YAAM" on Fri, 14 Aug 2026.
+YAAM Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "UKG + Jungle Sunset Session at YAAM" on Fri, 14 Aug 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including awhlkuhn, KaraKara, Shifty Rogue and Vali NME Click. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -15,4 +15,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, 
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

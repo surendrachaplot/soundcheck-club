@@ -1,6 +1,6 @@
 # Siren
 
-Siren is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Vogue Lounge, Auckland on Sat, 22 Aug 2026.
+Siren is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Vogue Lounge, Auckland on Sat, 22 Aug 2026.
 
 Siren is a drum & bass and garage artist tracked on soundcheck, with 23 sets logged across Auckland, Cologne, Denver and Ibiza and 7 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: Vogue Lounge, Auckland on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Siren is a drum & bass and garage artist tracked on soundcheck, with 23 sets log
 
 Hybrid Minds, CHASE, Futurebound
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*

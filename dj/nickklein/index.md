@@ -1,6 +1,6 @@
 # Nick Klein
 
-Nick Klein is a Experimental and Noise artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Nick Klein is a Experimental and Noise artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
 
 Nick Klein is an experimental and noise artist tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Berlin and Brisbane and 7 more. Often billed alongside Nic Krog, Eleftheria and TAKAKO. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nick Klein is an experimental and noise artist tracked on soundcheck, with 38 se
 
 Nic Krog, Eleftheria, TAKAKO
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickklein/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickklein/)*

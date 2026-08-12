@@ -1,6 +1,6 @@
 # kagurun
 
-kagurun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Oath, Tokyo on Wed, 12 Aug 2026.
+kagurun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Oath, Tokyo on Wed, 12 Aug 2026.
 
 kagurun is a house and techno artist tracked on soundcheck, with 111 sets logged across Tokyo. Often billed alongside hiroto yano, Terax and HORKEW. Next up: Oath, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ kagurun is a house and techno artist tracked on soundcheck, with 111 sets logged
 
 hiroto yano, Terax, HORKEW
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagurun/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagurun/)*

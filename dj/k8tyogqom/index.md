@@ -1,6 +1,6 @@
 # K8 (TYO GQOM)
 
-K8 (TYO GQOM) is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Red Bar, Tokyo on Wed, 12 Aug 2026.
+K8 (TYO GQOM) is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Red Bar, Tokyo on Wed, 12 Aug 2026.
 
 K8 (TYO GQOM) is a bass and house artist tracked on soundcheck, with 95 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside FELINE (JP), AMANE and Andrew (TREKKIE TRAX). Next up: Red Bar, Tokyo on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ K8 (TYO GQOM) is a bass and house artist tracked on soundcheck, with 95 sets log
 
 FELINE (JP), AMANE, Andrew (TREKKIE TRAX)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k8tyogqom/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k8tyogqom/)*

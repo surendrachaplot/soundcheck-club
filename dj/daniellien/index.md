@@ -1,6 +1,6 @@
 # Daniel Lien
 
-Daniel Lien is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Trädgården, Stockholm on Fri, 21 Aug 2026.
+Daniel Lien is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Trädgården, Stockholm on Fri, 21 Aug 2026.
 
 Daniel Lien is a techno and house artist based in Sweden, tracked on soundcheck, with 22 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Nico O'Konor, Elless & Benn and Johanna Schneider. Next up: Trädgården, Stockholm on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Daniel Lien is a techno and house artist based in Sweden, tracked on soundcheck,
 
 Nico O'Konor, Elless & Benn, Johanna Schneider
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*

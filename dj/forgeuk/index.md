@@ -1,6 +1,6 @@
 # Forge (UK)
 
-Forge (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Studio 338, London on Sat, 31 Oct 2026.
+Forge (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Studio 338, London on Sat, 31 Oct 2026.
 
 Forge (UK) is a tech house and house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside ASHOJU, Barnesey and Bontan. Next up: Studio 338, London on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Forge (UK) is a tech house and house artist tracked on soundcheck, with 2 sets l
 
 ASHOJU, Barnesey, Bontan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgeuk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgeuk/)*

@@ -1,6 +1,6 @@
 # Belocca
 
-Belocca is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat, 15 Aug 2026.
+Belocca is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat, 15 Aug 2026.
 
 Belocca is a techno and acid artist based in Hungary, tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dreadsun, Joris Turenhout and Ozzy Riot. Next up: TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Belocca is a techno and acid artist based in Hungary, tracked on soundcheck, wit
 
 Dreadsun, Joris Turenhout, Ozzy Riot
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*

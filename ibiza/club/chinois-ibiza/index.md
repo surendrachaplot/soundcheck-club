@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Mahmut Orhan" on Wed, 12 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Mahmut Orhan" on Wed, 12 Aug 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

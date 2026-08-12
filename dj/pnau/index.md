@@ -1,6 +1,6 @@
 # Pnau
 
-Pnau is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Pnau is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Pnau is an electro and house artist tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside C.FRIM, 1tbsp and Antenna (2). Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Pnau is an electro and house artist tracked on soundcheck, with 3 sets logged ac
 
 C.FRIM, 1tbsp, Antenna (2)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pnau/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pnau/)*

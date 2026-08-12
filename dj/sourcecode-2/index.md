@@ -1,14 +1,14 @@
 # Source Code (2)
 
-Source Code (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Stuttgart on Sat, 15 Aug 2026.
+Source Code (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Perkins Park, Stuttgart on Sat, 15 Aug 2026.
 
-Source Code (2) is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Paris and Stuttgart. Often billed alongside Tamara Wirth, Raphael Dincsoy and Jannis Maxim. Next up: TBA, Stuttgart on Sat 15 Aug.
+Source Code (2) is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Paris and Stuttgart. Often billed alongside Tamara Wirth, Raphael Dincsoy and Jannis Maxim. Next up: Perkins Park, Stuttgart on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA | Stuttgart |
+| Sat, 15 Aug 2026 | Perkins Park | Stuttgart |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Source Code (2) is a techno and house artist based in Germany, tracked on soundc
 
 Tamara Wirth, Raphael Dincsoy, Jannis Maxim
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode-2/)*

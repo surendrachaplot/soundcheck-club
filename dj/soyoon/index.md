@@ -1,6 +1,6 @@
 # Soyoon
 
-Soyoon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Soyoon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 Soyoon is a techno and trance artist tracked on soundcheck, with 97 sets logged across Amsterdam, Belgrade, Berlin and Cardiff and 12 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Soyoon is a techno and trance artist tracked on soundcheck, with 97 sets logged 
 
 Maï-Linh, GTI, Youl
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*

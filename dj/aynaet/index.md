@@ -1,6 +1,6 @@
 # Aynaet
 
-Aynaet is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
+Aynaet is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
 
 Aynaet is a drum & bass and techno artist tracked on soundcheck, with 60 sets logged across Berlin. Often billed alongside Upzet, Anton Quasi and Soniq. Next up: Void Club, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Aynaet is a drum & bass and techno artist tracked on soundcheck, with 60 sets lo
 
 Upzet, Anton Quasi, Soniq
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aynaet/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aynaet/)*

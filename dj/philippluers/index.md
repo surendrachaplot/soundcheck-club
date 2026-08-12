@@ -1,6 +1,6 @@
 # Philipp Lüers
 
-Philipp Lüers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
+Philipp Lüers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
 
 Philipp Lüers is a house and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Munich. Often billed alongside iamluie, DJ HOT and CHUBBS. Next up: TBA - xolo club, Munich on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Philipp Lüers is a house and tech house artist based in Germany, tracked on sou
 
 iamluie, DJ HOT, CHUBBS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*

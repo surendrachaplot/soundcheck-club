@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
+Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
 
 Joe Rolét is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Cam Stockman. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 22 sets 
 
 Fleur Shore, ALISHA, Cam Stockman
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

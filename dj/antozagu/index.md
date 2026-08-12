@@ -1,6 +1,6 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 12 Aug 2026.
+ANTO ZAGU is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 ANTO ZAGU is a house and electronica artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside ARVØW, Alev Tav and Argia. Next up: Hï Ibiza, Ibiza on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ ANTO ZAGU is a house and electronica artist tracked on soundcheck, with 10 sets 
 
 ARVØW, Alev Tav, Argia
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

@@ -1,6 +1,6 @@
 # kaj garage
 
-kaj garage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Smolna, Warsaw on Thu, 13 Aug 2026.
+kaj garage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Smolna, Warsaw on Thu, 13 Aug 2026.
 
 kaj garage is a techno and house artist based in Poland, tracked on soundcheck, with 29 sets logged across Krakow and Warsaw. Often billed alongside Mordeaux, KEVS and Mabu. Next up: Smolna, Warsaw on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ kaj garage is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Mordeaux, KEVS, Mabu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kajgarage/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kajgarage/)*

@@ -1,6 +1,6 @@
 # Camelot
 
-Camelot is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "BASSLOT -REUNION-" on Sat, 29 Aug 2026.
+Camelot is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "BASSLOT -REUNION-" on Sat, 29 Aug 2026.
 
 Camelot is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including ATAMI, DJYOUTH, DJ ZiL and Jupiter Gatling and 2 more. Browse upcoming dates, start times and who's playing. 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -15,4 +15,4 @@ Camelot is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with 
 
 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*

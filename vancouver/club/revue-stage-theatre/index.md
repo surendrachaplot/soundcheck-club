@@ -1,6 +1,6 @@
 # Revue Stage Theatre
 
-Revue Stage Theatre is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Miki Yamanaka Trio + Nicole Glover" on Sun, 23 Aug 2026.
+Revue Stage Theatre is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Miki Yamanaka Trio + Nicole Glover" on Sun, 23 Aug 2026.
 
 Revue Stage Theatre is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1601 Johnston Street, Granville Island.
 
@@ -14,4 +14,4 @@ Revue Stage Theatre is a music venue in Vancouver listed on soundcheck. 1 upcomi
 
 1601 Johnston Street, Granville Island, Vancouver
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/revue-stage-theatre/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/revue-stage-theatre/)*

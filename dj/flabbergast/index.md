@@ -1,6 +1,6 @@
 # Flabbergast
 
-Flabbergast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
+Flabbergast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
 
 Flabbergast is a techno and house artist based in Canada, tracked on soundcheck, with 29 sets logged across Barcelona, Basel, Berlin and Detroit and 9 more. Often billed alongside Vincent Lemieux, Guillaume & The Coutu Dumonts and Freeka Tet. Next up: TBA, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Flabbergast is a techno and house artist based in Canada, tracked on soundcheck,
 
 Vincent Lemieux, Guillaume & The Coutu Dumonts, Freeka Tet
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*

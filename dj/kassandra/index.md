@@ -1,6 +1,6 @@
 # KASSANDRA
 
-KASSANDRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
+KASSANDRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
 
 KASSANDRA is a techno and hardcore artist based in Poland, tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside iLAN, Anela and NO FACE. Next up: Smolna, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KASSANDRA is a techno and hardcore artist based in Poland, tracked on soundcheck
 
 iLAN, Anela, NO FACE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassandra/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassandra/)*

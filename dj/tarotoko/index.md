@@ -1,6 +1,6 @@
 # TARO TOKO
 
-TARO TOKO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WOMB, Tokyo on Wed, 12 Aug 2026.
+TARO TOKO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at WOMB, Tokyo on Wed, 12 Aug 2026.
 
 TARO TOKO is a techno and tech house artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside Louis Shannon, Rickey Shannon and ALEXANDER M. Next up: WOMB, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ TARO TOKO is a techno and tech house artist based in Japan, tracked on soundchec
 
 Louis Shannon, Rickey Shannon, ALEXANDER M
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarotoko/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarotoko/)*

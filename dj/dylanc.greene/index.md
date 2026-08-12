@@ -1,6 +1,6 @@
 # Dylan C. Greene
 
-Dylan C. Greene is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
+Dylan C. Greene is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Dylan C. Greene is a house and disco artist tracked on soundcheck, with 18 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside 3kelves, Supertaste and A-Trak. Next up: Public Works, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dylan C. Greene is a house and disco artist tracked on soundcheck, with 18 sets 
 
 3kelves, Supertaste, A-Trak
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc.greene/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc.greene/)*

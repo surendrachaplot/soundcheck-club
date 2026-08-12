@@ -1,6 +1,6 @@
 # Breakfast Club #519 (Winter's End 36hr) at OneSixOne
 
-Breakfast Club #519 (Winter's End 36hr) at OneSixOne on Sun 23 Aug, Melbourne. 8 acts on the bill: Andy Hart, Ed Kent, Eluize and Jmcee and 4 more. Preview the line-up and save it on soundcheck.
+Breakfast Club #519 (Winter's End 36hr) at OneSixOne on Sun 23 Aug, Melbourne. 9 acts on the bill: Andy Hart, Ed Kent, Eluize and Jmcee and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Breakfast Club #519 (Winter's End 36hr) at OneSixOne on Sun 23 Aug, Melbourne. 8
 - Ed Kent
 - Eluize
 - Jmcee
+- Jocelyn (3)
 - Lawless (2)
 - Tina Disco
 - Yarra (2)

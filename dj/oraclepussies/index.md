@@ -1,6 +1,6 @@
 # oraclepussies
 
-oraclepussies is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
+oraclepussies is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
 
 oraclepussies is a house and dub artist based in United States of America, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Mark Gill and katja.. Next up: Crack Bellmer, Berlin on Sun 16 Aug.
 
@@ -15,4 +15,4 @@ oraclepussies is a house and dub artist based in United States of America, track
 
 Mark Gill, katja.
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oraclepussies/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oraclepussies/)*

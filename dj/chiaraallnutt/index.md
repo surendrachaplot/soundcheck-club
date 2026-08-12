@@ -1,6 +1,6 @@
 # Chiara Allnutt
 
-Chiara Allnutt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gleis19, Vienna on Sat, 15 Aug 2026.
+Chiara Allnutt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gleis19, Vienna on Sat, 15 Aug 2026.
 
 Chiara Allnutt is a techno and house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside KAROLINA, FX-31 and GEN97. Next up: Gleis19, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chiara Allnutt is a techno and house artist based in Germany, tracked on soundch
 
 KAROLINA, FX-31, GEN97
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaraallnutt/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaraallnutt/)*

@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Bar Shrimp: Oriki" on Thu, 13 Aug 2026.
+Bar Shrimp is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Bar Shrimp: Oriki" on Thu, 13 Aug 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Oriki and Yadava. Browse upcoming dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -16,4 +16,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 3 upcoming night
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

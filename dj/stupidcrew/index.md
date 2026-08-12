@@ -1,6 +1,6 @@
 # Stupid Crew
 
-Stupid Crew is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - IYKYK, Amsterdam on Sat, 22 Aug 2026.
+Stupid Crew is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - IYKYK, Amsterdam on Sat, 22 Aug 2026.
 
 Stupid Crew is a dubstep and drum & bass artist tracked on soundcheck, with 8 sets logged across Amsterdam and Istanbul. Often billed alongside AAlva, Adam Pits and Faru. Next up: TBA - IYKYK, Amsterdam on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Stupid Crew is a dubstep and drum & bass artist tracked on soundcheck, with 8 se
 
 AAlva, Adam Pits, Faru
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidcrew/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidcrew/)*

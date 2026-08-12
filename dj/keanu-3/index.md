@@ -1,6 +1,6 @@
 # keanu (3)
 
-keanu (3) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Salon Daomé, Montreal on Thu, 20 Aug 2026.
+keanu (3) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Salon Daomé, Montreal on Thu, 20 Aug 2026.
 
 keanu (3) is a techno and industrial artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Montreal and Sydney. Often billed alongside ORKA, sischex and AWSM. Next up: Salon Daomé, Montreal on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ keanu (3) is a techno and industrial artist based in Germany, tracked on soundch
 
 ORKA, sischex, AWSM
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keanu-3/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keanu-3/)*

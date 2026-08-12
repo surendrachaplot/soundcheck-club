@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TRANSFORMA" on Sat, 22 Aug 2026.
+Button Factory is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "TRANSFORMA" on Sat, 22 Aug 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Arrested Development, Cassius, Djamzer and DJ Seinfeld and 2 more. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -20,4 +20,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 7 upcoming night
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

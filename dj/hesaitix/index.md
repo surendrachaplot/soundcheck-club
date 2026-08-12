@@ -1,6 +1,6 @@
 # Hesaitix
 
-Hesaitix is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Autosilo Richard, Milan on Sat, 19 Sept 2026.
+Hesaitix is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Autosilo Richard, Milan on Sat, 19 Sept 2026.
 
 Hesaitix is an experimental and downtempo artist tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen, London and Milan and 6 more. Often billed alongside M.E.S.H., Significant Other and Ale Hop. Next up: Autosilo Richard, Milan on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hesaitix is an experimental and downtempo artist tracked on soundcheck, with 14 
 
 M.E.S.H., Significant Other, Ale Hop
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesaitix/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesaitix/)*

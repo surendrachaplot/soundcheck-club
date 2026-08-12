@@ -1,6 +1,6 @@
 # Machine Girl
 
-Machine Girl is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Machine Girl is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Machine Girl is a techno and experimental artist based in United States of America, tracked on soundcheck, with 30 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside Chaotic Ugly, ANOTR and Boy Harsher. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Machine Girl is a techno and experimental artist based in United States of Ameri
 
 Chaotic Ugly, ANOTR, Boy Harsher
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*

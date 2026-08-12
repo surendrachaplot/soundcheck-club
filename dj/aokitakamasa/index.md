@@ -1,6 +1,6 @@
 # AOKI takamasa
 
-AOKI takamasa is a Techno and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
+AOKI takamasa is a Techno and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
 
 AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 110 sets logged across Bali, Berlin, Bucharest and Kyoto and 3 more. Often billed alongside Kohei, Loe (JP) and Endurance. Next up: Club der Visionaere, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 110 set
 
 Kohei, Loe (JP), Endurance
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*

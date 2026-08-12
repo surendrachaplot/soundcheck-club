@@ -1,6 +1,6 @@
 # LYAM
 
-LYAM is a Latin Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Star of Bethnal Green, London on Fri, 21 Aug 2026.
+LYAM is a Latin Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Star of Bethnal Green, London on Fri, 21 Aug 2026.
 
 LYAM is a latin bass and dancehall artist tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside AGILITÄT, Alissa Zaddi and Basile3. Next up: Star of Bethnal Green, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ LYAM is a latin bass and dancehall artist tracked on soundcheck, with 5 sets log
 
 AGILITÄT, Alissa Zaddi, Basile3
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyam/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyam/)*

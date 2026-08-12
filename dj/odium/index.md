@@ -1,6 +1,6 @@
 # Odium
 
-Odium is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
+Odium is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
 
 Odium is a hardcore and drum & bass artist tracked on soundcheck, with 5 sets logged across Berlin, Paris and Prague. Often billed alongside Aynaet, Elijah Taylor and Gabrielle (DE). Next up: Void Club, Berlin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Odium is a hardcore and drum & bass artist tracked on soundcheck, with 5 sets lo
 
 Aynaet, Elijah Taylor, Gabrielle (DE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*

@@ -1,6 +1,6 @@
 # Shadeda
 
-Shadeda is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
+Shadeda is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
 
 Shadeda is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Leeds, Liverpool, London and Manchester and 3 more. Often billed alongside KISA, 4STR0 and AMAKA. Next up: Botanical Gin Garden, Liverpool on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Shadeda is a broken beat and house artist based in United Kingdom, tracked on so
 
 KISA, 4STR0, AMAKA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*

@@ -1,6 +1,6 @@
 # lil ja
 
-lil ja is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+lil ja is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 lil ja is a house and techno artist based in Sweden, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Cologne and Madrid and 2 more. Often billed alongside HEDDA, faceblindbabe and Hanaby. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ lil ja is a house and techno artist based in Sweden, tracked on soundcheck, with
 
 HEDDA, faceblindbabe, Hanaby
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*

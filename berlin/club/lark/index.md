@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 14 Aug 2026.
+Lark is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 14 Aug 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Loukeman. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -16,4 +16,4 @@ Lark is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

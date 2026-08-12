@@ -1,8 +1,8 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
-Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Actress, Blawan and Eiko Ishibashi. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
+Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
+| Mon, 9 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 ## Shares bills with
 
-Actress, Blawan, Eiko Ishibashi
+Actress, Eiko Ishibashi, Blawan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

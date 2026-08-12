@@ -1,6 +1,6 @@
 # The Ancient Kid
 
-The Ancient Kid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
+The Ancient Kid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
 
 The Ancient Kid is a techno and house artist based in Ukraine, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Munich and Nurnberg and 1 more. Often billed alongside Mark Tarmonea, JSavant and RIØ (DE). Next up: Bahnwärter Thiel, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ The Ancient Kid is a techno and house artist based in Ukraine, tracked on soundc
 
 Mark Tarmonea, JSavant, RIØ (DE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*

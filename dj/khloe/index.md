@@ -1,6 +1,6 @@
 # Khloe
 
-Khloe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
+Khloe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
 
 Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Hamburg and Leipzig. Often billed alongside Mama Yha Yha, ALP (DE) and Dirty Daddy Don. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, wi
 
 Mama Yha Yha, ALP (DE), Dirty Daddy Don
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*

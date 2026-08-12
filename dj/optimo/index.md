@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jaeger, Oslo on Fri, 14 Aug 2026.
+Optimo (Espacio) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jaeger, Oslo on Fri, 14 Aug 2026.
 
 Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 180 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Jaeger, Oslo on Fri 14 Aug.
 
@@ -32,4 +32,4 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 180 se
 
 Daniel Avery, HAAi, Batu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

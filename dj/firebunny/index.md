@@ -1,6 +1,6 @@
 # Firebunny
 
-Firebunny is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at SILO, New York City on Thu, 13 Aug 2026.
+Firebunny is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at SILO, New York City on Thu, 13 Aug 2026.
 
 Firebunny is a techno and industrial artist based in United States of America, tracked on soundcheck, with 31 sets logged across Boston, Newyorkcity, Philadelphia and Toronto and 1 more. Often billed alongside Paradøx, VIDA LIBRE and Dark Attraction. Next up: SILO, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Firebunny is a techno and industrial artist based in United States of America, t
 
 Paradøx, VIDA LIBRE, Dark Attraction
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/firebunny/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/firebunny/)*

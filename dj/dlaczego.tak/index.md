@@ -1,6 +1,6 @@
 # dlaczego.tak
 
-dlaczego.tak is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jasna 1, Warsaw on Fri, 28 Aug 2026.
+dlaczego.tak is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jasna 1, Warsaw on Fri, 28 Aug 2026.
 
 dlaczego.tak is a techno and bass artist based in Poland, tracked on soundcheck, with 9 sets logged across Krakow, Milan and Warsaw. Often billed alongside Char2, AMBRA and ARMANDO. Next up: Jasna 1, Warsaw on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ dlaczego.tak is a techno and bass artist based in Poland, tracked on soundcheck,
 
 Char2, AMBRA, ARMANDO
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlaczego.tak/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlaczego.tak/)*

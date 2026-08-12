@@ -1,18 +1,18 @@
 # A.R.T.
 
-A.R.T. is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Melkweg, Amsterdam on Tue, 11 Aug 2026.
+A.R.T. is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Melkweg, Amsterdam on Tue, 1 Sept 2026.
 
-A.R.T. is a techno and industrial artist based in Croatia, tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside Dexon, Alexa Strange and ERSØZ. Next up: Melkweg, Amsterdam on Tue 11 Aug.
+A.R.T. is a techno and industrial artist based in Croatia, tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside Dexon, Alexa Strange and ERSØZ. Next up: Melkweg, Amsterdam on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Melkweg | Amsterdam |
 | Tue, 1 Sept 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
+- Melkweg, Amsterdam — Tue, 11 Aug 2026
 - Melkweg, Amsterdam — Tue, 14 Jul 2026
 - Melkweg, Amsterdam — Tue, 19 May 2026
 - Weekend, Berlin — Fri, 24 Oct 2025
@@ -22,4 +22,4 @@ A.R.T. is a techno and industrial artist based in Croatia, tracked on soundcheck
 
 Dexon, Alexa Strange, ERSØZ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/art-hr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/art-hr/)*

@@ -1,6 +1,6 @@
 # Yubik
 
-Yubik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Yubik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Yubik is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside 19:26, Davko and Enai. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Yubik is a techno and house artist tracked on soundcheck, with 40 sets logged ac
 
 19:26, Davko, Enai
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*

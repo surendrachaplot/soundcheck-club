@@ -1,6 +1,6 @@
 # k.meower
 
-k.meower is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
+k.meower is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
 k.meower is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside peak2soon, Baumeister (2) and DERICE. Next up: Sensorium, Berlin on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ k.meower is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 peak2soon, Baumeister (2), DERICE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*

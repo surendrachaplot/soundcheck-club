@@ -1,6 +1,6 @@
 # Galerie Zeitzone
 
-Galerie Zeitzone is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Thomas MacMillan & Daniel Coletti: Live" on Fri, 14 Aug 2026.
+Galerie Zeitzone is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Thomas MacMillan & Daniel Coletti: Live" on Fri, 14 Aug 2026.
 
 Galerie Zeitzone is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Thomas MacMillan. Browse upcoming dates, start times and who's playing. Adalbertstr. 79, 10997 Berlin.
 
@@ -14,4 +14,4 @@ Galerie Zeitzone is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 
 Adalbertstr. 79, 10997 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galerie-zeitzone/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galerie-zeitzone/)*

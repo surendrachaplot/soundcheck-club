@@ -1,6 +1,6 @@
 # Donald Glaude
 
-Donald Glaude is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+Donald Glaude is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Donald Glaude is a house and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Losangeles, Miami and Munich and 5 more. Often billed alongside Megalina, Terry Jasinto and DJ Dan. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Donald Glaude is a house and tech house artist based in United States of America
 
 Megalina, Terry Jasinto, DJ Dan
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*

@@ -1,13 +1,14 @@
 # JD. REID
 
-JD. REID is a UK Funky and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+JD. REID is a Club and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 11 Sept 2026.
 
-JD. REID is an uk funky and club artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Night Tales Loft, London on Sat 12 Sept.
+JD. REID is a club and uk funky artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Yamamori Tengu, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Yamamori Tengu | Dublin |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ JD. REID is an uk funky and club artist based in United Kingdom, tracked on soun
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

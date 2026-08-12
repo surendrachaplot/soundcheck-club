@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Nitsa Club, Barcelona on Fri, 14 Aug 2026.
+Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Nitsa Club, Barcelona on Fri, 14 Aug 2026.
 
 Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 250 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Nitsa Club, Barcelona on Fri 14 Aug.
 
@@ -33,4 +33,4 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

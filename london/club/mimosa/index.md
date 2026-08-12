@@ -1,6 +1,6 @@
 # Mimosa
 
-Mimosa is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "INDOORKA ROOTS OF FREEDOM" on Sat, 22 Aug 2026.
+Mimosa is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "INDOORKA ROOTS OF FREEDOM" on Sat, 22 Aug 2026.
 
 Mimosa is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Dimanté, Monnay and SONI LOBO. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mimosa is a music venue in London listed on soundcheck. 1 upcoming night, with l
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | INDOORKA ROOTS OF FREEDOM | Dimanté, Monnay, SONI LOBO |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mimosa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mimosa/)*

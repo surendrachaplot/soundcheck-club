@@ -1,6 +1,6 @@
 # Motel Paraiso
 
-Motel Paraiso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Noon + Cafe, Osaka on Fri, 14 Aug 2026.
+Motel Paraiso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Noon + Cafe, Osaka on Fri, 14 Aug 2026.
 
 Motel Paraiso is a house and deep house artist based in Japan, tracked on soundcheck, with 24 sets logged across Kyoto and Osaka. Often billed alongside Mercy., NAGATA and sumi’. Next up: Noon + Cafe, Osaka on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Motel Paraiso is a house and deep house artist based in Japan, tracked on soundc
 
 Mercy., NAGATA, sumi’
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*

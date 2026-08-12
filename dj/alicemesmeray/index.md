@@ -1,6 +1,6 @@
 # Ali Cem Esmeray
 
-Ali Cem Esmeray is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
+Ali Cem Esmeray is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
 
 Ali Cem Esmeray is a house and minimal artist tracked on soundcheck, with 13 sets logged across Bali, Istanbul and Newyorkcity. Often billed alongside Childplay, Meri and -FU-. Next up: Green Room NYC, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Ali Cem Esmeray is a house and minimal artist tracked on soundcheck, with 13 set
 
 Childplay, Meri, -FU-
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemesmeray/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemesmeray/)*

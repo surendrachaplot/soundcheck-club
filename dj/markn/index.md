@@ -1,6 +1,6 @@
 # Mark N
 
-Mark N is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
+Mark N is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
 
 Mark N is a breakbeat and jungle artist tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside Kato, AHJU and DJ Scorpion. Next up: Miscellania, Melbourne on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Mark N is a breakbeat and jungle artist tracked on soundcheck, with 4 sets logge
 
 Kato, AHJU, DJ Scorpion
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markn/)*

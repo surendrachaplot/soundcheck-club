@@ -1,6 +1,6 @@
 # Kitty
 
-Kitty is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
+Kitty is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
 
 Kitty is a club and bass artist tracked on soundcheck, with 57 sets logged across Buenosaires, Hongkong, Newyorkcity and Seoul and 3 more. Often billed alongside KISEWA, NET GALA and mokhzolla. Next up: Cakeshop, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kitty is a club and bass artist tracked on soundcheck, with 57 sets logged acros
 
 KISEWA, NET GALA, mokhzolla
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kitty/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kitty/)*

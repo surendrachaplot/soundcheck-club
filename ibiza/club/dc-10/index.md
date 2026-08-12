@@ -1,6 +1,6 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Solid Grooves - Week 11" on Thu, 13 Aug 2026.
+DC-10 is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Solid Grooves - Week 11" on Thu, 13 Aug 2026.
 
 DC-10 is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Aline Umber, Âme, ANOTR and Arapu and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
@@ -23,4 +23,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with l
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

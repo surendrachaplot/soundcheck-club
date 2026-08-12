@@ -1,6 +1,6 @@
 # NOT A DJ
 
-NOT A DJ is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Art Club, Houston on Wed, 19 Aug 2026.
+NOT A DJ is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Art Club, Houston on Wed, 19 Aug 2026.
 
 NOT A DJ is a hardcore and gabber artist based in Russia, tracked on soundcheck, with 4 sets logged across Amsterdam, Cologne, Houston and Milan. Often billed alongside Buzz Fuzz, Day-Mar and Giacomo (DE). Next up: Art Club, Houston on Wed 19 Aug.
 
@@ -20,4 +20,4 @@ NOT A DJ is a hardcore and gabber artist based in Russia, tracked on soundcheck,
 
 Buzz Fuzz, Day-Mar, Giacomo (DE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notadj/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notadj/)*

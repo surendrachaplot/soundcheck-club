@@ -1,6 +1,6 @@
 # la piscine
 
-la piscine is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
+la piscine is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
 
 la piscine is a house and experimental artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside EWERED, MIZNIK and Misura. Next up: Simmons Bar | Shoreditch, London on Wed 12 Aug.
 
@@ -21,4 +21,4 @@ la piscine is a house and experimental artist tracked on soundcheck, with 5 sets
 
 EWERED, MIZNIK, Misura
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*

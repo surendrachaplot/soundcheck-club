@@ -1,6 +1,6 @@
 # Datskie
 
-Datskie is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Datskie is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 Datskie is a techno and progressive house artist based in Finland, tracked on soundcheck, with 13 sets logged across Amsterdam, Copenhagen and London. Often billed alongside Estiva, Falden and Guy Didden. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Datskie is a techno and progressive house artist based in Finland, tracked on so
 
 Estiva, Falden, Guy Didden
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datskie/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datskie/)*

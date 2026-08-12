@@ -1,6 +1,6 @@
 # Antivirus
 
-Antivirus is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at IKON, Antwerp on Fri, 11 Sept 2026.
+Antivirus is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at IKON, Antwerp on Fri, 11 Sept 2026.
 
 Antivirus is an electronica and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Aberdeen, Antwerp and Leipzig. Often billed alongside EMMA S. (2), Electra (2) and FRÄNK. Next up: IKON, Antwerp on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Antivirus is an electronica and techno artist based in United Kingdom, tracked o
 
 EMMA S. (2), Electra (2), FRÄNK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antivirus/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antivirus/)*

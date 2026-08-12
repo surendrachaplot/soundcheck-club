@@ -1,6 +1,6 @@
 # KVLR
 
-KVLR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+KVLR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 KVLR is a techno and trance artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside DJ SOURCE, fbi (1) and yamagucci42. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ KVLR is a techno and trance artist tracked on soundcheck, with 77 sets logged ac
 
 DJ SOURCE, fbi (1), yamagucci42
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*

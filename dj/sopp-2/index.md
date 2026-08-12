@@ -1,6 +1,6 @@
 # Sopp (2)
 
-Sopp (2) is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Sopp (2) is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Sopp (2) is an acid and house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Cal Basa, Jackmack and Amaliah. Next up: TBA, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Sopp (2) is an acid and house artist tracked on soundcheck, with 7 sets logged a
 
 Cal Basa, Jackmack, Amaliah
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*

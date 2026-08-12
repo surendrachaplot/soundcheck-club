@@ -1,6 +1,6 @@
 # Britney Speed
 
-Britney Speed is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
+Britney Speed is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
 
 Britney Speed is a techno and trance artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Matriark, Dj Algorythm and DJ Nah Care. Next up: Jolene, Copenhagen on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Britney Speed is a techno and trance artist tracked on soundcheck, with 85 sets 
 
 Matriark, Dj Algorythm, DJ Nah Care
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*

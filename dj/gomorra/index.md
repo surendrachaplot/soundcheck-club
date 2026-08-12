@@ -1,6 +1,6 @@
 # Gomorra
 
-Gomorra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Gomorra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 Gomorra is a techno and trance artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Basel, Geneva, Stuttgart and Zurich. Often billed alongside Herrrouine, kso12 and Cepheì. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Gomorra is a techno and trance artist based in Switzerland, tracked on soundchec
 
 Herrrouine, kso12, Cepheì
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gomorra/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gomorra/)*

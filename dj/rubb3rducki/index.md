@@ -1,6 +1,6 @@
 # Rubb3rducki
 
-Rubb3rducki is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eiger Studios, Leeds on Fri, 18 Sept 2026.
+Rubb3rducki is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eiger Studios, Leeds on Fri, 18 Sept 2026.
 
 Rubb3rducki is a gabber and hardcore artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds. Often billed alongside INDECLINE, Meds and ASHTYLR. Next up: Eiger Studios, Leeds on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Rubb3rducki is a gabber and hardcore artist based in United Kingdom, tracked on 
 
 INDECLINE, Meds, ASHTYLR
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubb3rducki/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubb3rducki/)*

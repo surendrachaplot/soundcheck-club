@@ -1,6 +1,6 @@
 # VISHY
 
-VISHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+VISHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 VISHY is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Frankfurt, Leipzig and Nurnberg. Often billed alongside Formale Bassgestaltung, DeGuzman and Kacy. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ VISHY is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Formale Bassgestaltung, DeGuzman, Kacy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vishy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vishy/)*

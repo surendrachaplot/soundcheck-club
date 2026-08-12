@@ -1,6 +1,6 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Rumore Season 26 Party N°34 W/ Acid Washed" on Thu, 13 Aug 2026.
+Rumore Nightclub Capri is a music venue in Naples with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Rumore Season 26 Party N°34 W/ Acid Washed" on Thu, 13 Aug 2026.
 
 Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 13 upcoming nights, with line-ups including Acid Washed, Agathe Mougin, Céline and Cumhur Jay and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
@@ -23,4 +23,4 @@ Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 13 upcom
 
 Via Roma 71, 80073, Capri, Italy, Naples
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*

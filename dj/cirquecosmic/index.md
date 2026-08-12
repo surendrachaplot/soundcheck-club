@@ -1,6 +1,6 @@
 # Cirque Cosmic
 
-Cirque Cosmic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Datcha, Montreal on Thu, 13 Aug 2026.
+Cirque Cosmic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Datcha, Montreal on Thu, 13 Aug 2026.
 
 Cirque Cosmic is a house and tech house artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Newyorkcity. Often billed alongside Flleur, Bodegaparty and Corinita. Next up: Bar Datcha, Montreal on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Cirque Cosmic is a house and tech house artist based in Canada, tracked on sound
 
 Flleur, Bodegaparty, Corinita
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*

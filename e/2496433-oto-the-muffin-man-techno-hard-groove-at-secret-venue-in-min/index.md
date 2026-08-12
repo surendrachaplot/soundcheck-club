@@ -1,6 +1,6 @@
 # OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) at Secret Venue in Minatoku-Nishiazabu
 
-OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) at Secret Venue in Minatoku-Nishiazabu on Sat 22 Aug, Tokyo. 5 acts on the bill: ERIMIYA, SOGI, STRATAH and The Muffin Man and 1 more. Techno. Preview the line-up and save it on soundcheck.
+OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) at Secret Venue in Minatoku-Nishiazabu on Sat 22 Aug, Tokyo. 5 acts on the bill: ERIMIYA, SOGI, STRATAH and TheMuffinMan and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) at Secret Venue in Minatoku-Nishiaza
 - ERIMIYA
 - SOGI
 - STRATAH
-- The Muffin Man
+- TheMuffinMan
 - XINOVI
 
 *Source: [soundcheck](https://soundcheck.club/e/2496433-oto-the-muffin-man-techno-hard-groove-at-secret-venue-in-min/)*

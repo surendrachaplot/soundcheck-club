@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "notabbq x Lucid: Conna Haraway, Kiju, anthéne, ghosttropics, Twice Cooked" on Fri, 14 Aug 2026.
+The Jama is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "notabbq x Lucid: Conna Haraway, Kiju, anthéne, ghosttropics, Twice Cooked" on Fri, 14 Aug 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Conna Haraway, Facta, faisalkon and Hemlock (CA) and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -15,4 +15,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 2 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

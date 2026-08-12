@@ -1,6 +1,6 @@
 # David Dorad
 
-David Dorad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+David Dorad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 David Dorad is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside Sven Dohse, Foolik and Mila Stern. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ David Dorad is a house and techno artist based in Germany, tracked on soundcheck
 
 Sven Dohse, Foolik, Mila Stern
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddorad/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddorad/)*

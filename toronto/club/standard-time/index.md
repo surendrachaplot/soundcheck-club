@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Roni Size and Raf Reza b2b Trustfall" on Thu, 13 Aug 2026.
+Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Roni Size and Raf Reza b2b Trustfall" on Thu, 13 Aug 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Andre Zimmer, Behne, Benski and Benski (CA) and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

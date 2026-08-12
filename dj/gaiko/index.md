@@ -1,6 +1,6 @@
 # gaiko
 
-gaiko is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
+gaiko is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
 
 gaiko is a club and experimental artist based in Belgium, tracked on soundcheck, with 29 sets logged across Antwerp, Brussels, Ghent and Rotterdam. Often billed alongside cyvira, ojoo and waltur. Next up: Fuse, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ gaiko is a club and experimental artist based in Belgium, tracked on soundcheck,
 
 cyvira, ojoo, waltur
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiko/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiko/)*

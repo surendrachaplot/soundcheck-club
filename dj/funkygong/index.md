@@ -1,6 +1,6 @@
 # Funky Gong
 
-Funky Gong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 7th Floor, Tokyo on Sat, 29 Aug 2026.
+Funky Gong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 7th Floor, Tokyo on Sat, 29 Aug 2026.
 
 Funky Gong is a techno and house artist based in Japan, tracked on soundcheck, with 63 sets logged across Osaka and Tokyo. Often billed alongside RYOHEI, PUSTER and Tomocomo. Next up: 7th Floor, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Funky Gong is a techno and house artist based in Japan, tracked on soundcheck, w
 
 RYOHEI, PUSTER, Tomocomo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funkygong/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funkygong/)*

@@ -1,6 +1,6 @@
 # Dairy Free
 
-Dairy Free is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Vancouver on Sat, 22 Aug 2026.
+Dairy Free is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Vancouver on Sat, 22 Aug 2026.
 
 Dairy Free is a house and techno artist tracked on soundcheck, with 45 sets logged across Vancouver. Often billed alongside dj direct depøsit, ZDBT and dj_2button. Next up: TBA, Vancouver on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Dairy Free is a house and techno artist tracked on soundcheck, with 45 sets logg
 
 dj direct depøsit, ZDBT, dj_2button
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*

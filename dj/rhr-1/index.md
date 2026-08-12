@@ -1,8 +1,8 @@
 # RHR
 
-RHR is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 20 Aug 2026.
+RHR is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 20 Aug 2026.
 
-RHR is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Jolene Downtown Miami, Miami on Thu 20 Aug.
+RHR is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Jolene Downtown Miami, Miami on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ RHR is a techno and house artist tracked on soundcheck, with 109 sets logged acr
 | Fri, 21 Aug 2026 | MoMA PS1 | New York City |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
+| Fri, 4 Sept 2026 | Strange Brew | Bristol |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 
@@ -30,4 +31,4 @@ RHR is a techno and house artist tracked on soundcheck, with 109 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

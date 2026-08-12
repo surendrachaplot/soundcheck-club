@@ -1,6 +1,6 @@
 # CHUBBS
 
-CHUBBS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
+CHUBBS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
 
 CHUBBS is a house and tech house artist based in Germany, tracked on soundcheck, with 23 sets logged across Cologne, London and Munich. Often billed alongside DJ HOT, iamluie and Philipp Lüers. Next up: TBA - xolo club, Munich on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ CHUBBS is a house and tech house artist based in Germany, tracked on soundcheck,
 
 DJ HOT, iamluie, Philipp Lüers
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*

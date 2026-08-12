@@ -1,6 +1,6 @@
 # Tomb Raver
 
-Tomb Raver is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Church, Little Portugal, Toronto on Sat, 15 Aug 2026.
+Tomb Raver is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Church, Little Portugal, Toronto on Sat, 15 Aug 2026.
 
 Tomb Raver is a tech house and techno artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside SAMM DU, rahi4ever and Burnii. Next up: TBA - Secret Church, Little Portugal, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tomb Raver is a tech house and techno artist tracked on soundcheck, with 23 sets
 
 SAMM DU, rahi4ever, Burnii
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*

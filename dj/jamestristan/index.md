@@ -1,6 +1,6 @@
 # James Tristan
 
-James Tristan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
+James Tristan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
 
 James Tristan is a house and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, London, Manchester and Nottingham. Often billed alongside Mush Love (UK), Brad Bradley and rPal. Next up: Arc Space, Nottingham on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ James Tristan is a house and techno artist tracked on soundcheck, with 24 sets l
 
 Mush Love (UK), Brad Bradley, rPal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestristan/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestristan/)*

@@ -1,6 +1,6 @@
 # Timmy Stewart
 
-Timmy Stewart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 29 Aug 2026.
+Timmy Stewart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 29 Aug 2026.
 
 Timmy Stewart is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Cork, Liverpool and London and 1 more. Often billed alongside Jordan Nocturne, Marion Hawkes and Danse Intermission. Next up: Shorts Sports & Recreation Club, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Timmy Stewart is a house and techno artist tracked on soundcheck, with 36 sets l
 
 Jordan Nocturne, Marion Hawkes, Danse Intermission
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timmystewart/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timmystewart/)*

@@ -1,6 +1,6 @@
 # Paul Deep
 
-Paul Deep is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 21 Aug 2026.
+Paul Deep is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 21 Aug 2026.
 
 Paul Deep is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 16 sets logged across Buenosaires and Sydney. Often billed alongside Fernando Ferreyra, Cid Inc and Dmitry Molosh. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Paul Deep is a progressive house and techno artist based in Argentina, tracked o
 
 Fernando Ferreyra, Cid Inc, Dmitry Molosh
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldeep/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldeep/)*

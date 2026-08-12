@@ -1,6 +1,6 @@
 # Nony B
 
-Nony B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
+Nony B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
 
 Nony B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Boxia, Fear-E and Ryussi. Next up: renae, Manchester on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Nony B is a house and techno artist based in United Kingdom, tracked on soundche
 
 Boxia, Fear-E, Ryussi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonyb/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonyb/)*

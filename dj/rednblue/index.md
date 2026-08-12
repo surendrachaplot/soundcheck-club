@@ -1,6 +1,6 @@
 # REDNBLUE
 
-REDNBLUE is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Switch Bar, Barcelona on Sat, 29 Aug 2026.
+REDNBLUE is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Switch Bar, Barcelona on Sat, 29 Aug 2026.
 
 REDNBLUE is a house and uk funky artist tracked on soundcheck, with 16 sets logged across Barcelona and Mallorca. Often billed alongside Momasé, Adrian Bigueur and DENA (IT). Next up: Switch Bar, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ REDNBLUE is a house and uk funky artist tracked on soundcheck, with 16 sets logg
 
 Momasé, Adrian Bigueur, DENA (IT)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rednblue/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rednblue/)*

@@ -1,13 +1,14 @@
 # MANGUMAMI
 
-MANGUMAMI is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 22 Aug 2026.
+MANGUMAMI is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
 
-MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside CMD+JAZMINE, EL SUCIO and BOJAQ. Next up: The Onyx Room at House of Yes, Newyorkcity on Sat 22 Aug.
+MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside EL SUCIO, CMD+JAZMINE and BOJAQ. Next up: TRANSMISSION DC, Washingtondc on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 22 Aug 2026 | The Onyx Room at House of Yes | New York City |
 | Sat, 5 Sept 2026 | Elsewhere | New York City |
 
@@ -24,6 +25,6 @@ MANGUMAMI is a club and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-CMD+JAZMINE, EL SUCIO, BOJAQ
+EL SUCIO, CMD+JAZMINE, BOJAQ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*

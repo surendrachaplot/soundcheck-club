@@ -1,6 +1,6 @@
 # Hobbes
 
-Hobbes is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 21 Aug 2026.
+Hobbes is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 21 Aug 2026.
 
 Hobbes is a house and disco artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Edinburgh. Often billed alongside Fërb, Jedda and Mairi 'b' Pots. Next up: Sneaky Pete's, Edinburgh on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Hobbes is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Fërb, Jedda, Mairi 'b' Pots
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobbes/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobbes/)*

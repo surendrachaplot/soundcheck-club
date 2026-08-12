@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
+Dj Warning is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
 
 Dj Warning is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 79 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

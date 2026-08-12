@@ -1,6 +1,6 @@
 # Wendel
 
-Wendel is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Family Affair: Corpo de Baile x TRACTION" on Sat, 15 Aug 2026.
+Wendel is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Family Affair: Corpo de Baile x TRACTION" on Sat, 15 Aug 2026.
 
 Wendel is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Anton Quasi, EMBEE3, Love Sensation and Mamede and 1 more. Browse upcoming dates, start times and who's playing. Schlesische Strasse 42; Kreuzberg; 10997; Germany.
 
@@ -15,4 +15,4 @@ Wendel is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with 
 
 Schlesische Strasse 42; Kreuzberg; 10997; Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*

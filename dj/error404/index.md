@@ -1,6 +1,6 @@
 # Error 404
 
-Error 404 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Prozak 2.0, Krakow on Wed, 12 Aug 2026.
+Error 404 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Prozak 2.0, Krakow on Wed, 12 Aug 2026.
 
 Error 404 is a techno and trance artist based in Croatia, tracked on soundcheck, with 3 sets logged across Frankfurt and Krakow. Often billed alongside Calamity, Emil Bunker and Ephy Pinkman. Next up: Prozak 2.0, Krakow on Wed 12 Aug.
 
@@ -19,4 +19,4 @@ Error 404 is a techno and trance artist based in Croatia, tracked on soundcheck,
 
 Calamity, Emil Bunker, Ephy Pinkman
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/error404/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/error404/)*

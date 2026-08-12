@@ -1,6 +1,6 @@
 # Heuremin (MY)
 
-Heuremin (MY) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 15 Aug 2026.
+Heuremin (MY) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 15 Aug 2026.
 
 Heuremin (MY) is a techno and bass artist based in Malaysia, tracked on soundcheck, with 4 sets logged across Kualalumpur. Often billed alongside 7CIRCLE, Brainer and Greystick. Next up: Pisco Bar, Kualalumpur on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Heuremin (MY) is a techno and bass artist based in Malaysia, tracked on soundche
 
 7CIRCLE, Brainer, Greystick
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*

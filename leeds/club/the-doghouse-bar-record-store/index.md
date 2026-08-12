@@ -1,6 +1,6 @@
 # The Doghouse bar & Record Store
 
-The Doghouse bar & Record Store is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "KIRGATE STREET X MATT JL BIRTHDAY (FREE EVENT)" on Sat, 15 Aug 2026.
+The Doghouse bar & Record Store is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "KIRGATE STREET X MATT JL BIRTHDAY (FREE EVENT)" on Sat, 15 Aug 2026.
 
 The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Bod Min, Kieran Black, Parker Smith and Pete Melba and 2 more. Browse upcoming dates, start times and who's playing. 90 Kirkgate, Leeds LS2 7DJ, UK.
 
@@ -15,4 +15,4 @@ The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 
 
 90 Kirkgate, Leeds LS2 7DJ, UK, Leeds
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*

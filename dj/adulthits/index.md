@@ -1,6 +1,6 @@
 # Adult Hits
 
-Adult Hits is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 13 Aug 2026.
+Adult Hits is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 13 Aug 2026.
 
 Adult Hits is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago and Losangeles. Often billed alongside Capes, Club Tularosa and Etari. Next up: Better Tomorrow, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Adult Hits is a house and disco artist based in United States of America, tracke
 
 Capes, Club Tularosa, Etari
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*

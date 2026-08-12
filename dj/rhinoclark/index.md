@@ -1,6 +1,6 @@
 # Rhino Clark
 
-Rhino Clark is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at public records, New York City on Thu, 20 Aug 2026.
+Rhino Clark is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at public records, New York City on Thu, 20 Aug 2026.
 
 Rhino Clark is a club and bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Love Higher, Petal and sola system. Next up: public records, Newyorkcity on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Rhino Clark is a club and bass artist based in United States of America, tracked
 
 Love Higher, Petal, sola system
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinoclark/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinoclark/)*

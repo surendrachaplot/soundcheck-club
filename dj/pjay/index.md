@@ -1,6 +1,6 @@
 # Pjay
 
-Pjay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Pjay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Pjay is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Antwerp, Brussels, Detroit and Newyorkcity. Often billed alongside Todd Fatjo, Giovani and DJ Courtney K. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Pjay is a techno and house artist based in United States of America, tracked on 
 
 Todd Fatjo, Giovani, DJ Courtney K
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjay/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjay/)*

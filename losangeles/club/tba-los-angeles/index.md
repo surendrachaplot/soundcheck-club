@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 16 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "WORK x SKULLDUGGERY present: Alan Fitzpatrick, Anastasia Giovani, & Greg Downey" on Fri, 14 Aug 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 18 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "WORK x SKULLDUGGERY present: Alan Fitzpatrick, Anastasia Giovani, & Greg Downey" on Fri, 14 Aug 2026.
 
-TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 16 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 18 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 16 upcomi
 | Sat, 12 Sept 2026 | WORK presents Beste Hira, Stephen Disario, & Takaaki Itoh | Beste Hira, Stephen Disario, Takaaki Itoh |
 | Sat, 12 Sept 2026 | Planet Love with Fafi Abdel Nour, ketia, James Axon, & Special Guest  | Fafi Abdel Nour, James Axon, ketia |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

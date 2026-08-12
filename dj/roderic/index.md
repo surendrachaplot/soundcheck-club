@@ -1,6 +1,6 @@
 # Roderic
 
-Roderic is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
+Roderic is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Roderic is a house and deep house artist based in Austria, tracked on soundcheck, with 11 sets logged across Berlin, Ibiza, Lisbon and Mexicocity and 2 more. Often billed alongside GOLDEN PINEAPPLE, Metrika and ACID FLORA. Next up: Public Works, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Roderic is a house and deep house artist based in Austria, tracked on soundcheck
 
 GOLDEN PINEAPPLE, Metrika, ACID FLORA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*

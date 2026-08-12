@@ -1,6 +1,6 @@
 # MYRNE
 
-MYRNE is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Standard Time, Toronto on Thu, 1 Oct 2026.
+MYRNE is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Standard Time, Toronto on Thu, 1 Oct 2026.
 
 MYRNE is a progressive house and house artist based in Singapore, tracked on soundcheck, with 9 sets logged across Denver, London, Newyorkcity and Sanfrancisco and 3 more. Often billed alongside Robby East, Ashibah and Rinzen. Next up: Standard Time, Toronto on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ MYRNE is a progressive house and house artist based in Singapore, tracked on sou
 
 Robby East, Ashibah, Rinzen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*

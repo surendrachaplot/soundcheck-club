@@ -1,6 +1,6 @@
 # MENTA
 
-MENTA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 15 Aug 2026.
+MENTA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 15 Aug 2026.
 
 MENTA is a techno and house artist based in Argentina, tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Intruso, J Bronsted and Roberta.Mikeila. Next up: Almar Beach Club, Barcelona on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ MENTA is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Intruso, J Bronsted, Roberta.Mikeila
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*

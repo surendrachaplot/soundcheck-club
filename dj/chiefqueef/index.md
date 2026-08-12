@@ -1,14 +1,15 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Uebel & Gefährlich, Hamburg on Fri, 14 Aug 2026.
+CHIEF QUEEF is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Uebel & Gefährlich, Hamburg on Fri, 14 Aug 2026.
 
-CHIEF QUEEF is a techno and baile funk artist tracked on soundcheck, with 12 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside DJ BREXIT, Joy Boy and A-DEE. Next up: Uebel & Gefährlich, Hamburg on Fri 14 Aug.
+CHIEF QUEEF is a techno and baile funk artist tracked on soundcheck, with 13 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside DJ BREXIT, Joy Boy and Nissa Carrington. Next up: Uebel & Gefährlich, Hamburg on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Uebel & Gefährlich | Hamburg |
+| Sat, 22 Aug 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CHIEF QUEEF is a techno and baile funk artist tracked on soundcheck, with 12 set
 
 ## Shares bills with
 
-DJ BREXIT, Joy Boy, A-DEE
+DJ BREXIT, Joy Boy, Nissa Carrington
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*

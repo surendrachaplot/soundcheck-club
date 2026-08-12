@@ -1,6 +1,6 @@
 # B3
 
-B3 is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
+B3 is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
 
 B3 is a deep house and tech house artist tracked on soundcheck, with 36 sets logged across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and Dominique Danielle. Next up: Sector 57, Birmingham on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ B3 is a deep house and tech house artist tracked on soundcheck, with 36 sets log
 
 Mark Radford, Lance Morgan, Dominique Danielle
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*

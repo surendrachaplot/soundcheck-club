@@ -1,6 +1,6 @@
 # Costa (2)
 
-Costa (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
+Costa (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
 
 Costa (2) is a techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside JAIROSKUN, Carlos Pérez and K-Style. Next up: Sala ART, Madrid on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Costa (2) is a techno artist based in Spain, tracked on soundcheck, with 2 sets 
 
 JAIROSKUN, Carlos Pérez, K-Style
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costa-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costa-2/)*

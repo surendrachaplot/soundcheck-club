@@ -1,6 +1,6 @@
 # Luca Perry
 
-Luca Perry is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
+Luca Perry is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
 
 Luca Perry is an acid and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Herberta, S_STEELE and ellzyb. Next up: Vespers Club, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Luca Perry is an acid and house artist based in United Kingdom, tracked on sound
 
 Herberta, S_STEELE, ellzyb
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaperry/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaperry/)*

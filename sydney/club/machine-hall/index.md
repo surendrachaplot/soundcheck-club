@@ -1,6 +1,6 @@
 # Machine Hall
 
-Machine Hall is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "[sounds*different] FUNraiser" on Fri, 14 Aug 2026.
+Machine Hall is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "[sounds*different] FUNraiser" on Fri, 14 Aug 2026.
 
 Machine Hall is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Eluize, Jane Decks and Karmel Jäger. Browse upcoming dates, start times and who's playing. 183-185 Clarence St, Sydney NSW 2000.
 
@@ -14,4 +14,4 @@ Machine Hall is a music venue in Sydney listed on soundcheck. 1 upcoming night, 
 
 183-185 Clarence St, Sydney NSW 2000, Sydney
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/machine-hall/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/machine-hall/)*

@@ -1,6 +1,6 @@
 # G I N A
 
-G I N A is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bastet, Philadelphia on Fri, 14 Aug 2026.
+G I N A is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bastet, Philadelphia on Fri, 14 Aug 2026.
 
 G I N A is a techno and house artist tracked on soundcheck, with 219 sets logged across Barcelona, Liverpool, Losangeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: Bastet, Philadelphia on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ G I N A is a techno and house artist tracked on soundcheck, with 219 sets logged
 
 Shearn, Dave Tidey, Andi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

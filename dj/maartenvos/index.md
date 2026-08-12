@@ -1,6 +1,6 @@
 # Maarten Vos
 
-Maarten Vos is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Maarten Vos is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Maarten Vos is an ambient and experimental artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Copenhagen and Seoul. Often billed alongside sooom, Joon Kwak and Deadbeat. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maarten Vos is an ambient and experimental artist based in Netherlands, tracked 
 
 sooom, Joon Kwak, Deadbeat
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenvos/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenvos/)*

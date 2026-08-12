@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at YAAM Berlin, Berlin on Sat, 29 Aug 2026.
+awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at YAAM Berlin, Berlin on Sat, 29 Aug 2026.
 
 awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Shinshan Salazar, Ferré and Jarreau Vandal. Next up: YAAM Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundch
 
 Shinshan Salazar, Ferré, Jarreau Vandal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

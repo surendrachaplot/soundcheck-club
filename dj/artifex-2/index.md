@@ -1,14 +1,15 @@
 # Artifex (DE)
 
-Artifex (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Artifex (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
-Artifex (DE) is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, Munich, Nurnberg and Prague and 1 more. Often billed alongside Neverglass, Arcann and Max Wagner. Next up: Rote Sonne, Munich on Fri 14 Aug.
+Artifex (DE) is a techno and house artist tracked on soundcheck, with 43 sets logged across Berlin, Munich, Nurnberg and Paris and 2 more. Often billed alongside Neverglass, Arcann and Max Wagner. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Rote Sonne | Munich |
+| Wed, 19 Aug 2026 | Virage | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Artifex (DE) is a techno and house artist tracked on soundcheck, with 42 sets lo
 
 Neverglass, Arcann, Max Wagner
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*

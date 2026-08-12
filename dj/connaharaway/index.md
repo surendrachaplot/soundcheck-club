@@ -1,6 +1,6 @@
 # Conna Haraway
 
-Conna Haraway is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
+Conna Haraway is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
 
 Conna Haraway is an experimental and ambient artist tracked on soundcheck, with 37 sets logged across Berlin, Copenhagen, Glasgow and Lisbon and 12 more. Often billed alongside VASE, CYBERMISSION and King Softy. Next up: The Jama, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Conna Haraway is an experimental and ambient artist tracked on soundcheck, with 
 
 VASE, CYBERMISSION, King Softy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connaharaway/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connaharaway/)*

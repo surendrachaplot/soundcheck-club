@@ -1,6 +1,6 @@
 # hotbabe93
 
-hotbabe93 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
+hotbabe93 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
 
 hotbabe93 is a garage and techno artist based in Australia, tracked on soundcheck, with 23 sets logged across Melbourne and Sydney. Often billed alongside Azzawi, KJONES and Killjoy. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ hotbabe93 is a garage and techno artist based in Australia, tracked on soundchec
 
 Azzawi, KJONES, Killjoy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotbabe93/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotbabe93/)*

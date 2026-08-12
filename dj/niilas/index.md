@@ -1,19 +1,19 @@
 # Niilas
 
-Niilas is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Trekanten, Oslo on Tue, 11 Aug 2026.
+Niilas is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Villa, Oslo on Sat, 22 Aug 2026.
 
-Niilas is an experimental and techno artist based in Norway, tracked on soundcheck, with 17 sets logged across Barcelona and Oslo. Often billed alongside Posner, Espen Cook and AEREA. Next up: Trekanten, Oslo on Tue 11 Aug.
+Niilas is an experimental and techno artist based in Norway, tracked on soundcheck, with 17 sets logged across Barcelona and Oslo. Often billed alongside Posner, Espen Cook and AEREA. Next up: The Villa, Oslo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Trekanten | Oslo |
 | Sat, 22 Aug 2026 | The Villa | Oslo |
 | Fri, 2 Oct 2026 | TBA - Stave - Brynsveien 1 | Oslo |
 
 ## Recently played
 
+- Trekanten, Oslo — Tue, 11 Aug 2026
 - Blå, Oslo — Sat, 8 Aug 2026
 - The Villa, Oslo — Sat, 2 May 2026
 - The Villa, Oslo — Fri, 6 Feb 2026
@@ -21,10 +21,9 @@ Niilas is an experimental and techno artist based in Norway, tracked on soundche
 - Salt, Oslo — Fri, 26 Sept 2025
 - Blå, Oslo — Fri, 18 Jul 2025
 - Fira Barcelona, Barcelona — Thu, 12 Jun 2025
-- Blå, Oslo — Fri, 2 May 2025
 
 ## Shares bills with
 
 Posner, Espen Cook, AEREA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*

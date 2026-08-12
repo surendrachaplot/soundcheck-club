@@ -1,6 +1,6 @@
 # Shay De Castro
 
-Shay De Castro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
+Shay De Castro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
 
 Shay De Castro is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Austin, Berlin and Chicago and 13 more. Often billed alongside Brennen Grey, MIG-35 and Alchemiah. Next up: Culture Box, Copenhagen on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Shay De Castro is a techno and house artist tracked on soundcheck, with 39 sets 
 
 Brennen Grey, MIG-35, Alchemiah
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*

@@ -1,6 +1,6 @@
 # Ingy Invites at Madre el Cabanyal
 
-Ingy Invites at Madre el Cabanyal on Sat 22 Aug, Valencia. 2 acts on the bill: Flowing and Ingy. House and Disco. Preview the line-up and save it on soundcheck.
+Ingy Invites at Madre el Cabanyal on Sat 22 Aug, Valencia. 3 acts on the bill: Flow, Flowing and Ingy. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ingy Invites at Madre el Cabanyal on Sat 22 Aug, Valencia. 2 acts on the bill: F
 
 ## Line-up
 
+- Flow
 - Flowing
 - Ingy
 

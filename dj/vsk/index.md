@@ -1,6 +1,6 @@
 # VSK
 
-VSK is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Forte Antenne, Rome on Sat, 15 Aug 2026.
+VSK is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Forte Antenne, Rome on Sat, 15 Aug 2026.
 
 VSK is a techno and acid artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 13 more. Often billed alongside Tommy Four Seven, Cristian Marras and Tauceti (FR). Next up: Forte Antenne, Rome on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ VSK is a techno and acid artist tracked on soundcheck, with 48 sets logged acros
 
 Tommy Four Seven, Cristian Marras, Tauceti (FR)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*

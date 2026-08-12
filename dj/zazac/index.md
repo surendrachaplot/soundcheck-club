@@ -1,6 +1,6 @@
 # ZAZA C
 
-ZAZA C is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
+ZAZA C is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
 
 ZAZA C is a house and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Harmony and Josh Wickers. Next up: Tola, London on Fri 25 Sept.
 
@@ -14,4 +14,4 @@ ZAZA C is a house and garage artist based in United Kingdom, tracked on soundche
 
 Harmony, Josh Wickers
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zazac/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zazac/)*

@@ -1,6 +1,6 @@
 # TBA - day before 
 
-TBA - day before  is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "LOTUS BLOSSOM" on Sat, 7 Nov 2026.
+TBA - day before  is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "LOTUS BLOSSOM" on Sat, 7 Nov 2026.
 
 TBA - day before  is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - day before  is a music venue in Losangeles listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | LOTUS BLOSSOM |  |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-day-before/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-day-before/)*

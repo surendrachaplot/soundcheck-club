@@ -1,6 +1,6 @@
 # James Greenwood
 
-James Greenwood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Joshua Brooks, Manchester on Sun, 30 Aug 2026.
+James Greenwood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Joshua Brooks, Manchester on Sun, 30 Aug 2026.
 
 James Greenwood is a house and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bristol, London and Manchester. Often billed alongside Supernature Disco, Mark Disc Break and Chris Massey. Next up: Joshua Brooks, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ James Greenwood is a house and disco artist based in United Kingdom, tracked on 
 
 Supernature Disco, Mark Disc Break, Chris Massey
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesgreenwood/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesgreenwood/)*

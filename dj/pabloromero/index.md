@@ -1,8 +1,8 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at MAD Radio NYC, New York City on Fri, 14 Aug 2026.
+Pablo Romero is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at MAD Radio NYC, New York City on Fri, 14 Aug 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: MAD Radio NYC, Newyorkcity on Fri 14 Aug.
+Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, mink and Jean-Paul. Next up: MAD Radio NYC, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 | Fri, 14 Aug 2026 | MAD Radio NYC | New York City |
 | Sat, 15 Aug 2026 | Le Bain | New York City |
 | Sun, 30 Aug 2026 | TBA - Brooklyn Rooftop | New York City |
+| Thu, 3 Sept 2026 | Signal | New York City |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -26,6 +27,6 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-Daniel Dutts, Jean-Paul, mink
+Daniel Dutts, mink, Jean-Paul
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

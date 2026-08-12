@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Wooden Wisdom (Elijah Wood x Zach Cowie): Fantasy Party & Vinyl DJ Set" on Sat, 15 Aug 2026.
+Radius is a music venue in Chicago with 21 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Wooden Wisdom (Elijah Wood x Zach Cowie): Fantasy Party & Vinyl DJ Set" on Sat, 15 Aug 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including Afrojack, AMAYAH, Cesco and ChaseWest and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 21 upcoming nights, with line-ups including Afrojack, AMAYAH, Ben Böhmer and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, wit
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

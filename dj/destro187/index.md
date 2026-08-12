@@ -1,6 +1,6 @@
 # Destro187
 
-Destro187 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Destro187 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Destro187 is a techno and acid artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside SPEEDŸ, Alexander Technique and Frankie Bones. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Destro187 is a techno and acid artist based in United States of America, tracked
 
 SPEEDŸ, Alexander Technique, Frankie Bones
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*

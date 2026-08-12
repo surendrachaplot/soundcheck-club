@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 28 Aug 2026.
+DJ Koolt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 28 Aug 2026.
 
 DJ Koolt is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: Crobar - Buenos Aires, Buenosaires on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 91 sets logged
 
 ASIA (DE), Christian AB, Ogazón
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

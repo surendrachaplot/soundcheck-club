@@ -1,6 +1,6 @@
 # Ilex
 
-Ilex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+Ilex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 Ilex is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Imanol (2), matiu and Demofather. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Ilex is a techno and house artist tracked on soundcheck, with 25 sets logged acr
 
 Imanol (2), matiu, Demofather
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilex-es/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilex-es/)*

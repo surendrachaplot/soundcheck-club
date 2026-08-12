@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Closer in the Woods with Alexia, Karine, Shakolin, Timur Basha" on Sat, 15 Aug 2026.
+gART.n is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Closer in the Woods with Alexia, Karine, Shakolin, Timur Basha" on Sat, 15 Aug 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 7heads, Ada, AGILY and Alexia (2) and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -23,4 +23,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

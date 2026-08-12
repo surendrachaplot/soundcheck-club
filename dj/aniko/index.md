@@ -1,6 +1,6 @@
 # Aniko
 
-Aniko is a Afro Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Skatecafe, Amsterdam on Sat, 15 Aug 2026.
+Aniko is a Afro Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Skatecafe, Amsterdam on Sat, 15 Aug 2026.
 
 Aniko is an afro tech and bass artist based in Nigeria, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and London. Often billed alongside Assyouti, CR33D and Catu Diosis. Next up: Skatecafe, Amsterdam on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Aniko is an afro tech and bass artist based in Nigeria, tracked on soundcheck, w
 
 Assyouti, CR33D, Catu Diosis
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniko/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniko/)*

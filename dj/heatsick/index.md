@@ -1,6 +1,6 @@
 # Heatsick
 
-Heatsick is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Silent Green, Berlin on Fri, 11 Sept 2026.
+Heatsick is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Silent Green, Berlin on Fri, 11 Sept 2026.
 
 Heatsick is an electronic artist tracked on soundcheck, with 7 sets logged across Berlin, Glasgow and Manchester. Often billed alongside VANYA, Andrew Thomson and Conor Thomas. Next up: Silent Green, Berlin on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Heatsick is an electronic artist tracked on soundcheck, with 7 sets logged acros
 
 VANYA, Andrew Thomson, Conor Thomas
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heatsick/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heatsick/)*

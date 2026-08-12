@@ -1,6 +1,6 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Mondo, Madrid on Sat, 15 Aug 2026.
+Morgan Seatree is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Mondo, Madrid on Sat, 15 Aug 2026.
 
 Morgan Seatree is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Belfast and Boston and 21 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Mondo, Madrid on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 81 s
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

@@ -1,6 +1,6 @@
 # shulliana.music
 
-shulliana.music is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+shulliana.music is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 shulliana.music is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Alexx Zander Johnson, ANDRË and HNKS. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ shulliana.music is a techno and progressive house artist based in Argentina, tra
 
 Alexx Zander Johnson, ANDRË, HNKS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shulliana-music/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shulliana-music/)*

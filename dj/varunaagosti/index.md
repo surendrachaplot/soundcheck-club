@@ -1,6 +1,6 @@
 # Varuna Agosti
 
-Varuna Agosti is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
+Varuna Agosti is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
 
 Varuna Agosti is a techno and garage artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Rotterdam and Tbilisi. Often billed alongside Prance, Thoms Traxx and AYIM. Next up: TILLATEC, Amsterdam on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Varuna Agosti is a techno and garage artist based in Netherlands, tracked on sou
 
 Prance, Thoms Traxx, AYIM
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varunaagosti/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varunaagosti/)*

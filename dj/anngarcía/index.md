@@ -1,6 +1,6 @@
 # Ann García
 
-Ann García is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
+Ann García is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
 
 Ann García is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 77 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Enya Botello and nvxrrx. Next up: Levu VIP, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ann García is a techno and hardcore artist based in Mexico, tracked on soundche
 
 Magnolia Coronado, Enya Botello, nvxrrx
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anngarcía/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anngarcía/)*

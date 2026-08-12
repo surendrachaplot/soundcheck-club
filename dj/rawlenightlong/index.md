@@ -1,6 +1,6 @@
 # Rawle Night Long
 
-Rawle Night Long is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Tigres de la Noche, Washington DC on Sat, 12 Sept 2026.
+Rawle Night Long is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tigres de la Noche, Washington DC on Sat, 12 Sept 2026.
 
 Rawle Night Long is a house and uk funky artist tracked on soundcheck, with 15 sets logged across Washingtondc. Often billed alongside Bridget, Blindstares and Bushbaby. Next up: Tigres de la Noche, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rawle Night Long is a house and uk funky artist tracked on soundcheck, with 15 s
 
 Bridget, Blindstares, Bushbaby
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawlenightlong/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawlenightlong/)*

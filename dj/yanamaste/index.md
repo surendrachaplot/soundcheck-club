@@ -1,6 +1,6 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logg
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

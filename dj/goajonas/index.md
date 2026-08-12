@@ -1,6 +1,6 @@
 # Goa Jonas
 
-Goa Jonas is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at KitKatClub, Berlin on Fri, 14 Aug 2026.
+Goa Jonas is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at KitKatClub, Berlin on Fri, 14 Aug 2026.
 
 Goa Jonas is a psytrance and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Basel, Berlin, Hamburg and Osaka. Often billed alongside Eat Static, 6EJOU and ATESH. Next up: KitKatClub, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Goa Jonas is a psytrance and trance artist based in Germany, tracked on soundche
 
 Eat Static, 6EJOU, ATESH
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goajonas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goajonas/)*

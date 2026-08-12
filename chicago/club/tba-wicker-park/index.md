@@ -1,6 +1,6 @@
 # TBA - Wicker Park
 
-TBA - Wicker Park is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sinners Sanctuary: Lillith's Garden a bi/pansexual sex-positive rave ($lut's Party)" on Fri, 14 Aug 2026.
+TBA - Wicker Park is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sinners Sanctuary: Lillith's Garden a bi/pansexual sex-positive rave ($lut's Party)" on Fri, 14 Aug 2026.
 
 TBA - Wicker Park is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Blu9, Jon McCray, Mister Wallace and R°sha. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Wicker Park is a music venue in Chicago listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Sinners Sanctuary: Lillith's Garden a bi/pansexual sex-positive rave ($lut's Party) | Blu9, Jon McCray, Mister Wallace, R°sha |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-wicker-park/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-wicker-park/)*

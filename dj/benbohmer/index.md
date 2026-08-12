@@ -1,13 +1,15 @@
 # Ben Böhmer
 
-Ben Böhmer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Concourse Project, Austin on Thu, 22 Oct 2026.
+Ben Böhmer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Ben Böhmer is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: The Concourse Project, Austin on Thu 22 Oct.
+Ben Böhmer is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Wollman Rink | New York City |
+| Fri, 2 Oct 2026 | Radius | Chicago |
 | Thu, 22 Oct 2026 | The Concourse Project | Austin |
 
 ## Recently played
@@ -25,4 +27,4 @@ Ben Böhmer is a techno and house artist tracked on soundcheck, with 80 sets log
 
 Adriatique, Deer Jade, KI/KI
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*

@@ -1,6 +1,6 @@
 # Coral the Animal
 
-Coral the Animal is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
+Coral the Animal is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
 
 Coral the Animal is a house and hip-hop artist tracked on soundcheck, with 27 sets logged across Seoul. Often billed alongside Bagagee Viphex13, Funkin Cat and Gamma Knife. Next up: Kind Square, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Coral the Animal is a house and hip-hop artist tracked on soundcheck, with 27 se
 
 Bagagee Viphex13, Funkin Cat, Gamma Knife
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coraltheanimal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coraltheanimal/)*

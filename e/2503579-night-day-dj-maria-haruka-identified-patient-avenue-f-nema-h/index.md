@@ -1,6 +1,6 @@
-# Night & Day: DJ MARIA., Haruka, Identified Patient, Avenue F, Nema Han at Signal
+# Night & Day: DJ MARIA., Haruka, Identified Patient, Avenue F, Nema Hän at Signal
 
-Night & Day: DJ MARIA., Haruka, Identified Patient, Avenue F, Nema Han at Signal on Fri 11 Sept, Newyorkcity. 5 acts on the bill: Avenue F, DJ MARIA., Haruka and Identified Patient and 1 more. Preview the line-up and save it on soundcheck.
+Night & Day: DJ MARIA., Haruka, Identified Patient, Avenue F, Nema Hän at Signal on Fri 11 Sept, Newyorkcity. 5 acts on the bill: Avenue F, DJ MARIA., Haruka and Identified Patient and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

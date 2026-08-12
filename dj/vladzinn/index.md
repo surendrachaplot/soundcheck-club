@@ -1,6 +1,6 @@
 # Vlad Zinn
 
-Vlad Zinn is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
+Vlad Zinn is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 Vlad Zinn is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside acidhousewife3000, dbeater and ttttttttt. Next up: HWK, London on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Vlad Zinn is an electronica and club artist based in United Kingdom, tracked on 
 
 acidhousewife3000, dbeater, ttttttttt
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladzinn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladzinn/)*

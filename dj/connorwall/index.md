@@ -1,8 +1,8 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
+Connor Wall is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
 
-Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Belgrade and Berlin and 16 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: Tanzhaus West, Frankfurt on Fri 14 Aug.
+Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: Tanzhaus West, Frankfurt on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 19 Sept 2026 | SMUT Athens | Athens |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
+| Fri, 2 Oct 2026 | Astoria | Turin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

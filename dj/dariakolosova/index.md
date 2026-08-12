@@ -1,14 +1,13 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 11 Aug 2026.
+Daria Kolosova is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Amnesia Ibiza, Ibiza on Tue 11 Aug.
+Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Jasna 1 | Warsaw |
@@ -20,9 +19,11 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 | Fri, 11 Sept 2026 | Art Club | Houston |
 | Fri, 11 Sept 2026 | Art Club | Houston |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 - Mia Mao, Paris — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
-- Grelle Forelle, Vienna — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

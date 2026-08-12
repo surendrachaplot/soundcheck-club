@@ -1,6 +1,6 @@
 # Mézigue
 
-Mézigue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Mézigue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Mézigue is a house and techno artist based in France, tracked on soundcheck, with 60 sets logged across Brussels, Dublin, Geneva and Ghent and 10 more. Often billed alongside Mad Rey, Belaria and GGGG. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Mézigue is a house and techno artist based in France, tracked on soundcheck, wi
 
 Mad Rey, Belaria, GGGG
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*

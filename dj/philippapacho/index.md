@@ -1,8 +1,8 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Philippa Pacho is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Philippa Pacho is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Fri, 28 Aug 2026 | Zoo | Geneva |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 11 Sept 2026 | Fvtvr | Paris |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
@@ -30,4 +31,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

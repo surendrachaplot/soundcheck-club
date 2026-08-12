@@ -1,14 +1,15 @@
 # Harry Fletcher
 
-Harry Fletcher is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
+Harry Fletcher is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
 
-Harry Fletcher is a house and deep house artist tracked on soundcheck, with 19 sets logged across Newyorkcity and Osaka. Often billed alongside Jared Maharaj, Ali Coleman and Eklektik. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
+Harry Fletcher is a house and deep house artist tracked on soundcheck, with 20 sets logged across Newyorkcity and Osaka. Often billed alongside Jared Maharaj, Ali Coleman and Asha Jasz. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Apollo Studio | New York City |
+| Sat, 29 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Harry Fletcher is a house and deep house artist tracked on soundcheck, with 19 s
 
 ## Shares bills with
 
-Jared Maharaj, Ali Coleman, Eklektik
+Jared Maharaj, Ali Coleman, Asha Jasz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*

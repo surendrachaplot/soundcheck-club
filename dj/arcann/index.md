@@ -1,6 +1,6 @@
 # Arcann
 
-Arcann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Arcann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
 Arcann is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Munich. Often billed alongside R1PE DJ, SYNTA and CLOSURE (DE). Next up: Rote Sonne, Munich on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arcann is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 R1PE DJ, SYNTA, CLOSURE (DE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcann/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcann/)*

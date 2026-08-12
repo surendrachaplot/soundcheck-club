@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
 Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: Burgess Park, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on 
 
 Jyoty, DJ Heartstring, Donnie Sunshine
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

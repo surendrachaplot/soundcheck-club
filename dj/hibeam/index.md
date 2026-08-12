@@ -1,6 +1,6 @@
 # hi beam
 
-hi beam is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+hi beam is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 hi beam is a techno and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Daniel Duese, Eddi Sander and Marc Machado. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ hi beam is a techno and tech house artist based in Germany, tracked on soundchec
 
 Daniel Duese, Eddi Sander, Marc Machado
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hibeam/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hibeam/)*

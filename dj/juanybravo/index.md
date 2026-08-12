@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
+Juany Bravo is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
 
 Juany Bravo is an afro house and tech house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Bangkok, Barcelona, Ibiza and Istanbul and 9 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: Hï Ibiza, Ibiza on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Juany Bravo is an afro house and tech house artist based in United States of Ame
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

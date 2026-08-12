@@ -1,6 +1,6 @@
 # dusk (2)
 
-dusk (2) is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA, Montreal on Sat, 15 Aug 2026.
+dusk (2) is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Montreal on Sat, 15 Aug 2026.
 
 dusk (2) is a bass and breakbeat artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside Keo (2), Runa and eicul. Next up: TBA, Montreal on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ dusk (2) is a bass and breakbeat artist based in Canada, tracked on soundcheck, 
 
 Keo (2), Runa, eicul
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dusk-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dusk-2/)*

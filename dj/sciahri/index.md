@@ -1,6 +1,6 @@
 # Sciahri
 
-Sciahri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at SMUT Athens, Athens on Sat, 3 Oct 2026.
+Sciahri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at SMUT Athens, Athens on Sat, 3 Oct 2026.
 
 Sciahri is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Athens, Barcelona, Berlin and Leipzig and 11 more. Often billed alongside Wizard K, Aniaef and BIDOBEN. Next up: SMUT Athens, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sciahri is a techno and industrial artist tracked on soundcheck, with 32 sets lo
 
 Wizard K, Aniaef, BIDOBEN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

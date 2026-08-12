@@ -1,6 +1,6 @@
 # VITO (UK)
 
-VITO (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
+VITO (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
 
 VITO (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 13 more. Often billed alongside AJ Christou, Burdi and Harvy Valencia. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ VITO (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 AJ Christou, Burdi, Harvy Valencia
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

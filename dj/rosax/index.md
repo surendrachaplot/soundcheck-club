@@ -1,6 +1,6 @@
 # Rosax
 
-Rosax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Solace, Melbourne on Fri, 14 Aug 2026.
+Rosax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Solace, Melbourne on Fri, 14 Aug 2026.
 
 Rosax is a techno and house artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Ed Kent, HAUSWiFE and Hasvat Informant. Next up: Solace, Melbourne on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Rosax is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 Ed Kent, HAUSWiFE, Hasvat Informant
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*

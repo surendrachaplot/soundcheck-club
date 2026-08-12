@@ -1,6 +1,6 @@
 # Flabaire
 
-Flabaire is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mäurer, Cologne on Fri, 14 Aug 2026.
+Flabaire is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mäurer, Cologne on Fri, 14 Aug 2026.
 
 Flabaire is a house and deep house artist based in France, tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Brussels and Cologne and 6 more. Often billed alongside GGGG, Larry Houl and Mad Rey. Next up: Mäurer, Cologne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Flabaire is a house and deep house artist based in France, tracked on soundcheck
 
 GGGG, Larry Houl, Mad Rey
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*

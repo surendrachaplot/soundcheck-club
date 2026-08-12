@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Belgrave Music Hall, Leeds on Tue, 1 Sept 2026.
+Frost Children is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Belgrave Music Hall, Leeds on Tue, 1 Sept 2026.
 
 Frost Children is a pop and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: Belgrave Music Hall, Leeds on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Frost Children is a pop and electronica artist tracked on soundcheck, with 51 se
 
 10cust, Ali RQ, DJ Trick
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

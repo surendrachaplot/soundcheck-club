@@ -1,6 +1,6 @@
 # JP Lantieri
 
-JP Lantieri is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
+JP Lantieri is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
 
 JP Lantieri is a progressive house artist tracked on soundcheck, with 5 sets logged across Amsterdam, London and Paris. Often billed alongside 6RAJ, Astúria and Bramski DC. Next up: The Flying Dutchman Café, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ JP Lantieri is a progressive house artist tracked on soundcheck, with 5 sets log
 
 6RAJ, Astúria, Bramski DC
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*

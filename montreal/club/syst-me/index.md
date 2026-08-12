@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Play Do x Puzzle" on Thu, 13 Aug 2026.
+Système is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Play Do x Puzzle" on Thu, 13 Aug 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Asha (4), Badgalquirit, Cleveland and Coussy and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Asha (4), Badgalquirit, Cleveland and Coussy and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 13 upcoming nights, 
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

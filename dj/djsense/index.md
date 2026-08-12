@@ -1,6 +1,6 @@
 # DJ Sense
 
-DJ Sense is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
+DJ Sense is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
 
 DJ Sense is a techno and trance artist tracked on soundcheck, with 94 sets logged across Berlin, Copenhagen, Liverpool and Manchester and 1 more. Often billed alongside Seqta, Generali Minerali and Neon Warrior. Next up: Bassiani, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Sense is a techno and trance artist tracked on soundcheck, with 94 sets logge
 
 Seqta, Generali Minerali, Neon Warrior
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*

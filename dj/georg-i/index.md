@@ -1,14 +1,15 @@
 # georg-i
 
-georg-i is a Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Time is the new space, Rotterdam on Sat, 15 Aug 2026.
+georg-i is a Bass and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Time is the new space, Rotterdam on Sat, 15 Aug 2026.
 
-georg-i is a bass and pop artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin, Bristol, London and Rotterdam and 1 more. Often billed alongside 2G (1), ADEAD and Ambu Bambu. Next up: Time is the new space, Rotterdam on Sat 15 Aug.
+georg-i is a bass and pop artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Bristol, London and Rotterdam and 1 more. Often billed alongside 2G (1), ADEAD and Ambu Bambu. Next up: Time is the new space, Rotterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Time is the new space | Rotterdam |
+| Fri, 4 Sept 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ georg-i is a bass and pop artist based in United Kingdom, tracked on soundcheck,
 
 2G (1), ADEAD, Ambu Bambu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*

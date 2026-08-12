@@ -1,6 +1,6 @@
 # Mui Mui
 
-Mui Mui is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at public records, New York City on Thu, 13 Aug 2026.
+Mui Mui is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at public records, New York City on Thu, 13 Aug 2026.
 
 Mui Mui is a techno and bass artist tracked on soundcheck, with 75 sets logged across Berlin, Copenhagen, London and Montreal and 4 more. Often billed alongside JIALING, DJ DEADNAME and Eva Loveless. Next up: public records, Newyorkcity on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Mui Mui is a techno and bass artist tracked on soundcheck, with 75 sets logged a
 
 JIALING, DJ DEADNAME, Eva Loveless
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*

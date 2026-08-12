@@ -1,6 +1,6 @@
 # Andwahn
 
-Andwahn is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
+Andwahn is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
 
 Andwahn is a breakbeat and jungle artist based in New Zealand, tracked on soundcheck, with 9 sets logged across Auckland. Often billed alongside Takydon, Aunty Bev and Clay Louis. Next up: Il Brutto Auckland, Auckland on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andwahn is a breakbeat and jungle artist based in New Zealand, tracked on soundc
 
 Takydon, Aunty Bev, Clay Louis
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*

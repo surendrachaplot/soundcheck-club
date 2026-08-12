@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI" on Fri, 14 Aug 2026.
+Het Sieraad is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI" on Fri, 14 Aug 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Adam Ten, Adapter, Authentiek Recept and Bob Moses and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 17 upcoming nigh
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

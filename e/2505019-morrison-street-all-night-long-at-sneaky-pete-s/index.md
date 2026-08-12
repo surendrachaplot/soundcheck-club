@@ -1,6 +1,6 @@
 # Morrison Street All Night Long at Sneaky Pete's
 
-Morrison Street All Night Long at Sneaky Pete's on Thu 13 Aug, Edinburgh. 1 act on the bill: Morrison Street. Preview the line-up and save it on soundcheck.
+Morrison Street All Night Long at Sneaky Pete's on Thu 13 Aug, Edinburgh. 1 act on the bill: Morrison Street. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

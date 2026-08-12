@@ -1,6 +1,6 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Eluzid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Eluzid is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Eluzid is a techno and house artist tracked on soundcheck, with 64 sets logged a
 
 Amin Fallaha, Miran N, aitch
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*

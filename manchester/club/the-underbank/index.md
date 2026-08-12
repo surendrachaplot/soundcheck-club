@@ -1,6 +1,6 @@
 # The Underbank
 
-The Underbank is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Underbank: Sui13" on Fri, 14 Aug 2026.
+The Underbank is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Underbank: Sui13" on Fri, 14 Aug 2026.
 
 The Underbank is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Metrodome and Moodymanc. Browse upcoming dates, start times and who's playing. 27 Great Underbank, Stockport, SK1 1LN.
 
@@ -19,4 +19,4 @@ The Underbank is a music venue in Manchester listed on soundcheck. 6 upcoming ni
 
 27 Great Underbank, Stockport, SK1 1LN, Manchester
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*

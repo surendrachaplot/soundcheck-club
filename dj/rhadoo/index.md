@@ -1,14 +1,15 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Rhadoo is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
-Rhadoo is a minimal and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
+Rhadoo is a minimal and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Club der Visionaere | Berlin |
+| Fri, 18 Sept 2026 | TBA - East Williamsburg | New York City |
 | Fri, 30 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 173 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

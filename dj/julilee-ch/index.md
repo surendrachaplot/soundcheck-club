@@ -1,6 +1,6 @@
 # Juli Lee
 
-Juli Lee is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
+Juli Lee is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
 
 Juli Lee is an electronica and house artist tracked on soundcheck, with 66 sets logged across Basel, Berlin, Geneva and Hamburg and 2 more. Often billed alongside fabulus, Nici Faerber and Playlove. Next up: Kauz, Zurich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Juli Lee is an electronica and house artist tracked on soundcheck, with 66 sets 
 
 fabulus, Nici Faerber, Playlove
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julilee-ch/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julilee-ch/)*

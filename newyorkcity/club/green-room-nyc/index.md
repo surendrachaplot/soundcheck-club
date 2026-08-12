@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "breakpoint" on Wed, 12 Aug 2026.
+Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "breakpoint" on Wed, 12 Aug 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Adi (CO), Ali Cem Esmeray, Andrés Dyer and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

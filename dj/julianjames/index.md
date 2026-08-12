@@ -1,6 +1,6 @@
 # Julian James
 
-Julian James is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Julian James is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Julian James is a house and club artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Andrew Rayel, Black Box and DONT BLINK. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Julian James is a house and club artist based in United Kingdom, tracked on soun
 
 Andrew Rayel, Black Box, DONT BLINK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjames/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjames/)*

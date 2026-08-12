@@ -1,6 +1,6 @@
 # ETHOS Dirty Dollar Disco at Hart Bar
 
-ETHOS Dirty Dollar Disco at Hart Bar on Sat 5 Sept, Newyorkcity. 3 acts on the bill: DBL_BBL, JackTonelli and KANZE. House and Industrial. Preview the line-up and save it on soundcheck.
+ETHOS Dirty Dollar Disco at Hart Bar on Sat 5 Sept, Newyorkcity. 4 acts on the bill: DBL_BBL, Jack Tonelli, JackTonelli and KANZE. House and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ETHOS Dirty Dollar Disco at Hart Bar on Sat 5 Sept, Newyorkcity. 3 acts on the b
 ## Line-up
 
 - DBL_BBL
+- Jack Tonelli
 - JackTonelli
 - KANZE
 

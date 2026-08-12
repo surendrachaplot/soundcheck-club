@@ -1,6 +1,6 @@
 # johan2k
 
-johan2k is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Colours Hoxton, London on Fri, 14 Aug 2026.
+johan2k is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Colours Hoxton, London on Fri, 14 Aug 2026.
 
 johan2k is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Who Is TeeKay?, Faded Society and Glittcherz. Next up: Colours Hoxton, London on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ johan2k is a jungle and garage artist based in United Kingdom, tracked on soundc
 
 Who Is TeeKay?, Faded Society, Glittcherz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan2k/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan2k/)*

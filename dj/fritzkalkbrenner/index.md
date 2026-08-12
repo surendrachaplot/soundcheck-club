@@ -1,6 +1,6 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+Fritz Kalkbrenner is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
 
 Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: SAGE, Berlin on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

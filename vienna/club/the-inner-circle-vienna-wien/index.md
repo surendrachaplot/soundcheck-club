@@ -1,6 +1,6 @@
 # the inner circle vienna / wien
 
-the inner circle vienna / wien is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "overstimulated" on Sat, 15 Aug 2026.
+the inner circle vienna / wien is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "overstimulated" on Sat, 15 Aug 2026.
 
 the inner circle vienna / wien is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Mark Nuering, MIKE MYSTIK, Progressive and RaW. Browse upcoming dates, start times and who's playing. Altmannsdorfer Straße 144, 1230 Vienna.
 
@@ -16,4 +16,4 @@ the inner circle vienna / wien is a music venue in Vienna listed on soundcheck. 
 
 Altmannsdorfer Straße 144, 1230 Vienna, Vienna
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/the-inner-circle-vienna-wien/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/the-inner-circle-vienna-wien/)*

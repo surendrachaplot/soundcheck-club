@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Riverside East, London on Sat, 15 Aug 2026.
+Flux is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Riverside East, London on Sat, 15 Aug 2026.
 
 Flux is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logged across Amsterdam, London, Manchester and Newyorkcity. Often billed alongside Ray Keith, DJ Hype and IC3. Next up: Riverside East, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Flux is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logg
 
 Ray Keith, DJ Hype, IC3
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flux/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flux/)*

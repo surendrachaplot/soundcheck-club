@@ -1,17 +1,18 @@
 # Sunnyside Pavilion
 
-Sunnyside Pavilion is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sunnyside Sessions x Toolroom Records Takeover" on Sat, 29 Aug 2026.
+Sunnyside Pavilion is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sunnyside Sessions x Corona Sunsets feat. Lee Foss, Keys N Krates, Dames House" on Sat, 22 Aug 2026.
 
-Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Addy, Hatiras, Mark Knight and Tony Romera. Browse upcoming dates, start times and who's playing. 1755 Lake Shore Blvd; Toronto, ON M6S; Canada.
+Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Addy, Hatiras, Keys N Krates and Lee Foss and 2 more. Browse upcoming dates, start times and who's playing. 1755 Lake Shore Blvd; Toronto, ON M6S; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Sunnyside Sessions x Corona Sunsets feat. Lee Foss, Keys N Krates, Dames House | Keys N Krates, Lee Foss |
 | Sat, 29 Aug 2026 | Sunnyside Sessions x Toolroom Records Takeover | Addy, Hatiras, Mark Knight, Tony Romera |
 
 ## Address
 
 1755 Lake Shore Blvd; Toronto, ON M6S; Canada, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*

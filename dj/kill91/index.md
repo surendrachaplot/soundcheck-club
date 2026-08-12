@@ -1,6 +1,6 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
+KILL 9 1 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
 
 KILL 9 1 is a techno and house artist based in Canada, tracked on soundcheck, with 35 sets logged across Toronto. Often billed alongside R4TS, MVCHE and Mand0. Next up: Standard Time, Toronto on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ KILL 9 1 is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 R4TS, MVCHE, Mand0
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

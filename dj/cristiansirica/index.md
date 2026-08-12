@@ -1,6 +1,6 @@
 # Cristian Sirica
 
-Cristian Sirica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+Cristian Sirica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
 Cristian Sirica is a techno and house artist based in Italy, tracked on soundcheck, with 37 sets logged across London. Often billed alongside David Agrella, Benebe and ARLYSS. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cristian Sirica is a techno and house artist based in Italy, tracked on soundche
 
 David Agrella, Benebe, ARLYSS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*

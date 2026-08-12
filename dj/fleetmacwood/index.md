@@ -1,6 +1,6 @@
 # Fleetmac Wood
 
-Fleetmac Wood is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at House of Yes, New York City on Fri, 16 Oct 2026.
+Fleetmac Wood is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at House of Yes, New York City on Fri, 16 Oct 2026.
 
 Fleetmac Wood is a disco and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Auckland, Austin, Bali and Berlin and 31 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: House of Yes, Newyorkcity on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Fleetmac Wood is a disco and house artist based in United Kingdom, tracked on so
 
 Roxanne Roll, Alex Oxley, Basement Jaxx
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*

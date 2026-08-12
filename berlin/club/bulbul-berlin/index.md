@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Welcome To My House: Flaaviø, dj prinskorv, La Terrasse" on Thu, 13 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Welcome To My House: Flaaviø, dj prinskorv, La Terrasse" on Thu, 13 Aug 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Javier Anxiety, Agua con gas, Ahni and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

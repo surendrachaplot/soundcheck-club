@@ -1,6 +1,6 @@
 # mionn
 
-mionn is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Heavy Sick Zero, Tokyo on Wed, 19 Aug 2026.
+mionn is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Heavy Sick Zero, Tokyo on Wed, 19 Aug 2026.
 
 mionn is an amapiano and bass artist tracked on soundcheck, with 47 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside mitokon, 35DH-1 and pìccolo. Next up: Heavy Sick Zero, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ mionn is an amapiano and bass artist tracked on soundcheck, with 47 sets logged 
 
 mitokon, 35DH-1, pìccolo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*

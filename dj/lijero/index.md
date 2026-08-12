@@ -1,6 +1,6 @@
 # Lijero
 
-Lijero is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Back Room, Bali on Sat, 22 Aug 2026.
+Lijero is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Back Room, Bali on Sat, 22 Aug 2026.
 
 Lijero is an electro and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bali, Bangkok, Berlin and Leeds. Often billed alongside Adam Dado, Montella G and .Kenzo. Next up: The Back Room, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lijero is an electro and house artist based in United Kingdom, tracked on soundc
 
 Adam Dado, Montella G, .Kenzo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lijero/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lijero/)*

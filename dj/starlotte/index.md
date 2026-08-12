@@ -1,6 +1,6 @@
 # STARLOTTE
 
-STARLOTTE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Mood Ring, New York City on Wed, 12 Aug 2026.
+STARLOTTE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Mood Ring, New York City on Wed, 12 Aug 2026.
 
 STARLOTTE is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside elle xxo, JOHNNY O and AJACENT. Next up: Mood Ring, Newyorkcity on Wed 12 Aug.
 
@@ -23,4 +23,4 @@ STARLOTTE is a techno and house artist based in United States of America, tracke
 
 elle xxo, JOHNNY O, AJACENT
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starlotte/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starlotte/)*

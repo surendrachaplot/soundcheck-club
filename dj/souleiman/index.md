@@ -1,6 +1,6 @@
 # Souleiman
 
-Souleiman is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Souleiman is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Milan. Often billed alongside Sonhan, Fais Le Beau and Marie-Julie. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 se
 
 Sonhan, Fais Le Beau, Marie-Julie
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*

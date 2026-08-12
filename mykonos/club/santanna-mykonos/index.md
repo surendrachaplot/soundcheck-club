@@ -1,6 +1,6 @@
 # Santanna Mykonos
 
-Santanna Mykonos is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Martinez Brothers B2B Prospa" on Wed, 12 Aug 2026.
+Santanna Mykonos is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "The Martinez Brothers B2B Prospa" on Wed, 12 Aug 2026.
 
 Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Ben Sterling, Black Coffee, Francis Mercier and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. Paraga Beach, Mykonos, Greece 84600.
 
@@ -21,4 +21,4 @@ Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 8 upcoming ni
 
 Paraga Beach, Mykonos, Greece 84600, Mykonos
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*

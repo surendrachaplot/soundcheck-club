@@ -1,6 +1,6 @@
 # La Figa
 
-La Figa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Club 77, Sydney on Sun, 30 Aug 2026.
+La Figa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club 77, Sydney on Sun, 30 Aug 2026.
 
 La Figa is a house and techno artist based in Australia, tracked on soundcheck, with 14 sets logged across Sydney. Often billed alongside Alex Diwa, Harry Court and Milkpaste. Next up: Club 77, Sydney on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ La Figa is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Alex Diwa, Harry Court, Milkpaste
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*

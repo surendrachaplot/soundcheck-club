@@ -1,6 +1,6 @@
 # Ruslan Mays
 
-Ruslan Mays is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
+Ruslan Mays is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
 
 Ruslan Mays is a techno and house artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 5 more. Often billed alongside Vani Vachi, Tweeman and Jin-Su. Next up: TBA - Secret Bunker , Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ruslan Mays is a techno and house artist based in Ukraine, tracked on soundcheck
 
 Vani Vachi, Tweeman, Jin-Su
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslanmays/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslanmays/)*

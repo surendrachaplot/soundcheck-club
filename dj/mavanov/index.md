@@ -1,6 +1,6 @@
 # Mavanov
 
-Mavanov is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
+Mavanov is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
 
 Mavanov is an electro and italo disco artist tracked on soundcheck, with 3 sets logged across Utrecht. Often billed alongside Son of 8-Bits, Rimini Express and teemup. Next up: TBA - Boot 122, Utrecht on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Mavanov is an electro and italo disco artist tracked on soundcheck, with 3 sets 
 
 Son of 8-Bits, Rimini Express, teemup
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mavanov/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mavanov/)*

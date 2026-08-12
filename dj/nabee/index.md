@@ -1,6 +1,6 @@
 # Nabee
 
-Nabee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
+Nabee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
 
 Nabee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh. Often billed alongside Brynk, FOLIE (UK) and M.O.B. Next up: Uplands Roast, Edinburgh on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Nabee is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Brynk, FOLIE (UK), M.O.B
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabee/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabee/)*

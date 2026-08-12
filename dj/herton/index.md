@@ -1,6 +1,6 @@
 # Herton
 
-Herton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Fabriek, Brussels on Fri, 14 Aug 2026.
+Herton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at La Fabriek, Brussels on Fri, 14 Aug 2026.
 
 Herton is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Initial Code, Sylvie Maziarz and Clara D. Next up: La Fabriek, Brussels on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Herton is a techno and house artist tracked on soundcheck, with 91 sets logged a
 
 Initial Code, Sylvie Maziarz, Clara D
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*

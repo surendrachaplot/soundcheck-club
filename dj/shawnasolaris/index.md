@@ -1,6 +1,6 @@
 # Shawna Solaris
 
-Shawna Solaris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
+Shawna Solaris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
 
 Shawna Solaris is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside shirlz, Ah Dek and DJ Sauci Soni. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Shawna Solaris is a house and techno artist based in United States of America, t
 
 shirlz, Ah Dek, DJ Sauci Soni
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*

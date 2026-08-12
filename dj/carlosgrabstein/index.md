@@ -1,6 +1,6 @@
 # Carlos GrabStein
 
-Carlos GrabStein is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at 8MM, Berlin on Sat, 22 Aug 2026.
+Carlos GrabStein is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 8MM, Berlin on Sat, 22 Aug 2026.
 
 Carlos GrabStein is an ebm and industrial artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Leipzig and London and 2 more. Often billed alongside Desolate Discotheque, Yoshi (DE) and Adriano. Next up: 8MM, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Carlos GrabStein is an ebm and industrial artist tracked on soundcheck, with 22 
 
 Desolate Discotheque, Yoshi (DE), Adriano
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosgrabstein/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosgrabstein/)*

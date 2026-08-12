@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Fitz Mallorca, Mallorca on Fri, 14 Aug 2026.
+Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Fitz Mallorca, Mallorca on Fri, 14 Aug 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Boston and 16 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Fitz Mallorca, Mallorca on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

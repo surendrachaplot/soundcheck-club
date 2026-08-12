@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
+Armand Van Helden is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
 
 Armand Van Helden is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
 
@@ -33,4 +33,4 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 
 Fatzo, Oden, MiNNA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

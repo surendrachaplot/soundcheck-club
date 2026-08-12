@@ -1,6 +1,6 @@
 # DJ IDeaL
 
-DJ IDeaL is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+DJ IDeaL is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 DJ IDeaL is a techno and tech house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Austin, Chicago, Houston and Losangeles and 2 more. Often billed alongside Redux Saints, Susio and Terry Jasinto. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ IDeaL is a techno and tech house artist based in United States of America, tr
 
 Redux Saints, Susio, Terry Jasinto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djideal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djideal/)*

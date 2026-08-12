@@ -1,6 +1,6 @@
 # Simon Cordiner
 
-Simon Cordiner is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sísí Rooftop Glasgow, Glasgow on Sun, 30 Aug 2026.
+Simon Cordiner is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sísí Rooftop Glasgow, Glasgow on Sun, 30 Aug 2026.
 
 Simon Cordiner is a disco and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside Rebecca Vasmant, Aba Shanti-I and Al Kent. Next up: Sísí Rooftop Glasgow, Glasgow on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Simon Cordiner is a disco and house artist based in United Kingdom, tracked on s
 
 Rebecca Vasmant, Aba Shanti-I, Al Kent
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncordiner/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncordiner/)*

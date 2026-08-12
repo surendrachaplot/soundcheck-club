@@ -1,6 +1,6 @@
 # valknee
 
-valknee is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at clubasia, Tokyo on Sat, 15 Aug 2026.
+valknee is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at clubasia, Tokyo on Sat, 15 Aug 2026.
 
 valknee is an electro and club artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside okadada, CYBERHACKSYSTEM and DJ B2B. Next up: clubasia, Tokyo on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ valknee is an electro and club artist based in Japan, tracked on soundcheck, wit
 
 okadada, CYBERHACKSYSTEM, DJ B2B
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valknee/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valknee/)*

@@ -1,6 +1,6 @@
 # DJ Ringworm
 
-DJ Ringworm is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hail Mary, Toronto on Sat, 19 Sept 2026.
+DJ Ringworm is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hail Mary, Toronto on Sat, 19 Sept 2026.
 
 DJ Ringworm is a house and electronica artist tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Vladdy, xQuizzit and EZRyder. Next up: Hail Mary, Toronto on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ DJ Ringworm is a house and electronica artist tracked on soundcheck, with 8 sets
 
 Vladdy, xQuizzit, EZRyder
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djringworm/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djringworm/)*

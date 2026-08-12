@@ -1,6 +1,6 @@
 # Titonton Duvanté
 
-Titonton Duvanté is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
+Titonton Duvanté is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
 
 Titonton Duvanté is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Bryan Kasenic, DJ Stingray 313 and Daniel Bell. Next up: Good Room, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Titonton Duvanté is a house and techno artist based in United States of America
 
 Bryan Kasenic, DJ Stingray 313, Daniel Bell
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titontonduvante/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titontonduvante/)*

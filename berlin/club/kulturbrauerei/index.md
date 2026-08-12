@@ -1,6 +1,6 @@
 # Kulturbrauerei
 
-Kulturbrauerei is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Ballermann Open Air" on Sat, 15 Aug 2026.
+Kulturbrauerei is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Ballermann Open Air" on Sat, 15 Aug 2026.
 
 Kulturbrauerei is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Kulturbrauerei is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*

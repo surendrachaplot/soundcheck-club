@@ -1,6 +1,6 @@
 # SIMONA
 
-SIMONA is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+SIMONA is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
 
 SIMONA is a latin bass and techno artist based in Argentina, tracked on soundcheck, with 12 sets logged across Barcelona, Brussels and Madrid. Often billed alongside Aka theo, Aleroj and Isablu. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SIMONA is a latin bass and techno artist based in Argentina, tracked on soundche
 
 Aka theo, Aleroj, Isablu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simona-es/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simona-es/)*

@@ -1,6 +1,6 @@
 # Markus Saarländer
 
-Markus Saarländer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
+Markus Saarländer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
 
 Markus Saarländer is a techno and progressive house artist tracked on soundcheck, with 32 sets logged across Brighton. Often billed alongside Caroline Banx, Koipinoxia and POoK. Next up: WaterBear Venue, Brighton on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Markus Saarländer is a techno and progressive house artist tracked on soundchec
 
 Caroline Banx, Koipinoxia, POoK
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussaarlander/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussaarlander/)*

@@ -1,6 +1,6 @@
 # Aiden Ramos
 
-Aiden Ramos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Apotheke, Los Angeles on Sat, 15 Aug 2026.
+Aiden Ramos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Apotheke, Los Angeles on Sat, 15 Aug 2026.
 
 Aiden Ramos is a house and italo disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles. Often billed alongside Reedster, ASHRR and Apiento. Next up: Apotheke, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Aiden Ramos is a house and italo disco artist based in United States of America,
 
 Reedster, ASHRR, Apiento
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenramos/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenramos/)*

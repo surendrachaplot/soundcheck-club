@@ -1,6 +1,6 @@
 # Soussana
 
-Soussana is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Paloma, Berlin on Sat, 15 Aug 2026.
+Soussana is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Paloma, Berlin on Sat, 15 Aug 2026.
 
 Soussana is a house artist based in Israel, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Idit Frenkel. Next up: Paloma, Berlin on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Soussana is a house artist based in Israel, tracked on soundcheck, with 1 set lo
 
 Idit Frenkel
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soussana/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soussana/)*

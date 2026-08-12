@@ -1,13 +1,14 @@
 # Codak
 
-Codak is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at EQ San Diego, San Diego on Fri, 2 Oct 2026.
+Codak is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Spin, San Diego on Fri, 14 Aug 2026.
 
-Codak is a house and disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Sandiego. Often billed alongside ARP8, Punso and match.a.mor. Next up: EQ San Diego, Sandiego on Fri 2 Oct.
+Codak is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sandiego. Often billed alongside ARP8, match.a.mor and Punso. Next up: Spin, Sandiego on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Spin | San Diego |
 | Fri, 2 Oct 2026 | EQ San Diego | San Diego |
 
 ## Recently played
@@ -23,6 +24,6 @@ Codak is a house and disco artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-ARP8, Punso, match.a.mor
+ARP8, match.a.mor, Punso
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codak/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codak/)*

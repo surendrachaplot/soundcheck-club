@@ -1,6 +1,6 @@
 # Ben Green
 
-Ben Green is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
+Ben Green is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
 
 Ben Green is a techno and tech house artist tracked on soundcheck, with 43 sets logged across Berlin and Hamburg. Often billed alongside Boudi Boudin, Max Muth and Upzet. Next up: Insomnia, Berlin on Fri 14 Aug.
 
@@ -9,7 +9,7 @@ Ben Green is a techno and tech house artist tracked on soundcheck, with 43 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
-| Fri, 14 Aug 2026 | Insomnia | Berlin |
+| Fri, 14 Aug 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Ben Green is a techno and tech house artist tracked on soundcheck, with 43 sets 
 
 Boudi Boudin, Max Muth, Upzet
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengreen/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengreen/)*

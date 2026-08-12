@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Insolar (Daytime Clubbing)" on Sat, 12 Sept 2026.
+Fitzroy is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Insolar (Daytime Clubbing)" on Sat, 12 Sept 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including 5RVZ, BLUME, Dorian Fecht and Gustavo Ibañez and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

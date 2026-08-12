@@ -1,6 +1,6 @@
 # Outer Limits Lounge
 
-Outer Limits Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Raavi with Bonnie Hook, TOAM, Auntie Chanel & Sav G" on Thu, 20 Aug 2026.
+Outer Limits Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Raavi with Bonnie Hook, TOAM, Auntie Chanel & Sav G" on Thu, 20 Aug 2026.
 
 Outer Limits Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Auntie Chanel, Bonnie Hook and Savannah G. Browse upcoming dates, start times and who's playing. 5507 Caniff St, Hamtramck, MI 48212, USA.
 
@@ -14,4 +14,4 @@ Outer Limits Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming
 
 5507 Caniff St, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/outer-limits-lounge/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/outer-limits-lounge/)*

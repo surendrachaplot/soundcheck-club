@@ -1,6 +1,6 @@
 # Mélanger le Miel
 
-Mélanger le Miel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 23 Sept 2026.
+Mélanger le Miel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 23 Sept 2026.
 
 Mélanger le Miel is a house and techno artist tracked on soundcheck, with 28 sets logged across Edinburgh, London and Melbourne. Often billed alongside Gabriel Griffith, BASTIANO and Geordie. Next up: Sneaky Pete's, Edinburgh on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Mélanger le Miel is a house and techno artist tracked on soundcheck, with 28 se
 
 Gabriel Griffith, BASTIANO, Geordie
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melangerlemiel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melangerlemiel/)*

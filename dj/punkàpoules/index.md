@@ -1,6 +1,6 @@
 # Punk à Poules
 
-Punk à Poules is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
+Punk à Poules is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
 
 Punk à Poules is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Pretty Privilege, Babaganouschka and CRISTI:ANA. Next up: TBA - Secret location, Montreal on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Punk à Poules is a techno and breakbeat artist tracked on soundcheck, with 8 se
 
 Pretty Privilege, Babaganouschka, CRISTI:ANA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punkàpoules/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punkàpoules/)*

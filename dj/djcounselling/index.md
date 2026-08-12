@@ -1,6 +1,6 @@
 # DJ Counselling
 
-DJ Counselling is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at M.O.T, London on Thu, 17 Sept 2026.
+DJ Counselling is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M.O.T, London on Thu, 17 Sept 2026.
 
 DJ Counselling is a techno and experimental artist tracked on soundcheck, with 11 sets logged across Berlin, London and Prague. Often billed alongside Simon Mós, Kinga Janicka and 808 State. Next up: M.O.T, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ DJ Counselling is a techno and experimental artist tracked on soundcheck, with 1
 
 Simon Mós, Kinga Janicka, 808 State
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcounselling/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcounselling/)*

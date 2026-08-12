@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "R&B AND FUNKY HOUSE NIGHT presents DJ STICKY" on Fri, 14 Aug 2026.
+Setlist @ Somerset House is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "R&B AND FUNKY HOUSE NIGHT presents DJ STICKY" on Fri, 14 Aug 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including mastaque, Shamiso and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

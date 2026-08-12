@@ -1,10 +1,10 @@
 # Cruisin Boat Party x House Piknik ALL WHITE Boat Party at Europa Boat
 
-Cruisin Boat Party x House Piknik ALL WHITE Boat Party at Europa Boat on Sat 15 Aug, Budapest. House and Tech House. Preview the line-up and save it on soundcheck.
+Cruisin Boat Party x House Piknik ALL WHITE Boat Party at Europa Boat on Sat 12 Sept, Budapest. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Sat, 12 Sept 2026 |
 | Venue | Europa Boat |
 | City | Budapest |
 

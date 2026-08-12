@@ -1,6 +1,6 @@
 # The Boombox
 
-The Boombox is a music venue in Miami with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "iparty" on Fri, 14 Aug 2026.
+The Boombox is a music venue in Miami with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "iparty" on Fri, 14 Aug 2026.
 
 The Boombox is a music venue in Miami listed on soundcheck. 6 upcoming nights, with line-ups including SoFTT. Browse upcoming dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
 
@@ -19,4 +19,4 @@ The Boombox is a music venue in Miami listed on soundcheck. 6 upcoming nights, w
 
 4447 SW 75 Ave Miami, FL 33155, Miami
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-boombox/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-boombox/)*

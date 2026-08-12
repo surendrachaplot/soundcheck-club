@@ -1,17 +1,18 @@
 # Zero Lounge
 
-Zero Lounge is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Loading... Heaven.exe" on Fri, 21 Aug 2026.
+Zero Lounge is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "HOT SPACE! Feat. Parallels & SLACKMACHINE" on Thu, 20 Aug 2026.
 
-Zero Lounge is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Adrenaline. Browse upcoming dates, start times and who's playing. 1710 N Hudson Ave, Los Angeles CA 90028.
+Zero Lounge is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Adrenaline, Holly Dodson and SLACKMACHINE. Browse upcoming dates, start times and who's playing. 1710 N Hudson Ave, Los Angeles CA 90028.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | HOT SPACE! Feat. Parallels & SLACKMACHINE | Holly Dodson, SLACKMACHINE |
 | Fri, 21 Aug 2026 | Loading... Heaven.exe | Adrenaline |
 
 ## Address
 
 1710 N Hudson Ave, Los Angeles CA 90028, Los Angeles
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zero-lounge/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zero-lounge/)*

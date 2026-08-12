@@ -1,6 +1,6 @@
 # Cadman Cruises
 
-Cadman Cruises is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "MORE LIFE PRESENTS: SUMMER SEASON LAUNCH Anil Aras (NL) + PARKER (UK)" on Sat, 15 Aug 2026.
+Cadman Cruises is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "MORE LIFE PRESENTS: SUMMER SEASON LAUNCH Anil Aras (NL) + PARKER (UK)" on Sat, 15 Aug 2026.
 
 Cadman Cruises is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Anil Aras and James Parker. Browse upcoming dates, start times and who's playing. Eastern Pontoon, Circular Quay.
 
@@ -14,4 +14,4 @@ Cadman Cruises is a music venue in Sydney listed on soundcheck. 1 upcoming night
 
 Eastern Pontoon, Circular Quay, Sydney
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cadman-cruises/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cadman-cruises/)*

@@ -1,6 +1,6 @@
 # bianyachichi
 
-bianyachichi is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Saltyacid Space, Berlin on Sat, 15 Aug 2026.
+bianyachichi is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Saltyacid Space, Berlin on Sat, 15 Aug 2026.
 
 bianyachichi is an experimental and idm artist tracked on soundcheck, with 16 sets logged across Berlin and Milan. Often billed alongside Kloxii Li, sailormenx and TOGO. Next up: Saltyacid Space, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ bianyachichi is an experimental and idm artist tracked on soundcheck, with 16 se
 
 Kloxii Li, sailormenx, TOGO
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bianyachichi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bianyachichi/)*

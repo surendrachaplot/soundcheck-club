@@ -1,6 +1,6 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Soap Factory, San Diego on Sat, 15 Aug 2026.
+Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Soap Factory, San Diego on Sat, 15 Aug 2026.
 
 Layton Giordani is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Adam Beyer, Green Velvet and John Summit. Next up: The Soap Factory, Sandiego on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Layton Giordani is a techno and house artist tracked on soundcheck, with 115 set
 
 Adam Beyer, Green Velvet, John Summit
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

@@ -1,6 +1,6 @@
 # Borokov Borokov
 
-Borokov Borokov is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
+Borokov Borokov is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
 
 Borokov Borokov is an electro and electronica artist based in Belgium, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Bibi Seck, Aroh and Azo. Next up: The Carpet Shop, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Borokov Borokov is an electro and electronica artist based in Belgium, tracked o
 
 Bibi Seck, Aroh, Azo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borokovborokov/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borokovborokov/)*

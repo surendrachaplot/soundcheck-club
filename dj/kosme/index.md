@@ -1,6 +1,6 @@
 # Kosme
 
-Kosme is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
+Kosme is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
 
 Kosme is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across Lyon and Paris. Often billed alongside Madben, D'Julz and Emma B. Next up: Kilomètre25, Paris on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Kosme is a house and techno artist based in France, tracked on soundcheck, with 
 
 Madben, D'Julz, Emma B
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosme/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosme/)*

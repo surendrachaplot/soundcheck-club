@@ -1,6 +1,6 @@
 # TAITO
 
-TAITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+TAITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 TAITO is a techno and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Birmingham, London, Madrid and Sheffield and 1 more. Often billed alongside Gridlock, Antonio De Angelis and SBBS. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TAITO is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 Gridlock, Antonio De Angelis, SBBS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taito/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taito/)*

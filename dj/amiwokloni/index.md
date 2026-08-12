@@ -1,6 +1,6 @@
 # Ami Wokloni
 
-Ami Wokloni is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at migas, a listening bar, Berlin on Sat, 15 Aug 2026.
+Ami Wokloni is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at migas, a listening bar, Berlin on Sat, 15 Aug 2026.
 
 Ami Wokloni is a pop and house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Sk [Rain]. Next up: migas, a listening bar, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Ami Wokloni is a pop and house artist tracked on soundcheck, with 2 sets logged 
 
 Sk [Rain]
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiwokloni/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiwokloni/)*

@@ -1,6 +1,6 @@
 # Random Sample
 
-Random Sample is a music venue in Nashville with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Ben Garnett + Cameron Knowler / Matt Glassmeyer + Viktor Krauss" on Fri, 14 Aug 2026.
+Random Sample is a music venue in Nashville with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Ben Garnett + Cameron Knowler / Matt Glassmeyer + Viktor Krauss" on Fri, 14 Aug 2026.
 
 Random Sample is a music venue in Nashville listed on soundcheck. 6 upcoming nights, with line-ups including Charlie Conway. Browse upcoming dates, start times and who's playing. 4904 Charlotte Ave, Nashville, TN 37209.
 
@@ -19,4 +19,4 @@ Random Sample is a music venue in Nashville listed on soundcheck. 6 upcoming nig
 
 4904 Charlotte Ave, Nashville, TN 37209, Nashville
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*

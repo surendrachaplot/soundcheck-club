@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 20 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "The Mantis Project" on Thu, 13 Aug 2026.
+OIL Club is a music venue in Shenzhen with 20 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "The Mantis Project" on Thu, 13 Aug 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 20 upcoming nights, with line-ups including Alion, Butterfly (2), D-Leria and DJ 86 and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 20 upcoming nights, 
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

@@ -1,6 +1,6 @@
 # Rajky
 
-Rajky is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cross Club, Prague on Fri, 14 Aug 2026.
+Rajky is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cross Club, Prague on Fri, 14 Aug 2026.
 
 Rajky is a techno and minimal techno artist based in France, tracked on soundcheck, with 68 sets logged across Prague. Often billed alongside Tatomed (2), Sam Gittis and DDK (1). Next up: Cross Club, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rajky is a techno and minimal techno artist based in France, tracked on soundche
 
 Tatomed (2), Sam Gittis, DDK (1)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajky/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajky/)*

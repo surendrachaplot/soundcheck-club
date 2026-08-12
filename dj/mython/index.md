@@ -1,6 +1,6 @@
 # Mython
 
-Mython is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Mython is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
 
 Mython is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: ÆDEN, Berlin on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Mython is a techno and house artist tracked on soundcheck, with 64 sets logged a
 
 Jonas Xenon, Scepticism, Tanzanfall
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mython/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mython/)*

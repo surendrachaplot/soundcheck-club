@@ -1,6 +1,6 @@
 # Baka G
 
-Baka G is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
+Baka G is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
 
 Baka G is a house and electro artist based in Belgium, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Basel and Berlin and 8 more. Often billed alongside Crowd Control, Maggy Smiss and Cinthie. Next up: Cova Santa, Ibiza on Tue 8 Sept.
 
@@ -26,4 +26,4 @@ Baka G is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 Crowd Control, Maggy Smiss, Cinthie
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*

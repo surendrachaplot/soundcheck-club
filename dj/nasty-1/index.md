@@ -1,6 +1,6 @@
 # nasty (1)
 
-nasty (1) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
+nasty (1) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
 
 nasty (1) is an electronica and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Hamburg, Mexicocity and Paris and 1 more. Often billed alongside BBetriebswirt, EUROBABES and Ecke & Hugo. Next up: Crack Bellmer, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ nasty (1) is an electronica and house artist based in Germany, tracked on soundc
 
 BBetriebswirt, EUROBABES, Ecke & Hugo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasty-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasty-1/)*

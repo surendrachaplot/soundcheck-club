@@ -1,6 +1,6 @@
 # Subcultures
 
-Subcultures is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+Subcultures is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 Subcultures is an electro and house artist tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Brutal Twink, SWIMMIE and Melona. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Subcultures is an electro and house artist tracked on soundcheck, with 35 sets l
 
 Brutal Twink, SWIMMIE, Melona
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*

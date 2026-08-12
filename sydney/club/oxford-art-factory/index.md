@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Icon Series 2" on Fri, 14 Aug 2026.
+Oxford Art Factory is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Icon Series 2" on Fri, 14 Aug 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and James Massiah and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -21,4 +21,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming n
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

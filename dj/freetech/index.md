@@ -1,6 +1,6 @@
 # Freetech
 
-Freetech is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Distillery N17, London on Sat, 5 Sept 2026.
+Freetech is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery N17, London on Sat, 5 Sept 2026.
 
 Freetech is a techno and psytrance artist tracked on soundcheck, with 15 sets logged across London, Manchester and Paris. Often billed alongside Wired, Kling and Micro Bites. Next up: Distillery N17, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Freetech is a techno and psytrance artist tracked on soundcheck, with 15 sets lo
 
 Wired, Kling, Micro Bites
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freetech/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freetech/)*

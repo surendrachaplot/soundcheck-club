@@ -1,6 +1,6 @@
 # Alice in Flames
 
-Alice in Flames is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Neun, Berlin on Fri, 14 Aug 2026.
+Alice in Flames is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Neun, Berlin on Fri, 14 Aug 2026.
 
 Alice in Flames is a techno and electro artist based in Germany, tracked on soundcheck, with 11 sets logged across Athens, Berlin, Hamburg and Leipzig. Often billed alongside FAQ (DE), L.F.T. and HKS97. Next up: Bar Neun, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Alice in Flames is a techno and electro artist based in Germany, tracked on soun
 
 FAQ (DE), L.F.T., HKS97
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*

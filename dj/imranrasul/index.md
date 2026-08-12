@@ -1,6 +1,6 @@
 # IMRAN RASUL
 
-IMRAN RASUL is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 14 Aug 2026.
+IMRAN RASUL is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 14 Aug 2026.
 
 IMRAN RASUL is a house and minimal techno artist tracked on soundcheck, with 17 sets logged across Kualalumpur. Often billed alongside Alam, Axel Groove and Meliha. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ IMRAN RASUL is a house and minimal techno artist tracked on soundcheck, with 17 
 
 Alam, Axel Groove, Meliha
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imranrasul/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imranrasul/)*

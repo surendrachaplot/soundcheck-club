@@ -1,6 +1,6 @@
 # Kribs
 
-Kribs is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Silbergold, Frankfurt on Fri, 14 Aug 2026.
+Kribs is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Silbergold, Frankfurt on Fri, 14 Aug 2026.
 
 Kribs is a techno and progressive house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt. Often billed alongside Miles Pinkert, mojo (DE) and Anna Konda. Next up: Silbergold, Frankfurt on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kribs is a techno and progressive house artist based in Germany, tracked on soun
 
 Miles Pinkert, mojo (DE), Anna Konda
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kribs/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kribs/)*

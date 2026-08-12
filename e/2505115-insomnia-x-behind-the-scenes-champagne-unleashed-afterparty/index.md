@@ -1,11 +1,11 @@
-# Insomnia x Behind The Scenes, Champagne & UNLEASHED Afterparty at Insomnia
+# Insomnia x Behind The Scenes, Champagne & UNLEASHED Afterparty at TBA
 
-Insomnia x Behind The Scenes, Champagne & UNLEASHED Afterparty on Sat 29 Aug, Berlin. 6 acts on the bill: Andrea Marino, CosmiKat, Epicx and justUS and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Insomnia x Behind The Scenes, Champagne & UNLEASHED Afterparty at TBA on Sat 29 Aug, Berlin. 6 acts on the bill: Andrea Marino, CosmiKat, Epicx and justUS and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 29 Aug 2026 |
-| Venue | Insomnia |
+| Venue | TBA |
 | City | Berlin |
 
 ## Line-up

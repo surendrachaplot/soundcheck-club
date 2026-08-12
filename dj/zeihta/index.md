@@ -1,6 +1,6 @@
 # Zeihta
 
-Zeihta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+Zeihta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
 
 Zeihta is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Alejandro Molinari, DonTom and Frankie Flowerz. Next up: Void Club, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Zeihta is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Alejandro Molinari, DonTom, Frankie Flowerz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeihta/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeihta/)*

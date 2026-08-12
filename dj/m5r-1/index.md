@@ -1,6 +1,6 @@
 # M5R (1)
 
-M5R (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 14 Aug 2026.
+M5R (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 14 Aug 2026.
 
 M5R (1) is a techno artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Avraxas, Bapho999 and SYM. Next up: Born 2B Music Bar, Barcelona on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ M5R (1) is a techno artist tracked on soundcheck, with 4 sets logged across Barc
 
 Avraxas, Bapho999, SYM
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m5r-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m5r-1/)*

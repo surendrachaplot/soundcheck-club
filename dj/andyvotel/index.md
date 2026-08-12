@@ -1,6 +1,6 @@
 # Andy Votel
 
-Andy Votel is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Yes, Manchester on Fri, 21 Aug 2026.
+Andy Votel is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Yes, Manchester on Fri, 21 Aug 2026.
 
 Andy Votel is a hip-hop and bass artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Elliot Hutchinson, AMAKA and Afriquoi. Next up: Yes, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Andy Votel is a hip-hop and bass artist based in United Kingdom, tracked on soun
 
 Elliot Hutchinson, AMAKA, Afriquoi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvotel/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvotel/)*

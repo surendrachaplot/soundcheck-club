@@ -1,6 +1,6 @@
 # Kerry Wallace
 
-Kerry Wallace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
+Kerry Wallace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
 
 Kerry Wallace is a tech house and house artist based in Australia, tracked on soundcheck, with 90 sets logged across Amsterdam, Auckland, Austin and Bali and 16 more. Often billed alongside Voigtmann, Dan Baartz and Cassette. Next up: Distrikt, Leeds on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kerry Wallace is a tech house and house artist based in Australia, tracked on so
 
 Voigtmann, Dan Baartz, Cassette
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrywallace/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrywallace/)*

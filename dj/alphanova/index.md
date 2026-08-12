@@ -1,6 +1,6 @@
 # Alphanova
 
-Alphanova is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 28 Aug 2026.
+Alphanova is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
 Alphanova is an italo disco and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Madrid, Nantes and Paris. Often billed alongside Jo Kazan, Nabil Saffouri DJ and Fat-P. Next up: Almar Beach Club, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alphanova is an italo disco and house artist tracked on soundcheck, with 21 sets
 
 Jo Kazan, Nabil Saffouri DJ, Fat-P
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphanova/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphanova/)*

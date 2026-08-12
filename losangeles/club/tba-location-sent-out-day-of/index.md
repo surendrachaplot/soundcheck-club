@@ -1,6 +1,6 @@
 # TBA - Location sent out day of
 
-TBA - Location sent out day of is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Dolls Night x Club Diffuse Day Party" on Sat, 22 Aug 2026.
+TBA - Location sent out day of is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Dolls Night x Club Diffuse Day Party" on Sat, 22 Aug 2026.
 
 TBA - Location sent out day of is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including AIDEL, ang31t3ch, Earlll and joycxi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location sent out day of is a music venue in Losangeles listed on soundche
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Dolls Night x Club Diffuse Day Party | AIDEL, Earlll, ang31t3ch, joycxi |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-location-sent-out-day-of/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-location-sent-out-day-of/)*

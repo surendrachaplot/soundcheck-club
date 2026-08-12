@@ -1,13 +1,14 @@
 # Alhena_
 
-Alhena_ is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Glazart, Paris on Sun, 30 Aug 2026.
+Alhena_ is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Virage, Paris on Wed, 19 Aug 2026.
 
-Alhena_ is a techno artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Paris and Vienna. Often billed alongside PSMT, Tinco and Skungal. Next up: Glazart, Paris on Sun 30 Aug.
+Alhena_ is a techno artist based in France, tracked on soundcheck, with 17 sets logged across Berlin, Paris and Vienna. Often billed alongside PSMT, Tinco and Skungal. Next up: Virage, Paris on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Virage | Paris |
 | Sun, 30 Aug 2026 | Glazart | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Alhena_ is a techno artist based in France, tracked on soundcheck, with 16 sets 
 
 PSMT, Tinco, Skungal
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alhena_/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alhena_/)*

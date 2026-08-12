@@ -1,6 +1,6 @@
 # Jay Lumen
 
-Jay Lumen is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat, 15 Aug 2026.
+Jay Lumen is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat, 15 Aug 2026.
 
 Jay Lumen is a techno and tech house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 22 more. Often billed alongside Akos Wex, Sikztah and Cosmic Xplorer. Next up: TBA - Deep Pool Park, 1,000 m² former swimming pool, surrounded by acacia forest in Petőfibánya, Hungary., Budapest on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jay Lumen is a techno and tech house artist tracked on soundcheck, with 43 sets 
 
 Akos Wex, Sikztah, Cosmic Xplorer
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylumen/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylumen/)*

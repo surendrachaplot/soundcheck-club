@@ -1,6 +1,6 @@
 # Phrex
 
-Phrex is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Phrex is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Phrex is a techno and ambient artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Basel, Berlin, Ghent and London and 1 more. Often billed alongside Koodoo, Azu Tiwaline and ADO (DE). Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Phrex is a techno and ambient artist based in Switzerland, tracked on soundcheck
 
 Koodoo, Azu Tiwaline, ADO (DE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*

@@ -1,6 +1,6 @@
 # Roman Antonov
 
-Roman Antonov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
+Roman Antonov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
 
 Roman Antonov is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Cologne and Stuttgart. Often billed alongside Felix Lindner, Mara Sander and Molekularmusik. Next up: Fridas Pier, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Roman Antonov is a techno and house artist based in Germany, tracked on soundche
 
 Felix Lindner, Mara Sander, Molekularmusik
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romanantonov/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romanantonov/)*

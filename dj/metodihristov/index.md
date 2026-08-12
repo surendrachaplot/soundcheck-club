@@ -1,6 +1,6 @@
 # METODI
 
-METODI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 14 Aug 2026.
+METODI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 14 Aug 2026.
 
 METODI is a techno and tech house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 15 more. Often billed alongside Diana Loredana, GavWhitehouse and Julian Jeweil. Next up: Crobar - Buenos Aires, Buenosaires on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ METODI is a techno and tech house artist tracked on soundcheck, with 29 sets log
 
 Diana Loredana, GavWhitehouse, Julian Jeweil
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metodihristov/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metodihristov/)*

@@ -1,6 +1,6 @@
 # Eddie Santini
 
-Eddie Santini is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 29 Aug 2026.
+Eddie Santini is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 29 Aug 2026.
 
 Eddie Santini is a techno and acid artist based in Canada, tracked on soundcheck, with 17 sets logged across Amsterdam, Krakow, London and Toronto and 1 more. Often billed alongside Fizch, C-Star and Behrad Tehrani. Next up: STK 47 WAREHOUSE, Krakow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Eddie Santini is a techno and acid artist based in Canada, tracked on soundcheck
 
 Fizch, C-Star, Behrad Tehrani
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiesantini/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiesantini/)*

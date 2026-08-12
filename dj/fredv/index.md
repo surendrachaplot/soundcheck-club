@@ -1,13 +1,14 @@
 # Fred V
 
-Fred V is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Star|Bolt, Philadelphia on Fri, 21 Aug 2026.
+Fred V is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Phoenix Landing, Boston on Thu, 20 Aug 2026.
 
-Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 14 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Star|Bolt, Philadelphia on Fri 21 Aug.
+Fred V is a drum & bass and bass artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Boston and 15 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Phoenix Landing, Boston on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Phoenix Landing | Boston |
 | Fri, 21 Aug 2026 | Star/Bolt | Philadelphia |
 | Fri, 11 Sept 2026 | Magic Stick | Detroit |
 
@@ -26,4 +27,4 @@ Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets lo
 
 Flava D, Whiney, Metrik
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

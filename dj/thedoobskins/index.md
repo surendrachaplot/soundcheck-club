@@ -1,6 +1,6 @@
 # The Doobskins
 
-The Doobskins is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hagglers Corner, Sheffield on Sat, 29 Aug 2026.
+The Doobskins is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hagglers Corner, Sheffield on Sat, 29 Aug 2026.
 
 The Doobskins is a tech house and deep house artist tracked on soundcheck, with 10 sets logged across London and Sheffield. Often billed alongside Rhys Dyer, Freddie Grisbi and obviouslyalex. Next up: Hagglers Corner, Sheffield on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ The Doobskins is a tech house and deep house artist tracked on soundcheck, with 
 
 Rhys Dyer, Freddie Grisbi, obviouslyalex
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedoobskins/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedoobskins/)*

@@ -1,6 +1,6 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Colorado Charlie, The Hague on Fri, 28 Aug 2026.
+AAT (NL) is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Colorado Charlie, The Hague on Fri, 28 Aug 2026.
 
 AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Colorado Charlie, Thehague on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets lo
 
 Prunk, Michel de Hey, Benny Rodrigues
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*

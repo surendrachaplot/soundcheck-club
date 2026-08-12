@@ -1,8 +1,8 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
+Kimonos is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
 
-Kimonos is a house and afro house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Café Himmelsschreiber, Hamburg on Fri 14 Aug.
+Kimonos is a house and afro house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Café Himmelsschreiber, Hamburg on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kimonos is a house and afro house artist tracked on soundcheck, with 50 sets log
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Café Himmelsschreiber | Hamburg |
 | Fri, 21 Aug 2026 | Elsewhere | New York City |
+| Sat, 29 Aug 2026 | Members | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kimonos is a house and afro house artist tracked on soundcheck, with 50 sets log
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

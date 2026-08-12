@@ -1,14 +1,15 @@
 # Jared Maharaj
 
-Jared Maharaj is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
+Jared Maharaj is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
 
-Jared Maharaj is a house and minimal artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Harry Fletcher, Eklektik and Hugo (US). Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
+Jared Maharaj is a house and minimal artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Harry Fletcher, Eklektik and Hugo (US). Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Apollo Studio | New York City |
+| Sat, 29 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jared Maharaj is a house and minimal artist tracked on soundcheck, with 12 sets 
 
 Harry Fletcher, Eklektik, Hugo (US)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredmaharaj/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredmaharaj/)*

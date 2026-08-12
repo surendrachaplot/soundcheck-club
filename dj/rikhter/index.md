@@ -1,6 +1,6 @@
 # RIKHTER
 
-RIKHTER is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 21 Aug 2026.
+RIKHTER is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 21 Aug 2026.
 
 RIKHTER is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Smoke & Mirrors, Chicago on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ RIKHTER is a techno and trance artist tracked on soundcheck, with 147 sets logge
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

@@ -1,14 +1,15 @@
 # Lena Brysch
 
-Lena Brysch is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Die Rakete, Nürnberg on Fri, 28 Aug 2026.
+Lena Brysch is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Die Rakete, Nürnberg on Fri, 28 Aug 2026.
 
-Lena Brysch is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Leipzig and Munich and 1 more. Often billed alongside Bernhard Groeger, MILAN MILANO and DJ FM & DJ FREUND. Next up: Die Rakete, Nurnberg on Fri 28 Aug.
+Lena Brysch is a techno and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Leipzig and Munich and 1 more. Often billed alongside Bernhard Groeger, MILAN MILANO and DJ FM & DJ FREUND. Next up: Die Rakete, Nurnberg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Die Rakete | Nürnberg |
+| Sat, 29 Aug 2026 | Die Rakete | Nürnberg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lena Brysch is a techno and tech house artist tracked on soundcheck, with 27 set
 
 Bernhard Groeger, MILAN MILANO, DJ FM & DJ FREUND
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*

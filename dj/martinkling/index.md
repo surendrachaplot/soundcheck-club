@@ -1,6 +1,6 @@
 # Martin Kling
 
-Martin Kling is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Baggen, Copenhagen on Wed, 12 Aug 2026.
+Martin Kling is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Baggen, Copenhagen on Wed, 12 Aug 2026.
 
 Martin Kling is a techno and house artist based in Sweden, tracked on soundcheck, with 24 sets logged across Berlin, Copenhagen, Lisbon and Oslo and 1 more. Often billed alongside Majkel, Joel Mull and Maja Korpi. Next up: Baggen, Copenhagen on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Martin Kling is a techno and house artist based in Sweden, tracked on soundcheck
 
 Majkel, Joel Mull, Maja Korpi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkling/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkling/)*

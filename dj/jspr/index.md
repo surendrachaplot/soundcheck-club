@@ -1,6 +1,6 @@
 # JSPR
 
-JSPR is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+JSPR is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 JSPR is a drum & bass and techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Cologne and Hamburg. Often billed alongside Gourski, Badlokk and Enaly. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ JSPR is a drum & bass and techno artist based in Netherlands, tracked on soundch
 
 Gourski, Badlokk, Enaly
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jspr/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jspr/)*

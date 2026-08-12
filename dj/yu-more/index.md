@@ -1,6 +1,6 @@
 # yu-more
 
-yu-more is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at EN MUSIC BAR, Osaka on Wed, 12 Aug 2026.
+yu-more is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at EN MUSIC BAR, Osaka on Wed, 12 Aug 2026.
 
 yu-more is a deep house and house artist tracked on soundcheck, with 173 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KONDO Mitsuo, Junki Akutagawa and aqtagawa. Next up: EN MUSIC BAR, Osaka on Wed 12 Aug.
 
@@ -29,4 +29,4 @@ yu-more is a deep house and house artist tracked on soundcheck, with 173 sets lo
 
 KONDO Mitsuo, Junki Akutagawa, aqtagawa
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-more/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-more/)*

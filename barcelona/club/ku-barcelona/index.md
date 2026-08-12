@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "AVALON x Studio79: Sia Nova, Ertug Karakas, Rivellino, ATMEN" on Wed, 12 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "AVALON x Studio79: Sia Nova, Ertug Karakas, Rivellino, ATMEN" on Wed, 12 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including ATMEN, Bora Uzer, CJ Jeff and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -21,4 +21,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

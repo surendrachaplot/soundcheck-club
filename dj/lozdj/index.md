@@ -1,6 +1,6 @@
 # Loz DJ
 
-Loz DJ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Queen Adelaide, London on Fri, 28 Aug 2026.
+Loz DJ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Queen Adelaide, London on Fri, 28 Aug 2026.
 
 Loz DJ is a house and club artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside MAÏS, Pableeto and ANLON. Next up: The Queen Adelaide, London on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Loz DJ is a house and club artist based in United Kingdom, tracked on soundcheck
 
 MAÏS, Pableeto, ANLON
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozdj/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozdj/)*

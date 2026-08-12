@@ -1,6 +1,6 @@
 # S.Moreira
 
-S.Moreira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
+S.Moreira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
 
 S.Moreira is a house and techno artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Bucharest and London and 4 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Boat - MS Rhein, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ S.Moreira is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*

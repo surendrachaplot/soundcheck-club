@@ -1,6 +1,6 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "REDBAR WEDNESDAY" on Wed, 12 Aug 2026.
+Red Bar is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "REDBAR WEDNESDAY" on Wed, 12 Aug 2026.
 
 Red Bar is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including DJ Shibata, IRON, K8 (TYO GQOM) and Taichi Nagayama and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -17,4 +17,4 @@ Red Bar is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with 
 
 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*

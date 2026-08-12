@@ -1,6 +1,6 @@
 # Kazuki Takahashi
 
-Kazuki Takahashi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Colours Hoxton, London on Sat, 22 Aug 2026.
+Kazuki Takahashi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Colours Hoxton, London on Sat, 22 Aug 2026.
 
 Kazuki Takahashi is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin and London. Often billed alongside Yukari, Emilion Dollar Baby and Tina Technotic. Next up: Colours Hoxton, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kazuki Takahashi is a house and techno artist based in Japan, tracked on soundch
 
 Yukari, Emilion Dollar Baby, Tina Technotic
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*

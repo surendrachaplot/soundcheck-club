@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "QUERICO TOKYO in AMS w/ Black Loops, Hanzo Tono, Gyatso, Kaikaina & SAHAR" on Fri, 14 Aug 2026.
+De Fik Garden is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "QUERICO TOKYO in AMS w/ Black Loops, Hanzo Tono, Gyatso, Kaikaina & SAHAR" on Fri, 14 Aug 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Anémi, Black Loops, Chami and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 10 upcoming ni
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

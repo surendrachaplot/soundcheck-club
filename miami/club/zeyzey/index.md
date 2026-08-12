@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Le Youth + Eric Luttrell" on Fri, 14 Aug 2026.
+ZeyZey is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Le Youth + Eric Luttrell" on Fri, 14 Aug 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including Cult Member, Derrick Carter, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming nights, with 
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

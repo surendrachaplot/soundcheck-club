@@ -1,6 +1,6 @@
 # Vulker
 
-Vulker is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Republik Club, Madrid on Fri, 14 Aug 2026.
+Vulker is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Republik Club, Madrid on Fri, 14 Aug 2026.
 
 Vulker is a techno and acid artist based in Spain, tracked on soundcheck, with 54 sets logged across Madrid. Often billed alongside DJ2OYCE, alguien and Gueparda. Next up: Republik Club, Madrid on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Vulker is a techno and acid artist based in Spain, tracked on soundcheck, with 5
 
 DJ2OYCE, alguien, Gueparda
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulker/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulker/)*

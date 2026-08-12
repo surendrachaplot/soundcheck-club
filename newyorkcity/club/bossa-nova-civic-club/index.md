@@ -1,15 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "GRID: Syd, Mayon, DJ Sour" on Tue, 11 Aug 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Torture Chamber VOL 14 - Alexander Technique, Brent Shay (Detroit), Pjay, DJ K2" on Wed, 12 Aug 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including The AM/AMX, Ah Dek, aka ieuan and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, Ah Dek, aka ieuan and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | GRID: Syd, Mayon, DJ Sour | DJ Sour, Mayon, Pacha DJ, Syd (US), ethereal.mvp, kyxm |
-| Tue, 11 Aug 2026 | Happy Hour: SGNL w/Sadmi, Perrin Grace & Primordian | Perrin Grace, Primordian, Sadmi |
 | Wed, 12 Aug 2026 | Torture Chamber VOL 14 - Alexander Technique, Brent Shay (Detroit), Pjay, DJ K2 | Alexander Technique, Brent Shay, Destro187, Pjay |
 | Wed, 12 Aug 2026 | Happy Hour: SYNTHBIOSIS | Constructible, Janus Rose, SEV1 |
 | Thu, 13 Aug 2026 | PAN!C ROOM | JESSXO, NIJEII, Saintclair, WADDLE, Ziyi, y2aura |
@@ -18,9 +16,11 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 34 u
 | Sun, 16 Aug 2026 | Sybil Jason + Frantz + Ike Release | Frantz, Ike Release, Sybil Jason |
 | Mon, 17 Aug 2026 | Disco Portal | LIONESSA, PUFF, Varist, suciopath |
 | Tue, 18 Aug 2026 | ESOTEK - ENTRANCE | CYNICAL (US), Friedberg, MyCube, Nöel Black, Wren's Lullaby, aka ieuan |
+| Thu, 20 Aug 2026 | In Trance We Trust | Miss Parker, Pure Immanence, Shyboi |
+| Fri, 21 Aug 2026 | Quantum | BEARCAT, DJPT, PHILIP MORGAN, SCRAAATCH |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

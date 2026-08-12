@@ -1,6 +1,6 @@
 # Kritical Mass
 
-Kritical Mass is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mezzanine - Tooting, London on Fri, 21 Aug 2026.
+Kritical Mass is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mezzanine - Tooting, London on Fri, 21 Aug 2026.
 
 Kritical Mass is a house and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Priestland (2). Next up: Mezzanine - Tooting, London on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Kritical Mass is a house and garage artist based in United Kingdom, tracked on s
 
 Priestland (2)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kriticalmass/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kriticalmass/)*

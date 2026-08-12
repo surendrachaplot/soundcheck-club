@@ -1,6 +1,6 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "DYNMO 002:presents" on Fri, 14 Aug 2026.
+Club 69 is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "DYNMO 002:presents" on Fri, 14 Aug 2026.
 
 Club 69 is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, with line-ups including Aileron, Costy, COURTEZ and DJ John Paul and 2 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
@@ -20,4 +20,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

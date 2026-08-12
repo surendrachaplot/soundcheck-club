@@ -1,6 +1,6 @@
 # DJ Button Moon
 
-DJ Button Moon is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Cu, London on Sat, 29 Aug 2026.
+DJ Button Moon is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cu, London on Sat, 29 Aug 2026.
 
 DJ Button Moon is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside ADJ, AJ Edward and Albert Baricasi. Next up: Cu, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ DJ Button Moon is a techno and garage artist based in United Kingdom, tracked on
 
 ADJ, AJ Edward, Albert Baricasi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuttonmoon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuttonmoon/)*

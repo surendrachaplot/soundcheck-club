@@ -1,6 +1,6 @@
 # Phil Fuldner
 
-Phil Fuldner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
+Phil Fuldner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
 
 Phil Fuldner is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Bangkok, Berlin, Dusseldorf and Frankfurt and 3 more. Often billed alongside Ante Perry, Matthias Tanzmann and Tobi Neumann. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Phil Fuldner is a house and tech house artist based in Germany, tracked on sound
 
 Ante Perry, Matthias Tanzmann, Tobi Neumann
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philfuldner/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philfuldner/)*

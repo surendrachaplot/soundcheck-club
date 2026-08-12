@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 24 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "TECHNO NIGHT" on Tue, 11 Aug 2026.
+Cross Club is a music venue in Prague with 23 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ZATMĚNÍ SLUNCE TECHNO" on Wed, 12 Aug 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 24 upcoming nights, with line-ups including AMAR DURGA, DJames (2), Dukla and Katrixia and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 23 upcoming nights, with line-ups including AMAR DURGA, DJames (2), Dukla and Katrixia and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | TECHNO NIGHT |  |
 | Wed, 12 Aug 2026 | ZATMĚNÍ SLUNCE TECHNO |  |
 | Thu, 13 Aug 2026 | DOKUMENT KARYÉRA + FSRS |  |
 | Fri, 14 Aug 2026 | CROSS SQUARE with THE STYLIST & TONYA GRAVES | Lucas Hulan, Rajky |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 24 upcoming nights, 
 | Mon, 17 Aug 2026 | Los Tekkenos ROM/CZ - Hardcore/Noise/Tekno |  |
 | Mon, 17 Aug 2026 | LOS TEKKENOS |  |
 | Tue, 18 Aug 2026 | DNB NIGHT |  |
+| Wed, 19 Aug 2026 | TECHNO LIVE STAGE |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

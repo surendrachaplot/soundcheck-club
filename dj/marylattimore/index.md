@@ -1,6 +1,6 @@
 # Mary Lattimore
 
-Mary Lattimore is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Mary Lattimore is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Mary Lattimore is an ambient and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Hamburg and Losangeles and 4 more. Often billed alongside Julianna Barwick, Mark Ernestus and Smerz. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mary Lattimore is an ambient and techno artist based in United States of America
 
 Julianna Barwick, Mark Ernestus, Smerz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylattimore/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylattimore/)*

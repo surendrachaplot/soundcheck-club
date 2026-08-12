@@ -1,6 +1,6 @@
 # LINDS (NL)
 
-LINDS (NL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
+LINDS (NL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
 
 LINDS (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Antwerp and Berlin. Often billed alongside Linds, Ansome and CHUKWU. Next up: RADION, Amsterdam on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ LINDS (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 
 
 Linds, Ansome, CHUKWU
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*

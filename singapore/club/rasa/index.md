@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RASA x CIEL presents Ken Ishii (JP)" on Fri, 14 Aug 2026.
+RASA is a music venue in Singapore with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "RASA x CIEL presents Ken Ishii (JP)" on Fri, 14 Aug 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 6 upcoming nights, with line-ups including Andre Marc, Halis, Ken Ishii and Mera Bhai and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ RASA is a music venue in Singapore listed on soundcheck. 6 upcoming nights, with
 | Sat, 22 Aug 2026 | GrooveTop x Twelve Degree present FUDGE feat. Mera Bhai | Mera Bhai, RAAJ, TASHASAN, XAETHERX |
 | Sat, 29 Aug 2026 | RASA presents Daydream Nation & Soul Powered |  |
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

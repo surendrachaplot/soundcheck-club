@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
+.VRIL is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
 
 .VRIL is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@
 
 DJ Dustin, Edward, Konstantin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

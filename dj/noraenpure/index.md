@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
+Nora En Pure is a Deep House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
 
 Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Magazine Open–Air, London on Fri 14 Aug.
 
@@ -31,4 +31,4 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 se
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

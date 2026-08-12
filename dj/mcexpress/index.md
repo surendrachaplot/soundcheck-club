@@ -1,6 +1,6 @@
 # MC Express
 
-MC Express is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+MC Express is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 MC Express is a house and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Alex P, Billy Daniel Bunter and DJ Hype. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -14,4 +14,4 @@ MC Express is a house and jungle artist based in United Kingdom, tracked on soun
 
 Alex P, Billy Daniel Bunter, DJ Hype
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcexpress/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcexpress/)*

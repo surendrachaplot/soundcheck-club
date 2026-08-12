@@ -1,6 +1,6 @@
 # Madwave
 
-Madwave is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
+Madwave is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
 
 Madwave is a trance and techno artist tracked on soundcheck, with 33 sets logged across Frankfurt, Geneva, Hamburg and Ibiza and 5 more. Often billed alongside Daxson, Agnelli & Nelson and Markus Schulz. Next up: WaV, Liverpool on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Madwave is a trance and techno artist tracked on soundcheck, with 33 sets logged
 
 Daxson, Agnelli & Nelson, Markus Schulz
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*

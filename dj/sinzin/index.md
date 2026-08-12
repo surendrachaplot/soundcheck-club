@@ -1,6 +1,6 @@
 # SINZIN
 
-SINZIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 24 Aug 2026.
+SINZIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 24 Aug 2026.
 
 SINZIN is a techno and house artist based in Japan, tracked on soundcheck, with 92 sets logged across Tokyo. Often billed alongside SIGNAL (JP), TOBI and Da Yama. Next up: Enter Shibuya, Tokyo on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ SINZIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), TOBI, Da Yama
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*

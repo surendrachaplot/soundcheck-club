@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Perfect Timing with Fero Duman & Nic Lorenz & SIMES, Michelle Vanja, Nick Curly" on Sat, 15 Aug 2026.
+Gewölbe is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Perfect Timing with Fero Duman & Nic Lorenz & SIMES, Michelle Vanja, Nick Curly" on Sat, 15 Aug 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Carl Craig, DCHM, Domenik Deckert and Fero Duman and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -21,4 +21,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 8 upcoming nights, wi
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

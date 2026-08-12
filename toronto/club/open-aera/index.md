@@ -1,6 +1,6 @@
 # Open Aera
 
-Open Aera is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Eric Luttrell: Summer of Love Tour (95 percent sold out)" on Sat, 15 Aug 2026.
+Open Aera is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Eric Luttrell: Summer of Love Tour (95 percent sold out)" on Sat, 15 Aug 2026.
 
 Open Aera is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including Chris Luno, EMBRZ (IE), Gabriel & Dresden and Jonathan Rosa and 2 more. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
 
@@ -20,4 +20,4 @@ Open Aera is a music venue in Toronto listed on soundcheck. 7 upcoming nights, w
 
 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*

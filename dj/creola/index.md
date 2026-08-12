@@ -1,6 +1,6 @@
 # Creola
 
-Creola is a Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hagglers Corner, Sheffield on Sat, 29 Aug 2026.
+Creola is a Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hagglers Corner, Sheffield on Sat, 29 Aug 2026.
 
 Creola is a disco and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Sheffield. Often billed alongside Rhys Dyer, Sam Bangura and The Doobskins. Next up: Hagglers Corner, Sheffield on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Creola is a disco and electro artist based in United Kingdom, tracked on soundch
 
 Rhys Dyer, Sam Bangura, The Doobskins
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creola/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creola/)*

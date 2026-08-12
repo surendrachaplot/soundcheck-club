@@ -1,6 +1,6 @@
 # PHENOMENAL
 
-PHENOMENAL is a Drum & Bass and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sooki Lounge, Melbourne on Fri, 21 Aug 2026.
+PHENOMENAL is a Drum & Bass and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sooki Lounge, Melbourne on Fri, 21 Aug 2026.
 
 PHENOMENAL is a drum & bass and afrobeats artist based in Canada, tracked on soundcheck, with 3 sets logged across Melbourne and Toronto. Often billed alongside Tdesu. Next up: Sooki Lounge, Melbourne on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ PHENOMENAL is a drum & bass and afrobeats artist based in Canada, tracked on sou
 
 Tdesu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenal/)*

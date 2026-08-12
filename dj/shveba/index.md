@@ -1,6 +1,6 @@
 # Shveba
 
-Shveba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 22 Aug 2026.
+Shveba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 22 Aug 2026.
 
 Shveba is a house and disco artist tracked on soundcheck, with 22 sets logged across Berlin, Lisbon, Riga and Tbilisi. Often billed alongside Wonky D, Caren Callas and Hatsvali. Next up: Mtkvarze, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Shveba is a house and disco artist tracked on soundcheck, with 22 sets logged ac
 
 Wonky D, Caren Callas, Hatsvali
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*

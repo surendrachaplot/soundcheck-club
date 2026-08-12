@@ -1,6 +1,6 @@
 # ANAS
 
-ANAS is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+ANAS is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 ANAS is a progressive house and house artist based in France, tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Chtak., Francesco Farfa and Joren. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ ANAS is a progressive house and house artist based in France, tracked on soundch
 
 Chtak., Francesco Farfa, Joren
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anas/)*

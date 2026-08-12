@@ -1,6 +1,6 @@
 # Jack Fresia
 
-Jack Fresia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
+Jack Fresia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
 
 Jack Fresia is a techno and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Milan and 4 more. Often billed alongside DJ Bone, Azucy and Tälor. Next up: KREUZWERK, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jack Fresia is a techno and house artist tracked on soundcheck, with 44 sets log
 
 DJ Bone, Azucy, Tälor
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfresia/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfresia/)*

@@ -1,6 +1,6 @@
 # Cyan85
 
-Cyan85 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Cyan85 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Cyan85 is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside DJ MELL G, P.Vanillaboy and DJ SOURCE. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cyan85 is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 DJ MELL G, P.Vanillaboy, DJ SOURCE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan85/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan85/)*

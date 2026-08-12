@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Cool Customer + Surf Team (Zeds Dead Unofficial After Party)" on Fri, 14 Aug 2026.
+Superior Ingredients is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Cool Customer + Surf Team (Zeds Dead Unofficial After Party)" on Fri, 14 Aug 2026.
 
 Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including AC Slater, ALT8, baby-g and Boy Sanders and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -23,4 +23,4 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 13 up
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

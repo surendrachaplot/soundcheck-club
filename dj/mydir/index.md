@@ -1,6 +1,6 @@
 # MYDIR
 
-MYDIR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
+MYDIR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
 
 MYDIR is a techno and house artist tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside Bushman (UK), Kakura and Mixed Message Music. Next up: The DBA, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MYDIR is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 
 Bushman (UK), Kakura, Mixed Message Music
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*

@@ -1,6 +1,6 @@
 # Mayell
 
-Mayell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Mayell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
 Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Sibil (1), O.BEE and Tomas Station. Next up: OXI, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, wi
 
 Sibil (1), O.BEE, Tomas Station
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*

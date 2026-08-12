@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at LAUT, Barcelona on Sat, 5 Sept 2026.
+Timnah is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at LAUT, Barcelona on Sat, 5 Sept 2026.
 
 Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: LAUT, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

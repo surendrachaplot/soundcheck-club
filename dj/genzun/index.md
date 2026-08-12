@@ -1,6 +1,6 @@
 # Genzun
 
-Genzun is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at radial, London on Fri, 28 Aug 2026.
+Genzun is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at radial, London on Fri, 28 Aug 2026.
 
 Genzun is a club and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside The JLB, Nose Dive and FURIOUS STYLES. Next up: radial, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Genzun is a club and techno artist based in United Kingdom, tracked on soundchec
 
 The JLB, Nose Dive, FURIOUS STYLES
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genzun/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genzun/)*

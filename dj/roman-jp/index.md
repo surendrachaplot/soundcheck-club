@@ -1,6 +1,6 @@
 # Roman (1)
 
-Roman (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Golden Gate, Berlin on Thu, 20 Aug 2026.
+Roman (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Gate, Berlin on Thu, 20 Aug 2026.
 
 Roman (1) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Athens, Berlin, Ibiza and Losangeles and 1 more. Often billed alongside Aiden Ramos, Anthik and Astral. Next up: Golden Gate, Berlin on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ Roman (1) is a house and deep house artist based in United Kingdom, tracked on s
 
 Aiden Ramos, Anthik, Astral
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roman-jp/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roman-jp/)*

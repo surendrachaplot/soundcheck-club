@@ -1,6 +1,6 @@
 # BUSSI
 
-BUSSI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
+BUSSI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
 BUSSI is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside Ozarc, ONNI and FEVZEE. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ BUSSI is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 Ozarc, ONNI, FEVZEE
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*

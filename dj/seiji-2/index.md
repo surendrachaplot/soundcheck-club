@@ -1,6 +1,6 @@
 # SEIJI (2)
 
-SEIJI (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at flo Soakin, Osaka on Fri, 28 Aug 2026.
+SEIJI (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at flo Soakin, Osaka on Fri, 28 Aug 2026.
 
 SEIJI (2) is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Osaka. Often billed alongside MARU (2), Genki Tanaka and MiTSUYAS. Next up: flo Soakin, Osaka on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SEIJI (2) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 MARU (2), Genki Tanaka, MiTSUYAS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seiji-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seiji-2/)*

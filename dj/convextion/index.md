@@ -1,6 +1,6 @@
 # Convextion
 
-Convextion is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Lubber Fiend, Newcastle on Fri, 28 Aug 2026.
+Convextion is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Lubber Fiend, Newcastle on Fri, 28 Aug 2026.
 
 Convextion is a techno and acid artist based in United States of America, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside E.R.P., Kudeki and Torsion. Next up: The Lubber Fiend, Newcastle on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Convextion is a techno and acid artist based in United States of America, tracke
 
 E.R.P., Kudeki, Torsion
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*

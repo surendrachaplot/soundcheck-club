@@ -1,6 +1,6 @@
 # MOONBLUE
 
-MOONBLUE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Avve, Bangkok on Sat, 15 Aug 2026.
+MOONBLUE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Avve, Bangkok on Sat, 15 Aug 2026.
 
 MOONBLUE is a techno and electro artist tracked on soundcheck, with 21 sets logged across Bangkok. Often billed alongside LOMOROOM, GUNI and Em-J. Next up: Avve, Bangkok on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MOONBLUE is a techno and electro artist tracked on soundcheck, with 21 sets logg
 
 LOMOROOM, GUNI, Em-J
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonblue/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonblue/)*

@@ -1,6 +1,6 @@
 # Baby Pantera
 
-Baby Pantera is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Baby Pantera is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Baby Pantera is an experimental and techno artist tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Bristol and Brussels and 3 more. Often billed alongside Otis (BE), Gideo (ES) and Promesses. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Baby Pantera is an experimental and techno artist tracked on soundcheck, with 28
 
 Otis (BE), Gideo (ES), Promesses
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*

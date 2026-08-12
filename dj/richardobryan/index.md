@@ -1,14 +1,14 @@
 # Richard O'Bryan
 
-Richard O'Bryan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - ROOFTOP - EAST WILLIAMSBURG, New York City on Sat, 15 Aug 2026.
+Richard O'Bryan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, New York City on Sat, 15 Aug 2026.
 
-Richard O'Bryan is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Negk, Nabeel and Auphoria. Next up: TBA - ROOFTOP - EAST WILLIAMSBURG, Newyorkcity on Sat 15 Aug.
+Richard O'Bryan is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Negk, Nabeel and Auphoria. Next up: TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - ROOFTOP - EAST WILLIAMSBURG | New York City |
+| Sat, 15 Aug 2026 | TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Richard O'Bryan is a house and techno artist based in United States of America, 
 
 Negk, Nabeel, Auphoria
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardobryan/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardobryan/)*

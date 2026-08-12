@@ -1,6 +1,6 @@
 # Kettalynne (2)
 
-Kettalynne (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
+Kettalynne (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
 
 Kettalynne (2) is a techno and club artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Munich. Often billed alongside 600-cell, Akua and Alessio Barletta. Next up: Blue Velvet, Berlin on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Kettalynne (2) is a techno and club artist based in Germany, tracked on soundche
 
 600-cell, Akua, Alessio Barletta
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kettalynne-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kettalynne-2/)*

@@ -1,6 +1,6 @@
 # Kamilla Norova
 
-Kamilla Norova is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eavesdrop, New York City on Sun, 30 Aug 2026.
+Kamilla Norova is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eavesdrop, New York City on Sun, 30 Aug 2026.
 
 Kamilla Norova is an electro and techno artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Anika Kunst, Bloody Mary and LDS. Next up: Eavesdrop, Newyorkcity on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Kamilla Norova is an electro and techno artist tracked on soundcheck, with 3 set
 
 Anika Kunst, Bloody Mary, LDS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamillanorova/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamillanorova/)*

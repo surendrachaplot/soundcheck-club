@@ -1,6 +1,6 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ONDA di FERRAGOSTO • Dirty Channels + Bulma Brief, assu, Sexy Pummarola" on Sat, 15 Aug 2026.
+Calatheabeachclub is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ONDA di FERRAGOSTO • Dirty Channels + Bulma Brief, assu, Sexy Pummarola" on Sat, 15 Aug 2026.
 
 Calatheabeachclub is a music venue in Naples listed on soundcheck. 4 upcoming nights, with line-ups including assu, Bulma Brief, Dirty Channels and Fabio Stingo and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
@@ -17,4 +17,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 4 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

@@ -1,6 +1,6 @@
 # Copper Boot
 
-Copper Boot is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "RENAISSANCE meets DO YOU LOVE HOUSE ALL 90s Outdoor Party with Tony Touch (NYC)" on Sat, 22 Aug 2026.
+Copper Boot is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "RENAISSANCE meets DO YOU LOVE HOUSE ALL 90s Outdoor Party with Tony Touch (NYC)" on Sat, 22 Aug 2026.
 
 Copper Boot is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Byron Stingily, Dino and Terry, Ten City and Yogi. Browse upcoming dates, start times and who's playing. 171 College Street.
 
@@ -15,4 +15,4 @@ Copper Boot is a music venue in Toronto listed on soundcheck. 2 upcoming nights,
 
 171 College Street, Toronto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/copper-boot/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/copper-boot/)*

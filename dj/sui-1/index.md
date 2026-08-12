@@ -1,6 +1,6 @@
 # Sui (1)
 
-Sui (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 16 Aug 2026.
+Sui (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 16 Aug 2026.
 
 Sui (1) is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and TAJI. Next up: Aoyama Hachi, Tokyo on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Sui (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 SIGNAL (JP), MOTOKA, TAJI
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sui-1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sui-1/)*

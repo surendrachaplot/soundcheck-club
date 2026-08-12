@@ -1,6 +1,6 @@
 # SunnDior
 
-SunnDior is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
+SunnDior is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
 
 SunnDior is a house and disco artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside Ani con Gas, Arlo Bell and BREITBAND. Next up: Südpol, Hamburg on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ SunnDior is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 Ani con Gas, Arlo Bell, BREITBAND
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunndior/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunndior/)*

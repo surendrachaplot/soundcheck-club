@@ -1,6 +1,6 @@
 # Nora Moon
 
-Nora Moon is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crack Bellmer, Berlin on Sat, 22 Aug 2026.
+Nora Moon is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crack Bellmer, Berlin on Sat, 22 Aug 2026.
 
 Nora Moon is a techno and electro artist tracked on soundcheck, with 13 sets logged across Berlin and Dublin. Often billed alongside Moving Still, DJ Karmawi and Royce Larøca. Next up: Crack Bellmer, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nora Moon is a techno and electro artist tracked on soundcheck, with 13 sets log
 
 Moving Still, DJ Karmawi, Royce Larøca
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noramoon/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noramoon/)*

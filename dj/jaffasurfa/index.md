@@ -1,6 +1,6 @@
 # Jaffa Surfa
 
-Jaffa Surfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 15 Aug 2026.
+Jaffa Surfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 15 Aug 2026.
 
 Jaffa Surfa is a house and techno artist based in Hungary, tracked on soundcheck, with 81 sets logged across Budapest, Lisbon and Valencia. Often billed alongside Maron, Adx and Captain Knuckles. Next up: Aether Club Budapest, Budapest on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jaffa Surfa is a house and techno artist based in Hungary, tracked on soundcheck
 
 Maron, Adx, Captain Knuckles
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*

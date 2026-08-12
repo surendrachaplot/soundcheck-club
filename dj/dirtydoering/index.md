@@ -1,6 +1,6 @@
 # Dirty Doering
 
-Dirty Doering is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
+Dirty Doering is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
 Dirty Doering is a techno and deep house artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Niconé, AVA Irandoost and Miyagi. Next up: Birgit, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dirty Doering is a techno and deep house artist based in Germany, tracked on sou
 
 Niconé, AVA Irandoost, Miyagi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*

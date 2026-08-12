@@ -1,6 +1,6 @@
 # Big Queso
 
-Big Queso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Pentridge Station, Philadelphia on Fri, 14 Aug 2026.
+Big Queso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pentridge Station, Philadelphia on Fri, 14 Aug 2026.
 
 Big Queso is a house and deep house artist tracked on soundcheck, with 10 sets logged across Philadelphia. Often billed alongside Cowa, tj groover and Qino Bounce. Next up: Pentridge Station, Philadelphia on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Big Queso is a house and deep house artist tracked on soundcheck, with 10 sets l
 
 Cowa, tj groover, Qino Bounce
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*

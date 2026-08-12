@@ -1,6 +1,6 @@
 # djcd
 
-djcd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+djcd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
 djcd is a techno and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Liverpool and Manchester. Often billed alongside Identikid, DJ FABRICATION and Cersy. Next up: The DBA, Manchester on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ djcd is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Identikid, DJ FABRICATION, Cersy
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*

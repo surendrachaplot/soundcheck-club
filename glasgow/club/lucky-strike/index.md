@@ -1,6 +1,6 @@
 # Lucky Strike
 
-Lucky Strike is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "ADM club night" on Sat, 15 Aug 2026.
+Lucky Strike is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ADM club night" on Sat, 15 Aug 2026.
 
 Lucky Strike is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 43 Mitchell Street, Glasgow, G1 3LN.
 
@@ -15,4 +15,4 @@ Lucky Strike is a music venue in Glasgow listed on soundcheck. 2 upcoming nights
 
 43 Mitchell Street, Glasgow, G1 3LN, Glasgow
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/lucky-strike/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/lucky-strike/)*

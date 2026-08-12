@@ -1,6 +1,6 @@
 # otisworming
 
-otisworming is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
+otisworming is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 14 Aug 2026.
 
 otisworming is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh. Often billed alongside Ravelston, Ann Tweak and al gu. Next up: Leith FAB Cricket Club, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ otisworming is an electronica and club artist based in United Kingdom, tracked o
 
 Ravelston, Ann Tweak, al gu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*

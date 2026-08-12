@@ -1,6 +1,6 @@
 # Eric Filipus
 
-Eric Filipus is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at dubble, Amsterdam on Sat, 15 Aug 2026.
+Eric Filipus is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at dubble, Amsterdam on Sat, 15 Aug 2026.
 
 Eric Filipus is an ambient and downtempo artist tracked on soundcheck, with 4 sets logged across Amsterdam and Barcelona. Often billed alongside Andy Garvey, Aslan and Bliss Inc.. Next up: dubble, Amsterdam on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Eric Filipus is an ambient and downtempo artist tracked on soundcheck, with 4 se
 
 Andy Garvey, Aslan, Bliss Inc.
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfilipus/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfilipus/)*

@@ -1,6 +1,6 @@
 # Good Question
 
-Good Question is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 14 Aug 2026.
+Good Question is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Good Question is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Sanfrancisco. Often billed alongside &ndmore, Anthony Mansfield and Combover. Next up: Arcana, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Good Question is a house and disco artist based in United States of America, tra
 
 &ndmore, Anthony Mansfield, Combover
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodquestion/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodquestion/)*

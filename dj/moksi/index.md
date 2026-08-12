@@ -1,6 +1,6 @@
 # Moksi
 
-Moksi is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Epic Prague, Prague on Sat, 5 Sept 2026.
+Moksi is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Epic Prague, Prague on Sat, 5 Sept 2026.
 
 Moksi is a house and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 6 more. Often billed alongside Deorro, G Jones and Seven Lions. Next up: Epic Prague, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Moksi is a house and bass artist tracked on soundcheck, with 18 sets logged acro
 
 Deorro, G Jones, Seven Lions
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moksi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moksi/)*

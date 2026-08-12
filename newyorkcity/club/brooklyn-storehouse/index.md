@@ -1,13 +1,14 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Teletech New York" on Sun, 6 Sept 2026.
+Brooklyn Storehouse is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Teksupport: Rossi., Jamback, Aline Umber & CatLadyHi" on Fri, 21 Aug 2026.
 
-Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
+Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Teksupport: Rossi., Jamback, Aline Umber & CatLadyHi | Aline Umber, CatLadyHi, Jamback, Rossi |
 | Sun, 6 Sept 2026 | Teletech New York | JSMN, KRUELTY, Nikolina, Restricted |
 | Thu, 17 Sept 2026 | Teksupport: Four Tet | Four Tet |
 | Fri, 18 Sept 2026 | Teksupport: Four Tet (2nd show added) | Four Tet |
@@ -18,4 +19,4 @@ Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 5 upco
 
 Brooklyn Navy Yard, New York City
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*

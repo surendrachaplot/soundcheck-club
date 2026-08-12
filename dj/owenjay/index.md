@@ -1,6 +1,6 @@
 # Owen Jay
 
-Owen Jay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
+Owen Jay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
 
 Owen Jay is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, London and Malta. Often billed alongside MATO, UJ/DV and Brian James. Next up: Surfside, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Owen Jay is a house and techno artist tracked on soundcheck, with 16 sets logged
 
 MATO, UJ/DV, Brian James
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owenjay/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owenjay/)*

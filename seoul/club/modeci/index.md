@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Carve Out Records First Anniversary with Friends" on Fri, 14 Aug 2026.
+Modeci is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Carve Out Records First Anniversary with Friends" on Fri, 14 Aug 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Boyoon, Cy Nico, DJ PI-GE and Eugene Blake and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with l
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

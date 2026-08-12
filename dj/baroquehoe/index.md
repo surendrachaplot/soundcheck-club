@@ -1,6 +1,6 @@
 # Baroque Hoe
 
-Baroque Hoe is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
+Baroque Hoe is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
 
 Baroque Hoe is a techno and acid artist tracked on soundcheck, with 26 sets logged across Berlin and Newyorkcity. Often billed alongside 320 (1), Brutal Twink and Actual Angel. Next up: arkaoda Berlin, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Baroque Hoe is a techno and acid artist tracked on soundcheck, with 26 sets logg
 
 320 (1), Brutal Twink, Actual Angel
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*

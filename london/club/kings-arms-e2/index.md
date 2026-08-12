@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kings Turntable: Kenji Kuroda & Lowree [15.08.2026]" on Sat, 15 Aug 2026.
+Kings Arms E2 is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Kings Turntable: Kenji Kuroda & Lowree [15.08.2026]" on Sat, 15 Aug 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Kenji Kuroda, Lowree, NOYB and Nunonunonuno. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming night
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

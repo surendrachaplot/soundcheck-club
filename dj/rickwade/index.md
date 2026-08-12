@@ -1,0 +1,28 @@
+# Rick Wade
+
+Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Marble Bar, Detroit on Fri, 28 Aug 2026.
+
+Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Austin, Barcelona, Buenosaires and Chicago and 9 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Marble Bar, Detroit on Fri 28 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 28 Aug 2026 | Marble Bar | Detroit |
+
+## Recently played
+
+- Spkrbox, Detroit — Sat, 1 Aug 2026
+- La Fabrica, Washington DC — Sat, 18 Jul 2026
+- Cannons, Detroit — Sat, 27 Jun 2026
+- Third Street Bar, Detroit — Tue, 26 May 2026
+- Lincoln Factory, Detroit — Mon, 25 May 2026
+- MotorCity Wine, Detroit — Sun, 24 May 2026
+- MIX Bricktown, Detroit — Sun, 24 May 2026
+- TV Lounge, Detroit — Fri, 22 May 2026
+
+## Shares bills with
+
+Chuck Daniels, Norm Talley, Delano Smith
+
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 35 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Guy J [Extended Set]" on Sat, 15 Aug 2026.
+E1 is a music venue in London with 35 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Guy J [Extended Set]" on Sat, 15 Aug 2026.
 
 E1 is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ACA (YU) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 35 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

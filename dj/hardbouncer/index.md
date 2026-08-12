@@ -1,6 +1,6 @@
 # Hardbouncer
 
-Hardbouncer is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Hardbouncer is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Hardbouncer is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Frankfurt and Glasgow. Often billed alongside Bulletproof, Drokz and Ophidian. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Hardbouncer is a hardcore and gabber artist based in Netherlands, tracked on sou
 
 Bulletproof, Drokz, Ophidian
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardbouncer/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardbouncer/)*

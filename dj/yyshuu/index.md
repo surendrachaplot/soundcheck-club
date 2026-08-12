@@ -1,6 +1,6 @@
 # yyshuu
 
-yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
+yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
 
 yyshuu is a minimal and house artist tracked on soundcheck, with 39 sets logged across Prague, Seoul and Tokyo. Often billed alongside yoshiken, Yos. and Ariaray. Next up: Modeci, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ yyshuu is a minimal and house artist tracked on soundcheck, with 39 sets logged 
 
 yoshiken, Yos., Ariaray
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*

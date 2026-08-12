@@ -1,6 +1,6 @@
 # Dee Diggs: LoHi Rooftop at 314 Scholes
 
-Dee Diggs: LoHi Rooftop at 314 Scholes on Fri 14 Aug, Newyorkcity. 1 act on the bill: Dee Diggs. House. Preview the line-up and save it on soundcheck.
+Dee Diggs: LoHi Rooftop at 314 Scholes on Fri 14 Aug, Newyorkcity. 2 acts on the bill: Dee Diggs and Hovy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Dee Diggs: LoHi Rooftop at 314 Scholes on Fri 14 Aug, Newyorkcity. 1 act on the 
 ## Line-up
 
 - Dee Diggs
+- Hovy
 
 *Source: [soundcheck](https://soundcheck.club/e/2490115-dee-diggs-lohi-rooftop-at-314-scholes/)*

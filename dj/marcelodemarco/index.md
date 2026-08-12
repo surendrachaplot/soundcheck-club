@@ -1,6 +1,6 @@
 # Marcelo Demarco
 
-Marcelo Demarco is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Sigma, Ibiza on Fri, 21 Aug 2026.
+Marcelo Demarco is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sigma, Ibiza on Fri, 21 Aug 2026.
 
 Marcelo Demarco is a techno and acid artist based in Uruguay, tracked on soundcheck, with 21 sets logged across Ibiza, Leeds, Malta and Manchester. Often billed alongside SEMREH, Varøsian and Anabel Arroyo. Next up: Sigma, Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Marcelo Demarco is a techno and acid artist based in Uruguay, tracked on soundch
 
 SEMREH, Varøsian, Anabel Arroyo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelodemarco/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelodemarco/)*

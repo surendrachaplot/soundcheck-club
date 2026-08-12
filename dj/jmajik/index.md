@@ -1,6 +1,6 @@
 # J Majik
 
-J Majik is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hare & Hounds, Birmingham on Fri, 28 Aug 2026.
+J Majik is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hare & Hounds, Birmingham on Fri, 28 Aug 2026.
 
 J Majik is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logged across Birmingham, Brighton, Leeds and London and 2 more. Often billed alongside Blackeye MC, Doc Scott and Double O. Next up: Hare & Hounds, Birmingham on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ J Majik is a drum & bass and jungle artist tracked on soundcheck, with 7 sets lo
 
 Blackeye MC, Doc Scott, Double O
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*

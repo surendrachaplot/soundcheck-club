@@ -1,6 +1,6 @@
 # Tenecious
 
-Tenecious is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Alphaville, New York City on Sat, 15 Aug 2026.
+Tenecious is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Alphaville, New York City on Sat, 15 Aug 2026.
 
 Tenecious is a techno and house artist tracked on soundcheck, with 5 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Good Question, Combover and Little Lord. Next up: Alphaville, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Tenecious is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 Good Question, Combover, Little Lord
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenecious/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenecious/)*

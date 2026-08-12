@@ -1,6 +1,6 @@
 # Tare
 
-Tare is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at OT301, Amsterdam on Sat, 3 Oct 2026.
+Tare is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OT301, Amsterdam on Sat, 3 Oct 2026.
 
 Tare is a house and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Alberta Balsam, Charlton and Bardo (1). Next up: OT301, Amsterdam on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Tare is a house and techno artist tracked on soundcheck, with 6 sets logged acro
 
 Alberta Balsam, Charlton, Bardo (1)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tare/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tare/)*

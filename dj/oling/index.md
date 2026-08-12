@@ -1,6 +1,6 @@
 # OLING
 
-OLING is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eden, Stockholm on Sat, 22 Aug 2026.
+OLING is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eden, Stockholm on Sat, 22 Aug 2026.
 
 OLING is a techno and house artist based in Sweden, tracked on soundcheck, with 40 sets logged across Copenhagen, Glasgow, Manchester and Osaka and 3 more. Often billed alongside Layer J, Molø and Harald Björk. Next up: Eden, Stockholm on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ OLING is a techno and house artist based in Sweden, tracked on soundcheck, with 
 
 Layer J, Molø, Harald Björk
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*

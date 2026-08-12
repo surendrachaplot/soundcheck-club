@@ -1,6 +1,6 @@
 # Don Woezik
 
-Don Woezik is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 13 Aug 2026.
+Don Woezik is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 13 Aug 2026.
 
 Don Woezik is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 29 more. Often billed alongside 7CIRCLE, DIØN and Kander. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Don Woezik is a techno and industrial artist based in Netherlands, tracked on so
 
 7CIRCLE, DIØN, Kander
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donwoezik/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donwoezik/)*

@@ -1,6 +1,6 @@
 # WheelUP
 
-WheelUP is a Funk / Soul and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+WheelUP is a Funk / Soul and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 s
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

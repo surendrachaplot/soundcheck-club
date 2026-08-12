@@ -1,6 +1,6 @@
 # Glaskin
 
-Glaskin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Glaskin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Glaskin is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Glaskin is a techno and house artist tracked on soundcheck, with 64 sets logged 
 
 Muallem, 600-cell, BASHKKA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*

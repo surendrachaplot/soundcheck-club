@@ -1,6 +1,6 @@
 # Partyraiser
 
-Partyraiser is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Partyraiser is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Partyraiser is a hardcore and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Brussels and Frankfurt and 5 more. Often billed alongside Bulletproof, Angerfist and Dimitri K. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Partyraiser is a hardcore and techno artist tracked on soundcheck, with 24 sets 
 
 Bulletproof, Angerfist, Dimitri K
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*

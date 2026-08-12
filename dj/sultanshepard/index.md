@@ -1,6 +1,6 @@
 # Sultan + Shepard
 
-Sultan + Shepard is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
+Sultan + Shepard is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
 
 Sultan + Shepard are a house and progressive house duo based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Belfast and Brisbane and 16 more. Often billed alongside Lane 8, Le Youth and EMBRZ (IE). Next up: De Kromhouthal, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sultan + Shepard are a house and progressive house duo based in Canada, tracked 
 
 Lane 8, Le Youth, EMBRZ (IE)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*

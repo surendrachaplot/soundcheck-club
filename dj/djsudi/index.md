@@ -1,6 +1,6 @@
 # DJ SUDI
 
-DJ SUDI is a Afrobeat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
+DJ SUDI is a Afrobeat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
 
 DJ SUDI is an afrobeat and baile funk artist tracked on soundcheck, with 20 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Bianca Maieli, MTooray and Aku. Next up: The Melrose House, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ SUDI is an afrobeat and baile funk artist tracked on soundcheck, with 20 sets
 
 Bianca Maieli, MTooray, Aku
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsudi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsudi/)*

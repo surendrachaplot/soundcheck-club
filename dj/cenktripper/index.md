@@ -1,13 +1,14 @@
 # Cenk Tripper
 
-Cenk Tripper is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Klein Phönix, Istanbul on Sat, 3 Oct 2026.
+Cenk Tripper is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Dunia, Istanbul on Fri, 14 Aug 2026.
 
-Cenk Tripper is a techno and club artist based in Turkey, tracked on soundcheck, with 14 sets logged across Belgrade, Istanbul and Tbilisi. Often billed alongside guru'w, INTENSA and Asarri. Next up: Klein Phönix, Istanbul on Sat 3 Oct.
+Cenk Tripper is a techno and club artist based in Turkey, tracked on soundcheck, with 15 sets logged across Belgrade, Istanbul and Tbilisi. Often billed alongside guru'w, INTENSA and obskure. Next up: Dunia, Istanbul on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Dunia | Istanbul |
 | Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cenk Tripper is a techno and club artist based in Turkey, tracked on soundcheck,
 
 ## Shares bills with
 
-guru'w, INTENSA, Asarri
+guru'w, INTENSA, obskure
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cenktripper/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cenktripper/)*

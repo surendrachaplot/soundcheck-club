@@ -1,13 +1,14 @@
 # Raredub
 
-Raredub is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Scoresby Warehouse, Melbourne on Sat, 17 Oct 2026.
+Raredub is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Wigwam, Dublin on Fri, 9 Oct 2026.
 
-Raredub is a techno and house artist based in Bulgaria, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside KiNK, AKEYLAH and Azyr. Next up: Scoresby Warehouse, Melbourne on Sat 17 Oct.
+Raredub is a techno and house artist based in Bulgaria, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside KiNK, AKEYLAH and Azyr. Next up: Wigwam, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Wigwam | Dublin |
 | Sat, 17 Oct 2026 | Scoresby Warehouse | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 
@@ -26,4 +27,4 @@ Raredub is a techno and house artist based in Bulgaria, tracked on soundcheck, w
 
 KiNK, AKEYLAH, Azyr
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*

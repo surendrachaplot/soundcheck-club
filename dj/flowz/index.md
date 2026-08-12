@@ -1,6 +1,6 @@
 # FLOWZ
 
-FLOWZ is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+FLOWZ is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 FLOWZ is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Cologne, Dusseldorf, Hamburg and Utrecht. Often billed alongside Enaly, Gourski and DJ Discostoff. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ FLOWZ is a drum & bass and techno artist based in Germany, tracked on soundcheck
 
 Enaly, Gourski, DJ Discostoff
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowz/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowz/)*

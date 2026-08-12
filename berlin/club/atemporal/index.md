@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Jeena & Robot Koch Live Ambient Performance" on Wed, 12 Aug 2026.
+Atemporal is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Jeena & Robot Koch Live Ambient Performance" on Wed, 12 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Amuleto Manuela, Jeena, Robot Koch and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

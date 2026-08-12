@@ -1,6 +1,6 @@
 # Misslead
 
-Misslead is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
+Misslead is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Surfside, Malta on Wed, 12 Aug 2026.
 
 Misslead is a house and disco artist tracked on soundcheck, with 3 sets logged across Malta. Often billed alongside Ça Roule, Lian Vex and Owen Jay. Next up: Surfside, Malta on Wed 12 Aug.
 
@@ -19,4 +19,4 @@ Misslead is a house and disco artist tracked on soundcheck, with 3 sets logged a
 
 Ça Roule, Lian Vex, Owen Jay
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslead/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslead/)*

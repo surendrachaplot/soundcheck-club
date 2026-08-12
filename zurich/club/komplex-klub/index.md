@@ -1,6 +1,6 @@
 # Komplex Klub
 
-Komplex Klub is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Schrotthagen Neue Welt Tour @Komplex457" on Fri, 9 Oct 2026.
+Komplex Klub is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Schrotthagen Neue Welt Tour @Komplex457" on Fri, 9 Oct 2026.
 
 Komplex Klub is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Schrotthagen. Browse upcoming dates, start times and who's playing. Hohlstrasse 457, 8048, Zürich.
 
@@ -14,4 +14,4 @@ Komplex Klub is a music venue in Zurich listed on soundcheck. 1 upcoming night, 
 
 Hohlstrasse 457, 8048, Zürich, Zurich
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/komplex-klub/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/komplex-klub/)*

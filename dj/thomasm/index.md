@@ -1,6 +1,6 @@
 # Thomas M
 
-Thomas M is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Barrio Cafe, Brussels on Sat, 15 Aug 2026.
+Thomas M is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Barrio Cafe, Brussels on Sat, 15 Aug 2026.
 
 Thomas M is a progressive house and techno artist based in Belgium, tracked on soundcheck, with 46 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Dave Urania, Juan Del Chambo and SAEED. Next up: Barrio Cafe, Brussels on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Thomas M is a progressive house and techno artist based in Belgium, tracked on s
 
 Dave Urania, Juan Del Chambo, SAEED
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasm/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasm/)*

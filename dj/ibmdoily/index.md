@@ -1,6 +1,6 @@
 # IBM Doily
 
-IBM Doily is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jupiter Disco, New York City on Thu, 13 Aug 2026.
+IBM Doily is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jupiter Disco, New York City on Thu, 13 Aug 2026.
 
 IBM Doily is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across Mexicocity, Naples, Newyorkcity and Rome. Often billed alongside Danny Ramos, Frantz and Dante Scaglione. Next up: Jupiter Disco, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ IBM Doily is a house and disco artist based in United States of America, tracked
 
 Danny Ramos, Frantz, Dante Scaglione
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibmdoily/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibmdoily/)*

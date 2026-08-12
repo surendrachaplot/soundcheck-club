@@ -1,6 +1,6 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "EMERGE SATURDAY AFTERPARTY" on Sat, 29 Aug 2026.
+The Telegraph Building is a music venue in Belfast with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "EMERGE SATURDAY AFTERPARTY" on Sat, 29 Aug 2026.
 
 The Telegraph Building is a music venue in Belfast listed on soundcheck. 5 upcoming nights, with line-ups including CIAN__, KRUELTY, Lane 8 and Paige Tomlinson and 1 more. Browse upcoming dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
@@ -18,4 +18,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 5 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

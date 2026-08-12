@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "PARTY PEOPLE • August 13, 2026" on Thu, 13 Aug 2026.
+Village Underground Lisboa is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "PARTY PEOPLE • August 13, 2026" on Thu, 13 Aug 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Bryto, Danilo Filipe, Diego Genn and GADDAM. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -16,4 +16,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

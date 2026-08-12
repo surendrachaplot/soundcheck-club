@@ -1,6 +1,6 @@
 # Tashi Tashi
 
-Tashi Tashi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
+Tashi Tashi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
 
 Tashi Tashi is a techno and electro artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Alex Grebe, Aras and GAŁGAŁ. Next up: Jonny Knüppel, Berlin on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Tashi Tashi is a techno and electro artist tracked on soundcheck, with 5 sets lo
 
 Alex Grebe, Aras, GAŁGAŁ
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*

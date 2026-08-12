@@ -1,6 +1,6 @@
 # Npoint_O
 
-Npoint_O is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+Npoint_O is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 Npoint_O is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 1 more. Often billed alongside Josh Reid, Freigeist and Sparkling Water Dreams. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Npoint_O is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Josh Reid, Freigeist, Sparkling Water Dreams
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/npoint_o/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/npoint_o/)*

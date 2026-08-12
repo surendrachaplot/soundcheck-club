@@ -1,6 +1,6 @@
 # BEN GERRANS
 
-BEN GERRANS is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Thekla, Bristol on Fri, 2 Oct 2026.
+BEN GERRANS is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Thekla, Bristol on Fri, 2 Oct 2026.
 
 BEN GERRANS is a house and drum & bass artist tracked on soundcheck, with 23 sets logged across Auckland, Bali, Berlin and Bristol and 5 more. Often billed alongside Cleopard2000, Little Fritter and MCMILLAN TWINS. Next up: Thekla, Bristol on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BEN GERRANS is a house and drum & bass artist tracked on soundcheck, with 23 set
 
 Cleopard2000, Little Fritter, MCMILLAN TWINS
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengerrans/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengerrans/)*

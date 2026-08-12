@@ -1,6 +1,6 @@
 # Viénce
 
-Viénce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
+Viénce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
 
 Viénce is a house and techno artist tracked on soundcheck, with 18 sets logged across Amsterdam and Berlin. Often billed alongside Otal, SELESSA T. and Laurent Lorenzo. Next up: Coco Boule, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Viénce is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 Otal, SELESSA T., Laurent Lorenzo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*

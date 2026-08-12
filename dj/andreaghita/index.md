@@ -1,6 +1,6 @@
 # Andrea Ghita
 
-Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Spkrbox, Detroit on Fri, 14 Aug 2026.
+Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Spkrbox, Detroit on Fri, 14 Aug 2026.
 
 Andrea Ghita is a house and techno artist based in United States of America, tracked on soundcheck, with 87 sets logged across Chicago and Detroit. Often billed alongside Jorissen, Aboudi Issa and Loren. Next up: Spkrbox, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Andrea Ghita is a house and techno artist based in United States of America, tra
 
 Jorissen, Aboudi Issa, Loren
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*

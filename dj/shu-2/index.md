@@ -1,6 +1,6 @@
 # SHU (2)
 
-SHU (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
+SHU (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
 
 SHU (2) is a techno and house artist based in China, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Seoul and Shanghai and 1 more. Often billed alongside SIGNAL (JP), uuu7 and AiMii. Next up: OST, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ SHU (2) is a techno and house artist based in China, tracked on soundcheck, with
 
 SIGNAL (JP), uuu7, AiMii
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-2/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-2/)*

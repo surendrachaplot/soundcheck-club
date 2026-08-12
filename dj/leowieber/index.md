@@ -1,6 +1,6 @@
 # Leo Wieber
 
-Leo Wieber is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
+Leo Wieber is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
 
 Leo Wieber is a techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Izumi Yamamoto, Artwork and Avi Caspi. Next up: ://about blank, Berlin on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Leo Wieber is a techno artist tracked on soundcheck, with 6 sets logged across B
 
 Izumi Yamamoto, Artwork, Avi Caspi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leowieber/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leowieber/)*

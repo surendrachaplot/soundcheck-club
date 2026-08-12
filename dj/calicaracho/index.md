@@ -1,6 +1,6 @@
 # Cali Caracho
 
-Cali Caracho is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Cali Caracho is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Cali Caracho is a house artist based in Germany, tracked on soundcheck, with 2 sets logged across Dusseldorf and Hamburg. Often billed alongside Adam Charaf, Danito and Felix Klatt. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Cali Caracho is a house artist based in Germany, tracked on soundcheck, with 2 s
 
 Adam Charaf, Danito, Felix Klatt
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calicaracho/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calicaracho/)*

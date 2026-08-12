@@ -1,6 +1,6 @@
 # fono
 
-fono is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "Dub Tings & Modulus Pres Helios XL" on Fri, 14 Aug 2026.
+fono is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Dub Tings & Modulus Pres Helios XL" on Fri, 14 Aug 2026.
 
 fono is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including Jony Maddkidz, Notion A and Uzair. Browse upcoming dates, start times and who's playing. 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur.
 
@@ -14,4 +14,4 @@ fono is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, wit
 
 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur, Kuala Lumpur
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*

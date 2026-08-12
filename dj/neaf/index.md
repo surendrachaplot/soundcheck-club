@@ -1,6 +1,6 @@
 # NEAF
 
-NEAF is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
+NEAF is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
 
 NEAF is an afrobeats and baile funk artist tracked on soundcheck, with 18 sets logged across Hamburg. Often billed alongside J.TU, WARNO and Shari Who. Next up: YOTO, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ NEAF is an afrobeats and baile funk artist tracked on soundcheck, with 18 sets l
 
 J.TU, WARNO, Shari Who
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neaf/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neaf/)*

@@ -1,6 +1,6 @@
 # Chris I'Anson
 
-Chris I'Anson is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
+Chris I'Anson is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
 
 Chris I'Anson is a trance and techno artist tracked on soundcheck, with 13 sets logged across Leeds, London and Manchester. Often billed alongside Adam Pits, FROND and Lisene. Next up: Eiger Studios, Leeds on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chris I'Anson is a trance and techno artist tracked on soundcheck, with 13 sets 
 
 Adam Pits, FROND, Lisene
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisianson-uk/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisianson-uk/)*

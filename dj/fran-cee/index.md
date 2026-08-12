@@ -1,6 +1,6 @@
 # Fran-Cee
 
-Fran-Cee is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
+Fran-Cee is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
 
 Fran-Cee is a techno and tech house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Epicx, Wiebe Roose and Ben Green. Next up: Insomnia, Berlin on Fri 14 Aug.
 
@@ -9,7 +9,7 @@ Fran-Cee is a techno and tech house artist based in Germany, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
-| Fri, 14 Aug 2026 | Insomnia | Berlin |
+| Fri, 14 Aug 2026 | TBA | Berlin |
 | Sat, 22 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 6 Sept 2026 | KitKatClub | Berlin |
 
@@ -28,4 +28,4 @@ Fran-Cee is a techno and tech house artist based in Germany, tracked on soundche
 
 Epicx, Wiebe Roose, Ben Green
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fran-cee/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fran-cee/)*

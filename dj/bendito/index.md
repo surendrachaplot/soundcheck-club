@@ -1,6 +1,6 @@
 # Bendito
 
-Bendito is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Jumbi, London on Fri, 21 Aug 2026.
+Bendito is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jumbi, London on Fri, 21 Aug 2026.
 
 Bendito is a house and disco artist tracked on soundcheck, with 85 sets logged across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: Jumbi, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Bendito is a house and disco artist tracked on soundcheck, with 85 sets logged a
 
 Jeremy Giros, Donis, Elephantglasses
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*

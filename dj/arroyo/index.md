@@ -1,6 +1,6 @@
 # Arroyo
 
-Arroyo is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
+Arroyo is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
 
 Arroyo is a deep house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity and Washingtondc. Often billed alongside La Vega, Omar Ahmad and ÜNAM. Next up: Flash, Washingtondc on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Arroyo is a deep house and house artist based in United States of America, track
 
 La Vega, Omar Ahmad, ÜNAM
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arroyo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arroyo/)*

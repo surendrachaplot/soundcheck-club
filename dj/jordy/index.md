@@ -1,6 +1,6 @@
 # Jordy
 
-Jordy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Roxy, Prague on Fri, 21 Aug 2026.
+Jordy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Roxy, Prague on Fri, 21 Aug 2026.
 
 Jordy is a house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 3 more. Often billed alongside Di² (1), Josiane and Guliver. Next up: Roxy, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jordy is a house and techno artist tracked on soundcheck, with 21 sets logged ac
 
 Di² (1), Josiane, Guliver
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*

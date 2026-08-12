@@ -1,6 +1,6 @@
 # Nasra
 
-Nasra is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
+Nasra is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
 Nasra is a bass and breakbeat artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside DJ Babyblade, Haaizey and JADA MORAES. Next up: Else, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Nasra is a bass and breakbeat artist tracked on soundcheck, with 31 sets logged 
 
 DJ Babyblade, Haaizey, JADA MORAES
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasra/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasra/)*

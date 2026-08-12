@@ -1,6 +1,6 @@
 # Petra Hermanova
 
-Petra Hermanova is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Čistírna1906, Prague on Thu, 20 Aug 2026.
+Petra Hermanova is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Čistírna1906, Prague on Thu, 20 Aug 2026.
 
 Petra Hermanova is an experimental and pop artist tracked on soundcheck, with 15 sets logged across Berlin, Copenhagen, Frankfurt and Prague and 1 more. Often billed alongside bela, Aïsha Devi and Bella Báguena. Next up: Čistírna1906, Prague on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Petra Hermanova is an experimental and pop artist tracked on soundcheck, with 15
 
 bela, Aïsha Devi, Bella Báguena
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petrahermanova/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petrahermanova/)*

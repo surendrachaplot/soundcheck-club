@@ -1,6 +1,6 @@
 # Okravan
 
-Okravan is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
+Okravan is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
 
 Okravan is a minimal and techno artist based in Belarus, tracked on soundcheck, with 20 sets logged across Krakow and Warsaw. Often billed alongside Bohan, JESS.mp5 and user228322. Next up: B-SIDE, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Okravan is a minimal and techno artist based in Belarus, tracked on soundcheck, 
 
 Bohan, JESS.mp5, user228322
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okravan/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okravan/)*

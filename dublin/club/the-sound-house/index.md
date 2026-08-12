@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "2€ PARTY WITH ISR" on Thu, 20 Aug 2026.
+The Sound House is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "2€ PARTY WITH ISR" on Thu, 20 Aug 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Girls of the Internet and Shiv. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -20,4 +20,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

@@ -1,13 +1,14 @@
 # Akumen
 
-Akumen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+Akumen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Airliner, Los Angeles on Sat, 22 Aug 2026.
 
-Akumen is a house and deep house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Andy Oro, agraybé and No Pressure. Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
+Akumen is a house and deep house artist based in United States of America, tracked on soundcheck, with 88 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Andy Oro, agraybé and No Pressure. Next up: The Airliner, Losangeles on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | The Airliner | Los Angeles |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Akumen is a house and deep house artist based in United States of America, track
 
 Andy Oro, agraybé, No Pressure
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akumen/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akumen/)*

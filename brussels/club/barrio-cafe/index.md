@@ -1,6 +1,6 @@
 # Barrio Cafe
 
-Barrio Cafe is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "CAVE - Eclipse" on Sat, 15 Aug 2026.
+Barrio Cafe is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "CAVE - Eclipse" on Sat, 15 Aug 2026.
 
 Barrio Cafe is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including SAEED and Thomas M. Browse upcoming dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
 
@@ -14,4 +14,4 @@ Barrio Cafe is a music venue in Brussels listed on soundcheck. 1 upcoming night,
 
 Pl. de la Chapelle 6, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*

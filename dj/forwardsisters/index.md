@@ -1,6 +1,6 @@
 # Forward Sisters
 
-Forward Sisters is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
+Forward Sisters is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
 
 Forward Sisters is a bass and dub artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dub Isotope, Genoe and KaraKara. Next up: Crack Bellmer, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Forward Sisters is a bass and dub artist tracked on soundcheck, with 9 sets logg
 
 Dub Isotope, Genoe, KaraKara
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*

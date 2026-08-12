@@ -1,6 +1,6 @@
 # Akanbi
 
-Akanbi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+Akanbi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
 
 Akanbi is a techno and club artist based in United States of America, tracked on soundcheck, with 115 sets logged across Amsterdam, Basel, Berlin and Bristol and 19 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Akanbi is a techno and club artist based in United States of America, tracked on
 
 The Large, Yogic, DJ Voices
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*

@@ -1,6 +1,6 @@
 # Simon Phil.ter
 
-Simon Phil.ter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+Simon Phil.ter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 Simon Phil.ter is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin and Leipzig. Often billed alongside Rn86, nøvae and Ri0D.. Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Simon Phil.ter is a techno and house artist tracked on soundcheck, with 25 sets 
 
 Rn86, nøvae, Ri0D.
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*

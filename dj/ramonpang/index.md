@@ -1,6 +1,6 @@
 # RamonPang
 
-RamonPang is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
+RamonPang is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
 
 RamonPang is a garage and electro artist tracked on soundcheck, with 26 sets logged across Losangeles, Melbourne, Newyorkcity and Osaka and 2 more. Often billed alongside Daddy Kev, Clearcast and canary yellow. Next up: Miscellania, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ RamonPang is a garage and electro artist tracked on soundcheck, with 26 sets log
 
 Daddy Kev, Clearcast, canary yellow
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*

@@ -1,6 +1,6 @@
 # The Astoria
 
-The Astoria is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "NITE SCHOOL: BOAN, SRSQ, wire spine, dj Candy Whiplash" on Fri, 21 Aug 2026.
+The Astoria is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "NITE SCHOOL: BOAN, SRSQ, wire spine, dj Candy Whiplash" on Fri, 21 Aug 2026.
 
 The Astoria is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 769 East Hastings St; Vancouver, BC V6A 1R3; Canada.
 
@@ -14,4 +14,4 @@ The Astoria is a music venue in Vancouver listed on soundcheck. 1 upcoming night
 
 769 East Hastings St; Vancouver, BC V6A 1R3; Canada, Vancouver
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-astoria/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-astoria/)*

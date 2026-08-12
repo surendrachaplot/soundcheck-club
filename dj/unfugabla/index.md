@@ -1,6 +1,6 @@
 # Unfug Abla
 
-Unfug Abla is a Hip-Hop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
+Unfug Abla is a Hip-Hop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
 
 Unfug Abla is a hip-hop and breakbeat artist tracked on soundcheck, with 32 sets logged across Berlin and Hamburg. Often billed alongside DJ SOURCE, DJ Babyblade and Haaizey. Next up: Golden Pudel Club, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Unfug Abla is a hip-hop and breakbeat artist tracked on soundcheck, with 32 sets
 
 DJ SOURCE, DJ Babyblade, Haaizey
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*

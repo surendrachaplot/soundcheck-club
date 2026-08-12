@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 4 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "SPEKTRAL OPEN AIR 2026 V2" on Sat, 22 Aug 2026.
+Westhafen is a music venue in Leipzig with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "SPEKTRAL OPEN AIR 2026 V2" on Sat, 22 Aug 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 4 upcoming nights, with line-ups including adamoandiamo, Alisa Stovik, Amøn and Anni Herzer and 2 more. Browse upcoming dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -17,4 +17,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 4 upcoming nights, w
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

@@ -1,8 +1,8 @@
 # LEYA
 
-LEYA is a Pop and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Mécanique Ondulatoire, Paris on Mon, 28 Sept 2026.
+LEYA is a Experimental and Pop artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at La Mécanique Ondulatoire, Paris on Mon, 28 Sept 2026.
 
-LEYA is a pop and ambient artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Brussels and Detroit and 8 more. Often billed alongside Andriana-Yaroslava Saienko, Antonina Nowacka and Heinali. Next up: La Mécanique Ondulatoire, Paris on Mon 28 Sept.
+LEYA is an experimental and pop artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Detroit and 8 more. Often billed alongside Andriana-Yaroslava Saienko, Antonina Nowacka and Eiko Ishibashi. Next up: La Mécanique Ondulatoire, Paris on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LEYA is a pop and ambient artist tracked on soundcheck, with 17 sets logged acro
 | Mon, 28 Sept 2026 | La Mécanique Ondulatoire | Paris |
 | Tue, 29 Sept 2026 | Pilar - VUB | Brussels |
 | Sat, 3 Oct 2026 | Acud Macht NEU | Berlin |
+| Mon, 9 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ LEYA is a pop and ambient artist tracked on soundcheck, with 17 sets logged acro
 
 ## Shares bills with
 
-Andriana-Yaroslava Saienko, Antonina Nowacka, Heinali
+Andriana-Yaroslava Saienko, Antonina Nowacka, Eiko Ishibashi
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*

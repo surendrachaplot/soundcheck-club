@@ -1,6 +1,6 @@
 # Artistik
 
-Artistik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Borisov Amsterdam, Amsterdam on Thu, 13 Aug 2026.
+Artistik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Borisov Amsterdam, Amsterdam on Thu, 13 Aug 2026.
 
 Artistik is a house and techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Judoc, AKIYE and Dark Circles (NL). Next up: Borisov Amsterdam, Amsterdam on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Artistik is a house and techno artist based in Netherlands, tracked on soundchec
 
 Judoc, AKIYE, Dark Circles (NL)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artistik/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artistik/)*

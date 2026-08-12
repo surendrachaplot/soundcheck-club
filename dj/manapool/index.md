@@ -1,6 +1,6 @@
 # MANAPOOL
 
-MANAPOOL is a Hardcore and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Water & Power, Los Angeles on Sat, 15 Aug 2026.
+MANAPOOL is a Hardcore and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Water & Power, Los Angeles on Sat, 15 Aug 2026.
 
 MANAPOOL is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 22 sets logged across Boston, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside 99jakes, Flores Negras and KARUTH. Next up: Water & Power, Losangeles on Sat 15 Aug.
 
@@ -9,7 +9,7 @@ MANAPOOL is a hardcore and breakcore artist based in United States of America, t
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Water & Power | Los Angeles |
-| Sat, 29 Aug 2026 | ErF Studios | New York City |
+| Fri, 28 Aug 2026 | ErF Studios | New York City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ MANAPOOL is a hardcore and breakcore artist based in United States of America, t
 
 99jakes, Flores Negras, KARUTH
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*

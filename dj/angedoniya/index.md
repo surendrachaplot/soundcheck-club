@@ -1,6 +1,6 @@
 # ANGEDONIYA
 
-ANGEDONIYA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
+ANGEDONIYA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
 
 ANGEDONIYA is a techno and hardcore artist tracked on soundcheck, with 33 sets logged across Riga. Often billed alongside hitomori, ELYSIUM and maniken05. Next up: Teritorija, Riga on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ANGEDONIYA is a techno and hardcore artist tracked on soundcheck, with 33 sets l
 
 hitomori, ELYSIUM, maniken05
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angedoniya/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angedoniya/)*

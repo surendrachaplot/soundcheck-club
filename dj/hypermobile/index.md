@@ -1,6 +1,6 @@
 # Hypermobile
 
-Hypermobile is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
+Hypermobile is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
 
 Hypermobile is a techno artist tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside Crystal O, DJ WIFI and Golpe. Next up: Das Werk, Vienna on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Hypermobile is a techno artist tracked on soundcheck, with 3 sets logged across 
 
 Crystal O, DJ WIFI, Golpe
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypermobile/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypermobile/)*

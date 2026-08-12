@@ -1,6 +1,6 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at essaim, Paris on Sat, 29 Aug 2026.
+Neffa-T is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at essaim, Paris on Sat, 29 Aug 2026.
 
 Neffa-T is a bass and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 40 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: essaim, Paris on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Neffa-T is a bass and techno artist tracked on soundcheck, with 164 sets logged 
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

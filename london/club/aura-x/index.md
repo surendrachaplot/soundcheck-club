@@ -1,6 +1,6 @@
 # Aura X
 
-Aura X is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Notting Hill - Carnival After Party" on Mon, 31 Aug 2026.
+Aura X is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Notting Hill - Carnival After Party" on Mon, 31 Aug 2026.
 
 Aura X is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 333 - 337 Old St, London EC1V 9LL, UK.
 
@@ -15,4 +15,4 @@ Aura X is a music venue in London listed on soundcheck. 2 upcoming nights. Brows
 
 333 - 337 Old St, London EC1V 9LL, UK, London
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/aura-x/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/aura-x/)*

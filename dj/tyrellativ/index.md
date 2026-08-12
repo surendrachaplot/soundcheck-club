@@ -1,6 +1,6 @@
 # Tyrellativ
 
-Tyrellativ is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at ://about blank, Berlin on Tue, 18 Aug 2026.
+Tyrellativ is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ://about blank, Berlin on Tue, 18 Aug 2026.
 
 Tyrellativ is a techno and gabber artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Munich, Nurnberg and Stuttgart. Often billed alongside Punktmidi, SpanierMitAuto and SpanierOhneAuto. Next up: ://about blank, Berlin on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Tyrellativ is a techno and gabber artist based in Germany, tracked on soundcheck
 
 Punktmidi, SpanierMitAuto, SpanierOhneAuto
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*

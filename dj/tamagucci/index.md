@@ -1,6 +1,6 @@
 # Tama Gucci
 
-Tama Gucci is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
+Tama Gucci is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
 
 Tama Gucci is a club and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Boston and Brussels and 6 more. Often billed alongside Mazurbate, BEARCAT and Byrell The Great. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tama Gucci is a club and techno artist based in United States of America, tracke
 
 Mazurbate, BEARCAT, Byrell The Great
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamagucci/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamagucci/)*

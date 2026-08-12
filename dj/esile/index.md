@@ -1,6 +1,6 @@
 # esile
 
-esile is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Parc Jarry, Montreal on Sat, 15 Aug 2026.
+esile is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Parc Jarry, Montreal on Sat, 15 Aug 2026.
 
 esile is an ambient and downtempo artist based in Canada, tracked on soundcheck, with 11 sets logged across Berlin and Montreal. Often billed alongside Gabrielle Rose, Macrosoft and Victoire. Next up: Parc Jarry, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ esile is an ambient and downtempo artist based in Canada, tracked on soundcheck,
 
 Gabrielle Rose, Macrosoft, Victoire
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esile/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esile/)*

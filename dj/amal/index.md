@@ -1,6 +1,6 @@
 # Amal
 
-Amal is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
+Amal is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
 
 Amal is a club and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Berlin and Chicago and 9 more. Often billed alongside Nativesun, Black Rave Culture and Amal (US). Next up: La Gravière, Geneva on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Amal is a club and techno artist based in United States of America, tracked on s
 
 Nativesun, Black Rave Culture, Amal (US)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

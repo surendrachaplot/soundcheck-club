@@ -1,6 +1,6 @@
 # John Silas
 
-John Silas is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Good Room, New York City on Fri, 21 Aug 2026.
+John Silas is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Good Room, New York City on Fri, 21 Aug 2026.
 
 John Silas is a downtempo and electronica artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Marco Weibel, Haseeb Iqbal and Honey Bun. Next up: Good Room, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ John Silas is a downtempo and electronica artist based in United States of Ameri
 
 Marco Weibel, Haseeb Iqbal, Honey Bun
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsilas/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsilas/)*

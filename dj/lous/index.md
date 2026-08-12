@@ -1,6 +1,6 @@
 # LØUS
 
-LØUS is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
+LØUS is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
 
 LØUS is a hardcore and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Antwerp, Barcelona, Berlin and Hamburg and 9 more. Often billed alongside FLUCC, Der Schaffner and Olmatri. Next up: Lehmann Club, Stuttgart on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LØUS is a hardcore and techno artist based in Germany, tracked on soundcheck, w
 
 FLUCC, Der Schaffner, Olmatri
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lous/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lous/)*

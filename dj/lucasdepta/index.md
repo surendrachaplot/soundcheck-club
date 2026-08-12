@@ -1,6 +1,6 @@
 # Lucas Depta
 
-Lucas Depta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Lucas Depta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
 Lucas Depta is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne and Stuttgart. Often billed alongside Violetta (DE), Andy Martin and DJ Nobu. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lucas Depta is a techno and house artist tracked on soundcheck, with 14 sets log
 
 Violetta (DE), Andy Martin, DJ Nobu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdepta/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdepta/)*

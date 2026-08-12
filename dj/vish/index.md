@@ -1,6 +1,6 @@
 # vish
 
-vish is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at The Jazz Cafe, London on Fri, 9 Oct 2026.
+vish is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Jazz Cafe, London on Fri, 9 Oct 2026.
 
 vish is a garage and jungle artist tracked on soundcheck, with 18 sets logged across Leeds and London. Often billed alongside MF Ceól, MUSICKLUNATIC and Make Money Mafia. Next up: The Jazz Cafe, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ vish is a garage and jungle artist tracked on soundcheck, with 18 sets logged ac
 
 MF Ceól, MUSICKLUNATIC, Make Money Mafia
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*

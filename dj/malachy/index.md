@@ -1,6 +1,6 @@
 # Malachy
 
-Malachy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kazimier Garden, Liverpool on Sat, 22 Aug 2026.
+Malachy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kazimier Garden, Liverpool on Sat, 22 Aug 2026.
 
 Malachy is a house and garage artist tracked on soundcheck, with 11 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Alec Falconer, Jelsen and Tino. Next up: Kazimier Garden, Liverpool on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Malachy is a house and garage artist tracked on soundcheck, with 11 sets logged 
 
 Alec Falconer, Jelsen, Tino
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*

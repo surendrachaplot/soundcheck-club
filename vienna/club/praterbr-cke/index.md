@@ -1,6 +1,6 @@
 # Praterbrücke
 
-Praterbrücke is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Tue, 11 Aug 2026; the next is "FREE SPACES - Pink Mayhem & bk.west" on Fri, 14 Aug 2026.
+Praterbrücke is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "FREE SPACES - Pink Mayhem & bk.west" on Fri, 14 Aug 2026.
 
 Praterbrücke is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including BLUDHOUND and pinklotion. Browse upcoming dates, start times and who's playing. 1020, Wien.
 
@@ -14,4 +14,4 @@ Praterbrücke is a music venue in Vienna listed on soundcheck. 1 upcoming night,
 
 1020, Wien, Vienna
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/praterbr-cke/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/praterbr-cke/)*

@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 8 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa" on Fri, 28 Aug 2026.
+Warehouse is a music venue in Nantes with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa" on Fri, 28 Aug 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming nights, with line-ups including 25EMEHEURE, Bellaire, Bob Sinclar and Corentin Mab and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -21,4 +21,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming nights, wi
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

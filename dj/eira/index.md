@@ -1,6 +1,6 @@
 # Eira
 
-Eira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Eira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Eira is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Bangkok and Berlin. Often billed alongside Part-Time Lesbian, Kidcat and Berfu. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eira is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Part-Time Lesbian, Kidcat, Berfu
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eira/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eira/)*

@@ -1,6 +1,6 @@
 # Mama Yha Yha
 
-Mama Yha Yha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 14 Aug 2026.
+Mama Yha Yha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 14 Aug 2026.
 
 Mama Yha Yha is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Khloe, ALP (DE) and Cali Rose. Next up: Phantom Bar Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mama Yha Yha is a techno and house artist based in Germany, tracked on soundchec
 
 Khloe, ALP (DE), Cali Rose
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*

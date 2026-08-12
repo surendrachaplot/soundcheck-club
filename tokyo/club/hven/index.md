@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "HVEN presents: FEVER DANCE NIGHT + Dance Battle" on Fri, 14 Aug 2026.
+HVEN is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "HVEN presents: FEVER DANCE NIGHT + Dance Battle" on Fri, 14 Aug 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including AiMii, DJason, DJ Yazi and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -20,4 +20,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with lin
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

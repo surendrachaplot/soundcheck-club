@@ -1,6 +1,6 @@
 # prv.d
 
-prv.d is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at TBA - West Adams, Los Angeles on Sat, 22 Aug 2026.
+prv.d is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - West Adams, Los Angeles on Sat, 22 Aug 2026.
 
 prv.d is a house and techno artist tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside agraybé, CHA CHA and Max Ellington. Next up: TBA - West Adams, Losangeles on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ prv.d is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 agraybé, CHA CHA, Max Ellington
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prv.d/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prv.d/)*

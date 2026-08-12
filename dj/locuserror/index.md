@@ -1,6 +1,6 @@
 # Locus Error
 
-Locus Error is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at BASIS, Utrecht on Fri, 18 Sept 2026.
+Locus Error is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at BASIS, Utrecht on Fri, 18 Sept 2026.
 
 Locus Error is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Grace Dahl, Daria Kolosova and MYRA (NL). Next up: BASIS, Utrecht on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Locus Error is a techno and house artist tracked on soundcheck, with 33 sets log
 
 Grace Dahl, Daria Kolosova, MYRA (NL)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locuserror/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locuserror/)*

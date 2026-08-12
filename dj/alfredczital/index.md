@@ -1,6 +1,6 @@
 # Alfred Czital
 
-Alfred Czital is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
+Alfred Czital is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
 
 Alfred Czital is a techno and trance artist tracked on soundcheck, with 113 sets logged across Bangkok, Berlin, Bristol and Copenhagen and 22 more. Often billed alongside Yan (CZ), Raleigh and Zeynep. Next up: Bike Jesus, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alfred Czital is a techno and trance artist tracked on soundcheck, with 113 sets
 
 Yan (CZ), Raleigh, Zeynep
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*

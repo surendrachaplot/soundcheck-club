@@ -1,6 +1,6 @@
 # Pan-Pan
 
-Pan-Pan is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Sigil Radio Summer Social" on Fri, 14 Aug 2026.
+Pan-Pan is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sigil Radio Summer Social" on Fri, 14 Aug 2026.
 
 Pan-Pan is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, with line-ups including Dadenii, Echo Juliet and RINGERS. Browse upcoming dates, start times and who's playing. 25D Floodgate St, Deritend.
 
@@ -15,4 +15,4 @@ Pan-Pan is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, 
 
 25D Floodgate St, Deritend, Birmingham
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/pan-pan/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/pan-pan/)*

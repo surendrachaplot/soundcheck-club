@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "PROVINCE 44 presents Traumer" on Sat, 5 Sept 2026.
+Descent is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "PROVINCE 44 presents Traumer" on Sat, 5 Sept 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 6 upcoming nights, with line-ups including Alejandro Franco, Dubfire, Locky and MARRØN and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -19,4 +19,4 @@ Descent is a music venue in Boston listed on soundcheck. 6 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

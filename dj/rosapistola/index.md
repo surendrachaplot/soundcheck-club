@@ -1,6 +1,6 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
 
 Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: The Ground at Club Space, Miami on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 
 Bclip, Freebot, DJ Travella
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

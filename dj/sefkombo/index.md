@@ -1,6 +1,6 @@
 # Sef Kombo
 
-Sef Kombo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Sef Kombo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Sef Kombo is an afro house and house artist tracked on soundcheck, with 31 sets logged across London, Paris and Toronto. Often billed alongside Supa D, Tippa and Via Seri. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Sef Kombo is an afro house and house artist tracked on soundcheck, with 31 sets 
 
 Supa D, Tippa, Via Seri
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sefkombo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sefkombo/)*

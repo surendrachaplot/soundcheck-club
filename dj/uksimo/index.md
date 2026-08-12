@@ -1,6 +1,6 @@
 # Uksimo
 
-Uksimo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Uksimo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Uksimo is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Leen, MINNIEMEN and 42nd Avenue. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ Uksimo is a techno and house artist tracked on soundcheck, with 8 sets logged ac
 
 Leen, MINNIEMEN, 42nd Avenue
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uksimo/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uksimo/)*

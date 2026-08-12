@@ -1,6 +1,6 @@
 # ludoviko
 
-ludoviko is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at L'orée 85, Strasbourg on Sun, 13 Sept 2026.
+ludoviko is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at L'orée 85, Strasbourg on Sun, 13 Sept 2026.
 
 ludoviko is a tech house and minimal artist based in Germany, tracked on soundcheck, with 1 set logged across Strasbourg. Often billed alongside Halès and Perruche. Next up: L'orée 85, Strasbourg on Sun 13 Sept.
 
@@ -14,4 +14,4 @@ ludoviko is a tech house and minimal artist based in Germany, tracked on soundch
 
 Halès, Perruche
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludoviko/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludoviko/)*

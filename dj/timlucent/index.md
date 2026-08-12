@@ -1,6 +1,6 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
+Tim Lucent is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
 
 Tim Lucent is a house and disco artist based in United States of America, tracked on soundcheck, with 61 sets logged across Losangeles and Newyorkcity. Often billed alongside Laila Amira, Choukroun and Armii1n. Next up: Dead Letter No. 9, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tim Lucent is a house and disco artist based in United States of America, tracke
 
 Laila Amira, Choukroun, Armii1n
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

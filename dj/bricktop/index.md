@@ -1,6 +1,6 @@
 # Brick Top
 
-Brick Top is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Brick Top is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Brick Top is a house and garage artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bristol, London, Manchester and Newcastle. Often billed alongside Bones (UK), CGNTV and AJC (UK). Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Brick Top is a house and garage artist based in United Kingdom, tracked on sound
 
 Bones (UK), CGNTV, AJC (UK)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bricktop/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bricktop/)*

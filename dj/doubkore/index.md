@@ -1,6 +1,6 @@
 # DoubKore
 
-DoubKore is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
+DoubKore is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
 
 DoubKore is a psytrance artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Melbourne. Often billed alongside Nikki S, EARPRINT and Ebru Al. Next up: Distillery N17, London on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ DoubKore is a psytrance artist based in United Kingdom, tracked on soundcheck, w
 
 Nikki S, EARPRINT, Ebru Al
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubkore/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubkore/)*

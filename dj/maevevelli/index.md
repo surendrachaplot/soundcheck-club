@@ -1,6 +1,6 @@
 # Maevevelli
 
-Maevevelli is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bubba Oasis, Islington, London on Fri, 14 Aug 2026.
+Maevevelli is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bubba Oasis, Islington, London on Fri, 14 Aug 2026.
 
 Maevevelli is an afro house and afrobeat artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside HONEEAY and VvadaA. Next up: Bubba Oasis, Islington, London on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Maevevelli is an afro house and afrobeat artist tracked on soundcheck, with 5 se
 
 HONEEAY, VvadaA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevevelli/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevevelli/)*

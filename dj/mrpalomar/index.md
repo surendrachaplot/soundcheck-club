@@ -1,6 +1,6 @@
 # Mr Palomar
 
-Mr Palomar is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Humble Sea - Seacret Garden, San Francisco/Oakland on Sun, 16 Aug 2026.
+Mr Palomar is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humble Sea - Seacret Garden, San Francisco/Oakland on Sun, 16 Aug 2026.
 
 Mr Palomar is a house and balearic artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Miss Frizzle, Blackpaw and Erik Vehmeyer. Next up: Humble Sea - Seacret Garden, Sanfrancisco on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ Mr Palomar is a house and balearic artist based in United States of America, tra
 
 Miss Frizzle, Blackpaw, Erik Vehmeyer
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrpalomar/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrpalomar/)*

@@ -1,6 +1,6 @@
 # VALENTIN FRAIS
 
-VALENTIN FRAIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+VALENTIN FRAIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 VALENTIN FRAIS is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside adamoandiamo, Hypnosta and Parsec. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ VALENTIN FRAIS is a techno and house artist based in Germany, tracked on soundch
 
 adamoandiamo, Hypnosta, Parsec
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinfrais/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinfrais/)*

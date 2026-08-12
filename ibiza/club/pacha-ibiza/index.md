@@ -1,15 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 64 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Kaytranada" on Tue, 11 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 62 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Mau P - BADDEST BEHAVIOUR" on Wed, 12 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 64 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 62 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Kaytranada | Kaytranada, Skream |
-| Tue, 11 Aug 2026 | KAYTRANADA |  |
 | Wed, 12 Aug 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Wed, 12 Aug 2026 | MAU P / BADDEST BEHAVIOUR |  |
 | Thu, 13 Aug 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine |
@@ -18,9 +16,11 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 64 upcoming nights, 
 | Fri, 14 Aug 2026 | MARCO CAROLA PRESENTS MUSIC ON |  |
 | Sat, 15 Aug 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
 | Sat, 15 Aug 2026 | ROGER SANCHEZ / FLOWER POWER |  |
+| Sun, 16 Aug 2026 | Solomun+1 | DJ Gigola, Solomun |
+| Mon, 17 Aug 2026 | Sonny Fodera | Arielle Free, Danny Howard, Sonny Fodera |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

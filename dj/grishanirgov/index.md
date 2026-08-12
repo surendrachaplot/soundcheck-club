@@ -1,13 +1,14 @@
 # Grisha Nirgov
 
-Grisha Nirgov is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Lucavsalas Kopienas Dārzs, Riga on Sat, 5 Sept 2026.
+Grisha Nirgov is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 28 Aug 2026.
 
-Grisha Nirgov is a techno and ebm artist tracked on soundcheck, with 26 sets logged across Riga. Often billed alongside Herren Ivo, Johnny Depo and mOZ (2). Next up: Lucavsalas Kopienas Dārzs, Riga on Sat 5 Sept.
+Grisha Nirgov is a techno and ebm artist tracked on soundcheck, with 27 sets logged across Riga. Often billed alongside Herren Ivo, Johnny Depo and mOZ (2). Next up: River Ship Vecrīga, Riga on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | River Ship Vecrīga | Riga |
 | Sat, 5 Sept 2026 | Lucavsalas Kopienas Dārzs | Riga |
 | Sat, 19 Sept 2026 | Kaņepes Kultūras Centrs | Riga |
 
@@ -26,4 +27,4 @@ Grisha Nirgov is a techno and ebm artist tracked on soundcheck, with 26 sets log
 
 Herren Ivo, Johnny Depo, mOZ (2)
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grishanirgov/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grishanirgov/)*

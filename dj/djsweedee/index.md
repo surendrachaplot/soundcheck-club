@@ -1,6 +1,6 @@
 # DJ Sweedee
 
-DJ Sweedee is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Insomnia, Berlin on Sat, 15 Aug 2026.
+DJ Sweedee is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Insomnia, Berlin on Sat, 15 Aug 2026.
 
 DJ Sweedee is a trance and techno artist tracked on soundcheck, with 37 sets logged across Basel, Berlin, Frankfurt and Leipzig and 2 more. Often billed alongside Sober At The Disco, Lisek and OCIN. Next up: Insomnia, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Sweedee is a trance and techno artist tracked on soundcheck, with 37 sets log
 
 Sober At The Disco, Lisek, OCIN
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweedee/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweedee/)*

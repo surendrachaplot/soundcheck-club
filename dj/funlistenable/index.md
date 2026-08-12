@@ -1,6 +1,6 @@
 # fUnlistenable
 
-fUnlistenable is a Trance and Pop artist with 3 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
+fUnlistenable is a Trance and Pop artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
 
 fUnlistenable is a trance and pop artist based in United States of America, tracked on soundcheck, with 6 sets logged across Glasgow, London, Manchester and Newyorkcity. Often billed alongside ASTER (DJ), Anop and Cherrie B. Next up: The Waiting Room, London on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ fUnlistenable is a trance and pop artist based in United States of America, trac
 
 ASTER (DJ), Anop, Cherrie B
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funlistenable/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funlistenable/)*

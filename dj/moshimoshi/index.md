@@ -1,6 +1,6 @@
 # Moshi Moshi
 
-Moshi Moshi is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Heavy Sick Zero, Tokyo on Sun, 16 Aug 2026.
+Moshi Moshi is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Heavy Sick Zero, Tokyo on Sun, 16 Aug 2026.
 
 Moshi Moshi is a bass and breakbeat artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ato夢. Next up: Heavy Sick Zero, Tokyo on Sun 16 Aug.
 
@@ -18,4 +18,4 @@ Moshi Moshi is a bass and breakbeat artist tracked on soundcheck, with 2 sets lo
 
 ato夢
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moshimoshi/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moshimoshi/)*

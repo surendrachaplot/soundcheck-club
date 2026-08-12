@@ -1,14 +1,15 @@
 # Jenny Fox
 
-Jenny Fox is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bourbon On Division, Chicago on Fri, 21 Aug 2026.
+Jenny Fox is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bourbon On Division, Chicago on Fri, 21 Aug 2026.
 
-Jenny Fox is a techno and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Chicago. Often billed alongside Flores Negras, Ariel Zetina and karennoid. Next up: Bourbon On Division, Chicago on Fri 21 Aug.
+Jenny Fox is a techno and club artist based in United States of America, tracked on soundcheck, with 33 sets logged across Chicago. Often billed alongside Flores Negras, Ariel Zetina and karennoid. Next up: Bourbon On Division, Chicago on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Bourbon On Division | Chicago |
+| Sun, 6 Sept 2026 | The Jackhammer Chicago | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jenny Fox is a techno and club artist based in United States of America, tracked
 
 Flores Negras, Ariel Zetina, karennoid
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyfox/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyfox/)*

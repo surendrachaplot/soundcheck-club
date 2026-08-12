@@ -1,6 +1,6 @@
 # Liam Parsons
 
-Liam Parsons is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
+Liam Parsons is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
 
 Liam Parsons is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside teleopath, S_STEELE and Joshua James. Next up: The Roses of Elagabalus, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Liam Parsons is a house and tech house artist based in United Kingdom, tracked o
 
 teleopath, S_STEELE, Joshua James
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*

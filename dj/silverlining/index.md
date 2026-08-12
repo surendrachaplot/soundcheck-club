@@ -1,6 +1,6 @@
 # Silverlining
 
-Silverlining is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
+Silverlining is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
 
 Silverlining is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 18 more. Often billed alongside 3 Minds, Trixie (UK) and Eddie Richards. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Silverlining is a house and tech house artist based in United Kingdom, tracked o
 
 3 Minds, Trixie (UK), Eddie Richards
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*

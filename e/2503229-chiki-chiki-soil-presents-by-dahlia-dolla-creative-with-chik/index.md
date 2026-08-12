@@ -1,6 +1,6 @@
 # CHIKI CHIKI SOIL presents by dahlia dolla creative with Chiki Chiki Rambo at Club Metro
 
-CHIKI CHIKI SOIL presents by dahlia dolla creative with Chiki Chiki Rambo at Club Metro on Sat 29 Aug, Kyoto. Preview the line-up and save it on soundcheck.
+CHIKI CHIKI SOIL presents by dahlia dolla creative with Chiki Chiki Rambo at Club Metro on Sat 29 Aug, Kyoto. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

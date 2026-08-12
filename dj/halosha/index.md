@@ -1,6 +1,6 @@
 # Halosha
 
-Halosha is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Noce KRK, Krakow on Sat, 15 Aug 2026.
+Halosha is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Noce KRK, Krakow on Sat, 15 Aug 2026.
 
 Halosha is a drum & bass and techno artist tracked on soundcheck, with 8 sets logged across Krakow. Often billed alongside Osmo, Aetha and C Razey. Next up: Noce KRK, Krakow on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Halosha is a drum & bass and techno artist tracked on soundcheck, with 8 sets lo
 
 Osmo, Aetha, C Razey
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halosha/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halosha/)*

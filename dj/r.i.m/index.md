@@ -1,6 +1,6 @@
 # R.I.M
 
-R.I.M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Blank Site, Seoul on Sat, 15 Aug 2026.
+R.I.M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Blank Site, Seoul on Sat, 15 Aug 2026.
 
 R.I.M is a techno and house artist based in South Korea, tracked on soundcheck, with 37 sets logged across Bangkok, Newyorkcity, Seoul and Tokyo. Often billed alongside VOID (KR), Bagagee Viphex13 and Kim.Qna. Next up: Blank Site, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ R.I.M is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 VOID (KR), Bagagee Viphex13, Kim.Qna
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r.i.m/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r.i.m/)*

@@ -1,6 +1,6 @@
 # Guim Lebowski
 
-Guim Lebowski is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 15 Aug 2026.
+Guim Lebowski is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 15 Aug 2026.
 
 Guim Lebowski is a techno and electro artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Dolorosa, Ed Warner and MENTA. Next up: Almar Beach Club, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Guim Lebowski is a techno and electro artist tracked on soundcheck, with 10 sets
 
 Dolorosa, Ed Warner, MENTA
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guimlebowski/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guimlebowski/)*

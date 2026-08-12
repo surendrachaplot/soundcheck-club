@@ -1,6 +1,6 @@
 # ANTYA
 
-ANTYA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+ANTYA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 ANTYA is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Cyranotaurus Cortex, Don Rogall and Emma Keks. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ANTYA is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 Cyranotaurus Cortex, Don Rogall, Emma Keks
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antya-de/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antya-de/)*

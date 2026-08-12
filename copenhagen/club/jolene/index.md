@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Tue, 11 Aug 2026; the next is "Jolene Bar? with Ana Karla" on Thu, 13 Aug 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Jolene Bar? with Ana Karla" on Thu, 13 Aug 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including Ana Karla, Anton Goltermann, Britney Speed and CTRLZORA and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -18,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

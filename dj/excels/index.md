@@ -1,6 +1,6 @@
 # excels
 
-excels is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
+excels is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
 
 excels is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 6 sets logged across Riga. Often billed alongside MVKO, XSYNC19 and oshigakill. Next up: Teritorija, Riga on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ excels is a hardcore and gabber artist based in Latvia, tracked on soundcheck, w
 
 MVKO, XSYNC19, oshigakill
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excels/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excels/)*

@@ -1,6 +1,6 @@
 # Oriki
 
-Oriki is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 11 Aug 2026, next at Bar Shrimp, Manchester on Thu, 13 Aug 2026.
+Oriki is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bar Shrimp, Manchester on Thu, 13 Aug 2026.
 
 Oriki is a bass and electronica artist tracked on soundcheck, with 21 sets logged across Manchester. Often billed alongside Kusasa, Sharari and Chunky. Next up: Bar Shrimp, Manchester on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Oriki is a bass and electronica artist tracked on soundcheck, with 21 sets logge
 
 Kusasa, Sharari, Chunky
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriki/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriki/)*

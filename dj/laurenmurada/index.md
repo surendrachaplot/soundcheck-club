@@ -1,8 +1,8 @@
 # Lauren Murada
 
-Lauren Murada is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
+Lauren Murada is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
 
-Lauren Murada is a disco and house artist based in Australia, tracked on soundcheck, with 83 sets logged across Melbourne, Mexicocity, Newyorkcity and Philadelphia and 3 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
+Lauren Murada is a disco and house artist based in Australia, tracked on soundcheck, with 84 sets logged across Melbourne, Mexicocity, Newyorkcity and Philadelphia and 3 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lauren Murada is a disco and house artist based in Australia, tracked on soundch
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Xanadu | New York City |
 | Sat, 29 Aug 2026 | Jupiter Disco | New York City |
+| Sat, 19 Sept 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lauren Murada is a disco and house artist based in Australia, tracked on soundch
 
 Party Dad, Finn Jones, Alex McCracken
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenmurada/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenmurada/)*

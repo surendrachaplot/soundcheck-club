@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Tue, 11 Aug 2026, next at Phoenix Landing, Boston on Wed, 12 Aug 2026.
+CHKLTE is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Phoenix Landing, Boston on Wed, 12 Aug 2026.
 
 CHKLTE is a house and minimal artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Phoenix Landing, Boston on Wed 12 Aug.
 
@@ -30,4 +30,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 113 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Tue, 11 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
