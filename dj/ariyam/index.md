@@ -1,13 +1,14 @@
 # Ariyam
 
-Ariyam is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kramladen, Vienna on Sat, 22 Aug 2026.
+Ariyam is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Süss War Gestern, Berlin on Sat, 15 Aug 2026.
 
-Ariyam is a techno artist tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside Leen Tilt, MORASS and Alena Noctis. Next up: Kramladen, Vienna on Sat 22 Aug.
+Ariyam is a tech house and house artist tracked on soundcheck, with 4 sets logged across Berlin and Vienna. Often billed alongside Leen Tilt, MORASS and Alena Noctis. Next up: Süss War Gestern, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Süss War Gestern | Berlin |
 | Sat, 22 Aug 2026 | Kramladen | Vienna |
 
 ## Recently played

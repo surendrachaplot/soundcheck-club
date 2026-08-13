@@ -17,7 +17,7 @@ Polyamor at OST on Sat 3 Oct, Berlin. 11 acts on the bill: Alas (2), Cleopard200
 - Justin Tinderdate
 - LAMMER
 - Pōnky
-- TheMuffinMan
+- The Muffin Man
 - VIVI909
 - XIMA
 - Yasmin Regisford

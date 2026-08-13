@@ -1,11 +1,11 @@
-# FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets at DNA. CLUB - urban Space
+# FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets at DNA. CLUB
 
-FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets at DNA. CLUB - urban Space on Sun 30 Aug, Berlin. House and Jazz. Preview the line-up and save it on soundcheck.
+FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets on Sun 30 Aug, Berlin. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 30 Aug 2026 |
-| Venue | DNA. CLUB - urban Space |
+| Venue | DNA. CLUB |
 | City | Berlin |
 
 *Source: [soundcheck](https://soundcheck.club/e/2493438-free-entry-playground-open-stage-community-open-air-at-dna-c/)*

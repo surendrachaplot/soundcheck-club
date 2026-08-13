@@ -1,14 +1,15 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sala Roka, Malaga on Sat, 22 Aug 2026.
+BIXBITA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sala Roka, Malaga on Sat, 22 Aug 2026.
 
-BIXBITA is a techno and trance artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Budapest and Cologne and 12 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Sala Roka, Malaga on Sat 22 Aug.
+BIXBITA is a techno and trance artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Sala Roka, Malaga on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sala Roka | Malaga |
+| Fri, 18 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 3 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played

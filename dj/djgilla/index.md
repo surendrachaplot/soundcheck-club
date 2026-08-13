@@ -1,14 +1,15 @@
 # DJ Gilla
 
-DJ Gilla is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jumbi, London on Sun, 16 Aug 2026.
+DJ Gilla is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jumbi, London on Sun, 16 Aug 2026.
 
-DJ Gilla is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Russ Ryan, Alex Phountzi and Ben Sims. Next up: Jumbi, London on Sun 16 Aug.
+DJ Gilla is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Russ Ryan, Alex Phountzi and Ben Sims. Next up: Jumbi, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Jumbi | London |
+| Fri, 25 Sept 2026 | Total Refreshment Centre | London |
 
 ## Recently played
 

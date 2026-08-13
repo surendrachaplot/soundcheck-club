@@ -16,7 +16,7 @@ TBA is a music venue in London listed on soundcheck. 295 upcoming nights, with l
 | Fri, 14 Aug 2026 | Carousel Collective presents: Noizar, Matt Brancatella | Matt Brancatella, Noizar |
 | Fri, 14 Aug 2026 | SILLY GOOSE AT THE GOOSE | Blatant Suspects, By. Jansz, Gilez, PHJ.WAV |
 | Fri, 14 Aug 2026 | Stasis & Public Listening Project pres. SPAT | CHEAHDX, Miki (3), Rakhi |
-| Fri, 14 Aug 2026 | Insomnia x Behind The Scenes, Champagne & Young Love Afterparty | Ben Green, Fennek, Fran-Cee, Marvel Gold |
 | Fri, 14 Aug 2026 | Hometown Sound & Friends | Chris Astrojazz, Hometown Sound, James Hometown, Nikki Kent |
+| Sat, 15 Aug 2026 | Aron Entire Shift Event |  |
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

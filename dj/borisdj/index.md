@@ -1,8 +1,8 @@
 # Boris
 
-Boris is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
+Boris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
 
-Boris is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Ministerium Club, Lisbon on Sat 15 Aug.
+Boris is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Auckland and Austin and 50 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Ministerium Club, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Boris is a techno and house artist tracked on soundcheck, with 213 sets logged a
 | Sat, 22 Aug 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 12 Sept 2026 | BASEMENT | New York City |
 | Sat, 19 Sept 2026 | AUX Club | Athens |
+| Sat, 26 Sept 2026 | Patterns | Brighton |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 28 upcoming nig
 | Wed, 19 Aug 2026 | Tresor New Faces hosted by Scheißmukke | BBetriebswirt, Pschukk, Silberhauch, beccs, schönfeld |
 | Fri, 21 Aug 2026 | Tresor meets Echocord | Ayesha, Dinamite, Forest On Stasys, Kenneth Christiansen, Luke Hess, Sabine Hoffmann, Steve Bicknell, Substance |
 | Sat, 22 Aug 2026 | Tresor Klubnacht | Function, Hadone, Nastya Vogan, Nat Wendell, Natascha Kann, SORAYA*, Soraya, Youandewan |
-| Mon, 24 Aug 2026 | ◥◣ALL EXCESS x SINGULARITY◥◣ | Kandelissa, MOIA, NLI, Nhū, Selina (DE) |
+| Mon, 24 Aug 2026 | ◥◣ALL EXCESS x SINGULARITY◥◣ | Kandelissa, MOIA, NLI, Nhū, Schiela, Selina (DE) |
 
 ## Address
 

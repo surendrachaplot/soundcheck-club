@@ -1,8 +1,8 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SUN > ATG < SET: jardabpm & ninaola" on Thu, 13 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SUN > ATG < SET: jardabpm & ninaola" on Thu, 13 Aug 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming night
 | Thu, 20 Aug 2026 | SUN > ATG < SET: EERIE collective | DDK (1), RADYK, ZiZi, zazitech |
 | Fri, 21 Aug 2026 | ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, Lars Huismann, Ly Sas | 2NDRA, AVHD, Bloody Mary, Dash (CZ), Diva, IAmNøt, KAWA, Kino Paladino, Lars Huismann, Ly Sas, MARS (4), Nadine, Nanzhen Yang, Patricio Strix, Pink Concrete, RiVid, Riki Boro, S.N.R.I., SJ Yellow, SURCO, Technadze |
 | Thu, 27 Aug 2026 | SUN > ATG < SET: AVHD, Ayiaa, Iriky | AVHD, Ayiaa, Iriky |
+| Sat, 29 Aug 2026 | noRemorse // Sorcery, 3ever, Nina Farrina, SJ Yellow, tmk, yo haan | 3ever, Nina Farrina, SJ Yellow, Sorcery, tmk (CZ), yo haan |
 | Sat, 12 Sept 2026 | DOCK RAVE — MADE IN GERMANY | Diva, Mike Stevens, carlo kalu |
 
 ## Address

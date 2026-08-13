@@ -1,8 +1,8 @@
 # Jawnino
 
-Jawnino is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
+Jawnino is a Hip-Hop and Grime artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
 
-Jawnino is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside KAVARI, Mechatok and CHAMBER45. Next up: TBA - 22 rue Jobin 13003 marseille , Marseille on Thu 13 Aug.
+Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside KAVARI, Mechatok and CHAMBER45. Next up: TBA - 22 rue Jobin 13003 marseille , Marseille on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jawnino is an electronica and experimental artist based in United Kingdom, track
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA - 22 rue Jobin 13003 marseille  | Marseille |
 | Fri, 28 Aug 2026 | NUMBER 90 LONDON | London |
+| Thu, 3 Sept 2026 | Drygate | Glasgow |
 
 ## Recently played
 

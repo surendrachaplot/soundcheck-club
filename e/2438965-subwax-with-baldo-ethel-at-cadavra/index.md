@@ -1,6 +1,6 @@
 # SUBWAX with Baldo & Ethel at Cadavra
 
-SUBWAX with Baldo & Ethel at Cadavra on Sat 5 Sept, Madrid. 3 acts on the bill: Baldo, Ethel and Margott. Electronica. Preview the line-up and save it on soundcheck.
+SUBWAX with Baldo & Ethel at Cadavra on Sat 5 Sept, Madrid. 4 acts on the bill: Baldo, Ethel, Major Mario and Margott. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SUBWAX with Baldo & Ethel at Cadavra on Sat 5 Sept, Madrid. 3 acts on the bill: 
 
 - Baldo
 - Ethel
+- Major Mario
 - Margott
 
 *Source: [soundcheck](https://soundcheck.club/e/2438965-subwax-with-baldo-ethel-at-cadavra/)*

@@ -1,14 +1,15 @@
 # Unkle Fon
 
-Unkle Fon is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 13 Sept 2026.
+Unkle Fon is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Unkle Fon is a techno and electronica artist tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Pyramidal Decode, Gabriel D'or & Bordoy and Irazu. Next up: Hï Ibiza, Ibiza on Sun 13 Sept.
+Unkle Fon is a techno and electronica artist tracked on soundcheck, with 48 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Pyramidal Decode, Gabriel D'or & Bordoy and Irazu. Next up: Hï Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
+| Thu, 24 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played
 

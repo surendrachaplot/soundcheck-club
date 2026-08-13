@@ -1,6 +1,6 @@
 # CUE at 528 Ibiza
 
-CUE at 528 Ibiza on Fri 18 Sept, Ibiza. 6 acts on the bill: Chopper (UK), Dennis Quin, Job de Jong and Kepler and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+CUE at 528 Ibiza on Fri 18 Sept, Ibiza. 7 acts on the bill: Chopper (UK), Dennis Quin, Job de Jong and Kepler and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ CUE at 528 Ibiza on Fri 18 Sept, Ibiza. 6 acts on the bill: Chopper (UK), Dennis
 - Job de Jong
 - Kepler
 - Lucas Alexander
+- Ryan Resso
 - Stef Davidse
 
 *Source: [soundcheck](https://soundcheck.club/e/2499815-cue-at-528-ibiza/)*

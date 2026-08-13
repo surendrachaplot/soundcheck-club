@@ -1,6 +1,6 @@
 # Enter The Void Vol. 3 at Den Anden Ende at Den Anden Side
 
-Enter The Void Vol. 3 at Den Anden Ende at Den Anden Side on Sat 29 Aug, Copenhagen. 2 acts on the bill: Astral Bandit and DJ Void. Trance and Techno. Preview the line-up and save it on soundcheck.
+Enter The Void Vol. 3 at Den Anden Ende at Den Anden Side on Sat 29 Aug, Copenhagen. 2 acts on the bill: Astral Bandit and DJ Void. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

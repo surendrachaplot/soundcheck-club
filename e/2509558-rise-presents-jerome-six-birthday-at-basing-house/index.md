@@ -1,6 +1,6 @@
 # Rise presents: Jerome Six Birthday at Basing House
 
-Rise presents: Jerome Six Birthday at Basing House on Fri 21 Aug, London. 3 acts on the bill: Jerome Six, Kye Refix and Shenin Amara. House and Afro House. Preview the line-up and save it on soundcheck.
+Rise presents: Jerome Six Birthday at Basing House on Fri 21 Aug, London. 4 acts on the bill: Danny Owen, Jerome Six, Kye Refix and Shenin Amara. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rise presents: Jerome Six Birthday at Basing House on Fri 21 Aug, London. 3 acts
 
 ## Line-up
 
+- Danny Owen
 - Jerome Six
 - Kye Refix
 - Shenin Amara

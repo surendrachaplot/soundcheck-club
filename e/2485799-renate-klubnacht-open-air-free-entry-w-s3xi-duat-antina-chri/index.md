@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ at Renate
 
-Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ on Sat 15 Aug, Berlin. 10 acts on the bill: Alison Swing, Amin Fallaha, Chris Ku and Cosmic Cherry and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ on Sat 15 Aug, Berlin. 12 acts on the bill: Alison Swing, Amin Fallaha, Chris Ku and Cosmic Cherry and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,8 @@ Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ on Sat 15
 - Eluzid
 - Horkheimer
 - Karina Schneider
+- Kimo
+- Luis Retreo
 - Tajik
 
 *Source: [soundcheck](https://soundcheck.club/e/2485799-renate-klubnacht-open-air-free-entry-w-s3xi-duat-antina-chri/)*

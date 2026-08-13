@@ -9,7 +9,7 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 11 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
-| Sat, 15 Aug 2026 | FREE TICKETS // The Fun House OPEN AIR SESIONS | Baum, BizZa, Chris Main, DIROS, Kaeru, MARAU, Nesi, Vidaloca |
+| Sat, 15 Aug 2026 | The Fun House OPEN AIR SESIONS | Baum, BizZa, Chris Main, DIROS, Kaeru, MARAU, Nesi, Vidaloca |
 | Sun, 16 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
 | Thu, 20 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
 | Fri, 21 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |

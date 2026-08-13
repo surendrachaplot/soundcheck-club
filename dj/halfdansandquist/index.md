@@ -1,14 +1,15 @@
 # Halfdan Sandquist
 
-Halfdan Sandquist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Halfdan Sandquist is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Halfdan Sandquist is a techno and house artist based in Denmark, tracked on soundcheck, with 22 sets logged across Copenhagen. Often billed alongside DJ Dopamina, Adam Eisert and Anna Logic. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Halfdan Sandquist is a techno and house artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside DJ Dopamina, Adam Eisert and Anna Logic. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
+| Fri, 25 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 

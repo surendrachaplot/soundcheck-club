@@ -9,7 +9,7 @@ Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Baltic Triangle | Liverpool |
-| Sat, 12 Sept 2026 | TBA | Manchester |
+| Sat, 12 Sept 2026 | Un.Titled Studio | Manchester |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | The Dome | Liverpool |
 | Sat, 31 Oct 2026 | TBA | Birmingham |

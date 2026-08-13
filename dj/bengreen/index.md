@@ -9,7 +9,7 @@ Ben Green is a techno and tech house artist tracked on soundcheck, with 43 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
-| Fri, 14 Aug 2026 | TBA | Berlin |
+| Fri, 14 Aug 2026 | Tempelhofer Feld | Berlin |
 
 ## Recently played
 

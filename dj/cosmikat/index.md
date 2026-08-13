@@ -10,7 +10,7 @@ CosmiKat is a techno and tech house artist based in Germany, tracked on soundche
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
-| Sat, 29 Aug 2026 | TBA | Berlin |
+| Sat, 29 Aug 2026 | Tempelhofer Feld | Berlin |
 
 ## Recently played
 

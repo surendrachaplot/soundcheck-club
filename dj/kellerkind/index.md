@@ -9,7 +9,7 @@ Kellerkind is a house and techno artist based in Switzerland, tracked on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
-| Sat, 15 Aug 2026 | TBA | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
 | Fri, 4 Sept 2026 | Kauz | Zurich |
 
 ## Recently played

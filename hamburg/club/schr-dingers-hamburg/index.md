@@ -1,8 +1,8 @@
 # Schrødingers Hamburg
 
-Schrødingers Hamburg is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TOPSPIN" on Wed, 19 Aug 2026.
+Schrødingers Hamburg is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TOPSPIN" on Wed, 19 Aug 2026.
 
-Schrødingers Hamburg is a music venue in Hamburg listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. Schröderstiftstraße 7, 20146 Hamburg, Germany.
+Schrødingers Hamburg is a music venue in Hamburg listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Schröderstiftstraße 7, 20146 Hamburg, Germany.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Schrødingers Hamburg is a music venue in Hamburg listed on soundcheck. 6 upcomi
 | Wed, 30 Sept 2026 | TOPSPIN |  |
 | Wed, 14 Oct 2026 | TOPSPIN |  |
 | Wed, 28 Oct 2026 | TOPSPIN |  |
+| Wed, 11 Nov 2026 | TOPSPIN |  |
 
 ## Address
 

@@ -1,14 +1,16 @@
 # Anton Goltermann
 
-Anton Goltermann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jolene, Copenhagen on Thu, 20 Aug 2026.
+Anton Goltermann is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jolene, Copenhagen on Thu, 20 Aug 2026.
 
-Anton Goltermann is a house and techno artist based in Denmark, tracked on soundcheck, with 48 sets logged across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Harrison Heat. Next up: Jolene, Copenhagen on Thu 20 Aug.
+Anton Goltermann is a house and techno artist based in Denmark, tracked on soundcheck, with 50 sets logged across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Harrison Heat. Next up: Jolene, Copenhagen on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Jolene | Copenhagen |
+| Sat, 5 Sept 2026 | Den Anden Side | Copenhagen |
+| Fri, 25 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 

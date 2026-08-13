@@ -1,8 +1,8 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Jennifer Loveless is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-Jennifer Loveless is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 237 s
 | Fri, 25 Sept 2026 | Floyd | Miami |
 | Sun, 27 Sept 2026 | public records | New York City |
 | Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played

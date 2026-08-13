@@ -1,14 +1,15 @@
 # Sorcery
 
-Sorcery is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at PTR-Usine, Geneva on Fri, 28 Aug 2026.
+Sorcery is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at PTR-Usine, Geneva on Fri, 28 Aug 2026.
 
-Sorcery is a techno and experimental artist based in Canada, tracked on soundcheck, with 23 sets logged across Amsterdam, Basel, Berlin and Bristol and 6 more. Often billed alongside Charlton, Kangding Ray and Akua. Next up: PTR-Usine, Geneva on Fri 28 Aug.
+Sorcery is a techno and experimental artist based in Canada, tracked on soundcheck, with 24 sets logged across Amsterdam, Basel, Berlin and Bristol and 7 more. Often billed alongside Charlton, Kangding Ray and Akua. Next up: PTR-Usine, Geneva on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | PTR-Usine | Geneva |
+| Sat, 29 Aug 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 

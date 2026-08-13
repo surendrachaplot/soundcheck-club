@@ -1,14 +1,14 @@
 # anastasia
 
-anastasia is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
+anastasia is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at DNA. CLUB, Berlin on Sat, 15 Aug 2026.
 
-anastasia is a techno and r&b artist tracked on soundcheck, with 17 sets logged across Berlin, Ibiza, Losangeles and Melbourne and 1 more. Often billed alongside Lisa May, DANZAH and Matteo Freyrie. Next up: DNA. CLUB - urban Space, Berlin on Sat 15 Aug.
+anastasia is a techno and r&b artist tracked on soundcheck, with 17 sets logged across Berlin, Ibiza, Losangeles and Melbourne and 1 more. Often billed alongside Lisa May, DANZAH and Matteo Freyrie. Next up: DNA. CLUB, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | DNA. CLUB - urban Space | Berlin |
+| Sat, 15 Aug 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 

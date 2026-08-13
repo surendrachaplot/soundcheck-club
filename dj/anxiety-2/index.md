@@ -2,7 +2,7 @@
 
 ANXIETY (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
-ANXIETY (2) is a techno and industrial artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin, Bucharest and Zurich. Often billed alongside Charles Meyer, Clast and DAESU. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
+ANXIETY (2) is a techno and industrial artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin, Bucharest and Zurich. Often billed alongside BØCHKAVALLERIE, Charles Meyer and Clast. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ ANXIETY (2) is a techno and industrial artist based in Italy, tracked on soundch
 
 ## Shares bills with
 
-Charles Meyer, Clast, DAESU
+BØCHKAVALLERIE, Charles Meyer, Clast
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxiety-2/)*

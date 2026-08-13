@@ -1,6 +1,6 @@
 # OMEN WAPTA at Berghain | Panorama Bar | Säule
 
-OMEN WAPTA at Berghain | Panorama Bar | Säule on Thu 3 Sept, Berlin. 4 acts on the bill: BLUME, Laima Adelaide, Marco Maldarella and Woody92. Preview the line-up and save it on soundcheck.
+OMEN WAPTA at Berghain | Panorama Bar | Säule on Thu 3 Sept, Berlin. 5 acts on the bill: BLUME, Floid.live, Laima Adelaide and Marco Maldarella and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ OMEN WAPTA at Berghain | Panorama Bar | Säule on Thu 3 Sept, Berlin. 4 acts on 
 ## Line-up
 
 - BLUME
+- Floid.live
 - Laima Adelaide
 - Marco Maldarella
 - Woody92

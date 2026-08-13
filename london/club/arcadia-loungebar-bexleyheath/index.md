@@ -10,7 +10,7 @@ Arcadia Loungebar, Bexleyheath is a music venue in London listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Total Hypnosis & Bass Hertz |  |
 | Sat, 15 Aug 2026 | Total Hypnosis & Bass Hertz |  |
-| Sat, 22 Aug 2026 | Shuffle |  |
+| Sat, 22 Aug 2026 | [CANCELLED] Shuffle |  |
 
 ## Address
 

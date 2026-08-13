@@ -2,7 +2,7 @@
 
 Jøel is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
-Jøel is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside ANXIETY (2), DAESU and D|K|OXY. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
+Jøel is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside ANXIETY (2), BØCHKAVALLERIE and DAESU. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Jøel is an industrial and techno artist based in Netherlands, tracked on soundc
 
 ## Shares bills with
 
-ANXIETY (2), DAESU, D|K|OXY
+ANXIETY (2), BØCHKAVALLERIE, DAESU
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joel-nl/)*

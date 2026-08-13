@@ -13,7 +13,7 @@ Crown Pier is a music venue in London listed on soundcheck. 9 upcoming nights, w
 | Sat, 29 Aug 2026 | Summer of Love - London party boat | Eddie Van Poppel, Mr Fresh Official, NYCity Soundz, VanRock |
 | Sat, 29 Aug 2026 | Amor London Boat party fun plus free after party | Alfredo Romero, BämBäm, NYCity Soundz, VanRock |
 | Sat, 5 Sept 2026 | Deepr Boat Party |  |
-| Sat, 12 Sept 2026 | Fusion's Boat Party On The Thames, Plus After Party |  |
+| Sat, 12 Sept 2026 | Fusion - Boat Party On The Thames, Plus After Party |  |
 | Sat, 26 Sept 2026 | Summer of Love - London party boat + free after party | Eddie Van Poppel, Mr Fresh Official, NYCity Soundz, VanRock |
 | Sat, 26 Sept 2026 | Party! Party! Boat Party | Max E Groove, Mr Fresh Official, NYCity Soundz, Romeo, Scot Mochan, VanRock |
 | Sat, 7 Nov 2026 | Fireworks aka Guy Fawkes night boat party + free after-party | Mr Fresh Official, VanRock |

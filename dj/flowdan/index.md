@@ -1,8 +1,8 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Flowdan is a Bass and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
-Flowdan is a bass and garage artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+Flowdan is a bass and garage artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Flowdan is a bass and garage artist tracked on soundcheck, with 108 sets logged 
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Sat, 26 Sept 2026 | Sidney & Matilda | Sheffield |
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
+| Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 
 ## Recently played
 

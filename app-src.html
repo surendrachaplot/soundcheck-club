@@ -3971,7 +3971,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786626404957">
+<meta name="sc-build" content="1786630030323">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4156,6 +4156,14 @@
       : (/(^|\.)soundcheck\.club$/.test(location.hostname)
           ? 'https://api.soundcheck.club'
           : 'https://api.6minutes.club');
+
+    // Cache key for /api/youtube/sets. Cloudflare caches that response for 24h
+    // keyed on the exact URL, so when a MATCHING BUG is fixed the origin starts
+    // answering correctly while every listener keeps getting yesterday's wrong
+    // list for up to a day — there is no way to purge without the Cloudflare
+    // token. BUMP THIS whenever the artist-set matcher changes: a new key is a
+    // guaranteed miss, which is a purge we can actually perform from here.
+    var YT_SETS_V = '2';   // 2026-08-13: credit-boundary rule (Quest (IT))
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -4920,7 +4928,7 @@
     async function playArtistSets(slug, name){
       var btn=document.getElementById('ap-sets'); if(btn){ btn.disabled=true; btn.classList.add('spinning'); }
       try{
-        var r=await fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(name));
+        var r=await fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(name)+'&v='+YT_SETS_V);
         var j=await r.json().catch(function(){ return {}; });
         var sets=(j&&j.sets)||[];
         if(!sets.length){ showToast('No sets found for '+name+'.'); return; }
@@ -8621,7 +8629,7 @@
         var apRadio=document.getElementById('ap-radio');
         // Tune in = play the artist's full sets back-to-back. Warm the sets list on
         // press so the queue is ready by click-time (keeps mobile autoplay inside the gesture).
-        function prefetchSets(){ try{ loadYtApi(); }catch(_){} if(!apRadio._setsP) apRadio._setsP=fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)).then(function(r){ return r.json(); }).catch(function(){ return {}; }); return apRadio._setsP; }
+        function prefetchSets(){ try{ loadYtApi(); }catch(_){} if(!apRadio._setsP) apRadio._setsP=fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)+'&v='+YT_SETS_V).then(function(r){ return r.json(); }).catch(function(){ return {}; }); return apRadio._setsP; }
         function tuneInSets(){ prefetchSets().then(function(j){ var sets=(j&&j.sets)||[]; if(!sets.length){ showToast('No sets found for '+(a.name||slug)+' yet.'); return; } playYtList(sets.map(function(s){ return { slug:slug, name:a.name||slug, videoId:s.videoId }; }), 0); }); }
         apRadio.addEventListener('pointerdown',prefetchSets,{passive:true});
         apRadio.addEventListener('click',tuneInSets);
@@ -8665,7 +8673,7 @@
           // show look like three half-empty sections. A set is a set; where it is
           // hosted belongs on the row, not in the layout.
           Promise.all([
-            grab('/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)),
+            grab('/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V),
             grab('/api/soundcloud/sets?slug='+encodeURIComponent(slug)),
             grab('/api/nts/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist))
           ]).then(function(res){

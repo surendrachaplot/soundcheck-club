@@ -9,7 +9,7 @@ Fennek is a techno and house artist tracked on soundcheck, with 20 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
-| Fri, 14 Aug 2026 | TBA | Berlin |
+| Fri, 14 Aug 2026 | Tempelhofer Feld | Berlin |
 | Sat, 29 Aug 2026 | Freifläche Neue Messe | Leipzig |
 
 ## Recently played

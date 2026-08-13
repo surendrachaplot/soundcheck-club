@@ -13,7 +13,7 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, wit
 | Sat, 15 Aug 2026 | J1 - Aliens: Daria Kolosova, Pawel, Dolu, Dima Kachan | Daria Kolosova, Dima Kachan, Dolu, Gio Shengelia, PAWEL (PL) |
 | Fri, 21 Aug 2026 | J1 - Michał Zietara, Kolektyw Laguna (Implode & Peteya) | Michal Zietara |
 | Sat, 22 Aug 2026 | J1 x Sekta Selekta: Badalian, Kondrat, Meke, Stroppy Pie | Badalian, Kondrat, Meke, Stroppy Pie |
-| Fri, 28 Aug 2026 | J1 - Guest List: Some Guest b2b Shmee, Caletti, dlaczego.tak, long w, YJ | Some Guest, dlaczego.tak, long w |
+| Fri, 28 Aug 2026 | J1 - Guest List: Some Guest b2b SHHME, Caletti, dlaczego.tak, long w, YJ | SHHME, Some Guest, dlaczego.tak, long w |
 | Sat, 29 Aug 2026 | J1 - Lampa x Hex: Adelina, Elvira, Samogolov, Jess | Adelina, Elvira, JESS.mp5, Jess (2), Samogulov |
 | Fri, 11 Sept 2026 | J1 - Inner Tension | Blazej Malinowski, Claudio PRC, Kosmalski, Kovvalsky, Vera Logdanidi, dtekk |
 | Fri, 25 Sept 2026 | JASNA 9TH BDAY |  |

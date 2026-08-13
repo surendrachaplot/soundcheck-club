@@ -1,14 +1,15 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
+papa jazz is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
 
-papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 91 sets logged across Mexicocity and Newyorkcity. Often billed alongside Rafatel, Barreto and Duke Skylocker (Disco Dust). Next up: Fünk, Mexicocity on Fri 14 Aug.
+papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 92 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Rafatel, Barreto and Duke Skylocker (Disco Dust). Next up: Fünk, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Fünk | Mexico City |
+| Sun, 20 Sept 2026 | Palais | London |
 
 ## Recently played
 

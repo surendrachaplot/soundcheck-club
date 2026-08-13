@@ -1,6 +1,6 @@
 # Terenor at Berghain | Panorama Bar | Säule
 
-Terenor at Berghain | Panorama Bar | Säule on Thu 24 Sept, Berlin. 5 acts on the bill: Agata, CUNT REMEMBER, Egregore and Jolly (FR) and 1 more. Preview the line-up and save it on soundcheck.
+Terenor at Berghain | Panorama Bar | Säule on Thu 24 Sept, Berlin. 6 acts on the bill: Agata, CUNT REMEMBER, Egregore and Jolly (2) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Terenor at Berghain | Panorama Bar | Säule on Thu 24 Sept, Berlin. 5 acts on th
 - Agata
 - CUNT REMEMBER
 - Egregore
+- Jolly (2)
 - Jolly (FR)
 - Ninon
 

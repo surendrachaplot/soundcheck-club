@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DRAG BINGO with Amy Strong 'FREE ENTRY!'" on Thu, 13 Aug 2026.
+OXI is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DRAG BINGO with Amy Strong 'FREE ENTRY!'" on Thu, 13 Aug 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

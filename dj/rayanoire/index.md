@@ -9,7 +9,7 @@ Raya Noire is an experimental and new wave artist based in Canada, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA | Brussels |
-| Sun, 16 Aug 2026 | Bar Neun | Berlin |
+| Sun, 16 Aug 2026 | Drinkhall Venue | Berlin |
 
 ## Recently played
 

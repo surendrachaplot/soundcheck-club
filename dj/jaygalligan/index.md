@@ -1,8 +1,8 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Jay Galligan is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
-Jay Galligan is a techno and experimental artist based in Ireland, tracked on soundcheck, with 12 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: FOLD, London on Sat 15 Aug.
+Jay Galligan is a techno and tech house artist based in Ireland, tracked on soundcheck, with 12 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: FOLD, London on Sat 15 Aug.
 
 ## Upcoming shows
 

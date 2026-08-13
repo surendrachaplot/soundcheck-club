@@ -1,6 +1,6 @@
-# Ambient & Dubtechno par excellence at Locke
+# Ambient Dubtechno Par Excellence at Locke
 
-Ambient & Dubtechno par excellence at Locke on Sun 16 Aug, Hamburg. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Ambient Dubtechno Par Excellence at Locke on Sun 16 Aug, Hamburg. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

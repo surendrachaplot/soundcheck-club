@@ -1,6 +1,6 @@
 # Promenaden Eck
 
-Promenaden Eck is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Queer Open Deck" on Thu, 3 Sept 2026.
+Promenaden Eck is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Queer Open Decks" on Thu, 3 Sept 2026.
 
 Promenaden Eck is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Daniel Mata. Browse upcoming dates, start times and who's playing. Schillerpromenade 11, 12049 Berlin.
 
@@ -8,7 +8,7 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 1 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Queer Open Deck | Daniel Mata |
+| Thu, 3 Sept 2026 | Queer Open Decks | Daniel Mata |
 
 ## Address
 

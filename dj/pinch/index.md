@@ -1,14 +1,15 @@
 # Pinch
 
-Pinch is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
+Pinch is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
 
-Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 13 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: The Old Blue Last, London on Fri 4 Sept.
+Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 13 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: The Old Blue Last, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Old Blue Last | London |
+| Sat, 17 Oct 2026 | Phonox | London |
 
 ## Recently played
 

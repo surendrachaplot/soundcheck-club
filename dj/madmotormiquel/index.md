@@ -1,14 +1,15 @@
 # Madmotormiquel
 
-Madmotormiquel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Madmotormiquel is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
-Madmotormiquel is a house and deep house artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Chicago and Cologne and 20 more. Often billed alongside Kotoe, Nacho Isa and Oliver Koletzki. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
+Madmotormiquel is a house and deep house artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Chicago and Cologne and 20 more. Often billed alongside Kotoe, Nacho Isa and Oliver Koletzki. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 21 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 

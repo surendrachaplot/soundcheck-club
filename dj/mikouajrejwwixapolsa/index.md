@@ -1,14 +1,15 @@
 # Mikouaj Rejw / Wixapol S.A.
 
-Mikouaj Rejw / Wixapol S.A. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
+Mikouaj Rejw / Wixapol S.A. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
 
-Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, tracked on soundcheck, with 18 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside TORRENTZ, Wixapol and PLATTER. Next up: Baseny Kora, Warsaw on Sat 15 Aug.
+Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, tracked on soundcheck, with 19 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside TORRENTZ, Wixapol and PLATTER. Next up: Baseny Kora, Warsaw on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Baseny Kora | Warsaw |
+| Sat, 5 Sept 2026 | STK 47 WAREHOUSE | Krakow |
 
 ## Recently played
 

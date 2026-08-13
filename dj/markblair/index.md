@@ -1,13 +1,14 @@
 # Mark Blair
 
-Mark Blair is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+Mark Blair is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
 
-Mark Blair is a techno and house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Auckland, Belfast and Brisbane and 17 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: Superordinary, Brisbane on Fri 18 Sept.
+Mark Blair is a techno and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Aberdeen, Auckland, Belfast and Brisbane and 17 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: The Telegraph Building, Belfast on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | The Telegraph Building | Belfast |
 | Fri, 18 Sept 2026 | Superordinary | Brisbane |
 | Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |

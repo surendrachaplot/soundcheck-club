@@ -1,6 +1,6 @@
 # ZeeZout Festival 2026 at Tuinen van West
 
-ZeeZout Festival 2026 at Tuinen van West on Sat 29 Aug, Amsterdam. 29 acts on the bill: 36framez, Bad Boombox, Benwal and CARISTA and 25 more. Preview the line-up and save it on soundcheck.
+ZeeZout Festival 2026 at Tuinen van West on Sat 29 Aug, Amsterdam. 30 acts on the bill: 36framez, Bad Boombox, Benwal and CARISTA and 26 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ ZeeZout Festival 2026 at Tuinen van West on Sat 29 Aug, Amsterdam. 29 acts on th
 - Dr Dubplate
 - Elias Mazian
 - Emvae
+- Eris Drew
 - Laura Meester
 - Lisa Korver
 - Luc Mast

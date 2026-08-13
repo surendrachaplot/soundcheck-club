@@ -8,7 +8,7 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Sex with The City: Sunset Summer Sessions Takeover | Evo Twinz, KAPIR, LUIGI AMORE |
+| Fri, 14 Aug 2026 | Sex with The City: Sunset Summer Sessions Takeover | Evo Twinz, KAPIR, LUIGI AMORE, RCKSLVR |
 | Sat, 15 Aug 2026 | FLOAT Rooftop Pool Party feat. Massane [2-8 PM] | Massane |
 | Sat, 22 Aug 2026 | FLOAT Rooftop Pool Party feat. Durante [2-8 PM] | Araminta, Durante, GESHAY |
 | Sat, 29 Aug 2026 | Chai Rave LA: ON THE ROOFTOP at LEVEL8 ON AUG 29TH! (ONE YEAR ANNIVERSARY!) |  |

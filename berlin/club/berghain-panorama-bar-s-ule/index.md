@@ -17,7 +17,7 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Thu, 27 Aug 2026 | KEYI MAGAZINE | Berlin Bunny, Bézier, Eyesdice, L.F.T., Samantha Togni |
 | Fri, 28 Aug 2026 | Love On The Rocks | Bobby., Fais Le Beau, Giammarco Orsini, Marie Montexier, PARAMIDA, Quest, Quest (IT) |
 | Sat, 29 Aug 2026 | Klubnacht | Amotik, Answer Code Request, Bella Boo, Chami, Clarisa Kimskii, Loren, Newa, Niebla, Oracy, Paul Claude, Shinedoe, Stefan Goldmann, Tau Ceti, Tijana T, Yamour, Âme |
-| Thu, 3 Sept 2026 | OMEN WAPTA | BLUME, Laima Adelaide, Marco Maldarella, Woody92 |
+| Thu, 3 Sept 2026 | OMEN WAPTA | BLUME, Floid.live, Laima Adelaide, Marco Maldarella, Woody92 |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # JJ (Rebloom)
 
-JJ (Rebloom) is a Experimental and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
+JJ (Rebloom) is a Experimental and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
 
-JJ (Rebloom) is an experimental and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin and London. Often billed alongside Deadbeat, Isabassi and Jay Galligan. Next up: OHM, Berlin on Thu 13 Aug.
+JJ (Rebloom) is an experimental and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin and London. Often billed alongside Deadbeat, Isabassi and Jay Galligan. Next up: OHM, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
+LOLSNAKE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
 
-LOLSNAKE is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 13 Aug.
+LOLSNAKE is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 216 sets logge
 | Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Sat, 22 Aug 2026 | The Ground at Club Space | Miami |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 19 Sept 2026 | C12 | Brussels |
 | Fri, 25 Sept 2026 | Laska V21 | Riga |
 
 ## Recently played

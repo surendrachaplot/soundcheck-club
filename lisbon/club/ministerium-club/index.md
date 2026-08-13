@@ -1,8 +1,8 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 14 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Riktus with Acid Asian (KNTXT), MANIL, Fylhas do Dragão" on Thu, 13 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 15 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Riktus with Acid Asian (KNTXT), MANIL, Fylhas do Dragão" on Thu, 13 Aug 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 14 upcoming nights, with line-ups including 7CIRCLE, Acid Asian, Angel Karel and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 15 upcoming nights, with line-ups including 7CIRCLE, Acid Asian, Angel Karel and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 

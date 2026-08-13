@@ -1,8 +1,8 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Same Same But Different" on Thu, 13 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Same Same But Different" on Thu, 13 Aug 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Agazzi, Alien Communications, Anderson (US) and Andrea Ferlin and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Agazzi, Alien Communications, Anderson (US) and Andrea Ferlin and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 

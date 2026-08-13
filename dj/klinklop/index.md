@@ -1,8 +1,8 @@
 # Klin Klop
 
-Klin Klop is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
+Klin Klop is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
 
-Klin Klop is a house and techno artist based in Portugal, tracked on soundcheck, with 50 sets logged across Berlin, Lisbon and Porto. Often billed alongside Miguel Nery, Tiago Carvalho and Diana Oliveira. Next up: Tapada da Ajuda, Lisbon on Sat 15 Aug.
+Klin Klop is a house and techno artist based in Portugal, tracked on soundcheck, with 51 sets logged across Berlin, Lisbon and Porto. Often billed alongside Miguel Nery, Tiago Carvalho and Diana Oliveira. Next up: Tapada da Ajuda, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Klin Klop is a house and techno artist based in Portugal, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Tapada da Ajuda | Lisbon |
 | Sat, 15 Aug 2026 | Backyard | Lisbon |
+| Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 
 ## Recently played
 

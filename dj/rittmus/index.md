@@ -1,13 +1,14 @@
 # Rittmus
 
-Rittmus is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
+Rittmus is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Locke, Hamburg on Sat, 15 Aug 2026.
 
-Rittmus is a house and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Hamburg. Often billed alongside Anne-Lu, FI3BER and LEAN MARIS. Next up: Segelschiff Mare Frisium, Hamburg on Fri 21 Aug.
+Rittmus is a house and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Hamburg. Often billed alongside Anne-Lu, FI3BER and LEAN MARIS. Next up: Locke, Hamburg on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Locke | Hamburg |
 | Fri, 21 Aug 2026 | Segelschiff Mare Frisium | Hamburg |
 | Fri, 25 Sept 2026 | Südpol | Hamburg |
 

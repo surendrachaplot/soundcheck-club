@@ -1,6 +1,6 @@
 # Alienata at Anfang at Cadavra
 
-Alienata at Anfang at Cadavra on Thu 27 Aug, Madrid. 4 acts on the bill: Alienata, FIGUREX, Jakka and SVNZ.. Techno. Preview the line-up and save it on soundcheck.
+Alienata at Anfang at Cadavra on Thu 27 Aug, Madrid. 5 acts on the bill: Alienata, FIGUREX, Jakka and Pelos. and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Alienata at Anfang at Cadavra on Thu 27 Aug, Madrid. 4 acts on the bill: Alienat
 - Alienata
 - FIGUREX
 - Jakka
+- Pelos.
 - SVNZ.
 
 *Source: [soundcheck](https://soundcheck.club/e/2499340-alienata-at-anfang-at-cadavra/)*

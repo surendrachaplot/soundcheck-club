@@ -9,7 +9,7 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cirque Du Soul: Leeds // Back To Beaver Works | Greenhouse, KABOCANA, Mylania, PR!MAL (2), Petz, Ramone, ad*n, camukg, whoswill |
-| Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI / DUB SIRENS | Iration Steppas, Ital Power |
+| Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Iration Steppas, Ital Power |
 | Fri, 16 Oct 2026 | Big Fat Rave: Bakey, Samurai Breaks, Napes, ESC, Fonzo, Shirley Temper & More | Bakey, ESC (5), Fonzo (UK), Napes, Samurai Breaks, Shirley Temper |
 | Fri, 30 Oct 2026 | Cirque Du Soul: Leeds // Halloween |  |
 

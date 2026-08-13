@@ -1,13 +1,14 @@
 # Kessler
 
-Kessler is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+Kessler is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
-Kessler is a techno and breakbeat artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 21 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: Mandela Hall, Belfast on Sat 10 Oct.
+Kessler is a techno and breakbeat artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 21 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: export, Rotterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | export | Rotterdam |
 | Sat, 10 Oct 2026 | Mandela Hall | Belfast |
 
 ## Recently played

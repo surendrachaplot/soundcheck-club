@@ -1,6 +1,6 @@
-# Toy Tonics Jam (Day & Night Party) with Kapote, Davide Dev, Marla Kether, Mr. Redly at The Jazz Cafe
+# Toy Tonics Jam (Day & Night Party) with Kapote, Davide Dev, Marla Kether, Mr.Redley at The Jazz Cafe
 
-Toy Tonics Jam (Day & Night Party) with Kapote, Davide Dev, Marla Kether, Mr. Redly at The Jazz Cafe on Sat 22 Aug, London. 4 acts on the bill: Davide Dev, Kapote, Marla Kether and Mr. Redley. House and Club. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam (Day & Night Party) with Kapote, Davide Dev, Marla Kether, Mr.Redley at The Jazz Cafe on Sat 22 Aug, London. 4 acts on the bill: Davide Dev, Kapote, Marla Kether and Mr. Redley. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

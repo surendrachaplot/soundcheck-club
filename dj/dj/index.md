@@ -1,8 +1,8 @@
-# Soju Gang
+# Numero 6
 
-Soju Gang is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 14 Aug 2026.
+Numero 6 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 14 Aug 2026.
 
-Soju Gang is a house and techno artist tracked on soundcheck, with 110 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Abercrombie Hotel, Sydney on Fri 14 Aug.
+Numero 6 is a house and techno artist tracked on soundcheck, with 110 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Abercrombie Hotel, Sydney on Fri 14 Aug.
 
 ## Upcoming shows
 

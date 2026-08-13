@@ -2,7 +2,7 @@
 
 Agata is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
 
-Agata is an electronic artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside CUNT REMEMBER, Egregore and Jolly (FR). Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
+Agata is an electronic artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside CUNT REMEMBER, Egregore and Jolly (2). Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ Agata is an electronic artist tracked on soundcheck, with 2 sets logged across B
 
 ## Shares bills with
 
-CUNT REMEMBER, Egregore, Jolly (FR)
+CUNT REMEMBER, Egregore, Jolly (2)
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agata/)*

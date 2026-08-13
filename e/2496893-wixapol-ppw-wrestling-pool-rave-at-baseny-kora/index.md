@@ -1,6 +1,6 @@
 # Wixapol + PpW: WRESTLING POOL RAVE at Baseny Kora
 
-Wixapol + PpW: WRESTLING POOL RAVE at Baseny Kora on Sat 15 Aug, Warsaw. 3 acts on the bill: Mikouaj Rejw / Wixapol S.A., TORRENTZ and Wixapol. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Wixapol + PpW: WRESTLING POOL RAVE at Baseny Kora on Sat 15 Aug, Warsaw. 4 acts on the bill: Mikouaj Rejw / Wixapol S.A., Theviacya, TORRENTZ and Wixapol. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Wixapol + PpW: WRESTLING POOL RAVE at Baseny Kora on Sat 15 Aug, Warsaw. 3 acts 
 ## Line-up
 
 - Mikouaj Rejw / Wixapol S.A.
+- Theviacya
 - TORRENTZ
 - Wixapol
 

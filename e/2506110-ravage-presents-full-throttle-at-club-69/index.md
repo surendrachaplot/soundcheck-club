@@ -1,6 +1,6 @@
-# RAVAGE PRESENTS FULL THROTTLE at Club 69
+# RAVAGE presents Full Throttle at Club 69
 
-RAVAGE PRESENTS FULL THROTTLE at Club 69 on Sat 15 Aug, Glasgow. 3 acts on the bill: Costy, Gibby and TYZM. Trance and Techno. Preview the line-up and save it on soundcheck.
+RAVAGE presents Full Throttle at Club 69 on Sat 15 Aug, Glasgow. 4 acts on the bill: ATTA., Costy, Gibby and TYZM. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RAVAGE PRESENTS FULL THROTTLE at Club 69 on Sat 15 Aug, Glasgow. 3 acts on the b
 
 ## Line-up
 
+- ATTA.
 - Costy
 - Gibby
 - TYZM

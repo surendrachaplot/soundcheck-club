@@ -9,7 +9,7 @@ The DBA is a music venue in Manchester listed on soundcheck. 23 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Headrush 008 - Hardgroove/Techno Club Night | COHĒSION (UK), SDJ (1), k.h0lle |
-| Sat, 15 Aug 2026 | MELODÏQ & FRIENDS | Azur, Bushman (UK), CEEKAY, Kakura, MYDIR, Tris (UK) |
+| Sat, 15 Aug 2026 | MELODÏQ & FRIENDS / Free Day Party | Azur, Bushman (UK), CEEKAY, Kakura, MYDIR, Tris (UK) |
 | Sun, 16 Aug 2026 | Going West | FXCKBOUT, Thomas Oven |
 | Thu, 20 Aug 2026 | VALIS 1.0 - The Difference Engine | Lapalace, sclews |
 | Fri, 21 Aug 2026 | HOUSE RULES x EUPHÓRIA: Chapter III | BRNE, FXCKBOUT, HSTN, KeepKeep, RYLO (UK), SHUNTA, blo rida, imad:re |

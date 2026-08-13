@@ -1,14 +1,15 @@
 # ABIMBOLA
 
-ABIMBOLA is a Afrobeats and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Oslo Hackney, London on Sat, 15 Aug 2026.
+ABIMBOLA is a Afrobeats and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Oslo Hackney, London on Sat, 15 Aug 2026.
 
-ABIMBOLA is an afrobeats and r&b artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside MiNNA, Rico Vision and ARLIIIYAH. Next up: Oslo Hackney, London on Sat 15 Aug.
+ABIMBOLA is an afrobeats and afro tech artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside MiNNA, RIMIX and Rico Vision. Next up: Oslo Hackney, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Oslo Hackney | London |
+| Fri, 21 Aug 2026 | Four Quarters | London |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ ABIMBOLA is an afrobeats and r&b artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-MiNNA, Rico Vision, ARLIIIYAH
+MiNNA, RIMIX, Rico Vision
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abimbola/)*

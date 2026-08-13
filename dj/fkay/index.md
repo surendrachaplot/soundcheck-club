@@ -1,14 +1,15 @@
 # F Kay
 
-F Kay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+F Kay is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
 
-F Kay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow. Often billed alongside David Power, Orla Halligan and Babyccino. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
+F Kay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside David Power, Babyccino and Kairogen. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | La Cheetah Club | Glasgow |
+| Fri, 11 Sept 2026 | 1990 | Glasgow |
 | Fri, 9 Oct 2026 | SWG3 | Glasgow |
 
 ## Recently played
@@ -24,6 +25,6 @@ F Kay is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-David Power, Orla Halligan, Babyccino
+David Power, Babyccino, Kairogen
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkay/)*

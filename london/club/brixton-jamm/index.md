@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Talkofthetown" on Thu, 13 Aug 2026.
+Brixton Jamm is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Talkofthetown" on Thu, 13 Aug 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Deselecta, DJ Brockie, DJ Ironing Board and Donnie Sunshine and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Crazy Cousinz, Deselecta, DJ Brockie and DJ Ironing Board and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

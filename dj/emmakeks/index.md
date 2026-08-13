@@ -1,14 +1,15 @@
 # Emma Keks
 
-Emma Keks is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Emma Keks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
-Emma Keks is a tech house and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin. Often billed alongside Stephan Licha, Licha and Cyranotaurus Cortex. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
+Emma Keks is a tech house and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin. Often billed alongside Stephan Licha, Licha and Cyranotaurus Cortex. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 21 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 

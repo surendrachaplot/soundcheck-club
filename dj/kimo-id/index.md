@@ -1,14 +1,15 @@
 # Kimo
 
-Kimo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bar Datcha, Montreal on Fri, 14 Aug 2026.
+Kimo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bar Datcha, Montreal on Fri, 14 Aug 2026.
 
-Kimo is a house and electro artist based in Indonesia, tracked on soundcheck, with 5 sets logged across Lisbon, Lyon, Montreal and Strasbourg. Often billed alongside Anton X, Isa Boom and James Benjamin. Next up: Bar Datcha, Montreal on Fri 14 Aug.
+Kimo is a house and techno artist based in Indonesia, tracked on soundcheck, with 6 sets logged across Berlin, Lisbon, Lyon and Montreal and 1 more. Often billed alongside Alison Swing, Amin Fallaha and Anton X. Next up: Bar Datcha, Montreal on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Bar Datcha | Montreal |
+| Sat, 15 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Kimo is a house and electro artist based in Indonesia, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Anton X, Isa Boom, James Benjamin
+Alison Swing, Amin Fallaha, Anton X
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimo-id/)*

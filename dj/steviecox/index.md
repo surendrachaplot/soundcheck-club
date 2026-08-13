@@ -1,14 +1,15 @@
 # Stevie Cox
 
-Stevie Cox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cherry Beach, Toronto on Sun, 16 Aug 2026.
+Stevie Cox is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cherry Beach, Toronto on Sun, 16 Aug 2026.
 
-Stevie Cox is a techno and house artist tracked on soundcheck, with 82 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Danse Atmos. Next up: Cherry Beach, Toronto on Sun 16 Aug.
+Stevie Cox is a techno and house artist tracked on soundcheck, with 83 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Danse Atmos. Next up: Cherry Beach, Toronto on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Cherry Beach | Toronto |
+| Sat, 22 Aug 2026 | TBA | Glasgow |
 | Sat, 29 Aug 2026 | Sub Club | Glasgow |
 | Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 2 Oct 2026 | FOLD | London |

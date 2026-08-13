@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Elements: Magic presents Lara Sinclair & Friends" on Thu, 13 Aug 2026.
+People's Leisure Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Elements: Magic presents Lara Sinclair & Friends" on Thu, 13 Aug 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming nights, with line-ups including Ann Tweak, Chris Astrojazz, ENAEN and Frederick (UK) and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming nights, with line-ups including Ann Tweak, Astro, Body Clinic and Chris Astrojazz and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 

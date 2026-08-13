@@ -1,13 +1,14 @@
 # Mindframe
 
-Mindframe is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Mindframe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Fri, 14 Aug 2026.
 
-Mindframe is a trance and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Ace9, Nadia Bel Air and Algorythm. Next up: ://about blank, Berlin on Fri 21 Aug.
+Mindframe is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Nadia Bel Air, Ace9 and Algorythm. Next up: ÆDEN, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | ÆDEN | Berlin |
 | Fri, 21 Aug 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -17,6 +18,6 @@ Mindframe is a trance and techno artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Ace9, Nadia Bel Air, Algorythm
+Nadia Bel Air, Ace9, Algorythm
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindframe/)*

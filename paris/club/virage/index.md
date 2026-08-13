@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DISCO DISCO X MAMIE'S: Eden Burns, Tatie Dee, Mamie's, Marbré & more" on Thu, 13 Aug 2026.
+Virage is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DISCO DISCO X MAMIE'S: Eden Burns, Tatie Dee, Mamie's, Marbré & more" on Thu, 13 Aug 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Alhena_ and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Alhena_ and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 

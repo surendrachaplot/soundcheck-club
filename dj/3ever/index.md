@@ -1,14 +1,15 @@
 # 3ever
 
-3ever is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Altenburg 1964, Prague on Sat, 15 Aug 2026.
+3ever is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Altenburg 1964, Prague on Sat, 15 Aug 2026.
 
-3ever is a techno and electro artist based in Slovakia, tracked on soundcheck, with 56 sets logged across Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Altenburg 1964, Prague on Sat 15 Aug.
+3ever is a techno and electro artist based in Slovakia, tracked on soundcheck, with 57 sets logged across Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Altenburg 1964, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 29 Aug 2026 | Altenburg 1964 | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 
 ## Recently played

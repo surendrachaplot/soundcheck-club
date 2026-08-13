@@ -1,6 +1,6 @@
 # Toy Tonics Art Jam at Studio1111
 
-Toy Tonics Art Jam at Studio1111 on Fri 4 Sept, Berlin. 5 acts on the bill: A.tari, Armanda, Kapote and Lars Eidinger and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Art Jam at Studio1111 on Fri 4 Sept, Berlin. 6 acts on the bill: A.tari, Armanda, Cody Currie and Kapote and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Toy Tonics Art Jam at Studio1111 on Fri 4 Sept, Berlin. 5 acts on the bill: A.ta
 
 - A.tari
 - Armanda
+- Cody Currie
 - Kapote
 - Lars Eidinger
 - Robin Flux

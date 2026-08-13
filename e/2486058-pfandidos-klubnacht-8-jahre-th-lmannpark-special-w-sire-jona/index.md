@@ -1,6 +1,6 @@
 # Pfandidos Klubnacht (8 Jahre Thälmannpark Special) w/ Sire Jonah, Mareike Bautz, SACID uvm at Jonny Knüppel
 
-Pfandidos Klubnacht (8 Jahre Thälmannpark Special) w/ Sire Jonah, Mareike Bautz, SACID uvm at Jonny Knüppel on Fri 21 Aug, Berlin. 15 acts on the bill: alemiko, Baerbel, CHOREOPHILA and Dagobird and 11 more. Trance and House. Preview the line-up and save it on soundcheck.
+Pfandidos Klubnacht (8 Jahre Thälmannpark Special) w/ Sire Jonah, Mareike Bautz, SACID uvm at Jonny Knüppel on Fri 21 Aug, Berlin. 16 acts on the bill: alemiko, Baerbel, CHOREOPHILA and Dagobird and 12 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Pfandidos Klubnacht (8 Jahre Thälmannpark Special) w/ Sire Jonah, Mareike Bautz
 - Filou (DE)
 - HØLLE (2)
 - Mareike Bautz
+- milène
 - Osiris (2)
 - SACID
 - Schorli

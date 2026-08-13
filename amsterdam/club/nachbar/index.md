@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Bubbling Baby" on Thu, 13 Aug 2026.
+nachbar is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Bubbling Baby" on Thu, 13 Aug 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 36framez, AEZARYA, angelboy and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including 36framez, AEZARYA, angelboy and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

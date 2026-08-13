@@ -8,7 +8,7 @@ Tuinen van West is a music venue in Amsterdam listed on soundcheck. 1 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | ZeeZout Festival 2026 | 36framez, Bad Boombox, Benwal, CARISTA, Coco Coquelicot, Diffrent, Dj Babatr, Doppelgang, Dr Dubplate, Elias Mazian, Emvae, Laura Meester, Lisa Korver, Luc Mast, Luca Lozano, Mall Grab, Maria Louisa, Milion, Moxes, Naone, Rozaly, SAIDAH, Sally C, Sam Alfred, Spriitzz, Surusinghe, TWIENA, Willem Feltzer, mul/ANNA |
+| Sat, 29 Aug 2026 | ZeeZout Festival 2026 | 36framez, Bad Boombox, Benwal, CARISTA, Coco Coquelicot, Diffrent, Dj Babatr, Doppelgang, Dr Dubplate, Elias Mazian, Emvae, Eris Drew, Laura Meester, Lisa Korver, Luc Mast, Luca Lozano, Mall Grab, Maria Louisa, Milion, Moxes, Naone, Rozaly, SAIDAH, Sally C, Sam Alfred, Spriitzz, Surusinghe, TWIENA, Willem Feltzer, mul/ANNA |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # MIA (MY)
 
-MIA (MY) is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+MIA (MY) is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
-MIA (MY) is a breakbeat and techno artist based in Malaysia, tracked on soundcheck, with 38 sets logged across Aberdeen, Amsterdam, Kualalumpur and Liverpool and 3 more. Often billed alongside TRACTION CONTROL, shtikman and Alfie Rrari. Next up: SISSI'S Amsterdam, Amsterdam on Fri 28 Aug.
+MIA (MY) is a breakbeat and bass artist based in Malaysia, tracked on soundcheck, with 39 sets logged across Aberdeen, Amsterdam, Kualalumpur and Liverpool and 4 more. Often billed alongside TRACTION CONTROL, shtikman and Alfie Rrari. Next up: SISSI'S Amsterdam, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
+| Sun, 30 Aug 2026 | Time is the new space | Rotterdam |
 
 ## Recently played
 

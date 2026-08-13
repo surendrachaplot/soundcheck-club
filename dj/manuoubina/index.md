@@ -1,8 +1,8 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
+Manu Oubiña is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
 
-Manu Oubiña is a house and electro artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: Urban Spree, Berlin on Fri 28 Aug.
+Manu Oubiña is a house and electro artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: Urban Spree, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 115 sets 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Urban Spree | Berlin |
 | Fri, 4 Sept 2026 | TBA - Sótano Club  | Mallorca |
+| Fri, 11 Sept 2026 | Pimpernel | Munich |
 
 ## Recently played
 

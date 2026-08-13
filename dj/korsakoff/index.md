@@ -1,8 +1,8 @@
 # Korsakoff
 
-Korsakoff is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Korsakoff is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
-Korsakoff is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Frankfurt and Glasgow and 8 more. Often billed alongside Angerfist, Tha Playah (NL) and Art of Fighters. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
+Korsakoff is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Frankfurt and Glasgow and 8 more. Often billed alongside Angerfist, Mad Dog and Tha Playah (NL). Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Korsakoff is a hardcore and techno artist based in Netherlands, tracked on sound
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 
 ## Recently played
@@ -25,6 +26,6 @@ Korsakoff is a hardcore and techno artist based in Netherlands, tracked on sound
 
 ## Shares bills with
 
-Angerfist, Tha Playah (NL), Art of Fighters
+Angerfist, Mad Dog, Tha Playah (NL)
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*

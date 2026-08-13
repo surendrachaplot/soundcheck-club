@@ -1,14 +1,15 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+Nina Farrina is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
-Nina Farrina is a techno and club artist tracked on soundcheck, with 133 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Fuchs2, Prague on Sat 15 Aug.
+Nina Farrina is a techno and club artist tracked on soundcheck, with 134 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Fuchs2, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Sat, 29 Aug 2026 | Altenburg 1964 | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # SHHME
 
-SHHME is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 14 Aug 2026.
+SHHME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 14 Aug 2026.
 
-SHHME is a bass and techno artist based in Poland, tracked on soundcheck, with 15 sets logged across Warsaw. Often billed alongside long w, Some Guest and kipah. Next up: K-Bar Powiśle, Warsaw on Fri 14 Aug.
+SHHME is a bass and techno artist based in Poland, tracked on soundcheck, with 16 sets logged across Warsaw. Often billed alongside long w, Some Guest and kipah. Next up: K-Bar Powiśle, Warsaw on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | K-Bar Powiśle | Warsaw |
+| Fri, 28 Aug 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 

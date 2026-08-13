@@ -1,14 +1,14 @@
 # Tinco
 
-Tinco is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Fri, 25 Sept 2026.
+Tinco is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
 
-Tinco is a techno and trance artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Krakow, Lisbon and Zurich. Often billed alongside Brane, Skungal and Vaccaro. Next up: DNA. CLUB - urban Space, Berlin on Fri 25 Sept.
+Tinco is a techno and trance artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Krakow, Lisbon and Zurich. Often billed alongside Brane, Skungal and Vaccaro. Next up: DNA. CLUB, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | DNA. CLUB - urban Space | Berlin |
+| Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 

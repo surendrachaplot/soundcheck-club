@@ -1,14 +1,15 @@
 # DJ Chromz
 
-DJ Chromz is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
+DJ Chromz is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
 
-DJ Chromz is a jungle and garage artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Lady Passion. Next up: Planet Wax, London on Sat 29 Aug.
+DJ Chromz is a jungle and garage artist tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Lady Passion. Next up: Planet Wax, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Planet Wax | London |
+| Fri, 25 Sept 2026 | TBA | Berlin |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Ben Horton is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
-Ben Horton is a house and minimal artist based in Australia, tracked on soundcheck, with 18 sets logged across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside Stacie Fields, Capron and Ellia Jaya. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
+Ben Horton is a house and minimal artist based in Australia, tracked on soundcheck, with 18 sets logged across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside Capron, Stacie Fields and Ellia Jaya. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Ben Horton is a house and minimal artist based in Australia, tracked on soundche
 
 ## Shares bills with
 
-Stacie Fields, Capron, Ellia Jaya
+Capron, Stacie Fields, Ellia Jaya
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*

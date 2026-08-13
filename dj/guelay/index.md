@@ -9,7 +9,7 @@ guelay is a new wave and experimental artist based in Germany, tracked on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA | Brussels |
-| Sun, 16 Aug 2026 | Bar Neun | Berlin |
+| Sun, 16 Aug 2026 | Drinkhall Venue | Berlin |
 
 ## Shares bills with
 

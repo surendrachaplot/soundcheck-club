@@ -1,6 +1,6 @@
 # Grub Bank Holiday Takeover with Yu Su at Hagglers Corner
 
-Grub Bank Holiday Takeover with Yu Su at Hagglers Corner on Sun 30 Aug, Sheffield. 3 acts on the bill: Porter Brook, Wow & Flutter and Yu Su. Techno and House. Preview the line-up and save it on soundcheck.
+Grub Bank Holiday Takeover with Yu Su at Hagglers Corner on Sun 30 Aug, Sheffield. 4 acts on the bill: Hames, Porter Brook, Wow & Flutter and Yu Su. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Grub Bank Holiday Takeover with Yu Su at Hagglers Corner on Sun 30 Aug, Sheffiel
 
 ## Line-up
 
+- Hames
 - Porter Brook
 - Wow & Flutter
 - Yu Su

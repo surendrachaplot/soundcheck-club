@@ -1,14 +1,15 @@
 # Sevensol
 
-Sevensol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Sevensol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
-Sevensol is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Ori Raz, Map.ache and DJ Balduin. Next up: Hoppetosse, Berlin on Sat 22 Aug.
+Sevensol is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Ori Raz, Map.ache and DJ Balduin. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Hoppetosse | Berlin |
+| Sat, 12 Sept 2026 | Paloma | Berlin |
 
 ## Recently played
 

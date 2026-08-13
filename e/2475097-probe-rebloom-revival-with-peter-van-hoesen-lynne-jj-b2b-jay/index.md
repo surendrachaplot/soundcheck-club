@@ -1,6 +1,6 @@
 # Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan at FOLD
 
-Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan at FOLD on Sat 15 Aug, London. 4 acts on the bill: Jay Galligan, JJ (Rebloom), Lynne and Peter Van Hoesen. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan at FOLD on Sat 15 Aug, London. 4 acts on the bill: Jay Galligan, JJ (Rebloom), Lynne and Peter Van Hoesen. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

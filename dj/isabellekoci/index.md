@@ -1,8 +1,8 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+Isabelle Koci is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
-Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Bobby O'Donnell and Julian Anthony. Next up: Shelter Amsterdam, Amsterdam on Sat 22 Aug.
+Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: Shelter Amsterdam, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, tracked 
 | Sat, 22 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 11 Sept 2026 | Ouseburn Garden | Newcastle |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
+| Sat, 31 Oct 2026 | TESTBED | Leeds |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-Reeshy, Bobby O'Donnell, Julian Anthony
+Reeshy, Julian Anthony, Bobby O'Donnell
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*

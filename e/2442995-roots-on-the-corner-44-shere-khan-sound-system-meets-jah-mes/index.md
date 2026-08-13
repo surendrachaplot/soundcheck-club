@@ -1,6 +1,6 @@
 # Roots On The Corner #44. Shere Khan Sound System meets Jah Messenjah Sound System at Distillery N17
 
-Roots On The Corner #44. Shere Khan Sound System meets Jah Messenjah Sound System at Distillery N17 on Fri 4 Sept, London. 1 act on the bill: Shere Khan. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
+Roots On The Corner #44. Shere Khan Sound System meets Jah Messenjah Sound System at Distillery N17 on Fri 4 Sept, London. 1 act on the bill: Shere Khan. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

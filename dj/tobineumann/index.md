@@ -1,14 +1,15 @@
 # Tobi Neumann
 
-Tobi Neumann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 16 Aug 2026.
+Tobi Neumann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 16 Aug 2026.
 
-Tobi Neumann is a techno and house artist tracked on soundcheck, with 57 sets logged across Basel, Berlin, Brussels and Cologne and 11 more. Often billed alongside Britta Arnold, Chris Di Perri and Maurizio Schmitz. Next up: Kiesgrube, Dusseldorf on Sun 16 Aug.
+Tobi Neumann is a techno and house artist tracked on soundcheck, with 58 sets logged across Basel, Berlin, Brussels and Cologne and 11 more. Often billed alongside Britta Arnold, Chris Di Perri and Maurizio Schmitz. Next up: Kiesgrube, Dusseldorf on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Kiesgrube | Düsseldorf |
+| Tue, 1 Sept 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
 

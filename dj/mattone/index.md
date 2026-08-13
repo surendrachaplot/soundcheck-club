@@ -9,7 +9,7 @@ Mattone is a techno artist tracked on soundcheck, with 37 sets logged across Ber
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | OXI | Berlin |
-| Fri, 25 Sept 2026 | DNA. CLUB - urban Space | Berlin |
+| Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 

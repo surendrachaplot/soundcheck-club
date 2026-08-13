@@ -1,14 +1,15 @@
 # Sopik
 
-Sopik is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
+Sopik is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
 
-Sopik is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside X&trick, DXPE (ES) and ALOKIN. Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
+Sopik is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside X&trick, DXPE (ES) and ALOKIN. Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | 1201 Franklin St | Vancouver |
+| Sat, 22 Aug 2026 | TBA | Athens |
 
 ## Recently played
 

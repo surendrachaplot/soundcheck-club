@@ -1,14 +1,15 @@
 # Djomby
 
-Djomby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
+Djomby is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
 
-Djomby is a house and techno artist based in Italy, tracked on soundcheck, with 17 sets logged across Barcelona and Berlin. Often billed alongside Efren Kairos, Dominique Costa and Fetech Mode. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 14 Aug.
+Djomby is a house and tech house artist based in Italy, tracked on soundcheck, with 18 sets logged across Barcelona and Berlin. Often billed alongside Efren Kairos, Dominique Costa and Fetech Mode. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
+| Fri, 14 Aug 2026 | Süss War Gestern | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
+Kahn is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
 
-Kahn is a dubstep and bass artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
+Kahn is a dubstep and bass artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kahn is a dubstep and bass artist tracked on soundcheck, with 72 sets logged acr
 | Fri, 4 Sept 2026 | Village Underground Barcelona | Barcelona |
 | Thu, 24 Sept 2026 | Hidden | Manchester |
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
+| Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 
 ## Recently played
 

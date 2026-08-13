@@ -1,13 +1,14 @@
 # Steve Michael
 
-Steve Michael is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at SASS Music Club, Vienna on Fri, 14 Aug 2026.
+Steve Michael is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at SASS Music Club, Vienna on Fri, 14 Aug 2026.
 
-Steve Michael is a techno and house artist tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside Anni Herzer, Arman Shadow and Alecid. Next up: SASS Music Club, Vienna on Fri 14 Aug.
+Steve Michael is a house and techno artist tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside Anni Herzer, Arman Shadow and Alecid. Next up: SASS Music Club, Vienna on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | SASS Music Club | Vienna |
 | Fri, 14 Aug 2026 | SASS Music Club | Vienna |
 
 ## Recently played

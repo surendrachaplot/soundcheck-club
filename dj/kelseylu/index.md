@@ -1,8 +1,8 @@
 # Kelsey Lu
 
-Kelsey Lu is a Electronica and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fondation Cartier, Paris on Tue, 3 Nov 2026.
+Kelsey Lu is a Electronica and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fondation Cartier, Paris on Tue, 3 Nov 2026.
 
-Kelsey Lu is an electronica and dub artist based in United States of America, tracked on soundcheck, with 3 sets logged across Paris and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ana Roxanne. Next up: Fondation Cartier, Paris on Tue 3 Nov.
+Kelsey Lu is an electronica and electro artist based in United States of America, tracked on soundcheck, with 4 sets logged across Brussels, Paris and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ana Roxanne. Next up: Fondation Cartier, Paris on Tue 3 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kelsey Lu is an electronica and dub artist based in United States of America, tr
 | Tue, 3 Nov 2026 | Fondation Cartier | Paris |
 | Wed, 4 Nov 2026 | Fondation Cartier | Paris |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Wed, 11 Nov 2026 | Botanique | Brussels |
 
 ## Shares bills with
 

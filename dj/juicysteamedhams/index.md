@@ -1,14 +1,14 @@
 # JuicySteamedHams
 
-JuicySteamedHams is a UK Funky and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Tola, London on Fri, 14 Aug 2026.
+JuicySteamedHams is a UK Funky and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
 
-JuicySteamedHams is an uk funky and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Missy T, Ovrtic and EWASOUNDZ. Next up: Tola, London on Fri 14 Aug.
+JuicySteamedHams is an uk funky and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Missy T, Ovrtic and EWASOUNDZ. Next up: Tola, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tola | London |
+| Fri, 28 Aug 2026 | Tola | London |
 
 ## Recently played
 

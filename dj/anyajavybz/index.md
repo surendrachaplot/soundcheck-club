@@ -1,14 +1,15 @@
 # ANYA JAVYBZ
 
-ANYA JAVYBZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
+ANYA JAVYBZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
 
-ANYA JAVYBZ is a house and techno artist based in Portugal, tracked on soundcheck, with 11 sets logged across Lisbon and Tokyo. Often billed alongside Dolce Vito, Kierastoboy and Chima Isaaro. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
+ANYA JAVYBZ is a house and techno artist based in Portugal, tracked on soundcheck, with 12 sets logged across Lisbon and Tokyo. Often billed alongside Dolce Vito, Kierastoboy and Chima Isaaro. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Quinta do Miratejo | Lisbon |
+| Fri, 11 Sept 2026 | Quinta Mira Rio | Lisbon |
 
 ## Recently played
 

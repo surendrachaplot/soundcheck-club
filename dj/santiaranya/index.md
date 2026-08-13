@@ -1,14 +1,15 @@
 # Santi Aranya
 
-Santi Aranya is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at M7 Club, Barcelona on Sat, 29 Aug 2026.
+Santi Aranya is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at M7 Club, Barcelona on Sat, 29 Aug 2026.
 
-Santi Aranya is a techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona and Madrid. Often billed alongside Rowsi, Gigi D'Amico and Yeyo. Next up: M7 Club, Barcelona on Sat 29 Aug.
+Santi Aranya is a techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside Rowsi, Gigi D'Amico and Yeyo. Next up: M7 Club, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | M7 Club | Barcelona |
+| Fri, 11 Sept 2026 | Imperial Private Club | Barcelona |
 
 ## Recently played
 
