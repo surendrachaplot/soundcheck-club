@@ -1,6 +1,6 @@
 # WATARU
 
-WATARU is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Joule, Osaka on Thu, 13 Aug 2026.
+WATARU is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Joule, Osaka on Thu, 13 Aug 2026.
 
 WATARU is a techno and psytrance artist based in Japan, tracked on soundcheck, with 42 sets logged across Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. (1) and Drunken Kong. Next up: Joule, Osaka on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ WATARU is a techno and psytrance artist based in Japan, tracked on soundcheck, w
 
 PONTA, HK. (1), Drunken Kong
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*

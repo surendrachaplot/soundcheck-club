@@ -1,6 +1,6 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cadman Cruises, Sydney on Sat, 15 Aug 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cadman Cruises, Sydney on Sat, 15 Aug 2026.
 
 Anil Aras is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Cadman Cruises, Sydney on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 79 sets l
 
 Dennis Quin, M-High, Prunk
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

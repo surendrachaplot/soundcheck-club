@@ -1,6 +1,6 @@
 # Cue Trax + friends with Croft + Adam Mclean at komunal
 
-Cue Trax + friends with Croft + Adam Mclean at komunal on Fri 21 Aug, Birmingham. Acid and Minimal. Preview the line-up and save it on soundcheck.
+Cue Trax + friends with Croft + Adam Mclean at komunal on Fri 21 Aug, Birmingham. Minimal and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

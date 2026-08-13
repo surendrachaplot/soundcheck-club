@@ -1,6 +1,6 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Café del Mar Malta, Malta on Fri, 14 Aug 2026.
+Claptone is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Café del Mar Malta, Malta on Fri, 14 Aug 2026.
 
 Claptone is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Café del Mar Malta, Malta on Fri 14 Aug.
 
@@ -36,4 +36,4 @@ Claptone is a house and tech house artist tracked on soundcheck, with 228 sets l
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

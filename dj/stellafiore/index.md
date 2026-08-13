@@ -1,6 +1,6 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
+Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
 
 Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Boston and Bucharest and 16 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima (2). Next up: StereoBar, Montreal on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Stella Fiore is a house and techno artist based in Germany, tracked on soundchec
 
 Ivan Iacobucci, Friendzone, Naima (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*

@@ -1,14 +1,14 @@
 # gabby cocco
 
-gabby cocco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, New York City on Sat, 15 Aug 2026.
+gabby cocco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 15 Aug 2026.
 
-gabby cocco is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Mexicocity and Newyorkcity. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, Newyorkcity on Sat 15 Aug.
+gabby cocco is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Mexicocity and Newyorkcity. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Summertime Roof Terrace, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG | New York City |
+| Sat, 15 Aug 2026 | Summertime Roof Terrace | New York City |
 | Sat, 5 Sept 2026 | Good Room | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ gabby cocco is a house and techno artist based in United States of America, trac
 
 Chloe Battelle, James Juke, Rachel Opert
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*

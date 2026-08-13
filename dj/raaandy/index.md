@@ -1,6 +1,6 @@
 # RAAANDY
 
-RAAANDY is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Haggerston, London on Fri, 14 Aug 2026.
+RAAANDY is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Haggerston, London on Fri, 14 Aug 2026.
 
 RAAANDY is a hip-hop and baile funk artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across London, Paris, Stockholm and Tokyo. Often billed alongside WAAW, reialise and soltura. Next up: The Haggerston, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RAAANDY is a hip-hop and baile funk artist based in United Kingdom, tracked on s
 
 WAAW, reialise, soltura
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raaandy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raaandy/)*

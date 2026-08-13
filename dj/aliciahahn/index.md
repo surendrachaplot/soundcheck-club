@@ -1,6 +1,6 @@
 # Alicia Hahn
 
-Alicia Hahn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
+Alicia Hahn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
 
 Alicia Hahn is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside julës jay, Anahit Vardanyan and Chris Liebing. Next up: Luz De Gas, Barcelona on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Alicia Hahn is a techno and house artist tracked on soundcheck, with 34 sets log
 
 julës jay, Anahit Vardanyan, Chris Liebing
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*

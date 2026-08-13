@@ -1,6 +1,6 @@
 # AngeliKa
 
-AngeliKa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 29 Aug 2026.
+AngeliKa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 29 Aug 2026.
 
 AngeliKa is a techno and house artist based in China, tracked on soundcheck, with 39 sets logged across Bali, Berlin, Hongkong and Krakow and 1 more. Often billed alongside Shanda, Taste of Blue and Jeremy Cheung. Next up: TBA - Secret Warehouse Location, Hongkong on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ AngeliKa is a techno and house artist based in China, tracked on soundcheck, wit
 
 Shanda, Taste of Blue, Jeremy Cheung
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelika/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelika/)*

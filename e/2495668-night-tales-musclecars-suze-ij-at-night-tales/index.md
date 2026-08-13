@@ -1,6 +1,6 @@
 # Night Tales: MUSCLECARS & Suze Ijó at Night Tales
 
-Night Tales: MUSCLECARS & Suze Ijó on Sat 10 Oct, London. 2 acts on the bill: MUSCLECARS and Suze Ijó. Drum & Bass. Preview the line-up and save it on soundcheck.
+Night Tales: MUSCLECARS & Suze Ijó on Sat 10 Oct, London. 2 acts on the bill: MUSCLECARS and Suze Ijó. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

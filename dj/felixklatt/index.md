@@ -1,6 +1,6 @@
 # Felix Klatt
 
-Felix Klatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Felix Klatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Felix Klatt is a house and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Dusseldorf. Often billed alongside Adam Charaf, Cali Caracho and DJ Flatbeat. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Felix Klatt is a house and techno artist based in Germany, tracked on soundcheck
 
 Adam Charaf, Cali Caracho, DJ Flatbeat
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixklatt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixklatt/)*

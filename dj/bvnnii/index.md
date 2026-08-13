@@ -1,6 +1,6 @@
 # BVNNII
 
-BVNNII is a Trance and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
+BVNNII is a Trance and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
 
 BVNNII is a trance and gabber artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Paris. Often billed alongside MIESØ, JØYCE and LEX LEDU. Next up: M-BIA, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ BVNNII is a trance and gabber artist based in Netherlands, tracked on soundcheck
 
 MIESØ, JØYCE, LEX LEDU
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bvnnii/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bvnnii/)*

@@ -1,6 +1,6 @@
 # Cruz Coronado
 
-Cruz Coronado is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
+Cruz Coronado is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
 
 Cruz Coronado is a house and electronica artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside caskobi, ALOT and DJ Mandol. Next up: Sunseabar Beach Club, Barcelona on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Cruz Coronado is a house and electronica artist based in Argentina, tracked on s
 
 caskobi, ALOT, DJ Mandol
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzcoronado/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzcoronado/)*

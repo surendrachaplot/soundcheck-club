@@ -1,6 +1,6 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
+Lauren Ritter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
 
 Lauren Ritter is a house and deep house artist tracked on soundcheck, with 56 sets logged across Ibiza, Miami, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: Under the K Bridge, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lauren Ritter is a house and deep house artist tracked on soundcheck, with 56 se
 
 Maksim, Connie, Asha Jasz
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*

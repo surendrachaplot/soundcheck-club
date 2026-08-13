@@ -1,6 +1,6 @@
 # TBA - Location via telegram  
 
-TBA - Location via telegram   is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "BACKROOMsound" on Sat, 15 Aug 2026.
+TBA - Location via telegram   is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "BACKROOMsound" on Sat, 15 Aug 2026.
 
 TBA - Location via telegram   is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location via telegram   is a music venue in Berlin listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | BACKROOMsound |  |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-location-via-telegram/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-location-via-telegram/)*

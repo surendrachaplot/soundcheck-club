@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
+Twang is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
 
 Twang is a techno and club artist tracked on soundcheck, with 37 sets logged across Athens, Leipzig, London and Madrid. Often billed alongside TEDESCO, THEMPRESS and ASHTREY. Next up: Starlane Pizza Bar, London on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Twang is a techno and club artist tracked on soundcheck, with 37 sets logged acr
 
 TEDESCO, THEMPRESS, ASHTREY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

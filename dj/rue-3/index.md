@@ -1,15 +1,17 @@
 # rue (3)
 
-rue (3) is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
+rue (3) is a Club and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
 
-rue (3) is a club and electro artist based in South Korea, tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside DDD (2), Excultist and KING SHE. Next up: Pistil, Seoul on Sun 16 Aug.
+rue (3) is a club and electro artist based in South Korea, tracked on soundcheck, with 18 sets logged across Seoul. Often billed alongside MOHOHOMO, DDD (2) and Excultist. Next up: Pistil, Seoul on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Pistil | Seoul |
+| Sun, 16 Aug 2026 | Cakeshop | Seoul |
 | Fri, 21 Aug 2026 | Lovehaus | Seoul |
+| Sat, 22 Aug 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ rue (3) is a club and electro artist based in South Korea, tracked on soundcheck
 
 ## Shares bills with
 
-DDD (2), Excultist, KING SHE
+MOHOHOMO, DDD (2), Excultist
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*

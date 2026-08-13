@@ -1,6 +1,6 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
+AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
 
 AC Slater is a house and bass artist tracked on soundcheck, with 42 sets logged across Austin, Boston, Chicago and Cologne and 12 more. Often billed alongside Tchami, Hotfire and Cassian. Next up: Superior Ingredients, Newyorkcity on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ AC Slater is a house and bass artist tracked on soundcheck, with 42 sets logged 
 
 Tchami, Hotfire, Cassian
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

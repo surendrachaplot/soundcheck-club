@@ -1,6 +1,6 @@
 # WÜSTuWILD X NICE TRIES BERLIN at Humboldthain Club
 
-WÜSTuWILD X NICE TRIES BERLIN at Humboldthain Club on Fri 21 Aug, Berlin. 9 acts on the bill: DJ Sanni, Eileeni, FINYA and Juli Gago and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+WÜSTuWILD X NICE TRIES BERLIN at Humboldthain Club on Fri 21 Aug, Berlin. 10 acts on the bill: DJ Sanni, Eileeni, FINYA and Juli Gago and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ WÜSTuWILD X NICE TRIES BERLIN at Humboldthain Club on Fri 21 Aug, Berlin. 9 act
 - Justus Jonas
 - Lucas Jedamzick
 - Mad Son
+- Max(imus)
 - Multifun
 - Otto Lebowski
 

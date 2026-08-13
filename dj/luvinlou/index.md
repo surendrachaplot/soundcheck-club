@@ -1,6 +1,6 @@
 # Luvin'Lou
 
-Luvin'Lou is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pimpernel, Munich on Sun, 16 Aug 2026.
+Luvin'Lou is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pimpernel, Munich on Sun, 16 Aug 2026.
 
 Luvin'Lou is a house and electro artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Munich, Naples and Zurich. Often billed alongside Morz Des Soundsystem, Rollo3000 and André Dancekowski. Next up: Pimpernel, Munich on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Luvin'Lou is a house and electro artist based in Germany, tracked on soundcheck,
 
 Morz Des Soundsystem, Rollo3000, André Dancekowski
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luvinlou/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luvinlou/)*

@@ -1,6 +1,6 @@
 # Roo Honeychild
 
-Roo Honeychild is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
+Roo Honeychild is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
 
 Roo Honeychild is a club and baile funk artist based in Ireland, tracked on soundcheck, with 57 sets logged across Amsterdam, Cork, Dublin and Glasgow and 3 more. Often billed alongside Selky, JWY (1) and E The Artist. Next up: Crate Brewery, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Roo Honeychild is a club and baile funk artist based in Ireland, tracked on soun
 
 Selky, JWY (1), E The Artist
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roohoneychild/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roohoneychild/)*

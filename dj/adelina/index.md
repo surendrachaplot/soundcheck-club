@@ -1,14 +1,15 @@
 # Adelina
 
-Adelina is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
+Adelina is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
 
-Adelina is a techno and bass artist based in Ukraine, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Copenhagen and Melbourne and 3 more. Often billed alongside Travis or Alice, Minho Lee and Stanislav Tolkachev. Next up: Jasna 1, Warsaw on Sat 29 Aug.
+Adelina is a techno and house artist based in Ukraine, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Copenhagen and Melbourne and 3 more. Often billed alongside Travis or Alice, Minho Lee and Stanislav Tolkachev. Next up: Jasna 1, Warsaw on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Jasna 1 | Warsaw |
+| Fri, 4 Sept 2026 | Monarch | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Adelina is a techno and bass artist based in Ukraine, tracked on soundcheck, wit
 
 Travis or Alice, Minho Lee, Stanislav Tolkachev
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*

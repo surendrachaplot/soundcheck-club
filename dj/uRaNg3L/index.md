@@ -1,14 +1,15 @@
 # uRaNg3L
 
-uRaNg3L is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
+uRaNg3L is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
 
-uRaNg3L is a techno and club artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago and Nashville. Often billed alongside Tdy (1), Flores Negras and Miss Twink USA. Next up: The Burlington, Chicago on Sat 22 Aug.
+uRaNg3L is a techno and club artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago and Nashville. Often billed alongside Tdy (1), Flores Negras and Miss Twink USA. Next up: The Burlington, Chicago on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Burlington | Chicago |
+| Sat, 12 Sept 2026 | Outset | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ uRaNg3L is a techno and club artist based in United States of America, tracked o
 
 Tdy (1), Flores Negras, Miss Twink USA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uRaNg3L/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uRaNg3L/)*

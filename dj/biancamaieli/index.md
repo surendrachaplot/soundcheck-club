@@ -1,6 +1,6 @@
 # Bianca Maieli
 
-Bianca Maieli is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
+Bianca Maieli is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
 
 Bianca Maieli is a baile funk and afrobeat artist based in United States of America, tracked on soundcheck, with 43 sets logged across London, Losangeles, Sandiego and Sanfrancisco. Often billed alongside MTooray, DJ SUDI and Aku. Next up: The Melrose House, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bianca Maieli is a baile funk and afrobeat artist based in United States of Amer
 
 MTooray, DJ SUDI, Aku
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancamaieli/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancamaieli/)*

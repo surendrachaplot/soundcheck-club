@@ -1,6 +1,6 @@
 # SDOT MUSIC
 
-SDOT MUSIC is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+SDOT MUSIC is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 SDOT MUSIC is a club and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Denver, Detroit, Glasgow and London and 4 more. Often billed alongside Kade Young, CalvoMusic and DJ KORIS. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ SDOT MUSIC is a club and techno artist based in United States of America, tracke
 
 Kade Young, CalvoMusic, DJ KORIS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Silent Green Open Lab #11: ..o & Nilgün Özer + Gabi Pedrosa" on Tue, 18 Aug 2026.
+Silent Green is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Silent Green Open Lab #11: ..o & Nilgün Özer + Gabi Pedrosa" on Tue, 18 Aug 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Ana Roxanne, bela, Burnt Friedman and Carla dal Forno and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 18 upcoming nights
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

@@ -1,6 +1,6 @@
 # DJ Noir
 
-DJ Noir is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+DJ Noir is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
 
 DJ Noir is a club and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles, Newyorkcity, Sandiego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Noir is a club and house artist based in United States of America, tracked on
 
 JAE JBW, Alleygorgon, TR-666
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*

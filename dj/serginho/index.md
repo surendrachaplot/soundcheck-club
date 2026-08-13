@@ -1,6 +1,6 @@
 # Serginho
 
-Serginho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Plano B, Porto on Fri, 28 Aug 2026.
+Serginho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Plano B, Porto on Fri, 28 Aug 2026.
 
 Serginho is a house and techno artist based in Portugal, tracked on soundcheck, with 43 sets logged across Lisbon and Porto. Often billed alongside OSTINATO, Da Ni and Let (3). Next up: Plano B, Porto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Serginho is a house and techno artist based in Portugal, tracked on soundcheck, 
 
 OSTINATO, Da Ni, Let (3)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serginho/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serginho/)*

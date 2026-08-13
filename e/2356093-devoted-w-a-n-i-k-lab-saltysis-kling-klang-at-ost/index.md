@@ -1,6 +1,6 @@
 # Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG at OST
 
-Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG at OST on Fri 16 Oct, Berlin. 6 acts on the bill: A.N.I., KLING&KLANG, Kø:lab and Nettta and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG at OST on Fri 16 Oct, Berlin. 9 acts on the bill: A.N.I., Billy Currie, BLACK(JP) and KLING&KLANG and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,13 @@ Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG at OST on Fri 16 Oct, Berlin. 
 ## Line-up
 
 - A.N.I.
+- Billy Currie
+- BLACK(JP)
 - KLING&KLANG
 - Kø:lab
 - Nettta
 - SaltySis
 - SEKTOR69
+- SWAGGER
 
 *Source: [soundcheck](https://soundcheck.club/e/2356093-devoted-w-a-n-i-k-lab-saltysis-kling-klang-at-ost/)*

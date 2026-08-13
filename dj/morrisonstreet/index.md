@@ -1,6 +1,6 @@
 # Morrison Street
 
-Morrison Street is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 13 Aug 2026.
+Morrison Street is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 13 Aug 2026.
 
 Morrison Street is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside gau7t, Oakley Carter and REYKA. Next up: Sneaky Pete's, Edinburgh on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Morrison Street is a house and techno artist based in United Kingdom, tracked on
 
 gau7t, Oakley Carter, REYKA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morrisonstreet/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morrisonstreet/)*

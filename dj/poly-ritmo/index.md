@@ -1,8 +1,8 @@
 # Poly-Ritmo
 
-Poly-Ritmo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
+Poly-Ritmo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
 
-Poly-Ritmo is a house and disco artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Copenhagen and Dublin and 11 more. Often billed alongside Charlie Dark, Coco Maria and Cody Currie. Next up: Two Tribes CAMPFIRE, London on Fri 28 Aug.
+Poly-Ritmo is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Copenhagen and Dublin and 11 more. Often billed alongside Palo Santo Discos, Charlie Dark and Coco Maria. Next up: Two Tribes CAMPFIRE, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Poly-Ritmo is a house and disco artist tracked on soundcheck, with 68 sets logge
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Fri, 11 Sept 2026 | Grow | London |
+| Sun, 25 Oct 2026 | Eastway Baths | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Poly-Ritmo is a house and disco artist tracked on soundcheck, with 68 sets logge
 
 ## Shares bills with
 
-Charlie Dark, Coco Maria, Cody Currie
+Palo Santo Discos, Charlie Dark, Coco Maria
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*

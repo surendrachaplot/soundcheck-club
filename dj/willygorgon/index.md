@@ -1,6 +1,6 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
+Willy Gorgon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
 
 Willy Gorgon is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside shanty mane, Jeny Michelle and Armii1n. Next up: Apollo Studio, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Willy Gorgon is a house and techno artist based in United States of America, tra
 
 shanty mane, Jeny Michelle, Armii1n
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

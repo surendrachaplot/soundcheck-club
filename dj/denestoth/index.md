@@ -1,8 +1,8 @@
 # Denes Toth
 
-Denes Toth is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
+Denes Toth is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
 
-Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 2 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: Budai Vár - Oroszlános Udvar, Budapest on Fri 28 Aug.
+Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 2 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: Budai Vár - Oroszlános Udvar, Budapest on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Budai Vár - Oroszlános Udvar | Budapest |
 | Fri, 18 Sept 2026 | O der Klub | Vienna |
+| Fri, 23 Oct 2026 | Het Veronica Schip | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck
 
 Secret Factory, Mateo & Spirit, Baime
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

@@ -1,13 +1,14 @@
 # Paul Taylor
 
-Paul Taylor is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Paul Taylor is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Crowdedhouse, Leeds on Sat, 29 Aug 2026.
 
-Paul Taylor is a house and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DJ SS, K-Klass and Mark XTC. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Paul Taylor is a house and trance artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DJ SS, K-Klass and Mark XTC. Next up: Crowdedhouse, Leeds on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Crowdedhouse | Leeds |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 
 ## Recently played
@@ -25,4 +26,4 @@ Paul Taylor is a house and trance artist based in United Kingdom, tracked on sou
 
 DJ SS, K-Klass, Mark XTC
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paultaylor/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paultaylor/)*

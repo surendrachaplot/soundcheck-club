@@ -1,0 +1,11 @@
+# Vice at E11EVEN at E11EVEN MIAMI
+
+Vice at E11EVEN at E11EVEN MIAMI on Fri 21 Aug, Miami. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 21 Aug 2026 |
+| Venue | E11EVEN MIAMI |
+| City | Miami |
+
+*Source: [soundcheck](https://soundcheck.club/e/2511045-vice-at-e11even-at-e11even-miami/)*

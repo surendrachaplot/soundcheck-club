@@ -1,6 +1,6 @@
 # ori (4)
 
-ori (4) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
+ori (4) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
 
 ori (4) is a garage and house artist tracked on soundcheck, with 4 sets logged across Kyoto, London and Miami. Often billed alongside Amy Os, Drastic Shuffle and G&T (2). Next up: Mezzanine - Tooting, London on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ ori (4) is a garage and house artist tracked on soundcheck, with 4 sets logged a
 
 Amy Os, Drastic Shuffle, G&T (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ori-4/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ori-4/)*

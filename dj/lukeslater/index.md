@@ -1,6 +1,6 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Luke Slater is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 40 more. Often billed alongside JakoJako, Steffi and Fadi Mohem. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 JakoJako, Steffi, Fadi Mohem
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

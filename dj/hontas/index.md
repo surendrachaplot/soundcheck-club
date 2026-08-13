@@ -1,8 +1,8 @@
 # Hontas
 
-Hontas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
+Hontas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
 
-Hontas is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Frankfurt. Often billed alongside Lena Willikens, Mara Menace and Parallx. Next up: AMT, Berlin on Sat 15 Aug.
+Hontas is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin and Frankfurt. Often billed alongside Lena Willikens, Mara Menace and Parallx. Next up: AMT, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hontas is a techno and house artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | AMT | Berlin |
 | Tue, 25 Aug 2026 | OXI | Berlin |
+| Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Hontas is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Lena Willikens, Mara Menace, Parallx
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hontas/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hontas/)*

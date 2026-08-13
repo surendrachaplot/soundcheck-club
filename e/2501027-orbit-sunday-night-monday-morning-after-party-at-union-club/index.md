@@ -1,6 +1,6 @@
 # Orbit Sunday night / Monday morning after party at Union Club, Vauxhall
 
-Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 16 Aug, London. 1 act on the bill: Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 16 Aug, London. 3 acts on the bill: Giusy S (2), Loora and Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 1
 
 ## Line-up
 
+- Giusy S (2)
+- Loora
 - Thomas Galbardi
 
 *Source: [soundcheck](https://soundcheck.club/e/2501027-orbit-sunday-night-monday-morning-after-party-at-union-club/)*

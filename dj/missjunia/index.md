@@ -1,6 +1,6 @@
 # MI$$ JUNIA
 
-MI$$ JUNIA is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+MI$$ JUNIA is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 MI$$ JUNIA is a techno and downtempo artist tracked on soundcheck, with 34 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Camilla Rae, ADAM MUNNINGS and FRÆNZ:. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MI$$ JUNIA is a techno and downtempo artist tracked on soundcheck, with 34 sets 
 
 Camilla Rae, ADAM MUNNINGS, FRÆNZ:
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missjunia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missjunia/)*

@@ -1,14 +1,14 @@
 # Movers
 
-Movers is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Live Jazz Night: Pete Beardsworth & Ameet" on Thu, 13 Aug 2026.
+Movers is a music venue in Nottingham with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "[CANCELLED] Live Jazz Night: Pete Beardsworth & Ameet" on Thu, 13 Aug 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 12 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Live Jazz Night: Pete Beardsworth & Ameet |  |
+| Thu, 13 Aug 2026 | [CANCELLED] Live Jazz Night: Pete Beardsworth & Ameet |  |
 | Fri, 14 Aug 2026 | ALL CAPS: Summer Send-Off |  |
 | Sat, 15 Aug 2026 | Hi-Tech Soul x LNW: Vinyl House |  |
 | Thu, 20 Aug 2026 | Selectors: Alex Traska (2 for £14 Margs & Wine Deals) | Alex Traska |
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # Raymond
 
-Raymond is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Circle Park, Brussels on Sat, 22 Aug 2026.
+Raymond is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Circle Park, Brussels on Sat, 22 Aug 2026.
 
 Raymond is an electronic artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Barcelona, Brussels, London and Mexicocity. Often billed alongside CHAAC, B.UNQ! and DIL KASHMIR. Next up: Circle Park, Brussels on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Raymond is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 CHAAC, B.UNQ!, DIL KASHMIR
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*

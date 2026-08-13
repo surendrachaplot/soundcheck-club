@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Bounce Project" on Wed, 12 Aug 2026.
+Mood Ring is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "RAT RENAISSANCE: EURODANCE" on Thu, 13 Aug 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Pei Up, Ah Dek, AJACENT and AMLA.DHAS and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Pei Up, Ah Dek, AMLA.DHAS and BRATATTACK and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Bounce Project | AJACENT, JOHNNY O, Lana Vese, STARLOTTE |
-| Wed, 12 Aug 2026 | LIFE AFTER TRANCE Open Decks | ASTER (DJ) |
 | Thu, 13 Aug 2026 | RAT RENAISSANCE: EURODANCE | Pei Up, SDRV, SHRAY, Sophia Riv, y2aura |
 | Fri, 14 Aug 2026 | Bussdown+ friends | Joogmac |
 | Fri, 14 Aug 2026 | happy hour with cut to the feels | AMLA.DHAS, SONRISA, XAYN, ur kanmani |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nigh
 | Thu, 20 Aug 2026 | MENACE 2 MENACE | Clit.hub, Madre Guía, Mz3 (1), Rhino Clark, Spam |
 | Fri, 21 Aug 2026 | FINAL ECSTASY | BRATATTACK, Daniro, LIL2HOOD, Twaankalu |
 | Fri, 21 Aug 2026 | Mo Mami & Constantine | Constantine (US), Mo Mami |
+| Wed, 26 Aug 2026 | Rani's Room presents Open Decks | SRI (1) |
+| Thu, 27 Aug 2026 | DISCHARGE: Communion | Homotopies, KLKÉ, R-DNA, Sam Valle, dj33L, masha latte, stress tess |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

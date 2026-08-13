@@ -1,8 +1,8 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "¡Bae Party Sauvage" on Sat, 22 Aug 2026.
+Cabaret Sauvage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "¡Bae Party Sauvage" on Sat, 22 Aug 2026.
 
-Cabaret Sauvage is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Budino, Djé Djé from the block, Dj Koyla and Forêt and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
+Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Boston Bun, Budino, Djé Djé from the block and Dj Koyla and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 5 upcoming night
 | Mon, 31 Aug 2026 | The Whitest Boy Alive | The Whitest Boy Alive |
 | Sat, 5 Sept 2026 | ¡Club Sauvage with Louie Vega: Extended set 4h | Louie Vega, Manoo |
 | Sat, 12 Sept 2026 | ¡LA MEUTE 10 ANS — PART #3 // CLOSING | Forêt, Maara, NOCH (2), Rey Colino, Sebizarre |
+| Fri, 2 Oct 2026 | Planète House: Boston Bun, Selena Faider, Melé [Booth 360°] | Boston Bun, Melé, Selena Faider |
 
 ## Address
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

@@ -1,6 +1,6 @@
 # ANDY DEDE
 
-ANDY DEDE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Z Maruyama, Tokyo on Fri, 14 Aug 2026.
+ANDY DEDE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Z Maruyama, Tokyo on Fri, 14 Aug 2026.
 
 ANDY DEDE is a house and tech house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside ALEXANDER M, EIGHT and BiBiYUA. Next up: Z Maruyama, Tokyo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ ANDY DEDE is a house and tech house artist based in Japan, tracked on soundcheck
 
 ALEXANDER M, EIGHT, BiBiYUA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*

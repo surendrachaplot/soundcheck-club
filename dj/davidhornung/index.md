@@ -1,6 +1,6 @@
 # David Hornung
 
-David Hornung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
+David Hornung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
 
 David Hornung is a house and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Frankfurt and Ghent and 9 more. Often billed alongside Javier Gallardo, Jôka and Buzé. Next up: Club der Visionaere, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ David Hornung is a house and techno artist based in Germany, tracked on soundche
 
 Javier Gallardo, Jôka, Buzé
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*

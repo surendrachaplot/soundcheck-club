@@ -1,6 +1,6 @@
 # EG (1)
 
-EG (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at UMI, Brussels on Fri, 18 Sept 2026.
+EG (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at UMI, Brussels on Fri, 18 Sept 2026.
 
 EG (1) is a house and disco artist based in France, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside DJ Peugeot, Bibi Seck and Cosmonection. Next up: UMI, Brussels on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ EG (1) is a house and disco artist based in France, tracked on soundcheck, with 
 
 DJ Peugeot, Bibi Seck, Cosmonection
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eg-1/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eg-1/)*

@@ -1,14 +1,13 @@
 # Pageant
 
-Pageant is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sound Restorer: ROHANA, Laenz, Axine M" on Wed, 12 Aug 2026.
+Pageant is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Sound Restorer: Sydney Spann, STEMLINES, Mhm, Mhm" on Thu, 13 Aug 2026.
 
-Pageant is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Arushi Jain, Axine M, Eden Aurelius and Kfeelz and 2 more. Browse upcoming dates, start times and who's playing. 70 Graham Ave.
+Pageant is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Arushi Jain, Eden Aurelius, Kfeelz and Mariposa and 2 more. Browse upcoming dates, start times and who's playing. 70 Graham Ave.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Sound Restorer: ROHANA, Laenz, Axine M | Axine M, Laenz |
 | Thu, 13 Aug 2026 | Sound Restorer: Sydney Spann, STEMLINES, Mhm, Mhm | Mhm, Mhm, STEMLINES |
 | Fri, 14 Aug 2026 | Sound Restorer: Palabra Cecilia (SATB Vocal Ensemble, Bob The Fisherman, MAYSUN |  |
 | Thu, 20 Aug 2026 | Sound Restorer: Wet Currency (Mekko Harjo & NY Graffiti), Sound Restorer (Johnny D & richmcd) |  |
@@ -18,4 +17,4 @@ Pageant is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights,
 
 70 Graham Ave, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pageant/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pageant/)*

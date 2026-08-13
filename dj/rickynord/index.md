@@ -1,13 +1,14 @@
 # Ricky Nord
 
-Ricky Nord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
+Ricky Nord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
 
-Ricky Nord is a techno and house artist tracked on soundcheck, with 51 sets logged across Melbourne and Sydney. Often billed alongside Mabel, Charlotte Rooney and Marli. Next up: Angel Music Bar, Melbourne on Fri 4 Sept.
+Ricky Nord is a techno and house artist tracked on soundcheck, with 52 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Mabel and Marli. Next up: Angel Music Bar, Melbourne on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Angel Music Bar | Melbourne |
 | Fri, 4 Sept 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ricky Nord is a techno and house artist tracked on soundcheck, with 51 sets logg
 
 ## Shares bills with
 
-Mabel, Charlotte Rooney, Marli
+Charlotte Rooney, Mabel, Marli
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*

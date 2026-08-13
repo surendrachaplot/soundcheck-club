@@ -1,6 +1,6 @@
 # Monopol
 
-Monopol is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "MELISMA - Interlude" on Sat, 29 Aug 2026.
+Monopol is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "MELISMA - Interlude" on Sat, 29 Aug 2026.
 
 Monopol is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Monopol. Browse upcoming dates, start times and who's playing. Provinzstraße 40-44, 13409 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Monopol is a music venue in Berlin listed on soundcheck. 1 upcoming night, with 
 
 Provinzstraße 40-44, 13409 Berlin, Germany, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monopol/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monopol/)*

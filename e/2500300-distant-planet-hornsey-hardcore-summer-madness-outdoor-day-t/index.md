@@ -1,6 +1,6 @@
 # Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session at Colour Factory
 
-Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session at Colour Factory on Sun 16 Aug, London. 4 acts on the bill: Equinox (UK), Hughesee, Jerome Hill and Louise Plus One. Acid and Hardcore. Preview the line-up and save it on soundcheck.
+Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session at Colour Factory on Sun 16 Aug, London. 4 acts on the bill: Equinox (UK), Hughesee, Jerome Hill and Louise Plus One. Hardcore and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

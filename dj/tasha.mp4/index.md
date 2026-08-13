@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at XOYO, London on Thu, 13 Aug 2026.
+tasha.mp4 is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at XOYO, London on Thu, 13 Aug 2026.
 
 tasha.mp4 is a drum & bass and garage artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: XOYO, London on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ tasha.mp4 is a drum & bass and garage artist tracked on soundcheck, with 42 sets
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

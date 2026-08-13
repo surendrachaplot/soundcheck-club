@@ -1,6 +1,6 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+C.FRIM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, with 84 sets logged across Amsterdam, Auckland, Bali and Barcelona and 17 more. Often billed alongside MIRASIA, Sally C and BADSISTA. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, w
 
 MIRASIA, Sally C, BADSISTA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

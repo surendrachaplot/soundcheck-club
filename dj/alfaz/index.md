@@ -1,6 +1,6 @@
 # Alfaz
 
-Alfaz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
+Alfaz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
 
 Alfaz is a house and afro house artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Ize (1), Zak Miller and ARLYSS. Next up: The Glove That Fits, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Alfaz is a house and afro house artist tracked on soundcheck, with 22 sets logge
 
 Ize (1), Zak Miller, ARLYSS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*

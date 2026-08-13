@@ -1,6 +1,6 @@
 # Saku NewMoon
 
-Saku NewMoon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
+Saku NewMoon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
 
 Saku NewMoon is a house and techno artist based in Japan, tracked on soundcheck, with 50 sets logged across Tokyo. Often billed alongside Gara, Issyo and Kaw (1). Next up: ZEROTOKYO, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Saku NewMoon is a house and techno artist based in Japan, tracked on soundcheck,
 
 Gara, Issyo, Kaw (1)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*

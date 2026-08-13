@@ -1,6 +1,6 @@
 # DARDANELLA
 
-DARDANELLA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
+DARDANELLA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
 
 DARDANELLA is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Big Lil, Diva and MAXImum. Next up: Ankali & Planeta Za, Prague on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ DARDANELLA is a techno and tech house artist based in Czech Republic, tracked on
 
 Big Lil, Diva, MAXImum
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dardanella/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dardanella/)*

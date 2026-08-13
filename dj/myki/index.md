@@ -1,6 +1,6 @@
 # MYKI
 
-MYKI is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rūmu, Lisbon on Wed, 19 Aug 2026.
+MYKI is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rūmu, Lisbon on Wed, 19 Aug 2026.
 
 MYKI is a progressive house and trance artist tracked on soundcheck, with 7 sets logged across Berlin, Hamburg, Lisbon and Munich. Often billed alongside Olsvangèr, Carmen Electro and DJ Hochzeit. Next up: Rūmu, Lisbon on Wed 19 Aug.
 
@@ -23,4 +23,4 @@ MYKI is a progressive house and trance artist tracked on soundcheck, with 7 sets
 
 Olsvangèr, Carmen Electro, DJ Hochzeit
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myki/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myki/)*

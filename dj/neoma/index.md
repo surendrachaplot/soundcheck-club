@@ -1,14 +1,16 @@
 # Neoma
 
-Neoma is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+Neoma is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
-Neoma is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Berlin, Cologne, Edinburgh and Ghent and 6 more. Often billed alongside EGE363, Orbi and VXYX. Next up: Fuchs2, Prague on Sat 15 Aug.
+Neoma is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Berlin, Cologne, Edinburgh and Ghent and 6 more. Often billed alongside EGE363, Orbi and VXYX. Next up: Fuchs2, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Sat, 22 Aug 2026 | ://about blank | Berlin |
+| Thu, 27 Aug 2026 | Ministerium Club | Lisbon |
 | Fri, 28 Aug 2026 | RSO.BERLIN | Berlin |
 | Thu, 1 Oct 2026 | The Berkeley Suite | Glasgow |
 
@@ -27,4 +29,4 @@ Neoma is a techno and trance artist based in United Kingdom, tracked on soundche
 
 EGE363, Orbi, VXYX
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoma/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoma/)*

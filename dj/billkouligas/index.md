@@ -1,6 +1,6 @@
 # Bill Kouligas
 
-Bill Kouligas is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+Bill Kouligas is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
 Bill Kouligas is an experimental and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside nunguja, Crystallmess and Tzusing. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Bill Kouligas is an experimental and techno artist based in Germany, tracked on 
 
 nunguja, Crystallmess, Tzusing
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*

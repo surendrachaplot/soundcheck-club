@@ -1,6 +1,6 @@
 # starfari
 
-starfari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at IO Music Academy SF, San Francisco/Oakland on Tue, 22 Sept 2026.
+starfari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at IO Music Academy SF, San Francisco/Oakland on Tue, 22 Sept 2026.
 
 starfari is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles, Paris, Sanfrancisco and Seattle. Often billed alongside DJ M3, &ndmore and DJ PlayStation. Next up: IO Music Academy SF, Sanfrancisco on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ starfari is a house and disco artist based in United States of America, tracked 
 
 DJ M3, &ndmore, DJ PlayStation
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*

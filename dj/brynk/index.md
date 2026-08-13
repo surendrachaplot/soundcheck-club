@@ -1,6 +1,6 @@
 # Brynk
 
-Brynk is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
+Brynk is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
 
 Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Edinburgh, Glasgow and Warsaw. Often billed alongside Nabee, Faultlines and Pollyanna. Next up: Uplands Roast, Edinburgh on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Nabee, Faultlines, Pollyanna
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*

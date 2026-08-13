@@ -1,6 +1,6 @@
 # DJ Europarking
 
-DJ Europarking is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
+DJ Europarking is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
 
 DJ Europarking is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 8 more. Often billed alongside Ellen Allien, Shaleen and Slimfit. Next up: Paradiso, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Europarking is a techno and trance artist tracked on soundcheck, with 56 sets
 
 Ellen Allien, Shaleen, Slimfit
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeuroparking/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeuroparking/)*

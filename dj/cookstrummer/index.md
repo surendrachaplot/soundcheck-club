@@ -1,6 +1,6 @@
 # Cook Strummer
 
-Cook Strummer is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
+Cook Strummer is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
 Cook Strummer is a house and minimal artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Istanbul, Riga and Vienna. Often billed alongside Peter Schumann, ONNI and Scoopsi. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Cook Strummer is a house and minimal artist based in Germany, tracked on soundch
 
 Peter Schumann, ONNI, Scoopsi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*

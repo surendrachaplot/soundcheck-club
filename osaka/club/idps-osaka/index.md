@@ -1,6 +1,6 @@
 # Idps Osaka
 
-Idps Osaka is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "MODE" on Sat, 22 Aug 2026.
+Idps Osaka is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "MODE" on Sat, 22 Aug 2026.
 
 Idps Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. B1F Shiba Building, 1-18-14 Nihonbashi, Chuo-ku, Osaka.
 
@@ -14,4 +14,4 @@ Idps Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming night. Bro
 
 B1F Shiba Building, 1-18-14 Nihonbashi, Chuo-ku, Osaka, Osaka
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/idps-osaka/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/idps-osaka/)*

@@ -1,0 +1,28 @@
+# Sariim
+
+Sariim is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sameheads, Berlin on Fri, 4 Sept 2026.
+
+Sariim is a bass and experimental artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Costa (FR), Chaosy and Dmitra. Next up: Sameheads, Berlin on Fri 4 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Sept 2026 | Sameheads | Berlin |
+
+## Recently played
+
+- Sameheads, Berlin — Thu, 18 Jun 2026
+- OXI, Berlin — Fri, 12 Jun 2026
+- Sameheads, Berlin — Fri, 24 Apr 2026
+- Sameheads, Berlin — Thu, 9 Apr 2026
+- TBA - OLD FACTORY - Greifswalder Str. 23A, 10405 Berlin, Berlin — Sat, 13 Dec 2025
+- Sameheads, Berlin — Sat, 22 Nov 2025
+- Bar Neun, Berlin — Sat, 7 Jun 2025
+- Sameheads, Berlin — Fri, 9 May 2025
+
+## Shares bills with
+
+Costa (FR), Chaosy, Dmitra
+
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*

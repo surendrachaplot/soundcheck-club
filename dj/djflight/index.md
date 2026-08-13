@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and Dillinja. Next up: The Cause, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 107 set
 
 Mantra, SP:MC, Dillinja
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

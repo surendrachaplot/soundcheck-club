@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Vertigo, Toronto on Fri, 14 Aug 2026.
+UMI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Vertigo, Toronto on Fri, 14 Aug 2026.
 
 UMI is a house and tech house artist tracked on soundcheck, with 12 sets logged across London, Tokyo and Toronto. Often billed alongside CALPISS, Devon and Tabbara. Next up: Vertigo, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ UMI is a house and tech house artist tracked on soundcheck, with 12 sets logged 
 
 CALPISS, Devon, Tabbara
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umi/)*

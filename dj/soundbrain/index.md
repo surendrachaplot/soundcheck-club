@@ -1,6 +1,6 @@
 # SOUND BRAIN
 
-SOUND BRAIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
+SOUND BRAIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
 
 SOUND BRAIN is a techno and house artist based in Japan, tracked on soundcheck, with 47 sets logged across Kyoto, Seoul and Tokyo. Often billed alongside HAYATE, JUN INAGAWA and SAMO (JP). Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SOUND BRAIN is a techno and house artist based in Japan, tracked on soundcheck, 
 
 HAYATE, JUN INAGAWA, SAMO (JP)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundbrain/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundbrain/)*

@@ -1,6 +1,6 @@
 # IsGwan
 
-IsGwan is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Luigis Hot Pizza Bali, Bali on Mon, 31 Aug 2026.
+IsGwan is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Luigis Hot Pizza Bali, Bali on Mon, 31 Aug 2026.
 
 IsGwan is a garage and house artist based in Australia, tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Bali and Berlin and 14 more. Often billed alongside Osmosis Jones, KJONES and Prizefight. Next up: Luigis Hot Pizza Bali, Bali on Mon 31 Aug.
 
@@ -27,4 +27,4 @@ IsGwan is a garage and house artist based in Australia, tracked on soundcheck, w
 
 Osmosis Jones, KJONES, Prizefight
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*

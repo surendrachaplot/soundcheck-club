@@ -1,6 +1,6 @@
 # DJ Panic
 
-DJ Panic is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+DJ Panic is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 DJ Panic is a gabber and hardcore artist tracked on soundcheck, with 5 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Akemiö Grey, Art of Fighters and DJ Ruffneck. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ DJ Panic is a gabber and hardcore artist tracked on soundcheck, with 5 sets logg
 
 Akemiö Grey, Art of Fighters, DJ Ruffneck
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpanic/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpanic/)*

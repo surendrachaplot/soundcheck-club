@@ -1,6 +1,6 @@
 # Quartier Libre
 
-Quartier Libre is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 29 Aug 2026.
+Quartier Libre is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 29 Aug 2026.
 
 Quartier Libre is an electro and techno artist tracked on soundcheck, with 24 sets logged across Brussels and Paris. Often billed alongside Abdul Raeva, Bernadette and Cracki Soundsystem. Next up: Cabaret Sauvage, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Quartier Libre is an electro and techno artist tracked on soundcheck, with 24 se
 
 Abdul Raeva, Bernadette, Cracki Soundsystem
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quartierlibre/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quartierlibre/)*

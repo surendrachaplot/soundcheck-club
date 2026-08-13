@@ -1,6 +1,6 @@
 # L KAE F
 
-L KAE F is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
+L KAE F is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
 
 L KAE F is a house and dub artist tracked on soundcheck, with 21 sets logged across London and Vienna. Often billed alongside Rosy Ross, Medallion Man and Pavline. Next up: The Marquee Moon, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ L KAE F is a house and dub artist tracked on soundcheck, with 21 sets logged acr
 
 Rosy Ross, Medallion Man, Pavline
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*

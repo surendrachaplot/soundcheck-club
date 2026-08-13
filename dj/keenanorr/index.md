@@ -1,6 +1,6 @@
 # Keenan Orr
 
-Keenan Orr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Keenan Orr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Keenan Orr is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Boston, Denver, Newyorkcity and Philadelphia and 4 more. Often billed alongside Keenan, KayLaSoul and MAXIMILIANO (US). Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Keenan Orr is a house and techno artist based in United States of America, track
 
 Keenan, KayLaSoul, MAXIMILIANO (US)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keenanorr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keenanorr/)*

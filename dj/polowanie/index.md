@@ -1,6 +1,6 @@
 # Polowanie
 
-Polowanie is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Park im. Stefana Żeromskiego, Warsaw on Fri, 14 Aug 2026.
+Polowanie is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Park im. Stefana Żeromskiego, Warsaw on Fri, 14 Aug 2026.
 
 Polowanie is an ambient and experimental artist tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside BarTech, ECCO.EXE and Simon Yellow. Next up: TBA - Park im. Stefana Żeromskiego, Warsaw on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Polowanie is an ambient and experimental artist tracked on soundcheck, with 5 se
 
 BarTech, ECCO.EXE, Simon Yellow
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polowanie/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polowanie/)*

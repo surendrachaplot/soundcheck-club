@@ -1,8 +1,8 @@
 # Pablo Cornejo
 
-Pablo Cornejo is a electronic artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Minimal Bar, Berlin on Mon, 17 Aug 2026.
+Pablo Cornejo is a electronic artist with 11 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Minimal Bar, Berlin on Mon, 17 Aug 2026.
 
-Pablo Cornejo is an electronic artist tracked on soundcheck, with 156 sets logged across Berlin and Mexicocity. Often billed alongside Beta Basti, Nils Ohrmann and Stevo. Next up: Minimal Bar, Berlin on Mon 17 Aug.
+Pablo Cornejo is an electronic artist tracked on soundcheck, with 159 sets logged across Berlin and Mexicocity. Often billed alongside Beta Basti, Nils Ohrmann and Stevo. Next up: Minimal Bar, Berlin on Mon 17 Aug.
 
 ## Upcoming shows
 
@@ -15,7 +15,10 @@ Pablo Cornejo is an electronic artist tracked on soundcheck, with 156 sets logge
 | Mon, 14 Sept 2026 | Minimal Bar | Berlin |
 | Mon, 28 Sept 2026 | Minimal Bar | Berlin |
 | Mon, 12 Oct 2026 | Minimal Bar | Berlin |
+| Tue, 13 Oct 2026 | Minimal Bar | Berlin |
 | Mon, 26 Oct 2026 | Minimal Bar | Berlin |
+| Thu, 29 Oct 2026 | Minimal Bar | Berlin |
+| Thu, 5 Nov 2026 | Minimal Bar | Berlin |
 
 ## Recently played
 
@@ -32,4 +35,4 @@ Pablo Cornejo is an electronic artist tracked on soundcheck, with 156 sets logge
 
 Beta Basti, Nils Ohrmann, Stevo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablocornejo-cl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablocornejo-cl/)*

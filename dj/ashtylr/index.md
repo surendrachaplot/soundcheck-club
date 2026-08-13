@@ -1,6 +1,6 @@
 # ASHTYLR
 
-ASHTYLR is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
+ASHTYLR is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
 
 ASHTYLR is a club and electronica artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Leeds and Manchester. Often billed alongside Anop, Princess Elf Bar and Akamwave. Next up: renae, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ASHTYLR is a club and electronica artist based in United Kingdom, tracked on sou
 
 Anop, Princess Elf Bar, Akamwave
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtylr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtylr/)*

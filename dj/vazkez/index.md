@@ -1,6 +1,6 @@
 # vazkez
 
-vazkez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
+vazkez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
 
 vazkez is a techno and house artist tracked on soundcheck, with 12 sets logged across Copenhagen. Often billed alongside avoN, Britney Speed and Entree. Next up: Byhaven, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ vazkez is a techno and house artist tracked on soundcheck, with 12 sets logged a
 
 avoN, Britney Speed, Entree
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazkez/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazkez/)*

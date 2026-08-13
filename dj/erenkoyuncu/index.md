@@ -1,6 +1,6 @@
 # Eren koyuncu
 
-Eren koyuncu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Flux, Istanbul on Fri, 14 Aug 2026.
+Eren koyuncu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Flux, Istanbul on Fri, 14 Aug 2026.
 
 Eren koyuncu is a house and techno artist tracked on soundcheck, with 9 sets logged across Istanbul. Often billed alongside -FU-, Cisetta and Emirhan Kacar. Next up: Flux, Istanbul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Eren koyuncu is a house and techno artist tracked on soundcheck, with 9 sets log
 
 -FU-, Cisetta, Emirhan Kacar
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erenkoyuncu/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erenkoyuncu/)*

@@ -1,6 +1,6 @@
 # Mike Nasty
 
-Mike Nasty is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Green Room NYC, New York City on Sat, 15 Aug 2026.
+Mike Nasty is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Green Room NYC, New York City on Sat, 15 Aug 2026.
 
 Mike Nasty is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles and Newyorkcity. Often billed alongside Mari Ella, Roman Martinez and Josh Hubi. Next up: Green Room NYC, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mike Nasty is a house and deep house artist based in United States of America, t
 
 Mari Ella, Roman Martinez, Josh Hubi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasty/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasty/)*

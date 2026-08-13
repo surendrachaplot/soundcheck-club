@@ -1,6 +1,6 @@
 # Dr. Resin Social Club
 
-Dr. Resin Social Club is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Dr. Resin Social Club meets Mapuxe Sound" on Fri, 14 Aug 2026.
+Dr. Resin Social Club is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Dr. Resin Social Club meets Mapuxe Sound" on Fri, 14 Aug 2026.
 
 Dr. Resin Social Club is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer de Guitard, 57, 08014 Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Dr. Resin Social Club is a music venue in Barcelona listed on soundcheck. 2 upco
 
 Carrer de Guitard, 57, 08014 Barcelona, Spain, Barcelona
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-resin-social-club/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-resin-social-club/)*

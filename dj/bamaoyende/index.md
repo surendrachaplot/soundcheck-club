@@ -1,6 +1,6 @@
 # Bamao Yendé
 
-Bamao Yendé is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
+Bamao Yendé is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
 
 Bamao Yendé is a club and bass artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Nico Adomako, Broodoo Ramses and Low Jack. Next up: TBA - 22 rue Jobin 13003 marseille , Marseille on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Bamao Yendé is a club and bass artist tracked on soundcheck, with 50 sets logge
 
 Nico Adomako, Broodoo Ramses, Low Jack
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bamaoyende/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bamaoyende/)*

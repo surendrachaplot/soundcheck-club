@@ -1,15 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "MEDUZA & James Hype present OUR HOUSE" on Wed, 12 Aug 2026.
+Hï Ibiza is a music venue in Ibiza with 54 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Hugel presents Make The Girls Dance" on Thu, 13 Aug 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 54 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | MEDUZA & James Hype present OUR HOUSE | CARISTA, Coco & Breezy, James Hype (UK), Jonas Blue, Meduza, TSHA |
-| Wed, 12 Aug 2026 | Meduza & James Hype present Our House | ANTO ZAGU, KAYA (US) |
 | Thu, 13 Aug 2026 | Hugel presents Make The Girls Dance | Hugel, Kiko, Konstantin Sibold, Miss Monique |
 | Fri, 14 Aug 2026 | Dom Dolla | Dom Dolla, Ewan McVicar, Sally C |
 | Sat, 15 Aug 2026 | Black Coffee | Adam Ten, Ankhoï, Black Coffee, JAMIIE, RY X, Skepta |
@@ -18,9 +16,11 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, wi
 | Tue, 18 Aug 2026 | East End Dubs presents Eastenderz | Dennis Quin, East End Dubs, Iglesias, Nicole Moudaber, Paco Osuna, Robbie Doherty, SOSA (UK) |
 | Wed, 19 Aug 2026 | MEDUZA & James Hype present OUR HOUSE | Anna Tur, James Hype (UK), Jonas Blue, Maya Jane Coles, Meduza, Sasson |
 | Thu, 20 Aug 2026 | Hugel presents Make The Girls Dance | Carl Bee, Crusy, Diplo, GENESI, Hugel, Miss Monique |
+| Fri, 21 Aug 2026 | Dom Dolla | Cinthie, Dom Dolla, Ewan McVicar, LAMMER |
+| Sat, 22 Aug 2026 | Black Coffee | Black Coffee, Joeski, Kerri Chandler, Locky, Marsolo, Skepta |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

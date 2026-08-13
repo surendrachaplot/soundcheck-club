@@ -1,13 +1,18 @@
 # Kienievik
 
-Kienievik is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pawilon Bliska 12, Warsaw on Sun, 16 Aug 2026.
+Kienievik is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pawilon Bliska 12, Warsaw on Sun, 16 Aug 2026.
 
-Kienievik is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Next up: Pawilon Bliska 12, Warsaw on Sun 16 Aug.
+Kienievik is a techno and house artist based in Poland, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside MIHVU and uiava. Next up: Pawilon Bliska 12, Warsaw on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Pawilon Bliska 12 | Warsaw |
+| Fri, 21 Aug 2026 | MONKEY LOVE | Warsaw |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kienievik/)*
+## Shares bills with
+
+MIHVU, uiava
+
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kienievik/)*

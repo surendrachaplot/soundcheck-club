@@ -1,6 +1,6 @@
 # Rivussy
 
-Rivussy is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+Rivussy is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Rivussy is a club and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles and Sanfrancisco. Often billed alongside Alxander Ivey, BB Shaine and NEPTUNEWAVEY. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rivussy is a club and house artist based in United States of America, tracked on
 
 Alxander Ivey, BB Shaine, NEPTUNEWAVEY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivussy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivussy/)*

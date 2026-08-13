@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Nicole Moudaber is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Nicole Moudaber is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Nicole Moudaber is a techno and house artist tracked on soundcheck, with 130 set
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

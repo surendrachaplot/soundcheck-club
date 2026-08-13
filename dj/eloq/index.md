@@ -1,13 +1,14 @@
 # ELOQ
 
-ELOQ is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Night Tales Loft, London on Fri, 2 Oct 2026.
+ELOQ is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 19 Sept 2026.
 
-ELOQ is a garage and house artist tracked on soundcheck, with 32 sets logged across Antwerp, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Main Phase, Megan Wroe and Silva Bumpa. Next up: Night Tales Loft, London on Fri 2 Oct.
+ELOQ is a garage and house artist tracked on soundcheck, with 33 sets logged across Antwerp, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Main Phase, Megan Wroe and Silva Bumpa. Next up: Pumpehuset, Copenhagen on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Pumpehuset | Copenhagen |
 | Fri, 2 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ ELOQ is a garage and house artist tracked on soundcheck, with 32 sets logged acr
 
 Main Phase, Megan Wroe, Silva Bumpa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eloq/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eloq/)*

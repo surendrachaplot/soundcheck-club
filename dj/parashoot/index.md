@@ -1,8 +1,8 @@
 # parashoot
 
-parashoot is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+parashoot is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-parashoot is a house and garage artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen and London. Often billed alongside Mary Harp, DAISY and DJ Spice. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+parashoot is a house and garage artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen and London. Often billed alongside Mary Harp, ELOQ and DAISY. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ parashoot is a house and garage artist based in Denmark, tracked on soundcheck, 
 
 ## Shares bills with
 
-Mary Harp, DAISY, DJ Spice
+Mary Harp, ELOQ, DAISY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*

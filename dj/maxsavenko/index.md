@@ -1,6 +1,6 @@
 # Max Savenko
 
-Max Savenko is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
+Max Savenko is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
 
 Max Savenko is a tech house and techno artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside R-DNA, Stealthy and masha latte. Next up: Honey's, Newyorkcity on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ Max Savenko is a tech house and techno artist based in Ukraine, tracked on sound
 
 R-DNA, Stealthy, masha latte
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsavenko/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsavenko/)*

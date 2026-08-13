@@ -1,6 +1,6 @@
 # 69DB
 
-69DB is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Reinstate, London on Wed, 16 Sept 2026.
+69DB is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Reinstate, London on Wed, 16 Sept 2026.
 
 69DB is an acid and techno artist based in France, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Geneva and Hongkong and 8 more. Often billed alongside Ixindamix, Crystal Distortion and Madtronik. Next up: Reinstate, London on Wed 16 Sept.
 
@@ -28,4 +28,4 @@
 
 Ixindamix, Crystal Distortion, Madtronik
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

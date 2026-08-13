@@ -1,6 +1,6 @@
 # Bass Baddies at Jade
 
-Bass Baddies at Jade on Sat 22 Aug, Newyorkcity. 1 act on the bill: DJanae. Bass and Footwork. Preview the line-up and save it on soundcheck.
+Bass Baddies at Jade on Sat 22 Aug, Newyorkcity. 2 acts on the bill: Atomheartmommy and DJanae. Bass and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Bass Baddies at Jade on Sat 22 Aug, Newyorkcity. 1 act on the bill: DJanae. Bass
 
 ## Line-up
 
+- Atomheartmommy
 - DJanae
 
 *Source: [soundcheck](https://soundcheck.club/e/2497536-bass-baddies-at-jade/)*

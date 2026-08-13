@@ -1,6 +1,6 @@
 # piro
 
-piro is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
+piro is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
 
 piro is a techno and acid artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Shenzhen. Often billed alongside BetaLava, D-Leria and El Maria. Next up: OIL Club, Shenzhen on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ piro is a techno and acid artist based in Netherlands, tracked on soundcheck, wi
 
 BetaLava, D-Leria, El Maria
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piro/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piro/)*

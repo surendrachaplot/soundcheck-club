@@ -1,8 +1,8 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sound Burger, London on Fri, 21 Aug 2026.
+leverson is a Hip-Hop and R&B artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sound Burger, London on Fri, 21 Aug 2026.
 
-leverson is a r&b and hip-hop artist tracked on soundcheck, with 174 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Sound Burger, London on Fri 21 Aug.
+leverson is a hip-hop and r&b artist tracked on soundcheck, with 175 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Sound Burger, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ leverson is a r&b and hip-hop artist tracked on soundcheck, with 174 sets logged
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Sound Burger | London |
 | Thu, 27 Aug 2026 | Peckham Arches | London |
+| Fri, 28 Aug 2026 | Nico's Bar at Hackney Bridge | London |
 | Sat, 29 Aug 2026 | Kaiho | London |
 | Fri, 4 Sept 2026 | Next Door Records | London |
 | Thu, 1 Oct 2026 | Peckham Arches | London |
@@ -33,4 +34,4 @@ leverson is a r&b and hip-hop artist tracked on soundcheck, with 174 sets logged
 
 Signorina, Omari King, Omari
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

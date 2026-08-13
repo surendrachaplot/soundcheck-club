@@ -1,17 +1,19 @@
 # Massive
 
-Massive is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "TKVR - Takeover" on Thu, 20 Aug 2026.
+Massive is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TKVR presents: August V.M" on Thu, 20 Aug 2026.
 
-Massive is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including August V. M.. Browse upcoming dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
+Massive is a music venue in Seattle listed on soundcheck. 3 upcoming nights, with line-ups including August V. M.. Browse upcoming dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | TKVR - Takeover | August V. M. |
+| Thu, 20 Aug 2026 | TKVR presents: August V.M | August V. M. |
+| Thu, 17 Sept 2026 | TKVR presents: Cucci |  |
+| Thu, 15 Oct 2026 | TKVR presents: Nolid |  |
 
 ## Address
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

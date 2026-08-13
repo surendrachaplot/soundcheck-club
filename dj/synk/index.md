@@ -1,6 +1,6 @@
 # S*Y*N*K
 
-S*Y*N*K is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+S*Y*N*K is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 S*Y*N*K is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside VRODAK, Dres Codex and Frida Henson. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ S*Y*N*K is a techno and hardcore artist tracked on soundcheck, with 24 sets logg
 
 VRODAK, Dres Codex, Frida Henson
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*

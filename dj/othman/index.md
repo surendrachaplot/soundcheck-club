@@ -1,6 +1,6 @@
 # Othman
 
-Othman is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Blue Room, Montreal on Sat, 15 Aug 2026.
+Othman is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Blue Room, Montreal on Sat, 15 Aug 2026.
 
 Othman is a house and electronica artist tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Jino K, Racil and Bezze Barra. Next up: Blue Room, Montreal on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Othman is a house and electronica artist tracked on soundcheck, with 7 sets logg
 
 Jino K, Racil, Bezze Barra
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/othman/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/othman/)*

@@ -1,6 +1,6 @@
 # Johnny I.
 
-Johnny I. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club Rawhide, New York City on Thu, 13 Aug 2026.
+Johnny I. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Rawhide, New York City on Thu, 13 Aug 2026.
 
 Johnny I. is a techno and house artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Boomer Banks. Next up: Club Rawhide, Newyorkcity on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Johnny I. is a techno and house artist tracked on soundcheck, with 6 sets logged
 
 Boomer Banks
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnny-i/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnny-i/)*

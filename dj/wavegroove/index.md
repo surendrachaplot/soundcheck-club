@@ -1,6 +1,6 @@
 # wave Groove
 
-wave Groove is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hello Stranger, Los Angeles on Fri, 14 Aug 2026.
+wave Groove is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hello Stranger, Los Angeles on Fri, 14 Aug 2026.
 
 wave Groove is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Losangeles, Mexicocity, Osaka and Tokyo. Often billed alongside Glo Phase, m_boogs and Rhyne. Next up: Hello Stranger, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ wave Groove is a hip-hop and house artist based in United States of America, tra
 
 Glo Phase, m_boogs, Rhyne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wavegroove/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wavegroove/)*

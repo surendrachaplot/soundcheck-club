@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 15 Aug 2026.
+Robin Ordell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 15 Aug 2026.
 
 Robin Ordell is a house and techno artist based in France, tracked on soundcheck, with 45 sets logged across Bangkok, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Platforma Wolff, Bucharest on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Robin Ordell is a house and techno artist based in France, tracked on soundcheck
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

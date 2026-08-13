@@ -1,14 +1,15 @@
 # Ann Clue
 
-Ann Clue is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Alexandra Palace, London on Sat, 19 Sept 2026.
+Ann Clue is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Alexandra Palace, London on Sat, 19 Sept 2026.
 
-Ann Clue is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Athens, Austin, Barcelona and Basel and 21 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Alexandra Palace, London on Sat 19 Sept.
+Ann Clue is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Athens, Austin, Barcelona and Basel and 21 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Alexandra Palace, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Alexandra Palace | London |
+| Fri, 25 Sept 2026 | Fridas Pier | Stuttgart |
 | Sat, 26 Sept 2026 | Küçükçiftlik Park | Istanbul |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ann Clue is a techno and minimal techno artist based in Germany, tracked on soun
 
 Moritz Hofbauer, Boris Brejcha, Deniz Bul
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*

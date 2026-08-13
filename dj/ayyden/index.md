@@ -1,6 +1,6 @@
 # Ayy Den
 
-Ayy Den is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
+Ayy Den is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
 
 Ayy Den is a club and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Bristol, Glasgow and Leeds and 5 more. Often billed alongside Bok Bok, Charlie Boy Manson and Dual Monitor. Next up: renae, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ayy Den is a club and bass artist based in United Kingdom, tracked on soundcheck
 
 Bok Bok, Charlie Boy Manson, Dual Monitor
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayyden/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayyden/)*

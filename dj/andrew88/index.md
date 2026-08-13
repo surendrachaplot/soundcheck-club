@@ -1,6 +1,6 @@
 # Andrew88
 
-Andrew88 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fiftyfive, Melbourne on Sun, 23 Aug 2026.
+Andrew88 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fiftyfive, Melbourne on Sun, 23 Aug 2026.
 
 Andrew88 is a house and deep house artist tracked on soundcheck, with 123 sets logged across Manchester, Melbourne and Sydney. Often billed alongside A.Well, J-OK and LOOQS. Next up: Fiftyfive, Melbourne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Andrew88 is a house and deep house artist tracked on soundcheck, with 123 sets l
 
 A.Well, J-OK, LOOQS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrew88/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrew88/)*

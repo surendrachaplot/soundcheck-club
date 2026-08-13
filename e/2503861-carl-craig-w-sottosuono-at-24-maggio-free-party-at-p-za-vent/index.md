@@ -1,6 +1,6 @@
 # Carl Craig w/ SOTTOSUONO at 24 MAGGIO [free party] at P.za Ventiquattro Maggio
 
-Carl Craig w/ SOTTOSUONO at 24 MAGGIO [free party] at P.za Ventiquattro Maggio on Sat 12 Sept, Milan. 3 acts on the bill: Carl Craig, Gab Gato and The Robinson. Preview the line-up and save it on soundcheck.
+Carl Craig w/ SOTTOSUONO at 24 MAGGIO [free party] at P.za Ventiquattro Maggio on Sat 12 Sept, Milan. 4 acts on the bill: Carl Craig, Gab Gato, NEKKETTO and The Robinson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Carl Craig w/ SOTTOSUONO at 24 MAGGIO [free party] at P.za Ventiquattro Maggio o
 
 - Carl Craig
 - Gab Gato
+- NEKKETTO
 - The Robinson
 
 *Source: [soundcheck](https://soundcheck.club/e/2503861-carl-craig-w-sottosuono-at-24-maggio-free-party-at-p-za-vent/)*

@@ -1,13 +1,14 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Mella Dee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Sat, 5 Sept 2026.
 
-Mella Dee is a house and techno artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Saoirse, Reeshy and Samuel Deep. Next up: TBA, Brussels on Fri 11 Sept.
+Mella Dee is a house and techno artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 48 more. Often billed alongside Saoirse, Reeshy and Samuel Deep. Next up: Ministerium Club, Lisbon on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Ministerium Club | Lisbon |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Under The Arches | Leeds |
@@ -27,4 +28,4 @@ Mella Dee is a house and techno artist tracked on soundcheck, with 156 sets logg
 
 Saoirse, Reeshy, Samuel Deep
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

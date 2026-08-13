@@ -1,6 +1,6 @@
 # Cristobal ON
 
-Cristobal ON is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
+Cristobal ON is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
 
 Cristobal ON is a house and club artist based in Venezuela, tracked on soundcheck, with 13 sets logged across Miami. Often billed alongside demenz, Atomyard and DJ JAFA. Next up: Mad Radio Miami, Miami on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Cristobal ON is a house and club artist based in Venezuela, tracked on soundchec
 
 demenz, Atomyard, DJ JAFA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalon/)*

@@ -1,14 +1,15 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Venjent: USA + Canada Tour 2026" on Wed, 9 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Venjent: USA + Canada Tour 2026" on Wed, 9 Sept 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights, with line-ups including Grafix and Louie Vega. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upcoming nights, with line-ups including FAME LUST, Grafix and Louie Vega. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | Venjent: USA + Canada Tour 2026 |  |
+| Fri, 11 Sept 2026 | TEAR YOU APART [dark electronic / hell rave / devil disco] | FAME LUST |
 | Fri, 25 Sept 2026 | EYE |  |
 | Sat, 26 Sept 2026 | Ravefurrest x The Machine |  |
 | Sun, 4 Oct 2026 | Cortisa Star - For All The Dolls Tour |  |
@@ -20,4 +21,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 7 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

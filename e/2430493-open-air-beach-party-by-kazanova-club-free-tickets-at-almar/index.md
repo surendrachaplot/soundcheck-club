@@ -1,6 +1,6 @@
 # OPEN AIR BEACH PARTY by Kazanova Club [Free Tickets] at Almar Beach Club
 
-OPEN AIR BEACH PARTY by Kazanova Club [Free Tickets] at Almar Beach Club on Fri 28 Aug, Barcelona. 3 acts on the bill: Alphanova, Jo Kazan and SORIANO. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+OPEN AIR BEACH PARTY by Kazanova Club [Free Tickets] at Almar Beach Club on Fri 28 Aug, Barcelona. 4 acts on the bill: Alphanova, Javier Ferreira, Jo Kazan and SORIANO. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ OPEN AIR BEACH PARTY by Kazanova Club [Free Tickets] at Almar Beach Club on Fri 
 ## Line-up
 
 - Alphanova
+- Javier Ferreira
 - Jo Kazan
 - SORIANO
 

@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "KATZENGOLD AM DONNERSTAG MIT KOLLEKTIV GIGI" on Thu, 13 Aug 2026.
+Romantica is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "KATZENGOLD AM DONNERSTAG MIT KOLLEKTIV GIGI" on Thu, 13 Aug 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Alexander Maier, Femcat, GROOVESICK and Jorkes and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -18,4 +18,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

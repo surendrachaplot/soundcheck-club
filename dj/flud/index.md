@@ -1,8 +1,8 @@
 # Flud
 
-Flud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
+Flud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
 
-Flud is a house and deep house artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne and Sydney. Often billed alongside CAITY WATSON, DJ Relax and Don Chich. Next up: Angel Music Bar, Melbourne on Fri 28 Aug.
+Flud is a house and deep house artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne and Sydney. Often billed alongside Ewan Jansen, CAITY WATSON and DJ Relax. Next up: Angel Music Bar, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Flud is a house and deep house artist based in Australia, tracked on soundcheck,
 
 ## Shares bills with
 
-CAITY WATSON, DJ Relax, Don Chich
+Ewan Jansen, CAITY WATSON, DJ Relax
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flud/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flud/)*

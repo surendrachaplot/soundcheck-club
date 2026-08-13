@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Prove It All Night (Andrew VanWyngarden of MGMT), Arianna Danae b2b Sean Sato" on Fri, 14 Aug 2026.
+Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Prove It All Night (Andrew VanWyngarden of MGMT), Arianna Danae b2b Sean Sato" on Fri, 14 Aug 2026.
 
 Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 1morning, A lana, Alex McCracken and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

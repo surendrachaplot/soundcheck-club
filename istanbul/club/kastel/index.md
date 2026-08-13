@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Kastel RAVIN PRESENTS: ANIL VARDARELİ + GİZEM GÖKÇE b2b YUNUS SEZENER + many more" on Wed, 12 Aug 2026.
+Kastel is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Kastel #ROOFTOPSERIES: ORKUN BOZDEMİR + Doruk Guralp b2b TOLGA DUYAN + Mert Batigun + Ymir" on Fri, 14 Aug 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including BATU (TR), Benny Benassi, Doruk Guralp and Eren Yildiz and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with line-ups including BATU (TR), Benny Benassi, Doruk Guralp and Eren Yildiz and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Kastel RAVIN PRESENTS: ANIL VARDARELİ + GİZEM GÖKÇE b2b YUNUS SEZENER + many more |  |
 | Fri, 14 Aug 2026 | Kastel #ROOFTOPSERIES: ORKUN BOZDEMİR + Doruk Guralp b2b TOLGA DUYAN + Mert Batigun + Ymir | Doruk Guralp, Mert Batigun, Orkun Bozdemir, Ymir |
 | Sat, 15 Aug 2026 | Kastel #ROOFTOPSERIES: FAITH + Manendria + FROMHER + AYÇA YILDIZAY +AHMET HAKAN b2b ASYA | FAITH, Manendria |
 | Sat, 22 Aug 2026 | Kastel #ROOFTOPSERIES: Santiago Garcia + Volkan Gunduz + Manendria + FAITH | FAITH, Manendria, Santiago Garcia, Volkan Gunduz |
@@ -20,4 +19,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, wit
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

@@ -1,6 +1,6 @@
 # Bar do Netão
 
-Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Coletânea - Kauan Navarro, Denex, Tripmod, and Shey Guess" on Fri, 14 Aug 2026.
+Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Coletânea - Kauan Navarro, Denex, Tripmod, and Shey Guess" on Fri, 14 Aug 2026.
 
 Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights, with line-ups including Denex and Tripmod. Browse upcoming dates, start times and who's playing. Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil.
 
@@ -15,4 +15,4 @@ Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nigh
 
 Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil, Sao Paulo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*

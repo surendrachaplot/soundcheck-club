@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a Jungle and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
+Chedda Bred is a Jungle and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
 
 Chedda Bred is a jungle and uk funky artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside Chedda B, limi and BIG DRECO. Next up: Dalston Den, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chedda Bred is a jungle and uk funky artist tracked on soundcheck, with 19 sets 
 
 Chedda B, limi, BIG DRECO
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

@@ -1,6 +1,6 @@
 # K A I
 
-K A I is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
+K A I is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 K A I is a bass and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Bali, Barcelona, Bucharest and Liverpool and 5 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: Village Underground Barcelona, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ K A I is a bass and house artist based in United Kingdom, tracked on soundcheck,
 
 caro.aki, Civic Grief, Louis Shannon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*

@@ -1,17 +1,17 @@
-# Soap Seoul
+# Soap Seoul.
 
-Soap Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "WAV + GHETTO RAY: Bryson Hill" on Sun, 16 Aug 2026.
+Soap Seoul. is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "A-Trak AT SOAP" on Fri, 14 Aug 2026.
 
-Soap Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including DJ Co.kr, ANDOW, BILL.E and Bryson Hill. Browse upcoming dates, start times and who's playing. 132-3 Itaewon-dong, Yongsan-gu, Seoul, South Korea.
+Soap Seoul. is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including A-Trak and DJ POOL. Browse upcoming dates, start times and who's playing. B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | WAV + GHETTO RAY: Bryson Hill | ANDOW, BILL.E, Bryson Hill, DJ Co.kr |
+| Fri, 14 Aug 2026 | A-Trak AT SOAP | A-Trak, DJ POOL |
 
 ## Address
 
-132-3 Itaewon-dong, Yongsan-gu, Seoul, South Korea, Seoul
+B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/soap-seoul/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/soap-seoul/)*

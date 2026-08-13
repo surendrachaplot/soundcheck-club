@@ -1,8 +1,8 @@
 # ronch
 
-ronch is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
+ronch is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
 
-ronch is a techno and bass artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside MARCUS THE MARAUDER, Alex Moore and FXCKBOUT. Next up: Stage and Radio, Manchester on Sat 29 Aug.
+ronch is a techno and bass artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside MARCUS THE MARAUDER, Alex Moore and Egg On Toast. Next up: Stage and Radio, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ ronch is a techno and bass artist tracked on soundcheck, with 6 sets logged acro
 
 ## Shares bills with
 
-MARCUS THE MARAUDER, Alex Moore, FXCKBOUT
+MARCUS THE MARAUDER, Alex Moore, Egg On Toast
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*

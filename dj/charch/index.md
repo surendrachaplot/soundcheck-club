@@ -1,6 +1,6 @@
 # Charch
 
-Charch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Charch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Charch is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Budapest, Riga and Tallinn and 1 more. Often billed alongside Tanel Mütt, Micaela Saraceno and Arto. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Charch is a house and techno artist tracked on soundcheck, with 30 sets logged a
 
 Tanel Mütt, Micaela Saraceno, Arto
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charch/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charch/)*

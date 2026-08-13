@@ -1,14 +1,15 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
+DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
 
-DJ BORING is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Lofi, Amsterdam on Fri 14 Aug.
+DJ BORING is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Lofi, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Lofi | Amsterdam |
+| Sun, 6 Sept 2026 | Roberta's | New York City |
 | Fri, 11 Sept 2026 | Village Studios | Vancouver |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
@@ -30,4 +31,4 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 199 sets logg
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

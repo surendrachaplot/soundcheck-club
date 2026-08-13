@@ -1,6 +1,6 @@
 # Bruno Salfi
 
-Bruno Salfi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
+Bruno Salfi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
 
 Bruno Salfi is a techno and house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Pablo Lara and Ann García. Next up: Levu VIP, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bruno Salfi is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Magnolia Coronado, Pablo Lara, Ann García
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunosalfi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunosalfi/)*

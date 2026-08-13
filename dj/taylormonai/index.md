@@ -1,6 +1,6 @@
 # Taylor Monai
 
-Taylor Monai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at 215 W, Detroit on Fri, 14 Aug 2026.
+Taylor Monai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at 215 W, Detroit on Fri, 14 Aug 2026.
 
 Taylor Monai is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Detroit. Often billed alongside Stevano, Perish and Wax Assassin. Next up: 215 W, Detroit on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Taylor Monai is a techno and house artist based in United States of America, tra
 
 Stevano, Perish, Wax Assassin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylormonai/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylormonai/)*

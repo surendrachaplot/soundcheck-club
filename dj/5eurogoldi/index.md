@@ -1,6 +1,6 @@
 # 5euroGoldi
 
-5euroGoldi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
+5euroGoldi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
 
 5euroGoldi is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Cologne, Hamburg and Nantes. Often billed alongside CARGO (DE), DJ Local B and VIVUS. Next up: ://about blank, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 CARGO (DE), DJ Local B, VIVUS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*

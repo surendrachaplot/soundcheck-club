@@ -1,10 +1,10 @@
 # SPECTRUM SEQUENCE at Garage 442
 
-SPECTRUM SEQUENCE at Garage 442 on Thu 13 Aug, Barcelona. Club and Electronica. Preview the line-up and save it on soundcheck.
+SPECTRUM SEQUENCE at Garage 442 on Thu 20 Aug, Barcelona. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 13 Aug 2026 |
+| Date | Thu, 20 Aug 2026 |
 | Venue | Garage 442 |
 | City | Barcelona |
 

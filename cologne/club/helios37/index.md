@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "sacred Cologne" on Fri, 14 Aug 2026.
+Helios37 is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "sacred Cologne" on Fri, 14 Aug 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Aexhy, Bensonius, DJ Discostoff and DJ HÖRDE and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -19,4 +19,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
+cry$cross is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
 
 cry$cross is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Losangeles, Newyorkcity and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Jupiter Disco, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ cry$cross is a house and techno artist based in United States of America, tracke
 
 Swaya, BOJAQ, Daniro
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

@@ -1,8 +1,8 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Motion" on Sun, 16 Aug 2026.
+Aoyama Hachi is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Motion" on Sun, 16 Aug 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 雷庵(RYan), BUD (1), DJ SHINTARO and Fox (US) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 雷庵(RYan), BUD (1), DJ SHINTARO and Fox (US) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, 
 | Sun, 13 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Fri, 23 Oct 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
+| Sun, 8 Nov 2026 | Jazz'N'Bass -Drum'n'Bass174/87 | Kenta Tominaga, vinylDJ Eiji Takehana |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

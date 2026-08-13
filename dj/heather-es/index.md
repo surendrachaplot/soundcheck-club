@@ -1,6 +1,6 @@
 # Heather (ES)
 
-Heather (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at LAUT, Barcelona on Sat, 15 Aug 2026.
+Heather (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at LAUT, Barcelona on Sat, 15 Aug 2026.
 
 Heather (ES) is a house and techno artist tracked on soundcheck, with 18 sets logged across Barcelona. Often billed alongside pekkuliar, CMYK and DJ Gamba. Next up: LAUT, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Heather (ES) is a house and techno artist tracked on soundcheck, with 18 sets lo
 
 pekkuliar, CMYK, DJ Gamba
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heather-es/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heather-es/)*

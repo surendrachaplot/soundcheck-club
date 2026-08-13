@@ -1,6 +1,6 @@
 # Andy Stroble
 
-Andy Stroble is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Swig, Chicago on Thu, 13 Aug 2026.
+Andy Stroble is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Swig, Chicago on Thu, 13 Aug 2026.
 
 Andy Stroble is a techno and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago. Often billed alongside Duke Shin, RP Smack and Steve Noah. Next up: Swig, Chicago on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Andy Stroble is a techno and deep house artist based in United States of America
 
 Duke Shin, RP Smack, Steve Noah
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*

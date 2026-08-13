@@ -1,14 +1,15 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 16 Aug 2026.
+VÏVÏ is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 16 Aug 2026.
 
-VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 16 Aug.
+VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Sat, 29 Aug 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, w
 
 DØLLHAUS, FrEaKyNoRiKy, AYANA KOSHIBA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

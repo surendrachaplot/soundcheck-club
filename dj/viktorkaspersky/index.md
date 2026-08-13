@@ -1,6 +1,6 @@
 # Viktor Kaspersky
 
-Viktor Kaspersky is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+Viktor Kaspersky is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
 Viktor Kaspersky is a techno and electro artist tracked on soundcheck, with 3 sets logged across Riga. Often billed alongside Johnny Depo, A$PHYXXXÏA and Dmitry Puffin. Next up: Teritorija, Riga on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Viktor Kaspersky is a techno and electro artist tracked on soundcheck, with 3 se
 
 Johnny Depo, A$PHYXXXÏA, Dmitry Puffin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkaspersky/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkaspersky/)*

@@ -1,6 +1,6 @@
 # Noise Casino
 
-Noise Casino is a Breakbeat and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 22 Aug 2026.
+Noise Casino is a Breakbeat and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 22 Aug 2026.
 
 Noise Casino is a breakbeat and club artist based in Colombia, tracked on soundcheck, with 14 sets logged across Berlin and Prague. Often billed alongside Juana Valeria, SEPBTT and Trexeter. Next up: Ankali & Planeta Za, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Noise Casino is a breakbeat and club artist based in Colombia, tracked on soundc
 
 Juana Valeria, SEPBTT, Trexeter
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*

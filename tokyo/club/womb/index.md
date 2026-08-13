@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "WTW (MUSIC: TECH HOUSE)" on Wed, 12 Aug 2026.
+WOMB is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "RETURN" on Thu, 13 Aug 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AHREUM, AKIRAM EN, Ayana Pattra and Bundo and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AHREUM, AKIRAM EN, Ayana Pattra and Bundo and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | WTW (MUSIC: TECH HOUSE) | KATIMI AI, Ren Yokoi, TARO TOKO |
 | Thu, 13 Aug 2026 | RETURN | Louis Shannon, Rickey Shannon, YUXI |
 | Fri, 14 Aug 2026 | DISCOVER. TOKYO |  |
 | Sat, 15 Aug 2026 | WOMB PRESENTS DJ MARIA. -ALL NIGHT LONG- | Bundo, DJ MARIA., K.E.G, LØST, Sakuma, Yo Nishijima, imus |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with li
 | Fri, 21 Aug 2026 | RULER (HOUSE/HIP-HOP) | DJ Emma, RashBone, r1ku |
 | Tue, 25 Aug 2026 | ASIA TECH |  |
 | Thu, 27 Aug 2026 | WTW | CLESENT, Daitto |
+| Fri, 28 Aug 2026 | DISKO KLUBB × PUBLIC POSSESSION with Tornado Wallace | DiscCampForest, HIMAWARI, Monkey Timers, Tornado Wallace, YAMARCHY, YOSHIHAARAA, kengotaki |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Or:la is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: FOLD, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged a
 
 Amaliah, Pariah, Objekt
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

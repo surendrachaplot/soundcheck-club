@@ -1,6 +1,6 @@
 # IDB Rooftop by Mirari
 
-IDB Rooftop by Mirari is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Universal Housing with Violet, David J Amado, The Auragrio, Wugori and Big Ladam" on Fri, 14 Aug 2026.
+IDB Rooftop by Mirari is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Universal Housing with Violet, David J Amado, The Auragrio, Wugori and Big Ladam" on Fri, 14 Aug 2026.
 
 IDB Rooftop by Mirari is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Violet (PT). Browse upcoming dates, start times and who's playing. Praça José Queirós 1 1800-237 Lisbon.
 
@@ -14,4 +14,4 @@ IDB Rooftop by Mirari is a music venue in Lisbon listed on soundcheck. 1 upcomin
 
 Praça José Queirós 1 1800-237 Lisbon, Lisbon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/idb-rooftop-by-mirari/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/idb-rooftop-by-mirari/)*

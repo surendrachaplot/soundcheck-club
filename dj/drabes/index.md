@@ -1,6 +1,6 @@
 # Drabes
 
-Drabes is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
+Drabes is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
 
 Drabes is a house and disco artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Alec Dienaar. Next up: Noorderlicht Café, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Drabes is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 Midas Field, Bibi Seck, Alec Dienaar
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drabes/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drabes/)*

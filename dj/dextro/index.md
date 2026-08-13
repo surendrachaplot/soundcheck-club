@@ -1,6 +1,6 @@
 # Dextro
 
-Dextro is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Theatreship, London on Sat, 5 Sept 2026.
+Dextro is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Theatreship, London on Sat, 5 Sept 2026.
 
 Dextro is an electronica and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Lisbon, London, Newcastle and Vienna. Often billed alongside POTAITO, Cardao and DREYA. Next up: Theatreship, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Dextro is an electronica and techno artist based in United Kingdom, tracked on s
 
 POTAITO, Cardao, DREYA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dextro/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dextro/)*

@@ -1,6 +1,6 @@
 # Pol K
 
-Pol K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
+Pol K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Pol K is a house and deep house artist tracked on soundcheck, with 51 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Nuzzo, Carlos Vila and Hugo Martinez. Next up: Village Underground Barcelona, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pol K is a house and deep house artist tracked on soundcheck, with 51 sets logge
 
 Nuzzo, Carlos Vila, Hugo Martinez
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*

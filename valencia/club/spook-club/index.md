@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "DJ Sexstasy + Bicha + Biondo + Ariezzz & Oven Garden" on Sat, 15 Aug 2026.
+Spook Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DJ Sexstasy + Bicha + Biondo + Ariezzz & Oven Garden" on Sat, 15 Aug 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights, with line-ups including Aguirre, Aida Arko, Ariezzz and Biondo and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

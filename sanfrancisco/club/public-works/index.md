@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Shan Nash, Roderic presented by LUT Project and Safra" on Fri, 14 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Shan Nash, Roderic presented by LUT Project and Safra" on Fri, 14 Aug 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including 3kelves, Asymmetry, Benjamin K and Bianca Oblivion and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

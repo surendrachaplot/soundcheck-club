@@ -1,6 +1,6 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+Secret Cinema is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
 Secret Cinema is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 6 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Secret Cinema is a techno and house artist tracked on soundcheck, with 49 sets l
 
 ABOUT SOFIYA, Olympe, Benny Rodrigues
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*

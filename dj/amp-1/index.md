@@ -1,6 +1,6 @@
 # AMP (1)
 
-AMP (1) is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
+AMP (1) is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
 
 AMP (1) is a reggaeton and afrobeats artist tracked on soundcheck, with 2 sets logged across London and Sanfrancisco. Often billed alongside Baysik, Guapi and Jordan. Next up: Lightbox, London on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ AMP (1) is a reggaeton and afrobeats artist tracked on soundcheck, with 2 sets l
 
 Baysik, Guapi, Jordan
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amp-1/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amp-1/)*

@@ -1,6 +1,6 @@
 # James Taylor (AU)
 
-James Taylor (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Red Ruby, Bali on Sat, 15 Aug 2026.
+James Taylor (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Red Ruby, Bali on Sat, 15 Aug 2026.
 
 James Taylor (AU) is a house and techno artist tracked on soundcheck, with 110 sets logged across Bali, Hongkong and Kualalumpur. Often billed alongside Saul Bliss, Fran Tinez and Sergio Cucalon. Next up: Red Ruby, Bali on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ James Taylor (AU) is a house and techno artist tracked on soundcheck, with 110 s
 
 Saul Bliss, Fran Tinez, Sergio Cucalon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestaylor-au/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestaylor-au/)*

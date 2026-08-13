@@ -1,6 +1,6 @@
 # Sidestreet
 
-Sidestreet is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "ON UR BLOCK - SUMMER CLOSER" on Sun, 23 Aug 2026.
+Sidestreet is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "ON UR BLOCK - SUMMER'S NOT OVER" on Sun, 23 Aug 2026.
 
 Sidestreet is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including blkcory. Browse upcoming dates, start times and who's playing. 768 Dundas St W.
 
@@ -8,10 +8,10 @@ Sidestreet is a music venue in Toronto listed on soundcheck. 1 upcoming night, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | ON UR BLOCK - SUMMER CLOSER | blkcory |
+| Sun, 23 Aug 2026 | ON UR BLOCK - SUMMER'S NOT OVER | blkcory |
 
 ## Address
 
 768 Dundas St W, Toronto
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sidestreet/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sidestreet/)*

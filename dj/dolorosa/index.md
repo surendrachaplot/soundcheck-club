@@ -1,6 +1,6 @@
 # Dolorosa
 
-Dolorosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
+Dolorosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 13 Aug 2026.
 
 Dolorosa is a techno and electro artist tracked on soundcheck, with 13 sets logged across Austin, Barcelona, Berlin and London. Often billed alongside Ed Warner, DJ KILLING and Devesa. Next up: Sunseabar Beach Club, Barcelona on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Dolorosa is a techno and electro artist tracked on soundcheck, with 13 sets logg
 
 Ed Warner, DJ KILLING, Devesa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolorosa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolorosa/)*

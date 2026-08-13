@@ -1,6 +1,6 @@
 # Guild Navigator
 
-Guild Navigator is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Guild Navigator is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Guild Navigator is a trance and experimental artist based in Norway, tracked on soundcheck, with 7 sets logged across Amsterdam and Oslo. Often billed alongside Anémi, Komet99 and Brix. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Guild Navigator is a trance and experimental artist based in Norway, tracked on 
 
 Anémi, Komet99, Brix
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*

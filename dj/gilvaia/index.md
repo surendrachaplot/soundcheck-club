@@ -1,6 +1,6 @@
 # Gilvaia
 
-Gilvaia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Backyard, Lisbon on Sat, 15 Aug 2026.
+Gilvaia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Backyard, Lisbon on Sat, 15 Aug 2026.
 
 Gilvaia is a house and techno artist based in Portugal, tracked on soundcheck, with 37 sets logged across Lisbon. Often billed alongside DJ Nox, Syper and Analodjica. Next up: Backyard, Lisbon on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gilvaia is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 DJ Nox, Syper, Analodjica
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilvaia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilvaia/)*

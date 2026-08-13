@@ -1,6 +1,6 @@
 # Dying Light at TBA - Contact promoter for location
 
-Dying Light at TBA - Contact promoter for location on Mon 17 Aug, Newyorkcity. 1 act on the bill: vivaval. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Dying Light at TBA - Contact promoter for location on Mon 17 Aug, Newyorkcity. 1 act on the bill: vivaval. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bar Le Ritz PDB
 
-Bar Le Ritz PDB is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Discoteca Distópico" on Sat, 15 Aug 2026.
+Bar Le Ritz PDB is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Discoteca Distópico" on Sat, 15 Aug 2026.
 
 Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Bad Faith Actor, DJ_Dave, DJ InYourFace and Dj Sarcastic and 2 more. Browse upcoming dates, start times and who's playing. 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2.
 
@@ -20,4 +20,4 @@ Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 7 upcoming ni
 
 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2, Montreal
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*

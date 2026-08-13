@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
+SHEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
 
 SHEE is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Belfast, Berlin and Brighton and 17 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: LDN East, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ SHEE is a house and techno artist tracked on soundcheck, with 51 sets logged acr
 
 Prospa, salute, DJ Heartstring
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

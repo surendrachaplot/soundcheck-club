@@ -1,6 +1,6 @@
 # Dolu
 
-Dolu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jasna 1, Warsaw on Sat, 15 Aug 2026.
+Dolu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jasna 1, Warsaw on Sat, 15 Aug 2026.
 
 Dolu is a trance and techno artist based in Ukraine, tracked on soundcheck, with 43 sets logged across Berlin, Copenhagen, Krakow and Prague and 1 more. Often billed alongside Dima Kachan, Syrphin and SDS (2). Next up: Jasna 1, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dolu is a trance and techno artist based in Ukraine, tracked on soundcheck, with
 
 Dima Kachan, Syrphin, SDS (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolu/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolu/)*

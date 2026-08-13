@@ -1,6 +1,6 @@
 # Thomas MacMillan
 
-Thomas MacMillan is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Galerie Zeitzone, Berlin on Fri, 14 Aug 2026.
+Thomas MacMillan is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Galerie Zeitzone, Berlin on Fri, 14 Aug 2026.
 
 Thomas MacMillan is an ambient and classical artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Next up: Galerie Zeitzone, Berlin on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ Thomas MacMillan is an ambient and classical artist based in Germany, tracked on
 
 - Cafe Karanfil, Berlin — Fri, 17 Jul 2026
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmacmillan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmacmillan/)*

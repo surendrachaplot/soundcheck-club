@@ -1,6 +1,6 @@
 # ALLKNIGHT
 
-ALLKNIGHT is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
+ALLKNIGHT is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
 
 ALLKNIGHT is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, London, Manchester and Newyorkcity and 1 more. Often billed alongside Estiva, MXV (UK) and Fejká. Next up: E1, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ALLKNIGHT is a progressive house and house artist based in United Kingdom, track
 
 Estiva, MXV (UK), Fejká
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*

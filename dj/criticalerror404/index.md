@@ -1,6 +1,6 @@
 # CRITICAL ERROR 404
 
-CRITICAL ERROR 404 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Fundbureau, Hamburg on Sat, 15 Aug 2026.
+CRITICAL ERROR 404 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fundbureau, Hamburg on Sat, 15 Aug 2026.
 
 CRITICAL ERROR 404 is a techno and trance artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Atzendent, DJ Achim Feuervogel and HugoBass303. Next up: Fundbureau, Hamburg on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ CRITICAL ERROR 404 is a techno and trance artist tracked on soundcheck, with 41 
 
 Atzendent, DJ Achim Feuervogel, HugoBass303
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalerror404/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalerror404/)*

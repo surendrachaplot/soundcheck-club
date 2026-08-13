@@ -1,6 +1,6 @@
 # Dweezyd
 
-Dweezyd is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
+Dweezyd is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
 
 Dweezyd is a house and amapiano artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Braindead, Don Major and Eeks. Next up: Protocol, London on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Dweezyd is a house and amapiano artist based in United Kingdom, tracked on sound
 
 Braindead, Don Major, Eeks
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dweezyd/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dweezyd/)*

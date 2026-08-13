@@ -1,8 +1,8 @@
 # Daviti
 
-Daviti is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
+Daviti is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
 
-Daviti is a tech house and techno artist based in Georgia, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside UniKhatu, Ghongg and James Cherry. Next up: Sensorium, Berlin on Fri 21 Aug.
+Daviti is a tech house and techno artist based in Georgia, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside UniKhatu, Bee Lincoln and Ghongg. Next up: Sensorium, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Daviti is a tech house and techno artist based in Georgia, tracked on soundcheck
 
 ## Shares bills with
 
-UniKhatu, Ghongg, James Cherry
+UniKhatu, Bee Lincoln, Ghongg
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviti/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviti/)*

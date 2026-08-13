@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Thomas Melchior is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Thomas Melchior is a house and techno artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Thomas Melchior is a house and techno artist based in Germany, tracked on soundc
 
 Edward, Lawrence, Konstantin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

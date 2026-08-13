@@ -1,6 +1,6 @@
 # Music Bar NOVE
 
-Music Bar NOVE is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "TECHNO BRAKE" on Fri, 21 Aug 2026.
+Music Bar NOVE is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "TECHNO BRAKE" on Fri, 21 Aug 2026.
 
 Music Bar NOVE is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including HIROAKI WADA. Browse upcoming dates, start times and who's playing. 〒106-0032 Tokyo, Minato City, Roppongi, 7 Chome−5−11 B1.
 
@@ -14,4 +14,4 @@ Music Bar NOVE is a music venue in Tokyo listed on soundcheck. 1 upcoming night,
 
 〒106-0032 Tokyo, Minato City, Roppongi, 7 Chome−5−11 B1, Tokyo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-nove/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-nove/)*

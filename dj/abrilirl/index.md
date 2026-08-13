@@ -1,6 +1,6 @@
 # Abril IRL
 
-Abril IRL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Lella Alimentari, New York City on Fri, 14 Aug 2026.
+Abril IRL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Lella Alimentari, New York City on Fri, 14 Aug 2026.
 
 Abril IRL is a house and garage artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside LoKho, ALEX PAN and Scribble. Next up: TBA - Lella Alimentari, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Abril IRL is a house and garage artist tracked on soundcheck, with 9 sets logged
 
 LoKho, ALEX PAN, Scribble
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrilirl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrilirl/)*

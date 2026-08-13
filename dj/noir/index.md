@@ -1,6 +1,6 @@
 # Noir
 
-Noir is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+Noir is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 Noir is a drum & bass and grime artist based in Denmark, tracked on soundcheck, with 8 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 2 more. Often billed alongside SKYWALKER (US), Tempo and A.M.C.. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Noir is a drum & bass and grime artist based in Denmark, tracked on soundcheck, 
 
 SKYWALKER (US), Tempo, A.M.C.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noir/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noir/)*

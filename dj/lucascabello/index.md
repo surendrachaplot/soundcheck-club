@@ -1,13 +1,14 @@
 # Lucas Cabello
 
-Lucas Cabello is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Barraca, Valencia on Sat, 3 Oct 2026.
+Lucas Cabello is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Barraca, Valencia on Sat, 5 Sept 2026.
 
-Lucas Cabello is a techno and industrial artist based in Spain, tracked on soundcheck, with 20 sets logged across Madrid and Valencia. Often billed alongside Domen, Sou Allen and Rafa Siles. Next up: Barraca, Valencia on Sat 3 Oct.
+Lucas Cabello is a techno and industrial artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid and Valencia. Often billed alongside Domen, Sou Allen and Rafa Siles. Next up: Barraca, Valencia on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Barraca | Valencia |
 | Sat, 3 Oct 2026 | Barraca | Valencia |
 | Sat, 24 Oct 2026 | Barraca | Valencia |
 
@@ -26,4 +27,4 @@ Lucas Cabello is a techno and industrial artist based in Spain, tracked on sound
 
 Domen, Sou Allen, Rafa Siles
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucascabello/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucascabello/)*

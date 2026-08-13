@@ -1,14 +1,13 @@
 # Rivellino
 
-Rivellino is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 12 Aug 2026.
+Rivellino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 23 Aug 2026.
 
-Rivellino is a techno and house artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside Andrea Castells, Ivan Pugliares and Saulo Pisa. Next up: Ku Barcelona, Barcelona on Wed 12 Aug.
+Rivellino is a techno and house artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside Andrea Castells, Ivan Pugliares and Saulo Pisa. Next up: Ku Barcelona, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Ku Barcelona | Barcelona |
 | Sun, 23 Aug 2026 | Ku Barcelona | Barcelona |
 | Sun, 30 Aug 2026 | Cova Santa | Ibiza |
 | Thu, 10 Sept 2026 | Sunseabar Beach Club | Barcelona |
@@ -16,6 +15,7 @@ Rivellino is a techno and house artist tracked on soundcheck, with 75 sets logge
 
 ## Recently played
 
+- Ku Barcelona, Barcelona — Wed, 12 Aug 2026
 - Ku Barcelona, Barcelona — Wed, 29 Jul 2026
 - Ku Barcelona, Barcelona — Wed, 22 Jul 2026
 - Ku Barcelona, Barcelona — Wed, 8 Jul 2026
@@ -23,10 +23,9 @@ Rivellino is a techno and house artist tracked on soundcheck, with 75 sets logge
 - Ku Barcelona, Barcelona — Wed, 1 Jul 2026
 - Sunseabar Beach Club, Barcelona — Sun, 28 Jun 2026
 - Ku Barcelona, Barcelona — Thu, 18 Jun 2026
-- Ku Barcelona, Barcelona — Sun, 10 May 2026
 
 ## Shares bills with
 
 Andrea Castells, Ivan Pugliares, Saulo Pisa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*

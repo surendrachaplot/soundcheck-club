@@ -1,6 +1,6 @@
 # Dr. Berry
 
-Dr. Berry is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - SECRET LOCATION, Belfast on Fri, 14 Aug 2026.
+Dr. Berry is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - SECRET LOCATION, Belfast on Fri, 14 Aug 2026.
 
 Dr. Berry is a trance and techno artist based in Ireland, tracked on soundcheck, with 4 sets logged across Belfast. Often billed alongside Katiee.eem, Popper Cherry and T4T B2B. Next up: TBA - SECRET LOCATION, Belfast on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Dr. Berry is a trance and techno artist based in Ireland, tracked on soundcheck,
 
 Katiee.eem, Popper Cherry, T4T B2B
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.berry/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.berry/)*

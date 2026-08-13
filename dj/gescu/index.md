@@ -1,6 +1,6 @@
 # Gescu
 
-Gescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
+Gescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
 
 Gescu is a minimal and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Brussels and 18 more. Often billed alongside CEZAR, Arapu and BILA. Next up: Seaseaclub Barcelona, Barcelona on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gescu is a minimal and house artist tracked on soundcheck, with 68 sets logged a
 
 CEZAR, Arapu, BILA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*

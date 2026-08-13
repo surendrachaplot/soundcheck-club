@@ -1,13 +1,14 @@
 # Maribou State
 
-Maribou State is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
+Maribou State is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
 
-Maribou State is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Chris Stussy, Adam Ten and Blawan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 11 Sept.
+Maribou State is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Chris Stussy, Adam Ten and Blawan. Next up: Valby Parken, Copenhagen on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Valby Parken | Copenhagen |
 | Fri, 11 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maribou State is a house and techno artist based in United Kingdom, tracked on s
 
 Chris Stussy, Adam Ten, Blawan
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

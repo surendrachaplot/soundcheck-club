@@ -1,6 +1,6 @@
 # Particle (1)
 
-Particle (1) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Particle (1) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Particle (1) is a drum & bass and jungle artist tracked on soundcheck, with 34 sets logged across Auckland, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Jakes, SP:MC and Enei. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Particle (1) is a drum & bass and jungle artist tracked on soundcheck, with 34 s
 
 Jakes, SP:MC, Enei
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particle-1/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particle-1/)*

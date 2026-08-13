@@ -1,6 +1,6 @@
 # AROHA
 
-AROHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 15 Aug 2026.
+AROHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 15 Aug 2026.
 
 AROHA is a house and techno artist based in New Zealand, tracked on soundcheck, with 11 sets logged across Auckland, London, Melbourne and Singapore and 1 more. Often billed alongside Mike Callander, Out Of Sorts and 2ManyDJs. Next up: Collingwood Basement, Melbourne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ AROHA is a house and techno artist based in New Zealand, tracked on soundcheck, 
 
 Mike Callander, Out Of Sorts, 2ManyDJs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*

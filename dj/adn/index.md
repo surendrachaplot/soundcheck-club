@@ -1,6 +1,6 @@
 # ad*n
 
-ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
 ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Mylania and Petz. Next up: Distrikt, Leeds on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Impulse Tracker, Mylania, Petz
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*

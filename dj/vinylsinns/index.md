@@ -1,6 +1,6 @@
 # Vinyl Sinns
 
-Vinyl Sinns is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Whammy Bar, Auckland on Fri, 14 Aug 2026.
+Vinyl Sinns is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Whammy Bar, Auckland on Fri, 14 Aug 2026.
 
 Vinyl Sinns is a techno and acid artist tracked on soundcheck, with 9 sets logged across Auckland and Osaka. Often billed alongside Catty_slug, Ayako Mori and FENGX2. Next up: Whammy Bar, Auckland on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Vinyl Sinns is a techno and acid artist tracked on soundcheck, with 9 sets logge
 
 Catty_slug, Ayako Mori, FENGX2
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylsinns/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylsinns/)*

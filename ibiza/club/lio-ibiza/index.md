@@ -1,14 +1,13 @@
 # Lio Ibiza
 
-Lio Ibiza is a music venue in Ibiza with 45 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Toy Room" on Wed, 12 Aug 2026.
+Lio Ibiza is a music venue in Ibiza with 44 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Tiempo" on Thu, 13 Aug 2026.
 
-Lio Ibiza is a music venue in Ibiza listed on soundcheck. 45 upcoming nights. Browse upcoming dates, start times and who's playing. Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España.
+Lio Ibiza is a music venue in Ibiza listed on soundcheck. 44 upcoming nights. Browse upcoming dates, start times and who's playing. Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Toy Room |  |
 | Thu, 13 Aug 2026 | Tiempo |  |
 | Fri, 14 Aug 2026 | Vintage |  |
 | Sat, 15 Aug 2026 | KŌDŌ |  |
@@ -18,9 +17,10 @@ Lio Ibiza is a music venue in Ibiza listed on soundcheck. 45 upcoming nights. Br
 | Wed, 19 Aug 2026 | Toy Room |  |
 | Thu, 20 Aug 2026 | Tiempo |  |
 | Fri, 21 Aug 2026 | Vintage |  |
+| Sat, 22 Aug 2026 | KŌDŌ |  |
 
 ## Address
 
 Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*

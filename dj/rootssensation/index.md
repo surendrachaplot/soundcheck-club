@@ -1,8 +1,8 @@
 # Roots Sensation
 
-Roots Sensation is a Dub and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery N17, London on Fri, 6 Nov 2026.
+Roots Sensation is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Distillery N17, London on Fri, 6 Nov 2026.
 
-Roots Sensation is a dub and dub techno artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Vedic Roots. Next up: Distillery N17, London on Fri 6 Nov.
+Roots Sensation is a dub and bass artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Vedic Roots. Next up: Distillery N17, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Roots Sensation is a dub and dub techno artist tracked on soundcheck, with 4 set
 
 Vedic Roots
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rootssensation/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rootssensation/)*

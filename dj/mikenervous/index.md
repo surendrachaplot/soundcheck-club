@@ -1,6 +1,6 @@
 # Mike Nervous
 
-Mike Nervous is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
+Mike Nervous is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
 
 Mike Nervous is a house and afro house artist tracked on soundcheck, with 42 sets logged across Berlin, Detroit, Ibiza and Miami and 3 more. Often billed alongside Benny Soto, Lazaro Casanova and Oscar G. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Mike Nervous is a house and afro house artist tracked on soundcheck, with 42 set
 
 Benny Soto, Lazaro Casanova, Oscar G
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

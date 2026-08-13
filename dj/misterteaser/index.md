@@ -1,6 +1,6 @@
 # Mister Teaser
 
-Mister Teaser is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ferro Bar, Porto on Fri, 2 Oct 2026.
+Mister Teaser is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ferro Bar, Porto on Fri, 2 Oct 2026.
 
 Mister Teaser is an electronica and electro artist based in Portugal, tracked on soundcheck, with 120 sets logged across Athens, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Francis Canadas, Boogaloo Steve and Chris Video. Next up: Ferro Bar, Porto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mister Teaser is an electronica and electro artist based in Portugal, tracked on
 
 Francis Canadas, Boogaloo Steve, Chris Video
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterteaser/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterteaser/)*

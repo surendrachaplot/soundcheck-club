@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Breezy S + Egyptian Greyhound" on Fri, 14 Aug 2026.
+LAUT is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Breezy S + Egyptian Greyhound" on Fri, 14 Aug 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alderaan, Aura Nox, Breezy S and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -21,4 +21,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

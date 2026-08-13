@@ -1,6 +1,6 @@
 # branqueeno
 
-branqueeno is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
+branqueeno is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
 
 branqueeno is a house and tech house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Remniqe, Bustin' Loose and E-Mood. Next up: Ciao Ciao, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ branqueeno is a house and tech house artist based in United States of America, t
 
 Remniqe, Bustin' Loose, E-Mood
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*

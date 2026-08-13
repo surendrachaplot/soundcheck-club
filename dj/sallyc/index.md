@@ -1,14 +1,13 @@
 # Sally C
 
-Sally C is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sally C is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 14 Aug 2026.
 
-Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Hï Ibiza, Ibiza on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
@@ -21,6 +20,7 @@ Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Radio Radio, Amsterdam — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
@@ -28,10 +28,9 @@ Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged
 - Bassiani, Tbilisi — Sat, 4 Jul 2026
 - CLUB RAUM, Amsterdam — Sat, 27 Jun 2026
 - [UNVRS], Ibiza — Mon, 8 Jun 2026
-- Zuiderpark, The Hague — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

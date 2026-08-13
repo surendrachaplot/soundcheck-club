@@ -1,6 +1,6 @@
 # Lake Haze
 
-Lake Haze is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
+Lake Haze is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
 
 Lake Haze is an electro and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, London and Manchester and 3 more. Often billed alongside Catarina Silva, Photonz and AlFaer. Next up: Casa Capitão, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lake Haze is an electro and techno artist tracked on soundcheck, with 23 sets lo
 
 Catarina Silva, Photonz, AlFaer
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*

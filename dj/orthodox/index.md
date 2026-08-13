@@ -1,6 +1,6 @@
 # Orthodox
 
-Orthodox is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
+Orthodox is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
 
 Orthodox is a techno and experimental artist based in Latvia, tracked on soundcheck, with 17 sets logged across Berlin, Glasgow and Riga. Often billed alongside Taiga (LV), Existal and privatazona. Next up: Laska V21, Riga on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Orthodox is a techno and experimental artist based in Latvia, tracked on soundch
 
 Taiga (LV), Existal, privatazona
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orthodox/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orthodox/)*

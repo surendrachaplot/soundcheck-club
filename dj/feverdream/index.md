@@ -1,6 +1,6 @@
 # Fever Dream
 
-Fever Dream is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Die Rakete, Nürnberg on Fri, 14 Aug 2026.
+Fever Dream is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Die Rakete, Nürnberg on Fri, 14 Aug 2026.
 
 Fever Dream is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity, Nurnberg and Stuttgart. Often billed alongside Pleasure Jams, ANDATA and Speckled Egg. Next up: Die Rakete, Nurnberg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Fever Dream is a house and techno artist based in United States of America, trac
 
 Pleasure Jams, ANDATA, Speckled Egg
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feverdream/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feverdream/)*

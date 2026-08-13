@@ -1,6 +1,6 @@
 # Boardner's by La Belle
 
-Boardner's by La Belle is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Scummy Bears & Darksiderz present Bear Sinister III feat. VAMPA" on Sat, 10 Oct 2026.
+Boardner's by La Belle is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Scummy Bears & Darksiderz present Bear Sinister III feat. VAMPA" on Sat, 10 Oct 2026.
 
 Boardner's by La Belle is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1652 N. Cherokee Ave, Hollywood, CA 90028.
 
@@ -14,4 +14,4 @@ Boardner's by La Belle is a music venue in Losangeles listed on soundcheck. 1 up
 
 1652 N. Cherokee Ave, Hollywood, CA 90028, Los Angeles
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/boardner-s-by-la-belle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/boardner-s-by-la-belle/)*

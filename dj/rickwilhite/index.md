@@ -1,6 +1,6 @@
 # Rick Wilhite
 
-Rick Wilhite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
+Rick Wilhite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
 
 Rick Wilhite is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Chicago, Detroit and Melbourne and 3 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Nowadays, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rick Wilhite is a house and techno artist based in United States of America, tra
 
 Delano Smith, Bruce Bailey, Jesse Cory
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*

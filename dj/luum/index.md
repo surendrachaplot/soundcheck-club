@@ -1,6 +1,6 @@
 # Luum
 
-Luum is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Statera Cellars, Portland on Sat, 15 Aug 2026.
+Luum is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Statera Cellars, Portland on Sat, 15 Aug 2026.
 
 Luum is a house and balearic artist tracked on soundcheck, with 25 sets logged across Melbourne, Mexicocity, Portland and Vancouver. Often billed alongside SYMCTY., Batom and Break Mode. Next up: Statera Cellars, Portland on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Luum is a house and balearic artist tracked on soundcheck, with 25 sets logged a
 
 SYMCTY., Batom, Break Mode
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luum/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luum/)*

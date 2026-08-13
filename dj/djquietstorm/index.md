@@ -1,6 +1,6 @@
 # DJ Quietstorm
 
-DJ Quietstorm is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at BAR Inc, Osaka on Sat, 29 Aug 2026.
+DJ Quietstorm is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at BAR Inc, Osaka on Sat, 29 Aug 2026.
 
 DJ Quietstorm is a hip-hop and house artist based in Japan, tracked on soundcheck, with 51 sets logged across Osaka and Tokyo. Often billed alongside DJ Krush, Jomo and Black Mood. Next up: BAR Inc, Osaka on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Quietstorm is a hip-hop and house artist based in Japan, tracked on soundchec
 
 DJ Krush, Jomo, Black Mood
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djquietstorm/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djquietstorm/)*

@@ -1,14 +1,15 @@
 # 1client
 
-1client is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 28 Aug 2026.
+1client is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 28 Aug 2026.
 
-1client is a techno and house artist based in France, tracked on soundcheck, with 17 sets logged across Lyon and Strasbourg. Often billed alongside Makar, Pacôme Orzi and wilt. Next up: Karmen Camina, Strasbourg on Fri 28 Aug.
+1client is a techno and house artist based in France, tracked on soundcheck, with 18 sets logged across Lyon and Strasbourg. Often billed alongside Makar, Pacôme Orzi and wilt. Next up: Karmen Camina, Strasbourg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Karmen Camina | Strasbourg |
+| Thu, 3 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Makar, Pacôme Orzi, wilt
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1client/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1client/)*

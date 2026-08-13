@@ -1,6 +1,6 @@
 # kentaraw
 
-kentaraw is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
+kentaraw is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
 
 kentaraw is a house and minimal artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside yoshiken, yyshuu and Akarsh. Next up: Oath, Tokyo on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ kentaraw is a house and minimal artist tracked on soundcheck, with 3 sets logged
 
 yoshiken, yyshuu, Akarsh
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*

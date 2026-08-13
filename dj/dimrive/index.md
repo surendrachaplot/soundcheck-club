@@ -1,6 +1,6 @@
 # Dim Rive
 
-Dim Rive is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mastak, Warsaw on Fri, 14 Aug 2026.
+Dim Rive is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mastak, Warsaw on Fri, 14 Aug 2026.
 
 Dim Rive is a techno artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Salat, Slowmode and koktelbel. Next up: Mastak, Warsaw on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Dim Rive is a techno artist based in Poland, tracked on soundcheck, with 4 sets 
 
 Salat, Slowmode, koktelbel
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimrive/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimrive/)*

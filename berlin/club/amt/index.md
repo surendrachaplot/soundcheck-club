@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "AMT x Moritz Biebl invites:" on Sat, 15 Aug 2026.
+AMT is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "AMT x Moritz Biebl invites:" on Sat, 15 Aug 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 131bpm, Alma Negrot, ALP (DE) and ALVA (FR) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ AMT is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with lin
 | Fri, 16 Oct 2026 | CLASH |  |
 | Fri, 16 Oct 2026 | CLASH |  |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

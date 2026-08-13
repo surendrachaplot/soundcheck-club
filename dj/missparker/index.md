@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
+Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
 
 Miss Parker is a techno and house artist tracked on soundcheck, with 123 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: Paragon, Newyorkcity on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 123 sets lo
 
 Devoye, DJ Thank You, Princess Peggie
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

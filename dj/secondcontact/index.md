@@ -1,6 +1,6 @@
 # Second Contact
 
-Second Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
+Second Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
 
 Second Contact is a house and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Dusseldorf, Mexicocity and Newyorkcity and 3 more. Often billed alongside Amelia Holt, 98dots and Elena Colombi. Next up: Good Room, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Second Contact is a house and techno artist tracked on soundcheck, with 51 sets 
 
 Amelia Holt, 98dots, Elena Colombi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*

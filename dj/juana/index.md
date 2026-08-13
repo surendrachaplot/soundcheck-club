@@ -1,8 +1,8 @@
 # Juana
 
-Juana is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Podlasie Club, Chicago on Sat, 29 Aug 2026.
+Juana is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Podlasie Club, Chicago on Sat, 29 Aug 2026.
 
-Juana is a techno and house artist tracked on soundcheck, with 119 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Concrete Husband and Volvox. Next up: Podlasie Club, Chicago on Sat 29 Aug.
+Juana is a techno and house artist tracked on soundcheck, with 120 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: Podlasie Club, Chicago on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Juana is a techno and house artist tracked on soundcheck, with 119 sets logged a
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Podlasie Club | Chicago |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
+| Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Sat, 19 Sept 2026 | Bastet | Philadelphia |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 
@@ -26,6 +27,6 @@ Juana is a techno and house artist tracked on soundcheck, with 119 sets logged a
 
 ## Shares bills with
 
-Ne/Re/A, Concrete Husband, Volvox
+Ne/Re/A, Auspex, Concrete Husband
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

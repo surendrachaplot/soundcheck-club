@@ -1,6 +1,6 @@
 # VLNRBLE
 
-VLNRBLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
+VLNRBLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
 
 VLNRBLE is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside I's (US), Talk Shivi and badapples. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ VLNRBLE is a house and techno artist based in United States of America, tracked 
 
 I's (US), Talk Shivi, badapples
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlnrble/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlnrble/)*

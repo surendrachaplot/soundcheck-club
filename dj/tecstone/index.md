@@ -1,6 +1,6 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at White Space Lab, Tokyo on Fri, 14 Aug 2026.
+TECSTONE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at White Space Lab, Tokyo on Fri, 14 Aug 2026.
 
 TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: White Space Lab, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 SIGNAL (JP), ALLY, Krankent
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*

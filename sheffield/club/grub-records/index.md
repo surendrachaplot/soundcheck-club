@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Attention to Detail presented by Glass Half Full" on Fri, 14 Aug 2026.
+Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Attention to Detail presented by Glass Half Full" on Fri, 14 Aug 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -16,4 +16,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

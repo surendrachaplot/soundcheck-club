@@ -1,6 +1,6 @@
 # Tenishia
 
-Tenishia is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Teatru Blue Arena, Malta on Sun, 30 Aug 2026.
+Tenishia is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Teatru Blue Arena, Malta on Sun, 30 Aug 2026.
 
 Tenishia is a progressive house and techno artist based in Malta, tracked on soundcheck, with 7 sets logged across London and Malta. Often billed alongside @Factor B, Agnelli & Nelson and Aly & Fila. Next up: Teatru Blue Arena, Malta on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ Tenishia is a progressive house and techno artist based in Malta, tracked on sou
 
 @Factor B, Agnelli & Nelson, Aly & Fila
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenishia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenishia/)*

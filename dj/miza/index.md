@@ -1,6 +1,6 @@
 # Miza
 
-Miza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
+Miza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
 
 Miza is a techno and trance artist based in Australia, tracked on soundcheck, with 12 sets logged across Melbourne, Nantes and Paris. Often billed alongside Bones 33, BETÏSES and Britney Speed. Next up: Kilomètre25, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Miza is a techno and trance artist based in Australia, tracked on soundcheck, wi
 
 Bones 33, BETÏSES, Britney Speed
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miza/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miza/)*

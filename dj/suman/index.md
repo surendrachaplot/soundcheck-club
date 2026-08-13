@@ -1,6 +1,6 @@
 # Suman
 
-Suman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Faust, Seoul on Sun, 16 Aug 2026.
+Suman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Faust, Seoul on Sun, 16 Aug 2026.
 
 Suman is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam and Seoul. Often billed alongside Marcus L, Joon Kwak and DAMIE (KR). Next up: Faust, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Suman is a techno and house artist tracked on soundcheck, with 112 sets logged a
 
 Marcus L, Joon Kwak, DAMIE (KR)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suman/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suman/)*

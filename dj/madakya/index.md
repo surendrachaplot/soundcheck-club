@@ -1,6 +1,6 @@
 # MADAKYA
 
-MADAKYA is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 14 Aug 2026.
+MADAKYA is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 14 Aug 2026.
 
 MADAKYA is an experimental and bass artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ Trade Trainer, Alada and Gadutra. Next up: arkaoda Berlin, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ MADAKYA is an experimental and bass artist based in Germany, tracked on soundche
 
 DJ Trade Trainer, Alada, Gadutra
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*

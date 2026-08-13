@@ -1,14 +1,15 @@
 # Nathalie Seres
 
-Nathalie Seres is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+Nathalie Seres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
-Nathalie Seres is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Steffi, Adiel and Answer Code Request. Next up: Lofi, Amsterdam on Sat 29 Aug.
+Nathalie Seres is a house and techno artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Steffi, Adiel and Answer Code Request. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Lofi | Amsterdam |
+| Sat, 5 Sept 2026 | Printhouse | Munich |
 | Sat, 19 Sept 2026 | TBA - Secret Villa  | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Nathalie Seres is a techno and house artist based in Germany, tracked on soundch
 
 Steffi, Adiel, Answer Code Request
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

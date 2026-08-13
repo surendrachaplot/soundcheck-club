@@ -1,6 +1,6 @@
 # Chenzo
 
-Chenzo is a Drum & Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+Chenzo is a Drum & Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 Chenzo is a drum & bass and club artist tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Cologne and Dundee and 3 more. Often billed alongside Mylo Harvey, Acuña Collective and Kojay. Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Chenzo is a drum & bass and club artist tracked on soundcheck, with 15 sets logg
 
 Mylo Harvey, Acuña Collective, Kojay
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chenzo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chenzo/)*

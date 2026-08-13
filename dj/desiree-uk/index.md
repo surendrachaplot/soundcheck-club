@@ -1,8 +1,8 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+Desiree' is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
 
-Desiree' is a techno and electro artist tracked on soundcheck, with 48 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: The Glove That Fits, London on Sun 20 Sept.
+Desiree' is a techno and electro artist tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: The Glove That Fits, London on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 48 sets logg
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
 | Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
+| Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 48 sets logg
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

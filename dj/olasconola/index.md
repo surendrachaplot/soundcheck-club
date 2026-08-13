@@ -1,6 +1,6 @@
 # olasconola
 
-olasconola is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Little Jerry, Toronto on Thu, 13 Aug 2026.
+olasconola is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Little Jerry, Toronto on Thu, 13 Aug 2026.
 
 olasconola is a funk / soul and experimental artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Anzola, Carlos Estebban and Critter. Next up: The Little Jerry, Toronto on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ olasconola is a funk / soul and experimental artist based in Canada, tracked on 
 
 Anzola, Carlos Estebban, Critter
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*

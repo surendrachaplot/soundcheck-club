@@ -1,14 +1,15 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
+Peverelist is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
 
-Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and Al Wootton. Next up: The Old Blue Last, London on Fri 4 Sept.
+Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and Abena. Next up: The Old Blue Last, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Old Blue Last | London |
+| Fri, 6 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Peverelist is a techno and bass artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Hodge, Livity Sound, Al Wootton
+Hodge, Livity Sound, Abena
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

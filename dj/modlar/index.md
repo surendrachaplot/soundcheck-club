@@ -1,6 +1,6 @@
 # Modlar
 
-Modlar is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+Modlar is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
 Modlar is a techno artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside DELARA, CITYTRONIX and SBBS. Next up: Sui Generis, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Modlar is a techno artist tracked on soundcheck, with 26 sets logged across Lond
 
 DELARA, CITYTRONIX, SBBS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

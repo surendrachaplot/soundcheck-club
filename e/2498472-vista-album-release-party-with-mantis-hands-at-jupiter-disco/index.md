@@ -1,6 +1,6 @@
 # VISTA Album Release Party with Mantis Hands at Jupiter Disco
 
-VISTA Album Release Party with Mantis Hands at Jupiter Disco on Thu 20 Aug, Newyorkcity. 1 act on the bill: Mantis Hands. Preview the line-up and save it on soundcheck.
+VISTA Album Release Party with Mantis Hands at Jupiter Disco on Thu 20 Aug, Newyorkcity. 3 acts on the bill: Mantis Hands, Nicolò Bernardi and selacuna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ VISTA Album Release Party with Mantis Hands at Jupiter Disco on Thu 20 Aug, Newy
 ## Line-up
 
 - Mantis Hands
+- Nicolò Bernardi
+- selacuna
 
 *Source: [soundcheck](https://soundcheck.club/e/2498472-vista-album-release-party-with-mantis-hands-at-jupiter-disco/)*

@@ -1,6 +1,6 @@
 # Meggy
 
-Meggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
+Meggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
 
 Meggy is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Thabo, Thalo Santana and Black Loops. Next up: Golden Gate, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Meggy is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Thabo, Thalo Santana, Black Loops
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meggy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meggy/)*

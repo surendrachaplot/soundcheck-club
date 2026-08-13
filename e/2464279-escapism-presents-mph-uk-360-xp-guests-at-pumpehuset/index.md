@@ -1,6 +1,6 @@
 # ESCAPISM presents: MPH [uk] 360° XP + Guests at Pumpehuset
 
-ESCAPISM presents: MPH [uk] 360° XP + Guests at Pumpehuset on Sat 19 Sept, Copenhagen. 3 acts on the bill: Lisa Fosmark, MPH (1) and parashoot. Preview the line-up and save it on soundcheck.
+ESCAPISM presents: MPH [uk] 360° XP + Guests at Pumpehuset on Sat 19 Sept, Copenhagen. 4 acts on the bill: ELOQ, Lisa Fosmark, MPH (1) and parashoot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ESCAPISM presents: MPH [uk] 360° XP + Guests at Pumpehuset on Sat 19 Sept, Cope
 
 ## Line-up
 
+- ELOQ
 - Lisa Fosmark
 - MPH (1)
 - parashoot

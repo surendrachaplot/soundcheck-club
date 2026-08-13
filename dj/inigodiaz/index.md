@@ -1,6 +1,6 @@
 # Iñigo Díaz
 
-Iñigo Díaz is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Macarena Club, Barcelona on Sat, 22 Aug 2026.
+Iñigo Díaz is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Macarena Club, Barcelona on Sat, 22 Aug 2026.
 
 Iñigo Díaz is a disco and house artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona. Often billed alongside Luis Bonias, Frankie G and Navider. Next up: Macarena Club, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Iñigo Díaz is a disco and house artist based in Spain, tracked on soundcheck, 
 
 Luis Bonias, Frankie G, Navider
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inigodiaz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inigodiaz/)*

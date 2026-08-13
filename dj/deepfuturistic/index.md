@@ -1,6 +1,6 @@
 # Deep Futuristic
 
-Deep Futuristic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rumore Nightclub Capri, Naples on Fri, 14 Aug 2026.
+Deep Futuristic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rumore Nightclub Capri, Naples on Fri, 14 Aug 2026.
 
 Deep Futuristic is a house and deep house artist based in Italy, tracked on soundcheck, with 16 sets logged across Naples and Rome. Often billed alongside Alfonso Mauro, Nicola Mazzetti and Call Super. Next up: Rumore Nightclub Capri, Naples on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Deep Futuristic is a house and deep house artist based in Italy, tracked on soun
 
 Alfonso Mauro, Nicola Mazzetti, Call Super
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfuturistic/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfuturistic/)*

@@ -1,6 +1,6 @@
 # Sunchase
 
-Sunchase is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Macadam, Nantes on Fri, 28 Aug 2026.
+Sunchase is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Macadam, Nantes on Fri, 28 Aug 2026.
 
 Sunchase is a techno and trance artist based in Ukraine, tracked on soundcheck, with 6 sets logged across Budapest and Nantes. Often billed alongside Mademoisel. Next up: Macadam, Nantes on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Sunchase is a techno and trance artist based in Ukraine, tracked on soundcheck, 
 
 Mademoisel
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunchase/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunchase/)*

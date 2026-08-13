@@ -1,14 +1,14 @@
 # Nikes
 
-Nikes is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
+Nikes is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Sat, 15 Aug 2026.
 
-Nikes is a footwork and jungle artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Baby Uniq, Songco and Alleygorgon. Next up: TBA - Oakland, Sanfrancisco on Fri 14 Aug.
+Nikes is a footwork and jungle artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Baby Uniq, Songco and Alleygorgon. Next up: TBA - Oakland, Sanfrancisco on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
+| Sat, 15 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Nikes is a footwork and jungle artist based in United States of America, tracked
 
 Baby Uniq, Songco, Alleygorgon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikes/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikes/)*

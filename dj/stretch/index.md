@@ -1,13 +1,14 @@
 # Stretch
 
-Stretch is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Stretch is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
 
-Stretch is a house and hardcore artist based in South Africa, tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Bristol and Detroit and 6 more. Often billed alongside Billy Daniel Bunter, Decibella and Djinn. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Stretch is a house and minimal artist based in South Africa, tracked on soundcheck, with 21 sets logged across Berlin, Brighton, Bristol and Detroit and 7 more. Often billed alongside Billy Daniel Bunter, Decibella and Djinn. Next up: ESC, Montreal on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | ESC | Montreal |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stretch is a house and hardcore artist based in South Africa, tracked on soundch
 
 Billy Daniel Bunter, Decibella, Djinn
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*

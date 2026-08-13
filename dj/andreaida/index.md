@@ -1,6 +1,6 @@
 # Andrea Ida
 
-Andrea Ida is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Plattenvereinigung, Berlin on Sat, 15 Aug 2026.
+Andrea Ida is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Plattenvereinigung, Berlin on Sat, 15 Aug 2026.
 
 Andrea Ida is an electronica and downtempo artist based in Austria, tracked on soundcheck, with 13 sets logged across Berlin and Vienna. Often billed alongside FEELX, Inou Ki Endo and S.verin. Next up: Plattenvereinigung, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andrea Ida is an electronica and downtempo artist based in Austria, tracked on s
 
 FEELX, Inou Ki Endo, S.verin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*

@@ -1,14 +1,15 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at SMUT Athens, Athens on Sat, 22 Aug 2026.
+AgainstMe is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at SMUT Athens, Athens on Sat, 22 Aug 2026.
 
-AgainstMe is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside Red Rooms, Tommy Four Seven and Icarus in love. Next up: SMUT Athens, Athens on Sat 22 Aug.
+AgainstMe is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside Red Rooms, Tommy Four Seven and Icarus in love. Next up: SMUT Athens, Athens on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | SMUT Athens | Athens |
+| Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AgainstMe is a techno and minimal techno artist based in Greece, tracked on soun
 
 Red Rooms, Tommy Four Seven, Icarus in love
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*

@@ -1,6 +1,6 @@
 # DJ Yoda
 
-DJ Yoda is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Future Yard, Liverpool on Fri, 4 Sept 2026.
+DJ Yoda is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Future Yard, Liverpool on Fri, 4 Sept 2026.
 
 DJ Yoda is a hip-hop and funk / soul artist tracked on soundcheck, with 24 sets logged across Belfast, Birmingham, Glasgow and Leeds and 5 more. Often billed alongside Farbsie Funk, Jacklyn and Jay NuFunk. Next up: Future Yard, Liverpool on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Yoda is a hip-hop and funk / soul artist tracked on soundcheck, with 24 sets 
 
 Farbsie Funk, Jacklyn, Jay NuFunk
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoda/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoda/)*

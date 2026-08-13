@@ -1,14 +1,13 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Ben Klock is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Ben Klock is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Ben Klock is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 246 sets logg
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
 - Galopprennbahn, Munich — Sat, 1 Aug 2026
@@ -28,10 +28,9 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 246 sets logg
 - Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 30 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
-- Hï Ibiza, Ibiza — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

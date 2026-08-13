@@ -1,14 +1,15 @@
 # Kornél Kovács
 
-Kornél Kovács is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Spice H2O, Stockholm on Fri, 14 Aug 2026.
+Kornél Kovács is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Spice H2O, Stockholm on Fri, 14 Aug 2026.
 
-Kornél Kovács is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Spice H2O, Stockholm on Fri 14 Aug.
+Kornél Kovács is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Spice H2O, Stockholm on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Spice H2O | Stockholm |
+| Fri, 4 Sept 2026 | Fünk | Mexico City |
 | Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kornél Kovács is a house and techno artist tracked on soundcheck, with 96 sets
 
 Axel Boman, Pedrodollar, Studio Barnhus
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*

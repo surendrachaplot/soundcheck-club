@@ -1,6 +1,6 @@
 # Mamede
 
-Mamede is a Baile Funk and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Wendel, Berlin on Sat, 15 Aug 2026.
+Mamede is a Baile Funk and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Wendel, Berlin on Sat, 15 Aug 2026.
 
 Mamede is a baile funk and acid artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside materia hache, Feasting and riss. Next up: Wendel, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mamede is a baile funk and acid artist tracked on soundcheck, with 17 sets logge
 
 materia hache, Feasting, riss
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*

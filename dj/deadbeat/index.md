@@ -1,6 +1,6 @@
 # Deadbeat
 
-Deadbeat is a Dub Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
+Deadbeat is a Dub Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
 
 Deadbeat is a dub techno and house artist based in Canada, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Copenhagen and Kyoto and 16 more. Often billed alongside Perera Elsewhere, Rouge Mécanique and African Head Charge. Next up: OHM, Berlin on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Deadbeat is a dub techno and house artist based in Canada, tracked on soundcheck
 
 Perera Elsewhere, Rouge Mécanique, African Head Charge
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadbeat/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadbeat/)*

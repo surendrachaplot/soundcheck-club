@@ -1,6 +1,6 @@
 # Kaytseng
 
-Kaytseng is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
+Kaytseng is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
 
 Kaytseng is a techno and trance artist based in Taiwan, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Qi (ARM), AYIM and Cloudy Ku. Next up: Gaffe, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Kaytseng is a techno and trance artist based in Taiwan, tracked on soundcheck, w
 
 Qi (ARM), AYIM, Cloudy Ku
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*

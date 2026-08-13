@@ -1,6 +1,6 @@
 # Retrouve
 
-Retrouve is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Retrouve is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
 Retrouve is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Budapest and Frankfurt and 2 more. Often billed alongside Prunk, Klaudie and Kellie Allen. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ Retrouve is a house and tech house artist tracked on soundcheck, with 17 sets lo
 
 Prunk, Klaudie, Kellie Allen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retrouve/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retrouve/)*

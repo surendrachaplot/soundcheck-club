@@ -1,8 +1,8 @@
 # Jemazzz
 
-Jemazzz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kolektor, Prague on Fri, 14 Aug 2026.
+Jemazzz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kolektor, Prague on Fri, 14 Aug 2026.
 
-Jemazzz is a techno and house artist based in Czech Republic, tracked on soundcheck, with 13 sets logged across Prague. Often billed alongside Misha Jaru, Dj Ojojo and Raketa95. Next up: Kolektor, Prague on Fri 14 Aug.
+Jemazzz is a techno and house artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside Misha Jaru, Dj Ojojo and Raketa95. Next up: Kolektor, Prague on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jemazzz is a techno and house artist based in Czech Republic, tracked on soundch
 | Fri, 14 Aug 2026 | Kolektor | Prague |
 | Fri, 21 Aug 2026 | Kolektor | Prague |
 | Sat, 22 Aug 2026 | Trojský Pivovar | Prague |
+| Fri, 28 Aug 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Jemazzz is a techno and house artist based in Czech Republic, tracked on soundch
 
 Misha Jaru, Dj Ojojo, Raketa95
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*

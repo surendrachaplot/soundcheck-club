@@ -1,13 +1,14 @@
 # Jaszaloth
 
-Jaszaloth is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+Jaszaloth is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
 
-Jaszaloth is a techno and industrial artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Leipzig, Munich and Prague. Often billed alongside Meyhartt, TRITØNUS and Jatra. Next up: Sky Club, Leipzig on Fri 30 Oct.
+Jaszaloth is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Leipzig, Munich and Prague. Often billed alongside Meyhartt, TRITØNUS and Jatra. Next up: elipamanoke, Leipzig on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | elipamanoke | Leipzig |
 | Fri, 30 Oct 2026 | Sky Club | Leipzig |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jaszaloth is a techno and industrial artist based in Germany, tracked on soundch
 
 Meyhartt, TRITØNUS, Jatra
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaszaloth/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaszaloth/)*

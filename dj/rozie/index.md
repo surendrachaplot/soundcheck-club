@@ -1,14 +1,15 @@
 # Rozie
 
-Rozie is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Rozie is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-Rozie is a house and trance artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 2 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
+Rozie is a house and trance artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Paris and 3 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
+| Thu, 17 Sept 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rozie is a house and trance artist tracked on soundcheck, with 75 sets logged ac
 
 Moody Mehran, Benwal, Freddi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*

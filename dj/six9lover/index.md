@@ -1,6 +1,6 @@
 # SIX9LOVER
 
-SIX9LOVER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
+SIX9LOVER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
 
 SIX9LOVER is a techno and hardcore artist tracked on soundcheck, with 3 sets logged across Amsterdam and Bucharest. Often billed alongside ALT8, Aphøtic and Cynthia Spiering. Next up: Nether Club, Bucharest on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ SIX9LOVER is a techno and hardcore artist tracked on soundcheck, with 3 sets log
 
 ALT8, Aphøtic, Cynthia Spiering
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/six9lover/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/six9lover/)*

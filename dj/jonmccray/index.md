@@ -1,6 +1,6 @@
 # Jon McCray
 
-Jon McCray is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Wicker Park, Chicago on Fri, 14 Aug 2026.
+Jon McCray is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Wicker Park, Chicago on Fri, 14 Aug 2026.
 
 Jon McCray is a techno and club artist tracked on soundcheck, with 40 sets logged across Chicago and Newyorkcity. Often billed alongside R°sha, Vyper and Veri Peri. Next up: TBA - Wicker Park, Chicago on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Jon McCray is a techno and club artist tracked on soundcheck, with 40 sets logge
 
 R°sha, Vyper, Veri Peri
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*

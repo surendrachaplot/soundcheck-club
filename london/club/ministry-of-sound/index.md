@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 31 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "The A-Level Results Day Party 2026 - Ministry Of Sound London" on Thu, 13 Aug 2026.
+Ministry Of Sound is a music venue in London with 34 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "The A-Level Results Day Party 2026 - Ministry Of Sound London" on Thu, 13 Aug 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Ayce and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 34 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Asch Pintura and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 31 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

@@ -1,6 +1,6 @@
 # Nastya Vogan
 
-Nastya Vogan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
+Nastya Vogan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
 
 Nastya Vogan is a techno and house artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Cologne and London and 3 more. Often billed alongside Nastya Muravyova, Ireen Amnes and Jana Woodstock. Next up: Tresor / Globus, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nastya Vogan is a techno and house artist based in Ukraine, tracked on soundchec
 
 Nastya Muravyova, Ireen Amnes, Jana Woodstock
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyavogan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyavogan/)*

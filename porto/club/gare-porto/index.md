@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Jin Synth, Catarina Silva, Amulador" on Fri, 14 Aug 2026.
+Gare Porto is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Jin Synth, Catarina Silva, Amulador" on Fri, 14 Aug 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, with line-ups including Alexa Strange, Amulador, Carrier and Catarina Silva and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -19,4 +19,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

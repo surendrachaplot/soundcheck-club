@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "LATIN NIGHT: DJ IZA & SWDEJAY (BAD BUNNY VIBES)" on Fri, 14 Aug 2026.
+Big Pink is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "LATIN NIGHT: DJ IZA & SWDEJAY (BAD BUNNY VIBES)" on Fri, 14 Aug 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -19,4 +19,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights. Br
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

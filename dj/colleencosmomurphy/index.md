@@ -1,6 +1,6 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Säälchen, Berlin on Fri, 14 Aug 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Säälchen, Berlin on Fri, 14 Aug 2026.
 
 Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Horse Meat Disco, Love Injection and CC:DISCO!. Next up: Säälchen, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 7
 
 Horse Meat Disco, Love Injection, CC:DISCO!
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

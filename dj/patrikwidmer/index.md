@@ -1,6 +1,6 @@
 # Patrik Widmer
 
-Patrik Widmer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Supermarket, Zurich on Fri, 21 Aug 2026.
+Patrik Widmer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Supermarket, Zurich on Fri, 21 Aug 2026.
 
 Patrik Widmer is a techno and acid artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Geneva and Hongkong and 2 more. Often billed alongside mvdi, Erebos and DJ Jordan. Next up: Supermarket, Zurich on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Patrik Widmer is a techno and acid artist tracked on soundcheck, with 57 sets lo
 
 mvdi, Erebos, DJ Jordan
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikwidmer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikwidmer/)*

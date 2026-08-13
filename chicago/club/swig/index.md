@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Goods Thursdays: B.A.D. DJs" on Thu, 13 Aug 2026.
+Swig is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Goods Thursdays: B.A.D. DJs" on Thu, 13 Aug 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including Alex Pan (Det), Andy Stroble, Brandon Latta and Dan Bain and 2 more. Browse upcoming dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -16,4 +16,4 @@ Swig is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with l
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

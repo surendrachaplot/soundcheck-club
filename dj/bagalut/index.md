@@ -1,6 +1,6 @@
 # Bagalut
 
-Bagalut is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Bagalut is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Bagalut is a techno and electro artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Roman Adam, ATTA (GER) and Aio. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Bagalut is a techno and electro artist tracked on soundcheck, with 6 sets logged
 
 Roman Adam, ATTA (GER), Aio
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagalut/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagalut/)*

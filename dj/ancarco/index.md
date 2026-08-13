@@ -1,6 +1,6 @@
 # ANCARCO
 
-ANCARCO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Chi Lounge, San Francisco/Oakland on Fri, 14 Aug 2026.
+ANCARCO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Chi Lounge, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 ANCARCO is an afro house and house artist tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside Kamu Kamu, MONĪ and Mode Leeloo. Next up: Chi Lounge, Sanfrancisco on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ ANCARCO is an afro house and house artist tracked on soundcheck, with 2 sets log
 
 Kamu Kamu, MONĪ, Mode Leeloo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancarco/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancarco/)*

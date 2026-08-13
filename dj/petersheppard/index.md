@@ -1,14 +1,15 @@
 # Peter Sheppard
 
-Peter Sheppard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Process PDX, Portland on Thu, 13 Aug 2026.
+Peter Sheppard is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Process PDX, Portland on Thu, 13 Aug 2026.
 
-Peter Sheppard is a house and techno artist tracked on soundcheck, with 36 sets logged across Mexicocity and Portland. Often billed alongside Andy Warren, Trustfall and Ginkgo. Next up: Process PDX, Portland on Thu 13 Aug.
+Peter Sheppard is a house and techno artist tracked on soundcheck, with 37 sets logged across Mexicocity and Portland. Often billed alongside Andy Warren, Trustfall and Ginkgo. Next up: Process PDX, Portland on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Process PDX | Portland |
+| Sun, 23 Aug 2026 | White Owl Social Club | Portland |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Peter Sheppard is a house and techno artist tracked on soundcheck, with 36 sets 
 
 Andy Warren, Trustfall, Ginkgo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*

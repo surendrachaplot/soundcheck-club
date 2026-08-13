@@ -1,6 +1,6 @@
 # Les Halles
 
-Les Halles is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nashaz, Brussels on Fri, 21 Aug 2026.
+Les Halles is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nashaz, Brussels on Fri, 21 Aug 2026.
 
 Les Halles is an electronic artist tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside Jano. Next up: Nashaz, Brussels on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Les Halles is an electronic artist tracked on soundcheck, with 2 sets logged acr
 
 Jano
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leshalles/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leshalles/)*

@@ -1,14 +1,13 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Mischluft is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
@@ -22,6 +21,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets log
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - Lofi, Amsterdam — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 31 Jul 2026
@@ -29,10 +29,9 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets log
 - Westhafen, Leipzig — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - MS RheinMagie, Cologne — Sun, 12 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

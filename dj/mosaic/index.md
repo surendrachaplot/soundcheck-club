@@ -1,6 +1,6 @@
 # Mosaic
 
-Mosaic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Fox Cafe, Bristol on Sat, 22 Aug 2026.
+Mosaic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Fox Cafe, Bristol on Sat, 22 Aug 2026.
 
 Mosaic is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Bristol and Utrecht. Often billed alongside Ambu Bambu, Civil and Doc Scott. Next up: The Fox Cafe, Bristol on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Mosaic is a techno and psytrance artist based in Netherlands, tracked on soundch
 
 Ambu Bambu, Civil, Doc Scott
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaic/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaic/)*

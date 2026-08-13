@@ -1,6 +1,6 @@
 # Jinnychoo
 
-Jinnychoo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Flac, Seoul on Fri, 14 Aug 2026.
+Jinnychoo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Flac, Seoul on Fri, 14 Aug 2026.
 
 Jinnychoo is a house and tech house artist based in South Korea, tracked on soundcheck, with 8 sets logged across Seoul. Often billed alongside Davico, Sudowoo and Demuk. Next up: Flac, Seoul on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Jinnychoo is a house and tech house artist based in South Korea, tracked on soun
 
 Davico, Sudowoo, Demuk
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnychoo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnychoo/)*

@@ -1,6 +1,6 @@
 # Erol Sabadosh
 
-Erol Sabadosh is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Le Bain, New York City on Thu, 13 Aug 2026.
+Erol Sabadosh is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Le Bain, New York City on Thu, 13 Aug 2026.
 
 Erol Sabadosh is a house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Mia Moretti, Amber Valentine and Blue Rose Royalty. Next up: Le Bain, Newyorkcity on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Erol Sabadosh is a house artist based in United States of America, tracked on so
 
 Mia Moretti, Amber Valentine, Blue Rose Royalty
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erolsabadosh/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erolsabadosh/)*

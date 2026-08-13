@@ -1,11 +1,11 @@
-# Tide Swing x People's Disco on the Pier with Miss Frizzle & Mr Palomar, r.downstairs, & Vishy at Humble Sea - Seacret Garden
+# Tide Swing x People's Disco on the Pier with Miss Frizzle & Mr Palomar, r.downstairs, & Vishy at Humble Sea Beer Garden on the Wharf
 
-Tide Swing x People's Disco on the Pier with Miss Frizzle & Mr Palomar, r.downstairs, & Vishy at Humble Sea - Seacret Garden on Sun 16 Aug, Sanfrancisco. 3 acts on the bill: Erik Vehmeyer, Miss Frizzle and Mr Palomar. House and Disco. Preview the line-up and save it on soundcheck.
+Tide Swing x People's Disco on the Pier with Miss Frizzle & Mr Palomar, r.downstairs, & Vishy at Humble Sea Beer Garden on the Wharf on Sun 16 Aug, Sanfrancisco. 3 acts on the bill: Erik Vehmeyer, Miss Frizzle and Mr Palomar. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 16 Aug 2026 |
-| Venue | Humble Sea - Seacret Garden |
+| Venue | Humble Sea Beer Garden on the Wharf |
 | City | San Francisco/Oakland |
 
 ## Line-up

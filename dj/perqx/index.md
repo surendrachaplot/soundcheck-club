@@ -1,8 +1,8 @@
 # Per Qx
 
-Per Qx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
+Per Qx is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
 
-Per Qx is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Stockholm. Often billed alongside CC Luna, DJ Godfather and DJ KILLING. Next up: Eventhuset, Stockholm on Sat 15 Aug.
+Per Qx is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Stockholm. Often billed alongside CC Luna, DJ Godfather and DJ KILLING. Next up: Eventhuset, Stockholm on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Per Qx is a techno and tech house artist based in United Kingdom, tracked on sou
 
 CC Luna, DJ Godfather, DJ KILLING
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perqx/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perqx/)*

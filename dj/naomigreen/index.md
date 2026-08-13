@@ -1,6 +1,6 @@
 # Naomi Green
 
-Naomi Green is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
+Naomi Green is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
 
 Naomi Green is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Newyorkcity. Often billed alongside DJ Shroomie, Beggar and Akumen. Next up: General Lee's Cocktail House, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Naomi Green is a house and deep house artist based in United States of America, 
 
 DJ Shroomie, Beggar, Akumen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*

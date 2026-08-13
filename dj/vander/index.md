@@ -1,6 +1,6 @@
 # Van Der
 
-Van Der is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Mon, 17 Aug 2026.
+Van Der is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Mon, 17 Aug 2026.
 
 Van Der is a techno and house artist tracked on soundcheck, with 6 sets logged across Hamburg, Lisbon, Paris and Porto. Often billed alongside Antoine Baiser, Clement Boudot (3) and DJ Dripcore. Next up: Collect - Cais do Sodre, Lisbon on Mon 17 Aug.
 
@@ -22,4 +22,4 @@ Van Der is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 Antoine Baiser, Clement Boudot (3), DJ Dripcore
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vander/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vander/)*

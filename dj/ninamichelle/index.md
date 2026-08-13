@@ -1,14 +1,15 @@
 # Nina Michelle
 
-Nina Michelle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
+Nina Michelle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
 
-Nina Michelle is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside DJ KILLING, Delavas and Greta Westling. Next up: Eventhuset, Stockholm on Sat 5 Sept.
+Nina Michelle is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside DJ KILLING, Delavas and Greta Westling. Next up: Eventhuset, Stockholm on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eventhuset | Stockholm |
+| Fri, 11 Sept 2026 | Trädgården | Stockholm |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nina Michelle is a techno and house artist tracked on soundcheck, with 28 sets l
 
 DJ KILLING, Delavas, Greta Westling
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*

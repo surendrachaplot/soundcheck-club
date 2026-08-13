@@ -1,6 +1,6 @@
 # Tremur
 
-Tremur is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Tremur is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 Tremur is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds and London. Often billed alongside Ethan Flint, Kian Norton and Arthh. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Tremur is a house and tech house artist based in United Kingdom, tracked on soun
 
 Ethan Flint, Kian Norton, Arthh
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tremur/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tremur/)*

@@ -1,6 +1,6 @@
 # DURFY
 
-DURFY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
+DURFY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
 
 DURFY is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Washingtondc. Often billed alongside Cassia, BE EZY and Prunk. Next up: BERHTA, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DURFY is a house and tech house artist based in United States of America, tracke
 
 Cassia, BE EZY, Prunk
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durfy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durfy/)*

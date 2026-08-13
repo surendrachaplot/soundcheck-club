@@ -1,20 +1,20 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Azumaya, Tokyo on Wed, 12 Aug 2026.
+MOTOKA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at R Lounge, Tokyo on Fri, 14 Aug 2026.
 
-MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 122 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: Azumaya, Tokyo on Wed 12 Aug.
+MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 122 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: R Lounge, Tokyo on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Azumaya | Tokyo |
 | Fri, 14 Aug 2026 | R Lounge | Tokyo |
 | Wed, 19 Aug 2026 | White Space Lab | Tokyo |
 | Fri, 4 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 
+- Azumaya, Tokyo — Wed, 12 Aug 2026
 - UTOPIA / DYSTOPIA, Tokyo — Sat, 8 Aug 2026
 - Dogenzaka Church, Tokyo — Sun, 2 Aug 2026
 - R Lounge, Tokyo — Thu, 23 Jul 2026
@@ -22,10 +22,9 @@ MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 
 - Royal Lounge, Tokyo — Mon, 6 Jul 2026
 - DeTour, Tokyo — Sun, 5 Jul 2026
 - Dogenzaka Church, Tokyo — Tue, 30 Jun 2026
-- Daikanyama ORD., Tokyo — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 SIGNAL (JP), Junya, BERLINER KINDL
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*

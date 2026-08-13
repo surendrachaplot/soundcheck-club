@@ -1,6 +1,6 @@
 # Jėck
 
-Jėck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Backstage at Berts, Detroit on Sat, 29 Aug 2026.
+Jėck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Backstage at Berts, Detroit on Sat, 29 Aug 2026.
 
 Jėck is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside Redax, KICK (DET) and Tormented. Next up: Backstage at Berts, Detroit on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Jėck is a techno and house artist based in United States of America, tracked on
 
 Redax, KICK (DET), Tormented
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*

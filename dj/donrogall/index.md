@@ -1,6 +1,6 @@
 # Don Rogall
 
-Don Rogall is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Don Rogall is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Don Rogall is an electronic artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Cyranotaurus Cortex, Goldenaxe and Stephan Licha. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Don Rogall is an electronic artist tracked on soundcheck, with 27 sets logged ac
 
 Cyranotaurus Cortex, Goldenaxe, Stephan Licha
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donrogall/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donrogall/)*

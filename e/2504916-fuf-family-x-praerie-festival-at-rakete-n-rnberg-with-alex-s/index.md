@@ -1,6 +1,6 @@
-# FuF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm at Die Rakete
+# FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm at Die Rakete
 
-FuF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm at Die Rakete on Fri 25 Sept, Nurnberg. 4 acts on the bill: Alex Stein, Konfusia, Maurice Mino and Sin:port. Trance and Techno. Preview the line-up and save it on soundcheck.
+FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm at Die Rakete on Fri 25 Sept, Nurnberg. 4 acts on the bill: Alex Stein, Konfusia, Maurice Mino and Sin:port. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

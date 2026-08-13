@@ -1,6 +1,6 @@
 # Habgud
 
-Habgud is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Habgud is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Habgud is a techno and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Galway, Leeds and London and 7 more. Often billed alongside Cleric, INLIMEN and Arkane. Next up: FOLD, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Habgud is a techno and house artist based in United Kingdom, tracked on soundche
 
 Cleric, INLIMEN, Arkane
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*

@@ -1,6 +1,6 @@
 # RAJE
 
-RAJE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+RAJE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 RAJE is a house and tech house artist tracked on soundcheck, with 16 sets logged across Leeds, London, Losangeles and Miami. Often billed alongside salameh, ALISHA and JACK MARLOW. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ RAJE is a house and tech house artist tracked on soundcheck, with 16 sets logged
 
 salameh, ALISHA, JACK MARLOW
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*

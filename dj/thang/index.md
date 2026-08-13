@@ -1,6 +1,6 @@
 # Thang
 
-Thang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Funke, Ghent on Sat, 15 Aug 2026.
+Thang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Funke, Ghent on Sat, 15 Aug 2026.
 
 Thang is a house and disco artist tracked on soundcheck, with 38 sets logged across Antwerp, Brussels, Ghent and Paris and 2 more. Often billed alongside Kenny Montana, John Noseda and Bibi Seck. Next up: Funke, Ghent on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Thang is a house and disco artist tracked on soundcheck, with 38 sets logged acr
 
 Kenny Montana, John Noseda, Bibi Seck
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*

@@ -1,6 +1,6 @@
 # Rev Lon
 
-Rev Lon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
+Rev Lon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
 
 Rev Lon is a house and tech house artist tracked on soundcheck, with 39 sets logged across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri (2) and Katharine. Next up: Solace, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rev Lon is a house and tech house artist tracked on soundcheck, with 39 sets log
 
 Bex, Terri (2), Katharine
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*

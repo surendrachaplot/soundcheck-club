@@ -1,6 +1,6 @@
 # DLV
 
-DLV is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
+DLV is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
 
 DLV is a techno and acid artist based in Austria, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside KTK (DE), Sept and CLTX. Next up: 131 Mccormack St, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DLV is a techno and acid artist based in Austria, tracked on soundcheck, with 11
 
 KTK (DE), Sept, CLTX
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

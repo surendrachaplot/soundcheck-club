@@ -1,6 +1,6 @@
 # Armanda
 
-Armanda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Studio1111, Berlin on Fri, 4 Sept 2026.
+Armanda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Studio1111, Berlin on Fri, 4 Sept 2026.
 
 Armanda is a disco and house artist based in Portugal, tracked on soundcheck, with 19 sets logged across Berlin and Lisbon. Often billed alongside Kapote, Gee Lane and OITO//OITO. Next up: Studio1111, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Armanda is a disco and house artist based in Portugal, tracked on soundcheck, wi
 
 Kapote, Gee Lane, OITO//OITO
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanda/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanda/)*

@@ -1,6 +1,6 @@
 # Samrok
 
-Samrok is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at HVEN, Tokyo on Fri, 14 Aug 2026.
+Samrok is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at HVEN, Tokyo on Fri, 14 Aug 2026.
 
 Samrok is an afrobeat and amapiano artist tracked on soundcheck, with 4 sets logged across Seoul and Tokyo. Often billed alongside Unkelchubbz, Beijo Bae and KARLLLL. Next up: HVEN, Tokyo on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Samrok is an afrobeat and amapiano artist tracked on soundcheck, with 4 sets log
 
 Unkelchubbz, Beijo Bae, KARLLLL
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samrok/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samrok/)*

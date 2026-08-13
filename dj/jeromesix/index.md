@@ -1,8 +1,8 @@
 # Jerome Six
 
-Jerome Six is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Jerome Six is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
-Jerome Six is a tech house and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Shenin Amara and Brian Smith. Next up: Ministry Of Sound, London on Sat 15 Aug.
+Jerome Six is a tech house and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Shenin Amara and Brian Smith. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jerome Six is a tech house and house artist tracked on soundcheck, with 153 sets
 | Sat, 15 Aug 2026 | Ministry Of Sound | London |
 | Fri, 21 Aug 2026 | Basing House | London |
 | Sat, 12 Sept 2026 | XOYO | London |
+| Sat, 10 Oct 2026 | Basing House | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Jerome Six is a tech house and house artist tracked on soundcheck, with 153 sets
 
 JAYDAA, Shenin Amara, Brian Smith
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*

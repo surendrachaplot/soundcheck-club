@@ -1,6 +1,6 @@
 # Holly Dodson
 
-Holly Dodson is a Electronica and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Zero Lounge, Los Angeles on Thu, 20 Aug 2026.
+Holly Dodson is a Electronica and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Zero Lounge, Los Angeles on Thu, 20 Aug 2026.
 
 Holly Dodson is an electronica and italo disco artist tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside SLACKMACHINE and Driver405. Next up: Zero Lounge, Losangeles on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Holly Dodson is an electronica and italo disco artist tracked on soundcheck, wit
 
 SLACKMACHINE, Driver405
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollydodson/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollydodson/)*

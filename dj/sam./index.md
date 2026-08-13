@@ -1,6 +1,6 @@
 # SAM.
 
-SAM. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Ivy, Sydney on Sat, 15 Aug 2026.
+SAM. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Ivy, Sydney on Sat, 15 Aug 2026.
 
 SAM. is a club and house artist tracked on soundcheck, with 2 sets logged across Paris and Sydney. Often billed alongside Jess Herself, Mona Bone and Peter Palace. Next up: The Ivy, Sydney on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ SAM. is a club and house artist tracked on soundcheck, with 2 sets logged across
 
 Jess Herself, Mona Bone, Peter Palace
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sam./)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sam./)*

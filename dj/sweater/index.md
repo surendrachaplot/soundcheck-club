@@ -1,6 +1,6 @@
 # Sweater
 
-Sweater is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
+Sweater is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
 Sweater is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 3 more. Often billed alongside John Raffaele, DJ Dre and Keen. Next up: Else, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Sweater is a house and techno artist based in United States of America, tracked 
 
 John Raffaele, DJ Dre, Keen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*

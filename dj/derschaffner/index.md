@@ -1,6 +1,6 @@
 # Der Schaffner
 
-Der Schaffner is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Der Schaffner is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 Der Schaffner is a hardcore and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Ghent, Leipzig and Lyon and 2 more. Often billed alongside LØUS, FLUCC and Lolalita. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Der Schaffner is a hardcore and techno artist based in Germany, tracked on sound
 
 LØUS, FLUCC, Lolalita
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derschaffner/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derschaffner/)*

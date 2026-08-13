@@ -1,6 +1,6 @@
 # SESH at RSO.BERLIN
 
-SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 8 acts on the bill: 2HOT2PLAY, davyboi, GEN97 and NYRA (DE) and 4 more. Preview the line-up and save it on soundcheck.
+SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 9 acts on the bill: 2HOT2PLAY, Bruno Brero, davyboi and GEN97 and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 8 acts on the bill: 2HOT2PLAY, davybo
 ## Line-up
 
 - 2HOT2PLAY
+- Bruno Brero
 - davyboi
 - GEN97
 - NYRA (DE)

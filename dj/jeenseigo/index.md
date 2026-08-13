@@ -1,14 +1,15 @@
 # JEEN SEIGO
 
-JEEN SEIGO is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dogenzaka Church, Tokyo on Thu, 13 Aug 2026.
+JEEN SEIGO is a Tech House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Dogenzaka Church, Tokyo on Thu, 13 Aug 2026.
 
-JEEN SEIGO is a tech house and drum & bass artist based in Japan, tracked on soundcheck, with 26 sets logged across Amsterdam, Singapore and Tokyo. Often billed alongside DJ AKi, You Liang and JERRRY. Next up: Dogenzaka Church, Tokyo on Thu 13 Aug.
+JEEN SEIGO is a tech house and drum & bass artist based in Japan, tracked on soundcheck, with 27 sets logged across Amsterdam, Singapore and Tokyo. Often billed alongside DJ AKi, You Liang and JERRRY. Next up: Dogenzaka Church, Tokyo on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Dogenzaka Church | Tokyo |
+| Fri, 23 Oct 2026 | Blend XL | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JEEN SEIGO is a tech house and drum & bass artist based in Japan, tracked on sou
 
 DJ AKi, You Liang, JERRRY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*

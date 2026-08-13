@@ -1,6 +1,6 @@
 # Cherry Chip
 
-Cherry Chip is a Experimental and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
+Cherry Chip is a Experimental and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
 
 Cherry Chip is an experimental and footwork artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal and Toronto. Often billed alongside A.J. Matos, CRISTI:ANA and D.Mo. Next up: The Baby G, Toronto on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Cherry Chip is an experimental and footwork artist based in Canada, tracked on s
 
 A.J. Matos, CRISTI:ANA, D.Mo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychip/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychip/)*

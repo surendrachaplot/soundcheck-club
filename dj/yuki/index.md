@@ -1,6 +1,6 @@
 # YUKI (JP)
 
-YUKI (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Oath, Tokyo on Sat, 15 Aug 2026.
+YUKI (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Oath, Tokyo on Sat, 15 Aug 2026.
 
 YUKI (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 34 sets logged across Copenhagen, Osaka and Tokyo. Often billed alongside SIGNAL (JP), Amu (1) and DJ B2B. Next up: Oath, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ YUKI (JP) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 SIGNAL (JP), Amu (1), DJ B2B
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki/)*

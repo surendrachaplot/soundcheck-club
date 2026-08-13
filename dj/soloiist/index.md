@@ -1,6 +1,6 @@
 # Soloiist
 
-Soloiist is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Loo Loo, Mexico City on Sat, 19 Sept 2026.
+Soloiist is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Loo Loo, Mexico City on Sat, 19 Sept 2026.
 
 Soloiist is a techno and progressive house artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Prima Donna, Cassian and HEÎK. Next up: Loo Loo, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Soloiist is a techno and progressive house artist tracked on soundcheck, with 9 
 
 Prima Donna, Cassian, HEÎK
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soloiist/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soloiist/)*

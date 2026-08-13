@@ -1,6 +1,6 @@
 # Neil Macc
 
-Neil Macc is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Moondog Hifi, New York City on Thu, 13 Aug 2026.
+Neil Macc is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Moondog Hifi, New York City on Thu, 13 Aug 2026.
 
 Neil Macc is a house and disco artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside ABS (4), For Future's Sake and James Juke. Next up: Moondog Hifi, Newyorkcity on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ Neil Macc is a house and disco artist tracked on soundcheck, with 3 sets logged 
 
 ABS (4), For Future's Sake, James Juke
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilmacc/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilmacc/)*

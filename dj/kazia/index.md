@@ -1,14 +1,15 @@
 # KAZIA
 
-KAZIA is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Shoreditch venue announced 3pm on event day, London on Thu, 13 Aug 2026.
+KAZIA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Shoreditch venue announced 3pm on event day, London on Thu, 13 Aug 2026.
 
-KAZIA is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and Reece Batch. Next up: TBA - Shoreditch venue announced 3pm on event day, London on Thu 13 Aug.
+KAZIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and KREED.. Next up: TBA - Shoreditch venue announced 3pm on event day, London on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA - Shoreditch venue announced 3pm on event day | London |
+| Sun, 16 Aug 2026 | Upper East | London |
 | Sat, 22 Aug 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ KAZIA is a tech house and minimal artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Geo DJ, Sho (UK), Reece Batch
+Geo DJ, Sho (UK), KREED.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*

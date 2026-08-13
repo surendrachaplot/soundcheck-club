@@ -1,6 +1,6 @@
 # Energy Runner
 
-Energy Runner is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Neptune Room, Washington DC on Sun, 16 Aug 2026.
+Energy Runner is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Neptune Room, Washington DC on Sun, 16 Aug 2026.
 
 Energy Runner is an experimental and techno artist tracked on soundcheck, with 3 sets logged across Washingtondc. Often billed alongside Matthew Cha, Ri Caragol and STUKES. Next up: Neptune Room, Washingtondc on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ Energy Runner is an experimental and techno artist tracked on soundcheck, with 3
 
 Matthew Cha, Ri Caragol, STUKES
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/energyrunner/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/energyrunner/)*

@@ -1,6 +1,6 @@
 # Groove Research
 
-Groove Research is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tšungel, Tallinn on Thu, 13 Aug 2026.
+Groove Research is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Tšungel, Tallinn on Thu, 13 Aug 2026.
 
 Groove Research is a progressive house and electro artist tracked on soundcheck, with 39 sets logged across Barcelona and Tallinn. Often billed alongside Andrea Love, RuxXandra and Abdul Raeva. Next up: Tšungel, Tallinn on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Groove Research is a progressive house and electro artist tracked on soundcheck,
 
 Andrea Love, RuxXandra, Abdul Raeva
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*

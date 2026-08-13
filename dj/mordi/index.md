@@ -1,6 +1,6 @@
 # Mordi
 
-Mordi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 21 Aug 2026.
+Mordi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 21 Aug 2026.
 
 Mordi is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Black Dave, INTERPOL (AU) and Le Clobber. Next up: Collingwood Basement, Melbourne on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Mordi is a house and techno artist tracked on soundcheck, with 51 sets logged ac
 
 Black Dave, INTERPOL (AU), Le Clobber
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*

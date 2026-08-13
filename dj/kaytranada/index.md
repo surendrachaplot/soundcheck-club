@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Komplexo Tempo, Sao Paulo on Fri, 14 Aug 2026.
+Kaytranada is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Komplexo Tempo, Sao Paulo on Fri, 14 Aug 2026.
 
 Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside Justice, Channel Tres and Dom Dolla. Next up: Komplexo Tempo, Saopaulo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets log
 
 Justice, Channel Tres, Dom Dolla
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

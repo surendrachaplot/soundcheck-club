@@ -1,6 +1,6 @@
 # Iovino
 
-Iovino is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Iovino is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 Iovino is a progressive house and deep house artist based in Spain, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside KELO AR, Ivan Akselman and Candela Mor. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Iovino is a progressive house and deep house artist based in Spain, tracked on s
 
 KELO AR, Ivan Akselman, Candela Mor
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iovino/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iovino/)*

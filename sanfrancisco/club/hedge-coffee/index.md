@@ -1,6 +1,6 @@
 # Hedge Coffee
 
-Hedge Coffee is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Coffee & Beats: The Solo Twins, Turquoise Drive" on Sat, 15 Aug 2026.
+Hedge Coffee is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Coffee & Beats: The Solo Twins, Turquoise Drive" on Sat, 15 Aug 2026.
 
 Hedge Coffee is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including The Solo Twins. Browse upcoming dates, start times and who's playing. 434 Shotwell St, San Francisco, CA 94110.
 
@@ -14,4 +14,4 @@ Hedge Coffee is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming n
 
 434 Shotwell St, San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hedge-coffee/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hedge-coffee/)*

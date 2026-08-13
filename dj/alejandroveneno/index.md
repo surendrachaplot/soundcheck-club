@@ -1,6 +1,6 @@
 # Alejandro Veneno
 
-Alejandro Veneno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fünk, Mexico City on Sat, 29 Aug 2026.
+Alejandro Veneno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fünk, Mexico City on Sat, 29 Aug 2026.
 
 Alejandro Veneno is a house and deep house artist based in Argentina, tracked on soundcheck, with 48 sets logged across Buenosaires, Madrid and Mexicocity. Often billed alongside Barreto, JNGLEJ and Don Alex Albert. Next up: Fünk, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alejandro Veneno is a house and deep house artist based in Argentina, tracked on
 
 Barreto, JNGLEJ, Don Alex Albert
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroveneno/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroveneno/)*

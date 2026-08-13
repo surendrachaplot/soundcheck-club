@@ -1,6 +1,6 @@
 # SECRET WEAPONS at Enter Shibuya
 
-SECRET WEAPONS at Enter Shibuya on Sat 15 Aug, Tokyo. 11 acts on the bill: cazbow, ecec, HIMAWARI and kengotaki and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+SECRET WEAPONS at Enter Shibuya on Sat 15 Aug, Tokyo. 12 acts on the bill: cazbow, ecec, HIMAWARI and kengotaki and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ SECRET WEAPONS at Enter Shibuya on Sat 15 Aug, Tokyo. 11 acts on the bill: cazbo
 - MoEPiKA
 - nazanael
 - r1ku
+- S.H.V
 - SAMO (JP)
 - TAKENOKO
 - YUUGOH

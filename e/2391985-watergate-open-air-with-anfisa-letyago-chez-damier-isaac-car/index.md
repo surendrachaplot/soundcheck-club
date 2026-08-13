@@ -1,6 +1,6 @@
 # Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson at SAGE
 
-Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson at SAGE on Sat 5 Sept, Berlin. 4 acts on the bill: Anfisa Letyago, Chez Damier, Isaac Carter and Natalie Robinson. Techno and House. Preview the line-up and save it on soundcheck.
+Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson at SAGE on Sat 5 Sept, Berlin. 6 acts on the bill: Anfisa Letyago, Chez Damier, Faerber and HAMY and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robin
 
 - Anfisa Letyago
 - Chez Damier
+- Faerber
+- HAMY
 - Isaac Carter
 - Natalie Robinson
 

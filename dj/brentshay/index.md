@@ -1,18 +1,18 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Brent Shay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
-Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
+Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Wed, 12 Aug 2026
 - Spkrbox, Detroit — Wed, 5 Aug 2026
 - Spkrbox, Detroit — Sat, 1 Aug 2026
 - Corktown Tavern, Detroit — Thu, 30 Jul 2026
@@ -20,10 +20,9 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logg
 - Spkrbox, Detroit — Thu, 25 Jun 2026
 - Garden Bowl, Detroit — Sun, 21 Jun 2026
 - Church/Detroit, Detroit — Sat, 6 Jun 2026
-- Spkrbox, Detroit — Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Dj Disc, Pitchblnd, Nikkie Nocturnal
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

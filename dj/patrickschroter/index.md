@@ -1,6 +1,6 @@
 # Patrick Schröter
 
-Patrick Schröter is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pracht, Frankfurt on Fri, 14 Aug 2026.
+Patrick Schröter is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pracht, Frankfurt on Fri, 14 Aug 2026.
 
 Patrick Schröter is a tech house and house artist tracked on soundcheck, with 5 sets logged across Berlin and Frankfurt. Often billed alongside Phil2, Interplay and Manfredi. Next up: Pracht, Frankfurt on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Patrick Schröter is a tech house and house artist tracked on soundcheck, with 5
 
 Phil2, Interplay, Manfredi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickschroter/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickschroter/)*

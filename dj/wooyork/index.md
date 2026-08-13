@@ -1,6 +1,6 @@
 # Woo York
 
-Woo York is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Loo Loo, Mexico City on Thu, 20 Aug 2026.
+Woo York is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Loo Loo, Mexico City on Thu, 20 Aug 2026.
 
 Woo York is a techno and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: Loo Loo, Mexicocity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Woo York is a techno and house artist tracked on soundcheck, with 44 sets logged
 
 Olympe, Kasia (OFC), Kevin de Vries
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*

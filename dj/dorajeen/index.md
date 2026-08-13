@@ -1,6 +1,6 @@
 # Dora Jeen
 
-Dora Jeen is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+Dora Jeen is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 Dora Jeen is a techno and hardcore artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside TONNO, AARON BLEEK and Anika Kunst. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dora Jeen is a techno and hardcore artist based in Spain, tracked on soundcheck,
 
 TONNO, AARON BLEEK, Anika Kunst
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorajeen/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorajeen/)*

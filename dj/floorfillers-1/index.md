@@ -1,6 +1,6 @@
 # Floorfillers (1)
 
-Floorfillers (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Plantation, Paris on Fri, 21 Aug 2026.
+Floorfillers (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Plantation, Paris on Fri, 21 Aug 2026.
 
 Floorfillers (1) is a house and techno artist based in France, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, London and Madrid and 2 more. Often billed alongside Hardrock Striker, Loulou Ferrari and Maxye. Next up: Plantation, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Floorfillers (1) is a house and techno artist based in France, tracked on soundc
 
 Hardrock Striker, Loulou Ferrari, Maxye
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorfillers-1/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorfillers-1/)*

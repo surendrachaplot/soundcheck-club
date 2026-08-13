@@ -1,6 +1,6 @@
 # Benski (CA)
 
-Benski (CA) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
+Benski (CA) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
 
 Benski (CA) is an electronic artist based in France, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Joe Décor, Benski and Chuck Woodward. Next up: Standard Time, Toronto on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Benski (CA) is an electronic artist based in France, tracked on soundcheck, with
 
 Joe Décor, Benski, Chuck Woodward
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benskica/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benskica/)*

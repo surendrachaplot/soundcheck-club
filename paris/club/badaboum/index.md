@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Club — LA CH!CK: BIEBER FEVER" on Thu, 13 Aug 2026.
+Badaboum is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Club — LA CH!CK: BIEBER FEVER" on Thu, 13 Aug 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including CLEIDO, Adrien Calvet, Bande de Filles and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 14 upcoming nights, wit
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

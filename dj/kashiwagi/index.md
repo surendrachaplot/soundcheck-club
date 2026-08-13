@@ -1,6 +1,6 @@
 # KASHIWAGI
 
-KASHIWAGI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
+KASHIWAGI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
 
 KASHIWAGI is a techno and house artist based in Japan, tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside Krankent, ksd6700 and DJ ISE. Next up: ZEROTOKYO, Tokyo on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ KASHIWAGI is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Krankent, ksd6700, DJ ISE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*

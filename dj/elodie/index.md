@@ -1,6 +1,6 @@
 # ELODIE
 
-ELODIE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The View From The Shard, London on Fri, 21 Aug 2026.
+ELODIE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The View From The Shard, London on Fri, 21 Aug 2026.
 
 ELODIE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, London, Madrid and Sydney. Often billed alongside Tomoya Mizuno, Anna Wall and Harry McCanna. Next up: The View From The Shard, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ELODIE is a tech house and house artist based in United Kingdom, tracked on soun
 
 Tomoya Mizuno, Anna Wall, Harry McCanna
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elodie/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elodie/)*

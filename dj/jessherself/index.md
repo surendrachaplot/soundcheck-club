@@ -1,6 +1,6 @@
 # Jess Herself
 
-Jess Herself is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Ivy, Sydney on Sat, 15 Aug 2026.
+Jess Herself is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Ivy, Sydney on Sat, 15 Aug 2026.
 
 Jess Herself is a house and deep house artist tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside Domonique Dee, Dr Mendez and Flashmob. Next up: The Ivy, Sydney on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Jess Herself is a house and deep house artist tracked on soundcheck, with 5 sets
 
 Domonique Dee, Dr Mendez, Flashmob
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessherself/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessherself/)*

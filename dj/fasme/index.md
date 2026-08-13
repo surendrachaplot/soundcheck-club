@@ -1,6 +1,6 @@
 # Fasme
 
-Fasme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Waiting Room, London on Fri, 25 Sept 2026.
+Fasme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Waiting Room, London on Fri, 25 Sept 2026.
 
 Fasme is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Glasgow and Hamburg and 8 more. Often billed alongside Binary Digit, Mézigue and Airod. Next up: The Waiting Room, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fasme is a techno and house artist tracked on soundcheck, with 37 sets logged ac
 
 Binary Digit, Mézigue, Airod
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*

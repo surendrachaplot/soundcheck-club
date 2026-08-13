@@ -1,6 +1,6 @@
 # Pablo Massa
 
-Pablo Massa is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 33/45 Club, Valencia on Sat, 15 Aug 2026.
+Pablo Massa is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 33/45 Club, Valencia on Sat, 15 Aug 2026.
 
 Pablo Massa is a minimal and techno artist tracked on soundcheck, with 2 sets logged across London and Valencia. Often billed alongside James Rustle, Johnny Yihi and Peter W. Next up: 33/45 Club, Valencia on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Pablo Massa is a minimal and techno artist tracked on soundcheck, with 2 sets lo
 
 James Rustle, Johnny Yihi, Peter W
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomassa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomassa/)*

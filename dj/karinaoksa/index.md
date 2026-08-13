@@ -1,6 +1,6 @@
 # Karina Oksa
 
-Karina Oksa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Karina Oksa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 Karina Oksa is a house and techno artist based in Russia, tracked on soundcheck, with 8 sets logged across Belgrade. Often billed alongside 011bpm, ACOR and AEREA. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Karina Oksa is a house and techno artist based in Russia, tracked on soundcheck,
 
 011bpm, ACOR, AEREA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaoksa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaoksa/)*

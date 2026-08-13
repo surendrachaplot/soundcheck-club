@@ -1,6 +1,6 @@
 # .VISIONS AMSTERDAM at Bar Twenty Two
 
-.VISIONS AMSTERDAM at Bar Twenty Two on Fri 23 Oct, Amsterdam. 7 acts on the bill: Angelo Ferreri, Black Legend, Hotswing and Lorenzo Spano and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+.VISIONS AMSTERDAM at Bar Twenty Two on Fri 23 Oct, Amsterdam. 8 acts on the bill: Angelo Ferreri, Black Legend, FEX (IT) and Hotswing and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Angelo Ferreri
 - Black Legend
+- FEX (IT)
 - Hotswing
 - Lorenzo Spano
 - Luca Guerrieri

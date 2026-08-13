@@ -1,6 +1,6 @@
 # Quentin Schneider
 
-Quentin Schneider is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
+Quentin Schneider is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
 
 Quentin Schneider is a techno and electro artist based in France, tracked on soundcheck, with 21 sets logged across Nantes. Often billed alongside Dan Bono, Bob Sinclar and Corentin Mab. Next up: Warehouse, Nantes on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Quentin Schneider is a techno and electro artist based in France, tracked on sou
 
 Dan Bono, Bob Sinclar, Corentin Mab
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quentinschneider/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quentinschneider/)*

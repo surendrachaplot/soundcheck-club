@@ -1,6 +1,6 @@
 # David Elders
 
-David Elders is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Paradise Palms, Edinburgh on Sat, 15 Aug 2026.
+David Elders is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paradise Palms, Edinburgh on Sat, 15 Aug 2026.
 
 David Elders is a disco and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh and London. Often billed alongside Yogi Haughton, Gareth Sommerville and Aston Evans. Next up: Paradise Palms, Edinburgh on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ David Elders is a disco and house artist based in United Kingdom, tracked on sou
 
 Yogi Haughton, Gareth Sommerville, Aston Evans
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelders/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelders/)*

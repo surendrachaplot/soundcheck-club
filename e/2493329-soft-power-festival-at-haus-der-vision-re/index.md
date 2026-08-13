@@ -1,6 +1,6 @@
 # Soft Power Festival at Haus der Visionäre
 
-Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 35 acts on the bill: Amir Alexander, Anahita Sadighi, Bruno Schmidt and Christine Benz and 31 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 36 acts on the bill: Amir Alexander, Anahita Sadighi, Bruno Schmidt and Camion Bazar and 32 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 35 acts on th
 - Amir Alexander
 - Anahita Sadighi
 - Bruno Schmidt
+- Camion Bazar
 - Christine Benz
 - DJ Dustin
 - DJ Fart in the Club

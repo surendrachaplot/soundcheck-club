@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown" on Fri, 14 Aug 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown" on Fri, 14 Aug 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | Sat, 29 Aug 2026 | Neuro & Liquid - Drum & Bass on 3 Floors | H.U.K, Lay.Dee Strange, Mr.Lafont, Soniq, Upzet |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Andriiic, DJ Jordan, Endica, MCHL51, Marí Kozlovska, Mosher, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |
+| Sat, 3 Oct 2026 | NetWork 2.0 |  |
 | Fri, 9 Oct 2026 | Seazed: Bounce & Trance Night |  |
-| Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | Ewelina Koll, GHOST DE, Marc van Linden, Seimen Dexter |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

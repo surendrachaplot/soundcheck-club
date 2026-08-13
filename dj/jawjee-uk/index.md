@@ -1,6 +1,6 @@
 # Jawjee
 
-Jawjee is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at After Dark, Bristol on Sat, 19 Sept 2026.
+Jawjee is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at After Dark, Bristol on Sat, 19 Sept 2026.
 
 Jawjee is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol and London. Often billed alongside Guy J, John '00' Fleming and Lavie Au Soleil. Next up: After Dark, Bristol on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Jawjee is a progressive house and deep house artist based in United Kingdom, tra
 
 Guy J, John '00' Fleming, Lavie Au Soleil
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*

@@ -1,14 +1,15 @@
 # krawallwitz
 
-krawallwitz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
+krawallwitz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
 
-krawallwitz is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Schorli, Stefoon and Erosiv. Next up: Mellowpark, Berlin on Sat 22 Aug.
+krawallwitz is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Schorli, Smoothie Operator and Stefoon. Next up: Mellowpark, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Mellowpark | Berlin |
+| Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ krawallwitz is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Schorli, Stefoon, Erosiv
+Schorli, Smoothie Operator, Stefoon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallwitz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallwitz/)*

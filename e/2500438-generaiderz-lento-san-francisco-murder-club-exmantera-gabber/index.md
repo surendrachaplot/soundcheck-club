@@ -1,11 +1,11 @@
-# ++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 at F8 1192 Folsom
+# ++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 at TBA
 
-++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 at F8 1192 Folsom on Sat 22 Aug, Sanfrancisco. 4 acts on the bill: exmantera, Gabberbitch69, Hissy Fit and Technopagan. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
+++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 at TBA on Sat 22 Aug, Sanfrancisco. 4 acts on the bill: exmantera, Gabberbitch69, Hissy Fit and Technopagan. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 22 Aug 2026 |
-| Venue | F8 1192 Folsom |
+| Venue | TBA |
 | City | San Francisco/Oakland |
 
 ## Line-up

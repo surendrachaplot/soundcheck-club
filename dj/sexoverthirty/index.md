@@ -1,6 +1,6 @@
 # Sex Over Thirty
 
-Sex Over Thirty is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
+Sex Over Thirty is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
 
 Sex Over Thirty is a house and club artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Ah Dek, DJ girlcrush and Kristen London. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Sex Over Thirty is a house and club artist tracked on soundcheck, with 5 sets lo
 
 Ah Dek, DJ girlcrush, Kristen London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexoverthirty/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexoverthirty/)*

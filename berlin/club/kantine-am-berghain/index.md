@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "One Leg One Eye + Bridget Ferrill" on Mon, 7 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "One Leg One Eye + Bridget Ferrill" on Mon, 7 Sept 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Aircraft, Blockhead, Christoph de Babalon and Do you know Juno and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 10 upcoming
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

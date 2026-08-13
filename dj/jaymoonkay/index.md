@@ -1,6 +1,6 @@
 # Jaymoonkay
 
-Jaymoonkay is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Giri, Berlin on Fri, 14 Aug 2026.
+Jaymoonkay is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Giri, Berlin on Fri, 14 Aug 2026.
 
 Jaymoonkay is a house and deep house artist based in South Korea, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Cheap Coffee, Czech Strings and NicolasNico. Next up: Giri, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jaymoonkay is a house and deep house artist based in South Korea, tracked on sou
 
 Cheap Coffee, Czech Strings, NicolasNico
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymoonkay/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymoonkay/)*

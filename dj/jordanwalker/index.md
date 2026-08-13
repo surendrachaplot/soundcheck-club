@@ -1,6 +1,6 @@
 # Jordan Walker
 
-Jordan Walker is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+Jordan Walker is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 Jordan Walker is a tech house and house artist tracked on soundcheck, with 11 sets logged across Leeds. Often billed alongside BP (1), Eli Shaw and Luke Foulkes. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jordan Walker is a tech house and house artist tracked on soundcheck, with 11 se
 
 BP (1), Eli Shaw, Luke Foulkes
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*

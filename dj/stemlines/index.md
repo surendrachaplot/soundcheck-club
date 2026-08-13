@@ -1,6 +1,6 @@
 # STEMLINES
 
-STEMLINES is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pageant, New York City on Thu, 13 Aug 2026.
+STEMLINES is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pageant, New York City on Thu, 13 Aug 2026.
 
 STEMLINES is an experimental and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside 1morning, Bookworms and DJ Linda. Next up: Pageant, Newyorkcity on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ STEMLINES is an experimental and club artist based in United States of America, 
 
 1morning, Bookworms, DJ Linda
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stemlines/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stemlines/)*

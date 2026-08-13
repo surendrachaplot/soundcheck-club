@@ -1,6 +1,6 @@
 # Eamon Harkin
 
-Eamon Harkin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Nowadays, New York City on Sun, 16 Aug 2026.
+Eamon Harkin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Nowadays, New York City on Sun, 16 Aug 2026.
 
 Eamon Harkin is a techno and house artist based in United States of America, tracked on soundcheck, with 98 sets logged across Krakow and Newyorkcity. Often billed alongside Justin Carter, Aurora Halal and Avalon Emerson. Next up: Nowadays, Newyorkcity on Sun 16 Aug.
 
@@ -32,4 +32,4 @@ Eamon Harkin is a techno and house artist based in United States of America, tra
 
 Justin Carter, Aurora Halal, Avalon Emerson
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eamonharkin/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eamonharkin/)*

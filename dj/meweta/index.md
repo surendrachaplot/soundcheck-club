@@ -1,8 +1,8 @@
 # meweta
 
-meweta is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Forestlimit, Tokyo on Thu, 13 Aug 2026.
+meweta is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Forestlimit, Tokyo on Thu, 13 Aug 2026.
 
-meweta is a bass and electronica artist based in Japan, tracked on soundcheck, with 52 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, Xamd and moge!. Next up: Forestlimit, Tokyo on Thu 13 Aug.
+meweta is a bass and electronica artist based in Japan, tracked on soundcheck, with 53 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, Xamd and moge!. Next up: Forestlimit, Tokyo on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ meweta is a bass and electronica artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Forestlimit | Tokyo |
 | Fri, 21 Aug 2026 | R Lounge | Tokyo |
+| Wed, 26 Aug 2026 | WWW | Tokyo |
 | Sun, 30 Aug 2026 | Live Haus | Tokyo |
 
 ## Recently played
@@ -27,4 +28,4 @@ meweta is a bass and electronica artist based in Japan, tracked on soundcheck, w
 
 NordOst, Xamd, moge!
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*

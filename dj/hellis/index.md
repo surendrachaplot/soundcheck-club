@@ -1,6 +1,6 @@
 # HELLIS
 
-HELLIS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
+HELLIS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
 
 HELLIS is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Tbilisi and Warsaw. Often billed alongside Anela, Fank Ford and KASSANDRA. Next up: Smolna, Warsaw on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ HELLIS is a techno and industrial artist based in Ukraine, tracked on soundcheck
 
 Anela, Fank Ford, KASSANDRA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellis/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellis/)*

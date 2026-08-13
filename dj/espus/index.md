@@ -1,6 +1,6 @@
 # ESP
 
-ESP is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, New York City on Fri, 21 Aug 2026.
+ESP is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, New York City on Fri, 21 Aug 2026.
 
 ESP is an ambient and experimental artist tracked on soundcheck, with 27 sets logged across Chicago, Copenhagen, Dublin and London and 12 more. Often billed alongside Malibu, Isla Den and TDJ. Next up: TBA, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ESP is an ambient and experimental artist tracked on soundcheck, with 27 sets lo
 
 Malibu, Isla Den, TDJ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espus/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espus/)*

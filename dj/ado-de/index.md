@@ -1,6 +1,6 @@
 # ADO (DE)
 
-ADO (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+ADO (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 ADO (DE) is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Losangeles and Zurich. Often billed alongside tamypro, Captain WAP and Miran N. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ ADO (DE) is a house and techno artist tracked on soundcheck, with 13 sets logged
 
 tamypro, Captain WAP, Miran N
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ado-de/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ado-de/)*

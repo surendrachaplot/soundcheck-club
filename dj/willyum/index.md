@@ -1,6 +1,6 @@
 # Willyum
 
-Willyum is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Barbary, Philadelphia on Fri, 14 Aug 2026.
+Willyum is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Barbary, Philadelphia on Fri, 14 Aug 2026.
 
 Willyum is a house and deep house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Philadelphia. Often billed alongside Rob Paine, Ty Salone and Keen. Next up: The Barbary, Philadelphia on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Willyum is a house and deep house artist based in United States of America, trac
 
 Rob Paine, Ty Salone, Keen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willyum/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willyum/)*

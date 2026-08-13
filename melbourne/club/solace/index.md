@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Free. Live. Music // Jazz Upstairs" on Wed, 12 Aug 2026.
+Solace is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Intrinsik 1st BDAY - ADMINISTRATOR + DJ Glug" on Thu, 13 Aug 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, with line-ups including ADMINISTRATOR, Afrodisiac, Aidan Rudd and Asynine and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including ADMINISTRATOR, Afrodisiac, Aidan Rudd and Asynine and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Free. Live. Music // Jazz Upstairs |  |
 | Thu, 13 Aug 2026 | Intrinsik 1st BDAY - ADMINISTRATOR + DJ Glug | ADMINISTRATOR, DJ Kiti, Lucy D, Ryan Brim, TEEJAY |
 | Thu, 13 Aug 2026 | Solace Radio x Intrinsik W/ Sasha Fern, TEEJAY, Rosella |  |
 | Fri, 14 Aug 2026 | Solace Invites Ed Kent B2B Hasvat Informant All Night Upstairs + Rosax All Night Downstairs | Ed Kent, Hasvat Informant, Rosax |
@@ -18,9 +17,10 @@ Solace is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, w
 | Fri, 21 Aug 2026 | Saltare x Solace W/ Aidan Rudd & Asynine (Live) | Aidan Rudd, Asynine, MJK., syrup-E |
 | Sat, 22 Aug 2026 | Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ | Afrodisiac, JD (3), Miki, Rev Lon, Tina Disco |
 | Wed, 26 Aug 2026 | Free. Live. Music // Jazz Upstairs |  |
+| Thu, 27 Aug 2026 | Solace Radio x Daisy Records W/ Selena, Dawn Sports, Frankifettucini | Frankifettucini, Selena (2) |
 
 ## Address
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

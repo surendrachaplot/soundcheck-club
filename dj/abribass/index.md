@@ -1,19 +1,19 @@
 # Abribass
 
-Abribass is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 12 Aug 2026.
+Abribass is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 23 Sept 2026.
 
-Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Blachord, Anaté and Marcus Holder. Next up: Spielbank Berlin am Potsdamer Platz, Berlin on Wed 12 Aug.
+Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Blachord, Anaté and Marcus Holder. Next up: Spielbank Berlin am Potsdamer Platz, Berlin on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 | Wed, 23 Sept 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 | Wed, 7 Oct 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 
 ## Recently played
 
+- Spielbank Berlin am Potsdamer Platz, Berlin — Wed, 12 Aug 2026
 - The Social Hub Berlin, Berlin — Fri, 31 Jul 2026
 - ://about blank, Berlin — Fri, 26 Jun 2026
 - Spätkauf / Lateshop / Café ROJ 49, Berlin — Sun, 21 Jun 2026
@@ -21,10 +21,9 @@ Abribass is a house and tech house artist based in Germany, tracked on soundchec
 - Bulbul Berlin, Berlin — Sat, 2 May 2026
 - Amano East-Side, Berlin — Thu, 2 Apr 2026
 - Bulbul Berlin, Berlin — Thu, 26 Feb 2026
-- Rotkäppchens Bar, Berlin — Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Blachord, Anaté, Marcus Holder
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*

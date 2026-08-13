@@ -1,6 +1,6 @@
 # Seli (2)
 
-Seli (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
+Seli (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
 
 Seli (2) is a techno and electronica artist tracked on soundcheck, with 46 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Phanta, Bluecommand and Octoptic. Next up: Fünk, Mexicocity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Seli (2) is a techno and electronica artist tracked on soundcheck, with 46 sets 
 
 Phanta, Bluecommand, Octoptic
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seli-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seli-2/)*

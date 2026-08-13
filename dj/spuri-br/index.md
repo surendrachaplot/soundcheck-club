@@ -1,6 +1,6 @@
 # Spuri
 
-Spuri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 28 Aug 2026.
+Spuri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 28 Aug 2026.
 
 Spuri is a house and techno artist tracked on soundcheck, with 22 sets logged across Lisbon and Saopaulo. Often billed alongside Adnan Sharif, DJ Murphy and Anderson Noise. Next up: D-EDGE, Saopaulo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Spuri is a house and techno artist tracked on soundcheck, with 22 sets logged ac
 
 Adnan Sharif, DJ Murphy, Anderson Noise
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spuri-br/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spuri-br/)*

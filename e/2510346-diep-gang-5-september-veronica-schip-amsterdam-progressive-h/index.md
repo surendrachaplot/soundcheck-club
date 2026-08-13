@@ -1,6 +1,6 @@
-# Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House at Veronica Schip
+# Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper at Veronica Schip
 
-Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House on Sat 5 Sept, Amsterdam. 2 acts on the bill: Libere and Nova Caza. Progressive House. Preview the line-up and save it on soundcheck.
+Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper on Sat 5 Sept, Amsterdam. 2 acts on the bill: Libere and Nova Caza. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

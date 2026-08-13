@@ -1,6 +1,6 @@
 # Monster Ronson's Ichiban Karaoke
 
-Monster Ronson's Ichiban Karaoke is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "NAKED KARAOKE 3/3" on Sun, 6 Sept 2026.
+Monster Ronson's Ichiban Karaoke is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "NAKED KARAOKE 3/3" on Sun, 6 Sept 2026.
 
 Monster Ronson's Ichiban Karaoke is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including BLEACH.LIVE. Browse upcoming dates, start times and who's playing. Warschauer Str. 34, 10243 Berlin.
 
@@ -16,4 +16,4 @@ Monster Ronson's Ichiban Karaoke is a music venue in Berlin listed on soundcheck
 
 Warschauer Str. 34, 10243 Berlin, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monster-ronson-s-ichiban-karaoke/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monster-ronson-s-ichiban-karaoke/)*

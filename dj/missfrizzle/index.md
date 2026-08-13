@@ -1,14 +1,14 @@
 # Miss Frizzle
 
-Miss Frizzle is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humble Sea - Seacret Garden, San Francisco/Oakland on Sun, 16 Aug 2026.
+Miss Frizzle is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sun, 16 Aug 2026.
 
-Miss Frizzle is a house and balearic artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Mr Palomar, Blackpaw and COMETA. Next up: Humble Sea - Seacret Garden, Sanfrancisco on Sun 16 Aug.
+Miss Frizzle is a house and balearic artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Mr Palomar, Blackpaw and COMETA. Next up: Humble Sea Beer Garden on the Wharf, Sanfrancisco on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Humble Sea - Seacret Garden | San Francisco/Oakland |
+| Sun, 16 Aug 2026 | Humble Sea Beer Garden on the Wharf | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Miss Frizzle is a house and balearic artist based in United States of America, t
 
 Mr Palomar, Blackpaw, COMETA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missfrizzle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missfrizzle/)*

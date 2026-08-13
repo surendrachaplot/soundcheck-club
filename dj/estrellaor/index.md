@@ -1,6 +1,6 @@
 # ESTRELLA OR
 
-ESTRELLA OR is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sala Villanos, Madrid on Fri, 25 Sept 2026.
+ESTRELLA OR is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sala Villanos, Madrid on Fri, 25 Sept 2026.
 
 ESTRELLA OR is an electronica artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona and Madrid. Often billed alongside Ninalash!, materia hache and Beni jung. Next up: Sala Villanos, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ESTRELLA OR is an electronica artist based in Spain, tracked on soundcheck, with
 
 Ninalash!, materia hache, Beni jung
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrellaor/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrellaor/)*

@@ -1,6 +1,6 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Aline Umber is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
 Aline Umber is a house and minimal artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: DC-10, Ibiza on Mon 17 Aug.
 
@@ -30,4 +30,4 @@ Aline Umber is a house and minimal artist tracked on soundcheck, with 100 sets l
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

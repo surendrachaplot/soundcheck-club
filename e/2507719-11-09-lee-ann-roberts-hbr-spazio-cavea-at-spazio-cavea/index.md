@@ -1,6 +1,6 @@
 # 11.09 Lee Ann Roberts -HBR - Spazio Cavea at Spazio Cavea
 
-11.09 Lee Ann Roberts -HBR - Spazio Cavea on Fri 11 Sept, Rome. 1 act on the bill: Lee Ann Roberts. Techno and Acid. Preview the line-up and save it on soundcheck.
+11.09 Lee Ann Roberts -HBR - Spazio Cavea on Fri 11 Sept, Rome. 4 acts on the bill: Frankyeffe, GIULIA (IT), Jalex and Lee Ann Roberts. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@
 
 ## Line-up
 
+- Frankyeffe
+- GIULIA (IT)
+- Jalex
 - Lee Ann Roberts
 
 *Source: [soundcheck](https://soundcheck.club/e/2507719-11-09-lee-ann-roberts-hbr-spazio-cavea-at-spazio-cavea/)*

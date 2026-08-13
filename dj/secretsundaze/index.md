@@ -1,13 +1,14 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
+Secretsundaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 16 Aug 2026.
 
-Secretsundaze is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Big Penny Social, London on Sat 12 Sept.
+Secretsundaze is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Sunday Sunday, Mexicocity on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Sunday Sunday | Mexico City |
 | Sat, 12 Sept 2026 | Big Penny Social | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Secretsundaze is a house and techno artist tracked on soundcheck, with 75 sets l
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

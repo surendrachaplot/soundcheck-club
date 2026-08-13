@@ -1,6 +1,6 @@
 # Pyrame
 
-Pyrame is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Minimal Bar, Berlin on Thu, 24 Sept 2026.
+Pyrame is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Minimal Bar, Berlin on Thu, 24 Sept 2026.
 
 Pyrame is a house and electro artist tracked on soundcheck, with 55 sets logged across Barcelona and Berlin. Often billed alongside Acid Washed, Bardamu and Justin Rivera. Next up: Minimal Bar, Berlin on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Pyrame is a house and electro artist tracked on soundcheck, with 55 sets logged 
 
 Acid Washed, Bardamu, Justin Rivera
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*

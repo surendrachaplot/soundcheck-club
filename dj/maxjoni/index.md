@@ -1,6 +1,6 @@
 # Max Joni
 
-Max Joni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
+Max Joni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
 Max Joni is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 2 more. Often billed alongside MUKKIMIAU, ONNI and LIZZN. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Max Joni is a techno and house artist tracked on soundcheck, with 23 sets logged
 
 MUKKIMIAU, ONNI, LIZZN
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjoni/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjoni/)*

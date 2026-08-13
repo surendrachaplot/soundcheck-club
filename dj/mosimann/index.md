@@ -1,6 +1,6 @@
 # Mosimann
 
-Mosimann is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cova Santa, Ibiza on Sat, 12 Sept 2026.
+Mosimann is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cova Santa, Ibiza on Sat, 12 Sept 2026.
 
 Mosimann is an electro and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: Cova Santa, Ibiza on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Mosimann is an electro and techno artist tracked on soundcheck, with 20 sets log
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

@@ -1,6 +1,6 @@
 # Stefan Miller
 
-Stefan Miller is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - UFERLOS BEACH CLUB, Frankfurt on Fri, 14 Aug 2026.
+Stefan Miller is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - UFERLOS BEACH CLUB, Frankfurt on Fri, 14 Aug 2026.
 
 Stefan Miller is a house and tech house artist based in Germany, tracked on soundcheck, with 11 sets logged across Frankfurt. Often billed alongside Cvni, Danito and Human Rias. Next up: TBA - UFERLOS BEACH CLUB, Frankfurt on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Stefan Miller is a house and tech house artist based in Germany, tracked on soun
 
 Cvni, Danito, Human Rias
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmiller/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmiller/)*

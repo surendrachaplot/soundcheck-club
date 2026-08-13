@@ -1,6 +1,6 @@
 # Fe!n
 
-Fe!n is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Fe!n Reopening" on Fri, 21 Aug 2026.
+Fe!n is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fe!n Reopening" on Fri, 21 Aug 2026.
 
 Fe!n is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including arora. Browse upcoming dates, start times and who's playing. Salzgries 1, 1010 Wien.
 
@@ -14,4 +14,4 @@ Fe!n is a music venue in Vienna listed on soundcheck. 1 upcoming night, with lin
 
 Salzgries 1, 1010 Wien, Vienna
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/fe-n/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/fe-n/)*

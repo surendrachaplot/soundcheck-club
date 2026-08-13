@@ -1,6 +1,6 @@
 # Mod-R
 
-Mod-R is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dalston Den, London on Fri, 14 Aug 2026.
+Mod-R is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dalston Den, London on Fri, 14 Aug 2026.
 
 Mod-R is a drum & bass and bass artist tracked on soundcheck, with 6 sets logged across Aberdeen and London. Often billed alongside ZEMA, Arma (2) and BHV2099. Next up: Dalston Den, London on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Mod-R is a drum & bass and bass artist tracked on soundcheck, with 6 sets logged
 
 ZEMA, Arma (2), BHV2099
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod-r/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod-r/)*

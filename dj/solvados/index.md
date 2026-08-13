@@ -1,6 +1,6 @@
 # Solvados
 
-Solvados is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
+Solvados is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
 
 Solvados is a techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside DEN!SE, Gabrielle (DE) and TAKT130. Next up: OXI, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Solvados is a techno artist based in Germany, tracked on soundcheck, with 19 set
 
 DEN!SE, Gabrielle (DE), TAKT130
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solvados/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solvados/)*

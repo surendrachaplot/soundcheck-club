@@ -1,6 +1,6 @@
 # Kaipora
 
-Kaipora is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Spin, San Diego on Fri, 14 Aug 2026.
+Kaipora is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Spin, San Diego on Fri, 14 Aug 2026.
 
 Kaipora is a techno and house artist tracked on soundcheck, with 7 sets logged across Detroit, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Sammy Legs, Britton and Sprout. Next up: Spin, Sandiego on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Kaipora is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 Sammy Legs, Britton, Sprout
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaipora/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaipora/)*

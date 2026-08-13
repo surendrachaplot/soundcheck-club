@@ -1,6 +1,6 @@
 # KRETA
 
-KRETA is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
+KRETA is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
 
 KRETA is a techno and afro house artist based in Austria, tracked on soundcheck, with 42 sets logged across Vienna. Often billed alongside adrialin, Arman Shadow and PAUNA. Next up: Das Werk, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KRETA is a techno and afro house artist based in Austria, tracked on soundcheck,
 
 adrialin, Arman Shadow, PAUNA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreta/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreta/)*

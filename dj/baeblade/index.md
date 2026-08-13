@@ -1,6 +1,6 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Bae Blade is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 Bae Blade is a techno and trance artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Bae Blade is a techno and trance artist tracked on soundcheck, with 100 sets log
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

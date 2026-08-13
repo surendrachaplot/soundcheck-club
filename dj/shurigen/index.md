@@ -1,6 +1,6 @@
 # Shurigen
 
-Shurigen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bike Jesus, Prague on Fri, 14 Aug 2026.
+Shurigen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bike Jesus, Prague on Fri, 14 Aug 2026.
 
 Shurigen is a techno and trance artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin and Prague. Often billed alongside Demonika, Dash (CZ) and Pink Concrete. Next up: Bike Jesus, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Shurigen is a techno and trance artist tracked on soundcheck, with 57 sets logge
 
 Demonika, Dash (CZ), Pink Concrete
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*

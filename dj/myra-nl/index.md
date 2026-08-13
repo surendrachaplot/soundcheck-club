@@ -1,6 +1,6 @@
 # MYRA (NL)
 
-MYRA (NL) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Glazart, Paris on Sun, 23 Aug 2026.
+MYRA (NL) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Glazart, Paris on Sun, 23 Aug 2026.
 
 MYRA (NL) is a techno and electro artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Berlin and Milan and 6 more. Often billed alongside Carmen Lisa (2), Sandrien and Lobster (NL). Next up: Glazart, Paris on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ MYRA (NL) is a techno and electro artist tracked on soundcheck, with 57 sets log
 
 Carmen Lisa (2), Sandrien, Lobster (NL)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myra-nl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myra-nl/)*

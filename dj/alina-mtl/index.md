@@ -1,6 +1,6 @@
 # Alina (MTL)
 
-Alina (MTL) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Marché des Possibles, Montreal on Sun, 23 Aug 2026.
+Alina (MTL) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Marché des Possibles, Montreal on Sun, 23 Aug 2026.
 
 Alina (MTL) is a house and disco artist tracked on soundcheck, with 78 sets logged across Detroit, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Guthrie, Ferias and Destiny (CA). Next up: Marché des Possibles, Montreal on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Alina (MTL) is a house and disco artist tracked on soundcheck, with 78 sets logg
 
 Guthrie, Ferias, Destiny (CA)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-mtl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-mtl/)*

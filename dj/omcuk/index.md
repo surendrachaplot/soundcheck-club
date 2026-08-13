@@ -1,6 +1,6 @@
 # OMC (UK)
 
-OMC (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
+OMC (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
 OMC (UK) is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside GAZZA (UK), Ardishko and NAFEESA. Next up: The Glove That Fits, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ OMC (UK) is a house and garage artist tracked on soundcheck, with 5 sets logged 
 
 GAZZA (UK), Ardishko, NAFEESA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omcuk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omcuk/)*

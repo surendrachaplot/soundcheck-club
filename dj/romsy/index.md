@@ -1,6 +1,6 @@
 # ROMSY
 
-ROMSY is a Dancehall and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
+ROMSY is a Dancehall and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
 
 ROMSY is a dancehall and bass artist tracked on soundcheck, with 12 sets logged across Amsterdam and Rotterdam. Often billed alongside Yucky, Alain and Chinnamasta. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ROMSY is a dancehall and bass artist tracked on soundcheck, with 12 sets logged 
 
 Yucky, Alain, Chinnamasta
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romsy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romsy/)*

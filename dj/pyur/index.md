@@ -1,6 +1,6 @@
 # Pyur
 
-Pyur is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
+Pyur is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
 
 Pyur is an experimental and ambient artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Munich and Prague. Often billed alongside Polygonia, ABADIR and APRS. Next up: Genezareth-Kirche, Berlin on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ Pyur is an experimental and ambient artist based in Germany, tracked on soundche
 
 Polygonia, ABADIR, APRS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyur/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyur/)*

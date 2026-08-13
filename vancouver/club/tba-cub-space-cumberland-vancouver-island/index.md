@@ -1,6 +1,6 @@
 # TBA - CUB Space - Cumberland - Vancouver Island
 
-TBA - CUB Space - Cumberland - Vancouver Island is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Abstract Audio Summer Series 007 - Cancelled" on Sat, 15 Aug 2026.
+TBA - CUB Space - Cumberland - Vancouver Island is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Abstract Audio Summer Series 007 - Cancelled" on Sat, 15 Aug 2026.
 
 TBA - CUB Space - Cumberland - Vancouver Island is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - CUB Space - Cumberland - Vancouver Island is a music venue in Vancouver li
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Abstract Audio Summer Series 007 - Cancelled |  |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-cub-space-cumberland-vancouver-island/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-cub-space-cumberland-vancouver-island/)*

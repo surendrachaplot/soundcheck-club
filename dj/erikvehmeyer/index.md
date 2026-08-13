@@ -1,6 +1,6 @@
 # Erik Vehmeyer
 
-Erik Vehmeyer is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Catalyst, San Francisco/Oakland on Thu, 13 Aug 2026.
+Erik Vehmeyer is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Catalyst, San Francisco/Oakland on Thu, 13 Aug 2026.
 
 Erik Vehmeyer is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Budapest, Losangeles and Sanfrancisco. Often billed alongside Daizz, Dr. Recommended and Jimmy B. Next up: The Catalyst, Sanfrancisco on Thu 13 Aug.
 
@@ -9,7 +9,7 @@ Erik Vehmeyer is a house and deep house artist based in United States of America
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | The Catalyst | San Francisco/Oakland |
-| Sun, 16 Aug 2026 | Humble Sea - Seacret Garden | San Francisco/Oakland |
+| Sun, 16 Aug 2026 | Humble Sea Beer Garden on the Wharf | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Erik Vehmeyer is a house and deep house artist based in United States of America
 
 Daizz, Dr. Recommended, Jimmy B
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikvehmeyer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikvehmeyer/)*

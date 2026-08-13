@@ -1,6 +1,6 @@
 # Discotheke DJs
 
-Discotheke DJs is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Apotheke, Los Angeles on Sat, 29 Aug 2026.
+Discotheke DJs is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Apotheke, Los Angeles on Sat, 29 Aug 2026.
 
 Discotheke DJs is a disco and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles and Sandiego. Often billed alongside Sincerely, Manolo, Bones and Dakota Dean. Next up: Apotheke, Losangeles on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Discotheke DJs is a disco and house artist based in United States of America, tr
 
 Sincerely, Manolo, Bones, Dakota Dean
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discothekedjs/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discothekedjs/)*

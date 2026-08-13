@@ -1,6 +1,6 @@
 # Dom (1)
 
-Dom (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ruby Room, Tokyo on Fri, 14 Aug 2026.
+Dom (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ruby Room, Tokyo on Fri, 14 Aug 2026.
 
 Dom (1) is a house and electronica artist tracked on soundcheck, with 17 sets logged across Berlin, Hamburg, London and Malta and 5 more. Often billed alongside Antoine Baiser, Xenaia and Anna Schreit. Next up: Ruby Room, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dom (1) is a house and electronica artist tracked on soundcheck, with 17 sets lo
 
 Antoine Baiser, Xenaia, Anna Schreit
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-1/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-1/)*

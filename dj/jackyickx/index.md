@@ -1,6 +1,6 @@
 # Jacky Ickx
 
-Jacky Ickx is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Helios37, Cologne on Fri, 14 Aug 2026.
+Jacky Ickx is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Helios37, Cologne on Fri, 14 Aug 2026.
 
 Jacky Ickx is a trance and techno artist tracked on soundcheck, with 73 sets logged across Berlin, Budapest, Cologne and Frankfurt and 4 more. Often billed alongside CARGO (DE), Krash Cora and HØLLE (2). Next up: Helios37, Cologne on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Jacky Ickx is a trance and techno artist tracked on soundcheck, with 73 sets log
 
 CARGO (DE), Krash Cora, HØLLE (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*

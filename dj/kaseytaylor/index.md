@@ -1,13 +1,14 @@
 # Kasey Taylor
 
-Kasey Taylor is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Box Hub, Glasgow on Sun, 30 Aug 2026.
+Kasey Taylor is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 21 Aug 2026.
 
-Kasey Taylor is a progressive house and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Glasgow, Lisbon and Manchester and 2 more. Often billed alongside Anthony Pappa, Gai Barone and Mariano Mellino. Next up: Box Hub, Glasgow on Sun 30 Aug.
+Kasey Taylor is a progressive house and techno artist tracked on soundcheck, with 11 sets logged across Amsterdam, Glasgow, Lisbon and Manchester and 2 more. Often billed alongside Anthony Pappa, Gai Barone and Mariano Mellino. Next up: Village Underground Lisboa, Lisbon on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Village Underground Lisboa | Lisbon |
 | Sun, 30 Aug 2026 | Box Hub | Glasgow |
 | Sat, 3 Oct 2026 | Howler | Melbourne |
 
@@ -26,4 +27,4 @@ Kasey Taylor is a progressive house and house artist tracked on soundcheck, with
 
 Anthony Pappa, Gai Barone, Mariano Mellino
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*

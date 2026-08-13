@@ -1,14 +1,15 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Newinfluenzer is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Newinfluenzer is a techno and electro artist tracked on soundcheck, with 82 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Newinfluenzer is a techno and electro artist tracked on soundcheck, with 83 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Wed, 26 Aug 2026 | Lilli Escher | Hamburg |
 | Fri, 28 Aug 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 82 sets
 
 yamyam, DJ SOURCE, 11Schnull
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

@@ -1,8 +1,8 @@
 # Nanako Yamane
 
-Nanako Yamane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rack Seoul, Seoul on Sat, 15 Aug 2026.
+Nanako Yamane is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Rack Seoul, Seoul on Sat, 15 Aug 2026.
 
-Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Osaka, Seoul and Tokyo. Often billed alongside SIGNAL (JP), YU-MA and DMITRI ABSINTHE. Next up: Rack Seoul, Seoul on Sat 15 Aug.
+Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck, with 48 sets logged across Osaka, Seoul and Tokyo. Often billed alongside SIGNAL (JP), YU-MA and DMITRI ABSINTHE. Next up: Rack Seoul, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Rack Seoul | Seoul |
 | Fri, 21 Aug 2026 | House Bar Muse | Osaka |
+| Sat, 5 Sept 2026 | House Bar Muse | Osaka |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck
 
 SIGNAL (JP), YU-MA, DMITRI ABSINTHE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*

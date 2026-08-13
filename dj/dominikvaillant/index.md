@@ -1,6 +1,6 @@
 # Dominik Vaillant
 
-Dominik Vaillant is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cassiopeia, Berlin on Sat, 15 Aug 2026.
+Dominik Vaillant is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cassiopeia, Berlin on Sat, 15 Aug 2026.
 
 Dominik Vaillant is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Superstrobe, Andy Walden and Bee Lincoln. Next up: Cassiopeia, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Dominik Vaillant is a techno and house artist based in Germany, tracked on sound
 
 Superstrobe, Andy Walden, Bee Lincoln
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikvaillant/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikvaillant/)*

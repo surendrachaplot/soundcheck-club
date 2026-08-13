@@ -1,6 +1,6 @@
 # Kimoji
 
-Kimoji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Stoked&stoned, Seoul on Thu, 13 Aug 2026.
+Kimoji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Stoked&stoned, Seoul on Thu, 13 Aug 2026.
 
 Kimoji is a house and disco artist based in Indonesia, tracked on soundcheck, with 32 sets logged across Bali, Bangkok, Jakarta and Kyoto and 4 more. Often billed alongside Cozyhoon, Daichi and Jonathan Kusuma. Next up: Stoked&stoned, Seoul on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Kimoji is a house and disco artist based in Indonesia, tracked on soundcheck, wi
 
 Cozyhoon, Daichi, Jonathan Kusuma
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimoji/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimoji/)*

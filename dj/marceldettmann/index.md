@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+Marcel Dettmann is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Westhafen, Leipzig on Sat 5 Sept.
+Marcel Dettmann is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 254 set
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | Forte Antenne | Rome |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 9 Oct 2026 | Flash | Washington DC |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Sat, 7 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 254 set
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

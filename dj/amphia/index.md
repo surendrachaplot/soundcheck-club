@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
+Amphia is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
 
 Amphia is a techno and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: Algha's Plantroom, London on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Amphia is a techno and trance artist tracked on soundcheck, with 38 sets logged 
 
 MarcelDune, Gloria Rose, Bailey Ibbs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

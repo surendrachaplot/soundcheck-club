@@ -1,6 +1,6 @@
 # EYEMAY
 
-EYEMAY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
+EYEMAY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
 
 EYEMAY is a techno and hardcore artist tracked on soundcheck, with 19 sets logged across Osaka and Tokyo. Often billed alongside w (MELTDØWN), EVE (1) and TYPE-O RISK SYSTEM. Next up: Joule, Osaka on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ EYEMAY is a techno and hardcore artist tracked on soundcheck, with 19 sets logge
 
 w (MELTDØWN), EVE (1), TYPE-O RISK SYSTEM
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemay/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemay/)*

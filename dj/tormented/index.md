@@ -1,6 +1,6 @@
 # Tormented
 
-Tormented is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Strays, Detroit on Fri, 21 Aug 2026.
+Tormented is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Strays, Detroit on Fri, 21 Aug 2026.
 
 Tormented is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit. Often billed alongside Nick Burgess, Brent Shay and DykeChow. Next up: The Strays, Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Tormented is a techno and house artist based in United States of America, tracke
 
 Nick Burgess, Brent Shay, DykeChow
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*

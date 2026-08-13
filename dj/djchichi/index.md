@@ -1,13 +1,14 @@
 # DJ CHICHI
 
-DJ CHICHI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+DJ CHICHI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Schokoladen, Berlin on Fri, 21 Aug 2026.
 
-DJ CHICHI is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 4 more. Often billed alongside chichi, BBYG and Keex. Next up: Renate, Berlin on Fri 11 Sept.
+DJ CHICHI is a house and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 4 more. Often billed alongside chichi, BBYG and Keex. Next up: Schokoladen, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Schokoladen | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ CHICHI is a house and techno artist based in Germany, tracked on soundcheck, 
 
 chichi, BBYG, Keex
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchichi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchichi/)*

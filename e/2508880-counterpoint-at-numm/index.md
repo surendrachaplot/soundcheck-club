@@ -1,6 +1,6 @@
 # Counterpoint at Numm
 
-Counterpoint at Numm on Wed 26 Aug, Tokyo. 2 acts on the bill: DJ Sodeyama and PIRANHA. House and Deep House. Preview the line-up and save it on soundcheck.
+Counterpoint at Numm on Wed 26 Aug, Tokyo. 2 acts on the bill: DJ Sodeyama and PIRANHA. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

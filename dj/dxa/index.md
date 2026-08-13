@@ -1,6 +1,6 @@
 # DXA
 
-DXA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
+DXA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
 DXA is a techno and house artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Chontane, Daragma and Darkova. Next up: TBA, Toronto on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ DXA is a techno and house artist based in Canada, tracked on soundcheck, with 4 
 
 Chontane, Daragma, Darkova
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dxa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dxa/)*

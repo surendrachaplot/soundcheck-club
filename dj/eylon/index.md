@@ -1,6 +1,6 @@
 # Eylon
 
-Eylon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at De Sering, Amsterdam on Fri, 4 Sept 2026.
+Eylon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at De Sering, Amsterdam on Fri, 4 Sept 2026.
 
 Eylon is a techno and trance artist based in Sweden, tracked on soundcheck, with 5 sets logged across Amsterdam, London and Stockholm. Often billed alongside Jo-Lean, issagirl and SKINNYFAT. Next up: De Sering, Amsterdam on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Eylon is a techno and trance artist based in Sweden, tracked on soundcheck, with
 
 Jo-Lean, issagirl, SKINNYFAT
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eylon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eylon/)*

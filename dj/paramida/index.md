@@ -1,14 +1,15 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Motel Campo, Geneva on Sat, 15 Aug 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Motel Campo, Geneva on Sat, 15 Aug 2026.
 
-PARAMIDA is a house and techno artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Motel Campo, Geneva on Sat 15 Aug.
+PARAMIDA is a house and techno artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Motel Campo, Geneva on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Motel Campo | Geneva |
+| Tue, 25 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -32,4 +33,4 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 244 sets logge
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

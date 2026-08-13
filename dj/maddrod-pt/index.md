@@ -1,6 +1,6 @@
 # Madd Rod
 
-Madd Rod is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Madd Rod is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 Madd Rod is a techno and house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 5 more. Often billed alongside Bizzarro Universe, C.A.R. and DJ Tennis. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Madd Rod is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 Bizzarro Universe, C.A.R., DJ Tennis
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddrod-pt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddrod-pt/)*

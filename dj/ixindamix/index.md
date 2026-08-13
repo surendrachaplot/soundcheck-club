@@ -1,6 +1,6 @@
 # Ixindamix
 
-Ixindamix is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Reinstate, London on Wed, 16 Sept 2026.
+Ixindamix is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Reinstate, London on Wed, 16 Sept 2026.
 
 Ixindamix is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Geneva, Ghent and London and 6 more. Often billed alongside 69DB, DJ Regret and Madtronik. Next up: Reinstate, London on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Ixindamix is a techno and acid artist based in United Kingdom, tracked on soundc
 
 69DB, DJ Regret, Madtronik
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*

@@ -1,6 +1,6 @@
 # BONNE-V
 
-BONNE-V is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
+BONNE-V is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
 
 BONNE-V is a techno and tech house artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal and Toronto. Often billed alongside Badgalquirit, Field Note and Kajaka. Next up: Breakglass Studios, Montreal on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ BONNE-V is a techno and tech house artist based in Canada, tracked on soundcheck
 
 Badgalquirit, Field Note, Kajaka
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonne-v/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonne-v/)*

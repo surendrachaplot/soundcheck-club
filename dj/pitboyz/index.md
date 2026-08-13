@@ -1,6 +1,6 @@
 # Pit Boyz
 
-Pit Boyz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Barbary, Philadelphia on Fri, 14 Aug 2026.
+Pit Boyz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Barbary, Philadelphia on Fri, 14 Aug 2026.
 
 Pit Boyz is a garage and house artist tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside CHRSBRRY, Todd Edwards and Willyum. Next up: The Barbary, Philadelphia on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Pit Boyz is a garage and house artist tracked on soundcheck, with 2 sets logged 
 
 CHRSBRRY, Todd Edwards, Willyum
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitboyz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitboyz/)*

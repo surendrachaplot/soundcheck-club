@@ -1,6 +1,6 @@
 # Studio Z
 
-Studio Z is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "SUGA RUSH" on Fri, 14 Aug 2026.
+Studio Z is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "SUGA RUSH" on Fri, 14 Aug 2026.
 
 Studio Z is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Orphans Yard, 537 Brixton Station Road, Brixton, London, SW9 8QB, United Kingdom.
 
@@ -14,4 +14,4 @@ Studio Z is a music venue in London listed on soundcheck. 1 upcoming night. Brow
 
 Orphans Yard, 537 Brixton Station Road, Brixton, London, SW9 8QB, United Kingdom, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-z/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-z/)*

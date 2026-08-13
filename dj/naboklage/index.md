@@ -1,6 +1,6 @@
 # Naboklage
 
-Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Naboklage is a techno and house artist based in Norway, tracked on soundcheck, with 32 sets logged across Budapest, Copenhagen and Oslo. Often billed alongside Skodde, foufou malade and G-HA. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Naboklage is a techno and house artist based in Norway, tracked on soundcheck, w
 
 Skodde, foufou malade, G-HA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*

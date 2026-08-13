@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Minna-no-Kimochi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked o
 
 AKIRAM EN, Bambounou, Clouds
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

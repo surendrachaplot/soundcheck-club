@@ -1,6 +1,6 @@
 # Imaabs
 
-Imaabs is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at CHICO, Mexico City on Fri, 14 Aug 2026.
+Imaabs is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at CHICO, Mexico City on Fri, 14 Aug 2026.
 
 Imaabs is an experimental and club artist based in Chile, tracked on soundcheck, with 20 sets logged across Losangeles and Mexicocity. Often billed alongside Microhm, Tomás Urquieta and Lao (MX). Next up: CHICO, Mexicocity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Imaabs is an experimental and club artist based in Chile, tracked on soundcheck,
 
 Microhm, Tomás Urquieta, Lao (MX)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*

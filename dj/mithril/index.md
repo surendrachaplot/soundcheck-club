@@ -1,13 +1,14 @@
 # Mithril
 
-Mithril is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+Mithril is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
-Mithril is an experimental and techno artist tracked on soundcheck, with 36 sets logged across Bangkok, Barcelona, Berlin and Denver and 8 more. Often billed alongside Bulma, DOLL.fin and KALI.. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
+Mithril is an experimental and techno artist tracked on soundcheck, with 37 sets logged across Bangkok, Barcelona, Berlin and Denver and 8 more. Often billed alongside Bulma, DOLL.fin and KALI.. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Fri, 21 Aug 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mithril is an experimental and techno artist tracked on soundcheck, with 36 sets
 
 Bulma, DOLL.fin, KALI.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mithril/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mithril/)*

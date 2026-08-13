@@ -1,6 +1,6 @@
 # Skinny Girl
 
-Skinny Girl is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
+Skinny Girl is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
 
 Skinny Girl is a house and deep house artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Alba (NYC), Honey Montana and La Femme. Next up: The Walk Inn, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Skinny Girl is a house and deep house artist tracked on soundcheck, with 10 sets
 
 Alba (NYC), Honey Montana, La Femme
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnygirl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnygirl/)*

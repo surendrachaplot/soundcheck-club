@@ -1,6 +1,6 @@
 # Testbild
 
-Testbild is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
+Testbild is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
 
 Testbild is a new wave and ebm artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Graftak, Mara Mortem and Etcetera. Next up: ÆDEN, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Testbild is a new wave and ebm artist based in Germany, tracked on soundcheck, w
 
 Graftak, Mara Mortem, Etcetera
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*

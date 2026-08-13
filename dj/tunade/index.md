@@ -1,6 +1,6 @@
 # Tuna (DE)
 
-Tuna (DE) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
+Tuna (DE) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
 
 Tuna (DE) is a house and deep house artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Frankfurt and Istanbul. Often billed alongside Daria Zadekova, Jakob Lesch and Flo Circus. Next up: TBA, Frankfurt on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Tuna (DE) is a house and deep house artist based in Germany, tracked on soundche
 
 Daria Zadekova, Jakob Lesch, Flo Circus
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunade/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunade/)*

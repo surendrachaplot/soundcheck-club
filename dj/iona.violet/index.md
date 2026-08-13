@@ -1,6 +1,6 @@
 # Iona.Violet
 
-Iona.Violet is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+Iona.Violet is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
 Iona.Violet is an electro and techno artist tracked on soundcheck, with 12 sets logged across Edinburgh, Glasgow and London. Often billed alongside ona:v, ENAEN and ROXAN (UK). Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Iona.Violet is an electro and techno artist tracked on soundcheck, with 12 sets 
 
 ona:v, ENAEN, ROXAN (UK)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*

@@ -1,6 +1,6 @@
 # Khiari Bakar
 
-Khiari Bakar is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bastet, Philadelphia on Fri, 28 Aug 2026.
+Khiari Bakar is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bastet, Philadelphia on Fri, 28 Aug 2026.
 
 Khiari Bakar is a house and afro house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Philadelphia. Often billed alongside Ohlei, BlckTeeth and Dom Haley. Next up: Bastet, Philadelphia on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Khiari Bakar is a house and afro house artist based in United States of America,
 
 Ohlei, BlckTeeth, Dom Haley
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khiaribakar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khiaribakar/)*

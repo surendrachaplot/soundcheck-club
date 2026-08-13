@@ -1,6 +1,6 @@
 # Cindy G
 
-Cindy G is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Gate, Berlin on Thu, 20 Aug 2026.
+Cindy G is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Gate, Berlin on Thu, 20 Aug 2026.
 
 Cindy G is a house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside LIA, DJ whity and Badanka. Next up: Golden Gate, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Cindy G is a house artist based in Germany, tracked on soundcheck, with 20 sets 
 
 LIA, DJ whity, Badanka
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cindyg/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cindyg/)*

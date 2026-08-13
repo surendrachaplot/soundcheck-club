@@ -1,6 +1,6 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
+jamea. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
 
 jamea. is a techno and club artist tracked on soundcheck, with 44 sets logged across Chicago, Detroit, Nashville and Newyorkcity. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ jamea. is a techno and club artist tracked on soundcheck, with 44 sets logged ac
 
 we1sman, Wax Assassin, Ember LaFiamma
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

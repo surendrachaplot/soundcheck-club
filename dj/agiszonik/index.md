@@ -1,6 +1,6 @@
 # agiszonik
 
-agiszonik is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sekta Selekta, Krakow on Thu, 13 Aug 2026.
+agiszonik is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sekta Selekta, Krakow on Thu, 13 Aug 2026.
 
 agiszonik is an electro and experimental artist based in Poland, tracked on soundcheck, with 13 sets logged across Krakow and Warsaw. Often billed alongside Meke, 1 AM (1) and A_tropic. Next up: Sekta Selekta, Krakow on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ agiszonik is an electro and experimental artist based in Poland, tracked on soun
 
 Meke, 1 AM (1), A_tropic
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agiszonik/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agiszonik/)*

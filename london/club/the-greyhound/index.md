@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Side Effects" on Thu, 13 Aug 2026.
+The Greyhound is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Side Effects" on Thu, 13 Aug 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including BBBB (2), Blossom Hill, Braga Circuit and Daniel Julian and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including BBBB (2), Blossom Hill, Braga Circuit and Daniel Julian and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 13 upcoming night
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

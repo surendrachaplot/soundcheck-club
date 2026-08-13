@@ -1,6 +1,6 @@
 # Krista Bourgeois
 
-Krista Bourgeois is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
+Krista Bourgeois is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
 
 Krista Bourgeois is a techno and industrial artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 20 more. Often billed alongside Thrasher, Manu Le Malin and Kilbourne. Next up: The Trinity Centre, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Krista Bourgeois is a techno and industrial artist tracked on soundcheck, with 4
 
 Thrasher, Manu Le Malin, Kilbourne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*

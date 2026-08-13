@@ -1,6 +1,6 @@
 # Wesley Holmes
 
-Wesley Holmes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Monkey Loft, Seattle on Thu, 13 Aug 2026.
+Wesley Holmes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Monkey Loft, Seattle on Thu, 13 Aug 2026.
 
 Wesley Holmes is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Black Velveteen. Next up: The Monkey Loft, Seattle on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Wesley Holmes is a house and deep house artist based in United States of America
 
 Brian Lyons, Julie Herrera, Black Velveteen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*

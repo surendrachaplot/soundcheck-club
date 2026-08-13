@@ -1,8 +1,8 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
+SALOME is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
-SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Sonnenraum, Berlin on Sun 16 Aug.
+SALOME is a techno and electro artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logge
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | TBA | Los Angeles |
+| Sat, 24 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -29,4 +30,4 @@ SALOME is a techno and electro artist tracked on soundcheck, with 203 sets logge
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

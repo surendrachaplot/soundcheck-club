@@ -1,6 +1,6 @@
 # Neida
 
-Neida is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Badaboum, Paris on Sat, 19 Sept 2026.
+Neida is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Badaboum, Paris on Sat, 19 Sept 2026.
 
 Neida is a bass and techno artist based in France, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Lyon and Marseille and 2 more. Often billed alongside Camille Doe, RIGO and Salma Rosa. Next up: Badaboum, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Neida is a bass and techno artist based in France, tracked on soundcheck, with 2
 
 Camille Doe, RIGO, Salma Rosa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neida/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neida/)*

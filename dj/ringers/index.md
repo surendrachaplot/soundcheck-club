@@ -1,6 +1,6 @@
 # RINGERS
 
-RINGERS is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pan-Pan, Birmingham on Fri, 14 Aug 2026.
+RINGERS is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pan-Pan, Birmingham on Fri, 14 Aug 2026.
 
 RINGERS is a jungle and garage artist tracked on soundcheck, with 16 sets logged across Birmingham, Leeds and London. Often billed alongside Syntax (2), Bad B!tch Dubz and Bakey. Next up: Pan-Pan, Birmingham on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RINGERS is a jungle and garage artist tracked on soundcheck, with 16 sets logged
 
 Syntax (2), Bad B!tch Dubz, Bakey
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*

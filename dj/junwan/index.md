@@ -1,6 +1,6 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Jun Wan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Jun Wan is a techno and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Assembler Code, N3BULA and Obeido. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Jun Wan is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Assembler Code, N3BULA, Obeido
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*

@@ -1,6 +1,6 @@
 # Westy
 
-Westy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kassa Boat, Budapest on Fri, 14 Aug 2026.
+Westy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kassa Boat, Budapest on Fri, 14 Aug 2026.
 
 Westy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Budapest and London and 2 more. Often billed alongside Tom Westy, Weston and PIP.. Next up: Kassa Boat, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Westy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Tom Westy, Weston, PIP.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westy/)*

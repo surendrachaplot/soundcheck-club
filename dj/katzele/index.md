@@ -1,6 +1,6 @@
 # Katzele
 
-Katzele is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Katzele is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Katzele is an electro and idm artist based in Germany, tracked on soundcheck, with 17 sets logged across Athens, Berlin, Mexicocity and Warsaw. Often billed alongside Khidja, Lily Haz and Diamin. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Katzele is an electro and idm artist based in Germany, tracked on soundcheck, wi
 
 Khidja, Lily Haz, Diamin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katzele/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katzele/)*

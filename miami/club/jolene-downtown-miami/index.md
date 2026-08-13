@@ -1,8 +1,8 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "slugg b2b Ms. Mada (All Night Long)" on Thu, 13 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "slugg b2b Ms. Mada (All Night Long)" on Thu, 13 Aug 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Arapu, Archie Hamilton, Baby Jesus and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Arapu, Archie Hamilton, Baby Jesus and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcomin
 | Fri, 21 Aug 2026 | Archie Hamilton  | Archie Hamilton, Malone, Nicole Gallamini |
 | Sat, 22 Aug 2026 | Gerd Janson | Gerd Janson, Will Buck |
 | Thu, 27 Aug 2026 | Déjà Vu | Baby Jesus, CHAOS!, DB Cooper, Pressure Point (US), Roll-e, Winter Wrong |
-| Fri, 28 Aug 2026 | Arapu, Sepp, & more | Arapu, Sepp |
+| Fri, 28 Aug 2026 | Arapu, Sepp, & more | Arapu, Danyelino, Nikita Green, Sepp, grant sabadash |
+| Sat, 29 Aug 2026 | Eli Escobar (Alll Night Long) | Eli Escobar |
 | Fri, 4 Sept 2026 | KinAhau | Cole Terrazas, KinAhau |
-| Sat, 5 Sept 2026 | Prunk | Bakke, Danyelino, Mario Liberti, Prunk, slugg |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

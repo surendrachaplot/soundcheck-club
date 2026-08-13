@@ -1,6 +1,6 @@
 # Cafgar
 
-Cafgar is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+Cafgar is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 Cafgar is a reggaeton and latin bass artist tracked on soundcheck, with 15 sets logged across Leipzig. Often billed alongside nea.cuajo, discobabe2 and Aio. Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cafgar is a reggaeton and latin bass artist tracked on soundcheck, with 15 sets 
 
 nea.cuajo, discobabe2, Aio
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cafgar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cafgar/)*

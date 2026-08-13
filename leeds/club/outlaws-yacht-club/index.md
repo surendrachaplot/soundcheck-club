@@ -1,8 +1,8 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Outlaws w/ Elliot Holt" on Sat, 22 Aug 2026.
+Outlaws Yacht Club is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Outlaws w/ Elliot Holt" on Sat, 22 Aug 2026.
 
-Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 3 upcoming nights, with line-ups including Elliot Holt, Phil Warner, Simon Scott and Vassallo. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
+Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Ben Daddy, Elliot Holt, Phil Warner and Shauna and 2 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
 ## What's on
 
@@ -10,10 +10,11 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 3 upcoming ni
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Outlaws w/ Elliot Holt | Elliot Holt |
 | Fri, 4 Sept 2026 | Opus with Vassallo and Phil Warner | Phil Warner, Vassallo |
+| Sat, 19 Sept 2026 | Disco Discharge: Disco's Revenge | Ben Daddy, Shauna |
 | Sun, 11 Oct 2026 | Club Cosmos | Simon Scott |
 
 ## Address
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

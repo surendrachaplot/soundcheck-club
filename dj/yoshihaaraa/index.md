@@ -1,6 +1,6 @@
 # YOSHIHAARAA
 
-YOSHIHAARAA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at HVEN, Tokyo on Sat, 15 Aug 2026.
+YOSHIHAARAA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at HVEN, Tokyo on Sat, 15 Aug 2026.
 
 YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 84 sets logged across Seoul and Tokyo. Often billed alongside Monkey Timers, YAMARCHY and KATAINAKA. Next up: HVEN, Tokyo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 84 sets log
 
 Monkey Timers, YAMARCHY, KATAINAKA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*

@@ -1,14 +1,13 @@
 # Ignez
 
-Ignez is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Ignez is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Prince Charles, Berlin on Sat, 22 Aug 2026.
 
-Ignez is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Ignez is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Prince Charles, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Prince Charles | Berlin |
 | Fri, 28 Aug 2026 | essaim | Paris |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Ignez is a techno and house artist tracked on soundcheck, with 181 sets logged a
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - FOLD, London — Fri, 31 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
@@ -29,10 +29,9 @@ Ignez is a techno and house artist tracked on soundcheck, with 181 sets logged a
 - ART Madrid Club, Madrid — Fri, 19 Jun 2026
 - Fvtvr, Paris — Sun, 7 Jun 2026
 - Gewölbe, Cologne — Sat, 6 Jun 2026
-- Arca, Milan — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

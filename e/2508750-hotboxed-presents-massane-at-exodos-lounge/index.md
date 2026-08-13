@@ -1,6 +1,6 @@
 # Hotboxed presents: Massane at Exodos Lounge
 
-Hotboxed presents: Massane at Exodos Lounge on Fri 21 Aug, Detroit. 1 act on the bill: Massane. House and Club. Preview the line-up and save it on soundcheck.
+Hotboxed presents: Massane at Exodos Lounge on Fri 21 Aug, Detroit. 3 acts on the bill: Massane, Mekato and Rachael Parker. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Hotboxed presents: Massane at Exodos Lounge on Fri 21 Aug, Detroit. 1 act on the
 ## Line-up
 
 - Massane
+- Mekato
+- Rachael Parker
 
 *Source: [soundcheck](https://soundcheck.club/e/2508750-hotboxed-presents-massane-at-exodos-lounge/)*

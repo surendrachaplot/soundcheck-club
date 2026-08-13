@@ -1,0 +1,17 @@
+# Organïk: ANXHELA, BLNK, Lolalita & MORE at Kilomètre25
+
+Organïk: ANXHELA, BLNK, Lolalita & MORE at Kilomètre25 on Sat 5 Sept, Paris. 3 acts on the bill: ANXHELA, BLNK and Lolalita. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 5 Sept 2026 |
+| Venue | Kilomètre25 |
+| City | Paris |
+
+## Line-up
+
+- ANXHELA
+- BLNK
+- Lolalita
+
+*Source: [soundcheck](https://soundcheck.club/e/2510543-organ-k-anxhela-blnk-lolalita-more-at-kilom-tre25/)*

@@ -1,6 +1,6 @@
 # BizZa
 
-BizZa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
+BizZa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
 
 BizZa is a house and tech house artist based in Spain, tracked on soundcheck, with 52 sets logged across Barcelona, Buenosaires, Chicago and Ibiza and 7 more. Often billed alongside Pau Guilera, Vidaloca and Abdon. Next up: BUS Hexperience, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BizZa is a house and tech house artist based in Spain, tracked on soundcheck, wi
 
 Pau Guilera, Vidaloca, Abdon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*

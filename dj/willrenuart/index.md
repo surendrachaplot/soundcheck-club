@@ -1,6 +1,6 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
 Will Renuart is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: OXI, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Will Renuart is a house and techno artist based in United States of America, tra
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

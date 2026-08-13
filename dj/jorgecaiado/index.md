@@ -1,6 +1,6 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
+Jorge Caiado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
 
 Jorge Caiado is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Myra Ostraria, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jorge Caiado is a house and techno artist tracked on soundcheck, with 131 sets l
 
 Kee_ko, Guy from 1990, Sara Wual
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*

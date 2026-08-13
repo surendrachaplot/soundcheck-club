@@ -1,6 +1,6 @@
 # Colesdale Farm
 
-Colesdale Farm is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "WE LOVE BRAZIL FESTIVAL" on Sun, 6 Sept 2026.
+Colesdale Farm is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "WE LOVE BRAZIL FESTIVAL" on Sun, 6 Sept 2026.
 
 Colesdale Farm is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Loora and Monnay. Browse upcoming dates, start times and who's playing. Northaw Road West , Potters Bar , EN6 4QZ , United Kingdom.
 
@@ -14,4 +14,4 @@ Colesdale Farm is a music venue in London listed on soundcheck. 1 upcoming night
 
 Northaw Road West , Potters Bar , EN6 4QZ , United Kingdom, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colesdale-farm/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colesdale-farm/)*

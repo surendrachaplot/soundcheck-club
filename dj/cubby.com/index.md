@@ -1,6 +1,6 @@
 # cubby.com
 
-cubby.com is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
+cubby.com is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
 
 cubby.com is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Philadelphia. Often billed alongside Cubby, SHUGAZI and America Loves Me. Next up: The Sound Lounge at Percy, Philadelphia on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ cubby.com is a techno and house artist based in United States of America, tracke
 
 Cubby, SHUGAZI, America Loves Me
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby.com/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby.com/)*

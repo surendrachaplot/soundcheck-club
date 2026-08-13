@@ -1,6 +1,6 @@
 # Onirik
 
-Onirik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
+Onirik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
 
 Onirik is a house and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside GNMR, Karine and Ancut. Next up: Club der Visionaere, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Onirik is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 GNMR, Karine, Ancut
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*

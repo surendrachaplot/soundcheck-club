@@ -1,6 +1,6 @@
 # Staatsanzeiger
 
-Staatsanzeiger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Romantica, Stuttgart on Thu, 13 Aug 2026.
+Staatsanzeiger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Romantica, Stuttgart on Thu, 13 Aug 2026.
 
 Staatsanzeiger is a house and techno artist tracked on soundcheck, with 7 sets logged across Stuttgart. Often billed alongside Ardt, Neowise_ and k.o fx. Next up: Romantica, Stuttgart on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Staatsanzeiger is a house and techno artist tracked on soundcheck, with 7 sets l
 
 Ardt, Neowise_, k.o fx
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staatsanzeiger/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staatsanzeiger/)*

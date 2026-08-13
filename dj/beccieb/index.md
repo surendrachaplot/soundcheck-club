@@ -1,6 +1,6 @@
 # Beccie B
 
-Beccie B is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Neck of the Woods, Auckland on Fri, 18 Sept 2026.
+Beccie B is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Neck of the Woods, Auckland on Fri, 18 Sept 2026.
 
 Beccie B is a techno and tech house artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Auckland and London. Often billed alongside BEN GERRANS, Baron Von Trax and Dawson. Next up: Neck of the Woods, Auckland on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Beccie B is a techno and tech house artist based in New Zealand, tracked on soun
 
 BEN GERRANS, Baron Von Trax, Dawson
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beccieb/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beccieb/)*

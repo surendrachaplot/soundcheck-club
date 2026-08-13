@@ -1,6 +1,6 @@
 # Ms. Unicorn
 
-Ms. Unicorn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
+Ms. Unicorn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
 
 Ms. Unicorn is a tech house and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Miami and Newyorkcity. Often billed alongside branqueeno, Alex Dovo and Bustin' Loose. Next up: Ciao Ciao, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Ms. Unicorn is a tech house and house artist based in United States of America, 
 
 branqueeno, Alex Dovo, Bustin' Loose
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.unicorn/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.unicorn/)*

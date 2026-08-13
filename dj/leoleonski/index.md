@@ -1,14 +1,15 @@
 # Leo Leonski
 
-Leo Leonski is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Hafenkran, Basel on Fri, 14 Aug 2026.
+Leo Leonski is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Hafenkran, Basel on Fri, 14 Aug 2026.
 
-Leo Leonski is a house and deep house artist tracked on soundcheck, with 85 sets logged across Bali, Bangkok, Barcelona and Basel and 15 more. Often billed alongside Gyusco, 959er and ACID FLORA. Next up: TBA - Hafenkran, Basel on Fri 14 Aug.
+Leo Leonski is a house and deep house artist tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Gyusco, 959er and ACID FLORA. Next up: TBA - Hafenkran, Basel on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Hafenkran | Basel |
+| Sat, 29 Aug 2026 | Bodega Danza | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Leo Leonski is a house and deep house artist tracked on soundcheck, with 85 sets
 
 Gyusco, 959er, ACID FLORA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleonski/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleonski/)*

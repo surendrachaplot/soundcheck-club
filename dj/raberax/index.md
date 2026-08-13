@@ -1,6 +1,6 @@
 # Rabe Rax
 
-Rabe Rax is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
+Rabe Rax is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
 
 Rabe Rax is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside jeanska, subga and Blossmbae. Next up: Humboldthain Club, Berlin on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Rabe Rax is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 jeanska, subga, Blossmbae
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raberax/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raberax/)*

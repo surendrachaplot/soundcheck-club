@@ -1,8 +1,8 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+Double O is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
-Double O is a jungle and drum & bass artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: Club Cheek, London on Sun 30 Aug.
+Double O is a jungle and drum & bass artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: Club Cheek, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Double O is a jungle and drum & bass artist tracked on soundcheck, with 85 sets 
 | Sun, 30 Aug 2026 | Club Cheek | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Fri, 25 Sept 2026 | EartH | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Double O is a jungle and drum & bass artist tracked on soundcheck, with 85 sets 
 
 Mantra, Blackeye MC, Decibella
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*

@@ -1,6 +1,6 @@
 # Eric Furtado
 
-Eric Furtado is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 29 Aug 2026.
+Eric Furtado is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 29 Aug 2026.
 
 Eric Furtado is a house and deep house artist tracked on soundcheck, with 14 sets logged across Lisbon. Often billed alongside Markov (cult), CVLT and Emma B. Next up: Collect LX Factory, Lisbon on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Eric Furtado is a house and deep house artist tracked on soundcheck, with 14 set
 
 Markov (cult), CVLT, Emma B
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*

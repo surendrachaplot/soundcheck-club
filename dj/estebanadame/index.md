@@ -1,6 +1,6 @@
 # Esteban Adame
 
-Esteban Adame is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
+Esteban Adame is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
 
 Esteban Adame is a house and techno artist tracked on soundcheck, with 4 sets logged across Detroit and Losangeles. Often billed alongside Nomadico, Kosmik and Underground Resistance. Next up: The Airliner, Losangeles on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Esteban Adame is a house and techno artist tracked on soundcheck, with 4 sets lo
 
 Nomadico, Kosmik, Underground Resistance
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebanadame/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebanadame/)*

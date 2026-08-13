@@ -1,6 +1,6 @@
 # Braindead
 
-Braindead is a Jungle and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
+Braindead is a Jungle and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
 
 Braindead is a jungle and dubstep artist tracked on soundcheck, with 18 sets logged across Bristol, London and Manchester. Often billed alongside Paul Robinson, DFUSE and DJ Heny.G. Next up: Protocol, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Braindead is a jungle and dubstep artist tracked on soundcheck, with 18 sets log
 
 Paul Robinson, DFUSE, DJ Heny.G
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindead/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindead/)*

@@ -1,6 +1,6 @@
 # LUME
 
-LUME is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Madam, Amsterdam on Sat, 22 Aug 2026.
+LUME is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Madam, Amsterdam on Sat, 22 Aug 2026.
 
 LUME is a house and deep house artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Munich and Sanfrancisco. Often billed alongside 1022, Ape Drums and Artifex (DE). Next up: Madam, Amsterdam on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ LUME is a house and deep house artist based in Germany, tracked on soundcheck, w
 
 1022, Ape Drums, Artifex (DE)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lume/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lume/)*

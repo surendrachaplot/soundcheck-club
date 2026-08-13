@@ -1,8 +1,8 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Caya DJ Clash Live" on Fri, 14 Aug 2026.
+Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Caya DJ Clash Live" on Fri, 14 Aug 2026.
 
-Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Buddy. (2), CHICCA, Chris Airplays and Harmony and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Buddy. (2), CHICCA, Chris Airplays and Harmony and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 | Fri, 18 Sept 2026 | Kohsa presents | Buddy. (2), Sunny D |
 | Fri, 25 Sept 2026 | Straight On 'til Morning | Harmony, Josh Wickers, ZAZA C |
 | Fri, 16 Oct 2026 | JAZZ TO JUNGLE |  |
+| Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos |  |
 
 ## Address
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

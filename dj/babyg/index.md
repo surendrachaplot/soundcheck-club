@@ -1,6 +1,6 @@
 # BabyG
 
-BabyG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
+BabyG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
 
 BabyG is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Melbourne and Sydney. Often billed alongside Afrodisiac, DAWS and DJ PGZ. Next up: Angel Music Bar, Melbourne on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ BabyG is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Afrodisiac, DAWS, DJ PGZ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg/)*

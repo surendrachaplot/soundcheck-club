@@ -1,6 +1,6 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at FORGE, Sheffield on Sat, 5 Sept 2026.
+Wheats is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at FORGE, Sheffield on Sat, 5 Sept 2026.
 
 Wheats is a tech house and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 25 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: FORGE, Sheffield on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Wheats is a tech house and house artist tracked on soundcheck, with 125 sets log
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

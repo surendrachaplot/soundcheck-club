@@ -1,6 +1,6 @@
 # Shoshone
 
-Shoshone is a Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+Shoshone is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
 Shoshone is a trance artist based in United States of America, tracked on soundcheck, with 2 sets logged across Berlin and Miami. Often billed alongside ARGOT, Amøn and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Shoshone is a trance artist based in United States of America, tracked on soundc
 
 ARGOT, Amøn, Cara Elizabeth
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoshone/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoshone/)*

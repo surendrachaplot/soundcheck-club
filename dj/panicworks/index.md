@@ -1,6 +1,6 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
+PANICWORKS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
 
 PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, with 32 sets logged across Tokyo. Often billed alongside Seimei, roomquake and VOX (1). Next up: Enter Shibuya, Tokyo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 Seimei, roomquake, VOX (1)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*

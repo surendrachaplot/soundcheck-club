@@ -1,14 +1,15 @@
 # Alexxx
 
-Alexxx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 14 Aug 2026.
+Alexxx is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 14 Aug 2026.
 
-Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with 37 sets logged across Barcelona and Valencia. Often billed alongside Rele, PAZ WAZ HERE and LASK (2). Next up: La Fábrica de Hielo, Valencia on Fri 14 Aug.
+Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with 38 sets logged across Barcelona and Valencia. Often billed alongside Rele, PAZ WAZ HERE and LASK (2). Next up: La Fábrica de Hielo, Valencia on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | La Fábrica de Hielo | Valencia |
+| Sat, 15 Aug 2026 | Resume Valencia | Valencia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with
 
 Rele, PAZ WAZ HERE, LASK (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*

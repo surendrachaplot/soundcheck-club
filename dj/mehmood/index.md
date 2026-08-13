@@ -1,6 +1,6 @@
 # MEHMOOD
 
-MEHMOOD is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
+MEHMOOD is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
 
 MEHMOOD is a tech house and techno artist based in Pakistan, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Deniz Kars, Jalal K. and Smoke [DE]. Next up: Sensorium, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ MEHMOOD is a tech house and techno artist based in Pakistan, tracked on soundche
 
 Deniz Kars, Jalal K., Smoke [DE]
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mehmood/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mehmood/)*

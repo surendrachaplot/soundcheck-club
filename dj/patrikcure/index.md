@@ -1,6 +1,6 @@
 # Patrik Cure
 
-Patrik Cure is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Vancouver on Fri, 21 Aug 2026.
+Patrik Cure is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Vancouver on Fri, 21 Aug 2026.
 
 Patrik Cure is a bass and drum & bass artist tracked on soundcheck, with 5 sets logged across Vancouver. Often billed alongside Max Ulis, Daega Sound and Michael Red. Next up: TBA, Vancouver on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Patrik Cure is a bass and drum & bass artist tracked on soundcheck, with 5 sets 
 
 Max Ulis, Daega Sound, Michael Red
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikcure/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikcure/)*

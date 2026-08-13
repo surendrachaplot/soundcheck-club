@@ -1,14 +1,14 @@
 # Keeva G
 
-Keeva G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Secret Location, London on Sat, 29 Aug 2026.
+Keeva G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
-Keeva G is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Belfast, Berlin and Cork and 3 more. Often billed alongside Cricky Lyttle, AOIFE and IndeniaL. Next up: Secret Location, London on Sat 29 Aug.
+Keeva G is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Belfast, Berlin and Cork and 3 more. Often billed alongside Cricky Lyttle, AOIFE and IndeniaL. Next up: TBA, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Secret Location | London |
+| Sat, 29 Aug 2026 | TBA | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Keeva G is a techno and house artist tracked on soundcheck, with 17 sets logged 
 
 Cricky Lyttle, AOIFE, IndeniaL
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*

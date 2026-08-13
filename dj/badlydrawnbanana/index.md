@@ -1,6 +1,6 @@
 # Badly Drawn Banana
 
-Badly Drawn Banana is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 15 Aug 2026.
+Badly Drawn Banana is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 15 Aug 2026.
 
 Badly Drawn Banana is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside sbfmRADIO, Hickey and SHAWK. Next up: Avalon Cafe Bermondsey, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Badly Drawn Banana is a jungle and drum & bass artist based in United Kingdom, t
 
 sbfmRADIO, Hickey, SHAWK
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badlydrawnbanana/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badlydrawnbanana/)*

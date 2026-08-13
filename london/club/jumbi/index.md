@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Jumbi Friday Dance: JJAMZ & Ayanna Heaven" on Fri, 14 Aug 2026.
+Jumbi is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Jumbi Friday Dance: JJAMZ & Ayanna Heaven" on Fri, 14 Aug 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 0RACL3, Alex Phountzi, Anja Ngozi and Bendito and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -22,4 +22,4 @@ Jumbi is a music venue in London listed on soundcheck. 9 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

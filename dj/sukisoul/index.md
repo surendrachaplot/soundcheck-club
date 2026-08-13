@@ -1,6 +1,6 @@
 # Suki Soul
 
-Suki Soul is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
+Suki Soul is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
 
 Suki Soul is a house and disco artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Amsterdam, Edinburgh, Glasgow and London and 3 more. Often billed alongside Mark Doyle, Bustin' Loose and Natasha Kitty Katt. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Suki Soul is a house and disco artist based in United Kingdom, tracked on soundc
 
 Mark Doyle, Bustin' Loose, Natasha Kitty Katt
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukisoul/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukisoul/)*

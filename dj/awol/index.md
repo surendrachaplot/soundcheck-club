@@ -1,6 +1,6 @@
 # AWOL
 
-AWOL is a Breakcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Bunker, Liverpool on Sat, 15 Aug 2026.
+AWOL is a Breakcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Bunker, Liverpool on Sat, 15 Aug 2026.
 
 AWOL is a breakcore and industrial artist tracked on soundcheck, with 2 sets logged across Birmingham and Liverpool. Often billed alongside Aries, Bassman and Chillz. Next up: The Bunker, Liverpool on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ AWOL is a breakcore and industrial artist tracked on soundcheck, with 2 sets log
 
 Aries, Bassman, Chillz
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awol/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awol/)*

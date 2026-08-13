@@ -1,6 +1,6 @@
 # Kim Kemi
 
-Kim Kemi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nemoland, Copenhagen on Thu, 13 Aug 2026.
+Kim Kemi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nemoland, Copenhagen on Thu, 13 Aug 2026.
 
 Kim Kemi is a techno and trance artist tracked on soundcheck, with 19 sets logged across Berlin and Copenhagen. Often billed alongside Jacob Phono, Bongo & Pusk and Ena Cosovic. Next up: Nemoland, Copenhagen on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Kim Kemi is a techno and trance artist tracked on soundcheck, with 19 sets logge
 
 Jacob Phono, Bongo & Pusk, Ena Cosovic
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkemi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkemi/)*

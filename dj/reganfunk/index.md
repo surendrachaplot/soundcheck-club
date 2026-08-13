@@ -1,6 +1,6 @@
 # Regan Funk
 
-Regan Funk is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Regan Funk is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Regan Funk is a house and minimal artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside DJOM, Oli Leal and From A To B. Next up: fabric, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Regan Funk is a house and minimal artist tracked on soundcheck, with 25 sets log
 
 DJOM, Oli Leal, From A To B
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*

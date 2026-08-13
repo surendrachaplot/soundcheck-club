@@ -1,6 +1,6 @@
 # Obeka
 
-Obeka is a Reggaeton and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at renae, Manchester on Sat, 15 Aug 2026.
+Obeka is a Reggaeton and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at renae, Manchester on Sat, 15 Aug 2026.
 
 Obeka is a reggaeton and baile funk artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 8 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: renae, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Obeka is a reggaeton and baile funk artist tracked on soundcheck, with 111 sets 
 
 Atiké, DR MYSTERY, Kop-Z
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*

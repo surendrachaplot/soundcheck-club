@@ -1,6 +1,6 @@
 # Supperclub Cruise
 
-Supperclub Cruise is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Source: The Boatparty" on Fri, 28 Aug 2026.
+Supperclub Cruise is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Source: The Boatparty" on Fri, 28 Aug 2026.
 
 Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Cris-H, Einmusik, Louie Vega and Malouna and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
@@ -16,4 +16,4 @@ Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 3 upcoming
 
 De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*

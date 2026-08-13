@@ -1,6 +1,6 @@
 # Özten
 
-Özten is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
+Özten is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
 
 Özten is a house and garage artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Marco (UK), Adela and JEEM. Next up: Dalston Den, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@
 
 Marco (UK), Adela, JEEM
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*

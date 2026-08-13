@@ -1,6 +1,6 @@
 # Soniq
 
-Soniq is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Soniq is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 Soniq is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin. Often billed alongside Upzet, Aynaet and Mc Jamie White. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Soniq is a drum & bass and techno artist based in Germany, tracked on soundcheck
 
 Upzet, Aynaet, Mc Jamie White
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soniq/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soniq/)*

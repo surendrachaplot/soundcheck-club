@@ -1,6 +1,6 @@
 # SANEM
 
-SANEM is a Techno and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
+SANEM is a Techno and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
 
 SANEM is a techno and afro house artist tracked on soundcheck, with 22 sets logged across Basel, Frankfurt, Hamburg and Ibiza and 2 more. Often billed alongside Galopp, Cortez (2) and FALCO (2). Next up: Eden, Ibiza on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ SANEM is a techno and afro house artist tracked on soundcheck, with 22 sets logg
 
 Galopp, Cortez (2), FALCO (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*

@@ -1,14 +1,15 @@
 # KoiKoi
 
-KoiKoi is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
+KoiKoi is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
 
-KoiKoi is a latin bass and experimental artist based in South Korea, tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside MAZE (KR), August (3) and dayoung. Next up: Pistil, Seoul on Sun 16 Aug.
+KoiKoi is a latin bass and techno artist based in South Korea, tracked on soundcheck, with 12 sets logged across Seoul. Often billed alongside MAZE (KR), August (3) and dayoung. Next up: Pistil, Seoul on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Pistil | Seoul |
+| Sun, 16 Aug 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KoiKoi is a latin bass and experimental artist based in South Korea, tracked on 
 
 MAZE (KR), August (3), dayoung
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koikoi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koikoi/)*

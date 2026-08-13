@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "HiHat all night long" on Fri, 14 Aug 2026.
+Giselle is a music venue in Düsseldorf with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "HiHat all night long" on Fri, 14 Aug 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 7 upcoming nights, with line-ups including DJ Flatbeat, Frag Maddin, HiHat and Lavan and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -20,4 +20,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 7 upcoming nights, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

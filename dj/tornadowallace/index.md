@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Address sent to Ticketholders Day of , Seattle on Sat, 15 Aug 2026.
+Tornado Wallace is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Address sent to Ticketholders Day of , Seattle on Sat, 15 Aug 2026.
 
 Tornado Wallace is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Auckland and Bali and 41 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: TBA - Address sent to Ticketholders Day of , Seattle on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 130 set
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

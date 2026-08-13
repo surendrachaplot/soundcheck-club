@@ -1,6 +1,6 @@
 # Blackdown
 
-Blackdown is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cu, London on Sat, 19 Sept 2026.
+Blackdown is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cu, London on Sat, 19 Sept 2026.
 
 Blackdown is a bass and amapiano artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, London, Newyorkcity and Prague. Often billed alongside Dusk, Kellen303 and MC Koast. Next up: Cu, London on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Blackdown is a bass and amapiano artist based in United Kingdom, tracked on soun
 
 Dusk, Kellen303, MC Koast
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdown/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdown/)*

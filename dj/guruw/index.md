@@ -1,6 +1,6 @@
 # guru'w
 
-guru'w is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dunia, Istanbul on Fri, 14 Aug 2026.
+guru'w is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dunia, Istanbul on Fri, 14 Aug 2026.
 
 guru'w is a techno and club artist tracked on soundcheck, with 12 sets logged across Belgrade, Istanbul and Tbilisi. Often billed alongside Cenk Tripper, INTENSA and Belin. Next up: Dunia, Istanbul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ guru'w is a techno and club artist tracked on soundcheck, with 12 sets logged ac
 
 Cenk Tripper, INTENSA, Belin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*

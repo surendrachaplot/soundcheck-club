@@ -1,6 +1,6 @@
 # Philena
 
-Philena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
+Philena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
 
 Philena is a techno and house artist tracked on soundcheck, with 24 sets logged across Berlin and Munich. Often billed alongside DJ SPORTSCHUH, KIKE Friday and ZOEVITA. Next up: Malzfabrik, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Philena is a techno and house artist tracked on soundcheck, with 24 sets logged 
 
 DJ SPORTSCHUH, KIKE Friday, ZOEVITA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*

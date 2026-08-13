@@ -1,6 +1,6 @@
 # Oso Feo (2)
 
-Oso Feo (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Oso Feo (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Oso Feo (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity, Portland and Sanfrancisco. Often billed alongside Eichef, Mozhgan and llloyd (US). Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Oso Feo (2) is a techno and house artist based in United States of America, trac
 
 Eichef, Mozhgan, llloyd (US)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osofeo-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osofeo-2/)*

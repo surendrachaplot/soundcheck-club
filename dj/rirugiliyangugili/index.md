@@ -1,6 +1,6 @@
 # rirugiliyangugili
 
-rirugiliyangugili is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at clubasia, Tokyo on Sat, 29 Aug 2026.
+rirugiliyangugili is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at clubasia, Tokyo on Sat, 29 Aug 2026.
 
 rirugiliyangugili is a hardcore and club artist based in Japan, tracked on soundcheck, with 13 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BEENIE PIMP, egomania and moreru. Next up: clubasia, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ rirugiliyangugili is a hardcore and club artist based in Japan, tracked on sound
 
 BEENIE PIMP, egomania, moreru
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rirugiliyangugili/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rirugiliyangugili/)*

@@ -1,6 +1,6 @@
 # Mhm, Mhm
 
-Mhm, Mhm is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pageant, New York City on Thu, 13 Aug 2026.
+Mhm, Mhm is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pageant, New York City on Thu, 13 Aug 2026.
 
 Mhm, Mhm are an electronic duo tracked on soundcheck, with 4 sets logged across Berlin, London, Newyorkcity and Vienna. Often billed alongside Qow and STEMLINES. Next up: Pageant, Newyorkcity on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Mhm, Mhm are an electronic duo tracked on soundcheck, with 4 sets logged across 
 
 Qow, STEMLINES
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mhm,mhm/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mhm,mhm/)*

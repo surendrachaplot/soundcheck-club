@@ -1,6 +1,6 @@
 # Guillaume Michaud
 
-Guillaume Michaud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 30 Aug 2026.
+Guillaume Michaud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 30 Aug 2026.
 
 Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 33 sets logged across Montreal and Toronto. Often billed alongside Shirlee, Nathan Burns and A$H BANKS. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 3
 
 Shirlee, Nathan Burns, A$H BANKS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*

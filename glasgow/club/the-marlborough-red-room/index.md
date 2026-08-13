@@ -1,6 +1,6 @@
 # The Marlborough Red Room
 
-The Marlborough Red Room is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Triple XL presents 'UNTAMED'" on Fri, 21 Aug 2026.
+The Marlborough Red Room is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Triple XL presents 'UNTAMED'" on Fri, 21 Aug 2026.
 
 The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including CLO (2), EMJANERO, Junglehussi and Mass Medium / Club Caviar and 2 more. Browse upcoming dates, start times and who's playing. 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom.
 
@@ -16,4 +16,4 @@ The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 3 upc
 
 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom, Glasgow
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*

@@ -1,6 +1,6 @@
 # Phonobar
 
-Phonobar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "DJ Playstation" on Thu, 13 Aug 2026.
+Phonobar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "DJ Playstation" on Thu, 13 Aug 2026.
 
 Phonobar is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including DJ PlayStation. Browse upcoming dates, start times and who's playing. 370 Grove Street.
 
@@ -14,4 +14,4 @@ Phonobar is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night
 
 370 Grove Street, San Francisco/Oakland
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*

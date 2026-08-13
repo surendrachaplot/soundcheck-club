@@ -1,6 +1,6 @@
 # Josef (NL)
 
-Josef (NL) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Josef (NL) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Josef (NL) is a house and electronica artist tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Thehague. Often billed alongside Lexmic, Arnau and Edenfranz. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Josef (NL) is a house and electronica artist tracked on soundcheck, with 6 sets 
 
 Lexmic, Arnau, Edenfranz
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefnl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefnl/)*

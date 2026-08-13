@@ -1,6 +1,6 @@
 # Mike Konstanty
 
-Mike Konstanty is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Browar Warszawski, Warsaw on Fri, 21 Aug 2026.
+Mike Konstanty is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Browar Warszawski, Warsaw on Fri, 21 Aug 2026.
 
 Mike Konstanty is an afro house and house artist based in Poland, tracked on soundcheck, with 16 sets logged across Tallinn and Warsaw. Often billed alongside Kuvau, Angelo Mike and Konca. Next up: Browar Warszawski, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mike Konstanty is an afro house and house artist based in Poland, tracked on sou
 
 Kuvau, Angelo Mike, Konca
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekonstanty/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekonstanty/)*

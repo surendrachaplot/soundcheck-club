@@ -1,6 +1,6 @@
 # Bajes Amsterdam
 
-Bajes Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Avalon Emerson pres. 9000 Dreams" on Fri, 23 Oct 2026.
+Bajes Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Avalon Emerson pres. 9000 Dreams" on Fri, 23 Oct 2026.
 
 Bajes Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alarico, Aldonna, AMORAL and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096 AN Amsterdam.
 
@@ -18,4 +18,4 @@ Bajes Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming n
 
 H.J.E. Wenckebachweg 48, 1096 AN Amsterdam, Amsterdam
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bajes-amsterdam/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bajes-amsterdam/)*

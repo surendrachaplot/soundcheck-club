@@ -1,6 +1,6 @@
 # Adam Chapman
 
-Adam Chapman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Village Underground, London on Fri, 25 Sept 2026.
+Adam Chapman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
 Adam Chapman is a house and techno artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Aberdeen, Brighton, Edinburgh and Lisbon and 1 more. Often billed alongside Checketts, O.WEBSTER and Dembinski. Next up: Village Underground, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Adam Chapman is a house and techno artist based in United Kingdom, tracked on so
 
 Checketts, O.WEBSTER, Dembinski
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamchapman/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamchapman/)*

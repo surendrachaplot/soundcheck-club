@@ -1,6 +1,6 @@
 # Rg
 
-Rg is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Fri, 21 Aug 2026.
+Rg is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club der Visionaere, Berlin on Fri, 21 Aug 2026.
 
 Rg is a hardcore artist tracked on soundcheck, with 13 sets logged across Berlin and Frankfurt. Often billed alongside Andrea Ferlin, Andrea Cossu and Topper. Next up: Club der Visionaere, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rg is a hardcore artist tracked on soundcheck, with 13 sets logged across Berlin
 
 Andrea Ferlin, Andrea Cossu, Topper
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rg/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rg/)*

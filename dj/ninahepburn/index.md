@@ -1,6 +1,6 @@
 # Nina Hepburn
 
-Nina Hepburn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
+Nina Hepburn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
 
 Nina Hepburn is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Segelschiff Mare Frisium, Hamburg on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Nina Hepburn is a techno and house artist based in Germany, tracked on soundchec
 
 Bizzarro Universe, KENZ, SKKIN VELVET
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*

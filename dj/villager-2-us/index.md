@@ -1,6 +1,6 @@
 # Villager
 
-Villager is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Villager is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Villager is a house and electronica artist tracked on soundcheck, with 34 sets logged across Boston, Bristol, Chicago and Denver and 11 more. Often billed alongside Jamie xx, Riordan and 1tbsp. Next up: 1015 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Villager is a house and electronica artist tracked on soundcheck, with 34 sets l
 
 Jamie xx, Riordan, 1tbsp
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/villager-2-us/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/villager-2-us/)*

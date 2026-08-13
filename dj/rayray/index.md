@@ -1,14 +1,15 @@
 # RayRay
 
-RayRay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+RayRay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
-RayRay is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Lisbon and London and 3 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: Algha's Plantroom, London on Sun 16 Aug.
+RayRay is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Lisbon and London and 3 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Algha's Plantroom | London |
+| Fri, 28 Aug 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RayRay is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

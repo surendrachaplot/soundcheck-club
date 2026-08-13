@@ -1,6 +1,6 @@
 # Moisees
 
-Moisees is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M.N.Roy, Mexico City on Sat, 15 Aug 2026.
+Moisees is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at M.N.Roy, Mexico City on Sat, 15 Aug 2026.
 
 Moisees is a house and deep house artist tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Frankfurt and Istanbul and 3 more. Often billed alongside Theus Mago, HNRQ (2) and Noirnor. Next up: M.N.Roy, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Moisees is a house and deep house artist tracked on soundcheck, with 25 sets log
 
 Theus Mago, HNRQ (2), Noirnor
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moisees/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moisees/)*

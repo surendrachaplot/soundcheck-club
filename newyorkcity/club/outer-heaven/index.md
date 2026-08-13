@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 12 Aug 2026.
+Outer Heaven is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Outer Heaven presents: Mona Matsuoka" on Thu, 13 Aug 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including André Baum, Aurora Halal, Bella Mutino and deep creep and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including André Baum, Aurora Halal, Bella Mutino and deep creep and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 13 Aug 2026 | Outer Heaven presents: Mona Matsuoka | Mona Matsuoka |
 | Fri, 14 Aug 2026 | Outer Heaven presents: Jack Mulqueen | Jack Mulqueen |
 | Sat, 15 Aug 2026 | Outer Heaven presents: Secret Guest | Gian-Paul, Ivan Smagghe, J. Richards, Kurilo |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 11 upcoming n
 | Sat, 22 Aug 2026 | Outer Heaven presents: Justin Strauss | Justin Strauss, Matt FX |
 | Wed, 26 Aug 2026 | Outer Heaven presents: Son Of Lee | Son Of Lee |
 | Fri, 28 Aug 2026 | Outer Heaven presents: Aurora Halal | Aurora Halal, deep creep |
+| Sat, 29 Aug 2026 | Outer Heaven presents: Jack Mulqueen b2b Choukroun | Jack Mulqueen |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

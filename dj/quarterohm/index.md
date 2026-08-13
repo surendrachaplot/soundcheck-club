@@ -1,14 +1,15 @@
 # quarter ohm
 
-quarter ohm is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Next Door Records Two, London on Sat, 15 Aug 2026.
+quarter ohm is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Next Door Records Two, London on Sat, 15 Aug 2026.
 
-quarter ohm is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside Connor (UK), Deventi and Egui. Next up: Next Door Records Two, London on Sat 15 Aug.
+quarter ohm is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Connor (UK), Deventi and Egui. Next up: Next Door Records Two, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Next Door Records Two | London |
+| Fri, 28 Aug 2026 | The DBA | Manchester |
 | Thu, 1 Oct 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ quarter ohm is a techno and minimal techno artist based in United Kingdom, track
 
 Connor (UK), Deventi, Egui
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*

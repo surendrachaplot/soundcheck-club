@@ -1,6 +1,6 @@
 # Amor Satyr
 
-Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at MS Club, Marseille on Sat, 15 Aug 2026.
+Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at MS Club, Marseille on Sat, 15 Aug 2026.
 
 Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Siu Mata (2), BNZ (2) and Bitter Babe. Next up: MS Club, Marseille on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, w
 
 Siu Mata (2), BNZ (2), Bitter Babe
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*

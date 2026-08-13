@@ -1,6 +1,6 @@
 # FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa
 
-FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 14 Aug, London. 2 acts on the bill: Dan Louder and DARQGOLD. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
+FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 14 Aug, London. 3 acts on the bill: Alex Iza, Dan Louder and DARQGOLD. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on 
 
 ## Line-up
 
+- Alex Iza
 - Dan Louder
 - DARQGOLD
 

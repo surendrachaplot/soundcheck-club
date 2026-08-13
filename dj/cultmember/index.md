@@ -1,14 +1,15 @@
 # Cult Member
 
-Cult Member is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at ZeyZey, Miami on Fri, 4 Sept 2026.
+Cult Member is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ZeyZey, Miami on Fri, 4 Sept 2026.
 
-Cult Member is a trance and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and London and 16 more. Often billed alongside TDJ, online threat and Torus. Next up: ZeyZey, Miami on Fri 4 Sept.
+Cult Member is a techno and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside TDJ, online threat and Torus. Next up: ZeyZey, Miami on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | ZeyZey | Miami |
+| Sat, 12 Sept 2026 | Outset | Chicago |
 | Sun, 27 Sept 2026 | Fortune Sound Club | Vancouver |
 | Thu, 1 Oct 2026 | Coda | Toronto |
 | Fri, 2 Oct 2026 | Newspeak | Montreal |
@@ -28,4 +29,4 @@ Cult Member is a trance and techno artist tracked on soundcheck, with 36 sets lo
 
 TDJ, online threat, Torus
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*

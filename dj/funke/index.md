@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
+Funke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
 
 Funke is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Houston and Newyorkcity. Often billed alongside Arvi, David Zapata and KILOBAUUD. Next up: The Historic Eldorado Ballroom, Houston on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Funke is a house and techno artist based in United States of America, tracked on
 
 Arvi, David Zapata, KILOBAUUD
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funke/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funke/)*

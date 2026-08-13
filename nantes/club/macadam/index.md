@@ -1,8 +1,8 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 18 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Macadam x Shield Run • Poazik ~ Øbsess B2B Kay-P ~ ScarÖ ~ No one B2B Naomat ~ Draktar" on Thu, 13 Aug 2026.
+Macadam is a music venue in Nantes with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Macadam x Shield Run • Poazik ~ Øbsess B2B Kay-P ~ ScarÖ ~ No one B2B Naomat ~ Draktar" on Thu, 13 Aug 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 18 upcoming nights, with line-ups including Alan.D, Alex Kassian, ANNX and Antilogic and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming nights, with line-ups including A.Fruit, Alan.D, Alex Kassian and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Macadam is a music venue in Nantes listed on soundcheck. 18 upcoming nights, wit
 | Thu, 13 Aug 2026 | Macadam x Shield Run • Poazik ~ Øbsess B2B Kay-P ~ ScarÖ ~ No one B2B Naomat ~ Draktar |  |
 | Fri, 14 Aug 2026 | DIVA x CHAT MANIK • STÜM ~ Nate S.U ~ Transki ~ DeeLali ~ Paromanormal ~ Soyoon… | Discostouf, FLEXI M, FLORA (fr), Nate S.U, Paromanormal, STÜM, Soyoon, Transki, Youps |
 | Thu, 20 Aug 2026 | Macadam x Ethos Records • Antilogic ~ Eendracht ~ Speechmaker | Antilogic, Eendracht, Speechmaker |
-| Fri, 21 Aug 2026 | Macadam • Kohra ~ Bambi | Bambi (FR), Kohra |
+| Fri, 21 Aug 2026 | Macadam • Kohra B2B Bambi - all night long | Bambi (FR), Kohra |
 | Sat, 22 Aug 2026 | Macadam x CONTINUUM • Psyk ~ ANNX ~ REDLUVED | ANNX, Psyk, REDLUVED |
 | Thu, 27 Aug 2026 | Macadam x Combo Bongos • Alan.D ~ Symraah | Alan.D |
 | Fri, 28 Aug 2026 | Macadam x ONSHORE • Na Nich ~ Mademoisel ~ Sunraï ~ Space Bond | Mademoisel, Sunchase |
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 18 upcoming nights, wit
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

@@ -1,6 +1,6 @@
 # Area X: Integration at TBA - Brooklyn
 
-Area X: Integration at TBA - Brooklyn on Sat 15 Aug, Newyorkcity. 5 acts on the bill: Casual Treatment, Cow Tools, dj33L and Noid and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Area X: Integration at TBA - Brooklyn on Sat 15 Aug, Newyorkcity. 5 acts on the bill: Casual Treatment, Cow Tools, dj33L and Noid and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

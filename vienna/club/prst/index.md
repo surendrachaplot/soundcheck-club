@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Donnerstrada with Veronika Amie & Jubilee" on Thu, 13 Aug 2026.
+PRST is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Donnerstrada with Veronika Amie & Jubilee" on Thu, 13 Aug 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Alice (AT), Anna Ullrich, Bodin and C.Love (2) and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -22,4 +22,4 @@ PRST is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

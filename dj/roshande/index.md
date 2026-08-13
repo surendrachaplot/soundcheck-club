@@ -1,14 +1,14 @@
 # Roshan (DE)
 
-Roshan (DE) is a Gabber and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat, 5 Sept 2026.
+Roshan (DE) is a Gabber and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Space for Skate, Munich on Sat, 5 Sept 2026.
 
-Roshan (DE) is a gabber and industrial artist tracked on soundcheck, with 29 sets logged across Berlin, Munich, Nurnberg and Stuttgart. Often billed alongside Bollmann, Hayek and JessRey. Next up: TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat 5 Sept.
+Roshan (DE) is a gabber and industrial artist tracked on soundcheck, with 29 sets logged across Berlin, Munich, Nurnberg and Stuttgart. Often billed alongside Bollmann, Hayek and JessRey. Next up: Space for Skate, Munich on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München) | Munich |
+| Sat, 5 Sept 2026 | Space for Skate | Munich |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Roshan (DE) is a gabber and industrial artist tracked on soundcheck, with 29 set
 
 Bollmann, Hayek, JessRey
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshande/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshande/)*

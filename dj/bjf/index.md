@@ -1,6 +1,6 @@
 # BJF
 
-BJF is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Point Ephémère, Paris on Fri, 21 Aug 2026.
+BJF is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Point Ephémère, Paris on Fri, 21 Aug 2026.
 
 BJF is a club and bass artist tracked on soundcheck, with 27 sets logged across Barcelona, Geneva, Ghent and Lyon and 2 more. Often billed alongside Scarlett (ohgodscarlett), Jeune Gaou and Næja. Next up: Point Ephémère, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ BJF is a club and bass artist tracked on soundcheck, with 27 sets logged across 
 
 Scarlett (ohgodscarlett), Jeune Gaou, Næja
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjf/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjf/)*

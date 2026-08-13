@@ -1,8 +1,8 @@
 # DARQGOLD
 
-DARQGOLD is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club Makossa, London on Fri, 14 Aug 2026.
+DARQGOLD is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Makossa, London on Fri, 14 Aug 2026.
 
-DARQGOLD is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds and London. Often billed alongside Dan Louder. Next up: Club Makossa, London on Fri 14 Aug.
+DARQGOLD is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds and London. Often billed alongside Alex Iza and Dan Louder. Next up: Club Makossa, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ DARQGOLD is a tech house and deep house artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-Dan Louder
+Alex Iza, Dan Louder
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darqgold/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darqgold/)*

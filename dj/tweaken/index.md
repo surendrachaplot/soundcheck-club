@@ -1,6 +1,6 @@
 # Tweaken
 
-Tweaken is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Tweaken is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Tweaken is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin and Brussels. Often billed alongside AAVA, Fady One and Frankie Flowerz. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Tweaken is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 AAVA, Fady One, Frankie Flowerz
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tweaken/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tweaken/)*

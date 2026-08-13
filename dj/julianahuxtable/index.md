@@ -1,8 +1,8 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
+Juliana Huxtable is a Techno and Club artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 13 Aug 2026.
 
-Juliana Huxtable is a techno and club artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 13 Aug.
+Juliana Huxtable is a techno and club artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Juliana Huxtable is a techno and club artist tracked on soundcheck, with 193 set
 | Sat, 5 Sept 2026 | Nowadays | New York City |
 | Sat, 19 Sept 2026 | Allan Gardens Conservatory | Toronto |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
+| Tue, 6 Oct 2026 | Sugar Hill Disco | New York City |
 | Fri, 23 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -31,4 +32,4 @@ Juliana Huxtable is a techno and club artist tracked on soundcheck, with 193 set
 
 JASSS, Shyboi, Via App
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

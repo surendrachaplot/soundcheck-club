@@ -1,8 +1,8 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Yes, Manchester on Fri, 11 Sept 2026.
+1-800 GIRLS is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Yes, Manchester on Fri, 11 Sept 2026.
 
-1-800 GIRLS is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Yes, Manchester on Fri 11 Sept.
+1-800 GIRLS is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 20 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Yes, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@
 | Wed, 23 Sept 2026 | Arts Club | Liverpool |
 | Thu, 24 Sept 2026 | Think Tank | Newcastle |
 | Wed, 30 Sept 2026 | Village Underground | London |
+| Sun, 1 Nov 2026 | TBA - The Underpass | Melbourne |
+| Mon, 2 Nov 2026 | TBA | Melbourne |
 
 ## Recently played
 
@@ -29,4 +31,4 @@
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

@@ -1,8 +1,8 @@
 # Martin Underwood
 
-Martin Underwood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Martin Underwood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
-Martin Underwood is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Daniele Avello, AVEM and Anja Schneider. Next up: Kater, Berlin on Sat 5 Sept.
+Martin Underwood is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Daniele Avello, AVEM and Alex New. Next up: Kater, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Martin Underwood is a house and techno artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-Daniele Avello, AVEM, Anja Schneider
+Daniele Avello, AVEM, Alex New
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinunderwood/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinunderwood/)*

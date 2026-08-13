@@ -1,6 +1,6 @@
 # Talismann
 
-Talismann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+Talismann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
 
 Talismann is a techno and house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Berlin and Boston and 29 more. Often billed alongside stranger (NL), Carlos Valdes and Fafi Abdel Nour. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Talismann is a techno and house artist based in Netherlands, tracked on soundche
 
 stranger (NL), Carlos Valdes, Fafi Abdel Nour
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talismann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talismann/)*

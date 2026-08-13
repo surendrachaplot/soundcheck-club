@@ -1,6 +1,6 @@
 # Constantine (US)
 
-Constantine (US) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
+Constantine (US) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
 
 Constantine (US) is a club and footwork artist based in United States of America, tracked on soundcheck, with 18 sets logged across Boston, Chicago, Detroit and Newyorkcity. Often billed alongside Elock, Mo Mami and ranee. Next up: Mood Ring, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Constantine (US) is a club and footwork artist based in United States of America
 
 Elock, Mo Mami, ranee
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*

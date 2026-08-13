@@ -1,6 +1,6 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
+nuarrrrr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
 
 nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logged across Berlin, Brussels, Krakow and Warsaw. Often billed alongside Nadezh No, Sava (3) and Aslamin. Next up: TBA - Secret Bunker , Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logge
 
 Nadezh No, Sava (3), Aslamin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*

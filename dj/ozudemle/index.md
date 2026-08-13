@@ -1,6 +1,6 @@
 # Ozudemle
 
-Ozudemle is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nachtasyl, Hamburg on Fri, 28 Aug 2026.
+Ozudemle is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nachtasyl, Hamburg on Fri, 28 Aug 2026.
 
 Ozudemle is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Finus, Eva.nyx and Herr Lang. Next up: Nachtasyl, Hamburg on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Ozudemle is a techno and tech house artist tracked on soundcheck, with 3 sets lo
 
 Finus, Eva.nyx, Herr Lang
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozudemle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozudemle/)*

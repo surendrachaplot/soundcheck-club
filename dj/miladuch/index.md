@@ -1,6 +1,6 @@
 # MILA DUCH
 
-MILA DUCH is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
+MILA DUCH is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
 
 MILA DUCH is a techno and minimal techno artist tracked on soundcheck, with 22 sets logged across Berlin, Buenosaires, Copenhagen and Madrid. Often billed alongside PAULITTAHH, PALOMA (4) and Anna Logic. Next up: MODULE, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ MILA DUCH is a techno and minimal techno artist tracked on soundcheck, with 22 s
 
 PAULITTAHH, PALOMA (4), Anna Logic
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*

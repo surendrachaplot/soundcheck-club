@@ -1,6 +1,6 @@
 # ROHiNA
 
-ROHiNA is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+ROHiNA is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
 
 ROHiNA is a bass and experimental artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Olive Juice, limi and AMVN. Next up: Endeavour, London on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ ROHiNA is a bass and experimental artist tracked on soundcheck, with 6 sets logg
 
 Olive Juice, limi, AMVN
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*

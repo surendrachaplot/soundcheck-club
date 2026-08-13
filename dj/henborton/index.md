@@ -1,6 +1,6 @@
 # Hen Borton
 
-Hen Borton is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Next Door Records Two, London on Sat, 5 Sept 2026.
+Hen Borton is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Next Door Records Two, London on Sat, 5 Sept 2026.
 
 Hen Borton is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside JEEM, K-SLICE and MAÏS. Next up: Next Door Records Two, London on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Hen Borton is a disco and funk / soul artist based in United Kingdom, tracked on
 
 JEEM, K-SLICE, MAÏS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henborton/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henborton/)*

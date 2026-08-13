@@ -1,6 +1,6 @@
 # Jacopo Forli
 
-Jacopo Forli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Jacopo Forli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
 
 Jacopo Forli is a techno and trance artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Birmingham, Budapest and Milan and 3 more. Often billed alongside Soffice, Jesooria and RVND. Next up: ÆDEN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jacopo Forli is a techno and trance artist based in Italy, tracked on soundcheck
 
 Soffice, Jesooria, RVND
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopoforli/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopoforli/)*

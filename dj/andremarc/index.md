@@ -1,6 +1,6 @@
 # Andre Marc
 
-Andre Marc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at RASA, Singapore on Fri, 14 Aug 2026.
+Andre Marc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at RASA, Singapore on Fri, 14 Aug 2026.
 
 Andre Marc is a techno and house artist tracked on soundcheck, with 30 sets logged across Singapore. Often billed alongside Halis, Pengsoo and Cosmo Carbon. Next up: RASA, Singapore on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Andre Marc is a techno and house artist tracked on soundcheck, with 30 sets logg
 
 Halis, Pengsoo, Cosmo Carbon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andremarc/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andremarc/)*

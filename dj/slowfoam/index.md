@@ -1,6 +1,6 @@
 # Slowfoam
 
-Slowfoam is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
+Slowfoam is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
 
 Slowfoam is an experimental and club artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Conna Haraway, Avsluta and Pablo Diserens. Next up: Renate, Berlin on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Slowfoam is an experimental and club artist tracked on soundcheck, with 38 sets 
 
 Conna Haraway, Avsluta, Pablo Diserens
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*

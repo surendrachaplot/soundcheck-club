@@ -1,6 +1,6 @@
 # Vulkanski
 
-Vulkanski is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
+Vulkanski is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
 
 Vulkanski is a techno and ebm artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Frequency Shifter, Boyd Schidt and Liza Rivs. Next up: KHIDI, Tbilisi on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Vulkanski is a techno and ebm artist tracked on soundcheck, with 78 sets logged 
 
 Frequency Shifter, Boyd Schidt, Liza Rivs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*

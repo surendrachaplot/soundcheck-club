@@ -1,6 +1,6 @@
 # Ezeo
 
-Ezeo is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Gate, Berlin on Sat, 15 Aug 2026.
+Ezeo is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Gate, Berlin on Sat, 15 Aug 2026.
 
 Ezeo is an electronic artist based in Iceland, tracked on soundcheck, with 3 sets logged across Berlin, Oslo and Warsaw. Often billed alongside Ali Demir, Koljah and KrBear. Next up: Golden Gate, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Ezeo is an electronic artist based in Iceland, tracked on soundcheck, with 3 set
 
 Ali Demir, Koljah, KrBear
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezeo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezeo/)*

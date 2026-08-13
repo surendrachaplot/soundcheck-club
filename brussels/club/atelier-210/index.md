@@ -1,6 +1,6 @@
 # Atelier 210
 
-Atelier 210 is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "The Clubbing Night Project" on Fri, 9 Oct 2026.
+Atelier 210 is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "The Clubbing Night Project" on Fri, 9 Oct 2026.
 
 Atelier 210 is a music venue in Brussels listed on soundcheck. 3 upcoming nights, with line-ups including t0ni. Browse upcoming dates, start times and who's playing. Chaussée Saint-Pierre 210, 1040 Etterbeek, Belgium.
 
@@ -16,4 +16,4 @@ Atelier 210 is a music venue in Brussels listed on soundcheck. 3 upcoming nights
 
 Chaussée Saint-Pierre 210, 1040 Etterbeek, Belgium, Brussels
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/atelier-210/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/atelier-210/)*

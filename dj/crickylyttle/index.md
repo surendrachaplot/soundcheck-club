@@ -1,14 +1,14 @@
 # Cricky Lyttle
 
-Cricky Lyttle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Secret Location, London on Sat, 29 Aug 2026.
+Cricky Lyttle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
-Cricky Lyttle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Dublin and London. Often billed alongside Blark, Ryan Dallas and Nez. Next up: Secret Location, London on Sat 29 Aug.
+Cricky Lyttle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Dublin and London. Often billed alongside Blark, Ryan Dallas and Nez. Next up: TBA, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Secret Location | London |
+| Sat, 29 Aug 2026 | TBA | London |
 | Fri, 4 Sept 2026 | The Ulster Sports Club | Belfast |
 
 ## Recently played
@@ -26,4 +26,4 @@ Cricky Lyttle is a techno and house artist based in United Kingdom, tracked on s
 
 Blark, Ryan Dallas, Nez
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*

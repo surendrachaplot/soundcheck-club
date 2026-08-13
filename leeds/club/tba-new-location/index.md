@@ -1,6 +1,6 @@
 # TBA - New location
 
-TBA - New location is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "TAKEOVER HALLOWEEN with SCHROTTHAGEN" on Fri, 30 Oct 2026.
+TBA - New location is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "TAKEOVER HALLOWEEN with SCHROTTHAGEN" on Fri, 30 Oct 2026.
 
 TBA - New location is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Schrotthagen. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - New location is a music venue in Leeds listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TAKEOVER HALLOWEEN with SCHROTTHAGEN | Schrotthagen |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*

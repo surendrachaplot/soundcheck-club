@@ -1,13 +1,14 @@
 # Vincent Lang
 
-Vincent Lang is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+Vincent Lang is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
-Vincent Lang is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Munich and Vienna. Often billed alongside Haze (GER), julës jay and VSMR. Next up: Legal, Munich on Fri 21 Aug.
+Vincent Lang is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Munich and Vienna. Often billed alongside Haze (GER), julës jay and VSMR. Next up: Legal, Munich on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Legal | Munich |
 | Fri, 21 Aug 2026 | Legal | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vincent Lang is a house and tech house artist tracked on soundcheck, with 23 set
 
 Haze (GER), julës jay, VSMR
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlang/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlang/)*

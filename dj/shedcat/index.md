@@ -1,6 +1,6 @@
 # Shedcat
 
-Shedcat is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
+Shedcat is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
 
 Shedcat is a techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Glasgow. Often billed alongside Loose E, TINO (2) and The Sandman. Next up: Nice N Sleazy, Glasgow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Shedcat is a techno artist based in United Kingdom, tracked on soundcheck, with 
 
 Loose E, TINO (2), The Sandman
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shedcat/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shedcat/)*

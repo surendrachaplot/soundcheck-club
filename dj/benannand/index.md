@@ -1,13 +1,14 @@
 # Ben Annand
 
-Ben Annand is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 4 Sept 2026.
+Ben Annand is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Deep End Live, Los Angeles on Sat, 15 Aug 2026.
 
-Ben Annand is a house and techno artist tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Portland and 3 more. Often billed alongside Anton Tumas, Ardalan and Bird Lady. Next up: The Air Conditioned Lounge, Sandiego on Fri 4 Sept.
+Ben Annand is a house and techno artist tracked on soundcheck, with 10 sets logged across Detroit, Losangeles, Newyorkcity and Portland and 3 more. Often billed alongside Bird Lady, DJ Dazy and Anton Tumas. Next up: Deep End Live, Losangeles on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Deep End Live | Los Angeles |
 | Fri, 4 Sept 2026 | The Air Conditioned Lounge | San Diego |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ben Annand is a house and techno artist tracked on soundcheck, with 9 sets logge
 
 ## Shares bills with
 
-Anton Tumas, Ardalan, Bird Lady
+Bird Lady, DJ Dazy, Anton Tumas
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benannand/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benannand/)*

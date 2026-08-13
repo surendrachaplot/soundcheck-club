@@ -1,6 +1,6 @@
 # Madvig
 
-Madvig is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nemoland, Copenhagen on Thu, 13 Aug 2026.
+Madvig is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nemoland, Copenhagen on Thu, 13 Aug 2026.
 
 Madvig is an electronic artist tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Bongo & Pusk, Kim Kemi and Nick Søe. Next up: Nemoland, Copenhagen on Thu 13 Aug.
 
@@ -18,4 +18,4 @@ Madvig is an electronic artist tracked on soundcheck, with 2 sets logged across 
 
 Bongo & Pusk, Kim Kemi, Nick Søe
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madvig/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madvig/)*

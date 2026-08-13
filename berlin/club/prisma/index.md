@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Sssmile Afterhour" on Thu, 13 Aug 2026.
+Prisma is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Sssmile Afterhour" on Thu, 13 Aug 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Andi Beat, Benua, Domovnika and Emilion Dollar Baby and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -20,4 +20,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with 
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

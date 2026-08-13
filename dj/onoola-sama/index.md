@@ -1,6 +1,6 @@
 # onoola-sama
 
-onoola-sama is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
+onoola-sama is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 22 rue Jobin 13003 marseille , Marseille on Thu, 13 Aug 2026.
 
 onoola-sama is a hip-hop and afrobeats artist based in Canada, tracked on soundcheck, with 5 sets logged across London, Marseille and Toronto. Often billed alongside Feroh, Bamao Yendé and Grandmixxer. Next up: TBA - 22 rue Jobin 13003 marseille , Marseille on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ onoola-sama is a hip-hop and afrobeats artist based in Canada, tracked on soundc
 
 Feroh, Bamao Yendé, Grandmixxer
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onoola-sama/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onoola-sama/)*

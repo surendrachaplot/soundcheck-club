@@ -1,6 +1,6 @@
 # Piknic Électronik MTL x VPC: U-TURN at Village au Pied-du-Courant
 
-Piknic Électronik MTL x VPC: U-TURN at Village au Pied-du-Courant on Sun 16 Aug, Montreal. 2 acts on the bill: Honeydrip and Lia Plutonic. Electro. Preview the line-up and save it on soundcheck.
+Piknic Électronik MTL x VPC: U-TURN at Village au Pied-du-Courant on Sun 16 Aug, Montreal. 3 acts on the bill: Honeydrip, Lia Plutonic and Raef (US). Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Piknic Électronik MTL x VPC: U-TURN at Village au Pied-du-Courant on Sun 16 Aug
 
 - Honeydrip
 - Lia Plutonic
+- Raef (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2491820-piknic-lectronik-mtl-x-vpc-u-turn-at-village-au-pied-du-cour/)*

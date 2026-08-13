@@ -1,6 +1,6 @@
 # Maruwa
 
-Maruwa is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at De Hangout, Amsterdam on Sat, 15 Aug 2026.
+Maruwa is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at De Hangout, Amsterdam on Sat, 15 Aug 2026.
 
 Maruwa is a house and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: De Hangout, Amsterdam on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Maruwa is a house and trance artist tracked on soundcheck, with 137 sets logged 
 
 Younger Than Me, Surf 2 Glory, DJ Heartstring
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

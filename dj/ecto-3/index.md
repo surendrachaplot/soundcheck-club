@@ -1,6 +1,6 @@
 # ECTO (3)
 
-ECTO (3) is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crybaby, San Francisco/Oakland on Sat, 5 Sept 2026.
+ECTO (3) is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Crybaby, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 ECTO (3) is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Discnogirl, Lonald J. Bandz and kuntress. Next up: Crybaby, Sanfrancisco on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ ECTO (3) is a club and ghetto tech artist based in United States of America, tra
 
 Discnogirl, Lonald J. Bandz, kuntress
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*

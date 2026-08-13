@@ -1,6 +1,6 @@
 # GuyOhm
 
-GuyOhm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
+GuyOhm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
 
 GuyOhm is a techno and electro artist based in France, tracked on soundcheck, with 11 sets logged across Antwerp and Barcelona. Often billed alongside Undo, Headbirds and CANVI. Next up: Rachdingue, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ GuyOhm is a techno and electro artist based in France, tracked on soundcheck, wi
 
 Undo, Headbirds, CANVI
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guyohm/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guyohm/)*

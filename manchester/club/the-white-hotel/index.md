@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 34 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "MIRE x Semi Peppered: DJ Sotofett / Jon K & Elle Andrews / Annabel Fraser" on Fri, 14 Aug 2026.
+The White Hotel is a music venue in Manchester with 37 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "MIRE x Semi Peppered: DJ Sotofett / Jon K & Elle Andrews / Annabel Fraser" on Fri, 14 Aug 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 34 upcoming nights, with line-ups including Fastlove, Ikävä Pii, ABADIR and Alessandro Adriani and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming nights, with line-ups including Fastlove, Ikävä Pii, ABADIR and Abena and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 34 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

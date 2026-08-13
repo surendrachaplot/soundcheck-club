@@ -1,13 +1,14 @@
 # Edits
 
-Edits is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
+Edits is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Prague on Sat, 22 Aug 2026.
 
-Edits is a techno and pop artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Bangkok and Prague. Often billed alongside Atch22, Demonika and TerminusTechnikus. Next up: Ankali & Planeta Za, Prague on Fri 25 Sept.
+Edits is a techno and pop artist based in Czech Republic, tracked on soundcheck, with 35 sets logged across Bangkok and Prague. Often billed alongside Atch22, Demonika and Marie Pravda. Next up: TBA, Prague on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA | Prague |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -23,6 +24,6 @@ Edits is a techno and pop artist based in Czech Republic, tracked on soundcheck,
 
 ## Shares bills with
 
-Atch22, Demonika, TerminusTechnikus
+Atch22, Demonika, Marie Pravda
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edits/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edits/)*

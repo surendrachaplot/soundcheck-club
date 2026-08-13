@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #18 || VERA VERANO x PIELSON x CASPER WEISS" on Wed, 12 Aug 2026.
+Smolna is a music venue in Warsaw with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SMLN Thursday x genderfluid: kaj garage - Mordeaux" on Thu, 13 Aug 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with line-ups including Anela, Claude Degas, Cwtv and Francesca and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, with line-ups including Anela, Claude Degas, Cwtv and Francesca and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | HIDEOUT SOCIAL CLUB #18 // VERA VERANO x PIELSON x CASPER WEISS |  |
 | Thu, 13 Aug 2026 | SMLN Thursday x genderfluid: kaj garage - Mordeaux | Mordeaux, kaj garage |
 | Fri, 14 Aug 2026 | Smolna x mésalliance: Internal Explorer | PNST, Saint Peter |
 | Sat, 15 Aug 2026 | Ramzi Invites | Claude Degas, MGSK, Mordeaux, RĀMZĪ, kaj garage |
@@ -18,9 +17,10 @@ Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with
 | Sat, 22 Aug 2026 | Razjeb x Danse Macabre | Anela, HELLIS, KASSANDRA, Mady, NO FACE, Yu Kawabata, iLAN |
 | Wed, 26 Aug 2026 | HIDEOUT SOCIAL CLUB #20 // VIVØ x TBA | TBA, VIVØ |
 | Fri, 28 Aug 2026 | Francesca invites | Francesca, Francesca (PL), Mushin, SPNN, SYS.END, Theviacya |
+| Fri, 4 Sept 2026 | Smolna x Bassmates | Sarba, long w |
 
 ## Address
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

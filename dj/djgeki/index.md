@@ -1,6 +1,6 @@
 # DJ GEKI
 
-DJ GEKI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at S-Pod, Kyoto on Sat, 29 Aug 2026.
+DJ GEKI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at S-Pod, Kyoto on Sat, 29 Aug 2026.
 
 DJ GEKI is a house and bass artist based in Japan, tracked on soundcheck, with 42 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside LEiCA, Curumayoi and mocca*. Next up: S-Pod, Kyoto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ GEKI is a house and bass artist based in Japan, tracked on soundcheck, with 4
 
 LEiCA, Curumayoi, mocca*
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgeki/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgeki/)*

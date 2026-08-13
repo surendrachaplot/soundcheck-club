@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Le Sucre, Lyon on Sat, 15 Aug 2026.
+deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Le Sucre, Lyon on Sat, 15 Aug 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Le Sucre, Lyon on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 35 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

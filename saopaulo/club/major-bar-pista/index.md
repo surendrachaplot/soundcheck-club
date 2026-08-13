@@ -1,0 +1,26 @@
+# Major Bar & Pista
+
+Major Bar & Pista is a music venue in Sao Paulo with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Major recebe ESARNERI" on Thu, 13 Aug 2026.
+
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 13 Aug 2026 | Major recebe ESARNERI |  |
+| Fri, 14 Aug 2026 | Charlie convida Andrea Gram |  |
+| Sat, 15 Aug 2026 | Major recebe Cabanka |  |
+| Wed, 19 Aug 2026 | Major recebe Guma Joana convida: Nebulosa e Avante |  |
+| Thu, 20 Aug 2026 | Major recebe YONOID |  |
+| Fri, 21 Aug 2026 | Major recebe Cio 29 anos: Glaucia MaisMax + Paola Vigorito |  |
+| Sat, 22 Aug 2026 | Major recebe Los Protos |  |
+| Wed, 26 Aug 2026 | Major recebe Silvio Normal |  |
+| Thu, 27 Aug 2026 | Major recebe Sol |  |
+| Fri, 28 Aug 2026 | Major recebe Chãnce convida MAGAL |  |
+
+## Address
+
+Rua Major Sertório, 347, Sao Paulo
+
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

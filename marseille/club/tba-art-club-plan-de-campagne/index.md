@@ -1,6 +1,6 @@
 # TBA - Art Club (Plan de Campagne)
 
-TBA - Art Club (Plan de Campagne) is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "SUNDROP XXL II — POOL PARTY" on Sun, 23 Aug 2026.
+TBA - Art Club (Plan de Campagne) is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "SUNDROP XXL II — POOL PARTY" on Sun, 23 Aug 2026.
 
 TBA - Art Club (Plan de Campagne) is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including BenzØ, Wolk and PEAKSOU. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Art Club (Plan de Campagne) is a music venue in Marseille listed on soundc
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | SUNDROP XXL II — POOL PARTY | BenzØ, PEAKSOU, Wolk |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-art-club-plan-de-campagne/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-art-club-plan-de-campagne/)*

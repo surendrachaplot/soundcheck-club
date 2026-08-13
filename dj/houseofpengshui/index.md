@@ -1,6 +1,6 @@
 # House of Pengshui
 
-House of Pengshui is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Piccadilly Central, Manchester on Fri, 14 Aug 2026.
+House of Pengshui is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Piccadilly Central, Manchester on Fri, 14 Aug 2026.
 
 House of Pengshui is a house and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside Groovy D (1), Analect and Craigie Knowes. Next up: Piccadilly Central, Manchester on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ House of Pengshui is a house and garage artist based in United Kingdom, tracked 
 
 Groovy D (1), Analect, Craigie Knowes
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofpengshui/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofpengshui/)*

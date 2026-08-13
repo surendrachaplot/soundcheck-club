@@ -1,6 +1,6 @@
 # MIDRIB
 
-MIDRIB is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
+MIDRIB is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
 
 MIDRIB is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Leeds and London. Often billed alongside Nio-B, CITIZEN and Snoozy. Next up: Distillery N17, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ MIDRIB is a jungle and hardcore artist based in United Kingdom, tracked on sound
 
 Nio-B, CITIZEN, Snoozy
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*

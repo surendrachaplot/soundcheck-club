@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gallery, London on Sat, 29 Aug 2026.
+Ashibah is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gallery, London on Sat, 29 Aug 2026.
 
 Ashibah is a house and deep house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Copenhagen, Ibiza and London and 5 more. Often billed alongside Lane 8, Sultan + Shepard and Colyn. Next up: Gallery, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Ashibah is a house and deep house artist tracked on soundcheck, with 15 sets log
 
 Lane 8, Sultan + Shepard, Colyn
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

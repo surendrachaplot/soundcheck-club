@@ -1,6 +1,6 @@
 # Pedro Gariani
 
-Pedro Gariani is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Zig Studio, Sao Paulo on Fri, 14 Aug 2026.
+Pedro Gariani is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Zig Studio, Sao Paulo on Fri, 14 Aug 2026.
 
 Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck, with 46 sets logged across Amsterdam and Saopaulo. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Zig Studio, Saopaulo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck
 
 Dioun, Etcetera, Paulete Lindacelva
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*

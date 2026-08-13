@@ -1,6 +1,6 @@
 # Masterpeace
 
-Masterpeace is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+Masterpeace is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
 Masterpeace is a hip-hop and electronica artist based in Italy, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Blanco, Cass Brewster and Elheist. Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Masterpeace is a hip-hop and electronica artist based in Italy, tracked on sound
 
 Blanco, Cass Brewster, Elheist
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masterpeace/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masterpeace/)*

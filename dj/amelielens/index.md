@@ -1,14 +1,13 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Amelie Lens is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Magazine Open–Air, London on Fri, 21 Aug 2026.
 
-Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Magazine Open–Air, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 5 Sept 2026 | KMSKA | Antwerp |
@@ -20,6 +19,7 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets lo
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
 - Kaufleuten, Zurich — Fri, 24 Jul 2026
@@ -27,10 +27,9 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets lo
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 28 Jun 2026
 - Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
-- Kiesgrube, Düsseldorf — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

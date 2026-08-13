@@ -1,6 +1,6 @@
 # Aliceyuki
 
-Aliceyuki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
+Aliceyuki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
 
 Aliceyuki is a techno and bass artist based in Japan, tracked on soundcheck, with 52 sets logged across Barcelona, Paris and Tokyo. Often billed alongside M.I.O, cera and akii. Next up: おおばキャンプ村, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aliceyuki is a techno and bass artist based in Japan, tracked on soundcheck, wit
 
 M.I.O, cera, akii
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*

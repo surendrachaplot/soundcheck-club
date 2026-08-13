@@ -1,6 +1,6 @@
 # DRIA
 
-DRIA is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+DRIA is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 DRIA is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London. Often billed alongside Beezo, Lance Morgan and Shenin Amara. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DRIA is a tech house and afro house artist based in United Kingdom, tracked on s
 
 Beezo, Lance Morgan, Shenin Amara
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*

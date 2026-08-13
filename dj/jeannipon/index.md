@@ -1,6 +1,6 @@
 # Jean Nipon
 
-Jean Nipon is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
+Jean Nipon is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
 
 Jean Nipon is a techno and electro artist based in France, tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Aleqs Notal and DJ Stingray 313. Next up: Nouveau Casino, Paris on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Jean Nipon is a techno and electro artist based in France, tracked on soundcheck
 
 Aleqs Notal, DJ Stingray 313
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeannipon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeannipon/)*

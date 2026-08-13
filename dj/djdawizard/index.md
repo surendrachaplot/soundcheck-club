@@ -1,6 +1,6 @@
 # DJ Da WIZARD
 
-DJ Da WIZARD is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at YOTO, Hamburg on Sat, 15 Aug 2026.
+DJ Da WIZARD is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at YOTO, Hamburg on Sat, 15 Aug 2026.
 
 DJ Da WIZARD is a hip-hop and r&b artist tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Dj Sivlé and Hayo Feelin. Next up: YOTO, Hamburg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Da WIZARD is a hip-hop and r&b artist tracked on soundcheck, with 10 sets log
 
 Dj Sivlé, Hayo Feelin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawizard/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawizard/)*

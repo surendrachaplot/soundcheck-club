@@ -1,8 +1,8 @@
 # OSFUR
 
-OSFUR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+OSFUR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-OSFUR is a house and afro house artist based in France, tracked on soundcheck, with 10 sets logged across Amsterdam, Ibiza, London and Milan and 1 more. Often billed alongside UVITA, ARYMÉ and Amine K. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
+OSFUR is a house and afro house artist based in France, tracked on soundcheck, with 11 sets logged across Amsterdam, Bangkok, Ibiza and London and 2 more. Often billed alongside UVITA, ARYMÉ and Amine K. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OSFUR is a house and afro house artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
+- Sing Sing Theater, Bangkok — Sat, 8 Aug 2026
 - Chinois Ibiza, Ibiza — Sun, 26 Jul 2026
 - Volt Club Milano, Milan — Sat, 4 Apr 2026
 - Gallery, London — Thu, 9 Oct 2025
@@ -19,10 +20,9 @@ OSFUR is a house and afro house artist based in France, tracked on soundcheck, w
 - Volt Club Milano, Milan — Thu, 20 Feb 2025
 - TBA - Cafe de Huyskamer, Amsterdam — Fri, 18 Oct 2024
 - Concorde Atlantique, Paris — Fri, 7 Jun 2024
-- Mirage, Paris — Thu, 8 Feb 2024
 
 ## Shares bills with
 
 UVITA, ARYMÉ, Amine K
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*

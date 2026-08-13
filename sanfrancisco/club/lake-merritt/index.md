@@ -1,6 +1,6 @@
 # Lake Merritt
 
-Lake Merritt is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Funk Stop Day Party Pop-Up" on Sat, 15 Aug 2026.
+Lake Merritt is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Funk Stop Day Party Pop-Up" on Sat, 15 Aug 2026.
 
 Lake Merritt is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1970 Broadway, Oakland, CA 94612.
 
@@ -14,4 +14,4 @@ Lake Merritt is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming n
 
 1970 Broadway, Oakland, CA 94612, San Francisco/Oakland
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/lake-merritt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/lake-merritt/)*

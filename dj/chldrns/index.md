@@ -1,6 +1,6 @@
 # chldrns
 
-chldrns is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Groove Bar, Prague on Thu, 13 Aug 2026.
+chldrns is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Groove Bar, Prague on Thu, 13 Aug 2026.
 
 chldrns is a house and minimal artist tracked on soundcheck, with 21 sets logged across London, Mexicocity and Prague. Often billed alongside Gallō, Bastard Love and Kodemul. Next up: Groove Bar, Prague on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ chldrns is a house and minimal artist tracked on soundcheck, with 21 sets logged
 
 Gallō, Bastard Love, Kodemul
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*

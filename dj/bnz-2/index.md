@@ -1,6 +1,6 @@
 # BNZ (2)
 
-BNZ (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at MS Club, Marseille on Sat, 15 Aug 2026.
+BNZ (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at MS Club, Marseille on Sat, 15 Aug 2026.
 
 BNZ (2) is a bass and techno artist tracked on soundcheck, with 20 sets logged across Copenhagen, Lyon, Marseille and Paris and 1 more. Often billed alongside Amor Satyr, Israfil and Shlagga. Next up: MS Club, Marseille on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BNZ (2) is a bass and techno artist tracked on soundcheck, with 20 sets logged a
 
 Amor Satyr, Israfil, Shlagga
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bnz-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bnz-2/)*

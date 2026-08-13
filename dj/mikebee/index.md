@@ -1,6 +1,6 @@
 # Mike Bee
 
-Mike Bee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
+Mike Bee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
 
 Mike Bee is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco and Sydney. Often billed alongside Royalston, Azzawi and Kai Alce. Next up: The Chippo Hotel, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mike Bee is a drum & bass and jungle artist based in United States of America, t
 
 Royalston, Azzawi, Kai Alce
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebee/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebee/)*

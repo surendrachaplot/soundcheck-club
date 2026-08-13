@@ -1,6 +1,6 @@
 # Golden Flamingo
 
-Golden Flamingo is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Float Afterparty Volume Berlin Records & Microclobe Collective" on Sat, 15 Aug 2026.
+Golden Flamingo is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Float Afterparty Volume Berlin Records & Microclobe Collective" on Sat, 15 Aug 2026.
 
 Golden Flamingo is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Andreas Kraemer, Christian Grade, Daniela Hensel and DJ Glitterelli and 2 more. Browse upcoming dates, start times and who's playing. James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Golden Flamingo is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*

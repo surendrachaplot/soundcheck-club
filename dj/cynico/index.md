@@ -1,6 +1,6 @@
 # Cy Nico
 
-Cy Nico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
+Cy Nico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
 
 Cy Nico is a techno and house artist tracked on soundcheck, with 93 sets logged across Bangkok and Seoul. Often billed alongside Kim.Qna, Kim Jooyoung and Minjoon. Next up: Modeci, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Cy Nico is a techno and house artist tracked on soundcheck, with 93 sets logged 
 
 Kim.Qna, Kim Jooyoung, Minjoon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cynico/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cynico/)*

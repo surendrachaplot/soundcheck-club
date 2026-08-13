@@ -1,8 +1,8 @@
 # Ana Karla
 
-Ana Karla is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jolene, Copenhagen on Thu, 13 Aug 2026.
+Ana Karla is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jolene, Copenhagen on Thu, 13 Aug 2026.
 
-Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck, with 50 sets logged across Berlin, Copenhagen, Hamburg and Oslo. Often billed alongside Ida Daugaard, Christina Evangelista and Geroge. Next up: Jolene, Copenhagen on Thu 13 Aug.
+Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck, with 51 sets logged across Berlin, Copenhagen, Hamburg and Oslo. Often billed alongside Ida Daugaard, Christina Evangelista and Geroge. Next up: Jolene, Copenhagen on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck
 | Thu, 13 Aug 2026 | Jolene | Copenhagen |
 | Fri, 21 Aug 2026 | Golden Gate | Berlin |
 | Sat, 5 Sept 2026 | Culture Box | Copenhagen |
+| Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Sat, 3 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -28,4 +29,4 @@ Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck
 
 Ida Daugaard, Christina Evangelista, Geroge
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*

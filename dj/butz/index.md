@@ -1,14 +1,15 @@
 # BUTZ
 
-BUTZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
+BUTZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
 
-BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Paris. Often billed alongside Moritz Biebl, Dj handbag and Beryll. Next up: AMT, Berlin on Sat 15 Aug.
+BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Paris. Often billed alongside Moritz Biebl, Dj handbag and Beryll. Next up: AMT, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | AMT | Berlin |
+| Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Moritz Biebl, Dj handbag, Beryll
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*

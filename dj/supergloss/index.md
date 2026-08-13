@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Supergloss is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Supergloss is a techno and trance artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, MALUGI and Omon Breaker. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -34,4 +34,4 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 200 sets lo
 
 Funk Tribu, MALUGI, Omon Breaker
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

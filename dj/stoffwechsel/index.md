@@ -1,6 +1,6 @@
 # Støffwechsel
 
-Støffwechsel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
+Støffwechsel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
 
 Støffwechsel is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside L X S, BVNNII and DJ Afterglow. Next up: M-BIA, Berlin on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Støffwechsel is a trance and techno artist based in Germany, tracked on soundch
 
 L X S, BVNNII, DJ Afterglow
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffwechsel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffwechsel/)*

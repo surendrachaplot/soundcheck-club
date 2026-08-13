@@ -1,6 +1,6 @@
 # Baile do Futuro - São Paulo at Crono Club
 
-Baile do Futuro - São Paulo at Crono Club on Sat 22 Aug, Saopaulo. 3 acts on the bill: Adame DJ, Cashu and Lolli. Baile Funk and Experimental. Preview the line-up and save it on soundcheck.
+Baile do Futuro - São Paulo at Crono Club on Sat 22 Aug, Saopaulo. 3 acts on the bill: Adame DJ, Cashu and Lolli. Experimental and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

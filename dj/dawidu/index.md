@@ -1,6 +1,6 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 4 Sept 2026.
+Dawidu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 4 Sept 2026.
 
 Dawidu is a house and techno artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil (1) and Aline Umber. Next up: 303 Audiophile Bar, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dawidu is a house and techno artist based in France, tracked on soundcheck, with
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

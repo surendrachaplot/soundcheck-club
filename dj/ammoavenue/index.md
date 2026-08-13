@@ -1,6 +1,6 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Ammo Avenue is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 
 Hector Couto, Pirate Copy, East End Dubs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*

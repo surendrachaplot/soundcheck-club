@@ -1,6 +1,6 @@
 # Bryto
 
-Bryto is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Village Underground Lisboa, Lisbon on Thu, 13 Aug 2026.
+Bryto is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground Lisboa, Lisbon on Thu, 13 Aug 2026.
 
 Bryto is a house and deep house artist tracked on soundcheck, with 16 sets logged across Lisbon and Saopaulo. Often billed alongside Bryan Brito, Diogo Accioly and Paola Vigorito. Next up: Village Underground Lisboa, Lisbon on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Bryto is a house and deep house artist tracked on soundcheck, with 16 sets logge
 
 Bryan Brito, Diogo Accioly, Paola Vigorito
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bryto/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bryto/)*

@@ -1,6 +1,6 @@
 # lilipop
 
-lilipop is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
+lilipop is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
 
 lilipop is a techno artist based in France, tracked on soundcheck, with 14 sets logged across Paris. Often billed alongside AMAYO, Alex Wilcox and Altinbas. Next up: Virage, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ lilipop is a techno artist based in France, tracked on soundcheck, with 14 sets 
 
 AMAYO, Alex Wilcox, Altinbas
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilipop/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilipop/)*

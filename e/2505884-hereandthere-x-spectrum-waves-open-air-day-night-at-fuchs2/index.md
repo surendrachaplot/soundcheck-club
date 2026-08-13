@@ -1,6 +1,6 @@
-# hereandthere x Spectrum Waves: open-air day&night at Fuchs2
+# hereandthere x Spectrum Waves: open-air day & night at Fuchs2
 
-hereandthere x Spectrum Waves: open-air day&night at Fuchs2 on Sat 19 Sept, Prague. Techno and House. Preview the line-up and save it on soundcheck.
+hereandthere x Spectrum Waves: open-air day & night at Fuchs2 on Sat 19 Sept, Prague. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

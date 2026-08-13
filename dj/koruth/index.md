@@ -1,6 +1,6 @@
 # Koruth
 
-Koruth is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Meetfactory, Prague on Mon, 17 Aug 2026.
+Koruth is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Meetfactory, Prague on Mon, 17 Aug 2026.
 
 Koruth is a techno and ambient artist tracked on soundcheck, with 22 sets logged across Prague. Often billed alongside ionai, Qow and Alfred Czital. Next up: Meetfactory, Prague on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Koruth is a techno and ambient artist tracked on soundcheck, with 22 sets logged
 
 ionai, Qow, Alfred Czital
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koruth/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koruth/)*

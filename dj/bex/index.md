@@ -1,13 +1,14 @@
 # Bex
 
-Bex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
+Bex is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
 
-Bex is a house and techno artist tracked on soundcheck, with 94 sets logged across Berlin, Brussels, Hobart and Lisbon and 4 more. Often billed alongside Terri (2), Hannah D and Mike Callander. Next up: Solace, Melbourne on Sat 15 Aug.
+Bex is a house and techno artist tracked on soundcheck, with 95 sets logged across Berlin, Brussels, Hobart and Lisbon and 4 more. Often billed alongside Terri (2), Mike Callander and Hannah D. Next up: Revolver Upstairs, Melbourne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sat, 15 Aug 2026 | Solace | Melbourne |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
@@ -24,6 +25,6 @@ Bex is a house and techno artist tracked on soundcheck, with 94 sets logged acro
 
 ## Shares bills with
 
-Terri (2), Hannah D, Mike Callander
+Terri (2), Mike Callander, Hannah D
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*

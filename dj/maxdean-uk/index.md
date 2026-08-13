@@ -1,14 +1,15 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 14 Aug 2026.
+Max Dean is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 14 Aug 2026.
 
-Max Dean is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Pacha Ibiza, Ibiza on Fri 14 Aug.
+Max Dean is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Pacha Ibiza, Ibiza on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
+| Sat, 15 Aug 2026 | Magazine Open–Air | London |
 | Sat, 15 Aug 2026 | Magazine Open–Air | London |
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -19,7 +20,6 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 223 sets l
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
-| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 223 sets l
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

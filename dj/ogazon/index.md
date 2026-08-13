@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Ogazón is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Ogazón is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -34,4 +34,4 @@ Ogazón is a techno and house artist tracked on soundcheck, with 262 sets logged
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

@@ -1,6 +1,6 @@
 # Verhall
 
-Verhall is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Rote Sonne, Munich on Fri, 28 Aug 2026.
+Verhall is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Rote Sonne, Munich on Fri, 28 Aug 2026.
 
 Verhall is a techno and ambient artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Munich and Prague and 1 more. Often billed alongside GEISTFREI, Colum Urton and Egotot. Next up: Rote Sonne, Munich on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Verhall is a techno and ambient artist based in Germany, tracked on soundcheck, 
 
 GEISTFREI, Colum Urton, Egotot
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verhall/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verhall/)*

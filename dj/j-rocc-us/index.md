@@ -1,6 +1,6 @@
 # J.Rocc
 
-J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Union Station, Los Angeles on Sat, 15 Aug 2026.
+J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Union Station, Los Angeles on Sat, 15 Aug 2026.
 
 J.Rocc is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Hamburg, London, Losangeles and Miami and 6 more. Often billed alongside Muro, Gara and Peanut Butter Wolf. Next up: Union Station, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ J.Rocc is a hip-hop and house artist based in United States of America, tracked 
 
 Muro, Gara, Peanut Butter Wolf
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*

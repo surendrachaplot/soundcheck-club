@@ -1,6 +1,6 @@
 # Guus Christian
 
-Guus Christian is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at NAR, Utrecht on Sat, 29 Aug 2026.
+Guus Christian is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at NAR, Utrecht on Sat, 29 Aug 2026.
 
 Guus Christian is a house and disco artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Dusseldorf, Ghent and Rotterdam and 2 more. Often billed alongside Leroy Rey, Ays (NL) and Coco Coquelicot. Next up: NAR, Utrecht on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Guus Christian is a house and disco artist based in Netherlands, tracked on soun
 
 Leroy Rey, Ays (NL), Coco Coquelicot
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guuschristian/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guuschristian/)*

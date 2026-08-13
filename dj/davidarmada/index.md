@@ -1,6 +1,6 @@
 # David Armada
 
-David Armada is a Deep House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Chez Jean-Luc, Geneva on Thu, 13 Aug 2026.
+David Armada is a Deep House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Chez Jean-Luc, Geneva on Thu, 13 Aug 2026.
 
 David Armada is a deep house and electro artist tracked on soundcheck, with 91 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and Dub Tiger. Next up: Chez Jean-Luc, Geneva on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ David Armada is a deep house and electro artist tracked on soundcheck, with 91 s
 
 La Forêt, DJ Reas, Dub Tiger
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*

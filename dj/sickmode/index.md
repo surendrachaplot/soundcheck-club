@@ -1,6 +1,6 @@
 # Sickmode
 
-Sickmode is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Epic Prague, Prague on Sat, 7 Nov 2026.
+Sickmode is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Epic Prague, Prague on Sat, 7 Nov 2026.
 
 Sickmode is a hardcore and house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Brussels and Cologne and 8 more. Often billed alongside Angerfist, Dimitri K and Brennan Heart. Next up: Epic Prague, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sickmode is a hardcore and house artist based in Netherlands, tracked on soundch
 
 Angerfist, Dimitri K, Brennan Heart
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*

@@ -1,14 +1,15 @@
 # Manolaco
 
-Manolaco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 13 Aug 2026.
+Manolaco is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 13 Aug 2026.
 
-Manolaco is a techno and house artist tracked on soundcheck, with 74 sets logged across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Viton and Ilario Alicante. Next up: Cavo Paradiso, Mykonos on Thu 13 Aug.
+Manolaco is a techno and house artist tracked on soundcheck, with 75 sets logged across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Cavo Paradiso, Mykonos on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Cavo Paradiso | Mykonos |
+| Wed, 19 Aug 2026 | Cavo Paradiso | Mykonos |
 | Sat, 29 Aug 2026 | Bolivar Beach Bar | Athens |
 
 ## Recently played
@@ -24,6 +25,6 @@ Manolaco is a techno and house artist tracked on soundcheck, with 74 sets logged
 
 ## Shares bills with
 
-Mikee (Athens), Viton, Ilario Alicante
+Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

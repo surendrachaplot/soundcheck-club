@@ -1,6 +1,6 @@
 # Ande Rich
 
-Ande Rich is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 15 Aug 2026.
+Ande Rich is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 15 Aug 2026.
 
 Ande Rich is a house and afrobeat artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Sam Pills and Ryan Croft. Next up: Eastern Bloc Records, Manchester on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Ande Rich is a house and afrobeat artist tracked on soundcheck, with 6 sets logg
 
 Sam Pills, Ryan Croft
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderich/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderich/)*

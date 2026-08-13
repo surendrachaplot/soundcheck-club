@@ -1,6 +1,6 @@
 # Claire
 
-Claire is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
+Claire is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
 
 Claire is a techno and minimal artist based in Canada, tracked on soundcheck, with 32 sets logged across Berlin, Mexicocity, Montreal and Vancouver. Often billed alongside Ellxandra, Orbital Mechanics and Pheek. Next up: Blue Room, Montreal on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Claire is a techno and minimal artist based in Canada, tracked on soundcheck, wi
 
 Ellxandra, Orbital Mechanics, Pheek
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claire/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claire/)*

@@ -1,14 +1,15 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Steve Aoki is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Steve Aoki is a house and electro artist tracked on soundcheck, with 61 sets logged across Austin, Barcelona, Boston and Budapest and 21 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Anna Tur. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Steve Aoki is a house and electro artist tracked on soundcheck, with 62 sets logged across Austin, Barcelona, Boston and Budapest and 21 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Anna Tur. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
+| Tue, 18 Aug 2026 | Cavo Paradiso | Mykonos |
 | Wed, 26 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Opium Barcelona | Barcelona |
 | Fri, 6 Nov 2026 | Russell Industrial Center | Detroit |
@@ -28,4 +29,4 @@ Steve Aoki is a house and electro artist tracked on soundcheck, with 61 sets log
 
 Dimitri Vegas & Like Mike, Alesso, Anna Tur
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

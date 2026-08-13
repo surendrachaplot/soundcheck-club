@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "SOULTRAIN - Dokkerman & Turkeying Fellaz" on Thu, 13 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SOULTRAIN - Dokkerman & Turkeying Fellaz" on Thu, 13 Aug 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including And/Or, baeker, CRB and Daniel Moritz and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -18,4 +18,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

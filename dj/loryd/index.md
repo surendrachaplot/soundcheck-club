@@ -1,6 +1,6 @@
 # Lory D
 
-Lory D is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Forte Antenne, Rome on Sat, 15 Aug 2026.
+Lory D is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Forte Antenne, Rome on Sat, 15 Aug 2026.
 
 Lory D is a techno and acid artist tracked on soundcheck, with 12 sets logged across Barcelona, Milan and Rome. Often billed alongside Asymptote, Giorgia Ferrero and fivequestionmarks. Next up: Forte Antenne, Rome on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lory D is a techno and acid artist tracked on soundcheck, with 12 sets logged ac
 
 Asymptote, Giorgia Ferrero, fivequestionmarks
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loryd/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loryd/)*

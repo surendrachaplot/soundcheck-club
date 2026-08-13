@@ -1,6 +1,6 @@
 # Tayphoon
 
-Tayphoon is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
+Tayphoon is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
 
 Tayphoon is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Munich, Stuttgart and Zurich. Often billed alongside Tikitula, A-DEE and CAERMI. Next up: Lehmann Club, Stuttgart on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tayphoon is a gabber and hardcore artist based in Germany, tracked on soundcheck
 
 Tikitula, A-DEE, CAERMI
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayphoon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayphoon/)*

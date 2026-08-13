@@ -1,6 +1,6 @@
 # Perka
 
-Perka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OneSixOne, Melbourne on Thu, 13 Aug 2026.
+Perka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OneSixOne, Melbourne on Thu, 13 Aug 2026.
 
 Perka is a house and techno artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Boogs, Ben Silver and Etwas. Next up: OneSixOne, Melbourne on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Perka is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Boogs, Ben Silver, Etwas
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perka/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perka/)*

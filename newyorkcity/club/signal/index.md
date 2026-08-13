@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "CYBERIA - Breakcore Rave" on Thu, 13 Aug 2026.
+Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "CYBERIA - Breakcore Rave" on Thu, 13 Aug 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and alexander:louis and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

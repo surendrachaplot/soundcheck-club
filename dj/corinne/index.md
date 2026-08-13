@@ -1,6 +1,6 @@
 # Corinne
 
-Corinne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Standard Time, Toronto on Fri, 4 Sept 2026.
+Corinne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Standard Time, Toronto on Fri, 4 Sept 2026.
 
 Corinne is a house and techno artist tracked on soundcheck, with 18 sets logged across Barcelona, Newyorkcity and Toronto. Often billed alongside Sofia Kourtesis, Alice Iguchi and Andre Zimmer. Next up: Standard Time, Toronto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Corinne is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 Sofia Kourtesis, Alice Iguchi, Andre Zimmer
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corinne/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corinne/)*

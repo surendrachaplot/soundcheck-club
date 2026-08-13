@@ -1,6 +1,6 @@
 # m_boogs
 
-m_boogs is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hello Stranger, Los Angeles on Fri, 14 Aug 2026.
+m_boogs is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hello Stranger, Los Angeles on Fri, 14 Aug 2026.
 
 m_boogs is a hip-hop and electronica artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Mexicocity, Osaka and Tokyo. Often billed alongside wave Groove, Glo Phase and Rhyne. Next up: Hello Stranger, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ m_boogs is a hip-hop and electronica artist based in United States of America, t
 
 wave Groove, Glo Phase, Rhyne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m_boogs/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m_boogs/)*

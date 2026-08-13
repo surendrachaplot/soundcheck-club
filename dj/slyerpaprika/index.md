@@ -1,6 +1,6 @@
 # slyerpaprika
 
-slyerpaprika is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 14 Aug 2026.
+slyerpaprika is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 14 Aug 2026.
 
 slyerpaprika is an electronic artist based in Georgia, tracked on soundcheck, with 11 sets logged across Tbilisi. Often billed alongside Storm Mentor, 2ciu and Bero. Next up: Meteor Studio, Tbilisi on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ slyerpaprika is an electronic artist based in Georgia, tracked on soundcheck, wi
 
 Storm Mentor, 2ciu, Bero
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slyerpaprika/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slyerpaprika/)*

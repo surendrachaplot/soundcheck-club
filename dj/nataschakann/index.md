@@ -1,6 +1,6 @@
 # Natascha Kann
 
-Natascha Kann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
+Natascha Kann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
 
 Natascha Kann is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Discrete Circuit, Iron Curtis and Marie Lung. Next up: Tresor / Globus, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Natascha Kann is a house and techno artist based in Germany, tracked on soundche
 
 Discrete Circuit, Iron Curtis, Marie Lung
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*

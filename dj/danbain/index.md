@@ -1,6 +1,6 @@
 # Dan Bain
 
-Dan Bain is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Swig, Chicago on Thu, 27 Aug 2026.
+Dan Bain is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Swig, Chicago on Thu, 27 Aug 2026.
 
 Dan Bain is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Chicago and Detroit. Often billed alongside Jyarsch, Mister Joshooa and Andrea Ghita. Next up: Swig, Chicago on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Dan Bain is a house and techno artist based in United States of America, tracked
 
 Jyarsch, Mister Joshooa, Andrea Ghita
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbain/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbain/)*

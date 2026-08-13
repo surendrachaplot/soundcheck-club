@@ -1,6 +1,6 @@
 # CANDYFLIP - Record Release Party w/ DOCTOR MÜCKE / kichererbsenstampf / Flex on Trax / Rabe Rax at Humboldthain Club
 
-CANDYFLIP - Record Release Party w/ DOCTOR MÜCKE / kichererbsenstampf / Flex on Trax / Rabe Rax at Humboldthain Club on Sat 15 Aug, Berlin. 10 acts on the bill: DOCTOR MÜCKE, Flex on Trax, Florelle and jeanska and 6 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+CANDYFLIP - Record Release Party w/ DOCTOR MÜCKE / kichererbsenstampf / Flex on Trax / Rabe Rax at Humboldthain Club on Sat 15 Aug, Berlin. 11 acts on the bill: DOCTOR MÜCKE, Flex on Trax, Florelle and jeanska and 7 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ CANDYFLIP - Record Release Party w/ DOCTOR MÜCKE / kichererbsenstampf / Flex on
 - Flex on Trax
 - Florelle
 - jeanska
+- Kaltgepresst
 - KANIKA
 - kichererbsenstampf
 - Rabe Rax

@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 21 Aug 2026.
+Koperblond is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 21 Aug 2026.
 
 Koperblond is a house and techno artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside DJ Chuckie, Merel Helderman and Pelanoir. Next up: SISSI'S Amsterdam, Amsterdam on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Koperblond is a house and techno artist based in Netherlands, tracked on soundch
 
 DJ Chuckie, Merel Helderman, Pelanoir
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

@@ -1,6 +1,6 @@
 # sunflwr
 
-sunflwr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Workmans Club, Dublin on Sat, 7 Nov 2026.
+sunflwr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Workmans Club, Dublin on Sat, 7 Nov 2026.
 
 sunflwr is a house and deep house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Berlin and Brussels and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Paluma Sound. Next up: The Workmans Club, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ sunflwr is a house and deep house artist tracked on soundcheck, with 54 sets log
 
 dj poolboi, DJ Cinéma Quartier Latin, Paluma Sound
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunflwr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunflwr/)*

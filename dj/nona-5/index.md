@@ -1,6 +1,6 @@
 # Nona (5)
 
-Nona (5) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Nona (5) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Nona (5) is a tech house and house artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Babo, Mario Chicoli and Mastro Sally. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Nona (5) is a tech house and house artist tracked on soundcheck, with 2 sets log
 
 Babo, Mario Chicoli, Mastro Sally
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nona-5/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nona-5/)*

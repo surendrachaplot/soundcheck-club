@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Renate Klubnacht + Open Air (Free Entry)" on Thu, 13 Aug 2026.
+Renate is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Renate Klubnacht + Open Air (Free Entry)" on Thu, 13 Aug 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including ābnamā, ACID B4RBIE, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -16,11 +16,11 @@ Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with
 | Fri, 28 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer | AGILY, ESVEAE, Handmade, Kingsizebed, Samuel Fish, Samwise (US), Shira Kela |
 | Sat, 29 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK | Amy Dabbs, Franz Scala, Gabriel Muñoz, HEDDA, Hanaby, Linnea Mae, Sanaz, Souci, anna andersrum, lil ja |
 | Sat, 29 Aug 2026 | DUBBDÄCK takeover Renate  | HEDDA, Hanaby, Sanaz, lil ja |
-| Thu, 3 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) x RBL |  |
+| Thu, 3 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) x RBL | Pearla, lady jestive |
 | Fri, 4 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with SEVEN |  |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

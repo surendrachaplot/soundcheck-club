@@ -1,14 +1,13 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "COLLECT w/ DJ JOHNNY SUEDE" on Wed, 12 Aug 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "COLLECT w/ CASTREJO" on Thu, 13 Aug 2026.
 
-Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 13 upcoming nights, with line-ups including Afss, Bernardo Vaz, Castrejo and Cristina Lazic and 2 more. Browse upcoming dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
+Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, with line-ups including Afss, Bernardo Vaz, Castrejo and Cristina Lazic and 2 more. Browse upcoming dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | COLLECT w/ DJ JOHNNY SUEDE |  |
 | Thu, 13 Aug 2026 | COLLECT w/ CASTREJO | Castrejo |
 | Fri, 14 Aug 2026 | COLLECT w/ CRISTINA LAZIC | Cristina Lazic |
 | Mon, 17 Aug 2026 | COLLECT w/ VAN DER | Van Der |
@@ -18,9 +17,10 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 13 upco
 | Fri, 21 Aug 2026 | COLLECT w/ DARK SESSIONS |  |
 | Mon, 24 Aug 2026 | COLLECT w/ “Memória Futura” by JOHAN | Johan (PT) |
 | Tue, 25 Aug 2026 | COLLECT w/ "Audio Trip" by BERNARDO VAZ | Bernardo Vaz |
+| Wed, 26 Aug 2026 | COLLECT w/  “Gamut” by BENN |  |
 
 ## Address
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

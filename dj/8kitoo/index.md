@@ -1,6 +1,6 @@
 # 8Kitoo
 
-8Kitoo is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 13 Aug 2026.
+8Kitoo is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 13 Aug 2026.
 
 8Kitoo is a techno and broken beat artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Chico Blanco, acidheaven and JOVENDELAPERLA. Next up: Dr. Dou Social Club, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@
 
 Chico Blanco, acidheaven, JOVENDELAPERLA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*

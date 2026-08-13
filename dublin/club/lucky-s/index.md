@@ -1,14 +1,13 @@
 # Lucky's
 
-Lucky's is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Pizza Jazz" on Wed, 12 Aug 2026.
+Lucky's is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DDR: Poynting" on Fri, 14 Aug 2026.
 
-Lucky's is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Alba (2). Browse upcoming dates, start times and who's playing. 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland.
+Lucky's is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Alba (2). Browse upcoming dates, start times and who's playing. 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Pizza Jazz |  |
 | Fri, 14 Aug 2026 | DDR: Poynting |  |
 | Sat, 15 Aug 2026 | Pesci Tooth |  |
 | Fri, 21 Aug 2026 | That Good Good |  |
@@ -20,4 +19,4 @@ Lucky's is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with
 
 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland, Dublin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/lucky-s/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/lucky-s/)*

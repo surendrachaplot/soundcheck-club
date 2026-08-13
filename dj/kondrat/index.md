@@ -1,6 +1,6 @@
 # Kondrat
 
-Kondrat is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sekta Selekta, Krakow on Fri, 14 Aug 2026.
+Kondrat is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sekta Selekta, Krakow on Fri, 14 Aug 2026.
 
 Kondrat is a techno and electro artist tracked on soundcheck, with 146 sets logged across Krakow and Warsaw. Often billed alongside Meke, Badalian and Wagary. Next up: Sekta Selekta, Krakow on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Kondrat is a techno and electro artist tracked on soundcheck, with 146 sets logg
 
 Meke, Badalian, Wagary
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kondrat/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kondrat/)*

@@ -1,6 +1,6 @@
 # NAMÄN (UK)
 
-NAMÄN (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
+NAMÄN (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
 
 NAMÄN (UK) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Glasgow, Manchester and Newyorkcity. Often billed alongside Maveen, Plantainchipps and blairo. Next up: The Berkeley Suite, Glasgow on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ NAMÄN (UK) is a techno and house artist based in United Kingdom, tracked on sou
 
 Maveen, Plantainchipps, blairo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naman-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naman-uk/)*

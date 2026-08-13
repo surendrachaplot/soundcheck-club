@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Petit Bain, Paris on Sat, 5 Sept 2026.
+CHAMOS is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Petit Bain, Paris on Sat, 5 Sept 2026.
 
 CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Bali, Barcelona and Berlin and 11 more. Often billed alongside Anish Kumar, Arthi and Bushbby. Next up: Petit Bain, Paris on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, w
 
 Anish Kumar, Arthi, Bushbby
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

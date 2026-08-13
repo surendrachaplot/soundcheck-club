@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
+Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
 
 Riley is a tech house and house artist tracked on soundcheck, with 38 sets logged across Bristol, Cardiff, Dublin and Glasgow and 9 more. Often billed alongside Max Dean, East End Dubs and Latmun. Next up: Parkside Rooftop, Leeds on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Riley is a tech house and house artist tracked on soundcheck, with 38 sets logge
 
 Max Dean, East End Dubs, Latmun
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

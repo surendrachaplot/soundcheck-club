@@ -1,14 +1,14 @@
 # Sean Carlin
 
-Sean Carlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Secret Location, London on Sat, 29 Aug 2026.
+Sean Carlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
-Sean Carlin is a techno and house artist tracked on soundcheck, with 13 sets logged across Belfast, London and Manchester. Often billed alongside Cricky Lyttle, HAZE DJs and Alan Fitzpatrick. Next up: Secret Location, London on Sat 29 Aug.
+Sean Carlin is a techno and house artist tracked on soundcheck, with 13 sets logged across Belfast, London and Manchester. Often billed alongside Cricky Lyttle, HAZE DJs and Alan Fitzpatrick. Next up: TBA, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Secret Location | London |
+| Sat, 29 Aug 2026 | TBA | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Sean Carlin is a techno and house artist tracked on soundcheck, with 13 sets log
 
 Cricky Lyttle, HAZE DJs, Alan Fitzpatrick
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seancarlin/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seancarlin/)*

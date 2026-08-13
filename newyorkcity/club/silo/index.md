@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Open Decks with STEEN and Rhythm Rails" on Wed, 12 Aug 2026.
+SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Machine Thirst (Main Room Event, Free with RSVP)" on Thu, 13 Aug 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including A DJ Named SNE, Anyasa, Baauer and Bollmann and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including A DJ Named SNE, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Open Decks with STEEN and Rhythm Rails | STEEN |
 | Thu, 13 Aug 2026 | Machine Thirst (Main Room Event, Free with RSVP) | Firebunny |
 | Fri, 14 Aug 2026 | Torren Foot / QLANK | Torren Foot |
 | Sat, 15 Aug 2026 | Heat House: Summer Closing ft Naak | Ohlei, WEMI |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, w
 | Thu, 20 Aug 2026 | VHS F2F (Main Room Event, Free with RSVP) | GMG_ (US), Maha Kuma, NIJEII, PAC (2), Paradøx, Purdy, S A M I, SHRAY, STARLOTTE, SUDDEN DEATH, Sam Valle, Sami, y2aura |
 | Fri, 21 Aug 2026 | Marco Faraone | Marco Faraone |
 | Tue, 25 Aug 2026 | Open Decks with STEEN & Masht | STEEN |
+| Wed, 26 Aug 2026 | Open Decks with STEEN and finding your niche | STEEN |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

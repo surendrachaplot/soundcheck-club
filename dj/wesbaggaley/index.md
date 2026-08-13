@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
+Wes Baggaley is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
 
 Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Birmingham, Bristol and Dublin and 14 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: Vespers Club, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets lo
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

@@ -1,6 +1,6 @@
 # grunge mum
 
-grunge mum is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Secret Brooklyn Rooftop, New York City on Sat, 15 Aug 2026.
+grunge mum is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Secret Brooklyn Rooftop, New York City on Sat, 15 Aug 2026.
 
 grunge mum is a techno and guaracha artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside DJ ATTENTION, SINKITTY and elle xxo. Next up: Secret Brooklyn Rooftop, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ grunge mum is a techno and guaracha artist based in United States of America, tr
 
 DJ ATTENTION, SINKITTY, elle xxo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*

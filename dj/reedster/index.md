@@ -1,6 +1,6 @@
 # Reedster
 
-Reedster is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Apotheke, Los Angeles on Sat, 15 Aug 2026.
+Reedster is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Apotheke, Los Angeles on Sat, 15 Aug 2026.
 
 Reedster is an italo disco and house artist tracked on soundcheck, with 19 sets logged across Losangeles. Often billed alongside Aiden Ramos, ASHRR and Apiento. Next up: Apotheke, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Reedster is an italo disco and house artist tracked on soundcheck, with 19 sets 
 
 Aiden Ramos, ASHRR, Apiento
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reedster/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reedster/)*

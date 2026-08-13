@@ -1,6 +1,6 @@
 # Ares Carter
 
-Ares Carter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Luz De Gas, Barcelona on Sat, 22 Aug 2026.
+Ares Carter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Luz De Gas, Barcelona on Sat, 22 Aug 2026.
 
 Ares Carter is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside Daniel Lerman, AMÉMÉ and ASMOT. Next up: Luz De Gas, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ares Carter is a house and tech house artist based in United States of America, 
 
 Daniel Lerman, AMÉMÉ, ASMOT
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*

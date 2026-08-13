@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Piccadilly Central, Manchester on Fri, 14 Aug 2026.
+Mix-Stress is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Piccadilly Central, Manchester on Fri, 14 Aug 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Meme Gold. Next up: Piccadilly Central, Manchester on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Krysko, Meme Gold
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

@@ -1,6 +1,6 @@
 # Margaux Gazur
 
-Margaux Gazur is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Panke, Berlin on Tue, 25 Aug 2026.
+Margaux Gazur is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Panke, Berlin on Tue, 25 Aug 2026.
 
 Margaux Gazur is an ambient and dub artist based in France, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Edward, Lawrence and Cosmo (KR). Next up: Panke, Berlin on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Margaux Gazur is an ambient and dub artist based in France, tracked on soundchec
 
 Edward, Lawrence, Cosmo (KR)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*

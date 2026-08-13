@@ -1,6 +1,6 @@
 # Disco Gessner
 
-Disco Gessner is a Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kater, Berlin on Tue, 18 Aug 2026.
+Disco Gessner is a Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Tue, 18 Aug 2026.
 
 Disco Gessner is a disco and deep house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Daniel Wang, Eric D. Clark and DJ Dickey Doo. Next up: Kater, Berlin on Tue 18 Aug.
 
@@ -24,4 +24,4 @@ Disco Gessner is a disco and deep house artist based in Germany, tracked on soun
 
 Daniel Wang, Eric D. Clark, DJ Dickey Doo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discogessner/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discogessner/)*

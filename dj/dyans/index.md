@@ -1,6 +1,6 @@
 # Dyans
 
-Dyans is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sala Pirandelo, Madrid on Sat, 15 Aug 2026.
+Dyans is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sala Pirandelo, Madrid on Sat, 15 Aug 2026.
 
 Dyans is a techno and electronica artist based in Spain, tracked on soundcheck, with 56 sets logged across Madrid. Often billed alongside Vandiaz, Javier Klash and Reitze. Next up: Sala Pirandelo, Madrid on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Dyans is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Vandiaz, Javier Klash, Reitze
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyans/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyans/)*

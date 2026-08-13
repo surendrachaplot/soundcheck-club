@@ -1,6 +1,6 @@
 # Pavliuk
 
-Pavliuk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Pavliuk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Pavliuk is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Krakow, Tallinn and Tbilisi and 2 more. Often billed alongside Arto, Tanel Mütt and Micaela Saraceno. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Pavliuk is a techno and house artist tracked on soundcheck, with 28 sets logged 
 
 Arto, Tanel Mütt, Micaela Saraceno
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavliuk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavliuk/)*

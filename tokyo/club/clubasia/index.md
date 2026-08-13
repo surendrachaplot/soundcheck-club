@@ -1,14 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "EXODUS vol.245" on Wed, 12 Aug 2026.
+clubasia is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "club asia THURSDAY" on Thu, 13 Aug 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 80KIDZ, AMANE, Bonnie and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including 80KIDZ, AMANE, Bonnie and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | EXODUS vol.245 | FUJI TRILL, Hirosson, misa nakamura |
 | Thu, 13 Aug 2026 | club asia THURSDAY | hara (2), has |
 | Fri, 14 Aug 2026 | 「THE J」DIRTY JOINT 'Mi Vida Loca' LP RELEASE PARTY |  |
 | Sat, 15 Aug 2026 | JAMBORIDE | CYBERHACKSYSTEM, Sekitova, ecec, hara (2), okadada, valknee |
@@ -18,9 +17,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, wit
 | Wed, 26 Aug 2026 | EXODUS vol.247 | FUJI TRILL, misa nakamura |
 | Fri, 28 Aug 2026 | 亞典回路 | 80KIDZ, eijin, illequal |
 | Sat, 29 Aug 2026 | BLOCK 11th Anniversary | FUJI TRILL, Jellyf!sh, kyuuu, misa nakamura, rirugiliyangugili |
+| Thu, 17 Sept 2026 | club asia THURSDAY - ryuu ALL NIGHT LONG - | ryuu (2) |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

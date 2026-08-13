@@ -1,6 +1,6 @@
 # Lietzsche
 
-Lietzsche is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at West Port Oracle, Edinburgh on Fri, 14 Aug 2026.
+Lietzsche is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at West Port Oracle, Edinburgh on Fri, 14 Aug 2026.
 
 Lietzsche is a disco and house artist tracked on soundcheck, with 23 sets logged across Edinburgh. Often billed alongside Lara Sinclair, al gu and discjocelyne. Next up: West Port Oracle, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lietzsche is a disco and house artist tracked on soundcheck, with 23 sets logged
 
 Lara Sinclair, al gu, discjocelyne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*

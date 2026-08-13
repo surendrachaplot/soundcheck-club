@@ -1,6 +1,6 @@
 # Lovely Laura
 
-Lovely Laura is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
+Lovely Laura is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
 
 Lovely Laura is a house and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Birmingham, Edinburgh and Ibiza and 2 more. Often billed alongside Ben Santiago, Bongo Ben and Jason Bye. Next up: Prospect Park, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lovely Laura is a house and trance artist based in United Kingdom, tracked on so
 
 Ben Santiago, Bongo Ben, Jason Bye
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelylaura/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelylaura/)*

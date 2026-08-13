@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+Yamour is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 Yamour is a house and techno artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Auckland and Bali and 31 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Yamour is a house and techno artist tracked on soundcheck, with 157 sets logged 
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

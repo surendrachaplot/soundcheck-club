@@ -1,14 +1,15 @@
 # Klose One
 
-Klose One is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
+Klose One is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
 
-Klose One is a techno and electro artist tracked on soundcheck, with 32 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: fabric, London on Fri 16 Oct.
+Klose One is a techno and electro artist tracked on soundcheck, with 33 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: fabric, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | fabric | London |
+| Sat, 24 Oct 2026 | Ninety One | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Klose One is a techno and electro artist tracked on soundcheck, with 32 sets log
 
 Paleman, Benton (UK), DJ Say Less
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*

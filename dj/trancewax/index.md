@@ -1,6 +1,6 @@
 # Trance Wax
 
-Trance Wax is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Limelight, Belfast on Fri, 14 Aug 2026.
+Trance Wax is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Limelight, Belfast on Fri, 14 Aug 2026.
 
 Trance Wax is a trance and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Belfast, Birmingham and Bristol and 14 more. Often billed alongside Amy Wiles, Ben Hemsley and Solarstone. Next up: The Limelight, Belfast on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Trance Wax is a trance and house artist based in United Kingdom, tracked on soun
 
 Amy Wiles, Ben Hemsley, Solarstone
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancewax/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancewax/)*

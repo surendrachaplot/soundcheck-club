@@ -1,6 +1,6 @@
 # Tusculum Prague
 
-Tusculum Prague is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Tusculum Live: Mari&Anna" on Tue, 18 Aug 2026.
+Tusculum Prague is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Tusculum Live: Mari&Anna" on Tue, 18 Aug 2026.
 
 Tusculum Prague is a music venue in Prague listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Chittussiho 144/1 Prague 6.
 
@@ -14,4 +14,4 @@ Tusculum Prague is a music venue in Prague listed on soundcheck. 1 upcoming nigh
 
 Chittussiho 144/1 Prague 6, Prague
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*

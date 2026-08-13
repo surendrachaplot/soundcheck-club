@@ -1,6 +1,6 @@
 # CRRDR
 
-CRRDR is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at KC Grad, Belgrade on Fri, 14 Aug 2026.
+CRRDR is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at KC Grad, Belgrade on Fri, 14 Aug 2026.
 
 CRRDR is a latin bass and guaracha artist tracked on soundcheck, with 106 sets logged across Barcelona, Belgrade, Berlin and Boston and 38 more. Often billed alongside Linapary, PAULAH and BZZHOUND. Next up: KC Grad, Belgrade on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ CRRDR is a latin bass and guaracha artist tracked on soundcheck, with 106 sets l
 
 Linapary, PAULAH, BZZHOUND
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crrdr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crrdr/)*

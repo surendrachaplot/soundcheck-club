@@ -1,6 +1,6 @@
 # Justin Cambray
 
-Justin Cambray is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
+Justin Cambray is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
 
 Justin Cambray is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Southampton. Often billed alongside Maria Hanlon, Bear Winder and Pandar. Next up: Two Tribes CAMPFIRE, London on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Justin Cambray is a house and disco artist based in United Kingdom, tracked on s
 
 Maria Hanlon, Bear Winder, Pandar
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincambray/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincambray/)*

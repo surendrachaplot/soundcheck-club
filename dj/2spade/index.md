@@ -1,6 +1,6 @@
 # 2SPADE
 
-2SPADE is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rack Seoul, Seoul on Sat, 29 Aug 2026.
+2SPADE is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rack Seoul, Seoul on Sat, 29 Aug 2026.
 
 2SPADE is a bass and club artist tracked on soundcheck, with 21 sets logged across Barcelona, London, Osaka and Seoul and 2 more. Often billed alongside YUNJI, IMLAY and LOOZBONE. Next up: Rack Seoul, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@
 
 YUNJI, IMLAY, LOOZBONE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2spade/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2spade/)*

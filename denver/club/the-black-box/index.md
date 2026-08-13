@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 10 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Up NXT & The Black Box present: Blaow!, Slick Portal & Boop Dogg Ft. The Beat Bucket" on Thu, 13 Aug 2026.
+The Black Box is a music venue in Denver with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Up NXT & The Black Box present: Blaow!, Slick Portal & Boop Dogg Ft. The Beat Bucket" on Thu, 13 Aug 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming nights, with line-ups including Daedelus, DJ Paypal, Joker and Monty and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming night
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

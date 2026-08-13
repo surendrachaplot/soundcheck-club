@@ -1,6 +1,6 @@
 # NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO
 
-NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 28 Aug, Tokyo. 4 acts on the bill: REXY DEXY, RYO2, STRATAH and TRID3NT. Techno and Bass. Preview the line-up and save it on soundcheck.
+NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 28 Aug, Tokyo. 8 acts on the bill: HATSUYUKI, NOËL, omeme_gangimari and REXY DEXY and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@ NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 28 Aug, To
 
 ## Line-up
 
+- HATSUYUKI
+- NOËL
+- omeme_gangimari
 - REXY DEXY
 - RYO2
+- SAKO
 - STRATAH
 - TRID3NT
 

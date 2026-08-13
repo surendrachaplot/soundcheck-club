@@ -1,6 +1,6 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tresor / Globus, Berlin on Fri, 14 Aug 2026.
+Black Rave Culture is a Techno and Club artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Fri, 14 Aug 2026.
 
 Black Rave Culture is a techno and club artist tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Tresor / Globus, Berlin on Fri 14 Aug.
 
@@ -32,4 +32,4 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 93 se
 
 Nativesun, Amal, James Bangura
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

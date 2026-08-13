@@ -1,13 +1,14 @@
 # GT7
 
-GT7 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
+GT7 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Stockholm on Sat, 29 Aug 2026.
 
-GT7 is a techno and tech house artist tracked on soundcheck, with 18 sets logged across Stockholm. Often billed alongside vajiko, Billie Jo and MERILIN. Next up: Eventhuset, Stockholm on Sat 5 Sept.
+GT7 is a techno and tech house artist tracked on soundcheck, with 19 sets logged across Stockholm. Often billed alongside vajiko, MERILIN and Billie Jo. Next up: TBA, Stockholm on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA | Stockholm |
 | Sat, 5 Sept 2026 | Eventhuset | Stockholm |
 
 ## Recently played
@@ -23,6 +24,6 @@ GT7 is a techno and tech house artist tracked on soundcheck, with 18 sets logged
 
 ## Shares bills with
 
-vajiko, Billie Jo, MERILIN
+vajiko, MERILIN, Billie Jo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gt7/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gt7/)*

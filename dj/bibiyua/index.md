@@ -1,6 +1,6 @@
 # BiBiYUA
 
-BiBiYUA is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 14 Aug 2026.
+BiBiYUA is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 14 Aug 2026.
 
 BiBiYUA is a hip-hop and techno artist tracked on soundcheck, with 15 sets logged across Osaka, Seoul and Tokyo. Often billed alongside KANTA, ecec and Akira. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ BiBiYUA is a hip-hop and techno artist tracked on soundcheck, with 15 sets logge
 
 KANTA, ecec, Akira
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiyua/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiyua/)*

@@ -1,6 +1,6 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bassiani, Tbilisi on Sat, 29 Aug 2026.
+CAMILLA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bassiani, Tbilisi on Sat, 29 Aug 2026.
 
 CAMILLA is a house and techno artist tracked on soundcheck, with 134 sets logged across Berlin, Boston, Chicago and Lisbon and 5 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Bassiani, Tbilisi on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CAMILLA is a house and techno artist tracked on soundcheck, with 134 sets logged
 
 Joiah, Black Pomade, Shvili
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

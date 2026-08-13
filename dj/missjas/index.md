@@ -1,6 +1,6 @@
 # miss jas
 
-miss jas is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dalston Den, London on Sat, 22 Aug 2026.
+miss jas is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dalston Den, London on Sat, 22 Aug 2026.
 
 miss jas is a dubstep and garage artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside AUDIO DUNE, Buggery Grips and Christian James. Next up: Dalston Den, London on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ miss jas is a dubstep and garage artist tracked on soundcheck, with 8 sets logge
 
 AUDIO DUNE, Buggery Grips, Christian James
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*

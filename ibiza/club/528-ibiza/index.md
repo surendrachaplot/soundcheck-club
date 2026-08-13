@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "PIKES PRESENTS AT 528 : ECLIPSE EDITION" on Wed, 12 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 29 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ANDY MANUMISSION PRESENTS SATURDAYS" on Sat, 15 Aug 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 30 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 29 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | PIKES PRESENTS AT 528 : ECLIPSE EDITION | Artwork, Camilo Miranda, DJ Harvey, Sonido Tupinamba |
 | Sat, 15 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Anthony Pappa, Dave Seaman, Guy Williams, Jason Bye |
 | Sun, 16 Aug 2026 | [16th Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night | Across Boundaries, Ben UFO, Dr Banana, Elina, Enzo Siragusa, Laidlaw, Saoirse, Sonja Moonear |
 | Tue, 18 Aug 2026 | PIKES PRESENTS AT 528 X DISCO DISCO | Forest (PL), Greg Wilson, Jayda G, MiNNA, Mr Doris, Tigerbalm, Todd Terje, Willie Graff |
@@ -18,9 +17,10 @@
 | Sat, 29 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS CLOSING | Allister Whitehead, Clara Da Costa, Jason Bye, K-Klass, Sarah Main |
 | Sun, 30 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 30.08 / WhoMadeWho, Mind Against | JANE RYSE, Mind Against, WhoMadeWho |
 | Tue, 1 Sept 2026 | PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa | Bushwacka!, Eris Drew, Faited, GIDEÖN, Octo Octa, Sally C |
+| Thu, 3 Sept 2026 | MINISTRY OF SOUND | Benji B, Dan Shake, Louie Vega, Paisley Jensen, Reelow |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

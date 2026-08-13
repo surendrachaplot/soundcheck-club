@@ -1,6 +1,6 @@
 # ZAHNATZIN
 
-ZAHNATZIN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
+ZAHNATZIN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
 
 ZAHNATZIN is a house and techno artist tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Südbrücke Open Air, Cologne on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ ZAHNATZIN is a house and techno artist tracked on soundcheck, with 39 sets logge
 
 DJ SPORTSCHUH, Flavius (DE), Ursula Erdmann
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*

@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ENDLESS // by Jurassic Heart & KeinKollektiv" on Fri, 14 Aug 2026.
+Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ENDLESS // by Jurassic Heart & KeinKollektiv" on Fri, 14 Aug 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, with line-ups including Christian Ackermann, IHOPEIEXIST, Meyhartt and Tr One. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -18,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, wit
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

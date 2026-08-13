@@ -1,0 +1,11 @@
+# Circa Friday's - Luigis X Say Less at Luigis Hot Pizza Bali
+
+Circa Friday's - Luigis X Say Less at Luigis Hot Pizza Bali on Fri 14 Aug, Bali. House and Garage. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 14 Aug 2026 |
+| Venue | Luigis Hot Pizza Bali |
+| City | Bali |
+
+*Source: [soundcheck](https://soundcheck.club/e/2511024-circa-friday-s-luigis-x-say-less-at-luigis-hot-pizza-bali/)*

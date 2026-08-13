@@ -1,6 +1,6 @@
 # Wanderer
 
-Wanderer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Endeavour, London on Fri, 21 Aug 2026.
+Wanderer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Endeavour, London on Fri, 21 Aug 2026.
 
 Wanderer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside David Beckett, babybear (2) and Reeves (1). Next up: Endeavour, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Wanderer is a house and techno artist based in United Kingdom, tracked on soundc
 
 David Beckett, babybear (2), Reeves (1)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wanderer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wanderer/)*

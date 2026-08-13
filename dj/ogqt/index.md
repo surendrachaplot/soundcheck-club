@@ -1,6 +1,6 @@
 # OGQT
 
-OGQT is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club Dd's, Montreal on Wed, 19 Aug 2026.
+OGQT is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Dd's, Montreal on Wed, 19 Aug 2026.
 
 OGQT is a club and bass artist based in Canada, tracked on soundcheck, with 27 sets logged across Montreal and Toronto. Often billed alongside Ard1n, Litney and HVN (1). Next up: Club Dd's, Montreal on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ OGQT is a club and bass artist based in Canada, tracked on soundcheck, with 27 s
 
 Ard1n, Litney, HVN (1)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*

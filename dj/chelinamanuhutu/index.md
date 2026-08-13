@@ -1,14 +1,13 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at [UNVRS], Ibiza on Wed, 12 Aug 2026.
+Chelina Manuhutu is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: [UNVRS], Ibiza on Wed 12 Aug.
+Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Ushuaïa Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 14
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 12 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - [UNVRS], Ibiza — Sun, 19 Jul 2026
 - [UNVRS], Ibiza — Sat, 4 Jul 2026
@@ -25,10 +25,9 @@ Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 14
 - Terreiro das Missas, Lisbon — Sat, 27 Jun 2026
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 - [UNVRS], Ibiza — Sat, 13 Jun 2026
-- TBA - HADLEY'S CLUB MAGALUF, Mallorca — Sat, 23 May 2026
 
 ## Shares bills with
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

@@ -1,6 +1,6 @@
 # HVNLEE
 
-HVNLEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - OUTDOOR VENUE , Philadelphia on Sat, 22 Aug 2026.
+HVNLEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - OUTDOOR VENUE , Philadelphia on Sat, 22 Aug 2026.
 
 HVNLEE is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside Luna Mar, Dj incognito mode and Val Fleury. Next up: TBA - OUTDOOR VENUE , Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ HVNLEE is a house and techno artist based in United States of America, tracked o
 
 Luna Mar, Dj incognito mode, Val Fleury
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*

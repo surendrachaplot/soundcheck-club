@@ -1,6 +1,6 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "ROAD TO ADE" on Thu, 13 Aug 2026.
+Dogenzaka Church is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ROAD TO ADE" on Thu, 13 Aug 2026.
 
 Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including JEEN SEIGO. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
@@ -17,4 +17,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 4 upcoming nigh
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

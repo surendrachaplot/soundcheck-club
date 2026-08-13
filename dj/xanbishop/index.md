@@ -1,6 +1,6 @@
 # Xan Bishop
 
-Xan Bishop is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Spkrbox, Detroit on Sat, 22 Aug 2026.
+Xan Bishop is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Spkrbox, Detroit on Sat, 22 Aug 2026.
 
 Xan Bishop is a techno and electro artist tracked on soundcheck, with 18 sets logged across Denver, Detroit and London. Often billed alongside Perish, BeatLoaf and Chelita. Next up: Spkrbox, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Xan Bishop is a techno and electro artist tracked on soundcheck, with 18 sets lo
 
 Perish, BeatLoaf, Chelita
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanbishop/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanbishop/)*

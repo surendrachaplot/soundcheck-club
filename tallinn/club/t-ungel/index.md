@@ -1,14 +1,13 @@
 # Tšungel
 
-Tšungel is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Type1" on Wed, 12 Aug 2026.
+Tšungel is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Groove Research" on Thu, 13 Aug 2026.
 
-Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, with line-ups including Charch, Groove Research, Khmelnitsky and Squash and 1 more. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
+Tšungel is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including Charch, Groove Research, Khmelnitsky and Squash. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Type1 | Type1 |
 | Thu, 13 Aug 2026 | Groove Research | Groove Research |
 | Fri, 14 Aug 2026 | Night Shift | Khmelnitsky |
 | Sat, 15 Aug 2026 | Sushi, dseinius, Angeliina |  |
@@ -19,4 +18,4 @@ Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, wi
 
 Kopli 1, Tallinn, 10412, Harjumaa, Estonia, Tallinn
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*

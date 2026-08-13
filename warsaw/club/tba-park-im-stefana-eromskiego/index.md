@@ -1,6 +1,6 @@
 # TBA - Park im. Stefana Żeromskiego
 
-TBA - Park im. Stefana Żeromskiego is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Ambientowe leżanki: Polowanie" on Fri, 14 Aug 2026.
+TBA - Park im. Stefana Żeromskiego is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Ambientowe leżanki: Polowanie" on Fri, 14 Aug 2026.
 
 TBA - Park im. Stefana Żeromskiego is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Polowanie. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Park im. Stefana Żeromskiego is a music venue in Warsaw listed on soundch
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Ambientowe leżanki: Polowanie | Polowanie |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-park-im-stefana-eromskiego/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-park-im-stefana-eromskiego/)*

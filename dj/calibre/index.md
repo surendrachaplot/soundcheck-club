@@ -1,6 +1,6 @@
 # Calibre
 
-Calibre is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
+Calibre is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
 
 Calibre is a drum & bass and jungle artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 15 more. Often billed alongside SP:MC, Darwin and Dillinja. Next up: Brick Street, Liverpool on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Calibre is a drum & bass and jungle artist tracked on soundcheck, with 53 sets l
 
 SP:MC, Darwin, Dillinja
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*

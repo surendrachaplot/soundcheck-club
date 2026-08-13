@@ -1,6 +1,6 @@
 # knete
 
-knete is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+knete is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 knete is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Rodèk, Friedrich Gegner and Rn86. Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ knete is a techno and trance artist tracked on soundcheck, with 21 sets logged a
 
 Rodèk, Friedrich Gegner, Rn86
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*

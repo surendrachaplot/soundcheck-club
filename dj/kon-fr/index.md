@@ -1,14 +1,14 @@
 # Kon (FR)
 
-Kon (FR) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
+Kon (FR) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Wed, 19 Aug 2026.
 
-Kon (FR) is a house and deep house artist based in France, tracked on soundcheck, with 13 sets logged across Berlin, Chicago, London and Mexicocity and 2 more. Often billed alongside MagRena, TEZ and 50Minimals. Next up: ://about blank, Berlin on Thu 20 Aug.
+Kon (FR) is a house and deep house artist based in France, tracked on soundcheck, with 13 sets logged across Berlin, Chicago, London and Mexicocity and 2 more. Often billed alongside MagRena, TEZ and 50Minimals. Next up: ://about blank, Berlin on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | ://about blank | Berlin |
+| Wed, 19 Aug 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Kon (FR) is a house and deep house artist based in France, tracked on soundcheck
 
 MagRena, TEZ, 50Minimals
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kon-fr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kon-fr/)*

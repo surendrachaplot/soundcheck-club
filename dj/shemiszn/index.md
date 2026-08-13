@@ -1,6 +1,6 @@
 # Shemi SZN
 
-Shemi SZN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Aaja Basement, London on Fri, 21 Aug 2026.
+Shemi SZN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Aaja Basement, London on Fri, 21 Aug 2026.
 
 Shemi SZN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside MAL33T, metrologic and AMAR (UK). Next up: Aaja Basement, London on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Shemi SZN is a house and techno artist based in United Kingdom, tracked on sound
 
 MAL33T, metrologic, AMAR (UK)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shemiszn/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shemiszn/)*

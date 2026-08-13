@@ -1,6 +1,6 @@
 # Rival Consoles
 
-Rival Consoles is a Electronica and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Brushy Street Commons, Austin on Sun, 16 Aug 2026.
+Rival Consoles is a Electronica and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Brushy Street Commons, Austin on Sun, 16 Aug 2026.
 
 Rival Consoles is an electronica and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Auckland and 25 more. Often billed alongside Marcel Dettmann, Mia Koden and Clark. Next up: Brushy Street Commons, Austin on Sun 16 Aug.
 
@@ -30,4 +30,4 @@ Rival Consoles is an electronica and techno artist tracked on soundcheck, with 5
 
 Marcel Dettmann, Mia Koden, Clark
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*

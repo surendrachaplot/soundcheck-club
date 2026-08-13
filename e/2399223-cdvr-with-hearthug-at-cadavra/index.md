@@ -1,6 +1,6 @@
 # CDVR with HearThug at Cadavra
 
-CDVR with HearThug at Cadavra on Fri 18 Sept, Madrid. 2 acts on the bill: HearThug and Nurias. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with HearThug at Cadavra on Fri 18 Sept, Madrid. 4 acts on the bill: Cortazar, HearThug, Nurias and Orson Sinaka. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ CDVR with HearThug at Cadavra on Fri 18 Sept, Madrid. 2 acts on the bill: HearTh
 
 ## Line-up
 
+- Cortazar
 - HearThug
 - Nurias
+- Orson Sinaka
 
 *Source: [soundcheck](https://soundcheck.club/e/2399223-cdvr-with-hearthug-at-cadavra/)*

@@ -1,6 +1,6 @@
 # JK Flesh
 
-JK Flesh is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The White Hotel, Manchester on Thu, 17 Sept 2026.
+JK Flesh is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The White Hotel, Manchester on Thu, 17 Sept 2026.
 
 JK Flesh is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Bristol, Denver and Kualalumpur and 2 more. Often billed alongside CXCXCX, Dillinja and Dis Fig. Next up: The White Hotel, Manchester on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ JK Flesh is a techno and industrial artist based in United Kingdom, tracked on s
 
 CXCXCX, Dillinja, Dis Fig
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jkflesh/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jkflesh/)*

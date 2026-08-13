@@ -1,6 +1,6 @@
 # blichfeldt
 
-blichfeldt is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
+blichfeldt is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
 
 blichfeldt is a house and deep house artist based in Norway, tracked on soundcheck, with 26 sets logged across London and Oslo. Often billed alongside Simon Field, G-HA and Olanskii. Next up: Jaeger, Oslo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ blichfeldt is a house and deep house artist based in Norway, tracked on soundche
 
 Simon Field, G-HA, Olanskii
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blichfeldt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blichfeldt/)*

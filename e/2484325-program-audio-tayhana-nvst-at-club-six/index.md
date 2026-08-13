@@ -1,6 +1,6 @@
 # program audio: TAYHANA + NVST at Club Six
 
-program audio: TAYHANA + NVST at Club Six on Fri 28 Aug, Sanfrancisco. 3 acts on the bill: NVST, Pochola and TAYHANA. Bass and Club. Preview the line-up and save it on soundcheck.
+program audio: TAYHANA + NVST at Club Six on Fri 28 Aug, Sanfrancisco. 6 acts on the bill: erika (SF), mrs. worldwide, NATHALIA (2) and NVST and 2 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ program audio: TAYHANA + NVST at Club Six on Fri 28 Aug, Sanfrancisco. 3 acts on
 
 ## Line-up
 
+- erika (SF)
+- mrs. worldwide
+- NATHALIA (2)
 - NVST
 - Pochola
 - TAYHANA

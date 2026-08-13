@@ -1,6 +1,6 @@
 # WKND X Nika Herero – IFA at Weekend
 
-WKND X Nika Herero – IFA at Weekend on Fri 4 Sept, Berlin. 1 act on the bill: Nika Herero. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X Nika Herero – IFA at Weekend on Fri 4 Sept, Berlin. 4 acts on the bill: Gojas, LAWYA, Nika Herero and TIMOTHY ATALLA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ WKND X Nika Herero – IFA at Weekend on Fri 4 Sept, Berlin. 1 act on the bill: 
 
 ## Line-up
 
+- Gojas
+- LAWYA
 - Nika Herero
+- TIMOTHY ATALLA
 
 *Source: [soundcheck](https://soundcheck.club/e/2481317-wknd-x-nika-herero-ifa-at-weekend/)*

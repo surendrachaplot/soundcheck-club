@@ -1,6 +1,6 @@
 # Bruce
 
-Bruce is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+Bruce is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
 
 Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Ploy, Alicia (UK) and Allecto. Next up: M.O.T, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Ploy, Alicia (UK), Allecto
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*

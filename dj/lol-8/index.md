@@ -1,6 +1,6 @@
 # lol (8)
 
-lol (8) is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The DBA, Manchester on Sun, 30 Aug 2026.
+lol (8) is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The DBA, Manchester on Sun, 30 Aug 2026.
 
 lol (8) is a bass and baile funk artist tracked on soundcheck, with 13 sets logged across Berlin, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, DJ Mango and BSB (2). Next up: The DBA, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ lol (8) is a bass and baile funk artist tracked on soundcheck, with 13 sets logg
 
 Princess Elf Bar, DJ Mango, BSB (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lol-8/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lol-8/)*

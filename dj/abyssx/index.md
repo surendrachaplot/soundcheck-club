@@ -1,6 +1,6 @@
 # Abyss X
 
-Abyss X is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
+Abyss X is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
 
 Abyss X is a club and experimental artist tracked on soundcheck, with 21 sets logged across Athens, Bangkok, Berlin and Houston and 6 more. Often billed alongside REBE, Chippy Nonstop and DJ Failure. Next up: OHM, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Abyss X is a club and experimental artist tracked on soundcheck, with 21 sets lo
 
 REBE, Chippy Nonstop, DJ Failure
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abyssx/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abyssx/)*

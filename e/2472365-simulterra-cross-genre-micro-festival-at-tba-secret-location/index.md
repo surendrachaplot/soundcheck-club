@@ -1,6 +1,6 @@
 # Simulterra // cross-genre micro-festival at TBA - Secret Location, Berlin
 
-Simulterra // cross-genre micro-festival at TBA - Secret Location, Berlin on Sat 12 Sept, Berlin. 6 acts on the bill: Formella, ML (1), mu tate and N3LYSTAR and 2 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Simulterra // cross-genre micro-festival at TBA - Secret Location, Berlin on Sat 12 Sept, Berlin. 7 acts on the bill: Formella, ML (1), mu tate and N3LYSTAR and 3 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Simulterra // cross-genre micro-festival at TBA - Secret Location, Berlin on Sat
 - mu tate
 - N3LYSTAR
 - Obeka
+- Rafush
 - SILVASURFER
 
 *Source: [soundcheck](https://soundcheck.club/e/2472365-simulterra-cross-genre-micro-festival-at-tba-secret-location/)*

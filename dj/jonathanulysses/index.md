@@ -1,6 +1,6 @@
 # Jonathan Ulysses
 
-Jonathan Ulysses is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
+Jonathan Ulysses is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
 
 Jonathan Ulysses is a house and tech house artist tracked on soundcheck, with 19 sets logged across Auckland, Ibiza and London. Often billed alongside Bongo Ben, Jason Bye and Alex P. Next up: Prospect Park, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Jonathan Ulysses is a house and tech house artist tracked on soundcheck, with 19
 
 Bongo Ben, Jason Bye, Alex P
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*

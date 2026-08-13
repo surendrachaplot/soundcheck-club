@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 Estella Boersma is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Estella Boersma is a techno and house artist tracked on soundcheck, with 168 set
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

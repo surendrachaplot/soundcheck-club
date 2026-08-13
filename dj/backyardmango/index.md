@@ -1,6 +1,6 @@
 # backyardmango
 
-backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Hey Love, Portland on Sat, 15 Aug 2026.
+backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hey Love, Portland on Sat, 15 Aug 2026.
 
 backyardmango is a latin bass and funk / soul artist tracked on soundcheck, with 15 sets logged across London, Mexicocity, Portland and Seattle. Often billed alongside Coco Maria, La Mala Noche and AHNDO. Next up: Hey Love, Portland on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ backyardmango is a latin bass and funk / soul artist tracked on soundcheck, with
 
 Coco Maria, La Mala Noche, AHNDO
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*

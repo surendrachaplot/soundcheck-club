@@ -1,6 +1,6 @@
 # Bradley Circles
 
-Bradley Circles is a Balearic and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Tanners Arms, Newcastle on Fri, 14 Aug 2026.
+Bradley Circles is a Balearic and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Tanners Arms, Newcastle on Fri, 14 Aug 2026.
 
 Bradley Circles is a balearic and disco artist tracked on soundcheck, with 69 sets logged across Newcastle. Often billed alongside Anslow, Socialness and Santa Leticia. Next up: The Tanners Arms, Newcastle on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Bradley Circles is a balearic and disco artist tracked on soundcheck, with 69 se
 
 Anslow, Socialness, Santa Leticia
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleycircles/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleycircles/)*

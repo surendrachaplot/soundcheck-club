@@ -1,6 +1,6 @@
 # Alyne
 
-Alyne is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
+Alyne is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
 
 Alyne is a techno and tech house artist tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Nurnberg and Stuttgart. Often billed alongside tim|bre, Molekularmusik and justUS. Next up: SAGE, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Alyne is a techno and tech house artist tracked on soundcheck, with 52 sets logg
 
 tim|bre, Molekularmusik, justUS
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyne-de/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyne-de/)*

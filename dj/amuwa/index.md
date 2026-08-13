@@ -1,6 +1,6 @@
 # amuwa
 
-amuwa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
+amuwa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
 
 amuwa is a techno and trance artist tracked on soundcheck, with 23 sets logged across Brisbane, Paris, Sydney and Tokyo. Often billed alongside Tangela, Andy Garvey and Paramat (2). Next up: TBA, Sydney on Sat 5 Sept.
 
@@ -9,7 +9,7 @@ amuwa is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Sydney |
-| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground | Tokyo |
+| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground, Nagano | Tokyo |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ amuwa is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 
 Tangela, Andy Garvey, Paramat (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amuwa/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amuwa/)*

@@ -1,14 +1,15 @@
 # GraceBones
 
-GraceBones is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Select FM London, Los Angeles on Fri, 14 Aug 2026.
+GraceBones is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Select FM London, Los Angeles on Fri, 14 Aug 2026.
 
-GraceBones is a house and garage artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, London and Losangeles. Often billed alongside Raw Underground, Ben Kim and Bonnie. Next up: TBA - Select FM London, Losangeles on Fri 14 Aug.
+GraceBones is a house and garage artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, London and Losangeles. Often billed alongside Raw Underground, Albert Marzinotto and Ben Kim. Next up: TBA - Select FM London, Losangeles on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Select FM London | Los Angeles |
+| Fri, 21 Aug 2026 | TBA - Select Fm London Live  | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ GraceBones is a house and garage artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Raw Underground, Ben Kim, Bonnie
+Raw Underground, Albert Marzinotto, Ben Kim
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*

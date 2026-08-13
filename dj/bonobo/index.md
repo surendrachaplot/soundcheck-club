@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sonnenraum, Berlin on Sat, 15 Aug 2026.
+Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sonnenraum, Berlin on Sat, 15 Aug 2026.
 
 Bonobo is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: Sonnenraum, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bonobo is a house and techno artist tracked on soundcheck, with 92 sets logged a
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

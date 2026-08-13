@@ -1,6 +1,6 @@
 # KEIMIN
 
-KEIMIN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at rake?raka?, Osaka on Sat, 15 Aug 2026.
+KEIMIN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at rake?raka?, Osaka on Sat, 15 Aug 2026.
 
 KEIMIN is a techno and tech house artist based in Japan, tracked on soundcheck, with 28 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Nao Nomura, Sonny Vercetti and CRAZYHYUGA. Next up: rake?raka?, Osaka on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KEIMIN is a techno and tech house artist based in Japan, tracked on soundcheck, 
 
 Nao Nomura, Sonny Vercetti, CRAZYHYUGA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keimin/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keimin/)*

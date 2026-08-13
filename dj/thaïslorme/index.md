@@ -1,6 +1,6 @@
 # Thaïs LORME
 
-Thaïs LORME is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
+Thaïs LORME is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
 
 Thaïs LORME is a techno and afro house artist tracked on soundcheck, with 24 sets logged across Lisbon, London and Paris. Often billed alongside Madson Carpenter, DIMENSION 9 and Taxsh. Next up: Ministerium Club, Lisbon on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Thaïs LORME is a techno and afro house artist tracked on soundcheck, with 24 se
 
 Madson Carpenter, DIMENSION 9, Taxsh
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïslorme/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïslorme/)*

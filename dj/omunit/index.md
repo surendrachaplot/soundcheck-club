@@ -1,6 +1,6 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pastiche, Berlin on Sat, 15 Aug 2026.
+Om Unit is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pastiche, Berlin on Sat, 15 Aug 2026.
 
 Om Unit is a bass and dub artist tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 39 more. Often billed alongside Ehua, DVS1 and Priori. Next up: Pastiche, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Om Unit is a bass and dub artist tracked on soundcheck, with 107 sets logged acr
 
 Ehua, DVS1, Priori
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

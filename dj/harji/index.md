@@ -1,6 +1,6 @@
 # Harji
 
-Harji is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Floyd, Miami on Sat, 5 Sept 2026.
+Harji is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Floyd, Miami on Sat, 5 Sept 2026.
 
 Harji is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across London, Miami, Newyorkcity and Paris. Often billed alongside Anyasa, Firungi and Jordi Iven. Next up: Floyd, Miami on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Harji is a house and techno artist based in United States of America, tracked on
 
 Anyasa, Firungi, Jordi Iven
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harji/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harji/)*

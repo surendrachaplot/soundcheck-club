@@ -1,6 +1,6 @@
 # AMBRR
 
-AMBRR is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bricks, London on Sat, 15 Aug 2026.
+AMBRR is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bricks, London on Sat, 15 Aug 2026.
 
 AMBRR is a house and reggaeton artist tracked on soundcheck, with 10 sets logged across London and Losangeles. Often billed alongside ELLADHC, Alxander Ivey and AyChibs. Next up: Bricks, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AMBRR is a house and reggaeton artist tracked on soundcheck, with 10 sets logged
 
 ELLADHC, Alxander Ivey, AyChibs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

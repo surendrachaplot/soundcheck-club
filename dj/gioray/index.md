@@ -1,6 +1,6 @@
 # Gioray
 
-Gioray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at BASIS, Utrecht on Sat, 15 Aug 2026.
+Gioray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at BASIS, Utrecht on Sat, 15 Aug 2026.
 
 Gioray is a house and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Ascha, Auryn and Bouk Liúw. Next up: BASIS, Utrecht on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Gioray is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Ascha, Auryn, Bouk Liúw
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioray/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioray/)*

@@ -1,6 +1,6 @@
 # Dcurv
 
-Dcurv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ipse, Berlin on Sun, 23 Aug 2026.
+Dcurv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ipse, Berlin on Sun, 23 Aug 2026.
 
 Dcurv is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Siho, Capisonne and Rantil. Next up: Ipse, Berlin on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ Dcurv is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Siho, Capisonne, Rantil
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcurv/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcurv/)*

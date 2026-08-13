@@ -1,6 +1,6 @@
 # GoodMostlyBad
 
-GoodMostlyBad is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at murmur, Amsterdam on Fri, 21 Aug 2026.
+GoodMostlyBad is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at murmur, Amsterdam on Fri, 21 Aug 2026.
 
 GoodMostlyBad is a bass and garage artist tracked on soundcheck, with 8 sets logged across Amsterdam, Bangkok, London and Paris. Often billed alongside Earful of Wax, Fliss Mayo and Frazer Ray. Next up: murmur, Amsterdam on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ GoodMostlyBad is a bass and garage artist tracked on soundcheck, with 8 sets log
 
 Earful of Wax, Fliss Mayo, Frazer Ray
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodmostlybad/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodmostlybad/)*

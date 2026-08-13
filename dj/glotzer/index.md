@@ -1,6 +1,6 @@
 # Glotzer
 
-Glotzer is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Glotzer is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Glotzer is an electronic artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin and London. Often billed alongside Proteus, Becky Stroke and Princess Julia. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Glotzer is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 Proteus, Becky Stroke, Princess Julia
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*

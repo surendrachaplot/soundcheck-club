@@ -1,6 +1,6 @@
 # Leo Novus
 
-Leo Novus is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 11 Sept 2026.
+Leo Novus is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 11 Sept 2026.
 
 Leo Novus is a techno and breakbeat artist tracked on soundcheck, with 15 sets logged across Riga. Often billed alongside Smiltis, Aizvakardiena and E91. Next up: Kaņepes Kultūras Centrs, Riga on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Leo Novus is a techno and breakbeat artist tracked on soundcheck, with 15 sets l
 
 Smiltis, Aizvakardiena, E91
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonovus/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonovus/)*

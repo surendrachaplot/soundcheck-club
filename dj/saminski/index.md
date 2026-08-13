@@ -1,6 +1,6 @@
 # Saminski
 
-Saminski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
+Saminski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
 
 Saminski is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Listenblondie, 9LALEY and Jan Minnerup. Next up: Aahhh Rooftop, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Saminski is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Listenblondie, 9LALEY, Jan Minnerup
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saminski/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saminski/)*

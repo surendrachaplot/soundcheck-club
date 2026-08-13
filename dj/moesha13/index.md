@@ -1,6 +1,6 @@
 # Moesha 13
 
-Moesha 13 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
+Moesha 13 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
 
 Moesha 13 is an experimental and bass artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and London and 7 more. Often billed alongside Soft Break, ojoo and Assyouti. Next up: MoMA PS1, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Moesha 13 is an experimental and bass artist tracked on soundcheck, with 20 sets
 
 Soft Break, ojoo, Assyouti
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moesha13/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moesha13/)*

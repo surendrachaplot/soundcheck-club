@@ -1,8 +1,8 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
+Luuk van Dijk is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
 
-Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Lofi, Amsterdam on Fri 14 Aug.
+Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Lofi, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 229 s
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Sun, 30 Aug 2026 | The Swan | Nottingham |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sun, 6 Sept 2026 | Roberta's | New York City |
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 229 s
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

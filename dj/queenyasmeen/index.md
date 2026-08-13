@@ -1,6 +1,6 @@
 # queen yasmeen
 
-queen yasmeen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
+queen yasmeen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
 queen yasmeen is a techno and trance artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Madrid and Prague. Often billed alongside August Kind, Deltapeak and Eli Bot. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ queen yasmeen is a techno and trance artist tracked on soundcheck, with 22 sets 
 
 August Kind, Deltapeak, Eli Bot
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queenyasmeen/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queenyasmeen/)*

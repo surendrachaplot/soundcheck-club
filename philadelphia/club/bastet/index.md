@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "SHADOWPLAY [goth/darkwave/industrial] on Floor Two || NAYAMDNA on Floor One" on Fri, 14 Aug 2026.
+Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SHADOWPLAY [goth/darkwave/industrial] on Floor Two || NAYAMDNA on Floor One" on Fri, 14 Aug 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Amal, BLACKMDNA, Black Rave Culture and Firestone and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -18,4 +18,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

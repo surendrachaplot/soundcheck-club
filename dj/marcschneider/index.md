@@ -1,6 +1,6 @@
 # Marc Schneider
 
-Marc Schneider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Thu, 13 Aug 2026.
+Marc Schneider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club der Visionaere, Berlin on Thu, 13 Aug 2026.
 
 Marc Schneider is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Hamburg and Portland. Often billed alongside Karina Schneider, Meat and Barbara Preisinger. Next up: Club der Visionaere, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Marc Schneider is a house and techno artist tracked on soundcheck, with 31 sets 
 
 Karina Schneider, Meat, Barbara Preisinger
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*

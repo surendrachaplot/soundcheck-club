@@ -1,6 +1,6 @@
 # Ultrastation
 
-Ultrastation is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
+Ultrastation is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
 Ultrastation is a techno and house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Prague and 4 more. Often billed alongside Octave One, Sandrien and Alex Ranzino. Next up: RADION, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ultrastation is a techno and house artist based in Netherlands, tracked on sound
 
 Octave One, Sandrien, Alex Ranzino
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrastation/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrastation/)*

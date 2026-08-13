@@ -1,6 +1,6 @@
 # Lexer
 
-Lexer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Lexer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
 Lexer is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Berlin and Brussels and 16 more. Often billed alongside Matchy, A.D.H.S. and Anahit Vardanyan. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lexer is a techno and house artist tracked on soundcheck, with 64 sets logged ac
 
 Matchy, A.D.H.S., Anahit Vardanyan
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*

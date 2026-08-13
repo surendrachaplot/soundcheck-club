@@ -1,14 +1,14 @@
 # Bollmann
 
-Bollmann is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat, 5 Sept 2026.
+Bollmann is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Space for Skate, Munich on Sat, 5 Sept 2026.
 
-Bollmann is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat 5 Sept.
+Bollmann is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: Space for Skate, Munich on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München) | Munich |
+| Sat, 5 Sept 2026 | Space for Skate | Munich |
 | Fri, 18 Sept 2026 | SILO | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Bollmann is a techno and industrial artist tracked on soundcheck, with 93 sets l
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

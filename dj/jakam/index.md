@@ -1,6 +1,6 @@
 # J.A.K.A.M.
 
-J.A.K.A.M. is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
+J.A.K.A.M. is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
 
 J.A.K.A.M. is a bass and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Do Shock Booze, Leefia and Andrew (TREKKIE TRAX). Next up: Enter Shibuya, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ J.A.K.A.M. is a bass and techno artist based in Japan, tracked on soundcheck, wi
 
 Do Shock Booze, Leefia, Andrew (TREKKIE TRAX)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakam/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakam/)*

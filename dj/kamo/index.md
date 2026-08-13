@@ -1,6 +1,6 @@
 # Kamo
 
-Kamo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+Kamo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
 Kamo is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Barcelona, Munich, Tallinn and Tokyo. Often billed alongside SHAJAN, RAPH and Dolan. Next up: Lieberscholli, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kamo is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 SHAJAN, RAPH, Dolan
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo/)*

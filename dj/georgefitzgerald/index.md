@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
 
 George FitzGerald is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ George FitzGerald is a house and techno artist tracked on soundcheck, with 46 se
 
 Lil Silva, Fold, Scuba
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

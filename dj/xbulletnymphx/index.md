@@ -1,6 +1,6 @@
 # xBulletNymphx
 
-xBulletNymphx is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
+xBulletNymphx is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
 
 xBulletNymphx is a jungle and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Portland and Seattle. Often billed alongside Mirin Doja, Omari Jazz and Slurgeon. Next up: TBA, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ xBulletNymphx is a jungle and techno artist based in United States of America, t
 
 Mirin Doja, Omari Jazz, Slurgeon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xbulletnymphx/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xbulletnymphx/)*

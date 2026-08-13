@@ -1,6 +1,6 @@
 # TBA - Secret Location, Edinburgh
 
-TBA - Secret Location, Edinburgh is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "subterranean" on Sat, 19 Sept 2026.
+TBA - Secret Location, Edinburgh is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "subterranean" on Sat, 19 Sept 2026.
 
 TBA - Secret Location, Edinburgh is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Alien Communications, Craigie Knowes, Eclair Fifi and noodle. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location, Edinburgh is a music venue in Edinburgh listed on soundch
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | subterranean | Alien Communications, Craigie Knowes, Eclair Fifi, noodle |
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/tba-secret-location-edinburgh/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/tba-secret-location-edinburgh/)*

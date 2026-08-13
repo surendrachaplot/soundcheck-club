@@ -1,10 +1,10 @@
 # Over Easy at TBA - Oakland
 
-Over Easy at TBA - Oakland on Fri 14 Aug, Sanfrancisco. 5 acts on the bill: Heavee, Lonald J. Bandz, Mars Kasei and Nikes and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+Over Easy at TBA - Oakland on Sat 15 Aug, Sanfrancisco. 5 acts on the bill: Heavee, Lonald J. Bandz, Mars Kasei and Nikes and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 14 Aug 2026 |
+| Date | Sat, 15 Aug 2026 |
 | Venue | TBA - Oakland |
 | City | San Francisco/Oakland |
 

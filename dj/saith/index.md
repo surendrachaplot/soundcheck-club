@@ -1,6 +1,6 @@
 # saith
 
-saith is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Fiftyfive, Melbourne on Sun, 16 Aug 2026.
+saith is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fiftyfive, Melbourne on Sun, 16 Aug 2026.
 
 saith is a deep house and disco artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Julius Myles, second skin and yergurl. Next up: Fiftyfive, Melbourne on Sun 16 Aug.
 
@@ -18,4 +18,4 @@ saith is a deep house and disco artist based in Australia, tracked on soundcheck
 
 Julius Myles, second skin, yergurl
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saith/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saith/)*

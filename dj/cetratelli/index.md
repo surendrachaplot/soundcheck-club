@@ -1,6 +1,6 @@
 # Cetratelli
 
-Cetratelli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Motor Oil, Barcelona on Thu, 13 Aug 2026.
+Cetratelli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Motor Oil, Barcelona on Thu, 13 Aug 2026.
 
 Cetratelli is a house and tech house artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona and Geneva. Often billed alongside Babo, Brenda Cast and Frucula. Next up: TBA - Motor Oil, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Cetratelli is a house and tech house artist based in Spain, tracked on soundchec
 
 Babo, Brenda Cast, Frucula
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*

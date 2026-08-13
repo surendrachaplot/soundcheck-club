@@ -1,6 +1,6 @@
 # Luis Leon
 
-Luis Leon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Switch Bar, Barcelona on Fri, 21 Aug 2026.
+Luis Leon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Switch Bar, Barcelona on Fri, 21 Aug 2026.
 
 Luis Leon is a house and tech house artist tracked on soundcheck, with 4 sets logged across Barcelona and Lisbon. Often billed alongside Mutul, Art In Motion and Basement Scene. Next up: Switch Bar, Barcelona on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Luis Leon is a house and tech house artist tracked on soundcheck, with 4 sets lo
 
 Mutul, Art In Motion, Basement Scene
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisleon/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisleon/)*

@@ -1,6 +1,6 @@
 # Tobi Lack
 
-Tobi Lack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Silbergold, Frankfurt on Fri, 14 Aug 2026.
+Tobi Lack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Silbergold, Frankfurt on Fri, 14 Aug 2026.
 
 Tobi Lack is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Frankfurt and Madrid and 1 more. Often billed alongside BA’AL, Juri Heidemann and Kribs. Next up: Silbergold, Frankfurt on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tobi Lack is a techno and house artist tracked on soundcheck, with 28 sets logge
 
 BA’AL, Juri Heidemann, Kribs
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobilack/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobilack/)*

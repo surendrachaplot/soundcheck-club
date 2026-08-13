@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "RSO: WALL2WALL CLUB FESTIVAL 2026" on Thu, 13 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "RSO: WALL2WALL CLUB FESTIVAL 2026" on Thu, 13 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, 
 | Sun, 23 Aug 2026 | JAUCHOMATIC - Open Air - By the People for the People (since 1995) / Baergarten | DJ Jauche |
 | Fri, 28 Aug 2026 | TAPERED | Carla Schmitt, FJUSHA, Neoma, Yasmin Regisford |
 | Sat, 29 Aug 2026 | XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia | Akua, Alarico, Decka, Henning Baer, Kameliia, Laia, Nadia Struiwigh, ORBE, Olivia Mendez, Psyk, Roll Dann, Sandrien, Shadow Hrym (ES) |
-| Fri, 4 Sept 2026 | PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT |  |
+| Fri, 4 Sept 2026 | PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT | BUTZ, Bardo (1), Carl Bergé, Cromby, DJ SPORTSCHUH, Elvin, Gordon Flash, HERMETICA, Jesse G, Kedi Bounce, Obscure Shape, Talia Dorr, Tino Machauer, lex_shockwerk |
 | Sat, 5 Sept 2026 | XTRUDE w/ Alexander Kowalski, Justine Perry, Philippa Pacho, Benjamin Damage and BADSISTA | Alexander Kowalski, BADSISTA, Benjamin Damage, Blue Hour, DINA, HEDDA, Justine Perry, Mademoisel, Philippa Pacho, Procombo, RONI, VEL (MA), Ø [Phase] |
 | Fri, 11 Sept 2026 | The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer | .VRIL, Ahmet Sisman, Dasha Rush, Ehua, Felix Fleer |
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

@@ -1,6 +1,6 @@
 # Arlo Bell
 
-Arlo Bell is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
+Arlo Bell is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
 
 Arlo Bell is a trance and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside WAYRA, AH-N!CE and AKIIM. Next up: Südpol, Hamburg on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Arlo Bell is a trance and house artist based in Germany, tracked on soundcheck, 
 
 WAYRA, AH-N!CE, AKIIM
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlobell/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlobell/)*

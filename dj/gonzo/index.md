@@ -1,6 +1,6 @@
 # Gonzo
 
-Gonzo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
+Gonzo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
 
 Gonzo is a house and techno artist based in Portugal, tracked on soundcheck, with 27 sets logged across Bali, Barcelona, Buenosaires and Glasgow and 10 more. Often billed alongside Joe Deacon, LAWLESS and Aldo Ron Sanchez. Next up: Crate Concept, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gonzo is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Joe Deacon, LAWLESS, Aldo Ron Sanchez
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzo/)*

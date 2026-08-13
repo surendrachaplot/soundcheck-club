@@ -1,6 +1,6 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
+DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
 
 DJ Nah Care is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Jolene, Copenhagen on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ DJ Nah Care is a techno and house artist tracked on soundcheck, with 75 sets log
 
 Ezy, Entree, Peachlyfe
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

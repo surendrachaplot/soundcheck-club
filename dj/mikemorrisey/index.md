@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 13 Aug 2026.
+Mike Morrisey is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Mike Morrisey is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 8 more. Often billed alongside Luke Welsh, Dan Costello and MPhilly. Next up: Amnesia Ibiza, Ibiza on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Mike Morrisey is a tech house and minimal artist based in United Kingdom, tracke
 
 Luke Welsh, Dan Costello, MPhilly
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

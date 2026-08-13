@@ -1,6 +1,6 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
+Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
 
 Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 19 more. Often billed alongside Dennis Cruz, Chris Stussy and PAWSA. Next up: Old Royal Naval College, London on Sun 16 Aug.
 
@@ -31,4 +31,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 Dennis Cruz, Chris Stussy, PAWSA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

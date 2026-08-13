@@ -1,6 +1,6 @@
 # Alex Medina
 
-Alex Medina is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
+Alex Medina is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
 
 Alex Medina is a deep house and techno artist based in Spain, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 5 more. Often billed alongside D-Formation, Alex Sharp and Darksidevinyl. Next up: John Doe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alex Medina is a deep house and techno artist based in Spain, tracked on soundch
 
 D-Formation, Alex Sharp, Darksidevinyl
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmedina-es/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmedina-es/)*

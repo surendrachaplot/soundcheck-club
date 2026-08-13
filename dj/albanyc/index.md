@@ -1,6 +1,6 @@
 # Alba (NYC)
 
-Alba (NYC) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
+Alba (NYC) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
 
 Alba (NYC) is a house and deep house artist tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Skinny Girl, ANDJ and Funkelectric. Next up: The Walk Inn, Newyorkcity on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Alba (NYC) is a house and deep house artist tracked on soundcheck, with 8 sets l
 
 Skinny Girl, ANDJ, Funkelectric
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albanyc/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albanyc/)*

@@ -1,6 +1,6 @@
 # Hooligan
 
-Hooligan is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
+Hooligan is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
 
 Hooligan is a techno and minimal techno artist tracked on soundcheck, with 36 sets logged across Austin, Berlin, Cork and Dublin and 5 more. Often billed alongside MEJMI, Ashes (2) and Doiléir. Next up: Pawn Shop, Dublin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hooligan is a techno and minimal techno artist tracked on soundcheck, with 36 se
 
 MEJMI, Ashes (2), Doiléir
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hooligan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hooligan/)*

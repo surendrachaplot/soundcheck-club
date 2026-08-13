@@ -1,6 +1,6 @@
 # nuntheless
 
-nuntheless is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
+nuntheless is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
 
 nuntheless is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit. Often billed alongside CoveLove, Duck Trash and Jorissen. Next up: Temple Bar, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ nuntheless is a techno and house artist based in United States of America, track
 
 CoveLove, Duck Trash, Jorissen
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuntheless/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuntheless/)*

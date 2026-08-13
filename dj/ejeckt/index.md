@@ -1,6 +1,6 @@
 # Ejeckt
 
-Ejeckt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Turbo422, Melbourne on Sat, 15 Aug 2026.
+Ejeckt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Turbo422, Melbourne on Sat, 15 Aug 2026.
 
 Ejeckt is a techno and house artist based in Australia, tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Gus McKinna, Ketris and AK-97. Next up: Turbo422, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ejeckt is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Gus McKinna, Ketris, AK-97
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeckt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeckt/)*

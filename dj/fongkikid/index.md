@@ -1,6 +1,6 @@
 # fongkikid
 
-fongkikid is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+fongkikid is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 fongkikid is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Montreal and Toronto. Often billed alongside Garden of Magic, Honeydrip and Orange Moon. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ fongkikid is a techno and experimental artist based in United Kingdom, tracked o
 
 Garden of Magic, Honeydrip, Orange Moon
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fongkikid/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fongkikid/)*

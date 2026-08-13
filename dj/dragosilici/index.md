@@ -1,6 +1,6 @@
 # Dragos Ilici
 
-Dragos Ilici is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 21 Aug 2026.
+Dragos Ilici is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 21 Aug 2026.
 
 Dragos Ilici is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Boston and Brussels and 7 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Platforma Wolff, Bucharest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dragos Ilici is a house and techno artist tracked on soundcheck, with 60 sets lo
 
 Prichindel, Mark Dumitrescu, Dan Andrei
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*

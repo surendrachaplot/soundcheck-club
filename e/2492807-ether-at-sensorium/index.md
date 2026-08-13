@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 21 Aug, Berlin. 4 acts on the bill: Daviti, MEHMOOD, MTSLYX and UniKhatu. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 21 Aug, Berlin. 5 acts on the bill: Bee Lincoln, Daviti, MEHMOOD and MTSLYX and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ETHER at Sensorium on Fri 21 Aug, Berlin. 4 acts on the bill: Daviti, MEHMOOD, M
 
 ## Line-up
 
+- Bee Lincoln
 - Daviti
 - MEHMOOD
 - MTSLYX

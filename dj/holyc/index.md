@@ -1,13 +1,14 @@
 # HOLY C
 
-HOLY C is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
+HOLY C is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lakota, Bristol on Sun, 6 Sept 2026.
 
-HOLY C is a techno and trance artist tracked on soundcheck, with 19 sets logged across Bristol and London. Often billed alongside ASHTREY, Karlie Marx and Michelle Manetti. Next up: Algha's Plantroom, London on Sat 19 Sept.
+HOLY C is a techno and club artist tracked on soundcheck, with 20 sets logged across Bristol and London. Often billed alongside ASHTREY, Karlie Marx and Michelle Manetti. Next up: Lakota, Bristol on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Lakota | Bristol |
 | Sat, 19 Sept 2026 | Algha's Plantroom | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ HOLY C is a techno and trance artist tracked on soundcheck, with 19 sets logged 
 
 ASHTREY, Karlie Marx, Michelle Manetti
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*

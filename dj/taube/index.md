@@ -1,6 +1,6 @@
 # TAUBE
 
-TAUBE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 14 Aug 2026.
+TAUBE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 14 Aug 2026.
 
 TAUBE is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Munich and Paris and 3 more. Often billed alongside Boys Noize, AISHA and Bella Claxton. Next up: Phantom Bar Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ TAUBE is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Boys Noize, AISHA, Bella Claxton
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taube/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taube/)*

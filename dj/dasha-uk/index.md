@@ -1,6 +1,6 @@
 # DASHA (UK)
 
-DASHA (UK) is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gallery, London on Thu, 13 Aug 2026.
+DASHA (UK) is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gallery, London on Thu, 13 Aug 2026.
 
 DASHA (UK) is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London and Melbourne. Often billed alongside AVANTIME, Addiy and Bibiminor. Next up: Gallery, London on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ DASHA (UK) is an electronica and house artist based in United Kingdom, tracked o
 
 AVANTIME, Addiy, Bibiminor
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*

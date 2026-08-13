@@ -1,6 +1,6 @@
 # Ursula Erdmann
 
-Ursula Erdmann is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
+Ursula Erdmann is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 15 Aug 2026.
 
 Ursula Erdmann is a house and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Cologne. Often billed alongside ZAHNATZIN, DJ Hyperdrive and DJ Palga. Next up: Südbrücke Open Air, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ursula Erdmann is a house and trance artist based in Germany, tracked on soundch
 
 ZAHNATZIN, DJ Hyperdrive, DJ Palga
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*

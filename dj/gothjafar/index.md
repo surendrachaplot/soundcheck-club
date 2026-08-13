@@ -1,6 +1,6 @@
 # Goth Jafar
 
-Goth Jafar is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
+Goth Jafar is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
 
 Goth Jafar is a techno and club artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Boston and 17 more. Often billed alongside River Moon, TAAHLIAH and BEARCAT. Next up: TBA, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Goth Jafar is a techno and club artist based in United States of America, tracke
 
 River Moon, TAAHLIAH, BEARCAT
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gothjafar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gothjafar/)*

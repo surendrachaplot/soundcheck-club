@@ -1,14 +1,15 @@
 # Sho (UK)
 
-Sho (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Shoreditch venue announced 3pm on event day, London on Thu, 13 Aug 2026.
+Sho (UK) is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Shoreditch venue announced 3pm on event day, London on Thu, 13 Aug 2026.
 
-Sho (UK) is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Ibiza and London. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: TBA - Shoreditch venue announced 3pm on event day, London on Thu 13 Aug.
+Sho (UK) is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Ibiza and London. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: TBA - Shoreditch venue announced 3pm on event day, London on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TBA - Shoreditch venue announced 3pm on event day | London |
+| Sun, 16 Aug 2026 | Upper East | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sho (UK) is a minimal and tech house artist based in United Kingdom, tracked on 
 
 KREED., KAZIA, Saf Mitchell
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*

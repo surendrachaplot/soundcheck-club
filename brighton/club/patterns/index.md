@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Patterns Terrace Party: The Journey Men" on Sat, 22 Aug 2026.
+Patterns is a music venue in Brighton with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Patterns Terrace Party: The Journey Men" on Sat, 22 Aug 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 13 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Patterns is a music venue in Brighton listed on soundcheck. 12 upcoming nights, 
 | Sat, 19 Sept 2026 | Memory Box: Disco in The House with Joe Goddard (Hot Chip) | Hot Chip, Joe Goddard |
 | Fri, 25 Sept 2026 | Freshly Baked - Basement Rave |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
-| Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
+| Sat, 17 Oct 2026 | Sexy Lady Massive presents: The Massive Tour | Sexy Lady Massive |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

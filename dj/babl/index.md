@@ -1,8 +1,8 @@
 # BABL
 
-BABL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rhythm, Toronto on Sun, 16 Aug 2026.
+BABL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rhythm, Toronto on Sun, 16 Aug 2026.
 
-BABL is a house and deep house artist tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside High Tide, Underwaterhasa and Carlos Estebban. Next up: Rhythm, Toronto on Sun 16 Aug.
+BABL is a house and deep house artist tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside High Tide, Rami Nassif and Underwaterhasa. Next up: Rhythm, Toronto on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ BABL is a house and deep house artist tracked on soundcheck, with 24 sets logged
 
 ## Shares bills with
 
-High Tide, Underwaterhasa, Carlos Estebban
+High Tide, Rami Nassif, Underwaterhasa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babl/)*

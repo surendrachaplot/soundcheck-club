@@ -1,6 +1,6 @@
 # multibliss
 
-multibliss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
+multibliss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
 
 multibliss is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin and Frankfurt. Often billed alongside C.R.MINE, Dynamic Experience and Vaio. Next up: Malzfabrik, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ multibliss is a techno and house artist tracked on soundcheck, with 15 sets logg
 
 C.R.MINE, Dynamic Experience, Vaio
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multibliss/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multibliss/)*

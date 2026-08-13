@@ -1,6 +1,6 @@
 # Ekho x SUMARI Rooftop Party V2 at 25hours Hotel Bikini Berlin, 3. Etage
 
-Ekho x SUMARI Rooftop Party V2 at 25hours Hotel Bikini Berlin, 3. Etage on Sun 30 Aug, Berlin. 1 act on the bill: REMEN. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Ekho x SUMARI Rooftop Party V2 at 25hours Hotel Bikini Berlin, 3. Etage on Sun 30 Aug, Berlin. 1 act on the bill: REMEN. House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

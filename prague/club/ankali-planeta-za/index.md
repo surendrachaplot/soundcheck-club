@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Archiv Teknologi: Alpha Tracks, Atlaskin & VNNUK, Madeleine" on Fri, 14 Aug 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Archiv Teknologi: Alpha Tracks, Atlaskin & VNNUK, Madeleine" on Fri, 14 Aug 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including AE.WAI, Alpha Tracks, Arton (CZ) and Atlaskin and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including AE.WAI, Alfred Czital, Alpha Tracks and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 | Fri, 14 Aug 2026 | Archiv Teknologi: Alpha Tracks, Atlaskin & VNNUK, Madeleine | Alpha Tracks, Atlaskin, Madeleine, VNNUK |
 | Fri, 21 Aug 2026 | Three Years of Soft Limits: Jenny Cara, Lucky Lube, JaMichael & paper. (Live), Unjack | Feenicks, Jenny Cara, Lucky Lube, Theo (8), Unjack* |
 | Sat, 22 Aug 2026 | ─୨ৎ─2 YEARS of Zona Magica─୨ৎ─ | Kontronatura, Noise Casino, VISNEACS, mata rubia, patricccio |
+| Fri, 28 Aug 2026 | Yuggadus Birthday | Alfred Czital, Caim, Jemazzz, JöëK, LONG, Yan (CZ), ishka machina |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | MAXImum, Mother Menace, olesia |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | Big Lil, DARDANELLA, MAXImum, Mother Menace, olesia, zey |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | Big Lil, DARDANELLA, MAXImum, Mother Menace, olesia, zey |
@@ -21,4 +22,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

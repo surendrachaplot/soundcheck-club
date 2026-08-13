@@ -1,15 +1,13 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+BASHKKA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 27 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 297 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: Gianpula Village, Malta on Wed 12 Aug.
+BASHKKA is a techno and house artist tracked on soundcheck, with 297 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
-| Wed, 12 Aug 2026 | Nocturna | Ibiza |
 | Thu, 27 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
@@ -22,17 +20,17 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 297 sets logged
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
+- Nocturna, Ibiza — Wed, 12 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - KALT, Strasbourg — Sat, 18 Jul 2026
-- Palais de Tokyo, Paris — Sat, 18 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, ISAbella
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

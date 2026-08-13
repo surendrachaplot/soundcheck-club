@@ -1,13 +1,14 @@
 # Utip
 
-Utip is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
+Utip is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
 
-Utip is a house and deep house artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Ibiza and London and 1 more. Often billed alongside Hypnoize, Isaac Elejalde and Danilo Schneider. Next up: Perro Loco, Berlin on Fri 4 Sept.
+Utip is a house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Hypnoize, Isaac Elejalde and Danilo Schneider. Next up: Riga Wake, Riga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Riga Wake | Riga |
 | Fri, 4 Sept 2026 | Perro Loco | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Utip is a house and deep house artist tracked on soundcheck, with 30 sets logged
 
 Hypnoize, Isaac Elejalde, Danilo Schneider
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*

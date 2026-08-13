@@ -1,6 +1,6 @@
 # Niilas
 
-Niilas is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Villa, Oslo on Sat, 22 Aug 2026.
+Niilas is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Villa, Oslo on Sat, 22 Aug 2026.
 
 Niilas is an experimental and techno artist based in Norway, tracked on soundcheck, with 17 sets logged across Barcelona and Oslo. Often billed alongside Posner, Espen Cook and AEREA. Next up: The Villa, Oslo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Niilas is an experimental and techno artist based in Norway, tracked on soundche
 
 Posner, Espen Cook, AEREA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*

@@ -1,14 +1,13 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at UNO MALTA, Malta on Wed, 12 Aug 2026.
+Carl Cox is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Carl Cox is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Auckland and Austin and 41 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: UNO MALTA, Malta on Wed 12 Aug.
+Carl Cox is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Auckland and Austin and 41 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | UNO MALTA | Malta |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Sun, 16 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 23 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 130 sets logge
 | Sun, 13 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 19 Sept 2026 | Carroponte | Milan |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
+| Sun, 27 Sept 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- UNO MALTA, Malta — Wed, 12 Aug 2026
 - [UNVRS], Ibiza — Sun, 9 Aug 2026
 - [UNVRS], Ibiza — Sun, 2 Aug 2026
 - [UNVRS], Ibiza — Sun, 26 Jul 2026
@@ -30,10 +31,9 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 130 sets logge
 - [UNVRS], Ibiza — Sun, 12 Jul 2026
 - [UNVRS], Ibiza — Sun, 5 Jul 2026
 - [UNVRS], Ibiza — Sun, 28 Jun 2026
-- Fabrik, Madrid — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

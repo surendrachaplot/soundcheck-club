@@ -1,6 +1,6 @@
 # Softi
 
-Softi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Het Salon, Amsterdam on Fri, 14 Aug 2026.
+Softi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Het Salon, Amsterdam on Fri, 14 Aug 2026.
 
 Softi is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: Het Salon, Amsterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Softi is a techno and bass artist tracked on soundcheck, with 81 sets logged acr
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

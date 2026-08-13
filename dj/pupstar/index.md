@@ -1,6 +1,6 @@
 # Pupstar
 
-Pupstar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at H0L0, New York City on Wed, 19 Aug 2026.
+Pupstar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at H0L0, New York City on Wed, 19 Aug 2026.
 
 Pupstar is a progressive house and house artist tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside AleBCostantino, FRANZIV and ViV:On. Next up: H0L0, Newyorkcity on Wed 19 Aug.
 
@@ -20,4 +20,4 @@ Pupstar is a progressive house and house artist tracked on soundcheck, with 4 se
 
 AleBCostantino, FRANZIV, ViV:On
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pupstar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pupstar/)*

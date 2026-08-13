@@ -1,6 +1,6 @@
 # TDV (UK)
 
-TDV (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
+TDV (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
 
 TDV (UK) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, Leeds and London. Often billed alongside Sheccy, Flint and EEBEE. Next up: Lord Napier, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ TDV (UK) is a tech house and house artist based in United Kingdom, tracked on so
 
 Sheccy, Flint, EEBEE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdv-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdv-uk/)*

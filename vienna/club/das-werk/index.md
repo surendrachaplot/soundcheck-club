@@ -1,14 +1,13 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "RAM - Rave am Mittwoch" on Wed, 12 Aug 2026.
+Das Werk is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "HERZFREQUENZ: SUMMER BOUNCE EDITION" on Fri, 14 Aug 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with line-ups including adrialin, Albin Brezlan, Bangerfabrique and carlo kalu and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including adrialin, Albin Brezlan, Bangerfabrique and carlo kalu and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | RAM - Rave am Mittwoch |  |
 | Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Crystal O, DJ WIFI, DJ Wolle, DORAH, Joey (2), KILIÅN, Limoncello, Melle, Pixie Dust, SAYA |
 | Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
 | Wed, 19 Aug 2026 | RAM - Rave am Mittwoch |  |
@@ -23,4 +22,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming nights, wi
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

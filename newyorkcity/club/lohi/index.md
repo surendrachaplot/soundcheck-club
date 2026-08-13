@@ -1,6 +1,6 @@
 # LoHi
 
-LoHi is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "Toy Tonics Daytime Rooftop Jam" on Sat, 5 Sept 2026.
+LoHi is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Toy Tonics Daytime Rooftop Jam" on Sat, 5 Sept 2026.
 
 LoHi is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including ALOT, Kapote, Laila Amira and Orson.NYC. Browse upcoming dates, start times and who's playing. 314 Scholes St, Brooklyn, NY 11206.
 
@@ -14,4 +14,4 @@ LoHi is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, wit
 
 314 Scholes St, Brooklyn, NY 11206, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*

@@ -1,6 +1,6 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+DMX Krew is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 DMX Krew is an electro and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ DMX Krew is an electro and house artist tracked on soundcheck, with 92 sets logg
 
 Alien Communications, Andre King, DVDE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

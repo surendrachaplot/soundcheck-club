@@ -1,6 +1,6 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+B0YG1RL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Lady Narcisse, Racci and XANA (US). Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ B0YG1RL is a techno and club artist based in United States of America, tracked o
 
 Lady Narcisse, Racci, XANA (US)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*

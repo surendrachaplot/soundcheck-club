@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 13 Aug 2026.
+Luciano is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Luciano is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Amnesia Ibiza, Ibiza on Thu 13 Aug.
 
@@ -33,4 +33,4 @@ Luciano is a house and tech house artist tracked on soundcheck, with 103 sets lo
 
 Sossa, Marco Carola, Prospa
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

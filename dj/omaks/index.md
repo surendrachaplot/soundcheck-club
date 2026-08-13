@@ -1,6 +1,6 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Arts Club, Liverpool on Sat, 15 Aug 2026.
+OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Arts Club, Liverpool on Sat, 15 Aug 2026.
 
 OMAKS is a techno and hardcore artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Arts Club, Liverpool on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 135 sets logge
 
 LESSSS, Shlømo, Basswell
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

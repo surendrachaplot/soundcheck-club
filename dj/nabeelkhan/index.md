@@ -1,14 +1,14 @@
 # Nabeel
 
-Nabeel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, New York City on Sat, 15 Aug 2026.
+Nabeel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 15 Aug 2026.
 
-Nabeel is a house and techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Richard O'Bryan, Mai iachetti and Momo Trosman. Next up: TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, Newyorkcity on Sat 15 Aug.
+Nabeel is a house and techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Richard O'Bryan, Mai iachetti and Momo Trosman. Next up: Summertime Roof Terrace, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG | New York City |
+| Sat, 15 Aug 2026 | Summertime Roof Terrace | New York City |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ Nabeel is a house and techno artist tracked on soundcheck, with 7 sets logged ac
 
 Richard O'Bryan, Mai iachetti, Momo Trosman
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabeelkhan/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabeelkhan/)*

@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Soul in the Horn FT Natasha Diggs & Friends - August 21" on Fri, 21 Aug 2026.
+99 Scott Ave is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Soul in the Horn FT Natasha Diggs & Friends - August 21" on Fri, 21 Aug 2026.
 
 99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including ARODES, DJ Kemit, Haruka (US) and HIRAME and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

@@ -1,6 +1,6 @@
 # B_LOVE
 
-B_LOVE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
+B_LOVE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
 
 B_LOVE is a house and tech house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Ginn LDN, DJ Mods and AfroLicious Mumma. Next up: Mezzanine - Tooting, London on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ B_LOVE is a house and tech house artist tracked on soundcheck, with 6 sets logge
 
 Ginn LDN, DJ Mods, AfroLicious Mumma
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b_love/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b_love/)*

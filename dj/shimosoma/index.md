@@ -1,6 +1,6 @@
 # shimosoma
 
-shimosoma is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
+shimosoma is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
 
 shimosoma is a techno and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Rikuto Shibazaki, Rikuto and Kulage. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ shimosoma is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Rikuto Shibazaki, Rikuto, Kulage
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*

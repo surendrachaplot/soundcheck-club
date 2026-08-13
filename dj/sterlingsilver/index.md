@@ -1,6 +1,6 @@
 # Sterling Silver
 
-Sterling Silver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
+Sterling Silver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
 
 Sterling Silver is a house and disco artist tracked on soundcheck, with 22 sets logged across Seoul. Often billed alongside Better, Grace Kim and About Julian. Next up: Kind Square, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sterling Silver is a house and disco artist tracked on soundcheck, with 22 sets 
 
 Better, Grace Kim, About Julian
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingsilver/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingsilver/)*

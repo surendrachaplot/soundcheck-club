@@ -1,14 +1,13 @@
 # Toobris
 
-Toobris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
-Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Rote Sonne | Munich |
 | Sat, 5 Sept 2026 | Wigwam | Dublin |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
@@ -18,6 +17,7 @@ Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged 
 
 ## Recently played
 
+- Gianpula Village, Malta — Wed, 12 Aug 2026
 - Else, Berlin — Sat, 1 Aug 2026
 - RADION, Amsterdam — Sat, 25 Jul 2026
 - arkaoda Berlin, Berlin — Wed, 22 Jul 2026
@@ -25,10 +25,9 @@ Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged 
 - public records, New York City — Fri, 17 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 13 Jun 2026
 - Universe Athens, Athens — Sat, 30 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Freddy K, Alarico, Ignez
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

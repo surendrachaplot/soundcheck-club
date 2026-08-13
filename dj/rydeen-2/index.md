@@ -1,6 +1,6 @@
 # Rydeen (2)
 
-Rydeen (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
+Rydeen (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
 
 Rydeen (2) is a house and minimal artist based in Georgia, tracked on soundcheck, with 52 sets logged across Berlin and Tbilisi. Often billed alongside Generali Minerali, Gio Shengelia and DJ Sense. Next up: Bassiani, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rydeen (2) is a house and minimal artist based in Georgia, tracked on soundcheck
 
 Generali Minerali, Gio Shengelia, DJ Sense
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-2/)*

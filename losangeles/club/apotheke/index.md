@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Amore Disco presents Aiden Ramos B2B Reedster" on Sat, 15 Aug 2026.
+Apotheke is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Amore Disco presents Aiden Ramos B2B Reedster" on Sat, 15 Aug 2026.
 
 Apotheke is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Aiden Ramos, Choopsie, Discotheke DJs and Glo Phase and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -17,4 +17,4 @@ Apotheke is a music venue in Losangeles listed on soundcheck. 4 upcoming nights,
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

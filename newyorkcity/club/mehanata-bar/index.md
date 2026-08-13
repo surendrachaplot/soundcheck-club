@@ -1,6 +1,6 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Cabros Chicos - Underground Y2K & Top 40 Parrty (18+)" on Fri, 14 Aug 2026.
+Mehanata Bar is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Cabros Chicos - Underground Y2K & Top 40 Parrty (18+)" on Fri, 14 Aug 2026.
 
 Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
@@ -23,4 +23,4 @@ Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 48 upcoming n
 
 113, Ludlow street, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

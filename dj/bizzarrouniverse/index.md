@@ -1,6 +1,6 @@
 # Bizzarro Universe
 
-Bizzarro Universe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Bizzarro Universe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Bizzarro Universe is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside MikAH, Nina Hepburn and Carluschka. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Bizzarro Universe is a techno and house artist tracked on soundcheck, with 76 se
 
 MikAH, Nina Hepburn, Carluschka
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bizzarrouniverse/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bizzarrouniverse/)*

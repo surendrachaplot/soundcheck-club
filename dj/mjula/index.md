@@ -1,6 +1,6 @@
 # MJULA
 
-MJULA is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
+MJULA is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
 
 MJULA is an afro house and tech house artist based in Germany, tracked on soundcheck, with 8 sets logged across Cologne, Dusseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside C.Love (2), Frau Hofmann and Travmkind. Next up: PRST, Vienna on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ MJULA is an afro house and tech house artist based in Germany, tracked on soundc
 
 C.Love (2), Frau Hofmann, Travmkind
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjula/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjula/)*

@@ -1,6 +1,6 @@
 # Metaraph
 
-Metaraph is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
+Metaraph is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
 
 Metaraph is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: Pumpehuset, Copenhagen on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Metaraph is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

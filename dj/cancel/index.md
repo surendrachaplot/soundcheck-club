@@ -1,6 +1,6 @@
 # Cancel
 
-Cancel is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Zabal Techno, Buenos Aires on Sun, 16 Aug 2026.
+Cancel is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Zabal Techno, Buenos Aires on Sun, 16 Aug 2026.
 
 Cancel is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Rebekah, 6EJOU and Aphøtic. Next up: Zabal Techno, Buenosaires on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Cancel is a techno and hardcore artist based in Belgium, tracked on soundcheck, 
 
 Rebekah, 6EJOU, Aphøtic
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*

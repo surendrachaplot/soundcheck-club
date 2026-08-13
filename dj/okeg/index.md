@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Tender, Melbourne on Sat, 22 Aug 2026.
+OK EG is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tender, Melbourne on Sat, 22 Aug 2026.
 
 OK EG is a techno and experimental artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Tender, Melbourne on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ OK EG is a techno and experimental artist tracked on soundcheck, with 47 sets lo
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

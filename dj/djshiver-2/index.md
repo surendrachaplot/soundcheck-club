@@ -1,13 +1,14 @@
 # DJ Shiver (2)
 
-DJ Shiver (2) is a Electro and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Secret Brooklyn Rooftop, New York City on Sat, 15 Aug 2026.
+DJ Shiver (2) is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club Rawhide, New York City on Fri, 14 Aug 2026.
 
-DJ Shiver (2) is an electro and downtempo artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit and Newyorkcity. Often billed alongside Amino, Angel Money and BEIGE. Next up: Secret Brooklyn Rooftop, Newyorkcity on Sat 15 Aug.
+DJ Shiver (2) is an electro and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit and Newyorkcity. Often billed alongside Amino, Angel Money and BEIGE. Next up: Club Rawhide, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Club Rawhide | New York City |
 | Sat, 15 Aug 2026 | Secret Brooklyn Rooftop | New York City |
 
 ## Recently played
@@ -21,4 +22,4 @@ DJ Shiver (2) is an electro and downtempo artist based in United States of Ameri
 
 Amino, Angel Money, BEIGE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshiver-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshiver-2/)*

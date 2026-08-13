@@ -1,14 +1,13 @@
 # CARGO (DE)
 
-CARGO (DE) is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 12 Aug 2026.
+CARGO (DE) is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
-CARGO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 100 sets logged across Antwerp, Berlin, Budapest and Cologne and 6 more. Often billed alongside Jacky Ickx, DiscoDaisy and DJ SeXex. Next up: Lokschuppen Berlin, Berlin on Wed 12 Aug.
+CARGO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 100 sets logged across Antwerp, Berlin, Budapest and Cologne and 6 more. Often billed alongside Jacky Ickx, DiscoDaisy and DJ SeXex. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 29 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 4 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 5 Sept 2026 | Großer Bunkerberg Volkspark Fhain | Berlin |
@@ -17,6 +16,7 @@ CARGO (DE) is a trance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Wed, 12 Aug 2026
 - OST, Berlin — Thu, 30 Jul 2026
 - ://about blank, Berlin — Sat, 18 Jul 2026
 - Lokschuppen Berlin, Berlin — Sun, 12 Jul 2026
@@ -24,10 +24,9 @@ CARGO (DE) is a trance and techno artist based in Germany, tracked on soundcheck
 - Lokschuppen Berlin, Berlin — Fri, 5 Jun 2026
 - ÆDEN, Berlin — Sat, 30 May 2026
 - Lokschuppen Berlin, Berlin — Fri, 29 May 2026
-- Volkspark Friedrichshain, Berlin — Thu, 14 May 2026
 
 ## Shares bills with
 
 Jacky Ickx, DiscoDaisy, DJ SeXex
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo-2/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo-2/)*

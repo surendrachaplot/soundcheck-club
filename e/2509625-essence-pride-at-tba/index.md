@@ -1,6 +1,6 @@
 # essence pride at TBA
 
-essence pride at TBA on Sun 16 Aug, Copenhagen. 7 acts on the bill: Bennet, Britney Speed, Byron Yeates and Lars Fixen and 3 more. House. Preview the line-up and save it on soundcheck.
+essence pride at TBA on Sun 16 Aug, Copenhagen. 8 acts on the bill: Bennet, Bennet (DE), Britney Speed and Byron Yeates and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ essence pride at TBA on Sun 16 Aug, Copenhagen. 7 acts on the bill: Bennet, Brit
 ## Line-up
 
 - Bennet
+- Bennet (DE)
 - Britney Speed
 - Byron Yeates
 - Lars Fixen

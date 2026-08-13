@@ -1,6 +1,6 @@
 # bod [包家巷]
 
-bod [包家巷] is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+bod [包家巷] is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 bod [包家巷] is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 67 sets logged across Belfast, Berlin, Bristol and Dublin and 14 more. Often billed alongside Warlord®, Softmatter and PAX (2). Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 
 Warlord®, Softmatter, PAX (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*

@@ -1,6 +1,6 @@
 # M4RY
 
-M4RY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Else, Berlin on Sun, 30 Aug 2026.
+M4RY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Else, Berlin on Sun, 30 Aug 2026.
 
 M4RY is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam and Berlin. Often billed alongside alemiko, HAUSBRAND and Limoncello. Next up: Else, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ M4RY is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 alemiko, HAUSBRAND, Limoncello
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*

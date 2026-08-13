@@ -1,6 +1,6 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+John Tejada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 15 Aug 2026.
 
 John Tejada is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Denver, London and Losangeles and 5 more. Often billed alongside Danny Goliger, Jacqueline and KiNK. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ John Tejada is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Danny Goliger, Jacqueline, KiNK
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

@@ -1,6 +1,6 @@
 # Lenzman
 
-Lenzman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Lenzman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Lenzman is a drum & bass and jungle artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 13 more. Often billed alongside MC Fox, Fabio and Satl. Next up: The Cause, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lenzman is a drum & bass and jungle artist based in Netherlands, tracked on soun
 
 MC Fox, Fabio, Satl
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenzman/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenzman/)*

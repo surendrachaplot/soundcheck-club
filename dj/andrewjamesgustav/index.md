@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
+Andrew James Gustav is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Bruno Schmidt, Alien Communications and Alex Picone. Next up: Club der Visionaere, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, tracke
 
 Bruno Schmidt, Alien Communications, Alex Picone
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

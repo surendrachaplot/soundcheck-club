@@ -1,8 +1,8 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 19 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Elliot Schooling & Liam Palmer" on Fri, 14 Aug 2026.
+Night We Met is a music venue in Nashville with 21 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Elliot Schooling & Liam Palmer" on Fri, 14 Aug 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 19 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 21 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Night We Met is a music venue in Nashville listed on soundcheck. 19 upcoming nig
 | Fri, 4 Sept 2026 | Acraze |  |
 | Sat, 5 Sept 2026 | Swimming Paul | Swimming Paul |
 | Sun, 6 Sept 2026 | Lilly Palmer | Lilly Palmer |
-| Sat, 12 Sept 2026 | Wax Motif | Wax Motif |
+| Fri, 11 Sept 2026 | HoneyLuv | HoneyLuv |
 
 ## Address
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

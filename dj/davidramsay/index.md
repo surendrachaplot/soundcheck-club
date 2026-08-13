@@ -1,6 +1,6 @@
 # David Ramsay
 
-David Ramsay is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
+David Ramsay is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
 David Ramsay is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ David Ramsay is a techno and tech house artist based in United Kingdom, tracked 
 
 Tafkanik, LO-LOW, Selecky
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*

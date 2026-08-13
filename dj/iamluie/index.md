@@ -1,6 +1,6 @@
 # iamluie
 
-iamluie is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
+iamluie is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - xolo club, Munich on Fri, 14 Aug 2026.
 
 iamluie is a house and progressive house artist based in Germany, tracked on soundcheck, with 33 sets logged across Cologne and Munich. Often billed alongside DJ HOT, CHUBBS and Philipp Lüers. Next up: TBA - xolo club, Munich on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ iamluie is a house and progressive house artist based in Germany, tracked on sou
 
 DJ HOT, CHUBBS, Philipp Lüers
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamluie/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamluie/)*

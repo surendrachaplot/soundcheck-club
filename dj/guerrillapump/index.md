@@ -1,6 +1,6 @@
 # Guerrilla Pump
 
-Guerrilla Pump is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Knockout, San Francisco/Oakland on Sat, 15 Aug 2026.
+Guerrilla Pump is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Knockout, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Guerrilla Pump is a club and ghetto tech artist tracked on soundcheck, with 24 sets logged across Sanfrancisco. Often billed alongside Romii, FINISHHER and Digital KitKat. Next up: The Knockout, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Guerrilla Pump is a club and ghetto tech artist tracked on soundcheck, with 24 s
 
 Romii, FINISHHER, Digital KitKat
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guerrillapump/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guerrillapump/)*

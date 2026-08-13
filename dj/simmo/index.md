@@ -1,6 +1,6 @@
 # simmo
 
-simmo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
+simmo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
 
 simmo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds, London and Manchester. Often billed alongside Jelsen, Ghoulish and Josh Baker. Next up: fabric, London on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ simmo is a house and tech house artist based in United Kingdom, tracked on sound
 
 Jelsen, Ghoulish, Josh Baker
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo/)*

@@ -1,6 +1,6 @@
 # Stretch (DET)
 
-Stretch (DET) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
+Stretch (DET) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
 
 Stretch (DET) is a house and minimal artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Boston, Chicago and Detroit and 6 more. Often billed alongside Shaun Reeves, Cesar Merveille and Andrea Ghita. Next up: TBA, Montreal on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Stretch (DET) is a house and minimal artist based in United States of America, t
 
 Shaun Reeves, Cesar Merveille, Andrea Ghita
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch-det/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch-det/)*

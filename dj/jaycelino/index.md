@@ -1,6 +1,6 @@
 # Jay Celino
 
-Jay Celino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+Jay Celino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
 
 Jay Celino is a house and techno artist tracked on soundcheck, with 27 sets logged across Glasgow and London. Often billed alongside Ferrie, Murphy and Gourlay. Next up: The Clydesdale, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jay Celino is a house and techno artist tracked on soundcheck, with 27 sets logg
 
 Ferrie, Murphy, Gourlay
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*

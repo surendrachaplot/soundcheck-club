@@ -1,6 +1,6 @@
 # Patso
 
-Patso is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Cantina Social, Athens on Sun, 16 Aug 2026.
+Patso is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cantina Social, Athens on Sun, 16 Aug 2026.
 
 Patso is a techno and club artist based in Greece, tracked on soundcheck, with 41 sets logged across Athens. Often billed alongside Nikos Thanos, George Apergis and Mr.M. Next up: Cantina Social, Athens on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Patso is a techno and club artist based in Greece, tracked on soundcheck, with 4
 
 Nikos Thanos, George Apergis, Mr.M
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patso/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patso/)*

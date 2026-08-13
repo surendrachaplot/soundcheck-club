@@ -1,6 +1,6 @@
 # Spacey Space
 
-Spacey Space is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
+Spacey Space is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
 
 Spacey Space is a house and techno artist tracked on soundcheck, with 101 sets logged across Melbourne and Sydney. Often billed alongside Boogs, Casey Leaver and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 16 Aug.
 
@@ -32,4 +32,4 @@ Spacey Space is a house and techno artist tracked on soundcheck, with 101 sets l
 
 Boogs, Casey Leaver, Ben Silver (AUS)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceyspace/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceyspace/)*

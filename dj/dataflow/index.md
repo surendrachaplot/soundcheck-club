@@ -1,14 +1,15 @@
 # Data Flow
 
-Data Flow is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Data Flow is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
-Data Flow is a tech house and minimal artist based in Australia, tracked on soundcheck, with 18 sets logged across London and Melbourne. Often billed alongside Inner West, Jiminy Watts and Rolo (2). Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
+Data Flow is a tech house and house artist based in Australia, tracked on soundcheck, with 19 sets logged across London and Melbourne. Often billed alongside Inner West, Jiminy Watts and Rolo (2). Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | TBA - Palace Vinyl, Brixton | London |
+| Fri, 4 Sept 2026 | Dalston Den | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Data Flow is a tech house and minimal artist based in Australia, tracked on soun
 
 Inner West, Jiminy Watts, Rolo (2)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dataflow/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dataflow/)*

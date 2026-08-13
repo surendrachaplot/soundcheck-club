@@ -1,14 +1,15 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
+Lauren Flax is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 160 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Signal, Newyorkcity on Fri 14 Aug.
+Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 161 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Signal, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Signal | New York City |
+| Sat, 15 Aug 2026 | Club Rawhide | New York City |
 | Fri, 28 Aug 2026 | H0L0 | New York City |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Thu, 24 Sept 2026 | Qncc | New York City |
@@ -32,4 +33,4 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

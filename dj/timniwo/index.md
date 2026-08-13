@@ -1,6 +1,6 @@
 # Tim Niwo
 
-Tim Niwo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Tim Niwo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Tim Niwo is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Francis FF, Marcel Koar and Aber DJ. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Tim Niwo is a techno and breakbeat artist based in Germany, tracked on soundchec
 
 Francis FF, Marcel Koar, Aber DJ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timniwo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timniwo/)*

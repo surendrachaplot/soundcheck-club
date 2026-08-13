@@ -1,6 +1,6 @@
 # Irfane
 
-Irfane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+Irfane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Irfane is a house and disco artist tracked on soundcheck, with 16 sets logged across Athens, Ibiza, London and Melbourne and 3 more. Often billed alongside Breakbot, Busy P and Myd. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Irfane is a house and disco artist tracked on soundcheck, with 16 sets logged ac
 
 Breakbot, Busy P, Myd
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*

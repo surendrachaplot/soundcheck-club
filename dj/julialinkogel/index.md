@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Julia Linkogel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Julia Linkogel is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Julia Linkogel is a techno and house artist based in Germany, tracked on soundch
 
 Adriatique, Baime, Ae:ther
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

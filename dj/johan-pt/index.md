@@ -1,6 +1,6 @@
 # Johan (PT)
 
-Johan (PT) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Mon, 24 Aug 2026.
+Johan (PT) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Mon, 24 Aug 2026.
 
 Johan (PT) is a techno and minimal artist based in Portugal, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Hamburg and Lisbon and 1 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: Collect - Cais do Sodre, Lisbon on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ Johan (PT) is a techno and minimal artist based in Portugal, tracked on soundche
 
 Francisca Urbano, .Bernardo, 999999999
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*

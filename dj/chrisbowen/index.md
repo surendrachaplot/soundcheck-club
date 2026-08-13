@@ -1,6 +1,6 @@
 # Chris Bowen
 
-Chris Bowen is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
+Chris Bowen is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at On The Hiyu, Seattle on Sat, 15 Aug 2026.
 
 Chris Bowen is a disco and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Sanfrancisco and Seattle. Often billed alongside Bears In Space, Victor Rodriguez and Stacy Christine. Next up: On The Hiyu, Seattle on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chris Bowen is a disco and house artist based in United States of America, track
 
 Bears In Space, Victor Rodriguez, Stacy Christine
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbowen/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbowen/)*

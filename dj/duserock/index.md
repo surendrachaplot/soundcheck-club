@@ -1,6 +1,6 @@
 # Duserock
 
-Duserock is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 15 Aug 2026.
+Duserock is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Duserock is a house and disco artist tracked on soundcheck, with 37 sets logged across Sanfrancisco. Often billed alongside Phleck, DJ Cira and Julius Papp. Next up: Monarch, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Duserock is a house and disco artist tracked on soundcheck, with 37 sets logged 
 
 Phleck, DJ Cira, Julius Papp
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duserock/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duserock/)*

@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Bike Jesus & friends - Latino vibes: Dash, Shurigen, patricccio, CEREAL" on Fri, 14 Aug 2026.
+Bike Jesus is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Bike Jesus & friends - Latino vibes: Dash, Shurigen, patricccio, CEREAL" on Fri, 14 Aug 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including Alfred Czital, Arton (CZ), Axis Alpha and CEREAL and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -16,4 +16,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 3 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

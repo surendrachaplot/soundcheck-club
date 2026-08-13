@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Amotik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Amotik is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 37 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Amotik is a techno and house artist tracked on soundcheck, with 117 sets logged 
 
 Lea Occhi, Olivia Mendez, Answer Code Request
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

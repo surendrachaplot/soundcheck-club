@@ -1,6 +1,6 @@
 # The Dare
 
-The Dare is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+The Dare is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 The Dare is an electro and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Brussels and Chicago and 15 more. Often billed alongside Doss, Yaeji and 999999999. Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ The Dare is an electro and techno artist based in United States of America, trac
 
 Doss, Yaeji, 999999999
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*

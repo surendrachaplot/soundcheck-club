@@ -1,6 +1,6 @@
 # NPCgroove
 
-NPCgroove is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Sound Machine, Toronto on Thu, 13 Aug 2026.
+NPCgroove is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sound Machine, Toronto on Thu, 13 Aug 2026.
 
 NPCgroove is a techno and trance artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside THREECARDMONTY, A_C_E. and Adam James. Next up: Sound Machine, Toronto on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ NPCgroove is a techno and trance artist based in Canada, tracked on soundcheck, 
 
 THREECARDMONTY, A_C_E., Adam James
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/npcgroove/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/npcgroove/)*

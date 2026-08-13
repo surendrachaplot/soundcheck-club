@@ -1,6 +1,6 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
+Tromac is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
 
 Tromac is a club and ghetto tech artist tracked on soundcheck, with 101 sets logged across Austin, Boston, Chicago and Detroit and 8 more. Often billed alongside DJ-SUN, flotussin and Bodegaparty. Next up: Jupiter Disco, Newyorkcity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Tromac is a club and ghetto tech artist tracked on soundcheck, with 101 sets log
 
 DJ-SUN, flotussin, Bodegaparty
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

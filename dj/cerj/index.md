@@ -1,6 +1,6 @@
 # CERJ
 
-CERJ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
+CERJ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
 
 CERJ is a techno and house artist tracked on soundcheck, with 51 sets logged across Copenhagen, Frankfurt and London. Often billed alongside Aja Gulris, Only Ollie and Anders HP. Next up: MODULE, Copenhagen on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ CERJ is a techno and house artist tracked on soundcheck, with 51 sets logged acr
 
 Aja Gulris, Only Ollie, Anders HP
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerj/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerj/)*

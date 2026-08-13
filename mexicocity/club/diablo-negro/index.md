@@ -1,6 +1,6 @@
 # Diablo Negro
 
-Diablo Negro is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "EXUVIA" on Sat, 22 Aug 2026.
+Diablo Negro is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "EXUVIA" on Sat, 22 Aug 2026.
 
 Diablo Negro is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Xanopticon. Browse upcoming dates, start times and who's playing. Monterrey 80, Centro Urbano Pdte. JuÃ¡rez, Roma Nte., CuauhtÃ©moc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -14,4 +14,4 @@ Diablo Negro is a music venue in Mexicocity listed on soundcheck. 1 upcoming nig
 
 Monterrey 80, Centro Urbano Pdte. JuÃ¡rez, Roma Nte., CuauhtÃ©moc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/diablo-negro/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/diablo-negro/)*

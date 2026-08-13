@@ -1,13 +1,14 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
+ALT8 is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location, London on Thu, 20 Aug 2026.
 
-ALT8 is a techno and trance artist tracked on soundcheck, with 134 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: Kilomètre25, Paris on Fri 21 Aug.
+ALT8 is a techno and trance artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: TBA - Secret Location, London on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | TBA - Secret Location | London |
 | Fri, 21 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 4 Sept 2026 | OST | Berlin |
 | Fri, 11 Sept 2026 | Fuse | Brussels |
@@ -30,4 +31,4 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 134 sets logged a
 
 Sara Landry, OGUZ, Stan Christ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

@@ -1,6 +1,6 @@
 # Pocci
 
-Pocci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
+Pocci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
 Pocci is a house and techno artist based in Malta, tracked on soundcheck, with 5 sets logged across London and Malta. Often billed alongside Carl Bee, Carl Lautier and Daniel Blade. Next up: Egg London, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Pocci is a house and techno artist based in Malta, tracked on soundcheck, with 5
 
 Carl Bee, Carl Lautier, Daniel Blade
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocci/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocci/)*

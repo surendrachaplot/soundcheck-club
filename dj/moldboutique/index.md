@@ -1,6 +1,6 @@
 # Mold Boutique
 
-Mold Boutique is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Mold Boutique is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Mold Boutique is a techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow, London, Malta and Manchester. Often billed alongside Arkane, INLIMEN and Kabay. Next up: FOLD, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mold Boutique is a techno artist based in United Kingdom, tracked on soundcheck,
 
 Arkane, INLIMEN, Kabay
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moldboutique/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moldboutique/)*

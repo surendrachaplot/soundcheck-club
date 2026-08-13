@@ -1,14 +1,14 @@
 # Stormtrooper
 
-Stormtrooper is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat, 5 Sept 2026.
+Stormtrooper is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Space for Skate, Munich on Sat, 5 Sept 2026.
 
-Stormtrooper is a hardcore and industrial artist tracked on soundcheck, with 5 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Aexhy, Bollmann and Cøunts. Next up: TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München), Munich on Sat 5 Sept.
+Stormtrooper is a hardcore and industrial artist tracked on soundcheck, with 5 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Aexhy, Bollmann and Cøunts. Next up: Space for Skate, Munich on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Skateschule München - SpaceForSkate (Dachauer Str. 110c, 80797 München) | Munich |
+| Sat, 5 Sept 2026 | Space for Skate | Munich |
 
 ## Recently played
 
@@ -21,4 +21,4 @@ Stormtrooper is a hardcore and industrial artist tracked on soundcheck, with 5 s
 
 Aexhy, Bollmann, Cøunts
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stormtrooper/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stormtrooper/)*

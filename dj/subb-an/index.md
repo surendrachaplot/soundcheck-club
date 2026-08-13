@@ -1,8 +1,8 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at The Carpet Shop, London on Sat, 15 Aug 2026.
+Subb-an is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Carpet Shop, London on Sat, 15 Aug 2026.
 
-Subb-an is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Anika Kunst, Bunny and Croft (1). Next up: The Carpet Shop, London on Sat 15 Aug.
+Subb-an is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Anika Kunst, Bunny and Croft (1). Next up: The Carpet Shop, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Subb-an is a house and tech house artist tracked on soundcheck, with 53 sets log
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Carpet Shop | London |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 30 Oct 2026 | Loft Studios | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Subb-an is a house and tech house artist tracked on soundcheck, with 53 sets log
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

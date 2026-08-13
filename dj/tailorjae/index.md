@@ -1,6 +1,6 @@
 # Tailor Jae
 
-Tailor Jae is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Tailor Jae is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
 Tailor Jae is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Bakey, Commodo and Conducta. Next up: Hidden, Manchester on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Tailor Jae is a garage and jungle artist based in United Kingdom, tracked on sou
 
 Bakey, Commodo, Conducta
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tailorjae/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tailorjae/)*

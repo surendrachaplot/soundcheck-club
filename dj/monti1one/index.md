@@ -1,6 +1,6 @@
 # Monti1one
 
-Monti1one is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Telep Budapest, Budapest on Fri, 14 Aug 2026.
+Monti1one is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Telep Budapest, Budapest on Fri, 14 Aug 2026.
 
 Monti1one is a house and tech house artist based in Germany, tracked on soundcheck, with 50 sets logged across Bangkok, Berlin, Budapest and Dusseldorf and 6 more. Often billed alongside Klix (3), Heimlich Maneuver and PJPJPJ. Next up: Telep Budapest, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Monti1one is a house and tech house artist based in Germany, tracked on soundche
 
 Klix (3), Heimlich Maneuver, PJPJPJ
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*

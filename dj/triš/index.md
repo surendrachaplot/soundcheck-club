@@ -1,6 +1,6 @@
 # Triš
 
-Triš is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Triš is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Triš is an experimental and club artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Neue Medecina, Buttechno and Carrier. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Triš is an experimental and club artist tracked on soundcheck, with 16 sets log
 
 Neue Medecina, Buttechno, Carrier
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triš/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triš/)*

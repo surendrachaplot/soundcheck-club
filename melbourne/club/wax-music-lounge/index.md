@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 24 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "MELLOWDÍAS THUMP" on Wed, 12 Aug 2026.
+Wax Music Lounge is a music venue in Melbourne with 23 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DIGGIN IN THE CRATES: DAVID SMILEY" on Thu, 13 Aug 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 24 upcoming nights, with line-ups including Colette and Zjoso. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 23 upcoming nights, with line-ups including Colette and Zjoso. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | MELLOWDÍAS THUMP |  |
 | Thu, 13 Aug 2026 | DIGGIN IN THE CRATES: DAVID SMILEY |  |
 | Fri, 14 Aug 2026 | DOWNSTAIRS DISCO |  |
 | Sat, 15 Aug 2026 | AKA ZEB & EL FUENTES |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 24 upcoming
 | Wed, 19 Aug 2026 | CLOSED FOR PRIVATE FUNCTION FROM 8PM |  |
 | Thu, 20 Aug 2026 | TAIJAE |  |
 | Fri, 21 Aug 2026 | BIONIC BOOGIE | Colette |
+| Sat, 22 Aug 2026 | Zjoso + DEM LARGE | Zjoso |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

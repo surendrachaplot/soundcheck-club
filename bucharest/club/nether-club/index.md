@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "M.I.L.K - MILAN RUNWAY" on Fri, 14 Aug 2026.
+Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "M.I.L.K - MILAN RUNWAY" on Fri, 14 Aug 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -21,4 +21,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

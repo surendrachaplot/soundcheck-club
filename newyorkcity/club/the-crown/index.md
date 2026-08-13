@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Joonbug Presents: Dusk Rooftop Party 08/14" on Fri, 14 Aug 2026.
+The Crown is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Joonbug Presents: Dusk Rooftop Party 08/14" on Fri, 14 Aug 2026.
 
 The Crown is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including GIO (AR), Lundi bleu and VIRA. Browse upcoming dates, start times and who's playing. 50 Bowery Street, Rooftop, New York, NY 10013, United States.
 
@@ -19,4 +19,4 @@ The Crown is a music venue in Newyorkcity listed on soundcheck. 6 upcoming night
 
 50 Bowery Street, Rooftop, New York, NY 10013, United States, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*

@@ -1,6 +1,6 @@
 # AHURA
 
-AHURA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Perkins Park, Stuttgart on Sat, 15 Aug 2026.
+AHURA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Perkins Park, Stuttgart on Sat, 15 Aug 2026.
 
 AHURA is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Dusseldorf, Hamburg and Lisbon and 2 more. Often billed alongside Nazz, Jannis Maxim and SYMON. Next up: Perkins Park, Stuttgart on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AHURA is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Nazz, Jannis Maxim, SYMON
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*

@@ -1,6 +1,6 @@
 # MATA X Le Bain at Le Bain
 
-MATA X Le Bain on Fri 14 Aug, Newyorkcity. 2 acts on the bill: Maddylane and Teigh. Preview the line-up and save it on soundcheck.
+MATA X Le Bain on Fri 14 Aug, Newyorkcity. 3 acts on the bill: EDEN BEKELE, Maddylane and Teigh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MATA X Le Bain on Fri 14 Aug, Newyorkcity. 2 acts on the bill: Maddylane and Tei
 
 ## Line-up
 
+- EDEN BEKELE
 - Maddylane
 - Teigh
 

@@ -1,6 +1,6 @@
 # CH3LO
 
-CH3LO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+CH3LO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
 
 CH3LO is a techno and electronica artist tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Reitze, Groovemami and SAINT SINNER. Next up: OHM, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ CH3LO is a techno and electronica artist tracked on soundcheck, with 47 sets log
 
 Reitze, Groovemami, SAINT SINNER
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*

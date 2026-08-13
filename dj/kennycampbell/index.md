@@ -1,13 +1,14 @@
 # Kenny Campbell
 
-Kenny Campbell is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
+Kenny Campbell is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 14 Aug 2026.
 
-Kenny Campbell is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Edinburgh, Glasgow and Newcastle. Often billed alongside Bristol Luke, Ady Toledano and Arrina. Next up: Nice N Sleazy, Glasgow on Tue 25 Aug.
+Kenny Campbell is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, Edinburgh, Glasgow and Newcastle. Often billed alongside Bristol Luke, Ady Toledano and Arrina. Next up: La Cheetah Club, Glasgow on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | La Cheetah Club | Glasgow |
 | Tue, 25 Aug 2026 | Nice N Sleazy | Glasgow |
 
 ## Recently played
@@ -22,4 +23,4 @@ Kenny Campbell is a techno and ebm artist based in United Kingdom, tracked on so
 
 Bristol Luke, Ady Toledano, Arrina
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycampbell/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycampbell/)*

@@ -1,6 +1,6 @@
 # Bicep
 
-Bicep is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Bicep is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Bicep is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 35 more. Often billed alongside Peggy Gou, Saoirse and TSHA. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Bicep is a house and techno artist tracked on soundcheck, with 70 sets logged ac
 
 Peggy Gou, Saoirse, TSHA
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*

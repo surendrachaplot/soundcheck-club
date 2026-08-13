@@ -1,6 +1,6 @@
 # 909 RACING TEAM
 
-909 RACING TEAM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+909 RACING TEAM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 909 RACING TEAM is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Domenik Deckert, Mike Momburg and Vagabund. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@
 
 Domenik Deckert, Mike Momburg, Vagabund
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*

@@ -1,13 +1,14 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Navy Pier, Chicago on Sat, 29 Aug 2026.
+Demuir is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Reverie at the Park, Toronto on Fri, 28 Aug 2026.
 
-Demuir is a house and deep house artist tracked on soundcheck, with 44 sets logged across Auckland, Austin, Chicago and Denver and 9 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: Navy Pier, Chicago on Sat 29 Aug.
+Demuir is a house and deep house artist tracked on soundcheck, with 45 sets logged across Auckland, Austin, Chicago and Denver and 9 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: Reverie at the Park, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Reverie at the Park | Toronto |
 | Sat, 29 Aug 2026 | Navy Pier | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Demuir is a house and deep house artist tracked on soundcheck, with 44 sets logg
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

@@ -1,8 +1,8 @@
 # Watermark
 
-Watermark is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "#1 PERREO ON THE PIER - ECUADORIAN INDEPENDENCE DAY at PIER 15" on Fri, 14 Aug 2026.
+Watermark is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "#1 PERREO ON THE PIER - ECUADORIAN INDEPENDENCE DAY at PIER 15" on Fri, 14 Aug 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

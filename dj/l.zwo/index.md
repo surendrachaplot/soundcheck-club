@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
+L.zwo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
 
 L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside OCIN, Antonym and 2HOT2PLAY. Next up: Aahhh Rooftop, Munich on Sat 15 Aug.
 
@@ -33,4 +33,4 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 OCIN, Antonym, 2HOT2PLAY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

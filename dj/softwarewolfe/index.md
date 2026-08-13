@@ -1,6 +1,6 @@
 # softwarewolfe
 
-softwarewolfe is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
+softwarewolfe is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
 
 softwarewolfe is a bass and club artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside MLLE CEE, xibaona and SHAME. Next up: TBA - Secret location, Montreal on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ softwarewolfe is a bass and club artist based in Canada, tracked on soundcheck, 
 
 MLLE CEE, xibaona, SHAME
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softwarewolfe/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softwarewolfe/)*

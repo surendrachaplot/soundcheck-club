@@ -1,6 +1,6 @@
 # Zig Studio
 
-Zig Studio is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Wed, 12 Aug 2026; the next is "¡QUEER Y LATINA! ALL NIGHT LONG NA ZIG" on Fri, 14 Aug 2026.
+Zig Studio is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "¡QUEER Y LATINA! ALL NIGHT LONG NA ZIG" on Fri, 14 Aug 2026.
 
 Zig Studio is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Mirands and Pedro Gariani. Browse upcoming dates, start times and who's playing. Av Pacaembu 33, São Paulo.
 
@@ -14,4 +14,4 @@ Zig Studio is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, 
 
 Av Pacaembu 33, São Paulo, Sao Paulo
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/zig-studio/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/zig-studio/)*

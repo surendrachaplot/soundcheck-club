@@ -1,6 +1,6 @@
 # Drunken Kong
 
-Drunken Kong is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
+Drunken Kong is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
 
 Drunken Kong is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Shogo Ito, U:ICHI and RINALUCKY. Next up: WOMB, Tokyo on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Drunken Kong is a techno and house artist tracked on soundcheck, with 139 sets l
 
 Shogo Ito, U:ICHI, RINALUCKY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*

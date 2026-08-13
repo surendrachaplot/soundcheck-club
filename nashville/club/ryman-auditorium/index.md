@@ -1,6 +1,6 @@
 # Ryman Auditorium
 
-Ryman Auditorium is a music venue in Nashville with 2 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "Happy Together Tour" on Tue, 18 Aug 2026.
+Ryman Auditorium is a music venue in Nashville with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Happy Together Tour" on Tue, 18 Aug 2026.
 
 Ryman Auditorium is a music venue in Nashville listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 116 5th Ave N, Nashville, TN 37219, United States.
 
@@ -15,4 +15,4 @@ Ryman Auditorium is a music venue in Nashville listed on soundcheck. 2 upcoming 
 
 116 5th Ave N, Nashville, TN 37219, United States, Nashville
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/ryman-auditorium/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/ryman-auditorium/)*

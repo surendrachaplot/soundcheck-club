@@ -1,13 +1,14 @@
 # Salar Ansari
 
-Salar Ansari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Salar Ansari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
 
-Salar Ansari is a house and techno artist based in Iran, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Boston and Detroit and 9 more. Often billed alongside Shigeto, Aboudi Issa and O.BEE. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Salar Ansari is a house and techno artist based in Iran, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Boston and Detroit and 9 more. Often billed alongside Shigeto, Aboudi Issa and O.BEE. Next up: ESC, Montreal on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | ESC | Montreal |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Salar Ansari is a house and techno artist based in Iran, tracked on soundcheck, 
 
 Shigeto, Aboudi Issa, O.BEE
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*

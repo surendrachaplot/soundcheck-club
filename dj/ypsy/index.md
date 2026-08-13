@@ -1,6 +1,6 @@
 # YPSY
 
-YPSY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at FLUCC, Vienna on Fri, 14 Aug 2026.
+YPSY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at FLUCC, Vienna on Fri, 14 Aug 2026.
 
 YPSY is a house and disco artist based in Austria, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Milan and Paris and 1 more. Often billed alongside AEND, DJ Lelo and IVAN.. Next up: FLUCC, Vienna on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ YPSY is a house and disco artist based in Austria, tracked on soundcheck, with 2
 
 AEND, DJ Lelo, IVAN.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsy/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsy/)*

@@ -1,6 +1,6 @@
 # Avis Vox
 
-Avis Vox is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Benicassim, Valencia on Fri, 14 Aug 2026.
+Avis Vox is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Benicassim, Valencia on Fri, 14 Aug 2026.
 
 Avis Vox is a techno and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 6 more. Often billed alongside Innellea, Aves Volare and Swen Baez. Next up: Benicassim, Valencia on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Avis Vox is a techno and house artist tracked on soundcheck, with 18 sets logged
 
 Innellea, Aves Volare, Swen Baez
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avisvox/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avisvox/)*

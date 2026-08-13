@@ -1,6 +1,6 @@
 # Xena (KR)
 
-Xena (KR) is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Quest, Seoul on Sun, 16 Aug 2026.
+Xena (KR) is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Quest, Seoul on Sun, 16 Aug 2026.
 
 Xena (KR) is a club and afrobeats artist tracked on soundcheck, with 48 sets logged across Hongkong and Seoul. Often billed alongside Zion, Yuzo and Y1VB0. Next up: Quest, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Xena (KR) is a club and afrobeats artist tracked on soundcheck, with 48 sets log
 
 Zion, Yuzo, Y1VB0
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xena-4/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xena-4/)*

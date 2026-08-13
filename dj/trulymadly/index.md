@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
+Truly Madly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
 
 Truly Madly is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: BRET, Amsterdam on Fri 14 Aug.
 
@@ -33,4 +33,4 @@ Truly Madly is a house and tech house artist tracked on soundcheck, with 145 set
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

@@ -1,6 +1,6 @@
 # Daniela Hensel
 
-Daniela Hensel is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Daniela Hensel is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Daniela Hensel is a techno and acid artist tracked on soundcheck, with 47 sets logged across Basel, Berlin, Boston and Cologne and 6 more. Often billed alongside YouSawLaurent, Daniel Boon and Basstronauten. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Daniela Hensel is a techno and acid artist tracked on soundcheck, with 47 sets l
 
 YouSawLaurent, Daniel Boon, Basstronauten
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*

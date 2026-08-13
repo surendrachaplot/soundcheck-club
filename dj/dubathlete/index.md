@@ -1,13 +1,14 @@
 # Dub Athlete
 
-Dub Athlete is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Panke, Berlin on Sat, 5 Sept 2026.
+Dub Athlete is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at M.O.T, London on Sat, 15 Aug 2026.
 
-Dub Athlete is a bass and dubstep artist tracked on soundcheck, with 58 sets logged across Auckland, Berlin, Brighton and Bristol and 5 more. Often billed alongside DUKU, SGT Pokes and MC Toast. Next up: Panke, Berlin on Sat 5 Sept.
+Dub Athlete is a bass and dubstep artist tracked on soundcheck, with 59 sets logged across Auckland, Berlin, Brighton and Bristol and 5 more. Often billed alongside DUKU, SGT Pokes and MC Toast. Next up: M.O.T, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | M.O.T | London |
 | Sat, 5 Sept 2026 | Panke | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dub Athlete is a bass and dubstep artist tracked on soundcheck, with 58 sets log
 
 DUKU, SGT Pokes, MC Toast
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*

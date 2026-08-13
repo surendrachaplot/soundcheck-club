@@ -1,6 +1,6 @@
 # Italo Brutalo
 
-Italo Brutalo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at gART.n, Berlin on Sat, 22 Aug 2026.
+Italo Brutalo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at gART.n, Berlin on Sat, 22 Aug 2026.
 
 Italo Brutalo is a techno and house artist tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Lyon and Newyorkcity and 3 more. Often billed alongside ANDI A., Crille & Tamalt and Jaamann. Next up: gART.n, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Italo Brutalo is a techno and house artist tracked on soundcheck, with 24 sets l
 
 ANDI A., Crille & Tamalt, Jaamann
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*

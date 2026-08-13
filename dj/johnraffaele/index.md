@@ -1,14 +1,14 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, New York City on Sat, 15 Aug 2026.
+John Raffaele is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 15 Aug 2026.
 
-John Raffaele is a house and techno artist tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG, Newyorkcity on Sat 15 Aug.
+John Raffaele is a house and techno artist tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Summertime Roof Terrace, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - ADDRESS ON FLYER - EAST WILLIAMSBURG | New York City |
+| Sat, 15 Aug 2026 | Summertime Roof Terrace | New York City |
 | Sat, 22 Aug 2026 | Jolene | Copenhagen |
 | Fri, 25 Sept 2026 | Fringe Bar | Philadelphia |
 
@@ -27,4 +27,4 @@ John Raffaele is a house and techno artist tracked on soundcheck, with 75 sets l
 
 Keen, Sweater, Rob Paine
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

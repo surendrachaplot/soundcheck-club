@@ -1,6 +1,6 @@
 # Samuel Fach
 
-Samuel Fach is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
+Samuel Fach is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
 
 Samuel Fach is an electronic artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside BelaBang, Slurm McKenzie and A.B.U.. Next up: Golden Gate, Berlin on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Samuel Fach is an electronic artist based in Germany, tracked on soundcheck, wit
 
 BelaBang, Slurm McKenzie, A.B.U.
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfach/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfach/)*

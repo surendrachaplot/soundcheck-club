@@ -1,6 +1,6 @@
 # Jaguar
 
-Jaguar is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Club Cheek, London on Fri, 4 Sept 2026.
+Jaguar is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Cheek, London on Fri, 4 Sept 2026.
 
 Jaguar is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Sammy Virji, Interplanetary Criminal and Lu.Re. Next up: Club Cheek, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jaguar is a house and drum & bass artist based in United Kingdom, tracked on sou
 
 Sammy Virji, Interplanetary Criminal, Lu.Re
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguar-uk/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguar-uk/)*

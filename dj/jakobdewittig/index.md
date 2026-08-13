@@ -1,6 +1,6 @@
 # Jakob de Wittig
 
-Jakob de Wittig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Culture Box, Copenhagen on Fri, 2 Oct 2026.
+Jakob de Wittig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Culture Box, Copenhagen on Fri, 2 Oct 2026.
 
 Jakob de Wittig is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Copenhagen, Hamburg and Stuttgart. Often billed alongside Falke, Melbo and Alma Linda. Next up: Culture Box, Copenhagen on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Jakob de Wittig is a house and techno artist tracked on soundcheck, with 4 sets 
 
 Falke, Melbo, Alma Linda
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobdewittig/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobdewittig/)*

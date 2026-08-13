@@ -1,6 +1,6 @@
 # Katy Rise
 
-Katy Rise is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
+Katy Rise is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
 
 Katy Rise is an electronica and progressive house artist tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside Caferoglu, EKIN (2) and KAS:ST. Next up: Story Toronto, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Katy Rise is an electronica and progressive house artist tracked on soundcheck, 
 
 Caferoglu, EKIN (2), KAS:ST
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrise/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrise/)*

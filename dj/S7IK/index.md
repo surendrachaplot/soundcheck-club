@@ -1,6 +1,6 @@
 # S7IK
 
-S7IK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
+S7IK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
 
 S7IK is a techno and trance artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Sam Valle, SHRAY and Aleska. Next up: The Chocolate Factory, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ S7IK is a techno and trance artist based in United States of America, tracked on
 
 Sam Valle, SHRAY, Aleska
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/S7IK/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/S7IK/)*

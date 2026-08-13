@@ -1,6 +1,6 @@
 # Leg Room
 
-Leg Room is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
+Leg Room is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
 
 Leg Room is a house and techno artist tracked on soundcheck, with 68 sets logged across Newyorkcity. Often billed alongside Seth Hosko, Shek and Parker Mac. Next up: Dead Letter No. 9, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Leg Room is a house and techno artist tracked on soundcheck, with 68 sets logged
 
 Seth Hosko, Shek, Parker Mac
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*

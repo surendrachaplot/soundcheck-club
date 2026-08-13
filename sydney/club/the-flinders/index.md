@@ -1,6 +1,6 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Wed, 12 Aug 2026; the next is "BLACK NOIR presents: AZDAT [FRA]" on Fri, 14 Aug 2026.
+The Flinders is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "BLACK NOIR presents: AZDAT [FRA]" on Fri, 14 Aug 2026.
 
 The Flinders is a music venue in Sydney listed on soundcheck. 15 upcoming nights, with line-ups including <777>, 2LUX, Arabesque and BASS SLVT and 2 more. Browse upcoming dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
@@ -23,4 +23,4 @@ The Flinders is a music venue in Sydney listed on soundcheck. 15 upcoming nights
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

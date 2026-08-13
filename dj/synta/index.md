@@ -1,6 +1,6 @@
 # SYNTA
 
-SYNTA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+SYNTA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
 SYNTA is a techno and trance artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Leipzig, Munich and Nurnberg and 2 more. Often billed alongside CLOSURE (DE), Arcann and VSSL. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ SYNTA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 CLOSURE (DE), Arcann, VSSL
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synta/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synta/)*

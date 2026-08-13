@@ -1,6 +1,6 @@
 # Slayphex Twins
 
-Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
+Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 47 sets logged across Amsterdam, Budapest, Leeds and London and 1 more. Often billed alongside Peggy Viennetta, RQuality and Ushko. Next up: HWK, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 47 sets
 
 Peggy Viennetta, RQuality, Ushko
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*

@@ -1,6 +1,6 @@
 # Roll Deep
 
-Roll Deep is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 12 Aug 2026, next at Phonox, London on Fri, 18 Sept 2026.
+Roll Deep is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Phonox, London on Fri, 18 Sept 2026.
 
 Roll Deep is a grime and bass artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Manga Saint Hilare, ASIAN BRAT and BOLOJOEY. Next up: Phonox, London on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Roll Deep is a grime and bass artist tracked on soundcheck, with 5 sets logged a
 
 Manga Saint Hilare, ASIAN BRAT, BOLOJOEY
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldeep/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldeep/)*

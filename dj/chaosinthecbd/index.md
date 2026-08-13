@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Hackney Bridge, London on Sat, 22 Aug 2026.
+Chaos In The CBD is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hackney Bridge, London on Sat, 22 Aug 2026.
 
 Chaos In The CBD is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Hackney Bridge, London on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ Chaos In The CBD is a house and techno artist tracked on soundcheck, with 207 se
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

@@ -1,6 +1,6 @@
 # Clinic x Native Boundaries: Orlando Voorn at Jungle Hollywood
 
-Clinic x Native Boundaries: Orlando Voorn at Jungle Hollywood on Wed 19 Aug, Losangeles. 2 acts on the bill: Mesmé and Orlando Voorn. Techno and House. Preview the line-up and save it on soundcheck.
+Clinic x Native Boundaries: Orlando Voorn at Jungle Hollywood on Wed 19 Aug, Losangeles. 3 acts on the bill: Jiggy Boyz, Mesmé and Orlando Voorn. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Clinic x Native Boundaries: Orlando Voorn at Jungle Hollywood on Wed 19 Aug, Los
 
 ## Line-up
 
+- Jiggy Boyz
 - Mesmé
 - Orlando Voorn
 

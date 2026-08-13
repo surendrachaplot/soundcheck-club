@@ -1,14 +1,15 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 12 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 21 Aug 2026.
+C.ru.z is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
-C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Curses. Next up: Sunseabar Beach Club, Barcelona on Fri 21 Aug.
+C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Anthea. Next up: Sunseabar Beach Club, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Sunseabar Beach Club | Barcelona |
+| Fri, 4 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Sat, 3 Oct 2026 | Village Underground Barcelona | Barcelona |
 
@@ -25,6 +26,6 @@ C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck,
 
 ## Shares bills with
 
-DJ Tree, Niff, Curses
+DJ Tree, Niff, Anthea
 
-*Updated Wed, 12 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
+*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
