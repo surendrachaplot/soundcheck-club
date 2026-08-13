@@ -11,7 +11,7 @@ Epicx is a techno and trance artist tracked on soundcheck, with 117 sets logged 
 | Sat, 15 Aug 2026 | The Cloud | Berlin |
 | Thu, 20 Aug 2026 | Der Weiße Hase | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
-| Sat, 29 Aug 2026 | TBA | Berlin |
+| Sat, 29 Aug 2026 | Tempelhofer Feld | Berlin |
 | Sun, 30 Aug 2026 | SAGE | Berlin |
 
 ## Recently played

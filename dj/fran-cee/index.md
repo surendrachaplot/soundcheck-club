@@ -9,7 +9,7 @@ Fran-Cee is a techno and tech house artist based in Germany, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
-| Fri, 14 Aug 2026 | TBA | Berlin |
+| Fri, 14 Aug 2026 | Tempelhofer Feld | Berlin |
 | Sat, 22 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 6 Sept 2026 | KitKatClub | Berlin |
 

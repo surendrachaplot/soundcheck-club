@@ -1,13 +1,14 @@
 # MARYO
 
-MARYO is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cadavra, Madrid on Fri, 11 Sept 2026.
+MARYO is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
 
-MARYO is a house and minimal artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Madrid and Malaga and 4 more. Often billed alongside Lisandro Mustapic, Alvaro Medina and Sampol. Next up: Cadavra, Madrid on Fri 11 Sept.
+MARYO is a house and minimal artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Madrid and Malaga and 4 more. Often billed alongside Lisandro Mustapic, Sampol and Alvaro Medina. Next up: Sunseabar Beach Club, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Fri, 11 Sept 2026 | Cadavra | Madrid |
 | Sat, 19 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
@@ -25,6 +26,6 @@ MARYO is a house and minimal artist tracked on soundcheck, with 73 sets logged a
 
 ## Shares bills with
 
-Lisandro Mustapic, Alvaro Medina, Sampol
+Lisandro Mustapic, Sampol, Alvaro Medina
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*

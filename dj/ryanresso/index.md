@@ -1,13 +1,14 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at fabric, London on Sat, 19 Sept 2026.
+Ryan Resso is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Ryan Resso is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: fabric, London on Sat 19 Sept.
+Ryan Resso is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | fabric | London |
 | Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 

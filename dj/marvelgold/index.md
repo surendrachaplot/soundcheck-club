@@ -10,7 +10,7 @@ Marvel Gold is a techno and house artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
 | Fri, 14 Aug 2026 | Der Weiße Hase | Berlin |
-| Fri, 14 Aug 2026 | TBA | Berlin |
+| Fri, 14 Aug 2026 | Tempelhofer Feld | Berlin |
 | Thu, 27 Aug 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played

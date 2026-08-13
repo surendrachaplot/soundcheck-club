@@ -1,8 +1,8 @@
 # Elia Nafzger
 
-Elia Nafzger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 15 Aug 2026.
+Elia Nafzger is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 15 Aug 2026.
 
-Elia Nafzger is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Brussels, Bucharest and Detroit and 7 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Platforma Wolff, Bucharest on Sat 15 Aug.
+Elia Nafzger is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Bucharest and Detroit and 7 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Platforma Wolff, Bucharest on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elia Nafzger is a techno and house artist tracked on soundcheck, with 50 sets lo
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Platforma Wolff | Bucharest |
 | Sun, 23 Aug 2026 | Starlane Pizza Bar | London |
+| Sat, 12 Sept 2026 | Distillery N17 | London |
 
 ## Recently played
 

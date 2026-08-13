@@ -1,8 +1,8 @@
 # SENERGI
 
-SENERGI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 15 Aug 2026.
+SENERGI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 15 Aug 2026.
 
-SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Copenhagen and Kyoto and 4 more. Often billed alongside Ines Cartas, Agua con gas and INGI (1). Next up: Bulbul Berlin, Berlin on Sat 15 Aug.
+SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Copenhagen and Kyoto and 4 more. Often billed alongside Agua con gas, Ines Cartas and INGI (1). Next up: Bulbul Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Bulbul Berlin | Berlin |
 | Sun, 16 Aug 2026 | Byhaven | Copenhagen |
+| Fri, 28 Aug 2026 | TBA | Berlin |
 | Sat, 5 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
@@ -25,6 +26,6 @@ SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with
 
 ## Shares bills with
 
-Ines Cartas, Agua con gas, INGI (1)
+Agua con gas, Ines Cartas, INGI (1)
 
 *Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*

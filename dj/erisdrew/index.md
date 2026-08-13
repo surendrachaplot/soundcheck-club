@@ -1,13 +1,14 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Eris Drew is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Eris Drew is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Southwark Park, London on Sun 30 Aug.
+Eris Drew is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Trädgården | Stockholm |

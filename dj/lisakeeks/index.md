@@ -1,14 +1,15 @@
 # LISAKEEKS
 
-LISAKEEKS is a Hip-Hop and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
+LISAKEEKS is a Hip-Hop and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
 
-LISAKEEKS is a hip-hop and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: Egg London, London on Fri 21 Aug.
+LISAKEEKS is a hip-hop and uk funky artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: Egg London, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Egg London | London |
+| Fri, 4 Sept 2026 | The Haggerston | London |
 | Sat, 12 Sept 2026 | Queen Elizabeth Olympic Park | London |
 
 ## Recently played

@@ -1,14 +1,14 @@
 # Alfonso Ares
 
-Alfonso Ares is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Alfonso Ares is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
-Alfonso Ares is a deep house and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Berlin, Ibiza, Madrid and Miami. Often billed alongside Igor Marijuan, Yamil and AARON SEVILLA. Next up: TBA, Berlin on Sat 15 Aug.
+Alfonso Ares is a deep house and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Berlin, Ibiza, Madrid and Miami. Often billed alongside Igor Marijuan, Yamil and AARON SEVILLA. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
 | Sun, 23 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sun, 20 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 

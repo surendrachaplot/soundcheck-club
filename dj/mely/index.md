@@ -1,8 +1,8 @@
 # Mely
 
-Mely is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
+Mely is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
 
-Mely is a house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Antoine Calvino and Bande de Filles. Next up: Wanderlust, Paris on Thu 13 Aug.
+Mely is a house and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Antoine Calvino and Bande de Filles. Next up: Wanderlust, Paris on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mely is a house and techno artist tracked on soundcheck, with 21 sets logged acr
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Wanderlust | Paris |
 | Sat, 29 Aug 2026 | Virage | Paris |
+| Sat, 5 Sept 2026 | Virage | Paris |
 | Fri, 11 Sept 2026 | La Java | Paris |
 
 ## Recently played

@@ -11,7 +11,7 @@ justUS is a techno and house artist tracked on soundcheck, with 99 sets logged a
 | Thu, 20 Aug 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Sat, 22 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
-| Sat, 29 Aug 2026 | TBA | Berlin |
+| Sat, 29 Aug 2026 | Tempelhofer Feld | Berlin |
 
 ## Recently played
 

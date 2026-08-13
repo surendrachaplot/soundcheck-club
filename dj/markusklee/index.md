@@ -11,7 +11,7 @@ Markus Klee is a techno and house artist tracked on soundcheck, with 82 sets log
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
-| Sat, 29 Aug 2026 | TBA | Berlin |
+| Sat, 29 Aug 2026 | Tempelhofer Feld | Berlin |
 | Sat, 5 Sept 2026 | MTW | Frankfurt |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |

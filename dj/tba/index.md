@@ -18,7 +18,7 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 236 sets logged
 | Sat, 29 Aug 2026 | Haus73 | Hamburg |
 | Sat, 12 Sept 2026 | TBA | Barcelona |
 | Sat, 19 Sept 2026 | DETROIT CLUB | Barcelona |
-| Fri, 25 Sept 2026 | DNA. CLUB - urban Space | Berlin |
+| Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played

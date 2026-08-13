@@ -3971,7 +3971,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786461565571">
+<meta name="sc-build" content="1786626404957">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4031,7 +4031,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-11/">Tue 11 Aug <span class="c">3 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">26 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">86 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">137 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">26 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">85 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">140 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">31 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -8386,7 +8386,12 @@
     }
     // Live results — ONE list, ranked by closest match to what was typed (not by
     // type). So "carpet shop" surfaces the venue first, above any artist.
+    // Which type the pills are filtering to. Reset on a NEW query: a filter that
+    // survives into an unrelated search silently hides most of the answer.
+    var _sxFilter='all', _sxLast=null, _sxData=null;
     function renderSearch(el, j, q){
+      if(_sxLast!==q){ _sxFilter='all'; _sxLast=q; }
+      _sxData={ el: el, j: j, q: q };
       var items=[];
       (j.artists||[]).forEach(function(a){ items.push({ type:'artist', name:a.name, score:matchScore(a.name,q), slug:a.slug, image:a.image_url, sub:'Artist' }); });
       (j.venues||[]).forEach(function(v){ items.push({ type:'venue', name:v.name, score:matchScore(v.name,q), slug:v.slug, city:v.city, sub:['Venue', v.city?cityLabel(v.city):''].filter(Boolean).join(' · ') }); });
@@ -8402,9 +8407,25 @@
       }
       if(!items.length){ el.innerHTML='<div class="empty" style="padding:20px 0">No matches for &ldquo;'+esc(q)+'&rdquo; — try an artist, venue or city.</div>'; return; }
       items.sort(function(a,b){ return a.score-b.score || String(a.name||'').length-String(b.name||'').length; });
+      // TYPE FILTER. All by default — filtering is an option, never a step you
+      // have to take before you can see anything. The pills filter the ONE ranked
+      // list that is already here rather than re-querying per type, so switching
+      // is instant and cannot reorder or lose a result.
+      //
+      // A "switch city" action is never filtered out: it is an answer to what you
+      // typed, not a result of a type you can pick.
+      var counts={all:0,artist:0,venue:0,event:0};
+      items.forEach(function(it){ if(it.type==='city') return; counts.all++; if(counts[it.type]!=null) counts[it.type]++; });
+      var shown=items.filter(function(it){ return _sxFilter==='all' || it.type==='city' || it.type===_sxFilter; });
+      var pillHtml='<div class="pillrow" style="margin:2px 0 14px">'+
+        [['all','All'],['artist','Artists'],['venue','Venues'],['event','Events']].map(function(f){
+          if(f[0]!=='all' && !counts[f[0]]) return '';   // nothing of this type — do not offer it
+          return '<button class="qchip'+(_sxFilter===f[0]?' on':'')+'" type="button" data-sxf="'+f[0]+'" aria-pressed="'+(_sxFilter===f[0])+'">'+f[1]+' '+counts[f[0]]+'</button>';
+        }).join('')+'</div>';
+      items=shown;
       var TYPEICON={ artist:'♪', venue:'▮', event:'✦', person:'@' };
       var GLOBE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>';
-      el.innerHTML='<div class="sx-uni">'+items.slice(0,30).map(function(it,i){
+      el.innerHTML=pillHtml+'<div class="sx-uni">'+items.slice(0,30).map(function(it,i){
         if(it.type==='city'){
           return '<button class="sx-uni-row sx-uni-city" type="button" data-i="'+i+'"><span class="sx-uni-av sx-uni-cityic">'+GLOBE+'</span>'+
             '<span class="sx-uni-m"><span class="sx-uni-nm">'+esc(it.name)+'</span><span class="sx-uni-sub">'+esc(it.sub)+'</span></span></button>';
@@ -8414,6 +8435,12 @@
         return '<button class="sx-uni-row" type="button" data-i="'+i+'"><span class="sx-uni-av'+round+'"'+(av?' style="'+av+'"':'')+'>'+(av?'':'<span class="sx-uni-ic">'+TYPEICON[it.type]+'</span>')+'</span>'+
           '<span class="sx-uni-m"><span class="sx-uni-nm">'+esc(it.name||'')+'</span><span class="sx-uni-sub">'+esc(it.sub||'')+'</span></span></button>';
       }).join('')+'</div>';
+      // Wire the pills. Re-render from the SAME payload — no refetch, so switching
+      // costs nothing and the ranking is identical to what was already on screen.
+      el.querySelectorAll('.qchip[data-sxf]').forEach(function(b){ b.addEventListener('click',function(){
+        _sxFilter=b.dataset.sxf;
+        if(_sxData) renderSearch(_sxData.el, _sxData.j, _sxData.q);
+      }); });
       el.querySelectorAll('.sx-uni-row[data-i]').forEach(function(b){ b.addEventListener('click',function(){
         var it=items[+b.dataset.i]; if(!it) return;
         if(it.type==='city'){ setCity(it.citySlug, true); return; }

@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
+Laidlaw is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 

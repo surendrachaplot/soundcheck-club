@@ -1,8 +1,8 @@
 # Toobris
 
-Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Toobris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
-Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Rote Sonne, Munich on Fri 14 Aug.
+Toobris is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Toobris is a techno and house artist tracked on soundcheck, with 52 sets logged 
 | Fri, 14 Aug 2026 | Rote Sonne | Munich |
 | Sat, 5 Sept 2026 | Wigwam | Dublin |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
+| Sat, 19 Sept 2026 | DETROIT CLUB | Barcelona |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |

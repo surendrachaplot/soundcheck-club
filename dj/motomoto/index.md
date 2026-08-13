@@ -10,7 +10,7 @@ Moto Moto is a techno and house artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Klunkerkranich | Berlin |
 | Fri, 14 Aug 2026 | Südpol | Hamburg |
-| Sat, 15 Aug 2026 | DNA. CLUB - urban Space | Berlin |
+| Sat, 15 Aug 2026 | DNA. CLUB | Berlin |
 | Sat, 29 Aug 2026 | Freifläche Neue Messe | Leipzig |
 | Sat, 7 Nov 2026 | Westhafen | Leipzig |
 

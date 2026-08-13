@@ -9,7 +9,7 @@ Timo Maas is a house and techno artist tracked on soundcheck, with 52 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
-| Sat, 15 Aug 2026 | TBA | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
 | Sat, 22 Aug 2026 | Culture Box | Copenhagen |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
 

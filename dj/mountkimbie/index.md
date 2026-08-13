@@ -1,14 +1,15 @@
 # Mount Kimbie
 
-Mount Kimbie is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
+Mount Kimbie is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
 
-Mount Kimbie is a house and electronica artist tracked on soundcheck, with 69 sets logged across Antwerp, Austin, Barcelona and Berlin and 35 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Virage, Paris on Sat 29 Aug.
+Mount Kimbie is a house and electronica artist tracked on soundcheck, with 70 sets logged across Antwerp, Austin, Barcelona and Berlin and 35 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Virage, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Virage | Paris |
+| Sat, 5 Sept 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | fabric | London |
 
 ## Recently played
