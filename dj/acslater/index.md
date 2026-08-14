@@ -1,8 +1,8 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Culture, Washington DC on Sat, 22 Aug 2026.
+AC Slater is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Culture, Washington DC on Sat, 22 Aug 2026.
 
-AC Slater is a house and bass artist tracked on soundcheck, with 43 sets logged across Austin, Boston, Chicago and Cologne and 12 more. Often billed alongside Tchami, Hotfire and Cassian. Next up: Culture, Washingtondc on Sat 22 Aug.
+AC Slater is a house and bass artist tracked on soundcheck, with 44 sets logged across Austin, Boston, Chicago and Cologne and 12 more. Often billed alongside Tchami, Hotfire and Cassian. Next up: Culture, Washingtondc on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ AC Slater is a house and bass artist tracked on soundcheck, with 43 sets logged 
 | Sun, 23 Aug 2026 | Superior Ingredients | New York City |
 | Sat, 5 Sept 2026 | Substation | Seattle |
 | Sat, 19 Sept 2026 | Coda | Toronto |
+| Fri, 30 Oct 2026 | Academy LA | Los Angeles |
 
 ## Recently played
 

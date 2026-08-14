@@ -1,6 +1,6 @@
 # BASSIOPEIA Drum & Bass with Primate, T-Lex, Lora, Ivana and many more at Cassiopeia
 
-BASSIOPEIA Drum & Bass with Primate, T-Lex, Lora, Ivana and many more at Cassiopeia on Fri 18 Sept, Berlin. 6 acts on the bill: ENOME, Ethera, Ivana_dnb and MARIA FM and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+BASSIOPEIA Drum & Bass with Primate, T-Lex, Lora, Ivana and many more at Cassiopeia on Fri 18 Sept, Berlin. 7 acts on the bill: ENOME, Ethera, Ivana_dnb and IZA (6) and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BASSIOPEIA Drum & Bass with Primate, T-Lex, Lora, Ivana and many more at Cassiop
 - ENOME
 - Ethera
 - Ivana_dnb
+- IZA (6)
 - MARIA FM
 - MixB
 - Saint Popsy

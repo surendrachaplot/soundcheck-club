@@ -1,6 +1,6 @@
-# SUBURB SOUND TAKEOVER BARTEMP. with SGAMO b2b JWP at Bar Temp.
+# SUBURB SOUND TAKEOVER BARTEMP with SGAMO b2b JWP at Bar Temp.
 
-SUBURB SOUND TAKEOVER BARTEMP. with SGAMO b2b JWP at Bar Temp. on Sat 22 Aug, Bangkok. 3 acts on the bill: Genji, JWP. and OXYBOY. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+SUBURB SOUND TAKEOVER BARTEMP with SGAMO b2b JWP at Bar Temp. on Sat 22 Aug, Bangkok. 3 acts on the bill: Genji, JWP. and OXYBOY. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

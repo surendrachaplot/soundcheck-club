@@ -1,6 +1,6 @@
 # KOKO Electronic: DJ Jazzy Jeff at KOKO
 
-KOKO Electronic: DJ Jazzy Jeff on Sat 22 Aug, London. 2 acts on the bill: CARISTA and Jazzy Jeff. Hip-Hop. Preview the line-up and save it on soundcheck.
+KOKO Electronic: DJ Jazzy Jeff on Sat 22 Aug, London. 3 acts on the bill: CARISTA, Chris P Cuts and Jazzy Jeff. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KOKO Electronic: DJ Jazzy Jeff on Sat 22 Aug, London. 2 acts on the bill: CARIST
 ## Line-up
 
 - CARISTA
+- Chris P Cuts
 - Jazzy Jeff
 
 *Source: [soundcheck](https://soundcheck.club/e/2449017-koko-electronic-dj-jazzy-jeff-at-koko/)*

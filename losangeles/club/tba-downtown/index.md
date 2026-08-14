@@ -10,7 +10,7 @@ TBA - Downtown is a music venue in Losangeles listed on soundcheck. 5 upcoming n
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | MoveToTheGroove |  |
 | Fri, 4 Sept 2026 | CSW x PACIFIC MODE: Powder [4hr set] and DJ Healthy | DJ Healthy, Powder |
-| Fri, 11 Sept 2026 | SIGNAL: Nita Aviance // S4M23 // Mez Monty | Mez Monty, Nita Aviance, S4M23 |
+| Fri, 11 Sept 2026 | SIGNAL: Nita Aviance // S4M23 // Sevyn // Mez Monty | Mez Monty, Nita Aviance, S4M23, Sevyn |
 | Fri, 18 Sept 2026 | Act of Rage [NL] - Hard + Raw - Embryon | Act of Rage |
 | Sat, 19 Sept 2026 | CSW - Andy Martin [3hr], OK EG [live], sysk | Andy Martin, OK EG, sysk |
 

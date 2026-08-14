@@ -1,8 +1,8 @@
 # Andromedik
 
-Andromedik is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Andromedik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Andromedik is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Brisbane and Brussels and 9 more. Often billed alongside Jacidorex, Ava Eva and BAVR. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Andromedik is a drum & bass and bass artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Brisbane and Brussels and 9 more. Often billed alongside Jacidorex, Ava Eva and BAVR. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andromedik is a drum & bass and bass artist tracked on soundcheck, with 18 sets 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Le Kilowatt | Paris |
+| Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 

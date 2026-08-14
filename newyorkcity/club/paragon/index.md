@@ -1,8 +1,8 @@
 # Paragon
 
-Paragon is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado" on Fri, 14 Aug 2026.
+Paragon is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado" on Fri, 14 Aug 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including MORENXXX, Adred, ALEXIS DE LA ROSA and Anna Eberg and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including MORENXXX, Adred, ALEXIS DE LA ROSA and Anna Eberg and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 

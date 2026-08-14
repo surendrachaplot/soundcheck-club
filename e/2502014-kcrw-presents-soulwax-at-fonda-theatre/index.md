@@ -1,6 +1,6 @@
 # KCRW presents Soulwax at Fonda Theatre
 
-KCRW presents Soulwax at Fonda Theatre on Thu 17 Sept, Losangeles. House and Electronica. Preview the line-up and save it on soundcheck.
+KCRW presents Soulwax at Fonda Theatre on Thu 17 Sept, Losangeles. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

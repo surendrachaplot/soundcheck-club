@@ -1,8 +1,8 @@
 # Spin
 
-Spin is a music venue in San Diego with 17 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DuckDuckRoar's Happily Ever Afterparty" on Fri, 14 Aug 2026.
+Spin is a music venue in San Diego with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DuckDuckRoar's Happily Ever Afterparty" on Fri, 14 Aug 2026.
 
-Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in Sandiego listed on soundcheck. 18 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 

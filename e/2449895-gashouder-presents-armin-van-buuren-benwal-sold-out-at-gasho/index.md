@@ -1,6 +1,6 @@
 # GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] at GASHOUDER
 
-GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] on Wed 21 Oct, Amsterdam. 3 acts on the bill: Armin van Buuren, Benwal and IDEMI. Trance and House. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] on Wed 21 Oct, Amsterdam. 4 acts on the bill: Armin van Buuren, Benwal, IDEMI and Olive Anguz. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] on Wed 21 Oct, Amsterda
 - Armin van Buuren
 - Benwal
 - IDEMI
+- Olive Anguz
 
 *Source: [soundcheck](https://soundcheck.club/e/2449895-gashouder-presents-armin-van-buuren-benwal-sold-out-at-gasho/)*

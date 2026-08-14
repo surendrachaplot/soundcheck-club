@@ -1,8 +1,8 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+Sugar Free is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
-Sugar Free is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Backsteinboot, Berlin on Sat 15 Aug.
+Sugar Free is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sugar Free is a house and techno artist tracked on soundcheck, with 189 sets log
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Fri, 18 Sept 2026 | Doka | Amsterdam |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played

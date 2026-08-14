@@ -1,8 +1,8 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth" on Fri, 14 Aug 2026.
+Distrikt is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth" on Fri, 14 Aug 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Adam Lance, ad*n, Ben Murphy and Brennan and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including Adam Lance, ad*n, B-HIND and Ben Murphy and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with
 | Sat, 29 Aug 2026 | 14 years of tussle with Optimo (Espacio), Krysko, Levi Bibby & Matt Wood | GALLY, Howie Bellafonté, Krysko, Optimo (Espacio), Sara Garvey |
 | Sat, 5 Sept 2026 | AXR x Colette + CNTRL Pres. Olga Korol, Ferg, Brennan | Brennan, Ferg, Mica (UK), Olga Korol, Sam Pratt |
 | Fri, 11 Sept 2026 | Bungalow presents: Duncan Thomas (Live) & Jive Talk | Duncan Thomas, Jive Talk |
+| Fri, 18 Sept 2026 | Ruffkut presents: Fabio Santos B2B Luis Ripa + Nay Barr | B-HIND, Charlotte Ord, Fabio Santos, Luis Ripa, ad*n |
 | Sat, 19 Sept 2026 | BASS3 x Distrikt Bar | Ben Murphy, Late Replies |
 | Sat, 26 Sept 2026 | Distrikt presents x Toasted Records Cap B2B E.LINA, Edward, Hamish & Toby | Cap, E.LINA, Edward, Hamish & Toby, Holly Why, Lister, Nooney, Sedds |
 

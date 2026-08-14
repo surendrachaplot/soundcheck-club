@@ -9,7 +9,7 @@ Nyapi is a music venue in Seoul listed on soundcheck. 9 upcoming nights, with li
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Nyapi invites Gigi | Mimiq (2), Yoel, eunuk, jiwon |
-| Sat, 15 Aug 2026 | Hills & Europa with DJ Darth | DJ Garth |
+| Sat, 15 Aug 2026 | Hills & Europa with DJ Garth | DJ Garth, JAEHAN (2), jiwon |
 | Sun, 16 Aug 2026 | TRICO festival showcase |  |
 | Thu, 20 Aug 2026 | 2nd floor & Kimsoyoung91 | .2ndfloor |
 | Fri, 21 Aug 2026 | Nyapi invites Di Linh (Savage Hanoi) | Di Linh, Hender, VENEBOE, dguru |

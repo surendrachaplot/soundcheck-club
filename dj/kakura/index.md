@@ -1,14 +1,15 @@
 # Kakura
 
-Kakura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
+Kakura is a Techno and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
 
-Kakura is a techno and house artist tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: The DBA, Manchester on Sat 15 Aug.
+Kakura is a techno and afro tech artist tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: The DBA, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The DBA | Manchester |
+| Sat, 10 Oct 2026 | Secret Location | London |
 
 ## Recently played
 

@@ -12,7 +12,7 @@ Volen Sentir is a deep house and progressive house artist tracked on soundcheck,
 | Fri, 21 Aug 2026 | StereoBar | Montreal |
 | Fri, 28 Aug 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 30 Aug 2026 | Riverside East | London |
-| Sat, 5 Sept 2026 | Community Berlin | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) | Los Angeles |
 
 ## Recently played
 

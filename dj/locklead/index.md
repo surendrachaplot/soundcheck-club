@@ -1,8 +1,8 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Custom House Square, Belfast on Fri, 14 Aug 2026.
+Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Custom House Square, Belfast on Fri, 14 Aug 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: Custom House Square, Belfast on Fri 14 Aug.
+Locklead is a house and tech house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: Custom House Square, Belfast on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Locklead is a house and tech house artist tracked on soundcheck, with 183 sets l
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Tue, 1 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sat, 5 Sept 2026 | Echostage | Washington DC |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 9 Oct 2026 | fabric | London |

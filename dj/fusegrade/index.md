@@ -1,14 +1,15 @@
 # Fusegrade
 
-Fusegrade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+Fusegrade is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
-Fusegrade is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Detroit. Often billed alongside Jorissen, James (6) and Andrea Ghita. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
+Fusegrade is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Detroit. Often billed alongside Jorissen, James (6) and Andrea Ghita. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
+| Sat, 22 Aug 2026 | TBA - The Vault - 16940 Hamilton Ave. | Detroit |
 | Sat, 29 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Vanjee
 
-Vanjee is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
+Vanjee is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Refuge, New York City on Thu, 10 Sept 2026.
 
-Vanjee is a house and tech house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside Apache, BLOND:ISH and Francis Mercier. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
+Vanjee is a house and tech house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside Apache, BLOND:ISH and Francis Mercier. Next up: Refuge, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Refuge | New York City |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

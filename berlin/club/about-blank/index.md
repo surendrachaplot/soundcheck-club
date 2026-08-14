@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DIFFUSE REALITY [13 Years Anniversary]" on Thu, 13 Aug 2026.
+://about blank is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "bratty • with charli xcx & other brat coded artists • berlin" on Fri, 14 Aug 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | DIFFUSE REALITY [13 Years Anniversary] | CSL, Catem, Fac3less, Florist, Just1, Keanu Raves, Leo Wieber, Marcel Heese, Origami, Raw Image, Squaric |
 | Fri, 14 Aug 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
 | Fri, 14 Aug 2026 | King Kong Kicks • Indie Pop & Hypes • ://about blank Berlin |  |
 | Fri, 14 Aug 2026 | ://sektgarten x feierabend im Sektgarten [free entry & open air] | Beta Basti, Gino Kampari, Noor Sanchez |
@@ -18,6 +17,7 @@
 | Thu, 20 Aug 2026 | DIFFUSE REALITY pres. Sender Berlin [Tresor] | Anri, Blosvenn, Ecilo, NYCTO, Obscur, SURCO, Sender Berlin, Squaric |
 | Thu, 20 Aug 2026 | ://sektgarten x Wohnzimmer-Kollektiv [free entry & open air] | Clarissa Gnade |
 | Fri, 21 Aug 2026 | ★ LOWKEY STARS ☆ 2ND ANNIVERSARY | BIJI ON DECKS, BOOTHBUNNY, Buday, Bélavie, DJ Hitwave, Dr.Waumiau, Glumo, Karolanne, Kolja.Kebab, Levandream, Lisatrix, MARRED, Mindframe, RichBeat, Røsenwasser, SOLID (2), TONITON, fU.impact, multivitaminmarie |
+| Sat, 22 Aug 2026 | REINKARNATION - SZG, MRGNSTRN, CARGO b2b DiscoDaisy, NETTTA, AMO | AMO, CARGO, DiscoDaisy, DjRundfunk, MRGNSTRN, Neoma, SZG, alemiko, jeanska |
 
 ## Address
 

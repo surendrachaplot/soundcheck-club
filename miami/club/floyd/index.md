@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "(a-z) Chris Clark, Grace Arribas, Lo-G, Natalia Roth" on Fri, 14 Aug 2026.
+Floyd is a music venue in Miami with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "(a-z) Chris Clark, Grace Arribas, Lo-G, Natalia Roth" on Fri, 14 Aug 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including 1-800-Lolita, Alci, Ammo Avenue and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 20 upcoming nights, with line-ups including 1-800-Lolita, Alci, Ammo Avenue and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 

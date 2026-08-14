@@ -1,8 +1,8 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, BRIDGE" on Sat, 15 Aug 2026.
+House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, BRIDGE" on Sat, 15 Aug 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Aluna, Bridge (NY), CAM GIRL and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aluna, Bridge (NY), CAM GIRL and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
@@ -15,9 +15,9 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 | Sat, 29 Aug 2026 | ABC Party: Sponges & N2N | N2N (US) |
 | Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 5 Sept 2026 | Glitterbox: Dam Swindle, Mike Dunn, Cosmo and More | Cosmo, Dam Swindle, Mike Dunn |
+| Fri, 11 Sept 2026 | VIRGO RISING |  |
 | Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
 | Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |
-| Fri, 2 Oct 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 
 ## Address
 

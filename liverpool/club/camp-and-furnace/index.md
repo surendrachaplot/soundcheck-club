@@ -1,8 +1,8 @@
 # Camp and Furnace
 
-Camp and Furnace is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Nation of Language" on Sun, 23 Aug 2026.
+Camp and Furnace is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Nation of Language" on Sun, 23 Aug 2026.
 
-Camp and Furnace is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Joss Dean, Nafe Smallz, Riley and Tommy Phillips. Browse upcoming dates, start times and who's playing. 67 Greenland Street, Liverpool, L1 0BY, United Kingdom.
+Camp and Furnace is a music venue in Liverpool listed on soundcheck. 3 upcoming nights, with line-ups including Joss Dean, Nafe Smallz, Riley and Tommy Phillips. Browse upcoming dates, start times and who's playing. 67 Greenland Street, Liverpool, L1 0BY, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Camp and Furnace is a music venue in Liverpool listed on soundcheck. 2 upcoming 
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Nation of Language |  |
 | Fri, 9 Oct 2026 | BINARY Presents Joss Dean b2b Tommy Phillips | Joss Dean, Nafe Smallz, Riley, Tommy Phillips |
+| Thu, 12 Nov 2026 | Goldie Lookin Chain live at Camp and Furnace |  |
 
 ## Address
 

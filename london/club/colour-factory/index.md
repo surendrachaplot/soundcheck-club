@@ -9,7 +9,7 @@ Colour Factory is a music venue in London listed on soundcheck. 20 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Playlist LDN - Afrosounds, Funk + Hip Hop |  |
-| Fri, 14 Aug 2026 | Nitecawr: Cortisa Star, Dazegxd   | Dazegxd, Soma (2), Soulgem (1) |
+| Fri, 14 Aug 2026 | Nitecawr: *Special Guest TBA*  Dazegxd   | Dazegxd, Soma (2), Soulgem (1) |
 | Sat, 15 Aug 2026 | Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More | Cable!, Conducta, Danielle, GRACE.., Ghoulish, Jamie Joy, Jossy Mitsu, Lu.Re, Selassie TBC, VNEE |
 | Sun, 16 Aug 2026 | Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session | Equinox (UK), Hughesee, Jerome Hill, Louise Plus One |
 | Sat, 22 Aug 2026 | INTERNATIONAL A$$ SHAKING COMMITTEE PRESENTS: I LIED, I LOVE BEING OUTSIDE | Seksu |

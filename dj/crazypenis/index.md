@@ -1,8 +1,8 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 22 Aug 2026.
+Crazy P is a Disco and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 22 Aug 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Frankhan Selectist, Istanbul on Sat 22 Aug.
+Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Frankhan Selectist, Istanbul on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Crazy P is a disco and house artist tracked on soundcheck, with 130 sets logged 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Frankhan Selectist | Istanbul |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Sat, 5 Sept 2026 | LDN East | London |
 | Wed, 16 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 19 Sept 2026 | Brick Street | Liverpool |

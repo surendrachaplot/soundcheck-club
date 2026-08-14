@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "While Dance Catalogue UK Edition" on Fri, 21 Aug 2026.
+Club Cheek is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Whole Danth Catalogue UK Edition" on Fri, 21 Aug 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alicia (UK), Anahita Shamsaei, ANNX and Bianca Scout and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -8,7 +8,7 @@ Club Cheek is a music venue in London listed on soundcheck. 11 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | While Dance Catalogue UK Edition | Ossia |
+| Fri, 21 Aug 2026 | Whole Danth Catalogue UK Edition | Ossia |
 | Fri, 28 Aug 2026 | 5 GATE TEMPLE ~ CARNIVAL WEEKEND |  |
 | Sat, 29 Aug 2026 | STRUCTURE X PRESSURE SYSTEMS | Fergus Sweetland, Joline Scheffler, Mosai, Yant |
 | Sun, 30 Aug 2026 | Whistle Crew Horns Crew X Launch Carnival Afterparty | DJ Kane (1), DJ LESSONS, DJ-HOTLINE 333, Double O, ETHICS, Junior Buzz, Philth, Sweetpea |

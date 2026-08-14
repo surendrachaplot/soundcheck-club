@@ -1,13 +1,14 @@
 # Fineberg
 
-Fineberg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Minimal Bar, Berlin on Wed, 9 Sept 2026.
+Fineberg is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Paloma, Berlin on Thu, 3 Sept 2026.
 
-Fineberg is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Karolina Bnv, CEEE and Do you know Juno. Next up: Minimal Bar, Berlin on Wed 9 Sept.
+Fineberg is a house and acid artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Karolina Bnv, CEEE and Dick Jockey. Next up: Paloma, Berlin on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Paloma | Berlin |
 | Wed, 9 Sept 2026 | Minimal Bar | Berlin |
 | Wed, 30 Sept 2026 | Minimal Bar | Berlin |
 
@@ -24,6 +25,6 @@ Fineberg is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 ## Shares bills with
 
-Karolina Bnv, CEEE, Do you know Juno
+Karolina Bnv, CEEE, Dick Jockey
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fineberg-2/)*

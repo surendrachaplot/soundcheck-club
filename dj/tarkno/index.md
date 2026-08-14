@@ -1,14 +1,13 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Tarkno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Virage, Paris on Wed, 19 Aug 2026.
 
-Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: ÆDEN, Berlin on Thu 13 Aug.
+Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Virage, Paris on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | ÆDEN | Berlin |
 | Wed, 19 Aug 2026 | Virage | Paris |
 | Fri, 28 Aug 2026 | Artheater | Cologne |
 

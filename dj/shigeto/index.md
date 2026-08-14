@@ -1,13 +1,14 @@
 # Shigeto
 
-Shigeto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Moondog Cafe, Detroit on Thu, 27 Aug 2026.
+Shigeto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Salt Shed, Chicago on Sun, 23 Aug 2026.
 
-Shigeto is a house and techno artist based in United States of America, tracked on soundcheck, with 222 sets logged across Boston, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: Moondog Cafe, Detroit on Thu 27 Aug.
+Shigeto is a house and techno artist based in United States of America, tracked on soundcheck, with 223 sets logged across Boston, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: The Salt Shed, Chicago on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | The Salt Shed | Chicago |
 | Thu, 27 Aug 2026 | Moondog Cafe | Detroit |
 | Sat, 29 Aug 2026 | Moondog Cafe | Detroit |
 | Thu, 10 Sept 2026 | Detroit - 3 Locations / 3 Days | Detroit |

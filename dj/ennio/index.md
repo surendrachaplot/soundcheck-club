@@ -1,14 +1,15 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+ENNIO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-ENNIO is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, HAMY and N.R.M. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+ENNIO is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, HAMY and N.R.M. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Fri, 14 Aug 2026 | P61 Gallery | Berlin |
 | Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 12 Sept 2026 | Marmorbar | Berlin |
 

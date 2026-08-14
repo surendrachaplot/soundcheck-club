@@ -1,8 +1,8 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Light In Harlem ft.DNG" on Fri, 14 Aug 2026.
+West Harlem is a music venue in Kyoto with 13 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Light In Harlem ft.DNG" on Fri, 14 Aug 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 12 upcoming nights, with line-ups including C.Versa, Dihi, D.J.Fulltono and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 13 upcoming nights, with line-ups including C.Versa, Dihi, Dinamarca and D.J.Fulltono and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 

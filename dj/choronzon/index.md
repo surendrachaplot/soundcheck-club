@@ -1,14 +1,15 @@
 # Choronzon
 
-Choronzon is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+Choronzon is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
-Choronzon is a techno and industrial artist tracked on soundcheck, with 30 sets logged across Athens, Berlin, London and Tbilisi. Often billed alongside Dahc Dermur VIII, Ancient Methods and Becky Stroke. Next up: Aaja Basement, London on Sat 15 Aug.
+Choronzon is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Athens, Berlin, London and Tbilisi. Often billed alongside Dahc Dermur VIII, Ancient Methods and Becky Stroke. Next up: Aaja Basement, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Aaja Basement | London |
+| Sat, 12 Sept 2026 | Astron Club | Athens |
 
 ## Recently played
 

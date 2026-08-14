@@ -1,14 +1,15 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hackney Bridge, London on Sat, 29 Aug 2026.
+Jamz Supernova is a House and Funk / Soul artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hackney Bridge, London on Sat, 29 Aug 2026.
 
-Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Hackney Bridge, London on Sat 29 Aug.
+Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Hackney Bridge, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Hackney Bridge | London |
+| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 30 Oct 2026 | The Jazz Cafe | London |

@@ -1,14 +1,15 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Fri, 11 Sept 2026.
+DJ Cringey is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Fri, 11 Sept 2026.
 
-DJ Cringey is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Else, Berlin on Fri 11 Sept.
+DJ Cringey is a techno and trance artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Else, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Else | Berlin |
+| Sat, 12 Sept 2026 | OXI | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 19 Sept 2026 | KALT | Strasbourg |
 | Sat, 26 Sept 2026 | Mondo Open Air | Madrid |

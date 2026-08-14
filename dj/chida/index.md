@@ -1,8 +1,8 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Love Inn, Bristol on Fri, 14 Aug 2026.
+CHIDA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Love Inn, Bristol on Fri, 14 Aug 2026.
 
-CHIDA is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: The Love Inn, Bristol on Fri 14 Aug.
+CHIDA is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: The Love Inn, Bristol on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ CHIDA is a house and techno artist tracked on soundcheck, with 178 sets logged a
 | Fri, 14 Aug 2026 | The Love Inn | Bristol |
 | Sat, 15 Aug 2026 | Quinta do Miratejo | Lisbon |
 | Sat, 29 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 12 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 

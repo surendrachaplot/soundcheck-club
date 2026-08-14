@@ -1,13 +1,14 @@
 # presso
 
-presso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Gleis19, Vienna on Sat, 15 Aug 2026.
+presso is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Das Werk, Vienna on Sat, 15 Aug 2026.
 
-presso is a techno and trance artist based in Austria, tracked on soundcheck, with 31 sets logged across Vienna. Often billed alongside DJ Böhm, Dimitrios (2) and DJ FERRARI. Next up: Gleis19, Vienna on Sat 15 Aug.
+presso is a techno and trance artist based in Austria, tracked on soundcheck, with 32 sets logged across Vienna. Often billed alongside DJ Böhm, Dimitrios (2) and DJ FERRARI. Next up: Das Werk, Vienna on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Das Werk | Vienna |
 | Sat, 15 Aug 2026 | Gleis19 | Vienna |
 
 ## Recently played

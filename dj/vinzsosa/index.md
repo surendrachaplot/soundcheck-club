@@ -1,14 +1,15 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Club der Visionaere, Berlin on Mon, 24 Aug 2026.
+Vinz Sosa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Club der Visionaere, Berlin on Mon, 24 Aug 2026.
 
-Vinz Sosa is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Club der Visionaere, Berlin on Mon 24 Aug.
+Vinz Sosa is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Club der Visionaere, Berlin on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Club der Visionaere | Berlin |
+| Fri, 28 Aug 2026 | Legal | Munich |
 | Fri, 28 Aug 2026 | Legal | Munich |
 | Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
 

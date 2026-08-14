@@ -1,8 +1,8 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
+Sol Ortega is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
 
-Sol Ortega is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside ANNĒ, KiNK and LOLSNAKE. Next up: BASEMENT, Newyorkcity on Fri 11 Sept.
+Sol Ortega is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside ANNĒ, KiNK and LOLSNAKE. Next up: BASEMENT, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sol Ortega is a techno and house artist tracked on soundcheck, with 83 sets logg
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Sat, 19 Sept 2026 | Academy LA | Los Angeles |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

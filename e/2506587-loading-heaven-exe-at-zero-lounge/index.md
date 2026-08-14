@@ -1,6 +1,6 @@
 # Loading... Heaven.exe at Zero Lounge
 
-Loading... Heaven.exe at Zero Lounge on Fri 21 Aug, Losangeles. 1 act on the bill: Adrenaline. Trance. Preview the line-up and save it on soundcheck.
+Loading... Heaven.exe at Zero Lounge on Fri 21 Aug, Losangeles. 2 acts on the bill: Adrenaline and Authenticity. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Loading... Heaven.exe at Zero Lounge on Fri 21 Aug, Losangeles. 1 act on the bil
 ## Line-up
 
 - Adrenaline
+- Authenticity
 
 *Source: [soundcheck](https://soundcheck.club/e/2506587-loading-heaven-exe-at-zero-lounge/)*

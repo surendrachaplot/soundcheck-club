@@ -1,14 +1,14 @@
 # Laryssa Kim
 
-Laryssa Kim is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Beursschouwburg, Brussels on Sat, 19 Sept 2026.
+Laryssa Kim is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
 
-Laryssa Kim is an ambient and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Brussels and Copenhagen. Often billed alongside Moon Yé, Rebel Up and Rrita Jashari. Next up: Beursschouwburg, Brussels on Sat 19 Sept.
+Laryssa Kim is an ambient and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Brussels and Copenhagen. Often billed alongside Moon Yé, Rebel Up and Rrita Jashari. Next up: Beursschouwburg, Brussels on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Beursschouwburg | Brussels |
+| Fri, 18 Sept 2026 | Beursschouwburg | Brussels |
 | Wed, 30 Sept 2026 | ALICE | Copenhagen |
 
 ## Recently played

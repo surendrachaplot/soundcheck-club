@@ -15,7 +15,7 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 9 upcoming nights, wi
 | Sat, 10 Oct 2026 | Bugged Out! 2001 & On | 2ManyDJs, Alan Braxe, Alexis Taylor, DJ F16 Falcon, Dave Clarke, Erol Alkan, Etienne De Crecy, FC Kahuna, Fall Forward, Felix Da Housecat, Friendly Fires, Heidi, Joe Goddard, Leftfield, Lou Hayter, MEERA (UK), Miss Kittin, Myd, New Young Pony Club, SebastiAn, Simian Mobile Disco, Tatyana Jane, The Avalanches, The Hacker |
 | Fri, 23 Oct 2026 | Terminal V London | 6 SENSE, 999999999, Cara Elizabeth, Charlie Sparks, DJ Cringey, Helena Lauwaert, Holy Priest, I Hate Models, Juicy Romance, KLOUD, LAUZ, Laure Croft, Lola Cerise, MARIEEEA, Nikolina, Onlynumbers, Pablo Bozzi |
 | Sat, 24 Oct 2026 | False Idols w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason | COBRAH, Cakes Da Killa, Cashu, Donnie Sunshine, Goth Jafar, Josh Caffé, Joshua James, Joshua James (UK), Julie Desire, LEXII., Lady Shaka, Little Gay Brother, Patrick Mason, Someone Sunny, TEDESCO, Twang, UNiiQU3, VTSS |
-| Sat, 31 Oct 2026 | elrow Horroween Festival |  |
+| Sat, 31 Oct 2026 | elrow Horroween Festival with MK to be announced | Marc Kinchen |
 | Sat, 7 Nov 2026 | Worried About Henry with Wilkinson and many more TBA | Wilkinson |
 
 ## Address

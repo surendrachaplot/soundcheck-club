@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Brussels on Sat, 15 Aug 2026.
+Eric Prydz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Brussels on Sat, 15 Aug 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: TBA, Brussels on Sat 15 Aug.
+Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: TBA, Brussels on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 | Sat, 17 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Tap1 | Copenhagen |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 31 Oct 2026 | Pier 48's Shed A | San Francisco/Oakland |
 
 ## Recently played
 

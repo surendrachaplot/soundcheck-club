@@ -8,7 +8,7 @@ NDSM Scheepsbouwloods is a music venue in Amsterdam listed on soundcheck. 6 upco
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | DGTL ADE Thursday | Benwal, DJ EZ, Dr Dubplate, Helena Lauwaert, LAMMER, Locky, MPH (1), Paige Tomlinson |
+| Thu, 22 Oct 2026 | DGTL ADE Thursday | Benwal, DJ EZ, Dr Dubplate, Helena Lauwaert, LAMMER, Locky, MPH (1), Olive Anguz, Paige Tomlinson |
 | Fri, 23 Oct 2026 | DGTL ADE Tinlicker & Special Guests | Helsloot, Tinlicker, Tonic Walter |
 | Fri, 23 Oct 2026 | DGTL ADE Friday Night | Joris Voorn, Kevin de Vries, Miss Monique, NTO, Nicky Elisabeth |
 | Sat, 24 Oct 2026 | DGTL ADE Shimza & Co | AMÉMÉ, ARODES, Alex Wann, Bedouin, Cincity, DESIREE (RSA), JAMIIE, Niiomi, Philou Louzolo, STOFFELA, Shimza, meera (NO), Âme |

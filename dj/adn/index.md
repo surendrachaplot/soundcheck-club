@@ -1,8 +1,8 @@
 # ad*n
 
-ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+ad*n is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
-ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Mylania and Petz. Next up: Distrikt, Leeds on Sat 22 Aug.
+ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Mylania and Petz. Next up: Distrikt, Leeds on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Distrikt | Leeds |
 | Fri, 28 Aug 2026 | Mezzanine - Tooting | London |
+| Fri, 18 Sept 2026 | Distrikt | Leeds |
 | Fri, 25 Sept 2026 | Beaver Works | Leeds |
 
 ## Recently played

@@ -10,7 +10,7 @@ OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Zel at OHM | Aton, DRAMA SOURCE ARTIFACTS, Etienne, Galo (2) |
 | Sat, 15 Aug 2026 | aanjel takeover | Farsight, PAURRO, Posture, Valeriana |
-| Thu, 20 Aug 2026 | Foggy w/ LA RAT (live), Aneleon and More | Anele, Lily Haz, WD40 |
+| Thu, 20 Aug 2026 | Foggy w/ LA RAT (live), Aneleon, Haya, Lily Haz, WD40, Pablo Ulises Lienhard (live) | Anele, Lily Haz, WD40 |
 | Fri, 21 Aug 2026 | Gift x Transatlantic | Abyss X, Dmitra, Freestyler (2), Kilo Vee, MONEYAMA, griefeater |
 | Sat, 22 Aug 2026 | Daisy Records | Georgia Bird, Obelix |
 | Thu, 27 Aug 2026 | Neighbourhood with Stenny, Tasha & Victor | Stenny, Tasha, Victor |

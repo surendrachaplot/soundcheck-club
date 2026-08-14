@@ -1,6 +1,6 @@
 # HI-LO w. Rebūke & Guests at Creekside - Under The K Bridge
 
-HI-LO w. Rebūke & Guests at Creekside - Under The K Bridge on Sun 11 Oct, Newyorkcity. 2 acts on the bill: HI-LO and Rebuke. House. Preview the line-up and save it on soundcheck.
+HI-LO w. Rebūke & Guests at Creekside - Under The K Bridge on Sun 11 Oct, Newyorkcity. 3 acts on the bill: HI-LO, Oliver Heldens and Rebuke. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HI-LO w. Rebūke & Guests at Creekside - Under The K Bridge on Sun 11 Oct, Newyo
 ## Line-up
 
 - HI-LO
+- Oliver Heldens
 - Rebuke
 
 *Source: [soundcheck](https://soundcheck.club/e/2504047-hi-lo-w-reb-ke-guests-at-creekside-under-the-k-bridge/)*

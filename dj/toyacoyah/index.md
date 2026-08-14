@@ -1,8 +1,8 @@
 # Toyacoyah
 
-Toyacoyah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
+Toyacoyah is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
 
-Toyacoyah is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 41 sets logged across Austin and Chicago. Often billed alongside Merrick Brown, Silent Hype and Glyde. Next up: Podlasie Club, Chicago on Fri 14 Aug.
+Toyacoyah is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 42 sets logged across Austin and Chicago. Often billed alongside Merrick Brown, Silent Hype and Glyde. Next up: Podlasie Club, Chicago on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toyacoyah is a drum & bass and jungle artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Podlasie Club | Chicago |
 | Wed, 19 Aug 2026 | TBA - Barcocina West Town | Chicago |
+| Sat, 22 Aug 2026 | TBA | Chicago |
 
 ## Recently played
 

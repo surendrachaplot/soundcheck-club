@@ -1,8 +1,8 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at SHeLTeR, Tokyo on Fri, 14 Aug 2026.
+Chee Shimizu is a House and Balearic artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at SHeLTeR, Tokyo on Fri, 14 Aug 2026.
 
-Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 32 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Eamon Harkin. Next up: SHeLTeR, Tokyo on Fri 14 Aug.
+Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 33 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Eamon Harkin. Next up: SHeLTeR, Tokyo on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Chee Shimizu is a house and balearic artist based in Japan, tracked on soundchec
 | Sat, 29 Aug 2026 | Heavy Sick Zero | Tokyo |
 | Sat, 12 Sept 2026 | Nowadays | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 19 Sept 2026 | TBA - Private Loft | New York City |
 
 ## Recently played
 

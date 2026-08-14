@@ -9,7 +9,7 @@ Das Werk is a music venue in Vienna listed on soundcheck. 9 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Crystal O, DJ WIFI, DJ Wolle, DORAH, Joey (2), KILIÅN, Limoncello, Melle, Pixie Dust, SAYA |
-| Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
+| Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno | DJ Böhm, DJ FERRARI, DJ Wolle, Dan.P, Dimitrios (2), ORYMA, presso |
 | Wed, 19 Aug 2026 | RAM - Rave am Mittwoch |  |
 | Sat, 22 Aug 2026 | SCHWERKRAFT W/ PRAKAS | Albin Brezlan, Farbod, Kat Ze, TAUSEND2Ø, WO.IZZY, Wal_Halla |
 | Wed, 26 Aug 2026 | RAM - Rave am Mittwoch |  |

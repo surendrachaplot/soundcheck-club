@@ -1,13 +1,14 @@
 # Rrose Sélavy
 
-Rrose Sélavy is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
+Rrose Sélavy is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Samis Bar, Athens on Sun, 16 Aug 2026.
 
-Rrose Sélavy is a techno and pop artist based in France, tracked on soundcheck, with 22 sets logged across Athens, Berlin, Marseille and Paris. Often billed alongside Sainte Exp, Alys LF and DJ Jee. Next up: Kilomètre25, Paris on Thu 3 Sept.
+Rrose Sélavy is a techno and electronica artist based in France, tracked on soundcheck, with 23 sets logged across Athens, Berlin, Marseille and Paris. Often billed alongside Sainte Exp, Alys LF and DJ Jee. Next up: Samis Bar, Athens on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Samis Bar | Athens |
 | Thu, 3 Sept 2026 | Kilomètre25 | Paris |
 
 ## Recently played

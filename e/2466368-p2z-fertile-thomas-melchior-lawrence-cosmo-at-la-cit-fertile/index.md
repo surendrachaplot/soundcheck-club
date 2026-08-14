@@ -1,6 +1,6 @@
 # P2z Fertile - Thomas Melchior, Lawrence & Cosmo at La Cité Fertile
 
-P2z Fertile - Thomas Melchior, Lawrence & Cosmo at La Cité Fertile on Sat 19 Sept, Paris. 5 acts on the bill: Abn - P2z, Cosmo (KR), Deep Tears On Clamart and Lawrence and 1 more. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+P2z Fertile - Thomas Melchior, Lawrence & Cosmo at La Cité Fertile on Sat 19 Sept, Paris. 6 acts on the bill: Abn - P2z, Cosmo (KR), Deep Tears On Clamart and Lawrence and 2 more. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ P2z Fertile - Thomas Melchior, Lawrence & Cosmo at La Cité Fertile on Sat 19 Se
 - Cosmo (KR)
 - Deep Tears On Clamart
 - Lawrence
+- P2z
 - Thomas Melchior
 
 *Source: [soundcheck](https://soundcheck.club/e/2466368-p2z-fertile-thomas-melchior-lawrence-cosmo-at-la-cit-fertile/)*

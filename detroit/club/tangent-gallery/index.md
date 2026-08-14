@@ -10,9 +10,9 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 11 upcoming ni
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Charivari Detroit • Parallel | DJ Bone, DJ I.V., DJ Seoul, DJ Spen, Dantiez, Disc Jockey George, Duck Trash, Eddie Fowlkes, Eddie Logix, Garrison XR, Gettoblaster, JMT (2), Johnny Malek, Just Shacoi, Kai Alce, LADYMONIX, LATEX GIRL, LostBoy, MNTRA, Mona Black, Norm Talley, Peter Croce, RAEDY LEX, Ryan Sadorus, Satoshi Tomiie, TCHiLT, Terrence Parker, Wax Assassin, Werkout Plan, britty., jamea., sillygirlcarmen, we1sman |
 | Fri, 14 Aug 2026 | Tangent Friday • MNTRA/sillygirlcarmen/TCHiLT • Charivari Detroit | Garrison XR, Just Shacoi, MNTRA, TCHiLT, britty., jamea., sillygirlcarmen, we1sman |
-| Sat, 15 Aug 2026 | Tangent • Saturday • Gettoblaster/Disc Jockey George/Raedylex/Drop Catch • Charivari Detroit | Disc Jockey George, Duck Trash, Gettoblaster, Johnny Malek, LATEX GIRL, Mona Black, Wax Assassin |
+| Sat, 15 Aug 2026 | Tangent • Saturday • Gettoblaster/Disc Jockey George/Johnny Malek • Charivari Detroit | Disc Jockey George, Duck Trash, Gettoblaster, Johnny Malek, LATEX GIRL, Mona Black, Wax Assassin |
 | Sat, 15 Aug 2026 | FIESTA HOUSE DAY PARTY: CHARIVARI DETROIT 2026 | SWDEJAY |
-| Sun, 16 Aug 2026 | Tangent Gallery • Dantiez/RAEDY LEX/JMY/Drop Catch • Charivari Detroit Closing Party | AK (US), DJ I.V., DJ Krazy, DJ Seoul, Dantiez, Drop Catch, JMT (2), RAEDY LEX, Werkout Plan |
+| Sun, 16 Aug 2026 | Tangent Gallery • Dantiez/RAEDY LEX/JMT/Drop Catch • Charivari Detroit Closing Party | AK (US), DJ I.V., DJ Krazy, DJ Seoul, Dantiez, Drop Catch, JMT (2), RAEDY LEX, Werkout Plan |
 | Fri, 21 Aug 2026 | Summer Bliss Music & Arts Festival 2026 | Aluna, DEEPFAKE, DISCOBOT, Devin Jetski, Drop Catch, J Rush, JMT (2), Key Mitch, LostBoy, Melbeatz, Nanoos, OOZE, Ro Low |
 | Fri, 11 Sept 2026 | Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines | BEIGE, Kenjiro |
 | Sat, 26 Sept 2026 | SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets | Redax, SHDW |

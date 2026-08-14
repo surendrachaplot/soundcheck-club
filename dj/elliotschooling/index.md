@@ -1,14 +1,15 @@
 # Elliot Schooling
 
-Elliot Schooling is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Night We Met, Nashville on Fri, 14 Aug 2026.
+Elliot Schooling is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Night We Met, Nashville on Fri, 14 Aug 2026.
 
-Elliot Schooling is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: Night We Met, Nashville on Fri 14 Aug.
+Elliot Schooling is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: Night We Met, Nashville on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Night We Met | Nashville |
+| Sat, 15 Aug 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | fabric | London |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |

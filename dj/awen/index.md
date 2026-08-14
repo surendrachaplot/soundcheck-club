@@ -12,7 +12,7 @@ AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logge
 | Sun, 23 Aug 2026 | Savaya Bali | Bali |
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Bazart | Montreal |
-| Sat, 5 Sept 2026 | TBA | Vancouver |
+| Sat, 5 Sept 2026 | TBA - Alibi Room | Vancouver |
 
 ## Recently played
 

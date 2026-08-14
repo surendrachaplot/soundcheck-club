@@ -1,14 +1,15 @@
 # William Luck
 
-William Luck is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+William Luck is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
-William Luck is a techno and hardcore artist tracked on soundcheck, with 64 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside LESSSS, 25EMEHEURE and OMAKS. Next up: OST, Berlin on Sat 29 Aug.
+William Luck is a techno and hardcore artist tracked on soundcheck, with 65 sets logged across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside LESSSS, 25EMEHEURE and OMAKS. Next up: OST, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | OST | Berlin |
+| Sat, 26 Sept 2026 | block. | Dublin |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 
 ## Recently played

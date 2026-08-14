@@ -1,8 +1,8 @@
 # ICA
 
-ICA is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Ela Minus & Nick León + Alexis Taylor & Mike Simonetti + Guedra Guedra" on Thu, 3 Sept 2026.
+ICA is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Ela Minus & Nick León + Alexis Taylor & Mike Simonetti + Guedra Guedra" on Thu, 3 Sept 2026.
 
-ICA is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Alexis Taylor, Eden Samara, Ela Minus and Guedra Guedra and 2 more. Browse upcoming dates, start times and who's playing. 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom.
+ICA is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Alexis Taylor, Eden Samara, Ela Minus and Gold Panda and 2 more. Browse upcoming dates, start times and who's playing. 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom.
 
 ## What's on
 
@@ -11,6 +11,7 @@ ICA is a music venue in London listed on soundcheck. 3 upcoming nights, with lin
 | Thu, 3 Sept 2026 | Ela Minus & Nick León + Alexis Taylor & Mike Simonetti + Guedra Guedra | Alexis Taylor, Ela Minus, Guedra Guedra, Mike Simonetti, Nick León |
 | Wed, 9 Sept 2026 | Loraine James | Eden Samara, Loraine James |
 | Sun, 25 Oct 2026 | The Hydra presents In the Round: Shane Parish – 'Autechre Guitar' |  |
+| Thu, 12 Nov 2026 | Gold Panda | Gold Panda |
 
 ## Address
 

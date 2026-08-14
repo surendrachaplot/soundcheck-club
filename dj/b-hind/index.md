@@ -1,8 +1,8 @@
 # B-HIND
 
-B-HIND is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Bag Factory, Manchester on Sun, 30 Aug 2026.
+B-HIND is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Bag Factory, Manchester on Sun, 30 Aug 2026.
 
-B-HIND is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds, Manchester and Newcastle. Often billed alongside camukg, F3rg13 and SHUFFA. Next up: The Bag Factory, Manchester on Sun 30 Aug.
+B-HIND is a house and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, Manchester and Newcastle. Often billed alongside camukg, F3rg13 and SHUFFA. Next up: The Bag Factory, Manchester on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ B-HIND is a house and garage artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | The Bag Factory | Manchester |
 | Sat, 5 Sept 2026 | Eiger Studios | Leeds |
+| Fri, 18 Sept 2026 | Distrikt | Leeds |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # SHERELLE
 
-SHERELLE is a Techno and Jungle artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+SHERELLE is a Techno and Jungle artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+SHERELLE is a techno and jungle artist tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logg
 | Thu, 10 Sept 2026 | The Carpet Shop | London |
 | Fri, 11 Sept 2026 | Le Molodoi | Strasbourg |
 | Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
+| Thu, 1 Oct 2026 | Process PDX | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 

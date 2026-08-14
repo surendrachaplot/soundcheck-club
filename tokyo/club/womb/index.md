@@ -1,8 +1,8 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DISCOVER. TOKYO" on Fri, 14 Aug 2026.
+WOMB is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DISCOVER. TOKYO" on Fri, 14 Aug 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AHREUM, AKIRAM EN, Ayana Pattra and Bundo and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AHREUM, Akie, AKIRAM EN and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 

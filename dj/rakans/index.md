@@ -1,14 +1,15 @@
 # Rakans
 
-Rakans is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
+Rakans is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
 
-Rakans is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: Maaya, Berlin on Sun 23 Aug.
+Rakans is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: Maaya, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Maaya | Berlin |
+| Fri, 28 Aug 2026 | Drinkhall Venue | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | CLUB RAUM | Amsterdam |
 

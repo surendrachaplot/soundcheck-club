@@ -9,7 +9,7 @@ NMSS is a techno and latin bass artist based in France, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
-| Sat, 19 Sept 2026 | Beursschouwburg | Brussels |
+| Fri, 18 Sept 2026 | Beursschouwburg | Brussels |
 
 ## Recently played
 

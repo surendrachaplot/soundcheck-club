@@ -1,13 +1,14 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Planet Wax, London on Thu, 3 Sept 2026.
+Logan D is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
-Logan D is a drum & bass and jungle artist tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 8 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: Planet Wax, London on Thu 3 Sept.
+Logan D is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 8 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Antwerp Expo | Antwerp |
 | Thu, 3 Sept 2026 | Planet Wax | London |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
 

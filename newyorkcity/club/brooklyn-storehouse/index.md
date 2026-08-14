@@ -10,7 +10,7 @@ Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 6 upco
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Teksupport: Rossi., Jamback, Aline Umber & CatLadyHi | Aline Umber, CatLadyHi, Jamback, Rossi |
 | Sun, 6 Sept 2026 | Teletech New York | JSMN, KRUELTY, Nikolina, Restricted |
-| Thu, 17 Sept 2026 | Teksupport: Four Tet | Four Tet |
+| Thu, 17 Sept 2026 | Teksupport: Four Tet (SOLD OUT) | Four Tet |
 | Fri, 18 Sept 2026 | Teksupport: Four Tet (2nd show added) | Four Tet |
 | Fri, 30 Oct 2026 | CircoLoco New York | &ME, Beltran, Carlita, Konstantin, Map.ache, Mochakk, Rampa, Seth Troxler |
 | Sat, 31 Oct 2026 | CircoLoco New York | ANOTR, Aline Umber, Dixon, Jamback, Jimi Jules, Krol, Rossi |

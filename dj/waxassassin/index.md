@@ -1,8 +1,8 @@
 # Wax Assassin
 
-Wax Assassin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
+Wax Assassin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
 
-Wax Assassin is a techno and house artist tracked on soundcheck, with 155 sets logged across Detroit. Often billed alongside we1sman, LATEX GIRL and UNS4NE. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
+Wax Assassin is a techno and house artist tracked on soundcheck, with 156 sets logged across Detroit. Often billed alongside we1sman, LATEX GIRL and UNS4NE. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wax Assassin is a techno and house artist tracked on soundcheck, with 155 sets l
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sat, 15 Aug 2026 | Tangent Gallery | Detroit |
+| Sat, 15 Aug 2026 | The Eagle of Detroit | Detroit |
 
 ## Recently played
 

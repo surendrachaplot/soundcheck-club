@@ -9,7 +9,7 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | M O N O L I T H  0 0 3 | ANTON BASHKOV, Rudra Kush |
-| Sat, 15 Aug 2026 | Project Kulture: Southasian Rave Experience | Dargan, Nino Brown (2), Sikh Knowledge, Vodka |
+| Sat, 15 Aug 2026 | Project Kulture: Southasian Rave Experience | Dargan, KUN (3), Nino Brown (2), Sikh Knowledge, Vodka |
 | Fri, 21 Aug 2026 | BTS K-pop Rave – Warehouse Edition |  |
 | Sat, 22 Aug 2026 | K-pop After Party - BTS × KPOP × EDM | EDSTONE |
 | Sat, 29 Aug 2026 | NIGHT CIRCUIT Vol. 1 |  |

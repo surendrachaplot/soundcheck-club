@@ -11,7 +11,7 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, 
 | Sun, 16 Aug 2026 | Motion | BUD (1), KAIKAI, Mickey, SIGNAL (JP), Sui (1), TAJI, vivi, 雷庵(RYan) |
 | Sun, 23 Aug 2026 | tide |  |
 | Fri, 28 Aug 2026 | Jazz'N'Bass -Drum'n'Bass174/87 | Kenta Tominaga, vinylDJ Eiji Takehana |
-| Sun, 30 Aug 2026 | Motion | DJ SHINTARO, Fox (US), Kamekawa, SIGNAL (JP), TAIYO (2) |
+| Sun, 30 Aug 2026 | Motion | DJ SHINTARO, Fox (US), Kamekawa, SIGNAL (JP), TAIYO (2), Tomoya |
 | Tue, 1 Sept 2026 | Dancing Building | Hiroyuki Abe, Keigo |
 | Sun, 13 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |

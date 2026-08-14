@@ -9,7 +9,7 @@ Bar Temp. is a music venue in Bangkok listed on soundcheck. 4 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Cardiac at Bar Temp Vol 3 - Never Say Tired | Taejung |
-| Sat, 22 Aug 2026 | SUBURB SOUND TAKEOVER BARTEMP. with SGAMO b2b JWP | Genji, JWP., OXYBOY |
+| Sat, 22 Aug 2026 | SUBURB SOUND TAKEOVER BARTEMP with SGAMO b2b JWP | Genji, JWP., OXYBOY |
 | Thu, 27 Aug 2026 | Innerworld - Vell | Innerworld, Vell |
 | Fri, 11 Sept 2026 | Club Seven Bells invites Stevie Whisper | DZ GAS, Stevie Whisper |
 

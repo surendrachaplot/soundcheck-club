@@ -1,8 +1,8 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Club and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sun, 30 Aug 2026.
+CHEZA LUCINA is a Club and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sun, 30 Aug 2026.
 
-CHEZA LUCINA is a club and jungle artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Brighton, London and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Colour Factory, London on Sun 30 Aug.
+CHEZA LUCINA is a club and jungle artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Brighton, London and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Colour Factory, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CHEZA LUCINA is a club and jungle artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Colour Factory | London |
 | Sat, 5 Sept 2026 | The Cause | London |
+| Sat, 5 Sept 2026 | Hackney Bridge | London |
 
 ## Recently played
 

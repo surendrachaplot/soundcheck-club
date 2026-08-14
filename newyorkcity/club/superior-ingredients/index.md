@@ -12,7 +12,7 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 12 up
 | Fri, 21 Aug 2026 | Superior Ingredients: Dave Summer |  |
 | Sun, 23 Aug 2026 | AC Slater w. Chinonegro, Facu Baez & Guests | AC Slater, Boy Sanders, Chinonegro, Riva + Bianca |
 | Sat, 29 Aug 2026 | DOUBLEHEADER: Braydon Terzo x Sorley | baby-g |
-| Sun, 6 Sept 2026 | Laidback Luke & Guests | Laidback Luke |
+| Sun, 6 Sept 2026 | Laidback Luke w. Junior Sanchez & Guests | Junior Sanchez, Laidback Luke |
 | Sat, 12 Sept 2026 | Yellow Claw presents: Euro Trash on the Roof 9/12 |  |
 | Sat, 12 Sept 2026 | Superior Ingredients 9/12: Yellow Claw in THE ROOM | Yellow Claw |
 | Fri, 2 Oct 2026 | DOUBLEHEADER: ALT8 x Pawlowski | ALT8, Pawlowski |

@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Midnight Bass x Pray To Good w/ Bristol Luke, Corran, SHAWK, Kenny Campbell" on Fri, 14 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Midnight Bass x Pray To Good w/ Bristol Luke, Corran, SHAWK, Kenny Campbell" on Fri, 14 Aug 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including Babyccino, Boss Priester, Bristol Luke and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Arlo Duke, Babyccino, Boss Priester and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 

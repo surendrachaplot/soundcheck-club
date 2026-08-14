@@ -1,13 +1,14 @@
 # Eshie
 
-Eshie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Eshie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Home Sweet Home, New York City on Thu, 20 Aug 2026.
 
-Eshie is a techno and house artist tracked on soundcheck, with 17 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside ATST, Amrisha and Corvair. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Eshie is a techno and house artist tracked on soundcheck, with 18 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside ATST, Amrisha and Corvair. Next up: Home Sweet Home, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Home Sweet Home | New York City |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
 ## Recently played

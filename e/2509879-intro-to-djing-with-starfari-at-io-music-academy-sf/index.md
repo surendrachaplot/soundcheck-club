@@ -1,10 +1,10 @@
 # Intro to DJing with starfari at IO Music Academy SF
 
-Intro to DJing with starfari at IO Music Academy SF on Tue 22 Sept, Sanfrancisco. 1 act on the bill: starfari. House. Preview the line-up and save it on soundcheck.
+Intro to DJing with starfari at IO Music Academy SF on Sat 29 Aug, Sanfrancisco. 1 act on the bill: starfari. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 22 Sept 2026 |
+| Date | Sat, 29 Aug 2026 |
 | Venue | IO Music Academy SF |
 | City | San Francisco/Oakland |
 

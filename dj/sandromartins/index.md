@@ -1,14 +1,15 @@
 # Sandro Martins
 
-Sandro Martins is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Veltagus - Cais de Embarque, Lisbon on Sat, 29 Aug 2026.
+Sandro Martins is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Veltagus - Cais de Embarque, Lisbon on Sat, 29 Aug 2026.
 
-Sandro Martins is a techno and tech house artist based in Portugal, tracked on soundcheck, with 29 sets logged across Lisbon and London. Often billed alongside Massabs, Dj Du'ArT and Carlos Manaça. Next up: TBA - Veltagus - Cais de Embarque, Lisbon on Sat 29 Aug.
+Sandro Martins is a techno and tech house artist based in Portugal, tracked on soundcheck, with 30 sets logged across Lisbon and London. Often billed alongside Massabs, Carlos Manaça and Dj Du'ArT. Next up: TBA - Veltagus - Cais de Embarque, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Veltagus - Cais de Embarque | Lisbon |
+| Sat, 29 Aug 2026 | Zero Club | Lisbon |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sandro Martins is a techno and tech house artist based in Portugal, tracked on s
 
 ## Shares bills with
 
-Massabs, Dj Du'ArT, Carlos Manaça
+Massabs, Carlos Manaça, Dj Du'ArT
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandromartins/)*

@@ -11,7 +11,7 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 157 sets lo
 | Fri, 14 Aug 2026 | FOLD | London |
 | Fri, 21 Aug 2026 | Vittoria Wharf Studio | London |
 | Sun, 23 Aug 2026 | FOLD | London |
-| Fri, 28 Aug 2026 | TBA | Vancouver |
+| Fri, 28 Aug 2026 | TBA - Outdoor Location | Vancouver |
 | Sat, 29 Aug 2026 | TBA - Warehouse | Toronto |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 | Fri, 18 Sept 2026 | Sidney & Matilda | Sheffield |

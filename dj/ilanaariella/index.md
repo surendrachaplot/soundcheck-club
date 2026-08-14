@@ -1,14 +1,15 @@
 # Ilana Ariella
 
-Ilana Ariella is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldt Park, Chicago on Sat, 15 Aug 2026.
+Ilana Ariella is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldt Park, Chicago on Sat, 15 Aug 2026.
 
-Ilana Ariella is a house and deep house artist tracked on soundcheck, with 37 sets logged across Chicago. Often billed alongside Karl Almaria, Wyser and Duke Shin. Next up: Humboldt Park, Chicago on Sat 15 Aug.
+Ilana Ariella is a house and deep house artist tracked on soundcheck, with 38 sets logged across Chicago. Often billed alongside Karl Almaria, Wyser and Duke Shin. Next up: Humboldt Park, Chicago on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Humboldt Park | Chicago |
+| Sat, 15 Aug 2026 | TBA - Humboldt Park | Chicago |
 | Sat, 22 Aug 2026 | La Villita Park | Chicago |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Max Gardner
 
-Max Gardner is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
+Max Gardner is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
 
-Max Gardner is a techno and dub techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside Adra, Lindsey Herbert and 9-System. Next up: Salesforce Park, Sanfrancisco on Sat 22 Aug.
+Max Gardner is a techno and dub techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside Adra, Lindsey Herbert and 9-System. Next up: Salesforce Park, Sanfrancisco on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Max Gardner is a techno and dub techno artist tracked on soundcheck, with 82 set
 | Sat, 22 Aug 2026 | Salesforce Park | San Francisco/Oakland |
 | Fri, 28 Aug 2026 | Halcyon | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 11 Sept 2026 | Club Six | San Francisco/Oakland |
 
 ## Recently played
 

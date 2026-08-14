@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fly Life: Ploy & Bruce (All night long)" on Fri, 14 Aug 2026.
+M.O.T is a music venue in London with 31 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fly Life: Ploy & Bruce (All night long)" on Fri, 14 Aug 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 

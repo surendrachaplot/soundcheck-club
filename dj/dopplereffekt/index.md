@@ -1,8 +1,8 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Dopplereffekt is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
-Dopplereffekt is a techno and electro artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
+Dopplereffekt is a techno and electro artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Bristol and Chicago and 15 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dopplereffekt is a techno and electro artist tracked on soundcheck, with 34 sets
 | Fri, 21 Aug 2026 | MoMA PS1 | New York City |
 | Sat, 22 Aug 2026 | Metro | Chicago |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 25 Sept 2026 | TBA | Los Angeles |
 | Fri, 2 Oct 2026 | SFU Goldcorp Centre for the Arts | Vancouver |
 
 ## Recently played

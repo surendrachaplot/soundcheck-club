@@ -9,7 +9,7 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 12 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Ellroy / Jimmy Be | Ellroy, Jimmy Be |
-| Sat, 15 Aug 2026 | Esme b2b Miette / Ajwad / Opal Stavo | Miette, Wasie |
+| Sat, 15 Aug 2026 | Esme b2b Miette + Wasie b2b Opal Stavo | Miette, Wasie |
 | Thu, 20 Aug 2026 | SALON D'ILLUSION x NIGHTS OF SOLACE🎧♫ / ELICIA MARTIN, REKLESS BEHAVIOR, KEANU | Elicia Martin, keanu (3) |
 | Thu, 20 Aug 2026 | Salon D'Illusion - Nights Of Solace | Elicia Martin |
 | Fri, 21 Aug 2026 | GABA collective invites: | No Police, Vayia |

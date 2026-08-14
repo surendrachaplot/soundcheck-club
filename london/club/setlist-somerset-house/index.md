@@ -16,7 +16,7 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 16 upc
 | Sat, 22 Aug 2026 | SETLIFE present Shamiso | Shamiso |
 | Sat, 22 Aug 2026 | SUMMER BBQ SESSIONS: Setlist London |  |
 | Fri, 28 Aug 2026 | R&B and FUNKY HOUSE NIGHT presents GRACIOUS K & TRIBAL MAGZ |  |
-| Sat, 29 Aug 2026 | SETLIFE presents Supa D (CARNIVAL WEEKEND) | Supa D |
+| Sat, 29 Aug 2026 | SETLIFE presents Supa D (CARNIVAL WEEKEND DAY 1) | Supa D |
 | Sun, 30 Aug 2026 | SETLIFE presents Supa D (CARNIVAL WEEKEND DAY 2) | Supa D |
 
 ## Address

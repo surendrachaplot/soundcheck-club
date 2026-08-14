@@ -1,8 +1,8 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Grace Dahl is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-Grace Dahl is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Grace Dahl is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Grace Dahl is a techno and house artist tracked on soundcheck, with 228 sets log
 | Sat, 5 Sept 2026 | Signal | New York City |
 | Sun, 6 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 11 Sept 2026 | smartbar | Chicago |
+| Sat, 12 Sept 2026 | Motorista Studio | Toronto |
 | Fri, 9 Oct 2026 | Virage | Paris |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |

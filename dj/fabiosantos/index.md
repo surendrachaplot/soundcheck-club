@@ -1,14 +1,15 @@
 # Fabio Santos
 
-Fabio Santos is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Fabio Santos is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-Fabio Santos is a house and trance artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
+Fabio Santos is a house and garage artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Leeds, Rotterdam and Thehague and 1 more. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
+| Fri, 18 Sept 2026 | Distrikt | Leeds |
 
 ## Recently played
 

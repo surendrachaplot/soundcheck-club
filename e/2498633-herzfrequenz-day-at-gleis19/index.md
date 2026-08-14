@@ -1,6 +1,6 @@
 # HERZFREQUENZ: DAY at Gleis19
 
-HERZFREQUENZ: DAY at Gleis19 on Fri 11 Sept, Vienna. 4 acts on the bill: Joey (2), Kat Ze, Kø:lab and SEKTOR69. Trance and Techno. Preview the line-up and save it on soundcheck.
+HERZFREQUENZ: DAY at Gleis19 on Fri 11 Sept, Vienna. 5 acts on the bill: Crystal O, Joey (2), Kat Ze and Kø:lab and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HERZFREQUENZ: DAY at Gleis19 on Fri 11 Sept, Vienna. 4 acts on the bill: Joey (2
 
 ## Line-up
 
+- Crystal O
 - Joey (2)
 - Kat Ze
 - Kø:lab

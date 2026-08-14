@@ -1,8 +1,8 @@
 # ildec
 
-ildec is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
+ildec is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
 
-ildec is a house and techno artist tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Brussels and Cologne and 10 more. Often billed alongside Javier Carballo, Alex (ES) and Anthea. Next up: Sophie Festival, Malaga on Sat 15 Aug.
+ildec is a house and techno artist tracked on soundcheck, with 89 sets logged across Barcelona, Berlin, Brussels and Cologne and 10 more. Often billed alongside Javier Carballo, LM and Alex (ES). Next up: Sophie Festival, Malaga on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ildec is a house and techno artist tracked on soundcheck, with 88 sets logged ac
 | Sat, 15 Aug 2026 | Sophie Festival | Malaga |
 | Sun, 16 Aug 2026 | TBA - Secret Location | Malaga |
 | Fri, 4 Sept 2026 | TBA | Barcelona |
+| Fri, 4 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 10 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,6 +27,6 @@ ildec is a house and techno artist tracked on soundcheck, with 88 sets logged ac
 
 ## Shares bills with
 
-Javier Carballo, Alex (ES), Anthea
+Javier Carballo, LM, Alex (ES)
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*

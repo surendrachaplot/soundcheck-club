@@ -9,7 +9,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | BREAKZONE Festival 2026 (DAY & NIGHT) - 15th Anniversary | Anja Schneider, Badlokk, Cosmic Dance, Enaly, FLOWZ, Giana Brotherz, Gourski, JSPR, Jamin, Jonas Fritz, Pola & Bryson, Roklem, Sebalo, Selecta (ES), submarine |
-| Wed, 19 Aug 2026 | #MITTWOCHENENDE in Odonien |  |
+| Wed, 19 Aug 2026 | #MITTWOCHENENDE in Odonien | Aura, Enaly, Eurodance2000, Lora (2), PANACOTTA, SERA (2) |
 | Fri, 21 Aug 2026 | Sommerfest in Odonien | Angie (FR), Gilles Bock, Kos:mo, Leali Ko, Ropemaker, Steven Shade, Tommahawk, Viktoria Spielmann |
 | Sat, 22 Aug 2026 | VIBE TRIBE FEST | DJ Freegah |
 | Sat, 22 Aug 2026 | SUMMER RAVE in Odonien by ART OF URBAN LIFE & ONLYRAVES | Empathogen |

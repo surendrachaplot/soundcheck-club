@@ -1,8 +1,8 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Elderbrook" on Fri, 14 Aug 2026.
+Loo Loo is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Elderbrook" on Fri, 14 Aug 2026.
 
-Loo Loo is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including DECO (MX), Elderbrook, Forester and Hunter/Game and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
+Loo Loo is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, with line-ups including DECO (MX), Elderbrook, Forester and Hunter/Game and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
 ## What's on
 
@@ -10,13 +10,14 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Elderbrook | Elderbrook |
 | Sat, 15 Aug 2026 | Forester | Forester |
+| Sat, 15 Aug 2026 | Forester | Forester |
 | Thu, 20 Aug 2026 | Woo York (LIVE) | Johnny Chief, Woo York |
+| Thu, 20 Aug 2026 | Woo York (live) | Johnny Chief, Woo York |
 | Fri, 21 Aug 2026 | OMRI |  |
+| Fri, 21 Aug 2026 | Omri | OMRI. |
 | Thu, 27 Aug 2026 | Mat.Joe | DECO (MX), Mat.Joe |
 | Sat, 29 Aug 2026 | PETER BLUE Noise Mafia | Noise Mafia, PETERBLUE |
 | Mon, 31 Aug 2026 | Hunter/Game | Hunter/Game |
-| Sat, 19 Sept 2026 | SCRIPT | Script (GE), Soloiist |
-| Sat, 3 Oct 2026 | Swimming Paul | Swimming Paul |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # VIRA
 
-VIRA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Crown, New York City on Sun, 16 Aug 2026.
+VIRA is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Crown, New York City on Sun, 16 Aug 2026.
 
-VIRA is a house and trance artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin and Newyorkcity. Often billed alongside Avant.OCS, .Cheka and AYLIN IDAH. Next up: The Crown, Newyorkcity on Sun 16 Aug.
+VIRA is a house and trance artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and Newyorkcity. Often billed alongside Avant.OCS, .Cheka and AYLIN IDAH. Next up: The Crown, Newyorkcity on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | The Crown | New York City |
+| Fri, 21 Aug 2026 | Althea's Rooftop | New York City |
 
 ## Recently played
 

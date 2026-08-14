@@ -1,14 +1,14 @@
 # Perspectiv
 
-Perspectiv is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Vancouver on Sat, 5 Sept 2026.
+Perspectiv is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Alibi Room, Vancouver on Sat, 5 Sept 2026.
 
-Perspectiv is a house and afro house artist based in Canada, tracked on soundcheck, with 18 sets logged across Vancouver. Often billed alongside Tiago de Renor, Askfor T and Siavash. Next up: TBA, Vancouver on Sat 5 Sept.
+Perspectiv is a house and afro house artist based in Canada, tracked on soundcheck, with 18 sets logged across Vancouver. Often billed alongside Tiago de Renor, Askfor T and Siavash. Next up: TBA - Alibi Room, Vancouver on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA | Vancouver |
+| Sat, 5 Sept 2026 | TBA - Alibi Room | Vancouver |
 
 ## Recently played
 

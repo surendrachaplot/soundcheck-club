@@ -1,13 +1,14 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at BAR Inc, Osaka on Sun, 20 Sept 2026.
+Steven Julien is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
-Steven Julien is a house and techno artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: BAR Inc, Osaka on Sun 20 Sept.
+Steven Julien is a house and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Hackney Bridge, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Hackney Bridge | London |
 | Sun, 20 Sept 2026 | BAR Inc | Osaka |
 
 ## Recently played

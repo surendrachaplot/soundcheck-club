@@ -1,14 +1,15 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jolene, Copenhagen on Fri, 21 Aug 2026.
+CTRLZORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jolene, Copenhagen on Fri, 21 Aug 2026.
 
-CTRLZORA is a house and techno artist based in United States of America, tracked on soundcheck, with 107 sets logged across Chicago, Copenhagen, Detroit and Losangeles and 6 more. Often billed alongside Cordell Johnson, JADALAREIGN and Quicktastic. Next up: Jolene, Copenhagen on Fri 21 Aug.
+CTRLZORA is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Chicago, Copenhagen, Detroit and Losangeles and 6 more. Often billed alongside BLESSTONIO, Cordell Johnson and JADALAREIGN. Next up: Jolene, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Jolene | Copenhagen |
+| Sun, 23 Aug 2026 | The Salt Shed | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CTRLZORA is a house and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-Cordell Johnson, JADALAREIGN, Quicktastic
+BLESSTONIO, Cordell Johnson, JADALAREIGN
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

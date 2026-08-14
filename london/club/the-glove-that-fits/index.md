@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 24 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Give A Funk: Jive Talk B2B Wilba, Jas Myla & Ruby Ruby" on Fri, 14 Aug 2026.
+The Glove That Fits is a music venue in London with 25 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Give A Funk: Jive Talk B2B Wilba, Jas Myla & Ruby Ruby" on Fri, 14 Aug 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 7005, AJ Manning, Alan Fitzpatrick and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 7005, AJ Manning, Alan Fitzpatrick and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 

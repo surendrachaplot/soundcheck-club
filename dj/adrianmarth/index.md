@@ -1,13 +1,14 @@
 # Adrian Marth
 
-Adrian Marth is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at CONTACT, Amsterdam on Sun, 30 Aug 2026.
+Adrian Marth is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Phantom Bar Berlin, Berlin on Sat, 22 Aug 2026.
 
-Adrian Marth is an italo disco and techno artist based in Spain, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Losangeles and 7 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: CONTACT, Amsterdam on Sun 30 Aug.
+Adrian Marth is an italo disco and techno artist based in Spain, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Losangeles and 7 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: Phantom Bar Berlin, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Phantom Bar Berlin | Berlin |
 | Sun, 30 Aug 2026 | CONTACT | Amsterdam |
 
 ## Recently played

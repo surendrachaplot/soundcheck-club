@@ -1,6 +1,6 @@
 # Project Kulture: Southasian Rave Experience at Geary Avenue Warehouse Project
 
-Project Kulture: Southasian Rave Experience at Geary Avenue Warehouse Project on Sat 15 Aug, Toronto. 4 acts on the bill: Dargan, Nino Brown (2), Sikh Knowledge and Vodka. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Project Kulture: Southasian Rave Experience at Geary Avenue Warehouse Project on Sat 15 Aug, Toronto. 5 acts on the bill: Dargan, KUN (3), Nino Brown (2) and Sikh Knowledge and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Project Kulture: Southasian Rave Experience at Geary Avenue Warehouse Project on
 ## Line-up
 
 - Dargan
+- KUN (3)
 - Nino Brown (2)
 - Sikh Knowledge
 - Vodka

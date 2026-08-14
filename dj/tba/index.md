@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and Reggaeton artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
+TBA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
 
-TBA is a techno and reggaeton artist tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
+TBA is a techno and house artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 236 sets logged
 | Sat, 12 Sept 2026 | TBA | Barcelona |
 | Sat, 19 Sept 2026 | DETROIT CLUB | Barcelona |
 | Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
+| Sat, 10 Oct 2026 | Electric Ballroom | London |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played

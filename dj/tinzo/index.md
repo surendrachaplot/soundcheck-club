@@ -13,8 +13,8 @@ Tinzo is a house and club artist tracked on soundcheck, with 121 sets logged acr
 | Fri, 2 Oct 2026 | TBA - Brooklyn roots collective  | New York City |
 | Fri, 16 Oct 2026 | Don Quixote | Los Angeles |
 | Sat, 24 Oct 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |
-| Sat, 24 Oct 2026 | TBA - Secret Venue | San Francisco/Oakland |
-| Sun, 25 Oct 2026 | TBA - Secret Venue | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | The Foundry | San Francisco/Oakland |
+| Sun, 25 Oct 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | Le Studio TD | Montreal |
 
 ## Recently played

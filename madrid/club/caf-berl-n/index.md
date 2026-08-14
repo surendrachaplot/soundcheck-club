@@ -1,8 +1,8 @@
 # Café Berlín
 
-Café Berlín is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Aniversario Black Fusion - Progressive House Madrid" on Fri, 28 Aug 2026.
+Café Berlín is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Aniversario Black Fusion - Progressive House Madrid" on Fri, 28 Aug 2026.
 
-Café Berlín is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Bembi, BlackChilli, Dublon and FedeFink and 2 more. Browse upcoming dates, start times and who's playing. Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid.
+Café Berlín is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Bembi, BlackChilli, Dublon and FedeFink and 2 more. Browse upcoming dates, start times and who's playing. Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Café Berlín is a music venue in Madrid listed on soundcheck. 3 upcoming nights
 | Fri, 28 Aug 2026 | Aniversario Black Fusion - Progressive House Madrid | Bembi, BlackChilli, FedeFink, Guidomik |
 | Thu, 1 Oct 2026 | Romain García en microdosis - Café Berlín, Madrid | PALLADIAN, RUVEN (2), Romain Garcia |
 | Thu, 29 Oct 2026 | Dublon (live with band) en microdosis - Café Berlín, Madrid | Dublon |
+| Thu, 12 Nov 2026 | Jafunk en microdosis - Café Berlín, Madrid | Jafunk |
 
 ## Address
 

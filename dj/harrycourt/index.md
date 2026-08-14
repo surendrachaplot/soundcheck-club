@@ -1,14 +1,15 @@
 # Harry Court
 
-Harry Court is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club 77, Sydney on Fri, 28 Aug 2026.
+Harry Court is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Club 77, Sydney on Fri, 28 Aug 2026.
 
-Harry Court is a house and techno artist based in Australia, tracked on soundcheck, with 17 sets logged across Sydney. Often billed alongside Unprotected Success, Alex Diwa and Milkpaste. Next up: Club 77, Sydney on Fri 28 Aug.
+Harry Court is a house and techno artist based in Australia, tracked on soundcheck, with 18 sets logged across Sydney. Often billed alongside Unprotected Success, Alex Diwa and Milkpaste. Next up: Club 77, Sydney on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Club 77 | Sydney |
+| Fri, 25 Sept 2026 | Club 77 | Sydney |
 
 ## Recently played
 

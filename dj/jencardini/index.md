@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Smoke & Mirrors, Chicago on Sat 15 Aug.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Smoke & Mirrors, Chicago on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets lo
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Rex Club | Paris |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
+| Sat, 26 Sept 2026 | TBA - DTLA | Los Angeles |
 | Fri, 9 Oct 2026 | FOLD | London |
 
 ## Recently played

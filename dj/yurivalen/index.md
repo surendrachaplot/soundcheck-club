@@ -1,14 +1,15 @@
 # YURI VALEN
 
-YURI VALEN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
+YURI VALEN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
 
-YURI VALEN is a techno and industrial artist based in Japan, tracked on soundcheck, with 72 sets logged across Osaka and Tokyo. Often billed alongside YOXIKI, Tommy Wada and CHIKA. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Sept.
+YURI VALEN is a techno and industrial artist based in Japan, tracked on soundcheck, with 73 sets logged across Osaka and Tokyo. Often billed alongside YOXIKI, Tommy Wada and CHIKA. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Sun, 20 Sept 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 

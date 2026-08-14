@@ -1,13 +1,14 @@
 # Planet KaiA
 
-Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lincoln Factory, Detroit on Fri, 28 Aug 2026.
+Planet KaiA is a Ghetto Tech and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Marble Bar, Detroit on Fri, 14 Aug 2026.
 
-Planet KaiA is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit. Often billed alongside Fullbodydurag, we1sman and Auntie Chanel. Next up: Lincoln Factory, Detroit on Fri 28 Aug.
+Planet KaiA is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Detroit. Often billed alongside Fullbodydurag, Auntie Chanel and we1sman. Next up: Marble Bar, Detroit on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Marble Bar | Detroit |
 | Fri, 28 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
@@ -23,6 +24,6 @@ Planet KaiA is a ghetto tech and techno artist based in United States of America
 
 ## Shares bills with
 
-Fullbodydurag, we1sman, Auntie Chanel
+Fullbodydurag, Auntie Chanel, we1sman
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*

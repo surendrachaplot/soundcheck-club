@@ -1,8 +1,8 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 19 Aug 2026.
+Oliver Heldens is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Boston and Buenosaires and 20 more. Often billed alongside Kaskade, Tiesto and Adam Beyer. Next up: Ushuaïa Ibiza, Ibiza on Wed 19 Aug.
+Oliver Heldens is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Boston and Buenosaires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: Ushuaïa Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 
 | Wed, 19 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Mon, 7 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
+| Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 
 
 ## Shares bills with
 
-Kaskade, Tiesto, Adam Beyer
+HI-LO, Kaskade, Tiesto
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

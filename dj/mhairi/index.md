@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Palladium Riga, Riga on Fri, 9 Oct 2026.
+Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Palladium Riga, Riga on Fri, 9 Oct 2026.
 
-Mha iri is a techno and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Palladium Riga, Riga on Fri 9 Oct.
+Mha iri is a techno and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Palladium Riga, Riga on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 101 sets l
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Palladium Riga | Riga |
 | Sat, 10 Oct 2026 | Uebel & Gefährlich | Hamburg |
+| Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 
 ## Recently played
 

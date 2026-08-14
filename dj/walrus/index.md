@@ -1,14 +1,15 @@
 # Walrus
 
-Walrus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Walrus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
-Walrus is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside DJ Rino, Penelope (2) and Boudewijn Ericx. Next up: Buda BXL, Brussels on Sat 22 Aug.
+Walrus is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside DJ Rino, Penelope (2) and Boudewijn Ericx. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
+| Fri, 4 Sept 2026 | Sunseabar Beach Club | Barcelona |
 
 ## Recently played
 

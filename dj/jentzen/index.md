@@ -1,14 +1,15 @@
 # Jentzen
 
-Jentzen is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
+Jentzen is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
 
-Jentzen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: Amnesia Ibiza, Ibiza on Thu 27 Aug.
+Jentzen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: Amnesia Ibiza, Ibiza on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 5 Sept 2026 | Stage and Radio | Manchester |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

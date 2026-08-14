@@ -11,7 +11,7 @@ Tsunamy is a baile funk and club artist tracked on soundcheck, with 68 sets logg
 | Fri, 14 Aug 2026 | Garagen | Cologne |
 | Fri, 21 Aug 2026 | Egg London | London |
 | Sat, 22 Aug 2026 | Planet Wax | London |
-| Sat, 19 Sept 2026 | Beursschouwburg | Brussels |
+| Fri, 18 Sept 2026 | Beursschouwburg | Brussels |
 
 ## Recently played
 

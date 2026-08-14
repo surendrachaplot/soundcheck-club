@@ -1,8 +1,8 @@
 # essaim
 
-essaim is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "tribalism - Christie, Daniel Avery" on Fri, 14 Aug 2026.
+essaim is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "tribalism - Christie, Daniel Avery" on Fri, 14 Aug 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including ANNĒ, Ben Sims, Céline Technorama and Christie and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including ANNĒ, Ben Sims, Céline Technorama and Christie and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 

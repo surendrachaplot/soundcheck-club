@@ -11,7 +11,7 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 | Fri, 14 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | The Grand Social | Dublin |
 | Sat, 22 Aug 2026 | VENT | Tokyo |
-| Sat, 5 Sept 2026 | Community Berlin | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Native Beach Club, Cardales | Buenos Aires |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Brixton Jamm | London |

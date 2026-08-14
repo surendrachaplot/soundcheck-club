@@ -9,9 +9,9 @@ Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | MOON KIKI W/ Kiki LeFreak and Moon King | Kiki LeFreak, Moon King |
-| Sat, 15 Aug 2026 | SIGNAL: AKWA & TESFAY (All Night Long) | AKWA, TESFAY |
+| Sat, 15 Aug 2026 | SIGNAL: AKWA & TESFAY (All Night Long) [FINAL TICKETS ON THE DOOR] | AKWA, TESFAY |
 | Fri, 21 Aug 2026 | Groove Pool | DINO (3), DJ Visitor, Ficilio, Geneva (2), kathy beu |
-| Sat, 22 Aug 2026 | Sin City: A Night With Nitin | Nitin, Sin City |
+| Sat, 22 Aug 2026 | Sin City & Nitin | Nitin, Sin City |
 | Fri, 28 Aug 2026 | Afalinas in Session with J.Richards (Signal - NYC) and Olekhar | J. Richards, Olekhar |
 | Sat, 29 Aug 2026 | Hypnotic Mindscapes: Rama NYC, Cosmic JD | Cosmic JD, Rama NYC |
 

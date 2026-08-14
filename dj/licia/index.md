@@ -1,8 +1,8 @@
 # Licia
 
-Licia is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Licia is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
-Licia is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Cologne and Leeds and 4 more. Often billed alongside 1991 (UK), A Little Sound and AC13. Next up: Lofi, Amsterdam on Sat 15 Aug.
+Licia is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 5 more. Often billed alongside Andromedik, SOTA and 1991 (UK). Next up: Lofi, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Licia is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 2 Oct 2026 | Sala Dresden | Barcelona |
+| Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Licia is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-1991 (UK), A Little Sound, AC13
+Andromedik, SOTA, 1991 (UK)
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*

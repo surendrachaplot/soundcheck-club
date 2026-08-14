@@ -1,8 +1,8 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 29 Aug 2026.
+Hernan Cattaneo is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 29 Aug 2026.
 
-Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 29 Aug.
+Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 15 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | KOKO | London |
 | Sun, 18 Oct 2026 | Bridge Gardens | Glasgow |
 | Wed, 21 Oct 2026 | WestWeelde | Amsterdam |
 

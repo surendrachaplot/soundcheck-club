@@ -1,6 +1,6 @@
 # No solo escuchamos* at Dolores54
 
-No solo escuchamos* at Dolores54 on Sat 22 Aug, Mexicocity. 2 acts on the bill: KOI (MX) and Ranma Entero. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+No solo escuchamos* at Dolores54 on Sat 22 Aug, Mexicocity. 3 acts on the bill: Carnal Ex, KOI (MX) and Ranma Entero. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ No solo escuchamos* at Dolores54 on Sat 22 Aug, Mexicocity. 2 acts on the bill: 
 
 ## Line-up
 
+- Carnal Ex
 - KOI (MX)
 - Ranma Entero
 

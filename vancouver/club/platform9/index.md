@@ -10,7 +10,7 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 4 upcoming nights,
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | BDrive: EQUISS (OSSX) & SYD | EQUISS, Syd (US) |
 | Sat, 15 Aug 2026 | MikeyLikesIt presents: Move_78 - 1 Year Later |  |
-| Sat, 22 Aug 2026 | A Midsummer Eve | AVRY, Jesse Walker |
+| Sat, 22 Aug 2026 | A Midsummer Eve [Day Party with Flora Sound System] | AVRY, Jesse Walker |
 | Sat, 26 Sept 2026 | Thump! presents 1morning (Ilian Tape) | 1morning, AWood, DJ Hockey, Max Ulis, NOTEVENDOWN |
 
 ## Address

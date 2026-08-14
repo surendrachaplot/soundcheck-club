@@ -1,14 +1,14 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "TBA" on Fri, 14 Aug 2026.
+Marble Bar is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Auntie Chanel, Planet KaiA, Rootsin b2b Adam Jeffrey" on Fri, 14 Aug 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including AK (US), ALEX PAN, Alex Pan (Det) and Andrés and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Adam Jeffrey, AK (US), ALEX PAN and Alex Pan (Det) and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA |  |
+| Fri, 14 Aug 2026 | Auntie Chanel, Planet KaiA, Rootsin b2b Adam Jeffrey | Adam Jeffrey, Auntie Chanel, Planet KaiA, Rootsin |
 | Sat, 15 Aug 2026 | small talk x who's asking (daytime 12hr) | ALEX PAN, Alex Pan (Det), BEIGE, Casimir von Oettingen, Lo Dazz, Thomass Jackson, britty., dust (Detroit), robin groulx, sts (US) |
 | Sat, 15 Aug 2026 | small talk x who's asking (day into night) | Alex Pan (Det), BEIGE, Casimir von Oettingen, Lo Dazz, Thomass Jackson, britty., dust (Detroit), robin groulx, sts (US) |
 | Fri, 21 Aug 2026 | Gezellig feat Ataxia & Mister Joshooa | Ataxia, Mister Joshooa, Sydney Porter, The Bernabela Project |

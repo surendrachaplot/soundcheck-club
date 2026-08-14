@@ -1,14 +1,15 @@
 # TCJ (2)
 
-TCJ (2) is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
+TCJ (2) is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
 
-TCJ (2) is a footwork and club artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside DJ Manny, Kid Bata and Mikasa. Next up: Pianos, Newyorkcity on Thu 20 Aug.
+TCJ (2) is a footwork and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Mikasa, DJ Manny and Kid Bata. Next up: Pianos, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Pianos | New York City |
+| Wed, 26 Aug 2026 | Pianos | New York City |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ TCJ (2) is a footwork and club artist based in United States of America, tracked
 
 ## Shares bills with
 
-DJ Manny, Kid Bata, Mikasa
+Mikasa, DJ Manny, Kid Bata
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tcj-2/)*

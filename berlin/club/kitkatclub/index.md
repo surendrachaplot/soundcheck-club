@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "The Mystic Rose meets MA FAIZA" on Fri, 14 Aug 2026.
+KitKatClub is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "The Mystic Rose meets MA FAIZA" on Fri, 14 Aug 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alice D. and Alma Negrot and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alice D. and Alma Negrot and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 

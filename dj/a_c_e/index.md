@@ -1,14 +1,15 @@
 # A_C_E.
 
-A_C_E. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
+A_C_E. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
 
-A_C_E. is a techno and hardcore artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Axel Esphinoza, KILL 9 1 and MENACE.. Next up: NØMAD, Toronto on Fri 28 Aug.
+A_C_E. is a techno and hardcore artist based in Canada, tracked on soundcheck, with 18 sets logged across Toronto. Often billed alongside Axel Esphinoza, KILL 9 1 and MENACE.. Next up: NØMAD, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | NØMAD | Toronto |
+| Sat, 29 Aug 2026 | IDK Social BAR | Toronto |
 
 ## Recently played
 

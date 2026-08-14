@@ -2,7 +2,7 @@
 
 Mez Monty is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Downtown, Los Angeles on Fri, 11 Sept 2026.
 
-Mez Monty is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Eli Escobar and Sevyn. Next up: TBA - Downtown, Losangeles on Fri 11 Sept.
+Mez Monty is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: TBA - Downtown, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Mez Monty is a house and techno artist tracked on soundcheck, with 87 sets logge
 
 ## Shares bills with
 
-Shane Thomas, Eli Escobar, Sevyn
+Shane Thomas, Sevyn, Eli Escobar
 
 *Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*

@@ -1,6 +1,6 @@
 # Teksupport: Cloonee (Hellbent) at Brooklyn Army Terminal
 
-Teksupport: Cloonee (Hellbent) at Brooklyn Army Terminal on Sat 15 Aug, Newyorkcity. 1 act on the bill: Cloonee. House and Tech House. Preview the line-up and save it on soundcheck.
+Teksupport: Cloonee (Hellbent) at Brooklyn Army Terminal on Sat 15 Aug, Newyorkcity. 4 acts on the bill: Cloonee, Elliot Schooling, Ilario Alicante and Liam Palmer. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Teksupport: Cloonee (Hellbent) at Brooklyn Army Terminal on Sat 15 Aug, Newyorkc
 ## Line-up
 
 - Cloonee
+- Elliot Schooling
+- Ilario Alicante
+- Liam Palmer
 
 *Source: [soundcheck](https://soundcheck.club/e/2386213-teksupport-cloonee-hellbent-at-brooklyn-army-terminal/)*

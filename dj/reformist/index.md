@@ -9,7 +9,7 @@ Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
-| Thu, 1 Oct 2026 | TBA | London |
+| Thu, 1 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

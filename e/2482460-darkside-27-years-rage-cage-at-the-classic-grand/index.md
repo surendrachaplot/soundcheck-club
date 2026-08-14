@@ -1,6 +1,6 @@
 # Darkside: 27 Years - Rage Cage at The Classic Grand
 
-Darkside: 27 Years - Rage Cage at The Classic Grand on Sat 29 Aug, Glasgow. 2 acts on the bill: The Dark Horror and Yoshiko. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Darkside: 27 Years - Rage Cage at The Classic Grand on Sat 29 Aug, Glasgow. 6 acts on the bill: Chaos Clan, JMF, Padrino and Rob Da Rhythm and 2 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Darkside: 27 Years - Rage Cage at The Classic Grand on Sat 29 Aug, Glasgow. 2 ac
 
 ## Line-up
 
+- Chaos Clan
+- JMF
+- Padrino
+- Rob Da Rhythm
 - The Dark Horror
 - Yoshiko
 

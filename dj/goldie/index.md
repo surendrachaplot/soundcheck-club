@@ -1,8 +1,8 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Goldie is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Goldie is a drum & bass and jungle artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets l
 | Sun, 23 Aug 2026 | The Wardrobe | Leeds |
 | Sun, 23 Aug 2026 | The Golden Lion | Manchester |
 | Fri, 28 Aug 2026 | Hare & Hounds | Birmingham |
+| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Fri, 4 Sept 2026 | Paragon | New York City |
 | Sat, 5 Sept 2026 | YuYu Cine Club | Mexico City |
 

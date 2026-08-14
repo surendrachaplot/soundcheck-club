@@ -10,7 +10,7 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 5 upcoming nigh
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | GHETTO RHYTHM X Under Club | Fidelo90s, HERS, JXXXO |
 | Sat, 15 Aug 2026 | Klauss INVITA - NAI BORG + NINA | Klauss |
-| Fri, 28 Aug 2026 | RØDHÂD 7 HORAS - + Under Club ( GASCÓN 1040 ) LAST TICKETS  | Rødhåd |
+| Fri, 28 Aug 2026 | RØDHÂD 7 HORAS - + Under Club ( GASCÓN 1040 ) LAST 55 TICKETS  | Rødhåd |
 | Sun, 27 Sept 2026 | ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - + Under Club ( GASCÓN 1040 ) | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
 | Fri, 30 Oct 2026 | COLLAB 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |
 

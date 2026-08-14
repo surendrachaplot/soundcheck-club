@@ -1,8 +1,8 @@
 # Buttechno
 
-Buttechno is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Buttechno is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
-Buttechno is an experimental and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
+Buttechno is an experimental and techno artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Buttechno is an experimental and techno artist based in Germany, tracked on soun
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
 | Fri, 18 Sept 2026 | Signal | New York City |
+| Sat, 26 Sept 2026 | TBA - DTLA | Los Angeles |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 
 ## Recently played

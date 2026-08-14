@@ -1,6 +1,6 @@
 # Makèz at Flash
 
-Makèz at Flash on Fri 28 Aug, Washingtondc. 3 acts on the bill: Dabz, Haffi and Makèz. House and Deep House. Preview the line-up and save it on soundcheck.
+Makèz at Flash on Fri 28 Aug, Washingtondc. 4 acts on the bill: Allanit, Dabz, Haffi and Makèz. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Makèz at Flash on Fri 28 Aug, Washingtondc. 3 acts on the bill: Dabz, Haffi and
 
 ## Line-up
 
+- Allanit
 - Dabz
 - Haffi
 - Makèz

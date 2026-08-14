@@ -1,8 +1,8 @@
 # tINI
 
-tINI is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
+tINI is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
 
-tINI is a house and techno artist tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Scânteia +, Bucharest on Fri 21 Aug.
+tINI is a house and techno artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Scânteia +, Bucharest on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ tINI is a house and techno artist tracked on soundcheck, with 230 sets logged ac
 | Fri, 21 Aug 2026 | Scânteia + | Bucharest |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 25 Sept 2026 | Kapsule | Liverpool |
 | Fri, 9 Oct 2026 | The Loft | Manchester |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |

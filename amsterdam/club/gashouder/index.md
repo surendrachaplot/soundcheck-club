@@ -8,7 +8,7 @@ GASHOUDER is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] | Armin van Buuren, Benwal, IDEMI |
+| Wed, 21 Oct 2026 | GASHOUDER presents: Armin van Buuren & Benwal [Sold Out] | Armin van Buuren, Benwal, IDEMI, Olive Anguz |
 | Thu, 22 Oct 2026 | GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out] | I Hate Models, Maudux, Nico Moreno |
 | Fri, 23 Oct 2026 | GASHOUDER presents: Job Jobse [Sold Out] | BASHKKA, Job Jobse, Ryan Elliott |
 | Fri, 23 Oct 2026 | GASHOUDER presents: Mochakk CALLING | ISAbella, Juliana X, MPH (1), Mochakk, Solarce Brothers |
