@@ -1,6 +1,6 @@
 # anolis
 
-anolis is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Asagaya Drift, Tokyo on Thu, 27 Aug 2026.
+anolis is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Asagaya Drift, Tokyo on Thu, 27 Aug 2026.
 
 anolis is a bass and electronica artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside illequal, NordOst and Yurushite Nyan. Next up: Asagaya Drift, Tokyo on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ anolis is a bass and electronica artist based in Japan, tracked on soundcheck, w
 
 illequal, NordOst, Yurushite Nyan
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anolis/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anolis/)*

@@ -1,6 +1,6 @@
 # Lagoon Femshayma
 
-Lagoon Femshayma is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
+Lagoon Femshayma is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
 
 Lagoon Femshayma is a techno and club artist tracked on soundcheck, with 48 sets logged across Antwerp, Auckland, Bangkok and Barcelona and 9 more. Often billed alongside Lil C, Handsome Rob and Fiyahdred. Next up: The Carpet Shop, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lagoon Femshayma is a techno and club artist tracked on soundcheck, with 48 sets
 
 Lil C, Handsome Rob, Fiyahdred
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagoonfemshayma/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagoonfemshayma/)*

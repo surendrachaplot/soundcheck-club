@@ -1,6 +1,6 @@
 # The Metro Theatre
 
-The Metro Theatre is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Lets go Dancing x Rebotar Presents: BURNR & Miguel De Bois" on Sat, 22 Aug 2026.
+The Metro Theatre is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Lets go Dancing x Rebotar Presents: BURNR & Miguel De Bois" on Sat, 22 Aug 2026.
 
 The Metro Theatre is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Miguel De Bois. Browse upcoming dates, start times and who's playing. 624 George St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ The Metro Theatre is a music venue in Sydney listed on soundcheck. 2 upcoming ni
 
 624 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*

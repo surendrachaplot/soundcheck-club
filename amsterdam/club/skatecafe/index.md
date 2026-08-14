@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ" on Fri, 14 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ" on Fri, 14 Aug 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including AAlva, A For Alpha, amara and Aniko and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

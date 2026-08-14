@@ -1,18 +1,17 @@
 # Blue Velvet Bar de Copas
 
-Blue Velvet Bar de Copas is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fuocco's NIGHT" on Thu, 13 Aug 2026.
+Blue Velvet Bar de Copas is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "BLUE VELVET (Preferiado)" on Sun, 16 Aug 2026.
 
-Blue Velvet Bar de Copas is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Ella Anzoise and Fuocco. Browse upcoming dates, start times and who's playing. Bolívar 624, B1066AAN San Telmo, Buenos Aires, Argentina.
+Blue Velvet Bar de Copas is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Ella Anzoise and Fuocco. Browse upcoming dates, start times and who's playing. Bolívar 624, B1066AAN San Telmo, Buenos Aires, Argentina.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Fuocco's NIGHT | Fuocco |
 | Sun, 16 Aug 2026 | BLUE VELVET (Preferiado) | Ella Anzoise, Fuocco |
 
 ## Address
 
 Bolívar 624, B1066AAN San Telmo, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blue-velvet-bar-de-copas/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blue-velvet-bar-de-copas/)*

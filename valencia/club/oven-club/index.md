@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ERA: F-Kid + Tatiana Roddrigo + Fran.Cis" on Thu, 13 Aug 2026.
+Oven Club is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Total: Hello Sasy + Ariezzz + Achav3 / Bar: VELMOJAH (Bcn) & Nomart" on Fri, 14 Aug 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 11 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 10 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | ERA: F-Kid + Tatiana Roddrigo + Fran.Cis | Fran.cis |
 | Fri, 14 Aug 2026 | Total: Hello Sasy + Ariezzz + Achav3 / Bar: VELMOJAH (Bcn) & Nomart | Ariezzz, Dystorizon, Hello Sasy |
 | Sat, 15 Aug 2026 | Pau Pérez + Kamiel + Melo + Santiago Guilá / Bar: Dalsy & Nomart | Melo (ES), Pau Pérez |
 | Wed, 19 Aug 2026 | Disco Sour: SOUMZ b2b Giorgio Bonetti | Disco Sour |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 11 upcoming nights,
 | Wed, 26 Aug 2026 | Souleast b2b Soumz |  |
 | Thu, 27 Aug 2026 | ERA: Aguirre + Jag + Robson | Aguirre, Robson |
 | Fri, 28 Aug 2026 | Total: Cheriii + Ariezzz + Ladrillovitz / Bar: Strange Boy & Fran-K | Ariezzz, BAR (DE), Cheriii, Ladrillovitz |
+| Sat, 29 Aug 2026 | RAWAX 15 YEARS: Robert Drewek + NACHO MARCO + [ØNE+1] / Bar: MO-OB | Robert Drewek |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

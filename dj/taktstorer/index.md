@@ -1,6 +1,6 @@
 # TAKTSTÖRER
 
-TAKTSTÖRER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+TAKTSTÖRER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 TAKTSTÖRER is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Tiefundton, Abzocka and Ave (DE). Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ TAKTSTÖRER is a techno and hardcore artist based in Germany, tracked on soundch
 
 Tiefundton, Abzocka, Ave (DE)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taktstorer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taktstorer/)*

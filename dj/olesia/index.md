@@ -1,6 +1,6 @@
 # olesia
 
-olesia is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+olesia is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 olesia is a techno and trance artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Melati, THEMPRESS and Donnie Sunshine. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ olesia is a techno and trance artist tracked on soundcheck, with 53 sets logged 
 
 Melati, THEMPRESS, Donnie Sunshine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*

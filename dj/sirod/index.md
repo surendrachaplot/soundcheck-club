@@ -1,6 +1,6 @@
 # Sirod
 
-Sirod is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Skull Bar, Athens on Sat, 15 Aug 2026.
+Sirod is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Skull Bar, Athens on Sat, 15 Aug 2026.
 
 Sirod is a techno and progressive house artist tracked on soundcheck, with 33 sets logged across Athens. Often billed alongside Takis DK, Vrede and Dom K. Next up: Skull Bar, Athens on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sirod is a techno and progressive house artist tracked on soundcheck, with 33 se
 
 Takis DK, Vrede, Dom K
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirod/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirod/)*

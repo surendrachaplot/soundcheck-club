@@ -1,6 +1,6 @@
 # Andy Arts
 
-Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "BIOSIGNAL BLACKOUT: Biometric Music From Uninsured Bodies" on Sat, 15 Aug 2026.
+Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "BIOSIGNAL BLACKOUT: Biometric Music From Uninsured Bodies" on Sat, 15 Aug 2026.
 
 Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Abdul Qadim Haqq and Shawescape Renegade. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
 
@@ -14,4 +14,4 @@ Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, wi
 
 3000 Fenkell Ave, Detroit, MI 48238, USA, Detroit
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*

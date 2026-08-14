@@ -1,6 +1,6 @@
 # Da:mu
 
-Da:mu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Super5, Lyon on Fri, 14 Aug 2026.
+Da:mu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Super5, Lyon on Fri, 14 Aug 2026.
 
 Da:mu is a trance and techno artist tracked on soundcheck, with 12 sets logged across Dusseldorf, Lyon and Nantes. Often billed alongside RAL.X, Neri J and Ottäkam. Next up: Super5, Lyon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Da:mu is a trance and techno artist tracked on soundcheck, with 12 sets logged a
 
 RAL.X, Neri J, Ottäkam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damu-fr/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damu-fr/)*

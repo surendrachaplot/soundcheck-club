@@ -1,13 +1,14 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+Vaccaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
-Vaccaro is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: ÆDEN, Berlin on Sun 23 Aug.
+Vaccaro is a techno and house artist tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | ÆDEN | Berlin |
 | Sun, 23 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vaccaro is a techno and house artist tracked on soundcheck, with 29 sets logged 
 
 MXC, Tinco, No Auer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*

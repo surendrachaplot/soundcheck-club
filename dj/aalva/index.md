@@ -1,6 +1,6 @@
 # AAlva
 
-AAlva is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
+AAlva is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
 
 AAlva is a baile funk and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Brussels and Rotterdam. Often billed alongside Pedro da Mata, Not Yet (2) and FILAIPE. Next up: Skatecafe, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ AAlva is a baile funk and house artist tracked on soundcheck, with 18 sets logge
 
 Pedro da Mata, Not Yet (2), FILAIPE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aalva/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aalva/)*

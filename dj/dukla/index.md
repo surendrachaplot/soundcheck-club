@@ -1,6 +1,6 @@
 # Dukla
 
-Dukla is a Garage and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Thu, 20 Aug 2026.
+Dukla is a Garage and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Fuchs2, Prague on Thu, 20 Aug 2026.
 
 Dukla is a garage and electronica artist based in Czech Republic, tracked on soundcheck, with 2 sets logged across Prague. Often billed alongside Young Aesthete. Next up: Fuchs2, Prague on Thu 20 Aug.
 
@@ -15,4 +15,4 @@ Dukla is a garage and electronica artist based in Czech Republic, tracked on sou
 
 Young Aesthete
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dukla/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dukla/)*

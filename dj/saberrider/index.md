@@ -1,6 +1,6 @@
 # Saber Rider
 
-Saber Rider is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Romantso, Athens on Sat, 3 Oct 2026.
+Saber Rider is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Romantso, Athens on Sat, 3 Oct 2026.
 
 Saber Rider is a bass and electronica artist based in Greece, tracked on soundcheck, with 31 sets logged across Athens. Often billed alongside Poor J’Darr, Miss Trouli and A. Square. Next up: Romantso, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saber Rider is a bass and electronica artist based in Greece, tracked on soundch
 
 Poor J’Darr, Miss Trouli, A. Square
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saberrider/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saberrider/)*

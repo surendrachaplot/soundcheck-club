@@ -1,6 +1,6 @@
 # Arvi
 
-Arvi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
+Arvi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
 
 Arvi is a house and techno artist tracked on soundcheck, with 55 sets logged across Chicago, Lisbon, Miami and Montreal and 2 more. Often billed alongside Kurilo, CAMILLA and Faver. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arvi is a house and techno artist tracked on soundcheck, with 55 sets logged acr
 
 Kurilo, CAMILLA, Faver
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arvi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arvi/)*

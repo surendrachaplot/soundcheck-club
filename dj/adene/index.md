@@ -1,6 +1,6 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Arzenal, Budapest on Sat, 12 Sept 2026.
+ädene is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Arzenal, Budapest on Sat, 12 Sept 2026.
 
 ädene is a techno and industrial artist based in Hungary, tracked on soundcheck, with 49 sets logged across Budapest. Often billed alongside Johanna Bozai, rav:n and Ben Dover. Next up: Arzenal, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@
 
 Johanna Bozai, rav:n, Ben Dover
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*

@@ -1,6 +1,6 @@
 # Ah Dek
 
-Ah Dek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
+Ah Dek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
 
 Ah Dek is a house and techno artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Kristen London, DJ girlcrush and Sex Over Thirty. Next up: Mood Ring, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ah Dek is a house and techno artist tracked on soundcheck, with 13 sets logged a
 
 Kristen London, DJ girlcrush, Sex Over Thirty
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*

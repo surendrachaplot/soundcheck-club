@@ -1,6 +1,6 @@
 # 10cust
 
-10cust is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cafeteria, Toronto on Fri, 21 Aug 2026.
+10cust is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cafeteria, Toronto on Fri, 21 Aug 2026.
 
 10cust is a club and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Boston and London and 7 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: Cafeteria, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Ali RQ, Frost Children, MCR-T
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*

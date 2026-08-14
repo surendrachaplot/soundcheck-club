@@ -1,6 +1,6 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "XPECTED - Techno in 3 Stages - 9 Hrs Rave" on Fri, 14 Aug 2026.
+The Bernard Shaw is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "XPECTED - Techno in 3 Stages - 9 Hrs Rave" on Fri, 14 Aug 2026.
 
 The Bernard Shaw is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including Accomplice, Catz 'N Dogz, Connect and Handsome Paddy and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
@@ -21,4 +21,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 8 upcoming nig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

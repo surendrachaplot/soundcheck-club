@@ -1,6 +1,6 @@
 # Udolph
 
-Udolph is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 4 Sept 2026.
+Udolph is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 4 Sept 2026.
 
 Udolph is a techno and electronica artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside Milena Adamis, Dist and Farceb. Next up: Crobar - Buenos Aires, Buenosaires on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Udolph is a techno and electronica artist based in Argentina, tracked on soundch
 
 Milena Adamis, Dist, Farceb
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/udolph/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/udolph/)*

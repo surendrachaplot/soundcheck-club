@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
+JOKESONYOU is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Lokschuppen Berlin, Berlin on Fri 14 Aug.
 
@@ -31,4 +31,4 @@ JOKESONYOU is a techno and trance artist based in Australia, tracked on soundche
 
 3LEEZA, Azyr, Mika Heggemann
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

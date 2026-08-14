@@ -1,6 +1,6 @@
 # Sincz
 
-Sincz is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kaskada, Warsaw on Sat, 15 Aug 2026.
+Sincz is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kaskada, Warsaw on Sat, 15 Aug 2026.
 
 Sincz is a techno and tech house artist tracked on soundcheck, with 45 sets logged across Barcelona, Copenhagen, Krakow and Prague and 1 more. Often billed alongside WEIKUM, Angelo Mike and Korenberg. Next up: Kaskada, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sincz is a techno and tech house artist tracked on soundcheck, with 45 sets logg
 
 WEIKUM, Angelo Mike, Korenberg
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sincz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sincz/)*

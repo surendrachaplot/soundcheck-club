@@ -1,14 +1,15 @@
 # ELVI (SE)
 
-ELVI (SE) is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
+ELVI (SE) is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-ELVI (SE) is a downtempo and electronica artist based in Sweden, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 3 more. Often billed alongside Prunk, Kim April and Enzo Leep. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
+ELVI (SE) is a downtempo and electronica artist based in Sweden, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 3 more. Often billed alongside Prunk, Kim April and Enzo Leep. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ELVI (SE) is a downtempo and electronica artist based in Sweden, tracked on soun
 
 Prunk, Kim April, Enzo Leep
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*

@@ -1,6 +1,6 @@
 # MAHO (2)
 
-MAHO (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bank30, Tokyo on Sun, 6 Sept 2026.
+MAHO (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bank30, Tokyo on Sun, 6 Sept 2026.
 
 MAHO (2) is a techno and house artist based in Morocco, tracked on soundcheck, with 4 sets logged across Berlin and Tokyo. Often billed alongside pink-panther, Cono (3) and Damaskey. Next up: Bank30, Tokyo on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ MAHO (2) is a techno and house artist based in Morocco, tracked on soundcheck, w
 
 pink-panther, Cono (3), Damaskey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maho-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maho-2/)*

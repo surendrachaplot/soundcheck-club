@@ -1,6 +1,6 @@
 # Goiaba
 
-Goiaba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
+Goiaba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
 
 Goiaba is a house and tech house artist tracked on soundcheck, with 26 sets logged across Berlin, Frankfurt, Munich and Stuttgart. Often billed alongside Chet Rubbs, VSSL and Subthiel. Next up: Legal, Munich on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Goiaba is a house and tech house artist tracked on soundcheck, with 26 sets logg
 
 Chet Rubbs, VSSL, Subthiel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaba/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaba/)*

@@ -1,6 +1,6 @@
 # DART
 
-DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Ferry, Glasgow on Sat, 15 Aug 2026.
+DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Ferry, Glasgow on Sat, 15 Aug 2026.
 
 DART is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: The Ferry, Glasgow on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ DART is a techno and house artist tracked on soundcheck, with 108 sets logged ac
 
 Kyle Starkey, Ben Hemsley, Kara Okay
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

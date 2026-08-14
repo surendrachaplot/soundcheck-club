@@ -1,6 +1,6 @@
 # Marc Brauner
 
-Marc Brauner is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
+Marc Brauner is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
 
 Marc Brauner is a house and disco artist tracked on soundcheck, with 61 sets logged across Antwerp, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Luca Olivotto, DJ Houseum and David Silver. Next up: Yan Gastro, Istanbul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Marc Brauner is a house and disco artist tracked on soundcheck, with 61 sets log
 
 Luca Olivotto, DJ Houseum, David Silver
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*

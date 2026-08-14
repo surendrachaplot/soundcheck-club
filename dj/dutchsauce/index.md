@@ -1,6 +1,6 @@
 # Dutch Sauce
 
-Dutch Sauce is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Fri, 14 Aug 2026.
+Dutch Sauce is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Fri, 14 Aug 2026.
 
 Dutch Sauce is a house and breakbeat artist tracked on soundcheck, with 4 sets logged across Bristol and Sheffield. Often billed alongside AÆE, Amz and Anil (UK). Next up: The Full Moon Pub & Attic Bar, Bristol on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Dutch Sauce is a house and breakbeat artist tracked on soundcheck, with 4 sets l
 
 AÆE, Amz, Anil (UK)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchsauce/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchsauce/)*

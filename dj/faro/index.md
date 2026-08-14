@@ -1,6 +1,6 @@
 # Faro
 
-Faro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
+Faro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
 
 Faro is a house and disco artist tracked on soundcheck, with 61 sets logged across Berlin, Brighton, Edinburgh and London and 1 more. Often billed alongside LEV (UK), Daisha and Jamesey. Next up: The BBE Store, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Faro is a house and disco artist tracked on soundcheck, with 61 sets logged acro
 
 LEV (UK), Daisha, Jamesey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*

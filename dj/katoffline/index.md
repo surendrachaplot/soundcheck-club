@@ -1,6 +1,6 @@
 # Kat Offline
 
-Kat Offline is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
+Kat Offline is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
 
 Kat Offline is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Kfeelz, RAQX and moong!rl. Next up: Jupiter Disco, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kat Offline is a house and techno artist based in United States of America, trac
 
 Kfeelz, RAQX, moong!rl
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katoffline/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katoffline/)*

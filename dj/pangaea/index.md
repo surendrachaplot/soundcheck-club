@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Pangaea is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Pangaea is a techno and bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Bali and 49 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: FOLD, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Pangaea is a techno and bass artist tracked on soundcheck, with 121 sets logged 
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

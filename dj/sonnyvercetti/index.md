@@ -1,6 +1,6 @@
 # Sonny Vercetti
 
-Sonny Vercetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at rake?raka?, Osaka on Fri, 14 Aug 2026.
+Sonny Vercetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at rake?raka?, Osaka on Fri, 14 Aug 2026.
 
 Sonny Vercetti is a techno and house artist based in Japan, tracked on soundcheck, with 57 sets logged across Osaka. Often billed alongside Phekam, SIROH and MMORITA. Next up: rake?raka?, Osaka on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sonny Vercetti is a techno and house artist based in Japan, tracked on soundchec
 
 Phekam, SIROH, MMORITA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyvercetti/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyvercetti/)*

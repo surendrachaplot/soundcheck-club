@@ -1,14 +1,15 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+ANDATA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
-ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Berlin, Budapest, Cologne and Frankfurt and 10 more. Often billed alongside HOTBOI2300, Niotech and SKKIN VELVET. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
+ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, with 91 sets logged across Berlin, Budapest, Cologne and Frankfurt and 10 more. Often billed alongside HOTBOI2300, Invaria and Niotech. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 4 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 12 Sept 2026 | OST | Berlin |
 | Fri, 18 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 9 Oct 2026 | OST | Berlin |
@@ -27,6 +28,6 @@ ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-HOTBOI2300, Niotech, SKKIN VELVET
+HOTBOI2300, Invaria, Niotech
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

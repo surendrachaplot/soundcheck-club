@@ -1,6 +1,6 @@
 # Miss SS
 
-Miss SS is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, Kuala Lumpur,50450, Kuala Lumpur on Fri, 14 Aug 2026.
+Miss SS is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, Kuala Lumpur,50450, Kuala Lumpur on Fri, 14 Aug 2026.
 
 Miss SS is a house and afro house artist based in Malaysia, tracked on soundcheck, with 8 sets logged across Kualalumpur. Often billed alongside Biscuit (MY), Meliha and OtherKind. Next up: TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, Kuala Lumpur,50450, Kualalumpur on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Miss SS is a house and afro house artist based in Malaysia, tracked on soundchec
 
 Biscuit (MY), Meliha, OtherKind
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missss/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missss/)*

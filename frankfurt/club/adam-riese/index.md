@@ -1,6 +1,6 @@
 # Adam Riese
 
-Adam Riese is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "EINXEINS" on Sat, 15 Aug 2026.
+Adam Riese is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "EINXEINS" on Sat, 15 Aug 2026.
 
 Adam Riese is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including Biagio Sibilla. Browse upcoming dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
 
@@ -14,4 +14,4 @@ Adam Riese is a music venue in Frankfurt listed on soundcheck. 1 upcoming night,
 
 Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*

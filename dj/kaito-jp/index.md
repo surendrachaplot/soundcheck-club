@@ -1,6 +1,6 @@
 # KAITO.
 
-KAITO. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
+KAITO. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
 
 KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 38 sets logged across Kyoto, Osaka, Seoul and Tokyo and 1 more. Often billed alongside TETSUO (2), Lomax and AKIHIRO. Next up: TBA, Vancouver on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 TETSUO (2), Lomax, AKIHIRO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*

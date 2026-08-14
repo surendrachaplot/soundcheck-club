@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound)" on Fri, 14 Aug 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound)" on Fri, 14 Aug 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, A Strange Wedding, Charlieowo and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, A Strange Wedding, Charlieowo and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
@@ -17,10 +17,10 @@
 | Fri, 4 Sept 2026 | 宀 Invites Taku Hirayama (Junction, Da Nang) + Stevie Whisper (YES, Belgrade) | Stevie Whisper, Taku Hirayama |
 | Sat, 5 Sept 2026 | 宀 Invites DJ Yazi (Future Terror, Tokyo) [All Night Long] | DJ Yazi |
 | Fri, 11 Sept 2026 | Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong) | Sunsiaré, Wada Yosuke |
-| Sat, 12 Sept 2026 | DISTRIKT 33: A Strange Wedding (useless seconds, Berlin) [LIVE] | A Strange Wedding |
+| Fri, 11 Sept 2026 | Entropy 熵 with Mogano (Arboretum, Berlin) + Marco Yu (TRI) + Nanogram (Entropy 熵) | MarcoYu, Mogano, Nanogram |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

@@ -1,6 +1,6 @@
 # Running Hot
 
-Running Hot is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Amari Bar, Munich on Sat, 15 Aug 2026.
+Running Hot is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Amari Bar, Munich on Sat, 15 Aug 2026.
 
 Running Hot is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: Amari Bar, Munich on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Running Hot is a house and techno artist tracked on soundcheck, with 72 sets log
 
 Alex Kassian, Vio PRG, DJ TEETH
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*

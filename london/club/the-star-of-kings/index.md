@@ -1,6 +1,6 @@
 # The Star Of Kings
 
-The Star Of Kings is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ELECTRIC DREAMS (electronic / alternative music club night)" on Fri, 28 Aug 2026.
+The Star Of Kings is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ELECTRIC DREAMS (electronic / alternative music club night)" on Fri, 28 Aug 2026.
 
 The Star Of Kings is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 126 York Way; Kings Cross; London N1 0AX; United Kingdom.
 
@@ -17,4 +17,4 @@ The Star Of Kings is a music venue in London listed on soundcheck. 4 upcoming ni
 
 126 York Way; Kings Cross; London N1 0AX; United Kingdom, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-star-of-kings/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-star-of-kings/)*

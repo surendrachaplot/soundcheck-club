@@ -1,6 +1,6 @@
 # André Baum
 
-André Baum is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Outer Heaven, New York City on Fri, 21 Aug 2026.
+André Baum is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Outer Heaven, New York City on Fri, 21 Aug 2026.
 
 André Baum is a house and experimental artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Miami, Newyorkcity and Paris. Often billed alongside Gulp, Adam Collins and Adi (CO). Next up: Outer Heaven, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ André Baum is a house and experimental artist based in United States of America
 
 Gulp, Adam Collins, Adi (CO)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebaum/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebaum/)*

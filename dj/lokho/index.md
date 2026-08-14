@@ -1,6 +1,6 @@
 # LoKho
 
-LoKho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Lella Alimentari, New York City on Fri, 14 Aug 2026.
+LoKho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Lella Alimentari, New York City on Fri, 14 Aug 2026.
 
 LoKho is a house and techno artist tracked on soundcheck, with 23 sets logged across Brussels and Newyorkcity. Often billed alongside Abril IRL, Scribble and ceviché. Next up: TBA - Lella Alimentari, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LoKho is a house and techno artist tracked on soundcheck, with 23 sets logged ac
 
 Abril IRL, Scribble, ceviché
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lokho/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lokho/)*

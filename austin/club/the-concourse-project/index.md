@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 31 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "FREE with RSVP: Craze x Dieselboy" on Thu, 13 Aug 2026.
+The Concourse Project is a music venue in Austin with 30 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Audien with TELYKAST + Amel" on Fri, 14 Aug 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 31 upcoming nights, with line-ups including Adam Port, Alignment, Audien and Azzecca and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcoming nights, with line-ups including Adam Port, Alignment, Audien and Azzecca and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | FREE with RSVP: Craze x Dieselboy | Craze, Dieselboy |
 | Fri, 14 Aug 2026 | Audien with TELYKAST + Amel | Audien |
 | Sat, 15 Aug 2026 | ACRAZE | Rello |
 | Fri, 21 Aug 2026 | Azzecca (Extended Set) + William Kiss - Austin | Azzecca, William Kiss |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 31 upcomi
 | Sat, 29 Aug 2026 | Indo Warehouse | DJ FERNO, Deer Jade |
 | Thu, 3 Sept 2026 | FREE with RSVP: Jamback | Jamback |
 | Fri, 4 Sept 2026 | Lilly Palmer (Extended Set) | Lilly Palmer |
+| Sat, 5 Sept 2026 | WhoMadeWho (Hybrid DJ Set) | WhoMadeWho |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

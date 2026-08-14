@@ -1,6 +1,6 @@
 # Tschatsching
 
-Tschatsching is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+Tschatsching is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
 Tschatsching is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Cologne. Often billed alongside Gutkind, Szunflower and Gilles Bock. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tschatsching is a house and techno artist based in Germany, tracked on soundchec
 
 Gutkind, Szunflower, Gilles Bock
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*

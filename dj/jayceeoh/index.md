@@ -1,6 +1,6 @@
 # Jayceeoh
 
-Jayceeoh is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Wok and Roll Nightclub, Washington DC on Sat, 12 Sept 2026.
+Jayceeoh is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Wok and Roll Nightclub, Washington DC on Sat, 12 Sept 2026.
 
 Jayceeoh is a bass and drum & bass artist tracked on soundcheck, with 3 sets logged across Austin and Washingtondc. Often billed alongside AG (NYC), Borne (US) and Calcium. Next up: Wok and Roll Nightclub, Washingtondc on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Jayceeoh is a bass and drum & bass artist tracked on soundcheck, with 3 sets log
 
 AG (NYC), Borne (US), Calcium
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayceeoh/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayceeoh/)*

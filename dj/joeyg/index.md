@@ -1,6 +1,6 @@
 # Joey G
 
-Joey G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
+Joey G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
 
 Joey G is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bristol, Kualalumpur, London and Newcastle and 1 more. Often billed alongside Nicky Blackmarket, Nicky B and Solartrak. Next up: Anchor Rock Club, Philadelphia on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Joey G is a house and techno artist based in United Kingdom, tracked on soundche
 
 Nicky Blackmarket, Nicky B, Solartrak
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyg/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyg/)*

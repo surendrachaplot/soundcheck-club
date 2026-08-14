@@ -1,6 +1,6 @@
 # Sunni D
 
-Sunni D is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Low Profile Studios, London on Fri, 14 Aug 2026.
+Sunni D is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Low Profile Studios, London on Fri, 14 Aug 2026.
 
 Sunni D is a disco and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Copenhagen and Glasgow and 9 more. Often billed alongside JOSH FB, STEWPOT and Daisybelle. Next up: Low Profile Studios, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sunni D is a disco and house artist tracked on soundcheck, with 56 sets logged a
 
 JOSH FB, STEWPOT, Daisybelle
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnid/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnid/)*

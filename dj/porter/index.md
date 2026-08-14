@@ -1,6 +1,6 @@
 # Porter
 
-Porter is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 14 Aug 2026.
+Porter is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 14 Aug 2026.
 
 Porter is a house and club artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Caren Callas, Flo Pirke and Lewin Paul. Next up: Bulbul Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Porter is a house and club artist tracked on soundcheck, with 12 sets logged acr
 
 Caren Callas, Flo Pirke, Lewin Paul
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*

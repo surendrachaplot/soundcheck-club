@@ -1,6 +1,6 @@
 # UnesGroove
 
-UnesGroove is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 14 Aug 2026.
+UnesGroove is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 14 Aug 2026.
 
 UnesGroove is a house and afro house artist tracked on soundcheck, with 17 sets logged across Lisbon and Paris. Often billed alongside TheBrooves, KETATA and Track Advisor. Next up: La Rotonde Stalingrad, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ UnesGroove is a house and afro house artist tracked on soundcheck, with 17 sets 
 
 TheBrooves, KETATA, Track Advisor
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unesgroove/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unesgroove/)*

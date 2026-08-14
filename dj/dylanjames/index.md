@@ -1,6 +1,6 @@
 # Dylan James
 
-Dylan James is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
+Dylan James is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
 
 Dylan James is a techno and tech house artist tracked on soundcheck, with 20 sets logged across London and Melbourne. Often billed alongside Harral, Etwas and Andrea Guadalupi. Next up: Starlane Pizza Bar, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Dylan James is a techno and tech house artist tracked on soundcheck, with 20 set
 
 Harral, Etwas, Andrea Guadalupi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanjames/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanjames/)*

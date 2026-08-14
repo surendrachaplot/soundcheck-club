@@ -1,6 +1,6 @@
 # Speaker Music
 
-Speaker Music is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at KW Studios, Vancouver on Sat, 22 Aug 2026.
+Speaker Music is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at KW Studios, Vancouver on Sat, 22 Aug 2026.
 
 Speaker Music is an experimental and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Losangeles, Manchester and Newyorkcity and 4 more. Often billed alongside Endgame, Kode9 and MIIIA. Next up: KW Studios, Vancouver on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Speaker Music is an experimental and techno artist based in United States of Ame
 
 Endgame, Kode9, MIIIA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakermusic/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakermusic/)*

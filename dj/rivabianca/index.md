@@ -1,6 +1,6 @@
 # Riva + Bianca
 
-Riva + Bianca is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
+Riva + Bianca is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
 
 Riva + Bianca are a house and tech house duo based in United States of America, tracked on soundcheck, with 64 sets logged across Miami, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Firestone, Ben Arsenal and Blanco Rabbit. Next up: Superior Ingredients, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Riva + Bianca are a house and tech house duo based in United States of America, 
 
 Firestone, Ben Arsenal, Blanco Rabbit
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*

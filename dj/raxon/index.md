@@ -1,6 +1,6 @@
 # Raxon
 
-Raxon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kastel, Istanbul on Sat, 5 Sept 2026.
+Raxon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kastel, Istanbul on Sat, 5 Sept 2026.
 
 Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Maceo Plex, no_ip and Fedele. Next up: Kastel, Istanbul on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 6
 
 Maceo Plex, no_ip, Fedele
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*

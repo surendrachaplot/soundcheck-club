@@ -1,6 +1,6 @@
 # Robert Luis
 
-Robert Luis is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Robert Luis is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Robert Luis is a house and downtempo artist based in Germany, tracked on soundcheck, with 7 sets logged across Brighton and London. Often billed alongside WheelUP, dialE and 808 State. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Robert Luis is a house and downtempo artist based in Germany, tracked on soundch
 
 WheelUP, dialE, 808 State
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertluis/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertluis/)*

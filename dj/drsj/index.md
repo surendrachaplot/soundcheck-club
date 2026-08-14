@@ -1,6 +1,6 @@
 # DRSJ
 
-DRSJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
+DRSJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
 
 DRSJ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam and London. Often billed alongside DEEJAYGEE, Danny Marx and LUKE SIEKIERA. Next up: Egg London, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DRSJ is a house and tech house artist based in United Kingdom, tracked on soundc
 
 DEEJAYGEE, Danny Marx, LUKE SIEKIERA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drsj/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drsj/)*

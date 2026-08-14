@@ -1,6 +1,6 @@
 # Danielle
 
-Danielle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Danielle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Danielle is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Danielle is a techno and house artist tracked on soundcheck, with 140 sets logge
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

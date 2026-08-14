@@ -1,6 +1,6 @@
 # Miss Lil
 
-Miss Lil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Wonder Room The Singapore EDITION Hotel, Singapore on Fri, 21 Aug 2026.
+Miss Lil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Wonder Room The Singapore EDITION Hotel, Singapore on Fri, 21 Aug 2026.
 
 Miss Lil is a house and techno artist tracked on soundcheck, with 28 sets logged across Kualalumpur, Seoul and Singapore. Often billed alongside Sivanesh, 3MZY and James Selva. Next up: TBA - Wonder Room The Singapore EDITION Hotel, Singapore on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Miss Lil is a house and techno artist tracked on soundcheck, with 28 sets logged
 
 Sivanesh, 3MZY, James Selva
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslil/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslil/)*

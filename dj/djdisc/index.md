@@ -1,6 +1,6 @@
 # Dj Disc
 
-Dj Disc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Spkrbox, Detroit on Fri, 14 Aug 2026.
+Dj Disc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Spkrbox, Detroit on Fri, 14 Aug 2026.
 
 Dj Disc is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Detroit. Often billed alongside Brent Shay, Alexander Technique and Destro187. Next up: Spkrbox, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dj Disc is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Alexander Technique, Destro187
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisc/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisc/)*

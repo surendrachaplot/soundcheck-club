@@ -1,6 +1,6 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 14 Aug 2026.
+Black Loops is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 14 Aug 2026.
 
 Black Loops is a house and deep house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Bali and Bangkok and 41 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: De Fik Garden, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Black Loops is a house and deep house artist tracked on soundcheck, with 146 set
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

@@ -1,6 +1,6 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Unique Rhythm free August daytime party" on Sat, 15 Aug 2026.
+The Horse & Groom is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Unique Rhythm free August daytime party" on Sat, 15 Aug 2026.
 
 The Horse & Groom is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Danny Howells, Grant McKay, HENDERSON and Industry Standard and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
@@ -18,4 +18,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 5 upcoming ni
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

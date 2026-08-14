@@ -1,6 +1,6 @@
 # Stefan Seay
 
-Stefan Seay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
+Stefan Seay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
 
 Stefan Seay is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Losangeles. Often billed alongside Michael Fam, A.S.S and AGILY. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Stefan Seay is a house and techno artist based in Germany, tracked on soundcheck
 
 Michael Fam, A.S.S, AGILY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanseay/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanseay/)*

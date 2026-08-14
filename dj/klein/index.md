@@ -1,6 +1,6 @@
 # Klein
 
-Klein is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+Klein is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
 Klein is an experimental and club artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside upsammy, Embaci and Shapednoise. Next up: Recyclart, Brussels on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Klein is an experimental and club artist tracked on soundcheck, with 33 sets log
 
 upsammy, Embaci, Shapednoise
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*

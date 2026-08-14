@@ -1,6 +1,6 @@
 # TIZIANO
 
-TIZIANO is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
+TIZIANO is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
 
 TIZIANO is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside jeanska, bbymeister and DJ Haarpracht aka JaJo. Next up: M-BIA, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ TIZIANO is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 jeanska, bbymeister, DJ Haarpracht aka JaJo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiziano/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiziano/)*

@@ -1,13 +1,14 @@
 # Human Safari
 
-Human Safari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Human Safari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Human Safari is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Buenosaires and Cologne and 13 more. Often billed alongside SHDW, Budg and Kyle Cortis. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+Human Safari is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Buenosaires and Cologne and 13 more. Often billed alongside SHDW, Budg and Kyle Cortis. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Human Safari is a techno and house artist tracked on soundcheck, with 57 sets lo
 
 SHDW, Budg, Kyle Cortis
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*

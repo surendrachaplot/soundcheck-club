@@ -1,6 +1,6 @@
 # Falpa
 
-Falpa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
+Falpa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
 
 Falpa is a house and deep house artist tracked on soundcheck, with 11 sets logged across Berlin, Boston, Losangeles and Mexicocity and 3 more. Often billed alongside Some Uncertain Sir, Anderson (US) and Snad. Next up: TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Falpa is a house and deep house artist tracked on soundcheck, with 11 sets logge
 
 Some Uncertain Sir, Anderson (US), Snad
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falpa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falpa/)*

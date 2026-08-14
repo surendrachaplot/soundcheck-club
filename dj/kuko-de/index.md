@@ -1,13 +1,14 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 19 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+KUKO is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Arzenal, Budapest on Wed 19 Aug.
+KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -19,7 +20,6 @@ KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged a
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Radius | Chicago |
-| Fri, 18 Sept 2026 | Radius | Chicago |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged a
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

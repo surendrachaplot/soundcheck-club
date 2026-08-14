@@ -1,8 +1,8 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SHØCC pres. Plea5urepul5e" on Fri, 14 Aug 2026.
+M-BIA is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SHØCC pres. Plea5urepul5e" on Fri, 14 Aug 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and BVNNII and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and BVNNII and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 | Fri, 4 Sept 2026 | 15Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid  | Anime, Techno Frühstück, Tekk, Unicorn on Ketamine |
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
-| Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Remzcore |
+| Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

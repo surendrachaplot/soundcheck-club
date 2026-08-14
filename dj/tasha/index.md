@@ -1,6 +1,6 @@
 # Tasha
 
-Tasha is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 27 Aug 2026.
+Tasha is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OHM, Berlin on Thu, 27 Aug 2026.
 
 Tasha is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: OHM, Berlin on Thu 27 Aug.
 
@@ -30,4 +30,4 @@ Tasha is a techno and house artist tracked on soundcheck, with 187 sets logged a
 
 Steffi, Blasha & Allatt, DVS1
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

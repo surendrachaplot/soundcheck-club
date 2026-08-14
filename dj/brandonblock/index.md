@@ -1,6 +1,6 @@
 # Brandon Block
 
-Brandon Block is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
+Brandon Block is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
 
 Brandon Block is a house and tech house artist tracked on soundcheck, with 39 sets logged across Auckland, Brighton, Brisbane and Ibiza and 3 more. Often billed alongside Bongo Ben, Alex P and Tristan Ingram. Next up: Prospect Park, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Brandon Block is a house and tech house artist tracked on soundcheck, with 39 se
 
 Bongo Ben, Alex P, Tristan Ingram
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*

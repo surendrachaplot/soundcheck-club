@@ -1,13 +1,14 @@
 # POLSCHI (2)
 
-POLSCHI (2) is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Gewölbe, Cologne on Sat, 12 Sept 2026.
+POLSCHI (2) is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gewölbe, Cologne on Fri, 11 Sept 2026.
 
-POLSCHI (2) is a house and dub techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Lingy, Bergen and Better Call Paul. Next up: Gewölbe, Cologne on Sat 12 Sept.
+POLSCHI (2) is a house and dub techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Lingy, Mike Starr and Bergen. Next up: Gewölbe, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Gewölbe | Cologne |
 | Sat, 12 Sept 2026 | Gewölbe | Cologne |
 
 ## Recently played
@@ -21,6 +22,6 @@ POLSCHI (2) is a house and dub techno artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-Lingy, Bergen, Better Call Paul
+Lingy, Mike Starr, Bergen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*

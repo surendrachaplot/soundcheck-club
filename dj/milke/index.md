@@ -1,6 +1,6 @@
 # Milkē
 
-Milkē is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
+Milkē is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
 
 Milkē is a techno and breakbeat artist based in Venezuela, tracked on soundcheck, with 26 sets logged across Montreal. Often billed alongside Christø, Bianca Badita and Mike Larry. Next up: Stereo, Montreal on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Milkē is a techno and breakbeat artist based in Venezuela, tracked on soundchec
 
 Christø, Bianca Badita, Mike Larry
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milke/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milke/)*

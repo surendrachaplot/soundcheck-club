@@ -1,6 +1,6 @@
 # Associate
 
-Associate is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 1624 U St NW, Washington, DC 20009 (Nabiha), Washington DC on Fri, 14 Aug 2026.
+Associate is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 1624 U St NW, Washington, DC 20009 (Nabiha), Washington DC on Fri, 14 Aug 2026.
 
 Associate is a techno and house artist tracked on soundcheck, with 68 sets logged across Chicago, Detroit, Vancouver and Washingtondc. Often billed alongside Stos, Kiva and Ben Jenkins. Next up: TBA - 1624 U St NW, Washington, DC 20009 (Nabiha), Washingtondc on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Associate is a techno and house artist tracked on soundcheck, with 68 sets logge
 
 Stos, Kiva, Ben Jenkins
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/associate/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/associate/)*

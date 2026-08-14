@@ -1,14 +1,15 @@
 # Kaoll
 
-Kaoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
+Kaoll is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
 
-Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Osaka. Often billed alongside FENGX2, LIZA (6) and ZAGUN. Next up: Joule, Osaka on Fri 14 Aug.
+Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 10 sets logged across Osaka. Often billed alongside FENGX2, ZAGUN and inudog system. Next up: Joule, Osaka on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Joule | Osaka |
+| Fri, 14 Aug 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 9
 
 ## Shares bills with
 
-FENGX2, LIZA (6), ZAGUN
+FENGX2, ZAGUN, inudog system
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*

@@ -1,14 +1,15 @@
 # Juan Maclean
 
-Juan Maclean is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 15 Aug 2026.
+Juan Maclean is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 15 Aug 2026.
 
-Juan Maclean is a house and disco artist based in United States of America, tracked on soundcheck, with 64 sets logged across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Matthew Dear, Gee Dee and Kate Stein. Next up: Public Works, Sanfrancisco on Sat 15 Aug.
+Juan Maclean is a house and disco artist based in United States of America, tracked on soundcheck, with 65 sets logged across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Matthew Dear, Gee Dee and Kate Stein. Next up: Public Works, Sanfrancisco on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Public Works | San Francisco/Oakland |
+| Thu, 3 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 2 Oct 2026 | Hidden Hall | Seattle |
 
 ## Recently played
@@ -26,4 +27,4 @@ Juan Maclean is a house and disco artist based in United States of America, trac
 
 Matthew Dear, Gee Dee, Kate Stein
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*

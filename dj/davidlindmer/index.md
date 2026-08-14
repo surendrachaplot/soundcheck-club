@@ -1,6 +1,6 @@
 # David Lindmer
 
-David Lindmer is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at SILO, New York City on Sat, 17 Oct 2026.
+David Lindmer is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at SILO, New York City on Sat, 17 Oct 2026.
 
 David Lindmer is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Buenosaires, Ibiza and London and 3 more. Often billed alongside Kevin de Vries, Tale Of Us and Fideles. Next up: SILO, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ David Lindmer is a techno and electronica artist based in United Kingdom, tracke
 
 Kevin de Vries, Tale Of Us, Fideles
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlindmer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlindmer/)*

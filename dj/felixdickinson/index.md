@@ -1,6 +1,6 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Felix Dickinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Felix Dickinson is a house and techno artist tracked on soundcheck, with 44 sets logged across Athens, Belgrade, Berlin and Brighton and 11 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Felix Dickinson is a house and techno artist tracked on soundcheck, with 44 sets
 
 Dave Harvey, Chez de Milo, Ellie Stokes
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*

@@ -1,6 +1,6 @@
 # LUNATAYIC
 
-LUNATAYIC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Night Tales, London on Fri, 14 Aug 2026.
+LUNATAYIC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Night Tales, London on Fri, 14 Aug 2026.
 
 LUNATAYIC is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across London and Newyorkcity. Often billed alongside AG (NYC), Brian Thabault and Changing Currents. Next up: Night Tales, London on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ LUNATAYIC is a house and techno artist based in United States of America, tracke
 
 AG (NYC), Brian Thabault, Changing Currents
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatayic/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatayic/)*

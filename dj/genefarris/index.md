@@ -1,6 +1,6 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at 314 Scholes, New York City on Sat, 15 Aug 2026.
+Gene Farris is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 314 Scholes, New York City on Sat, 15 Aug 2026.
 
 Gene Farris is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: 314 Scholes, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gene Farris is a house and tech house artist tracked on soundcheck, with 108 set
 
 OFFAIAH, Mark Knight, Anthony Attalla
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

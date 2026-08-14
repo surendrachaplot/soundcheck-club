@@ -1,6 +1,6 @@
 # 1st bday with tba, Elliott Boyd, Tañ, Dannheimer + Cameron at komunal
 
-1st bday with tba, Elliott Boyd, Tañ, Dannheimer + Cameron at komunal on Sun 30 Aug, Birmingham. 3 acts on the bill: Dannheimer, Elliott Boyd and Tañ. Acid and Minimal. Preview the line-up and save it on soundcheck.
+1st bday with tba, Elliott Boyd, Tañ, Dannheimer + Cameron at komunal on Sun 30 Aug, Birmingham. 3 acts on the bill: Dannheimer, Elliott Boyd and Tañ. Minimal and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

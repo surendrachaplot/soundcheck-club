@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
+Oliver Koletzki is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Oliver Koletzki is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Public Works, Sanfrancisco on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Oliver Koletzki is a techno and house artist tracked on soundcheck, with 119 set
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

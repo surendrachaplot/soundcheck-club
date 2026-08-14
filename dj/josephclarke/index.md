@@ -1,6 +1,6 @@
 # Joseph Clarke
 
-Joseph Clarke is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
+Joseph Clarke is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
 
 Joseph Clarke is a tech house and electronica artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Brussels, London and Warsaw. Often billed alongside Gwenan, ALIX (UK) and Dana Kuehr. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Joseph Clarke is a tech house and electronica artist based in United Kingdom, tr
 
 Gwenan, ALIX (UK), Dana Kuehr
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephclarke/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephclarke/)*

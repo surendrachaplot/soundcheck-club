@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Queer Afro Desi Dynasty" on Fri, 14 Aug 2026.
+The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Queer Afro Desi Dynasty" on Fri, 14 Aug 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Arsonist and Cristal No.5. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -17,4 +17,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

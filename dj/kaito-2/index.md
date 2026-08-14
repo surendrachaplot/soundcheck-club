@@ -1,6 +1,6 @@
 # KAITO (2)
 
-KAITO (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Substance Skatepark, New York City on Sat, 26 Sept 2026.
+KAITO (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Substance Skatepark, New York City on Sat, 26 Sept 2026.
 
 KAITO (2) is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Berlin, Mexicocity and Newyorkcity and 2 more. Often billed alongside Ronaldo, MISS PIPS and Andre Zimmer. Next up: Substance Skatepark, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KAITO (2) is a house and deep house artist based in United States of America, tr
 
 Ronaldo, MISS PIPS, Andre Zimmer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-2/)*

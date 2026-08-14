@@ -1,6 +1,6 @@
 # Chey Selecta
 
-Chey Selecta is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Orange Room, London on Sat, 15 Aug 2026.
+Chey Selecta is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Orange Room, London on Sat, 15 Aug 2026.
 
 Chey Selecta is a dancehall and hip-hop artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside ELLADHC, CVSS and Amy Os. Next up: Orange Room, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chey Selecta is a dancehall and hip-hop artist based in United Kingdom, tracked 
 
 ELLADHC, CVSS, Amy Os
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyselecta/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyselecta/)*

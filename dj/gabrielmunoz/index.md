@@ -1,13 +1,14 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+Gabriel Muñoz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Bella Claxton and DJANGO (NL). Next up: Renate, Berlin on Sat 29 Aug.
+Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Bella Claxton and DJANGO (NL). Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Renate | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
@@ -27,4 +28,4 @@ Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 34 sets 
 
 Milion, Bella Claxton, DJANGO (NL)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

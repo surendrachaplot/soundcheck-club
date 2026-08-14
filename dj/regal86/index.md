@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Regal86 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged 
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

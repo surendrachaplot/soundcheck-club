@@ -1,6 +1,6 @@
 # Charlie Vaux
 
-Charlie Vaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Sun, 23 Aug 2026.
+Charlie Vaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ://about blank, Berlin on Sun, 23 Aug 2026.
 
 Charlie Vaux is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Hamburg, Rome and Warsaw. Often billed alongside Desolate Discotheque, Electric Visionary and Franz Scala. Next up: ://about blank, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Charlie Vaux is a techno and house artist tracked on soundcheck, with 36 sets lo
 
 Desolate Discotheque, Electric Visionary, Franz Scala
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*

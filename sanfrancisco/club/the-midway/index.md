@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Caravan Oasis" on Sun, 16 Aug 2026.
+The Midway is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Caravan Oasis" on Sun, 16 Aug 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including bradeazy, Estiva, Levi (AU) and MOSTASH and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -19,4 +19,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

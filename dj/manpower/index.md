@@ -1,6 +1,6 @@
 # Man Power
 
-Man Power is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 14 Aug 2026.
+Man Power is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 14 Aug 2026.
 
 Man Power is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belfast and 24 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Golden Pudel Club, Hamburg on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Man Power is a house and techno artist tracked on soundcheck, with 94 sets logge
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

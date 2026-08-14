@@ -1,6 +1,6 @@
 # FOLIE (UK)
 
-FOLIE (UK) is a Drum & Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
+FOLIE (UK) is a Drum & Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
 
 FOLIE (UK) is a drum & bass and hardcore artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Rodent, amhailt.xox and Brynk. Next up: The Mash House, Edinburgh on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ FOLIE (UK) is a drum & bass and hardcore artist based in United Kingdom, tracked
 
 Rodent, amhailt.xox, Brynk
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folieuk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folieuk/)*

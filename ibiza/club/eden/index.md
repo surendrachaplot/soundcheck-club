@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 39 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "LA DISTURBIA WEEK 7" on Thu, 13 Aug 2026.
+Eden is a music venue in Ibiza with 38 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FIRE IN THE CLUB WEEK 11" on Fri, 14 Aug 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 39 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 38 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | LA DISTURBIA WEEK 7 | David Penn, Stefano Noferini, The Cube Guys |
 | Fri, 14 Aug 2026 | FIRE IN THE CLUB WEEK 11 |  |
 | Sat, 15 Aug 2026 | FUEGO WEEK 12 |  |
 | Mon, 17 Aug 2026 | ACTIN' BAD WEEK 7 (Presented by Holler At Me) | Alle Farben, CHRSTPHR, Noel Holler, TOXIMAMI |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 39 upcoming nights, with li
 | Fri, 21 Aug 2026 | FIRE IN THE CLUB WEEK 12 |  |
 | Sat, 22 Aug 2026 | FUEGO WEEK 13 |  |
 | Sun, 23 Aug 2026 | ACCUSED @ Eden Ibiza | ACA (YU), Félix (UK), James Cooper (UK), Jamie Fielding, Ramin Rezaie, Reelow, Sam Marzi |
+| Mon, 24 Aug 2026 | ACTIN' BAD WEEK 8 (Presented by Holler At Me) | Alle Farben, Noel Holler |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

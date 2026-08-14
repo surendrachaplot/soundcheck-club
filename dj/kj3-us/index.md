@@ -1,6 +1,6 @@
 # KJ3 (US)
 
-KJ3 (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+KJ3 (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 KJ3 (US) is a house and techno artist tracked on soundcheck, with 18 sets logged across Seattle. Often billed alongside Temenon, alexia.f and Freddy M. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KJ3 (US) is a house and techno artist tracked on soundcheck, with 18 sets logged
 
 Temenon, alexia.f, Freddy M
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*

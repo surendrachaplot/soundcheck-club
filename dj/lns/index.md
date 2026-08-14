@@ -1,6 +1,6 @@
 # LNS
 
-LNS is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paloma, Berlin on Fri, 14 Aug 2026.
+LNS is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paloma, Berlin on Fri, 14 Aug 2026.
 
 LNS is an electro and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Detroit and Leipzig and 7 more. Often billed alongside DJ Sotofett, IMOGEN and Function. Next up: Paloma, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LNS is an electro and techno artist tracked on soundcheck, with 43 sets logged a
 
 DJ Sotofett, IMOGEN, Function
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*

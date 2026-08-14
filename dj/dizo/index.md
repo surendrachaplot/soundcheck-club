@@ -1,6 +1,6 @@
 # Dizo
 
-Dizo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jungle Bar, Brussels on Fri, 14 Aug 2026.
+Dizo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jungle Bar, Brussels on Fri, 14 Aug 2026.
 
 Dizo is a techno and electro artist based in Belgium, tracked on soundcheck, with 32 sets logged across Berlin, Brussels and Ghent. Often billed alongside Ce$ar, Auk. and Makoveev. Next up: Jungle Bar, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dizo is a techno and electro artist based in Belgium, tracked on soundcheck, wit
 
 Ce$ar, Auk., Makoveev
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*

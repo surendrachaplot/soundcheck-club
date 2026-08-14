@@ -1,6 +1,6 @@
 # Juan Mare
 
-Juan Mare is a Ambient and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Vessel, Edinburgh on Fri, 14 Aug 2026.
+Juan Mare is a Ambient and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Vessel, Edinburgh on Fri, 14 Aug 2026.
 
 Juan Mare is an ambient and tech house artist tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside eosap, SSID and Ann Tweak. Next up: Vessel, Edinburgh on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Juan Mare is an ambient and tech house artist tracked on soundcheck, with 8 sets
 
 eosap, SSID, Ann Tweak
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmare/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmare/)*

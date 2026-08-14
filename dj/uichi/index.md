@@ -1,6 +1,6 @@
 # U:ICHI
 
-U:ICHI is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
+U:ICHI is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
 
 U:ICHI is a techno and progressive house artist based in Japan, tracked on soundcheck, with 51 sets logged across Osaka, Prague and Tokyo. Often billed alongside Shogo Ito, AHREUM and Drunken Kong. Next up: WOMB, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ U:ICHI is a techno and progressive house artist based in Japan, tracked on sound
 
 Shogo Ito, AHREUM, Drunken Kong
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uichi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uichi/)*

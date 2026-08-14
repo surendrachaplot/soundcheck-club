@@ -1,6 +1,6 @@
 # Brown Sugar
 
-Brown Sugar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
+Brown Sugar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
 
 Brown Sugar is a tech house and house artist tracked on soundcheck, with 8 sets logged across Athens, Auckland and Mexicocity. Often billed alongside Toriz, D.N.A. and Law is she. Next up: The Button Factory, Auckland on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Brown Sugar is a tech house and house artist tracked on soundcheck, with 8 sets 
 
 Toriz, D.N.A., Law is she
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugar/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugar/)*

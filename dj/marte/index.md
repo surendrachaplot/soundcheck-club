@@ -1,6 +1,6 @@
 # Marte
 
-Marte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Marte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Marte is a house and techno artist tracked on soundcheck, with 9 sets logged across Miami and Milan. Often billed alongside Berrakka, Danny Daze and Nicole Gallamini. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Marte is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 Berrakka, Danny Daze, Nicole Gallamini
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*

@@ -1,6 +1,6 @@
 # Dub Isotope
 
-Dub Isotope is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
+Dub Isotope is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
 
 Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Migz, Upzet and Jimi Handtrix. Next up: Void Club, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 50 sets
 
 Migz, Upzet, Jimi Handtrix
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*

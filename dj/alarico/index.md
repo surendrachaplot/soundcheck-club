@@ -1,13 +1,14 @@
 # Alarico
 
-Alarico is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Alarico is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | FOLD | London |
@@ -19,7 +20,6 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | Fri, 11 Sept 2026 | BASIS | Utrecht |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Mondo | Madrid |
-| Fri, 18 Sept 2026 | IFEMA | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

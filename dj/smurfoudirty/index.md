@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Green Room NYC, New York City on Sat, 15 Aug 2026.
+SMURFOUDIRTY is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Green Room NYC, New York City on Sat, 15 Aug 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Newyorkcity. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Green Room NYC, Newyorkcity on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, trac
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

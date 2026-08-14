@@ -1,6 +1,6 @@
 # kyxm
 
-kyxm is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
+kyxm is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
 
 kyxm is a club and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside ethereal.mvp, martine (5) and Pacha DJ. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ kyxm is a club and bass artist based in United States of America, tracked on sou
 
 ethereal.mvp, martine (5), Pacha DJ
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*

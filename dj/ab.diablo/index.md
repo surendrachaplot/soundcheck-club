@@ -1,6 +1,6 @@
 # Ab.Diablo
 
-Ab.Diablo is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Haggerston, London on Sat, 15 Aug 2026.
+Ab.Diablo is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Haggerston, London on Sat, 15 Aug 2026.
 
 Ab.Diablo is a club and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside VIRI$$, WAAW and Mahnoor. Next up: The Haggerston, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ab.Diablo is a club and ghetto tech artist based in United Kingdom, tracked on s
 
 VIRI$$, WAAW, Mahnoor
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*

@@ -1,6 +1,6 @@
 # TJ Traxx
 
-TJ Traxx is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
+TJ Traxx is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
 TJ Traxx is a techno and club artist based in Canada, tracked on soundcheck, with 33 sets logged across Toronto. Often billed alongside /ASYNC, 999ADJ and Xela.. Next up: TBA, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TJ Traxx is a techno and club artist based in Canada, tracked on soundcheck, wit
 
 /ASYNC, 999ADJ, Xela.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjtraxx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjtraxx/)*

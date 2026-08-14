@@ -1,6 +1,6 @@
 # Rob Gee
 
-Rob Gee is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Rob Gee is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Rob Gee is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 17 sets logged across Antwerp, Barcelona, Belfast and Berlin and 10 more. Often billed alongside Da Tweekaz, 4wallzz and ANGEL CANNON. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rob Gee is a hardcore and gabber artist based in United States of America, track
 
 Da Tweekaz, 4wallzz, ANGEL CANNON
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robgee/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robgee/)*

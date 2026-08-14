@@ -1,14 +1,14 @@
 # MENACE (CA)
 
-MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 22 Aug 2026.
+MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
-MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Alley Kay, Burnii and KILL 9 1. Next up: 131 Mccormack St, Toronto on Sat 22 Aug.
+MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Alley Kay, Burnii and KILL 9 1. Next up: TBA, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | 131 Mccormack St | Toronto |
+| Sat, 22 Aug 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundc
 
 Alley Kay, Burnii, KILL 9 1
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*

@@ -1,6 +1,6 @@
 # SHAME
 
-SHAME is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - check flyer for location , Montreal on Fri, 14 Aug 2026.
+SHAME is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - check flyer for location , Montreal on Fri, 14 Aug 2026.
 
 SHAME is a latin bass and club artist based in El Salvador, tracked on soundcheck, with 17 sets logged across Chicago and Montreal. Often billed alongside JASHIM, MLLE CEE and mCherry. Next up: TBA - check flyer for location , Montreal on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ SHAME is a latin bass and club artist based in El Salvador, tracked on soundchec
 
 JASHIM, MLLE CEE, mCherry
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shame/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shame/)*

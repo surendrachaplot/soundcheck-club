@@ -1,6 +1,6 @@
 # MEGURO
 
-MEGURO is a Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 20 Aug 2026.
+MEGURO is a Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 20 Aug 2026.
 
 MEGURO is a bass and ghetto tech artist based in Japan, tracked on soundcheck, with 44 sets logged across Tokyo. Often billed alongside ATM, Oyubi and SPRAYBOX. Next up: Enter Shibuya, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ MEGURO is a bass and ghetto tech artist based in Japan, tracked on soundcheck, w
 
 ATM, Oyubi, SPRAYBOX
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meguro/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meguro/)*

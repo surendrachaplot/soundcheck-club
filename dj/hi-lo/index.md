@@ -1,8 +1,8 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+HI-LO is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Adam Beyer and Juliet Fox. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Adam Beyer and Juliet Fox. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, 
 | Thu, 10 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
+| Fri, 16 Oct 2026 | Klub Progresja | Warsaw |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Eli Brown, Adam Beyer, Juliet Fox
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

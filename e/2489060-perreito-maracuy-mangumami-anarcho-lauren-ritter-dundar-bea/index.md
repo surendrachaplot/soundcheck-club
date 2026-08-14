@@ -14,6 +14,6 @@ Perreito, MARACUYá, MANGUMAMI, Anarcho: Lauren Ritter, Dundar, Bea Trinidad at 
 - Dundar
 - Lauren Ritter
 - MANGUMAMI
-- Maracuya
+- MARACUYá
 
 *Source: [soundcheck](https://soundcheck.club/e/2489060-perreito-maracuy-mangumami-anarcho-lauren-ritter-dundar-bea/)*

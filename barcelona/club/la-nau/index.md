@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "HALAL 11.9" on Fri, 11 Sept 2026.
+La Nau is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "HALAL 11.9" on Fri, 11 Sept 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Marika. Browse upcoming dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -16,4 +16,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, wi
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

@@ -1,6 +1,6 @@
 # Gagbert
 
-Gagbert is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+Gagbert is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 Gagbert is a techno and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, Malcolm XL and ASTER (DJ). Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gagbert is a techno and club artist based in United States of America, tracked o
 
 Robyn DaBank, Malcolm XL, ASTER (DJ)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gagbert/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gagbert/)*

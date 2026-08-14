@@ -1,6 +1,6 @@
 # sabenzzzo
 
-sabenzzzo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
+sabenzzzo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
 
 sabenzzzo is a techno and hardcore artist based in Georgia, tracked on soundcheck, with 5 sets logged across Hamburg and Malta. Often billed alongside vibemeister, Shilo and 3LEEZA. Next up: Fundbureau, Hamburg on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ sabenzzzo is a techno and hardcore artist based in Georgia, tracked on soundchec
 
 vibemeister, Shilo, 3LEEZA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabenzzzo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabenzzzo/)*

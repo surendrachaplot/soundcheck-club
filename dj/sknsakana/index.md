@@ -1,6 +1,6 @@
 # skn(sakana)
 
-skn(sakana) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Alffo Records, Osaka on Sat, 5 Sept 2026.
+skn(sakana) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Alffo Records, Osaka on Sat, 5 Sept 2026.
 
 skn(sakana) is a house and disco artist based in Japan, tracked on soundcheck, with 19 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mercy., Aiconga and Motel Paraiso. Next up: Alffo Records, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ skn(sakana) is a house and disco artist based in Japan, tracked on soundcheck, w
 
 Mercy., Aiconga, Motel Paraiso
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*

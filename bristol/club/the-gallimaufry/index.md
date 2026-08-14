@@ -1,6 +1,6 @@
 # The Gallimaufry
 
-The Gallimaufry is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Ben Daley B2B Peter Storm" on Fri, 14 Aug 2026.
+The Gallimaufry is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Ben Daley B2B Peter Storm" on Fri, 14 Aug 2026.
 
 The Gallimaufry is a music venue in Bristol listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 26/28 Gloucester Road, Bishopston, Bristol, BS7 8AL, United Kingdom.
 
@@ -16,4 +16,4 @@ The Gallimaufry is a music venue in Bristol listed on soundcheck. 3 upcoming nig
 
 26/28 Gloucester Road, Bishopston, Bristol, BS7 8AL, United Kingdom, Bristol
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-gallimaufry/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-gallimaufry/)*

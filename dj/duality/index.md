@@ -1,6 +1,6 @@
 # Duality
 
-Duality is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
+Duality is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
 
 Duality is a techno and house artist tracked on soundcheck, with 34 sets logged across Bangkok, Berlin, Bristol and Geneva and 9 more. Often billed alongside SIGNAL (JP), SINZIN and Versailles. Next up: The Croft, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Duality is a techno and house artist tracked on soundcheck, with 34 sets logged 
 
 SIGNAL (JP), SINZIN, Versailles
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*

@@ -1,6 +1,6 @@
 # Hyeonje
 
-Hyeonje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Hyeonje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Hyeonje is a techno and house artist tracked on soundcheck, with 22 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Mirin Doja, JENN GREEN and Jason Code. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Hyeonje is a techno and house artist tracked on soundcheck, with 22 sets logged 
 
 Mirin Doja, JENN GREEN, Jason Code
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyeonje/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyeonje/)*

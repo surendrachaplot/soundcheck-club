@@ -1,6 +1,6 @@
 # Kennedy (UK)
 
-Kennedy (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
+Kennedy (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
 
 Kennedy (UK) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds and London. Often billed alongside Henry Bennett, Oliver Kristian and Isaac Frost. Next up: NUMBER 90 LONDON, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kennedy (UK) is a house and electro artist based in United Kingdom, tracked on s
 
 Henry Bennett, Oliver Kristian, Isaac Frost
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedyuk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedyuk/)*

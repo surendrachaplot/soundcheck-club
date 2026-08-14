@@ -1,6 +1,6 @@
 # HAAi
 
-HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
 HAAi is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Burgess Park, London on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ HAAi is a techno and house artist tracked on soundcheck, with 199 sets logged ac
 
 DJ Tennis, Saoirse, Gabrielle Kwarteng
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

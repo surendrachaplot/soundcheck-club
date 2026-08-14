@@ -1,6 +1,6 @@
 # Marcus Meinhardt
 
-Marcus Meinhardt is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 15 Aug 2026.
+Marcus Meinhardt is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 15 Aug 2026.
 
 Marcus Meinhardt is a techno and tech house artist based in Germany, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Pauli Pocket, Urem and Just Emma. Next up: Bahnwärter Thiel, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Marcus Meinhardt is a techno and tech house artist based in Germany, tracked on 
 
 Pauli Pocket, Urem, Just Emma
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*

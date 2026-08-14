@@ -1,13 +1,14 @@
 # Jama
 
-Jama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Jama is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Evening, Seoul on Sat, 15 Aug 2026.
 
-Jama is a house and techno artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Hamburg and Seoul and 1 more. Often billed alongside Pauli Pocket, Britta Arnold and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 21 Aug.
+Jama is a house and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Hamburg and Seoul and 1 more. Often billed alongside Pauli Pocket, Britta Arnold and Chris Schwarzwälder. Next up: Evening, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Evening | Seoul |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jama is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Pauli Pocket, Britta Arnold, Chris Schwarzwälder
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jama/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jama/)*

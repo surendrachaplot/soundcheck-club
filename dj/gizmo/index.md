@@ -1,6 +1,6 @@
 # Gizmo
 
-Gizmo is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
+Gizmo is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
 
 Gizmo is a techno and hardcore artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Frankfurt and Ghent and 3 more. Often billed alongside Shabiki, Lazykid and Rad.Lez. Next up: Bahnwärter Thiel, Munich on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Gizmo is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Shabiki, Lazykid, Rad.Lez
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*

@@ -1,6 +1,6 @@
 # Ali Guney
 
-Ali Guney is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
+Ali Guney is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
 
 Ali Guney is a house and techno artist tracked on soundcheck, with 31 sets logged across Belgrade. Often billed alongside Nikola Vemic, Stellarcompanion and schwabe. Next up: Karmakoma, Belgrade on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ali Guney is a house and techno artist tracked on soundcheck, with 31 sets logge
 
 Nikola Vemic, Stellarcompanion, schwabe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliguney/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliguney/)*

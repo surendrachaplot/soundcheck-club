@@ -1,6 +1,6 @@
 # Askwhy
 
-Askwhy is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
+Askwhy is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
 
 Askwhy is a techno and experimental artist tracked on soundcheck, with 3 sets logged across Seoul and Tokyo. Often billed alongside B.A.R.K, Moli (3) and Sanguz J. Next up: White Space Lab, Tokyo on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Askwhy is a techno and experimental artist tracked on soundcheck, with 3 sets lo
 
 B.A.R.K, Moli (3), Sanguz J
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/askwhy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/askwhy/)*

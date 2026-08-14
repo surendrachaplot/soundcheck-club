@@ -1,6 +1,6 @@
 # XAYN
 
-XAYN is a Disco and Kuduro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
+XAYN is a Disco and Kuduro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
 
 XAYN is a disco and kuduro artist tracked on soundcheck, with 7 sets logged across Newyorkcity and Sandiego. Often billed alongside AMLA.DHAS, AMZEL and Archangel. Next up: Mood Ring, Newyorkcity on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ XAYN is a disco and kuduro artist tracked on soundcheck, with 7 sets logged acro
 
 AMLA.DHAS, AMZEL, Archangel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xayn/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xayn/)*

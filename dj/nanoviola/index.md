@@ -1,6 +1,6 @@
 # Nanoviola
 
-Nanoviola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Cloud, Berlin on Sat, 15 Aug 2026.
+Nanoviola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Cloud, Berlin on Sat, 15 Aug 2026.
 
 Nanoviola is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Alchemiah, CH4YN and Epicx. Next up: The Cloud, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nanoviola is a techno and hardcore artist tracked on soundcheck, with 17 sets lo
 
 Alchemiah, CH4YN, Epicx
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*

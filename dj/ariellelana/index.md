@@ -1,6 +1,6 @@
 # Arielle Lana
 
-Arielle Lana is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
+Arielle Lana is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
 
 Arielle Lana is a club and footwork artist based in United States of America, tracked on soundcheck, with 38 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside JEWELSSEA, Tromac and nextdimensional. Next up: Paragon, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Arielle Lana is a club and footwork artist based in United States of America, tr
 
 JEWELSSEA, Tromac, nextdimensional
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*

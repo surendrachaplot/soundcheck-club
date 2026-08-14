@@ -1,6 +1,6 @@
 # PITCHY PEACHY
 
-PITCHY PEACHY is a Neo Perreo and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+PITCHY PEACHY is a Neo Perreo and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 PITCHY PEACHY is a neo perreo and baile funk artist tracked on soundcheck, with 6 sets logged across Warsaw. Often billed alongside anymati, Matka Boska Rejwowa and Avtomat. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ PITCHY PEACHY is a neo perreo and baile funk artist tracked on soundcheck, with 
 
 anymati, Matka Boska Rejwowa, Avtomat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchypeachy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchypeachy/)*

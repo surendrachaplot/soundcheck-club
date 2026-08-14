@@ -1,13 +1,14 @@
 # Mr Doris
 
-Mr Doris is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
+Mr Doris is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Rake's, London on Fri, 14 Aug 2026.
 
-Mr Doris is a house and disco artist tracked on soundcheck, with 53 sets logged across Dundee, Edinburgh, Ibiza and London and 2 more. Often billed alongside Guy Williams, Robin Schulz and Tigerbalm. Next up: 528 Ibiza, Ibiza on Tue 18 Aug.
+Mr Doris is a house and disco artist tracked on soundcheck, with 54 sets logged across Dundee, Edinburgh, Ibiza and London and 2 more. Often billed alongside Guy Williams, Robin Schulz and Tigerbalm. Next up: Rake's, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Rake's | London |
 | Tue, 18 Aug 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mr Doris is a house and disco artist tracked on soundcheck, with 53 sets logged 
 
 Guy Williams, Robin Schulz, Tigerbalm
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrdoris/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrdoris/)*

@@ -1,6 +1,6 @@
 # Josh Lee (US)
 
-Josh Lee (US) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Josh Lee (US) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
 
 Josh Lee (US) is a minimal and tech house artist tracked on soundcheck, with 4 sets logged across Losangeles and Miami. Often billed alongside Dan Ghenacia, EDEF and Kepler. Next up: TBA, Losangeles on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Josh Lee (US) is a minimal and tech house artist tracked on soundcheck, with 4 s
 
 Dan Ghenacia, EDEF, Kepler
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshleeus/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshleeus/)*

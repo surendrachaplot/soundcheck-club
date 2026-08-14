@@ -1,6 +1,6 @@
 # Greg Beato
 
-Greg Beato is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
+Greg Beato is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
 
 Greg Beato is a house and hip-hop artist tracked on soundcheck, with 19 sets logged across Miami, Newyorkcity and Paris. Often billed alongside Terence Tabeau, Brother Dan and Carozilla. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Greg Beato is a house and hip-hop artist tracked on soundcheck, with 19 sets log
 
 Terence Tabeau, Brother Dan, Carozilla
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbeato/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbeato/)*

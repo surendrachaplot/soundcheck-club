@@ -1,13 +1,14 @@
 # Meliha
 
-Meliha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 29 Aug 2026.
+Meliha is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - JOLOKO, Kuala Lumpur on Sat, 22 Aug 2026.
 
-Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, with 102 sets logged across Bali, Bangkok, Kualalumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 29 Aug.
+Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, with 103 sets logged across Bali, Bangkok, Kualalumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: TBA - JOLOKO, Kualalumpur on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA - JOLOKO | Kuala Lumpur |
 | Sat, 29 Aug 2026 | Wet Deck at W Hotel | Kuala Lumpur |
 
 ## Recently played
@@ -25,4 +26,4 @@ Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, wi
 
 Obadius, Biscuit (MY), OtherKind
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*

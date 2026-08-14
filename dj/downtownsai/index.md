@@ -1,6 +1,6 @@
 # Downtown Sai
 
-Downtown Sai is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
+Downtown Sai is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
 
 Downtown Sai is a house artist based in Myanmar, tracked on soundcheck, with 32 sets logged across Barcelona, Madrid and Naples. Often billed alongside Alex Thunder, Fontana (ES) and Kaeru. Next up: 303 Audiophile Bar, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Downtown Sai is a house artist based in Myanmar, tracked on soundcheck, with 32 
 
 Alex Thunder, Fontana (ES), Kaeru
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downtownsai/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downtownsai/)*

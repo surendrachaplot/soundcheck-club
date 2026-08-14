@@ -1,6 +1,6 @@
 # NIMNOI
 
-NIMNOI is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pistil, Seoul on Fri, 14 Aug 2026.
+NIMNOI is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pistil, Seoul on Fri, 14 Aug 2026.
 
 NIMNOI is a bass and club artist tracked on soundcheck, with 24 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside dayoung, Arexibo and TAATI. Next up: Pistil, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ NIMNOI is a bass and club artist tracked on soundcheck, with 24 sets logged acro
 
 dayoung, Arexibo, TAATI
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimnoi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimnoi/)*

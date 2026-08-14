@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Throwback LONDON Studio338 - Back to 80s, 90s & 00s" on Sat, 15 Aug 2026.
+Studio 338 is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Throwback LONDON Studio338 - Back to 80s, 90s & 00s" on Sat, 15 Aug 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alex P, Anil Aras, Artful Dodger and ASHOJU and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -23,4 +23,4 @@ Studio 338 is a music venue in London listed on soundcheck. 14 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

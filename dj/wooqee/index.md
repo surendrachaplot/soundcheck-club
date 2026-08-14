@@ -1,6 +1,6 @@
 # wooqee
 
-wooqee is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sekta Selekta, Krakow on Sat, 15 Aug 2026.
+wooqee is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sekta Selekta, Krakow on Sat, 15 Aug 2026.
 
 wooqee is an electro and tech house artist tracked on soundcheck, with 11 sets logged across Krakow and Warsaw. Often billed alongside Hozy, Ilya Semashkevich and Samogulov. Next up: Sekta Selekta, Krakow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ wooqee is an electro and tech house artist tracked on soundcheck, with 11 sets l
 
 Hozy, Ilya Semashkevich, Samogulov
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooqee/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooqee/)*

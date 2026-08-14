@@ -1,6 +1,6 @@
 # GODOT
 
-GODOT is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
+GODOT is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
 
 GODOT is a garage and breakbeat artist tracked on soundcheck, with 4 sets logged across Seoul. Often billed alongside AEIDA, BAAWLA and DDD (2). Next up: Pistil, Seoul on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ GODOT is a garage and breakbeat artist tracked on soundcheck, with 4 sets logged
 
 AEIDA, BAAWLA, DDD (2)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*

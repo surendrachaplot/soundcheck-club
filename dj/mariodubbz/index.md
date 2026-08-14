@@ -1,6 +1,6 @@
 # Mario Dubbz
 
-Mario Dubbz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+Mario Dubbz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Mario Dubbz is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Sanfrancisco. Often billed alongside Heather Besos, DJ Sneak and David Harness. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mario Dubbz is a house and deep house artist based in United States of America, 
 
 Heather Besos, DJ Sneak, David Harness
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodubbz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodubbz/)*

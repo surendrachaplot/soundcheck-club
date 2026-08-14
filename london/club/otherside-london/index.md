@@ -1,6 +1,6 @@
 # Otherside London
 
-Otherside London is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Reggae Roast - Takeover at Otherside" on Fri, 21 Aug 2026.
+Otherside London is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Reggae Roast Soundsystem ft. Mr Williamz + Horseman - Live at Otherside" on Fri, 21 Aug 2026.
 
 Otherside London is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Horsepower Productions and Voltage. Browse upcoming dates, start times and who's playing. 261 Portobello Road, London, W11 1LR.
 
@@ -8,7 +8,7 @@ Otherside London is a music venue in London listed on soundcheck. 5 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Reggae Roast - Takeover at Otherside |  |
+| Fri, 21 Aug 2026 | Reggae Roast Soundsystem ft. Mr Williamz + Horseman - Live at Otherside |  |
 | Sat, 29 Aug 2026 | Nice N Decent X Otherside (Voltage & Friends) - NOTTING HILL CARNIVAL WARM UP Live at Otherside | Voltage |
 | Fri, 18 Sept 2026 | Horsepower Productions - Release Party at Otherside | Horsepower Productions |
 | Fri, 25 Sept 2026 | Speaker Louis - Release Party at Otherside |  |
@@ -18,4 +18,4 @@ Otherside London is a music venue in London listed on soundcheck. 5 upcoming nig
 
 261 Portobello Road, London, W11 1LR, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*

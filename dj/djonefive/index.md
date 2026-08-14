@@ -1,6 +1,6 @@
 # DJ One Five
 
-DJ One Five is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
+DJ One Five is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
 
 DJ One Five is a funk / soul and house artist tracked on soundcheck, with 2 sets logged across Detroit. Often billed alongside Deeper Waters and nuntheless. Next up: Temple Bar, Detroit on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ DJ One Five is a funk / soul and house artist tracked on soundcheck, with 2 sets
 
 Deeper Waters, nuntheless
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djonefive/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djonefive/)*

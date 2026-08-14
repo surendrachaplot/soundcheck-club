@@ -1,6 +1,6 @@
 # Daddy Chulo
 
-Daddy Chulo is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Daddy Chulo is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
 Daddy Chulo is a hip-hop and afrobeats artist based in France, tracked on soundcheck, with 21 sets logged across Geneva, London, Madrid and Paris. Often billed alongside Carla Genus, Armel Bizzman and Hirma. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Daddy Chulo is a hip-hop and afrobeats artist based in France, tracked on soundc
 
 Carla Genus, Armel Bizzman, Hirma
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daddychulo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daddychulo/)*

@@ -1,6 +1,6 @@
 # Chicago Social Club
 
-Chicago Social Club is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Maceo Plex presents Lone Romantic" on Thu, 22 Oct 2026.
+Chicago Social Club is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Maceo Plex presents Lone Romantic" on Thu, 22 Oct 2026.
 
 Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Christian Nielsen, Ely Oaks, Hedda Stenberg and Maceo Plex and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam.
 
@@ -16,4 +16,4 @@ Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 3 upcomi
 
 Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam, Amsterdam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*

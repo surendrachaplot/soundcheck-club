@@ -1,6 +1,6 @@
 # Stil vor Talent with Oliver Koletzki at Ritter Butzke
 
-Stil vor Talent with Oliver Koletzki at Ritter Butzke on Sat 7 Nov, Berlin. 10 acts on the bill: Chrisse Kunst, eira haul, Elisa Elisa and Frida Darko and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Stil vor Talent with Oliver Koletzki at Ritter Butzke on Sat 7 Nov, Berlin. 11 acts on the bill: Chrisse Kunst, eira haul, Elisa Elisa and Frida Darko and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Stil vor Talent with Oliver Koletzki at Ritter Butzke on Sat 7 Nov, Berlin. 10 a
 - eira haul
 - Elisa Elisa
 - Frida Darko
+- Henri Bergmann
 - Hidden Empire
 - Kotoe
 - Oliver Koletzki

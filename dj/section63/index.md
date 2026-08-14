@@ -1,6 +1,6 @@
 # Section 63
 
-Section 63 is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
+Section 63 is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
 
 Section 63 is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Upzet, Aynaet and Honschu Lee. Next up: Void Club, Berlin on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Section 63 is a drum & bass and techno artist based in United Kingdom, tracked o
 
 Upzet, Aynaet, Honschu Lee
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/section63/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/section63/)*

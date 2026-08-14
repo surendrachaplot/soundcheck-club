@@ -1,6 +1,6 @@
 # Roof 175
 
-Roof 175 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Rough Cure Summer Heat Open Air - Day & Night with NYRA, Luke Madness, THNDERZ" on Sat, 15 Aug 2026.
+Roof 175 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Rough Cure Summer Heat Open Air - Day & Night with NYRA, Luke Madness, THNDERZ" on Sat, 15 Aug 2026.
 
 Roof 175 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including NYRA (DE), Daro, DeGuzman and Leo (2) and 2 more. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
 
@@ -15,4 +15,4 @@ Roof 175 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, 
 
 Rheinallee 175 55120 Mainz, Germany, Frankfurt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*

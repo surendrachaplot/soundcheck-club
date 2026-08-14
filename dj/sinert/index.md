@@ -1,6 +1,6 @@
 # Sinert
 
-Sinert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nova Jazz Cava, Barcelona on Sat, 26 Sept 2026.
+Sinert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nova Jazz Cava, Barcelona on Sat, 26 Sept 2026.
 
 Sinert is a techno and electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona and Miami. Often billed alongside Aiken, Anika Kunst and aRDe. Next up: Nova Jazz Cava, Barcelona on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Sinert is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 Aiken, Anika Kunst, aRDe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinert/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinert/)*

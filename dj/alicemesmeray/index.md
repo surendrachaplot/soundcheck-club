@@ -1,6 +1,6 @@
 # Ali Cem Esmeray
 
-Ali Cem Esmeray is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at McCarren Park, New York City on Sat, 15 Aug 2026.
+Ali Cem Esmeray is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at McCarren Park, New York City on Sat, 15 Aug 2026.
 
 Ali Cem Esmeray is a house and minimal artist tracked on soundcheck, with 14 sets logged across Bali, Istanbul and Newyorkcity. Often billed alongside Childplay, Meri and -FU-. Next up: McCarren Park, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ali Cem Esmeray is a house and minimal artist tracked on soundcheck, with 14 set
 
 Childplay, Meri, -FU-
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemesmeray/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemesmeray/)*

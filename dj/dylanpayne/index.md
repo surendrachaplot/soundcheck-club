@@ -1,14 +1,14 @@
 # Dylan Payne
 
-Dylan Payne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Bridge, Los Angeles on Sun, 16 Aug 2026.
+Dylan Payne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 16 Aug 2026.
 
-Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: The Bridge, Losangeles on Sun 16 Aug.
+Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: 1928 E 7th Pl, Los Angeles, CA 90021, Losangeles on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | The Bridge | Los Angeles |
+| Sun, 16 Aug 2026 | 1928 E 7th Pl, Los Angeles, CA 90021 | Los Angeles |
 | Sat, 29 Aug 2026 | Wicked West | San Diego |
 
 ## Recently played
@@ -26,4 +26,4 @@ Dylan Payne is a house and techno artist based in United States of America, trac
 
 Highkin', Krane, O.BEE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*

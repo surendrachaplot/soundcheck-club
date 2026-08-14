@@ -1,6 +1,6 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Custom House Square, Belfast on Fri, 14 Aug 2026.
+Ben Hemsley is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Custom House Square, Belfast on Fri, 14 Aug 2026.
 
 Ben Hemsley is a techno and trance artist tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Custom House Square, Belfast on Fri 14 Aug.
 
@@ -35,4 +35,4 @@ Ben Hemsley is a techno and trance artist tracked on soundcheck, with 165 sets l
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

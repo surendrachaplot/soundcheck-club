@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fine Selection #218 w/Electric Boutique & Turner" on Thu, 13 Aug 2026.
+A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Drum Club / Friday" on Fri, 14 Aug 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and EMILS and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and EMILS and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Fine Selection #218 w/Electric Boutique & Turner | Electric Boutique |
 | Fri, 14 Aug 2026 | Drum Club / Friday | Longman, Sin |
 | Wed, 19 Aug 2026 | 10 YEARS OF 1985 MUSIC: Alix Perez & SP:MC | Alix Perez, Gemcamp, Markov |
 | Wed, 19 Aug 2026 | Bladerunnaz presents: Alix Perez & SP:MC (10 Years of 1985 Music) | Alix Perez, Gemcamp, Markov, SP:MC |
@@ -18,9 +17,10 @@ A38 is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with 
 | Thu, 10 Sept 2026 | Fine Selection #221 w/House On Fire | Electric Boutique, Wilkes |
 | Thu, 17 Sept 2026 | Fine Selection #222 w/Derek, Grema, Peter Bernath | Peter Bernath |
 | Thu, 1 Oct 2026 | Fine Selection #223 - Season Finale | Electric Boutique, Lost in Details, Rolo (3) |
+| Sat, 24 Oct 2026 | Test pres. DJ Krush |  |
 
 ## Address
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

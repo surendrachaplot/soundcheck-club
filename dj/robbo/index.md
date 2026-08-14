@@ -1,6 +1,6 @@
 # Robbo
 
-Robbo is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
+Robbo is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
 
 Robbo is a house and garage artist tracked on soundcheck, with 38 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Jenson., Jenson and Josh Keit. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Robbo is a house and garage artist tracked on soundcheck, with 38 sets logged ac
 
 Jenson., Jenson, Josh Keit
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

@@ -1,6 +1,6 @@
 # DJ Deece
 
-DJ Deece is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
+DJ Deece is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
 
 DJ Deece is a house and deep house artist based in Ireland, tracked on soundcheck, with 27 sets logged across Dublin. Often billed alongside Colin Perkins, Collie (1) and January Winters. Next up: Electric Garden, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Deece is a house and deep house artist based in Ireland, tracked on soundchec
 
 Colin Perkins, Collie (1), January Winters
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeece/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeece/)*

@@ -1,6 +1,6 @@
 # Mollygum
 
-Mollygum is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Montreal on Sat, 15 Aug 2026.
+Mollygum is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Montreal on Sat, 15 Aug 2026.
 
 Mollygum is an electro and techno artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Breaka, Felix Patry and Juju le Moko. Next up: TBA, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mollygum is an electro and techno artist based in Canada, tracked on soundcheck,
 
 Breaka, Felix Patry, Juju le Moko
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygum/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygum/)*

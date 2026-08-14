@@ -1,6 +1,6 @@
 # DumitrEscu
 
-DumitrEscu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
+DumitrEscu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
 
 DumitrEscu is a house and techno artist based in Romania, tracked on soundcheck, with 32 sets logged across Amsterdam, Belgrade, Berlin and Bucharest and 5 more. Often billed alongside Mihnea Rog, Priku and Arapu. Next up: Scânteia +, Bucharest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DumitrEscu is a house and techno artist based in Romania, tracked on soundcheck,
 
 Mihnea Rog, Priku, Arapu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dumitrescu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dumitrescu/)*

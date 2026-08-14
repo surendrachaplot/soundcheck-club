@@ -1,6 +1,6 @@
 # Frucula
 
-Frucula is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
+Frucula is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
 
 Frucula is a techno and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Lea Corio. Next up: Macarena Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Frucula is a techno and house artist based in Spain, tracked on soundcheck, with
 
 MøønkiZa, Lupe Republic, Lea Corio
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*

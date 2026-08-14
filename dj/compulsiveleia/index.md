@@ -1,6 +1,6 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
 
 Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 23 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: The Waiting Room, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 23 
 
 Takenbymarshall, alterum, it_dont_Matt.er
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*

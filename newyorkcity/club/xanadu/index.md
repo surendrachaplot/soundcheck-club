@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Goth SK8: Clock Serum (LIVE), Boiled Angel, NIGHTVVITCH (skate all night)" on Thu, 13 Aug 2026.
+Xanadu is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SOUL ROLL presented by Stef Nava & Luv: guest appearance from Yellow Shoots! (skate all night)" on Fri, 14 Aug 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Andrew Lenox, ANICHE, Boiled Angel and David Paglia and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Goth SK8: Clock Serum (LIVE), Boiled Angel, NIGHTVVITCH (skate all night) | Boiled Angel, NIGHTVVITCH |
 | Fri, 14 Aug 2026 | SOUL ROLL presented by Stef Nava & Luv: guest appearance from Yellow Shoots! (skate all night) |  |
 | Sun, 16 Aug 2026 | Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO | Dirtyfinger, WONNSSS, zzzzach |
 | Sun, 23 Aug 2026 | Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad, | Andrew Lenox, Finn Jones, Lauren Murada, Party Dad, lenox |
@@ -22,4 +21,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

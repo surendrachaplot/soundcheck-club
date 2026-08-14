@@ -1,6 +1,6 @@
 # Tom Forelli
 
-Tom Forelli is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 23 Sept 2026.
+Tom Forelli is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 23 Sept 2026.
 
 Tom Forelli is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside LAURIX (DE), bouncy cat and Anna Ullrich. Next up: Lokschuppen Berlin, Berlin on Wed 23 Sept.
 
@@ -21,4 +21,4 @@ Tom Forelli is a trance and techno artist based in Germany, tracked on soundchec
 
 LAURIX (DE), bouncy cat, Anna Ullrich
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomforelli/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomforelli/)*

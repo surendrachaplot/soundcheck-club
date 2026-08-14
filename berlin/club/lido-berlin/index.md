@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SHEENA IS presents GIRLS IN YOUR AREA + TAMI T" on Fri, 16 Oct 2026.
+Lido Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SHEENA IS presents GIRLS IN YOUR AREA + TAMI T" on Fri, 16 Oct 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including BLEACH.LIVE and Wyatt (1). Browse upcoming dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

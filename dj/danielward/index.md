@@ -1,6 +1,6 @@
 # Daniel Ward
 
-Daniel Ward is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
+Daniel Ward is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 Daniel Ward is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Hermit, DJ Listener and Mike ruff cut Lloyd. Next up: Basing House, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Daniel Ward is a house and garage artist based in United Kingdom, tracked on sou
 
 Hermit, DJ Listener, Mike ruff cut Lloyd
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*

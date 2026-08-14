@@ -1,6 +1,6 @@
 # anymati
 
-anymati is a Experimental and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+anymati is a Experimental and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 anymati is an experimental and baile funk artist tracked on soundcheck, with 37 sets logged across Warsaw. Often billed alongside czuly, monia.mp3 and dj neurospicy. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ anymati is an experimental and baile funk artist tracked on soundcheck, with 37 
 
 czuly, monia.mp3, dj neurospicy
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*

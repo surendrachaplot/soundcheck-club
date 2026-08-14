@@ -1,6 +1,6 @@
 # Sanne Dammers
 
-Sanne Dammers is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
+Sanne Dammers is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
 
 Sanne Dammers is a tech house and house artist based in Netherlands, tracked on soundcheck, with 45 sets logged across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside Lidia Lo, Jamback and JØASE. Next up: Madam, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sanne Dammers is a tech house and house artist based in Netherlands, tracked on 
 
 Lidia Lo, Jamback, JØASE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannedammers/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannedammers/)*

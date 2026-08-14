@@ -1,14 +1,13 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Ripples" on Thu, 13 Aug 2026.
+Maaya is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Supafly" on Fri, 14 Aug 2026.
 
-Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AMBRA, CRYME, Curses and Dirty Daddy Don and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
+Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AMBRA, CRYME, Curses and Dirty Daddy Don and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Ripples | Hypoestes |
 | Fri, 14 Aug 2026 | Supafly |  |
 | Sat, 15 Aug 2026 | ONE TRIBE × MAAYA - PARADE AFTERPARTY |  |
 | Sun, 16 Aug 2026 | RISE - 16.08. Zakes Bantwini & Awen |  |
@@ -22,4 +21,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with l
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

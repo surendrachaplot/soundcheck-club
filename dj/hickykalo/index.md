@@ -1,6 +1,6 @@
 # Hicky & Kalo
 
-Hicky & Kalo is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
+Hicky & Kalo is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
 
 Hicky & Kalo are a progressive house and deep house duo tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Buenosaires and Chicago and 8 more. Often billed alongside Sebastien Leger, Roy Rosenfeld and Guy Mantzur. Next up: Grand Quai du Port de Montreal, Montreal on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Hicky & Kalo are a progressive house and deep house duo tracked on soundcheck, w
 
 Sebastien Leger, Roy Rosenfeld, Guy Mantzur
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*

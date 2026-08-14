@@ -1,6 +1,6 @@
 # Pilar Jordan
 
-Pilar Jordan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
+Pilar Jordan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
 
 Pilar Jordan is a house and tech house artist tracked on soundcheck, with 73 sets logged across Berlin and Dusseldorf. Often billed alongside Dorsch, MELLA MARA and Aggy. Next up: OXI, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Pilar Jordan is a house and tech house artist tracked on soundcheck, with 73 set
 
 Dorsch, MELLA MARA, Aggy
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*

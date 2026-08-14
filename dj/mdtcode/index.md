@@ -1,6 +1,6 @@
 # MDTCODE
 
-MDTCODE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Doggy Klœb, Malaga on Sat, 22 Aug 2026.
+MDTCODE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Doggy Klœb, Malaga on Sat, 22 Aug 2026.
 
 MDTCODE is a techno and house artist tracked on soundcheck, with 8 sets logged across Madrid and Malaga. Often billed alongside Ricardo Morales, Wavesound and Noctive. Next up: Doggy Klœb, Malaga on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ MDTCODE is a techno and house artist tracked on soundcheck, with 8 sets logged a
 
 Ricardo Morales, Wavesound, Noctive
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdtcode/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdtcode/)*

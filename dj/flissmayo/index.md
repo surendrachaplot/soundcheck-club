@@ -1,6 +1,6 @@
 # Fliss Mayo
 
-Fliss Mayo is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
+Fliss Mayo is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
 
 Fliss Mayo is a garage and techno artist tracked on soundcheck, with 77 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 12 more. Often billed alongside Dr Dubplate, Bakey and Soul Mass Transit System. Next up: The Berkeley Suite, Glasgow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Fliss Mayo is a garage and techno artist tracked on soundcheck, with 77 sets log
 
 Dr Dubplate, Bakey, Soul Mass Transit System
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flissmayo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flissmayo/)*

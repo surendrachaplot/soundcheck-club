@@ -1,6 +1,6 @@
 # Earlll
 
-Earlll is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Location sent out day of, Detroit on Sat, 22 Aug 2026.
+Earlll is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Location sent out day of, Detroit on Sat, 22 Aug 2026.
 
 Earlll is a techno and acid artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside AIDEL, Amino and Duck Trash. Next up: TBA - Location sent out day of, Detroit on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Earlll is a techno and acid artist based in United States of America, tracked on
 
 AIDEL, Amino, Duck Trash
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*

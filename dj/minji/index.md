@@ -1,6 +1,6 @@
 # Minji
 
-Minji is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
+Minji is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
 
 Minji is a house and tech house artist based in South Korea, tracked on soundcheck, with 67 sets logged across Seoul. Often billed alongside Better, Conan and blancat. Next up: Kind Square, Seoul on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Minji is a house and tech house artist based in South Korea, tracked on soundche
 
 Better, Conan, blancat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*

@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace" on Fri, 14 Aug 2026.
+Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace" on Fri, 14 Aug 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 404 eros, anu, AYEGY and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

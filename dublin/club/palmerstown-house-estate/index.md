@@ -1,6 +1,6 @@
 # Palmerstown House Estate
 
-Palmerstown House Estate is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "District X Festival 2026" on Fri, 11 Sept 2026.
+Palmerstown House Estate is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "District X Festival 2026" on Fri, 11 Sept 2026.
 
 Palmerstown House Estate is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Azyr, blk., Chloé Caillet and Chris Stussy and 2 more. Browse upcoming dates, start times and who's playing. Palmerstown House, Estate, Naas, Co. Kildare, W91 FK10.
 
@@ -14,4 +14,4 @@ Palmerstown House Estate is a music venue in Dublin listed on soundcheck. 1 upco
 
 Palmerstown House, Estate, Naas, Co. Kildare, W91 FK10, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/palmerstown-house-estate/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/palmerstown-house-estate/)*

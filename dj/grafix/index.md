@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
+Grafix is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: The Brooklyn Monarch, Newyorkcity on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Wilkinson, A Little Sound, BassLayerz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

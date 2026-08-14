@@ -1,6 +1,6 @@
 # HVAD
 
-HVAD is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Forbrændingen, Copenhagen on Sat, 5 Sept 2026.
+HVAD is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Forbrændingen, Copenhagen on Sat, 5 Sept 2026.
 
 HVAD is a techno and experimental artist based in Denmark, tracked on soundcheck, with 11 sets logged across Berlin, Copenhagen, London and Madrid. Often billed alongside Alfredo92, Azu Tiwaline and Batu. Next up: Forbrændingen, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ HVAD is a techno and experimental artist based in Denmark, tracked on soundcheck
 
 Alfredo92, Azu Tiwaline, Batu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvad/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvad/)*

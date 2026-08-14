@@ -1,6 +1,6 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+Fran LF is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
 
 Fran LF is a techno and trance artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Berlin and Krakow and 8 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: OXI, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Fran LF is a techno and trance artist based in Netherlands, tracked on soundchec
 
 Sinergy, Bours?, HUJUS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*

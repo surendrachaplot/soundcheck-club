@@ -1,6 +1,6 @@
 # LIL2HOOD
 
-LIL2HOOD is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
+LIL2HOOD is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
 
 LIL2HOOD is a club and dancehall artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity and Philadelphia. Often billed alongside EDEN BEKELE, purp and shekdash. Next up: Mood Ring, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ LIL2HOOD is a club and dancehall artist based in United States of America, track
 
 EDEN BEKELE, purp, shekdash
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lil2hood/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lil2hood/)*

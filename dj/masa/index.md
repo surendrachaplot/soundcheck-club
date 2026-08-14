@@ -1,6 +1,6 @@
 # MASA
 
-MASA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
+MASA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
 
 MASA is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Athens, Berlin, Budapest and Kyoto and 5 more. Often billed alongside Hagel, RYOOKY and Rickey Shannon. Next up: TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MASA is a techno and house artist based in Japan, tracked on soundcheck, with 43
 
 Hagel, RYOOKY, Rickey Shannon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masa/)*

@@ -1,6 +1,6 @@
 # Rock 'n' Roll Milano
 
-Rock 'n' Roll Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Karmadrome Milano '80s Party" on Fri, 11 Sept 2026.
+Rock 'n' Roll Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Karmadrome Milano '80s Party" on Fri, 11 Sept 2026.
 
 Rock 'n' Roll Milano is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Rock 'n' Roll Milano is a music venue in Milan listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Karmadrome Milano '80s Party |  |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/rock-n-roll-milano/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/rock-n-roll-milano/)*

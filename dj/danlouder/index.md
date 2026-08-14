@@ -1,6 +1,6 @@
 # Dan Louder
 
-Dan Louder is a Disco and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club Makossa, London on Fri, 14 Aug 2026.
+Dan Louder is a Disco and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Club Makossa, London on Fri, 14 Aug 2026.
 
 Dan Louder is a disco and drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Alex Iza, DARQGOLD and DJ Klitbait. Next up: Club Makossa, London on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Dan Louder is a disco and drum & bass artist based in United Kingdom, tracked on
 
 Alex Iza, DARQGOLD, DJ Klitbait
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danlouder/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danlouder/)*

@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Equinox presents: Pancratio" on Fri, 14 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Equinox presents: Pancratio" on Fri, 14 Aug 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

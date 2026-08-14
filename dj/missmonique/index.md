@@ -1,14 +1,13 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 13 Aug 2026.
+Miss Monique is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Miss Monique is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Hï Ibiza, Ibiza on Thu 13 Aug.
+Miss Monique is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Hï Ibiza | Ibiza |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Sat, 15 Aug 2026 | Tapada da Ajuda | Lisbon |
 | Sun, 16 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,20 +19,21 @@ Miss Monique is a techno and house artist tracked on soundcheck, with 227 sets l
 | Thu, 10 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 14 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Hï Ibiza | Ibiza |
+| Thu, 24 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Thu, 13 Aug 2026
+- Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Hï Ibiza, Ibiza — Thu, 6 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Hï Ibiza, Ibiza — Thu, 30 Jul 2026
 - [UNVRS], Ibiza — Tue, 28 Jul 2026
-- Boston Manor Park, London — Sun, 26 Jul 2026
-- Hï Ibiza, Ibiza — Thu, 23 Jul 2026
 
 ## Shares bills with
 
 Hugel, Artbat, CamelPhat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "RETURN" on Thu, 13 Aug 2026.
+WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DISCOVER. TOKYO" on Fri, 14 Aug 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AHREUM, AKIRAM EN, Ayana Pattra and Bundo and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AHREUM, AKIRAM EN, Ayana Pattra and Bundo and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RETURN | Louis Shannon, Rickey Shannon, YUXI |
 | Fri, 14 Aug 2026 | DISCOVER. TOKYO |  |
 | Sat, 15 Aug 2026 | WOMB PRESENTS DJ MARIA. -ALL NIGHT LONG- | Bundo, DJ MARIA., K.E.G, LØST, Sakuma, Yo Nishijima, imus |
 | Tue, 18 Aug 2026 | ASIA TECH |  |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with li
 | Tue, 25 Aug 2026 | ASIA TECH |  |
 | Thu, 27 Aug 2026 | WTW | CLESENT, Daitto |
 | Fri, 28 Aug 2026 | DISKO KLUBB × PUBLIC POSSESSION with Tornado Wallace | DiscCampForest, HIMAWARI, Monkey Timers, Tornado Wallace, YAMARCHY, YOSHIHAARAA, kengotaki |
+| Sat, 29 Aug 2026 | DMC JAPAN DJ CHAMPIONSHIPS 2026 FINAL supported by Technics |  |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

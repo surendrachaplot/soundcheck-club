@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
+DOCTOR MÜCKE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
 
 DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside RESA UTOPICA, Amo (IT) and EGE363. Next up: Humboldthain Club, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 40 sets 
 
 RESA UTOPICA, Amo (IT), EGE363
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

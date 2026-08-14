@@ -1,6 +1,6 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at KOKO, London on Fri, 14 Aug 2026.
+Masha Mar is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at KOKO, London on Fri, 14 Aug 2026.
 
 Masha Mar is a house and techno artist tracked on soundcheck, with 150 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Masha, Heidi Lawden and Stacy Christine. Next up: KOKO, London on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 150 sets logg
 
 Masha, Heidi Lawden, Stacy Christine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

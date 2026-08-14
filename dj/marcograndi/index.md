@@ -1,6 +1,6 @@
 # Marco Grandi
 
-Marco Grandi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bálna Budapest, Budapest on Fri, 14 Aug 2026.
+Marco Grandi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bálna Budapest, Budapest on Fri, 14 Aug 2026.
 
 Marco Grandi is a tech house and house artist based in Hungary, tracked on soundcheck, with 14 sets logged across Budapest. Often billed alongside Blatti, Mulya and Skiz. Next up: Bálna Budapest, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Marco Grandi is a tech house and house artist based in Hungary, tracked on sound
 
 Blatti, Mulya, Skiz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcograndi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcograndi/)*

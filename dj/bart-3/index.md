@@ -1,6 +1,6 @@
 # BART (3)
 
-BART (3) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Prozak 2.0, Krakow on Wed, 26 Aug 2026.
+BART (3) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Prozak 2.0, Krakow on Wed, 26 Aug 2026.
 
 BART (3) is a techno and experimental artist tracked on soundcheck, with 5 sets logged across Geneva, Krakow, London and Seoul. Often billed alongside JADA MORAES, Salomé DV and SamC. Next up: Prozak 2.0, Krakow on Wed 26 Aug.
 
@@ -21,4 +21,4 @@ BART (3) is a techno and experimental artist tracked on soundcheck, with 5 sets 
 
 JADA MORAES, Salomé DV, SamC
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bart-3/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bart-3/)*

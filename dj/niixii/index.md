@@ -1,6 +1,6 @@
 # NIIXII
 
-NIIXII is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
+NIIXII is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
 
 NIIXII is an afro house and house artist based in Spain, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Bucharest and Frankfurt and 2 more. Often billed alongside ERRANT, Jazz K and Isa Rojas. Next up: Seaseaclub Barcelona, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ NIIXII is an afro house and house artist based in Spain, tracked on soundcheck, 
 
 ERRANT, Jazz K, Isa Rojas
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niixii/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niixii/)*

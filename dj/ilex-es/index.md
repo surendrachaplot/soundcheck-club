@@ -1,6 +1,6 @@
 # Ilex
 
-Ilex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sigma, Ibiza on Fri, 14 Aug 2026.
+Ilex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sigma, Ibiza on Fri, 14 Aug 2026.
 
 Ilex is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Imanol (2), matiu and Demofather. Next up: Sigma, Ibiza on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ilex is a techno and house artist tracked on soundcheck, with 25 sets logged acr
 
 Imanol (2), matiu, Demofather
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilex-es/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilex-es/)*

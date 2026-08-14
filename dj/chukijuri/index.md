@@ -1,6 +1,6 @@
 # Chuki Juri
 
-Chuki Juri is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Chuki Juri is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
 Chuki Juri is a house and deep house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Nacho Carbajal, No Silver Bullet and Santi Calvo. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Chuki Juri is a house and deep house artist based in Germany, tracked on soundch
 
 Nacho Carbajal, No Silver Bullet, Santi Calvo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukijuri/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukijuri/)*

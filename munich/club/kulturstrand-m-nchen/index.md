@@ -1,6 +1,6 @@
 # Kulturstrand München
 
-Kulturstrand München is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "House Affairs x IPWIW - Open Air at Kulturstrand" on Sat, 15 Aug 2026.
+Kulturstrand München is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "House Affairs x IPWIW - Open Air at Kulturstrand" on Sat, 15 Aug 2026.
 
 Kulturstrand München is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including iamluie, Philipp Lüers, ROBOTIQ and Static Bloom (DE). Browse upcoming dates, start times and who's playing. Isarbalkon, Corneliusbrücke, 80469 München.
 
@@ -14,4 +14,4 @@ Kulturstrand München is a music venue in Munich listed on soundcheck. 1 upcomin
 
 Isarbalkon, Corneliusbrücke, 80469 München, Munich
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/kulturstrand-m-nchen/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/kulturstrand-m-nchen/)*

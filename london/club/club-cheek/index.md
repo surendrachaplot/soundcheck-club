@@ -1,13 +1,14 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "5 GATE TEMPLE ~ CARNIVAL WEEKEND" on Fri, 28 Aug 2026.
+Club Cheek is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "While Dance Catalogue UK Edition" on Fri, 21 Aug 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alicia (UK), Anahita Shamsaei, ANNX and Bianca Scout and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alicia (UK), Anahita Shamsaei, ANNX and Bianca Scout and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | While Dance Catalogue UK Edition | Ossia |
 | Fri, 28 Aug 2026 | 5 GATE TEMPLE ~ CARNIVAL WEEKEND |  |
 | Sat, 29 Aug 2026 | STRUCTURE X PRESSURE SYSTEMS | Fergus Sweetland, Joline Scheffler, Mosai, Yant |
 | Sun, 30 Aug 2026 | Whistle Crew Horns Crew X Launch Carnival Afterparty | DJ Kane (1), DJ LESSONS, DJ-HOTLINE 333, Double O, ETHICS, Junior Buzz, Philth, Sweetpea |
@@ -17,10 +18,9 @@ Club Cheek is a music venue in London listed on soundcheck. 10 upcoming nights, 
 | Sun, 13 Sept 2026 | Ø presents Zey FM | Anahita Shamsaei, Bilge, Innerstice, Ryan Licchelli |
 | Thu, 17 Sept 2026 | common room with Bianca Scout / NURSE / Mock Uncle / Seraph | Bianca Scout |
 | Sun, 27 Sept 2026 | perspectives• | ANNX, Alicia (UK), Forest, Temple Rat, ena b. |
-| Sat, 3 Oct 2026 | Percolate x Gradient presents Bobby. (Extended) | Bobby. |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

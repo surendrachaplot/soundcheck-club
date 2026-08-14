@@ -1,13 +1,14 @@
 # Maryisonacid
 
-Maryisonacid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Maryisonacid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 90mil, Berlin on Fri, 28 Aug 2026.
 
-Maryisonacid is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Istanbul, Leipzig and Milan and 2 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Maryisonacid is a techno and house artist tracked on soundcheck, with 66 sets logged across Berlin, Istanbul, Leipzig and Milan and 2 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: 90mil, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | 90mil | Berlin |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maryisonacid is a techno and house artist tracked on soundcheck, with 65 sets lo
 
 Dauwd, African Acid is the Future, Camilla Rae
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*

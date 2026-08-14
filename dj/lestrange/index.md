@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at E1, London on Fri, 25 Sept 2026.
+LeStrange is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at E1, London on Fri, 25 Sept 2026.
 
 LeStrange is a techno and industrial artist tracked on soundcheck, with 78 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: E1, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LeStrange is a techno and industrial artist tracked on soundcheck, with 78 sets 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

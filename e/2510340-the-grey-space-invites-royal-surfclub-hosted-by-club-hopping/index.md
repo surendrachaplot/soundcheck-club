@@ -1,6 +1,6 @@
-# The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Kulturnacht ) at The Grey Space In The Middle
+# The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Cultuurnacht ) at The Grey Space In The Middle
 
-The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Kulturnacht ) at The Grey Space In The Middle on Sat 5 Sept, Thehague. 3 acts on the bill: BäRK (NE), LEWIE and SENAIDA. Techno and Acid. Preview the line-up and save it on soundcheck.
+The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Cultuurnacht ) at The Grey Space In The Middle on Sat 5 Sept, Thehague. 3 acts on the bill: BäRK (NE), LEWIE and SENAIDA. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

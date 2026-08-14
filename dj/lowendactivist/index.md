@@ -1,6 +1,6 @@
 # Low End Activist
 
-Low End Activist is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Fri, 28 Aug 2026.
+Low End Activist is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OHM, Berlin on Fri, 28 Aug 2026.
 
 Low End Activist is a bass and grime artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Appleblim, DJ Carlita and Demdike Stare. Next up: OHM, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Low End Activist is a bass and grime artist tracked on soundcheck, with 38 sets 
 
 Appleblim, DJ Carlita, Demdike Stare
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*

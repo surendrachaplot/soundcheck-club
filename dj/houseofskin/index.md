@@ -1,6 +1,6 @@
 # House of Skin
 
-House of Skin is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
+House of Skin is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
 
 House of Skin is an experimental artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Baby Vulture, Bara & Isa and FEELX. Next up: Otto Wagner Areal, Vienna on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ House of Skin is an experimental artist tracked on soundcheck, with 4 sets logge
 
 Baby Vulture, Bara & Isa, FEELX
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofskin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofskin/)*

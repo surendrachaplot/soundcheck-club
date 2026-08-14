@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fever Dream" on Fri, 14 Aug 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fever Dream" on Fri, 14 Aug 2026.
 
 Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including Alex Stein, Bernhard Groeger, Felix Kröcher and Fever Dream and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -21,4 +21,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

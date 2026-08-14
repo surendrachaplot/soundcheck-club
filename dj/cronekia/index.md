@@ -1,6 +1,6 @@
 # CRONEKIA
 
-CRONEKIA is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
+CRONEKIA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
 
 CRONEKIA is a techno artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona and Madrid. Often billed alongside Nahum Korm, Nita Key and KARELBLADE. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ CRONEKIA is a techno artist based in Spain, tracked on soundcheck, with 17 sets 
 
 Nahum Korm, Nita Key, KARELBLADE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cronekia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cronekia/)*

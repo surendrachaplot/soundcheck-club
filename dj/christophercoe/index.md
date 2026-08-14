@@ -1,6 +1,6 @@
 # Christopher Coe
 
-Christopher Coe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
+Christopher Coe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
 
 Christopher Coe is a techno and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Austin, Belfast and Chicago and 9 more. Often billed alongside Carl Cox, Hannes Bieger and Vintage Culture. Next up: The Ulster Sports Club, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Christopher Coe is a techno and tech house artist tracked on soundcheck, with 21
 
 Carl Cox, Hannes Bieger, Vintage Culture
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*

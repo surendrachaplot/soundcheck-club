@@ -1,6 +1,6 @@
 # Eighteenth Street Lounge
 
-Eighteenth Street Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "VANGUADIA at ESL" on Sat, 15 Aug 2026.
+Eighteenth Street Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "VANGUADIA at ESL" on Sat, 15 Aug 2026.
 
 Eighteenth Street Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Rainier Rodriguez. Browse upcoming dates, start times and who's playing. 1212 18th Street; NW Washington, DC 20036; United States.
 
@@ -14,4 +14,4 @@ Eighteenth Street Lounge is a music venue in Washingtondc listed on soundcheck. 
 
 1212 18th Street; NW Washington, DC 20036; United States, Washington DC
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge/)*

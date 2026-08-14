@@ -1,6 +1,6 @@
 # TRSSX
 
-TRSSX is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
+TRSSX is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
 
 TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck, with 46 sets logged across Athens, Dusseldorf, Edinburgh and Glasgow and 3 more. Often billed alongside JayJay, Brandon Lee Vear and Alliyah Enyo. Next up: Salon des Amateurs, Dusseldorf on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck
 
 JayJay, Brandon Lee Vear, Alliyah Enyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*

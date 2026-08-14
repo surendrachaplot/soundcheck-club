@@ -1,6 +1,6 @@
 # Dylan Whicher
 
-Dylan Whicher is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Model, Nottingham on Fri, 14 Aug 2026.
+Dylan Whicher is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Model, Nottingham on Fri, 14 Aug 2026.
 
 Dylan Whicher is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds, Manchester and Nottingham. Often billed alongside Markos (2), Sunny D and Mase (2). Next up: The Model, Nottingham on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Dylan Whicher is a house and tech house artist based in United Kingdom, tracked 
 
 Markos (2), Sunny D, Mase (2)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanwhicher/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanwhicher/)*

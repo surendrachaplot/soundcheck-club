@@ -1,6 +1,6 @@
 # myzelia
 
-myzelia is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+myzelia is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 myzelia is a trance and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Geneva. Often billed alongside Carotin, ELOISA and Limoncello. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ myzelia is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Carotin, ELOISA, Limoncello
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myzelia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myzelia/)*

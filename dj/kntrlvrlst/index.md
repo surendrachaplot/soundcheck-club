@@ -1,6 +1,6 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+KNTRLVRLST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 64 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 64 sets log
 
 A.N.I., Vagabund, O.B.I. (DE)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

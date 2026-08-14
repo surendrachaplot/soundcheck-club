@@ -1,6 +1,6 @@
 # Sakiko Nagai
 
-Sakiko Nagai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 1point4hertz, Toronto on Sat, 29 Aug 2026.
+Sakiko Nagai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 1point4hertz, Toronto on Sat, 29 Aug 2026.
 
 Sakiko Nagai is a house and disco artist based in Canada, tracked on soundcheck, with 41 sets logged across Montreal, Tokyo, Toronto and Vancouver. Often billed alongside Roland Gonzales, Janina Marie and Jodie D. Next up: 1point4hertz, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sakiko Nagai is a house and disco artist based in Canada, tracked on soundcheck,
 
 Roland Gonzales, Janina Marie, Jodie D
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*

@@ -1,6 +1,6 @@
 # Joycey (2)
 
-Joycey (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Greyhound, London on Sat, 12 Sept 2026.
+Joycey (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Greyhound, London on Sat, 12 Sept 2026.
 
 Joycey (2) is a tech house and house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Jackmack, Lex Hearth and Cal Basa. Next up: The Greyhound, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Joycey (2) is a tech house and house artist tracked on soundcheck, with 3 sets l
 
 Jackmack, Lex Hearth, Cal Basa
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joycey-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joycey-2/)*

@@ -1,14 +1,13 @@
 # Gore Lounge Club
 
-Gore Lounge Club is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DJ ROKAM - GORE AFTERTASTE" on Thu, 13 Aug 2026.
+Gore Lounge Club is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "BRINGITON" on Fri, 14 Aug 2026.
 
-Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | DJ ROKAM - GORE AFTERTASTE |  |
 | Fri, 14 Aug 2026 | BRINGITON |  |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*

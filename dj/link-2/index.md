@@ -1,6 +1,6 @@
 # LiNK (2)
 
-LiNK (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Daikokudani Camping Ground, Kyoto on Sat, 10 Oct 2026.
+LiNK (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Daikokudani Camping Ground, Kyoto on Sat, 10 Oct 2026.
 
 LiNK (2) is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Kyoto, Losangeles and Stuttgart. Often billed alongside Techno Thomson, Montague and Momo Femi. Next up: Daikokudani Camping Ground, Kyoto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LiNK (2) is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 Techno Thomson, Montague, Momo Femi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/link-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/link-2/)*

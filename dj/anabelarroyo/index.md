@@ -1,6 +1,6 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+Anabel Arroyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
 
 Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: Tresor / Globus, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundchec
 
 James Newmarch, Voicedrone, Blasha & Allatt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*

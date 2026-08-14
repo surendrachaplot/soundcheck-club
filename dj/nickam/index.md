@@ -1,8 +1,8 @@
 # Nick AM
 
-Nick AM is a Electronica and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Nick AM is a Electronica and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
-Nick AM is an electronica and drum & bass artist tracked on soundcheck, with 9 sets logged across Chicago, Nashville and Newyorkcity. Often billed alongside wev (US), A. Parssi and ALIKHAN. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
+Nick AM is an electronica and drum & bass artist tracked on soundcheck, with 9 sets logged across Chicago, Nashville and Newyorkcity. Often billed alongside Athena, wev (US) and A. Parssi. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nick AM is an electronica and drum & bass artist tracked on soundcheck, with 9 s
 
 ## Shares bills with
 
-wev (US), A. Parssi, ALIKHAN
+Athena, wev (US), A. Parssi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickam/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickam/)*

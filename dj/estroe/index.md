@@ -1,6 +1,6 @@
 # Estroe
 
-Estroe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Worm, Rotterdam on Sat, 29 Aug 2026.
+Estroe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Worm, Rotterdam on Sat, 29 Aug 2026.
 
 Estroe is an ambient and techno artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside RAAF, 3rd Party Influence and Alberta Balsam. Next up: Worm, Rotterdam on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Estroe is an ambient and techno artist based in Netherlands, tracked on soundche
 
 RAAF, 3rd Party Influence, Alberta Balsam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estroe/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estroe/)*

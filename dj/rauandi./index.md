@@ -1,6 +1,6 @@
 # RAUAND I.
 
-RAUAND I. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Revier Oslo, Oslo on Fri, 14 Aug 2026.
+RAUAND I. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Revier Oslo, Oslo on Fri, 14 Aug 2026.
 
 RAUAND I. is a house and broken beat artist based in Germany, tracked on soundcheck, with 6 sets logged across Oslo. Often billed alongside Morstaq, Tia Taro and Finnebassen. Next up: Revier Oslo, Oslo on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ RAUAND I. is a house and broken beat artist based in Germany, tracked on soundch
 
 Morstaq, Tia Taro, Finnebassen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauandi./)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauandi./)*

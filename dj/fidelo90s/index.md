@@ -1,6 +1,6 @@
 # Fidelo90s
 
-Fidelo90s is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Under Club, Buenos Aires on Sat, 15 Aug 2026.
+Fidelo90s is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Under Club, Buenos Aires on Sat, 15 Aug 2026.
 
 Fidelo90s is a techno and electronica artist tracked on soundcheck, with 12 sets logged across Buenosaires. Often billed alongside FIØRELLA, HERS and Josefina Muñoz. Next up: Under Club, Buenosaires on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Fidelo90s is a techno and electronica artist tracked on soundcheck, with 12 sets
 
 FIØRELLA, HERS, Josefina Muñoz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fidelo90s/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fidelo90s/)*

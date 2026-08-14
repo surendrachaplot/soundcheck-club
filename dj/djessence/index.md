@@ -1,6 +1,6 @@
 # Dj Essence
 
-Dj Essence is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Fox and Firkin, London on Fri, 14 Aug 2026.
+Dj Essence is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Fox and Firkin, London on Fri, 14 Aug 2026.
 
 Dj Essence is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Anton Morales, Art e Fect and Dom James U.K. Next up: The Fox and Firkin, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dj Essence is a tech house and techno artist based in United Kingdom, tracked on
 
 Anton Morales, Art e Fect, Dom James U.K
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djessence/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djessence/)*

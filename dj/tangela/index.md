@@ -1,13 +1,14 @@
 # Tangela
 
-Tangela is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Tangela is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Fri, 14 Aug 2026.
 
-Tangela is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
+Tangela is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Sat, 15 Aug 2026 | arkaoda Berlin | Berlin |
 | Sat, 29 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 11 Sept 2026 | Renate | Berlin |
@@ -27,4 +28,4 @@ Tangela is a techno and house artist tracked on soundcheck, with 115 sets logged
 
 Kia (AU), amuwa, Andy Garvey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

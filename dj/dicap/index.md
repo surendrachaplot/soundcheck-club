@@ -1,6 +1,6 @@
 # DICAP
 
-DICAP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+DICAP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 DICAP is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Juliana Huxtable, Via App and Bears In Space. Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DICAP is a techno and house artist based in United States of America, tracked on
 
 Juliana Huxtable, Via App, Bears In Space
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicap/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicap/)*

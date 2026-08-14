@@ -1,6 +1,6 @@
 # Wilkes
 
-Wilkes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at A38, Budapest on Thu, 10 Sept 2026.
+Wilkes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at A38, Budapest on Thu, 10 Sept 2026.
 
 Wilkes is a house and techno artist based in Hungary, tracked on soundcheck, with 15 sets logged across Budapest. Often billed alongside Electric Boutique, Jaffa Surfa and Krudy C. Next up: A38, Budapest on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Wilkes is a house and techno artist based in Hungary, tracked on soundcheck, wit
 
 Electric Boutique, Jaffa Surfa, Krudy C
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkes/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkes/)*

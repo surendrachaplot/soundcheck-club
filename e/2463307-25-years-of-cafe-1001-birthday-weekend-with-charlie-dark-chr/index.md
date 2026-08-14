@@ -1,6 +1,6 @@
-# 25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley TBA at Cafe 1001
+# 25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley & Camille Munn at Cafe 1001
 
-25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley TBA on Fri 28 Aug, London. 2 acts on the bill: Charlie Dark and Chris Wheatley. House. Preview the line-up and save it on soundcheck.
+25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley & Camille Munn on Fri 28 Aug, London. 2 acts on the bill: Charlie Dark and Chris Wheatley. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

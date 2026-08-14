@@ -1,6 +1,6 @@
 # Richie Fingers
 
-Richie Fingers is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Richie Fingers is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Richie Fingers is a house and acid artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh and London. Often billed alongside Slipmatt, Alex P and DJ Hype. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Richie Fingers is a house and acid artist based in United Kingdom, tracked on so
 
 Slipmatt, Alex P, DJ Hype
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiefingers/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiefingers/)*

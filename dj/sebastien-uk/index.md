@@ -1,6 +1,6 @@
 # sebastieN
 
-sebastieN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
+sebastieN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
 
 sebastieN is a club and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Manchester, Newcastle and Sheffield. Often billed alongside Kuriboh, KURLZ and DANCING WITH STANLEY. Next up: renae, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ sebastieN is a club and house artist based in United Kingdom, tracked on soundch
 
 Kuriboh, KURLZ, DANCING WITH STANLEY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastien-uk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastien-uk/)*

@@ -1,14 +1,14 @@
 # session 4000
 
-session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
+session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 16 Aug 2026.
 
-session 4000 is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Ghent and Hamburg and 8 more. Often billed alongside DRAMA SOURCE ARTIFACTS, A. Brehme and Astral Travel. Next up: TBA - Bushwick Rooftop (11237), Newyorkcity on Sun 16 Aug.
+session 4000 is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Ghent and Hamburg and 8 more. Often billed alongside DRAMA SOURCE ARTIFACTS, A. Brehme and Astral Travel. Next up: Summertime Roof Terrace, Newyorkcity on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | TBA - Bushwick Rooftop (11237) | New York City |
+| Sun, 16 Aug 2026 | Summertime Roof Terrace | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ session 4000 is a techno and house artist tracked on soundcheck, with 38 sets lo
 
 DRAMA SOURCE ARTIFACTS, A. Brehme, Astral Travel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*

@@ -1,6 +1,6 @@
 # Harvey Sutherland
 
-Harvey Sutherland is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 15 Aug 2026.
+Harvey Sutherland is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 15 Aug 2026.
 
 Harvey Sutherland is a house and funk / soul artist based in Australia, tracked on soundcheck, with 42 sets logged across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Chaos In The CBD, Kuzco and Adriana (1). Next up: Collingwood Basement, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Harvey Sutherland is a house and funk / soul artist based in Australia, tracked 
 
 Chaos In The CBD, Kuzco, Adriana (1)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*

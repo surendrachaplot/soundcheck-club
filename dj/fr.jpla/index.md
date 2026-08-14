@@ -1,6 +1,6 @@
 # fr. JPLA
 
-fr. JPLA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+fr. JPLA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 fr. JPLA is a techno and house artist based in Germany, tracked on soundcheck, with 79 sets logged across Berlin, Hamburg, Leipzig and Toronto and 1 more. Often billed alongside karete bu, Barbara Hofmann and Hang Aoki. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ fr. JPLA is a techno and house artist based in Germany, tracked on soundcheck, w
 
 karete bu, Barbara Hofmann, Hang Aoki
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*

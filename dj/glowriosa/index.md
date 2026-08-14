@@ -1,6 +1,6 @@
 # Glowriosa
 
-Glowriosa is a Electronica and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Berlin on Sun, 16 Aug 2026.
+Glowriosa is a Electronica and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Berlin on Sun, 16 Aug 2026.
 
 Glowriosa is an electronica and baile funk artist based in Brazil, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside XD Erica, Gadutra and _hiø. Next up: TBA, Berlin on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Glowriosa is an electronica and baile funk artist based in Brazil, tracked on so
 
 XD Erica, Gadutra, _hiø
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glowriosa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glowriosa/)*

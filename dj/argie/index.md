@@ -1,6 +1,6 @@
 # Argie
 
-Argie is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 18 Aug 2026.
+Argie is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 18 Aug 2026.
 
 Argie is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 19 sets logged across Amsterdam, Athens, Leeds and Madrid and 1 more. Often billed alongside FADAR, CHAFA and Elisa Batti. Next up: Cavo Paradiso, Mykonos on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Argie is a techno and minimal techno artist based in Greece, tracked on soundche
 
 FADAR, CHAFA, Elisa Batti
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argie/)*

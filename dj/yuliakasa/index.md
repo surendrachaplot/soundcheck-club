@@ -1,6 +1,6 @@
 # Yulia Kasa
 
-Yulia Kasa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
+Yulia Kasa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
 
 Yulia Kasa is a techno and trance artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin and Melbourne. Often billed alongside ALIEN-A, CAITY WATSON and WISER. Next up: Revolver Upstairs, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Yulia Kasa is a techno and trance artist based in Australia, tracked on soundche
 
 ALIEN-A, CAITY WATSON, WISER
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*

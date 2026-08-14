@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
+Marcellus Pittman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: MoMA PS1, Newyorkcity on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

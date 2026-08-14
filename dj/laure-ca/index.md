@@ -1,6 +1,6 @@
 # Laure (CA)
 
-Laure (CA) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
+Laure (CA) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
 
 Laure (CA) is a house and progressive house artist based in Canada, tracked on soundcheck, with 21 sets logged across Amsterdam, Montreal, Newyorkcity and Paris. Often billed alongside Qrion, ANNA and Arielle Roberge. Next up: Grand Quai du Port de Montreal, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Laure (CA) is a house and progressive house artist based in Canada, tracked on s
 
 Qrion, ANNA, Arielle Roberge
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laure-ca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laure-ca/)*

@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 14 Aug 2026.
+Mganz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 14 Aug 2026.
 
 Mganz is a house and techno artist based in Spain, tracked on soundcheck, with 23 sets logged across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Santi Gonzalez. Next up: Almar Beach Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mganz is a house and techno artist based in Spain, tracked on soundcheck, with 2
 
 juliboe, DC81, Santi Gonzalez
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

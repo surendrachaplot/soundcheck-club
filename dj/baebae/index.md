@@ -1,6 +1,6 @@
 # BAE BAE
 
-BAE BAE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 14 Aug 2026.
+BAE BAE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 14 Aug 2026.
 
 BAE BAE is a club and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 14 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: Homage Brewing, Losangeles on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 110 sets logged 
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

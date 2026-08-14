@@ -1,6 +1,6 @@
 # Katrixia
 
-Katrixia is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Radost FX, Prague on Fri, 14 Aug 2026.
+Katrixia is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Radost FX, Prague on Fri, 14 Aug 2026.
 
 Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside SAVBEA, OKSI and VISNEACS. Next up: Radost FX, Prague on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on so
 
 SAVBEA, OKSI, VISNEACS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*

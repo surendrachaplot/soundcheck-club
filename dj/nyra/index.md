@@ -1,6 +1,6 @@
 # Nyra
 
-Nyra is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Carpet Shop, London on Sat, 15 Aug 2026.
+Nyra is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Carpet Shop, London on Sat, 15 Aug 2026.
 
 Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Belfast and 16 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: The Carpet Shop, London on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Chloé Caillet, Demi Riquisimo, Grace Sands
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

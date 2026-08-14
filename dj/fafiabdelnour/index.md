@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 18 Aug 2026.
+Fafi Abdel Nour is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 Fafi Abdel Nour is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Jennifer Loveless, Octo Octa and Shanti Celeste. Next up: Chinois Ibiza, Ibiza on Tue 18 Aug.
 
@@ -32,4 +32,4 @@ Fafi Abdel Nour is a house and techno artist tracked on soundcheck, with 207 set
 
 Jennifer Loveless, Octo Octa, Shanti Celeste
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

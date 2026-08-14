@@ -1,6 +1,6 @@
 # Martinez
 
-Martinez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Baggen, Copenhagen on Fri, 14 Aug 2026.
+Martinez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Baggen, Copenhagen on Fri, 14 Aug 2026.
 
 Martinez is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Copenhagen, Geneva and Lisbon and 1 more. Often billed alongside DJ Camov, Skotte and A.dixen. Next up: Baggen, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Martinez is a house and techno artist tracked on soundcheck, with 55 sets logged
 
 DJ Camov, Skotte, A.dixen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinez/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinez/)*

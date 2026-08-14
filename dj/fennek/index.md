@@ -1,6 +1,6 @@
 # Fennek
 
-Fennek is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
+Fennek is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
 
 Fennek is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Langnikel, Moto Moto and Aio. Next up: Insomnia, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Fennek is a techno and house artist tracked on soundcheck, with 20 sets logged a
 
 Langnikel, Moto Moto, Aio
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fennek/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fennek/)*

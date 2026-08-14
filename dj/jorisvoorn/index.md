@@ -1,14 +1,14 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Zsiráf, Budapest on Thu, 13 Aug 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Zsiráf, Budapest on Thu 13 Aug.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Zsiráf | Budapest |
+| Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 29 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Sat, 29 Aug 2026 | AMK Club | Buenos Aires |
@@ -20,6 +20,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets lo
 
 ## Recently played
 
+- Zsiráf, Budapest — Thu, 13 Aug 2026
 - Obudai Island, Budapest — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
@@ -27,10 +28,9 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets lo
 - Lofi, Amsterdam — Sat, 27 Jun 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 19 Jun 2026
 - Hï Ibiza, Ibiza — Thu, 18 Jun 2026
-- Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

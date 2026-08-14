@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Shoxy, PTŽC, IXOE" on Fri, 14 Aug 2026.
+Karmakoma is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Shoxy, PTŽC, IXOE" on Fri, 14 Aug 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including Ali Guney, Aneri, Ciel and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -21,4 +21,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

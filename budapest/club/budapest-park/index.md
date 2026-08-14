@@ -1,8 +1,8 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Luxfunk with Big Mo, DJ Sampler ⏾ Nights of Budapest Park" on Fri, 14 Aug 2026.
+Budapest Park is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Luxfunk with Big Mo, DJ Sampler ⏾ Nights of Budapest Park" on Fri, 14 Aug 2026.
 
-Budapest Park is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Mateo, Quixotic (1), Spirit and Teenage Mutants. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
+Budapest Park is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Âme, Mateo, Quixotic (1) and Spirit and 1 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
 ## What's on
 
@@ -15,10 +15,11 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 8 upcoming nigh
 | Sat, 22 Aug 2026 | Big Fat Bachelorette Party 3.0. with DJ Endy, DJ Gomes ⏾ Nights of Budapest Park |  |
 | Fri, 28 Aug 2026 | Confessions On A Dance Floor: The Ultimate Madonna Party with Steiner Kristóf & Nimi ⏾ |  |
 | Fri, 28 Aug 2026 | IAM Productions with Teenage Mutants (DE), support: Mateo & Spirit, Polar ⏾ Nights of BPP | Mateo, Spirit, Teenage Mutants |
+| Fri, 11 Sept 2026 | Pure Lust x LavaLava with Áme (DE) ⏾ Nights of Budapest Park | Âme |
 | Sun, 13 Sept 2026 | MaXXXimum Drum & Bass |  |
 
 ## Address
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

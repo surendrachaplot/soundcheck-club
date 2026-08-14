@@ -1,6 +1,6 @@
 # PUCCI (2)
 
-PUCCI (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Koara, Tokyo on Fri, 14 Aug 2026.
+PUCCI (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Koara, Tokyo on Fri, 14 Aug 2026.
 
 PUCCI (2) is a techno and house artist tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside ALLY, Anapol and BB Deng. Next up: Koara, Tokyo on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ PUCCI (2) is a techno and house artist tracked on soundcheck, with 7 sets logged
 
 ALLY, Anapol, BB Deng
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pucci-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pucci-2/)*

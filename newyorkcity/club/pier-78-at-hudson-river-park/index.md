@@ -1,8 +1,8 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "House Matters: FATSYNC Boat Party" on Fri, 14 Aug 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "House Matters: FATSYNC Boat Party" on Fri, 14 Aug 2026.
 
-Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nights, with line-ups including Bea Trinidad, branqueeno, Bustin' Loose and DJ eh and 2 more. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including Bea Trinidad, branqueeno, Bustin' Loose and DJ eh and 2 more. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundchec
 
 455 12th Avenue, New York, New York, 10018, United States, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*

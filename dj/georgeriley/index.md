@@ -1,6 +1,6 @@
 # George Riley
 
-George Riley is a Club and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
+George Riley is a Club and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
 
 George Riley is a club and amapiano artist tracked on soundcheck, with 18 sets logged across Bali, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Yaeji, LSDXOXO and Leon Vynehall. Next up: Poolen, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ George Riley is a club and amapiano artist tracked on soundcheck, with 18 sets l
 
 Yaeji, LSDXOXO, Leon Vynehall
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeriley/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeriley/)*

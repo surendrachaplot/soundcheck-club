@@ -1,6 +1,6 @@
 # Fancy Shews
 
-Fancy Shews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
+Fancy Shews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
 
 Fancy Shews is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Brighton, Cardiff and London and 2 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: The Roses of Elagabalus, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fancy Shews is a house and techno artist tracked on soundcheck, with 17 sets log
 
 FAFF, Angel D'lite, David Elimelech
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*

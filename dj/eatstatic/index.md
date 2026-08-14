@@ -1,6 +1,6 @@
 # Eat Static
 
-Eat Static is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hangar 34, Liverpool on Fri, 6 Nov 2026.
+Eat Static is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hangar 34, Liverpool on Fri, 6 Nov 2026.
 
 Eat Static is a psytrance and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside Goa Jonas, BERLIN and Chris Zippel. Next up: Hangar 34, Liverpool on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Eat Static is a psytrance and techno artist tracked on soundcheck, with 9 sets l
 
 Goa Jonas, BERLIN, Chris Zippel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eatstatic/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eatstatic/)*

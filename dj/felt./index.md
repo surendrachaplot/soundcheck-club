@@ -1,6 +1,6 @@
 # felt.
 
-felt. is a Ambient and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at High Note, Melbourne on Fri, 14 Aug 2026.
+felt. is a Ambient and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at High Note, Melbourne on Fri, 14 Aug 2026.
 
 felt. is an ambient and progressive house artist tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside gross margins, Dolly (2) and Guy Contact. Next up: High Note, Melbourne on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ felt. is an ambient and progressive house artist tracked on soundcheck, with 5 s
 
 gross margins, Dolly (2), Guy Contact
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felt./)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felt./)*

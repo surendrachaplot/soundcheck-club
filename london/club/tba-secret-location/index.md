@@ -1,8 +1,8 @@
-# TBA - SECRET LOCATION
+# TBA - Secret location
 
-TBA - SECRET LOCATION is a music venue in London with 39 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
+TBA - Secret location is a music venue in London with 41 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Tranzlink: Before Stonewall" on Fri, 14 Aug 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret location is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 39 upcomi
 | Fri, 21 Aug 2026 | K Motionz / SKALAH / CK3 - Beatport Live London - Free RSVP | K Motionz, SKALAH (UK) |
 | Sun, 23 Aug 2026 | ECLIPSE FEST PRESENTS: BLACK ORBIT 2026 |  |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

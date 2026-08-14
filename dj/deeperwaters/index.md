@@ -1,6 +1,6 @@
 # Deeper Waters
 
-Deeper Waters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
+Deeper Waters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Temple Bar, Detroit on Fri, 14 Aug 2026.
 
 Deeper Waters is a house and techno artist tracked on soundcheck, with 48 sets logged across Detroit. Often billed alongside Mike Agent X Clark, Ryan Sadorus and Big Joe Hix. Next up: Temple Bar, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Deeper Waters is a house and techno artist tracked on soundcheck, with 48 sets l
 
 Mike Agent X Clark, Ryan Sadorus, Big Joe Hix
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*

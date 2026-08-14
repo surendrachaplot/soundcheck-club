@@ -1,6 +1,6 @@
 # Tommaso Pizzelli
 
-Tommaso Pizzelli is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 14 Aug 2026.
+Tommaso Pizzelli is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 14 Aug 2026.
 
 Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Alexxx and Lucía Gea. Next up: La Fábrica de Hielo, Valencia on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 55
 
 DJ Free Download, Alexxx, Lucía Gea
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*

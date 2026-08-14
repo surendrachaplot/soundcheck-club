@@ -1,6 +1,6 @@
 # Joe BRT
 
-Joe BRT is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
+Joe BRT is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
 
 Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Balthazar Martinez, Bézier and Christopher Lawrenz. Next up: Golden Gate, Berlin on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, w
 
 Balthazar Martinez, Bézier, Christopher Lawrenz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*

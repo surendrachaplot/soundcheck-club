@@ -1,6 +1,6 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Avalon Hollywood, Los Angeles on Sat, 15 Aug 2026.
+Ferry Corsten is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Avalon Hollywood, Los Angeles on Sat, 15 Aug 2026.
 
 Ferry Corsten is a trance and progressive house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Brisbane, Bristol, Budapest and Chicago and 24 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Avalon Hollywood, Losangeles on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, tra
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

@@ -1,6 +1,6 @@
 # Wigs
 
-Wigs is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
+Wigs is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
 
 Wigs is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Edinburgh, London and Manchester. Often billed alongside ANNX, Astro and Body Clinic. Next up: Gaffe, London on Sun 20 Sept.
 
@@ -20,4 +20,4 @@ Wigs is a house and progressive house artist based in United Kingdom, tracked on
 
 ANNX, Astro, Body Clinic
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*

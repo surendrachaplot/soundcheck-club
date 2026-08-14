@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Innerloop pres. — San Pacho" on Sat, 15 Aug 2026.
+Art Club is a music venue in Houston with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Innerloop pres. — San Pacho" on Sat, 15 Aug 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 20 upcoming nights, with line-ups including Amarji King, Ben UFO, Big Ace and Broken Hill and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 20 upcoming nights, w
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

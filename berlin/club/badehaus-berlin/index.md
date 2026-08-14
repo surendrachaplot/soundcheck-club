@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ENERGY FLASH" on Sat, 15 Aug 2026.
+Badehaus Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ENERGY FLASH" on Sat, 15 Aug 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Electric Visionary, gãl (SI), rfta and Toey Galaga and 1 more. Browse upcoming dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nigh
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

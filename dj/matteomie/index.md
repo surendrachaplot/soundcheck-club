@@ -1,6 +1,6 @@
 # Matteomie
 
-Matteomie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Standard, London, London on Sat, 15 Aug 2026.
+Matteomie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Standard, London, London on Sat, 15 Aug 2026.
 
 Matteomie is a house and deep house artist tracked on soundcheck, with 14 sets logged across Barcelona, London and Vienna. Often billed alongside Christopher Commander, Marcel BS and Max Menaged. Next up: The Standard, London, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Matteomie is a house and deep house artist tracked on soundcheck, with 14 sets l
 
 Christopher Commander, Marcel BS, Max Menaged
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomie/)*

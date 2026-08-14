@@ -1,6 +1,6 @@
 # Rebecca Goldberg
 
-Rebecca Goldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+Rebecca Goldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
 Rebecca Goldberg is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Athens, Berlin, Chicago and Detroit and 6 more. Often billed alongside 2Lanes, Ataxia and Bruce Bailey. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rebecca Goldberg is a techno and house artist based in United States of America,
 
 2Lanes, Ataxia, Bruce Bailey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*

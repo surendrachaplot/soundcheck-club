@@ -1,6 +1,6 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "CONNECTED BRIGHTON" on Sat, 15 Aug 2026.
+WaterBear Venue is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "CONNECTED BRIGHTON" on Sat, 15 Aug 2026.
 
 WaterBear Venue is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Cage (1), Caroline Banx, Dave Angel and DSD uk and 2 more. Browse upcoming dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
@@ -18,4 +18,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 5 upcoming ni
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

@@ -1,6 +1,6 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+Deselecta is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
 Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 66 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: Brixton Jamm, London on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 66 sets
 
 Krash Dubs, 50CAL, Sleazebag
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

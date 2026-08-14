@@ -1,6 +1,6 @@
 # Brauer
 
-Brauer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+Brauer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
 Brauer is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and Mexicocity. Often billed alongside Katta Lana, Lenny Fuck and DJ Fucks Himself. Next up: ://about blank, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Brauer is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Katta Lana, Lenny Fuck, DJ Fucks Himself
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brauer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brauer/)*

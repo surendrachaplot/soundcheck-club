@@ -1,6 +1,6 @@
 # Rockin Moroccin
 
-Rockin Moroccin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Circle Line Cruises, New York City on Sun, 16 Aug 2026.
+Rockin Moroccin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Circle Line Cruises, New York City on Sun, 16 Aug 2026.
 
 Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside C.M.A., Guy Gerber and Hyenah. Next up: Circle Line Cruises, Newyorkcity on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundc
 
 C.M.A., Guy Gerber, Hyenah
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*

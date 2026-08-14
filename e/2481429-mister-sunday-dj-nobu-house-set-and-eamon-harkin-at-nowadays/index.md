@@ -1,6 +1,6 @@
 # Mister Sunday: DJ Nobu (House Set) and Eamon Harkin at Nowadays
 
-Mister Sunday: DJ Nobu (House Set) and Eamon Harkin at Nowadays on Sun 23 Aug, Newyorkcity. 2 acts on the bill: DJ Nobu and Eamon Harkin. Preview the line-up and save it on soundcheck.
+Mister Sunday: DJ Nobu (House Set) and Eamon Harkin at Nowadays on Sun 23 Aug, Newyorkcity. 2 acts on the bill: DJ Nobu and Eamon Harkin. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

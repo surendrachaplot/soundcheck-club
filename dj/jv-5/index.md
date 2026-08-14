@@ -1,6 +1,6 @@
 # JV (5)
 
-JV (5) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dalston Den, London on Fri, 14 Aug 2026.
+JV (5) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Dalston Den, London on Fri, 14 Aug 2026.
 
 JV (5) is a jungle and drum & bass artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Slundarq, passer (UK) and CICELY. Next up: Dalston Den, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ JV (5) is a jungle and drum & bass artist tracked on soundcheck, with 9 sets log
 
 Slundarq, passer (UK), CICELY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jv-5/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jv-5/)*

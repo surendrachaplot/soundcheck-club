@@ -1,6 +1,6 @@
 # Ludo Erre
 
-Ludo Erre is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Maya Beach Experience, Naples on Sat, 15 Aug 2026.
+Ludo Erre is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Maya Beach Experience, Naples on Sat, 15 Aug 2026.
 
 Ludo Erre is a house and tech house artist based in Italy, tracked on soundcheck, with 32 sets logged across Milan, Naples and Paris. Often billed alongside La Hara, Cristian Volpe and Butch. Next up: Maya Beach Experience, Naples on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Ludo Erre is a house and tech house artist based in Italy, tracked on soundcheck
 
 La Hara, Cristian Volpe, Butch
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludoerre/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludoerre/)*

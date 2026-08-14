@@ -1,6 +1,6 @@
 # Greta Meier
 
-Greta Meier is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Casa Blanca, Microcentro, Buenos Aires on Sun, 16 Aug 2026.
+Greta Meier is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Casa Blanca, Microcentro, Buenos Aires on Sun, 16 Aug 2026.
 
 Greta Meier is a progressive house and electronica artist based in Argentina, tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires, Ibiza and Rome. Often billed alongside Temple Gate, Bob Tosh and Dist. Next up: TBA - Casa Blanca, Microcentro, Buenosaires on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Greta Meier is a progressive house and electronica artist based in Argentina, tr
 
 Temple Gate, Bob Tosh, Dist
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretameier/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretameier/)*

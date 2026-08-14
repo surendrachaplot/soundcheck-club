@@ -1,6 +1,6 @@
 # DJ Catnip
 
-DJ Catnip is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Stereo, Glasgow on Sat, 19 Sept 2026.
+DJ Catnip is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Stereo, Glasgow on Sat, 19 Sept 2026.
 
 DJ Catnip is an italo disco and new wave artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Glasgow. Often billed alongside Bonzai Bonner, Dean Munch and Queer History of Dance Music. Next up: Stereo, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Catnip is an italo disco and new wave artist based in United Kingdom, tracked
 
 Bonzai Bonner, Dean Munch, Queer History of Dance Music
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcatnip/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcatnip/)*

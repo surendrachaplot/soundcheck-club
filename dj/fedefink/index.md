@@ -1,6 +1,6 @@
 # FedeFink
 
-FedeFink is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Café Berlín, Madrid on Fri, 28 Aug 2026.
+FedeFink is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Café Berlín, Madrid on Fri, 28 Aug 2026.
 
 FedeFink is an electro and house artist tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside BlackChilli, Anzhio and EKEL. Next up: Café Berlín, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ FedeFink is an electro and house artist tracked on soundcheck, with 12 sets logg
 
 BlackChilli, Anzhio, EKEL
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefink/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefink/)*

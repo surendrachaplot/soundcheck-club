@@ -1,6 +1,6 @@
 # Czaraka
 
-Czaraka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Karma Crew Warsaw, Warsaw on Sat, 15 Aug 2026.
+Czaraka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Karma Crew Warsaw, Warsaw on Sat, 15 Aug 2026.
 
 Czaraka is a dubstep and drum & bass artist based in Poland, tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside Avtomat, Abuelita and Adobo (PL). Next up: Karma Crew Warsaw, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Czaraka is a dubstep and drum & bass artist based in Poland, tracked on soundche
 
 Avtomat, Abuelita, Adobo (PL)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/czaraka/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/czaraka/)*

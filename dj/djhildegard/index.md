@@ -1,6 +1,6 @@
 # DJ Hildegard
 
-DJ Hildegard is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
+DJ Hildegard is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
 
 DJ Hildegard is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Frankfurt. Often billed alongside 6EJOU, A.N.I. and AKA AKA. Next up: Tanzhaus West, Frankfurt on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ DJ Hildegard is a trance and techno artist based in Germany, tracked on soundche
 
 6EJOU, A.N.I., AKA AKA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhildegard/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhildegard/)*

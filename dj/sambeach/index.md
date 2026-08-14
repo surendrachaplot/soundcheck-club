@@ -1,6 +1,6 @@
 # Sam Beach
 
-Sam Beach is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
+Sam Beach is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
 
 Sam Beach is a house and tech house artist tracked on soundcheck, with 43 sets logged across Ibiza and London. Often billed alongside Nick Clev, Harry Dale and JAYDAA. Next up: The Marquee Moon, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Sam Beach is a house and tech house artist tracked on soundcheck, with 43 sets l
 
 Nick Clev, Harry Dale, JAYDAA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*

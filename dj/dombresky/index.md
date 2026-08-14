@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
+Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 139 sets logged across Austin, Bali, Barcelona and Boston and 29 more. Often billed alongside Jaded (UK), Cassian and Eli Brown. Next up: Magazine Open–Air, London on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 139 sets 
 
 Jaded (UK), Cassian, Eli Brown
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

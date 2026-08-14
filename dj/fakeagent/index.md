@@ -1,6 +1,6 @@
 # Fake Agent
 
-Fake Agent is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
+Fake Agent is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
 
 Fake Agent is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Adamatron, Pink Concrete and aláya. Next up: Altenburg 1964, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Fake Agent is a techno and tech house artist tracked on soundcheck, with 24 sets
 
 Adamatron, Pink Concrete, aláya
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*

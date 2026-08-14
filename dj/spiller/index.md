@@ -1,6 +1,6 @@
 # Spiller
 
-Spiller is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
+Spiller is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
 
 Spiller is a house and disco artist based in Italy, tracked on soundcheck, with 15 sets logged across Bangkok, Copenhagen, Ibiza and Liverpool and 6 more. Often billed alongside Curcio, Dan Shake and Agathe Mougin. Next up: Circolo Magnolia, Milan on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Spiller is a house and disco artist based in Italy, tracked on soundcheck, with 
 
 Curcio, Dan Shake, Agathe Mougin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*

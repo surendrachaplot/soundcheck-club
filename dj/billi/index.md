@@ -1,6 +1,6 @@
 # Billi
 
-Billi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Fri, 14 Aug 2026.
+Billi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ministerium Club, Lisbon on Fri, 14 Aug 2026.
 
 Billi is a house and techno artist tracked on soundcheck, with 14 sets logged across Lisbon. Often billed alongside FRESKO, Helio and Pitcho. Next up: Ministerium Club, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Billi is a house and techno artist tracked on soundcheck, with 14 sets logged ac
 
 FRESKO, Helio, Pitcho
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*

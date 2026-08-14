@@ -1,14 +1,15 @@
 # Francisco Collazo
 
-Francisco Collazo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bok Bar, Philadelphia on Sun, 16 Aug 2026.
+Francisco Collazo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bok Bar, Philadelphia on Sun, 16 Aug 2026.
 
-Francisco Collazo is a house and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Rob Paine, Bridget B and DJ Xtina. Next up: Bok Bar, Philadelphia on Sun 16 Aug.
+Francisco Collazo is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Rob Paine, Bridget B and DJ Xtina. Next up: Bok Bar, Philadelphia on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Bok Bar | Philadelphia |
+| Sun, 30 Aug 2026 | Saint Lazarus Bar | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Francisco Collazo is a house and techno artist based in United States of America
 
 Rob Paine, Bridget B, DJ Xtina
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*

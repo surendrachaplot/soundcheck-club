@@ -1,0 +1,28 @@
+# Ultima Esuna
+
+Ultima Esuna is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
+
+Ultima Esuna is a bass and club artist tracked on soundcheck, with 11 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Dj Hermano, Jordan Gardner and Ben UFO. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 19 Aug 2026 | Breakglass Studios | Montreal |
+
+## Recently played
+
+- Agora Hydro-Québec, Cœur des Sciences, Montreal — Sat, 15 Mar 2025
+- Agora Hydro-Québec, Cœur des Sciences, Montreal — Sat, 15 Mar 2025
+- Esplanade Louvain, Montreal — Fri, 26 Jul 2024
+- Système, Montreal — Sat, 20 Apr 2024
+- Société des arts technologiques, Montreal — Sat, 21 Oct 2023
+- Système, Montreal — Fri, 14 Jul 2023
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 2 Jul 2023
+- BLK Space Studios, Toronto — Fri, 30 Jun 2023
+
+## Shares bills with
+
+Dj Hermano, Jordan Gardner, Ben UFO
+
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultimaesuna/)*

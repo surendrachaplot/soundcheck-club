@@ -1,6 +1,6 @@
 # Bacon Chang
 
-Bacon Chang is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Sun, 13 Sept 2026.
+Bacon Chang is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Sun, 13 Sept 2026.
 
 Bacon Chang is a house and italo disco artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin, Milan and Saopaulo. Often billed alongside Marcel da Kinky Koala, AmadoPeace and Ana Molina. Next up: OXI, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Bacon Chang is a house and italo disco artist based in Japan, tracked on soundch
 
 Marcel da Kinky Koala, AmadoPeace, Ana Molina
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baconchang/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baconchang/)*

@@ -1,13 +1,14 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Mall Grab is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
@@ -34,4 +35,4 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

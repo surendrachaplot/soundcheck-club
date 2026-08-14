@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "theoracle with Theo Kottis (brand new venue)" on Fri, 14 Aug 2026.
+radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "theoracle with Theo Kottis (brand new venue)" on Fri, 14 Aug 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alex Sourbis, carmen (7), Cathal and Danny Goliger and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 14 upcoming nights, with
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

@@ -1,6 +1,6 @@
 # 120 max
 
-120 max is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
+120 max is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
 
 120 max is a house and disco artist based in Colombia, tracked on soundcheck, with 20 sets logged across Miami, Nashville and Newyorkcity. Often billed alongside Bort, True Vine and Eleou. Next up: Mad Radio Miami, Miami on Fri 14 Aug.
 
@@ -25,4 +25,4 @@
 
 Bort, True Vine, Eleou
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/120max/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/120max/)*

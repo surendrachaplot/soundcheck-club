@@ -1,6 +1,6 @@
 # ranomin
 
-ranomin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cul Sec, Seoul on Fri, 14 Aug 2026.
+ranomin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cul Sec, Seoul on Fri, 14 Aug 2026.
 
 ranomin is a house and techno artist tracked on soundcheck, with 18 sets logged across Seoul. Often billed alongside DJ Funny, CMYK and Cityboy from Seoul. Next up: Cul Sec, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ranomin is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 DJ Funny, CMYK, Cityboy from Seoul
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranomin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranomin/)*

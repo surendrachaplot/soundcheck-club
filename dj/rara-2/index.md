@@ -1,6 +1,6 @@
 # RARA (US)
 
-RARA (US) is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
+RARA (US) is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
 
 RARA (US) is an afro house and club artist tracked on soundcheck, with 27 sets logged across Miami and Newyorkcity. Often billed alongside v1fro, SATURNSARii and XANA (US). Next up: The Ground at Club Space, Miami on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RARA (US) is an afro house and club artist tracked on soundcheck, with 27 sets l
 
 v1fro, SATURNSARii, XANA (US)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*

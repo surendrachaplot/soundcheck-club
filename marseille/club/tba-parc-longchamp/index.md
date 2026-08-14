@@ -1,6 +1,6 @@
 # TBA - Parc Longchamp
 
-TBA - Parc Longchamp is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Les Apéros 4&5 - Zar Electrik + Mystique" on Tue, 25 Aug 2026.
+TBA - Parc Longchamp is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Les Apéros 4&5 - Zar Electrik + Mystique" on Tue, 25 Aug 2026.
 
 TBA - Parc Longchamp is a music venue in Marseille listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Parc Longchamp is a music venue in Marseille listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Les Apéros 4&5 - Zar Electrik + Mystique |  |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-parc-longchamp/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-parc-longchamp/)*

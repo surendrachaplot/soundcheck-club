@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Friday, August 14, 2026" on Fri, 14 Aug 2026.
+teller is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Friday, August 14, 2026" on Fri, 14 Aug 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including .2ndfloor, chani, Kibum and Krijka and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -17,4 +17,4 @@ teller is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with l
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

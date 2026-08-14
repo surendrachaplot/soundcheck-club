@@ -1,6 +1,6 @@
 # Obsimo
 
-Obsimo is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Usquare, Brussels on Sat, 29 Aug 2026.
+Obsimo is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Usquare, Brussels on Sat, 29 Aug 2026.
 
 Obsimo is a house and electronica artist based in France, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Hamburg and Lyon and 2 more. Often billed alongside ABRAN, Duskus and Weval. Next up: Usquare, Brussels on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Obsimo is a house and electronica artist based in France, tracked on soundcheck,
 
 ABRAN, Duskus, Weval
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obsimo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obsimo/)*

@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Charivari Detroit • Parallel" on Thu, 13 Aug 2026.
+Tangent Gallery is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Charivari Detroit • Parallel" on Thu, 13 Aug 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including Afra, AK (US), Aluna and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -23,4 +23,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 11 upcoming ni
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

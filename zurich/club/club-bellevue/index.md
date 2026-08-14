@@ -1,6 +1,6 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SOLÉA" on Fri, 14 Aug 2026.
+Club Bellevue is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SOLÉA" on Fri, 14 Aug 2026.
 
 Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including Andri, Elia, GIORGIO (IT) and Lukey and 2 more. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
@@ -18,4 +18,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

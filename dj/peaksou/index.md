@@ -1,6 +1,6 @@
 # PEAKSOU
 
-PEAKSOU is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Le Chapiteau - Marseille, Marseille on Thu, 13 Aug 2026.
+PEAKSOU is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Le Chapiteau - Marseille, Marseille on Thu, 13 Aug 2026.
 
 PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Marseille and Nantes and 1 more. Often billed alongside 25EMEHEURE, AISHA and Bones 33. Next up: Le Chapiteau - Marseille, Marseille on Thu 13 Aug.
 
@@ -15,6 +15,7 @@ PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
+- Le Chapiteau - Marseille, Marseille — Thu, 13 Aug 2026
 - Artheater, Cologne — Fri, 7 Aug 2026
 - La Rotonde Stalingrad, Paris — Fri, 31 Jul 2026
 - Virage, Paris — Thu, 25 Jun 2026
@@ -22,10 +23,9 @@ PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, wi
 - Le Chapiteau - Marseille, Marseille — Fri, 5 Jun 2026
 - La Java, Paris — Sat, 23 May 2026
 - Humboldthain Club, Berlin — Fri, 1 May 2026
-- Cabaret  Aléatoire, Marseille — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 25EMEHEURE, AISHA, Bones 33
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*

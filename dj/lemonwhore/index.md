@@ -1,6 +1,6 @@
 # LemonWhore
 
-LemonWhore is a Experimental and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+LemonWhore is a Experimental and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
 LemonWhore is an experimental and gabber artist tracked on soundcheck, with 10 sets logged across Prague. Often billed alongside AVHD, Kaa Glo and divinity statue. Next up: Fuchs2, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LemonWhore is an experimental and gabber artist tracked on soundcheck, with 10 s
 
 AVHD, Kaa Glo, divinity statue
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonwhore/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonwhore/)*

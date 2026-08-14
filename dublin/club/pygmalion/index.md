@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Pyg presents DJ Deece & Charlie Fry" on Fri, 14 Aug 2026.
+Pygmalion is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Pyg presents DJ Deece & Charlie Fry" on Fri, 14 Aug 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -15,4 +15,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Br
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

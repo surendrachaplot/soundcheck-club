@@ -1,6 +1,6 @@
 # Skarn
 
-Skarn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
+Skarn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
 
 Skarn is a techno and house artist based in Denmark, tracked on soundcheck, with 38 sets logged across Copenhagen. Often billed alongside Aja Gulris, CERJ and Azpecialguest. Next up: Culture Box, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Skarn is a techno and house artist based in Denmark, tracked on soundcheck, with
 
 Aja Gulris, CERJ, Azpecialguest
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skarn/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skarn/)*

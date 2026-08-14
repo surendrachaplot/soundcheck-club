@@ -1,13 +1,14 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-X CLUB. is a techno and house artist tracked on soundcheck, with 216 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+X CLUB. is a techno and house artist tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Société des arts technologiques | Montreal |
@@ -15,6 +16,7 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 216 sets logged
 | Sun, 20 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 3 Oct 2026 | KALT | Strasbourg |
+| Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
@@ -33,4 +35,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 216 sets logged
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

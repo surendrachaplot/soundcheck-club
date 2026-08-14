@@ -1,6 +1,6 @@
 # Lily London
 
-Lily London is a Broken Beat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Lily London is a Broken Beat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
 Lily London is a broken beat and jungle artist tracked on soundcheck, with 31 sets logged across Brighton and London. Often billed alongside Dreamrdreamr, Earful of Wax and Nancy June. Next up: Colour Factory, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Lily London is a broken beat and jungle artist tracked on soundcheck, with 31 se
 
 Dreamrdreamr, Earful of Wax, Nancy June
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*

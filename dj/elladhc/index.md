@@ -1,6 +1,6 @@
 # ELLADHC
 
-ELLADHC is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bricks, London on Sat, 15 Aug 2026.
+ELLADHC is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bricks, London on Sat, 15 Aug 2026.
 
 ELLADHC is a dancehall and r&b artist tracked on soundcheck, with 42 sets logged across Brighton and London. Often billed alongside AyChibs, Chey Selecta and Donnie Sunshine. Next up: Bricks, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ELLADHC is a dancehall and r&b artist tracked on soundcheck, with 42 sets logged
 
 AyChibs, Chey Selecta, Donnie Sunshine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*

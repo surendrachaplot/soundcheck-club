@@ -1,6 +1,6 @@
 # Back To Base at the Beach - Daria Kolosova at Boomerang Beach
 
-Back To Base at the Beach - Daria Kolosova at Boomerang Beach on Sat 5 Sept, Thehague. 3 acts on the bill: Daria Kolosova, Eva Vrijdag and Fiene. Trance and Techno. Preview the line-up and save it on soundcheck.
+Back To Base at the Beach - Daria Kolosova at Boomerang Beach on Sat 5 Sept, Thehague. 4 acts on the bill: Daria Kolosova, Eva Vrijdag, Fiene and Olive Anguz. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Back To Base at the Beach - Daria Kolosova at Boomerang Beach on Sat 5 Sept, The
 - Daria Kolosova
 - Eva Vrijdag
 - Fiene
+- Olive Anguz
 
 *Source: [soundcheck](https://soundcheck.club/e/2461883-back-to-base-at-the-beach-daria-kolosova-at-boomerang-beach/)*

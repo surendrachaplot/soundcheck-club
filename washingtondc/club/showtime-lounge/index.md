@@ -1,6 +1,6 @@
 # Showtime Lounge
 
-Showtime Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "SHAKE & SHOUT: 60s Dance Party" on Fri, 14 Aug 2026.
+Showtime Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "SHAKE & SHOUT: 60s Dance Party" on Fri, 14 Aug 2026.
 
 Showtime Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Candie Kitsch. Browse upcoming dates, start times and who's playing. 113 Rhode Island Ave NW, Washington, DC 20001.
 
@@ -14,4 +14,4 @@ Showtime Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcomin
 
 113 Rhode Island Ave NW, Washington, DC 20001, Washington DC
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/showtime-lounge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/showtime-lounge/)*

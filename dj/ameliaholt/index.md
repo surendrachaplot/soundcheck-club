@@ -1,8 +1,8 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
+Amelia Holt is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
 
-Amelia Holt is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Refuge, Newyorkcity on Fri 14 Aug.
+Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Refuge, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 190 sets lo
 | Thu, 20 Aug 2026 | Good Room | New York City |
 | Fri, 28 Aug 2026 | TBA - Secret Location | Chicago |
 | Sat, 29 Aug 2026 | TBA - 359 Meserole St Brooklyn, NY 11206 | New York City |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Thu, 17 Sept 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | H0L0 | New York City |
 
@@ -30,4 +31,4 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 190 sets lo
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

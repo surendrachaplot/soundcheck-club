@@ -1,6 +1,6 @@
 # Amok Club
 
-Amok Club is a music venue in Mallorca with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Space of Sound Mallorca w/ Claptone" on Sat, 15 Aug 2026.
+Amok Club is a music venue in Mallorca with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Space of Sound Mallorca w/ Claptone" on Sat, 15 Aug 2026.
 
 Amok Club is a music venue in Mallorca listed on soundcheck. 5 upcoming nights, with line-ups including AAfrAA, Alicia Hahn, Claptone and Jean Philippe and 2 more. Browse upcoming dates, start times and who's playing. Carretera de S´Aranjassa, Km 10, Levante, 07199, Islas Baleares.
 
@@ -18,4 +18,4 @@ Amok Club is a music venue in Mallorca listed on soundcheck. 5 upcoming nights, 
 
 Carretera de S´Aranjassa, Km 10, Levante, 07199, Islas Baleares, Mallorca
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/amok-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/amok-club/)*

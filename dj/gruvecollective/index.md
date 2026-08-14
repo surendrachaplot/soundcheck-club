@@ -1,6 +1,6 @@
 # Gruve Collective
 
-Gruve Collective is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Handlebar, Toronto on Mon, 17 Aug 2026.
+Gruve Collective is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Handlebar, Toronto on Mon, 17 Aug 2026.
 
 Gruve Collective is a downtempo and electronica artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Fame Diet and Sixtroke. Next up: Handlebar, Toronto on Mon 17 Aug.
 
@@ -23,4 +23,4 @@ Gruve Collective is a downtempo and electronica artist based in Canada, tracked 
 
 Fame Diet, Sixtroke
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gruvecollective/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gruvecollective/)*

@@ -1,6 +1,6 @@
 # Silentjay
 
-Silentjay is a Hip-Hop and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
+Silentjay is a Hip-Hop and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
 
 Silentjay is a hip-hop and funk / soul artist based in Australia, tracked on soundcheck, with 13 sets logged across Melbourne, Sydney and Tokyo. Often billed alongside Lori (1), Setwun and Stupid Kozo. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Silentjay is a hip-hop and funk / soul artist based in Australia, tracked on sou
 
 Lori (1), Setwun, Stupid Kozo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*

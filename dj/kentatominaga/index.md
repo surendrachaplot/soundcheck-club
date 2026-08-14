@@ -1,6 +1,6 @@
 # Kenta Tominaga
 
-Kenta Tominaga is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Live Haus, Tokyo on Fri, 14 Aug 2026.
+Kenta Tominaga is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Live Haus, Tokyo on Fri, 14 Aug 2026.
 
 Kenta Tominaga is a drum & bass and jungle artist tracked on soundcheck, with 109 sets logged across Tokyo. Often billed alongside vinylDJ Eiji Takehana, Hironobu Jyounai and Blue Flower. Next up: Live Haus, Tokyo on Fri 14 Aug.
 
@@ -34,4 +34,4 @@ Kenta Tominaga is a drum & bass and jungle artist tracked on soundcheck, with 10
 
 vinylDJ Eiji Takehana, Hironobu Jyounai, Blue Flower
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentatominaga/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentatominaga/)*

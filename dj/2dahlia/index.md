@@ -1,6 +1,6 @@
 # 2dahlia
 
-2dahlia is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+2dahlia is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 2dahlia is a techno and acid artist based in United States of America, tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside jcore, Myca and Mx Mouse. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@
 
 jcore, Myca, Mx Mouse
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*

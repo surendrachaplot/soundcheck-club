@@ -1,6 +1,6 @@
 # DJ Sour
 
-DJ Sour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
+DJ Sour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
 
 DJ Sour is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Leipzig and Newyorkcity. Often billed alongside DJ Thank You, SEXINCHURCH and Ms Carrie Stacks. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Sour is a techno and house artist based in United States of America, tracked 
 
 DJ Thank You, SEXINCHURCH, Ms Carrie Stacks
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsour/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsour/)*

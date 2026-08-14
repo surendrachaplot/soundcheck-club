@@ -1,6 +1,6 @@
 # haLuka
 
-haLuka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 15 Aug 2026.
+haLuka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 15 Aug 2026.
 
 haLuka is a house and techno artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Andre McLeod, BANANA-CHAN and HAYATO DELAROSSA. Next up: Heavy Sick Zero, Tokyo on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ haLuka is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Andre McLeod, BANANA-CHAN, HAYATO DELAROSSA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haluka/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haluka/)*

@@ -1,6 +1,6 @@
 # DJ LAG
 
-DJ LAG is a Gqom and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ LAG is a Gqom and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, w
 
 Nick León, Batu, Simo Cell
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*

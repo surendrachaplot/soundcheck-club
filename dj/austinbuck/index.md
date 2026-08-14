@@ -1,6 +1,6 @@
 # Austin Buck
 
-Austin Buck is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
+Austin Buck is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
 
 Austin Buck is a techno and trance artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside 88 MPH, Instead of Seven and J Æ G Ü A R. Next up: TBA, Detroit on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Austin Buck is a techno and trance artist based in United States of America, tra
 
 88 MPH, Instead of Seven, J Æ G Ü A R
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/austinbuck/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/austinbuck/)*

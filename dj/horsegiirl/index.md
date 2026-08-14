@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
+horsegiirL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
 
 horsegiirL is a techno and house artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside DJ Gigola, MCR-T and Marlon Hoffstadt. Next up: Valby Parken, Copenhagen on Thu 13 Aug.
 
@@ -19,6 +19,7 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Valby Parken, Copenhagen — Thu, 13 Aug 2026
 - Radius, Chicago — Fri, 31 Jul 2026
 - Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
 - TBA, Los Angeles — Sat, 6 Jun 2026
@@ -26,10 +27,9 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 - NDSM Docklands, Amsterdam — Sat, 4 Apr 2026
 - Zig Studio, Sao Paulo — Fri, 20 Mar 2026
 - Deseo BS AS, Buenos Aires — Sat, 14 Mar 2026
-- The Warehouse Project, Manchester — Sat, 1 Nov 2025
 
 ## Shares bills with
 
 DJ Gigola, MCR-T, Marlon Hoffstadt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

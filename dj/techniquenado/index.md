@@ -1,6 +1,6 @@
 # Technique nado
 
-Technique nado is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Technique nado is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
 Technique nado is a techno and electro artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal. Often billed alongside Katamina, Luminescu and Pleurire. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Technique nado is a techno and electro artist based in Canada, tracked on soundc
 
 Katamina, Luminescu, Pleurire
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techniquenado/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techniquenado/)*

@@ -1,6 +1,6 @@
 # Iglooghost
 
-Iglooghost is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Circus Osaka, Osaka on Fri, 14 Aug 2026.
+Iglooghost is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Circus Osaka, Osaka on Fri, 14 Aug 2026.
 
 Iglooghost is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 22 more. Often billed alongside BABii, HiTech and SHERELLE. Next up: Circus Osaka, Osaka on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Iglooghost is an experimental and electronica artist based in United Kingdom, tr
 
 BABii, HiTech, SHERELLE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*

@@ -1,6 +1,6 @@
 # MNTY
 
-MNTY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+MNTY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
 MNTY is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Mexicocity and Newyorkcity and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ MNTY is a house and techno artist tracked on soundcheck, with 89 sets logged acr
 
 Bluecommand, Valeriana, AAAA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*

@@ -1,8 +1,8 @@
 # Matas
 
-Matas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
+Matas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
 
-Matas is a techno and house artist tracked on soundcheck, with 55 sets logged across Berlin, Boston, Copenhagen and Montreal and 1 more. Often billed alongside Jek (US), LYDO and KYRUH. Next up: Breakglass Studios, Montreal on Sun 16 Aug.
+Matas is a techno and house artist tracked on soundcheck, with 56 sets logged across Berlin, Boston, Copenhagen and Montreal and 1 more. Often billed alongside Jek (US), LYDO and KYRUH. Next up: Breakglass Studios, Montreal on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matas is a techno and house artist tracked on soundcheck, with 55 sets logged ac
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Breakglass Studios | Montreal |
 | Fri, 21 Aug 2026 | Nowadays | New York City |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Matas is a techno and house artist tracked on soundcheck, with 55 sets logged ac
 
 Jek (US), LYDO, KYRUH
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*

@@ -1,6 +1,6 @@
 # Nick Charles
 
-Nick Charles is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OverDraught, Manchester on Sat, 15 Aug 2026.
+Nick Charles is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OverDraught, Manchester on Sat, 15 Aug 2026.
 
 Nick Charles is a house and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Manchester. Often billed alongside Macy Lancaster, krioso and Emma Ellis. Next up: OverDraught, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nick Charles is a house and disco artist based in United Kingdom, tracked on sou
 
 Macy Lancaster, krioso, Emma Ellis
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*

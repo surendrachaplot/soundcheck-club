@@ -1,6 +1,6 @@
 # Insolence
 
-Insolence is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Château Moderne, Brussels on Fri, 21 Aug 2026.
+Insolence is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Château Moderne, Brussels on Fri, 21 Aug 2026.
 
 Insolence is a techno and trance artist based in France, tracked on soundcheck, with 17 sets logged across Amsterdam and Brussels. Often billed alongside ECH/O, Makoveev and Tyotya Lida. Next up: Château Moderne, Brussels on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Insolence is a techno and trance artist based in France, tracked on soundcheck, 
 
 ECH/O, Makoveev, Tyotya Lida
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*

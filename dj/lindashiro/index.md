@@ -1,6 +1,6 @@
 # Linda shiro
 
-Linda shiro is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Linda shiro is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
 
 Linda shiro is a house and disco artist based in Italy, tracked on soundcheck, with 28 sets logged across Barcelona and Berlin. Often billed alongside maniac&me, Planetary Echoes and Caligula. Next up: ÆDEN, Berlin on Thu 13 Aug.
 
@@ -13,6 +13,7 @@ Linda shiro is a house and disco artist based in Italy, tracked on soundcheck, w
 
 ## Recently played
 
+- ÆDEN, Berlin — Thu, 13 Aug 2026
 - ÆDEN, Berlin — Sat, 11 Jul 2026
 - Village Underground Barcelona, Barcelona — Fri, 19 Jun 2026
 - Coro Wine and Vinyls, Berlin — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ Linda shiro is a house and disco artist based in Italy, tracked on soundcheck, w
 - Rosie's Bar, Berlin — Fri, 15 May 2026
 - M01, Berlin — Fri, 20 Mar 2026
 - Kater, Berlin — Sat, 14 Mar 2026
-- TBA - our beloved secret location (more info on Telegram), Berlin — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 maniac&me, Planetary Echoes, Caligula
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*

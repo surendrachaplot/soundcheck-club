@@ -1,6 +1,6 @@
 # DJames (2)
 
-DJames (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Cross Club, Prague on Sat, 15 Aug 2026.
+DJames (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Cross Club, Prague on Sat, 15 Aug 2026.
 
 DJames (2) is a techno and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside AVHD, Takē and ishka machina. Next up: Cross Club, Prague on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJames (2) is a techno and house artist based in Spain, tracked on soundcheck, w
 
 AVHD, Takē, ishka machina
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*

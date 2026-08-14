@@ -1,6 +1,6 @@
 # Tully
 
-Tully is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Fri, 14 Aug 2026.
+Tully is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Fri, 14 Aug 2026.
 
 Tully is a house and techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Bristol, London and Vancouver. Often billed alongside Angel Mel, C-Star and Dose.. Next up: The Full Moon Pub & Attic Bar, Bristol on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tully is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Angel Mel, C-Star, Dose.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*

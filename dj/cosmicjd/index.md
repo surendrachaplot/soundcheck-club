@@ -1,6 +1,6 @@
 # Cosmic JD
 
-Cosmic JD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bambi's, Toronto on Sat, 29 Aug 2026.
+Cosmic JD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bambi's, Toronto on Sat, 29 Aug 2026.
 
 Cosmic JD is a techno and house artist tracked on soundcheck, with 83 sets logged across Bangkok, Barcelona, Berlin and Dublin and 13 more. Often billed alongside Alex Picone, DJ Zenta and Desyn. Next up: Bambi's, Toronto on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Cosmic JD is a techno and house artist tracked on soundcheck, with 83 sets logge
 
 Alex Picone, DJ Zenta, Desyn
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*

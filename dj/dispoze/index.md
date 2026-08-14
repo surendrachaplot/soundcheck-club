@@ -1,6 +1,6 @@
 # Dispoze
 
-Dispoze is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Angāra Koncertzāle, Riga on Sat, 22 Aug 2026.
+Dispoze is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Angāra Koncertzāle, Riga on Sat, 22 Aug 2026.
 
 Dispoze is a drum & bass and techno artist tracked on soundcheck, with 44 sets logged across Riga. Often billed alongside nummurs, AIVISO and Katii. Next up: Angāra Koncertzāle, Riga on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dispoze is a drum & bass and techno artist tracked on soundcheck, with 44 sets l
 
 nummurs, AIVISO, Katii
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dispoze/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dispoze/)*

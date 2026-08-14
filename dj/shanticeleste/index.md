@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
+Shanti Celeste is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: The White Hotel, Manchester on Sat 22 Aug.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: The White Hotel, Manchester on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 211 sets
 | Sat, 22 Aug 2026 | The White Hotel | Manchester |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | Southwark Park | London |
+| Sat, 5 Sept 2026 | Uto-Staffel | Zurich |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
@@ -19,7 +20,6 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 211 sets
 | Sat, 3 Oct 2026 | Under The Arches | Leeds |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
-| Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 211 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

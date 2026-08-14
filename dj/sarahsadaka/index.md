@@ -1,6 +1,6 @@
 # Sarah Sadaka
 
-Sarah Sadaka is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
+Sarah Sadaka is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
 
 Sarah Sadaka is a club and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Fursa, 444 (1) and CYCLO BONETTE. Next up: Mood Ring, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Sarah Sadaka is a club and techno artist based in United States of America, trac
 
 Fursa, 444 (1), CYCLO BONETTE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsadaka/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsadaka/)*

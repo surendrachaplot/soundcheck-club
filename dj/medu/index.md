@@ -1,6 +1,6 @@
 # Medu
 
-Medu is a Electronica and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The White Swan, London on Sat, 15 Aug 2026.
+Medu is a Electronica and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The White Swan, London on Sat, 15 Aug 2026.
 
 Medu is an electronica and minimal techno artist tracked on soundcheck, with 3 sets logged across London and Malaga. Often billed alongside Alberto Segador, Shallum and Unreal Vibes. Next up: The White Swan, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Medu is an electronica and minimal techno artist tracked on soundcheck, with 3 s
 
 Alberto Segador, Shallum, Unreal Vibes
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medu/)*

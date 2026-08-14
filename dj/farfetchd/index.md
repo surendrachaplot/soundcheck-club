@@ -1,6 +1,6 @@
 # Farfetchd
 
-Farfetchd is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lavallée, Brussels on Fri, 14 Aug 2026.
+Farfetchd is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lavallée, Brussels on Fri, 14 Aug 2026.
 
 Farfetchd is a techno and progressive house artist tracked on soundcheck, with 15 sets logged across Brussels and Stockholm. Often billed alongside Ragel Mood, Joris and Reagan Mian. Next up: Lavallée, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Farfetchd is a techno and progressive house artist tracked on soundcheck, with 1
 
 Ragel Mood, Joris, Reagan Mian
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farfetchd/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farfetchd/)*

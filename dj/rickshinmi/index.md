@@ -1,6 +1,6 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+Rickshinmi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
 Rickshinmi is a techno and house artist tracked on soundcheck, with 57 sets logged across Seoul and Tokyo. Often billed alongside EMILIO (3), EVE (1) and savezearth. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Rickshinmi is a techno and house artist tracked on soundcheck, with 57 sets logg
 
 EMILIO (3), EVE (1), savezearth
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

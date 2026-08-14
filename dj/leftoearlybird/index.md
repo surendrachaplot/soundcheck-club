@@ -1,6 +1,6 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kaos Berlin, Berlin on Sun, 16 Aug 2026.
+Lefto Early Bird is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kaos Berlin, Berlin on Sun, 16 Aug 2026.
 
 Lefto Early Bird is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Job Jobse. Next up: Kaos Berlin, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Lefto Early Bird is a house and techno artist tracked on soundcheck, with 119 se
 
 Marco Weibel, AliA, Job Jobse
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*

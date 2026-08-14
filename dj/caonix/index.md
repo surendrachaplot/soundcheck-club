@@ -1,6 +1,6 @@
 # caonix
 
-caonix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
+caonix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
 
 caonix is a techno and house artist tracked on soundcheck, with 19 sets logged across Glasgow and Manchester. Often billed alongside Girlfriend, INLIMEN and Kabel. Next up: Soup, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ caonix is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Girlfriend, INLIMEN, Kabel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*

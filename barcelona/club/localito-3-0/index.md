@@ -1,6 +1,6 @@
 # Localito 3.0
 
-Localito 3.0 is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Local Signal" on Fri, 14 Aug 2026.
+Localito 3.0 is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Local Signal" on Fri, 14 Aug 2026.
 
 Localito 3.0 is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Barbers and Model Shape. Browse upcoming dates, start times and who's playing. Passeig de la Marina, 174, 08860 Castelldefels, Barcelona.
 
@@ -15,4 +15,4 @@ Localito 3.0 is a music venue in Barcelona listed on soundcheck. 2 upcoming nigh
 
 Passeig de la Marina, 174, 08860 Castelldefels, Barcelona, Barcelona
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/localito-3-0/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/localito-3-0/)*

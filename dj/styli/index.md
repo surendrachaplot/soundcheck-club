@@ -1,6 +1,6 @@
 # STYLI
 
-STYLI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+STYLI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
 
 STYLI is a house and techno artist based in Cyprus, tracked on soundcheck, with 23 sets logged across Bristol, Cardiff and Manchester. Often billed alongside Aly Berry, MTOM and DASHY. Next up: Moon Club, Bristol on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ STYLI is a house and techno artist based in Cyprus, tracked on soundcheck, with 
 
 Aly Berry, MTOM, DASHY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*

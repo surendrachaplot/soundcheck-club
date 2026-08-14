@@ -1,13 +1,14 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Lars Huismann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Lars Huismann is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Austin and Belgrade and 41 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+Lars Huismann is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Austin and Belgrade and 41 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
 | Sat, 5 Sept 2026 | MODULE | Copenhagen |
 | Fri, 18 Sept 2026 | Else | Berlin |
@@ -27,4 +28,4 @@ Lars Huismann is a techno and house artist tracked on soundcheck, with 95 sets l
 
 SHDW, Chontane, ANNĒ
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

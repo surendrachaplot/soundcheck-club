@@ -1,6 +1,6 @@
 # Border One
 
-Border One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Border One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Border One is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Border One is a techno and house artist tracked on soundcheck, with 86 sets logg
 
 Kr!z, Phara, Marie-Julie
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*

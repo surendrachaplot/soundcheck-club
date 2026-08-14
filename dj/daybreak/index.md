@@ -1,6 +1,6 @@
 # Daybreak
 
-Daybreak is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
+Daybreak is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
 
 Daybreak is a techno and trance artist based in United States of America, tracked on soundcheck, with 31 sets logged across Bangkok, Berlin, Boston and Chicago and 3 more. Often billed alongside Telesforo, Michelle Kay and BЯEE. Next up: The Chocolate Factory, Newyorkcity on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Daybreak is a techno and trance artist based in United States of America, tracke
 
 Telesforo, Michelle Kay, BЯEE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*

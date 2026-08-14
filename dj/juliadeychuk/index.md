@@ -1,6 +1,6 @@
 # Julia Deychuk
 
-Julia Deychuk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 14 Aug 2026.
+Julia Deychuk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 14 Aug 2026.
 
 Julia Deychuk is a house and techno artist based in Ukraine, tracked on soundcheck, with 37 sets logged across Kualalumpur. Often billed alongside Alam, Meliha and Axel Groove. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Julia Deychuk is a house and techno artist based in Ukraine, tracked on soundche
 
 Alam, Meliha, Axel Groove
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*

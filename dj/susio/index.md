@@ -1,6 +1,6 @@
 # Susio
 
-Susio is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+Susio is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 Susio is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Miami and Sandiego. Often billed alongside DJ IDeaL, Mitch Dodge and CJ Posada. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Susio is a house and tech house artist based in United States of America, tracke
 
 DJ IDeaL, Mitch Dodge, CJ Posada
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susio/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susio/)*

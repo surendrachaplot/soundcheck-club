@@ -1,6 +1,6 @@
 # dBridge
 
-dBridge is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+dBridge is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 dBridge is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Boston and Brighton and 29 more. Often billed alongside SP:MC, DjRUM and Kia (AU). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ dBridge is a drum & bass and techno artist based in United Kingdom, tracked on s
 
 SP:MC, DjRUM, Kia (AU)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

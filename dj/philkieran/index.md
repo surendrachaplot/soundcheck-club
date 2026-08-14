@@ -1,6 +1,6 @@
 # Phil Kieran
 
-Phil Kieran is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
+Phil Kieran is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
 
 Phil Kieran is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Belfast, Dublin and Glasgow. Often billed alongside Angel Negrin, Christopher Coe and Conor Schmtz. Next up: The Ulster Sports Club, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Phil Kieran is a techno and electro artist based in United Kingdom, tracked on s
 
 Angel Negrin, Christopher Coe, Conor Schmtz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*

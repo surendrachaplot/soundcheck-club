@@ -1,6 +1,6 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Lewis Carroll is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Lewis Carroll is a house and garage artist tracked on soundcheck, with 45 sets logged across Birmingham, Brighton, Edinburgh and Glasgow and 4 more. Often billed alongside Dan Schofield, Tom Da Silva and Harry McCanna. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Lewis Carroll is a house and garage artist tracked on soundcheck, with 45 sets l
 
 Dan Schofield, Tom Da Silva, Harry McCanna
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

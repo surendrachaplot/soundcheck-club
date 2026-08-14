@@ -1,6 +1,6 @@
 # Anthracene
 
-Anthracene is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Chausseestraße 131A 10115 Berlin, Berlin on Sat, 15 Aug 2026.
+Anthracene is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Chausseestraße 131A 10115 Berlin, Berlin on Sat, 15 Aug 2026.
 
 Anthracene is a club and r&b artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Nyennea, Warlord® and SILVASURFER. Next up: TBA - Chausseestraße 131A 10115 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Anthracene is a club and r&b artist tracked on soundcheck, with 15 sets logged a
 
 Nyennea, Warlord®, SILVASURFER
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*

@@ -1,6 +1,6 @@
 # Catarina Silva
 
-Catarina Silva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Gare Porto, Porto on Fri, 14 Aug 2026.
+Catarina Silva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Gare Porto, Porto on Fri, 14 Aug 2026.
 
 Catarina Silva is a techno and house artist based in Portugal, tracked on soundcheck, with 57 sets logged across Berlin, Lisbon, Porto and Washingtondc. Often billed alongside MARRØN, Amulador and Brusca. Next up: Gare Porto, Porto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Catarina Silva is a techno and house artist based in Portugal, tracked on soundc
 
 MARRØN, Amulador, Brusca
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*

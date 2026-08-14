@@ -1,6 +1,6 @@
 # Melokolektiv
 
-Melokolektiv is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at L'ilienne (Croisière Marseille Calanques), Marseille on Sat, 15 Aug 2026.
+Melokolektiv is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at L'ilienne (Croisière Marseille Calanques), Marseille on Sat, 15 Aug 2026.
 
 Melokolektiv is a deep house and techno artist tracked on soundcheck, with 3 sets logged across Marseille and Paris. Often billed alongside FNX Omar, MKLF and Yensü. Next up: L'ilienne (Croisière Marseille Calanques), Marseille on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Melokolektiv is a deep house and techno artist tracked on soundcheck, with 3 set
 
 FNX Omar, MKLF, Yensü
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*

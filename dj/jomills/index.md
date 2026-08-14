@@ -1,6 +1,6 @@
 # Jo Mills
 
-Jo Mills is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 22 Aug 2026.
+Jo Mills is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Jo Mills is a house and tech house artist tracked on soundcheck, with 26 sets logged across Ibiza, London and Nottingham. Often billed alongside Jason Bye, Guy Williams and Andy Baxter. Next up: 528 Ibiza, Ibiza on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jo Mills is a house and tech house artist tracked on soundcheck, with 26 sets lo
 
 Jason Bye, Guy Williams, Andy Baxter
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jomills/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jomills/)*

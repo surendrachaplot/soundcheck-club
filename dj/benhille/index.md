@@ -1,6 +1,6 @@
 # Ben Hille
 
-Ben Hille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Nouveau Casino, Paris on Sat, 29 Aug 2026.
+Ben Hille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Nouveau Casino, Paris on Sat, 29 Aug 2026.
 
 Ben Hille is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Paris and Stuttgart. Often billed alongside Michael Clash Gottschalk, Bang and Cherry and 2FARO. Next up: Nouveau Casino, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ben Hille is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Michael Clash Gottschalk, Bang and Cherry, 2FARO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhille/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhille/)*

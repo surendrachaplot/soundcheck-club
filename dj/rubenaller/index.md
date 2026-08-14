@@ -1,6 +1,6 @@
 # Ruben Aller
 
-Ruben Aller is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
+Ruben Aller is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
 
 Ruben Aller is a tech house and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Valencia. Often billed alongside AARON GEHRIG, ANTON (ES) and Ana Alves. Next up: Resume Valencia, Valencia on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Ruben Aller is a tech house and house artist based in Spain, tracked on soundche
 
 AARON GEHRIG, ANTON (ES), Ana Alves
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenaller/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenaller/)*

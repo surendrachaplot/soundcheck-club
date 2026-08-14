@@ -1,6 +1,6 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
+CatLadyHi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
 
 CatLadyHi is a house and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Beltran, Miss Hazard and SHRAY. Next up: Brooklyn Storehouse, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CatLadyHi is a house and tech house artist based in United States of America, tr
 
 Beltran, Miss Hazard, SHRAY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

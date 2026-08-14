@@ -1,6 +1,6 @@
 # Luxxury
 
-Luxxury is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Union Station, Los Angeles on Sat, 15 Aug 2026.
+Luxxury is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Union Station, Los Angeles on Sat, 15 Aug 2026.
 
 Luxxury is a disco and house artist tracked on soundcheck, with 5 sets logged across Losangeles and Seattle. Often billed alongside Hot N' Spicy Disco, Matt Dandois and J.Rocc. Next up: Union Station, Losangeles on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Luxxury is a disco and house artist tracked on soundcheck, with 5 sets logged ac
 
 Hot N' Spicy Disco, Matt Dandois, J.Rocc
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luxxury-us/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luxxury-us/)*

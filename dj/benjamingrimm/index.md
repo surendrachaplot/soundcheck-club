@@ -1,6 +1,6 @@
 # Benjamin Grimm
 
-Benjamin Grimm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
+Benjamin Grimm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
 
 Benjamin Grimm is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside CHICHO, Shilo and AKVA. Next up: Club Frau Holle, Hamburg on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Benjamin Grimm is a techno and house artist based in Germany, tracked on soundch
 
 CHICHO, Shilo, AKVA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamingrimm/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamingrimm/)*

@@ -1,6 +1,6 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 55 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Hugel presents Make The Girls Dance" on Thu, 13 Aug 2026.
+Hï Ibiza is a music venue in Ibiza with 55 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Meduza & James Hype present Our House" on Wed, 12 Aug 2026.
 
 Hï Ibiza is a music venue in Ibiza listed on soundcheck. 55 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
@@ -8,7 +8,7 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 55 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Hugel presents Make The Girls Dance | Hugel, Kiko, Konstantin Sibold, Miss Monique |
+| Wed, 12 Aug 2026 | Meduza & James Hype present Our House | ANTO ZAGU, KAYA (US) |
 | Fri, 14 Aug 2026 | Dom Dolla | Dom Dolla, Ewan McVicar, Sally C |
 | Sat, 15 Aug 2026 | Black Coffee | Adam Ten, Ankhoï, Black Coffee, JAMIIE, RY X, Skepta |
 | Sun, 16 Aug 2026 | CamelPhat present Summer of Love | CamelPhat, Charlie Sparks, Indira Paganotto, R.Korner, Sam Paganini |
@@ -23,4 +23,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 55 upcoming nights, wi
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

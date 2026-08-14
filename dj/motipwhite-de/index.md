@@ -1,6 +1,6 @@
 # Motip White
 
-Motip White is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Phonox, London on Fri, 14 Aug 2026.
+Motip White is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Phonox, London on Fri, 14 Aug 2026.
 
 Motip White is a house and techno artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside Redfreya, Alexander Maier and Gina Sabatini. Next up: Phonox, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Motip White is a house and techno artist tracked on soundcheck, with 33 sets log
 
 Redfreya, Alexander Maier, Gina Sabatini
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*

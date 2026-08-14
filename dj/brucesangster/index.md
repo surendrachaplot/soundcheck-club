@@ -1,6 +1,6 @@
 # Bruce Sangster
 
-Bruce Sangster is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
+Bruce Sangster is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
 
 Bruce Sangster is a dub techno and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside AKA DISPLAY, ALWAYS 8:15 and DEJA. Next up: The Berkeley Suite, Glasgow on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Bruce Sangster is a dub techno and techno artist based in United Kingdom, tracke
 
 AKA DISPLAY, ALWAYS 8:15, DEJA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*

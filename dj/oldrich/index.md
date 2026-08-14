@@ -1,13 +1,14 @@
 # Old & Rich
 
-Old & Rich is a Italo Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Twist Bar, Prague on Fri, 14 Aug 2026.
+Old & Rich is a Italo Disco and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Twist Bar, Prague on Fri, 14 Aug 2026.
 
-Old & Rich are an italo disco and acid duo based in Czech Republic, tracked on soundcheck, with 33 sets logged across Prague. Often billed alongside Jak Sen, Raphael Kosmos and Austin Powers. Next up: Twist Bar, Prague on Fri 14 Aug.
+Old & Rich are an italo disco and acid duo based in Czech Republic, tracked on soundcheck, with 34 sets logged across Prague. Often billed alongside Jak Sen, Raphael Kosmos and Austin Powers. Next up: Twist Bar, Prague on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Twist Bar | Prague |
 | Fri, 14 Aug 2026 | Twist Bar | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ Old & Rich are an italo disco and acid duo based in Czech Republic, tracked on s
 
 Jak Sen, Raphael Kosmos, Austin Powers
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*

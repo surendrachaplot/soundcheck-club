@@ -1,6 +1,6 @@
 # KENJI MARUI
 
-KENJI MARUI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Area51 / 17map Minami, Osaka on Sat, 15 Aug 2026.
+KENJI MARUI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Area51 / 17map Minami, Osaka on Sat, 15 Aug 2026.
 
 KENJI MARUI is a house and techno artist tracked on soundcheck, with 32 sets logged across Kyoto and Osaka. Often billed alongside DMITRI ABSINTHE, Senda and yu-more. Next up: Area51 / 17map Minami, Osaka on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KENJI MARUI is a house and techno artist tracked on soundcheck, with 32 sets log
 
 DMITRI ABSINTHE, Senda, yu-more
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjimarui/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjimarui/)*

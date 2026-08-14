@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Waikiki is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Waikiki is a techno and tech house artist tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside DJ Jordan, Das Amt and Match Hoffman. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Waikiki is a techno and tech house artist tracked on soundcheck, with 33 sets lo
 
 DJ Jordan, Das Amt, Match Hoffman
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*

@@ -1,8 +1,8 @@
-# TBA - Chausseestraße 131A 10115 Berlin
+# TBA - Chausseestraße 131A, 10115 Berlin
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "[8] & OPERA: NIGHT AT THE OPERA AFTERPARTY [2 FLOORS]" on Fri, 14 Aug 2026.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "[8] & OPERA: NIGHT AT THE OPERA AFTERPARTY [2 FLOORS]" on Fri, 14 Aug 2026.
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Anthracene, Nyennea, Porschelane and Sugar Barbie. Browse upcoming dates, start times and who's playing.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Anthracene, Nyennea, Porschelane and Sugar Barbie. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -11,4 +11,4 @@ TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin listed on sou
 | Fri, 14 Aug 2026 | [8] & OPERA: NIGHT AT THE OPERA AFTERPARTY [2 FLOORS] |  |
 | Sat, 15 Aug 2026 | [8] & OPERA presents POLE DANCE ALL NIGHT LONG [FLINTA ONLY LINEUP EDITION] | Anthracene, Nyennea, Porschelane, Sugar Barbie |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-chausseestra-e-131a-10115-berlin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-chausseestra-e-131a-10115-berlin/)*

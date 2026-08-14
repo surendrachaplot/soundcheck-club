@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Club Night: Derrick Carter & YASMEENAH" on Fri, 14 Aug 2026.
+Nowadays is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Club Night: Derrick Carter & YASMEENAH" on Fri, 14 Aug 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including 5ive, MORENXXX, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 43 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

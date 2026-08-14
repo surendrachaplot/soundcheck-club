@@ -1,6 +1,6 @@
 # Warschauerstr. Skatepark
 
-Warschauerstr. Skatepark is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Kiez House Open Air x Skatepark" on Sat, 15 Aug 2026.
+Warschauerstr. Skatepark is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Kiez House Open Air x Skatepark" on Sat, 15 Aug 2026.
 
 Warschauerstr. Skatepark is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including AH-Effects and Phat Beat. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Warschauerstr. Skatepark is a music venue in Berlin listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Kiez House Open Air x Skatepark | AH-Effects, Phat Beat |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/warschauerstr-skatepark/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/warschauerstr-skatepark/)*

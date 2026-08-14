@@ -1,6 +1,6 @@
 # Gregboi
 
-Gregboi is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Roar Brewing (Detroit), Detroit on Sat, 15 Aug 2026.
+Gregboi is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Roar Brewing (Detroit), Detroit on Sat, 15 Aug 2026.
 
 Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets logged across Detroit. Often billed alongside Ryan Sadorus, Marcus NF Harris and Czboogie. Next up: Roar Brewing (Detroit), Detroit on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets log
 
 Ryan Sadorus, Marcus NF Harris, Czboogie
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*

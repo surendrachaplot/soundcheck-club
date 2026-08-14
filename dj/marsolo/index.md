@@ -1,6 +1,6 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Magazine Open–Air, London on Sat, 15 Aug 2026.
+Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Magazine Open–Air, London on Sat, 15 Aug 2026.
 
 Marsolo is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 35 more. Often billed alongside Jamback, Josh Baker and Locklead. Next up: Magazine Open–Air, London on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 153 sets lo
 
 Jamback, Josh Baker, Locklead
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

@@ -1,6 +1,6 @@
 # Reade Truth
 
-Reade Truth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
+Reade Truth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
 
 Reade Truth is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Ghent, Montreal and Newyorkcity and 1 more. Often billed alongside Adam X, Richard Hinge and Frankie Bones. Next up: Summertime Roof Terrace, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Reade Truth is a techno and house artist based in United States of America, trac
 
 Adam X, Richard Hinge, Frankie Bones
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/readetruth/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/readetruth/)*

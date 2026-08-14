@@ -1,6 +1,6 @@
 # suciopath
 
-suciopath is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 17 Aug 2026.
+suciopath is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 17 Aug 2026.
 
 suciopath is a house and idm artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity and Toronto. Often billed alongside LIONESSA, PUFF and porygon k. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 17 Aug.
 
@@ -24,4 +24,4 @@ suciopath is a house and idm artist based in United States of America, tracked o
 
 LIONESSA, PUFF, porygon k
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*

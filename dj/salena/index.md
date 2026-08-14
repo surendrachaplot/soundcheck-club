@@ -1,6 +1,6 @@
 # Salena
 
-Salena is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+Salena is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 Salena is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Bristol and London. Often billed alongside Exilee, Hovsep (AM) and acidhousewife3000. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Salena is an experimental and electronica artist based in United Kingdom, tracke
 
 Exilee, Hovsep (AM), acidhousewife3000
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salena/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salena/)*

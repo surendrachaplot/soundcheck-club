@@ -1,6 +1,6 @@
 # Zayac
 
-Zayac is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
+Zayac is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
 
 Zayac is a techno and house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside jamadam, charlii and hoelub. Next up: TBA - Bunker, Copenhagen on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Zayac is a techno and house artist based in Denmark, tracked on soundcheck, with
 
 jamadam, charlii, hoelub
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zayac/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zayac/)*

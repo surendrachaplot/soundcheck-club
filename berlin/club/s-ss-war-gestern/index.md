@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "süss am Freitag" on Fri, 14 Aug 2026.
+Süss War Gestern is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "süss am Freitag" on Fri, 14 Aug 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Ariyam, Dicso_Muzek, Djomby and Emilion Dollar Baby and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -17,4 +17,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 4 upcoming ni
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

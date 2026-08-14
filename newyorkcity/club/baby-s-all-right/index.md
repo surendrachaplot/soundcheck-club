@@ -1,6 +1,6 @@
 # Baby's All Right
 
-Baby's All Right is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "oomfRAVE presents: Syzy" on Fri, 21 Aug 2026.
+Baby's All Right is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "oomfRAVE presents: Syzy" on Fri, 21 Aug 2026.
 
 Baby's All Right is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Max Parkinson and oomfhaver. Browse upcoming dates, start times and who's playing. 146 Broadway Brooklyn, NY.
 
@@ -14,4 +14,4 @@ Baby's All Right is a music venue in Newyorkcity listed on soundcheck. 1 upcomin
 
 146 Broadway Brooklyn, NY, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/baby-s-all-right/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/baby-s-all-right/)*

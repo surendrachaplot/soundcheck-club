@@ -1,6 +1,6 @@
 # Benedikt Frey
 
-Benedikt Frey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Plattenvereinigung, Berlin on Sat, 15 Aug 2026.
+Benedikt Frey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Plattenvereinigung, Berlin on Sat, 15 Aug 2026.
 
 Benedikt Frey is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside Menqui, Chez de Milo and NVST. Next up: Plattenvereinigung, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Benedikt Frey is a techno and house artist tracked on soundcheck, with 35 sets l
 
 Menqui, Chez de Milo, NVST
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benediktfrey/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benediktfrey/)*

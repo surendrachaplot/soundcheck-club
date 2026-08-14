@@ -1,6 +1,6 @@
 # MILAN MILANO
 
-MILAN MILANO is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+MILAN MILANO is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 MILAN MILANO is a techno and tech house artist tracked on soundcheck, with 82 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 4 more. Often billed alongside Bernhard Groeger, Felix Eul and Julian Haffner. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ MILAN MILANO is a techno and tech house artist tracked on soundcheck, with 82 se
 
 Bernhard Groeger, Felix Eul, Julian Haffner
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milanmilano/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milanmilano/)*

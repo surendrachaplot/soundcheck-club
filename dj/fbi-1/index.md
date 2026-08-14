@@ -1,6 +1,6 @@
 # fbi (1)
 
-fbi (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Locke, Hamburg on Fri, 14 Aug 2026.
+fbi (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Locke, Hamburg on Fri, 14 Aug 2026.
 
 fbi (1) is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Locke, Hamburg on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ fbi (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 KVLR, DJ SOURCE, yamagucci42
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*

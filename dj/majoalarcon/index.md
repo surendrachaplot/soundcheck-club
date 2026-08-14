@@ -1,6 +1,6 @@
 # Majo Alarcon
 
-Majo Alarcon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Círculo, Barcelona on Sat, 15 Aug 2026.
+Majo Alarcon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Círculo, Barcelona on Sat, 15 Aug 2026.
 
 Majo Alarcon is a house and techno artist based in Uruguay, tracked on soundcheck, with 5 sets logged across Barcelona and Mexicocity. Often billed alongside Agustina Aliaga, BRU ON and Benja Millan. Next up: Círculo, Barcelona on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Majo Alarcon is a house and techno artist based in Uruguay, tracked on soundchec
 
 Agustina Aliaga, BRU ON, Benja Millan
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majoalarcon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majoalarcon/)*

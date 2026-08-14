@@ -1,6 +1,6 @@
 # Mary St Live
 
-Mary St Live is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Isis Moray - Album Launch - Do It Thissen Records" on Sat, 29 Aug 2026.
+Mary St Live is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Isis Moray - Album Launch - Do It Thissen Records" on Sat, 29 Aug 2026.
 
 Mary St Live is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including Isis Moray and Movement81. Browse upcoming dates, start times and who's playing. 95 Mary Street, Sheffield, S1 4RT.
 
@@ -15,4 +15,4 @@ Mary St Live is a music venue in Sheffield listed on soundcheck. 2 upcoming nigh
 
 95 Mary Street, Sheffield, S1 4RT, Sheffield
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/mary-st-live/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/mary-st-live/)*

@@ -1,14 +1,15 @@
 # Koboyo
 
-Koboyo is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+Koboyo is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
-Koboyo is a techno and dub techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 20 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
+Koboyo is a techno and dub techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 21 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Koboyo is a techno and dub techno artist tracked on soundcheck, with 93 sets log
 
 Amelie Lens, Ahl Iver, KUSS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*

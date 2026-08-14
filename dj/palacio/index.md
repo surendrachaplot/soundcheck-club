@@ -1,6 +1,6 @@
 # PALACIO
 
-PALACIO is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Domicile, Miami on Fri, 14 Aug 2026.
+PALACIO is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Domicile, Miami on Fri, 14 Aug 2026.
 
 PALACIO is a techno and minimal artist based in United States of America, tracked on soundcheck, with 17 sets logged across Amsterdam, Brisbane, Ibiza and London and 5 more. Often billed alongside DomnRob, Mr. Proper and Stan Christ. Next up: Domicile, Miami on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ PALACIO is a techno and minimal artist based in United States of America, tracke
 
 DomnRob, Mr. Proper, Stan Christ
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*

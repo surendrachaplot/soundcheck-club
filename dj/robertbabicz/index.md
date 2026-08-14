@@ -1,6 +1,6 @@
 # Robert Babicz
 
-Robert Babicz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
+Robert Babicz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
 
 Robert Babicz is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Brighton, Cologne and Dusseldorf and 11 more. Often billed alongside Marc Romboy, Frank Sonic and Milk N Coffee. Next up: TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Robert Babicz is a techno and house artist based in Germany, tracked on soundche
 
 Marc Romboy, Frank Sonic, Milk N Coffee
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbabicz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbabicz/)*

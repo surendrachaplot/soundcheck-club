@@ -1,17 +1,18 @@
 # MIZUKI OGISU
 
-MIZUKI OGISU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Koara, Tokyo on Thu, 13 Aug 2026.
+MIZUKI OGISU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 7 Sept 2026.
 
-MIZUKI OGISU is a house and techno artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside Taichi Nagayama, niwa and KAKERU. Next up: Koara, Tokyo on Thu 13 Aug.
+MIZUKI OGISU is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside Taichi Nagayama, niwa and KAKERU. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Koara | Tokyo |
+| Mon, 7 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 
+- Koara, Tokyo — Thu, 13 Aug 2026
 - Oath, Tokyo — Wed, 5 Aug 2026
 - Oath, Tokyo — Wed, 22 Jul 2026
 - Red Bar, Tokyo — Thu, 7 May 2026
@@ -19,10 +20,9 @@ MIZUKI OGISU is a house and techno artist based in Japan, tracked on soundcheck,
 - Mitsuki, Tokyo — Thu, 2 Apr 2026
 - Oath, Tokyo — Wed, 1 Apr 2026
 - Numm, Tokyo — Sat, 10 Jan 2026
-- Oath, Tokyo — Wed, 7 Jan 2026
 
 ## Shares bills with
 
 Taichi Nagayama, niwa, KAKERU
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizukiogisu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizukiogisu/)*

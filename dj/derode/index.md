@@ -1,6 +1,6 @@
 # Derode
 
-Derode is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Else, Berlin on Fri, 18 Sept 2026.
+Derode is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Fri, 18 Sept 2026.
 
 Derode is a techno artist based in France, tracked on soundcheck, with 2 sets logged across Berlin and Brussels. Often billed alongside Billy Boy, Cirkle and Gina Demarchi. Next up: Else, Berlin on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ Derode is a techno artist based in France, tracked on soundcheck, with 2 sets lo
 
 Billy Boy, Cirkle, Gina Demarchi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derode/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derode/)*

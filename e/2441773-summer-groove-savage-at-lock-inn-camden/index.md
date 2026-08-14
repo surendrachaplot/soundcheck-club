@@ -1,6 +1,6 @@
 # SUMMER Groove Savage at Lock Inn Camden
 
-SUMMER Groove Savage at Lock Inn Camden on Fri 4 Sept, London. 3 acts on the bill: DASHA (UK), VENERE and Vini Pistori. House and Electronica. Preview the line-up and save it on soundcheck.
+SUMMER Groove Savage at Lock Inn Camden on Fri 4 Sept, London. 4 acts on the bill: DASHA (UK), Luke Savage, VENERE and Vini Pistori. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SUMMER Groove Savage at Lock Inn Camden on Fri 4 Sept, London. 3 acts on the bil
 ## Line-up
 
 - DASHA (UK)
+- Luke Savage
 - VENERE
 - Vini Pistori
 

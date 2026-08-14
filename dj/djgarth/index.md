@@ -1,6 +1,6 @@
 # DJ Garth
 
-DJ Garth is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at BAR Inc, Osaka on Fri, 14 Aug 2026.
+DJ Garth is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BAR Inc, Osaka on Fri, 14 Aug 2026.
 
 DJ Garth is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles, Osaka, Sandiego and Sanfrancisco and 3 more. Often billed alongside DJ M3, Galen and Aaron F. Next up: BAR Inc, Osaka on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ DJ Garth is a house and disco artist based in United States of America, tracked 
 
 DJ M3, Galen, Aaron F
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgarth/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgarth/)*

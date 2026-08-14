@@ -1,6 +1,6 @@
 # Kick21
 
-Kick21 is a Techno and Drone artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Kick21 is a Techno and Drone artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Kick21 is a techno and drone artist based in France, tracked on soundcheck, with 15 sets logged across Lyon, Milan, Paris and Turin. Often billed alongside 9dwa, AliXx and Fluid Matter. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -14,6 +14,7 @@ Kick21 is a techno and drone artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
+- TBA - La Louverie, Paris — Thu, 13 Aug 2026
 - Cartilage, Paris — Sat, 28 Mar 2026
 - Le Sample, Paris — Sat, 6 Dec 2025
 - TBA - Péniche Anako, Paris — Fri, 10 Oct 2025
@@ -21,10 +22,9 @@ Kick21 is a techno and drone artist based in France, tracked on soundcheck, with
 - Circolo Amelia, Milan — Sat, 31 May 2025
 - Imbarchino, Turin — Fri, 30 May 2025
 - Le Sucre, Lyon — Sat, 15 Mar 2025
-- Le Sucre, Lyon — Sat, 31 Aug 2024
 
 ## Shares bills with
 
 9dwa, AliXx, Fluid Matter
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kick21/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kick21/)*

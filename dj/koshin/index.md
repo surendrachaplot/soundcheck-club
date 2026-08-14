@@ -1,6 +1,6 @@
 # Koshin
 
-Koshin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat, 15 Aug 2026.
+Koshin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat, 15 Aug 2026.
 
 Koshin is a techno and house artist tracked on soundcheck, with 97 sets logged across Berlin, Seoul and Tokyo. Often billed alongside Hogun, Nujeat and DJ SIN. Next up: TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Koshin is a techno and house artist tracked on soundcheck, with 97 sets logged a
 
 Hogun, Nujeat, DJ SIN
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koshin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koshin/)*

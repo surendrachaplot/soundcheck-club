@@ -1,6 +1,6 @@
 # TVO
 
-TVO is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+TVO is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 TVO is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow and London. Often billed alongside Datassette, Equinox (UK) and Tengui. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ TVO is a techno and jungle artist based in United Kingdom, tracked on soundcheck
 
 Datassette, Equinox (UK), Tengui
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tvo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tvo/)*

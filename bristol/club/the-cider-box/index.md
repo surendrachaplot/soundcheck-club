@@ -1,6 +1,6 @@
 # The Cider Box
 
-The Cider Box is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Club Slug presents: SLUG TROPICANA x Tully" on Fri, 14 Aug 2026.
+The Cider Box is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Club Slug presents: SLUG TROPICANA x Tully" on Fri, 14 Aug 2026.
 
 The Cider Box is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including Axle, Bruce, Dom Carlo and Glances (3) and 2 more. Browse upcoming dates, start times and who's playing. Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK.
 
@@ -15,4 +15,4 @@ The Cider Box is a music venue in Bristol listed on soundcheck. 2 upcoming night
 
 Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK, Bristol
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-cider-box/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-cider-box/)*

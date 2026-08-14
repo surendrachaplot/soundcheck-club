@@ -1,6 +1,6 @@
-# Club Comfort presents: JD Reid at Yamamori Tengu
+# Club Comfort presents: JD REID at Yamamori Tengu
 
-Club Comfort presents: JD Reid at Yamamori Tengu on Fri 11 Sept, Dublin. 3 acts on the bill: JD. REID, Roo Honeychild and Selky. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+Club Comfort presents: JD REID at Yamamori Tengu on Fri 11 Sept, Dublin. 3 acts on the bill: JD. REID, Roo Honeychild and Selky. Breakbeat and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MIÑIN
 
-MIÑIN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+MIÑIN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
 MIÑIN is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Berlin, Losangeles, Mexicocity and Sanfrancisco. Often billed alongside Venganza, Izella and Séverine. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MIÑIN is a club and techno artist based in United States of America, tracked on
 
 Venganza, Izella, Séverine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minin/)*

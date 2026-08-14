@@ -1,6 +1,6 @@
 # Brooklyn Mike
 
-Brooklyn Mike is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
+Brooklyn Mike is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
 
 Brooklyn Mike is a house and afro house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Mike Nervous, Mandiz and Alex Dovo. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Brooklyn Mike is a house and afro house artist based in United States of America
 
 Mike Nervous, Mandiz, Alex Dovo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brooklynmike/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brooklynmike/)*

@@ -1,6 +1,6 @@
 # Neva Demure
 
-Neva Demure is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Giri, Berlin on Thu, 27 Aug 2026.
+Neva Demure is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Giri, Berlin on Thu, 27 Aug 2026.
 
 Neva Demure is an ambient and experimental artist tracked on soundcheck, with 5 sets logged across Amsterdam and Berlin. Often billed alongside Agnese Menguzzato, Baby Vulture and Berenice. Next up: Giri, Berlin on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Neva Demure is an ambient and experimental artist tracked on soundcheck, with 5 
 
 Agnese Menguzzato, Baby Vulture, Berenice
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevademure/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevademure/)*

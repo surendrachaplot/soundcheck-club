@@ -1,6 +1,6 @@
-# Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law at Colorado Charlie
+# Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) at Colorado Charlie
 
-Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law on Sun 6 Sept, Thehague. 3 acts on the bill: Daughter In Law, Easttown and Franky Rizardo. House. Preview the line-up and save it on soundcheck.
+Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) on Sun 6 Sept, Thehague. 3 acts on the bill: Daughter In Law, Easttown and Franky Rizardo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

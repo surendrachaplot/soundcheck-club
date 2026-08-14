@@ -1,6 +1,6 @@
 # Tiago
 
-Tiago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Quinta Mira Rio, Lisbon on Sat, 22 Aug 2026.
+Tiago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Quinta Mira Rio, Lisbon on Sat, 22 Aug 2026.
 
 Tiago is a house and techno artist based in Portugal, tracked on soundcheck, with 82 sets logged across Amsterdam, Lisbon, Liverpool and Madrid and 8 more. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Quinta Mira Rio, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tiago is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*

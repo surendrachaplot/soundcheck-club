@@ -1,6 +1,6 @@
 # BrüneX
 
-BrüneX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 30 Aug 2026.
+BrüneX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 30 Aug 2026.
 
 BrüneX is a techno and electronica artist tracked on soundcheck, with 10 sets logged across Belgrade. Often billed alongside Markoni, Stormmm and sheeasy. Next up: Para Klub Beograd, Belgrade on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ BrüneX is a techno and electronica artist tracked on soundcheck, with 10 sets l
 
 Markoni, Stormmm, sheeasy
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunex/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunex/)*

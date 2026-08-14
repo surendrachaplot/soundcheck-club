@@ -1,6 +1,6 @@
 # Chase Wilson
 
-Chase Wilson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at La Fabrica, Washington DC on Fri, 14 Aug 2026.
+Chase Wilson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Fabrica, Washington DC on Fri, 14 Aug 2026.
 
 Chase Wilson is a house and minimal artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Cassia, Adam Braiman and Bridget B. Next up: La Fabrica, Washingtondc on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Chase Wilson is a house and minimal artist based in United States of America, tr
 
 Cassia, Adam Braiman, Bridget B
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewilson/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewilson/)*

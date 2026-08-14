@@ -1,13 +1,14 @@
 # Jony Maddkidz
 
-Jony Maddkidz is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at fono, Kuala Lumpur on Fri, 14 Aug 2026.
+Jony Maddkidz is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at fono, Kuala Lumpur on Fri, 14 Aug 2026.
 
-Jony Maddkidz is a dubstep and drum & bass artist tracked on soundcheck, with 36 sets logged across Bangkok, Hongkong, Kualalumpur and Shenzhen and 1 more. Often billed alongside MIA (MY), TRACTION CONTROL and Alfie Rrari. Next up: fono, Kualalumpur on Fri 14 Aug.
+Jony Maddkidz is a dubstep and bass artist tracked on soundcheck, with 37 sets logged across Bangkok, Hongkong, Kualalumpur and Shenzhen and 1 more. Often billed alongside MIA (MY), TRACTION CONTROL and Alfie Rrari. Next up: fono, Kualalumpur on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | fono | Kuala Lumpur |
 | Fri, 14 Aug 2026 | fono | Kuala Lumpur |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jony Maddkidz is a dubstep and drum & bass artist tracked on soundcheck, with 36
 
 MIA (MY), TRACTION CONTROL, Alfie Rrari
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonymaddkidz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonymaddkidz/)*

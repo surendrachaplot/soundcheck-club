@@ -1,6 +1,6 @@
 # Nicholsandroark
 
-Nicholsandroark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
+Nicholsandroark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
 
 Nicholsandroark is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Munich. Often billed alongside Genji Yoshida, Human Rias and Volkoder. Next up: Lieberscholli, Munich on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Nicholsandroark is a house and techno artist based in United Kingdom, tracked on
 
 Genji Yoshida, Human Rias, Volkoder
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*

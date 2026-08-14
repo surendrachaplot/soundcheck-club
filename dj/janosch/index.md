@@ -1,6 +1,6 @@
 # janosch
 
-janosch is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
+janosch is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
 
 janosch is a bass and house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside DJ CHICHI, FoxMind and 41ISSA. Next up: Crack Bellmer, Berlin on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ janosch is a bass and house artist tracked on soundcheck, with 4 sets logged acr
 
 DJ CHICHI, FoxMind, 41ISSA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janosch/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janosch/)*

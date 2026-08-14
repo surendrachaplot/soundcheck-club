@@ -1,6 +1,6 @@
 # CoralKILL
 
-CoralKILL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+CoralKILL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 CoralKILL is a techno and club artist tracked on soundcheck, with 41 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Toronto. Often billed alongside Xana 101, Pauli Cakes and Total XTC. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ CoralKILL is a techno and club artist tracked on soundcheck, with 41 sets logged
 
 Xana 101, Pauli Cakes, Total XTC
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coralkill/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coralkill/)*

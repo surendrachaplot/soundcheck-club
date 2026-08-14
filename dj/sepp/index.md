@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Denver, Denver on Sat, 15 Aug 2026.
+Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Denver, Denver on Sat, 15 Aug 2026.
 
 Sepp is a minimal and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Nu Zau, Alci and Arapu. Next up: TBA - Denver, Denver on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Sepp is a minimal and house artist tracked on soundcheck, with 106 sets logged a
 
 Nu Zau, Alci, Arapu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

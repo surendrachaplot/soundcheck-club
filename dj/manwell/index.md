@@ -1,6 +1,6 @@
 # Manwell
 
-Manwell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Manwell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
 Manwell is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Oslo, Portland and Seattle. Often billed alongside Arel, Ctrl.mp3 and Tony H. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Manwell is a house and techno artist based in United States of America, tracked 
 
 Arel, Ctrl.mp3, Tony H
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manwell/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manwell/)*

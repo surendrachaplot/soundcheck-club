@@ -1,6 +1,6 @@
 # Grassroots
 
-Grassroots is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "BEACH HOUSE MUSIC" on Sun, 16 Aug 2026.
+Grassroots is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "BEACH HOUSE MUSIC" on Sun, 16 Aug 2026.
 
 Grassroots is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Lil Mofo. Browse upcoming dates, start times and who's playing. 1-6-12 Koenjiminami, Suginami-ku, Tokyo, 166-0003.
 
@@ -14,4 +14,4 @@ Grassroots is a music venue in Tokyo listed on soundcheck. 1 upcoming night, wit
 
 1-6-12 Koenjiminami, Suginami-ku, Tokyo, 166-0003, Tokyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/grassroots/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/grassroots/)*

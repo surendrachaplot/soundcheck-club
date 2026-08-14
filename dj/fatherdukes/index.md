@@ -1,6 +1,6 @@
 # Father Dukes
 
-Father Dukes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tigris, Detroit on Fri, 14 Aug 2026.
+Father Dukes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tigris, Detroit on Fri, 14 Aug 2026.
 
 Father Dukes is a house and techno artist tracked on soundcheck, with 119 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Ryan Spencer, Scott Zacharias and Ladylike. Next up: Tigris, Detroit on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Father Dukes is a house and techno artist tracked on soundcheck, with 119 sets l
 
 Ryan Spencer, Scott Zacharias, Ladylike
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatherdukes/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatherdukes/)*

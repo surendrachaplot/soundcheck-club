@@ -1,6 +1,6 @@
 # Lonho
 
-Lonho is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
+Lonho is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
 
 Lonho is a deep house and house artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul and Tokyo. Often billed alongside Sinqmin, YOUKU and Gong. Next up: Modeci, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lonho is a deep house and house artist based in South Korea, tracked on soundche
 
 Sinqmin, YOUKU, Gong
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lonho/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lonho/)*

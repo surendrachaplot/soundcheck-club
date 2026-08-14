@@ -1,6 +1,6 @@
 # And/Or
 
-And/Or is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 16 Aug 2026.
+And/Or is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 16 Aug 2026.
 
 And/Or is a techno and trance artist based in Hungary, tracked on soundcheck, with 71 sets logged across Budapest and Paris. Often billed alongside Nakrasia, dtnb and CRB. Next up: Pontoon Budapest, Budapest on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ And/Or is a techno and trance artist based in Hungary, tracked on soundcheck, wi
 
 Nakrasia, dtnb, CRB
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andor/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andor/)*

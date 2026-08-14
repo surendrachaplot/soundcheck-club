@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Archiv Teknologi: Alpha Tracks, Atlaskin & VNNUK, Madeleine" on Fri, 14 Aug 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Archiv Teknologi: Alpha Tracks, Atlaskin & VNNUK, Madeleine" on Fri, 14 Aug 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including AE.WAI, Alfred Czital, Alpha Tracks and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -22,4 +22,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

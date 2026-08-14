@@ -1,8 +1,8 @@
 # Sparklmami
 
-Sparklmami is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Sparklmami is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
-Sparklmami is a hip-hop and electronica artist tracked on soundcheck, with 5 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside Bianca Oblivion, Andrew Emil and Athena (2). Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
+Sparklmami is a hip-hop and electronica artist tracked on soundcheck, with 5 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside Bianca Oblivion, Andrew Emil and Athena. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Sparklmami is a hip-hop and electronica artist tracked on soundcheck, with 5 set
 
 ## Shares bills with
 
-Bianca Oblivion, Andrew Emil, Athena (2)
+Bianca Oblivion, Andrew Emil, Athena
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklmami/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklmami/)*

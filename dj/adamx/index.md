@@ -1,6 +1,6 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
+Adam X is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
 
 Adam X is a techno and acid artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Brussels and Chicago and 14 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Summertime Roof Terrace, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Adam X is a techno and acid artist tracked on soundcheck, with 69 sets logged ac
 
 MAEDON, Frankie Bones, Orphx
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*

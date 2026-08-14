@@ -1,6 +1,6 @@
 # Maxwellbean
 
-Maxwellbean is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
+Maxwellbean is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
 
 Maxwellbean is an electro and techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside CYCLO BONETTE, ROARK and Cataract. Next up: ErF Studios, Newyorkcity on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Maxwellbean is an electro and techno artist tracked on soundcheck, with 5 sets l
 
 CYCLO BONETTE, ROARK, Cataract
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellbean/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellbean/)*

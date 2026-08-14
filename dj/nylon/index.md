@@ -1,6 +1,6 @@
 # nylon
 
-nylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rough Trade Liverpool, Liverpool on Sat, 5 Sept 2026.
+nylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rough Trade Liverpool, Liverpool on Sat, 5 Sept 2026.
 
 nylon is a techno and house artist tracked on soundcheck, with 44 sets logged across Berlin, Liverpool, Milan and Paris and 2 more. Often billed alongside Hackmarkt, Nobuharu Morimoto and ACID NAGATA. Next up: Rough Trade Liverpool, Liverpool on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ nylon is a techno and house artist tracked on soundcheck, with 44 sets logged ac
 
 Hackmarkt, Nobuharu Morimoto, ACID NAGATA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nylon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nylon/)*

@@ -1,6 +1,6 @@
 # Dj Algorythm
 
-Dj Algorythm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
+Dj Algorythm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
 
 Dj Algorythm is a techno and house artist based in Denmark, tracked on soundcheck, with 42 sets logged across Copenhagen and Rotterdam. Often billed alongside Britney Speed, Schacke and Johannes Astrup. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Dj Algorythm is a techno and house artist based in Denmark, tracked on soundchec
 
 Britney Speed, Schacke, Johannes Astrup
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalgorythm/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalgorythm/)*

@@ -1,8 +1,8 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Mansions, New York City on Sun, 16 Aug 2026.
+Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Mansions, New York City on Sun, 16 Aug 2026.
 
-Aurora Halal is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Mansions, Newyorkcity on Sun 16 Aug.
+Aurora Halal is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Mansions, Newyorkcity on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 217 sets l
 | Sun, 16 Aug 2026 | Mansions | New York City |
 | Fri, 21 Aug 2026 | Floyd | Miami |
 | Fri, 28 Aug 2026 | Outer Heaven | New York City |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 9 Oct 2026 | H0L0 | New York City |
 | Sun, 18 Oct 2026 | Nowadays | New York City |
@@ -33,4 +34,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 217 sets l
 
 Priori, Nick León, Polygonia
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

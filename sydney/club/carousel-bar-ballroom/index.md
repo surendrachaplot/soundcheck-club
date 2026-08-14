@@ -1,14 +1,15 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "★ S.A.S.H Sydney x Eat The Beat ★ Lili Joy ★ Saturday 15th August ★" on Sat, 15 Aug 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "★ S.A.S.H Sydney x Eat The Beat ★ Lili Joy ★ Saturday 15th August ★" on Sat, 15 Aug 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with line-ups including KiNK. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcoming nights, with line-ups including KiNK and Odyssey. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | ★ S.A.S.H Sydney x Eat The Beat ★ Lili Joy ★ Saturday 15th August ★ |  |
+| Sat, 15 Aug 2026 | Yaw Place | Odyssey |
 | Sat, 22 Aug 2026 | ★ S.A.S.H Sydney x By Your Side ★ D'Julz ★ Saturday 22nd August ★ |  |
 | Sat, 29 Aug 2026 | ★ S.A.S.H Sydney ★ Ross Mvnro ★ Saturday 29th August ★ |  |
 | Sat, 5 Sept 2026 | ★ SASH presents Carousel 3rd Birthday ★ Saturday 5th September ★ |  |
@@ -21,4 +22,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 8 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

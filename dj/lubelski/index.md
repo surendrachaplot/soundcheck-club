@@ -1,6 +1,6 @@
 # Lubelski
 
-Lubelski is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
+Lubelski is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 14 Aug 2026.
 
 Lubelski is a house and tech house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Chicago, Detroit, Losangeles and Miami and 5 more. Often billed alongside Tottie, Afriqua and Club Tularosa. Next up: Dead Letter No. 9, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lubelski is a house and tech house artist based in United States of America, tra
 
 Tottie, Afriqua, Club Tularosa
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lubelski/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lubelski/)*

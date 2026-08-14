@@ -1,6 +1,6 @@
 # Heiko Geritzmann
 
-Heiko Geritzmann is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
+Heiko Geritzmann is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
 
 Heiko Geritzmann is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Brighton. Often billed alongside Caroline Banx, Gosia and Markus Saarländer. Next up: WaterBear Venue, Brighton on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Heiko Geritzmann is a techno and deep house artist based in United Kingdom, trac
 
 Caroline Banx, Gosia, Markus Saarländer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heikogeritzmann/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heikogeritzmann/)*

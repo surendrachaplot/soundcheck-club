@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
+Swami Sound is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
 
 Swami Sound is a garage and house artist tracked on soundcheck, with 101 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: The Chocolate Factory, Newyorkcity on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Swami Sound is a garage and house artist tracked on soundcheck, with 101 sets lo
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

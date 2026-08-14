@@ -1,6 +1,6 @@
 # GET GOTT
 
-GET GOTT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Rawhide, New York City on Sat, 15 Aug 2026.
+GET GOTT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Rawhide, New York City on Sat, 15 Aug 2026.
 
 GET GOTT is a techno and house artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Aspirin, FUSSY and Junior M (US). Next up: Club Rawhide, Newyorkcity on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ GET GOTT is a techno and house artist tracked on soundcheck, with 4 sets logged 
 
 Aspirin, FUSSY, Junior M (US)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/getgott/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/getgott/)*

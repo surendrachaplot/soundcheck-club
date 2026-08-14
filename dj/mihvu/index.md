@@ -1,6 +1,6 @@
 # MIHVU
 
-MIHVU is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 21 Aug 2026.
+MIHVU is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 21 Aug 2026.
 
 MIHVU is a tech house and techno artist based in Poland, tracked on soundcheck, with 39 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Filip Sonik, LuLu Malina and Freudenthal. Next up: MONKEY LOVE, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MIHVU is a tech house and techno artist based in Poland, tracked on soundcheck, 
 
 Filip Sonik, LuLu Malina, Freudenthal
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihvu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihvu/)*

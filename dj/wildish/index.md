@@ -1,6 +1,6 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+Wildish is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
 Wildish is a house and tech house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Cardiff, Leeds and London and 1 more. Often billed alongside Ellia Jaya, BTAY and Gaskin. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
@@ -22,4 +22,4 @@ Wildish is a house and tech house artist tracked on soundcheck, with 6 sets logg
 
 Ellia Jaya, BTAY, Gaskin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

@@ -1,6 +1,6 @@
 # Boyd Schidt
 
-Boyd Schidt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
+Boyd Schidt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
 
 Boyd Schidt is a techno and trance artist tracked on soundcheck, with 82 sets logged across Athens, Bangkok, Berlin and Dublin and 11 more. Often billed alongside Frequency Shifter, Liza Rivs and Vulkanski. Next up: KHIDI, Tbilisi on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Boyd Schidt is a techno and trance artist tracked on soundcheck, with 82 sets lo
 
 Frequency Shifter, Liza Rivs, Vulkanski
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boydschidt/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boydschidt/)*

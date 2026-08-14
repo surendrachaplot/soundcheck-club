@@ -1,13 +1,14 @@
 # Sindicate
 
-Sindicate is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+Sindicate is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Rainbow Venues, Birmingham on Sat, 15 Aug 2026.
 
-Sindicate is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg and Prague. Often billed alongside Fibe, Eightball and IAM (2). Next up: Fundbureau, Hamburg on Fri 16 Oct.
+Sindicate is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Berlin, Birmingham, Hamburg and Prague. Often billed alongside Fibe, Eightball and IAM (2). Next up: The Rainbow Venues, Birmingham on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | The Rainbow Venues | Birmingham |
 | Fri, 16 Oct 2026 | Fundbureau | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sindicate is a drum & bass and bass artist tracked on soundcheck, with 21 sets l
 
 Fibe, Eightball, IAM (2)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicate/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicate/)*

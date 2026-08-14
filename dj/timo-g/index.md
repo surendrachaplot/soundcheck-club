@@ -1,6 +1,6 @@
 # Timo-G
 
-Timo-G is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
+Timo-G is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
 
 Timo-G is an electronic artist tracked on soundcheck, with 8 sets logged across Manchester. Often billed alongside Laura Jackson, Lil' Minx and Mikey D.O.N. Next up: renae, Manchester on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Timo-G is an electronic artist tracked on soundcheck, with 8 sets logged across 
 
 Laura Jackson, Lil' Minx, Mikey D.O.N
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timo-g/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timo-g/)*

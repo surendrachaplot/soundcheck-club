@@ -1,6 +1,6 @@
 # DJ Scorpion
 
-DJ Scorpion is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
+DJ Scorpion is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
 
 DJ Scorpion is a techno and bass artist based in Australia, tracked on soundcheck, with 26 sets logged across Amsterdam, Brisbane, Melbourne and Sydney. Often billed alongside Andy Garvey, Rowhan and Bex. Next up: Miscellania, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Scorpion is a techno and bass artist based in Australia, tracked on soundchec
 
 Andy Garvey, Rowhan, Bex
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djscorpion/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djscorpion/)*

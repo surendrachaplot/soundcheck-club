@@ -1,0 +1,16 @@
+# Club Rawhide SATURDAY NIGHT with Rush Davis, GAG ORDER at Club Rawhide
+
+Club Rawhide SATURDAY NIGHT with Rush Davis, GAG ORDER on Sat 29 Aug, Newyorkcity. 2 acts on the bill: Gag Ørder and Rush Davis. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 29 Aug 2026 |
+| Venue | Club Rawhide |
+| City | New York City |
+
+## Line-up
+
+- Gag Ørder
+- Rush Davis
+
+*Source: [soundcheck](https://soundcheck.club/e/2512017-club-rawhide-saturday-night-with-rush-davis-gag-order-at-clu/)*

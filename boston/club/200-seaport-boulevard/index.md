@@ -1,6 +1,6 @@
 # 200 Seaport Boulevard
 
-200 Seaport Boulevard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Coupled Up at Sea 08/15" on Sat, 15 Aug 2026.
+200 Seaport Boulevard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Coupled Up at Sea 08/15" on Sat, 15 Aug 2026.
 
 200 Seaport Boulevard is a music venue in Boston listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport BlvdBoston, MA 02210, USA.
 
@@ -16,4 +16,4 @@
 
 200 Seaport BlvdBoston, MA 02210, USA, Boston
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*

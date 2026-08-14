@@ -1,13 +1,14 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Club Vaag, Antwerp on Sat, 22 Aug 2026.
+WOLTERS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Kyle Starkey and Ned Bennett. Next up: Club Vaag, Antwerp on Sat 22 Aug.
+WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Kyle Starkey and Ned Bennett. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Club Vaag | Antwerp |
 | Thu, 3 Sept 2026 | La Terrrazza | Barcelona |
 | Thu, 17 Sept 2026 | La Terrrazza | Barcelona |
@@ -28,4 +29,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Kyle Starkey, Ned Bennett
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

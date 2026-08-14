@@ -1,6 +1,6 @@
 # Teeyam
 
-Teeyam is a Acid and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Dolphin, Philadelphia on Sat, 15 Aug 2026.
+Teeyam is a Acid and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Dolphin, Philadelphia on Sat, 15 Aug 2026.
 
 Teeyam is an acid and house artist tracked on soundcheck, with 42 sets logged across Istanbul, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside DJ Slimey, Googoosh Dolls and John Barera. Next up: The Dolphin, Philadelphia on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Teeyam is an acid and house artist tracked on soundcheck, with 42 sets logged ac
 
 DJ Slimey, Googoosh Dolls, John Barera
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teeyam/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teeyam/)*

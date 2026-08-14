@@ -1,6 +1,6 @@
 # MUSICKLUNATIC
 
-MUSICKLUNATIC is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+MUSICKLUNATIC is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside DungeonMaster, AMAR (UK) and Helios Manoeuvres. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 25 sets l
 
 DungeonMaster, AMAR (UK), Helios Manoeuvres
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*

@@ -1,14 +1,13 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "After Hours: Late nights. Afro Sounds. No Rules" on Thu, 13 Aug 2026.
+Club Makossa is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass)" on Fri, 14 Aug 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, Alex Iza and BIDOIS and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, Alex Iza and BIDOIS and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | After Hours: Late nights. Afro Sounds. No Rules | T FLX |
 | Fri, 14 Aug 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | Alex Iza, DARQGOLD, Dan Louder |
 | Thu, 20 Aug 2026 | Rave From Hometown - Amapiano, Chinese Dance, Latin Tech, Thai 3 Cha (FREE ENTRY) | 2WM (UK) |
 | Fri, 21 Aug 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | BIDOIS, GALIVERSE, Positive_Con, Woodster |
@@ -22,4 +21,4 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming nights,
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

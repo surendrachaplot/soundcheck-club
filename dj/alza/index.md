@@ -1,6 +1,6 @@
 # ALZA
 
-ALZA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 19 Aug 2026.
+ALZA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 19 Aug 2026.
 
 ALZA is a house and deep house artist tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside Airborne, Anderson M and Cadabra. Next up: Do Not Sit On The Furniture, Miami on Wed 19 Aug.
 
@@ -19,4 +19,4 @@ ALZA is a house and deep house artist tracked on soundcheck, with 3 sets logged 
 
 Airborne, Anderson M, Cadabra
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alza/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alza/)*

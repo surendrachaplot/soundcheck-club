@@ -1,13 +1,14 @@
 # Special K (CA)
 
-Special K (CA) is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Le Red Room, Montreal on Sat, 26 Sept 2026.
+Special K (CA) is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Place du Village, Montreal on Fri, 21 Aug 2026.
 
-Special K (CA) is a techno and progressive house artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Char.l.n, ALEX REV and Sarah Kay. Next up: Le Red Room, Montreal on Sat 26 Sept.
+Special K (CA) is a techno and progressive house artist based in Canada, tracked on soundcheck, with 12 sets logged across Montreal. Often billed alongside Char.l.n, ALEX REV and Sarah Kay. Next up: Place du Village, Montreal on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Place du Village | Montreal |
 | Sat, 26 Sept 2026 | Le Red Room | Montreal |
 | Sat, 24 Oct 2026 | Bain Mathieu | Montreal |
 
@@ -26,4 +27,4 @@ Special K (CA) is a techno and progressive house artist based in Canada, tracked
 
 Char.l.n, ALEX REV, Sarah Kay
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialkca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialkca/)*

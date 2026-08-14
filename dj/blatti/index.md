@@ -1,6 +1,6 @@
 # Blatti
 
-Blatti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bálna Budapest, Budapest on Fri, 14 Aug 2026.
+Blatti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bálna Budapest, Budapest on Fri, 14 Aug 2026.
 
 Blatti is a tech house and house artist tracked on soundcheck, with 28 sets logged across Budapest. Often billed alongside Marco Grandi, Skiz and Daniel Moritz. Next up: Bálna Budapest, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Blatti is a tech house and house artist tracked on soundcheck, with 28 sets logg
 
 Marco Grandi, Skiz, Daniel Moritz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blatti/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blatti/)*

@@ -1,14 +1,13 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sub Club, Glasgow on Thu, 13 Aug 2026.
+Dean Turnley is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 14 Aug 2026.
 
-Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 13 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Sub Club, Glasgow on Thu 13 Aug.
+Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 13 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Cabaret Voltaire, Edinburgh on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Sub Club | Glasgow |
 | Fri, 14 Aug 2026 | Cabaret Voltaire | Edinburgh |
 | Sun, 30 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 12 Sept 2026 | California Plaza | Los Angeles |
@@ -22,6 +21,7 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 set
 
 ## Recently played
 
+- Sub Club, Glasgow — Thu, 13 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - DC-10, Ibiza — Mon, 27 Jul 2026
 - Aahhh Rooftop, Munich — Sat, 11 Jul 2026
@@ -34,4 +34,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 set
 
 Prospa, Groove Armada, Jamback
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

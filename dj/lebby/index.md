@@ -1,6 +1,6 @@
 # Lebby
 
-Lebby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ross Boat Trips, Brighton on Sat, 22 Aug 2026.
+Lebby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ross Boat Trips, Brighton on Sat, 22 Aug 2026.
 
 Lebby is a techno and house artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside Jack Jeffrey, Spinks and Acid Carbon. Next up: Ross Boat Trips, Brighton on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lebby is a techno and house artist tracked on soundcheck, with 26 sets logged ac
 
 Jack Jeffrey, Spinks, Acid Carbon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lebby/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lebby/)*

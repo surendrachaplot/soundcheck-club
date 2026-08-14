@@ -1,6 +1,6 @@
 # JAK
 
-JAK is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
+JAK is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
 
 JAK is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit and Portland. Often billed alongside DJ DISSOLVE, Justin Neal and Andrew Paris. Next up: The Den, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ JAK is a techno and dub techno artist based in United States of America, tracked
 
 DJ DISSOLVE, Justin Neal, Andrew Paris
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*

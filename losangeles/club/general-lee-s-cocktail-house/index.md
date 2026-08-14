@@ -1,18 +1,18 @@
 # General Lee's Cocktail House
 
-General Lee's Cocktail House is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Made to Move with Jarren, Naomi Green, Unity Check + more" on Thu, 13 Aug 2026.
+General Lee's Cocktail House is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Heaven Sent" on Sun, 16 Aug 2026.
 
-General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Jarren, Naomi Green, No Pressure and TOTE BOI and 1 more. Browse upcoming dates, start times and who's playing. 475 Gin Ling Way, Los Angeles, California, 90012.
+General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including agraybé, Akumen, Andy Oro and No Pressure. Browse upcoming dates, start times and who's playing. 475 Gin Ling Way, Los Angeles, California, 90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Made to Move with Jarren, Naomi Green, Unity Check + more | Jarren, Naomi Green, No Pressure, TOTE BOI, UNITYCHECK |
 | Sun, 16 Aug 2026 | Heaven Sent |  |
+| Thu, 10 Sept 2026 | Made to Move 8 Year Anniversary | Akumen, Andy Oro, No Pressure, agraybé |
 
 ## Address
 
 475 Gin Ling Way, Los Angeles, California, 90012, Los Angeles
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*

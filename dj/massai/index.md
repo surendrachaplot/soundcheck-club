@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fvtvr, Paris on Sat, 15 Aug 2026.
+Massaï is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Fvtvr, Paris on Sat, 15 Aug 2026.
 
 Massaï is a house and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside LAMALICE, Gabriel Belabbas and Man/Ipulate. Next up: Fvtvr, Paris on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Massaï is a house and electro artist tracked on soundcheck, with 86 sets logged
 
 LAMALICE, Gabriel Belabbas, Man/Ipulate
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

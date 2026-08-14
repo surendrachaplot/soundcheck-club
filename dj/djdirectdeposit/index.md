@@ -1,6 +1,6 @@
 # dj direct depøsit
 
-dj direct depøsit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Vancouver on Sat, 7 Nov 2026.
+dj direct depøsit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Vancouver on Sat, 7 Nov 2026.
 
 dj direct depøsit is a techno and house artist tracked on soundcheck, with 14 sets logged across Vancouver. Often billed alongside Dairy Free, DJ dood and Syd Woz. Next up: TBA, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ dj direct depøsit is a techno and house artist tracked on soundcheck, with 14 s
 
 Dairy Free, DJ dood, Syd Woz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdirectdeposit/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdirectdeposit/)*

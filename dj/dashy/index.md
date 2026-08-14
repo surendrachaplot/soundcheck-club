@@ -1,6 +1,6 @@
 # DASHY
 
-DASHY is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
+DASHY is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
 
 DASHY is a garage and house artist tracked on soundcheck, with 32 sets logged across Brighton, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Lolli, IZZIT and Azumei. Next up: Wiper and True, Old Market Taproom, Bristol on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ DASHY is a garage and house artist tracked on soundcheck, with 32 sets logged ac
 
 Lolli, IZZIT, Azumei
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*

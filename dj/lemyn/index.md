@@ -1,6 +1,6 @@
 # Lemyn
 
-Lemyn is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Brick Street, Liverpool on Sat, 19 Sept 2026.
+Lemyn is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Brick Street, Liverpool on Sat, 19 Sept 2026.
 
 Lemyn is a disco and house artist tracked on soundcheck, with 42 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Sound of Drowning, All Trades and Beat Detective. Next up: Brick Street, Liverpool on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lemyn is a disco and house artist tracked on soundcheck, with 42 sets logged acr
 
 Sound of Drowning, All Trades, Beat Detective
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemyn/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemyn/)*

@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Rave Ritual" on Sat, 15 Aug 2026.
+2ten is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Rave Ritual" on Sat, 15 Aug 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including Alisa Murphy, Emex, George Apergis and Marthe and 2 more. Browse upcoming dates, start times and who's playing. Ermou 135, Athens.
 
@@ -16,4 +16,4 @@
 
 Ermou 135, Athens, Athens
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

@@ -1,6 +1,6 @@
 # Cosmic Dance
 
-Cosmic Dance is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Cosmic Dance is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Cosmic Dance is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Cologne. Often billed alongside Bellville, Badlokk and Gourski. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cosmic Dance is a drum & bass and techno artist based in Germany, tracked on sou
 
 Bellville, Badlokk, Gourski
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicdance/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicdance/)*

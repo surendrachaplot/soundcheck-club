@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Machine Thirst (Main Room Event, Free with RSVP)" on Thu, 13 Aug 2026.
+SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Torren Foot / QLANK" on Fri, 14 Aug 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including A DJ Named SNE, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including A DJ Named SNE, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Machine Thirst (Main Room Event, Free with RSVP) | Firebunny |
 | Fri, 14 Aug 2026 | Torren Foot / QLANK | Torren Foot |
 | Sat, 15 Aug 2026 | Heat House: Summer Closing ft Naak | Ohlei, WEMI |
 | Sat, 15 Aug 2026 | Omar ؏ |  |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, w
 | Fri, 21 Aug 2026 | Marco Faraone | Marco Faraone |
 | Tue, 25 Aug 2026 | Open Decks with STEEN & Masht | STEEN |
 | Wed, 26 Aug 2026 | Open Decks with STEEN and finding your niche | STEEN |
+| Sat, 29 Aug 2026 | Memba |  |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

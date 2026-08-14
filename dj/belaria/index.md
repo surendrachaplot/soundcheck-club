@@ -1,6 +1,6 @@
 # Belaria
 
-Belaria is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Belaria is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Belaria is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Brussels, Geneva and London and 10 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -14,6 +14,7 @@ Belaria is a techno and house artist tracked on soundcheck, with 68 sets logged 
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Théâtre Silvain, Marseille — Thu, 30 Jul 2026
 - Société des arts technologiques, Montreal — Fri, 3 Jul 2026
 - Virage, Paris — Fri, 12 Jun 2026
@@ -21,10 +22,9 @@ Belaria is a techno and house artist tracked on soundcheck, with 68 sets logged 
 - Kater, Berlin — Sat, 4 Apr 2026
 - Badaboum, Paris — Thu, 19 Mar 2026
 - Unité.22, Marseille — Sat, 28 Feb 2026
-- Karmen Camina, Strasbourg — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Kendal, Mézigue, Olympe4000
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

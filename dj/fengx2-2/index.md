@@ -1,6 +1,6 @@
 # FENGX2 (2)
 
-FENGX2 (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
+FENGX2 (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Joule, Osaka on Fri, 14 Aug 2026.
 
 FENGX2 (2) is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Osaka. Often billed alongside FENGX2, Liza and Ryuta Ishimoto. Next up: Joule, Osaka on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ FENGX2 (2) is a techno and hardcore artist tracked on soundcheck, with 5 sets lo
 
 FENGX2, Liza, Ryuta Ishimoto
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2-2/)*

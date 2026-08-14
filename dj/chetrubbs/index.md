@@ -1,6 +1,6 @@
 # Chet Rubbs
 
-Chet Rubbs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+Chet Rubbs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 Chet Rubbs is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Dusseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside Goiaba, Rollo3000 and Mo the prophet. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chet Rubbs is a house and techno artist based in Germany, tracked on soundcheck,
 
 Goiaba, Rollo3000, Mo the prophet
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chetrubbs/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chetrubbs/)*

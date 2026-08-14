@@ -1,6 +1,6 @@
 # Cleo Grooves
 
-Cleo Grooves is a House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Toffler, Rotterdam on Fri, 14 Aug 2026.
+Cleo Grooves is a House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Toffler, Rotterdam on Fri, 14 Aug 2026.
 
 Cleo Grooves is a house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Paris, Rotterdam and Utrecht. Often billed alongside BISOUX, Camille Doe and Hightown. Next up: Toffler, Rotterdam on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Cleo Grooves is a house artist tracked on soundcheck, with 8 sets logged across 
 
 BISOUX, Camille Doe, Hightown
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*

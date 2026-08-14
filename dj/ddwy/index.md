@@ -1,6 +1,6 @@
 # ddwy
 
-ddwy is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+ddwy is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 ddwy is a house and downtempo artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 14 more. Often billed alongside Inner Totality, Bell Towers and Good Block. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ ddwy is a house and downtempo artist tracked on soundcheck, with 53 sets logged 
 
 Inner Totality, Bell Towers, Good Block
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*

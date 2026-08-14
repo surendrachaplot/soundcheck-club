@@ -1,6 +1,6 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+Federico Molinari is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 Federico Molinari is a house and techno artist tracked on soundcheck, with 67 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Federico Molinari is a house and techno artist tracked on soundcheck, with 67 se
 
 Nekes, Alvaro Medina, Dorian Paic
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*

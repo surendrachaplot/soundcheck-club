@@ -1,6 +1,6 @@
 # La Rotonde Stalingrad
 
-La Rotonde Stalingrad is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "KAZ" on Fri, 14 Aug 2026.
+La Rotonde Stalingrad is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "KAZ" on Fri, 14 Aug 2026.
 
 La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Afro Pupo, Enrica Falqui, JL and UnesGroove. Browse upcoming dates, start times and who's playing. 6-8 Place de la Bataille de Stalingrad - 75019 Paris.
 
@@ -16,4 +16,4 @@ La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 3 upcoming
 
 6-8 Place de la Bataille de Stalingrad - 75019 Paris, Paris
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-rotonde-stalingrad/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-rotonde-stalingrad/)*

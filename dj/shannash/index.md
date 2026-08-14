@@ -1,14 +1,15 @@
 # Shan Nash
 
-Shan Nash is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
+Shan Nash is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-Shan Nash is a deep house and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Ali Farahani, Borak and Gru.di. Next up: Public Works, Sanfrancisco on Fri 14 Aug.
+Shan Nash is a deep house and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Ali Farahani, Borak and Gru.di. Next up: Public Works, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Public Works | San Francisco/Oakland |
+| Sat, 15 Aug 2026 | Harbor House DTLA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shan Nash is a deep house and house artist based in United States of America, tr
 
 Ali Farahani, Borak, Gru.di
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*

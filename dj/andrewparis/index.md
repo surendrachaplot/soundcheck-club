@@ -1,6 +1,6 @@
 # Andrew Paris
 
-Andrew Paris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 525 SE Pine st, Portland on Sat, 15 Aug 2026.
+Andrew Paris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 525 SE Pine st, Portland on Sat, 15 Aug 2026.
 
 Andrew Paris is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Portland. Often billed alongside Andy Warren, Carly Barton and Peter Sheppard. Next up: TBA - 525 SE Pine st, Portland on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Andrew Paris is a techno and house artist based in United States of America, tra
 
 Andy Warren, Carly Barton, Peter Sheppard
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewparis/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewparis/)*

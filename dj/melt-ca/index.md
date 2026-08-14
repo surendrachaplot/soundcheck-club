@@ -1,6 +1,6 @@
 # Melt (CA)
 
-Melt (CA) is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Elektricity, Detroit on Sat, 22 Aug 2026.
+Melt (CA) is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elektricity, Detroit on Sat, 22 Aug 2026.
 
 Melt (CA) is a dubstep and techno artist based in Canada, tracked on soundcheck, with 10 sets logged across Chicago, Detroit, Sydney and Vancouver. Often billed alongside 8ULENTINA, Briser Gonzalez and Embaci. Next up: Elektricity, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Melt (CA) is a dubstep and techno artist based in Canada, tracked on soundcheck,
 
 8ULENTINA, Briser Gonzalez, Embaci
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melt-ca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melt-ca/)*

@@ -1,6 +1,6 @@
 # Hannah D
 
-Hannah D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Coil, Melbourne on Fri, 14 Aug 2026.
+Hannah D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Coil, Melbourne on Fri, 14 Aug 2026.
 
 Hannah D is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 12 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Coil, Melbourne on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Hannah D is a house and techno artist tracked on soundcheck, with 152 sets logge
 
 DJ Luv You, suki, Mabel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahd/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahd/)*

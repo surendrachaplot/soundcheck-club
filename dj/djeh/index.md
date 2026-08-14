@@ -1,6 +1,6 @@
 # DJ eh
 
-DJ eh is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+DJ eh is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 DJ eh is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside DJ Nope, BLCKLST and Remniqe. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ eh is a drum & bass and jungle artist based in United States of America, trac
 
 DJ Nope, BLCKLST, Remniqe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeh/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeh/)*

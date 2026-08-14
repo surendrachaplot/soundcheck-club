@@ -1,6 +1,6 @@
 # Radox
 
-Radox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Radox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 Radox is a techno and trance artist tracked on soundcheck, with 43 sets logged across Berlin, Bucharest and Malta. Often billed alongside FAUST (1), Thomas Rob and Kanghu. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Radox is a techno and trance artist tracked on soundcheck, with 43 sets logged a
 
 FAUST (1), Thomas Rob, Kanghu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radox/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radox/)*

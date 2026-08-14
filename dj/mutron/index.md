@@ -1,6 +1,6 @@
 # Mutron
 
-Mutron is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Azumaya, Tokyo on Fri, 14 Aug 2026.
+Mutron is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Azumaya, Tokyo on Fri, 14 Aug 2026.
 
 Mutron is a techno and electro artist tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside DJ ZiL, SiSeN and SHO. Next up: Azumaya, Tokyo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Mutron is a techno and electro artist tracked on soundcheck, with 14 sets logged
 
 DJ ZiL, SiSeN, SHO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutron/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutron/)*

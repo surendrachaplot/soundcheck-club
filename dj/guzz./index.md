@@ -1,6 +1,6 @@
 # GUZZ.
 
-GUZZ. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
+GUZZ. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
 
 GUZZ. is a techno and house artist tracked on soundcheck, with 9 sets logged across Belfast. Often billed alongside HUTS, Casual and Skellyoz. Next up: The Barge, Belfast on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ GUZZ. is a techno and house artist tracked on soundcheck, with 9 sets logged acr
 
 HUTS, Casual, Skellyoz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*

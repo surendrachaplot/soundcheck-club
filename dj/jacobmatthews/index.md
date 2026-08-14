@@ -1,6 +1,6 @@
 # Jacob Matthews
 
-Jacob Matthews is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jacob Matthews is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Jacob Matthews is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, Dublin and Manchester. Often billed alongside ADR (US), Alex Culross and Alexandria. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Jacob Matthews is a house and tech house artist based in United Kingdom, tracked
 
 ADR (US), Alex Culross, Alexandria
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmatthews/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmatthews/)*

@@ -1,6 +1,6 @@
 # YEPIK
 
-YEPIK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
+YEPIK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
 
 YEPIK is a house and tech house artist tracked on soundcheck, with 4 sets logged across Cologne and Munich. Often billed alongside Alice DiMar, B-ZEY and Black Box. Next up: TBA, Cologne on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ YEPIK is a house and tech house artist tracked on soundcheck, with 4 sets logged
 
 Alice DiMar, B-ZEY, Black Box
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*

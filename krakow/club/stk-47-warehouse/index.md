@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TECHNO WIR × Citadel with Francesca, hannya, PRVR, Zhenya, Forest" on Fri, 14 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "TECHNO WIR × Citadel with Francesca, hannya, PRVR, Zhenya, Forest" on Fri, 14 Aug 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nights, with line-ups including A.C., Carla Roca, Eddie Santini and Flakka (2) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -19,4 +19,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

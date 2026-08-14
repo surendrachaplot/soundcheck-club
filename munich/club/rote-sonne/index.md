@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "21 JAHRE Rote Sonne" on Fri, 14 Aug 2026.
+Rote Sonne is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "21 JAHRE Rote Sonne" on Fri, 14 Aug 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Justine Perry, Alicea, Almedina (2) and Arcann and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -19,4 +19,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 6 upcoming nights, w
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

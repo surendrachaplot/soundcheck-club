@@ -1,6 +1,6 @@
 # Klankers
 
-Klankers is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Klankers is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Klankers is a house and electronica artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Thehague. Often billed alongside Lexmic, Edenfranz and Arnau. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Klankers is a house and electronica artist based in Netherlands, tracked on soun
 
 Lexmic, Edenfranz, Arnau
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klankers/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klankers/)*

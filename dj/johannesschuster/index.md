@@ -1,13 +1,14 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 18 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: OST, Berlin on Sat 15 Aug.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 15 Aug 2026 | OST | Berlin |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 | Sun, 16 Aug 2026 | Escala25 | Lisbon |
@@ -19,7 +20,6 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
-| Sat, 12 Sept 2026 | Radius | Chicago |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

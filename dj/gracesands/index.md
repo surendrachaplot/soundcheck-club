@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
+Grace Sands is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
 
 Grace Sands is a house and deep house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 135 set
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

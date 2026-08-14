@@ -1,6 +1,6 @@
 # Jakob Mäder
 
-Jakob Mäder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Villa, Oslo on Sat, 22 Aug 2026.
+Jakob Mäder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Villa, Oslo on Sat, 22 Aug 2026.
 
 Jakob Mäder is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Dusseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside Miss Evoice, Dejago and Brian Ring. Next up: The Villa, Oslo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jakob Mäder is a house and techno artist based in Germany, tracked on soundchec
 
 Miss Evoice, Dejago, Brian Ring
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobmader/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobmader/)*

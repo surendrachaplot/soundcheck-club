@@ -1,6 +1,6 @@
 # Greta Spark
 
-Greta Spark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Greta Spark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Greta Spark is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Hamburg and Ibiza and 3 more. Often billed alongside Dj Norma, Power Squad and Immy. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Greta Spark is a house and techno artist tracked on soundcheck, with 24 sets log
 
 Dj Norma, Power Squad, Immy
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*

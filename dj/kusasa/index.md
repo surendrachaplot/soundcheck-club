@@ -1,6 +1,6 @@
 # Kusasa
 
-Kusasa is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+Kusasa is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 Kusasa is a house and broken beat artist tracked on soundcheck, with 56 sets logged across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kusasa is a house and broken beat artist tracked on soundcheck, with 56 sets log
 
 Moova, Oriki, Obeka
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*

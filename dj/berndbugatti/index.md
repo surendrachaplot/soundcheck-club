@@ -1,6 +1,6 @@
 # Bernd Bugatti
 
-Bernd Bugatti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
+Bernd Bugatti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
 
 Bernd Bugatti is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Leipzig and Munich. Often billed alongside Liebe Nachbarn, Anna Lazer and DJ Nebelmaschine. Next up: Lieberscholli, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bernd Bugatti is a techno and house artist tracked on soundcheck, with 10 sets l
 
 Liebe Nachbarn, Anna Lazer, DJ Nebelmaschine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berndbugatti/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berndbugatti/)*

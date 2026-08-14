@@ -1,8 +1,8 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Loo Loo, Mexico City on Fri, 14 Aug 2026.
+Elderbrook is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Loo Loo, Mexico City on Fri, 14 Aug 2026.
 
-Elderbrook is a house and electro artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Austin, Bali, Barcelona and Basel and 31 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Loo Loo, Mexicocity on Fri 14 Aug.
+Elderbrook is a house and electro artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Austin, Bali, Barcelona and Basel and 32 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Loo Loo, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elderbrook is a house and electro artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Loo Loo | Mexico City |
 | Sat, 5 Sept 2026 | Chinois Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Lion Super Club | Seoul |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Elderbrook is a house and electro artist based in United Kingdom, tracked on sou
 
 Cassian, Eli Brown, Boys Noize
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

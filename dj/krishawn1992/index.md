@@ -1,6 +1,6 @@
 # KRISHAWN
 
-KRISHAWN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cherry Beach, Toronto on Sun, 23 Aug 2026.
+KRISHAWN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cherry Beach, Toronto on Sun, 23 Aug 2026.
 
 KRISHAWN is a house and tech house artist based in Bahamas, tracked on soundcheck, with 17 sets logged across Berlin, Newyorkcity and Toronto. Often billed alongside Psi (1), Sophie Jones and Kamal (CA). Next up: Cherry Beach, Toronto on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ KRISHAWN is a house and tech house artist based in Bahamas, tracked on soundchec
 
 Psi (1), Sophie Jones, Kamal (CA)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krishawn1992/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krishawn1992/)*

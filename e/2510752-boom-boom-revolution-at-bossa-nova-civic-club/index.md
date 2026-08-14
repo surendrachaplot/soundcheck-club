@@ -1,6 +1,6 @@
 # Boom Boom Revolution at Bossa Nova Civic Club
 
-Boom Boom Revolution at Bossa Nova Civic Club on Sat 15 Aug, Newyorkcity. 3 acts on the bill: DJ Sour, MAMICANA and yoluigi. Dembow. Preview the line-up and save it on soundcheck.
+Boom Boom Revolution at Bossa Nova Civic Club on Sat 15 Aug, Newyorkcity. 3 acts on the bill: DJ Sour, MAMICANA and yoluigi. House and Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

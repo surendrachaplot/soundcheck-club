@@ -1,6 +1,6 @@
 # Heddah
 
-Heddah is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+Heddah is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 Heddah is a latin bass and experimental artist based in Denmark, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen and Paris. Often billed alongside Timmyia, Lyra Valenza and Muskila. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Heddah is a latin bass and experimental artist based in Denmark, tracked on soun
 
 Timmyia, Lyra Valenza, Muskila
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*

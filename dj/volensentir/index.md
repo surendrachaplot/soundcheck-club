@@ -1,8 +1,8 @@
 # Volen Sentir
 
-Volen Sentir is a Deep House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
+Volen Sentir is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
 
-Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Budapest, London and Losangeles and 8 more. Often billed alongside DAVI, Guy Mantzur and Omer Tayar. Next up: Open Aera, Toronto on Thu 20 Aug.
+Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Budapest, London and Losangeles and 8 more. Often billed alongside DAVI, Guy Mantzur and Omer Tayar. Next up: Open Aera, Toronto on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Volen Sentir is a deep house and progressive house artist tracked on soundcheck,
 | Fri, 21 Aug 2026 | StereoBar | Montreal |
 | Fri, 28 Aug 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 30 Aug 2026 | Riverside East | London |
+| Sat, 5 Sept 2026 | Community Berlin | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Volen Sentir is a deep house and progressive house artist tracked on soundcheck,
 
 DAVI, Guy Mantzur, Omer Tayar
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*

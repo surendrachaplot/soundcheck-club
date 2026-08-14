@@ -1,6 +1,6 @@
 # RAQX
 
-RAQX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
+RAQX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
 
 RAQX is a house and techno artist tracked on soundcheck, with 50 sets logged across Newyorkcity. Often billed alongside Kfeelz, Kat Offline and moong!rl. Next up: Jupiter Disco, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RAQX is a house and techno artist tracked on soundcheck, with 50 sets logged acr
 
 Kfeelz, Kat Offline, moong!rl
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raqx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raqx/)*

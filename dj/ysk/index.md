@@ -1,13 +1,14 @@
 # YSK.
 
-YSK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+YSK. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gehør, Oslo on Fri, 14 Aug 2026.
 
-YSK. is a techno and house artist based in Japan, tracked on soundcheck, with 26 sets logged across Berlin, Hongkong, Melbourne and Osaka and 5 more. Often billed alongside OCCA, fleika and Olevv. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
+YSK. is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Berlin, Hongkong, Melbourne and Osaka and 6 more. Often billed alongside OCCA, fleika and Olevv. Next up: Gehør, Oslo on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Gehør | Oslo |
 | Sat, 15 Aug 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ YSK. is a techno and house artist based in Japan, tracked on soundcheck, with 26
 
 OCCA, fleika, Olevv
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*

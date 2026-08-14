@@ -1,6 +1,6 @@
 # J. Córdova
 
-J. Córdova is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
+J. Córdova is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
 
 J. Córdova is a techno and club artist tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity and Sanfrancisco. Often billed alongside karennoid, DJ Aguara'i and Ariel Zetina. Next up: Podlasie Club, Chicago on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ J. Córdova is a techno and club artist tracked on soundcheck, with 42 sets logg
 
 karennoid, DJ Aguara'i, Ariel Zetina
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*

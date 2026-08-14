@@ -1,6 +1,6 @@
 # DAY/DEM
 
-DAY/DEM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Paragon, New York City on Sat, 15 Aug 2026.
+DAY/DEM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Paragon, New York City on Sat, 15 Aug 2026.
 
 DAY/DEM is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami and Newyorkcity. Often billed alongside ALEJO (US), DREAMINSLOW and Duality (US). Next up: Paragon, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DAY/DEM is a techno and house artist based in United States of America, tracked 
 
 ALEJO (US), DREAMINSLOW, Duality (US)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*

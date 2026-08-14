@@ -1,6 +1,6 @@
 # Daniel Jaeger
 
-Daniel Jaeger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Renate, Berlin on Fri, 21 Aug 2026.
+Daniel Jaeger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Fri, 21 Aug 2026.
 
 Daniel Jaeger is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Denver, Hamburg and Istanbul and 3 more. Often billed alongside Hochholzner, Kaufmann and Le.Fu. Next up: Renate, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Daniel Jaeger is a house and techno artist tracked on soundcheck, with 19 sets l
 
 Hochholzner, Kaufmann, Le.Fu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaeger/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaeger/)*

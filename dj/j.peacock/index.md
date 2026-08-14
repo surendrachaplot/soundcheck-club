@@ -1,14 +1,15 @@
 # J. Peacock
 
-J. Peacock is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Festival Pier, London on Sun, 30 Aug 2026.
+J. Peacock is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Festival Pier, London on Sun, 30 Aug 2026.
 
-J. Peacock is a disco and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Detroit and London. Often billed alongside Ark Of Jonah, Armând and Blair French. Next up: Festival Pier, London on Sun 30 Aug.
+J. Peacock is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Detroit and London. Often billed alongside MARINI, Ark Of Jonah and Armând. Next up: Festival Pier, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Festival Pier | London |
+| Sun, 30 Aug 2026 | The Marquee Moon | London |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ J. Peacock is a disco and house artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Ark Of Jonah, Armând, Blair French
+MARINI, Ark Of Jonah, Armând
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.peacock/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.peacock/)*

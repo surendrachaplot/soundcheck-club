@@ -1,6 +1,6 @@
 # Alok
 
-Alok is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Alok is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Alok is a house and electronica artist tracked on soundcheck, with 37 sets logged across Bali, Barcelona, Boston and Budapest and 16 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Pomboklap. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -12,6 +12,7 @@ Alok is a house and electronica artist tracked on soundcheck, with 37 sets logge
 
 ## Recently played
 
+- Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Cavo Paradiso, Mykonos — Sun, 9 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 5 Aug 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 5 Aug 2026
@@ -19,10 +20,9 @@ Alok is a house and electronica artist tracked on soundcheck, with 37 sets logge
 - Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 22 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 1 Jul 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 10 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Dimitri Vegas & Like Mike, Korolova, Pomboklap
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*

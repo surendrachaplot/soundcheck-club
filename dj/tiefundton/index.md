@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Tiefundton is a techno and trance artist tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Frankfurt and Nurnberg and 1 more. Often billed alongside TAKTSTÖRER, A.N.I. and Daniela Hensel. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Tiefundton is a techno and trance artist tracked on soundcheck, with 28 sets log
 
 TAKTSTÖRER, A.N.I., Daniela Hensel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

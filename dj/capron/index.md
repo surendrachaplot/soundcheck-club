@@ -1,6 +1,6 @@
 # Capron
 
-Capron is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 14 Aug 2026.
+Capron is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 14 Aug 2026.
 
 Capron is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Stef Davidse, AAT (NL) and Ammé. Next up: Shelter Amsterdam, Amsterdam on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Capron is a house and tech house artist tracked on soundcheck, with 25 sets logg
 
 Stef Davidse, AAT (NL), Ammé
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*

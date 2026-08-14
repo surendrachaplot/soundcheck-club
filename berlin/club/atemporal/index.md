@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Listening Session: Zahra - A Selection of Music from Libyan Tapes (Habibi Funk 031)" on Fri, 14 Aug 2026.
+Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Listening Session: Zahra - A Selection of Music from Libyan Tapes (Habibi Funk 031)" on Fri, 14 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Amuleto Manuela and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

@@ -1,6 +1,6 @@
 # Facets
 
-Facets is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Waiting Room, London on Fri, 25 Sept 2026.
+Facets is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Waiting Room, London on Fri, 25 Sept 2026.
 
 Facets is an italo disco and house artist based in Serbia, tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Andi, Franz Scala and Berlin Bunny. Next up: The Waiting Room, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Facets is an italo disco and house artist based in Serbia, tracked on soundcheck
 
 Andi, Franz Scala, Berlin Bunny
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*

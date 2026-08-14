@@ -1,6 +1,6 @@
 # Pedro Sanmartin
 
-Pedro Sanmartin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Bar Viu, Barcelona on Tue, 18 Aug 2026.
+Pedro Sanmartin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bar Viu, Barcelona on Tue, 18 Aug 2026.
 
 Pedro Sanmartin is a house and techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona and Copenhagen. Often billed alongside Daniel Pinho, Pedro Mercado and Twilight Music Sculpture. Next up: Bar Viu, Barcelona on Tue 18 Aug.
 
@@ -22,4 +22,4 @@ Pedro Sanmartin is a house and techno artist based in Spain, tracked on soundche
 
 Daniel Pinho, Pedro Mercado, Twilight Music Sculpture
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrosanmartin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrosanmartin/)*

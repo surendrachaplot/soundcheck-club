@@ -1,6 +1,6 @@
 # MJK
 
-MJK is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+MJK is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 MJK is a techno and bass artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Bristol and Cologne and 13 more. Often billed alongside Oblig, Neffa-T and re:ni. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ MJK is a techno and bass artist tracked on soundcheck, with 84 sets logged acros
 
 Oblig, Neffa-T, re:ni
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk/)*

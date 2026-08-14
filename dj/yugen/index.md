@@ -1,6 +1,6 @@
 # Yugen
 
-Yugen is a Rio Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
+Yugen is a Rio Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
 
 Yugen is a rio funk artist tracked on soundcheck, with 3 sets logged across London, Mexicocity and Milan. Often billed alongside CdM88, Leith and NADO. Next up: TBA, Mexicocity on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Yugen is a rio funk artist tracked on soundcheck, with 3 sets logged across Lond
 
 CdM88, Leith, NADO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yugen/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yugen/)*

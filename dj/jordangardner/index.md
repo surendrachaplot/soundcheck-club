@@ -1,13 +1,14 @@
 # Jordan Gardner
 
-Jordan Gardner is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Jordan Gardner is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
 
-Jordan Gardner is a club and house artist tracked on soundcheck, with 27 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Ard1n, HVN (1) and Young Teesh. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Jordan Gardner is a club and house artist tracked on soundcheck, with 28 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Ard1n, HVN (1) and Martyn Bootyspoon. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Breakglass Studios | Montreal |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Sun, 30 Aug 2026 | Esplanade Tranquille | Montreal |
 
@@ -24,6 +25,6 @@ Jordan Gardner is a club and house artist tracked on soundcheck, with 27 sets lo
 
 ## Shares bills with
 
-Ard1n, HVN (1), Young Teesh
+Ard1n, HVN (1), Martyn Bootyspoon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*

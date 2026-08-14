@@ -1,6 +1,6 @@
 # k.h0lle
 
-k.h0lle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
+k.h0lle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
 
 k.h0lle is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Belfast, Glasgow, Liverpool and London and 1 more. Often billed alongside Kalani, GFA and Max Ctrl. Next up: The DBA, Manchester on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ k.h0lle is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Kalani, GFA, Max Ctrl
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.h0lle/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.h0lle/)*

@@ -1,6 +1,6 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
+FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
 FJUSHA is a techno and trance artist tracked on soundcheck, with 67 sets logged across Athens, Bangkok, Barcelona and Basel and 21 more. Often billed alongside DJ Cringey, Bae Blade and Clara Cuvé. Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 67 sets logged 
 
 DJ Cringey, Bae Blade, Clara Cuvé
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

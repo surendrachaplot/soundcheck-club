@@ -1,6 +1,6 @@
 # Tom VR
 
-Tom VR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at radial, London on Fri, 18 Sept 2026.
+Tom VR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at radial, London on Fri, 18 Sept 2026.
 
 Tom VR is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and Dublin and 12 more. Often billed alongside Seb Wildblood, Maya Q and Baalti. Next up: radial, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tom VR is a techno and house artist tracked on soundcheck, with 33 sets logged a
 
 Seb Wildblood, Maya Q, Baalti
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*

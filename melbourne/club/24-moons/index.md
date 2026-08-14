@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "24 Moons presents: D2Motor LIVE + Hannah D & Bex" on Sat, 22 Aug 2026.
+24 Moons is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "24 Moons presents: D2Motor LIVE + Hannah D & Bex" on Sat, 22 Aug 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Amber Ferraro, Crozier, DJ Luv You and Jamie Stevens. Browse upcoming dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -16,4 +16,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

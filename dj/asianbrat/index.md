@@ -1,6 +1,6 @@
 # ASIAN BRAT
 
-ASIAN BRAT is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
+ASIAN BRAT is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
 ASIAN BRAT is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Betsy Mae, Sexy Lady Massive and SIMMS. Next up: Else, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ ASIAN BRAT is a garage and jungle artist based in United Kingdom, tracked on sou
 
 Betsy Mae, Sexy Lady Massive, SIMMS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asianbrat/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asianbrat/)*

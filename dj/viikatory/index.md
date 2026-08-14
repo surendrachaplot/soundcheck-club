@@ -1,6 +1,6 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
 Viikatory is a techno and electro artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Viikatory is a techno and electro artist tracked on soundcheck, with 93 sets log
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

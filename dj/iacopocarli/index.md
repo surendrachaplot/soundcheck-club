@@ -1,6 +1,6 @@
 # Iacopo Carli
 
-Iacopo Carli is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 22 Aug 2026.
+Iacopo Carli is a electronic artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 22 Aug 2026.
 
 Iacopo Carli is an electronic artist based in Italy, tracked on soundcheck, with 22 sets logged across Milan. Often billed alongside Marthial, Kora Lyssa and cccre. Next up: Tempio del Futuro Perduto, Milan on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Iacopo Carli is an electronic artist based in Italy, tracked on soundcheck, with
 
 Marthial, Kora Lyssa, cccre
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iacopocarli/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iacopocarli/)*

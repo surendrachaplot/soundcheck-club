@@ -1,6 +1,6 @@
 # JS
 
-JS is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Soffio Fregene, Rome on Sat, 15 Aug 2026.
+JS is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Soffio Fregene, Rome on Sat, 15 Aug 2026.
 
 JS is an electronica artist tracked on soundcheck, with 5 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside 8ULENTINA, Carnao Beats and Elise Meidell. Next up: Soffio Fregene, Rome on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ JS is an electronica artist tracked on soundcheck, with 5 sets logged across Ber
 
 8ULENTINA, Carnao Beats, Elise Meidell
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*

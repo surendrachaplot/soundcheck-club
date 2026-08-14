@@ -1,6 +1,6 @@
 # Vrede
 
-Vrede is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Skull Bar, Athens on Sat, 15 Aug 2026.
+Vrede is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Skull Bar, Athens on Sat, 15 Aug 2026.
 
 Vrede is a house and techno artist based in Greece, tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside Sirod, Stratos (2) and MAN WITH THE SPEAKER. Next up: Skull Bar, Athens on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Vrede is a house and techno artist based in Greece, tracked on soundcheck, with 
 
 Sirod, Stratos (2), MAN WITH THE SPEAKER
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vrede/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vrede/)*

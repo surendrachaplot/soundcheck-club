@@ -1,6 +1,6 @@
 # Pedro Night
 
-Pedro Night is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
+Pedro Night is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
 
 Pedro Night is a house and reggaeton artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside $et, Amarji King and Cquestt. Next up: TRANSMISSION DC, Washingtondc on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Pedro Night is a house and reggaeton artist based in United States of America, t
 
 $et, Amarji King, Cquestt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedronight/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedronight/)*

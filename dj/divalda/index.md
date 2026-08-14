@@ -1,6 +1,6 @@
 # Divalda
 
-Divalda is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Divalda is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Divalda is a house and trance artist based in France, tracked on soundcheck, with 18 sets logged across Paris. Often billed alongside Break A Leg, Apéro Notturno and Bürt. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -12,6 +12,7 @@ Divalda is a house and trance artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- TBA - La Louverie, Paris — Thu, 13 Aug 2026
 - Petit Bain, Paris — Fri, 17 Jul 2026
 - Canal Barboteur, Paris — Fri, 29 May 2026
 - La Java, Paris — Sat, 23 May 2026
@@ -19,10 +20,9 @@ Divalda is a house and trance artist based in France, tracked on soundcheck, wit
 - Cabaret Sauvage, Paris — Sat, 6 Sept 2025
 - La Péniche Cinéma, Paris — Sun, 29 Jun 2025
 - Guru Club, Paris — Sat, 21 Jun 2025
-- Brasserie Gallia, Paris — Sun, 16 Mar 2025
 
 ## Shares bills with
 
 Break A Leg, Apéro Notturno, Bürt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divalda/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divalda/)*

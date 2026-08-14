@@ -1,14 +1,13 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "FLINTA Pride CPH 2026" on Thu, 13 Aug 2026.
+Pumpehuset is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "GAGxDAS: PRIDE" on Sat, 15 Aug 2026.
 
-Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Cassius, Conway, dj Joe and dragongirl and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
+Pumpehuset is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Cassius, Conway, dj Joe and DRAHO and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | FLINTA Pride CPH 2026 | HEX ELECTRONIX, Rita Blue, dragongirl |
 | Sat, 15 Aug 2026 | GAGxDAS: PRIDE | DRAHO, Metaraph, Milo Makua, Peachlyfe, Samantha Togni, dj Joe |
 | Sat, 19 Sept 2026 | tonser // Pumpehuset | Tonser |
 | Sat, 19 Sept 2026 | ESCAPISM presents: MPH [uk] 360° XP + Guests | ELOQ, Lisa Fosmark, MPH (1), parashoot |
@@ -21,4 +20,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming night
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

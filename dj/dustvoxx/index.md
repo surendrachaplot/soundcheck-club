@@ -1,6 +1,6 @@
 # Dustvoxx
 
-Dustvoxx is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Nagomix, Tokyo on Sun, 16 Aug 2026.
+Dustvoxx is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Nagomix, Tokyo on Sun, 16 Aug 2026.
 
 Dustvoxx is a psytrance and techno artist based in Japan, tracked on soundcheck, with 19 sets logged across Osaka and Tokyo. Often billed alongside CHIKA, Coretex and DJ Shimamura. Next up: Nagomix, Tokyo on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Dustvoxx is a psytrance and techno artist based in Japan, tracked on soundcheck,
 
 CHIKA, Coretex, DJ Shimamura
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*

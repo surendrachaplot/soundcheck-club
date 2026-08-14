@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Refuge, New York City on Sat, 15 Aug 2026.
+Julian Fijma is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Refuge, New York City on Sat, 15 Aug 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 29 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Refuge, Newyorkcity on Sat 15 Aug.
 
@@ -33,4 +33,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

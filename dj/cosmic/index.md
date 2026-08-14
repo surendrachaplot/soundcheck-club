@@ -1,13 +1,14 @@
 # Cosmic
 
-Cosmic is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
+Cosmic is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RASA, Singapore on Fri, 18 Sept 2026.
 
-Cosmic is a drum & bass and techno artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 1 more. Often billed alongside BLØEM, Rosati and ABSURD. Next up: ÆDEN, Berlin on Thu 24 Sept.
+Cosmic is a drum & bass and techno artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 2 more. Often billed alongside BLØEM, Rosati and ABSURD. Next up: RASA, Singapore on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | RASA | Singapore |
 | Thu, 24 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cosmic is a drum & bass and techno artist based in Italy, tracked on soundcheck,
 
 BLØEM, Rosati, ABSURD
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmic/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmic/)*

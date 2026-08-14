@@ -1,13 +1,14 @@
 # Grace Arribas
 
-Grace Arribas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
+Grace Arribas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Floyd, Miami on Fri, 14 Aug 2026.
 
-Grace Arribas is a house and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 5 more. Often billed alongside East End Dubs, Franky Rizardo and ALISHA. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
+Grace Arribas is a house and tech house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 5 more. Often billed alongside East End Dubs, Franky Rizardo and ALISHA. Next up: Floyd, Miami on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Floyd | Miami |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Grace Arribas is a house and tech house artist based in United States of America
 
 East End Dubs, Franky Rizardo, ALISHA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*

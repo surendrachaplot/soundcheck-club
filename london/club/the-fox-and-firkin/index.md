@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fabio & Grooverider" on Fri, 14 Aug 2026.
+The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fabio & Grooverider" on Fri, 14 Aug 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

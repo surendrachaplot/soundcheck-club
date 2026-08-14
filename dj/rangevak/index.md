@@ -1,6 +1,6 @@
 # range vak
 
-range vak is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kockiri, Seoul on Fri, 14 Aug 2026.
+range vak is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kockiri, Seoul on Fri, 14 Aug 2026.
 
 range vak is a house and disco artist based in South Korea, tracked on soundcheck, with 41 sets logged across Seoul. Often billed alongside July (1), July. and Cozyhoon. Next up: Kockiri, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ range vak is a house and disco artist based in South Korea, tracked on soundchec
 
 July (1), July., Cozyhoon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangevak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangevak/)*

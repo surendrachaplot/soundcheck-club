@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "ONDA: CVNSUMED, RARE MAMBA, Amalie • Chinastraat" on Fri, 21 Aug 2026.
+Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ONDA: CVNSUMED, RARE MAMBA, Amalie • Chinastraat" on Fri, 21 Aug 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including Amalie, CVNSUMED, droomwolkje and Jalo and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -17,4 +17,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, w
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

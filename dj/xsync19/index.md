@@ -1,6 +1,6 @@
 # XSYNC19
 
-XSYNC19 is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
+XSYNC19 is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
 
 XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 13 sets logged across Riga. Often billed alongside MVKO, oshigakill and B2BBASS. Next up: Teritorija, Riga on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, 
 
 MVKO, oshigakill, B2BBASS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*

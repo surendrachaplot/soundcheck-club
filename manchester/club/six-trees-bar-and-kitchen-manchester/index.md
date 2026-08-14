@@ -1,13 +1,14 @@
 # Six Trees Bar And Kitchen Manchester
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "UP with Grace Sands" on Sat, 22 Aug 2026.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "AFROBEATS DAY PARTY - Manchester's Summer Block Party" on Sun, 16 Aug 2026.
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Adam Be (1), Grace Sands, Jamie Stevens and Supernature Disco. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Adam Be (1), Grace Sands, Jamie Stevens and Supernature Disco. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | AFROBEATS DAY PARTY - Manchester's Summer Block Party |  |
 | Sat, 22 Aug 2026 | UP with Grace Sands | Adam Be (1), Grace Sands, Supernature Disco |
 | Sat, 5 Sept 2026 | Progmatic | Jamie Stevens |
 
@@ -15,4 +16,4 @@ Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on so
 
 Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN, Manchester
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*

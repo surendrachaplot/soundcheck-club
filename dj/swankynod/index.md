@@ -1,6 +1,6 @@
 # Swanky NOD
 
-Swanky NOD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Praterbrücke, Vienna on Sat, 15 Aug 2026.
+Swanky NOD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Praterbrücke, Vienna on Sat, 15 Aug 2026.
 
 Swanky NOD is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside ATNIL, MIA MIA and Anni Herzer. Next up: Praterbrücke, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Swanky NOD is a techno and trance artist based in Germany, tracked on soundcheck
 
 ATNIL, MIA MIA, Anni Herzer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swankynod/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swankynod/)*

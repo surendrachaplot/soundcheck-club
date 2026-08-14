@@ -1,6 +1,6 @@
 # ONNI
 
-ONNI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
+ONNI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 15 Aug 2026.
 
 ONNI is a techno and house artist based in Turkey, tracked on soundcheck, with 42 sets logged across Berlin, Copenhagen, Istanbul and Munich and 1 more. Often billed alongside SEIUN, BUSSI and MUKKIMIAU. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ONNI is a techno and house artist based in Turkey, tracked on soundcheck, with 4
 
 SEIUN, BUSSI, MUKKIMIAU
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onni/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onni/)*

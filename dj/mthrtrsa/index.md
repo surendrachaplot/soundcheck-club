@@ -1,6 +1,6 @@
 # MTHR TRSA
 
-MTHR TRSA is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
+MTHR TRSA is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
 
 MTHR TRSA is a club and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across London and Newyorkcity. Often billed alongside Buffy, ARCHANGEL (US) and Delilah At Night. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ MTHR TRSA is a club and experimental artist based in United States of America, t
 
 Buffy, ARCHANGEL (US), Delilah At Night
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mthrtrsa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mthrtrsa/)*

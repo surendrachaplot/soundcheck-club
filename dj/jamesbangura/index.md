@@ -1,6 +1,6 @@
 # James Bangura
 
-James Bangura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
+James Bangura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
 
 James Bangura is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Detroit and 15 more. Often billed alongside Nativesun, Black Rave Culture and Amal. Next up: La Gravière, Geneva on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ James Bangura is a techno and house artist tracked on soundcheck, with 67 sets l
 
 Nativesun, Black Rave Culture, Amal
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*

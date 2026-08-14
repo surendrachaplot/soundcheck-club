@@ -1,6 +1,6 @@
 # Marcos Fagoaga
 
-Marcos Fagoaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dune Park, Buenos Aires on Sat, 22 Aug 2026.
+Marcos Fagoaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Dune Park, Buenos Aires on Sat, 22 Aug 2026.
 
 Marcos Fagoaga is a techno and electronica artist tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Bermani, Forello and Gaston Fiore. Next up: Dune Park, Buenosaires on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marcos Fagoaga is a techno and electronica artist tracked on soundcheck, with 10
 
 Bermani, Forello, Gaston Fiore
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosfagoaga/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosfagoaga/)*

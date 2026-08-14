@@ -1,6 +1,6 @@
 # Emma (7)
 
-Emma (7) is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
+Emma (7) is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
 
 Emma (7) is a house and idm artist tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Frny, True Vine and Bort. Next up: Mad Radio Miami, Miami on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Emma (7) is a house and idm artist tracked on soundcheck, with 10 sets logged ac
 
 Frny, True Vine, Bort
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-7/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-7/)*

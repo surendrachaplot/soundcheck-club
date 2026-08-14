@@ -1,6 +1,6 @@
 # Porsh DJ
 
-Porsh DJ is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
+Porsh DJ is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
 
 Porsh DJ is an afro house and afro tech artist tracked on soundcheck, with 7 sets logged across Bristol and London. Often billed alongside DJ IC, LOKI (2) and Ashley Knights. Next up: Paloma, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Porsh DJ is an afro house and afro tech artist tracked on soundcheck, with 7 set
 
 DJ IC, LOKI (2), Ashley Knights
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porshdj/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porshdj/)*

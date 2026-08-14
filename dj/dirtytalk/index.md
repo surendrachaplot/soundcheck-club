@@ -1,6 +1,6 @@
 # Dirtytalk
 
-Dirtytalk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Strange Brew, Bristol on Fri, 14 Aug 2026.
+Dirtytalk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Strange Brew, Bristol on Fri, 14 Aug 2026.
 
 Dirtytalk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, Brighton and Bristol. Often billed alongside Ages (AT), Amber (NL) and Art (AU). Next up: Strange Brew, Bristol on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Dirtytalk is a house and techno artist based in United Kingdom, tracked on sound
 
 Ages (AT), Amber (NL), Art (AU)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtytalk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtytalk/)*

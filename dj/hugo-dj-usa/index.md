@@ -1,6 +1,6 @@
 # Hugo (US)
 
-Hugo (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
+Hugo (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Apollo Studio, New York City on Fri, 14 Aug 2026.
 
 Hugo (US) is a house and techno artist tracked on soundcheck, with 19 sets logged across Boston, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Burchan Acar, Taiga and Christian AB. Next up: Apollo Studio, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hugo (US) is a house and techno artist tracked on soundcheck, with 19 sets logge
 
 Burchan Acar, Taiga, Christian AB
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*

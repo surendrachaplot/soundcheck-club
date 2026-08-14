@@ -1,6 +1,6 @@
 # Libere
 
-Libere is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Veronica Schip, Amsterdam on Sat, 5 Sept 2026.
+Libere is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Veronica Schip, Amsterdam on Sat, 5 Sept 2026.
 
 Libere is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Barcelona. Often billed alongside Lbert, Nova Caza and T-Gray. Next up: Veronica Schip, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Libere is a progressive house and techno artist based in Netherlands, tracked on
 
 Lbert, Nova Caza, T-Gray
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/libere-nl/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/libere-nl/)*

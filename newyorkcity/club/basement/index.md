@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Michael Cignarale" on Sat, 15 Aug 2026.
+BASEMENT is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Michael Cignarale" on Sat, 15 Aug 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 12 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

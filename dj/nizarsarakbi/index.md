@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Katia Curie, KATIA and vince. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 73 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

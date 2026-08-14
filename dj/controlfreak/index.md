@@ -1,6 +1,6 @@
 # Control Freak
 
-Control Freak is a Bass and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Echostage, Washington DC on Sat, 12 Sept 2026.
+Control Freak is a Bass and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Echostage, Washington DC on Sat, 12 Sept 2026.
 
 Control Freak is a bass and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Bristol, London and Washingtondc. Often billed alongside Lola Haro, Dorisburg and Emily Jeanne. Next up: Echostage, Washingtondc on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Control Freak is a bass and tech house artist based in United Kingdom, tracked o
 
 Lola Haro, Dorisburg, Emily Jeanne
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*

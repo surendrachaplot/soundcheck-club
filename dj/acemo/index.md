@@ -1,6 +1,6 @@
 # AceMo
 
-AceMo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
+AceMo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
 
 AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Berlin and Boston and 27 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: The Chocolate Factory, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ AceMo is a house and techno artist based in United States of America, tracked on
 
 DJ SWISHA, MoMA Ready, Kush Jones
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

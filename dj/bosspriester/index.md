@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 15 Aug 2026.
+Boss Priester is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 15 Aug 2026.
 
 Boss Priester is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: La Cheetah Club, Glasgow on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 101 s
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

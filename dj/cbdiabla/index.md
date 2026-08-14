@@ -1,6 +1,6 @@
 # CBDiabla
 
-CBDiabla is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
+CBDiabla is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
 
 CBDiabla is a techno and electronica artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity, Montreal and Seattle. Often billed alongside JENN GREEN, Azu Tiwaline and Balo (MX). Next up: Barbossa, Montreal on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ CBDiabla is a techno and electronica artist based in Mexico, tracked on soundche
 
 JENN GREEN, Azu Tiwaline, Balo (MX)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cbdiabla/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cbdiabla/)*

@@ -1,6 +1,6 @@
 # INTENSA
 
-INTENSA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dunia, Istanbul on Fri, 14 Aug 2026.
+INTENSA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Dunia, Istanbul on Fri, 14 Aug 2026.
 
 INTENSA is a techno and club artist tracked on soundcheck, with 12 sets logged across Belgrade and Istanbul. Often billed alongside guru'w, Cenk Tripper and Neyzen. Next up: Dunia, Istanbul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ INTENSA is a techno and club artist tracked on soundcheck, with 12 sets logged a
 
 guru'w, Cenk Tripper, Neyzen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intensa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intensa/)*

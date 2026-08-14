@@ -1,6 +1,6 @@
 # Ismael Rivas
 
-Ismael Rivas is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Slow Club, Barcelona on Sat, 19 Sept 2026.
+Ismael Rivas is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Slow Club, Barcelona on Sat, 19 Sept 2026.
 
 Ismael Rivas is a house and progressive house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Óscar de Rivera, fajardo and jose fajardo. Next up: Slow Club, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ismael Rivas is a house and progressive house artist based in Spain, tracked on 
 
 Óscar de Rivera, fajardo, jose fajardo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ismaelrivas/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ismaelrivas/)*

@@ -1,6 +1,6 @@
 # LOV (1)
 
-LOV (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Le Labokube, Brussels on Fri, 14 Aug 2026.
+LOV (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Le Labokube, Brussels on Fri, 14 Aug 2026.
 
 LOV (1) is a techno and house artist based in Italy, tracked on soundcheck, with 6 sets logged across Brussels, Ghent and London. Often billed alongside 1000raks, 131bpm and ASHTREY. Next up: Le Labokube, Brussels on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ LOV (1) is a techno and house artist based in Italy, tracked on soundcheck, with
 
 1000raks, 131bpm, ASHTREY
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*

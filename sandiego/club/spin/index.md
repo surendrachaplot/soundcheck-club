@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 17 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "DuckDuckRoar's Happily Ever Afterparty" on Fri, 14 Aug 2026.
+Spin is a music venue in San Diego with 17 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DuckDuckRoar's Happily Ever Afterparty" on Fri, 14 Aug 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -15,7 +15,7 @@ Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with
 | Fri, 21 Aug 2026 | LED presents Nitefreak with Corkidi | Nitefreak |
 | Sun, 23 Aug 2026 | SUNLIGHT SOCIAL W/ Oliver Koletzki | Oliver Koletzki, aali |
 | Fri, 28 Aug 2026 | LED presents Borgore | Borgore |
-| Sat, 29 Aug 2026 | Rays from Above - Spin Rooftop Day Party | Bump and Ugly |
+| Sat, 29 Aug 2026 | Rays from Above - Rooftop Day Party | Bump and Ugly |
 | Fri, 4 Sept 2026 | FNGRS CRSSD x knownunknown present Partiboi69 | Partiboi69 |
 | Sat, 5 Sept 2026 | LED presents Distant Matter |  |
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

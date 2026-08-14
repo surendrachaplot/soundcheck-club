@@ -1,6 +1,6 @@
 # The Bentway
 
-The Bentway is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "On The Way presented by Standard Time and Community Wines  " on Sat, 15 Aug 2026.
+The Bentway is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "On The Way presented by Standard Time and Community Wines  " on Sat, 15 Aug 2026.
 
 The Bentway is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Badbadnotgood, Bella Mutino, BRUX (Aus) and Claude VonStroke and 2 more. Browse upcoming dates, start times and who's playing. 250 Fork York Blvd.
 
@@ -15,4 +15,4 @@ The Bentway is a music venue in Toronto listed on soundcheck. 2 upcoming nights,
 
 250 Fork York Blvd, Toronto
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-bentway/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-bentway/)*

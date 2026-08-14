@@ -1,6 +1,6 @@
 # Esther Silex
 
-Esther Silex is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Esther Silex is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Esther Silex is a house and deep house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Hamburg and Istanbul and 4 more. Often billed alongside Sascha Cawa, Britta Arnold and Peter Schumann. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Esther Silex is a house and deep house artist based in Germany, tracked on sound
 
 Sascha Cawa, Britta Arnold, Peter Schumann
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersilex/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersilex/)*

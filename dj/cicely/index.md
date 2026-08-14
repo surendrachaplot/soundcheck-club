@@ -1,6 +1,6 @@
 # CICELY
 
-CICELY is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
+CICELY is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
 
 CICELY is a breakbeat and jungle artist tracked on soundcheck, with 76 sets logged across Berlin, Brighton, Leeds and London and 3 more. Often billed alongside Highlander, A.N.T and OS:MAN. Next up: Club360, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ CICELY is a breakbeat and jungle artist tracked on soundcheck, with 76 sets logg
 
 Highlander, A.N.T, OS:MAN
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*

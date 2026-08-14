@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND" on Fri, 14 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND" on Fri, 14 Aug 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Ben Hille, Blawan, cyaabottom and DICE and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -19,4 +19,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

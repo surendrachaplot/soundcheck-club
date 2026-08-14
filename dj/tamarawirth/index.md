@@ -1,6 +1,6 @@
 # Tamara Wirth
 
-Tamara Wirth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Perkins Park, Stuttgart on Sat, 15 Aug 2026.
+Tamara Wirth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Perkins Park, Stuttgart on Sat, 15 Aug 2026.
 
 Tamara Wirth is a techno and house artist based in Germany, tracked on soundcheck, with 81 sets logged across Berlin, Frankfurt, Munich and Stuttgart and 1 more. Often billed alongside Raphael Dincsoy, Inspektor Lenny and Banali. Next up: Perkins Park, Stuttgart on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tamara Wirth is a techno and house artist based in Germany, tracked on soundchec
 
 Raphael Dincsoy, Inspektor Lenny, Banali
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawirth/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawirth/)*

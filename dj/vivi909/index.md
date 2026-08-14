@@ -1,6 +1,6 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+VIVI909 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
 VIVI909 is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Garagen, Cologne on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 11 sets logged
 
 B.R.K.Ø., CAIVA, DJ LP (NL)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

@@ -1,6 +1,6 @@
 # 80HDJ
 
-80HDJ is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
+80HDJ is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
 
 80HDJ is a house and bass artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Robot Girlfriend, Vitling and Heath Swedger. Next up: Containerhafen, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@
 
 Robot Girlfriend, Vitling, Heath Swedger
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/80hdj/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/80hdj/)*

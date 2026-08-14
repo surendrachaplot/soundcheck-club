@@ -1,6 +1,6 @@
 # Sahib
 
-Sahib is a UK Funky and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
+Sahib is a UK Funky and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
 Sahib is an uk funky and grime artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside CHNDRA, European 305 and Kyuu. Next up: Colour Factory, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sahib is an uk funky and grime artist based in United Kingdom, tracked on soundc
 
 CHNDRA, European 305, Kyuu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sahib/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sahib/)*

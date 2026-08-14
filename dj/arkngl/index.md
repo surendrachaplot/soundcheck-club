@@ -1,6 +1,6 @@
 # ARKNGL
 
-ARKNGL is a House and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+ARKNGL is a House and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 ARKNGL is a house and uk funky artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ ARKNGL is a house and uk funky artist tracked on soundcheck, with 10 sets logged
 
 BBSHKALES, Jean Blaire, SALD3E
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*

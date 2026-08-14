@@ -1,6 +1,6 @@
 # Teray
 
-Teray is a Club and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bubba Oasis, Islington, London on Sun, 30 Aug 2026.
+Teray is a Club and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bubba Oasis, Islington, London on Sun, 30 Aug 2026.
 
 Teray is a club and afro house artist based in Canada, tracked on soundcheck, with 5 sets logged across London and Toronto. Often billed alongside Momocita, THIRDEYE and ADEOLA. Next up: Bubba Oasis, Islington, London on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Teray is a club and afro house artist based in Canada, tracked on soundcheck, wi
 
 Momocita, THIRDEYE, ADEOLA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teray/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teray/)*

@@ -1,6 +1,6 @@
 # Briser Gonzalez
 
-Briser Gonzalez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - PNGA, Vancouver on Fri, 14 Aug 2026.
+Briser Gonzalez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - PNGA, Vancouver on Fri, 14 Aug 2026.
 
 Briser Gonzalez is a house and minimal artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Lalo Campo, Ev O'Reilly and Melt (CA). Next up: TBA - PNGA, Vancouver on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Briser Gonzalez is a house and minimal artist based in Canada, tracked on soundc
 
 Lalo Campo, Ev O'Reilly, Melt (CA)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brisergonzalez/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brisergonzalez/)*

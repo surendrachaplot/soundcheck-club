@@ -1,6 +1,6 @@
 # Shkedul
 
-Shkedul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
+Shkedul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
 
 Shkedul is a techno and house artist tracked on soundcheck, with 25 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: Starlane Pizza Bar, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Shkedul is a techno and house artist tracked on soundcheck, with 25 sets logged 
 
 Enrico Vivaldi, Anthea, Ben Klock
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*

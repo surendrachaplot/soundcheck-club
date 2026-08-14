@@ -1,6 +1,6 @@
 # Dan Tanev
 
-Dan Tanev is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 4 Oct 2026.
+Dan Tanev is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Dan Tanev is a techno and afro house artist based in Bulgaria, tracked on soundcheck, with 3 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside MËSTIZA, Anetha and Claudia León. Next up: Hï Ibiza, Ibiza on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ Dan Tanev is a techno and afro house artist based in Bulgaria, tracked on soundc
 
 MËSTIZA, Anetha, Claudia León
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dantanev/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dantanev/)*

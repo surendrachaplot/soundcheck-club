@@ -1,6 +1,6 @@
 # RED at Le Red Room
 
-RED at Le Red Room on Sat 26 Sept, Montreal. 1 act on the bill: Special K (CA). Progressive House. Preview the line-up and save it on soundcheck.
+RED at Le Red Room on Sat 26 Sept, Montreal. 2 acts on the bill: Guillaume Michaud and Special K (CA). Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RED at Le Red Room on Sat 26 Sept, Montreal. 1 act on the bill: Special K (CA). 
 
 ## Line-up
 
+- Guillaume Michaud
 - Special K (CA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2495697-red-at-le-red-room/)*

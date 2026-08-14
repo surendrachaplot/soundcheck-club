@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Lilly Palmer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Lilly Palmer is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 54 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 147 sets l
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

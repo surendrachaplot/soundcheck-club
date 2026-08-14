@@ -1,8 +1,8 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Nic Fanciulli is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -16,9 +16,11 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 s
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 
 ## Recently played
 
+- Medusa Beach, Valencia — Thu, 13 Aug 2026
 - [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Tue, 4 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 25 Jul 2026
@@ -26,10 +28,9 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 s
 - Santanna Mykonos, Mykonos — Fri, 17 Jul 2026
 - Fitz Mallorca, Mallorca — Thu, 16 Jul 2026
 - Tapada da Ajuda, Lisbon — Sun, 12 Jul 2026
-- [UNVRS], Ibiza — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

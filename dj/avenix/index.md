@@ -1,6 +1,6 @@
 # Avenix
 
-Avenix is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Niceto Bar, Buenos Aires on Sun, 16 Aug 2026.
+Avenix is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Niceto Bar, Buenos Aires on Sun, 16 Aug 2026.
 
 Avenix is a house and acid artist tracked on soundcheck, with 2 sets logged across Buenosaires. Next up: Niceto Bar, Buenosaires on Sun 16 Aug.
 
@@ -14,4 +14,4 @@ Avenix is a house and acid artist tracked on soundcheck, with 2 sets logged acro
 
 - Niceto Bar, Buenos Aires — Fri, 15 May 2026
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avenix/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avenix/)*

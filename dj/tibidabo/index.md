@@ -1,6 +1,6 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
+Tibi Dabo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
 
 Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: Audiodise Park Montjuic, Barcelona on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 
 Damian Lazarus, Bass Playah, Chloé Caillet
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*

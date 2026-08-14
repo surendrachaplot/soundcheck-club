@@ -1,6 +1,6 @@
 # Raphael Scemama
 
-Raphael Scemama is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 22 Aug 2026.
+Raphael Scemama is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Raphael Scemama is a house and tech house artist based in France, tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza, London and Paris. Often billed alongside Arthur Nozen, Anthony Middleton and Defex. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Raphael Scemama is a house and tech house artist based in France, tracked on sou
 
 Arthur Nozen, Anthony Middleton, Defex
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelscemama/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelscemama/)*

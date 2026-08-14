@@ -1,14 +1,13 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Second Gig" on Thu, 13 Aug 2026.
+White Space Lab is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "CORM [live]" on Fri, 14 Aug 2026.
 
-White Space Lab is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 北極 / Ali NM, ALLY, Askwhy and B.A.R.K and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
+White Space Lab is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 北極 / Ali NM, ALLY, Askwhy and B.A.R.K and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Second Gig | SK (16), pip (4) |
 | Fri, 14 Aug 2026 | CORM [live] | ALLY, JagdAngel, Sojourna, TECSTONE |
 | Sat, 15 Aug 2026 | eum |  |
 | Wed, 19 Aug 2026 | SENSE | KEI_DJ, MOTOKA, PortaL(JP), 北極 / Ali NM |
@@ -21,4 +20,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 8 upcoming night
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

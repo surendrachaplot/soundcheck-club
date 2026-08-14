@@ -1,6 +1,6 @@
 # LGNA
 
-LGNA is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
+LGNA is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
 
 LGNA is a techno and deep house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Amsterdam and Utrecht. Often billed alongside Christoph Cham, ilse dorine and VITTAO. Next up: Het Veronica Schip, Amsterdam on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ LGNA is a techno and deep house artist based in Brazil, tracked on soundcheck, w
 
 Christoph Cham, ilse dorine, VITTAO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lgna/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lgna/)*

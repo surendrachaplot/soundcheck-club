@@ -1,6 +1,6 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Mask4Mask " on Sat, 15 Aug 2026.
+Algha's Plantroom is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Mask4Mask " on Sat, 15 Aug 2026.
 
 Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Fastlove, Aiden Francis, Amphia and ANTIPODES and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
@@ -20,4 +20,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming ni
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

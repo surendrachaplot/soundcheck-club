@@ -1,6 +1,6 @@
 # Nick Höppner
 
-Nick Höppner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Nick Höppner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Nick Höppner is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, London and Madrid and 5 more. Often billed alongside Steffi, Soundstream and JakoJako. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nick Höppner is a house and techno artist based in Germany, tracked on soundche
 
 Steffi, Soundstream, JakoJako
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*

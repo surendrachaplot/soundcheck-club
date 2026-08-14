@@ -1,13 +1,14 @@
 # Sarba
 
-Sarba is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
+Sarba is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
 
-Sarba is a bass and techno artist based in Poland, tracked on soundcheck, with 14 sets logged across Krakow and Warsaw. Often billed alongside Kogiel, NOV1K and dj.zamocno. Next up: Smolna, Warsaw on Fri 4 Sept.
+Sarba is a bass and techno artist based in Poland, tracked on soundcheck, with 15 sets logged across Krakow and Warsaw. Often billed alongside Kogiel, NOV1K and dj.zamocno. Next up: TBA - Bar Schodki, Warsaw on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - Bar Schodki | Warsaw |
 | Fri, 4 Sept 2026 | Smolna | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sarba is a bass and techno artist based in Poland, tracked on soundcheck, with 1
 
 Kogiel, NOV1K, dj.zamocno
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarba/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarba/)*

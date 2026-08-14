@@ -1,6 +1,6 @@
 # Temo
 
-Temo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
+Temo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
 
 Temo is a deep house and techno artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside ANDRØMEDA, B-Pushr and Claus Fuss. Next up: Dream Bags Jaguar Shoes, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Temo is a deep house and techno artist tracked on soundcheck, with 3 sets logged
 
 ANDRØMEDA, B-Pushr, Claus Fuss
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temo/)*

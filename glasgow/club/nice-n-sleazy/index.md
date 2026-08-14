@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Groove Sessions" on Thu, 13 Aug 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DARK PROTOCOL W Residents / Shedcat / Julz Lever / TiLA" on Fri, 14 Aug 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including Bristol Luke, Dean Munch, EL PADRE and Jay Cluss and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -8,7 +8,6 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Groove Sessions |  |
 | Fri, 14 Aug 2026 | DARK PROTOCOL W Residents / Shedcat / Julz Lever / TiLA | Julz Lever, Shedcat, TiLA |
 | Fri, 21 Aug 2026 | Domino Dancing ft Junglehussi | Dean Munch, Junglehussi |
 | Sat, 22 Aug 2026 | Once Upon A Drop (Jungle / Drum&Bass) |  |
@@ -17,10 +16,11 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nigh
 | Sat, 29 Aug 2026 | The 909 Society presents: Housework Volume 7 |  |
 | Sat, 12 Sept 2026 | Bass Injection: presents - Local Frequency [DRUM & BASS] |  |
 | Sun, 13 Sept 2026 | PORTAL - Techno Journey | EL PADRE, Jay Cluss, SA:FIR |
+| Mon, 21 Sept 2026 | Possibly Jamie: Did It All For You |  |
 | Thu, 5 Nov 2026 | Mono Culture Fundraiser Party |  |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

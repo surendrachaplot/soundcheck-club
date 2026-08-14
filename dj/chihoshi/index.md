@@ -1,6 +1,6 @@
 # Chihoshi
 
-Chihoshi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
+Chihoshi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Oath, Tokyo on Fri, 14 Aug 2026.
 
 Chihoshi is a house and electro artist based in Japan, tracked on soundcheck, with 38 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Kengo Groove, YOYOHEI and kRs (2). Next up: Oath, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Chihoshi is a house and electro artist based in Japan, tracked on soundcheck, wi
 
 Kengo Groove, YOYOHEI, kRs (2)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*

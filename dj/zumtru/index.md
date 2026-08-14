@@ -1,6 +1,6 @@
 # zumtru
 
-zumtru is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
+zumtru is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
 
 zumtru is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Belfast, Dublin, Glasgow and Manchester. Often billed alongside providence144, Selvasolstice and VHS MIDNIGHT STYLE. Next up: Audio, Glasgow on Mon 24 Aug.
 
@@ -23,4 +23,4 @@ zumtru is an experimental and electronica artist based in United Kingdom, tracke
 
 providence144, Selvasolstice, VHS MIDNIGHT STYLE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zumtru/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zumtru/)*

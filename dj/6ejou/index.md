@@ -1,6 +1,6 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
+6EJOU is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
 
 6EJOU is a techno and industrial artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside KARAH, Raxeller and CARV. Next up: BERHTA, Washingtondc on Sat 22 Aug.
 
@@ -28,4 +28,4 @@
 
 KARAH, Raxeller, CARV
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

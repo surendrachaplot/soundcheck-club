@@ -1,6 +1,6 @@
 # Hero's Welcome
 
-Hero's Welcome is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TenorRiffic ft. Mike Allen & Steve Kaldestad" on Sun, 16 Aug 2026.
+Hero's Welcome is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "TenorRiffic ft. Mike Allen & Steve Kaldestad" on Sun, 16 Aug 2026.
 
 Hero's Welcome is a music venue in Vancouver listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 3917 Main St, Vancouver, BC V5V 3P3.
 
@@ -15,4 +15,4 @@ Hero's Welcome is a music venue in Vancouver listed on soundcheck. 2 upcoming ni
 
 3917 Main St, Vancouver, BC V5V 3P3, Vancouver
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*

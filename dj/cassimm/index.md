@@ -1,6 +1,6 @@
 # CASSIMM
 
-CASSIMM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
+CASSIMM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 21 Aug 2026.
 
 CASSIMM is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Belfast and 16 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ CASSIMM is a house and tech house artist based in United Kingdom, tracked on sou
 
 Claptone, Mark Knight, Martin Ikin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*

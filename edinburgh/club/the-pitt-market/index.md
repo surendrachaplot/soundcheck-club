@@ -1,6 +1,6 @@
 # The Pitt Market
 
-The Pitt Market is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "BIG HOT MESS with Marie Davidson, Optimo, Olof Dreijer, Accident Machine and more [DAY PARTY]" on Sat, 22 Aug 2026.
+The Pitt Market is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "BIG HOT MESS with Marie Davidson, Optimo, Olof Dreijer, Accident Machine and more [DAY PARTY]" on Sat, 22 Aug 2026.
 
 The Pitt Market is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Accident Machine, DJ Fart in the Club, Feena and Hometown Sound and 2 more. Browse upcoming dates, start times and who's playing. 20 W Shore Rd, Granton, Edinburgh EH5 1QD.
 
@@ -16,4 +16,4 @@ The Pitt Market is a music venue in Edinburgh listed on soundcheck. 3 upcoming n
 
 20 W Shore Rd, Granton, Edinburgh EH5 1QD, Edinburgh
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-pitt-market/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-pitt-market/)*

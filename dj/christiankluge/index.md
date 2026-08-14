@@ -1,6 +1,6 @@
 # Christian Kluge
 
-Christian Kluge is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
+Christian Kluge is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
 
 Christian Kluge is a breakbeat and house artist tracked on soundcheck, with 29 sets logged across Berlin and Hamburg. Often billed alongside N:in (DE), Ivaldo Gino and A_P_F_L. Next up: Renate, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Christian Kluge is a breakbeat and house artist tracked on soundcheck, with 29 s
 
 N:in (DE), Ivaldo Gino, A_P_F_L
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*

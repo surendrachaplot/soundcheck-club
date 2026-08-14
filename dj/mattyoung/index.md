@@ -1,6 +1,6 @@
 # Matt Young
 
-Matt Young is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Elmhurst, London on Sun, 16 Aug 2026.
+Matt Young is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Elmhurst, London on Sun, 16 Aug 2026.
 
 Matt Young is a disco and funk / soul artist tracked on soundcheck, with 53 sets logged across London. Often billed alongside Neil Thornton, Sean Innit and Ray Juss. Next up: The Elmhurst, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Matt Young is a disco and funk / soul artist tracked on soundcheck, with 53 sets
 
 Neil Thornton, Sean Innit, Ray Juss
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyoung/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyoung/)*

@@ -1,14 +1,15 @@
 # Taimur
 
-Taimur is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
+Taimur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
 
-Taimur is a house and electro artist based in United States of America, tracked on soundcheck, with 74 sets logged across Boston, Detroit, Losangeles and Mexicocity and 5 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
+Taimur is a house and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Boston, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Downtown LA | Los Angeles |
+| Sun, 27 Sept 2026 | TBA | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Taimur is a house and electro artist based in United States of America, tracked 
 
 Ostara, Maksim, Brother Dan
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

@@ -1,6 +1,6 @@
 # Jan Trovato
 
-Jan Trovato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at fi, Cologne on Sat, 12 Sept 2026.
+Jan Trovato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at fi, Cologne on Sat, 12 Sept 2026.
 
 Jan Trovato is a house and techno artist tracked on soundcheck, with 5 sets logged across Cologne. Often billed alongside AEKO, Ariel (DE) and Arninho. Next up: fi, Cologne on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Jan Trovato is a house and techno artist tracked on soundcheck, with 5 sets logg
 
 AEKO, Ariel (DE), Arninho
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jantrovato/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jantrovato/)*

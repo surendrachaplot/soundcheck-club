@@ -1,6 +1,6 @@
 # Digital KitKat
 
-Digital KitKat is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Knockout, San Francisco/Oakland on Sat, 15 Aug 2026.
+Digital KitKat is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Knockout, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Digital KitKat is a house and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin, Losangeles, Sanfrancisco and Seattle. Often billed alongside Freaky Emo, HEAVENLY ARCH and Saint Triste. Next up: The Knockout, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Digital KitKat is a house and club artist based in United States of America, tra
 
 Freaky Emo, HEAVENLY ARCH, Saint Triste
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*

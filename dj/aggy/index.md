@@ -1,6 +1,6 @@
 # Aggy
 
-Aggy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
+Aggy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
 
 Aggy is a house and disco artist tracked on soundcheck, with 19 sets logged across Berlin and Warsaw. Often billed alongside Isaac Elejalde, Pilar Jordan and vault.. Next up: OXI, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Aggy is a house and disco artist tracked on soundcheck, with 19 sets logged acro
 
 Isaac Elejalde, Pilar Jordan, vault.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aggy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aggy/)*

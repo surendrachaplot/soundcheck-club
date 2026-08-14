@@ -1,6 +1,6 @@
 # Dold
 
-Dold is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Stockholm on Sat, 29 Aug 2026.
+Dold is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Stockholm on Sat, 29 Aug 2026.
 
 Dold is a techno artist based in Sweden, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside AMORAL, Ahmet Sisman and Blue Hour. Next up: TBA, Stockholm on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dold is a techno artist based in Sweden, tracked on soundcheck, with 29 sets log
 
 AMORAL, Ahmet Sisman, Blue Hour
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*

@@ -1,6 +1,6 @@
 # Fukinsei
 
-Fukinsei is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at THF Radio / Torhaus, Berlin on Sun, 16 Aug 2026.
+Fukinsei is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at THF Radio / Torhaus, Berlin on Sun, 16 Aug 2026.
 
 Fukinsei is a bass and experimental artist based in Italy, tracked on soundcheck, with 42 sets logged across Berlin, Hamburg, Krakow and Lyon and 4 more. Often billed alongside Assyouti, Ben Sleia and DE:MA. Next up: THF Radio / Torhaus, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Fukinsei is a bass and experimental artist based in Italy, tracked on soundcheck
 
 Assyouti, Ben Sleia, DE:MA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*

@@ -1,6 +1,6 @@
 # Franco Smith
 
-Franco Smith is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 14 Aug 2026.
+Franco Smith is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 14 Aug 2026.
 
 Franco Smith is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Buenosaires and Cologne. Often billed alongside Techmo, DJ Jordan and A.N.I.. Next up: Crobar - Buenos Aires, Buenosaires on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Franco Smith is a techno and electronica artist tracked on soundcheck, with 15 s
 
 Techmo, DJ Jordan, A.N.I.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francosmith-ar/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francosmith-ar/)*

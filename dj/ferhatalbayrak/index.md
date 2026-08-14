@@ -1,6 +1,6 @@
 # Ferhat Albayrak
 
-Ferhat Albayrak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Life Park, Istanbul on Sat, 15 Aug 2026.
+Ferhat Albayrak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Life Park, Istanbul on Sat, 15 Aug 2026.
 
 Ferhat Albayrak is a techno and house artist based in Turkey, tracked on soundcheck, with 31 sets logged across Berlin and Istanbul. Often billed alongside FEVZEE, KUVOKA and Ece Özel. Next up: Life Park, Istanbul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ferhat Albayrak is a techno and house artist based in Turkey, tracked on soundch
 
 FEVZEE, KUVOKA, Ece Özel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*

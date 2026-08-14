@@ -1,6 +1,6 @@
 # DD
 
-DD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+DD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
 DD is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, Rotterdam, Seoul and Toronto and 1 more. Often billed alongside DOMEL, MATRIX3K and Adroit Joe. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ DD is a techno and house artist based in United Kingdom, tracked on soundcheck, 
 
 DOMEL, MATRIX3K, Adroit Joe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*

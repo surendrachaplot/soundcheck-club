@@ -1,6 +1,6 @@
 # Hovy
 
-Hovy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 314 Scholes, New York City on Fri, 14 Aug 2026.
+Hovy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 314 Scholes, New York City on Fri, 14 Aug 2026.
 
 Hovy is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside Amy Jor, Tha Bois and Auphoria. Next up: 314 Scholes, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hovy is a house and techno artist based in United States of America, tracked on 
 
 Amy Jor, Tha Bois, Auphoria
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovy/)*

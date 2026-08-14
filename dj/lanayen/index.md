@@ -1,6 +1,6 @@
 # LANA:YEN
 
-LANA:YEN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
+LANA:YEN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
 
 LANA:YEN is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Joshua Liebe, Maltesar and Wolperdinger. Next up: Jonny Knüppel, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LANA:YEN is a house and deep house artist tracked on soundcheck, with 13 sets lo
 
 Joshua Liebe, Maltesar, Wolperdinger
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanayen/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanayen/)*

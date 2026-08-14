@@ -1,6 +1,6 @@
 # LVN.
 
-LVN. is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Left Bank, Tbilisi on Fri, 14 Aug 2026.
+LVN. is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Left Bank, Tbilisi on Fri, 14 Aug 2026.
 
 LVN. is a house and jazz artist tracked on soundcheck, with 19 sets logged across Tbilisi. Often billed alongside Ash Scholem, Kraumur and Reshio. Next up: Left Bank, Tbilisi on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LVN. is a house and jazz artist tracked on soundcheck, with 19 sets logged acros
 
 Ash Scholem, Kraumur, Reshio
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvn./)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvn./)*

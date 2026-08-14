@@ -1,6 +1,6 @@
 # NT's Loft: Swoose (All Night Long) at Night Tales Loft
 
-NT's Loft: Swoose (All Night Long) at Night Tales Loft on Sat 15 Aug, London. 1 act on the bill: Swoose. Preview the line-up and save it on soundcheck.
+NT's Loft: Swoose (All Night Long) at Night Tales Loft on Sat 15 Aug, London. 2 acts on the bill: Loacha and Swoose. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NT's Loft: Swoose (All Night Long) at Night Tales Loft on Sat 15 Aug, London. 1 
 
 ## Line-up
 
+- Loacha
 - Swoose
 
 *Source: [soundcheck](https://soundcheck.club/e/2470322-nt-s-loft-swoose-all-night-long-at-night-tales-loft/)*

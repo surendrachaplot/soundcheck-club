@@ -1,6 +1,6 @@
 # Lychee (CA)
 
-Lychee (CA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rhythm, Toronto on Thu, 20 Aug 2026.
+Lychee (CA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rhythm, Toronto on Thu, 20 Aug 2026.
 
 Lychee (CA) is a house and minimal artist tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Chloe J, Maves and AKWA. Next up: Rhythm, Toronto on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ Lychee (CA) is a house and minimal artist tracked on soundcheck, with 7 sets log
 
 Chloe J, Maves, AKWA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*

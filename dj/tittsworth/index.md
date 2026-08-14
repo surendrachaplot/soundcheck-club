@@ -1,6 +1,6 @@
 # Tittsworth
 
-Tittsworth is a Latin Bass and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Culture, Washington DC on Fri, 14 Aug 2026.
+Tittsworth is a Latin Bass and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Culture, Washington DC on Fri, 14 Aug 2026.
 
 Tittsworth is a latin bass and dembow artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco and Washingtondc. Often billed alongside Dave Nada, DJ JUANNY and Jubilee. Next up: Culture, Washingtondc on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Tittsworth is a latin bass and dembow artist based in United States of America, 
 
 Dave Nada, DJ JUANNY, Jubilee
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tittsworth/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tittsworth/)*

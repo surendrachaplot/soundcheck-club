@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "PEPPERPOT: Jungle Edition" on Fri, 14 Aug 2026.
+The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "PEPPERPOT: Jungle Edition" on Fri, 14 Aug 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Bandolover, Celebrity Bitcrush, Crew Called Self and Gardy Girault and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

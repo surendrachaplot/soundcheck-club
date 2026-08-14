@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parkcafe, Cologne on Sat, 15 Aug 2026.
+Vera is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parkcafe, Cologne on Sat, 15 Aug 2026.
 
 Vera is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: Parkcafe, Cologne on Sat 15 Aug.
 
@@ -31,4 +31,4 @@ Vera is a techno and house artist tracked on soundcheck, with 142 sets logged ac
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*

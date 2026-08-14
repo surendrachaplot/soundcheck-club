@@ -1,6 +1,6 @@
 # Valentin Huedo
 
-Valentin Huedo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Sept 2026.
+Valentin Huedo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Valentin Huedo is a house and deep house artist based in Spain, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 7 more. Often billed alongside Bora Uzer, Igor Marijuan and Omer Tayar. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Valentin Huedo is a house and deep house artist based in Spain, tracked on sound
 
 Bora Uzer, Igor Marijuan, Omer Tayar
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*

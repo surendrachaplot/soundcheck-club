@@ -1,6 +1,6 @@
 # DJ COMEDOWN
 
-DJ COMEDOWN is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
+DJ COMEDOWN is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
 
 DJ COMEDOWN is a club and pop artist tracked on soundcheck, with 26 sets logged across Berlin and Tokyo. Often billed alongside DJ GHEPARD, SAILOR HOON and Wanton Witch. Next up: TBA - Secret Location, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ COMEDOWN is a club and pop artist tracked on soundcheck, with 26 sets logged 
 
 DJ GHEPARD, SAILOR HOON, Wanton Witch
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcomedown/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcomedown/)*

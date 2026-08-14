@@ -1,6 +1,6 @@
 # ADEOLA
 
-ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
+ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
 
 ADEOLA is an afrobeats and amapiano artist based in Nigeria, tracked on soundcheck, with 21 sets logged across Montreal and Toronto. Often billed alongside ISA., Hangaelle and baby mmune. Next up: TBA, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ADEOLA is an afrobeats and amapiano artist based in Nigeria, tracked on soundche
 
 ISA., Hangaelle, baby mmune
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*

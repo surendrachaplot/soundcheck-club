@@ -1,6 +1,6 @@
 # Dolça van Leeuwen
 
-Dolça van Leeuwen is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
+Dolça van Leeuwen is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
 
 Dolça van Leeuwen is a progressive house and techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona, Budapest and Rome. Often billed alongside Dreadsun, Adana Twins and CANVI. Next up: Kassa Boat, Budapest on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Dolça van Leeuwen is a progressive house and techno artist based in Spain, trac
 
 Dreadsun, Adana Twins, CANVI
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolçavanleeuwen/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolçavanleeuwen/)*

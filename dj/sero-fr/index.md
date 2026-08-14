@@ -1,6 +1,6 @@
 # Serō
 
-Serō is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Jungle Bar, Brussels on Sat, 29 Aug 2026.
+Serō is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jungle Bar, Brussels on Sat, 29 Aug 2026.
 
 Serō is a techno artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Brussels and Paris. Often billed alongside Acid Oslo, Alhena_ and BISOUX. Next up: Jungle Bar, Brussels on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Serō is a techno artist based in France, tracked on soundcheck, with 5 sets log
 
 Acid Oslo, Alhena_, BISOUX
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*

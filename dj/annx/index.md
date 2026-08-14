@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
+ANNX is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
 
 ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Bangkok, Berlin, Bristol and Brussels and 10 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Sneaky Pete's, Edinburgh on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

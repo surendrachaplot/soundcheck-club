@@ -1,6 +1,6 @@
 # TEAG
 
-TEAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at QQQ ST. Park, Melbourne on Fri, 14 Aug 2026.
+TEAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at QQQ ST. Park, Melbourne on Fri, 14 Aug 2026.
 
 TEAG is a techno and house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside JOVE, Le Clobber and Pvrtal. Next up: QQQ ST. Park, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ TEAG is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 JOVE, Le Clobber, Pvrtal
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teag/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teag/)*

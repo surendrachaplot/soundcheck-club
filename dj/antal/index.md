@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
+Antal is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
 
 Antal is a house and disco artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
 
@@ -31,4 +31,4 @@ Antal is a house and disco artist tracked on soundcheck, with 146 sets logged ac
 
 Hunee, Kléo, Coco Maria
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

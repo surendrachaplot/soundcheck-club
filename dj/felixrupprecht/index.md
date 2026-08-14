@@ -1,6 +1,6 @@
 # Felix Rupprecht
 
-Felix Rupprecht is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
+Felix Rupprecht is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
 
 Felix Rupprecht is a tech house and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Munich and Vienna. Often billed alongside vince, Katia Curie and Muallem. Next up: PRST, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Felix Rupprecht is a tech house and house artist based in Germany, tracked on so
 
 vince, Katia Curie, Muallem
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*

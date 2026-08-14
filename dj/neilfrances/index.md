@@ -1,6 +1,6 @@
 # Neil Frances
 
-Neil Frances is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at KOKO, London on Fri, 14 Aug 2026.
+Neil Frances is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at KOKO, London on Fri, 14 Aug 2026.
 
 Neil Frances is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Barcelona and Brussels and 14 more. Often billed alongside KI/KI, Octo Octa and 999999999. Next up: KOKO, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Neil Frances is a house and disco artist based in United States of America, trac
 
 KI/KI, Octo Octa, 999999999
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*

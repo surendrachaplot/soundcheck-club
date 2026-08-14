@@ -1,6 +1,6 @@
 # Richard Hinge
 
-Richard Hinge is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
+Richard Hinge is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 14 Aug 2026.
 
 Richard Hinge is a techno and industrial artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Reade Truth, Adam X and Mr. Murray. Next up: Summertime Roof Terrace, Newyorkcity on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Richard Hinge is a techno and industrial artist based in United States of Americ
 
 Reade Truth, Adam X, Mr. Murray
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhinge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhinge/)*

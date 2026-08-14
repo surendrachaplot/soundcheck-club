@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Asha b2b Vurtea, Crystal Leisure + Vipond" on Fri, 14 Aug 2026.
+komunal is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Asha b2b Vurtea, Crystal Leisure + Vipond" on Fri, 14 Aug 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, with line-ups including Dannheimer, Elliott Boyd and Tañ. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -19,4 +19,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

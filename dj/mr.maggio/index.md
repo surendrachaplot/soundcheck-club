@@ -1,6 +1,6 @@
 # Mr. Maggio
 
-Mr. Maggio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Altes Mädchen Innenhof, Hamburg on Sat, 15 Aug 2026.
+Mr. Maggio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Altes Mädchen Innenhof, Hamburg on Sat, 15 Aug 2026.
 
 Mr. Maggio is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside Alexej, CHICHO and JASHTECH. Next up: Altes Mädchen Innenhof, Hamburg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mr. Maggio is a techno and house artist based in Germany, tracked on soundcheck,
 
 Alexej, CHICHO, JASHTECH
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*

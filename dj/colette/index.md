@@ -1,14 +1,13 @@
 # Colette
 
-Colette is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 13 Aug 2026.
+Colette is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Wax Music Lounge, Melbourne on Fri, 21 Aug 2026.
 
-Colette is a house and techno artist based in Australia, tracked on soundcheck, with 104 sets logged across Chicago, Losangeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, 3rd Orbit and DJ JNETT. Next up: Angel Music Bar, Melbourne on Thu 13 Aug.
+Colette is a house and techno artist based in Australia, tracked on soundcheck, with 104 sets logged across Chicago, Losangeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, 3rd Orbit and DJ JNETT. Next up: Wax Music Lounge, Melbourne on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Angel Music Bar | Melbourne |
 | Fri, 21 Aug 2026 | Wax Music Lounge | Melbourne |
 | Sun, 23 Aug 2026 | Runner Up Rooftop Bar | Melbourne |
 | Thu, 27 Aug 2026 | Angel Music Bar | Melbourne |
@@ -16,6 +15,7 @@ Colette is a house and techno artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
+- Angel Music Bar, Melbourne — Thu, 13 Aug 2026
 - Wax Music Lounge, Melbourne — Sat, 8 Aug 2026
 - Solace, Melbourne — Sat, 8 Aug 2026
 - OneSixOne, Melbourne — Sun, 2 Aug 2026
@@ -23,10 +23,9 @@ Colette is a house and techno artist based in Australia, tracked on soundcheck, 
 - Miscellania, Melbourne — Sat, 25 Jul 2026
 - Revolver Upstairs, Melbourne — Sat, 25 Jul 2026
 - Revolver Upstairs, Melbourne — Sat, 27 Jun 2026
-- Wax Music Lounge, Melbourne — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Lewis Cancut, 3rd Orbit, DJ JNETT
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*

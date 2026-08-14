@@ -1,6 +1,6 @@
 # buuo
 
-buuo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+buuo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 buuo is a house and tech house artist based in Spain, tracked on soundcheck, with 3 sets logged across Munich. Often billed alongside 9LALEY, Alicea and Anna Ullrich. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ buuo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 9LALEY, Alicea, Anna Ullrich
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buuo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buuo/)*

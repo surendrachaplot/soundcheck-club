@@ -1,6 +1,6 @@
 # Mickey Zoggs
 
-Mickey Zoggs is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "At Zoggs: Andy Payback (Street Soul, Beatdown Jams)" on Fri, 14 Aug 2026.
+Mickey Zoggs is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "At Zoggs: Andy Payback (Street Soul, Beatdown Jams)" on Fri, 14 Aug 2026.
 
 Mickey Zoggs is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 8-9 Surrey St, St Paul''s, Bristol BS2 8PS.
 
@@ -15,4 +15,4 @@ Mickey Zoggs is a music venue in Bristol listed on soundcheck. 2 upcoming nights
 
 8-9 Surrey St, St Paul''s, Bristol BS2 8PS, Bristol
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*

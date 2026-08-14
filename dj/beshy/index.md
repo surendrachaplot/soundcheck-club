@@ -1,6 +1,6 @@
 # Beshy
 
-Beshy is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Minimal Bar, Berlin on Wed, 14 Oct 2026.
+Beshy is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Minimal Bar, Berlin on Wed, 14 Oct 2026.
 
 Beshy is an electronic artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Barter and Fuunkt. Next up: Minimal Bar, Berlin on Wed 14 Oct.
 
@@ -18,4 +18,4 @@ Beshy is an electronic artist tracked on soundcheck, with 2 sets logged across B
 
 Barter, Fuunkt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beshy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beshy/)*

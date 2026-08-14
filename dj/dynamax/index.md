@@ -1,6 +1,6 @@
 # Dynamax
 
-Dynamax is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
+Dynamax is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
 
 Dynamax is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 8 sets logged across Osaka and Tokyo. Often billed alongside M-Project, DJ Shimamura and KAMIKAZE. Next up: Club Stomp, Osaka on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Dynamax is a hardcore and gabber artist based in Japan, tracked on soundcheck, w
 
 M-Project, DJ Shimamura, KAMIKAZE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*

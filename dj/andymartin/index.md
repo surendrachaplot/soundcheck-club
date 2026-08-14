@@ -1,8 +1,8 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Andy Martin is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Niño Arbol, Blasha & Allatt and Darwin. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Andy Martin is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 65 sets log
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
+| Sat, 19 Sept 2026 | TBA - Downtown | Los Angeles |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
@@ -29,6 +31,6 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 65 sets log
 
 ## Shares bills with
 
-Niño Arbol, Blasha & Allatt, Darwin
+Niño Arbol, Blasha & Allatt, DJ MARIA.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

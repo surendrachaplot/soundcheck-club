@@ -1,6 +1,6 @@
 # Eeks
 
-Eeks is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
+Eeks is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Protocol, London on Fri, 28 Aug 2026.
 
 Eeks is a tech house and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Beezo, Darren J and Jack Burt. Next up: Protocol, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eeks is a tech house and house artist tracked on soundcheck, with 9 sets logged 
 
 Beezo, Darren J, Jack Burt
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eeks/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eeks/)*

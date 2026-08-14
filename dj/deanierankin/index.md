@@ -1,6 +1,6 @@
 # Deanie Rankin
 
-Deanie Rankin is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Deanie Rankin is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Deanie Rankin is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Carasel, Scuffed and Jordy G. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Deanie Rankin is a drum & bass and jungle artist based in United Kingdom, tracke
 
 Carasel, Scuffed, Jordy G
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanierankin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanierankin/)*

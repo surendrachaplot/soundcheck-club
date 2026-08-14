@@ -1,14 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Giri x Black Lab" on Thu, 13 Aug 2026.
+Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Giri x Aftertaste" on Fri, 14 Aug 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including __iwana__, Baby Vulture, BENGALA and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including __iwana__, Baby Vulture, BENGALA and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Giri x Black Lab | Salem Unsigned |
 | Fri, 14 Aug 2026 | Giri x Aftertaste | Cheap Coffee, Jaymoonkay, __iwana__ |
 | Thu, 20 Aug 2026 | Giri x Rawa Club - Mexican Ambient Night | Dj Hidrataccioni, SØMA, conejx |
 | Fri, 21 Aug 2026 | Giri x Infinite Drift | Blu:sh, CYBERMISSION, Mathis Ruffing, dvdv |
@@ -18,9 +17,10 @@ Giri is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with l
 | Thu, 3 Sept 2026 | Giri x Local Slang |  |
 | Fri, 4 Sept 2026 | Giri x  Presshouse |  |
 | Thu, 10 Sept 2026 | Giri x Cilens: RE:FRAME - moving image from within East and Southeast Asian |  |
+| Fri, 11 Sept 2026 | Giri x Wormhole Studies | Chris Gorrie, Sean Gonzalez |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

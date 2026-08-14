@@ -1,6 +1,6 @@
 # Radial
 
-Radial is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 14 Aug 2026.
+Radial is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 14 Aug 2026.
 
 Radial is a techno and house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Serkin, DARK MOON (ES) and The Lady Machine. Next up: Sunseabar Beach Club, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Radial is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Serkin, DARK MOON (ES), The Lady Machine
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radial/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radial/)*

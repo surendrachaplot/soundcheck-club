@@ -1,6 +1,6 @@
 # Barka Schodki
 
-Barka Schodki is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Bełkot HOUSEBOAT PARTY" on Fri, 14 Aug 2026.
+Barka Schodki is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Bełkot HOUSEBOAT PARTY" on Fri, 14 Aug 2026.
 
 Barka Schodki is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Dedenia, Mambi Dexter, Viennaus and Vounce. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Barka Schodki is a music venue in Warsaw listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Bełkot HOUSEBOAT PARTY | Dedenia, Mambi Dexter, Viennaus, Vounce |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka-schodki/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka-schodki/)*

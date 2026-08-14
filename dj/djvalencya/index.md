@@ -1,6 +1,6 @@
 # DJ Valencya
 
-DJ Valencya is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+DJ Valencya is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 DJ Valencya is a trance and experimental artist based in Norway, tracked on soundcheck, with 10 sets logged across Copenhagen, Madrid, Oslo and Stockholm. Often billed alongside Abo Abo, Annweiler and Anémi. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -12,6 +12,7 @@ DJ Valencya is a trance and experimental artist based in Norway, tracked on soun
 
 ## Recently played
 
+- Hausmania, Oslo — Thu, 13 Aug 2026
 - Ingensteds, Oslo — Thu, 30 Apr 2026
 - The Villa, Oslo — Fri, 30 Jan 2026
 - Trekanten, Oslo — Fri, 12 Sept 2025
@@ -19,10 +20,9 @@ DJ Valencya is a trance and experimental artist based in Norway, tracked on soun
 - Trekanten, Oslo — Sat, 7 Sept 2024
 - Öjerviks Gård, Stockholm — Fri, 28 Jun 2024
 - Blå, Oslo — Fri, 19 Apr 2024
-- Den Anden Side, Copenhagen — Fri, 19 Jan 2024
 
 ## Shares bills with
 
 Abo Abo, Annweiler, Anémi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalencya/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalencya/)*

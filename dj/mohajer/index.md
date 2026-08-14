@@ -1,6 +1,6 @@
 # Mohajer
 
-Mohajer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
+Mohajer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jolene, Copenhagen on Fri, 14 Aug 2026.
 
 Mohajer is a techno and trance artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Schacke, Rachel Noon and Hyperaktivist. Next up: Jolene, Copenhagen on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Mohajer is a techno and trance artist tracked on soundcheck, with 97 sets logged
 
 Schacke, Rachel Noon, Hyperaktivist
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*

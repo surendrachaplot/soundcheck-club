@@ -1,6 +1,6 @@
 # Dj Sivlé
 
-Dj Sivlé is a Afrobeats and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at YOTO, Hamburg on Fri, 14 Aug 2026.
+Dj Sivlé is a Afrobeats and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at YOTO, Hamburg on Fri, 14 Aug 2026.
 
 Dj Sivlé is an afrobeats and dancehall artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg. Often billed alongside DJ Boas, Kofi Ryan and DJ Da WIZARD. Next up: YOTO, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dj Sivlé is an afrobeats and dancehall artist based in Germany, tracked on soun
 
 DJ Boas, Kofi Ryan, DJ Da WIZARD
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsivle/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsivle/)*

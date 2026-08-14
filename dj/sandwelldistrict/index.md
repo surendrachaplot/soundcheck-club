@@ -1,14 +1,15 @@
 # Sandwell District
 
-Sandwell District is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 20 Aug 2026.
+Sandwell District is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 20 Aug 2026.
 
-Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 20 Aug.
+Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | Jasna 1 | Warsaw |
 
@@ -27,4 +28,4 @@ Sandwell District is a techno and dub techno artist based in Germany, tracked on
 
 Regis, Function, mad miran
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*

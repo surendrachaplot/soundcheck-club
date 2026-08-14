@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Hand-made" on Fri, 14 Aug 2026.
+Paradise Palms is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Hand-made" on Fri, 14 Aug 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 7 upcoming nights, with line-ups including aminabonthebeat, David Elders and Hand-made. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -20,4 +20,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 7 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

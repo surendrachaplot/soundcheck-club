@@ -1,6 +1,6 @@
 # Rohan Rakhit
 
-Rohan Rakhit is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Rohan Rakhit is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
 Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 sets logged across Berlin, Leeds, Liverpool and London. Often billed alongside Donut, Soph and Raji Rags. Next up: Jumbi, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 se
 
 Donut, Soph, Raji Rags
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*

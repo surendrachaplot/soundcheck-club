@@ -1,6 +1,6 @@
 # Mischeel Amar
 
-Mischeel Amar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+Mischeel Amar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
 Mischeel Amar is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Frankfurt. Often billed alongside Pascal Fischer, Maltitz and Nikesch. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Mischeel Amar is a house and techno artist tracked on soundcheck, with 8 sets lo
 
 Pascal Fischer, Maltitz, Nikesch
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischeelamar/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischeelamar/)*

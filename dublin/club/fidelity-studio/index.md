@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Ben Reinhardt" on Thu, 13 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "New Tropicalistas + Soundglasses" on Fri, 14 Aug 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including Bradley Zero, Cinthie, Collie (1) and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Bradley Zero, Cinthie, Collie (1) and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Ben Reinhardt |  |
 | Fri, 14 Aug 2026 | New Tropicalistas + Soundglasses |  |
 | Sat, 15 Aug 2026 | Rhythm People + Charlie Murnane |  |
 | Sun, 16 Aug 2026 | Emmy Shigeta + Friends |  |
@@ -18,9 +17,10 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 11 upcoming nig
 | Sat, 12 Sept 2026 | SOLD OUT Joe Goddard | Joe Goddard |
 | Fri, 18 Sept 2026 | Cinthie & Pusher | Cinthie, Pusher |
 | Fri, 16 Oct 2026 | Pretty Girl | Pretty Girl |
+| Fri, 23 Oct 2026 | SOLD OUT Romare (DJ Set) | Romare |
 
 ## Address
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

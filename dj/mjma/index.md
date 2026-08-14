@@ -1,13 +1,14 @@
 # MJMA
 
-MJMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Wireless Club, Bangkok on Fri, 28 Aug 2026.
+MJMA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Horn, Bangkok on Sat, 22 Aug 2026.
 
-MJMA is a techno and house artist tracked on soundcheck, with 62 sets logged across Bangkok. Often billed alongside LOMOROOM, Mae Happyair and 5.5MM. Next up: The Wireless Club, Bangkok on Fri 28 Aug.
+MJMA is a techno and house artist tracked on soundcheck, with 63 sets logged across Bangkok. Often billed alongside LOMOROOM, Mae Happyair and 5.5MM. Next up: Horn, Bangkok on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Horn | Bangkok |
 | Fri, 28 Aug 2026 | The Wireless Club | Bangkok |
 
 ## Recently played
@@ -25,4 +26,4 @@ MJMA is a techno and house artist tracked on soundcheck, with 62 sets logged acr
 
 LOMOROOM, Mae Happyair, 5.5MM
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjma/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjma/)*

@@ -1,6 +1,6 @@
 # NOIDMATE
 
-NOIDMATE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
+NOIDMATE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
 
 NOIDMATE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside SCCO, Jude Lenihan and Alfaz. Next up: The Glove That Fits, London on Sun 16 Aug.
 
@@ -20,4 +20,4 @@ NOIDMATE is a house and tech house artist based in United Kingdom, tracked on so
 
 SCCO, Jude Lenihan, Alfaz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*

@@ -1,13 +1,14 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "KAKAÓ 014 with Ädene, Kamafaka, Spiritbear, Ű999" on Fri, 14 Aug 2026.
+Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Savas & Fast" on Sat, 8 Aug 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Akác, Arash Ete, Charry and CRB and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Akác, Arash Ete, Charry and CRB and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Savas & Fast |  |
 | Fri, 14 Aug 2026 | KAKAÓ 014 with Ädene, Kamafaka, Spiritbear, Ű999 | Kamafaka, Ű999 |
 | Sat, 22 Aug 2026 | KRave with Loukia [AUS] - Nagyterem | Charry, DJ Müz, szoliver |
 | Sat, 5 Sept 2026 | Crime with Two Dots | CRIME, Rovizz, THIRD 2HIFT, Two Dots (FR) |
@@ -18,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 5 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

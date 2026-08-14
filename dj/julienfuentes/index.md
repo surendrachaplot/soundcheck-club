@@ -1,6 +1,6 @@
 # Julien Fuentes
 
-Julien Fuentes is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+Julien Fuentes is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 Julien Fuentes is a house and minimal artist tracked on soundcheck, with 16 sets logged across Amsterdam, London and Rotterdam. Often billed alongside Izak Jules, Daniele Temperilli and Melle J. Next up: Shelter Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Julien Fuentes is a house and minimal artist tracked on soundcheck, with 16 sets
 
 Izak Jules, Daniele Temperilli, Melle J
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julienfuentes/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julienfuentes/)*

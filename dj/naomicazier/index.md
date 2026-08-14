@@ -1,6 +1,6 @@
 # Naomi Cazier
 
-Naomi Cazier is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
+Naomi Cazier is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
 Naomi Cazier is a tech house and techno artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels, Ghent and Ibiza and 1 more. Often billed alongside ABSOLUTE., Another Taste and Bibi Seck. Next up: Egg London, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Naomi Cazier is a tech house and techno artist based in Belgium, tracked on soun
 
 ABSOLUTE., Another Taste, Bibi Seck
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomicazier/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomicazier/)*

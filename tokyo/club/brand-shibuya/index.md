@@ -1,15 +1,14 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "MUSIC BAR" on Thu, 13 Aug 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Melody" on Wed, 12 Aug 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including KASHIWAGI, Krankent and mieux (JP). Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including KASHIWAGI, Krankent and mieux (JP). Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | MUSIC BAR |  |
-| Thu, 13 Aug 2026 | MIXMATES |  |
+| Wed, 12 Aug 2026 | Melody |  |
 | Fri, 14 Aug 2026 | K-POP HOUSE PARTY |  |
 | Sat, 15 Aug 2026 | SECTORZERO |  |
 | Sun, 16 Aug 2026 | 渋アニ ZERO -アニメ×音楽×カルチャー- |  |
@@ -18,9 +17,10 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 20 upcoming nights
 | Tue, 18 Aug 2026 | SHIBUYA HIPHOP CONNECT -SURVIVAL MC BATTLE PRESENTS- |  |
 | Wed, 19 Aug 2026 | MUSIC BAR |  |
 | Thu, 20 Aug 2026 | Amenity | KASHIWAGI, Krankent |
+| Thu, 20 Aug 2026 | MUSIC BAR |  |
 
 ## Address
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

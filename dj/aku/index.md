@@ -1,6 +1,6 @@
 # Aku
 
-Aku is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
+Aku is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
 
 Aku is a house and club artist based in United States of America, tracked on soundcheck, with 28 sets logged across Buenosaires, Chicago, Detroit and Losangeles and 3 more. Often billed alongside MTooray, Bianca Maieli and DJ SUDI. Next up: The Melrose House, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Aku is a house and club artist based in United States of America, tracked on sou
 
 MTooray, Bianca Maieli, DJ SUDI
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*

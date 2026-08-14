@@ -1,6 +1,6 @@
 # Urbanite
 
-Urbanite is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Somewhere Special, Los Angeles on Fri, 14 Aug 2026.
+Urbanite is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Somewhere Special, Los Angeles on Fri, 14 Aug 2026.
 
 Urbanite is a house and tech house artist tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Avey, Azlan and BadKat. Next up: Somewhere Special, Losangeles on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Urbanite is a house and tech house artist tracked on soundcheck, with 7 sets log
 
 Avey, Azlan, BadKat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanite/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanite/)*

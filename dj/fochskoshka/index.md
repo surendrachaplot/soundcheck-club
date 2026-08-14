@@ -1,6 +1,6 @@
 # Fochs Koshka
 
-Fochs Koshka is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Fochs Koshka is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Fochs Koshka is an experimental and techno artist based in Norway, tracked on soundcheck, with 5 sets logged across Copenhagen and Oslo. Often billed alongside Naboklage, Abo Abo and Anémi. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -12,6 +12,7 @@ Fochs Koshka is an experimental and techno artist based in Norway, tracked on so
 
 ## Recently played
 
+- Hausmania, Oslo — Thu, 13 Aug 2026
 - The Villa, Oslo — Fri, 10 Apr 2026
 - ALICE, Copenhagen — Wed, 25 Mar 2026
 - Blå, Oslo — Sat, 30 Nov 2024
@@ -21,4 +22,4 @@ Fochs Koshka is an experimental and techno artist based in Norway, tracked on so
 
 Naboklage, Abo Abo, Anémi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fochskoshka/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fochskoshka/)*

@@ -1,6 +1,6 @@
 # Antwon Faulkner
 
-Antwon Faulkner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
+Antwon Faulkner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
 
 Antwon Faulkner is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit, Sanfrancisco and Toronto. Often billed alongside Marivs, DJ Roach and DJ Seoul. Next up: Rhythm, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Antwon Faulkner is a techno and house artist based in United States of America, 
 
 Marivs, DJ Roach, DJ Seoul
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antwonfaulkner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antwonfaulkner/)*

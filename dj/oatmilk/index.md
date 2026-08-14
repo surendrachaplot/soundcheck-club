@@ -1,14 +1,15 @@
 # OatMilk
 
-OatMilk is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
+OatMilk is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
 
-OatMilk is an electro and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Andrew Wowk, Fiona (2) and SAGAN. Next up: Monarch, Berlin on Sat 15 Aug.
+OatMilk is an electro and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Andrew Wowk, Fiona (2) and SAGAN. Next up: Monarch, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Monarch | Berlin |
+| Sat, 22 Aug 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ OatMilk is an electro and house artist based in Germany, tracked on soundcheck, 
 
 Andrew Wowk, Fiona (2), SAGAN
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*

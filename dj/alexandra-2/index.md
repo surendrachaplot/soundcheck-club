@@ -1,6 +1,6 @@
 # Alexandra (2)
 
-Alexandra (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Left Bank, Tbilisi on Fri, 14 Aug 2026.
+Alexandra (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Left Bank, Tbilisi on Fri, 14 Aug 2026.
 
 Alexandra (2) is an electronic artist tracked on soundcheck, with 2 sets logged across Tbilisi. Often billed alongside IAMEA and LVN.. Next up: Left Bank, Tbilisi on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Alexandra (2) is an electronic artist tracked on soundcheck, with 2 sets logged 
 
 IAMEA, LVN.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra-2/)*

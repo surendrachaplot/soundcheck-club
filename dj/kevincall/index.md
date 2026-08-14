@@ -1,6 +1,6 @@
 # Kevin Call
 
-Kevin Call is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Liquid Club, Malta on Sat, 29 Aug 2026.
+Kevin Call is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Liquid Club, Malta on Sat, 29 Aug 2026.
 
 Kevin Call is a techno and industrial artist based in Malta, tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside Mikeonacid, OBLX and 4squared. Next up: Liquid Club, Malta on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Kevin Call is a techno and industrial artist based in Malta, tracked on soundche
 
 Mikeonacid, OBLX, 4squared
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevincall/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevincall/)*

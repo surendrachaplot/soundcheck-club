@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Miles Away with Richard Sen, Dom Ore & Roberta Cutolo" on Sat, 15 Aug 2026.
+The Jago is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Miles Away with Richard Sen, Dom Ore & Roberta Cutolo" on Sat, 15 Aug 2026.
 
 The Jago is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Dom Ore, Joseph Russell and Richard Sen. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -16,4 +16,4 @@ The Jago is a music venue in London listed on soundcheck. 3 upcoming nights, wit
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

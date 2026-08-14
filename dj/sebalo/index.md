@@ -1,6 +1,6 @@
 # Sebalo
 
-Sebalo is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Sebalo is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Sebalo is a drum & bass and dubstep artist tracked on soundcheck, with 10 sets logged across Antwerp, Basel, Berlin and Cologne and 2 more. Often billed alongside Roklem, BUKEZ FINEZT and Badlokk. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sebalo is a drum & bass and dubstep artist tracked on soundcheck, with 10 sets l
 
 Roklem, BUKEZ FINEZT, Badlokk
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebalo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebalo/)*

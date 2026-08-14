@@ -1,6 +1,6 @@
 # Haruka (UK)
 
-Haruka (UK) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 14 Aug 2026.
+Haruka (UK) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 14 Aug 2026.
 
 Haruka (UK) is a disco and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Birmingham and London. Often billed alongside BRUIN (UK), Another George and T!SCO. Next up: The Little Neon Door, Shoreditch, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Haruka (UK) is a disco and house artist based in United Kingdom, tracked on soun
 
 BRUIN (UK), Another George, T!SCO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harukauk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harukauk/)*

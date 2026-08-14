@@ -1,6 +1,6 @@
 # Candy Pollard
 
-Candy Pollard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Sat, 15 Aug 2026.
+Candy Pollard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Sat, 15 Aug 2026.
 
 Candy Pollard is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Frankfurt, Mexicocity and Munich and 1 more. Often billed alongside Ady Toledano, DJ Floppy Disk and David Hornung. Next up: Legal, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Candy Pollard is a house and techno artist tracked on soundcheck, with 25 sets l
 
 Ady Toledano, DJ Floppy Disk, David Hornung
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candypollard/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candypollard/)*

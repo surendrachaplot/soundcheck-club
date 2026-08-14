@@ -1,6 +1,6 @@
 # HOAX
 
-HOAX is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+HOAX is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
 
 HOAX is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Whiney, Fred V and Degs. Next up: Watsons EQ, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ HOAX is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logg
 
 Whiney, Fred V, Degs
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

@@ -1,6 +1,6 @@
 # Chiedza
 
-Chiedza is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Sat, 15 Aug 2026.
+Chiedza is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Full Moon Pub & Attic Bar, Bristol on Sat, 15 Aug 2026.
 
 Chiedza is a garage and house artist based in South Africa, tracked on soundcheck, with 30 sets logged across Bristol. Often billed alongside DJ Stolen, Josephine Gyasi and Azumei. Next up: The Full Moon Pub & Attic Bar, Bristol on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chiedza is a garage and house artist based in South Africa, tracked on soundchec
 
 DJ Stolen, Josephine Gyasi, Azumei
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiedza/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiedza/)*

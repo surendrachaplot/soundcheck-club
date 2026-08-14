@@ -1,6 +1,6 @@
 # Relativity Lounge
 
-Relativity Lounge is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
+Relativity Lounge is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
 
 Relativity Lounge is a bass and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago. Often billed alongside Dj Scari, Mithra (3) and swesdo. Next up: TBA - Secret Location, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Relativity Lounge is a bass and house artist based in United States of America, 
 
 Dj Scari, Mithra (3), swesdo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relativitylounge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relativitylounge/)*

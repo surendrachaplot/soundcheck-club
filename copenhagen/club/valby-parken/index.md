@@ -1,6 +1,6 @@
 # Valby Parken
 
-Valby Parken is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "SYD FOR SOLEN 2026" on Thu, 13 Aug 2026.
+Valby Parken is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SYD FOR SOLEN 2026" on Thu, 13 Aug 2026.
 
 Valby Parken is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Adam Port, Alba Akvama, Ana Karla and Blood Orange and 2 more. Browse upcoming dates, start times and who's playing. Hammelstrupvej 100, 2450 København.
 
@@ -15,4 +15,4 @@ Valby Parken is a music venue in Copenhagen listed on soundcheck. 2 upcoming nig
 
 Hammelstrupvej 100, 2450 København, Copenhagen
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/valby-parken/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/valby-parken/)*

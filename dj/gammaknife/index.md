@@ -1,6 +1,6 @@
 # Gamma Knife
 
-Gamma Knife is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Shelter, Seoul on Sat, 15 Aug 2026.
+Gamma Knife is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Shelter, Seoul on Sat, 15 Aug 2026.
 
 Gamma Knife is a techno and electro artist based in South Korea, tracked on soundcheck, with 35 sets logged across Seoul. Often billed alongside Honn, Jamjari and PSYTONIC. Next up: Shelter, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gamma Knife is a techno and electro artist based in South Korea, tracked on soun
 
 Honn, Jamjari, PSYTONIC
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaknife/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaknife/)*

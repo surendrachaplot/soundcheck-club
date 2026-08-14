@@ -1,6 +1,6 @@
 # Cloudy Ku
 
-Cloudy Ku is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 15 Aug 2026.
+Cloudy Ku is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 15 Aug 2026.
 
 Cloudy Ku is a techno and trance artist based in Taiwan, tracked on soundcheck, with 71 sets logged across Bali, Berlin, Copenhagen and Hongkong and 8 more. Often billed alongside Hasvat Informant, T-N and Caucasian Opportunities. Next up: Sub Club Melbourne, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cloudy Ku is a techno and trance artist based in Taiwan, tracked on soundcheck, 
 
 Hasvat Informant, T-N, Caucasian Opportunities
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudyku/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudyku/)*

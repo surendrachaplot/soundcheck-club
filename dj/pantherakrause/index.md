@@ -1,6 +1,6 @@
 # Panthera Krause
 
-Panthera Krause is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Panthera Krause is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Panthera Krause is a house and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Peter Invasion, Atlantik and Audio Werner. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Panthera Krause is a house and techno artist tracked on soundcheck, with 22 sets
 
 Peter Invasion, Atlantik, Audio Werner
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pantherakrause/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pantherakrause/)*

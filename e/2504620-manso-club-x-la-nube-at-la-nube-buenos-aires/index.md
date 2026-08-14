@@ -1,6 +1,6 @@
 # MANSO CLUB x LA NUBE at La Nube Buenos Aires
 
-MANSO CLUB x LA NUBE at La Nube Buenos Aires on Sat 15 Aug, Buenosaires. 1 act on the bill: Ana Hagen. House and Electronica. Preview the line-up and save it on soundcheck.
+MANSO CLUB x LA NUBE at La Nube Buenos Aires on Sat 15 Aug, Buenosaires. 1 act on the bill: Ana Hagen. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

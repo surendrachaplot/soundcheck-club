@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 13 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Fridays at 77: Attu, Shuko" on Fri, 14 Aug 2026.
+Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fridays at 77: Attu, Shuko" on Fri, 14 Aug 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Attu and au4r33y and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Attu and au4r33y and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

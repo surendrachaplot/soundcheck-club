@@ -1,14 +1,15 @@
 # Mama Snake
 
-Mama Snake is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
+Mama Snake is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
 
-Mama Snake is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: Den Anden Side, Copenhagen on Fri 21 Aug.
+Mama Snake is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside BASHKKA, Spekki Webu and DJ TOOL. Next up: Den Anden Side, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Den Anden Side | Copenhagen |
+| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Mama Snake is a techno and house artist tracked on soundcheck, with 192 sets log
 
 ## Shares bills with
 
-Spekki Webu, BASHKKA, DJ TOOL
+BASHKKA, Spekki Webu, DJ TOOL
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*

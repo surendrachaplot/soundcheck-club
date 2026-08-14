@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Portland on Fri, 30 Oct 2026.
+Ana Rs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Portland on Fri, 30 Oct 2026.
 
 Ana Rs is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: TBA, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ana Rs is a techno and house artist tracked on soundcheck, with 35 sets logged a
 
 CONCEPTUAL, Adriana Lopez, Hadone
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

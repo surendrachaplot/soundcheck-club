@@ -1,6 +1,6 @@
 # shasti
 
-shasti is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+shasti is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 shasti is an experimental and club artist tracked on soundcheck, with 13 sets logged across Berlin and Copenhagen. Often billed alongside yimo yivil, Wanton Witch and sailormenx. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ shasti is an experimental and club artist tracked on soundcheck, with 13 sets lo
 
 yimo yivil, Wanton Witch, sailormenx
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shasti/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shasti/)*

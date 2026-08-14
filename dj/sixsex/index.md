@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at FLUCC, Vienna on Fri, 14 Aug 2026.
+Six Sex is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at FLUCC, Vienna on Fri, 14 Aug 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: FLUCC, Vienna on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 46 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

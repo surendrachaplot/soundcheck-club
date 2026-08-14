@@ -1,6 +1,6 @@
 # James Park.
 
-James Park. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Moondog Hifi, New York City on Sat, 15 Aug 2026.
+James Park. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Moondog Hifi, New York City on Sat, 15 Aug 2026.
 
 James Park. is a house and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Onakan Disko, AG (NYC) and Ardio Zemog. Next up: Moondog Hifi, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ James Park. is a house and disco artist based in United States of America, track
 
 Onakan Disko, AG (NYC), Ardio Zemog
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespark./)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespark./)*

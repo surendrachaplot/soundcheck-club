@@ -1,6 +1,6 @@
 # Lovecraft
 
-Lovecraft is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Circle Line Cruises, New York City on Sat, 15 Aug 2026.
+Lovecraft is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Circle Line Cruises, New York City on Sat, 15 Aug 2026.
 
 Lovecraft is a deep house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin and Newyorkcity. Often billed alongside OBA+FLIP, Daniel Cowel and Mira. Next up: Circle Line Cruises, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lovecraft is a deep house and house artist based in United States of America, tr
 
 OBA+FLIP, Daniel Cowel, Mira
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecraft/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecraft/)*

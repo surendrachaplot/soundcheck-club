@@ -1,6 +1,6 @@
 # Mateo Murphy
 
-Mateo Murphy is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Édifice Wilder - Espace Danse, Montreal on Sat, 29 Aug 2026.
+Mateo Murphy is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Édifice Wilder - Espace Danse, Montreal on Sat, 29 Aug 2026.
 
 Mateo Murphy is a techno and acid artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Aïsha Devi, Claire and Cloud Bodies. Next up: Édifice Wilder - Espace Danse, Montreal on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mateo Murphy is a techno and acid artist based in Canada, tracked on soundcheck,
 
 Aïsha Devi, Claire, Cloud Bodies
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateomurphy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateomurphy/)*

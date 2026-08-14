@@ -1,8 +1,8 @@
 # vivi
 
-vivi is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+vivi is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
-vivi is a house and disco artist based in Australia, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Square Studio Lab, London on Sat 15 Aug.
+vivi is a house and disco artist based in Australia, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Square Studio Lab, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ vivi is a house and disco artist based in Australia, tracked on soundcheck, with
 | Sat, 15 Aug 2026 | Square Studio Lab | London |
 | Sun, 16 Aug 2026 | Aoyama Hachi | Tokyo |
 | Sat, 29 Aug 2026 | Odonien | Cologne |
+| Sat, 29 Aug 2026 | DeTour | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ vivi is a house and disco artist based in Australia, tracked on soundcheck, with
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

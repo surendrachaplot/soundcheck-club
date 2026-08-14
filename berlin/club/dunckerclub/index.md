@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "TIME MACHINE by DJ LUIDOR" on Fri, 14 Aug 2026.
+Dunckerclub is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "TIME MACHINE by DJ LUIDOR" on Fri, 14 Aug 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -22,4 +22,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights, 
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

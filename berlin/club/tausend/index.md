@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Tausend House: Basscheck Boris" on Fri, 14 Aug 2026.
+Tausend is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Tausend House: Basscheck Boris" on Fri, 14 Aug 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including B. Clarke, Basscheck Boris, Guille Pinet and House of Molly. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

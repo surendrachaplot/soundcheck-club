@@ -1,6 +1,6 @@
 # Artur Bredo
 
-Artur Bredo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
+Artur Bredo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
 
 Artur Bredo is a house and progressive house artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Cologne and Munich. Often billed alongside Alice DiMar, Fine Dining and Fredi.G. Next up: TBA, Cologne on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Artur Bredo is a house and progressive house artist based in Ukraine, tracked on
 
 Alice DiMar, Fine Dining, Fredi.G
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*

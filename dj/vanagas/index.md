@@ -1,6 +1,6 @@
 # vanagas
 
-vanagas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at NENI Berlin / Monkey Bar, Berlin on Sun, 16 Aug 2026.
+vanagas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NENI Berlin / Monkey Bar, Berlin on Sun, 16 Aug 2026.
 
 vanagas is a house and tech house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Better Call Paul, Nikklaas and Aimé You. Next up: NENI Berlin / Monkey Bar, Berlin on Sun 16 Aug.
 
@@ -22,4 +22,4 @@ vanagas is a house and tech house artist tracked on soundcheck, with 6 sets logg
 
 Better Call Paul, Nikklaas, Aimé You
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanagas/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanagas/)*

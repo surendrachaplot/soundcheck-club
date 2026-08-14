@@ -1,6 +1,6 @@
 # HEZEN
 
-HEZEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Palais, London on Fri, 21 Aug 2026.
+HEZEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Palais, London on Fri, 21 Aug 2026.
 
 HEZEN is a house and techno artist based in France, tracked on soundcheck, with 18 sets logged across Bristol and London. Often billed alongside THEMPRESS, Gloria Rose and Hannah Holland. Next up: Palais, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ HEZEN is a house and techno artist based in France, tracked on soundcheck, with 
 
 THEMPRESS, Gloria Rose, Hannah Holland
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*

@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "MOVING D-EDGE SP pres.: ACROBATIK. DIANA LIMA. ELOY. LUKE ZM" on Thu, 13 Aug 2026.
+D-EDGE is a music venue in Sao Paulo with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FREAK CHIC D-EDGE SP pres.: P1: Buga. MOREIRA. N.A.S.S.I" on Fri, 14 Aug 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 11 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Buga and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 10 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Buga and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | MOVING D-EDGE SP pres.: ACROBATIK. DIANA LIMA. ELOY. LUKE ZM |  |
 | Fri, 14 Aug 2026 | FREAK CHIC D-EDGE SP pres.: P1: Buga. MOREIRA. N.A.S.S.I | Buga |
 | Sat, 15 Aug 2026 | D-EDGE SP pres.: UNLIMITED: P1: HOFFMAN. LOURENE LIVE. MARI ANNA.MARY MESK. P2: BRUNO LINO +  | Cesare vs Disorder, DPR (1), Rafael Onid |
 | Thu, 20 Aug 2026 | MOVING D-EDGE SP pres.: DREW b2b WALOW. KAUAN NAVARRO. N1NOX b2b MAZINHO. RAFAEL PASTE LIVE |  |
@@ -18,9 +17,10 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 11 upcoming nights, wi
 | Thu, 27 Aug 2026 | MOVING D-EDGE SP pres.: ANA JABLONSKI. AKULA HAMPTON. Guilherme VAC | Guilherme VAC |
 | Fri, 28 Aug 2026 | FREAK CHIC D-EDGE SP pres.: P1: FATSYNC. BALANKA. PUKA |  |
 | Fri, 28 Aug 2026 | NAVE D-EDGE SP pres.: P1: Rødhåd. Anderson Noise. DJ Murphy // P2: LION. Spuri + +  | Anderson Noise, DJ Murphy, Ingrid, Rødhåd, Spuri |
+| Sun, 30 Aug 2026 | SUPERAFTER D-EDGE SP pres.: P2: ANA DE ARAUJO. FEL C // LOUNGE: HANDEK (BDAY) | Fel C (BR) |
 
 ## Address
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

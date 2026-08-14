@@ -1,6 +1,6 @@
 # STEEZY
 
-STEEZY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+STEEZY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
 STEEZY is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Cologne. Often billed alongside Jean-Jez, Ksenia K and SOCIAL VLAD. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ STEEZY is a techno and house artist tracked on soundcheck, with 20 sets logged a
 
 Jean-Jez, Ksenia K, SOCIAL VLAD
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steezy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steezy/)*

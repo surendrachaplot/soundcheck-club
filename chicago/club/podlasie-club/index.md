@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "MOMENTS IN LOVE" on Thu, 13 Aug 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Agua de Rosas feat. Lechuga Zafiro - J. Córdova - Toyacoyah - DJ Aguara'i" on Fri, 14 Aug 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Av0n, Beau Wanzer, BLACKCLUB and Conjunto Primitivo and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Av0n, Beau Wanzer, BLACKCLUB and Conjunto Primitivo and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | MOMENTS IN LOVE | Jeremiah Meece, Wolfgang Amadidas |
 | Fri, 14 Aug 2026 | Agua de Rosas feat. Lechuga Zafiro - J. Córdova - Toyacoyah - DJ Aguara'i | DJ Aguara'i, J. Córdova, Lechuga Zafiro, Toyacoyah |
 | Sat, 15 Aug 2026 | Glenn Underground, Evan G, Avon | Av0n, Glenn Underground |
 | Wed, 19 Aug 2026 | VARIOUS DISTRACTIONS | Beau Wanzer, Conjunto Primitivo |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

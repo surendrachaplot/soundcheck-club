@@ -1,6 +1,6 @@
 # Wixapol
 
-Wixapol is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
+Wixapol is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
 
 Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, with 16 sets logged across Geneva, Krakow, London and Newyorkcity and 2 more. Often billed alongside TORRENTZ, Mikouaj Rejw / Wixapol S.A. and PLATTER. Next up: Baseny Kora, Warsaw on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, 
 
 TORRENTZ, Mikouaj Rejw / Wixapol S.A., PLATTER
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*

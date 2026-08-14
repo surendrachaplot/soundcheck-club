@@ -1,6 +1,6 @@
 # Romeo Louisa
 
-Romeo Louisa is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Romeo Louisa is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
 Romeo Louisa is a house and garage artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Budapest and Hongkong and 4 more. Often billed alongside ZAV, Axelle Maga and THEOS (1). Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Romeo Louisa is a house and garage artist tracked on soundcheck, with 33 sets lo
 
 ZAV, Axelle Maga, THEOS (1)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*

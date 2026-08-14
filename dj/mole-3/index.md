@@ -1,6 +1,6 @@
 # Mole (US)
 
-Mole (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
+Mole (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
 
 Mole (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Contractor, Connor Wrong and DJ STEPDAD. Next up: ErF Studios, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mole (US) is a house and techno artist based in United States of America, tracke
 
 Contractor, Connor Wrong, DJ STEPDAD
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mole-3/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mole-3/)*

@@ -1,6 +1,6 @@
 # QT-XTC
 
-QT-XTC is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+QT-XTC is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 QT-XTC is a breakbeat and bass artist based in Germany, tracked on soundcheck, with 7 sets logged across Frankfurt and Hamburg. Often billed alongside Back2Bass, Slimgirl fat and yungfya. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -12,6 +12,7 @@ QT-XTC is a breakbeat and bass artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
 - Silbergold, Frankfurt — Sat, 27 Jun 2026
 - Silbergold, Frankfurt — Fri, 28 Nov 2025
 - Golden Pudel Club, Hamburg — Sat, 30 Aug 2025
@@ -23,4 +24,4 @@ QT-XTC is a breakbeat and bass artist based in Germany, tracked on soundcheck, w
 
 Back2Bass, Slimgirl fat, yungfya
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qt-xtc/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qt-xtc/)*

@@ -1,6 +1,6 @@
 # Space Exile
 
-Space Exile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
+Space Exile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
 
 Space Exile is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Kör Boira, Retter (DE) and AOMI. Next up: OHM, Berlin on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Space Exile is a house and techno artist tracked on soundcheck, with 8 sets logg
 
 Kör Boira, Retter (DE), AOMI
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceexile/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceexile/)*

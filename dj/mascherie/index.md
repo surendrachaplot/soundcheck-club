@@ -1,6 +1,6 @@
 # Maschérie
 
-Maschérie is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
+Maschérie is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
 
 Maschérie is a trance and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne and Leipzig. Often billed alongside djvonnebenan, Ben Derris and Deltapeak. Next up: OXI, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Maschérie is a trance and house artist based in Germany, tracked on soundcheck,
 
 djvonnebenan, Ben Derris, Deltapeak
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*

@@ -1,13 +1,14 @@
 # Pierre Kwenders
 
-Pierre Kwenders is a Club and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Bar Datcha, Montreal on Sat, 22 Aug 2026.
+Pierre Kwenders is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
 
-Pierre Kwenders is a club and afro house artist based in Canada, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Brussels and 12 more. Often billed alongside San Farafina, Moonshine and NegoO. Next up: Bar Datcha, Montreal on Sat 22 Aug.
+Pierre Kwenders is a club and afro house artist based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Brussels and 12 more. Often billed alongside San Farafina, Moonshine and NegoO. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Breakglass Studios | Montreal |
 | Sat, 22 Aug 2026 | Bar Datcha | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pierre Kwenders is a club and afro house artist based in Canada, tracked on soun
 
 San Farafina, Moonshine, NegoO
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*

@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
+DJ GUESTLIST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
 DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

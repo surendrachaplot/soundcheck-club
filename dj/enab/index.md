@@ -1,6 +1,6 @@
 # ena b.
 
-ena b. is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
+ena b. is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
 
 ena b. is a techno and dub techno artist tracked on soundcheck, with 4 sets logged across Lisbon, London and Madrid. Often billed alongside Gleezy, ANNX and ARVØW. Next up: Ministerium Club, Lisbon on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ ena b. is a techno and dub techno artist tracked on soundcheck, with 4 sets logg
 
 Gleezy, ANNX, ARVØW
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enab/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enab/)*

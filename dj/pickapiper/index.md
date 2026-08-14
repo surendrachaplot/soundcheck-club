@@ -1,6 +1,6 @@
 # Pick a Piper
 
-Pick a Piper is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Pick a Piper is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Pick a Piper is an electro and experimental artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside 16:9 ratio, A Guy Called Gerald and Ah! Kosmos. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ Pick a Piper is an electro and experimental artist based in Canada, tracked on s
 
 16:9 ratio, A Guy Called Gerald, Ah! Kosmos
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pickapiper/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pickapiper/)*

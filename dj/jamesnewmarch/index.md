@@ -1,13 +1,14 @@
 # James Newmarch
 
-James Newmarch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+James Newmarch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-James Newmarch is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: Burgess Park, London on Sat 15 Aug.
+James Newmarch is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 15 Aug 2026 | Burgess Park | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ James Newmarch is a techno and house artist tracked on soundcheck, with 68 sets 
 
 Voicedrone, Alba Heidari, Anabel Arroyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*

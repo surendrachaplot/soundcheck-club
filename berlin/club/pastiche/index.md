@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Toribio & Ada - Sala Session I Deep Listening" on Fri, 14 Aug 2026.
+Pastiche is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Toribio & Ada - Sala Session I Deep Listening" on Fri, 14 Aug 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Ada, COLA REN, JS and Om Unit and 2 more. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -20,4 +20,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wit
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

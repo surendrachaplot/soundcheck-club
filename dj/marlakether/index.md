@@ -1,6 +1,6 @@
 # Marla Kether
 
-Marla Kether is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Jazz Cafe, London on Sat, 22 Aug 2026.
+Marla Kether is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Jazz Cafe, London on Sat, 22 Aug 2026.
 
 Marla Kether is a house and disco artist tracked on soundcheck, with 35 sets logged across Bristol, Cardiff, Lisbon and London. Often billed alongside Cable!, Jamie Joy and Baitman. Next up: The Jazz Cafe, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Marla Kether is a house and disco artist tracked on soundcheck, with 35 sets log
 
 Cable!, Jamie Joy, Baitman
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*

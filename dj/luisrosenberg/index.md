@@ -1,6 +1,6 @@
 # Luis Rosenberg
 
-Luis Rosenberg is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
+Luis Rosenberg is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
 
 Luis Rosenberg is a downtempo and techno artist tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside Alma Linda, C.love and CLARA. Next up: gART.n, Berlin on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ Luis Rosenberg is a downtempo and techno artist tracked on soundcheck, with 7 se
 
 Alma Linda, C.love, CLARA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisrosenberg/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisrosenberg/)*

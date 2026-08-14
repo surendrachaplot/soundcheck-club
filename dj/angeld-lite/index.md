@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Spanners, London on Fri, 28 Aug 2026.
+Angel D'lite is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Spanners, London on Fri, 28 Aug 2026.
 
 Angel D'lite is a house and techno artist tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Spanners, London on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 231 sets l
 
 dj sweet6teen, THC, FAFF
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
+davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
+davyboi is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ davyboi is a techno and trance artist tracked on soundcheck, with 159 sets logge
 | Fri, 14 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 22 Aug 2026 | Toffler | Rotterdam |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 4 Sept 2026 | Home The Venue | Sydney |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
@@ -19,7 +20,6 @@ davyboi is a techno and trance artist tracked on soundcheck, with 159 sets logge
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ davyboi is a techno and trance artist tracked on soundcheck, with 159 sets logge
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

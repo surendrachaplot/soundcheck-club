@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "summerblink ☆ queer hyper/dreampop event" on Tue, 18 Aug 2026.
+The Glad Cafe is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "summerblink ☆ queer hyper/dreampop event" on Tue, 18 Aug 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including Carla dal Forno, Loscil, more eaze and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -23,4 +23,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 22 upcoming nigh
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

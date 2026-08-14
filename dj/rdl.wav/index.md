@@ -1,6 +1,6 @@
 # RDL.wav
 
-RDL.wav is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pracht, Frankfurt on Fri, 28 Aug 2026.
+RDL.wav is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pracht, Frankfurt on Fri, 28 Aug 2026.
 
 RDL.wav is a progressive house and tech house artist tracked on soundcheck, with 3 sets logged across Frankfurt and Hamburg. Often billed alongside Alexander Aurel, Biagio Sibilla and Defex. Next up: Pracht, Frankfurt on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ RDL.wav is a progressive house and tech house artist tracked on soundcheck, with
 
 Alexander Aurel, Biagio Sibilla, Defex
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*

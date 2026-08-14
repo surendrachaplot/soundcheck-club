@@ -1,6 +1,6 @@
 # Karachi Community Radio: 9 years with Bianca Oblivion, Asad Khan, Yas Meen Selectress at Elsewhere
 
-Karachi Community Radio: 9 years with Bianca Oblivion, Asad Khan, Yas Meen Selectress at Elsewhere on Fri 28 Aug, Newyorkcity. 10 acts on the bill: ash., Athena (2), Bianca Oblivion and DJ ATTENTION and 6 more. Preview the line-up and save it on soundcheck.
+Karachi Community Radio: 9 years with Bianca Oblivion, Asad Khan, Yas Meen Selectress at Elsewhere on Fri 28 Aug, Newyorkcity. 11 acts on the bill: ash., Athena, Athena (2) and Bianca Oblivion and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Karachi Community Radio: 9 years with Bianca Oblivion, Asad Khan, Yas Meen Selec
 ## Line-up
 
 - ash.
+- Athena
 - Athena (2)
 - Bianca Oblivion
 - DJ ATTENTION

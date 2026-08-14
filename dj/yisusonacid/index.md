@@ -1,6 +1,6 @@
 # YisusOnAcid
 
-YisusOnAcid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Foro HDX, Mexico City on Sat, 29 Aug 2026.
+YisusOnAcid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Foro HDX, Mexico City on Sat, 29 Aug 2026.
 
 YisusOnAcid is a techno and industrial artist tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Frenchie El Tiezo, Magnolia Coronado and PRANAYAMA. Next up: Foro HDX, Mexicocity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ YisusOnAcid is a techno and industrial artist tracked on soundcheck, with 14 set
 
 Frenchie El Tiezo, Magnolia Coronado, PRANAYAMA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yisusonacid/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yisusonacid/)*

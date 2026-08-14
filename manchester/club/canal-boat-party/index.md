@@ -1,6 +1,6 @@
 # Canal Boat Party
 
-Canal Boat Party is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "THE G SPOT CANAL BOAT SUMMER PARTY" on Sat, 15 Aug 2026.
+Canal Boat Party is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "THE G SPOT CANAL BOAT SUMMER PARTY" on Sat, 15 Aug 2026.
 
 Canal Boat Party is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Trencherfield Mill, Heritage Way, Wigan WN34AL.
 
@@ -14,4 +14,4 @@ Canal Boat Party is a music venue in Manchester listed on soundcheck. 1 upcoming
 
 Trencherfield Mill, Heritage Way, Wigan WN34AL, Manchester
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/canal-boat-party/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/canal-boat-party/)*

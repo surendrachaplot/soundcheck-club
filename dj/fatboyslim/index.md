@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 16 Aug 2026.
+Fatboy Slim is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 16 Aug.
 
@@ -31,4 +31,4 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

@@ -1,8 +1,8 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Basel and Berlin and 31 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Basel and Berlin and 31 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 30 Oct 2026 | E1 | London |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

@@ -1,6 +1,6 @@
 # Nadia Bel Air
 
-Nadia Bel Air is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Fri, 14 Aug 2026.
+Nadia Bel Air is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Fri, 14 Aug 2026.
 
 Nadia Bel Air is a techno and trance artist based in France, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside E.T., Ace9 and Mindframe. Next up: ÆDEN, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Nadia Bel Air is a techno and trance artist based in France, tracked on soundche
 
 E.T., Ace9, Mindframe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*

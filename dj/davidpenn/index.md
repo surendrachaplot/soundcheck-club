@@ -1,14 +1,13 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Eden, Ibiza on Thu, 13 Aug 2026.
+David Penn is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at O Beach, Ibiza on Sun, 23 Aug 2026.
 
-David Penn is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Ferreck Dawn, Low Steppa and Mousse T.. Next up: Eden, Ibiza on Thu 13 Aug.
+David Penn is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Ferreck Dawn, Low Steppa and Mousse T.. Next up: O Beach, Ibiza on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Eden | Ibiza |
 | Sun, 23 Aug 2026 | O Beach | Ibiza |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Mon, 31 Aug 2026 | Chinois Ibiza | Ibiza |
@@ -21,6 +20,7 @@ David Penn is a house and tech house artist tracked on soundcheck, with 70 sets 
 
 ## Recently played
 
+- Eden, Ibiza — Thu, 13 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 19 Jun 2026
 - Chinois Ibiza, Ibiza — Sat, 13 Jun 2026
@@ -28,10 +28,9 @@ David Penn is a house and tech house artist tracked on soundcheck, with 70 sets 
 - Steelyard Kelham, Sheffield — Sun, 24 May 2026
 - Basement, Amsterdam — Sat, 23 May 2026
 - Madam, Amsterdam — Mon, 27 Apr 2026
-- TBA, Ibiza — Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Ferreck Dawn, Low Steppa, Mousse T.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

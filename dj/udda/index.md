@@ -1,6 +1,6 @@
 # Udda
 
-Udda is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Udda is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Udda is a bass and electronica artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -9,23 +9,22 @@ Udda is a bass and electronica artist tracked on soundcheck, with 43 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
-| Thu, 13 Aug 2026 | 2og:Dondorf | Frankfurt |
 | Sat, 22 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 
+- Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
+- 2og:Dondorf, Frankfurt — Thu, 13 Aug 2026
 - M01, Berlin — Sat, 25 Jul 2026
 - Renate, Berlin — Fri, 10 Jul 2026
 - arkaoda Berlin, Berlin — Fri, 26 Jun 2026
 - Ikii, Berlin — Thu, 25 Jun 2026
 - OXI, Berlin — Fri, 12 Jun 2026
 - ., Berlin — Fri, 22 May 2026
-- ORF-Funkhaus Wien, Vienna — Sun, 29 Mar 2026
-- ZENNER, Berlin — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Habitat Shaking, Ann Mysochka, Terikon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*

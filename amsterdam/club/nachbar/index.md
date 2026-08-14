@@ -1,14 +1,13 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Bubbling Baby" on Thu, 13 Aug 2026.
+nachbar is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli" on Fri, 14 Aug 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including 36framez, AEZARYA, angelboy and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 36framez, AEZARYA, angelboy and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Bubbling Baby |  |
 | Fri, 14 Aug 2026 | Klub Analog w/ Myles Mac & DJ Possum, Piepotelli | DJ Possum, Piepotelli |
 | Sat, 15 Aug 2026 | ESTRELLA & PHIA b2b 36framez | 36framez, ESTRELLA, PHIA |
 | Wed, 19 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC | AEZARYA, SHU (2) |
@@ -18,9 +17,10 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, 
 | Wed, 26 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / ENVISION / INSKYI / VANITY FAIR |  |
 | Thu, 27 Aug 2026 | Passion DEEZ & Friends | Passion DEEZ |
 | Fri, 28 Aug 2026 | angelboy & Schwesta P | Schwesta P, angelboy |
+| Sat, 29 Aug 2026 | Ultrabruma (Brenda & Maria Manuela) | Ultrabruma |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

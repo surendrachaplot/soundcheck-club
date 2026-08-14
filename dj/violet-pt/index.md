@@ -1,6 +1,6 @@
 # Violet (PT)
 
-Violet (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at IDB Rooftop by Mirari, Lisbon on Fri, 14 Aug 2026.
+Violet (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at IDB Rooftop by Mirari, Lisbon on Fri, 14 Aug 2026.
 
 Violet (PT) is a house and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Copenhagen and Edinburgh and 8 more. Often billed alongside BLEID, marum and Phoebe (1). Next up: IDB Rooftop by Mirari, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Violet (PT) is a house and techno artist tracked on soundcheck, with 79 sets log
 
 BLEID, marum, Phoebe (1)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*

@@ -1,6 +1,6 @@
 # Merlin
 
-Merlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
+Merlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
 
 Merlin is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Hamburg and Leeds and 5 more. Often billed alongside Tom West, rizom and MARRGIAN. Next up: Terminal Zero, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Merlin is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Tom West, rizom, MARRGIAN
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlin/)*

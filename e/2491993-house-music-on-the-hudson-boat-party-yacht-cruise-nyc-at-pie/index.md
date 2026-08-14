@@ -1,11 +1,11 @@
-# House Music on the Hudson Boat Party Yacht Cruise NYC at Pier 78 at Hudson River Park
+# House Music on the Hudson Boat Party Yacht Cruise NYC at Pier 36
 
-House Music on the Hudson Boat Party Yacht Cruise NYC at Pier 78 at Hudson River Park on Sat 22 Aug, Newyorkcity. House and Afro House. Preview the line-up and save it on soundcheck.
+House Music on the Hudson Boat Party Yacht Cruise NYC at Pier 36 on Sat 22 Aug, Newyorkcity. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 22 Aug 2026 |
-| Venue | Pier 78 at Hudson River Park |
+| Venue | Pier 36 |
 | City | New York City |
 
 *Source: [soundcheck](https://soundcheck.club/e/2491993-house-music-on-the-hudson-boat-party-yacht-cruise-nyc-at-pie/)*

@@ -1,14 +1,13 @@
 # Joker
 
-Joker is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at public records, New York City on Thu, 13 Aug 2026.
+Joker is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Black Box, Denver on Sat, 15 Aug 2026.
 
-Joker is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: public records, Newyorkcity on Thu 13 Aug.
+Joker is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: The Black Box, Denver on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | public records | New York City |
 | Sat, 15 Aug 2026 | The Black Box | Denver |
 | Sat, 15 Aug 2026 | The Black Box | Denver |
 | Fri, 21 Aug 2026 | Distrikt | Prague |
@@ -18,6 +17,7 @@ Joker is a dubstep and bass artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- public records, New York City — Thu, 13 Aug 2026
 - Altenburg 1964, Prague — Sat, 20 Jun 2026
 - Strange Brew, Bristol — Sat, 2 May 2026
 - The Steel Yard, London — Sat, 25 Apr 2026
@@ -25,10 +25,9 @@ Joker is a dubstep and bass artist based in United Kingdom, tracked on soundchec
 - La Nau, Barcelona — Fri, 3 Apr 2026
 - Gaffe, London — Sat, 28 Mar 2026
 - Lost Horizon, Bristol — Sat, 31 Jan 2026
-- Music Club Pulse 22, Prague — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Sir Spyro, Coki, SGT Pokes
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*

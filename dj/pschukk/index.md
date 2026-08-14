@@ -1,6 +1,6 @@
 # Pschukk
 
-Pschukk is a Progressive House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
+Pschukk is a Progressive House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
 
 Pschukk is a progressive house and tech house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside sleeptwitch, ayu bi and Keex. Next up: Tresor / Globus, Berlin on Wed 19 Aug.
 
@@ -27,4 +27,4 @@ Pschukk is a progressive house and tech house artist based in Germany, tracked o
 
 sleeptwitch, ayu bi, Keex
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*

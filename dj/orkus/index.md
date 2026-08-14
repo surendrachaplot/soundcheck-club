@@ -1,6 +1,6 @@
 # Orkus
 
-Orkus is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sky Lounge 360, Prague on Sat, 15 Aug 2026.
+Orkus is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sky Lounge 360, Prague on Sat, 15 Aug 2026.
 
 Orkus is a techno and deep house artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Prague. Often billed alongside Icarian PB1, Patricio Strix and NANCY (2). Next up: Sky Lounge 360, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Orkus is a techno and deep house artist based in Czech Republic, tracked on soun
 
 Icarian PB1, Patricio Strix, NANCY (2)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orkus/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orkus/)*

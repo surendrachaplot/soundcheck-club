@@ -1,6 +1,6 @@
 # OSO (3)
 
-OSO (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
+OSO (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
 
 OSO (3) is a techno and tech house artist tracked on soundcheck, with 8 sets logged across Stockholm. Often billed alongside CC Luna, MERILIN and Marten Attling. Next up: Eventhuset, Stockholm on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ OSO (3) is a techno and tech house artist tracked on soundcheck, with 8 sets log
 
 CC Luna, MERILIN, Marten Attling
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oso-3/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oso-3/)*

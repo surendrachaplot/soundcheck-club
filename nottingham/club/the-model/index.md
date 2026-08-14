@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Boundary Keys x The Lunar Snail Affair" on Fri, 14 Aug 2026.
+The Model is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Boundary Keys x The Lunar Snail Affair" on Fri, 14 Aug 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including chimaera (2), Dylan Whicher, Evil Woman and Keeks and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 11 upcoming night
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

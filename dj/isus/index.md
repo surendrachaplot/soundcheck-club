@@ -1,6 +1,6 @@
 # I's (US)
 
-I's (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
+I's (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
 
 I's (US) is a house and techno artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Talk Shivi, Fritz Ta and ellie rouge. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ I's (US) is a house and techno artist tracked on soundcheck, with 11 sets logged
 
 Talk Shivi, Fritz Ta, ellie rouge
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isus/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isus/)*

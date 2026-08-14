@@ -1,6 +1,6 @@
 # Le Le
 
-Le Le is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
+Le Le is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
 
 Le Le is a house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Antwerp, Brussels and Copenhagen and 1 more. Often billed alongside DJ Rino, Ogazón and RIET. Next up: Skatecafe, Amsterdam on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Le Le is a house artist tracked on soundcheck, with 6 sets logged across Amsterd
 
 DJ Rino, Ogazón, RIET
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*

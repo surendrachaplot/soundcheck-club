@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more" on Sat, 22 Aug 2026.
+Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more" on Sat, 22 Aug 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Bambii, Changing Currents, Chunky and Craig Charles and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -21,4 +21,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

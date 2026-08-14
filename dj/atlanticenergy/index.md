@@ -1,6 +1,6 @@
 # Atlantic Energy
 
-Atlantic Energy is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location, Amsterdam on Thu, 8 Oct 2026.
+Atlantic Energy is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location, Amsterdam on Thu, 8 Oct 2026.
 
 Atlantic Energy is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and London and 2 more. Often billed alongside Squaric, A Psychomagic Story and Alina Nastichenko. Next up: TBA - Secret Location, Amsterdam on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Atlantic Energy is a techno and experimental artist based in United Kingdom, tra
 
 Squaric, A Psychomagic Story, Alina Nastichenko
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlanticenergy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlanticenergy/)*

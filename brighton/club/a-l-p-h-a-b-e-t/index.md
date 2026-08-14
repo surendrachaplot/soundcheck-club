@@ -1,6 +1,6 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Chega Mais presents: Alena Arpels" on Fri, 14 Aug 2026.
+A L P H A B E T is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Chega Mais presents: Alena Arpels" on Fri, 14 Aug 2026.
 
 A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Alena Arpels, Florence. and OFFIE MAG DJs. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
@@ -18,4 +18,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming ni
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

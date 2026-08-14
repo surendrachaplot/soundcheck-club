@@ -1,8 +1,8 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at LAB theCLUB, Madrid on Sat, 29 Aug 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at LAB theCLUB, Madrid on Sat, 29 Aug 2026.
 
-SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Bristol, London, Madrid and Malta and 2 more. Often billed alongside Skantia, Waeys and Bryan Gee. Next up: LAB theCLUB, Madrid on Sat 29 Aug.
+SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 9 sets logged across Bristol, London, Madrid and Malta and 3 more. Often billed alongside Waeys, Skantia and A.M.C.. Next up: LAB theCLUB, Madrid on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 8 sets l
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Fri, 23 Oct 2026 | fabric | London |
+| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 8 sets l
 
 ## Shares bills with
 
-Skantia, Waeys, Bryan Gee
+Waeys, Skantia, A.M.C.
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

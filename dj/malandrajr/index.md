@@ -1,6 +1,6 @@
 # Malandra JR
 
-Malandra JR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Sky Lounge 360, Prague on Sat, 5 Sept 2026.
+Malandra JR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sky Lounge 360, Prague on Sat, 5 Sept 2026.
 
 Malandra JR is a techno and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Ibiza and Mexicocity and 2 more. Often billed alongside Andre Winter, Belben and Clint Lee. Next up: Sky Lounge 360, Prague on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Malandra JR is a techno and house artist based in Italy, tracked on soundcheck, 
 
 Andre Winter, Belben, Clint Lee
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*

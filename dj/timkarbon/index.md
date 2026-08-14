@@ -1,6 +1,6 @@
 # Tim Karbon
 
-Tim Karbon is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Point Ephémère, Paris on Fri, 21 Aug 2026.
+Tim Karbon is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Point Ephémère, Paris on Fri, 21 Aug 2026.
 
 Tim Karbon is a club and dembow artist based in France, tracked on soundcheck, with 17 sets logged across Lyon, Marseille and Paris. Often billed alongside BJF, Jeune Gaou and Scarlett (ohgodscarlett). Next up: Point Ephémère, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Tim Karbon is a club and dembow artist based in France, tracked on soundcheck, w
 
 BJF, Jeune Gaou, Scarlett (ohgodscarlett)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timkarbon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timkarbon/)*

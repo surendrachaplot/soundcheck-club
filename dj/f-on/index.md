@@ -1,6 +1,6 @@
 # F-on
 
-F-on is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OHM, Berlin on Thu, 17 Sept 2026.
+F-on is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OHM, Berlin on Thu, 17 Sept 2026.
 
 F-on is a techno and ambient artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 8 more. Often billed alongside Ario, Amulador and Cobahn. Next up: OHM, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ F-on is a techno and ambient artist based in Spain, tracked on soundcheck, with 
 
 Ario, Amulador, Cobahn
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f-on/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f-on/)*

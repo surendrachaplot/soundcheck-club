@@ -1,6 +1,6 @@
 # Axciid
 
-Axciid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+Axciid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 Axciid is a techno and industrial artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Budapest, Copenhagen and Leipzig and 3 more. Often billed alongside Pomah, Karashò and Nothing Left. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Axciid is a techno and industrial artist based in Germany, tracked on soundcheck
 
 Pomah, Karashò, Nothing Left
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axciid/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axciid/)*

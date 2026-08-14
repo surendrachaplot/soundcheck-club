@@ -1,6 +1,6 @@
 # Love Higher
 
-Love Higher is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
+Love Higher is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
 
 Love Higher is a club and house artist based in United States of America, tracked on soundcheck, with 107 sets logged across Chicago, Detroit, Newyorkcity and Vancouver. Often billed alongside wahala.wav, sola system and Nishévitha. Next up: Paragon, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Love Higher is a club and house artist based in United States of America, tracke
 
 wahala.wav, sola system, Nishévitha
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*

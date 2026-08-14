@@ -1,6 +1,6 @@
 # Steph Who?
 
-Steph Who? is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Soraya, Detroit on Fri, 14 Aug 2026.
+Steph Who? is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Soraya, Detroit on Fri, 14 Aug 2026.
 
 Steph Who? is a techno and ghetto tech artist tracked on soundcheck, with 27 sets logged across Detroit. Often billed alongside DJ Her Boyfriend, Swingvibe and Billy Winters. Next up: Soraya, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Steph Who? is a techno and ghetto tech artist tracked on soundcheck, with 27 set
 
 DJ Her Boyfriend, Swingvibe, Billy Winters
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephwho/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephwho/)*

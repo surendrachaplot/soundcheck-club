@@ -1,6 +1,6 @@
 # Tino Machauer
 
-Tino Machauer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
+Tino Machauer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
 
 Tino Machauer is a techno and house artist tracked on soundcheck, with 39 sets logged across Barcelona, Basel, Berlin and Dusseldorf and 8 more. Often billed alongside lex_shockwerk, MATRIX3K and slin. Next up: Fridas Pier, Stuttgart on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tino Machauer is a techno and house artist tracked on soundcheck, with 39 sets l
 
 lex_shockwerk, MATRIX3K, slin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*

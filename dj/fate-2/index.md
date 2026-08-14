@@ -1,6 +1,6 @@
 # Fate (2)
 
-Fate (2) is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
+Fate (2) is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
 
 Fate (2) is a bass and breakbeat artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal and Toronto. Often billed alongside Lou Celsius, Kiju and Michele Azur. Next up: TBA - Secret Location, Toronto on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Fate (2) is a bass and breakbeat artist based in Canada, tracked on soundcheck, 
 
 Lou Celsius, Kiju, Michele Azur
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fate-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fate-2/)*

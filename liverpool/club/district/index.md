@@ -1,6 +1,6 @@
 # District
 
-District is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Frogfest 2026 - Goth - EBM - Darkwave - Coldwave - Post-Punk" on Sat, 15 Aug 2026.
+District is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Frogfest 2026 - Goth - EBM - Darkwave - Coldwave - Post-Punk" on Sat, 15 Aug 2026.
 
 District is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Die Verletzt and Jezebel. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
 
@@ -20,4 +20,4 @@ District is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, 
 
 61 Jordan St, Liverpool, L1 0BW, Liverpool
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*

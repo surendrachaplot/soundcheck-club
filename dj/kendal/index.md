@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Colorado Charlie, The Hague on Sun, 16 Aug 2026.
+Kendal is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colorado Charlie, The Hague on Sun, 16 Aug 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Belaria and Miguel De Bois. Next up: Colorado Charlie, Thehague on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets 
 
 Andi, Belaria, Miguel De Bois
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

@@ -1,6 +1,6 @@
 # Kiddy Smile
 
-Kiddy Smile is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Säälchen, Berlin on Fri, 14 Aug 2026.
+Kiddy Smile is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Säälchen, Berlin on Fri, 14 Aug 2026.
 
 Kiddy Smile is a house and disco artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: Säälchen, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Kiddy Smile is a house and disco artist tracked on soundcheck, with 76 sets logg
 
 Melvo Baptiste, Bora Uzer, Curses
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*

@@ -1,6 +1,6 @@
 # Honey Montana
 
-Honey Montana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
+Honey Montana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Walk Inn, New York City on Fri, 14 Aug 2026.
 
 Honey Montana is a house and techno artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside BATACA, Skinny Girl and Alba (NYC). Next up: The Walk Inn, Newyorkcity on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Honey Montana is a house and techno artist tracked on soundcheck, with 6 sets lo
 
 BATACA, Skinny Girl, Alba (NYC)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeymontana/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeymontana/)*

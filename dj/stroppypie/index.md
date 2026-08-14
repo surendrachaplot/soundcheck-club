@@ -1,6 +1,6 @@
 # Stroppy Pie
 
-Stroppy Pie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
+Stroppy Pie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at B-SIDE, Warsaw on Sat, 15 Aug 2026.
 
 Stroppy Pie is a house and minimal artist based in Poland, tracked on soundcheck, with 24 sets logged across Krakow, Prague and Warsaw. Often billed alongside Helga, Kamilescu and Schmeltzer. Next up: B-SIDE, Warsaw on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Stroppy Pie is a house and minimal artist based in Poland, tracked on soundcheck
 
 Helga, Kamilescu, Schmeltzer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*

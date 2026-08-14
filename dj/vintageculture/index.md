@@ -1,8 +1,8 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 15 Aug 2026.
+Vintage Culture is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 15 Aug 2026.
 
-Vintage Culture is a house and tech house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Santanna Mykonos, Mykonos on Sat 15 Aug.
+Vintage Culture is a house and tech house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Santanna Mykonos, Mykonos on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Vintage Culture is a house and tech house artist tracked on soundcheck, with 186
 | Sat, 15 Aug 2026 | Santanna Mykonos | Mykonos |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Vintage Culture is a house and tech house artist tracked on soundcheck, with 186
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

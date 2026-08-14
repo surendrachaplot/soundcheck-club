@@ -1,6 +1,6 @@
 # DJ MBA
 
-DJ MBA is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at EL SÓTANO, Madrid on Thu, 27 Aug 2026.
+DJ MBA is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at EL SÓTANO, Madrid on Thu, 27 Aug 2026.
 
 DJ MBA is an afrobeat and afro house artist based in Spain, tracked on soundcheck, with 99 sets logged across Madrid. Often billed alongside DJ Mois and DJ MATERIA PRIMA. Next up: EL SÓTANO, Madrid on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ DJ MBA is an afrobeat and afro house artist based in Spain, tracked on soundchec
 
 DJ Mois, DJ MATERIA PRIMA
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmba/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmba/)*

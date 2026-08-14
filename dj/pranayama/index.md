@@ -1,6 +1,6 @@
 # PRANAYAMA
 
-PRANAYAMA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Foro HDX, Mexico City on Fri, 25 Sept 2026.
+PRANAYAMA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Foro HDX, Mexico City on Fri, 25 Sept 2026.
 
 PRANAYAMA is a techno and hardcore artist tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Cabe, Jasym and NAHAN. Next up: Foro HDX, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ PRANAYAMA is a techno and hardcore artist tracked on soundcheck, with 15 sets lo
 
 Cabe, Jasym, NAHAN
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pranayama/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pranayama/)*

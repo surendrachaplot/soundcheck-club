@@ -1,6 +1,6 @@
 # ATNIL
 
-ATNIL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Praterbrücke, Vienna on Sat, 15 Aug 2026.
+ATNIL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Praterbrücke, Vienna on Sat, 15 Aug 2026.
 
 ATNIL is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Munich and Vienna. Often billed alongside Palliativ, Swanky NOD and ASCHENBRENNER. Next up: Praterbrücke, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ATNIL is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Palliativ, Swanky NOD, ASCHENBRENNER
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atnil/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atnil/)*

@@ -1,6 +1,6 @@
 # dj wagner
 
-dj wagner is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - AMMA CAFE RIDGEWOOD, New York City on Fri, 28 Aug 2026.
+dj wagner is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - AMMA CAFE RIDGEWOOD, New York City on Fri, 28 Aug 2026.
 
 dj wagner is a club and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston and Newyorkcity. Often billed alongside cazadory, WADDLE and Antide. Next up: TBA - AMMA CAFE RIDGEWOOD, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ dj wagner is a club and house artist based in United States of America, tracked 
 
 cazadory, WADDLE, Antide
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwagner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwagner/)*

@@ -1,6 +1,6 @@
 # Pat Hyland
 
-Pat Hyland is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hang Dai Chinese, Dublin on Sat, 29 Aug 2026.
+Pat Hyland is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hang Dai Chinese, Dublin on Sat, 29 Aug 2026.
 
 Pat Hyland is a house and acid artist based in Ireland, tracked on soundcheck, with 40 sets logged across Belfast and Dublin. Often billed alongside Marion Hawkes, Conor Schmtz and Glenn Davis. Next up: Hang Dai Chinese, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pat Hyland is a house and acid artist based in Ireland, tracked on soundcheck, w
 
 Marion Hawkes, Conor Schmtz, Glenn Davis
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*

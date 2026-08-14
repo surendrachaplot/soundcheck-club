@@ -1,6 +1,6 @@
 # Dj.Malefica
 
-Dj.Malefica is a Post-Punk and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
+Dj.Malefica is a Post-Punk and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
 
 Dj.Malefica is a post-punk and ebm artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Ricardo Castro, Steve Weeks and Claudia Kane. Next up: Electrowerkz, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Dj.Malefica is a post-punk and ebm artist tracked on soundcheck, with 15 sets lo
 
 Ricardo Castro, Steve Weeks, Claudia Kane
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.malefica/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.malefica/)*

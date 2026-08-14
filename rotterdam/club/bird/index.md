@@ -1,6 +1,6 @@
 # BIRD
 
-BIRD is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "360 Degrees: Jayda G, Danou P & Love Transmission" on Fri, 25 Sept 2026.
+BIRD is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "360 Degrees: Jayda G, Danou P & Love Transmission" on Fri, 25 Sept 2026.
 
 BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Danou P and Jayda G. Browse upcoming dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
 
@@ -14,4 +14,4 @@ BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with 
 
 Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*

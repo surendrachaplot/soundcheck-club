@@ -1,6 +1,6 @@
 # gross margins
 
-gross margins is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at High Note, Melbourne on Fri, 14 Aug 2026.
+gross margins is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at High Note, Melbourne on Fri, 14 Aug 2026.
 
 gross margins is a techno and ambient artist based in China, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside felt., Flat Esoteric and second skin. Next up: High Note, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ gross margins is a techno and ambient artist based in China, tracked on soundche
 
 felt., Flat Esoteric, second skin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*

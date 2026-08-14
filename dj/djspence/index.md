@@ -1,6 +1,6 @@
 # DJ Spence
 
-DJ Spence is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+DJ Spence is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 DJ Spence is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Krakow and 12 more. Often billed alongside DJ Frog, PLO Man and Excalibur. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Spence is a techno and house artist tracked on soundcheck, with 40 sets logge
 
 DJ Frog, PLO Man, Excalibur
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspence/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspence/)*

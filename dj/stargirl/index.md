@@ -1,6 +1,6 @@
 # stargirl
 
-stargirl is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Junction Public Market, Vancouver on Sat, 22 Aug 2026.
+stargirl is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Junction Public Market, Vancouver on Sat, 22 Aug 2026.
 
 stargirl is a techno and bass artist based in Canada, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Cologne and Detroit and 5 more. Often billed alongside Jimmy Rocket, Presley Gray and vstar. Next up: Junction Public Market, Vancouver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ stargirl is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 Jimmy Rocket, Presley Gray, vstar
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stargirl/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stargirl/)*

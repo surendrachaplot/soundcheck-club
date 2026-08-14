@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 23 Aug 2026.
+ARODES is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 23 Aug 2026.
 
 ARODES is a house and afro house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Andrea Oliva, Shimza and Carlita. Next up: Jardins de Joan Brossa, Barcelona on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ ARODES is a house and afro house artist tracked on soundcheck, with 116 sets log
 
 Andrea Oliva, Shimza, Carlita
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

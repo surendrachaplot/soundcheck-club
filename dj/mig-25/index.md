@@ -1,6 +1,6 @@
 # MiG-25
 
-MiG-25 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
+MiG-25 is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
 
 MiG-25 is a techno artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside shimosoma, AI (10) and AMIDAdrive. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ MiG-25 is a techno artist based in Japan, tracked on soundcheck, with 3 sets log
 
 shimosoma, AI (10), AMIDAdrive
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mig-25/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mig-25/)*

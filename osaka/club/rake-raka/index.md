@@ -1,14 +1,13 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "π vol.12" on Thu, 13 Aug 2026.
+rake?raka? is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Dimension" on Fri, 14 Aug 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including 建築テクノ, ALTF4, DMITRI ABSINTHE and Don Son and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including 建築テクノ, ALTF4, DMITRI ABSINTHE and Don Son and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | π vol.12 | HSC (1) |
 | Fri, 14 Aug 2026 | Dimension | Phekam, Sonny Vercetti, nima (2) |
 | Sat, 15 Aug 2026 | NODE | KEIMIN, OSHALEY, TENO, unheadmusicinear, yu-more, 建築テクノ |
 | Mon, 17 Aug 2026 | DEAR MONDAY, vol.299 | HSC (1) |
@@ -23,4 +22,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 10 upcoming nights, w
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

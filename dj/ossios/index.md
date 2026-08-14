@@ -1,6 +1,6 @@
 # Ossios
 
-Ossios is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Yan Gastro, Istanbul on Fri, 14 Aug 2026.
+Ossios is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Yan Gastro, Istanbul on Fri, 14 Aug 2026.
 
 Ossios is a house and electro artist tracked on soundcheck, with 49 sets logged across Berlin, Istanbul, Lisbon and Mexicocity and 1 more. Often billed alongside Bastard Love, GNMR and Marcolino. Next up: Yan Gastro, Istanbul on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Ossios is a house and electro artist tracked on soundcheck, with 49 sets logged 
 
 Bastard Love, GNMR, Marcolino
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossios/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossios/)*

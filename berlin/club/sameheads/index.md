@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Listen Listen after party with *n8, Wunky LIVE, Laura Not, Autre Gonzesse, Alexander Arpeggio" on Sat, 15 Aug 2026.
+Sameheads is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Listen Listen after party with *n8, Wunky LIVE, Laura Not, Autre Gonzesse, Alexander Arpeggio" on Sat, 15 Aug 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Alexander Arpeggio, Courtney Bailey, DJ Marcelle and Esther Dune and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

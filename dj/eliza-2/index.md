@@ -1,6 +1,6 @@
 # Eliza (2)
 
-Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Miran N, Akaj and DRAMA SOURCE ARTIFACTS. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Miran N, Akaj, DRAMA SOURCE ARTIFACTS
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*

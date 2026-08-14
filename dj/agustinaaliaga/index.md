@@ -1,6 +1,6 @@
 # Agustina Aliaga
 
-Agustina Aliaga is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at John Doe, Amsterdam on Fri, 14 Aug 2026.
+Agustina Aliaga is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at John Doe, Amsterdam on Fri, 14 Aug 2026.
 
 Agustina Aliaga is a techno and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 2 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: John Doe, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Agustina Aliaga is a techno and electronica artist based in Spain, tracked on so
 
 HNKS, Julieta Wins, Lautaro Ibañez
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*

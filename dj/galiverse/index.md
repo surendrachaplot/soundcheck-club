@@ -1,6 +1,6 @@
 # GALIVERSE
 
-GALIVERSE is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Club Makossa, London on Fri, 21 Aug 2026.
+GALIVERSE is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Makossa, London on Fri, 21 Aug 2026.
 
 GALIVERSE is a tech house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside BIDOIS, DJ Harmee and Houdinyx. Next up: Club Makossa, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ GALIVERSE is a tech house and drum & bass artist based in United Kingdom, tracke
 
 BIDOIS, DJ Harmee, Houdinyx
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galiverse/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galiverse/)*

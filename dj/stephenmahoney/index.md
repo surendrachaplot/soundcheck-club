@@ -1,6 +1,6 @@
 # Stephen Mahoney
 
-Stephen Mahoney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
+Stephen Mahoney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
 
 Stephen Mahoney is a techno and house artist tracked on soundcheck, with 6 sets logged across Dublin. Often billed alongside Vlad., Accomplice and Billy Spike Iland. Next up: Pawn Shop, Dublin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Stephen Mahoney is a techno and house artist tracked on soundcheck, with 6 sets 
 
 Vlad., Accomplice, Billy Spike Iland
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenmahoney/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenmahoney/)*

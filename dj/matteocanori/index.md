@@ -1,6 +1,6 @@
 # Matteo Canori
 
-Matteo Canori is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 18 Aug 2026.
+Matteo Canori is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 18 Aug 2026.
 
 Matteo Canori is a house and electronica artist based in Italy, tracked on soundcheck, with 7 sets logged across London and Rome. Often billed alongside Mordak, Brasi and Nadir____. Next up: THE MAGICK BAR, Rome on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ Matteo Canori is a house and electronica artist based in Italy, tracked on sound
 
 Mordak, Brasi, Nadir____
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteocanori/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteocanori/)*

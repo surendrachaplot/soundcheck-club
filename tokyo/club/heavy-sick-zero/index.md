@@ -1,14 +1,13 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "HSZ LOUNGE" on Thu, 13 Aug 2026.
+Heavy Sick Zero is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Summer Story" on Fri, 14 Aug 2026.
 
-Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including ato夢, Chee Shimizu, COGEE and haLuka and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
+Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including ato夢, Chee Shimizu, COGEE and haLuka and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | HSZ LOUNGE |  |
 | Fri, 14 Aug 2026 | Summer Story |  |
 | Sat, 15 Aug 2026 | heavysick ZERO 24th Anniversary [Day.1] | HAYATO DELAROSSA, haLuka |
 | Sun, 16 Aug 2026 | MURDER CHANNEL / heavysick ZERO 24th Anniversary [Day.2] | Moshi Moshi, ato夢 |
@@ -21,4 +20,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 8 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

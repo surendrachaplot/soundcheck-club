@@ -1,6 +1,6 @@
 # Dkult
 
-Dkult is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Liquid Club, Malta on Sat, 29 Aug 2026.
+Dkult is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Liquid Club, Malta on Sat, 29 Aug 2026.
 
 Dkult is a techno and minimal techno artist tracked on soundcheck, with 7 sets logged across Leeds, Lisbon and Malta. Often billed alongside A.Paul, Ze Mig-L and Alex Pereira. Next up: Liquid Club, Malta on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Dkult is a techno and minimal techno artist tracked on soundcheck, with 7 sets l
 
 A.Paul, Ze Mig-L, Alex Pereira
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkult/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkult/)*

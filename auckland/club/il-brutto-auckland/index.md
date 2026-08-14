@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 5 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "NIGHTSHIFT 010: THE LAST SHIFT" on Sat, 15 Aug 2026.
+Il Brutto Auckland is a music venue in Auckland with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "NIGHTSHIFT 010: THE LAST SHIFT" on Sat, 15 Aug 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 5 upcoming nights, with line-ups including Andwahn, Cam Harris, EMMYJ and ONARSÉ and 2 more. Browse upcoming dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -18,4 +18,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 5 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

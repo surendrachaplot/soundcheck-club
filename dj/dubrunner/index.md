@@ -1,6 +1,6 @@
 # Dubrunner
 
-Dubrunner is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Dubrunner is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 Dubrunner is a dub and bass artist tracked on soundcheck, with 45 sets logged across Bangkok, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Breaka, Yushh and Darwin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dubrunner is a dub and bass artist tracked on soundcheck, with 45 sets logged ac
 
 Breaka, Yushh, Darwin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*

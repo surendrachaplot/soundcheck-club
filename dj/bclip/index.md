@@ -1,6 +1,6 @@
 # Bclip
 
-Bclip is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at CHICO, Mexico City on Fri, 14 Aug 2026.
+Bclip is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at CHICO, Mexico City on Fri, 14 Aug 2026.
 
 Bclip is a club and reggaeton artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Rosa Pistola, Sushinigami and gyrofield. Next up: CHICO, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Bclip is a club and reggaeton artist tracked on soundcheck, with 42 sets logged 
 
 Rosa Pistola, Sushinigami, gyrofield
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*

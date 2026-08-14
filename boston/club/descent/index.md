@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Temper: Ted Bounce, Mohogany & more" on Fri, 14 Aug 2026.
+Descent is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Temper: Ted Bounce, Mohogany & more" on Fri, 14 Aug 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 8 upcoming nights, with line-ups including Alejandro Franco, Dubfire, Locky and MARRØN and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -21,4 +21,4 @@ Descent is a music venue in Boston listed on soundcheck. 8 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

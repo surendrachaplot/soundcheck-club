@@ -1,6 +1,6 @@
 # 聖体泥棒
 
-聖体泥棒 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
+聖体泥棒 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
 
 聖体泥棒 is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Gojitmal, B.A.R.K and DIV. Next up: White Space Lab, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Gojitmal, B.A.R.K, DIV
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eucharistthief/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eucharistthief/)*

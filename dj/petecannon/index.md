@@ -1,6 +1,6 @@
 # Pete Cannon
 
-Pete Cannon is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Pete Cannon is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
 
 Pete Cannon is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside The Bass Injector, Swankout and mixtress. Next up: Document, Bristol on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Pete Cannon is a jungle and drum & bass artist based in United Kingdom, tracked 
 
 The Bass Injector, Swankout, mixtress
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*

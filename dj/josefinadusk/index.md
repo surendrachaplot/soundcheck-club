@@ -1,6 +1,6 @@
 # Josefina Dusk
 
-Josefina Dusk is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
+Josefina Dusk is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
 
 Josefina Dusk is an electro and electronica artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Prague and Vienna. Often billed alongside Frankie $, Hrtl and Kiki. Next up: Festival Povaleč, Prague on Thu 13 Aug.
 
@@ -13,6 +13,7 @@ Josefina Dusk is an electro and electronica artist based in Czech Republic, trac
 
 ## Recently played
 
+- Festival Povaleč, Prague — Thu, 13 Aug 2026
 - Cross Club, Prague — Thu, 28 May 2026
 - Akropolis, Prague — Fri, 12 Jan 2024
 - Rhiz, Vienna — Thu, 24 Aug 2023
@@ -21,4 +22,4 @@ Josefina Dusk is an electro and electronica artist based in Czech Republic, trac
 
 Frankie $, Hrtl, Kiki
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinadusk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinadusk/)*

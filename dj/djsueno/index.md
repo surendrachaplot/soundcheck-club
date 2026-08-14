@@ -1,6 +1,6 @@
 # Dj Sueño
 
-Dj Sueño is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
+Dj Sueño is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
 
 Dj Sueño is a reggaeton and latin bass artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Geneva and London and 5 more. Often billed alongside Rosa Pistola, Bclip and Ana Luisa. Next up: La Gravière, Geneva on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dj Sueño is a reggaeton and latin bass artist tracked on soundcheck, with 14 se
 
 Rosa Pistola, Bclip, Ana Luisa
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsueno/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsueno/)*

@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+Carl H is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gaffe, London on Sun, 6 Sept 2026.
 
 Carl H is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Gaffe, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Carl H is a techno and trance artist tracked on soundcheck, with 118 sets logged
 
 So-Fi, DJ TEETH, Jane Fitz
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

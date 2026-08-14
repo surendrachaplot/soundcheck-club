@@ -1,6 +1,6 @@
 # DVAd
 
-DVAd is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 29 Aug 2026.
+DVAd is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 29 Aug 2026.
 
 DVAd is an industrial and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Lisbon. Often billed alongside Hex (3) and Maldoror. Next up: Arroz Estúdios, Lisbon on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ DVAd is an industrial and techno artist based in Portugal, tracked on soundcheck
 
 Hex (3), Maldoror
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvad/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvad/)*

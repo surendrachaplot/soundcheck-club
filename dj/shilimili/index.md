@@ -1,6 +1,6 @@
 # shilimili
 
-shilimili is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
+shilimili is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
 
 shilimili is a house and techno artist based in Iran, tracked on soundcheck, with 32 sets logged across Houston, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Sabda, BehTarin and Heather Luna. Next up: BERHTA, Washingtondc on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ shilimili is a house and techno artist based in Iran, tracked on soundcheck, wit
 
 Sabda, BehTarin, Heather Luna
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shilimili/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shilimili/)*

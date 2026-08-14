@@ -1,6 +1,6 @@
 # SONRISA
 
-SONRISA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
+SONRISA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
 
 SONRISA is a house and tech house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Frankfurt, Newyorkcity and Sanfrancisco. Often billed alongside AMLA.DHAS, $EJ and 40split. Next up: Mood Ring, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ SONRISA is a house and tech house artist based in United States of America, trac
 
 AMLA.DHAS, $EJ, 40split
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisa/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisa/)*

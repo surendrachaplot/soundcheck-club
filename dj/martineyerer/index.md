@@ -1,6 +1,6 @@
 # Martin Eyerer
 
-Martin Eyerer is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Martin Eyerer is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Martin Eyerer is a tech house and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Stuttgart. Often billed alongside FEVZEE, Intaktogene and Vero Standke. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Martin Eyerer is a tech house and techno artist tracked on soundcheck, with 8 se
 
 FEVZEE, Intaktogene, Vero Standke
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martineyerer/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martineyerer/)*

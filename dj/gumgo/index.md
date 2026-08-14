@@ -1,6 +1,6 @@
 # GUMGO
 
-GUMGO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at N Seoul Tower, Seoul on Sat, 15 Aug 2026.
+GUMGO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at N Seoul Tower, Seoul on Sat, 15 Aug 2026.
 
 GUMGO is a house and techno artist based in South Korea, tracked on soundcheck, with 13 sets logged across Barcelona, Seoul and Singapore. Often billed alongside Mingsturn, Mars Parck and PAIK. Next up: N Seoul Tower, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ GUMGO is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Mingsturn, Mars Parck, PAIK
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumgo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumgo/)*

@@ -1,6 +1,6 @@
 # DJ Tuttle
 
-DJ Tuttle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
+DJ Tuttle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
 
 DJ Tuttle is a techno and house artist based in France, tracked on soundcheck, with 2 sets logged across Osaka and Paris. Often billed alongside Aspara, Chich and Chris Honorat. Next up: Glazart, Paris on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ DJ Tuttle is a techno and house artist based in France, tracked on soundcheck, w
 
 Aspara, Chich, Chris Honorat
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtuttle/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtuttle/)*

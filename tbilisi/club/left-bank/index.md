@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Left Bank Clubnight: LVN • Bekuchi • Alexandra" on Fri, 14 Aug 2026.
+Left Bank is a music venue in Tbilisi with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Left Bank Clubnight: LVN • Bekuchi • Alexandra" on Fri, 14 Aug 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 6 upcoming nights, with line-ups including Ash Scholem, Alexandra (2), Bachi and carin kelly and 2 more. Browse upcoming dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -19,4 +19,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 6 upcoming nights, w
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

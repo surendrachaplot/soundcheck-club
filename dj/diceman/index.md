@@ -1,6 +1,6 @@
 # Diceman
 
-Diceman is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at 88block, Tokyo on Fri, 18 Sept 2026.
+Diceman is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 88block, Tokyo on Fri, 18 Sept 2026.
 
 Diceman is a dub and bass artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside Aimos, Kodai and Ozwick. Next up: 88block, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Diceman is a dub and bass artist based in Japan, tracked on soundcheck, with 26 
 
 Aimos, Kodai, Ozwick
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*

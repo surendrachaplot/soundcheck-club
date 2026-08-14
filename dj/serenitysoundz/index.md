@@ -1,6 +1,6 @@
 # serenity soundz
 
-serenity soundz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
+serenity soundz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
 
 serenity soundz is a house and afro house artist tracked on soundcheck, with 34 sets logged across Amsterdam, London, Mexicocity and Newyorkcity. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Egg London, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ serenity soundz is a house and afro house artist tracked on soundcheck, with 34 
 
 Beezo, JAYDAA, Shenin Amara
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serenitysoundz/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serenitysoundz/)*

@@ -1,6 +1,6 @@
 # Hand-made
 
-Hand-made is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Paradise Palms, Edinburgh on Fri, 14 Aug 2026.
+Hand-made is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Paradise Palms, Edinburgh on Fri, 14 Aug 2026.
 
 Hand-made is a house and disco artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Dublin and Edinburgh and 2 more. Often billed alongside Boboxa, Danny Bodega and David Barbarossa. Next up: Paradise Palms, Edinburgh on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Hand-made is a house and disco artist tracked on soundcheck, with 67 sets logged
 
 Boboxa, Danny Bodega, David Barbarossa
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*

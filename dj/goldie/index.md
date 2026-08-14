@@ -1,14 +1,13 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 13 Aug 2026.
+Goldie is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 13 Aug.
+Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Kapsule | Liverpool |
 | Fri, 21 Aug 2026 | Joshua Brooks | Manchester |
@@ -21,6 +20,7 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets l
 
 ## Recently played
 
+- Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 13 Aug 2026
 - Volks, Brighton — Sat, 8 Aug 2026
 - World Headquarters, Newcastle — Fri, 17 Jul 2026
 - Moseley Park, Birmingham — Fri, 10 Jul 2026
@@ -28,10 +28,9 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 155 sets l
 - Distrikt, Prague — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - The Cause, London — Sun, 14 Jun 2026
-- Het Twiske, Amsterdam — Sat, 23 May 2026
 
 ## Shares bills with
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

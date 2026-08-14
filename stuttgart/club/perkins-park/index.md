@@ -1,6 +1,6 @@
 # Perkins Park
 
-Perkins Park is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "Vision Ekstase Open Air" on Sat, 15 Aug 2026.
+Perkins Park is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Vision Ekstase Open Air" on Sat, 15 Aug 2026.
 
 Perkins Park is a music venue in Stuttgart listed on soundcheck. 1 upcoming night, with line-ups including AHURA, Gisura, GROOVESICK and Jannis Maxim and 2 more. Browse upcoming dates, start times and who's playing. Stresemannstraße 39, 70191 Stuttgart.
 
@@ -14,4 +14,4 @@ Perkins Park is a music venue in Stuttgart listed on soundcheck. 1 upcoming nigh
 
 Stresemannstraße 39, 70191 Stuttgart, Stuttgart
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/perkins-park/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/perkins-park/)*

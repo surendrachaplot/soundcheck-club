@@ -1,6 +1,6 @@
 # Eddi Sander
 
-Eddi Sander is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Eddi Sander is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 Eddi Sander is a tech house and house artist tracked on soundcheck, with 10 sets logged across Berlin, Leipzig and Munich. Often billed alongside Daniel Duese, Martin Ka and Sin:port. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Eddi Sander is a tech house and house artist tracked on soundcheck, with 10 sets
 
 Daniel Duese, Martin Ka, Sin:port
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddisander/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddisander/)*

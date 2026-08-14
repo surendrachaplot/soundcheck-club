@@ -1,6 +1,6 @@
 # su:zy
 
-su:zy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+su:zy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 su:zy is a techno and trance artist based in Belgium, tracked on soundcheck, with 22 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Ampe, STDJ and Fais Le Beau. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ su:zy is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 
 Ampe, STDJ, Fais Le Beau
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*

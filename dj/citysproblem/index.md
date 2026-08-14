@@ -1,18 +1,18 @@
 # CITYSPROBLEM
 
-CITYSPROBLEM is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
+CITYSPROBLEM is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Stage and Radio, Manchester on Fri, 14 Aug 2026.
 
-CITYSPROBLEM is a trance and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Boston, Leeds, London and Manchester and 1 more. Often billed alongside moistbreezy, Princess Elf Bar and AYDJ. Next up: The Glove That Fits, London on Thu 13 Aug.
+CITYSPROBLEM is a trance and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Boston, Leeds, London and Manchester and 1 more. Often billed alongside moistbreezy, Princess Elf Bar and AYDJ. Next up: Stage and Radio, Manchester on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | The Glove That Fits | London |
 | Fri, 14 Aug 2026 | Stage and Radio | Manchester |
 
 ## Recently played
 
+- The Glove That Fits, London — Thu, 13 Aug 2026
 - Zuzu, Boston — Sat, 8 Aug 2026
 - Mood Ring, New York City — Wed, 11 Mar 2026
 - Rash, New York City — Sat, 17 Jan 2026
@@ -20,10 +20,9 @@ CITYSPROBLEM is a trance and techno artist based in United States of America, tr
 - Mood Ring, New York City — Fri, 1 Aug 2025
 - The DBA, Manchester — Fri, 4 Jul 2025
 - The Hifi Club, Leeds — Sat, 21 Jun 2025
-- Rash, New York City — Wed, 14 May 2025
 
 ## Shares bills with
 
 moistbreezy, Princess Elf Bar, AYDJ
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*

@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Queer Theory: Govanhill Festival" on Fri, 14 Aug 2026.
+The Rum Shack is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Queer Theory: Govanhill Festival" on Fri, 14 Aug 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including DAR DISKU, Sarahtonin and Simonotron. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming night
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

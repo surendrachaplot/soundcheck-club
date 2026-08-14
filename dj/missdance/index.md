@@ -1,6 +1,6 @@
 # Miss Dance
 
-Miss Dance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Miss Dance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Miss Dance is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bossy Doll Bina, Christa K and ELIZEN THE EMPEROR. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Miss Dance is a techno and house artist tracked on soundcheck, with 3 sets logge
 
 Bossy Doll Bina, Christa K, ELIZEN THE EMPEROR
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdance/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdance/)*

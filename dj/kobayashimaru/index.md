@@ -1,6 +1,6 @@
 # Kobayashi Maru
 
-Kobayashi Maru is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
+Kobayashi Maru is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
 
 Kobayashi Maru is a techno and club artist based in Czech Republic, tracked on soundcheck, with 26 sets logged across Berlin, London, Prague and Strasbourg. Often billed alongside Atch22, Madeleine and Marie Pravda. Next up: Ankali & Planeta Za, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kobayashi Maru is a techno and club artist based in Czech Republic, tracked on s
 
 Atch22, Madeleine, Marie Pravda
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobayashimaru/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobayashimaru/)*

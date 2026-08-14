@@ -1,6 +1,6 @@
 # Blatant Suspects
 
-Blatant Suspects is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, London on Fri, 14 Aug 2026.
+Blatant Suspects is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, London on Fri, 14 Aug 2026.
 
 Blatant Suspects is a house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Gilez, PHJ.WAV and Floppy Disk. Next up: TBA, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Blatant Suspects is a house artist tracked on soundcheck, with 10 sets logged ac
 
 Gilez, PHJ.WAV, Floppy Disk
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blatantsuspects/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blatantsuspects/)*

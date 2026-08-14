@@ -1,6 +1,6 @@
 # carrà
 
-carrà is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at gART.n, Berlin on Sat, 5 Sept 2026.
+carrà is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at gART.n, Berlin on Sat, 5 Sept 2026.
 
 carrà is a house artist tracked on soundcheck, with 2 sets logged across Berlin and Brussels. Often billed alongside LG JASPER <3, Sinan Varol and Strange Nacho. Next up: gART.n, Berlin on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ carrà is a house artist tracked on soundcheck, with 2 sets logged across Berlin
 
 LG JASPER <3, Sinan Varol, Strange Nacho
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*

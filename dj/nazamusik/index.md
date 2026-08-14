@@ -1,6 +1,6 @@
 # NAZA (MUSIK)
 
-NAZA (MUSIK) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Le Patio Rooftop, New York City on Sat, 22 Aug 2026.
+NAZA (MUSIK) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Le Patio Rooftop, New York City on Sat, 22 Aug 2026.
 
 NAZA (MUSIK) is a house and deep house artist based in Brazil, tracked on soundcheck, with 8 sets logged across Miami and Newyorkcity. Often billed alongside Jordi Iven, Coppola and Death on the Balcony. Next up: Le Patio Rooftop, Newyorkcity on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ NAZA (MUSIK) is a house and deep house artist based in Brazil, tracked on soundc
 
 Jordi Iven, Coppola, Death on the Balcony
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazamusik/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazamusik/)*

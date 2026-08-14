@@ -1,6 +1,6 @@
 # Mark Landragin
 
-Mark Landragin is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ministry Of Sound, London on Sat, 29 Aug 2026.
+Mark Landragin is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ministry Of Sound, London on Sat, 29 Aug 2026.
 
 Mark Landragin is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London, Manchester and Sheffield. Often billed alongside Dave Pearce, Allen Watts and Andrew Sharpe. Next up: Ministry Of Sound, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mark Landragin is a trance and progressive house artist based in United Kingdom,
 
 Dave Pearce, Allen Watts, Andrew Sharpe
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*

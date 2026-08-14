@@ -1,6 +1,6 @@
 # Julian Spradlin
 
-Julian Spradlin is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 14 Aug 2026.
+Julian Spradlin is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 14 Aug 2026.
 
 Julian Spradlin is an electronic artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside Ryan Spencer, Kindle and 1-800-CALL-ASH. Next up: Northern Lights Lounge, Detroit on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Julian Spradlin is an electronic artist based in United States of America, track
 
 Ryan Spencer, Kindle, 1-800-CALL-ASH
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianspradlin/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianspradlin/)*

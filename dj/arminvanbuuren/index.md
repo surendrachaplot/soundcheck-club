@@ -1,8 +1,8 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Gateway Studios, Oslo on Fri, 4 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gateway Studios, Oslo on Fri, 4 Sept 2026.
 
-Armin van Buuren is a trance and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Gateway Studios, Oslo on Fri 4 Sept.
+Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Gateway Studios, Oslo on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 67 se
 | Sat, 26 Sept 2026 | Tap1 | Copenhagen |
 | Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 5 Oct 2026 | [UNVRS] | Ibiza |
+| Sat, 10 Oct 2026 | Factory Town | Miami |
 | Wed, 21 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
@@ -32,4 +33,4 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 67 se
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

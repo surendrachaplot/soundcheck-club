@@ -1,6 +1,6 @@
 # Teruu
 
-Teruu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Output, Tokyo on Fri, 14 Aug 2026.
+Teruu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Output, Tokyo on Fri, 14 Aug 2026.
 
 Teruu is a house and techno artist based in Japan, tracked on soundcheck, with 37 sets logged across Kyoto and Tokyo. Often billed alongside Karlo, Kenyu and Jeremy Cheung. Next up: Output, Tokyo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Teruu is a house and techno artist based in Japan, tracked on soundcheck, with 3
 
 Karlo, Kenyu, Jeremy Cheung
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teruu/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teruu/)*

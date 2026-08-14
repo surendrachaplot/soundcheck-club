@@ -1,6 +1,6 @@
 # Fine (2)
 
-Fine (2) is a Post-Punk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
+Fine (2) is a Post-Punk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
 
 Fine (2) is a post-punk and electronica artist tracked on soundcheck, with 10 sets logged across Bristol, Copenhagen, Oslo and Stockholm and 1 more. Often billed alongside Melodi Ghazal, haloplus+ and 96 Back. Next up: Valby Parken, Copenhagen on Thu 13 Aug.
 
@@ -13,6 +13,7 @@ Fine (2) is a post-punk and electronica artist tracked on soundcheck, with 10 se
 
 ## Recently played
 
+- Valby Parken, Copenhagen — Thu, 13 Aug 2026
 - KLEIN kbh, Copenhagen — Fri, 12 Jun 2026
 - Trekanten, Oslo — Wed, 15 Apr 2026
 - Hus 7, Stockholm — Tue, 14 Apr 2026
@@ -20,10 +21,9 @@ Fine (2) is a post-punk and electronica artist tracked on soundcheck, with 10 se
 - ALICE, Copenhagen — Sat, 15 Nov 2025
 - Sønder Hoved, Copenhagen — Thu, 31 Jul 2025
 - ALICE, Copenhagen — Sat, 7 Jun 2025
-- TBA - Vermlandsgade 61, 2300 København S, Danmark, Copenhagen — Fri, 23 May 2025
 
 ## Shares bills with
 
 Melodi Ghazal, haloplus+, 96 Back
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-2/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-2/)*

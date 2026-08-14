@@ -1,6 +1,6 @@
 # Ŧoxygene
 
-Ŧoxygene is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
+Ŧoxygene is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
 
 Ŧoxygene is a techno and bass artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow and Lyon. Often billed alongside marshallkrk, Char2 and C Razey. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
 
@@ -22,4 +22,4 @@
 
 marshallkrk, Char2, C Razey
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxygene/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxygene/)*

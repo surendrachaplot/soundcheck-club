@@ -1,6 +1,6 @@
 # BIDOBEN
 
-BIDOBEN is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
+BIDOBEN is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
 
 BIDOBEN is a techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Berlin and Milan. Often billed alongside Cleric, Félicie and Hertz Collision. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BIDOBEN is a techno artist tracked on soundcheck, with 9 sets logged across Amst
 
 Cleric, Félicie, Hertz Collision
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bidoben/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bidoben/)*

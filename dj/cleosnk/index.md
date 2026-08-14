@@ -1,6 +1,6 @@
 # Cleo SNK
 
-Cleo SNK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+Cleo SNK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 Cleo SNK is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Leipzig. Often billed alongside Bunny Tsukino, micina and ttyfal. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cleo SNK is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Bunny Tsukino, micina, ttyfal
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleosnk/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleosnk/)*

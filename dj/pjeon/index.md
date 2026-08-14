@@ -1,6 +1,6 @@
 # Pjeon
 
-Pjeon is a Noise and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat, 15 Aug 2026.
+Pjeon is a Noise and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat, 15 Aug 2026.
 
 Pjeon is a noise and techno artist based in South Korea, tracked on soundcheck, with 4 sets logged across Seoul. Often billed alongside Moon! go America, Sawteeth and EESE. Next up: TBA - 26 Jong-ro, Jongno-Gu, Seoul on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Pjeon is a noise and techno artist based in South Korea, tracked on soundcheck, 
 
 Moon! go America, Sawteeth, EESE
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjeon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjeon/)*

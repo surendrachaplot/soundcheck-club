@@ -1,6 +1,6 @@
 # R1TON
 
-R1TON is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at EL SÓTANO, Madrid on Fri, 4 Sept 2026.
+R1TON is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at EL SÓTANO, Madrid on Fri, 4 Sept 2026.
 
 R1TON is a techno artist tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside Súper Pä, KRSDJ and Syback. Next up: EL SÓTANO, Madrid on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ R1TON is a techno artist tracked on soundcheck, with 10 sets logged across Madri
 
 Súper Pä, KRSDJ, Syback
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*

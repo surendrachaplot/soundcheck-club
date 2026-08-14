@@ -1,6 +1,6 @@
 # RÓ-ish
 
-RÓ-ish is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at THF Radio / Torhaus, Berlin on Sun, 16 Aug 2026.
+RÓ-ish is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at THF Radio / Torhaus, Berlin on Sun, 16 Aug 2026.
 
 RÓ-ish is a bass and hip-hop artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Gościńska, ANDI A. and N ska. Next up: THF Radio / Torhaus, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ RÓ-ish is a bass and hip-hop artist tracked on soundcheck, with 12 sets logged 
 
 Gościńska, ANDI A., N ska
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-ish/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-ish/)*

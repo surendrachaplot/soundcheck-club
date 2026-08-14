@@ -1,6 +1,6 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
+Samantha Loveridge is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
 
 Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Revolver Upstairs, Melbourne on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

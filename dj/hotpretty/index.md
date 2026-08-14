@@ -1,6 +1,6 @@
 # HOTPRETTY
 
-HOTPRETTY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
+HOTPRETTY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
 
 HOTPRETTY is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago, London, Miami and Newyorkcity and 1 more. Often billed alongside Kirk (US), BLACKCLUB and Hiroko Yamamura. Next up: Smoke & Mirrors, Chicago on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ HOTPRETTY is a techno and house artist based in United States of America, tracke
 
 Kirk (US), BLACKCLUB, Hiroko Yamamura
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*

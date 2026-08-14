@@ -1,14 +1,15 @@
 # Axel Groove
 
-Axel Groove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 21 Aug 2026.
+Axel Groove is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 21 Aug 2026.
 
-Axel Groove is a house and techno artist tracked on soundcheck, with 51 sets logged across Kualalumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 21 Aug.
+Axel Groove is a house and techno artist tracked on soundcheck, with 52 sets logged across Kualalumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
+| Sat, 22 Aug 2026 | TBA - JOLOKO | Kuala Lumpur |
 | Sun, 30 Aug 2026 | Wet Deck at W Hotel | Kuala Lumpur |
 
 ## Recently played
@@ -26,4 +27,4 @@ Axel Groove is a house and techno artist tracked on soundcheck, with 51 sets log
 
 Alam, Roshan, Victor G (MY)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelgroove/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelgroove/)*

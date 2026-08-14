@@ -1,6 +1,6 @@
 # A.Fruit
 
-A.Fruit is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
+A.Fruit is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 A.Fruit is a dubstep and bass artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside dj dolares, DUKU and Kercha. Next up: Village Underground Barcelona, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ A.Fruit is a dubstep and bass artist tracked on soundcheck, with 24 sets logged 
 
 dj dolares, DUKU, Kercha
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*

@@ -1,6 +1,6 @@
 # Alex Smoke
 
-Alex Smoke is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Alex Smoke is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Alex Smoke is an experimental artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Glasgow and Manchester. Often billed alongside Alif Hilal, Alliyah Enyo and An-Ting. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Alex Smoke is an experimental artist based in United Kingdom, tracked on soundch
 
 Alif Hilal, Alliyah Enyo, An-Ting
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsmoke/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsmoke/)*

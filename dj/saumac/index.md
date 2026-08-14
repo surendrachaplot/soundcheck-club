@@ -1,6 +1,6 @@
 # Saumac
 
-Saumac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Perle DU LAC Parc Barton, Geneva on Sat, 22 Aug 2026.
+Saumac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Perle DU LAC Parc Barton, Geneva on Sat, 22 Aug 2026.
 
 Saumac is a house and techno artist tracked on soundcheck, with 15 sets logged across Geneva and London. Often billed alongside Yuuki, FASTON and Hottwins. Next up: Perle DU LAC Parc Barton, Geneva on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Saumac is a house and techno artist tracked on soundcheck, with 15 sets logged a
 
 Yuuki, FASTON, Hottwins
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saumac/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saumac/)*

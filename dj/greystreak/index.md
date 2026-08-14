@@ -1,6 +1,6 @@
 # Grey Streak
 
-Grey Streak is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Quarry, Liverpool on Fri, 9 Oct 2026.
+Grey Streak is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Quarry, Liverpool on Fri, 9 Oct 2026.
 
 Grey Streak is an experimental and ambient artist tracked on soundcheck, with 10 sets logged across Glasgow, Liverpool, London and Manchester. Often billed alongside Roscoe Fox, BFTT and Mun Sing. Next up: Quarry, Liverpool on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Grey Streak is an experimental and ambient artist tracked on soundcheck, with 10
 
 Roscoe Fox, BFTT, Mun Sing
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greystreak/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greystreak/)*

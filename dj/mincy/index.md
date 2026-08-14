@@ -1,6 +1,6 @@
 # Mincy
 
-Mincy is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Divine Playhouse, Sydney on Sat, 15 Aug 2026.
+Mincy is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Divine Playhouse, Sydney on Sat, 15 Aug 2026.
 
 Mincy is a garage and techno artist tracked on soundcheck, with 58 sets logged across Barcelona, Brisbane, Bristol and Hobart and 7 more. Often billed alongside Killjoy, Caitlin Medcalf and Dr Dubplate. Next up: Divine Playhouse, Sydney on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Mincy is a garage and techno artist tracked on soundcheck, with 58 sets logged a
 
 Killjoy, Caitlin Medcalf, Dr Dubplate
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*

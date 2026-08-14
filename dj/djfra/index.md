@@ -1,6 +1,6 @@
 # Dj Fra
 
-Dj Fra is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Nitsa Club, Barcelona on Fri, 21 Aug 2026.
+Dj Fra is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nitsa Club, Barcelona on Fri, 21 Aug 2026.
 
 Dj Fra is a techno and latin bass artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin and Boston. Often billed alongside M8NSE, Crystallmess and BLONDEX. Next up: Nitsa Club, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dj Fra is a techno and latin bass artist tracked on soundcheck, with 40 sets log
 
 M8NSE, Crystallmess, BLONDEX
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfra/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfra/)*

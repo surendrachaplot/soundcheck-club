@@ -1,6 +1,6 @@
 # Jana Woodstock
 
-Jana Woodstock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Jana Woodstock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Jana Woodstock is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Krakow, London and Prague and 2 more. Often billed alongside Chaosy, Ponura and Ancient Methods. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jana Woodstock is a techno and house artist tracked on soundcheck, with 34 sets 
 
 Chaosy, Ponura, Ancient Methods
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janawoodstock/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janawoodstock/)*

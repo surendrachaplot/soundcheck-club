@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "YHRF" on Thu, 13 Aug 2026.
+The Big Romance is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Tadhg K b2b Bull Horris" on Fri, 14 Aug 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Bull Horris, Kenny Hanlon and Tadhg K. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Bull Horris, Kenny Hanlon and Tadhg K. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | YHRF |  |
 | Fri, 14 Aug 2026 | Tadhg K b2b Bull Horris | Bull Horris, Tadhg K |
 | Sat, 15 Aug 2026 | Kenny Hanlon | Kenny Hanlon |
 | Sun, 16 Aug 2026 | Organ Freeman (Live Jazz) + Brian Gallagher (DJ) |  |
@@ -19,4 +18,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 6 upcoming nigh
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

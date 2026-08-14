@@ -1,6 +1,6 @@
 # LeLeon
 
-LeLeon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
+LeLeon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
 
 LeLeon is a house and techno artist based in France, tracked on soundcheck, with 60 sets logged across Lyon and Paris. Often billed alongside Naajet (2), Bande de Filles and Lyss. Next up: Badaboum, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LeLeon is a house and techno artist based in France, tracked on soundcheck, with
 
 Naajet (2), Bande de Filles, Lyss
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*

@@ -1,14 +1,13 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 9 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Nina Kraviz | Manolaco" on Thu, 13 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Afrojack | Gil Glaze | Mark Code" on Fri, 14 Aug 2026.
 
-Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming nights, with line-ups including Afrojack, Agent Greg, Argie and David Morales and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
+Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Afrojack, Agent Greg, Argie and David Morales and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Nina Kraviz / Manolaco | Manolaco, Nina Kraviz |
 | Fri, 14 Aug 2026 | Afrojack / Gil Glaze / Mark Code | Afrojack |
 | Sat, 15 Aug 2026 | Meduza / G.Siras | Meduza |
 | Sun, 16 Aug 2026 | Diplo / Freespirit | Diplo, Freespirit |
@@ -22,4 +21,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

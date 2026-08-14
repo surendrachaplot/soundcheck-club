@@ -1,6 +1,6 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Temple Bar, Detroit on Sat, 15 Aug 2026.
+Tammy Lakkis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Temple Bar, Detroit on Sat, 15 Aug 2026.
 
 Tammy Lakkis is a house and techno artist tracked on soundcheck, with 269 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Temple Bar, Detroit on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Tammy Lakkis is a house and techno artist tracked on soundcheck, with 269 sets l
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*

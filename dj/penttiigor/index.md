@@ -1,6 +1,6 @@
 # Pentti Igor
 
-Pentti Igor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Pentti Igor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Pentti Igor is a house and techno artist based in Finland, tracked on soundcheck, with 23 sets logged across Athens, Barcelona, Berlin and Copenhagen and 1 more. Often billed alongside TINDRA, Manfred and 7 Levels. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Pentti Igor is a house and techno artist based in Finland, tracked on soundcheck
 
 TINDRA, Manfred, 7 Levels
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*

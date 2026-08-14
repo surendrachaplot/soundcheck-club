@@ -1,6 +1,6 @@
 # Groooves
 
-Groooves is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Stage and Radio, Manchester on Sat, 22 Aug 2026.
+Groooves is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Stage and Radio, Manchester on Sat, 22 Aug 2026.
 
 Groooves is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin, Leeds, London and Manchester. Often billed alongside Cam Harrop, Redshift (2) and 7ommes. Next up: Stage and Radio, Manchester on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Groooves is a house and tech house artist based in United Kingdom, tracked on so
 
 Cam Harrop, Redshift (2), 7ommes
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*

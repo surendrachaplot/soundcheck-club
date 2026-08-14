@@ -1,6 +1,6 @@
 # BootyWagon
 
-BootyWagon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Faust, Seoul on Sun, 16 Aug 2026.
+BootyWagon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Faust, Seoul on Sun, 16 Aug 2026.
 
 BootyWagon is a techno and house artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside gezibe, Suman and Kim Bo Yeon. Next up: Faust, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ BootyWagon is a techno and house artist based in South Korea, tracked on soundch
 
 gezibe, Suman, Kim Bo Yeon
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bootywagon/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bootywagon/)*

@@ -1,6 +1,6 @@
 # KBRAL
 
-KBRAL is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Virage, Paris on Sat, 15 Aug 2026.
+KBRAL is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Virage, Paris on Sat, 15 Aug 2026.
 
 KBRAL is a house and baile funk artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Catu Diosis, IDLIBRA and Lush Lata. Next up: Virage, Paris on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ KBRAL is a house and baile funk artist tracked on soundcheck, with 43 sets logge
 
 Catu Diosis, IDLIBRA, Lush Lata
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*

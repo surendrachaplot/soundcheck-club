@@ -1,6 +1,6 @@
 # Martha
 
-Martha is a Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
+Martha is a Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
 
 Martha is a post-punk artist based in Germany, tracked on soundcheck, with 3 sets logged across Birmingham and Melbourne. Often billed alongside AD ZEE, DELLA and Monique Tya. Next up: Angel Music Bar, Melbourne on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Martha is a post-punk artist based in Germany, tracked on soundcheck, with 3 set
 
 AD ZEE, DELLA, Monique Tya
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martha/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martha/)*

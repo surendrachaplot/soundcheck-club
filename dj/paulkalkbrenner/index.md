@@ -1,6 +1,6 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Paul Kalkbrenner is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Chelina Manuhutu, Jeff Mills and Adiel. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 59 s
 
 Chelina Manuhutu, Jeff Mills, Adiel
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

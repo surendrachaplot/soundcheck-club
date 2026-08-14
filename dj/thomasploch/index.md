@@ -1,6 +1,6 @@
 # Thomas Ploch
 
-Thomas Ploch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Ruby Room, Tokyo on Fri, 14 Aug 2026.
+Thomas Ploch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ruby Room, Tokyo on Fri, 14 Aug 2026.
 
 Thomas Ploch is a house and techno artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside Calavera, DJ OK and Dom (1). Next up: Ruby Room, Tokyo on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Thomas Ploch is a house and techno artist tracked on soundcheck, with 3 sets log
 
 Calavera, DJ OK, Dom (1)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasploch/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasploch/)*

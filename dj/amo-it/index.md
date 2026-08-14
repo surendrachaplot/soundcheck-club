@@ -1,6 +1,6 @@
 # Amo (IT)
 
-Amo (IT) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
+Amo (IT) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
 Amo (IT) is a trance and techno artist based in Italy, tracked on soundcheck, with 70 sets logged across Berlin, Cologne, Malta and Milan and 2 more. Often billed alongside Hanne B, 4NOUK and bbymeister. Next up: ÆDEN, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Amo (IT) is a trance and techno artist based in Italy, tracked on soundcheck, wi
 
 Hanne B, 4NOUK, bbymeister
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amo-it/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amo-it/)*

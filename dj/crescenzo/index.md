@@ -1,6 +1,6 @@
 # Crescenzo
 
-Crescenzo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at NWHR, Montreal on Fri, 21 Aug 2026.
+Crescenzo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NWHR, Montreal on Fri, 21 Aug 2026.
 
 Crescenzo is a house and deep house artist tracked on soundcheck, with 30 sets logged across Amsterdam and Montreal. Often billed alongside FAMÜ, Brian Cuta and Jesse Zotti. Next up: NWHR, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Crescenzo is a house and deep house artist tracked on soundcheck, with 30 sets l
 
 FAMÜ, Brian Cuta, Jesse Zotti
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*

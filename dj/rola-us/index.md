@@ -1,6 +1,6 @@
 # ROLA
 
-ROLA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
+ROLA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
 
 ROLA is a techno and house artist based in Lebanon, tracked on soundcheck, with 10 sets logged across Barcelona, London and Newyorkcity. Often billed alongside Auphoria, Zeravla and A-Kintero. Next up: Lightbox, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ROLA is a techno and house artist based in Lebanon, tracked on soundcheck, with 
 
 Auphoria, Zeravla, A-Kintero
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rola-us/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rola-us/)*

@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 6 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Aditya Permana, Jonathan Kusuma, Ridwan" on Fri, 14 Aug 2026.
+Klymax Discotheque is a music venue in Bali with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Aditya Permana, Jonathan Kusuma, Ridwan" on Fri, 14 Aug 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 6 upcoming nights, with line-ups including Danny, DITA (ID), Hanna and Jonathan Kusuma and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 6 upcoming nig
 | Fri, 28 Aug 2026 | Toy Tonics Jam, Gero |  |
 | Sat, 29 Aug 2026 | Danny, Mislav | Danny |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

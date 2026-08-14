@@ -1,6 +1,6 @@
 # Katie Novo
 
-Katie Novo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at The Plough, Bristol on Sat, 15 Aug 2026.
+Katie Novo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Plough, Bristol on Sat, 15 Aug 2026.
 
 Katie Novo is a disco and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol. Often billed alongside Sentinel 793, Almass Badat and Cowper. Next up: The Plough, Bristol on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Katie Novo is a disco and house artist based in United Kingdom, tracked on sound
 
 Sentinel 793, Almass Badat, Cowper
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katenovo/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katenovo/)*

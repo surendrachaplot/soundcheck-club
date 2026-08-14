@@ -1,6 +1,6 @@
 # X-Visions
 
-X-Visions is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
+X-Visions is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
 
 X-Visions is a techno and experimental artist based in Germany, tracked on soundcheck, with 7 sets logged across Bangkok and Berlin. Often billed alongside Toey Galaga, Freulein P. and Electrooney. Next up: Badehaus Berlin, Berlin on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ X-Visions is a techno and experimental artist based in Germany, tracked on sound
 
 Toey Galaga, Freulein P., Electrooney
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x-visions/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x-visions/)*

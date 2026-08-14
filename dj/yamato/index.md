@@ -1,6 +1,6 @@
 # Yamato
 
-Yamato is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
+Yamato is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
 
 Yamato is a techno and trance artist based in United States of America, tracked on soundcheck, with 23 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Drunken Kong, WAKA XINXI and Dani Savant. Next up: WOMB, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yamato is a techno and trance artist based in United States of America, tracked 
 
 Drunken Kong, WAKA XINXI, Dani Savant
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamato/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamato/)*

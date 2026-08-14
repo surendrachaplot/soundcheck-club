@@ -1,6 +1,6 @@
 # The Tate Institute
 
-The Tate Institute is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 13 Aug 2026; the next is "London Ragas: Breath into Sound - Pandit Ajay Prasanna" on Thu, 20 Aug 2026.
+The Tate Institute is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "London Ragas: Breath into Sound - Pandit Ajay Prasanna" on Thu, 20 Aug 2026.
 
 The Tate Institute is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Tate Institute is a music venue in London listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | London Ragas: Breath into Sound - Pandit Ajay Prasanna |  |
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-tate-institute/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-tate-institute/)*

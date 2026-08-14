@@ -1,6 +1,6 @@
 # KØLPØS
 
-KØLPØS is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 13 Aug 2026, next at TBA, Madrid on Sat, 19 Sept 2026.
+KØLPØS is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Madrid on Sat, 19 Sept 2026.
 
 KØLPØS is a techno and club artist based in Argentina, tracked on soundcheck, with 33 sets logged across Buenosaires, Madrid and Saopaulo. Often billed alongside Michel Lauriola, MYLAH and NANO (ARG). Next up: TBA, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ KØLPØS is a techno and club artist based in Argentina, tracked on soundcheck, 
 
 Michel Lauriola, MYLAH, NANO (ARG)
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolpos/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolpos/)*

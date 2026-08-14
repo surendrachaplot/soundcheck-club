@@ -1,6 +1,6 @@
 # Andrés Cremisini
 
-Andrés Cremisini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Rastro Live Studio, Madrid on Sat, 3 Oct 2026.
+Andrés Cremisini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rastro Live Studio, Madrid on Sat, 3 Oct 2026.
 
 Andrés Cremisini is an experimental and electronica artist tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Ato Rodriguez, Kernel and Lecouple Sound. Next up: Rastro Live Studio, Madrid on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Andrés Cremisini is an experimental and electronica artist tracked on soundchec
 
 Ato Rodriguez, Kernel, Lecouple Sound
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescremisini/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescremisini/)*

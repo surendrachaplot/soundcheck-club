@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 50 upcoming nights listed on soundcheck as of Thu, 13 Aug 2026; the next is "Defected: Darius Syrossian, Josh Butler b2b George Smeddles, Makez, Melé,Camila Ramirez" on Thu, 13 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Major League Djz presents: Kaz James, Kitty Amor, Max Menaged" on Fri, 14 Aug 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 50 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Defected: Darius Syrossian, Josh Butler b2b George Smeddles, Makez, Melé,Camila Ramirez | Darius Syrossian, George Smeddles, Josh Butler, Melé |
 | Fri, 14 Aug 2026 | Major League Djz presents: Kaz James, Kitty Amor, Max Menaged | Kaz James, Kitty Amor, Major League Djz, Max Menaged |
 | Sat, 15 Aug 2026 | The Masquerade: Claptone, Kerri Chandler, Alaia & Gallo, Dezko | Alaia & Gallo, Claptone, Kerri Chandler |
 | Sun, 16 Aug 2026 | Bedouin presents SAGA: Bedouin, LUCH, MoBlack | Bedouin, LUCH (MEX), MoBlack |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 50 upcoming nights
 | Thu, 20 Aug 2026 | Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology | D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology |
 | Fri, 21 Aug 2026 | Major League Djz presents: SPARROW, Massuma, AMIYA | Major League Djz, Massuma, Sparrow (CH) |
 | Sat, 22 Aug 2026 | The Masquerade: Claptone, Solardo, Marco Lys, Jonathan Ulysses | Claptone, Jonathan Ulysses, Marco Lys, Solardo |
+| Sun, 23 Aug 2026 | Bedouin presents SAGA: Bedouin, Acid Pauli, Viken Arman, Santiago Garcia | Acid Pauli, Bedouin, Santiago Garcia, Viken Arman |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

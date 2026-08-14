@@ -1,6 +1,6 @@
 # Carlota
 
-Carlota is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 13 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
+Carlota is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
 
 Carlota is a tech house and house artist tracked on soundcheck, with 6 sets logged across Barcelona, Madrid and Munich. Often billed alongside Diego Armando, Downloadable Content and Goiaba. Next up: Legal, Munich on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Carlota is a tech house and house artist tracked on soundcheck, with 6 sets logg
 
 Diego Armando, Downloadable Content, Goiaba
 
-*Updated Thu, 13 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota/)*
+*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota/)*
