@@ -1,14 +1,15 @@
 # Sharam
 
-Sharam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
+Sharam is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
 
-Sharam is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver, Ibiza, London and Losangeles and 4 more. Often billed alongside Deep Dish, Dubfire and Aaron Jacobs. Next up: BERHTA, Washingtondc on Sat 22 Aug.
+Sharam is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Ibiza, London and Losangeles and 4 more. Often billed alongside Deep Dish, Dubfire and Aaron Jacobs. Next up: BERHTA, Washingtondc on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | BERHTA | Washington DC |
+| Sat, 17 Oct 2026 | Stereo | Montreal |
 
 ## Recently played
 

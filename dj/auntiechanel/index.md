@@ -1,13 +1,14 @@
 # Auntie Chanel
 
-Auntie Chanel is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Outer Limits Lounge, Detroit on Thu, 20 Aug 2026.
+Auntie Chanel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TV Lounge, Detroit on Tue, 18 Aug 2026.
 
-Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 121 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: Outer Limits Lounge, Detroit on Thu 20 Aug.
+Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 122 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: TV Lounge, Detroit on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 18 Aug 2026 | TV Lounge | Detroit |
 | Thu, 20 Aug 2026 | Outer Limits Lounge | Detroit |
 
 ## Recently played

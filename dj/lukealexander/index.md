@@ -1,14 +1,15 @@
 # Luke Alexander
 
-Luke Alexander is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
+Luke Alexander is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
 
-Luke Alexander is an electro and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside Kaskade, Lane 8 and AQUTIE. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
+Luke Alexander is an electro and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside Kaskade, Lane 8 and AQUTIE. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Russell Industrial Center | Detroit |
+| Fri, 13 Nov 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 

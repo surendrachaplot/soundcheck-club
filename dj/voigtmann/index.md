@@ -1,14 +1,13 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
+Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
 
-Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Refuge, Newyorkcity on Fri 14 Aug.
+Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Floyd, Miami on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Refuge | New York City |
 | Sat, 15 Aug 2026 | Floyd | Miami |
 | Fri, 21 Aug 2026 | FOLD | London |
 | Sat, 29 Aug 2026 | Ratpack Piano Bar | Edinburgh |

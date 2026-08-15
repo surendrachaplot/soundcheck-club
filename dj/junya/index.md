@@ -1,14 +1,15 @@
 # Junya
 
-Junya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at DeTour, Tokyo on Sat, 22 Aug 2026.
+Junya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at DeTour, Tokyo on Sat, 22 Aug 2026.
 
-Junya is a house and techno artist based in Japan, tracked on soundcheck, with 76 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and MASSA (JP). Next up: DeTour, Tokyo on Sat 22 Aug.
+Junya is a house and techno artist based in Japan, tracked on soundcheck, with 77 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and MASSA (JP). Next up: DeTour, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | DeTour | Tokyo |
+| Mon, 7 Sept 2026 | Royal Lounge | Tokyo |
 
 ## Recently played
 

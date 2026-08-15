@@ -14,8 +14,8 @@ Radius is a music venue in Chicago listed on soundcheck. 22 upcoming nights, wit
 | Sat, 22 Aug 2026 | DARC Sport with ACRAZE |  |
 | Fri, 11 Sept 2026 | On The Hhunt at Cermak Hall |  |
 | Sat, 12 Sept 2026 | oskar med k | oskar med k |
-| Sat, 12 Sept 2026 | UNREAL NA TOUR: CHICAGO | AMAYAH, Johannes Schuster, KUKO, Kobosil, Winson |
 | Fri, 18 Sept 2026 | Unreal Chicago | AMAYAH, Johannes Schuster, KUKO, Kobosil, Winson |
+| Fri, 18 Sept 2026 | UNREAL NA TOUR: CHICAGO | AMAYAH, Johannes Schuster, KUKO, Kobosil, Winson |
 | Sat, 19 Sept 2026 | LSR/CITY by Gareth Emery | Gareth Emery |
 | Fri, 25 Sept 2026 | San Holo | San Holo |
 

@@ -1,6 +1,6 @@
 # 2Passo // Cottiers Theatre at Cottiers Theatre
 
-2Passo // Cottiers Theatre on Sat 7 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+2Passo // Cottiers Theatre on Sat 7 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Yalla
 
-Yalla is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at VI:AI''PI, Vienna on Sat, 15 Aug 2026.
+Yalla is a Hip-Hop and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at VI:AI''PI, Vienna on Sat, 15 Aug 2026.
 
-Yalla is an afro house and disco artist tracked on soundcheck, with 3 sets logged across Istanbul and Vienna. Often billed alongside Kiki and Semih Akay. Next up: VI:AI''PI, Vienna on Sat 15 Aug.
+Yalla is a hip-hop and afro house artist tracked on soundcheck, with 4 sets logged across Istanbul, Nurnberg and Vienna. Often billed alongside Kiki and Semih Akay. Next up: VI:AI''PI, Vienna on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | VI:AI''PI | Vienna |
+| Sat, 5 Sept 2026 | Mach1 Club Nürnberg | Nürnberg |
 
 ## Recently played
 

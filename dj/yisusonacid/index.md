@@ -9,7 +9,7 @@ YisusOnAcid is a techno and industrial artist tracked on soundcheck, with 14 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Foro HDX | Mexico City |
-| Fri, 25 Sept 2026 | Foro HDX | Mexico City |
+| Sat, 26 Sept 2026 | TBA - LUGAR POR CONFIRMAR | Mexico City |
 
 ## Recently played
 

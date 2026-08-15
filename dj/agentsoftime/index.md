@@ -1,8 +1,8 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 22 Aug 2026.
+Agents Of Time is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 22 Aug 2026.
 
-Agents Of Time is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 22 Aug.
+Agents Of Time is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 120 sets
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
+| Fri, 13 Nov 2026 | Roxy | Prague |
 
 ## Recently played
 

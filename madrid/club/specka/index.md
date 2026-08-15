@@ -10,7 +10,7 @@ Specka is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Incunables Rentrée I Specka Club |  |
 | Sat, 5 Sept 2026 | 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 I S[O]LO THE CLUB | MAURER |
-| Fri, 11 Sept 2026 | PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club | Anxiety for Living, Southear |
+| Fri, 11 Sept 2026 | PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club | Anxiety for Living, Southear, Yuliën |
 | Sat, 12 Sept 2026 | Macro y Suppa + Nay RPK y Nick BB I LlorandoLana - Specka Live |  |
 | Sat, 12 Sept 2026 | VERBOTEN I Specka Club | ARSA, Montse, Vilor |
 | Sat, 19 Sept 2026 | Michael Mayer [Kompakt] I Halley Club | David Ponziano, Michael Mayer |

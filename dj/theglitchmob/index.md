@@ -1,14 +1,15 @@
 # The Glitch Mob
 
-The Glitch Mob is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
+The Glitch Mob is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
 
-The Glitch Mob is a bass and drum & bass artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Berlin and Detroit and 14 more. Often billed alongside Anna Morgan, Bell Curve and Doctor Jeep. Next up: TRANSMISSION DC, Washingtondc on Sat 5 Sept.
+The Glitch Mob is a bass and drum & bass artist tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Berlin and Detroit and 14 more. Often billed alongside Anna Morgan, Bell Curve and Doctor Jeep. Next up: TRANSMISSION DC, Washingtondc on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TRANSMISSION DC | Washington DC |
+| Sat, 26 Sept 2026 | TBA | Los Angeles |
 
 ## Recently played
 

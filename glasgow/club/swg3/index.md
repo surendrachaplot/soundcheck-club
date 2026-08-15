@@ -14,7 +14,7 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with 
 | Sat, 29 Aug 2026 | M4 Festival |  |
 | Fri, 18 Sept 2026 | NIGHTVISION Presents: Funk Tribu | Funk Tribu |
 | Sat, 19 Sept 2026 | FLY - Dance Forever pres. Benwal & Kyle Starkey | Benwal, Kyle Starkey |
-| Sat, 19 Sept 2026 | Hidde Van Wee // All Night Long |  |
+| Sat, 19 Sept 2026 | 2Passo // Hidde Van Wee (All Night Long) | Hidde van Wee |
 | Sat, 19 Sept 2026 | FLY / Dance Forever pres. Benwal & Kyle Starkey | Benwal, Kyle Starkey |
 | Fri, 25 Sept 2026 | 25 years of NOVEK | AXION, NOVEK (SCO) |
 | Fri, 25 Sept 2026 | FLY - House Heads pres. Luuk van Dijk, Robbie Doherty & Prunk + more | Luuk van Dijk, Prunk, Robbie Doherty |

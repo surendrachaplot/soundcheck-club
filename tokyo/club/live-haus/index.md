@@ -1,8 +1,8 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "[ISCARIOT × musicfm.zip] ISCARIOT 3rd Anniy. musicfm.zip 4" on Sat, 15 Aug 2026.
+Live Haus is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "[ISCARIOT × musicfm.zip] ISCARIOT 3rd Anniy. musicfm.zip 4" on Sat, 15 Aug 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 1skr, 6.do, Acrocanthosaurus and arow and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 1skr, 6.do, Acrocanthosaurus and arow and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, wi
 | Sun, 30 Aug 2026 | mealth | arow, meweta |
 | Fri, 4 Sept 2026 | ALTURA | Sonia Lagoon (2) |
 | Fri, 4 Sept 2026 | reference, reference vol.5 | 1skr |
+| Tue, 8 Sept 2026 | 『Live Haus 6year ANNIVERSARY SPECIAL 松田CHABE岳ニ 7hours』 |  |
 | Fri, 11 Sept 2026 | 2riend club tour | RANNA, illequal, meweta, ohichaaan, 坂田律子 |
 | Sat, 12 Sept 2026 | Global pops party『Die a little bit』 | TAISHI IWAMI |
 | Sat, 12 Sept 2026 | Patriotictraitors |  |
-| Mon, 21 Sept 2026 | JAZZ'N'BASS - Double Time Feel=Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
 
 ## Address
 

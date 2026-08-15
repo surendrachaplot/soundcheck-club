@@ -1,8 +1,8 @@
 # Switch Angel
 
-Switch Angel is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
+Switch Angel is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
 
-Switch Angel is an electronica and trance artist tracked on soundcheck, with 9 sets logged across Austin, Boston, London and Losangeles and 3 more. Often billed alongside Alice Longyu Gao, Ava Blank and DJ_Dave. Next up: Vespers Club, London on Fri 21 Aug.
+Switch Angel is an electronica and experimental artist tracked on soundcheck, with 10 sets logged across Austin, Boston, London and Losangeles and 3 more. Often billed alongside Alice Longyu Gao, Ava Blank and DJ_Dave. Next up: Vespers Club, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Switch Angel is an electronica and trance artist tracked on soundcheck, with 9 s
 
 ## Recently played
 
+- Colour Factory, London — Fri, 14 Aug 2026
 - Sidney & Matilda, Sheffield — Thu, 30 Jul 2026
 - The Carpet Shop, London — Tue, 19 May 2026
 - Water & Power, Los Angeles — Sat, 4 Apr 2026

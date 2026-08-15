@@ -1,8 +1,8 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rhythm, Toronto on Sat, 22 Aug 2026.
+Measure Divide is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rhythm, Toronto on Sat, 22 Aug 2026.
 
-Measure Divide is a techno and acid artist tracked on soundcheck, with 85 sets logged across Berlin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Rhythm, Toronto on Sat 22 Aug.
+Measure Divide is a techno and acid artist tracked on soundcheck, with 86 sets logged across Berlin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Rhythm, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Measure Divide is a techno and acid artist tracked on soundcheck, with 85 sets l
 | Fri, 4 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 5 Sept 2026 | TBA | Toronto |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
+| Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played
 

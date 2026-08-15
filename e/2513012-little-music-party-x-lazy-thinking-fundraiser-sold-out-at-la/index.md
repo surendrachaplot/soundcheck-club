@@ -1,0 +1,17 @@
+# little music party x Lazy Thinking Fundraiser (SOLD OUT) at Lazy Thinking
+
+little music party x Lazy Thinking Fundraiser (SOLD OUT) on Fri 21 Aug, Sydney. 3 acts on the bill: Arketek, Genie (1) and Postponez. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 21 Aug 2026 |
+| Venue | Lazy Thinking |
+| City | Sydney |
+
+## Line-up
+
+- Arketek
+- Genie (1)
+- Postponez
+
+*Source: [soundcheck](https://soundcheck.club/e/2513012-little-music-party-x-lazy-thinking-fundraiser-sold-out-at-la/)*

@@ -1,8 +1,8 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at NUMBER 90 LONDON, London on Thu, 20 Aug 2026.
+MPH (1) is a Garage and Bass artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at NUMBER 90 LONDON, London on Thu, 20 Aug 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: NUMBER 90 LONDON, London on Thu 20 Aug.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Auckland and Austin and 38 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: NUMBER 90 LONDON, London on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,8 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 108 sets logged 
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | Night We Met | Nashville |
 | Sat, 7 Nov 2026 | Royale | Boston |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Fri, 13 Nov 2026 | A.i Warehouse | Washington DC |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Forward x Euphorie present: Buda BXL at Buda BXL
 
-Forward x Euphorie present: Buda BXL on Sat 10 Oct, Brussels. 7 acts on the bill: Domi (FR), Hofmann (BE), Kensa and Konduku and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Forward x Euphorie present: Buda BXL on Sat 10 Oct, Brussels. 9 acts on the bill: Bapow, Domi (FR), Hofmann (BE) and Kensa and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ Forward x Euphorie present: Buda BXL on Sat 10 Oct, Brussels. 7 acts on the bill
 
 ## Line-up
 
+- Bapow
 - Domi (FR)
 - Hofmann (BE)
 - Kensa
 - Konduku
+- Sookie (3)
 - Vera
 - Yela
 - Z@p

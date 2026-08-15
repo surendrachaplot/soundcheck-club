@@ -1,6 +1,6 @@
 # KINETIC TEC Session 2: Hard Dance at Lion Super Club
 
-KINETIC TEC Session 2: Hard Dance at Lion Super Club on Fri 21 Aug, Seoul. 1 act on the bill: ANXHELA. Techno. Preview the line-up and save it on soundcheck.
+KINETIC TEC Session 2: Hard Dance at Lion Super Club on Fri 21 Aug, Seoul. 4 acts on the bill: ANXHELA, Lunara, Minehero and Soraere Brocken. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ KINETIC TEC Session 2: Hard Dance at Lion Super Club on Fri 21 Aug, Seoul. 1 act
 ## Line-up
 
 - ANXHELA
+- Lunara
+- Minehero
+- Soraere Brocken
 
 *Source: [soundcheck](https://soundcheck.club/e/2512282-kinetic-tec-session-2-hard-dance-at-lion-super-club/)*

@@ -1,8 +1,8 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 5 Sept 2026.
+Sammy Virji is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 5 Sept 2026.
 
-Sammy Virji is a garage and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 5 Sept.
+Sammy Virji is a garage and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sammy Virji is a garage and house artist tracked on soundcheck, with 124 sets lo
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Sat, 17 Oct 2026 | Gallagher Square | San Diego |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Fri, 13 Nov 2026 | Cow Palace | San Francisco/Oakland |
 
 ## Recently played
 

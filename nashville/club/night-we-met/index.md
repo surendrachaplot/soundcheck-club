@@ -11,9 +11,9 @@ Night We Met is a music venue in Nashville listed on soundcheck. 21 upcoming nig
 | Sat, 15 Aug 2026 | Hayden James | Hayden James |
 | Fri, 21 Aug 2026 | Gene Farris | Gene Farris |
 | Sat, 22 Aug 2026 | Amtrac | Amtrac, Stochastic |
-| Fri, 28 Aug 2026 | Yung Bae |  |
+| Fri, 28 Aug 2026 | Yung Bae | MGR Mike |
 | Sat, 29 Aug 2026 | Marie Vaunt | Marie Vaunt |
-| Fri, 4 Sept 2026 | Acraze |  |
+| Fri, 4 Sept 2026 | Acraze | NESH, SL8R |
 | Sat, 5 Sept 2026 | Swimming Paul | Swimming Paul |
 | Sun, 6 Sept 2026 | Lilly Palmer | Lilly Palmer |
 | Fri, 11 Sept 2026 | HoneyLuv | HoneyLuv |

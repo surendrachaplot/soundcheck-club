@@ -1,0 +1,29 @@
+# Rhadewa
+
+Rhadewa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
+
+Rhadewa is a techno and house artist based in Indonesia, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside Drinkss, SuperUser and Takumi's Afterparty. Next up: Oath, Tokyo on Fri 21 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 21 Aug 2026 | Oath | Tokyo |
+| Sat, 5 Sept 2026 | MIDNIGHT EAST | Tokyo |
+
+## Recently played
+
+- UTOPIA / DYSTOPIA, Tokyo — Fri, 24 Jul 2026
+- Débris, Tokyo — Sat, 20 Jun 2026
+- Utopia/Dystopia, Tokyo — Fri, 5 Jun 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 11 Apr 2026
+- UTOPIA / DYSTOPIA, Tokyo — Fri, 10 Apr 2026
+- UTOPIA / DYSTOPIA, Tokyo — Fri, 10 Apr 2026
+- TBA - SON Records & Ambient cafe, Tokyo — Sun, 15 Feb 2026
+- Tengu Shokudo, Tokyo — Fri, 16 Jan 2026
+
+## Shares bills with
+
+Drinkss, SuperUser, Takumi's Afterparty
+
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadewa/)*

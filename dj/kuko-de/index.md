@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+KUKO is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Gianpula Village, Malta on Wed 12 Aug.
+KUKO is a techno and trance artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ KUKO is a techno and trance artist tracked on soundcheck, with 205 sets logged a
 | Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
-| Sat, 12 Sept 2026 | Radius | Chicago |
+| Fri, 18 Sept 2026 | Radius | Chicago |
 
 ## Recently played
 

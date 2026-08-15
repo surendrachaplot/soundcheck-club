@@ -1,8 +1,8 @@
 # Leo Gretener
 
-Leo Gretener is a Electronica and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Leo Gretener is a Electronica and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
 
-Leo Gretener is an electronica and tech house artist based in Switzerland, tracked on soundcheck, with 24 sets logged across Geneva and Zurich. Often billed alongside Princess P, Ethimm and Kalabrese. Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
+Leo Gretener is an electronica and tech house artist based in Switzerland, tracked on soundcheck, with 25 sets logged across Geneva, Manchester and Zurich. Often billed alongside Princess P, Kalabrese and Ethimm. Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Leo Gretener is an electronica and tech house artist based in Switzerland, track
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Will got massaged 1 Day before event  | Zurich |
 | Sat, 5 Sept 2026 | TBA | Zurich |
+| Fri, 13 Nov 2026 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Leo Gretener is an electronica and tech house artist based in Switzerland, track
 
 ## Shares bills with
 
-Princess P, Ethimm, Kalabrese
+Princess P, Kalabrese, Ethimm
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*

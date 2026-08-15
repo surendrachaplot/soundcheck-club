@@ -10,7 +10,7 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 4 upcoming nights, 
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Huerta -long set- | Huerta, MARU (2), SEIJI (2) |
 | Fri, 21 Aug 2026 | 【Rescheduled show】Baby J in Osaka | Baby J (2), ryota dj |
-| Sat, 12 Sept 2026 | OTO -JOKESONYOU- | JOKESONYOU |
+| Sat, 12 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU |
 | Fri, 16 Oct 2026 | synts presents: Mietze Conte |  |
 
 ## Address

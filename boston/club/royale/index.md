@@ -1,8 +1,8 @@
 # Royale
 
-Royale is a music venue in Boston with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Meduza" on Fri, 21 Aug 2026.
+Royale is a music venue in Boston with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Meduza" on Fri, 21 Aug 2026.
 
-Royale is a music venue in Boston listed on soundcheck. 10 upcoming nights, with line-ups including CamelPhat, Franky Rizardo, Meduza and MPH (1) and 2 more. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
+Royale is a music venue in Boston listed on soundcheck. 11 upcoming nights, with line-ups including CamelPhat, Franky Rizardo, Kahani and Kunal Merchant and 2 more. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
 ## What's on
 

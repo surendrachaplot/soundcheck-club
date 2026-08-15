@@ -9,7 +9,7 @@ Freddie Grisbi is a tech house and deep house artist based in United Kingdom, tr
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | FORGE | Sheffield |
-| Sun, 30 Aug 2026 | Shakespeares | Sheffield |
+| Sun, 30 Aug 2026 | Abbeydale Picture House | Sheffield |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # hiroto yano
 
-hiroto yano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 22 Aug 2026.
+hiroto yano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Azumaya, Tokyo on Tue, 18 Aug 2026.
 
-hiroto yano is a house and techno artist based in Japan, tracked on soundcheck, with 128 sets logged across Tokyo. Often billed alongside Terax, kagurun and MINAMI. Next up: Aoyama Hachi, Tokyo on Sat 22 Aug.
+hiroto yano is a house and techno artist based in Japan, tracked on soundcheck, with 129 sets logged across Tokyo. Often billed alongside Terax, kagurun and MINAMI. Next up: Azumaya, Tokyo on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 18 Aug 2026 | Azumaya | Tokyo |
 | Sat, 22 Aug 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played

@@ -204,7 +204,7 @@
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
     .logo-ic { width:28px; height:28px; color:var(--accent); flex:none; }
     .logo-wm { font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.01em; line-height:1; }
-    .logo-wm .ac { color:var(--accent); }
+    .logo-wm .ac { background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
     .logo:hover .logo-wm { color:var(--accent); }
     /* ── web header: city switcher + named nav + search box + log + account ── */
     .hdr-city { flex:none; display:inline-flex; align-items:center; gap:4px; background:none; border:0; padding:4px 2px; cursor:pointer; font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.01em; line-height:1; text-transform:lowercase; color:var(--fg); -webkit-tap-highlight-color:transparent; }
@@ -277,13 +277,13 @@
     .home-seo-nav a { color:var(--accent); text-decoration:none; }
     .home-seo-nav a:hover { text-decoration:underline; }
     @media (max-width:620px){ .home-seo { margin:28px 0 8px; padding-top:20px; } .home-seo-more { margin:28px 0 8px; } }
-    .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
+    .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; margin-bottom:8px; }
     h1 { font-family:var(--head); font-weight:800; font-size:clamp(2.1rem,5vw,3.4rem); line-height:0.96; letter-spacing:-0.03em; }
     /* Headings are Bricolage explicitly — page titles (Coming up, Search, Log a gig…)
        and artist/event/venue names are bare <h3>s. Body (var(--body)) is now Bricolage
        too, so this just pins the heavier weight. Component rules keep their own size. */
     h2, h3, h4 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
-    h1 .ac { color:var(--accent); }
+    h1 .ac { background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
     /* city switcher woven into the headline (replaces the old datebar chip) */
     h1 .city-switch { font:inherit; letter-spacing:inherit; color:inherit; background:none; border:0; padding:0; margin:0; cursor:pointer; display:inline; -webkit-tap-highlight-color:transparent; text-decoration:underline dotted; text-decoration-color:var(--accent); text-decoration-thickness:0.045em; text-underline-offset:0.1em; transition:color var(--dur-1) var(--ease-standard); }
     h1 .city-switch:hover, h1 .city-switch:focus-visible { color:var(--accent); outline:none; text-decoration-style:solid; }
@@ -474,7 +474,7 @@
       background:linear-gradient(rgba(255,154,61,.025) 1px, transparent 1px); background-size:100% 8px; }
     .ob-card-top { display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
     .ob-card-wm { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:var(--ls-md); }
-    .ob-card-wm i { font-style:normal; color:var(--accent); }
+    .ob-card-wm i { font-style:normal; background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
     .ob-card-lbl { font:800 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.18em; color:var(--accent); }
     .ob-card-cols { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:var(--sp-3) 0; }
     .ob-card-col { min-width:0; }
@@ -697,7 +697,8 @@
     .email-close { position:absolute; top:12px; right:12px; width:30px; height:30px; background:transparent; border:none; color:var(--muted); font-size:var(--fs-lg); cursor:pointer; border-radius:var(--radius-pill); }
     .email-close:hover { background:var(--bg); color:var(--fg); }
     .email-modal h3 { font-family:var(--head); font-size:var(--fs-lg); font-weight:800; letter-spacing:-0.025em; margin-bottom:6px; }
-    .email-modal h3 .ac { color:var(--accent); }
+    .auth-box h3 .ac { background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
+    .email-modal h3 .ac { background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
     .email-modal p { color:var(--muted); font-size:var(--fs-base); margin-bottom:18px; }
     /* "Keep listening" — the quiet way out of the check-your-inbox step. Values
        copied from #auth-sent-done's inline style so the two secondary exits in
@@ -1591,7 +1592,7 @@
     .bill-why { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; text-align:center; font:500 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); line-height:1.3; margin-top:-3px; max-width:100%; }
     .bill-acts { flex:none; display:flex; align-items:center; gap:6px; margin-left:4px; }
     .nm-box { margin-top:18px; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-md); padding:14px 16px; }
-    .nm-k { font:800 var(--fs-xs)/var(--lh-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
+    .nm-k { font:800 var(--fs-xs)/var(--lh-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; margin-bottom:8px; }
     .nm-k small { color:var(--muted); font-weight:500; letter-spacing:0; text-transform:none; }
     .nm-row { display:flex; align-items:center; gap:11px; width:100%; text-align:left; background:none; border:none; border-top:1px solid var(--line); padding:10px 0; cursor:pointer; color:inherit; -webkit-tap-highlight-color:transparent; }
     .nm-row:first-of-type { border-top:none; }
@@ -3692,7 +3693,7 @@
     .ob-dots i{ width:7px; height:7px; border-radius:50%; background:var(--surface-2); }
     .ob-dots i.on{ background:var(--accent); }
     .ob-skip{ background:none; border:0; color:var(--muted); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.08em; text-transform:uppercase; cursor:pointer; padding:6px 0; }
-    .ob-eyebrow{ font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; color:var(--accent); margin-bottom:14px; }
+    .ob-eyebrow{ font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; margin-bottom:14px; }
     .ob-h1{ font-family:var(--head); font-weight:800; font-size:clamp(1.9rem, 6.5vw, 2.6rem); letter-spacing:-0.02em; line-height:1.08; margin:0 0 12px; }
     .ob-sub{ color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:0 0 26px; max-width:44ch; }
     .ob-sub b{ color:var(--fg); font-weight:600; }
@@ -3718,6 +3719,7 @@
     .ob-err{ color:var(--accent); font-size:var(--fs-sm); min-height:1.2em; margin-top:10px; }
     .ob-code{ letter-spacing:0.5em; font-variant-numeric:tabular-nums; text-align:center; font-size:var(--fs-lg) !important; max-width:260px; }
     .ob-city{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+    .ob-city .ob-alt{ align-self:center; padding:0; }
     .ob-citypill{ display:inline-flex; align-items:center; gap:8px; background:var(--sel-weak); border:1.5px solid var(--sel); color:var(--fg); border-radius:999px; padding:10px 18px; font:700 var(--fs-base)/var(--lh-base) var(--body); }
     .ob-results{ margin-top:16px; display:flex; flex-direction:column; }
     .ob-row{ display:flex; align-items:center; gap:12px; padding:11px 0; border-bottom:1px solid var(--border); background:none; border-left:0; border-right:0; border-top:0; color:var(--fg); text-align:left; cursor:pointer; width:100%; }
@@ -3977,7 +3979,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786793610821">
+<meta name="sc-build" content="1786802584390">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4105,7 +4107,7 @@
       <button class="auth-close" id="auth-close" type="button" aria-label="Close">&times;</button>
       <div id="auth-form-state">
         <div class="eyebrow">Save your picks</div>
-        <h3>Sign in to <span style="color:var(--accent)">soundcheck</span>.</h3>
+        <h3>Sign in to <span class="ac">soundcheck</span>.</h3>
         <p>No password &mdash; we&rsquo;ll email you a magic link, so your picks follow you across devices.</p>
         <form id="auth-form">
           <input type="email" id="auth-email" placeholder="you@email.com" autocomplete="email" inputmode="email" required>
@@ -5926,7 +5928,13 @@
     async function signOut(){
       try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
       try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
-      _hadAccount=false; currentUser=null; renderAccount(); showToast('Signed out');
+      _hadAccount=false; currentUser=null; renderAccount();
+      // renderAccount() only repaints the HEADER widget. Sign out is almost
+      // always pressed FROM the profile page, which stayed on screen showing
+      // the account that no longer exists — so the button looked dead and you
+      // only appeared to sign out when you refreshed. Leave the page too.
+      try{ goGrid(); }catch(_){}
+      showToast('Signed out');
     }
 
     // sign-in modal
@@ -10183,23 +10191,47 @@
     function obStepInbox(){
       var el=obBody('<div class="ob-eyebrow">Check your inbox</div>'+
         '<h1 class="ob-h1">The link&rsquo;s on its way.</h1>'+
-        '<p class="ob-sub">We sent it to <b>'+esc(_ob.email)+'</b>. Tap it on this device &mdash; or type the code from the email here.</p>'+
-        '<input type="tel" id="ob-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" inputmode="numeric">'+
+        '<p class="ob-sub">We sent it to <b>'+esc(_ob.email)+'</b>. Tap it on this device &mdash; or type the 6-character code from the email here.</p>'+
+        // type=text and NO numeric inputmode: the codes are letters AND digits
+        // (W3S4ZF), so a number pad cannot even type one.
+        '<input type="text" id="ob-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase">'+
         '<div class="ob-err" id="ob-err"></div>'+
+        '<button class="ob-cta" id="ob-codego" type="button">Sign me in</button>'+
         '<button class="ob-alt" id="ob-resend" type="button">Send it again</button>');
       var inp=el.querySelector('#ob-code'), busy=false;
-      inp.addEventListener('input',async function(){
-        var code=inp.value.replace(/\D/g,'');
-        if(code.length<6 || busy) return;
+      /**
+       * THIS SCREEN WAS A DEAD END, and it is the one people actually reach
+       * from "sign in".
+       *
+       * It had no submit button at all — the only way forward was an auto-submit
+       * that fired when the typed value reached 6 characters AFTER
+       * `replace(/\D/g,'')`. Our codes are drawn from
+       * ABCDEFGHJKLMNPQRSTUVWXYZ23456789, so that regex deletes most of the
+       * code: "W3S4ZF" became "34", never reached 6, and nothing ever happened.
+       * Reported with a screenshot of exactly that, with no button to press.
+       *
+       * Now: keep every character, and give it a button. Auto-submit stays as a
+       * convenience for a 6-character paste, but it is no longer the only route.
+       */
+      async function obVerify(){
+        var code=inp.value.replace(/[^a-z0-9]/gi,'').toUpperCase();
+        if(busy) return;
+        if(code.length<4){ el.querySelector('#ob-err').textContent='Enter the code from the email.'; return; }
         busy=true; el.querySelector('#ob-err').textContent='';
+        var go=el.querySelector('#ob-codego'); if(go) go.disabled=true;
         try{
           var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email, code:code }) });
           var j=await r.json().catch(function(){return {};});
-          if(!r.ok || !j.ok){ el.querySelector('#ob-err').textContent='That code isn’t it — check the email.'; busy=false; return; }
+          if(!r.ok || !j.ok){ el.querySelector('#ob-err').textContent='That code isn’t it — check the email.'; busy=false; if(go) go.disabled=false; return; }
           if(j.token) _memToken=j.token;
           await loadMe(); renderAccount();
           scOnboard('city');
-        }catch(_){ el.querySelector('#ob-err').textContent='Network hiccup — try again.'; busy=false; }
+        }catch(_){ el.querySelector('#ob-err').textContent='Network hiccup — try again.'; busy=false; if(go) go.disabled=false; }
+      }
+      el.querySelector('#ob-codego').addEventListener('click',obVerify);
+      inp.addEventListener('keydown',function(e){ if(e.key==='Enter') obVerify(); });
+      inp.addEventListener('input',function(){
+        if(inp.value.replace(/[^a-z0-9]/gi,'').length===6) obVerify();   // paste-and-go
       });
       el.querySelector('#ob-resend').addEventListener('click',function(){
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email }) })
@@ -10212,7 +10244,7 @@
         '<h1 class="ob-h1" id="ob-cityh">Finding your city&hellip;</h1>'+
         '<p class="ob-sub">This is where we&rsquo;ll look for your nights &mdash; you can switch any time.</p>'+
         '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
-        '<button class="ob-alt" id="ob-changecity" type="button" style="padding-top:0">Somewhere else</button></div>'+
+        '<button class="ob-alt" id="ob-changecity" type="button">Somewhere else</button></div>'+
         '<div id="ob-citypick" style="margin-top:14px;max-width:340px" hidden>'+cityPickerHTML('ob-city','')+'</div>'+
         '<button class="ob-cta" id="ob-citygo" type="button" disabled>That&rsquo;s me</button>');
       function setCity(slug){

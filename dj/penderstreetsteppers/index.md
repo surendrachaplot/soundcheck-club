@@ -1,13 +1,14 @@
 # Pender Street Steppers
 
-Pender Street Steppers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Pender Street Steppers is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Lido, Vancouver on Sat, 22 Aug 2026.
 
-Pender Street Steppers is a house and disco artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Bristol and London and 12 more. Often billed alongside Dane, DJ D.Dee and Yu Su. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
+Pender Street Steppers is a house and disco artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Bristol and London and 12 more. Often billed alongside DJ D.Dee, Dane and Yu Su. Next up: The Lido, Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | The Lido | Vancouver |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
@@ -24,6 +25,6 @@ Pender Street Steppers is a house and disco artist tracked on soundcheck, with 5
 
 ## Shares bills with
 
-Dane, DJ D.Dee, Yu Su
+DJ D.Dee, Dane, Yu Su
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penderstreetsteppers/)*

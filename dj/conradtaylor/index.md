@@ -1,8 +1,8 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
+Conrad Taylor is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
 
-Conrad Taylor is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Newyorkcity, Paris and Sanfrancisco and 3 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Celebrities Night Club, Vancouver on Sat 22 Aug.
+Conrad Taylor is a techno and house artist tracked on soundcheck, with 19 sets logged across Austin, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Celebrities Night Club, Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Conrad Taylor is a techno and house artist tracked on soundcheck, with 18 sets l
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

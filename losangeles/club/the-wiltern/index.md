@@ -1,8 +1,8 @@
 # The Wiltern
 
-The Wiltern is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Bonobo" on Wed, 11 Nov 2026.
+The Wiltern is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Bonobo" on Wed, 11 Nov 2026.
 
-The Wiltern is a music venue in Losangeles listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 3790 Wilshire Blvd, Los Angeles, CA 90010.
+The Wiltern is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Olafur Arnalds. Browse upcoming dates, start times and who's playing. 3790 Wilshire Blvd, Los Angeles, CA 90010.
 
 ## What's on
 
@@ -11,6 +11,7 @@ The Wiltern is a music venue in Losangeles listed on soundcheck. 3 upcoming nigh
 | Wed, 11 Nov 2026 | Bonobo |  |
 | Wed, 11 Nov 2026 | KCRW presents Bonobo |  |
 | Thu, 12 Nov 2026 | Bonobo |  |
+| Fri, 13 Nov 2026 | Olafur Arnalds | Olafur Arnalds |
 
 ## Address
 

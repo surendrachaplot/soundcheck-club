@@ -1,8 +1,8 @@
 # Prospa
 
-Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 24 Aug 2026.
+Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 24 Aug 2026.
 
-Prospa is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Santanna Mykonos, Mykonos on Mon 24 Aug.
+Prospa is a house and techno artist tracked on soundcheck, with 176 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Santanna Mykonos, Mykonos on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Prospa is a house and techno artist tracked on soundcheck, with 175 sets logged 
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Wed, 14 Oct 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
+| Sun, 18 Oct 2026 | Beach House San Diego | San Diego |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

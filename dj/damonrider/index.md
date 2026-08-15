@@ -1,8 +1,8 @@
 # Damon Rider
 
-Damon Rider is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Culture Cafe, Bangkok on Fri, 21 Aug 2026.
+Damon Rider is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Culture Cafe, Bangkok on Fri, 21 Aug 2026.
 
-Damon Rider is a techno and industrial artist tracked on soundcheck, with 123 sets logged across Bangkok. Often billed alongside Gunya, The3RD and REIKS. Next up: Culture Cafe, Bangkok on Fri 21 Aug.
+Damon Rider is a techno and industrial artist tracked on soundcheck, with 125 sets logged across Bangkok. Often billed alongside Gunya, The3RD and REIKS. Next up: Culture Cafe, Bangkok on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Damon Rider is a techno and industrial artist tracked on soundcheck, with 123 se
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Culture Cafe | Bangkok |
 | Fri, 4 Sept 2026 | Culture Cafe | Bangkok |
+| Fri, 18 Sept 2026 | Culture Cafe | Bangkok |
+| Fri, 25 Sept 2026 | Culture Cafe | Bangkok |
 
 ## Recently played
 

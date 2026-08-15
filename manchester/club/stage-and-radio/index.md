@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "contact groove at stage & radio" on Sat, 15 Aug 2026.
+Stage and Radio is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "contact groove at stage & radio" on Sat, 15 Aug 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 

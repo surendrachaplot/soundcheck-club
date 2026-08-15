@@ -1,8 +1,8 @@
-# VØID
+# V O I D
 
-VØID is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
+V O I D is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
 
-VØID is a techno and bass artist tracked on soundcheck, with 3 sets logged across Auckland, Paris and Seoul. Often billed alongside Andwahn, HASLA and MASIN. Next up: Il Brutto Auckland, Auckland on Sat 15 Aug.
+V O I D is a techno and bass artist tracked on soundcheck, with 3 sets logged across Auckland, Paris and Seoul. Often billed alongside Andwahn, HASLA and MASIN. Next up: Il Brutto Auckland, Auckland on Sat 15 Aug.
 
 ## Upcoming shows
 

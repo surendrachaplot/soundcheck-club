@@ -9,7 +9,7 @@ Steven Shade is a techno and tech house artist based in Germany, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Odonien | Cologne |
-| Fri, 18 Sept 2026 | Baalsaal | Hamburg |
+| Fri, 11 Sept 2026 | Baalsaal | Hamburg |
 | Fri, 23 Oct 2026 | Baalsaal | Hamburg |
 
 ## Recently played

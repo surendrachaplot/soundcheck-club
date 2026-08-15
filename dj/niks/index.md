@@ -1,8 +1,8 @@
 # NIKS
 
-NIKS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+NIKS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
-NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Kelvedon Hall, London on Fri 14 Aug.
+NIKS is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged ac
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 12 Sept 2026 | Südpol | Hamburg |
 
 ## Recently played
 

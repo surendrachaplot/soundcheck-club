@@ -1,8 +1,8 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Eden, Ibiza on Thu, 27 Aug 2026.
+Markus Schulz is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Eden, Ibiza on Thu, 27 Aug 2026.
 
-Markus Schulz is a trance and progressive house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Bangkok and Bristol and 26 more. Often billed alongside Amy Wiles, Billy Gillies and Ferry Corsten. Next up: Eden, Ibiza on Thu 27 Aug.
+Markus Schulz is a trance and progressive house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Bangkok and Bristol and 26 more. Often billed alongside Amy Wiles, Billy Gillies and Ferry Corsten. Next up: Eden, Ibiza on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Markus Schulz is a trance and progressive house artist tracked on soundcheck, wi
 | Thu, 17 Sept 2026 | Eden | Ibiza |
 | Fri, 25 Sept 2026 | Eden | Ibiza |
 | Sat, 10 Oct 2026 | Óbuda Bay | Budapest |
+| Sun, 11 Oct 2026 | Stereo | Montreal |
 | Sat, 7 Nov 2026 | Grand Central Hall | Liverpool |
 
 ## Recently played

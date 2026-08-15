@@ -12,7 +12,7 @@ smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, w
 | Sun, 16 Aug 2026 | Nico's Birthday Queen! Medusa's '80s Night | Derrick Carter, Michael Serafini |
 | Fri, 21 Aug 2026 | Diamond Formation feat. PAURRO - Ariel Zetina - Cryberbully | Ariel Zetina, PAURRO |
 | Sat, 22 Aug 2026 | Leon Vynehall - Sorrbet - Moorhaus | Leon Vynehall, Moorhaus, Sorrbet |
-| Sun, 23 Aug 2026 | Queen! feat. Derrick Carter - Dirtie B - Michael Serafini | Derrick Carter, Michael Serafini |
+| Sun, 23 Aug 2026 | Queen! feat. Derrick Carter - Dirtie B - Michael Serafini | Derrick Carter, Dirtie Blonde, Michael Serafini |
 | Fri, 28 Aug 2026 | Flowers of Romance feat. DJ Godfather - Justin Aulis Long 2x4 Grey People - CCTV | CCTV, DJ Godfather, Grey People, Justin Aulis Long |
 | Sat, 29 Aug 2026 | Nip Slip x Mama's House feat. Nita Aviance - Ariel Zetina - Jaxx - Glamour Cadaver | Ariel Zetina, Glamour Cadaver, Jaxx, Nita Aviance |
 | Sun, 30 Aug 2026 | Acid Queen! feat. Madeline - Michael Serafini - Shaun J Wright | Madeline (Chi), Michael Serafini, Shaun J. Wright |

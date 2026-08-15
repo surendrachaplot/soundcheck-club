@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+DJ Heartstring is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
-DJ Heartstring is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Burgess Park, London on Sat 15 Aug.
+DJ Heartstring is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Burgess Park, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ Heartstring is a techno and house artist tracked on soundcheck, with 213 sets
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sat, 19 Sept 2026 | Else | Berlin |
+| Sat, 17 Oct 2026 | Poolen | Copenhagen |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 

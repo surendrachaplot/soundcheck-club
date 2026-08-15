@@ -1,8 +1,8 @@
 # Midline
 
-Midline is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TroyBoi MIAMI" on Sat, 15 Aug 2026.
+Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TroyBoi MIAMI" on Sat, 15 Aug 2026.
 
-Midline is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex and 1 more. Browse upcoming dates, start times and who's playing.
+Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

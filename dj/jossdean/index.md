@@ -1,8 +1,8 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 15 Aug 2026.
+Joss Dean is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 15 Aug 2026.
 
-Joss Dean is a house and tech house artist tracked on soundcheck, with 81 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 25 more. Often billed alongside Tommy Phillips, Ozzie Guven and Max Dean. Next up: Ouseburn Garden, Newcastle on Sat 15 Aug.
+Joss Dean is a house and tech house artist tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 26 more. Often billed alongside Tommy Phillips, Ozzie Guven and Max Dean. Next up: Ouseburn Garden, Newcastle on Sat 15 Aug.
 
 ## Upcoming shows
 

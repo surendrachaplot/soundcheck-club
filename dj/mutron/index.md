@@ -1,14 +1,15 @@
 # Mutron
 
-Mutron is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Decabar Super, Tokyo on Sat, 22 Aug 2026.
+Mutron is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Decabar Super, Tokyo on Sat, 22 Aug 2026.
 
-Mutron is a techno and electro artist tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside DJ ZiL, SiSeN and SHO. Next up: Decabar Super, Tokyo on Sat 22 Aug.
+Mutron is a techno and electro artist tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside DJ ZiL, SHO and SiSeN. Next up: Decabar Super, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Decabar Super | Tokyo |
+| Sat, 29 Aug 2026 | Decabar Super | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mutron is a techno and electro artist tracked on soundcheck, with 14 sets logged
 
 ## Shares bills with
 
-DJ ZiL, SiSeN, SHO
+DJ ZiL, SHO, SiSeN
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutron/)*

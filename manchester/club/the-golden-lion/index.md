@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Everything Is True (Syd Minsky & Matthew Hum)" on Sat, 15 Aug 2026.
+The Golden Lion is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Everything Is True (Syd Minsky & Matthew Hum)" on Sat, 15 Aug 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Ana K Miller, Goldie, Iration Steppas and Jamie Paton and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including Alex Dallas, Ana K Miller, Cio (Spezialmaterial) and Goldie and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -15,6 +15,7 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 7 upcoming 
 | Sat, 19 Sept 2026 | Tryouts Takeover at Golden Lion | Logan Fisher, Marco Passarani |
 | Fri, 9 Oct 2026 | SUBDUB - Iration Steppas Sound System, Simon Scott & guests  | Iration Steppas, Simon Scott |
 | Sat, 31 Oct 2026 | I Love Acid | Jon Dasilva, Nightwave, Posthuman, Slam |
+| Fri, 13 Nov 2026 | Zukunft X Optimo at Golden Lion Todmorden | Alex Dallas, Cio (Spezialmaterial), Kalabrese, Leo Gretener, Optimo (Espacio) |
 
 ## Address
 

@@ -1,14 +1,14 @@
 # Jordi Iven
 
-Jordi Iven is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Circle Line Cruises, New York City on Sun, 16 Aug 2026.
+Jordi Iven is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Circle Line Cruises, New York City on Fri, 21 Aug 2026.
 
-Jordi Iven is a house and techno artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Berlin, Miami, Newyorkcity and Saopaulo. Often billed alongside C.M.A., NAZA (MUSIK) and Dune. Next up: Circle Line Cruises, Newyorkcity on Sun 16 Aug.
+Jordi Iven is a house and techno artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Berlin, Miami, Newyorkcity and Saopaulo. Often billed alongside C.M.A., NAZA (MUSIK) and Dune. Next up: Circle Line Cruises, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Circle Line Cruises | New York City |
+| Fri, 21 Aug 2026 | Circle Line Cruises | New York City |
 
 ## Recently played
 

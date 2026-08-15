@@ -1,13 +1,14 @@
 # Dayzero
 
-Dayzero is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Dayzero is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Saloon, Tokyo on Thu, 20 Aug 2026.
 
-Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 40 sets logged across Bristol, Kyoto, London and Osaka and 1 more. Often billed alongside Oyubi, Herbalistek and Allen Mock. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
+Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Bristol, Kyoto, London and Osaka and 1 more. Often billed alongside Oyubi, Herbalistek and Allen Mock. Next up: Saloon, Tokyo on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Saloon | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played

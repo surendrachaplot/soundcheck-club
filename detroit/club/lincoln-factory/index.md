@@ -1,8 +1,8 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ORIGIN(AL)S OF BOOTY" on Sat, 15 Aug 2026.
+Lincoln Factory is a music venue in Detroit with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ORIGIN(AL)S OF BOOTY" on Sat, 15 Aug 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including AK (US), Arlo Parks, britty. and Dan Bain and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 13 upcoming nights, with line-ups including AK (US), Arlo Parks, britty. and Dan Bain and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Rafush
 
-Rafush is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
+Rafush is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
 
-Rafush is a bass and house artist tracked on soundcheck, with 123 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Dj Goodboy, ADAM MUNNINGS and Punani. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
+Rafush is a bass and house artist tracked on soundcheck, with 124 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Dj Goodboy, ADAM MUNNINGS and Punani. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location, Berlin | Berlin |
+| Sat, 12 Sept 2026 | Südpol | Hamburg |
 
 ## Recently played
 

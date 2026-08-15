@@ -1,10 +1,10 @@
 # UNREAL NA TOUR: CHICAGO at Radius
 
-UNREAL NA TOUR: CHICAGO at Radius on Sat 12 Sept, Chicago. 5 acts on the bill: AMAYAH, Johannes Schuster, Kobosil and KUKO and 1 more. Techno. Preview the line-up and save it on soundcheck.
+UNREAL NA TOUR: CHICAGO at Radius on Fri 18 Sept, Chicago. 5 acts on the bill: AMAYAH, Johannes Schuster, Kobosil and KUKO and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Sept 2026 |
+| Date | Fri, 18 Sept 2026 |
 | Venue | Radius |
 | City | Chicago |
 

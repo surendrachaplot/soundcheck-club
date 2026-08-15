@@ -1,8 +1,8 @@
 # Industry City
 
-Industry City is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "AGAPĒ FESTIVAL" on Sat, 5 Sept 2026.
+Industry City is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "AGAPĒ FESTIVAL" on Sat, 5 Sept 2026.
 
-Industry City is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Adrian Mills, Aiden (DE), Bad Boombox and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
+Industry City is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adrian Mills, Aiden (DE), Bad Boombox and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
 ## What's on
 
@@ -13,6 +13,8 @@ Industry City is a music venue in Newyorkcity listed on soundcheck. 5 upcoming n
 | Sat, 19 Sept 2026 | All Day I Dream: Lee Burridge Open-To-Close | Lee Burridge |
 | Sat, 26 Sept 2026 | RuPaul |  |
 | Sat, 10 Oct 2026 | Berlin Beyond Year 3 |  |
+| Fri, 23 Oct 2026 | City of Gods Festival: Night 1 |  |
+| Sat, 24 Oct 2026 | City of Gods Festival: Night 2 |  |
 
 ## Address
 

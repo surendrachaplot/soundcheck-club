@@ -15,7 +15,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wit
 | Fri, 21 Aug 2026 | R-TRANCE Feat.WILD CARD | AEMI, BEPPU, DJ 34, NDK |
 | Sat, 22 Aug 2026 | terrordome Vol.54 | DJ Shimamura |
 | Sat, 22 Aug 2026 | 夢幻 vol.9 | Dustvoxx |
-| Sun, 23 Aug 2026 | CRAZY BANANA ~Amazing dance music all over the world!~ | MMM, MagRena |
+| Sun, 23 Aug 2026 | CRAZY BANANA -10th Anniversary- | MMM, MagRena |
 | Thu, 27 Aug 2026 | Resound | BERLINER KINDL, SIGNAL (JP), cosmolady |
 | Sat, 29 Aug 2026 | DUST RIOT vol.4 | SONATA |
 

@@ -1,8 +1,8 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Henning Baer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Henning Baer is a techno and house artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
+| Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played
 

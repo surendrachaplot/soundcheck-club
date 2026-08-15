@@ -1,14 +1,15 @@
 # SEA (2)
 
-SEA (2) is a Gabber and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
+SEA (2) is a Gabber and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
 
-SEA (2) is a gabber and r&b artist based in Romania, tracked on soundcheck, with 4 sets logged across Barcelona, Frankfurt and Tokyo. Often billed alongside 000 (DJ), 5harpy and Abzocka. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu 27 Aug.
+SEA (2) is a gabber and r&b artist based in Romania, tracked on soundcheck, with 5 sets logged across Barcelona, Frankfurt and Tokyo. Often billed alongside 000 (DJ), 5harpy and Abzocka. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Tue, 1 Sept 2026 | COUNTER CLUB | Tokyo |
 
 ## Recently played
 

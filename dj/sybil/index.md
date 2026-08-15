@@ -1,15 +1,15 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tresor / Globus, Berlin on Fri, 14 Aug 2026.
+Sybil is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Green Room NYC, New York City on Fri, 4 Sept 2026.
 
-Sybil is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Kia (AU), Konduku and Marius Bø. Next up: Tresor / Globus, Berlin on Fri 14 Aug.
+Sybil is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Kia (AU), Konduku and Marius Bø. Next up: Green Room NYC, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 4 Sept 2026 | Green Room NYC | New York City |
+| Sat, 26 Sept 2026 | renae | Manchester |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 

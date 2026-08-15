@@ -1,14 +1,15 @@
 # Savage States
 
-Savage States is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Blvck Water, Osaka on Sat, 22 Aug 2026.
+Savage States is a Hardcore and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Blvck Water, Osaka on Sat, 22 Aug 2026.
 
-Savage States is a hardcore and drum & bass artist based in Japan, tracked on soundcheck, with 40 sets logged across Bristol, Osaka and Tokyo. Often billed alongside matres, merupo and Coretex. Next up: Blvck Water, Osaka on Sat 22 Aug.
+Savage States is a hardcore and jungle artist based in Japan, tracked on soundcheck, with 41 sets logged across Bristol, Osaka and Tokyo. Often billed alongside matres, merupo and Coretex. Next up: Blvck Water, Osaka on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Blvck Water | Osaka |
+| Fri, 4 Sept 2026 | Triangle | Osaka |
 | Sat, 12 Sept 2026 | Teranoma | Osaka |
 
 ## Recently played

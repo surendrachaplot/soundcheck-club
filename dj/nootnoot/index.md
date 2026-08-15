@@ -1,14 +1,15 @@
 # Noot Noot
 
-Noot Noot is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Skin Club, Madrid on Sun, 23 Aug 2026.
+Noot Noot is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Skin Club, Madrid on Sun, 23 Aug 2026.
 
-Noot Noot is a techno and electronica artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid. Often billed alongside Reitze, Dyans and Santek. Next up: Skin Club, Madrid on Sun 23 Aug.
+Noot Noot is a techno and electronica artist based in Spain, tracked on soundcheck, with 22 sets logged across Madrid. Often billed alongside Reitze, Dyans and Santek. Next up: Skin Club, Madrid on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Skin Club | Madrid |
+| Thu, 17 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played
 

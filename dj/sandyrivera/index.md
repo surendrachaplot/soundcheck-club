@@ -1,13 +1,14 @@
 # Sandy Rivera
 
-Sandy Rivera is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Jazz Cafe, London on Fri, 4 Sept 2026.
+Sandy Rivera is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 29 Aug 2026.
 
-Sandy Rivera is a house and deep house artist tracked on soundcheck, with 50 sets logged across Auckland, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Ella Knight, Chez Damier and Kellie Allen. Next up: The Jazz Cafe, London on Fri 4 Sept.
+Sandy Rivera is a house and deep house artist tracked on soundcheck, with 51 sets logged across Auckland, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Ella Knight, Chez Damier and Kellie Allen. Next up: Cabaret Voltaire, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Cabaret Voltaire | Edinburgh |
 | Fri, 4 Sept 2026 | The Jazz Cafe | London |
 | Fri, 4 Sept 2026 | The Jazz Cafe | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |

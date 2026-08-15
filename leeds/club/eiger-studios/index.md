@@ -1,8 +1,8 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hyperfixation" on Mon, 24 Aug 2026.
+Eiger Studios is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hyperfixation" on Mon, 24 Aug 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including B-HIND, camukg, Chris I'Anson and DJ Bax and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including B-HIND, camukg, Chris I'Anson and DJ Bax and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 | Sat, 19 Sept 2026 | ROGUE PUPPET X SQWEEZ! presents: Gloria Rose  | FAUST (1), Gloria Rose, Michael Upson, Nina Pixina |
 | Fri, 2 Oct 2026 | Standard Records presents: Terry Francis | Terry Francis |
 | Sat, 10 Oct 2026 | Stick To The Slug with Ekkel & Lewis Laycock | Ekkel |
+| Fri, 23 Oct 2026 | Deep Techno Alliance 2026 |  |
 
 ## Address
 

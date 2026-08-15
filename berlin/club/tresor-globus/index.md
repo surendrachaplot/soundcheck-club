@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Tresor meets Black Rave Culture" on Fri, 14 Aug 2026.
+Tresor / Globus is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Tresor Klubnacht" on Sat, 15 Aug 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, AERAE, Anabel Arroyo and Anthony Linell and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, AERAE, Anabel Arroyo and Anthony Linell and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tresor meets Black Rave Culture | Black Rave Culture, Costanza, DJ Yazi, Lukr Range, Sybil |
 | Sat, 15 Aug 2026 | Tresor Klubnacht | BIDOBEN, Benabou, Cleric, Fonte, KIRSCH, Laura van Hal, Nissa Carrington |
 | Mon, 17 Aug 2026 | ◥◣GRÜV x SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors) | Cia Rebeck, DJ titka, LPV, Rebecca Delle Piane, The Chronics |
 | Wed, 19 Aug 2026 | Büro Siebzig: Arsenal Mikebe LIVE - hosted Nyege Nyege Festival | Arsenal Mikebe |
@@ -18,6 +17,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 26 upcoming nig
 | Mon, 24 Aug 2026 | ◥◣ALL EXCESS x SINGULARITY◥◣ | Kandelissa, MOIA, NLI, Nhū, Schiela, Selina (DE) |
 | Wed, 26 Aug 2026 | Büro Siebzig: dreamcastmoe LIVE hosted by Refuge Worldwide | dreamcastmoe |
 | Wed, 26 Aug 2026 | Tresor New Faces hosted by Primal Instinct | BETIX, Lucyd, Revolucien |
+| Fri, 28 Aug 2026 | Tresor meets Fireground | DJ T-1000, DTM Funk, Denise Rabe, Fireground, Half A Man, Regal86, Subradeon |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MELODÏQ & FRIENDS | Free Day Party" on Sat, 15 Aug 2026.
+The DBA is a music venue in Manchester with 24 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MELODÏQ & FRIENDS | Free Day Party" on Sat, 15 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 24 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # TRANSFORMA at Button Factory
 
-TRANSFORMA at Button Factory on Sat 22 Aug, Dublin. 2 acts on the bill: Djamzer and MARCISM. Trance. Preview the line-up and save it on soundcheck.
+TRANSFORMA at Button Factory on Sat 22 Aug, Dublin. 2 acts on the bill: Djamzer and MARCISM. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

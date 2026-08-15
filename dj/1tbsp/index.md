@@ -1,8 +1,8 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Northcote Theatre, Melbourne on Sat, 15 Aug 2026.
+1tbsp is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Northcote Theatre, Melbourne on Sat, 15 Aug 2026.
 
-1tbsp is a house and electronica artist tracked on soundcheck, with 115 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Northcote Theatre, Melbourne on Sat 15 Aug.
+1tbsp is a house and techno artist tracked on soundcheck, with 116 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Northcote Theatre, Melbourne on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Sat, 15 Aug 2026 | Northcote Theatre | Melbourne |
 | Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 | Sat, 24 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Adam Sellouk
 
-Adam Sellouk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 23 Aug 2026.
+Adam Sellouk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 23 Aug 2026.
 
-Adam Sellouk is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: Los Angeles State Historic Park, Losangeles on Sun 23 Aug.
+Adam Sellouk is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: Los Angeles State Historic Park, Losangeles on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adam Sellouk is a techno and house artist tracked on soundcheck, with 60 sets lo
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Los Angeles State Historic Park | Los Angeles |
 | Fri, 11 Sept 2026 | TBA - Palacio Alsina, Microcentro | Buenos Aires |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

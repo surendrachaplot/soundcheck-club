@@ -1,6 +1,6 @@
 # Spazio Cavea
 
-Spazio Cavea is a music venue in Rome with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is " 11.09 Lee Ann Roberts -HBR - Spazio Cavea" on Fri, 11 Sept 2026.
+Spazio Cavea is a music venue in Rome with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is " 11.09 Lee Ann Roberts + more " on Fri, 11 Sept 2026.
 
 Spazio Cavea is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Frankyeffe, GIULIA (IT), Jalex and Lee Ann Roberts. Browse upcoming dates, start times and who's playing. via di Salone 290, Roma, 00131.
 
@@ -8,7 +8,7 @@ Spazio Cavea is a music venue in Rome listed on soundcheck. 1 upcoming night, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 |  11.09 Lee Ann Roberts -HBR - Spazio Cavea | Frankyeffe, GIULIA (IT), Jalex, Lee Ann Roberts |
+| Fri, 11 Sept 2026 |  11.09 Lee Ann Roberts + more  | Frankyeffe, GIULIA (IT), Jalex, Lee Ann Roberts |
 
 ## Address
 

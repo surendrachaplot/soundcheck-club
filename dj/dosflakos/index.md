@@ -1,13 +1,14 @@
 # Dos Flakos
 
-Dos Flakos is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
+Dos Flakos is a House and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pacific Science Center, Seattle on Sat, 15 Aug 2026.
 
-Dos Flakos is a reggaeton and house artist tracked on soundcheck, with 50 sets logged across Austin, Chicago, Losangeles and Madrid and 5 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Dead Letter No. 9, Newyorkcity on Fri 21 Aug.
+Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Losangeles and Madrid and 6 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Pacific Science Center, Seattle on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Pacific Science Center | Seattle |
 | Fri, 21 Aug 2026 | Dead Letter No. 9 | New York City |
 | Sun, 6 Sept 2026 | Eden NYC | New York City |
 

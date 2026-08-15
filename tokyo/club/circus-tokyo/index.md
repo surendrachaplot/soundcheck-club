@@ -14,7 +14,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, 
 | Fri, 28 Aug 2026 | Marc Houle Japan Tour 2026 | Kyoka, Marc Houle |
 | Sat, 5 Sept 2026 | Mana City | Lymph, MK woop, rimi, sudden star |
 | Sun, 6 Sept 2026 | Pauline Herr with REXY=DEXY | REXY DEXY, SAKO |
-| Fri, 11 Sept 2026 | OTO -JOKESONYOU- | JOKESONYOU |
+| Fri, 11 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 
 ## Address

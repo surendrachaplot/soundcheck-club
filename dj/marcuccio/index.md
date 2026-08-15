@@ -1,14 +1,15 @@
 # MARCUCCIO
 
-MARCUCCIO is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+MARCUCCIO is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
-MARCUCCIO is an electro and house artist based in Belarus, tracked on soundcheck, with 14 sets logged across Warsaw. Often billed alongside koktelbel, Salat and Slowmode. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
+MARCUCCIO is a techno and electro artist based in Belarus, tracked on soundcheck, with 15 sets logged across Warsaw. Often billed alongside koktelbel, Salat and Slowmode. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | K-Bar Powiśle | Warsaw |
+| Fri, 4 Sept 2026 | Mastak | Warsaw |
 
 ## Recently played
 

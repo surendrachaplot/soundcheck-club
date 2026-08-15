@@ -1,14 +1,15 @@
 # Kahani
 
-Kahani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 26 Sept 2026.
+Kahani is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 26 Sept 2026.
 
-Kahani is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Birmingham and Boston and 15 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: A.i Warehouse, Washingtondc on Sat 26 Sept.
+Kahani is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Birmingham and Boston and 15 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: A.i Warehouse, Washingtondc on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | A.i Warehouse | Washington DC |
+| Fri, 13 Nov 2026 | Royale | Boston |
 
 ## Recently played
 

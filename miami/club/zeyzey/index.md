@@ -1,8 +1,8 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sam Binga (Free Entry)" on Sat, 15 Aug 2026.
+ZeyZey is a music venue in Miami with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sam Binga (Free Entry)" on Sat, 15 Aug 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including Cult Member, Derrick Carter, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including Cult Member, Derrick Carter, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 

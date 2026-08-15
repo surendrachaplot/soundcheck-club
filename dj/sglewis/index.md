@@ -1,8 +1,8 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Knockdown Center, New York City on Fri, 21 Aug 2026.
+SG Lewis is a House and Electronica artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Knockdown Center, New York City on Fri, 21 Aug 2026.
 
-SG Lewis is a house and electronica artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Knockdown Center, Newyorkcity on Fri 21 Aug.
+SG Lewis is a house and electronica artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Knockdown Center, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 84 sets l
 | Sat, 19 Sept 2026 | Index | Dublin |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

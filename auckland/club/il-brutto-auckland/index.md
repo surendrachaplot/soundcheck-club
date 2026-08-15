@@ -8,7 +8,7 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 5 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | NIGHTSHIFT 010: THE LAST SHIFT | Andwahn, Takydon, VØID |
+| Sat, 15 Aug 2026 | NIGHTSHIFT 010: THE LAST SHIFT | Andwahn, Takydon, V O I D |
 | Sat, 15 Aug 2026 | NIGHTSHIFT 010 - the last shift | Andwahn, Takydon |
 | Fri, 28 Aug 2026 | Colluded ft Cam Harris, Ruby Lee and Finlay Hooker | Cam Harris |
 | Fri, 28 Aug 2026 | Colluded Ft Cam Harris, Ruby Lee And Finlay Hooker | Cam Harris |

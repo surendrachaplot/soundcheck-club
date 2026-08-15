@@ -1,8 +1,8 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
+Deep Dish is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
 
-Deep Dish is a house and progressive house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Austin and Barcelona and 27 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: BERHTA, Washingtondc on Sat 22 Aug.
+Deep Dish is a house and progressive house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Austin and Barcelona and 27 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: BERHTA, Washingtondc on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 66
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | O der Klub | Vienna |
 | Sat, 10 Oct 2026 | Victoria Baths | Manchester |
+| Sat, 17 Oct 2026 | Stereo | Montreal |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played

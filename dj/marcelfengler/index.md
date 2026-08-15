@@ -1,14 +1,15 @@
 # Marcel Fengler
 
-Marcel Fengler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
+Marcel Fengler is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
 
-Marcel Fengler is a techno and house artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: Hoppetosse, Berlin on Fri 21 Aug.
+Marcel Fengler is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: Hoppetosse, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Hoppetosse | Berlin |
+| Fri, 11 Sept 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
 

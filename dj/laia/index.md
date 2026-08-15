@@ -1,8 +1,8 @@
 # Laia
 
-Laia is a Techno and Electro artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 15 Aug 2026.
+Laia is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 15 Aug 2026.
 
-Laia is a techno and electro artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Les Enfants Brillants, Barcelona on Sat 15 Aug.
+Laia is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Les Enfants Brillants, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 

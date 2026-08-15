@@ -16,7 +16,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 70 sets log
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
-| Sat, 12 Sept 2026 | Radius | Chicago |
+| Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |

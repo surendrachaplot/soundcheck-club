@@ -9,7 +9,7 @@ The Doobskins is a tech house and deep house artist tracked on soundcheck, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Hagglers Corner | Sheffield |
-| Sun, 30 Aug 2026 | Shakespeares | Sheffield |
+| Sun, 30 Aug 2026 | Abbeydale Picture House | Sheffield |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # NEON Dark at Arroz Estúdios
 
-NEON Dark at Arroz Estúdios on Sat 29 Aug, Lisbon. 2 acts on the bill: DVAd and Maldoror. Techno and Industrial. Preview the line-up and save it on soundcheck.
+NEON Dark at Arroz Estúdios on Sat 29 Aug, Lisbon. 3 acts on the bill: DVAd, Glitz and Maldoror. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NEON Dark at Arroz Estúdios on Sat 29 Aug, Lisbon. 2 acts on the bill: DVAd and
 ## Line-up
 
 - DVAd
+- Glitz
 - Maldoror
 
 *Source: [soundcheck](https://soundcheck.club/e/2511790-neon-dark-at-arroz-est-dios/)*

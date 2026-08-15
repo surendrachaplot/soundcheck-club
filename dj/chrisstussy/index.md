@@ -1,8 +1,8 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Chris Stussy is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Chris Stussy is a house and techno artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Chris Stussy is a house and techno artist tracked on soundcheck, with 273 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 

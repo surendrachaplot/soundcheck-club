@@ -1,8 +1,8 @@
 # The Model
 
-The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "The Witching Hours w/ Evil Woman, Alex Bong + Kit Fuzz" on Sat, 15 Aug 2026.
+The Model is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "The Witching Hours w/ Evil Woman, Alex Bong + Kit Fuzz" on Sat, 15 Aug 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including chimaera (2), Evil Woman, Keeks and Kit Bodine and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including chimaera (2), Evil Woman, Keeks and Kit Bodine and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming night
 | Fri, 11 Sept 2026 | A Sound Place For Sound |  |
 | Fri, 18 Sept 2026 | Kylie Wears Berghaus (Nottingham Debut) | Kylie Wears Berghaus |
 | Sat, 19 Sept 2026 | Oktoberfest + afterparty with BIBLIOTECH |  |
-| Sat, 3 Oct 2026 | Resonate |  |
+| Fri, 2 Oct 2026 | Ten Twenty Vision presents: Sam Girling | Sam Girling |
 
 ## Address
 

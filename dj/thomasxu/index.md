@@ -1,14 +1,15 @@
 # Thomas Xu
 
-Thomas Xu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Moondog Cafe, Detroit on Fri, 28 Aug 2026.
+Thomas Xu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Moondog Cafe, Detroit on Fri, 28 Aug 2026.
 
-Thomas Xu is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago, Detroit, Kyoto and Newyorkcity. Often billed alongside Meftah, otodojo and Aboudi Issa. Next up: Moondog Cafe, Detroit on Fri 28 Aug.
+Thomas Xu is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Detroit, Kyoto and Newyorkcity. Often billed alongside Meftah, otodojo and Aboudi Issa. Next up: Moondog Cafe, Detroit on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Moondog Cafe | Detroit |
+| Sun, 30 Aug 2026 | MotorCity Wine | Detroit |
 
 ## Recently played
 

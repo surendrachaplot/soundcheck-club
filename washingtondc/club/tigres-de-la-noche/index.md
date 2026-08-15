@@ -10,7 +10,7 @@ Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 25 upc
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Nü Androids presents SünDown: Murphy's Law |  |
 | Sat, 15 Aug 2026 | Nü Androids presents: Bipolar Sunshine |  |
-| Fri, 21 Aug 2026 | Nü Androids presents: Melé |  |
+| Fri, 21 Aug 2026 | Nü Androids presents: Melé | Melé |
 | Sat, 22 Aug 2026 | Nü Androids presents: Yasmin |  |
 | Fri, 28 Aug 2026 | Nü Androids presents: Archie Hamilton |  |
 | Sat, 29 Aug 2026 | Nü Androids presents SünDown: SOHMI | Motives, SOHMI |

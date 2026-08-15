@@ -1,8 +1,8 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GHETTO RHYTHM X Under Club" on Sat, 15 Aug 2026.
+Under Club is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GHETTO RHYTHM X Under Club" on Sat, 15 Aug 2026.
 
-Under Club is a music venue in Buenosaires listed on soundcheck. 5 upcoming nights, with line-ups including ANNĒ, Ben Klock, Bondarük and Fidelo90s and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including ALYOSHA, ANNĒ, AREA ØNE and Ben Klock and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 5 upcoming nigh
 | Sat, 15 Aug 2026 | GHETTO RHYTHM X Under Club | Fidelo90s, HERS, JXXXO |
 | Sat, 15 Aug 2026 | Klauss INVITA - NAI BORG + NINA | Klauss |
 | Fri, 28 Aug 2026 | RØDHÂD 7 HORAS - + Under Club ( GASCÓN 1040 ) LAST 55 TICKETS  | Rødhåd |
+| Sat, 29 Aug 2026 | UTOPIC pres.: AREA ØNE + SAILØ + ALYOSHA + NORT | ALYOSHA, AREA ØNE, NORT (CO) |
 | Sun, 27 Sept 2026 | ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - + Under Club ( GASCÓN 1040 ) | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
 | Fri, 30 Oct 2026 | COLLAB 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |
 

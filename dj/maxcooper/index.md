@@ -1,8 +1,8 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rex Club, Paris on Fri, 18 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rex Club, Paris on Fri, 18 Sept 2026.
 
-Max Cooper is a techno and electronica artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Nicola Cruz. Next up: Rex Club, Paris on Fri 18 Sept.
+Max Cooper is a techno and electronica artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Actress, Logic1000 and Nicola Cruz. Next up: Rex Club, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 121 se
 | Sat, 26 Sept 2026 | Button Factory | Dublin |
 | Sat, 3 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
+| Fri, 13 Nov 2026 | Club Wintercircus | Ghent |
 
 ## Recently played
 

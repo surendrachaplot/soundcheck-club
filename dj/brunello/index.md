@@ -1,8 +1,8 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Brunello is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Brunello is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Ibiza, Losangeles and Miami and 3 more. Often billed alongside Pegassi, Azzecca and Beltran. Next up: Union Park, Chicago on Fri 4 Sept.
+Brunello is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin, Chicago, Ibiza and Losangeles and 4 more. Often billed alongside Brutalismus 3000, Pegassi and VTSS. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Brunello is a house and tech house artist based in United States of America, tra
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Sun, 20 Sept 2026 | Knockdown Center | New York City |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Brunello is a house and tech house artist based in United States of America, tra
 
 ## Shares bills with
 
-Pegassi, Azzecca, Beltran
+Brutalismus 3000, Pegassi, VTSS
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

@@ -1,13 +1,14 @@
 # Glitz
 
-Glitz is a EBM and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Incógnito, Lisbon on Fri, 18 Sept 2026.
+Glitz is a EBM and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 29 Aug 2026.
 
-Glitz is an ebm and italo disco artist based in Portugal, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Xminder, Anastasia Kristensen and Bee Lincoln. Next up: Incógnito, Lisbon on Fri 18 Sept.
+Glitz is an ebm and italo disco artist based in Portugal, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Xminder, Maldoror and Anastasia Kristensen. Next up: Arroz Estúdios, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Arroz Estúdios | Lisbon |
 | Fri, 18 Sept 2026 | Incógnito | Lisbon |
 | Fri, 2 Oct 2026 | Incógnito | Lisbon |
 
@@ -24,6 +25,6 @@ Glitz is an ebm and italo disco artist based in Portugal, tracked on soundcheck,
 
 ## Shares bills with
 
-Xminder, Anastasia Kristensen, Bee Lincoln
+Xminder, Maldoror, Anastasia Kristensen
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glitz/)*
