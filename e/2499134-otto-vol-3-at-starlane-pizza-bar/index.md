@@ -1,6 +1,6 @@
 # OTTO VOL 3 at Starlane Pizza Bar
 
-OTTO VOL 3 at Starlane Pizza Bar on Sat 5 Sept, London. 6 acts on the bill: Dan Anderson, IZZY (UK), krif and Lesenburg and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+OTTO VOL 3 at Starlane Pizza Bar on Sat 5 Sept, London. 7 acts on the bill: Dan Anderson, Horsemen, IZZY (UK) and krif and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ OTTO VOL 3 at Starlane Pizza Bar on Sat 5 Sept, London. 6 acts on the bill: Dan 
 ## Line-up
 
 - Dan Anderson
+- Horsemen
 - IZZY (UK)
 - krif
 - Lesenburg

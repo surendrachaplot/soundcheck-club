@@ -13,7 +13,7 @@ Gorilla is a music venue in Manchester listed on soundcheck. 7 upcoming nights, 
 | Sat, 3 Oct 2026 | Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
 | Sat, 3 Oct 2026 | 360° BOILER ROOM // 140, BASS, GRIME |  |
 | Sat, 17 Oct 2026 | Brainiac presents: Napes & DJ Flight | Amelia Leigh, DJ Flight, Napes, Simmo., Sweetly |
-| Fri, 23 Oct 2026 | Bass Face // MCR // DNB . 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
+| Fri, 23 Oct 2026 | Bass Face // DNB, BASS, 140, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
 | Fri, 30 Oct 2026 | Mietze Conte - Gorilla, Manchester | Mietze Conte |
 
 ## Address

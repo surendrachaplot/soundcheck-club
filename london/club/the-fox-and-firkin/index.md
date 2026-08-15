@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "red room & No Brakes: Shifa Ligero, JVINCENT, ZEE-2, Sampii" on Sat, 15 Aug 2026.
+The Fox and Firkin is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "red room & No Brakes: Shifa Ligero, JVINCENT, ZEE-2, Sampii" on Sat, 15 Aug 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 

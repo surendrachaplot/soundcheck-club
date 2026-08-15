@@ -1,13 +1,14 @@
 # Frinda di Lanco
 
-Frinda di Lanco is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Frinda di Lanco is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
 
-Frinda di Lanco is a disco and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Bangkok, Berlin, Copenhagen and Dublin and 10 more. Often billed alongside Hendrik Stein, Sound Metaphors Djs and Rena Volvo. Next up: Kater, Berlin on Sat 5 Sept.
+Frinda di Lanco is a disco and house artist based in Germany, tracked on soundcheck, with 61 sets logged across Bangkok, Berlin, Copenhagen and Dublin and 10 more. Often billed alongside Hendrik Stein, Sound Metaphors Djs and Rena Volvo. Next up: arkaoda Berlin, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | arkaoda Berlin | Berlin |
 | Sat, 5 Sept 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 

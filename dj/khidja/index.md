@@ -1,14 +1,15 @@
 # Khidja
 
-Khidja is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Old Blue Last, London on Sat, 15 Aug 2026.
+Khidja is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Old Blue Last, London on Sat, 15 Aug 2026.
 
-Khidja is a techno and acid artist tracked on soundcheck, with 42 sets logged across Belgrade, Berlin, Bucharest and Ghent and 5 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: The Old Blue Last, London on Sat 15 Aug.
+Khidja is a techno and acid artist tracked on soundcheck, with 43 sets logged across Belgrade, Berlin, Bucharest and Ghent and 5 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: The Old Blue Last, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Old Blue Last | London |
+| Fri, 21 Aug 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played
 

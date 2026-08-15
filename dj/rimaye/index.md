@@ -1,8 +1,8 @@
 # Rimaye
 
-Rimaye is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
+Rimaye is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
 
-Rimaye is a house and disco artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Ibiza, Mexicocity and Miami and 2 more. Often billed alongside Inbal, Puma (US) and Rana Iravani. Next up: Mad Radio Miami, Miami on Sat 15 Aug.
+Rimaye is a house and disco artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Ibiza, Mexicocity and Miami and 2 more. Often billed alongside Inbal, Puma (US) and Rana Iravani. Next up: Mad Radio Miami, Miami on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rimaye is a house and disco artist based in Germany, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Mad Radio Miami | Miami |
 | Sat, 15 Aug 2026 | Mad Radio Miami | Miami |
+| Sat, 22 Aug 2026 | Mad Radio Miami | Miami |
 
 ## Recently played
 

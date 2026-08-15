@@ -1,6 +1,6 @@
 # Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs at THE OTHER SIDE
 
-Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs at THE OTHER SIDE on Sun 25 Oct, Amsterdam. 9 acts on the bill: ELVI (SE), Gabbs, Janeret and JUAAN and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs at THE OTHER SIDE on Sun 25 Oct, Amsterdam. 10 acts on the bill: Alex (ES), ELVI (SE), Gabbs and Janeret and 6 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs at THE OTHER SIDE on S
 
 ## Line-up
 
+- Alex (ES)
 - ELVI (SE)
 - Gabbs
 - Janeret

@@ -1,13 +1,14 @@
 # Leone Knight
 
-Leone Knight is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - check description, Berlin on Fri, 28 Aug 2026.
+Leone Knight is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
 
-Leone Knight is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside juan and only, Dreimal T and dom.koski. Next up: TBA - check description, Berlin on Fri 28 Aug.
+Leone Knight is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside juan and only, Dreimal T and dom.koski. Next up: arkaoda Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | arkaoda Berlin | Berlin |
 | Fri, 28 Aug 2026 | TBA - check description | Berlin |
 
 ## Recently played

@@ -10,7 +10,7 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming 
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Golden Record NYC x Vin.yl present Tony Touch, Omer Mil & Mike Nasty | L3Ni, Mike Nasty, Omer Mil, SMURFOUDIRTY |
 | Sun, 16 Aug 2026 | Misbehave x Green Room presents Dame | Seven Minaya |
-| Fri, 21 Aug 2026 | Golden Record NYC presents Adi  | Adi (CO), Emsho, Gui Machado, Ivan Iacobucci, Louiv, Stella Fiore |
+| Fri, 21 Aug 2026 | Golden Record NYC presents Adi, Stella Fiore B2B Ivan Iacobucci & Louiv | Adi (CO), Emsho, Gui Machado, Ivan Iacobucci, Louiv, Stella Fiore |
 | Fri, 28 Aug 2026 | Golden Record NYC x TAMED present Mihai Pol | Armii1n, Joiah, Max Sprauer, Miguel Gallardo, Mihai Pol, RAAUL, Silent Duality |
 | Sat, 29 Aug 2026 | Golden Record NYC presents Polygonia   | Polygonia |
 | Fri, 4 Sept 2026 | D[IV]ERSION w Sybil (UK) | Sepehr, Sybil |

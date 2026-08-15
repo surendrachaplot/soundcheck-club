@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 30 Sept, Berlin. 2 acts on the bill: KunstTechnologe and nixmoon. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 30 Sept, Berlin. 3 acts on the bill: Gabrielle (DE), KunstTechnologe and nixmoon. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH at Sensorium on Wed 30 Sept, Berlin. 2 acts on the bill: KunstTe
 
 ## Line-up
 
+- Gabrielle (DE)
 - KunstTechnologe
 - nixmoon
 

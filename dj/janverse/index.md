@@ -1,13 +1,14 @@
 # Janverse
 
-Janverse is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
+Janverse is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - The Roastery, George Square Lane, EH8 9LD , Edinburgh on Sat, 15 Aug 2026.
 
-Janverse is a drum & bass and jungle artist tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside Brynk, Lara Sinclair and YVI. Next up: The Bongo Club, Edinburgh on Thu 10 Sept.
+Janverse is a drum & bass and jungle artist tracked on soundcheck, with 14 sets logged across Edinburgh and Glasgow. Often billed alongside Brynk, Lara Sinclair and Rodent. Next up: TBA - The Roastery, George Square Lane, EH8 9LD , Edinburgh on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | TBA - The Roastery, George Square Lane, EH8 9LD  | Edinburgh |
 | Thu, 10 Sept 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -23,6 +24,6 @@ Janverse is a drum & bass and jungle artist tracked on soundcheck, with 13 sets 
 
 ## Shares bills with
 
-Brynk, Lara Sinclair, YVI
+Brynk, Lara Sinclair, Rodent
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*

@@ -1,6 +1,6 @@
 # Two More Years - Fifth Birthday (House & Disco by The Canal) at Two More Years
 
-Two More Years - Fifth Birthday (House & Disco by The Canal) on Sat 15 Aug, London. 4 acts on the bill: Dan Howell, Franklin DJ, Giles Smith and John Shabot. House and Disco. Preview the line-up and save it on soundcheck.
+Two More Years - Fifth Birthday (House & Disco by The Canal) on Sat 15 Aug, London. 5 acts on the bill: Dan Howell, Franklin DJ, Giles Smith and Jacob Friday and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Two More Years - Fifth Birthday (House & Disco by The Canal) on Sat 15 Aug, Lond
 - Dan Howell
 - Franklin DJ
 - Giles Smith
+- Jacob Friday
 - John Shabot
 
 *Source: [soundcheck](https://soundcheck.club/e/2484725-two-more-years-fifth-birthday-house-disco-by-the-canal-at-tw/)*

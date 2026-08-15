@@ -21,11 +21,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.c230299f07c3.css">
+  <link rel="stylesheet" href="/app.689ec705aa1d.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786802584390">
+<meta name="sc-build" content="1786814959803">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 <meta name="description" content="Come Get Your FCUK'IN Beats pres. Stacey Pullen at The Comfort Zone on Sun 6 Sept, Toronto. 2 acts on the bill: Stacey Pullen and Theta State. Techno. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2496275-come-get-your-fcuk-in-beats-pres-stacey-pullen-at-the-comfor/">
@@ -50,10 +50,8 @@
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
         <span class="sc-navtitle" id="sc-navtitle" aria-hidden="true">What&rsquo;s on</span>
       <div class="nav-links" id="nav-links">
-        <button class="nl" data-nav="discover" type="button">Discover</button>
+        <button class="nl" data-nav="home" type="button">Home</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="lists" type="button">Guides</button>
-        <button class="nl" data-nav="upcoming" type="button">Upcoming</button>
         <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
@@ -97,7 +95,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">143 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">86 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">121 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">144 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">86 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">121 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -214,7 +212,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.c230299f07c3.js" defer></script>
+  <script src="/app.689ec705aa1d.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

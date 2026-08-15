@@ -1,14 +1,15 @@
 # k.meower
 
-k.meower is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+k.meower is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
 
-k.meower is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside peak2soon, Baumeister (2) and DERICE. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
+k.meower is a techno and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside peak2soon, Baumeister (2) and DERICE. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Ritter Butzke | Berlin |
+| Wed, 7 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played
 

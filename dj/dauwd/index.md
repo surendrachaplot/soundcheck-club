@@ -1,13 +1,14 @@
 # Dauwd
 
-Dauwd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - check description, Berlin on Fri, 28 Aug 2026.
+Dauwd is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
 
-Dauwd is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Antwerp, Berlin, Denver and Istanbul and 11 more. Often billed alongside Maryisonacid, African Acid is the Future and DJSOULSEEK. Next up: TBA - check description, Berlin on Fri 28 Aug.
+Dauwd is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Antwerp, Berlin, Denver and Istanbul and 11 more. Often billed alongside Maryisonacid, African Acid is the Future and DJSOULSEEK. Next up: arkaoda Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | arkaoda Berlin | Berlin |
 | Fri, 28 Aug 2026 | TBA - check description | Berlin |
 
 ## Recently played

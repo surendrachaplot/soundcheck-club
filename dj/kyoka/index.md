@@ -1,13 +1,14 @@
 # Kyoka
 
-Kyoka is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Circus Tokyo, Tokyo on Fri, 28 Aug 2026.
+Kyoka is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Circus Osaka, Osaka on Sat, 22 Aug 2026.
 
-Kyoka is a techno and experimental artist tracked on soundcheck, with 20 sets logged across Berlin, Kyoto, Montreal and Newyorkcity and 3 more. Often billed alongside Midori Hirano, Radio Hito and Tomoko Sauvage. Next up: Circus Tokyo, Tokyo on Fri 28 Aug.
+Kyoka is a techno and experimental artist tracked on soundcheck, with 21 sets logged across Berlin, Kyoto, Montreal and Newyorkcity and 3 more. Often billed alongside Midori Hirano, Radio Hito and Tomoko Sauvage. Next up: Circus Osaka, Osaka on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Circus Osaka | Osaka |
 | Fri, 28 Aug 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played

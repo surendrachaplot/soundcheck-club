@@ -15,7 +15,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 19 upcoming nights, w
 | Sun, 23 Aug 2026 | TRIG: FROM 23:00 - XXX | Camilla Tarantino |
 | Wed, 26 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Connor (UK), Rosie (UK), Rovin, Sam J, pink-panther |
 | Fri, 28 Aug 2026 | ETHER | Cyberpsychosis, Overload, Teen A Teen, UniKhatu, Uninvited |
-| Sat, 29 Aug 2026 | SENSO NACHT |  |
+| Sat, 29 Aug 2026 | SENSO NACHT | el Capitan, ugurmeister |
 | Sun, 30 Aug 2026 | TRIG: FROM 23:00 - XXX |  |
 | Wed, 2 Sept 2026 | TECHNO MITTWOCH | PETDuo, Sinetiketa, Viktor Kampf |
 

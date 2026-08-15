@@ -15,7 +15,7 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 45 sets l
 | Fri, 9 Oct 2026 | Komplex Klub | Zurich |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Thu, 22 Oct 2026 | Noto Philadelphia | Philadelphia |
-| Fri, 30 Oct 2026 | TBA - New location | Toronto |
+| Fri, 30 Oct 2026 | TBA | Toronto |
 | Sat, 31 Oct 2026 | 314 Scholes | New York City |
 | Sat, 7 Nov 2026 | Die Halle | Cologne |
 

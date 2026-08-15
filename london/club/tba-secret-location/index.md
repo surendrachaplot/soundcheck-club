@@ -1,8 +1,8 @@
-# TBA - SECRET LOCATION
+# TBA - Secret Location
 
-TBA - SECRET LOCATION is a music venue in London with 41 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "AN(8)X festival 2026: Love Village, August 15-16th, September 25th " on Fri, 14 Aug 2026.
+TBA - Secret Location is a music venue in London with 41 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "AN(8)X festival 2026: Love Village, August 15-16th, September 25th " on Fri, 14 Aug 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

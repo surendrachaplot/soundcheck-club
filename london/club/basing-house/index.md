@@ -12,7 +12,7 @@ Basing House is a music venue in London listed on soundcheck. 25 upcoming nights
 | Sat, 15 Aug 2026 | Catch The Vibe - House & Garage | DJ Para, Daniel Ward, Hermit |
 | Thu, 20 Aug 2026 | 00ab presents: CLUB INFINITY 001 |  |
 | Fri, 21 Aug 2026 | 100% RAVING MEETS TRIBAL | Beezo |
-| Fri, 21 Aug 2026 | Rise presents: Jerome Six Birthday | Danny Owen, Jerome Six, Kye Refix, Lance Morgan, Shenin Amara, Supa D |
+| Fri, 21 Aug 2026 | Rise presents: Jerome Six Birthday | Danny Owen, Jerome Six, Kye Refix, Lance Morgan, Shenin Amara, Supa D, kismet |
 | Sat, 22 Aug 2026 | Garage Paradise - The London Sessions - Jeremy Sylvester, Bear Winder, Zak Miller | A Hard Day's Dance, Bear Winder, Jeremy Sylvester, Mikey DJ, Zak Miller |
 | Sat, 22 Aug 2026 | CARNAO BEATS (ALL DAY) |  |
 | Thu, 27 Aug 2026 | SUBLOW.FM PRESENTS UK TRIBAL EDITION |  |

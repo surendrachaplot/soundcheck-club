@@ -1,6 +1,6 @@
 # NIGHTSHIFT 010: THE LAST SHIFT at Il Brutto Auckland
 
-NIGHTSHIFT 010: THE LAST SHIFT at Il Brutto Auckland on Sat 15 Aug, Auckland. 3 acts on the bill: Andwahn, Takydon and V O I D. Techno and Bass. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT 010: THE LAST SHIFT at Il Brutto Auckland on Sat 15 Aug, Auckland. 3 acts on the bill: Andwahn, Takydon and VØID. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ NIGHTSHIFT 010: THE LAST SHIFT at Il Brutto Auckland on Sat 15 Aug, Auckland. 3 
 
 - Andwahn
 - Takydon
-- V O I D
+- VØID
 
 *Source: [soundcheck](https://soundcheck.club/e/2507795-nightshift-010-the-last-shift-at-il-brutto-auckland/)*

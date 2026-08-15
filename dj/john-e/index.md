@@ -1,13 +1,14 @@
 # John-E
 
-John-E is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 21 Aug 2026.
+John-E is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 16 Aug 2026.
 
-John-E is a techno and house artist tracked on soundcheck, with 98 sets logged across Lisbon. Often billed alongside Gear, Kokeshi and Bernardo Vaz. Next up: Village Underground Lisboa, Lisbon on Fri 21 Aug.
+John-E is a techno and house artist tracked on soundcheck, with 99 sets logged across Lisbon. Often billed alongside Gear, Kokeshi and Bernardo Vaz. Next up: Harbour Music Shelter, Lisbon on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Harbour Music Shelter | Lisbon |
 | Fri, 21 Aug 2026 | Village Underground Lisboa | Lisbon |
 
 ## Recently played

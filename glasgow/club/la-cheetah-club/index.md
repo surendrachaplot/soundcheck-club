@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Through The Roof // Boss Priester [SOLD OUT]" on Sat, 15 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "[SOLD OUT] Through The Roof // Boss Priester" on Sat, 15 Aug 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including Arlo Duke, Babyccino, Boss Priester and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -8,7 +8,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 20 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Through The Roof // Boss Priester [SOLD OUT] | Boss Priester |
+| Sat, 15 Aug 2026 | [SOLD OUT] Through The Roof // Boss Priester | Boss Priester |
 | Sun, 16 Aug 2026 | KEEP ON with special guest Carmen Baia | Carmen Baía, David Barbarossa, OOFT |
 | Thu, 20 Aug 2026 | NECTØR - 04 // Enter the hive | Babyccino, David Power, F Kay, Kairogen, Modat, Ten Years Lost (2) |
 | Fri, 21 Aug 2026 | BREATHE: HAPOL | HAPOL, Jamie Gunn, Robbie |
