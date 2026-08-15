@@ -1,6 +1,6 @@
 # shanlifiction
 
-shanlifiction is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
+shanlifiction is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eventhuset, Stockholm on Sat, 15 Aug 2026.
 
 shanlifiction is a techno and deep house artist tracked on soundcheck, with 4 sets logged across Stockholm. Often billed alongside OSO (3), DJ Godfather and DJ speedway. Next up: Eventhuset, Stockholm on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ shanlifiction is a techno and deep house artist tracked on soundcheck, with 4 se
 
 OSO (3), DJ Godfather, DJ speedway
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanlifiction/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanlifiction/)*

@@ -1,6 +1,6 @@
 # y2aura
 
-y2aura is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+y2aura is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside WADDLE, NIJEII and duco. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ y2aura is a techno and breakbeat artist based in United States of America, track
 
 WADDLE, NIJEII, duco
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*

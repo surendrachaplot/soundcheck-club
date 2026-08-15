@@ -1,6 +1,6 @@
 # Loft Studios
 
-Loft Studios is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Discolypso 10 Year Anniversary [Day + Night] - London" on Sat, 19 Sept 2026.
+Loft Studios is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Discolypso 10 Year Anniversary [Day + Night] - London" on Sat, 19 Sept 2026.
 
 Loft Studios is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Aldonna, Discolypso Crew, Dombrance and Flying Mojito Bros and 2 more. Browse upcoming dates, start times and who's playing. 77 - 81 Scrubs Lane; London NW10 6QU; United Kingdom.
 
@@ -15,4 +15,4 @@ Loft Studios is a music venue in London listed on soundcheck. 2 upcoming nights,
 
 77 - 81 Scrubs Lane; London NW10 6QU; United Kingdom, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/loft-studios/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/loft-studios/)*

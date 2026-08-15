@@ -1,6 +1,6 @@
 # JACKIECHANSDOG
 
-JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
+JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
 
 JACKIECHANSDOG is a club and ghetto tech artist tracked on soundcheck, with 20 sets logged across Philadelphia and Washingtondc. Often billed alongside Mooncrumb, CYB3R T0NIN and DJ KORIS. Next up: TBA - 5510 ellerbie st lanham MD, Washingtondc on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ JACKIECHANSDOG is a club and ghetto tech artist tracked on soundcheck, with 20 s
 
 Mooncrumb, CYB3R T0NIN, DJ KORIS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*

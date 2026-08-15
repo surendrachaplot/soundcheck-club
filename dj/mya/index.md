@@ -1,6 +1,6 @@
 # m?y?a
 
-m?y?a is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+m?y?a is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 m?y?a is an experimental and club artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside CÁRPATOS, 1luu and 99jakes. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ m?y?a is an experimental and club artist based in Germany, tracked on soundcheck
 
 CÁRPATOS, 1luu, 99jakes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mya/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mya/)*

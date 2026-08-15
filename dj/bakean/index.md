@@ -1,6 +1,6 @@
 # Bakean
 
-Bakean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 26 Aug 2026.
+Bakean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 Bakean is a techno and house artist tracked on soundcheck, with 16 sets logged across Bali, Ibiza, Lisbon and Munich and 2 more. Often billed alongside Edouard!, IBÁN MENDOZA and Adam Ten. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Bakean is a techno and house artist tracked on soundcheck, with 16 sets logged a
 
 Edouard!, IBÁN MENDOZA, Adam Ten
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakean/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakean/)*

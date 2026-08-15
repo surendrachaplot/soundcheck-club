@@ -1,6 +1,6 @@
 # Talk Shivi
 
-Talk Shivi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
+Talk Shivi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
 
 Talk Shivi is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside I's (US), King Tutt and M33CH. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Talk Shivi is a techno and house artist based in United States of America, track
 
 I's (US), King Tutt, M33CH
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talkshivi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talkshivi/)*

@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Sekta Selekta x TILT" on Fri, 14 Aug 2026.
+Sekta Selekta is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sekta Selekta x TILT" on Fri, 14 Aug 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including Glassz, Hubsond, Kondrat and Plastik (1) and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -17,4 +17,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 4 upcoming nights
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

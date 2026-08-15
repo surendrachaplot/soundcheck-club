@@ -1,6 +1,6 @@
 # Matthew Worldwide
 
-Matthew Worldwide is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
+Matthew Worldwide is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
 
 Matthew Worldwide is a deep house and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Houston, London and Newyorkcity. Often billed alongside Stonie Blue, Ben Hixon and Chloëdees. Next up: The Historic Eldorado Ballroom, Houston on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Matthew Worldwide is a deep house and house artist based in United States of Ame
 
 Stonie Blue, Ben Hixon, Chloëdees
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewworldwide/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewworldwide/)*

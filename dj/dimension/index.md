@@ -1,6 +1,6 @@
 # Dimension
 
-Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Dimension is a drum & bass and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Austin and Birmingham and 29 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Dimension is a drum & bass and house artist tracked on soundcheck, with 69 sets 
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

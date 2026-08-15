@@ -1,6 +1,6 @@
 # Marie Lung
 
-Marie Lung is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
+Marie Lung is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
 
 Marie Lung is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Michal Zietara, Momo and Turkish. Next up: THF Radio / Torhaus, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Marie Lung is a house and techno artist based in Germany, tracked on soundcheck,
 
 Michal Zietara, Momo, Turkish
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*

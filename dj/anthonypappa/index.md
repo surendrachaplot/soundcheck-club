@@ -1,6 +1,6 @@
 # Anthony Pappa
 
-Anthony Pappa is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
+Anthony Pappa is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Anthony Pappa is a progressive house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 21 more. Often billed alongside Dave Seaman, Danny Howells and James Zabiela. Next up: 528 Ibiza, Ibiza on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Anthony Pappa is a progressive house and house artist tracked on soundcheck, wit
 
 Dave Seaman, Danny Howells, James Zabiela
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*

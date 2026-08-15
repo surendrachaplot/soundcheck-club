@@ -1,6 +1,6 @@
 # Max(imus)
 
-Max(imus) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
+Max(imus) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
 
 Max(imus) is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside DJ Sanni, imus and Ena (DE). Next up: Humboldthain Club, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Max(imus) is a house and techno artist tracked on soundcheck, with 17 sets logge
 
 DJ Sanni, imus, Ena (DE)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*

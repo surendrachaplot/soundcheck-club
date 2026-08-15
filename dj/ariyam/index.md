@@ -1,6 +1,6 @@
 # Ariyam
 
-Ariyam is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Süss War Gestern, Berlin on Sat, 15 Aug 2026.
+Ariyam is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Süss War Gestern, Berlin on Sat, 15 Aug 2026.
 
 Ariyam is a tech house and house artist tracked on soundcheck, with 4 sets logged across Berlin and Vienna. Often billed alongside Leen Tilt, MORASS and Alena Noctis. Next up: Süss War Gestern, Berlin on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Ariyam is a tech house and house artist tracked on soundcheck, with 4 sets logge
 
 Leen Tilt, MORASS, Alena Noctis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariyam/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariyam/)*

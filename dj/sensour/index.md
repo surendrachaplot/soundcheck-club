@@ -1,6 +1,6 @@
 # sensour
 
-sensour is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
+sensour is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
 
 sensour is an electronica and minimal artist tracked on soundcheck, with 12 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Solyr, nuarrrrr and Fuunkt. Next up: Twist Bar, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ sensour is an electronica and minimal artist tracked on soundcheck, with 12 sets
 
 Solyr, nuarrrrr, Fuunkt
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*

@@ -1,8 +1,8 @@
 # Spinks
 
-Spinks is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+Spinks is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
-Spinks is a techno and house artist tracked on soundcheck, with 55 sets logged across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: Sui Generis, London on Sat 22 Aug.
+Spinks is a techno and house artist tracked on soundcheck, with 56 sets logged across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: Sui Generis, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spinks is a techno and house artist tracked on soundcheck, with 55 sets logged a
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sui Generis | London |
 | Thu, 10 Sept 2026 | M.O.T | London |
+| Sun, 13 Sept 2026 | The Glove That Fits | London |
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Spinks is a techno and house artist tracked on soundcheck, with 55 sets logged a
 
 Atoxyl, Yiota, Acid Carbon
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*

@@ -1,6 +1,6 @@
 # KRÄFTY
 
-KRÄFTY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
+KRÄFTY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
 
 KRÄFTY is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam and Manchester. Often billed alongside A Little Bit Orange, Aiden Francis and Milly on Air. Next up: renae, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KRÄFTY is a deep house and house artist based in United Kingdom, tracked on sou
 
 A Little Bit Orange, Aiden Francis, Milly on Air
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*

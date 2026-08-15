@@ -1,6 +1,6 @@
 # Amau
 
-Amau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Amau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Amau is a house and techno artist tracked on soundcheck, with 16 sets logged across Bucharest, Nantes and Paris. Often billed alongside Duane, Massaï and Wendy Bkz. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Amau is a house and techno artist tracked on soundcheck, with 16 sets logged acr
 
 Duane, Massaï, Wendy Bkz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amau/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amau/)*

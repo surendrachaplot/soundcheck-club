@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Daria Kolosova is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -36,4 +36,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

@@ -1,6 +1,6 @@
 # Makar
 
-Makar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 28 Aug 2026.
+Makar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 28 Aug 2026.
 
 Makar is a house and techno artist tracked on soundcheck, with 32 sets logged across Glasgow and Strasbourg. Often billed alongside 1client, Tal Stef and Zhar. Next up: Karmen Camina, Strasbourg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Makar is a house and techno artist tracked on soundcheck, with 32 sets logged ac
 
 1client, Tal Stef, Zhar
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makar/)*

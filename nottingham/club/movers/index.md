@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ALL CAPS: Summer Send-Off" on Fri, 14 Aug 2026.
+Movers is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hi-Tech Soul x LNW: Vinyl House" on Sat, 15 Aug 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | ALL CAPS: Summer Send-Off |  |
 | Sat, 15 Aug 2026 | Hi-Tech Soul x LNW: Vinyl House |  |
 | Thu, 20 Aug 2026 | Selectors: Alex Traska (2 for £14 Margs & Wine Deals) | Alex Traska |
 | Fri, 21 Aug 2026 | Electroclash: Post-Punk, Indie - with Evil Women [Punk Set] & residents |  |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, 
 | Sun, 30 Aug 2026 | LOOSE JOINTS presents… Jazzy, Dubby Deep House + Ten Years of Flat White Records | Alex Traska, Flat White Chris, Jonna |
 | Sat, 5 Sept 2026 | disko kix: disco, funk, soul & leftfield |  |
 | Fri, 18 Sept 2026 | Electroclash Y2K: Meebs, Annie, Meg Mog |  |
+| Sat, 19 Sept 2026 | Jack DiY & Free Party: A Folk History [Party + Film Screening] | Jack DiY |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

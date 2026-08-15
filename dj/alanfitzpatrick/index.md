@@ -1,14 +1,13 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Los Angeles, Los Angeles on Fri, 14 Aug 2026.
+Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - Los Angeles, Losangeles on Fri 14 Aug.
+Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
@@ -23,6 +22,7 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 se
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles — Fri, 14 Aug 2026
 - Marble Bar, Detroit — Thu, 13 Aug 2026
 - Crobar - Buenos Aires, Buenos Aires — Sat, 1 Aug 2026
 - Barutana, Belgrade — Sat, 13 Jun 2026
@@ -30,10 +30,9 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 se
 - Sable Miami, Miami — Thu, 4 Jun 2026
 - fabric, London — Sat, 30 May 2026
 - Amnesia Ibiza, Ibiza — Sat, 9 May 2026
-- TBA, Mallorca — Fri, 8 May 2026
 
 ## Shares bills with
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

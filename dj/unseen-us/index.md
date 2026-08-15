@@ -1,6 +1,6 @@
 # Unseen.
 
-Unseen. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
+Unseen. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
 
 Unseen. is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Black Box, Martin Mind and Human Rias. Next up: Lieberscholli, Munich on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Unseen. is a house and techno artist based in United States of America, tracked 
 
 Black Box, Martin Mind, Human Rias
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen-us/)*

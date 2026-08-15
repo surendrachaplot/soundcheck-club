@@ -1,6 +1,6 @@
 # session 4000
 
-session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 16 Aug 2026.
+session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 16 Aug 2026.
 
 session 4000 is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Ghent and Hamburg and 8 more. Often billed alongside DRAMA SOURCE ARTIFACTS, A. Brehme and Astral Travel. Next up: Summertime Roof Terrace, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ session 4000 is a techno and house artist tracked on soundcheck, with 38 sets lo
 
 DRAMA SOURCE ARTIFACTS, A. Brehme, Astral Travel
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*

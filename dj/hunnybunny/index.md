@@ -1,6 +1,6 @@
 # HunnyBunny
 
-HunnyBunny is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Eavesdrop, New York City on Sat, 29 Aug 2026.
+HunnyBunny is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eavesdrop, New York City on Sat, 29 Aug 2026.
 
 HunnyBunny is a house and disco artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity. Often billed alongside Blvck Truffle, Tim Lucent and Bendito. Next up: Eavesdrop, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ HunnyBunny is a house and disco artist based in United States of America, tracke
 
 Blvck Truffle, Tim Lucent, Bendito
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*

@@ -1,6 +1,6 @@
 # Tim Cronick
 
-Tim Cronick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Spkrbox, Detroit on Sun, 16 Aug 2026.
+Tim Cronick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Spkrbox, Detroit on Sun, 16 Aug 2026.
 
 Tim Cronick is a house and techno artist tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside Eastside Jon and ERNO (US). Next up: Spkrbox, Detroit on Sun 16 Aug.
 
@@ -20,4 +20,4 @@ Tim Cronick is a house and techno artist tracked on soundcheck, with 4 sets logg
 
 Eastside Jon, ERNO (US)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timcronick/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timcronick/)*

@@ -1,6 +1,6 @@
 # Gerhard
 
-Gerhard is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rei Room, Mexico City on Sat, 22 Aug 2026.
+Gerhard is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Rei Room, Mexico City on Sat, 22 Aug 2026.
 
 Gerhard is an electronica and downtempo artist tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside Maseriche, Seagit Arc and EM2K. Next up: Rei Room, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gerhard is an electronica and downtempo artist tracked on soundcheck, with 20 se
 
 Maseriche, Seagit Arc, EM2K
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerhard/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerhard/)*

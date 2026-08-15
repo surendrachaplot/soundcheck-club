@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 21 Aug 2026.
+MALUGI is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 21 Aug 2026.
 
 MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Cabaret Voltaire, Edinburgh on Fri 21 Aug.
 
@@ -35,4 +35,4 @@ MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged 
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

@@ -1,6 +1,6 @@
 # ykah
 
-ykah is a Dub and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sat, 15 Aug 2026.
+ykah is a Dub and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sat, 15 Aug 2026.
 
 ykah is a dub and techno artist tracked on soundcheck, with 74 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís (1). Next up: Suns Shimokitazawa, Tokyo on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ ykah is a dub and techno artist tracked on soundcheck, with 74 sets logged acros
 
 Mars89, Ryogo, Vís (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*

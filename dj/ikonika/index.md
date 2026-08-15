@@ -1,6 +1,6 @@
 # Ikonika
 
-Ikonika is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Ikonika is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
 Ikonika is a techno and club artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Bok Bok, Karen Nyame KG and State OFFF. Next up: Jumbi, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ikonika is a techno and club artist tracked on soundcheck, with 66 sets logged a
 
 Bok Bok, Karen Nyame KG, State OFFF
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*

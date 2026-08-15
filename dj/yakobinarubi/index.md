@@ -1,6 +1,6 @@
 # Yakobi Narubi
 
-Yakobi Narubi is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Prague on Fri, 28 Aug 2026.
+Yakobi Narubi is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Prague on Fri, 28 Aug 2026.
 
 Yakobi Narubi is a techno and drum & bass artist based in Czech Republic, tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside Axis Alpha, Nior and Grafik (2). Next up: TBA, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Yakobi Narubi is a techno and drum & bass artist based in Czech Republic, tracke
 
 Axis Alpha, Nior, Grafik (2)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yakobinarubi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yakobinarubi/)*

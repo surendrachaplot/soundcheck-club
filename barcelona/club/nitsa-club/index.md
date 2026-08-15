@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Interplanetary Criminal · Rumbler" on Fri, 14 Aug 2026.
+Nitsa Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Interplanetary Criminal · Rumbler" on Fri, 14 Aug 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Bob Moses, Cannelle, Dj Fra and Fatima Hajji and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Bob Moses, Cannelle, Dj Fra and Fatima Hajji and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 | Sat, 22 Aug 2026 | Pastis & Buenri Vinyl Set All Night Long | Pastis & Buenri |
 | Fri, 28 Aug 2026 | Fatima Hajji | Fatima Hajji, NHYMPH |
 | Sat, 29 Aug 2026 | Six Sex Live · Cannelle Live · Genosidra · KMILA | Cannelle, Genosidra, KMILA, Six Sex |
+| Fri, 25 Sept 2026 | Villano Antillano |  |
 | Fri, 16 Oct 2026 | Silva Bumpa | Silva Bumpa |
 
 ## Address
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

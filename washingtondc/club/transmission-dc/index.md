@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "MÖYA AFRO HOUSE PRESENTS G-WASH10" on Sat, 15 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MÖYA AFRO HOUSE PRESENTS G-WASH10" on Sat, 15 Aug 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including 1tbsp, Amarji King, Archangel and Bbymutha and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

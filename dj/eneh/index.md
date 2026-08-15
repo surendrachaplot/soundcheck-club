@@ -1,6 +1,6 @@
 # ENÈH
 
-ENÈH is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+ENÈH is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
 ENÈH is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Berlin, Leipzig and Zurich. Often billed alongside Maris Shilton, The Camel and UNKNOWN_DJ. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ENÈH is a techno and industrial artist tracked on soundcheck, with 33 sets logg
 
 Maris Shilton, The Camel, UNKNOWN_DJ
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eneh/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eneh/)*

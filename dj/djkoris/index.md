@@ -1,6 +1,6 @@
 # DJ KORIS
 
-DJ KORIS is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sinners and Saints, Washington DC on Sat, 15 Aug 2026.
+DJ KORIS is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sinners and Saints, Washington DC on Sat, 15 Aug 2026.
 
 DJ KORIS is a club and ghetto tech artist tracked on soundcheck, with 30 sets logged across Washingtondc. Often billed alongside CYB3R T0NIN, JACKIECHANSDOG and Mooncrumb. Next up: Sinners and Saints, Washingtondc on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ KORIS is a club and ghetto tech artist tracked on soundcheck, with 30 sets lo
 
 CYB3R T0NIN, JACKIECHANSDOG, Mooncrumb
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoris/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoris/)*

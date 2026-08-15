@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Naughty Vibes - Afterparade Party 'Wir sind RAW'" on Sat, 15 Aug 2026.
+Cassiopeia is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Naughty Vibes - Afterparade Party 'Wir sind RAW'" on Sat, 15 Aug 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Corios, Daniel Duese, Danny Subsonic and MARIA FM and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 6 upcoming nights, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

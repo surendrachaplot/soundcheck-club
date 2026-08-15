@@ -1,6 +1,6 @@
 # Kiviv
 
-Kiviv is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
+Kiviv is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
 
 Kiviv is a bass and house artist tracked on soundcheck, with 10 sets logged across Montreal. Often billed alongside Wencat, Pleurire and coldchainlogistics. Next up: TBA - outdoors, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kiviv is a bass and house artist tracked on soundcheck, with 10 sets logged acro
 
 Wencat, Pleurire, coldchainlogistics
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiviv/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiviv/)*

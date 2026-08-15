@@ -1,6 +1,6 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Bucht der Träumer, Frankfurt on Sat, 15 Aug 2026.
+Natascha Polké is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Bucht der Träumer, Frankfurt on Sat, 15 Aug 2026.
 
 Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: TBA - Bucht der Träumer, Frankfurt on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

@@ -1,6 +1,6 @@
 # LACATY
 
-LACATY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Fri, 14 Aug 2026.
+LACATY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Else, Berlin on Fri, 14 Aug 2026.
 
 LACATY is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside miszo, Body Clinic and DJ Cosworth. Next up: Else, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ LACATY is a house and techno artist tracked on soundcheck, with 53 sets logged a
 
 ## Recently played
 
+- Else, Berlin — Fri, 14 Aug 2026
 - C/O Berlin, Berlin — Sat, 8 Aug 2026
 - Paloma, Berlin — Fri, 24 Jul 2026
 - Skatecafe, Amsterdam — Fri, 10 Jul 2026
@@ -19,10 +20,9 @@ LACATY is a house and techno artist tracked on soundcheck, with 53 sets logged a
 - Het Sieraad, Amsterdam — Sat, 20 Jun 2026
 - Kater, Berlin — Fri, 12 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 23 May 2026
-- ÆDEN, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 miszo, Body Clinic, DJ Cosworth
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacaty/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacaty/)*

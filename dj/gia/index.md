@@ -1,6 +1,6 @@
 # GIA
 
-GIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
+GIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
 
 GIA is a techno and industrial artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Bristol and Ibiza and 9 more. Often billed alongside Billy Gillies, DJ Hyaluron and DJ Pheromone. Next up: Sawmills, Bristol on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ GIA is a techno and industrial artist tracked on soundcheck, with 83 sets logged
 
 Billy Gillies, DJ Hyaluron, DJ Pheromone
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*

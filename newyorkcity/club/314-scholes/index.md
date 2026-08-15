@@ -1,14 +1,13 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Dee Diggs: LoHi Rooftop" on Fri, 14 Aug 2026.
+314 Scholes is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Gene Farris: LoHi Rooftop" on Sat, 15 Aug 2026.
 
-314 Scholes is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Bookworms, Dee Diggs, DJ Pierre and Dj Sliink and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
+314 Scholes is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Bookworms, DJ Pierre, Dj Sliink and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Dee Diggs: LoHi Rooftop | Dee Diggs, Hovy |
 | Sat, 15 Aug 2026 | Gene Farris: LoHi Rooftop | Gene Farris |
 | Fri, 21 Aug 2026 | Dopplereffekt/DJ Stingray 313 | Bookworms, DJ Stingray 313, Dopplereffekt, Max Watts |
 | Fri, 21 Aug 2026 | Dj Sliink: LoHi Rooftop | Dj Sliink |
@@ -18,9 +17,10 @@
 | Fri, 25 Sept 2026 | Other People Night: AEAEA | Nicolas Jaar |
 | Sat, 26 Sept 2026 | COMA: 002 |  |
 | Sat, 26 Sept 2026 | Moodymann: LoHi Rooftop | Moodymann |
+| Sat, 31 Oct 2026 | Schrotthagen: New World Tour 2026 | Schrotthagen |
 
 ## Address
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

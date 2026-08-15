@@ -1,6 +1,6 @@
 # Cosmic Caz
 
-Cosmic Caz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
+Cosmic Caz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
 
 Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Brighton, Dublin, Kyoto and London and 3 more. Often billed alongside Melati, MileZ and TEDESCO. Next up: Gaffe, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on sou
 
 Melati, MileZ, TEDESCO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*

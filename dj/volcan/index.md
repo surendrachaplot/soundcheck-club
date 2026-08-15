@@ -1,6 +1,6 @@
 # Volcan
 
-Volcan is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Studiodb, Berlin on Sat, 15 Aug 2026.
+Volcan is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Studiodb, Berlin on Sat, 15 Aug 2026.
 
 Volcan is a house and experimental artist tracked on soundcheck, with 8 sets logged across Berlin, Mexicocity, Sandiego and Sanfrancisco. Often billed alongside LA NIÑA (DE), ARN4L2 and BRIIZV. Next up: Studiodb, Berlin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Volcan is a house and experimental artist tracked on soundcheck, with 8 sets log
 
 LA NIÑA (DE), ARN4L2, BRIIZV
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volcan/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volcan/)*

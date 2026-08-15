@@ -1,14 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 30 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Hop on The Top pres: Open Air Hip Hop Party at La Terrrazza" on Fri, 14 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Luna Rosa x Fernanda Arrau" on Fri, 14 Aug 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 30 upcoming nights, with line-ups including Belu Rodriguez, Bennet, Bennet (DE) and BRU ON and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including Belu Rodriguez, Bennet, Bennet (DE) and BRU ON and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Hop on The Top pres: Open Air Hip Hop Party at La Terrrazza | DJ AMAZING |
 | Fri, 14 Aug 2026 | Luna Rosa x Fernanda Arrau | Bennet, Bennet (DE), Fernanda Arrau |
 | Sat, 15 Aug 2026 | ERROR404 pres. KALAHARI OYSTER CULT | Melina Serser, Rey Colino, Robert Dietz |
 | Thu, 20 Aug 2026 | SUMMER HEROES: Open Air with Michelle Manetti | BRU ON, IVAN POSEIDON, Michelle Manetti, MøønkiZa, Tomas Aquino, juliboe |
@@ -18,9 +17,10 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 30 upcoming nig
 | Thu, 27 Aug 2026 | SUMMER HEROES: Open Air with WHO ELSE | Belu Rodriguez, MøønkiZa, Uri Mood, WHO ELSE |
 | Fri, 28 Aug 2026 | Poly-Rythmo Club meets La Terrrazza | Disgonuts, JKriv, Sonido Tupinamba |
 | Sat, 29 Aug 2026 | Happy Techno at La Terrrazza Barcelona - Open Air / Daytime | Lexlay, Pirupa, Shitake |
+| Sat, 29 Aug 2026 | Club Inferno x LOVEANG3L | Upper90 |
 
 ## Address
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

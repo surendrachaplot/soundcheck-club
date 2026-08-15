@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "INVITED with LUCAS DARIO, SIN, COSMOKAT" on Fri, 14 Aug 2026.
+Club Frau Holle is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "INVITED with LUCAS DARIO, SIN, COSMOKAT" on Fri, 14 Aug 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including Alias, Benjamin Grimm, CHICHO and Frank Leder and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -18,4 +18,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 5 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

@@ -1,6 +1,6 @@
 # Kittamami
 
-Kittamami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 22 Aug 2026.
+Kittamami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 22 Aug 2026.
 
 Kittamami is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit, Losangeles and Sandiego. Often billed alongside Sheefy McFly, baby.com and DJ Kita. Next up: TBA - Los Angeles (Warehouse), Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kittamami is a house and tech house artist based in United States of America, tr
 
 Sheefy McFly, baby.com, DJ Kita
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittamami/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittamami/)*

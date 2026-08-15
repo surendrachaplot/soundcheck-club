@@ -1,6 +1,6 @@
 # Gatto Nero
 
-Gatto Nero is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 15 Aug 2026.
+Gatto Nero is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 15 Aug 2026.
 
 Gatto Nero is an experimental and techno artist tracked on soundcheck, with 4 sets logged across Rome. Often billed alongside Antonio Aiello, Zerø and AGNES (IT). Next up: THE MAGICK BAR, Rome on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Gatto Nero is an experimental and techno artist tracked on soundcheck, with 4 se
 
 Antonio Aiello, Zerø, AGNES (IT)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero/)*

@@ -1,6 +1,6 @@
 # nthng
 
-nthng is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+nthng is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
 nthng is a techno and trance artist tracked on soundcheck, with 42 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Hame (1), DJ TOOL and Hafa. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ nthng is a techno and trance artist tracked on soundcheck, with 42 sets logged a
 
 Hame (1), DJ TOOL, Hafa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*

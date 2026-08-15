@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Flava Beach, Naples on Sat, 15 Aug 2026.
+Jeff Mills is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Flava Beach, Naples on Sat, 15 Aug 2026.
 
 Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Flava Beach, Naples on Sat 15 Aug.
 
@@ -34,4 +34,4 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets log
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

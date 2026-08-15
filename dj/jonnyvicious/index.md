@@ -1,6 +1,6 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
+JonnyVicious is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
 
 JonnyVicious is a house and techno artist tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ JonnyVicious is a house and techno artist tracked on soundcheck, with 86 sets lo
 
 LZZY, Alam, Roshan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

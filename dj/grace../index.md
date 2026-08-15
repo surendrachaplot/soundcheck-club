@@ -1,6 +1,6 @@
 # GRACE..
 
-GRACE.. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+GRACE.. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 GRACE.. is a house and club artist tracked on soundcheck, with 16 sets logged across Leeds, London and Osaka. Often billed alongside Cable!, Donut and Jamie Joy. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ GRACE.. is a house and club artist tracked on soundcheck, with 16 sets logged ac
 
 Cable!, Donut, Jamie Joy
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grace../)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grace../)*

@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cakeshop, Seoul on Sat, 15 Aug 2026.
+DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cakeshop, Seoul on Sat, 15 Aug 2026.
 
 DJ JM is a techno and bass artist tracked on soundcheck, with 53 sets logged across Athens, Berlin, Bristol and Brussels and 14 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: Cakeshop, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ JM is a techno and bass artist tracked on soundcheck, with 53 sets logged acr
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

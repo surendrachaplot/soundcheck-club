@@ -1,6 +1,6 @@
 # Samson A.K
 
-Samson A.K is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
+Samson A.K is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
 
 Samson A.K is a dub and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, Kyoto, London and Tokyo. Often billed alongside Daire Carolan, Ally Tropical and Athena Varosio. Next up: Vespers Club, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Samson A.K is a dub and experimental artist based in United Kingdom, tracked on 
 
 Daire Carolan, Ally Tropical, Athena Varosio
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonak/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonak/)*

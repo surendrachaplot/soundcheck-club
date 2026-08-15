@@ -1,6 +1,6 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+marcelitumelis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
 marcelitumelis is a techno and trance artist tracked on soundcheck, with 25 sets logged across Hamburg, Krakow and Warsaw. Often billed alongside xcessive, VRAXX and Józef Keuner. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ marcelitumelis is a techno and trance artist tracked on soundcheck, with 25 sets
 
 xcessive, VRAXX, Józef Keuner
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

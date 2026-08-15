@@ -1,6 +1,6 @@
 # Gino
 
-Gino is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
+Gino is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
 
 Gino is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: Levu VIP, Mexicocity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Gino is a drum & bass and techno artist based in United States of America, track
 
 Turno, Bryan Gee, Charlie Tee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*

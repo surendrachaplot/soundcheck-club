@@ -1,6 +1,6 @@
 # Yosef (ES)
 
-Yosef (ES) is a Neo Perreo and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Yosef (ES) is a Neo Perreo and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 Yosef (ES) is a neo perreo and afrobeats artist based in Spain, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Yosef (ES) is a neo perreo and afrobeats artist based in Spain, tracked on sound
 
 Diego Armando, Maxvll, Keiranai
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*

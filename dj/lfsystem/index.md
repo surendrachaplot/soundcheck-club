@@ -1,6 +1,6 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
+LF SYSTEM is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
 
 LF SYSTEM is a house and disco artist tracked on soundcheck, with 133 sets logged across Aberdeen, Auckland, Austin and Barcelona and 39 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: LDN East, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ LF SYSTEM is a house and disco artist tracked on soundcheck, with 133 sets logge
 
 Sonny Fodera, Solardo, Eats Everything
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

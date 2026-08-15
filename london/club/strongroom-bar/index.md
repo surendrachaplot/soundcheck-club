@@ -1,6 +1,6 @@
 # Strongroom Bar
 
-Strongroom Bar is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "42D4 Live" on Fri, 28 Aug 2026.
+Strongroom Bar is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "42D4 Live" on Fri, 28 Aug 2026.
 
 Strongroom Bar is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including DJ Kwamzy and Laelo Black. Browse upcoming dates, start times and who's playing. 120-124 Curtain Road; Hoxton; London EC2A 3SQ; United Kingdom.
 
@@ -17,4 +17,4 @@ Strongroom Bar is a music venue in London listed on soundcheck. 4 upcoming night
 
 120-124 Curtain Road; Hoxton; London EC2A 3SQ; United Kingdom, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/strongroom-bar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/strongroom-bar/)*

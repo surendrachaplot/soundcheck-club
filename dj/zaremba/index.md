@@ -1,6 +1,6 @@
 # ZAREMBA
 
-ZAREMBA is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sekta Selekta, Krakow on Sat, 22 Aug 2026.
+ZAREMBA is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sekta Selekta, Krakow on Sat, 22 Aug 2026.
 
 ZAREMBA is a minimal and tech house artist tracked on soundcheck, with 18 sets logged across Krakow and Warsaw. Often billed alongside Kamilescu, Raku and Elvira. Next up: Sekta Selekta, Krakow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ZAREMBA is a minimal and tech house artist tracked on soundcheck, with 18 sets l
 
 Kamilescu, Raku, Elvira
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaremba/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaremba/)*

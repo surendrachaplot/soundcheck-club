@@ -1,6 +1,6 @@
 # Stixy D
 
-Stixy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
+Stixy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
 
 Stixy D is a garage and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Bear Winder, Boon (UK) and Braindead. Next up: The Lower Third, London on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Stixy D is a garage and house artist based in United Kingdom, tracked on soundch
 
 Bear Winder, Boon (UK), Braindead
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stixyd/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stixyd/)*

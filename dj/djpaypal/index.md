@@ -1,6 +1,6 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Volks, Brighton on Fri, 14 Aug 2026.
+DJ Paypal is a Footwork and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Volks, Brighton on Fri, 14 Aug 2026.
 
 DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Volks, Brighton on Fri 14 Aug.
 
@@ -19,6 +19,7 @@ DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logg
 
 ## Recently played
 
+- Volks, Brighton — Fri, 14 Aug 2026
 - HVEN, Tokyo — Fri, 8 May 2026
 - Space, Tokyo — Sun, 3 May 2026
 - West Harlem, Kyoto — Fri, 1 May 2026
@@ -26,10 +27,9 @@ DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logg
 - TBA - Casita Hollywood, Los Angeles — Fri, 24 Apr 2026
 - Swan Dive, Portland — Thu, 23 Apr 2026
 - Mullen's Sports Bar & Grill, Chicago — Sat, 18 Apr 2026
-- Bar Le Ritz PDB, Montreal — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Kloxii Li, Missy, TEDDMAN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

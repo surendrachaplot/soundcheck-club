@@ -1,6 +1,6 @@
 # Tereza Joanne Boat
 
-Tereza Joanne Boat is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Eclectic Zoo presents: Kaufmann" on Fri, 4 Sept 2026.
+Tereza Joanne Boat is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Eclectic Zoo presents: Kaufmann" on Fri, 4 Sept 2026.
 
 Tereza Joanne Boat is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Altayef, Dari-A, Innerstice and Kaufmann. Browse upcoming dates, start times and who's playing. King George V Dock; Woolwich Manor Way; London E16 2NJ.
 
@@ -14,4 +14,4 @@ Tereza Joanne Boat is a music venue in London listed on soundcheck. 1 upcoming n
 
 King George V Dock; Woolwich Manor Way; London E16 2NJ, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tereza-joanne-boat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tereza-joanne-boat/)*

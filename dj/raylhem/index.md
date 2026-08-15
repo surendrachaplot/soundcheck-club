@@ -1,6 +1,6 @@
 # Raylhem
 
-Raylhem is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
+Raylhem is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
 
 Raylhem is a baile funk and afrobeats artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside JEY SYANO, MLLE CEE and Punk à Poules. Next up: TBA - Secret location, Montreal on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Raylhem is a baile funk and afrobeats artist based in Canada, tracked on soundch
 
 ## Recently played
 
+- TBA - Secret location, Montreal — Fri, 14 Aug 2026
 - Collectif MTL, Montreal — Sat, 11 Jul 2026
 - TBA - 120 Av. Duluth E, Montréal, QC H2W 1H1, Montreal — Sat, 9 May 2026
 
@@ -19,4 +20,4 @@ Raylhem is a baile funk and afrobeats artist based in Canada, tracked on soundch
 
 JEY SYANO, MLLE CEE, Punk à Poules
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raylhem/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raylhem/)*

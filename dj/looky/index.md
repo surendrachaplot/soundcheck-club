@@ -1,6 +1,6 @@
 # LOOKY
 
-LOOKY is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
+LOOKY is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
 
 LOOKY is a hardcore and techno artist tracked on soundcheck, with 21 sets logged across Belfast, Lisbon, Liverpool and Newcastle and 1 more. Often billed alongside ERIC LINDSAY, Ethan Mitchell and RAINBIRD. Next up: The Temple, Belfast on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ LOOKY is a hardcore and techno artist tracked on soundcheck, with 21 sets logged
 
 ERIC LINDSAY, Ethan Mitchell, RAINBIRD
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/looky/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/looky/)*

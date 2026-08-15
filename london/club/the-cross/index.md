@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "WILD Festival-Final Chapter x FTLOM" on Sat, 5 Sept 2026.
+The Cross is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "WILD Festival-Final Chapter x FTLOM" on Sat, 5 Sept 2026.
 
 The Cross is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Ashleigh De-Niro, Jeremy Healy, Raymundo Rodriguez and Tred Benedict. Browse upcoming dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -16,4 +16,4 @@ The Cross is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

@@ -1,6 +1,6 @@
 # illequal
 
-illequal is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Live Haus, Tokyo on Sat, 15 Aug 2026.
+illequal is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Live Haus, Tokyo on Sat, 15 Aug 2026.
 
 illequal is a bass and techno artist based in Japan, tracked on soundcheck, with 73 sets logged across Osaka and Tokyo. Often billed alongside NordOst, Telematic Visions and Eichi Abe. Next up: Live Haus, Tokyo on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ illequal is a bass and techno artist based in Japan, tracked on soundcheck, with
 
 NordOst, Telematic Visions, Eichi Abe
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illequal/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illequal/)*

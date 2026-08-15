@@ -1,6 +1,6 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Melody" on Wed, 12 Aug 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Melody" on Wed, 12 Aug 2026.
 
 BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including KASHIWAGI, Krankent and mieux (JP). Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
@@ -23,4 +23,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 19 upcoming nights
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

@@ -1,6 +1,6 @@
 # Andrew (TREKKIE TRAX)
 
-Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
+Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
 
 Andrew (TREKKIE TRAX) is a bass and house artist tracked on soundcheck, with 61 sets logged across Tokyo. Often billed alongside Carpainter, Seimei and K8 (TYO GQOM). Next up: or, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andrew (TREKKIE TRAX) is a bass and house artist tracked on soundcheck, with 61 
 
 Carpainter, Seimei, K8 (TYO GQOM)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*

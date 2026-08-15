@@ -1,6 +1,6 @@
 # ARCYDARO
 
-ARCYDARO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+ARCYDARO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 ARCYDARO is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin and Lisbon. Often billed alongside Adana Twins, Ale Castro and Biesmans. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ ARCYDARO is a techno and house artist tracked on soundcheck, with 4 sets logged 
 
 Adana Twins, Ale Castro, Biesmans
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcydaro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcydaro/)*

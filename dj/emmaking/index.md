@@ -1,6 +1,6 @@
 # EMMA KING
 
-EMMA KING is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elsewhere, New York City on Tue, 18 Aug 2026.
+EMMA KING is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Elsewhere, New York City on Tue, 18 Aug 2026.
 
 EMMA KING is a techno and club artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside m i m i (US), Amal and Bodegaparty. Next up: Elsewhere, Newyorkcity on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ EMMA KING is a techno and club artist tracked on soundcheck, with 16 sets logged
 
 m i m i (US), Amal, Bodegaparty
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaking/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaking/)*

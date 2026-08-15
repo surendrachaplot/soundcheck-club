@@ -1,14 +1,13 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 61 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "POOL PARTY" on Fri, 14 Aug 2026.
+O Beach is a music venue in Ibiza with 60 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SOUL HEAVEN" on Sat, 15 Aug 2026.
 
-O Beach is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, with line-ups including David Penn, Jamie Love, Mr. V and SOMEGUY. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
+O Beach is a music venue in Ibiza listed on soundcheck. 60 upcoming nights, with line-ups including David Penn, Jamie Love, Mr. V and SOMEGUY. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | POOL PARTY |  |
 | Sat, 15 Aug 2026 | SOUL HEAVEN |  |
 | Sun, 16 Aug 2026 | LOVEJUICE |  |
 | Mon, 17 Aug 2026 | JOEL CORRY |  |
@@ -18,9 +17,10 @@ O Beach is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, with
 | Fri, 21 Aug 2026 | POOL PARTY |  |
 | Sat, 22 Aug 2026 | O Beach Ibiza presents: Soul Heaven | Mr. V |
 | Sat, 22 Aug 2026 | SOUL HEAVEN |  |
+| Sun, 23 Aug 2026 | Kinky Malinki | David Penn, Jamie Love, SOMEGUY |
 
 ## Address
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

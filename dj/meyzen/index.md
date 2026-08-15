@@ -1,6 +1,6 @@
 # Meyzen
 
-Meyzen is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Meyzen is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 Meyzen is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Birmingham, London and Manchester. Often billed alongside SVRN, MÖXŌN and NLI. Next up: M.O.T, London on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Meyzen is a techno and industrial artist based in United Kingdom, tracked on sou
 
 SVRN, MÖXŌN, NLI
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyzen/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyzen/)*

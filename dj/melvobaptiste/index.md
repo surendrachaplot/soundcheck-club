@@ -1,6 +1,6 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
+Melvo Baptiste is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Melvo Baptiste is a house and disco artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: Amnesia Ibiza, Ibiza on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ Melvo Baptiste is a house and disco artist tracked on soundcheck, with 121 sets 
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

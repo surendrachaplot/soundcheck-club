@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Fünk, Mexico City on Sat, 15 Aug 2026.
+Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fünk, Mexico City on Sat, 15 Aug 2026.
 
 Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Auckland and 51 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Fünk, Mexicocity on Sat 15 Aug.
 
@@ -33,4 +33,4 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

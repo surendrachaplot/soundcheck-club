@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Family Affair - Golden Era Hip-Hop & RnB" on Fri, 14 Aug 2026.
+Tola is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Orbital Sounds Residents [Disco - House - Bass]" on Sat, 15 Aug 2026.
 
-Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Buddy. (2), CHICCA, Chris Airplays and Harmony and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Buddy. (2), CHICCA, Chris Airplays and Harmony and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Family Affair - Golden Era Hip-Hop & RnB |  |
 | Sat, 15 Aug 2026 | Orbital Sounds Residents [Disco - House - Bass] | Chris Airplays, Noisy Neighbour, Racso Renniks |
 | Fri, 21 Aug 2026 | Kascade | CHICCA |
 | Fri, 28 Aug 2026 | Caya DJ Clash Live | JuicySteamedHams, Mayowa |
@@ -22,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

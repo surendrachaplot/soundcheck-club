@@ -1,6 +1,6 @@
 # Lukas Wigflex
 
-Lukas Wigflex is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Lukas Wigflex is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Lukas Wigflex is a techno and electro artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Dr Banana, Chez de Milo and Willow. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lukas Wigflex is a techno and electro artist tracked on soundcheck, with 122 set
 
 Dr Banana, Chez de Milo, Willow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaswigflex/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaswigflex/)*

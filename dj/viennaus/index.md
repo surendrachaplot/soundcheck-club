@@ -1,6 +1,6 @@
 # Viennaus
 
-Viennaus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
+Viennaus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
 
 Viennaus is a house and techno artist based in Poland, tracked on soundcheck, with 22 sets logged across Krakow and Warsaw. Often billed alongside Dedenia, Edvvin and Buchan. Next up: Barka Schodki, Warsaw on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Viennaus is a house and techno artist based in Poland, tracked on soundcheck, wi
 
 ## Recently played
 
+- Barka Schodki, Warsaw — Fri, 14 Aug 2026
 - Baseny Kora, Warsaw — Fri, 3 Jul 2026
 - K-Bar Powiśle, Warsaw — Sat, 27 Jun 2026
 - Jasna 1, Warsaw — Fri, 13 Mar 2026
@@ -19,10 +20,9 @@ Viennaus is a house and techno artist based in Poland, tracked on soundcheck, wi
 - STK 47 WAREHOUSE, Krakow — Fri, 6 Feb 2026
 - K-Bar Powiśle, Warsaw — Fri, 9 Jan 2026
 - MESSALKA, Warsaw — Wed, 31 Dec 2025
-- underiolo, Warsaw — Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Dedenia, Edvvin, Buchan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*

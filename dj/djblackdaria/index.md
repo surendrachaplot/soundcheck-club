@@ -1,6 +1,6 @@
 # Black Daria
 
-Black Daria is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sun, 30 Aug 2026.
+Black Daria is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Colour Factory, London on Sun, 30 Aug 2026.
 
 Black Daria is a club and hip-hop artist tracked on soundcheck, with 92 sets logged across Austin, Chicago, London and Mexicocity and 5 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: Colour Factory, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Black Daria is a club and hip-hop artist tracked on soundcheck, with 92 sets log
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

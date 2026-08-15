@@ -1,6 +1,6 @@
 # Thomas Oven
 
-Thomas Oven is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The DBA, Manchester on Sun, 16 Aug 2026.
+Thomas Oven is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The DBA, Manchester on Sun, 16 Aug 2026.
 
 Thomas Oven is a techno and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Manchester. Often billed alongside caonix, Dorbachov and INLIMEN. Next up: The DBA, Manchester on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Thomas Oven is a techno and ghetto tech artist based in United Kingdom, tracked 
 
 caonix, Dorbachov, INLIMEN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasoven/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasoven/)*

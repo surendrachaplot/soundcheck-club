@@ -1,6 +1,6 @@
 # Lola Jones
 
-Lola Jones is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
+Lola Jones is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
 
 Lola Jones is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Antwerp and Brussels. Often billed alongside Leck Barker, CARAVEL and KUSS. Next up: LEO, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lola Jones is a techno and industrial artist tracked on soundcheck, with 10 sets
 
 Leck Barker, CARAVEL, KUSS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolajones/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolajones/)*

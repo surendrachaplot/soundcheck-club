@@ -1,6 +1,6 @@
 # Samuel Kerridge
 
-Samuel Kerridge is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Cadavra, Madrid on Thu, 3 Sept 2026.
+Samuel Kerridge is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Cadavra, Madrid on Thu, 3 Sept 2026.
 
 Samuel Kerridge is a techno and experimental artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Regis, OAKE and Russell Haswell. Next up: Cadavra, Madrid on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Samuel Kerridge is a techno and experimental artist tracked on soundcheck, with 
 
 Regis, OAKE, Russell Haswell
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*

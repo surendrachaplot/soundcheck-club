@@ -1,6 +1,6 @@
 # Sera J
 
-Sera J is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sera J is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Sera J is a techno and house artist based in Greece, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Sera J is a techno and house artist based in Greece, tracked on soundcheck, with
 
 ANNĒ, SHDW, Alarico
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

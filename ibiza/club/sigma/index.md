@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "OFFSET" on Fri, 14 Aug 2026.
+Sigma is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "OFFSET" on Fri, 14 Aug 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with line-ups including Arnaud Le Texier, Ilex, Javi Niño and Luce and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -23,4 +23,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with l
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

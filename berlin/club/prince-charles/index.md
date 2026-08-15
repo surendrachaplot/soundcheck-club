@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Chlär presents: Ritua" on Sat, 22 Aug 2026.
+Prince Charles is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Chlär presents: Ritua" on Sat, 22 Aug 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including ATTA (GER), Chlär, David Jackson and DJ Eivissa and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 2 upcoming night
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

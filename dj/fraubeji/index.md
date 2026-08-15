@@ -1,6 +1,6 @@
 # Frau Beji
 
-Frau Beji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+Frau Beji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
 Frau Beji is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Cologne. Often billed alongside PICCELL, Foudjo and BARULHO WORLD. Next up: Garagen, Cologne on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Frau Beji is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Garagen, Cologne — Fri, 14 Aug 2026
 - fi, Cologne — Sat, 25 Jul 2026
 - Gretchen, Berlin — Sat, 29 Nov 2025
 - fi, Cologne — Sat, 6 Sept 2025
@@ -22,4 +23,4 @@ Frau Beji is a techno and house artist based in Germany, tracked on soundcheck, 
 
 PICCELL, Foudjo, BARULHO WORLD
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraubeji/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraubeji/)*

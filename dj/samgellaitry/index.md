@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Art Club, Houston on Sat, 29 Aug 2026.
+Sam Gellaitry is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Art Club, Houston on Sat, 29 Aug 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Glasgow and Houston and 17 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Art Club, Houston on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

@@ -1,6 +1,6 @@
 # LILLI
 
-LILLI is a Ambient and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
+LILLI is a Ambient and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
 LILLI is an ambient and ghetto tech artist tracked on soundcheck, with 12 sets logged across Berlin, Dusseldorf and Frankfurt. Often billed alongside Lilli Zylka, Aa Sudd and Nixe. Next up: Else, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ LILLI is an ambient and ghetto tech artist tracked on soundcheck, with 12 sets l
 
 Lilli Zylka, Aa Sudd, Nixe
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilli/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilli/)*

@@ -1,6 +1,6 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Q Nightclub, Seattle on Sat, 15 Aug 2026.
+Cosmic Gate is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Q Nightclub, Seattle on Sat, 15 Aug 2026.
 
 Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Austin and Belfast and 25 more. Often billed alongside Luccio, Armin van Buuren and John O'Callaghan. Next up: Q Nightclub, Seattle on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 
 Luccio, Armin van Buuren, John O'Callaghan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

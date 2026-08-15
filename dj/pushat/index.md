@@ -1,6 +1,6 @@
 # Pusha T
 
-Pusha T is a Baile Funk and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Brixton Jamm, London on Sat, 15 Aug 2026.
+Pusha T is a Baile Funk and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Brixton Jamm, London on Sat, 15 Aug 2026.
 
 Pusha T is a baile funk and disco artist tracked on soundcheck, with 8 sets logged across Amsterdam, Brussels, Frankfurt and London and 2 more. Often billed alongside Eliza Rose, Jayda G and Amaliah. Next up: Brixton Jamm, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Pusha T is a baile funk and disco artist tracked on soundcheck, with 8 sets logg
 
 Eliza Rose, Jayda G, Amaliah
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pushat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pushat/)*

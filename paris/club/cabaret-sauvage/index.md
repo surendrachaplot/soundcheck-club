@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "¡Bae Party Sauvage" on Sat, 22 Aug 2026.
+Cabaret Sauvage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "¡Bae Party Sauvage" on Sat, 22 Aug 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Boston Bun, Budino, Djé Djé from the block and Dj Koyla and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming night
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

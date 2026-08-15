@@ -1,6 +1,6 @@
 # J/WON
 
-J/WON is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
+J/WON is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
 
 J/WON is a club and electro artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside KING SHE, HYUNHXEE and Ligrye. Next up: Modeci, Seoul on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ J/WON is a club and electro artist based in South Korea, tracked on soundcheck, 
 
 KING SHE, HYUNHXEE, Ligrye
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwon-kr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwon-kr/)*

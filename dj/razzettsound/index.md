@@ -1,6 +1,6 @@
 # Razzett Sound
 
-Razzett Sound is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Luca Gozo, Malta on Tue, 18 Aug 2026.
+Razzett Sound is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Luca Gozo, Malta on Tue, 18 Aug 2026.
 
 Razzett Sound is a dub and funk / soul artist based in Malta, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside 2thirty8 and Sean Rickett. Next up: Luca Gozo, Malta on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ Razzett Sound is a dub and funk / soul artist based in Malta, tracked on soundch
 
 2thirty8, Sean Rickett
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razzettsound/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razzettsound/)*

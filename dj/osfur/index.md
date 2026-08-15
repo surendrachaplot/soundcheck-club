@@ -1,6 +1,6 @@
 # OSFUR
 
-OSFUR is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sing Sing Theater, Bangkok on Sat, 8 Aug 2026.
+OSFUR is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sing Sing Theater, Bangkok on Sat, 8 Aug 2026.
 
 OSFUR is a house and afro house artist based in France, tracked on soundcheck, with 11 sets logged across Amsterdam, Bangkok, Ibiza and London and 2 more. Often billed alongside UVITA, ARYMÉ and Amine K. Next up: Sing Sing Theater, Bangkok on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ OSFUR is a house and afro house artist based in France, tracked on soundcheck, w
 
 UVITA, ARYMÉ, Amine K
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*

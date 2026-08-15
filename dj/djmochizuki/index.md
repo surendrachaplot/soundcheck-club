@@ -1,6 +1,6 @@
 # DJ MOCHIZUKI
 
-DJ MOCHIZUKI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Violetta, Tokyo on Sun, 16 Aug 2026.
+DJ MOCHIZUKI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Violetta, Tokyo on Sun, 16 Aug 2026.
 
 DJ MOCHIZUKI is a house and bass artist based in Japan, tracked on soundcheck, with 43 sets logged across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, KAMIYA. and KIMURA. Next up: Violetta, Tokyo on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ DJ MOCHIZUKI is a house and bass artist based in Japan, tracked on soundcheck, w
 
 Masayoshi Kimura, KAMIYA., KIMURA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochizuki/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochizuki/)*

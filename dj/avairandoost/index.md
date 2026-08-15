@@ -1,6 +1,6 @@
 # AVA Irandoost
 
-AVA Irandoost is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+AVA Irandoost is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
 AVA Irandoost is a techno and electronica artist tracked on soundcheck, with 33 sets logged across Berlin, Frankfurt, Hamburg and Ibiza and 1 more. Often billed alongside Dirty Doering, Niconé and Peter Schumann. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AVA Irandoost is a techno and electronica artist tracked on soundcheck, with 33 
 
 Dirty Doering, Niconé, Peter Schumann
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*

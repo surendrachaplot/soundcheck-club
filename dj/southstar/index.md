@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+southstar is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 southstar is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -18,6 +18,7 @@ southstar is a techno and house artist tracked on soundcheck, with 57 sets logge
 
 ## Recently played
 
+- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 8 Jul 2026
@@ -25,10 +26,9 @@ southstar is a techno and house artist tracked on soundcheck, with 57 sets logge
 - Mondo, Madrid — Thu, 19 Mar 2026
 - Grelle Forelle, Vienna — Fri, 6 Mar 2026
 - Smolna, Warsaw — Sat, 14 Feb 2026
-- Fuchs2, Prague — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Funk Tribu, DJ Heartstring, Janis Zielinski
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

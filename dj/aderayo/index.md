@@ -1,6 +1,6 @@
 # Aderayo
 
-Aderayo is a Baile Funk and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Stereo, Glasgow on Sat, 29 Aug 2026.
+Aderayo is a Baile Funk and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Stereo, Glasgow on Sat, 29 Aug 2026.
 
 Aderayo is a baile funk and disco artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside Babyjaii, ELANDA and Miss Cabbage. Next up: Stereo, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Aderayo is a baile funk and disco artist based in United Kingdom, tracked on sou
 
 Babyjaii, ELANDA, Miss Cabbage
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aderayo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aderayo/)*

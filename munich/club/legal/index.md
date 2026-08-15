@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Legal KLUBNACHT w./ Downloadable Content, Sam Goku, Goiaba, Lina Mendoza b2b Carlota" on Fri, 14 Aug 2026.
+Legal is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Legal KLUBNACHT w./ Downloadable Content, Sam Goku, Goiaba, Lina Mendoza b2b Carlota" on Fri, 14 Aug 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including FLETCH, Almedina (2), buuo and Candy Pollard and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -21,4 +21,4 @@ Legal is a music venue in Munich listed on soundcheck. 8 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

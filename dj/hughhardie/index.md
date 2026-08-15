@@ -1,6 +1,6 @@
 # Hugh Hardie
 
-Hugh Hardie is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 22 Aug 2026.
+Hugh Hardie is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 22 Aug 2026.
 
 Hugh Hardie is a drum & bass and jungle artist tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Etherwood, Solah and Ruthless. Next up: D-EDGE, Saopaulo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Hugh Hardie is a drum & bass and jungle artist tracked on soundcheck, with 26 se
 
 Etherwood, Solah, Ruthless
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*

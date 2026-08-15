@@ -1,6 +1,6 @@
 # Do Shock Booze
 
-Do Shock Booze is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 17 Aug 2026.
+Do Shock Booze is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 17 Aug 2026.
 
 Do Shock Booze is a techno and house artist based in Japan, tracked on soundcheck, with 64 sets logged across Tokyo. Often billed alongside Taichi Kawahira, Drunken Kong and Remi Ohsugi. Next up: Enter Shibuya, Tokyo on Mon 17 Aug.
 
@@ -26,4 +26,4 @@ Do Shock Booze is a techno and house artist based in Japan, tracked on soundchec
 
 Taichi Kawahira, Drunken Kong, Remi Ohsugi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*

@@ -1,6 +1,6 @@
 # Selassie TBC
 
-Selassie TBC is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Selassie TBC is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Selassie TBC is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Bristol, London and Malaga. Often billed alongside Donut, Mr. Redley and Leanne Wright. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Selassie TBC is a house and hip-hop artist based in United Kingdom, tracked on s
 
 Donut, Mr. Redley, Leanne Wright
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

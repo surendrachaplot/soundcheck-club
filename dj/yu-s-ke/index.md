@@ -1,14 +1,15 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Z Maruyama, Tokyo on Sat, 15 Aug 2026.
+YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Z Maruyama, Tokyo on Sat, 15 Aug 2026.
 
-YU-S-KE is a techno and house artist tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: Z Maruyama, Tokyo on Sat 15 Aug.
+YU-S-KE is a techno and house artist tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: Z Maruyama, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Z Maruyama | Tokyo |
+| Sat, 10 Oct 2026 | Sabaco Music & Cafe | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 58 sets logged 
 
 BEPPU, Q'hey, Takami
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

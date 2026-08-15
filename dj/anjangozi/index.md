@@ -1,6 +1,6 @@
 # Anja Ngozi
 
-Anja Ngozi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Anja Ngozi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
 Anja Ngozi is a garage and house artist tracked on soundcheck, with 19 sets logged across London and Tokyo. Often billed alongside Guohan, Heléna Star and Jaye Ward. Next up: Jumbi, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Anja Ngozi is a garage and house artist tracked on soundcheck, with 19 sets logg
 
 Guohan, Heléna Star, Jaye Ward
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjangozi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjangozi/)*

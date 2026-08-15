@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "David Guetta presents Galactic Circus" on Fri, 14 Aug 2026.
+[UNVRS] is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "David Guetta presents Galactic Circus" on Fri, 14 Aug 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and AJ Christou and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -23,4 +23,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

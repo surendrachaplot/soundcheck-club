@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "PW 5 Years Anniversary • Jane Fitz (all night long)" on Fri, 14 Aug 2026.
+Platforma Wolff is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "PW 5 Years Anniversary • Jane Fitz (all night long)" on Fri, 14 Aug 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including Alex Troubetzkoy, Anthea, Automatic Writing and Barbu and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -21,4 +21,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

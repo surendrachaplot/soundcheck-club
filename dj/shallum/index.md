@@ -1,6 +1,6 @@
 # Shallum
 
-Shallum is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The White Swan, London on Sat, 15 Aug 2026.
+Shallum is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The White Swan, London on Sat, 15 Aug 2026.
 
 Shallum is a minimal techno and house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Medu, Nicola Mannini and Pietro LGF. Next up: The White Swan, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Shallum is a minimal techno and house artist tracked on soundcheck, with 3 sets 
 
 Medu, Nicola Mannini, Pietro LGF
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*

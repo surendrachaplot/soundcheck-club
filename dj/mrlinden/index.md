@@ -1,6 +1,6 @@
 # Mr. Linden
 
-Mr. Linden is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Orient Express, Seattle on Fri, 21 Aug 2026.
+Mr. Linden is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Orient Express, Seattle on Fri, 21 Aug 2026.
 
 Mr. Linden is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Seattle. Often billed alongside Hector Rodriguez, Jon Lee and Christine Michelle. Next up: Orient Express, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mr. Linden is a house and deep house artist based in United States of America, t
 
 Hector Rodriguez, Jon Lee, Christine Michelle
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*

@@ -1,6 +1,6 @@
 # Badlokk
 
-Badlokk is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Badlokk is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Badlokk is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Cologne. Often billed alongside Gourski, Enaly and JSPR. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Badlokk is a drum & bass and techno artist based in Germany, tracked on soundche
 
 Gourski, Enaly, JSPR
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badlokk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badlokk/)*

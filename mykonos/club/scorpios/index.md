@@ -1,6 +1,6 @@
 # Scorpios
 
-Scorpios is a music venue in Mykonos with 15 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ANOTR, Lannka B2B Little D" on Tue, 18 Aug 2026.
+Scorpios is a music venue in Mykonos with 15 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ANOTR, Lannka B2B Little D" on Tue, 18 Aug 2026.
 
 Scorpios is a music venue in Mykonos listed on soundcheck. 15 upcoming nights, with line-ups including Âme, ANOTR, Avangart Tabldot and Damian Lazarus and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
 
@@ -23,4 +23,4 @@ Scorpios is a music venue in Mykonos listed on soundcheck. 15 upcoming nights, w
 
 Paraga, Mikonos 846 00, Greece, Mykonos
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*

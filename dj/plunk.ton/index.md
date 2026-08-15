@@ -1,6 +1,6 @@
 # Plunk.ton
 
-Plunk.ton is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Plunk.ton is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Plunk.ton is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Chris El Raton, Cyco and DAZA. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Plunk.ton is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Chris El Raton, Cyco, DAZA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plunk.ton/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plunk.ton/)*

@@ -1,6 +1,6 @@
 # HYUNHXEE
 
-HYUNHXEE is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
+HYUNHXEE is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
 
 HYUNHXEE is an electro and techno artist based in South Korea, tracked on soundcheck, with 84 sets logged across Seoul and Tokyo. Often billed alongside Honn, KIKOH and X2C (1). Next up: Modeci, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ HYUNHXEE is an electro and techno artist based in South Korea, tracked on soundc
 
 Honn, KIKOH, X2C (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*

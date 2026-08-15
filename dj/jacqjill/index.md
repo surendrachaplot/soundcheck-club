@@ -1,6 +1,6 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Process PDX, Portland on Sat, 15 Aug 2026.
+Jacq Jill is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Process PDX, Portland on Sat, 15 Aug 2026.
 
 Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Process PDX, Portland on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Jacq Jill is a techno and house artist based in United States of America, tracke
 
 Joyce Lim, Baronhawk Poitier, flotussin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*

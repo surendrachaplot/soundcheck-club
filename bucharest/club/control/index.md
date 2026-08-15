@@ -1,18 +1,17 @@
 # control
 
-control is a music venue in Bucharest with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ctrl x Sqweez! x Fiesta Rara (UY): Vector, Medusa, crrush" on Fri, 14 Aug 2026.
+control is a music venue in Bucharest with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kabinett [CO], Walentin Pauer, Nek, Duro Disco with Vast Solo & Kosta" on Fri, 21 Aug 2026.
 
-control is a music venue in Bucharest listed on soundcheck. 2 upcoming nights, with line-ups including crrush, Kabinett and Kosta. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
+control is a music venue in Bucharest listed on soundcheck. 1 upcoming night, with line-ups including Kabinett and Kosta. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | ctrl x Sqweez! x Fiesta Rara (UY): Vector, Medusa, crrush | crrush |
 | Fri, 21 Aug 2026 | Kabinett [CO], Walentin Pauer, Nek, Duro Disco with Vast Solo & Kosta | Kabinett, Kosta |
 
 ## Address
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

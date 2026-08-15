@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+Zuri is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 70 sets logged across Amsterdam, Hongkong, London and Manchester and 2 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 70
 
 Aletha, Korzi, Atiké
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

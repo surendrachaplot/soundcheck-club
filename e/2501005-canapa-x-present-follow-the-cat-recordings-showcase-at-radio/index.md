@@ -1,6 +1,6 @@
 # Canapa-x present: 'Follow The Cat Recordings showcase' at Radio Radio
 
-Canapa-x present: 'Follow The Cat Recordings showcase' at Radio Radio on Sat 15 Aug, Amsterdam. 2 acts on the bill: ADEZ and Gabriele Peveri. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Canapa-x present: 'Follow The Cat Recordings showcase' at Radio Radio on Sat 15 Aug, Amsterdam. 3 acts on the bill: ADEZ, Gabriele Peveri and Matteo Gatti. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Canapa-x present: 'Follow The Cat Recordings showcase' at Radio Radio on Sat 15 
 
 - ADEZ
 - Gabriele Peveri
+- Matteo Gatti
 
 *Source: [soundcheck](https://soundcheck.club/e/2501005-canapa-x-present-follow-the-cat-recordings-showcase-at-radio/)*

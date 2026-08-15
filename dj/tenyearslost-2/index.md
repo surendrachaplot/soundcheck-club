@@ -1,6 +1,6 @@
 # Ten Years Lost (2)
 
-Ten Years Lost (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+Ten Years Lost (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
 
 Ten Years Lost (2) is a techno and club artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Edinburgh and Glasgow. Often billed alongside Big Miz, Jurnalist and Quaid. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Ten Years Lost (2) is a techno and club artist based in United Kingdom, tracked 
 
 Big Miz, Jurnalist, Quaid
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenyearslost-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenyearslost-2/)*

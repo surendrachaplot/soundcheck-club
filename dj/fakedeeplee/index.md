@@ -1,6 +1,6 @@
 # FAKEDEEPLEE
 
-FAKEDEEPLEE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bolero, Seoul on Sat, 15 Aug 2026.
+FAKEDEEPLEE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bolero, Seoul on Sat, 15 Aug 2026.
 
 FAKEDEEPLEE is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 77 sets logged across Newyorkcity and Seoul. Often billed alongside KARLLLL, AUS10 and DJ POOL. Next up: Bolero, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ FAKEDEEPLEE is a club and hip-hop artist based in United States of America, trac
 
 KARLLLL, AUS10, DJ POOL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakedeeplee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakedeeplee/)*

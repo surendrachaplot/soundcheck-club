@@ -1,6 +1,6 @@
 # Roberto Bianco
 
-Roberto Bianco is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Giselle, Düsseldorf on Sat, 8 Aug 2026.
+Roberto Bianco is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Giselle, Düsseldorf on Sat, 8 Aug 2026.
 
 Roberto Bianco is a techno and trance artist tracked on soundcheck, with 4 sets logged across Cologne, Dusseldorf and Leipzig. Often billed alongside AUGENGRAU, Baldur and GeHt Steil. Next up: Giselle, Dusseldorf on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Roberto Bianco is a techno and trance artist tracked on soundcheck, with 4 sets 
 
 AUGENGRAU, Baldur, GeHt Steil
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertobianco/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertobianco/)*

@@ -1,6 +1,6 @@
 # Bungalovv
 
-Bungalovv is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+Bungalovv is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 Bungalovv is an experimental and club artist tracked on soundcheck, with 50 sets logged across Athens, Bali, Bangkok and Barcelona and 11 more. Often billed alongside TUFI, Isaka and M8NSE. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bungalovv is an experimental and club artist tracked on soundcheck, with 50 sets
 
 TUFI, Isaka, M8NSE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*

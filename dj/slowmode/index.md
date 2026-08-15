@@ -1,6 +1,6 @@
 # Slowmode
 
-Slowmode is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Mastak, Warsaw on Fri, 14 Aug 2026.
+Slowmode is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mastak, Warsaw on Fri, 14 Aug 2026.
 
 Slowmode is an electronica and techno artist tracked on soundcheck, with 61 sets logged across Krakow and Warsaw. Often billed alongside zeroday, Salat and Pean. Next up: Mastak, Warsaw on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Slowmode is an electronica and techno artist tracked on soundcheck, with 61 sets
 
 ## Recently played
 
+- Mastak, Warsaw — Fri, 14 Aug 2026
 - Mastak, Warsaw — Sun, 2 Aug 2026
 - B-SIDE, Warsaw — Sat, 1 Aug 2026
 - B-SIDE, Warsaw — Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Slowmode is an electronica and techno artist tracked on soundcheck, with 61 sets
 - Mastak, Warsaw — Sat, 20 Jun 2026
 - Jasna 1, Warsaw — Fri, 19 Jun 2026
 - B-SIDE, Warsaw — Sat, 13 Jun 2026
-- Sekta Selekta, Krakow — Sat, 23 May 2026
 
 ## Shares bills with
 
 zeroday, Salat, Pean
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*

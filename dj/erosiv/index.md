@@ -1,6 +1,6 @@
 # Erosiv
 
-Erosiv is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
+Erosiv is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
 
 Erosiv is a disco and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside oston, patte and Schorli. Next up: Mellowpark, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Erosiv is a disco and trance artist based in Germany, tracked on soundcheck, wit
 
 oston, patte, Schorli
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erosiv/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erosiv/)*

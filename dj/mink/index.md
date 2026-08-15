@@ -1,6 +1,6 @@
 # mink
 
-mink is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 21 Aug 2026.
+mink is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 21 Aug 2026.
 
 mink is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Barcelona, Bristol, Bucharest and Ibiza and 4 more. Often billed alongside Sossa, Pablo Romero and Seth Troxler. Next up: Sunset Park Rooftop, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ mink is a house and techno artist based in United States of America, tracked on 
 
 Sossa, Pablo Romero, Seth Troxler
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*

@@ -1,6 +1,6 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Trance & Techno Turn it up a Notch" on Sat, 15 Aug 2026.
+Vibes Glasgow is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Trance & Techno Turn it up a Notch" on Sat, 15 Aug 2026.
 
 Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Sinner. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
@@ -21,4 +21,4 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 8 upcoming night
 
 239 Sauchiehall Street, Glasgow, G1 3AE, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*

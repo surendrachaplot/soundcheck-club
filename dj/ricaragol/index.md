@@ -1,6 +1,6 @@
 # Ri Caragol
 
-Ri Caragol is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Neptune Room, Washington DC on Sun, 16 Aug 2026.
+Ri Caragol is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Neptune Room, Washington DC on Sun, 16 Aug 2026.
 
 Ri Caragol is a techno and experimental artist based in Puerto Rico, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Energy Runner, STUKES and Candywax. Next up: Neptune Room, Washingtondc on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Ri Caragol is a techno and experimental artist based in Puerto Rico, tracked on 
 
 Energy Runner, STUKES, Candywax
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricaragol/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricaragol/)*

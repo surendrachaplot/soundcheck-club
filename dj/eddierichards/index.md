@@ -1,6 +1,6 @@
 # Eddie Richards
 
-Eddie Richards is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BRET, Amsterdam on Fri, 28 Aug 2026.
+Eddie Richards is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BRET, Amsterdam on Fri, 28 Aug 2026.
 
 Eddie Richards is a tech house and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Auckland, Berlin and Brighton and 11 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: BRET, Amsterdam on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Eddie Richards is a tech house and house artist tracked on soundcheck, with 30 s
 
 Terry Francis, 3 Minds, Silverlining
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*

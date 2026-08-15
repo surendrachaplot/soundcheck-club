@@ -1,6 +1,6 @@
 # RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN
 
-RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 53 acts on the bill: Agonis, Belaria, Blame Anthony and BLANKA and 49 more. Techno and House. Preview the line-up and save it on soundcheck.
+RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 54 acts on the bill: Agonis, Belaria, Blame Anthony and BLANKA and 50 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 53 acts o
 - Belaria
 - Blame Anthony
 - BLANKA
+- Blasha & Allatt
 - Byetone
 - Carmen Electro
 - Dangermami

@@ -1,6 +1,6 @@
 # Noumena
 
-Noumena is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Atno, Budapest on Fri, 14 Aug 2026.
+Noumena is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Atno, Budapest on Fri, 14 Aug 2026.
 
 Noumena is a house and dub techno artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Budapest. Often billed alongside Octile, Klayman and Murahni. Next up: Atno, Budapest on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Noumena is a house and dub techno artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
+- Atno, Budapest — Fri, 14 Aug 2026
 - Very Small Club, Budapest — Fri, 7 Aug 2026
 - Very Small Club, Budapest — Fri, 7 Aug 2026
 - Telep Budapest, Budapest — Thu, 6 Aug 2026
@@ -22,4 +23,4 @@ Noumena is a house and dub techno artist based in Netherlands, tracked on soundc
 
 Octile, Klayman, Murahni
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noumena/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noumena/)*

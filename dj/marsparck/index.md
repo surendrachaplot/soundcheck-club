@@ -1,6 +1,6 @@
 # Mars Parck
 
-Mars Parck is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Cakeshop, Seoul on Sat, 15 Aug 2026.
+Mars Parck is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Cakeshop, Seoul on Sat, 15 Aug 2026.
 
 Mars Parck is a techno and house artist based in South Korea, tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Seoul and Tokyo. Often billed alongside Stann Lumo, NUSNOOM and Marcus L. Next up: Cakeshop, Seoul on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Mars Parck is a techno and house artist based in South Korea, tracked on soundch
 
 Stann Lumo, NUSNOOM, Marcus L
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsparck/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsparck/)*

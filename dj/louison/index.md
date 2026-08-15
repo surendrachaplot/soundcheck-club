@@ -1,6 +1,6 @@
 # Louison
 
-Louison is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Badaboum, Paris on Sat, 29 Aug 2026.
+Louison is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Badaboum, Paris on Sat, 29 Aug 2026.
 
 Louison is a house and techno artist tracked on soundcheck, with 50 sets logged across Barcelona, Brussels, Lisbon and Lyon and 8 more. Often billed alongside Maco Maria, Jolly (FR) and LAMALICE. Next up: Badaboum, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Louison is a house and techno artist tracked on soundcheck, with 50 sets logged 
 
 Maco Maria, Jolly (FR), LAMALICE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*

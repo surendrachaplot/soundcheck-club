@@ -1,6 +1,6 @@
 # Miscmeg
 
-Miscmeg is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Miscmeg is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Miscmeg is a tech house and techno artist tracked on soundcheck, with 66 sets logged across Berlin, Copenhagen, Melbourne and Newyorkcity. Often billed alongside Reptant, Paper-Cuts and Moopie. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -14,6 +14,7 @@ Miscmeg is a tech house and techno artist tracked on soundcheck, with 66 sets lo
 
 ## Recently played
 
+- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Fitzroy, Berlin — Fri, 24 Jul 2026
 - Miscellania, Melbourne — Sat, 20 Jun 2026
 - Miscellania, Melbourne — Sun, 31 May 2026
@@ -21,10 +22,9 @@ Miscmeg is a tech house and techno artist tracked on soundcheck, with 66 sets lo
 - Collingwood Basement, Melbourne — Fri, 15 May 2026
 - OneSixOne, Melbourne — Mon, 11 May 2026
 - Carlton Club, Melbourne — Fri, 24 Apr 2026
-- Miscellania, Melbourne — Sun, 12 Apr 2026
 
 ## Shares bills with
 
 Reptant, Paper-Cuts, Moopie
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*

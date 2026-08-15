@@ -1,6 +1,6 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
+LOLSNAKE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
 
 LOLSNAKE is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: BASEMENT, Newyorkcity on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 217 sets logge
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

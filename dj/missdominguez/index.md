@@ -1,6 +1,6 @@
 # Miss Dominguez
 
-Miss Dominguez is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Miss Dominguez is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Miss Dominguez is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Miss Dominguez is a progressive house and techno artist based in Netherlands, tr
 
 Alain Pauwels, Around Us, Cris-H
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*

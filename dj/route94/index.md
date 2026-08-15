@@ -1,6 +1,6 @@
 # Route 94
 
-Route 94 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Route 94 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Route 94 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside Alex Mills, Enzo is Burning and Secondcity. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Route 94 is a house and tech house artist based in United Kingdom, tracked on so
 
 Alex Mills, Enzo is Burning, Secondcity
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/route94/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/route94/)*

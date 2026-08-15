@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
+tasha.mp4 is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
 
 tasha.mp4 is a drum & bass and garage artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Crown Pier, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ tasha.mp4 is a drum & bass and garage artist tracked on soundcheck, with 42 sets
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

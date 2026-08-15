@@ -1,6 +1,6 @@
 # Hana
 
-Hana is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
+Hana is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Hana is a techno and deep house artist tracked on soundcheck, with 29 sets logged across Ibiza, London, Malta and Melbourne and 12 more. Often billed alongside Marsh, Romain Garcia and CRi. Next up: Chinois Ibiza, Ibiza on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ Hana is a techno and deep house artist tracked on soundcheck, with 29 sets logge
 
 Marsh, Romain Garcia, CRi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*

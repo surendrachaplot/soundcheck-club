@@ -1,6 +1,6 @@
 # Sat
 
-Sat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Groove Bar, Prague on Sat, 15 Aug 2026.
+Sat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Groove Bar, Prague on Sat, 15 Aug 2026.
 
 Sat is a house and disco artist tracked on soundcheck, with 41 sets logged across Kualalumpur, Lisbon, Losangeles and Newyorkcity and 3 more. Often billed alongside Andrea Zucca, Møreti and Chep. Next up: Groove Bar, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sat is a house and disco artist tracked on soundcheck, with 41 sets logged acros
 
 Andrea Zucca, Møreti, Chep
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*

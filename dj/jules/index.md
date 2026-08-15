@@ -1,6 +1,6 @@
 # julës jay
 
-julës jay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Amari Bar, Munich on Sat, 15 Aug 2026.
+julës jay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Amari Bar, Munich on Sat, 15 Aug 2026.
 
 julës jay is a house and minimal artist tracked on soundcheck, with 79 sets logged across Munich and Vienna. Often billed alongside KITI ARSA, Vincent Lang and Ede. Next up: Amari Bar, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ julës jay is a house and minimal artist tracked on soundcheck, with 79 sets log
 
 KITI ARSA, Vincent Lang, Ede
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jules/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jules/)*

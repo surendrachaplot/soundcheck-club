@@ -1,6 +1,6 @@
 # ADREE
 
-ADREE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 15 Aug 2026.
+ADREE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 15 Aug 2026.
 
 ADREE is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Washingtondc. Often billed alongside Martino Boga, Kurilo and Petar Marniku. Next up: Summertime Roof Terrace, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ADREE is a house and techno artist based in United States of America, tracked on
 
 Martino Boga, Kurilo, Petar Marniku
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adree/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adree/)*

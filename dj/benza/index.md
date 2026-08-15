@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lowkey Seoul, Seoul on Fri, 14 Aug 2026.
+BENZA is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lowkey Seoul, Seoul on Fri, 14 Aug 2026.
 
 BENZA is a techno and minimal techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 15 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Lowkey Seoul, Seoul on Fri 14 Aug.
 
@@ -15,6 +15,7 @@ BENZA is a techno and minimal techno artist tracked on soundcheck, with 62 sets 
 
 ## Recently played
 
+- Lowkey Seoul, Seoul — Fri, 14 Aug 2026
 - Else, Berlin — Fri, 7 Aug 2026
 - The Red Rattler, Sydney — Sat, 1 Aug 2026
 - Solace, Melbourne — Fri, 31 Jul 2026
@@ -22,10 +23,9 @@ BENZA is a techno and minimal techno artist tracked on soundcheck, with 62 sets 
 - De Fik Garden, Amsterdam — Sat, 25 Jul 2026
 - Ministerium Club, Lisbon — Sat, 18 Jul 2026
 - Altenburg 1964, Prague — Fri, 10 Jul 2026
-- Lowkey Seoul, Seoul — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

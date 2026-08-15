@@ -1,6 +1,6 @@
 # Cyrus (CH)
 
-Cyrus (CH) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
+Cyrus (CH) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
 
 Cyrus (CH) is an electronic artist based in Switzerland, tracked on soundcheck, with 14 sets logged across Geneva. Often billed alongside DJ Reas, La Forêt and Laolu. Next up: Audio Club, Geneva on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cyrus (CH) is an electronic artist based in Switzerland, tracked on soundcheck, 
 
 DJ Reas, La Forêt, Laolu
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusch/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusch/)*

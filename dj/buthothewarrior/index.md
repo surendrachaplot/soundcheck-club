@@ -1,6 +1,6 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+ButhoTheWarrior is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 ButhoTheWarrior is a house and amapiano artist tracked on soundcheck, with 62 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ButhoTheWarrior is a house and amapiano artist tracked on soundcheck, with 62 se
 
 Optimistic Soul, ELANDA, Harri & Domenic
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*

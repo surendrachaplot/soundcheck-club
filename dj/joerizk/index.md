@@ -1,6 +1,6 @@
 # Joe Rizk
 
-Joe Rizk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 21 Aug 2026.
+Joe Rizk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 21 Aug 2026.
 
 Joe Rizk is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston. Often billed alongside CHAOUKI, Rasaaq and Katya C. Next up: Institute of Contemporary Art, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Joe Rizk is a house and techno artist based in United States of America, tracked
 
 CHAOUKI, Rasaaq, Katya C
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*

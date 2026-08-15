@@ -1,6 +1,6 @@
 # Finn Eden
 
-Finn Eden is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
+Finn Eden is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
 
 Finn Eden is a garage and house artist tracked on soundcheck, with 13 sets logged across Leeds, London and Sheffield. Often billed alongside Mason Talbot, Nausy and Carli Jayne. Next up: Sidney & Matilda, Sheffield on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Finn Eden is a garage and house artist tracked on soundcheck, with 13 sets logge
 
 Mason Talbot, Nausy, Carli Jayne
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finneden/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finneden/)*

@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "PERRX" on Sat, 15 Aug 2026.
+EKKO is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "PERRX" on Sat, 15 Aug 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 5 upcoming nights, with line-ups including Julia van Praag, KINETIKS, Lucky Done Gone and Weval. Browse upcoming dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -18,4 +18,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 5 upcoming nights, with l
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

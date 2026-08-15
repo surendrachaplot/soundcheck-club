@@ -1,6 +1,6 @@
 # Ecleptix
 
-Ecleptix is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nashaz, Brussels on Sat, 22 Aug 2026.
+Ecleptix is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nashaz, Brussels on Sat, 22 Aug 2026.
 
 Ecleptix is a psytrance and trance artist tracked on soundcheck, with 10 sets logged across Antwerp, Brussels and Ghent. Often billed alongside YKAi, ECH/O and Back to Mars. Next up: Nashaz, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ecleptix is a psytrance and trance artist tracked on soundcheck, with 10 sets lo
 
 YKAi, ECH/O, Back to Mars
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecleptix/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecleptix/)*

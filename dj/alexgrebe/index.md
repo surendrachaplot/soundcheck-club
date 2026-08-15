@@ -1,6 +1,6 @@
 # Alex Grebe
 
-Alex Grebe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
+Alex Grebe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 15 Aug 2026.
 
 Alex Grebe is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Toast Hawaii, higgy (de) and Nikklaas. Next up: Jonny Knüppel, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alex Grebe is a techno and house artist based in Germany, tracked on soundcheck,
 
 Toast Hawaii, higgy (de), Nikklaas
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgrebe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgrebe/)*

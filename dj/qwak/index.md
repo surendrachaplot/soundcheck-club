@@ -1,6 +1,6 @@
 # QWAK
 
-QWAK is a Jazz and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
+QWAK is a Jazz and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
 
 QWAK is a jazz and deep house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Drozza, Benebe and MAÏS. Next up: Dream Bags Jaguar Shoes, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ QWAK is a jazz and deep house artist tracked on soundcheck, with 11 sets logged 
 
 Drozza, Benebe, MAÏS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*

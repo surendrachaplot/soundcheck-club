@@ -1,6 +1,6 @@
 # Cuartero
 
-Cuartero is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
+Cuartero is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
 
 Cuartero is a tech house and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 12 more. Often billed alongside East End Dubs, Manda Moor and Prunk. Next up: Jardins de Joan Brossa, Barcelona on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Cuartero is a tech house and house artist tracked on soundcheck, with 98 sets lo
 
 East End Dubs, Manda Moor, Prunk
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*

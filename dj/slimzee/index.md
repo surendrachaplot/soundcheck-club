@@ -1,6 +1,6 @@
 # Slimzee
 
-Slimzee is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
+Slimzee is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
 
 Slimzee is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Goodness Brewing Company, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Slimzee is a grime and dubstep artist based in United Kingdom, tracked on soundc
 
 Riko Dan, Boylan, MJK
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*

@@ -1,14 +1,13 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Groove Session at the beach//In collab with Social Lab × GYALZ 808" on Fri, 14 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ANALOGIA beach: a Rave del Gat tribute - FREE BEACH PARTY" on Sat, 15 Aug 2026.
 
-Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alphanova, Babo, Bill Hates and Dolorosa and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
+Almar Beach Club is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Alphanova, Babo, Bill Hates and Dolorosa and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Groove Session at the beach//In collab with Social Lab × GYALZ 808 | Mganz |
 | Sat, 15 Aug 2026 | ANALOGIA beach: a Rave del Gat tribute - FREE BEACH PARTY | Dolorosa, Guim Lebowski, MENTA |
 | Fri, 21 Aug 2026 | Placeo & Soundwave pres. Mattia Scolaro - Free Beach Party – Groovy Friday | Babo, Lua Jessen, Mario Chicoli, Mastro Sally, Mattia Scolaro, Nona (5), Vinz (ITA) |
 | Fri, 28 Aug 2026 | FREE BEACH PARTY by Kazanova Club w/ Javier Ferreira, Jo Kazan | Alphanova, Javier Ferreira, Jo Kazan, SORIANO |
@@ -18,4 +17,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

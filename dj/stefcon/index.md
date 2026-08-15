@@ -1,6 +1,6 @@
 # Stefcon
 
-Stefcon is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
+Stefcon is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
 
 Stefcon is a jungle and drum & bass artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside PIX, Floga and Hotel 84. Next up: TBA, Sydney on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Stefcon is a jungle and drum & bass artist based in Australia, tracked on soundc
 
 PIX, Floga, Hotel 84
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefcon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefcon/)*

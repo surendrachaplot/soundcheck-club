@@ -1,6 +1,6 @@
 # Stephen Rodgers
 
-Stephen Rodgers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 26 Sept 2026.
+Stephen Rodgers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 26 Sept 2026.
 
 Stephen Rodgers is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Edinburgh. Often billed alongside Craig Smith, Domenic Cappello and Linkwood. Next up: People's Leisure Club, Edinburgh on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Stephen Rodgers is a house and techno artist based in United Kingdom, tracked on
 
 Craig Smith, Domenic Cappello, Linkwood
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenrodgers/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenrodgers/)*

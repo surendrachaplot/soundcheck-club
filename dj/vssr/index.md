@@ -1,6 +1,6 @@
 # VSSR
 
-VSSR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
+VSSR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
 
 VSSR is a techno and house artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Buenosaires and Rotterdam and 4 more. Often billed alongside JSPRV35, KETCH and Grace Dahl. Next up: TILLATEC, Amsterdam on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ VSSR is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 JSPRV35, KETCH, Grace Dahl
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vssr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vssr/)*

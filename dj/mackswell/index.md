@@ -1,6 +1,6 @@
 # Mackswell
 
-Mackswell is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at White Rabbit, San Francisco/Oakland on Thu, 20 Aug 2026.
+Mackswell is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at White Rabbit, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Mackswell is a house and club artist based in United States of America, tracked on soundcheck, with 142 sets logged across Sanfrancisco. Often billed alongside Knowpa Slaps, CALDEE and NU NOIZE. Next up: White Rabbit, Sanfrancisco on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Mackswell is a house and club artist based in United States of America, tracked 
 
 Knowpa Slaps, CALDEE, NU NOIZE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackswell/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackswell/)*

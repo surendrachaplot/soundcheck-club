@@ -1,6 +1,6 @@
 # Musashi
 
-Musashi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
+Musashi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
 
 Musashi is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Osaka and Tokyo. Often billed alongside Cine, Odalfer Daquees and Hokuto (1). Next up: TBA, Losangeles on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Musashi is a house and techno artist based in United States of America, tracked 
 
 Cine, Odalfer Daquees, Hokuto (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musashi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musashi/)*

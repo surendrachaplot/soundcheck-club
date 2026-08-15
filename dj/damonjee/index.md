@@ -1,6 +1,6 @@
 # Damon Jee
 
-Damon Jee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
+Damon Jee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
 
 Damon Jee is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside no_ip, Diego Montiel and Edouard!. Next up: Rachdingue, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Damon Jee is a techno and house artist tracked on soundcheck, with 55 sets logge
 
 no_ip, Diego Montiel, Edouard!
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damonjee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damonjee/)*

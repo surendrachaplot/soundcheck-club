@@ -1,6 +1,6 @@
 # Damo B
 
-Damo B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 12 Sept 2026.
+Damo B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 12 Sept 2026.
 
 Damo B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Manchester. Often billed alongside Daz Mac, Pharaoh Brunson and Al Bradley. Next up: Eastern Bloc Records, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Damo B is a house and techno artist based in United Kingdom, tracked on soundche
 
 Daz Mac, Pharaoh Brunson, Al Bradley
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damob/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damob/)*

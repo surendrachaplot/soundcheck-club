@@ -1,6 +1,6 @@
 # MichiL
 
-MichiL is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Zapfhahn In & Outdoor, Nürnberg on Fri, 21 Aug 2026.
+MichiL is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Zapfhahn In & Outdoor, Nürnberg on Fri, 21 Aug 2026.
 
 MichiL is a techno artist tracked on soundcheck, with 5 sets logged across Nurnberg. Often billed alongside A.D.H.S., Jan Oberlaender and Jay Lumen. Next up: Zapfhahn In & Outdoor, Nurnberg on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ MichiL is a techno artist tracked on soundcheck, with 5 sets logged across Nurnb
 
 A.D.H.S., Jan Oberlaender, Jay Lumen
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michil/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michil/)*

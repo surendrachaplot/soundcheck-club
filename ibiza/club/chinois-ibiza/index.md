@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Major League Djz presents: Kaz James, Kitty Amor, Max Menaged" on Fri, 14 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Major League Djz presents: Kaz James, Kitty Amor, Max Menaged" on Fri, 14 Aug 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

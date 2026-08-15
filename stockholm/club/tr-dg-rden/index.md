@@ -1,14 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "S-candalo, Bella Sarris" on Fri, 14 Aug 2026.
+Trädgården is a music venue in Stockholm with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CRACKHOUSE with Niklopedia & Magnus Larsson" on Sat, 15 Aug 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nights, with line-ups including Anthony Linell, Bella Sarris, Christian AB and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 7 upcoming nights, with line-ups including Anthony Linell, Christian AB, Claudio PRC and Daniel Lien and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, Disk Cartel, S-candalo, THC |
 | Sat, 15 Aug 2026 | CRACKHOUSE with Niklopedia & Magnus Larsson | Magnus Larsson |
 | Fri, 21 Aug 2026 | Christian AB & Daniel Lien | Christian AB, Daniel Lien |
 | Sat, 22 Aug 2026 | Katerina (ÉMOTSIYA), Monique Samantha, Jakob Grandin | Katerina |
@@ -21,4 +20,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nigh
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

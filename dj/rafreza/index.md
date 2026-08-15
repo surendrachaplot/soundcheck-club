@@ -1,6 +1,6 @@
 # Raf Reza
 
-Raf Reza is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
+Raf Reza is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
 
 Raf Reza is a house and dub artist tracked on soundcheck, with 84 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside Kaspr, DJ Trustfall and Ragz. Next up: Soleil, Toronto on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Raf Reza is a house and dub artist tracked on soundcheck, with 84 sets logged ac
 
 Kaspr, DJ Trustfall, Ragz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*

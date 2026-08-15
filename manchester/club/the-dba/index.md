@@ -1,14 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Headrush 008 - Hardgroove/Techno Club Night" on Fri, 14 Aug 2026.
+The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MELODÏQ & FRIENDS | Free Day Party" on Sat, 15 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Headrush 008 - Hardgroove/Techno Club Night | COHĒSION (UK), SDJ (1), k.h0lle |
 | Sat, 15 Aug 2026 | MELODÏQ & FRIENDS / Free Day Party | Azur, Bushman (UK), CEEKAY, Kakura, MYDIR, Tris (UK) |
 | Sun, 16 Aug 2026 | Going West | FXCKBOUT, Thomas Oven |
 | Thu, 20 Aug 2026 | VALIS 1.0 - The Difference Engine | Lapalace, sclews |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 23 upcoming nights,
 | Fri, 28 Aug 2026 | QueerPOC Brazilian Funk Rave |  |
 | Sat, 29 Aug 2026 | BENT x Power Dance Club | Aiden Francis, David James MCR, Esmé, Jase Jeffery, Jess Rose, Luigi Di Venere, PHIA SKY, Stathis (GR) |
 | Sun, 30 Aug 2026 | LOVE.LAB DOES PRIDE | Ali Roche (2), ZESTY (UK), blo rida, chlo333e, lol (8) |
+| Fri, 4 Sept 2026 | NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION | CBABY, FKA Hardcore, FOULMOUTH, PEPPA (2), RUBY RAWR, Selvasolstice |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

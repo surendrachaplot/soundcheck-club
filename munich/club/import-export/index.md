@@ -1,14 +1,13 @@
 # Import Export
 
-Import Export is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "PHRE Festival: Adil Smaali & Le Grand Bal Raï + Walid Ben Selim + Lucy Sky + Djay Darismus" on Fri, 14 Aug 2026.
+Import Export is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "PHRE Festival: PHRE Residency" on Sat, 15 Aug 2026.
 
-Import Export is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including Carl Gari, CONTAGIOUS, Habibi Funk and Katscha and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
+Import Export is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including Carl Gari, CONTAGIOUS, Habibi Funk and Katscha and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | PHRE Festival: Adil Smaali & Le Grand Bal Raï + Walid Ben Selim + Lucy Sky + Djay Darismus |  |
 | Sat, 15 Aug 2026 | PHRE Festival: PHRE Residency | Carl Gari, Kiawash |
 | Tue, 18 Aug 2026 | Turntabletennis |  |
 | Thu, 20 Aug 2026 | PHRE Festival: Roda de Santo + Bigu |  |
@@ -21,4 +20,4 @@ Import Export is a music venue in Munich listed on soundcheck. 8 upcoming nights
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

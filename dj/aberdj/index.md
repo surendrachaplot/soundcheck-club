@@ -1,6 +1,6 @@
 # Aber DJ
 
-Aber DJ is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Aber DJ is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Aber DJ is a trance and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside Jotel California, p/kstr and Klex. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Aber DJ is a trance and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - ://about blank, Berlin — Tue, 28 Jul 2026
 - Golden Pudel Club, Hamburg — Sat, 20 Jun 2026
 - TBA - JK (near S Greifswalder), Berlin — Fri, 5 Jun 2026
@@ -21,4 +22,4 @@ Aber DJ is a trance and house artist based in Germany, tracked on soundcheck, wi
 
 Jotel California, p/kstr, Klex
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aberdj/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aberdj/)*

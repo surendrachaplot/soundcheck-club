@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "A House Music is Love Day Party. Chosen Fews Alan King 4 Hour DJ Set. Free" on Sat, 15 Aug 2026.
+Le Nocturne is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "A House Music is Love Day Party. Chosen Fews Alan King 4 Hour DJ Set. Free" on Sat, 15 Aug 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including Craig Alexander, Diz (1) and iamBrandon. Browse upcoming dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -16,4 +16,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 3 upcoming nights,
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

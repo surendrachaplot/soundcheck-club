@@ -1,6 +1,6 @@
 # DJ ABIBALL
 
-DJ ABIBALL is a Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
+DJ ABIBALL is a Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Else, Berlin on Sun, 16 Aug 2026.
 
 DJ ABIBALL is a garage artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Tschstin, muecke and 3Hertz. Next up: Else, Berlin on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ DJ ABIBALL is a garage artist tracked on soundcheck, with 7 sets logged across B
 
 Tschstin, muecke, 3Hertz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djabiball/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djabiball/)*

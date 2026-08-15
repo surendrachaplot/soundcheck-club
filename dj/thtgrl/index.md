@@ -1,6 +1,6 @@
 # THT GRL
 
-THT GRL is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
+THT GRL is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
 
 THT GRL is a garage and bass artist tracked on soundcheck, with 26 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside LARISHKA (UK), Egg On Toast and MARACUYá. Next up: Mint Warehouse, Leeds on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ THT GRL is a garage and bass artist tracked on soundcheck, with 26 sets logged a
 
 LARISHKA (UK), Egg On Toast, MARACUYá
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thtgrl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thtgrl/)*

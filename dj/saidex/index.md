@@ -1,14 +1,15 @@
 # SAIDEX
 
-SAIDEX is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
+SAIDEX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
 
-SAIDEX is a techno and electro artist based in Germany, tracked on soundcheck, with 23 sets logged across Hamburg. Often billed alongside Timeless Moments, Chris Mantanz and High.Z. Next up: Beat Boutique, Hamburg on Fri 28 Aug.
+SAIDEX is a techno and trance artist based in Germany, tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside Timeless Moments, Chris Mantanz and High.Z. Next up: Beat Boutique, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Beat Boutique | Hamburg |
+| Sat, 5 Sept 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SAIDEX is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 Timeless Moments, Chris Mantanz, High.Z
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saidex/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saidex/)*

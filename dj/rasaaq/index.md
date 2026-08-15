@@ -1,6 +1,6 @@
 # Rasaaq
 
-Rasaaq is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 20 Aug 2026.
+Rasaaq is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 20 Aug 2026.
 
 Rasaaq is a house and techno artist tracked on soundcheck, with 43 sets logged across Boston, Brussels, Copenhagen and Denver and 4 more. Often billed alongside CHAOUKI, Joe Rizk and CAMILLA. Next up: THE MAGICK BAR, Rome on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Rasaaq is a house and techno artist tracked on soundcheck, with 43 sets logged a
 
 CHAOUKI, Joe Rizk, CAMILLA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*

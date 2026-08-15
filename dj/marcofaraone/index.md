@@ -1,6 +1,6 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Südbrücke Open Air, Cologne on Sun, 16 Aug 2026.
+Marco Faraone is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Südbrücke Open Air, Cologne on Sun, 16 Aug 2026.
 
 Marco Faraone is a techno and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Südbrücke Open Air, Cologne on Sun 16 Aug.
 
@@ -32,4 +32,4 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 135 
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

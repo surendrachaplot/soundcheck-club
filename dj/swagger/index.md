@@ -1,6 +1,6 @@
 # SWAGGER
 
-SWAGGER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Melkweg, Amsterdam on Fri, 21 Aug 2026.
+SWAGGER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Melkweg, Amsterdam on Fri, 21 Aug 2026.
 
 SWAGGER is a techno and hardcore artist based in Japan, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Osaka and Seoul and 1 more. Often billed alongside BLACK(JP), NIKI (JP) and CHIKA. Next up: Melkweg, Amsterdam on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ SWAGGER is a techno and hardcore artist based in Japan, tracked on soundcheck, w
 
 BLACK(JP), NIKI (JP), CHIKA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagger/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagger/)*

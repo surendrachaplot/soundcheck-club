@@ -1,6 +1,6 @@
 # Elina
 
-Elina is a Breakcore and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
+Elina is a Breakcore and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Elina is a breakcore and hardcore artist tracked on soundcheck, with 12 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Dr Banana and Enzo Siragusa. Next up: 528 Ibiza, Ibiza on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Elina is a breakcore and hardcore artist tracked on soundcheck, with 12 sets log
 
 Midsizedsedance, Dr Banana, Enzo Siragusa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

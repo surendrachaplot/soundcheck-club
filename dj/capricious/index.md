@@ -1,6 +1,6 @@
 # Capricious
 
-Capricious is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Capricious is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Capricious is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam and Prague. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri (1). Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Capricious is a techno and tech house artist based in Netherlands, tracked on so
 
 Alexander Koning, Dave Leatherman, Dimitri (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capricious/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capricious/)*

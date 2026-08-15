@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "PHANTOM FRIDAY X TANGA" on Fri, 14 Aug 2026.
+Phantom Bar Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "PHANTOM FRIDAY X TANGA" on Fri, 14 Aug 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Adrian Marth, ALP (DE), auto_timer and DJ LOUI FROM JUPITER4 and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -18,4 +18,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

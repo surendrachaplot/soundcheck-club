@@ -1,6 +1,6 @@
 # Zhino
 
-Zhino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 16 Aug 2026.
+Zhino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 16 Aug 2026.
 
 Zhino is a techno and house artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside Enya Botello, Soos and Ursula Prawn. Next up: Sunday Sunday, Mexicocity on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Zhino is a techno and house artist tracked on soundcheck, with 5 sets logged acr
 
 Enya Botello, Soos, Ursula Prawn
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhino/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhino/)*

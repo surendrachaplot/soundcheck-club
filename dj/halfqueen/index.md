@@ -1,6 +1,6 @@
 # HALF QUEEN
 
-HALF QUEEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Room 22, Sydney on Fri, 4 Sept 2026.
+HALF QUEEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Room 22, Sydney on Fri, 4 Sept 2026.
 
 HALF QUEEN is a club and techno artist based in New Zealand, tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 16 more. Often billed alongside MIRASIA, Nia Archives and C.FRIM. Next up: Room 22, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ HALF QUEEN is a club and techno artist based in New Zealand, tracked on soundche
 
 MIRASIA, Nia Archives, C.FRIM
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfqueen/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfqueen/)*

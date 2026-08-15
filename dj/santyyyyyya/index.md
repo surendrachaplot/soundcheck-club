@@ -1,6 +1,6 @@
 # santyyyyyya
 
-santyyyyyya is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at City Hall, Barcelona on Fri, 14 Aug 2026.
+santyyyyyya is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at City Hall, Barcelona on Fri, 14 Aug 2026.
 
 santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 8 sets logged across Barcelona and Ibiza. Often billed alongside Kleyver Reyes, Dj Cherry and Eva Toya. Next up: City Hall, Barcelona on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 8 sets l
 
 ## Recently played
 
+- City Hall, Barcelona — Fri, 14 Aug 2026
 - TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza — Sun, 9 Aug 2026
 - City Hall, Barcelona — Thu, 30 Jul 2026
 - City Hall, Barcelona — Thu, 30 Jul 2026
@@ -24,4 +25,4 @@ santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 8 sets l
 
 Kleyver Reyes, Dj Cherry, Eva Toya
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santyyyyyya/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santyyyyyya/)*

@@ -1,6 +1,6 @@
 # Sirius
 
-Sirius is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Rainbow Venues, Birmingham on Sat, 15 Aug 2026.
+Sirius is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Rainbow Venues, Birmingham on Sat, 15 Aug 2026.
 
 Sirius is a jungle and hardcore artist tracked on soundcheck, with 6 sets logged across Barcelona, Birmingham, Ghent and London and 1 more. Often billed alongside Blackout, Brain Impact and Driusaki. Next up: The Rainbow Venues, Birmingham on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Sirius is a jungle and hardcore artist tracked on soundcheck, with 6 sets logged
 
 Blackout, Brain Impact, Driusaki
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirius/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirius/)*

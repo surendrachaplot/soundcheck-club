@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "3 Years Synthlab: ETHER V4 w/ MARRØN, Lewis Fautzi, Connor Wall" on Fri, 14 Aug 2026.
+Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "3 Years Synthlab: ETHER V4 w/ MARRØN, Lewis Fautzi, Connor Wall" on Fri, 14 Aug 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nights, with line-ups including Andrale, Avocado, Bait and Switch and Connor Wall and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -21,4 +21,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

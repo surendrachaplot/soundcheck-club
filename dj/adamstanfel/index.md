@@ -1,6 +1,6 @@
 # Adam Stanfel
 
-Adam Stanfel is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
+Adam Stanfel is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
 
 Adam Stanfel is a funk / soul and r&b artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Brad Hales and Erica Aytes. Next up: Paris Bar, Detroit on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Adam Stanfel is a funk / soul and r&b artist tracked on soundcheck, with 7 sets 
 
 Brad Hales, Erica Aytes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamstanfel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamstanfel/)*

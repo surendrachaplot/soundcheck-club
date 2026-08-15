@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "1 YEAR OF GIVING: Give's 1st Anniversary presents STORM" on Sat, 22 Aug 2026.
+Mdlr is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "1 YEAR OF GIVING: Give's 1st Anniversary presents STORM" on Sat, 22 Aug 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with line-ups including ARESHA, DJ EZ, Joshua Dillon and Natascha Polké and 2 more. Browse upcoming dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -17,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

@@ -1,14 +1,13 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
+DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Roberta's, New York City on Sun, 6 Sept 2026.
 
-DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Lofi, Amsterdam on Fri 14 Aug.
+DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Roberta's, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Lofi | Amsterdam |
 | Sun, 6 Sept 2026 | Roberta's | New York City |
 | Fri, 11 Sept 2026 | Village Studios | Vancouver |
 | Sat, 12 Sept 2026 | Academy LA | Los Angeles |
@@ -19,6 +18,7 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logg
 
 ## Recently played
 
+- Lofi, Amsterdam — Fri, 14 Aug 2026
 - KOKO, London — Sat, 1 Aug 2026
 - TBA - Boat Party (Departs Tower Millenium Pier), London — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
@@ -26,10 +26,9 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logg
 - Hangaren, Copenhagen — Fri, 10 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Else, Berlin — Fri, 3 Jul 2026
-- YuYu Cine Club, Mexico City — Fri, 29 May 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

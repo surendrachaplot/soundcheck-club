@@ -1,6 +1,6 @@
 # UMA DJ
 
-UMA DJ is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Young Ethel's, New York City on Sun, 23 Aug 2026.
+UMA DJ is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Young Ethel's, New York City on Sun, 23 Aug 2026.
 
 UMA DJ is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles, Melbourne, Newyorkcity and Sanfrancisco and 4 more. Often billed alongside Underwaterhasa, Arvin T and DJ M3. Next up: Young Ethel's, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ UMA DJ is a house and disco artist based in United States of America, tracked on
 
 Underwaterhasa, Arvin T, DJ M3
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*

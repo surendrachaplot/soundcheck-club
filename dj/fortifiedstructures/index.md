@@ -1,6 +1,6 @@
 # FortifiedStructures
 
-FortifiedStructures is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ErF Studios, New York City on Fri, 28 Aug 2026.
+FortifiedStructures is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ErF Studios, New York City on Fri, 28 Aug 2026.
 
 FortifiedStructures is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 12 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: ErF Studios, Newyorkcity on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ FortifiedStructures is a hardcore and gabber artist based in Canada, tracked on 
 
 Dazegxd, Dev/Null, HARDKORE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*

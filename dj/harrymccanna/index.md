@@ -1,14 +1,13 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
+Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Distrikt, Leeds on Fri 14 Aug.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Distrikt | Leeds |
 | Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | TBA | Liverpool |
@@ -20,6 +19,7 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 133 s
 
 ## Recently played
 
+- Distrikt, Leeds — Fri, 14 Aug 2026
 - Les Enfants Brillants, Barcelona — Fri, 31 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
 - fabric, London — Sat, 25 Jul 2026
@@ -27,10 +27,9 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 133 s
 - fabric, London — Sat, 4 Jul 2026
 - TBA - Marseille 13014, Marseille — Sat, 27 Jun 2026
 - The Lion and Lamb, London — Thu, 25 Jun 2026
-- Last Arch, London — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

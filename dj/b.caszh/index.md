@@ -1,6 +1,6 @@
 # b. caszh
 
-b. caszh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+b. caszh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 b. caszh is a house and techno artist tracked on soundcheck, with 11 sets logged across Melbourne and Sydney. Often billed alongside Jo Christy, Jesse DM and Simonetti. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ b. caszh is a house and techno artist tracked on soundcheck, with 11 sets logged
 
 Jo Christy, Jesse DM, Simonetti
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.caszh/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.caszh/)*

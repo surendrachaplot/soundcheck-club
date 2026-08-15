@@ -1,6 +1,6 @@
 # Andrea de Tour
 
-Andrea de Tour is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bar Datcha, Montreal on Thu, 20 Aug 2026.
+Andrea de Tour is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bar Datcha, Montreal on Thu, 20 Aug 2026.
 
 Andrea de Tour is a house and techno artist based in Canada, tracked on soundcheck, with 34 sets logged across Montreal and Toronto. Often billed alongside Audrey Bélanger, Vayia and DJ Cinéma Quartier Latin. Next up: Bar Datcha, Montreal on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Andrea de Tour is a house and techno artist based in Canada, tracked on soundche
 
 Audrey Bélanger, Vayia, DJ Cinéma Quartier Latin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*

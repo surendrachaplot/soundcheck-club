@@ -1,6 +1,6 @@
 # KATERI
 
-KATERI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Home The Venue, Sydney on Sat, 15 Aug 2026.
+KATERI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Home The Venue, Sydney on Sat, 15 Aug 2026.
 
 KATERI is a house and tech house artist tracked on soundcheck, with 6 sets logged across Sanfrancisco and Sydney. Often billed alongside REDBLOOM, 3kelves and Anthony Mansfield. Next up: Home The Venue, Sydney on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ KATERI is a house and tech house artist tracked on soundcheck, with 6 sets logge
 
 REDBLOOM, 3kelves, Anthony Mansfield
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kateri/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kateri/)*

@@ -1,6 +1,6 @@
 # Al Aslan
 
-Al Aslan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+Al Aslan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
 Al Aslan is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Berlin and Leipzig. Often billed alongside Opal, The Camel and Dj Fugitive. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Al Aslan is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Opal, The Camel, Dj Fugitive
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*

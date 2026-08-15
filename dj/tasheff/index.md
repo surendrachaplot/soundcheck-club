@@ -1,6 +1,6 @@
 # Tasheff
 
-Tasheff is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
+Tasheff is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
 
 Tasheff is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside porygon k, ALLAN RITUAL and Papa Giorgio. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Tasheff is a techno and house artist based in United States of America, tracked 
 
 porygon k, ALLAN RITUAL, Papa Giorgio
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*

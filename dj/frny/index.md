@@ -1,6 +1,6 @@
 # Frny
 
-Frny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
+Frny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mad Radio Miami, Miami on Sat, 15 Aug 2026.
 
 Frny is a house and tech house artist tracked on soundcheck, with 32 sets logged across Miami and Newyorkcity. Often billed alongside Taj, John Patrick and Emma (7). Next up: Mad Radio Miami, Miami on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Frny is a house and tech house artist tracked on soundcheck, with 32 sets logged
 
 Taj, John Patrick, Emma (7)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frny/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frny/)*

@@ -1,6 +1,6 @@
 # Circadian
 
-Circadian is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Circadian is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Adelaide, Amsterdam, Auckland and Brighton and 25 more. Often billed alongside K Motionz, Koven and Skantia. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -29,4 +29,4 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 K Motionz, Koven, Skantia
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*

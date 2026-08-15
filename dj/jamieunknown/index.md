@@ -1,6 +1,6 @@
 # Jamie Unknown
 
-Jamie Unknown is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
+Jamie Unknown is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
 
 Jamie Unknown is a house and garage artist tracked on soundcheck, with 31 sets logged across Brighton, Bristol, Glasgow and London and 2 more. Often billed alongside Mas Que Nada Brothers, Fredd Mann and St. David. Next up: Sawmills, Bristol on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jamie Unknown is a house and garage artist tracked on soundcheck, with 31 sets l
 
 Mas Que Nada Brothers, Fredd Mann, St. David
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*

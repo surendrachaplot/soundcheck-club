@@ -1,6 +1,6 @@
 # Davide Brosco
 
-Davide Brosco is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Katarì 2.0, Naples on Sun, 16 Aug 2026.
+Davide Brosco is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Katarì 2.0, Naples on Sun, 16 Aug 2026.
 
 Davide Brosco is a house and electronica artist tracked on soundcheck, with 3 sets logged across Berlin, Milan and Naples. Often billed alongside Manuel Di Martino, Hi/Fi and Jmcee. Next up: Katarì 2.0, Naples on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ Davide Brosco is a house and electronica artist tracked on soundcheck, with 3 se
 
 Manuel Di Martino, Hi/Fi, Jmcee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidebrosco/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidebrosco/)*

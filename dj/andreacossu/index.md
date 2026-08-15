@@ -1,6 +1,6 @@
 # Andrea Cossu
 
-Andrea Cossu is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 29 Aug 2026.
+Andrea Cossu is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 29 Aug 2026.
 
 Andrea Cossu is an ambient and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Brussels, Lisbon and Milan and 1 more. Often billed alongside Hypnotic Black Magic, Andrea Ferlin and Rg. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Andrea Cossu is an ambient and techno artist tracked on soundcheck, with 17 sets
 
 Hypnotic Black Magic, Andrea Ferlin, Rg
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*

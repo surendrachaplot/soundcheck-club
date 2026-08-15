@@ -1,6 +1,6 @@
 # SACK (AR)
 
-SACK (AR) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at CDLC Barcelona, Barcelona on Sat, 15 Aug 2026.
+SACK (AR) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at CDLC Barcelona, Barcelona on Sat, 15 Aug 2026.
 
 SACK (AR) is a house and progressive house artist tracked on soundcheck, with 27 sets logged across Barcelona, Frankfurt and Malaga. Often billed alongside Volmaan, Syntonos and SHINO (AR). Next up: CDLC Barcelona, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SACK (AR) is a house and progressive house artist tracked on soundcheck, with 27
 
 Volmaan, Syntonos, SHINO (AR)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sack-ar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sack-ar/)*

@@ -1,6 +1,6 @@
 # Rimbu (CH)
 
-Rimbu (CH) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
+Rimbu (CH) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
 
 Rimbu (CH) is an afro house and house artist tracked on soundcheck, with 24 sets logged across Geneva. Often billed alongside La Forêt, DJ Reas and Laolu. Next up: Audio Club, Geneva on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rimbu (CH) is an afro house and house artist tracked on soundcheck, with 24 sets
 
 La Forêt, DJ Reas, Laolu
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimbu-3/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimbu-3/)*

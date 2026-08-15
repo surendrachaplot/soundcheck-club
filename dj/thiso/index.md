@@ -1,6 +1,6 @@
 # THISO
 
-THISO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
+THISO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
 
 THISO is a techno and trance artist tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Niotech, 3LEEZA and AREA ØNE. Next up: Lokschuppen Berlin, Berlin on Fri 14 Aug.
 
@@ -15,6 +15,7 @@ THISO is a techno and trance artist tracked on soundcheck, with 25 sets logged a
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 14 Aug 2026
 - Kilomètre25, Paris — Sat, 11 Jul 2026
 - Boomerang Beach, The Hague — Sun, 28 Jun 2026
 - Hidden, Manchester — Fri, 19 Jun 2026
@@ -22,10 +23,9 @@ THISO is a techno and trance artist tracked on soundcheck, with 25 sets logged a
 - L'industrie, Geneva — Sat, 6 Jun 2026
 - Virage, Paris — Sat, 23 May 2026
 - BASIS, Utrecht — Fri, 1 May 2026
-- Lokschuppen Berlin, Berlin — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Niotech, 3LEEZA, AREA ØNE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

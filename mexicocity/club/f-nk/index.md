@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Boyanza: Factory Setup + Francia Oropeza + Boyanza Collectors" on Fri, 14 Aug 2026.
+Fünk is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Boyanza: Factory Setup + Francia Oropeza + Boyanza Collectors" on Fri, 14 Aug 2026.
 
 Fünk is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Alejandro Veneno, Alonso Rivero, Andy Woldman and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, w
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

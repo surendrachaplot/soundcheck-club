@@ -1,14 +1,15 @@
 # DIØN
 
-DIØN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+DIØN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-DIØN is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cynthia Spiering, Alignment and Shlømo. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+DIØN is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cynthia Spiering, Alignment and Shlømo. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
+| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DIØN is a techno and house artist tracked on soundcheck, with 102 sets logged a
 
 Cynthia Spiering, Alignment, Shlømo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dion/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dion/)*

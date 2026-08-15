@@ -1,6 +1,6 @@
 # Arexibo
 
-Arexibo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cakeshop, Seoul on Sun, 16 Aug 2026.
+Arexibo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cakeshop, Seoul on Sun, 16 Aug 2026.
 
 Arexibo is a bass and club artist tracked on soundcheck, with 68 sets logged across Berlin, Brighton, Hongkong and London and 2 more. Often billed alongside Yetsuby, dayoung and KISEWA. Next up: Cakeshop, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Arexibo is a bass and club artist tracked on soundcheck, with 68 sets logged acr
 
 Yetsuby, dayoung, KISEWA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arexibo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arexibo/)*

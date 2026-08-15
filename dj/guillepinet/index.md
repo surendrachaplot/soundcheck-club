@@ -1,6 +1,6 @@
 # Guille Pinet
 
-Guille Pinet is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Tausend, Berlin on Fri, 28 Aug 2026.
+Guille Pinet is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Tausend, Berlin on Fri, 28 Aug 2026.
 
 Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 31 sets logged across Barcelona and Berlin. Often billed alongside Elwei, Misla and MarioF. Next up: Tausend, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 31
 
 Elwei, Misla, MarioF
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*

@@ -1,6 +1,6 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Bangkok and Berlin and 7 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

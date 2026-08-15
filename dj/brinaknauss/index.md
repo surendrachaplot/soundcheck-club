@@ -1,14 +1,13 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
+Brina Knauss is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Fri, 14 Aug 2026.
 
-Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Magazine Open–Air, London on Fri 14 Aug.
+Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: fabric, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Magazine Open–Air | London |
 | Fri, 14 Aug 2026 | fabric | London |
 | Wed, 19 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | [UNVRS] | Ibiza |
@@ -18,17 +17,17 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 
 ## Recently played
 
+- Magazine Open–Air, London — Fri, 14 Aug 2026
+- fabric, London — Fri, 14 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 29 Jul 2026
 - Knockdown Center, New York City — Sat, 4 Jul 2026
 - Lofi, Amsterdam — Sat, 27 Jun 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 - Kiesgrube, Düsseldorf — Sun, 21 Jun 2026
 - Hive Club, Zurich — Sat, 18 Apr 2026
-- Club M2 Miami, Miami — Sat, 28 Mar 2026
-- Klein Phönix, Istanbul — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Fideles, Mathame, Henri Bergmann
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

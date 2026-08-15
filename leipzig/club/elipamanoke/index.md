@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Datsche #32 [indoor & outdoor]" on Fri, 14 Aug 2026.
+elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Datsche #32 [indoor & outdoor]" on Fri, 14 Aug 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights, with line-ups including :MUMM, Blank Vision, DIRTY YOUTH and DJ Pabloma Blanca and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

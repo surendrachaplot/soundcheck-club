@@ -1,6 +1,6 @@
 # Manolo
 
-Manolo is a House and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Manolo is a House and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Manolo is a house and ballroom artist tracked on soundcheck, with 7 sets logged across Berlin, Boston, Hamburg and Mexicocity and 1 more. Often billed alongside Abibi, Ana Molina and Andre Kronert. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Manolo is a house and ballroom artist tracked on soundcheck, with 7 sets logged 
 
 ## Recently played
 
+- Südpol, Hamburg — Fri, 14 Aug 2026
 - Renate, Berlin — Sat, 20 Jun 2026
 - 90mil, Berlin — Sat, 2 May 2026
 - Café de Nadie, Mexico City — Wed, 4 Feb 2026
@@ -23,4 +24,4 @@ Manolo is a house and ballroom artist tracked on soundcheck, with 7 sets logged 
 
 Abibi, Ana Molina, Andre Kronert
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*

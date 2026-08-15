@@ -1,6 +1,6 @@
 # Ally (2)
 
-Ally (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
+Ally (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
 Ally (2) is a techno and psytrance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne, Miami and Nurnberg and 1 more. Often billed alongside 4NOUK, Arao and Arman John. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Ally (2) is a techno and psytrance artist based in Germany, tracked on soundchec
 
 4NOUK, Arao, Arman John
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ally-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ally-2/)*

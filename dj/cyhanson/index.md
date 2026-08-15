@@ -1,6 +1,6 @@
 # Cy Hanson
 
-Cy Hanson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Cy Hanson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Cy Hanson is a house and minimal artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles and Seattle. Often billed alongside Temenon, Freddy M and KJ3 (US). Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cy Hanson is a house and minimal artist based in United States of America, track
 
 Temenon, Freddy M, KJ3 (US)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyhanson/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyhanson/)*

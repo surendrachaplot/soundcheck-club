@@ -1,6 +1,6 @@
 # Rupert Marnie
 
-Rupert Marnie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
+Rupert Marnie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
 
 Rupert Marnie is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Finona Rider, Aii PS and Jacob Knob. Next up: Renate, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Rupert Marnie is a house and techno artist tracked on soundcheck, with 16 sets l
 
 Finona Rider, Aii PS, Jacob Knob
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertmarnie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertmarnie/)*

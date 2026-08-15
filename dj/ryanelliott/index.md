@@ -1,6 +1,6 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Ryan Elliott is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -23,6 +23,7 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets l
 
 ## Recently played
 
+- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets l
 - ISOamsterdam, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
-- Fort Vechten, Utrecht — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

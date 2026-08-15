@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Katiusha is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Katiusha is a techno and experimental artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside Chris Farrell, DJ Carlita and Dubrunner. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Katiusha is a techno and experimental artist tracked on soundcheck, with 42 sets
 
 Chris Farrell, DJ Carlita, Dubrunner
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

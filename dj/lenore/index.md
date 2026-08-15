@@ -1,6 +1,6 @@
 # Lenore
 
-Lenore is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Lynch Family Skatepark, Boston on Sat, 15 Aug 2026.
+Lenore is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Lynch Family Skatepark, Boston on Sat, 15 Aug 2026.
 
 Lenore is a drum & bass and jungle artist tracked on soundcheck, with 108 sets logged across Boston, Milan and Washingtondc. Often billed alongside Mizeyesis, Sully and Terraphorm. Next up: TBA - Lynch Family Skatepark, Boston on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lenore is a drum & bass and jungle artist tracked on soundcheck, with 108 sets l
 
 Mizeyesis, Sully, Terraphorm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*

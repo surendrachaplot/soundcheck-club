@@ -1,6 +1,6 @@
 # Luis del Barrio
 
-Luis del Barrio is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sigma, Ibiza on Sat, 15 Aug 2026.
+Luis del Barrio is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sigma, Ibiza on Sat, 15 Aug 2026.
 
 Luis del Barrio is an electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Ibiza. Often billed alongside Javi Niño, DJ Koolt and Sidd (ES). Next up: Sigma, Ibiza on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Luis del Barrio is an electronica artist based in Spain, tracked on soundcheck, 
 
 Javi Niño, DJ Koolt, Sidd (ES)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisdelbarrio/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisdelbarrio/)*

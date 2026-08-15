@@ -1,6 +1,6 @@
 # Dimitri Kneppers
 
-Dimitri Kneppers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Dimitri Kneppers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Dimitri Kneppers is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Sandrien, Len Faki and Octave One. Next up: Kaap Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dimitri Kneppers is a techno and house artist tracked on soundcheck, with 41 set
 
 Sandrien, Len Faki, Octave One
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*

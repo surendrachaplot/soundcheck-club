@@ -1,6 +1,6 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+SaltySis is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 SaltySis is a techno and trance artist tracked on soundcheck, with 111 sets logged across Belgrade, Berlin, Brisbane and Budapest and 16 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ SaltySis is a techno and trance artist tracked on soundcheck, with 111 sets logg
 
 A.N.I., Cara Elizabeth, Millie Forsberg
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*

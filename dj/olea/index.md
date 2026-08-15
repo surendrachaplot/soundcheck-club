@@ -1,6 +1,6 @@
 # OLEA
 
-OLEA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+OLEA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 8 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -14,6 +14,7 @@ OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Südpol, Hamburg — Fri, 14 Aug 2026
 - Elsewhere, New York City — Sat, 8 Aug 2026
 - SOMA, San Diego — Sat, 11 Jul 2026
 - 45hertz, Hamburg — Sat, 4 Jul 2026
@@ -21,10 +22,9 @@ OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 
 - Westhafen, Leipzig — Sat, 27 Jun 2026
 - Ritter Butzke, Berlin — Sun, 21 Jun 2026
 - Fridas Pier, Stuttgart — Fri, 19 Jun 2026
-- Edelfettwerk, Hamburg — Sat, 23 May 2026
 
 ## Shares bills with
 
 Markus Klee, Prismode, Solvane
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

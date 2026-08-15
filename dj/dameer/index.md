@@ -1,6 +1,6 @@
 # Dameer
 
-Dameer is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
+Dameer is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
 
 Dameer is a house and bass artist tracked on soundcheck, with 11 sets logged across Bristol, Montreal and Toronto. Often billed alongside Raf Reza, malfnktion and mayalabae. Next up: Standard Time, Toronto on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Dameer is a house and bass artist tracked on soundcheck, with 11 sets logged acr
 
 Raf Reza, malfnktion, mayalabae
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*

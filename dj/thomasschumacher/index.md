@@ -1,14 +1,13 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Citadelle de Marseille, Marseille on Fri, 14 Aug 2026.
+Thomas Schumacher is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: La Citadelle de Marseille, Marseille on Fri 14 Aug.
+Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | La Citadelle de Marseille | Marseille |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | TBA | Berlin |
 | Fri, 18 Sept 2026 | H1 Club and Lounge | Hamburg |
@@ -17,6 +16,7 @@ Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 se
 
 ## Recently played
 
+- La Citadelle de Marseille, Marseille — Fri, 14 Aug 2026
 - Westhafen, Leipzig — Sat, 30 May 2026
 - Kater, Berlin — Fri, 24 Apr 2026
 - Sidney Myer Music Bowl, Melbourne — Sat, 21 Mar 2026
@@ -24,10 +24,9 @@ Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 se
 - DNA Club, Munich — Sat, 28 Feb 2026
 - ORWO Haus, Berlin — Sat, 21 Feb 2026
 - Fundbureau, Hamburg — Fri, 20 Feb 2026
-- Studio UP!, Warsaw — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 A.D.H.S., Anna Reusch, Alex Stein
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

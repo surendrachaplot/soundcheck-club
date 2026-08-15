@@ -1,6 +1,6 @@
 # RUDEE NIK
 
-RUDEE NIK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
+RUDEE NIK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
 
 RUDEE NIK is a house and tech house artist based in Canada, tracked on soundcheck, with 80 sets logged across Montreal, Nantes and Toronto. Often billed alongside Kenny Glasgow, Greg Gow and Jonathan Rosa. Next up: Valerie Toronto, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ RUDEE NIK is a house and tech house artist based in Canada, tracked on soundchec
 
 Kenny Glasgow, Greg Gow, Jonathan Rosa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeenik/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeenik/)*

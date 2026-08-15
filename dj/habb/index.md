@@ -1,6 +1,6 @@
 # Habb
 
-Habb is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
+Habb is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
 
 Habb is a house and tech house artist based in France, tracked on soundcheck, with 6 sets logged across Barcelona, Edinburgh, Hongkong and Milan and 2 more. Often billed alongside Anyss, Argenis Brito and Bastard Love. Next up: Studio Stereo, Barcelona on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Habb is a house and tech house artist based in France, tracked on soundcheck, wi
 
 Anyss, Argenis Brito, Bastard Love
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*

@@ -1,6 +1,6 @@
 # OGAN
 
-OGAN is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+OGAN is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 OGAN is a techno and deep house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Sanfrancisco and Tbilisi. Often billed alongside Yaz, Kohbain and Emanate. Next up: F8 1192 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ OGAN is a techno and deep house artist based in Ireland, tracked on soundcheck, 
 
 Yaz, Kohbain, Emanate
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogan/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogan/)*

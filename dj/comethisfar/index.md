@@ -1,6 +1,6 @@
 # Comethisfar
 
-Comethisfar is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at KHIDI, Tbilisi on Fri, 21 Aug 2026.
+Comethisfar is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at KHIDI, Tbilisi on Fri, 21 Aug 2026.
 
 Comethisfar is a techno artist tracked on soundcheck, with 29 sets logged across Berlin and Tbilisi. Often billed alongside gwän, Uväll and Mancho. Next up: KHIDI, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Comethisfar is a techno artist tracked on soundcheck, with 29 sets logged across
 
 gwän, Uväll, Mancho
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comethisfar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comethisfar/)*

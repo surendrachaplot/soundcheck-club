@@ -1,6 +1,6 @@
 # Cirqet
 
-Cirqet is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 1124 Congress St NE, 2nd Floor, Washington DC on Sat, 22 Aug 2026.
+Cirqet is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 1124 Congress St NE, 2nd Floor, Washington DC on Sat, 22 Aug 2026.
 
 Cirqet is a techno and house artist tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Alarico, David Castellani and Perc. Next up: TBA - 1124 Congress St NE, 2nd Floor, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cirqet is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 Alarico, David Castellani, Perc
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirqet/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirqet/)*

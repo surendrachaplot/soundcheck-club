@@ -1,6 +1,6 @@
 # Golden Lights
 
-Golden Lights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
+Golden Lights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
 
 Golden Lights is a house and techno artist tracked on soundcheck, with 8 sets logged across Nottingham. Often billed alongside Brad Bradley, Evil Woman and Lvcky. Next up: The Bodega Social Club, Nottingham on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Golden Lights is a house and techno artist tracked on soundcheck, with 8 sets lo
 
 Brad Bradley, Evil Woman, Lvcky
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlights/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlights/)*

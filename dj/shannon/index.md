@@ -1,6 +1,6 @@
 # Shannon
 
-Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 15 Aug 2026.
+Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 15 Aug 2026.
 
 Shannon is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, London, Melbourne and Paris and 1 more. Often billed alongside Kovac, Lewis Cancut and 3rd Orbit. Next up: Revolver Upstairs, Melbourne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Shannon is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Kovac, Lewis Cancut, 3rd Orbit
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannon/)*

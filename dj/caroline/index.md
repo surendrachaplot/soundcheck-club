@@ -1,6 +1,6 @@
 # Caroline
 
-Caroline is a Downtempo and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Caroline is a Downtempo and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Caroline is a downtempo and club artist tracked on soundcheck, with 11 sets logged across Berlin, Bristol, Kyoto and Miami and 3 more. Often billed alongside Lord Spikeheart, Panda Bear and 7e. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Caroline is a downtempo and club artist tracked on soundcheck, with 11 sets logg
 
 Lord Spikeheart, Panda Bear, 7e
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caroline/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caroline/)*

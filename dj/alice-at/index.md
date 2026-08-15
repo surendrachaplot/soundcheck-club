@@ -1,6 +1,6 @@
 # Alice (AT)
 
-Alice (AT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
+Alice (AT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
 
 Alice (AT) is a house and tech house artist tracked on soundcheck, with 38 sets logged across Berlin, London, Munich and Paris and 2 more. Often billed alongside Stipo, Apua and Eye F. Next up: PRST, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alice (AT) is a house and tech house artist tracked on soundcheck, with 38 sets 
 
 Stipo, Apua, Eye F
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-at/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-at/)*

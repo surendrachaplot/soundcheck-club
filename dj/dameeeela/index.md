@@ -1,6 +1,6 @@
 # dameeeela
 
-dameeeela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+dameeeela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 dameeeela is a techno and house artist based in Australia, tracked on soundcheck, with 58 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside DJ PGZ, FUKHED and KSMBA. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ dameeeela is a techno and house artist based in Australia, tracked on soundcheck
 
 DJ PGZ, FUKHED, KSMBA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameeeela/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameeeela/)*

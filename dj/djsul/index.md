@@ -1,6 +1,6 @@
 # Dj Sul
 
-Dj Sul is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Switch Bar, Barcelona on Tue, 18 Aug 2026.
+Dj Sul is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Switch Bar, Barcelona on Tue, 18 Aug 2026.
 
 Dj Sul is an acid and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside MENTA, Cyberdom and DAVID LOST. Next up: Switch Bar, Barcelona on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Dj Sul is an acid and techno artist based in Spain, tracked on soundcheck, with 
 
 MENTA, Cyberdom, DAVID LOST
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsul/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsul/)*

@@ -1,20 +1,20 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Process PDX, Portland on Fri, 14 Aug 2026.
+Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
 
-Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: Process PDX, Portland on Fri 14 Aug.
+Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Secret Location, Chicago on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Process PDX | Portland |
 | Sat, 29 Aug 2026 | TBA - Secret Location | Chicago |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
+- Process PDX, Portland — Fri, 14 Aug 2026
 - Biltmore Cabaret, Vancouver — Sun, 2 Aug 2026
 - TBA - Ming Lounge, Portland — Sat, 1 Aug 2026
 - Massive, Seattle — Wed, 24 Jun 2026
@@ -22,10 +22,9 @@ Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 13 Jun 2026
 - TBA, Montreal — Fri, 12 Jun 2026
 - Process PDX, Portland — Sat, 30 May 2026
-- 15605 Woodrow Wilson St., Detroit — Mon, 25 May 2026
 
 ## Shares bills with
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

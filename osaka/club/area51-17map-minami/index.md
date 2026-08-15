@@ -1,6 +1,6 @@
 # Area51 / 17map Minami
 
-Area51 / 17map Minami is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Hush" on Sat, 15 Aug 2026.
+Area51 / 17map Minami is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hush" on Sat, 15 Aug 2026.
 
 Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including KENJI MARUI. Browse upcoming dates, start times and who's playing. ROYAL KITAGAWA 2-3-7 Shinsaibashi-suji, Chuo-ku, Osaka-shi Osaka, 542-0085 Japan.
 
@@ -14,4 +14,4 @@ Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 1 upcoming
 
 ROYAL KITAGAWA 2-3-7 Shinsaibashi-suji, Chuo-ku, Osaka-shi Osaka, 542-0085 Japan, Osaka
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area51-17map-minami/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area51-17map-minami/)*

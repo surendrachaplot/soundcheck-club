@@ -1,6 +1,6 @@
 # Maribou State
 
-Maribou State is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
+Maribou State is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
 
 Maribou State is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Chris Stussy, Adam Ten and Blawan. Next up: Valby Parken, Copenhagen on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Maribou State is a house and electronica artist based in United Kingdom, tracked
 
 Chris Stussy, Adam Ten, Blawan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

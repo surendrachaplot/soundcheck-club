@@ -1,6 +1,6 @@
 # Alex.Black
 
-Alex.Black is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kramladen, Vienna on Thu, 20 Aug 2026.
+Alex.Black is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kramladen, Vienna on Thu, 20 Aug 2026.
 
 Alex.Black is a techno artist tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside Zenø and Swiver. Next up: Kramladen, Vienna on Thu 20 Aug.
 
@@ -19,4 +19,4 @@ Alex.Black is a techno artist tracked on soundcheck, with 3 sets logged across V
 
 Zenø, Swiver
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.black/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.black/)*

@@ -1,14 +1,15 @@
 # Rezzett
 
-Rezzett is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Rezzett is a Experimental and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
-Rezzett is an experimental and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Josey Rebelle, Grady Steele and John T. Gast. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
+Rezzett is an experimental and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside John T. Gast, Josey Rebelle and Grady Steele. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
+| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Rezzett is an experimental and house artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Josey Rebelle, Grady Steele, John T. Gast
+John T. Gast, Josey Rebelle, Grady Steele
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*

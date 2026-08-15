@@ -1,6 +1,6 @@
 # &ME
 
-&ME is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+&ME is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
 &ME is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: DC-10, Ibiza on Mon 17 Aug.
 
@@ -31,4 +31,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

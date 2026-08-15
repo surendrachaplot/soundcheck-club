@@ -1,6 +1,6 @@
 # Dundar
 
-Dundar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elsewhere, New York City on Sat, 5 Sept 2026.
+Dundar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Elsewhere, New York City on Sat, 5 Sept 2026.
 
 Dundar is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside SENGA, DJ Get Luc(y) and TS Julien. Next up: Elsewhere, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dundar is a techno and house artist based in United States of America, tracked o
 
 SENGA, DJ Get Luc(y), TS Julien
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dundar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dundar/)*

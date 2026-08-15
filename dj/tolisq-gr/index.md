@@ -1,6 +1,6 @@
 # Tolis Q
 
-Tolis Q is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 2ten, Athens on Tue, 27 Oct 2026.
+Tolis Q is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 2ten, Athens on Tue, 27 Oct 2026.
 
 Tolis Q is a house and tech house artist tracked on soundcheck, with 40 sets logged across Athens. Often billed alongside Marthe, Mikele and George Apergis. Next up: 2ten, Athens on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Tolis Q is a house and tech house artist tracked on soundcheck, with 40 sets log
 
 Marthe, Mikele, George Apergis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolisq-gr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolisq-gr/)*

@@ -1,6 +1,6 @@
 # Sivz
 
-Sivz is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at At The Waldorf Hotel, Vancouver on Sat, 15 Aug 2026.
+Sivz is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at At The Waldorf Hotel, Vancouver on Sat, 15 Aug 2026.
 
 Sivz is a tech house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Miami and Vancouver. Often billed alongside Paul Franc, Bryn Liedl and STILL LNDN. Next up: At The Waldorf Hotel, Vancouver on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sivz is a tech house and techno artist based in Canada, tracked on soundcheck, w
 
 Paul Franc, Bryn Liedl, STILL LNDN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivz/)*

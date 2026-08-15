@@ -1,6 +1,6 @@
 # Fenoma
 
-Fenoma is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Minimal Bar, Berlin on Wed, 19 Aug 2026.
+Fenoma is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Minimal Bar, Berlin on Wed, 19 Aug 2026.
 
 Fenoma is a club and house artist based in Argentina, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Jim Dz, Caldii and Fuchsmeister. Next up: Minimal Bar, Berlin on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Fenoma is a club and house artist based in Argentina, tracked on soundcheck, wit
 
 Jim Dz, Caldii, Fuchsmeister
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenoma/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenoma/)*

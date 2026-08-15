@@ -1,6 +1,6 @@
 # Nala
 
-Nala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Nala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Nala is a house and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside Vnssa, Justin Martin and Bastienne. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Nala is a house and tech house artist tracked on soundcheck, with 84 sets logged
 
 Vnssa, Justin Martin, Bastienne
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*

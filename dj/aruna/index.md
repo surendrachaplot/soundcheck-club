@@ -1,6 +1,6 @@
 # Aruna
 
-Aruna is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
+Aruna is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
 
 Aruna is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam and London. Often billed alongside Light Gal, AS I AM and Alex Rebel. Next up: Egg London, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Aruna is a house and tech house artist based in United Kingdom, tracked on sound
 
 Light Gal, AS I AM, Alex Rebel
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aruna/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aruna/)*

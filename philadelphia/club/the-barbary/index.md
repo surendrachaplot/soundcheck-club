@@ -1,14 +1,13 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "The Shakedown: Todd Edwards" on Fri, 14 Aug 2026.
+The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RAGIE BAN x SOUND SELECTAS 2 YEAR ANNI" on Sat, 15 Aug 2026.
 
-The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Donnerstag (1), Joshwa, JULS (US) and Pietro and 2 more. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
+The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Donnerstag (1), Joshwa, JULS (US) and Pietro and 2 more. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | The Shakedown: Todd Edwards | Pit Boyz, Todd Edwards, Willyum |
 | Sat, 15 Aug 2026 | RAGIE BAN x SOUND SELECTAS 2 YEAR ANNI |  |
 | Fri, 21 Aug 2026 | Sasha x OPERA RECORDS | Sasha |
 | Sat, 22 Aug 2026 | The Barbary pres. JOSHWA Out of My Mind Tour | JULS (US), Joshwa |
@@ -18,4 +17,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming ni
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

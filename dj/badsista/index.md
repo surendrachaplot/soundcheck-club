@@ -1,20 +1,20 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
+BADSISTA is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
 
-BADSISTA is a house and baile funk artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: The Chocolate Factory, Newyorkcity on Fri 14 Aug.
+BADSISTA is a house and baile funk artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: The Great Northern, Sanfrancisco on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | The Chocolate Factory | New York City |
 | Sat, 15 Aug 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | M.O.T | London |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- The Chocolate Factory, New York City — Fri, 14 Aug 2026
 - MoMA PS1, New York City — Fri, 7 Aug 2026
 - OXI, Berlin — Sun, 26 Jul 2026
 - CLUB RAUM, Amsterdam — Sat, 25 Jul 2026
@@ -22,10 +22,9 @@ BADSISTA is a house and baile funk artist tracked on soundcheck, with 118 sets l
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - The Jazz Cafe, London — Fri, 10 Jul 2026
 - Virage, Paris — Sat, 4 Jul 2026
-- Ministerium Club, Lisbon — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

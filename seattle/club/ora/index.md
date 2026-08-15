@@ -1,14 +1,13 @@
 # Ora
 
-Ora is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Daxson" on Fri, 14 Aug 2026.
+Ora is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Massane" on Sat, 22 Aug 2026.
 
-Ora is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including Daxson, Massane, Richard Durand and Sequence Six. Browse upcoming dates, start times and who's playing. 2330 1st Avenue, Seattle, WA 98121, USA.
+Ora is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Massane, Richard Durand and Sequence Six. Browse upcoming dates, start times and who's playing. 2330 1st Avenue, Seattle, WA 98121, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Daxson | Daxson |
 | Sat, 22 Aug 2026 | Massane | Massane |
 | Sat, 29 Aug 2026 | SNOOKO |  |
 | Fri, 4 Sept 2026 | Sequence Six | Sequence Six |
@@ -19,4 +18,4 @@ Ora is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with li
 
 2330 1st Avenue, Seattle, WA 98121, USA, Seattle
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*

@@ -1,6 +1,6 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Marco V is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Marco V is a trance and techno artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Budapest, Edinburgh and Frankfurt and 6 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Marco V is a trance and techno artist based in Netherlands, tracked on soundchec
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

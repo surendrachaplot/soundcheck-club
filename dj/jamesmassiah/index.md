@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Dancehall and Dub artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Thu, 20 Aug 2026.
+James Massiah is a Dancehall and Dub artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Thu, 20 Aug 2026.
 
 James Massiah is a dancehall and dub artist tracked on soundcheck, with 94 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 15 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: M.O.T, London on Thu 20 Aug.
 
@@ -31,4 +31,4 @@ James Massiah is a dancehall and dub artist tracked on soundcheck, with 94 sets 
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

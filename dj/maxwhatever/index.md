@@ -1,8 +1,8 @@
 # max whatever
 
-max whatever is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+max whatever is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
-max whatever is a techno and ghetto tech artist based in Ukraine, tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside Abrew, Slowmode and fiedorka. Next up: Jasna 1, Warsaw on Fri 4 Sept.
+max whatever is a techno and ghetto tech artist based in Ukraine, tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside Abrew, Slowmode and dj.zamocno. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ max whatever is a techno and ghetto tech artist based in Ukraine, tracked on sou
 
 ## Shares bills with
 
-Abrew, Slowmode, fiedorka
+Abrew, Slowmode, dj.zamocno
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*

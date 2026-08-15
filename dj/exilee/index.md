@@ -1,6 +1,6 @@
 # Exilee
 
-Exilee is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+Exilee is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 Exilee is a techno and experimental artist tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Copenhagen and Leipzig and 4 more. Often billed alongside CUNT REMEMBER, Europa (1) and Fakethias. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Exilee is a techno and experimental artist tracked on soundcheck, with 15 sets l
 
 CUNT REMEMBER, Europa (1), Fakethias
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*

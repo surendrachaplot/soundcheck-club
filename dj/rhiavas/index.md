@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+Rhiavas is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
 Rhiavas is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Duo. Next up: 93 Feet East, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Rhiavas is a house and afro house artist based in United Kingdom, tracked on sou
 
 FLORA THA EXPLORA, DRIA, Duo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

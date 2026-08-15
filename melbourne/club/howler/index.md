@@ -1,6 +1,6 @@
 # Howler
 
-Howler is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Overtake x Blackout Frequency presents: Benny Page & Doktor" on Sat, 19 Sept 2026.
+Howler is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Overtake x Blackout Frequency presents: Benny Page & Doktor" on Sat, 19 Sept 2026.
 
 Howler is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Benny Page, Bridget, Cookie (2) and Jedidiah and 2 more. Browse upcoming dates, start times and who's playing. 14 Dawson St, Brunswick, VIC, 3056, Australia.
 
@@ -15,4 +15,4 @@ Howler is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, wi
 
 14 Dawson St, Brunswick, VIC, 3056, Australia, Melbourne
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*

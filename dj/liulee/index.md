@@ -1,6 +1,6 @@
 # Liu Lee
 
-Liu Lee is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
+Liu Lee is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Modeci, Seoul on Sat, 15 Aug 2026.
 
 Liu Lee is a bass and club artist tracked on soundcheck, with 33 sets logged across Berlin, London, Lyon and Melbourne and 4 more. Often billed alongside HYUNHXEE, Wholes and KOLLIN. Next up: Modeci, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Liu Lee is a bass and club artist tracked on soundcheck, with 33 sets logged acr
 
 HYUNHXEE, Wholes, KOLLIN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liulee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liulee/)*

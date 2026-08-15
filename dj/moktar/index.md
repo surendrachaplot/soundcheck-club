@@ -1,6 +1,6 @@
 # Moktar
 
-Moktar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Moktar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Moktar is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Moktar is a techno and house artist tracked on soundcheck, with 56 sets logged a
 
 Surusinghe, Roza Terenzi, Yung Singh
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*

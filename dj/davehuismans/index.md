@@ -1,6 +1,6 @@
 # Dave Huismans
 
-Dave Huismans is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Dave Huismans is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Dave Huismans is a techno and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Nazar, Azu Tiwaline and Barker. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -28,4 +28,4 @@ Dave Huismans is a techno and house artist based in Netherlands, tracked on soun
 
 Nazar, Azu Tiwaline, Barker
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*

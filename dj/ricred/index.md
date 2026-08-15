@@ -1,6 +1,6 @@
 # Ric Red
 
-Ric Red is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Ric Red is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Ric Red is a house and disco artist based in Italy, tracked on soundcheck, with 12 sets logged across London and Madrid. Often billed alongside Hugo Fontaine, Dante (H501) and KOKO (IT). Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ric Red is a house and disco artist based in Italy, tracked on soundcheck, with 
 
 Hugo Fontaine, Dante (H501), KOKO (IT)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricred/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricred/)*

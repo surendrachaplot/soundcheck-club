@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
+Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Superior Ingredients, New York City on Sun, 23 Aug 2026.
 
 Chinonegro is a tech house and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Buenosaires and Dusseldorf and 9 more. Often billed alongside Luuk van Dijk, Sidney Charles and BLOND:ISH. Next up: Superior Ingredients, Newyorkcity on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 25 sets 
 
 Luuk van Dijk, Sidney Charles, BLOND:ISH
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

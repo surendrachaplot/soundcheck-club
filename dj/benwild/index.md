@@ -1,6 +1,6 @@
 # Ben Wild
 
-Ben Wild is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at MAD Radio NYC, New York City on Sat, 15 Aug 2026.
+Ben Wild is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at MAD Radio NYC, New York City on Sat, 15 Aug 2026.
 
 Ben Wild is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles, Melbourne and Newyorkcity. Often billed alongside Grant Tyler, autogyro and Aspirin. Next up: MAD Radio NYC, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Ben Wild is a house and deep house artist based in United States of America, tra
 
 Grant Tyler, autogyro, Aspirin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwild/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwild/)*

@@ -1,6 +1,6 @@
 # Felizeta
 
-Felizeta is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
+Felizeta is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
 
 Felizeta is a techno and trance artist based in Argentina, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside Kevin Bithell, Madison Kay and Radar. Next up: Domicile, Miami on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Felizeta is a techno and trance artist based in Argentina, tracked on soundcheck
 
 Kevin Bithell, Madison Kay, Radar
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felizeta/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felizeta/)*

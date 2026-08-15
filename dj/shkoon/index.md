@@ -1,6 +1,6 @@
 # Shkoon
 
-Shkoon is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Shkoon is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Shkoon is an electronica and electro artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Christian Löffler, Oceanvs Orientalis and AVEM. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Shkoon is an electronica and electro artist based in Germany, tracked on soundch
 
 Christian Löffler, Oceanvs Orientalis, AVEM
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shkoon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shkoon/)*

@@ -1,6 +1,6 @@
 # Forever United
 
-Forever United is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ormside Projects, London on Sat, 5 Sept 2026.
+Forever United is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ormside Projects, London on Sat, 5 Sept 2026.
 
 Forever United is a techno and trance artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Hamburg and London and 3 more. Often billed alongside sqip, Fishbl00d and Iva Peralta. Next up: Ormside Projects, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Forever United is a techno and trance artist based in United States of America, 
 
 sqip, Fishbl00d, Iva Peralta
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverunited/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverunited/)*

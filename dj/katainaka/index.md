@@ -1,6 +1,6 @@
 # KATAINAKA
 
-KATAINAKA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at HVEN, Tokyo on Sat, 15 Aug 2026.
+KATAINAKA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at HVEN, Tokyo on Sat, 15 Aug 2026.
 
 KATAINAKA is a house and techno artist tracked on soundcheck, with 31 sets logged across Seoul and Tokyo. Often billed alongside iz (7), YOSHIHAARAA and kengotaki. Next up: HVEN, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KATAINAKA is a house and techno artist tracked on soundcheck, with 31 sets logge
 
 iz (7), YOSHIHAARAA, kengotaki
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katainaka/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katainaka/)*

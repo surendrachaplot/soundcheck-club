@@ -1,6 +1,6 @@
 # Hysteria
 
-Hysteria is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+Hysteria is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 Hysteria is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin and Hamburg. Often billed alongside SuttleK, Kim Bergstrand and ALTRAX. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Hysteria is a techno and hardcore artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- M7 Club, Barcelona — Fri, 14 Aug 2026
 - M7 Club, Barcelona — Fri, 26 Jun 2026
 - M7 Club, Barcelona — Fri, 15 May 2026
 - M7 Club, Barcelona — Fri, 24 Apr 2026
@@ -20,10 +21,9 @@ Hysteria is a techno and hardcore artist based in Germany, tracked on soundcheck
 - M7 Club, Barcelona — Fri, 26 Dec 2025
 - M7 Club, Barcelona — Sat, 15 Nov 2025
 - Locke, Hamburg — Wed, 12 Nov 2025
-- M7 Club, Barcelona — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 SuttleK, Kim Bergstrand, ALTRAX
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*

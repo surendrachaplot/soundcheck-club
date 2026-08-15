@@ -1,6 +1,6 @@
 # Basement Jaxx
 
-Basement Jaxx is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Basement Jaxx is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
 Basement Jaxx is a house and disco artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Auckland, Barcelona, Bristol and Chicago and 13 more. Often billed alongside Melvo Baptiste, DJ Paulette and Eats Everything. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Basement Jaxx is a house and disco artist based in United Kingdom, tracked on so
 
 Melvo Baptiste, DJ Paulette, Eats Everything
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*

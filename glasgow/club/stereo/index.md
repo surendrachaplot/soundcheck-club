@@ -1,14 +1,13 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Queer Black Arts Festival Afterparty with Juliana Huxtable + more" on Fri, 14 Aug 2026.
+Stereo is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "WATERSHED 002" on Sat, 15 Aug 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including 4KitSake, Aderayo, Angel Cake and Average Joe (2) and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including 4KitSake, Aderayo, Angel Cake and Average Joe (2) and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Queer Black Arts Festival Afterparty with Juliana Huxtable + more | Juliana Huxtable |
 | Sat, 15 Aug 2026 | WATERSHED 002 | Hollyamorous, Justyyna, MMS (2), Shelle.y, eurokels |
 | Wed, 19 Aug 2026 | DJ Spanish Fly |  |
 | Fri, 21 Aug 2026 | I'm Probably Perfect x Stereo presents: deBasement | Babyjaii, Nuclear Boyfriend, deBasement |
@@ -18,9 +17,10 @@ Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, wit
 | Fri, 4 Sept 2026 | Scandal.gla x Stereo: Cortisa Star | Rahul.mp3, fUnlistenable |
 | Fri, 11 Sept 2026 | SOUND: 20 Years of Dubstep | DJ Greenman, Hometown Sound, James Hometown, T-O-D |
 | Fri, 18 Sept 2026 | Bounce 101 x Stereo | Bellarosa, saparilla |
+| Sat, 19 Sept 2026 | Danse Macabre's Sixteenth Birthday | DJ Catnip |
 
 ## Address
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

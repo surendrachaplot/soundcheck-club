@@ -1,6 +1,6 @@
 # Mark Dekoda
 
-Mark Dekoda is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Mark Dekoda is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Mark Dekoda is a techno and electro artist tracked on soundcheck, with 54 sets logged across Basel, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: TBA - Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Mark Dekoda is a techno and electro artist tracked on soundcheck, with 54 sets l
 
 Klanglos, Sylvie Miles, Ben Dust
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*

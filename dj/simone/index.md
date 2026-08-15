@@ -1,6 +1,6 @@
 # Simone
 
-Simone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Soffio Fregene, Rome on Sat, 15 Aug 2026.
+Simone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Soffio Fregene, Rome on Sat, 15 Aug 2026.
 
 Simone is a techno and house artist tracked on soundcheck, with 16 sets logged across Belfast, Bristol, Dublin and Ibiza and 6 more. Often billed alongside Azyr, I Hate Models and Juicy Romance. Next up: Soffio Fregene, Rome on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Simone is a techno and house artist tracked on soundcheck, with 16 sets logged a
 
 Azyr, I Hate Models, Juicy Romance
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simone/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simone/)*

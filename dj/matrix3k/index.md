@@ -1,6 +1,6 @@
 # MATRIX3K
 
-MATRIX3K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+MATRIX3K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 MATRIX3K is a techno and house artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Brussels and Krakow and 7 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ MATRIX3K is a techno and house artist tracked on soundcheck, with 97 sets logged
 
 Buchan, Contakt (PL), Edvvin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*

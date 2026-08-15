@@ -1,6 +1,6 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 31 more. Often billed alongside Overmono, SHERELLE and Jyoty. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 91 s
 
 Overmono, SHERELLE, Jyoty
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

@@ -1,14 +1,13 @@
 # m50
 
-m50 is a Acid and Ambient artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Chicago on Fri, 14 Aug 2026.
+m50 is a Acid and Ambient artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Chicago on Sun, 16 Aug 2026.
 
-m50 is an acid and ambient artist tracked on soundcheck, with 411 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Chicago on Fri 14 Aug.
+m50 is an acid and ambient artist tracked on soundcheck, with 411 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Chicago on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA | Chicago |
 | Sun, 16 Aug 2026 | TBA | Chicago |
 | Fri, 21 Aug 2026 | TBA | Chicago |
 | Sun, 23 Aug 2026 | TBA | Chicago |
@@ -20,9 +19,11 @@ m50 is an acid and ambient artist tracked on soundcheck, with 411 sets logged ac
 | Sun, 13 Sept 2026 | TBA | Chicago |
 | Fri, 18 Sept 2026 | TBA | Chicago |
 | Sun, 20 Sept 2026 | TBA | Chicago |
+| Fri, 25 Sept 2026 | TBA | Chicago |
 
 ## Recently played
 
+- TBA, Chicago — Fri, 14 Aug 2026
 - TBA, Chicago — Sun, 9 Aug 2026
 - TBA, Chicago — Fri, 7 Aug 2026
 - TBA, Chicago — Sun, 2 Aug 2026
@@ -30,10 +31,9 @@ m50 is an acid and ambient artist tracked on soundcheck, with 411 sets logged ac
 - WKDU 91.7FM, Philadelphia — Thu, 30 Jul 2026
 - TBA, Chicago — Sun, 26 Jul 2026
 - TBA, Berlin — Sat, 25 Jul 2026
-- TBA, Chicago — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 DJ Lgcc, Conoley Ospovat, r.ss
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*

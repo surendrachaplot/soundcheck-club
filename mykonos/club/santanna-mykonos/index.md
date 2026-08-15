@@ -1,14 +1,13 @@
 # Santanna Mykonos
 
-Santanna Mykonos is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Sonny Fodera & Roger Sanchez at SantAnna" on Fri, 14 Aug 2026.
+Santanna Mykonos is a music venue in Mykonos with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SANTANNA PRESENTS Vintage Culture" on Sat, 15 Aug 2026.
 
-Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 7 upcoming nights, with line-ups including Ben Sterling, Black Coffee, Francis Mercier and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. Paraga Beach, Mykonos, Greece 84600.
+Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 6 upcoming nights, with line-ups including Ben Sterling, Black Coffee, Francis Mercier and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. Paraga Beach, Mykonos, Greece 84600.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Sonny Fodera & Roger Sanchez at SantAnna | Roger Sanchez, Sonny Fodera |
 | Sat, 15 Aug 2026 | SANTANNA PRESENTS Vintage Culture | Vintage Culture |
 | Mon, 17 Aug 2026 | Black Coffee - THE 2026 RESIDENCY AT SANTANNA | Black Coffee, Seth Troxler |
 | Wed, 19 Aug 2026 | Francis Mercier presents Solèy at SantAnna - 2026 Exclusive Mykonos Residency | Francis Mercier, THEMBA |
@@ -20,4 +19,4 @@ Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 7 upcoming ni
 
 Paraga Beach, Mykonos, Greece 84600, Mykonos
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*

@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "LOVEH8: Omaks" on Sat, 15 Aug 2026.
+Room 2 Glasgow is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LOVEH8: Omaks" on Sat, 15 Aug 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with line-ups including 333CXT, Girls of the Internet, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming nig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

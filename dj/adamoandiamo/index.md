@@ -1,6 +1,6 @@
 # adamoandiamo
 
-adamoandiamo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+adamoandiamo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 adamoandiamo is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside VALENTIN FRAIS, flomel and gin (DE). Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ adamoandiamo is a techno and trance artist based in Germany, tracked on soundche
 
 VALENTIN FRAIS, flomel, gin (DE)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamoandiamo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamoandiamo/)*

@@ -1,6 +1,6 @@
 # Clé
 
-Clé is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
+Clé is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
 
 Clé is a funk / soul and experimental artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Eva Be, Finn Johannsen and Seebase. Next up: Club der Visionaere, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Clé is a funk / soul and experimental artist tracked on soundcheck, with 10 set
 
 Eva Be, Finn Johannsen, Seebase
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cle/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cle/)*

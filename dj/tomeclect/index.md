@@ -1,6 +1,6 @@
 # Tom Eclect
 
-Tom Eclect is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Workshop, Melbourne on Sat, 15 Aug 2026.
+Tom Eclect is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Workshop, Melbourne on Sat, 15 Aug 2026.
 
 Tom Eclect is a deep house and house artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Akane (1), Bashi Bazouk and Bby Cass. Next up: Workshop, Melbourne on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Tom Eclect is a deep house and house artist tracked on soundcheck, with 8 sets l
 
 Akane (1), Bashi Bazouk, Bby Cass
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*

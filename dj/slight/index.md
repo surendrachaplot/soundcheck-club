@@ -1,6 +1,6 @@
 # Slight
 
-Slight is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
+Slight is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
 
 Slight is an electro and techno artist tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Jon McCray, Flores Negras and Mister Hoochiemama. Next up: TBA - Wicker Park, Chicago on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Slight is an electro and techno artist tracked on soundcheck, with 3 sets logged
 
 Jon McCray, Flores Negras, Mister Hoochiemama
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slight/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slight/)*

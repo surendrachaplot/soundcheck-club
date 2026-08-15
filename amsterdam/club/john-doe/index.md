@@ -1,6 +1,6 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 38 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Melodic Astronaut with Doguez & Agustina Aliaga" on Fri, 14 Aug 2026.
+John Doe is a music venue in Amsterdam with 38 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Melodic Astronaut with Doguez & Agustina Aliaga" on Fri, 14 Aug 2026.
 
 John Doe is a music venue in Amsterdam listed on soundcheck. 38 upcoming nights, with line-ups including Agustina Aliaga, Alex Medina, ARTISTIKK and Alex Sharp and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 38 upcoming nights,
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

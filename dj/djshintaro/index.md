@@ -1,6 +1,6 @@
 # DJ SHINTARO
 
-DJ SHINTARO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 30 Aug 2026.
+DJ SHINTARO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 30 Aug 2026.
 
 DJ SHINTARO is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Osaka and Tokyo. Often billed alongside JOMMY, CYBERHACKSYSTEM and r1ku. Next up: Aoyama Hachi, Tokyo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ SHINTARO is a house and techno artist based in Japan, tracked on soundcheck, 
 
 JOMMY, CYBERHACKSYSTEM, r1ku
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshintaro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshintaro/)*

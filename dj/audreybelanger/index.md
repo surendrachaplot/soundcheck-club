@@ -1,6 +1,6 @@
 # Audrey Bélanger
 
-Audrey Bélanger is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at StereoBar, Montreal on Sat, 22 Aug 2026.
+Audrey Bélanger is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at StereoBar, Montreal on Sat, 22 Aug 2026.
 
 Audrey Bélanger is a house and electro artist tracked on soundcheck, with 21 sets logged across Montreal and Toronto. Often billed alongside Andrea de Tour, splitshift (2) and Asha (4). Next up: StereoBar, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Audrey Bélanger is a house and electro artist tracked on soundcheck, with 21 se
 
 Andrea de Tour, splitshift (2), Asha (4)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audreybelanger/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audreybelanger/)*

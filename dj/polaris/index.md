@@ -1,6 +1,6 @@
 # Polaris
 
-Polaris is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Polaris is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Polaris is a techno and acid artist tracked on soundcheck, with 3 sets logged across Prague, Sandiego and Sanfrancisco. Often billed alongside 2NDRA, 3ever and ALMAS. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Polaris is a techno and acid artist tracked on soundcheck, with 3 sets logged ac
 
 2NDRA, 3ever, ALMAS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polaris/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polaris/)*

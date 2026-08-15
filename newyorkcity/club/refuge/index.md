@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann" on Fri, 14 Aug 2026.
+Refuge is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann" on Fri, 14 Aug 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including Ahadadream, Akua, Alci and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

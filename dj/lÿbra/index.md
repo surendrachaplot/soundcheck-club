@@ -1,6 +1,6 @@
 # LŸBRA
 
-LŸBRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+LŸBRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 LŸBRA is a techno and hardcore artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Henk, get no and $EITAN777. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LŸBRA is a techno and hardcore artist based in Germany, tracked on soundcheck, 
 
 DJ Henk, get no, $EITAN777
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lÿbra/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lÿbra/)*

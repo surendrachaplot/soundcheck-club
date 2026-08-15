@@ -1,6 +1,6 @@
 # Diz Shocka
 
-Diz Shocka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Versalles 64, Mexico City on Sat, 15 Aug 2026.
+Diz Shocka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Versalles 64, Mexico City on Sat, 15 Aug 2026.
 
 Diz Shocka is a house and techno artist based in Argentina, tracked on soundcheck, with 73 sets logged across Buenosaires and Mexicocity. Often billed alongside Alby Esc, Tommy Hart and Eliel Capa. Next up: Versalles 64, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Diz Shocka is a house and techno artist based in Argentina, tracked on soundchec
 
 Alby Esc, Tommy Hart, Eliel Capa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizshocka/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dizshocka/)*

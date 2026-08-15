@@ -1,6 +1,6 @@
 # Spinelli Bravo
 
-Spinelli Bravo is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Crown, Bristol on Sat, 15 Aug 2026.
+Spinelli Bravo is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Crown, Bristol on Sat, 15 Aug 2026.
 
 Spinelli Bravo is a drum & bass and dub artist tracked on soundcheck, with 7 sets logged across Bristol, Leeds and Manchester. Often billed alongside Aerial, Egui and Hatcha. Next up: The Crown, Bristol on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Spinelli Bravo is a drum & bass and dub artist tracked on soundcheck, with 7 set
 
 Aerial, Egui, Hatcha
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinellibravo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinellibravo/)*

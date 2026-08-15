@@ -1,6 +1,6 @@
 # TOBI
 
-TOBI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Azumaya, Tokyo on Wed, 19 Aug 2026.
+TOBI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Azumaya, Tokyo on Wed, 19 Aug 2026.
 
 TOBI is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Amsterdam, Frankfurt, Milan and Tokyo. Often billed alongside SINZIN, SIGNAL (JP) and Mark Shephard. Next up: Azumaya, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ TOBI is a techno and house artist based in Japan, tracked on soundcheck, with 43
 
 SINZIN, SIGNAL (JP), Mark Shephard
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobi/)*

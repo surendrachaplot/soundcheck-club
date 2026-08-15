@@ -1,6 +1,6 @@
 # AnDD
 
-AnDD is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
+AnDD is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
 
 AnDD is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, Bristol, London and Malta. Often billed alongside Jake Power, Art e Fect and Marlon Sadler. Next up: Nine Lives, Malta on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ AnDD is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Jake Power, Art e Fect, Marlon Sadler
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andd/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andd/)*

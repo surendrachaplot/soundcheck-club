@@ -1,6 +1,6 @@
 # Murray Richardson
 
-Murray Richardson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
+Murray Richardson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
 Murray Richardson is a house and disco artist tracked on soundcheck, with 9 sets logged across Budapest, Krakow and London. Often billed alongside Bartman, House Martin and Stuart Patterson. Next up: The North London Tavern, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Murray Richardson is a house and disco artist tracked on soundcheck, with 9 sets
 
 Bartman, House Martin, Stuart Patterson
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murrayrichardson/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murrayrichardson/)*

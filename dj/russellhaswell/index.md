@@ -1,6 +1,6 @@
 # Russell Haswell
 
-Russell Haswell is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Russell Haswell is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 Russell Haswell is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Birmingham and Bristol and 4 more. Often billed alongside Regis, Samuel Kerridge and MICROCORPS. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Russell Haswell is an experimental and techno artist based in United Kingdom, tr
 
 Regis, Samuel Kerridge, MICROCORPS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russellhaswell/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russellhaswell/)*

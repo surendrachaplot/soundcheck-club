@@ -1,6 +1,6 @@
 # Roland Lifjell
 
-Roland Lifjell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Roland Lifjell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Roland Lifjell is a techno and trance artist based in Norway, tracked on soundcheck, with 6 sets logged across Oslo. Often billed alongside G-HA, Olanskii and Skodde. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Roland Lifjell is a techno and trance artist based in Norway, tracked on soundch
 
 G-HA, Olanskii, Skodde
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandlifjell/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandlifjell/)*

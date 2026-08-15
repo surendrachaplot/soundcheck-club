@@ -1,6 +1,6 @@
 # Barutana
 
-Barutana is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Paul Van Dyk // 04.09.2026 // Barutana" on Fri, 4 Sept 2026.
+Barutana is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Paul Van Dyk // 04.09.2026 // Barutana" on Fri, 4 Sept 2026.
 
 Barutana is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including Hobin Rude, Ilija Djokovic and Paul Van Dyk. Browse upcoming dates, start times and who's playing. Kalemegdan Fortress, Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Barutana is a music venue in Belgrade listed on soundcheck. 1 upcoming night, wi
 
 Kalemegdan Fortress, Belgrade, Serbia, Belgrade
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/barutana/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/barutana/)*

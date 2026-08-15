@@ -1,6 +1,6 @@
 # Anita B Queen
 
-Anita B Queen is a Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Horn, Bangkok on Sat, 29 Aug 2026.
+Anita B Queen is a Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Horn, Bangkok on Sat, 29 Aug 2026.
 
 Anita B Queen is a bass and latin bass artist tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Berlin and Buenosaires and 9 more. Often billed alongside Meg10, TEDESCO and BADSISTA. Next up: Horn, Bangkok on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Anita B Queen is a bass and latin bass artist tracked on soundcheck, with 31 set
 
 Meg10, TEDESCO, BADSISTA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anitabqueen/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anitabqueen/)*

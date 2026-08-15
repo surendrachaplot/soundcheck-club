@@ -1,6 +1,6 @@
 # Gourlay
 
-Gourlay is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
+Gourlay is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
 
 Gourlay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: Sneaky Pete's, Edinburgh on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ Gourlay is a house and techno artist based in United Kingdom, tracked on soundch
 
 DJ Bz, Doogi, Eubo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*

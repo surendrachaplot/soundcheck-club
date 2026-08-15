@@ -1,6 +1,6 @@
 # MARBLE RYE
 
-MARBLE RYE is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location, New York City on Thu, 17 Sept 2026.
+MARBLE RYE is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, New York City on Thu, 17 Sept 2026.
 
 MARBLE RYE is an ambient and experimental artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Carpet (F.L.H.P), 7038634357 and Alien D. Next up: TBA - Secret Location, Newyorkcity on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ MARBLE RYE is an ambient and experimental artist tracked on soundcheck, with 6 s
 
 Carpet (F.L.H.P), 7038634357, Alien D
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marblerye/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marblerye/)*

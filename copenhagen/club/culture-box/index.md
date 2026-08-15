@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien" on Fri, 14 Aug 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "THE SHAKER ROOM: Shay De Castro / Naiva / Midele / Ama Lien / Riesenfeld" on Fri, 14 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Alex Stein and Ama Lien and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -8,7 +8,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien | Ama Lien, Midele, Naiva, Shay De Castro |
+| Fri, 14 Aug 2026 | THE SHAKER ROOM: Shay De Castro / Naiva / Midele / Ama Lien / Riesenfeld | Ama Lien, Midele, Naiva, Riesenfeld, Shay De Castro |
 | Sat, 15 Aug 2026 | What Happens: Rocío Portillo / Tim Andresen / AYELEN / Marsans / Matias Oliveros / Distracted | AYELEN, Tim Andresen |
 | Fri, 21 Aug 2026 | Hyggelit Showcase: Sophie van Hayden / Relinquo / Severin / No Celebrity / Rozgu / Hermann Brav | Relinquo, Severin, Sophie van Hayden |
 | Sat, 22 Aug 2026 | Timo Maas / Ryan Dank / Baltza / Karina Lin / ASLI | Baltza, Ryan Dank (2), Timo Maas |
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

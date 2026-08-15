@@ -1,6 +1,6 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
+Pornbugs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
 
 Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Czech Boat, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pornbugs is a house and deep house artist based in Germany, tracked on soundchec
 
 Rangø, ANĪC, JHNS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*

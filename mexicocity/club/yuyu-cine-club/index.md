@@ -1,14 +1,13 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Yu Yu Cine Club: J. Dark takeover with Torgy, UUFFOO DJ, Eliel Capa" on Fri, 14 Aug 2026.
+YuYu Cine Club is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Yu Yu x Desculonización: Clementaum, Technopagan, Dj Fucci, Un4 Lokur4. Roxy & Nasty" on Sat, 15 Aug 2026.
 
-YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Alena Vox, Black Rave Culture, Botelo and Charles Moon and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including Alena Vox, Black Rave Culture, Botelo and Charles Moon and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Yu Yu Cine Club: J. Dark takeover with Torgy, UUFFOO DJ, Eliel Capa | Eliel Capa, Torgy, UUFFOO DJ |
 | Sat, 15 Aug 2026 | Yu Yu x Desculonización: Clementaum, Technopagan, Dj Fucci, Un4 Lokur4. Roxy & Nasty | Clementaum, Dj Fucci, Kelman Duran, Technopagan, Un4 L0kur4 |
 | Fri, 21 Aug 2026 | Yu Yu Cine Club: MUTEK takeover w/ Gerd Janson | Gerd Janson, Kodemul, Ursula Prawn |
 | Sat, 22 Aug 2026 | Yu Yu Cine Club: Materia Abierta takeover with Kelman Duran, La Bruja de Texcoco, KEBRA | Concepción Huerta, KEBRA, Kelman Duran |
@@ -21,4 +20,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 8 upcoming n
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

@@ -1,6 +1,6 @@
 # Angelo Stasi
 
-Angelo Stasi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lasociaciøn, Madrid on Sat, 26 Sept 2026.
+Angelo Stasi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lasociaciøn, Madrid on Sat, 26 Sept 2026.
 
 Angelo Stasi is a techno and electronica artist based in Spain, tracked on soundcheck, with 13 sets logged across Madrid. Often billed alongside Gabriel D'or & Bordoy, Jesus Riaño and Unkle Fon. Next up: Lasociaciøn, Madrid on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Angelo Stasi is a techno and electronica artist based in Spain, tracked on sound
 
 Gabriel D'or & Bordoy, Jesus Riaño, Unkle Fon
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelostasi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelostasi/)*

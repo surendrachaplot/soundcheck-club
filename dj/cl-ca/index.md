@@ -1,6 +1,6 @@
 # Ciel
 
-Ciel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
+Ciel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 15 Aug 2026.
 
 Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 47 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Smoke & Mirrors, Chicago on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 
 Milch (1), Venus in Foil, CCL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

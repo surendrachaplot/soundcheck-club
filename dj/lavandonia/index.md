@@ -1,6 +1,6 @@
 # Lavandonia
 
-Lavandonia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Sat, 15 Aug 2026.
+Lavandonia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Legal, Munich on Sat, 15 Aug 2026.
 
 Lavandonia is a house and tech house artist tracked on soundcheck, with 38 sets logged across Barcelona, Frankfurt, Munich and Naples and 1 more. Often billed alongside Alles Andere, Alessio Barletta and Muallem. Next up: Legal, Munich on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lavandonia is a house and tech house artist tracked on soundcheck, with 38 sets 
 
 Alles Andere, Alessio Barletta, Muallem
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*

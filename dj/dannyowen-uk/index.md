@@ -1,6 +1,6 @@
 # Danny Owen
 
-Danny Owen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
+Danny Owen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
 
 Danny Owen is a house and tech house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Jerome Six, Kye Refix and Shenin Amara. Next up: Basing House, London on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Danny Owen is a house and tech house artist tracked on soundcheck, with 7 sets l
 
 Jerome Six, Kye Refix, Shenin Amara
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyowen-uk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyowen-uk/)*

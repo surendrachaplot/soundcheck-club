@@ -1,6 +1,6 @@
 # Wack0
 
-Wack0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Speakerbox, Bangkok on Sun, 16 Aug 2026.
+Wack0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Speakerbox, Bangkok on Sun, 16 Aug 2026.
 
 Wack0 is a techno and electro artist tracked on soundcheck, with 4 sets logged across Bangkok. Often billed alongside DukeDumb, AIDAS and Junesis. Next up: Speakerbox, Bangkok on Sun 16 Aug.
 
@@ -20,4 +20,4 @@ Wack0 is a techno and electro artist tracked on soundcheck, with 4 sets logged a
 
 DukeDumb, AIDAS, Junesis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wack0/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wack0/)*

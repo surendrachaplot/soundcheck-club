@@ -1,6 +1,6 @@
 # Cora (CN)
 
-Cora (CN) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
+Cora (CN) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
 
 Cora (CN) is a techno and house artist based in China, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Kim Ann Foxman, HAO (CN) and Carly Zeng. Next up: BASEMENT, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cora (CN) is a techno and house artist based in China, tracked on soundcheck, wi
 
 Kim Ann Foxman, HAO (CN), Carly Zeng
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cora-cn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cora-cn/)*

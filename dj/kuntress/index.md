@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
+kuntress is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
 
 kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside ALTÉGO, ARCHANGEL (US) and Amarji King. Next up: Kingdom Nightclub, Austin on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ kuntress is a club and ghetto tech artist based in United States of America, tra
 
 ALTÉGO, ARCHANGEL (US), Amarji King
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

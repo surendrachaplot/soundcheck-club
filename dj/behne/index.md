@@ -1,18 +1,18 @@
 # Behne
 
-Behne is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
+Behne is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Toronto on Sat, 15 Aug 2026.
 
-Behne is a techno and trance artist tracked on soundcheck, with 7 sets logged across Aberdeen and Toronto. Often billed alongside Choirboi, Mitchell Watson and Sasha Kalra. Next up: Standard Time, Toronto on Fri 14 Aug.
+Behne is a techno and trance artist tracked on soundcheck, with 7 sets logged across Aberdeen and Toronto. Often billed alongside Choirboi, Mitchell Watson and Sasha Kalra. Next up: TBA, Toronto on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Standard Time | Toronto |
 | Sat, 15 Aug 2026 | TBA | Toronto |
 
 ## Recently played
 
+- Standard Time, Toronto — Fri, 14 Aug 2026
 - Rhythm, Toronto — Sat, 16 May 2026
 - Lee's Palace, Toronto — Sat, 15 Nov 2025
 - TBA - Toronto, Toronto — Fri, 22 Aug 2025
@@ -23,4 +23,4 @@ Behne is a techno and trance artist tracked on soundcheck, with 7 sets logged ac
 
 Choirboi, Mitchell Watson, Sasha Kalra
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/behne/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/behne/)*

@@ -1,6 +1,6 @@
 # Panzer
 
-Panzer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
+Panzer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
 
 Panzer is a techno and industrial artist based in Italy, tracked on soundcheck, with 25 sets logged across Lyon, Nantes and Paris. Often billed alongside Domenico Crisci, Electric Rescue and Somniac One. Next up: Mia Mao, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Panzer is a techno and industrial artist based in Italy, tracked on soundcheck, 
 
 Domenico Crisci, Electric Rescue, Somniac One
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panzer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panzer/)*

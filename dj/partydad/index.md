@@ -1,6 +1,6 @@
 # Party Dad
 
-Party Dad is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
+Party Dad is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
 
 Party Dad is a disco and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Losangeles, Mexicocity, Newyorkcity and Oslo and 3 more. Often billed alongside Lauren Murada, Finn Jones and Alex McCracken. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Party Dad is a disco and house artist based in United States of America, tracked
 
 Lauren Murada, Finn Jones, Alex McCracken
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partydad/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partydad/)*

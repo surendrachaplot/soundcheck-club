@@ -1,6 +1,6 @@
 # Selector X
 
-Selector X is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Chemist, Boston on Sat, 15 Aug 2026.
+Selector X is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Chemist, Boston on Sat, 15 Aug 2026.
 
 Selector X is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Bangkok, Berlin, Boston and Detroit. Often billed alongside Chris Clement, Chelita and Katya C. Next up: The Chemist, Boston on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Selector X is a house and deep house artist based in United States of America, t
 
 Chris Clement, Chelita, Katya C
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorx/)*

@@ -1,6 +1,6 @@
 # GOkibstarGO
 
-GOkibstarGO is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
+GOkibstarGO is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
 
 GOkibstarGO is a hardcore and club artist based in United States of America, tracked on soundcheck, with 16 sets logged across Nashville and Washingtondc. Often billed alongside Gabberbitch69, Ether Pleaser and Hissyfit. Next up: Sinners and Saints, Washingtondc on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ GOkibstarGO is a hardcore and club artist based in United States of America, tra
 
 Gabberbitch69, Ether Pleaser, Hissyfit
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gokibstargo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gokibstargo/)*

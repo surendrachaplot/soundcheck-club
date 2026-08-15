@@ -1,6 +1,6 @@
 # Bodin
 
-Bodin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
+Bodin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at PRST, Vienna on Sat, 15 Aug 2026.
 
 Bodin is a techno and house artist tracked on soundcheck, with 18 sets logged across Belgrade, Berlin, Frankfurt and Munich and 2 more. Often billed alongside Philipp Fritz, GERKE and Alice (AT). Next up: PRST, Vienna on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bodin is a techno and house artist tracked on soundcheck, with 18 sets logged ac
 
 Philipp Fritz, GERKE, Alice (AT)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*

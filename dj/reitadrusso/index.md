@@ -1,14 +1,14 @@
 # Reita D Russo
 
-Reita D Russo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
+Reita D Russo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Greifswalder Str. 24, 10405 Berlin, Berlin on Sat, 15 Aug 2026.
 
-Reita D Russo is a techno and club artist based in Japan, tracked on soundcheck, with 34 sets logged across Berlin, Geneva and London. Often billed alongside ALIASLOH, CatMint and Marintsi. Next up: TBA - Secret Bunker , Berlin on Sat 15 Aug.
+Reita D Russo is a techno and club artist based in Japan, tracked on soundcheck, with 34 sets logged across Berlin, Geneva and London. Often billed alongside ALIASLOH, CatMint and Marintsi. Next up: TBA - Greifswalder Str. 24, 10405 Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - Secret Bunker  | Berlin |
+| Sat, 15 Aug 2026 | TBA - Greifswalder Str. 24, 10405 Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Reita D Russo is a techno and club artist based in Japan, tracked on soundcheck,
 
 ALIASLOH, CatMint, Marintsi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reitadrusso/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reitadrusso/)*

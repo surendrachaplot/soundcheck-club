@@ -1,6 +1,6 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sun, 16 Aug 2026.
+Lia Plutonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sun, 16 Aug 2026.
 
 Lia Plutonic is a house and techno artist tracked on soundcheck, with 71 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Village au Pied-du-Courant, Montreal on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Lia Plutonic is a house and techno artist tracked on soundcheck, with 71 sets lo
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

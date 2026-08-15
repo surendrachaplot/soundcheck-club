@@ -1,6 +1,6 @@
 # VOLPEVOLPE
 
-VOLPEVOLPE is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+VOLPEVOLPE is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 VOLPEVOLPE is an electro and acid artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Rotterdam and 3 more. Often billed alongside Garçon Taupe, Aroy Dee and Bohm. Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ VOLPEVOLPE is an electro and acid artist tracked on soundcheck, with 21 sets log
 
 Garçon Taupe, Aroy Dee, Bohm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volpevolpe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volpevolpe/)*

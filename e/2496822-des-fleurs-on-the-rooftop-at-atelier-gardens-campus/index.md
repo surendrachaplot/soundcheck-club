@@ -1,6 +1,6 @@
 # des fleurs (on the rooftop) at Atelier Gardens Campus
 
-des fleurs (on the rooftop) at Atelier Gardens Campus on Sat 5 Sept, Berlin. 8 acts on the bill: Fletchy Boy, goldie (2), Hamatsuki and Kamila and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
+des fleurs (on the rooftop) at Atelier Gardens Campus on Sat 5 Sept, Berlin. 9 acts on the bill: Fletchy Boy, goldie (2), Hamatsuki and Kamila and 5 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ des fleurs (on the rooftop) at Atelier Gardens Campus on Sat 5 Sept, Berlin. 8 a
 - goldie (2)
 - Hamatsuki
 - Kamila
+- Kamila Govorčin
 - Kat Davids
 - KINTEL
 - Mu dB

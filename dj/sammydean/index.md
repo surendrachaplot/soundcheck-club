@@ -1,6 +1,6 @@
 # Sammy Dean
 
-Sammy Dean is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Makossa, London on Thu, 17 Sept 2026.
+Sammy Dean is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Makossa, London on Thu, 17 Sept 2026.
 
 Sammy Dean is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Ibiza, London, Malta and Manchester. Often billed alongside JOHNJAYDEE, She is Spinderella and Alex Liveris. Next up: Club Makossa, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Sammy Dean is a house and deep house artist based in United Kingdom, tracked on 
 
 JOHNJAYDEE, She is Spinderella, Alex Liveris
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydean/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydean/)*

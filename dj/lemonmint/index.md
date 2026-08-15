@@ -1,6 +1,6 @@
 # Lemon & Mint
 
-Lemon & Mint is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
+Lemon & Mint is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
 
 Lemon & Mint are a jungle and drum & bass duo based in Mexico, tracked on soundcheck, with 3 sets logged across Brussels and Lisbon. Often billed alongside CHUBBZ, Cannonbar and Coco Bryce. Next up: Veleiro Principe Perfeito, Lisbon on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Lemon & Mint are a jungle and drum & bass duo based in Mexico, tracked on soundc
 
 CHUBBZ, Cannonbar, Coco Bryce
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonmint/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonmint/)*

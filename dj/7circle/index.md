@@ -1,6 +1,6 @@
 # 7CIRCLE
 
-7CIRCLE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
+7CIRCLE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
 
 7CIRCLE is a techno and industrial artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Don Woezik, Inverse Element and BLACK ANTHEM RESTORE. Next up: Ministerium Club, Lisbon on Sat 15 Aug.
 
@@ -26,4 +26,4 @@
 
 Don Woezik, Inverse Element, BLACK ANTHEM RESTORE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*

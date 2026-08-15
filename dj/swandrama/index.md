@@ -1,6 +1,6 @@
 # Swan Drama
 
-Swan Drama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Podlasie Club, Chicago on Thu, 20 Aug 2026.
+Swan Drama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Podlasie Club, Chicago on Thu, 20 Aug 2026.
 
 Swan Drama is a techno and house artist based in Russia, tracked on soundcheck, with 17 sets logged across Chicago and Newyorkcity. Often billed alongside Vesolo, Glamour Cadaver and Mina Mills. Next up: Podlasie Club, Chicago on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Swan Drama is a techno and house artist based in Russia, tracked on soundcheck, 
 
 Vesolo, Glamour Cadaver, Mina Mills
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swandrama/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swandrama/)*

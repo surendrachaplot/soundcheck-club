@@ -1,6 +1,6 @@
 # AKKI (DE)
 
-AKKI (DE) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+AKKI (DE) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 AKKI (DE) is a techno and psytrance artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside Alfred Heinrichs, Klanglos and A.N.I.. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ AKKI (DE) is a techno and psytrance artist tracked on soundcheck, with 30 sets l
 
 Alfred Heinrichs, Klanglos, A.N.I.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*

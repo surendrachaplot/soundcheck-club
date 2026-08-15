@@ -1,6 +1,6 @@
 # Medalla
 
-Medalla is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hang Dai Chinese, Dublin on Sat, 15 Aug 2026.
+Medalla is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hang Dai Chinese, Dublin on Sat, 15 Aug 2026.
 
 Medalla is a house and deep house artist tracked on soundcheck, with 8 sets logged across Belfast and Dublin. Often billed alongside Dicko, Michal C and Cailín. Next up: Hang Dai Chinese, Dublin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Medalla is a house and deep house artist tracked on soundcheck, with 8 sets logg
 
 Dicko, Michal C, Cailín
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medalla/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medalla/)*

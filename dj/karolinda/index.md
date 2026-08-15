@@ -1,6 +1,6 @@
 # KAROLINDA
 
-KAROLINDA is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+KAROLINDA is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 KAROLINDA is an experimental and bass artist based in Poland, tracked on soundcheck, with 33 sets logged across Berlin, Krakow and Warsaw. Often billed alongside androgienia, dj neurospicy and DiV4. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KAROLINDA is an experimental and bass artist based in Poland, tracked on soundch
 
 androgienia, dj neurospicy, DiV4
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinda/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinda/)*

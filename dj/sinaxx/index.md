@@ -1,6 +1,6 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
+Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
 
 Sina XX is a techno and house artist based in France, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: La Station - Gare des Mines, Paris on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 
 Nesa Azadikhah, Egna, A.mo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*

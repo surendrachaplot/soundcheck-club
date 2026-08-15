@@ -1,6 +1,6 @@
 # Oscar Nñ
 
-Oscar Nñ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
+Oscar Nñ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
 
 Oscar Nñ is a club and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Berlin, Leipzig, Losangeles and Mexicocity and 3 more. Often billed alongside Adam R, Riobamba and Sterling Juan Diaz. Next up: Little Island, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Oscar Nñ is a club and techno artist based in United States of America, tracked
 
 Adam R, Riobamba, Sterling Juan Diaz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*

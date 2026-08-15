@@ -1,6 +1,6 @@
 # Chafik Bali
 
-Chafik Bali is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at OverDraught, Manchester on Sat, 15 Aug 2026.
+Chafik Bali is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OverDraught, Manchester on Sat, 15 Aug 2026.
 
 Chafik Bali is a house and electro artist based in Tunisia, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside Judas Du, Jess Rose and Nick Charles. Next up: OverDraught, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Chafik Bali is a house and electro artist based in Tunisia, tracked on soundchec
 
 Judas Du, Jess Rose, Nick Charles
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafikbali/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafikbali/)*

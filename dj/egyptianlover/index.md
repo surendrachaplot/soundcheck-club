@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at House of Yes, New York City on Sat, 15 Aug 2026.
+Egyptian Lover is a Electro and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at House of Yes, New York City on Sat, 15 Aug 2026.
 
 Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Godfather, Binh and FREAKENSTEIN. Next up: House of Yes, Newyorkcity on Sat 15 Aug.
 
@@ -34,4 +34,4 @@ Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 set
 
 DJ Godfather, Binh, FREAKENSTEIN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

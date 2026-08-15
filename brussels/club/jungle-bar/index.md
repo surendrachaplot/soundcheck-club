@@ -1,6 +1,6 @@
 # Jungle Bar
 
-Jungle Bar is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Hardpulsion" on Fri, 14 Aug 2026.
+Jungle Bar is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hardpulsion" on Fri, 14 Aug 2026.
 
 Jungle Bar is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Billy Boy, Dizo and Serō. Browse upcoming dates, start times and who's playing. Brussel, 1000, Steenstraat 52.
 
@@ -17,4 +17,4 @@ Jungle Bar is a music venue in Brussels listed on soundcheck. 4 upcoming nights,
 
 Brussel, 1000, Steenstraat 52, Brussels
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*

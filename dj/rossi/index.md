@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Brooklyn Storehouse, Newyorkcity on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

@@ -1,14 +1,15 @@
 # dj.zamocno
 
-dj.zamocno is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
+dj.zamocno is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
 
-dj.zamocno is a techno and bass artist based in Poland, tracked on soundcheck, with 67 sets logged across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: TBA - Bar Schodki, Warsaw on Fri 21 Aug.
+dj.zamocno is a techno and bass artist based in Poland, tracked on soundcheck, with 68 sets logged across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: TBA - Bar Schodki, Warsaw on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TBA - Bar Schodki | Warsaw |
+| Fri, 4 Sept 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ dj.zamocno is a techno and bass artist based in Poland, tracked on soundcheck, w
 
 Abrew, toutestmagnifique, DOMEL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*

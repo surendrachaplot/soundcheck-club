@@ -1,6 +1,6 @@
 # Kiki
 
-Kiki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
+Kiki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
 
 Kiki is a house and techno artist tracked on soundcheck, with 111 sets logged across Aberdeen, Athens, Berlin and Brussels and 13 more. Often billed alongside Gyusco, Riskii (2) and Youngseok. Next up: Festival Povaleč, Prague on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Kiki is a house and techno artist tracked on soundcheck, with 111 sets logged ac
 
 Gyusco, Riskii (2), Youngseok
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*

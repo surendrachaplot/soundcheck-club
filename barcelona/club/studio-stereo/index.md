@@ -1,14 +1,13 @@
 # Studio Stereo
 
-Studio Stereo is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Studio Stereo pres. Grave x Toilette Series (until 4am)" on Fri, 14 Aug 2026.
+Studio Stereo is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Studio Stereo pres. Cupula x 24Seven (until 4am)" on Sat, 15 Aug 2026.
 
-Studio Stereo is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including A. CASANOVA, Adria (ES), Alessio Panasiti and ALOT and 2 more. Browse upcoming dates, start times and who's playing. 08007.
+Studio Stereo is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including A. CASANOVA, Adria (ES), Alessio Panasiti and ALOT and 2 more. Browse upcoming dates, start times and who's playing. 08007.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Studio Stereo pres. Grave x Toilette Series (until 4am) | Angel Sani, Diego Sarria, Lisandro Mustapic |
 | Sat, 15 Aug 2026 | Studio Stereo pres. Cupula x 24Seven (until 4am) | Adria (ES), Diesco, Pau Rosés, Vince Void |
 | Thu, 20 Aug 2026 | Studio Stereo pres. BRIDGE 48 showcase | Dave Rose |
 | Fri, 21 Aug 2026 | Studio Stereo x Watermelon pres. DoubtingThomas (live) (until 4am) | DoubtingThomas, Nathabes, Triad (Es) |
@@ -18,9 +17,10 @@ Studio Stereo is a music venue in Barcelona listed on soundcheck. 20 upcoming ni
 | Sat, 29 Aug 2026 | Studio Stereo pres. Perros Disqueria showcase (until 4am) | Conor Brophy, Max TA, Perro Jimbo |
 | Thu, 3 Sept 2026 | Studio Stereo TBA |  |
 | Fri, 4 Sept 2026 | Studio Stereo TBA | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
+| Sat, 5 Sept 2026 | Studio Stereo pres. Jabba Records showcase | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
 
 ## Address
 
 08007, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*

@@ -1,6 +1,6 @@
 # icanteachyou
 
-icanteachyou is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Almanac, Barcelona on Sat, 22 Aug 2026.
+icanteachyou is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Almanac, Barcelona on Sat, 22 Aug 2026.
 
 icanteachyou is a tech house and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Madrid. Often billed alongside Cucut, Denoir and Foie Gras. Next up: Almanac, Barcelona on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ icanteachyou is a tech house and house artist based in Spain, tracked on soundch
 
 Cucut, Denoir, Foie Gras
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icanteachyou/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icanteachyou/)*

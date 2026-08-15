@@ -1,6 +1,6 @@
 # Alejandro Franco
 
-Alejandro Franco is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Mariano Escobedo 494, Mexico City on Fri, 11 Sept 2026.
+Alejandro Franco is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mariano Escobedo 494, Mexico City on Fri, 11 Sept 2026.
 
 Alejandro Franco is a techno and acid artist based in Mexico, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside Kevin Matto, Luis Flores and DAX J. Next up: Mariano Escobedo 494, Mexicocity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Alejandro Franco is a techno and acid artist based in Mexico, tracked on soundch
 
 Kevin Matto, Luis Flores, DAX J
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrofranco/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrofranco/)*

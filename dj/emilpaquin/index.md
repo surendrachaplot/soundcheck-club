@@ -1,6 +1,6 @@
 # Emil Paquin
 
-Emil Paquin is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
+Emil Paquin is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
 
 Emil Paquin is a house and bass artist tracked on soundcheck, with 35 sets logged across Montreal. Often billed alongside somebody3lse, CMD and Laurence Nadeau. Next up: Barbossa, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Emil Paquin is a house and bass artist tracked on soundcheck, with 35 sets logge
 
 somebody3lse, CMD, Laurence Nadeau
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*

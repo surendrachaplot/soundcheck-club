@@ -1,6 +1,6 @@
 # Sebus
 
-Sebus is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
+Sebus is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
 
 Sebus is a techno and electro artist tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Larzo, Benjamin Grimm and CHICHO. Next up: Club Frau Holle, Hamburg on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Sebus is a techno and electro artist tracked on soundcheck, with 3 sets logged a
 
 Larzo, Benjamin Grimm, CHICHO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebus/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebus/)*

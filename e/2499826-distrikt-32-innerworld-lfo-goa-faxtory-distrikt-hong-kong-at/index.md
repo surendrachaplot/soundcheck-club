@@ -1,6 +1,6 @@
 # Distrikt 32: Innerworld (LFO, Goa) + Faxtory (Distrikt, Hong Kong) at 宀 Club
 
-Distrikt 32: Innerworld (LFO, Goa) + Faxtory (Distrikt, Hong Kong) at 宀 Club on Fri 21 Aug, Hongkong. 2 acts on the bill: Faxtory and Innerworld. Trance and Techno. Preview the line-up and save it on soundcheck.
+Distrikt 32: Innerworld (LFO, Goa) + Faxtory (Distrikt, Hong Kong) at 宀 Club on Fri 21 Aug, Hongkong. 2 acts on the bill: Faxtory and Innerworld. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Blackout
 
-Blackout is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Rainbow Venues, Birmingham on Sat, 15 Aug 2026.
+Blackout is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Rainbow Venues, Birmingham on Sat, 15 Aug 2026.
 
 Blackout is a house and jungle artist based in Israel, tracked on soundcheck, with 8 sets logged across Birmingham, Lisbon, London and Tbilisi and 1 more. Often billed alongside Ben UFO, Black Sun Empire and Adam Beyer. Next up: The Rainbow Venues, Birmingham on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Blackout is a house and jungle artist based in Israel, tracked on soundcheck, wi
 
 Ben UFO, Black Sun Empire, Adam Beyer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackout/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackout/)*

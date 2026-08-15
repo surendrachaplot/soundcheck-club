@@ -1,6 +1,6 @@
 # Lazykid
 
-Lazykid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
+Lazykid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
 
 Lazykid is a techno and electro artist tracked on soundcheck, with 92 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside Rad.Lez, SILSAN and Shabiki. Next up: Bahnwärter Thiel, Munich on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Lazykid is a techno and electro artist tracked on soundcheck, with 92 sets logge
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich — Fri, 14 Aug 2026
 - Rote Sonne, Munich — Wed, 15 Jul 2026
 - Birgit, Berlin — Fri, 10 Jul 2026
 - Lieberscholli, Munich — Fri, 19 Jun 2026
@@ -19,10 +20,9 @@ Lazykid is a techno and electro artist tracked on soundcheck, with 92 sets logge
 - Rote Sonne, Munich — Wed, 6 May 2026
 - Bahnwärter Thiel, Munich — Sat, 2 May 2026
 - Lieberscholli, Munich — Fri, 1 May 2026
-- DNA Club, Munich — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Rad.Lez, SILSAN, Shabiki
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazykid/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazykid/)*

@@ -1,6 +1,6 @@
 # Kinetic
 
-Kinetic is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Green Works, Bristol on Sat, 15 Aug 2026.
+Kinetic is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Green Works, Bristol on Sat, 15 Aug 2026.
 
 Kinetic is a techno and hardcore artist tracked on soundcheck, with 16 sets logged across Barcelona, Bristol, Porto and Sydney and 1 more. Often billed alongside Optimo (Espacio), Astin and CCL. Next up: Green Works, Bristol on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kinetic is a techno and hardcore artist tracked on soundcheck, with 16 sets logg
 
 Optimo (Espacio), Astin, CCL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic/)*

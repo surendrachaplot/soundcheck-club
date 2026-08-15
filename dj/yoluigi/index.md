@@ -1,6 +1,6 @@
 # yoluigi
 
-yoluigi is a Club and Ballroom artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
+yoluigi is a Club and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
 
 yoluigi is a club and ballroom artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside friedplatano, ARCHANGEL (US) and DJ Clone. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ yoluigi is a club and ballroom artist tracked on soundcheck, with 5 sets logged 
 
 friedplatano, ARCHANGEL (US), DJ Clone
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoluigi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoluigi/)*

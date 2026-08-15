@@ -1,6 +1,6 @@
 # kaizoku
 
-kaizoku is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
+kaizoku is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
 
 kaizoku is a techno and electronica artist based in Italy, tracked on soundcheck, with 18 sets logged across Amsterdam, Ibiza, Naples and Porto. Often billed alongside DE12, Zama and Ilgattoelavolpe. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ kaizoku is a techno and electronica artist based in Italy, tracked on soundcheck
 
 DE12, Zama, Ilgattoelavolpe
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizoku/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizoku/)*

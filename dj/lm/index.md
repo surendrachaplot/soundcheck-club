@@ -1,6 +1,6 @@
 # LM
 
-LM is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 4 Sept 2026.
+LM is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 4 Sept 2026.
 
 LM is a house and electro artist tracked on soundcheck, with 138 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: Sunseabar Beach Club, Barcelona on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ LM is a house and electro artist tracked on soundcheck, with 138 sets logged acr
 
 Brieela, ildec, Baffa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

@@ -1,6 +1,6 @@
 # Jaggy
 
-Jaggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Switch Bar, Barcelona on Sun, 16 Aug 2026.
+Jaggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Switch Bar, Barcelona on Sun, 16 Aug 2026.
 
 Jaggy is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Chicago and Detroit. Often billed alongside patrick conahan, Josh Aaron and frail808. Next up: Switch Bar, Barcelona on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Jaggy is a house and techno artist based in United States of America, tracked on
 
 patrick conahan, Josh Aaron, frail808
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*

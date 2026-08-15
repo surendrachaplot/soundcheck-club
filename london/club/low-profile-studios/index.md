@@ -1,14 +1,13 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Break Even Two Year Anniversary Party with Sunni D, Meena & Tane and Break Even Residents" on Fri, 14 Aug 2026.
+Low Profile Studios is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RE-SEQUENCE: RES-01" on Fri, 28 Aug 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Belin, Essentia (Duplicity), Eudoxie and Henry Sears and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Belin, Essentia (Duplicity), Eudoxie and Jive Talk and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Break Even Two Year Anniversary Party with Sunni D, Meena & Tane and Break Even Residents | Henry Sears, Sunni D |
 | Fri, 28 Aug 2026 | RE-SEQUENCE: RES-01 | Belin, Essentia (Duplicity), Eudoxie, Lezcano |
 | Fri, 4 Sept 2026 | Boys Boys Boys live at Club Tropicana |  |
 | Sat, 5 Sept 2026 | Das Booty |  |
@@ -23,4 +22,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

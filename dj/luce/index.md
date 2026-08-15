@@ -1,6 +1,6 @@
 # Luce
 
-Luce is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sigma, Ibiza on Fri, 14 Aug 2026.
+Luce is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sigma, Ibiza on Fri, 14 Aug 2026.
 
 Luce is a techno and acid artist tracked on soundcheck, with 4 sets logged across Ibiza, Manchester, Marseille and Montreal. Often billed alongside FXCKBOUT, Fanchu and Ilex. Next up: Sigma, Ibiza on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Luce is a techno and acid artist tracked on soundcheck, with 4 sets logged acros
 
 ## Recently played
 
+- Sigma, Ibiza — Fri, 14 Aug 2026
 - Le Chapiteau - Marseille, Marseille — Fri, 28 Mar 2025
 - Nouvel Établissement, Montreal — Fri, 3 Nov 2023
 - The Old Abbey Taphouse, Manchester — Sat, 10 Jun 2023
@@ -20,4 +21,4 @@ Luce is a techno and acid artist tracked on soundcheck, with 4 sets logged acros
 
 FXCKBOUT, Fanchu, Ilex
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luce/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luce/)*

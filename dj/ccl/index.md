@@ -1,6 +1,6 @@
 # CCL
 
-CCL is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+CCL is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 CCL is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Auckland, Austin and Barcelona and 56 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -20,6 +20,7 @@ CCL is a techno and house artist tracked on soundcheck, with 203 sets logged acr
 
 ## Recently played
 
+- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Garage Noord, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -27,10 +28,9 @@ CCL is a techno and house artist tracked on soundcheck, with 203 sets logged acr
 - OXI, Berlin — Fri, 24 Jul 2026
 - 90mil, Berlin — Thu, 23 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 
 ## Shares bills with
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

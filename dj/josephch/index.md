@@ -1,6 +1,6 @@
 # JOSEPH (CH)
 
-JOSEPH (CH) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
+JOSEPH (CH) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
 
 JOSEPH (CH) is a disco and house artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Hamburg and London and 3 more. Often billed alongside :DARREN, Alex Dallas and Bondi (DE). Next up: Landesmuseum, Zurich on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ JOSEPH (CH) is a disco and house artist based in Switzerland, tracked on soundch
 
 :DARREN, Alex Dallas, Bondi (DE)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephch/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephch/)*

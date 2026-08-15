@@ -1,14 +1,13 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 22 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Deorro + BOLO The DJ w/ Juos, VLE AMAU" on Fri, 14 Aug 2026.
+Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Virtual Riot x Blanke w/ Whales, NEOTEK" on Fri, 21 Aug 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 22 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Deorro + BOLO The DJ w/ Juos, VLE AMAU | Deorro |
 | Fri, 21 Aug 2026 | Virtual Riot x Blanke w/ Whales, NEOTEK | Whales |
 | Fri, 28 Aug 2026 | Mutate presents: ALYSSA JOLEE Cera Khin Trym Yosuf | Cera Khin, Trym |
 | Sat, 29 Aug 2026 | William Black with Hoang, RYN | Hoang |
@@ -18,9 +17,10 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 22 upcoming nig
 | Sat, 5 Sept 2026 | Chris Stussy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] | Chris Stussy, Jeny Michelle, Locklead |
 | Sun, 6 Sept 2026 | Odd Mob w/ DEVAULT, Airrica, Ghost [LDW] | Airrica |
 | Fri, 11 Sept 2026 | Bad Boombox, BIIANCO, David Löhlein, Mischluft [360°] | BIIANCO, Bad Boombox, David Löhlein, Mischluft |
+| Sat, 12 Sept 2026 | ISOxo w/ Control Freak, ALEKO [NIGHT 1] | Control Freak |
 
 ## Address
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

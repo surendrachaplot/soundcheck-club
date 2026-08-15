@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 15 Aug 2026.
+tamanaramen is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 15 Aug 2026.
 
 tamanaramen is an experimental and electronica artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Hongkong and London and 4 more. Often billed alongside HIMAWARI, MoEPiKA and Torus. Next up: Circus Tokyo, Tokyo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ tamanaramen is an experimental and electronica artist based in Japan, tracked on
 
 HIMAWARI, MoEPiKA, Torus
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

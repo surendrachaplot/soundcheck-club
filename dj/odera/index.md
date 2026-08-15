@@ -1,6 +1,6 @@
 # ODERA
 
-ODERA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+ODERA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 ODERA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside GUREY, dr. Mazza and fAt-lÏP. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ODERA is a techno and house artist based in United Kingdom, tracked on soundchec
 
 GUREY, dr. Mazza, fAt-lÏP
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odera/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odera/)*

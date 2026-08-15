@@ -1,6 +1,6 @@
 # Mayan (PT)
 
-Mayan (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
+Mayan (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
 
 Mayan (PT) is a house and techno artist based in Portugal, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Sara Wual, Guy from 1990 and Mafalda Mais. Next up: Kømplex Lisbon, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mayan (PT) is a house and techno artist based in Portugal, tracked on soundcheck
 
 Sara Wual, Guy from 1990, Mafalda Mais
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayan-pt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayan-pt/)*

@@ -1,6 +1,6 @@
 # TBA - East Vancouver
 
-TBA - East Vancouver is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "BMG (Detroit), DJ Hockey, Nancy Dru, untorn | Substance x The Orchestrator" on Sat, 5 Sept 2026.
+TBA - East Vancouver is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "BMG (Detroit), DJ Hockey, Nancy Dru, untorn | Substance x The Orchestrator" on Sat, 5 Sept 2026.
 
 TBA - East Vancouver is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including BMG, DJ Hockey, Nancy Dru and untorn. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - East Vancouver is a music venue in Vancouver listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | BMG (Detroit), DJ Hockey, Nancy Dru, untorn / Substance x The Orchestrator | BMG, DJ Hockey, Nancy Dru, untorn |
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-east-vancouver/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-east-vancouver/)*

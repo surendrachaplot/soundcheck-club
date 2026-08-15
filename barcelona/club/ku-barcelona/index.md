@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo" on Sun, 16 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo" on Sun, 16 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Bora Uzer, CJ Jeff, Corcuera and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -22,4 +22,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

@@ -1,6 +1,6 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Mischluft is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -22,6 +22,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets log
 
 ## Recently played
 
+- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Lofi, Amsterdam — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
@@ -29,10 +30,9 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 185 sets log
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Westhafen, Leipzig — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
-- MS RheinMagie, Cologne — Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

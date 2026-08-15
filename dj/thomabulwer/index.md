@@ -1,6 +1,6 @@
 # Thoma Bulwer
 
-Thoma Bulwer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+Thoma Bulwer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
 
 Thoma Bulwer is a house and minimal artist based in Netherlands, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Connor Male, Desuba and Nail. Next up: M.O.T, London on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Thoma Bulwer is a house and minimal artist based in Netherlands, tracked on soun
 
 ## Recently played
 
+- M.O.T, London — Fri, 14 Aug 2026
 - TBA - UNIT 21 COMMERCIAL ROAD N18 1UB, London — Sat, 6 Jun 2026
 - TBA -  Palace Vinyl, London — Sat, 23 May 2026
 - Starlane Pizza Bar, London — Thu, 2 Apr 2026
@@ -19,10 +20,9 @@ Thoma Bulwer is a house and minimal artist based in Netherlands, tracked on soun
 - Starlane Pizza Bar, London — Sun, 22 Feb 2026
 - All My Friends, London — Thu, 19 Feb 2026
 - Starlane Pizza Bar, London — Thu, 27 Nov 2025
-- The Lion and Lamb, London — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Connor Male, Desuba, Nail
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*

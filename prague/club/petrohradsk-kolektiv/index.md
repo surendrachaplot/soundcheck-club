@@ -1,6 +1,6 @@
 # Petrohradská Kolektiv
 
-Petrohradská Kolektiv is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Petro Live: Eizola" on Thu, 27 Aug 2026.
+Petrohradská Kolektiv is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Petro Live: Eizola" on Thu, 27 Aug 2026.
 
 Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia.
 
@@ -15,4 +15,4 @@ Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 2 upcomi
 
 Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia, Prague
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*

@@ -1,6 +1,6 @@
 # Hofmann (BE)
 
-Hofmann (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Hofmann (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Hofmann (BE) is a techno and trance artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Berlin and Brussels. Often billed alongside Yela, Daan Donk and Ada Kaleh. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hofmann (BE) is a techno and trance artist tracked on soundcheck, with 12 sets l
 
 Yela, Daan Donk, Ada Kaleh
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmannbe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmannbe/)*

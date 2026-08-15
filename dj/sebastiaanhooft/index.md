@@ -1,14 +1,13 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Fri, 14 Aug 2026.
+Sebastiaan Hooft is a Minimal and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Fri, 28 Aug 2026.
 
-Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Tomorrowland Store Ibiza, Ibiza on Fri 14 Aug.
+Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Tomorrowland Store Ibiza, Ibiza on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tomorrowland Store Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Tomorrowland Store Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Paradiso | Amsterdam |
 | Fri, 11 Sept 2026 | Tomorrowland Store Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracke
 
 ## Recently played
 
+- Tomorrowland Store Ibiza, Ibiza — Fri, 14 Aug 2026
 - Tomorrowland Store Ibiza, Ibiza — Fri, 31 Jul 2026
 - Tomorrowland Store Ibiza, Ibiza — Fri, 17 Jul 2026
 - Tomorrowland Store Ibiza, Ibiza — Fri, 3 Jul 2026
@@ -25,10 +25,9 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracke
 - Tomorrowland Store Ibiza, Ibiza — Fri, 19 Jun 2026
 - TBA, Ibiza — Tue, 26 May 2026
 - Tomorrowland Store Ibiza, Ibiza — Fri, 22 May 2026
-- Tomorrowland Store Ibiza, Ibiza — Fri, 8 May 2026
 
 ## Shares bills with
 
 AFAR, Bi Män, Dana Ruh
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*

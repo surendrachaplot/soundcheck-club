@@ -1,6 +1,6 @@
 # Zepha
 
-Zepha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NWHR, Montreal on Fri, 21 Aug 2026.
+Zepha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at NWHR, Montreal on Fri, 21 Aug 2026.
 
 Zepha is a house and minimal artist tracked on soundcheck, with 32 sets logged across Mexicocity, Montreal and Paris. Often billed alongside Rig Thrall, Claire and GOLDEN PINEAPPLE. Next up: NWHR, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zepha is a house and minimal artist tracked on soundcheck, with 32 sets logged a
 
 Rig Thrall, Claire, GOLDEN PINEAPPLE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*

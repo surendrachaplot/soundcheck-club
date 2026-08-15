@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Coloursfest 25th Anniversary - Official After Party" on Sat, 15 Aug 2026.
+The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Coloursfest 25th Anniversary - Official After Party" on Sat, 15 Aug 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Carbon Based Lifeforms, Chaos Clan, Charlie B and Dougal and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

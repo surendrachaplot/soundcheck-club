@@ -1,14 +1,13 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "U.22 x WAVMAP: BLUE LYRA, Mafille B2B Shfoosja, Trae Joly" on Fri, 14 Aug 2026.
+Unité.22 is a music venue in Marseille with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "U.22 x COLLECTIF AÏE: RIVA, Hunkut, NICOL" on Fri, 21 Aug 2026.
 
-Unité.22 is a music venue in Marseille listed on soundcheck. 6 upcoming nights, with line-ups including Bernadette, Erna (FR), Hunkut and Mafille and 2 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
+Unité.22 is a music venue in Marseille listed on soundcheck. 5 upcoming nights, with line-ups including Bernadette, Erna (FR), Hunkut and Ma Sha and 2 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | U.22 x WAVMAP: BLUE LYRA, Mafille B2B Shfoosja, Trae Joly | Mafille, Shfoosja, Trae Joly |
 | Fri, 21 Aug 2026 | U.22 x COLLECTIF AÏE: RIVA, Hunkut, NICOL | Hunkut |
 | Sat, 22 Aug 2026 | Unité.22: Ma Sha, Bernadette, RAVL B2b Keuj | Bernadette, Ma Sha, RAVL |
 | Fri, 28 Aug 2026 | Unité.22: Mrd, Mile Dietrich | MRD (NO) |
@@ -19,4 +18,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 6 upcoming nights,
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

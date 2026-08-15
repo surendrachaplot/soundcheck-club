@@ -1,6 +1,6 @@
 # Daniele Papini
 
-Daniele Papini is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
+Daniele Papini is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
 
 Daniele Papini is an electronic artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Topper, Triptease and Clovis. Next up: Club der Visionaere, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Daniele Papini is an electronic artist tracked on soundcheck, with 23 sets logge
 
 Topper, Triptease, Clovis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepapini/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepapini/)*

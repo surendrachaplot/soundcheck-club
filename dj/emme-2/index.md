@@ -1,6 +1,6 @@
 # emme (2)
 
-emme (2) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+emme (2) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
 
 emme (2) is a techno and experimental artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside ARMIX, Arieshandmodel and Binks (CA). Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ emme (2) is a techno and experimental artist tracked on soundcheck, with 9 sets 
 
 ARMIX, Arieshandmodel, Binks (CA)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*

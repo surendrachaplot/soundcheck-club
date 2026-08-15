@@ -1,6 +1,6 @@
 # maríajosé
 
-maríajosé is a Reggaeton and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun, 6 Sept 2026.
+maríajosé is a Reggaeton and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun, 6 Sept 2026.
 
 maríajosé is a reggaeton and afro house artist tracked on soundcheck, with 10 sets logged across Berlin and Hamburg. Often billed alongside Maque, Trigger T and lionza. Next up: TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ maríajosé is a reggaeton and afro house artist tracked on soundcheck, with 10 
 
 Maque, Trigger T, lionza
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*

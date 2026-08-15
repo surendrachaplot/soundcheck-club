@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "THE WEEKEND STARTS HERE: Delvyn (fka Porter), Sonuit, Fenster, Jauson" on Fri, 14 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "THE WEEKEND STARTS HERE: Delvyn (fka Porter), Sonuit, Fenster, Jauson" on Fri, 14 Aug 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Javier Anxiety, Agua con gas, Ahni and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

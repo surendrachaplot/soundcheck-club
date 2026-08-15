@@ -1,6 +1,6 @@
 # Foro HDX
 
-Foro HDX is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "GÉNESIS " on Sat, 29 Aug 2026.
+Foro HDX is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GÉNESIS " on Sat, 29 Aug 2026.
 
 Foro HDX is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including GRAViiTY, PRANAYAMA and YisusOnAcid. Browse upcoming dates, start times and who's playing. Av. Cuitláhuac 3368, Jardín Azpeitia, Azcapotzalco, 02530 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Foro HDX is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights,
 
 Av. Cuitláhuac 3368, Jardín Azpeitia, Azcapotzalco, 02530 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-hdx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-hdx/)*

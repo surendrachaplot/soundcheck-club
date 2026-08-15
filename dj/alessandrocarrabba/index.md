@@ -1,6 +1,6 @@
 # Alessandro Carrabba
 
-Alessandro Carrabba is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Alessandro Carrabba is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Alessandro Carrabba is a house and balearic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Seattle. Often billed alongside ACHAMA, Ash Lauryn and BAD JUUJU. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Alessandro Carrabba is a house and balearic artist based in United States of Ame
 
 ACHAMA, Ash Lauryn, BAD JUUJU
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocarrabba/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocarrabba/)*

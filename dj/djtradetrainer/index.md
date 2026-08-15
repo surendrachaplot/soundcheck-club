@@ -1,6 +1,6 @@
 # DJ Trade Trainer
 
-DJ Trade Trainer is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 22 Aug 2026.
+DJ Trade Trainer is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 22 Aug 2026.
 
 DJ Trade Trainer is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside MADAKYA, Organza and Camilla Rae. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ Trade Trainer is an ambient and experimental artist based in United States of
 
 MADAKYA, Organza, Camilla Rae
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*

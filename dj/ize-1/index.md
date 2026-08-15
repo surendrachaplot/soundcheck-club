@@ -1,8 +1,8 @@
 # Ize (1)
 
-Ize (1) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
+Ize (1) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
 
-Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside Alfaz, Tenzin and ARLYSS. Next up: Starlane Pizza Bar, London on Fri 21 Aug.
+Ize (1) is a house and garage artist tracked on soundcheck, with 27 sets logged across Brighton and London. Often billed alongside Alfaz, Tenzin and ARLYSS. Next up: Starlane Pizza Bar, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged 
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Starlane Pizza Bar | London |
 | Sat, 5 Sept 2026 | Starlane Pizza Bar | London |
+| Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged 
 
 Alfaz, Tenzin, ARLYSS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*

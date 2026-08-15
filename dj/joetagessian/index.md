@@ -1,6 +1,6 @@
 # Joe Tagessian
 
-Joe Tagessian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
+Joe Tagessian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
 
 Joe Tagessian is a house and techno artist tracked on soundcheck, with 92 sets logged across Boston, Chicago, Detroit and Miami and 5 more. Often billed alongside Bruno Limma, Ohm Hourani and Caruan. Next up: ESC, Montreal on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Joe Tagessian is a house and techno artist tracked on soundcheck, with 92 sets l
 
 Bruno Limma, Ohm Hourani, Caruan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*

@@ -1,14 +1,13 @@
 # The Left Bank
 
-The Left Bank is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Malcolm McKenzie" on Fri, 14 Aug 2026.
+The Left Bank is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Vinyl Surgery" on Sat, 15 Aug 2026.
 
-The Left Bank is a music venue in Glasgow listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 33-35 Gibson St, Glasgow G12 8NU.
+The Left Bank is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 33-35 Gibson St, Glasgow G12 8NU.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Malcolm McKenzie |  |
 | Sat, 15 Aug 2026 | Vinyl Surgery |  |
 | Fri, 21 Aug 2026 | Mark Robb |  |
 | Sun, 30 Aug 2026 | Sunday Spectrum |  |
@@ -17,4 +16,4 @@ The Left Bank is a music venue in Glasgow listed on soundcheck. 4 upcoming night
 
 33-35 Gibson St, Glasgow G12 8NU, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*

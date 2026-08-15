@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "RSO: WALL2WALL CLUB FESTIVAL 2026" on Thu, 13 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RSO: WALL2WALL CLUB FESTIVAL 2026" on Thu, 13 Aug 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -8,7 +8,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO: WALL2WALL CLUB FESTIVAL 2026 | Agonis, BLANKA, Belaria, Blame Anthony, Byetone, Carmen Electro, DJ Fuckoff, Dangermami, Daria Kolosova, Disguised, ENNIO, Ellen Allien, Elli Acula, Emily Jeanne, Erol Alkan, Etapp Kyle, Faerber, Franz Scala, Frederic., Garçon, Glaskin, Grace Dahl, HAMY, Jennifer Loveless, Jesse G, Josey Rebelle, Kim She, Laure Croft, MATRIX3K, Mathys Lenne, Meat, Monolake, N.R.M, NORA (BR), OLHA, Paty Vapor, Perfo, Polygonia, Red Rooms, Sept, Setaoc Mass, Space Drum Meditation, Spekki Webu, Thabo, Thalo Santana, Xiorro, Yanamaste, Young Draco, hawi, machìna, slin, stranger (NL), ÜBERKIKZ |
+| Thu, 13 Aug 2026 | RSO: WALL2WALL CLUB FESTIVAL 2026 | Agonis, BLANKA, Belaria, Blame Anthony, Blasha & Allatt, Byetone, Carmen Electro, DJ Fuckoff, Dangermami, Daria Kolosova, Disguised, ENNIO, Ellen Allien, Elli Acula, Emily Jeanne, Erol Alkan, Etapp Kyle, Faerber, Franz Scala, Frederic., Garçon, Glaskin, Grace Dahl, HAMY, Jennifer Loveless, Jesse G, Josey Rebelle, Kim She, Laure Croft, MATRIX3K, Mathys Lenne, Meat, Monolake, N.R.M, NORA (BR), OLHA, Paty Vapor, Perfo, Polygonia, Red Rooms, Sept, Setaoc Mass, Space Drum Meditation, Spekki Webu, Thabo, Thalo Santana, Xiorro, Yanamaste, Young Draco, hawi, machìna, slin, stranger (NL), ÜBERKIKZ |
 | Fri, 21 Aug 2026 | SEMANTICA w/ Svreca, Mary Yuzovskaya, CONCEPTUAL, Ruman live | CONCEPTUAL, Mary Yuzovskaya, Ruman, Svreca |
 | Sat, 22 Aug 2026 | La Mala Noche | Ananda (BR), Bella Sarris, Berenice, Byron Yeates, Cari Lekebusch, D.Dan, DJ TOOL, Disk Cartel, Hyperaktivist, JASSS, Jen Cardini, Kikelomo, Meilgaarden, OMOLOKO, Rosati, S-candalo, THC, Yazzus, ābnamā |
 | Sun, 23 Aug 2026 | Jauchomatic - Open Air (since 1995) By The People For The People (Baergarten) | DJ Jauche |
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

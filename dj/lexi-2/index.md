@@ -1,6 +1,6 @@
 # LEXI (2)
 
-LEXI (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
+LEXI (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
 
 LEXI (2) is a house and techno artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne. Often billed alongside au4r33y, Amber Ferraro and Jmcee. Next up: Solace, Melbourne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ LEXI (2) is a house and techno artist based in Australia, tracked on soundcheck,
 
 au4r33y, Amber Ferraro, Jmcee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*

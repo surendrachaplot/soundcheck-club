@@ -1,6 +1,6 @@
 # Lily C-D
 
-Lily C-D is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Magazine Open–Air, London on Sat, 15 Aug 2026.
+Lily C-D is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Magazine Open–Air, London on Sat, 15 Aug 2026.
 
 Lily C-D is a house and tech house artist tracked on soundcheck, with 23 sets logged across Birmingham, Ibiza, London and Manchester. Often billed alongside Alexandria, Joe Roche and Josh Baker. Next up: Magazine Open–Air, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lily C-D is a house and tech house artist tracked on soundcheck, with 23 sets lo
 
 Alexandria, Joe Roche, Josh Baker
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*

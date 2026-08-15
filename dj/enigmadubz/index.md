@@ -1,6 +1,6 @@
 # ENiGMA Dubz
 
-ENiGMA Dubz is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - 215 West, Detroit on Sat, 5 Sept 2026.
+ENiGMA Dubz is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 215 West, Detroit on Sat, 5 Sept 2026.
 
 ENiGMA Dubz is a dubstep and drum & bass artist tracked on soundcheck, with 20 sets logged across Auckland, Birmingham, Bristol and Denver and 11 more. Often billed alongside Caspa, DASEPLATE and Deep Tempo. Next up: TBA - 215 West, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ENiGMA Dubz is a dubstep and drum & bass artist tracked on soundcheck, with 20 s
 
 Caspa, DASEPLATE, Deep Tempo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*

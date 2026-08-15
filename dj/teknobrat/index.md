@@ -1,6 +1,6 @@
 # Teknobrat
 
-Teknobrat is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
+Teknobrat is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
 
 Teknobrat is a techno and acid artist based in Canada, tracked on soundcheck, with 11 sets logged across Cologne, Dublin, Liverpool and London and 2 more. Often billed alongside Claus Bachor, Adam Davis and Analog Rage. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Teknobrat is a techno and acid artist based in Canada, tracked on soundcheck, wi
 
 Claus Bachor, Adam Davis, Analog Rage
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*

@@ -1,6 +1,6 @@
 # don rosco
 
-don rosco is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
+don rosco is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
 
 don rosco is a jungle and drum & bass artist based in Ireland, tracked on soundcheck, with 7 sets logged across Dublin. Often billed alongside Kate Butler, RP Boo and 4am Kru. Next up: Wigwam, Dublin on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ don rosco is a jungle and drum & bass artist based in Ireland, tracked on soundc
 
 Kate Butler, RP Boo, 4am Kru
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donrosco/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donrosco/)*

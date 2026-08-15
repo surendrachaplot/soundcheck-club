@@ -1,6 +1,6 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Ellie Stokes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Ellie Stokes is a house and techno artist tracked on soundcheck, with 90 sets logged across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ellie Stokes is a house and techno artist tracked on soundcheck, with 90 sets lo
 
 Chez de Milo, Dave Harvey, Ivan Smagghe
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*

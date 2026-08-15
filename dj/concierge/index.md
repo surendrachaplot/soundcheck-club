@@ -1,6 +1,6 @@
 # Concierge
 
-Concierge is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
+Concierge is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
 
 Concierge is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Ghent, Leeds, Liverpool and London and 2 more. Often billed alongside riccard.o0, Model Citizen and Manlio. Next up: Kazimier Stockroom, Liverpool on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Concierge is a techno and electro artist based in United Kingdom, tracked on sou
 
 riccard.o0, Model Citizen, Manlio
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concierge/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concierge/)*

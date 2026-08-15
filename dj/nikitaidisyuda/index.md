@@ -1,6 +1,6 @@
 # NIKITAIDISYUDA
 
-NIKITAIDISYUDA is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
+NIKITAIDISYUDA is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
 
 NIKITAIDISYUDA is a club and dancehall artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Berlin, London and Warsaw. Often billed alongside DANIEL OKARO, FLASH (UK) and emi (UA). Next up: B-SIDE, Warsaw on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ NIKITAIDISYUDA is a club and dancehall artist based in Ukraine, tracked on sound
 
 DANIEL OKARO, FLASH (UK), emi (UA)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaidisyuda/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaidisyuda/)*

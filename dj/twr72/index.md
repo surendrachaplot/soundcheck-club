@@ -1,6 +1,6 @@
 # TWR72
 
-TWR72 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at John Doe, Amsterdam on Sat, 15 Aug 2026.
+TWR72 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at John Doe, Amsterdam on Sat, 15 Aug 2026.
 
 TWR72 is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, London and Madrid and 7 more. Often billed alongside AMORAL, Flits and Lea Occhi. Next up: John Doe, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TWR72 is a techno and house artist tracked on soundcheck, with 27 sets logged ac
 
 AMORAL, Flits, Lea Occhi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twr72/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twr72/)*

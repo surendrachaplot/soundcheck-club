@@ -1,6 +1,6 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Boomerang Beach, The Hague on Sun, 16 Aug 2026.
+Vagabund is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Boomerang Beach, The Hague on Sun, 16 Aug 2026.
 
 Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Basel and Berlin and 10 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Boomerang Beach, Thehague on Sun 16 Aug.
 
@@ -31,4 +31,4 @@ Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logge
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

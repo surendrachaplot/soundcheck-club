@@ -1,6 +1,6 @@
 # Dany Bany
 
-Dany Bany is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Espaço Usine, Sao Paulo on Sat, 15 Aug 2026.
+Dany Bany is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Espaço Usine, Sao Paulo on Sat, 15 Aug 2026.
 
 Dany Bany is a house and techno artist tracked on soundcheck, with 31 sets logged across London and Saopaulo. Often billed alongside ANNYL, Gezender and L_cio. Next up: Espaço Usine, Saopaulo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dany Bany is a house and techno artist tracked on soundcheck, with 31 sets logge
 
 ANNYL, Gezender, L_cio
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danybany/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danybany/)*

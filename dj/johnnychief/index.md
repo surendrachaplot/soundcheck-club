@@ -1,6 +1,6 @@
 # Johnny Chief
 
-Johnny Chief is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Loo Loo, Mexico City on Thu, 20 Aug 2026.
+Johnny Chief is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Loo Loo, Mexico City on Thu, 20 Aug 2026.
 
 Johnny Chief is a progressive house and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Fideles, Woo York and Animal Trainer. Next up: Loo Loo, Mexicocity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Johnny Chief is a progressive house and techno artist based in Mexico, tracked o
 
 Fideles, Woo York, Animal Trainer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnychief/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnychief/)*

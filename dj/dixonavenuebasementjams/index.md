@@ -1,6 +1,6 @@
 # Dixon Avenue Basement Jams
 
-Dixon Avenue Basement Jams is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
+Dixon Avenue Basement Jams is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
 
 Dixon Avenue Basement Jams is an acid and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Edinburgh, Glasgow and London. Often billed alongside Babyccino, Big Miz and Craigie Knowes. Next up: The Berkeley Suite, Glasgow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dixon Avenue Basement Jams is an acid and house artist based in United Kingdom, 
 
 Babyccino, Big Miz, Craigie Knowes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dixonavenuebasementjams/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dixonavenuebasementjams/)*

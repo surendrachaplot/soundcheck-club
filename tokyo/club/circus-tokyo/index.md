@@ -1,14 +1,13 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ASAP" on Fri, 14 Aug 2026.
+Circus Tokyo is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Cyst Asia Tour in Tokyo" on Sat, 15 Aug 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including ACHIRI, BABii, Baby J (2) and Iglooghost and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including ACHIRI, BABii, Baby J (2) and Iglooghost and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | ASAP | MYUMA, MoEPiKA, YUUGOH |
 | Sat, 15 Aug 2026 | Cyst Asia Tour in Tokyo | BABii, Iglooghost, Licaxxx, tamanaramen |
 | Fri, 21 Aug 2026 | DIGOOD | ACHIRI |
 | Sat, 22 Aug 2026 | 【SOLD OUT】Baby J in Tokyo | Baby J (2), Mando, RYUU, nasthug |
@@ -22,4 +21,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, 
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

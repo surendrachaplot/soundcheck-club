@@ -1,6 +1,6 @@
 # cravings320
 
-cravings320 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+cravings320 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 cravings320 is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside ADHASS, DJ 069 and NIKUSH. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ cravings320 is a techno and trance artist based in Germany, tracked on soundchec
 
 ADHASS, DJ 069, NIKUSH
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*

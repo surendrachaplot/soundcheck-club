@@ -1,6 +1,6 @@
 # Masahide Ohno
 
-Masahide Ohno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 7 Sept 2026.
+Masahide Ohno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 7 Sept 2026.
 
 Masahide Ohno is a house and techno artist tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Taichi Nagayama, MIZUKI OGISU and lostbaggage. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Masahide Ohno is a house and techno artist tracked on soundcheck, with 21 sets l
 
 Taichi Nagayama, MIZUKI OGISU, lostbaggage
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masahideohno/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masahideohno/)*

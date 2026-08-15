@@ -1,6 +1,6 @@
 # Jordan Fields
 
-Jordan Fields is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldt Park, Chicago on Sat, 15 Aug 2026.
+Jordan Fields is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Humboldt Park, Chicago on Sat, 15 Aug 2026.
 
 Jordan Fields is a house and deep house artist tracked on soundcheck, with 8 sets logged across Chicago and Newyorkcity. Often billed alongside Ilana Ariella, Quicktastic and iamBrandon. Next up: Humboldt Park, Chicago on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Jordan Fields is a house and deep house artist tracked on soundcheck, with 8 set
 
 Ilana Ariella, Quicktastic, iamBrandon
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanfields/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanfields/)*

@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
+Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
 
 Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
 
@@ -34,4 +34,4 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets lo
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

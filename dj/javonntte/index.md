@@ -1,6 +1,6 @@
 # Javonntte
 
-Javonntte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
+Javonntte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
 
 Javonntte is a house and techno artist tracked on soundcheck, with 34 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Isaac Prieto, Donna Gardner and something blue. Next up: Cannons, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Javonntte is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 Isaac Prieto, Donna Gardner, something blue
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javonntte/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javonntte/)*

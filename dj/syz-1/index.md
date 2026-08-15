@@ -1,6 +1,6 @@
 # Syz
 
-Syz is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
+Syz is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
 
 Syz is a techno and bass artist tracked on soundcheck, with 45 sets logged across Berlin, Bristol, Copenhagen and Edinburgh and 6 more. Often billed alongside Allecto, Dj wiggles and Dyslecta. Next up: radial, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Syz is a techno and bass artist tracked on soundcheck, with 45 sets logged acros
 
 Allecto, Dj wiggles, Dyslecta
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*

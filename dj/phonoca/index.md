@@ -1,6 +1,6 @@
 # Phono (CA)
 
-Phono (CA) is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
+Phono (CA) is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
 
 Phono (CA) is a funk / soul and disco artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Damacadam, Dimitry and Lara Bee. Next up: Vino Disco, Montreal on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Phono (CA) is a funk / soul and disco artist based in Canada, tracked on soundch
 
 Damacadam, Dimitry, Lara Bee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonoca/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonoca/)*

@@ -1,6 +1,6 @@
 # The Social Saturday: The Discotheque at Wet Deck at W Hotel
 
-The Social Saturday: The Discotheque at Wet Deck at W Hotel on Sat 15 Aug, Kualalumpur. 3 acts on the bill: Da Funkie Junkie, JonnyVicious and Victor G (MY). House and Disco. Preview the line-up and save it on soundcheck.
+The Social Saturday: The Discotheque at Wet Deck at W Hotel on Sat 15 Aug, Kualalumpur. 4 acts on the bill: Cosmic Girl (2), Da Funkie Junkie, JonnyVicious and Victor G (MY). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Social Saturday: The Discotheque at Wet Deck at W Hotel on Sat 15 Aug, Kuala
 
 ## Line-up
 
+- Cosmic Girl (2)
 - Da Funkie Junkie
 - JonnyVicious
 - Victor G (MY)

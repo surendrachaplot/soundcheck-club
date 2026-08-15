@@ -1,6 +1,6 @@
 # Dance Committee
 
-Dance Committee is a Downtempo and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tapestry, Toronto on Sun, 16 Aug 2026.
+Dance Committee is a Downtempo and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tapestry, Toronto on Sun, 16 Aug 2026.
 
 Dance Committee is a downtempo and progressive house artist based in Colombia, tracked on soundcheck, with 2 sets logged across Toronto. Next up: Tapestry, Toronto on Sun 16 Aug.
 
@@ -11,4 +11,4 @@ Dance Committee is a downtempo and progressive house artist based in Colombia, t
 | Sun, 16 Aug 2026 | Tapestry | Toronto |
 | Sun, 16 Aug 2026 | Tapestry | Toronto |
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancecommittee/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancecommittee/)*

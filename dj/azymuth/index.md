@@ -1,6 +1,6 @@
 # Azymuth
 
-Azymuth is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Azymuth is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
 
 Azymuth is a jazz and funk / soul artist based in Brazil, tracked on soundcheck, with 7 sets logged across Antwerp, Bali, Berlin and Glasgow and 2 more. Often billed alongside Chee Shimizu, DITA (ID) and Kuniyuki. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Azymuth is a jazz and funk / soul artist based in Brazil, tracked on soundcheck,
 
 Chee Shimizu, DITA (ID), Kuniyuki
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azymuth/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azymuth/)*

@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
+Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
 
 Sampol is an electro and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Sunseabar Beach Club, Barcelona on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Sampol is an electro and house artist tracked on soundcheck, with 111 sets logge
 
 Alex (ES), Hitch, MARYO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

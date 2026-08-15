@@ -1,6 +1,6 @@
 # Butterhands
 
-Butterhands is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Butterhands is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Butterhands is a house and techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 1 more. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Butterhands is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Thabo, Blame Anthony, Thalo Santana
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*

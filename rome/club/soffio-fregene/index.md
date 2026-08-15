@@ -1,6 +1,6 @@
 # Soffio Fregene
 
-Soffio Fregene is a music venue in Rome with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FRITTO FM TAKEOVER: JS, ETTA, SIMONE B2B NIC & OLENO" on Sat, 15 Aug 2026.
+Soffio Fregene is a music venue in Rome with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FRITTO FM TAKEOVER: JS, ETTA, SIMONE B2B NIC & OLENO" on Sat, 15 Aug 2026.
 
 Soffio Fregene is a music venue in Rome listed on soundcheck. 5 upcoming nights, with line-ups including Brasi, Freddye, JS and Luce Clandestina and 2 more. Browse upcoming dates, start times and who's playing. Via Silvi Marina 1, 00054 Fregene.
 
@@ -18,4 +18,4 @@ Soffio Fregene is a music venue in Rome listed on soundcheck. 5 upcoming nights,
 
 Via Silvi Marina 1, 00054 Fregene, Rome
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soffio-fregene/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soffio-fregene/)*

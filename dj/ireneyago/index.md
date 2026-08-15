@@ -1,8 +1,8 @@
 # Irene Yago
 
-Irene Yago is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sala El Sol, Madrid on Fri, 14 Aug 2026.
+Irene Yago is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala El Sol, Madrid on Fri, 14 Aug 2026.
 
-Irene Yago is a progressive house and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside DJ Marcos Boricua, ALEX FÖX and Benja Molina. Next up: Sala El Sol, Madrid on Fri 14 Aug.
+Irene Yago is a progressive house and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside DJ Marcos Boricua, Nahuel Farina and ALEX FÖX. Next up: Sala El Sol, Madrid on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Irene Yago is a progressive house and house artist based in Spain, tracked on so
 
 ## Recently played
 
+- Sala El Sol, Madrid — Fri, 14 Aug 2026
 - Barco Sound House, Madrid — Fri, 17 Jul 2026
 - EL SÓTANO, Madrid — Fri, 5 Jun 2026
 - TBA - Juanita 2.0, Madrid — Fri, 22 May 2026
@@ -22,6 +23,6 @@ Irene Yago is a progressive house and house artist based in Spain, tracked on so
 
 ## Shares bills with
 
-DJ Marcos Boricua, ALEX FÖX, Benja Molina
+DJ Marcos Boricua, Nahuel Farina, ALEX FÖX
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ireneyago/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ireneyago/)*

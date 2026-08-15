@@ -1,6 +1,6 @@
 # Drowncast
 
-Drowncast is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, New York City on Sat, 15 Aug 2026.
+Drowncast is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, New York City on Sat, 15 Aug 2026.
 
 Drowncast is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 17 sets logged across Denver, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside BC Rydah, Motorist and SOBA. Next up: TBA, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Drowncast is a jungle and drum & bass artist based in United States of America, 
 
 BC Rydah, Motorist, SOBA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drowncast/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drowncast/)*

@@ -1,6 +1,6 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "YOTO x ENCHANTED" on Fri, 14 Aug 2026.
+YOTO is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "YOTO x ENCHANTED" on Fri, 14 Aug 2026.
 
 YOTO is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including DJ Boas, DJ Da WIZARD, Dj Sivlé and J.TU and 2 more. Browse upcoming dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ YOTO is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with l
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

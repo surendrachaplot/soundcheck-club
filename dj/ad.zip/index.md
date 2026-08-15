@@ -1,6 +1,6 @@
 # ad.zip
 
-ad.zip is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Place, Tbilisi on Sat, 15 Aug 2026.
+ad.zip is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Place, Tbilisi on Sat, 15 Aug 2026.
 
 ad.zip is a club and bass artist tracked on soundcheck, with 6 sets logged across Bangkok and Tbilisi. Often billed alongside dandarplaya, HU550 and angelic waves. Next up: TBA - Secret Place, Tbilisi on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ ad.zip is a club and bass artist tracked on soundcheck, with 6 sets logged acros
 
 dandarplaya, HU550, angelic waves
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ad.zip/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ad.zip/)*

@@ -1,6 +1,6 @@
 # M!KA
 
-M!KA is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
+M!KA is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
 
 M!KA is a trance and house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside elfie, Tiefklang and symbion. Next up: Humboldthain Club, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ M!KA is a trance and house artist tracked on soundcheck, with 5 sets logged acro
 
 ## Recently played
 
+- Humboldthain Club, Berlin — Fri, 14 Aug 2026
 - Humboldthain Club, Berlin — Sat, 6 Dec 2025
 - Humboldthain Club, Berlin — Wed, 12 Nov 2025
 - Humboldthain Club, Berlin — Sat, 9 Aug 2025
@@ -21,4 +22,4 @@ M!KA is a trance and house artist tracked on soundcheck, with 5 sets logged acro
 
 elfie, Tiefklang, symbion
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m!ka/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m!ka/)*

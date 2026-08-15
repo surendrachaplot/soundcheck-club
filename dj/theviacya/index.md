@@ -1,6 +1,6 @@
 # Theviacya
 
-Theviacya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
+Theviacya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
 
 Theviacya is a techno and house artist based in Poland, tracked on soundcheck, with 17 sets logged across Krakow and Warsaw. Often billed alongside ADHARDER, Claude Degas and Francesca. Next up: Baseny Kora, Warsaw on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Theviacya is a techno and house artist based in Poland, tracked on soundcheck, w
 
 ADHARDER, Claude Degas, Francesca
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*

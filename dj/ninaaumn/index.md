@@ -1,6 +1,6 @@
 # ninaaumn
 
-ninaaumn is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Left Bank, Tbilisi on Fri, 21 Aug 2026.
+ninaaumn is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Left Bank, Tbilisi on Fri, 21 Aug 2026.
 
 ninaaumn is an ebm and electro artist based in Georgia, tracked on soundcheck, with 3 sets logged across Rotterdam and Tbilisi. Often billed alongside Betonkust, Dali (GE) and Gio Frangishvili. Next up: Left Bank, Tbilisi on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ ninaaumn is an ebm and electro artist based in Georgia, tracked on soundcheck, w
 
 Betonkust, Dali (GE), Gio Frangishvili
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaaumn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaaumn/)*

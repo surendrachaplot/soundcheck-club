@@ -1,8 +1,8 @@
 # Tara Erizo
 
-Tara Erizo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 27 Sept 2026.
+Tara Erizo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 27 Sept 2026.
 
-Tara Erizo is a techno and industrial artist tracked on soundcheck, with 31 sets logged across London, Munich, Newyorkcity and Sheffield. Often billed alongside Vivra Verra, HORN-E and ALFALFA (UK). Next up: Vittoria Wharf Studio, London on Sun 27 Sept.
+Tara Erizo is a techno and industrial artist tracked on soundcheck, with 31 sets logged across London, Munich, Newyorkcity and Sheffield. Often billed alongside Vivra Verra, HORN-E and LIL DARK ONE. Next up: Vittoria Wharf Studio, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Tara Erizo is a techno and industrial artist tracked on soundcheck, with 31 sets
 
 ## Shares bills with
 
-Vivra Verra, HORN-E, ALFALFA (UK)
+Vivra Verra, HORN-E, LIL DARK ONE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taraerizo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taraerizo/)*

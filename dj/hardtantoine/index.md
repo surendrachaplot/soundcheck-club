@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
+Hardt Antoine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
 
 Hardt Antoine is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Hidden, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Hardt Antoine is a house and techno artist tracked on soundcheck, with 72 sets l
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

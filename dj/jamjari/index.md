@@ -1,6 +1,6 @@
 # Jamjari
 
-Jamjari is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Chunhee, Seoul on Sat, 15 Aug 2026.
+Jamjari is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chunhee, Seoul on Sat, 15 Aug 2026.
 
 Jamjari is a psytrance and techno artist based in South Korea, tracked on soundcheck, with 76 sets logged across Seoul. Often billed alongside PSYTONIC, ILLUMI and Gamma Knife. Next up: Chunhee, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jamjari is a psytrance and techno artist based in South Korea, tracked on soundc
 
 PSYTONIC, ILLUMI, Gamma Knife
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamjari/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamjari/)*

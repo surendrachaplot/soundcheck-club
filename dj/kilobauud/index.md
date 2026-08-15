@@ -1,6 +1,6 @@
 # KILOBAUUD
 
-KILOBAUUD is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
+KILOBAUUD is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
 
 KILOBAUUD is a house and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin, Chicago, Houston and Newyorkcity. Often billed alongside Ben Hixon, D1ME and Stonie Blue. Next up: The Historic Eldorado Ballroom, Houston on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ KILOBAUUD is a house and club artist based in United States of America, tracked 
 
 Ben Hixon, D1ME, Stonie Blue
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilobauud/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilobauud/)*

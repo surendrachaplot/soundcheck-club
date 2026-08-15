@@ -1,6 +1,6 @@
 # Eden Aurelius
 
-Eden Aurelius is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
+Eden Aurelius is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
 
 Eden Aurelius is a techno and ambient artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Lisbon, Newyorkcity and Philadelphia. Often billed alongside Marihito, 320 (1) and Kfeelz. Next up: Pageant, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 
 Marihito, 320 (1), Kfeelz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*

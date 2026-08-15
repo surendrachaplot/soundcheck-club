@@ -1,6 +1,6 @@
 # Acrocanthosaurus
 
-Acrocanthosaurus is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Live Haus, Tokyo on Sat, 15 Aug 2026.
+Acrocanthosaurus is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Live Haus, Tokyo on Sat, 15 Aug 2026.
 
 Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 64 sets logged across Tokyo. Often billed alongside Aki Dolanikov, Genick and SPRAYBOX. Next up: Live Haus, Tokyo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 64 sets l
 
 Aki Dolanikov, Genick, SPRAYBOX
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*

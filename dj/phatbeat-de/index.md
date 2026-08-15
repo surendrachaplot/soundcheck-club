@@ -1,6 +1,6 @@
 # Phat Beat
 
-Phat Beat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Warschauerstr. Skatepark, Berlin on Sat, 15 Aug 2026.
+Phat Beat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Warschauerstr. Skatepark, Berlin on Sat, 15 Aug 2026.
 
 Phat Beat is a house and disco artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside Hit Beat, JaFrei Loufoque and Max Nytram. Next up: Warschauerstr. Skatepark, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Phat Beat is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Hit Beat, JaFrei Loufoque, Max Nytram
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*

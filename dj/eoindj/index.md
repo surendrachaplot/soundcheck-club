@@ -1,6 +1,6 @@
 # Eoin DJ
 
-Eoin DJ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
+Eoin DJ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
 
 Eoin DJ is a house and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Angel D'lite, Byron Yeates and Carly Zeng. Next up: Else, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eoin DJ is a house and trance artist tracked on soundcheck, with 87 sets logged 
 
 Angel D'lite, Byron Yeates, Carly Zeng
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*

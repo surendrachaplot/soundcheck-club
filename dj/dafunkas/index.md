@@ -1,6 +1,6 @@
 # Dafunkas
 
-Dafunkas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
+Dafunkas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
 
 Dafunkas is a house and tech house artist based in Spain, tracked on soundcheck, with 56 sets logged across Barcelona and Buenosaires. Often billed alongside Carlo Rewer, Alice Youngling and Dadame. Next up: La Paloma, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dafunkas is a house and tech house artist based in Spain, tracked on soundcheck,
 
 Carlo Rewer, Alice Youngling, Dadame
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafunkas/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafunkas/)*

@@ -1,18 +1,17 @@
 # The Sonder Bar
 
-The Sonder Bar is a music venue in Portland with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Discoteca Cua" on Fri, 14 Aug 2026.
+The Sonder Bar is a music venue in Portland with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Dark Yugowave" on Sat, 15 Aug 2026.
 
-The Sonder Bar is a music venue in Portland listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1925 NE 42nd Ave, Portland, OR 97213.
+The Sonder Bar is a music venue in Portland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1925 NE 42nd Ave, Portland, OR 97213.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Discoteca Cua |  |
 | Sat, 15 Aug 2026 | Dark Yugowave |  |
 
 ## Address
 
 1925 NE 42nd Ave, Portland, OR 97213, Portland
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*

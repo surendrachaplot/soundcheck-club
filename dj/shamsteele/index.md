@@ -1,6 +1,6 @@
 # Sham Steele
 
-Sham Steele is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Orange Room, London on Sat, 15 Aug 2026.
+Sham Steele is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Orange Room, London on Sat, 15 Aug 2026.
 
 Sham Steele is a house and dancehall artist tracked on soundcheck, with 38 sets logged across Birmingham, Glasgow, Leeds and London and 2 more. Often billed alongside Adele Tondu, HARUNA (2) and Reon Vanger. Next up: Orange Room, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sham Steele is a house and dancehall artist tracked on soundcheck, with 38 sets 
 
 Adele Tondu, HARUNA (2), Reon Vanger
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shamsteele/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shamsteele/)*

@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
+Seth Troxler is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
 
 Seth Troxler is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Chloé Caillet. Next up: Old Royal Naval College, London on Sun 16 Aug.
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 302 sets l
 
 DJ Tennis, Sossa, Chloé Caillet
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Human Tree Night, Open air: Lai Raw (live), Deltagram (live), Stefano Aluzzi (dj set)" on Sat, 15 Aug 2026.
+Urban Spree is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Human Tree Night, Open air: Lai Raw (live), Deltagram (live), Stefano Aluzzi (dj set)" on Sat, 15 Aug 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Blush Response, Deltagram, Flor Coto and Furz and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming nights,
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

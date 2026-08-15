@@ -1,14 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Habibi Boom: Silenth Kimo Maral Isaboom B2B James Benjamin" on Fri, 14 Aug 2026.
+Bar Datcha is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Field Note & Esther Côté" on Sat, 15 Aug 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Alina (MTL), Anabasine, Andrea de Tour and Donotstealmyname and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Alina (MTL), Anabasine, Andrea de Tour and Donotstealmyname and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Habibi Boom: Silenth Kimo Maral Isaboom B2B James Benjamin | Isa Boom, James Benjamin, Kimo, Maral |
 | Sat, 15 Aug 2026 | Field Note & Esther Côté | Esther Côté, Field Note |
 | Thu, 20 Aug 2026 | Hey: Albert with Andrea de Tour, DJ Romeo & Tom Adshead | Andrea de Tour |
 | Fri, 21 Aug 2026 | Rave It Like the 90s: Donotstealmyname, Anabasine, Lex Ferenda | Anabasine, Donotstealmyname, Lex Ferenda |
@@ -21,4 +20,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming nights,
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

@@ -1,6 +1,6 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 23 Aug 2026.
+Max Styler is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Max Styler is a house and tech house artist tracked on soundcheck, with 111 sets logged across Austin, Barcelona, Berlin and Boston and 29 more. Often billed alongside John Summit, Layton Giordani and Eli Brown. Next up: Pacha Ibiza, Ibiza on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Max Styler is a house and tech house artist tracked on soundcheck, with 111 sets
 
 John Summit, Layton Giordani, Eli Brown
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

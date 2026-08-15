@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Soffio Fregene, Rome on Sun, 23 Aug 2026.
+Brasi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Soffio Fregene, Rome on Sun, 23 Aug 2026.
 
 Brasi is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Alexia Glensy and Binh. Next up: Soffio Fregene, Rome on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Brasi is a techno and house artist tracked on soundcheck, with 130 sets logged a
 
 Niff, Alexia Glensy, Binh
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

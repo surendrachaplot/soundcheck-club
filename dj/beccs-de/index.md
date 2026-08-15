@@ -1,6 +1,6 @@
 # beccs
 
-beccs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
+beccs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
 
 beccs is a tech house and techno artist based in Germany, tracked on soundcheck, with 76 sets logged across Berlin, Frankfurt, Hamburg and Leeds and 4 more. Often billed alongside Anton Jonathan, Najeh and Lenard Klein. Next up: Tresor / Globus, Berlin on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ beccs is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 Anton Jonathan, Najeh, Lenard Klein
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*

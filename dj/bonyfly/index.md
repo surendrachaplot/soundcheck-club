@@ -1,6 +1,6 @@
 # Bony Fly
 
-Bony Fly is a Dancehall and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
+Bony Fly is a Dancehall and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
 
 Bony Fly is a dancehall and reggaeton artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Geneva and London and 2 more. Often billed alongside Spice & Curls, Hirma and Lukrø. Next up: La Gravière, Geneva on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bony Fly is a dancehall and reggaeton artist tracked on soundcheck, with 38 sets
 
 Spice & Curls, Hirma, Lukrø
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonyfly/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonyfly/)*

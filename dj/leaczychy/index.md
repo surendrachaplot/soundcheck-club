@@ -1,6 +1,6 @@
 # Lea Czychy
 
-Lea Czychy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
+Lea Czychy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
 
 Lea Czychy is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Moehecan, KANA and Gabs Leyton. Next up: Kater, Berlin on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Lea Czychy is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Kater, Berlin — Fri, 14 Aug 2026
 - OXI, Berlin — Sun, 9 Aug 2026
 - Crack Bellmer, Berlin — Sat, 16 May 2026
 - Kater, Berlin — Sat, 9 May 2026
@@ -20,10 +21,9 @@ Lea Czychy is a house and techno artist based in Germany, tracked on soundcheck,
 - Crack Bellmer, Berlin — Sat, 20 Dec 2025
 - Refuge Worldwide / Niemetzstraße, Berlin — Sat, 15 Nov 2025
 - OXI, Berlin — Sat, 4 Oct 2025
-- Maaya, Berlin — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Moehecan, KANA, Gabs Leyton
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaczychy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaczychy/)*

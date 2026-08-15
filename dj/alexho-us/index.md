@@ -1,6 +1,6 @@
 # Alex Ho (US)
 
-Alex Ho (US) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
+Alex Ho (US) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
 
 Alex Ho (US) is a balearic and house artist tracked on soundcheck, with 7 sets logged across Losangeles and Sandiego. Often billed alongside AIRS, CZ Wang and Chaos In The CBD. Next up: Elysian Park, Losangeles on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Alex Ho (US) is a balearic and house artist tracked on soundcheck, with 7 sets l
 
 AIRS, CZ Wang, Chaos In The CBD
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexho-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexho-us/)*

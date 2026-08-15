@@ -1,6 +1,6 @@
 # Rainier Rodriguez
 
-Rainier Rodriguez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Eighteenth Street Lounge, Washington DC on Sat, 15 Aug 2026.
+Rainier Rodriguez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eighteenth Street Lounge, Washington DC on Sat, 15 Aug 2026.
 
 Rainier Rodriguez is a house and tech house artist tracked on soundcheck, with 21 sets logged across Washingtondc. Often billed alongside Neko Berg, DJ T.E.C. and Mazlow. Next up: Eighteenth Street Lounge, Washingtondc on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rainier Rodriguez is a house and tech house artist tracked on soundcheck, with 2
 
 Neko Berg, DJ T.E.C., Mazlow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainierrodriguez-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainierrodriguez-us/)*

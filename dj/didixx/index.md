@@ -1,6 +1,6 @@
 # DIDIXX
 
-DIDIXX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+DIDIXX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 DIDIXX is a techno and house artist tracked on soundcheck, with 38 sets logged across Barcelona and Ibiza. Often billed alongside KARELBLADE, Rowsi and GIVIO. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ DIDIXX is a techno and house artist tracked on soundcheck, with 38 sets logged a
 
 ## Recently played
 
+- M7 Club, Barcelona — Fri, 14 Aug 2026
 - M7 Club, Barcelona — Fri, 7 Aug 2026
 - M7 Club, Barcelona — Sat, 1 Aug 2026
 - M7 Club, Barcelona — Fri, 24 Jul 2026
@@ -19,10 +20,9 @@ DIDIXX is a techno and house artist tracked on soundcheck, with 38 sets logged a
 - M7 Club, Barcelona — Sat, 11 Jul 2026
 - M7 Club, Barcelona — Sun, 5 Jul 2026
 - M7 Club, Barcelona — Sat, 27 Jun 2026
-- Nitsa Club, Barcelona — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 KARELBLADE, Rowsi, GIVIO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*

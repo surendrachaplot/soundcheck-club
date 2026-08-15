@@ -1,6 +1,6 @@
 # PADERKID
 
-PADERKID is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Süss War Gestern, Berlin on Sat, 15 Aug 2026.
+PADERKID is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Süss War Gestern, Berlin on Sat, 15 Aug 2026.
 
 PADERKID is a house and techno artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: Süss War Gestern, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ PADERKID is a house and techno artist based in Germany, tracked on soundcheck, w
 
 KEN (DE), DJ PayPaul, Chris Bekker
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*

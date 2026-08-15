@@ -1,6 +1,6 @@
 # STL-P
 
-STL-P is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
+STL-P is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
 
 STL-P is a techno and minimal artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, London, Lyon and Paris and 1 more. Often billed alongside Less-O, Elise Massoni and Belaria. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ STL-P is a techno and minimal artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris — Fri, 14 Aug 2026
 - Rex Club, Paris — Fri, 5 Jun 2026
 - Nodd Club, Paris — Sat, 11 Apr 2026
 - La Gare / Le Gore, Paris — Sun, 15 Feb 2026
@@ -20,10 +21,9 @@ STL-P is a techno and minimal artist based in France, tracked on soundcheck, wit
 - Point Ephémère, Paris — Fri, 19 Dec 2025
 - Badaboum, Paris — Sat, 29 Nov 2025
 - Virage, Paris — Sat, 1 Nov 2025
-- Panic Room, Paris — Fri, 17 Oct 2025
 
 ## Shares bills with
 
 Less-O, Elise Massoni, Belaria
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*

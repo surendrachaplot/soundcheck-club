@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "12years of vurt. 1" on Fri, 14 Aug 2026.
+vurt. is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "12years of vurt. 1" on Fri, 14 Aug 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including ANSOL, chukimaandal, D-Leria and Djilogue and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -18,4 +18,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with li
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

@@ -1,6 +1,6 @@
 # Grillac
 
-Grillac is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
+Grillac is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
 
 Grillac is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Dhia, Sam Eyvaz and HMEHDI. Next up: Blue Velvet, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Grillac is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 Dhia, Sam Eyvaz, HMEHDI
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grillac/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grillac/)*

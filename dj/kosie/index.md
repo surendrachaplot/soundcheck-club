@@ -1,6 +1,6 @@
 # KOSIE
 
-KOSIE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
+KOSIE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
 
 KOSIE is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Malwen, Martita and Roy McKilljoy. Next up: Next Door Records Two, London on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ KOSIE is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Malwen, Martita, Roy McKilljoy
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosie/)*

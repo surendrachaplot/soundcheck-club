@@ -1,6 +1,6 @@
 # Ninsa
 
-Ninsa is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 29 Aug 2026.
+Ninsa is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 29 Aug 2026.
 
 Ninsa is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Gabriel Ananda, Miss Melera and Hollt. Next up: Het Sieraad, Amsterdam on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Ninsa is a techno and house artist tracked on soundcheck, with 57 sets logged ac
 
 Gabriel Ananda, Miss Melera, Hollt
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*

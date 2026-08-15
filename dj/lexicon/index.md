@@ -1,6 +1,6 @@
 # Lexicon
 
-Lexicon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at H0L0, New York City on Thu, 20 Aug 2026.
+Lexicon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at H0L0, New York City on Thu, 20 Aug 2026.
 
 Lexicon is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside erika (SF), sfcowboy and /KATA/. Next up: H0L0, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Lexicon is a techno and house artist based in United States of America, tracked 
 
 erika (SF), sfcowboy, /KATA/
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*

@@ -1,6 +1,6 @@
 # Ege Saglam
 
-Ege Saglam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
+Ege Saglam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
 
 Ege Saglam is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Istanbul. Often billed alongside Emirhan Kacar, 2TAL and Adrian Mills. Next up: Yan Gastro, Istanbul on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Ege Saglam is a techno and house artist tracked on soundcheck, with 8 sets logge
 
 Emirhan Kacar, 2TAL, Adrian Mills
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egesaglam/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egesaglam/)*

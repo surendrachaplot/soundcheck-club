@@ -1,6 +1,6 @@
 # Preacher's Daughter
 
-Preacher's Daughter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
+Preacher's Daughter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
 
 Preacher's Daughter is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside LTE (1), ramón.ting and Alex Hell-n. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
 
@@ -14,6 +14,7 @@ Preacher's Daughter is a techno and house artist based in United States of Ameri
 
 ## Recently played
 
+- TBA - Brooklyn Loft Location <3, New York City — Fri, 14 Aug 2026
 - Paragon, New York City — Sat, 20 Jun 2026
 - Bossa Nova Civic Club, New York City — Fri, 5 Jun 2026
 - Paragon, New York City — Thu, 28 May 2026
@@ -21,10 +22,9 @@ Preacher's Daughter is a techno and house artist based in United States of Ameri
 - Newtown Radio, New York City — Fri, 1 May 2026
 - Jade, New York City — Sat, 25 Apr 2026
 - TBA - Bushwick Brooklyn, New York City — Sat, 18 Apr 2026
-- Paragon, New York City — Fri, 6 Mar 2026
 
 ## Shares bills with
 
 LTE (1), ramón.ting, Alex Hell-n
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*

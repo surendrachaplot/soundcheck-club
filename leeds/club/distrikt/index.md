@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth" on Fri, 14 Aug 2026.
+Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Special Delivery presents: Lucas Alexander & Wodda" on Sat, 15 Aug 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including Adam Lance, ad*n, B-HIND and Ben Murphy and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Adam Lance, ad*n, B-HIND and Ben Murphy and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth | Harry McCanna, Kerry Wallace, Mother Earth, Sam Bangura |
 | Sat, 15 Aug 2026 | Special Delivery presents: Lucas Alexander & Wodda | Adam Lance, DJ Bz, Lucas Alexander, Nooney, Wakka, Wodda |
 | Fri, 21 Aug 2026 | Distrikt presents Captain Wallop B2B Truly Madly, Nate S.U & Elijah Something, Lydian | Captain Wallop, Elijah Something, Nate S.U, Truly Madly |
 | Sat, 22 Aug 2026 | Redefy: Lewis Taylor + Mason Talbot | Lewis Taylor, Mason Talbot, Nausy, ad*n |
@@ -23,4 +22,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

@@ -1,6 +1,6 @@
 # Jesta
 
-Jesta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bsmt 254, Toronto on Sat, 15 Aug 2026.
+Jesta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bsmt 254, Toronto on Sat, 15 Aug 2026.
 
 Jesta is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 18 sets logged across Bristol, Denver, London and Toronto. Often billed alongside Gremlinz, Rumbleton and Marcus Visionary. Next up: Bsmt 254, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jesta is a drum & bass and jungle artist based in Canada, tracked on soundcheck,
 
 Gremlinz, Rumbleton, Marcus Visionary
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesta/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesta/)*

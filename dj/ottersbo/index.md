@@ -1,6 +1,6 @@
 # Ottersbo
 
-Ottersbo is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Ottersbo is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Ottersbo is a trance and experimental artist based in Norway, tracked on soundcheck, with 6 sets logged across Oslo. Often billed alongside Anémi, Guild Navigator and Komet99. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Ottersbo is a trance and experimental artist based in Norway, tracked on soundch
 
 Anémi, Guild Navigator, Komet99
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ottersbo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ottersbo/)*

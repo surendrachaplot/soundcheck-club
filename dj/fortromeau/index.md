@@ -1,6 +1,6 @@
 # Fort Romeau
 
-Fort Romeau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+Fort Romeau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
 Fort Romeau is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Berlin and Brisbane and 14 more. Often billed alongside Alinka, Caspa Mono and Inox Traxx. Next up: fabric, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fort Romeau is a house and techno artist based in United Kingdom, tracked on sou
 
 Alinka, Caspa Mono, Inox Traxx
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortromeau/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortromeau/)*

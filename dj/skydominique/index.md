@@ -1,6 +1,6 @@
 # Sky Dominique
 
-Sky Dominique is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bolero, Seoul on Sun, 16 Aug 2026.
+Sky Dominique is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bolero, Seoul on Sun, 16 Aug 2026.
 
 Sky Dominique is a hip-hop and r&b artist based in Philippines, tracked on soundcheck, with 5 sets logged across Paris, Seoul, Singapore and Tokyo. Often billed alongside ARCHANGEL (US), GEE LEE and JACK MARLOW. Next up: Bolero, Seoul on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Sky Dominique is a hip-hop and r&b artist based in Philippines, tracked on sound
 
 ARCHANGEL (US), GEE LEE, JACK MARLOW
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydominique/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydominique/)*

@@ -1,6 +1,6 @@
 # Horsepower Productions
 
-Horsepower Productions is a Dubstep and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Otherside London, London on Fri, 18 Sept 2026.
+Horsepower Productions is a Dubstep and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Otherside London, London on Fri, 18 Sept 2026.
 
 Horsepower Productions is a dubstep and jungle artist tracked on soundcheck, with 21 sets logged across Athens, Berlin, Bristol and Leeds and 4 more. Often billed alongside Benny Ill, SGT Pokes and Carré. Next up: Otherside London, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Horsepower Productions is a dubstep and jungle artist tracked on soundcheck, wit
 
 Benny Ill, SGT Pokes, Carré
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*

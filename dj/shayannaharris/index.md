@@ -1,6 +1,6 @@
 # Shayanna Harris
 
-Shayanna Harris is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Boxpark Croydon, London on Wed, 19 Aug 2026.
+Shayanna Harris is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Boxpark Croydon, London on Wed, 19 Aug 2026.
 
 Shayanna Harris is a funk / soul and r&b artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside Blue Revolutions Collective. Next up: Boxpark Croydon, London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Shayanna Harris is a funk / soul and r&b artist tracked on soundcheck, with 27 s
 
 Blue Revolutions Collective
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shayannaharris/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shayannaharris/)*

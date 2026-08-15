@@ -1,6 +1,6 @@
 # snick
 
-snick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+snick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
 
 snick is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside Snick Johnson, YouSawLaurent and ATST. Next up: M.O.T, London on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ snick is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- M.O.T, London — Fri, 14 Aug 2026
 - M.O.T, London — Fri, 12 Sept 2025
 - TBA - SECRET WAREHOUSE 24H, Berlin — Fri, 27 Jun 2025
 - ÆDEN, Berlin — Thu, 24 Apr 2025
@@ -22,4 +23,4 @@ snick is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Snick Johnson, YouSawLaurent, ATST
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snick/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snick/)*

@@ -1,6 +1,6 @@
 # Beach Neukölln
 
-Beach Neukölln is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SOL HOUSE BERLIN: LAUNCH PARTY" on Sat, 22 Aug 2026.
+Beach Neukölln is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SOL HOUSE BERLIN: LAUNCH PARTY" on Sat, 22 Aug 2026.
 
 Beach Neukölln is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Treptower Str. 39, 12059 Berlin.
 
@@ -15,4 +15,4 @@ Beach Neukölln is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Treptower Str. 39, 12059 Berlin, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beach-neuk-lln/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beach-neuk-lln/)*

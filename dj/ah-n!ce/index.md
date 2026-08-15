@@ -1,6 +1,6 @@
 # AH-N!CE
 
-AH-N!CE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
+AH-N!CE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
 
 AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, with 30 sets logged across Hamburg. Often billed alongside Frank Rayo, Eva Nyx and TZO (1). Next up: Beat Boutique, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Frank Rayo, Eva Nyx, TZO (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*

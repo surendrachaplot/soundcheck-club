@@ -1,6 +1,6 @@
 # IZA (2)
 
-IZA (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
+IZA (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
 
 IZA (2) is a progressive house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Brussels, Leipzig and Vienna. Often billed alongside Agem, Andi Beat and Boudi Boudin. Next up: Void Club, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ IZA (2) is a progressive house and techno artist based in Germany, tracked on so
 
 ## Recently played
 
+- Void Club, Berlin — Fri, 14 Aug 2026
 - Lavallée, Brussels — Fri, 10 Jul 2026
 - ://about blank, Berlin — Sat, 10 May 2025
 - FLUCC, Vienna — Fri, 28 Mar 2025
@@ -21,4 +22,4 @@ IZA (2) is a progressive house and techno artist based in Germany, tracked on so
 
 Agem, Andi Beat, Boudi Boudin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*

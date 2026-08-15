@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 21 Aug 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 21 Aug 2026.
 
 Archie Hamilton is a house and tech house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Jolene Downtown Miami, Miami on Fri 21 Aug.
 
@@ -35,4 +35,4 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 203
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

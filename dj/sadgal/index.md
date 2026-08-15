@@ -1,6 +1,6 @@
 # sadgal
 
-sadgal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
+sadgal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
 
 sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with 107 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexicocity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with
 
 Celice Monnette, Dj Fucci, Enya Botello
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*

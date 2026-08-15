@@ -1,6 +1,6 @@
 # HOESEPHINE
 
-HOESEPHINE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+HOESEPHINE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 HOESEPHINE is a techno and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Vall Du Son, DJ Henk and Maruwa. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ HOESEPHINE is a techno and house artist based in Netherlands, tracked on soundch
 
 Vall Du Son, DJ Henk, Maruwa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*

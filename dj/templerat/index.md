@@ -1,6 +1,6 @@
 # Temple Rat
 
-Temple Rat is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Temple Rat is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
 
 Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Alicia Carrera and Richii. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 
 David Fogarty, Alicia Carrera, Richii
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*

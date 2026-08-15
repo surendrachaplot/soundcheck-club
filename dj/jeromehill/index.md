@@ -1,14 +1,15 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
+Jerome Hill is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
 
-Jerome Hill is a techno and acid artist tracked on soundcheck, with 118 sets logged across Bangkok, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Colour Factory, London on Sun 16 Aug.
+Jerome Hill is a techno and acid artist tracked on soundcheck, with 119 sets logged across Bangkok, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Colour Factory, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Colour Factory | London |
+| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 | Sat, 3 Oct 2026 | M.O.T | London |
 | Fri, 30 Oct 2026 | Lost Horizon | Bristol |
 
@@ -27,4 +28,4 @@ Jerome Hill is a techno and acid artist tracked on soundcheck, with 118 sets log
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

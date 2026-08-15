@@ -1,6 +1,6 @@
 # Don Esquivel
 
-Don Esquivel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Balagan, Mexico City on Thu, 20 Aug 2026.
+Don Esquivel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Balagan, Mexico City on Thu, 20 Aug 2026.
 
 Don Esquivel is a house and techno artist based in Mexico, tracked on soundcheck, with 42 sets logged across Barcelona, Buenosaires, Losangeles and Mexicocity and 1 more. Often billed alongside Kodemul, Alby Esc and Barreto. Next up: Balagan, Mexicocity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Don Esquivel is a house and techno artist based in Mexico, tracked on soundcheck
 
 Kodemul, Alby Esc, Barreto
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donesquivel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donesquivel/)*

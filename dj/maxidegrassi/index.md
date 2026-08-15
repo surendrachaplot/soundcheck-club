@@ -1,6 +1,6 @@
 # Maxi Degrassi
 
-Maxi Degrassi is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 22 Aug 2026.
+Maxi Degrassi is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 22 Aug 2026.
 
 Maxi Degrassi is a deep house and progressive house artist tracked on soundcheck, with 31 sets logged across Buenosaires, Ibiza, Mexicocity and Miami and 1 more. Often billed alongside Facundo Mohrr, Agustin Ficarra and Fernando Praga. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Maxi Degrassi is a deep house and progressive house artist tracked on soundcheck
 
 Facundo Mohrr, Agustin Ficarra, Fernando Praga
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxidegrassi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxidegrassi/)*

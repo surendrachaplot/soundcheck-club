@@ -1,6 +1,6 @@
-# DJ Kicks ADE at WestWeelde
+# DJ-Kicks ADE at WestWeelde
 
-DJ Kicks ADE at WestWeelde on Thu 22 Oct, Amsterdam. 8 acts on the bill: BELLA (NL), D Stone, Dam Swindle and DJ BORING and 4 more. House. Preview the line-up and save it on soundcheck.
+DJ-Kicks ADE at WestWeelde on Thu 22 Oct, Amsterdam. 8 acts on the bill: BELLA (NL), D Stone, Dam Swindle and DJ BORING and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

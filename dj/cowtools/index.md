@@ -1,6 +1,6 @@
 # Cow Tools
 
-Cow Tools is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
+Cow Tools is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
 
 Cow Tools is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside R-DNA, COVE(US) and Simge. Next up: TBA - Brooklyn, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cow Tools is a techno and minimal techno artist based in United States of Americ
 
 R-DNA, COVE(US), Simge
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*

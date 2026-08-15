@@ -1,6 +1,6 @@
 # Marcel Koar
 
-Marcel Koar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Marcel Koar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Marcel Koar is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Leipzig, Munich and Riga. Often billed alongside :MUMM, Alex.Do and Francis FF. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Marcel Koar is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Riviera Records Store, Munich — Fri, 22 May 2026
 - TBA - Join Telegram for Address, Leipzig — Sat, 16 May 2026
 - ://about blank, Berlin — Fri, 24 Apr 2026
@@ -19,10 +20,9 @@ Marcel Koar is a house and techno artist based in Germany, tracked on soundcheck
 - ://about blank, Berlin — Wed, 31 Dec 2025
 - ://about blank, Berlin — Sat, 27 Sept 2025
 - TBA - Join our Telegram Channel for more info, Berlin — Wed, 7 May 2025
-- elipamanoke, Leipzig — Sat, 22 Feb 2025
 
 ## Shares bills with
 
 :MUMM, Alex.Do, Francis FF
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelkoar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelkoar/)*

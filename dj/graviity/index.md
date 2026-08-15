@@ -1,6 +1,6 @@
 # GRAViiTY
 
-GRAViiTY is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Foro HDX, Mexico City on Fri, 25 Sept 2026.
+GRAViiTY is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Foro HDX, Mexico City on Fri, 25 Sept 2026.
 
 GRAViiTY is a techno and psytrance artist tracked on soundcheck, with 25 sets logged across Barcelona, Brussels, Dublin and Istanbul and 8 more. Often billed alongside EARGASM GOD, billx and LESSSS. Next up: Foro HDX, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ GRAViiTY is a techno and psytrance artist tracked on soundcheck, with 25 sets lo
 
 EARGASM GOD, billx, LESSSS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graviity/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graviity/)*

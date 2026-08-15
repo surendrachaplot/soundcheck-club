@@ -1,6 +1,6 @@
 # Anthik
 
-Anthik is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kauz, Zurich on Fri, 4 Sept 2026.
+Anthik is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kauz, Zurich on Fri, 4 Sept 2026.
 
 Anthik is a house and minimal artist based in Switzerland, tracked on soundcheck, with 31 sets logged across Basel, Geneva and Zurich. Often billed alongside Kellerkind, Animal Trainer and ACID FLORA. Next up: Kauz, Zurich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Anthik is a house and minimal artist based in Switzerland, tracked on soundcheck
 
 Kellerkind, Animal Trainer, ACID FLORA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*

@@ -1,6 +1,6 @@
 # teemup
 
-teemup is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
+teemup is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
 
 teemup is an ambient and acid artist tracked on soundcheck, with 13 sets logged across Berlin, Chicago, Rotterdam and Thehague and 1 more. Often billed alongside m50, Son of 8-Bits and Lazercat. Next up: TBA - Boot 122, Utrecht on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ teemup is an ambient and acid artist tracked on soundcheck, with 13 sets logged 
 
 m50, Son of 8-Bits, Lazercat
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teemup/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teemup/)*

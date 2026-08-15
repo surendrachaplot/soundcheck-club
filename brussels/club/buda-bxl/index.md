@@ -1,6 +1,6 @@
 # Buda BXL
 
-Buda BXL is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Gay Haze x Sundaze" on Sat, 22 Aug 2026.
+Buda BXL is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Gay Haze x Sundaze" on Sat, 22 Aug 2026.
 
 Buda BXL is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Bella Sarris, Dana Kuehr, Domi (FR) and Fafi Abdel Nour and 2 more. Browse upcoming dates, start times and who's playing. Chau. de Buda 96, 1130 Bruxelles, Belgium.
 
@@ -15,4 +15,4 @@ Buda BXL is a music venue in Brussels listed on soundcheck. 2 upcoming nights, w
 
 Chau. de Buda 96, 1130 Bruxelles, Belgium, Brussels
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*

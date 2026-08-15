@@ -1,6 +1,6 @@
 # Nikolajev
 
-Nikolajev is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Nikolajev is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Nikolajev is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, London, Milan and Riga and 1 more. Often billed alongside Denzel, no-a and Dharma Doom. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Nikolajev is a techno and house artist tracked on soundcheck, with 34 sets logge
 
 ## Recently played
 
+- Hall, Tallinn — Fri, 14 Aug 2026
 - HUNGR, Tallinn — Sat, 8 Aug 2026
 - B2 Rīga, Riga — Sat, 11 Jul 2026
 - Tšungel, Tallinn — Fri, 3 Jul 2026
@@ -19,10 +20,9 @@ Nikolajev is a techno and house artist tracked on soundcheck, with 34 sets logge
 - Bar IDA, Tallinn — Fri, 8 May 2026
 - HUNGR, Tallinn — Wed, 31 Dec 2025
 - ., Berlin — Sat, 8 Nov 2025
-- HUNGR, Tallinn — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Denzel, no-a, Dharma Doom
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolajev/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolajev/)*

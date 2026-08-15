@@ -1,6 +1,6 @@
 # D'Sean
 
-D'Sean is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
+D'Sean is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
 
 D'Sean is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside Guarionex Jr, tinasnow and koral. Next up: Good Room, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ D'Sean is a house and techno artist based in United States of America, tracked o
 
 Guarionex Jr, tinasnow, koral
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dsean/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dsean/)*

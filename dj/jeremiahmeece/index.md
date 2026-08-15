@@ -1,6 +1,6 @@
 # Jeremiah Meece
 
-Jeremiah Meece is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
+Jeremiah Meece is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
 
 Jeremiah Meece is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Chicago. Often billed alongside Wolfgang Amadidas, Beppe Loda and Convertible. Next up: TBA - Secret Venue, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jeremiah Meece is a house and techno artist based in United States of America, t
 
 Wolfgang Amadidas, Beppe Loda, Convertible
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahmeece/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahmeece/)*

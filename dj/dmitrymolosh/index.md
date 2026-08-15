@@ -1,6 +1,6 @@
 # Dmitry Molosh
 
-Dmitry Molosh is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
+Dmitry Molosh is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
 
 Dmitry Molosh is a techno and progressive house artist based in Belarus, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 5 more. Often billed alongside Angelo Mike, Cid Inc and Cris-H. Next up: WaV, Liverpool on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Dmitry Molosh is a techno and progressive house artist based in Belarus, tracked
 
 Angelo Mike, Cid Inc, Cris-H
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*

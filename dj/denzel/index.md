@@ -1,6 +1,6 @@
 # Denzel
 
-Denzel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Denzel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bristol and London and 7 more. Often billed alongside Joni DJ, Nikolajev and CCL. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -15,6 +15,7 @@ Denzel is a techno and house artist based in Finland, tracked on soundcheck, wit
 
 ## Recently played
 
+- Hall, Tallinn — Fri, 14 Aug 2026
 - Tšungel, Tallinn — Fri, 3 Jul 2026
 - Charlie, Munich — Sat, 2 May 2026
 - OST, Berlin — Fri, 1 May 2026
@@ -22,10 +23,9 @@ Denzel is a techno and house artist based in Finland, tracked on soundcheck, wit
 - Kaņepes Kultūras Centrs, Riga — Fri, 17 Oct 2025
 - Sameheads, Berlin — Sat, 20 Sept 2025
 - Bar IDA, Tallinn — Fri, 15 Aug 2025
-- TBA - ZUZEUM, Riga — Fri, 30 May 2025
 
 ## Shares bills with
 
 Joni DJ, Nikolajev, CCL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*

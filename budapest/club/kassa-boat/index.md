@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Noise Conference Vol.6: B2B MADNESS" on Fri, 14 Aug 2026.
+Kassa Boat is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Noise Conference Vol.6: B2B MADNESS" on Fri, 14 Aug 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Daniel Moritz, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -23,4 +23,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 10 upcoming nights
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

@@ -1,6 +1,6 @@
 # Shuya Okino
 
-Shuya Okino is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mitsu, London on Thu, 20 Aug 2026.
+Shuya Okino is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mitsu, London on Thu, 20 Aug 2026.
 
 Shuya Okino is a jazz and club artist based in Japan, tracked on soundcheck, with 38 sets logged across Bangkok, Kyoto, London and Madrid and 2 more. Often billed alongside Yoshihiro Okino, Kyoto Jazz Massive and Masaki Tamura. Next up: Mitsu, London on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Shuya Okino is a jazz and club artist based in Japan, tracked on soundcheck, wit
 
 Yoshihiro Okino, Kyoto Jazz Massive, Masaki Tamura
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuyaokino/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuyaokino/)*

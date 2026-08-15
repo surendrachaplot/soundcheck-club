@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Juliet Fox is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets log
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

@@ -1,6 +1,6 @@
 # Muyeol
 
-Muyeol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nué Seoul, Seoul on Sat, 15 Aug 2026.
+Muyeol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nué Seoul, Seoul on Sat, 15 Aug 2026.
 
 Muyeol is a house and disco artist based in South Korea, tracked on soundcheck, with 58 sets logged across Seoul. Often billed alongside HAGY, Youngisland and Joshüa. Next up: Nué Seoul, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Muyeol is a house and disco artist based in South Korea, tracked on soundcheck, 
 
 HAGY, Youngisland, Joshüa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muyeol/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muyeol/)*

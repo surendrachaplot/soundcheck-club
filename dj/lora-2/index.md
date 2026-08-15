@@ -1,6 +1,6 @@
 # Lora (2)
 
-Lora (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Odonien, Cologne on Wed, 19 Aug 2026.
+Lora (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Odonien, Cologne on Wed, 19 Aug 2026.
 
 Lora (2) is a techno and drum & bass artist tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside dxrvo, Brandyy and Esoterik. Next up: Odonien, Cologne on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Lora (2) is a techno and drum & bass artist tracked on soundcheck, with 13 sets 
 
 dxrvo, Brandyy, Esoterik
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-2/)*

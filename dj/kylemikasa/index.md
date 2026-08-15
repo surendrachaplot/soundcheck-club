@@ -1,6 +1,6 @@
 # KYLE MIKASA
 
-KYLE MIKASA is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
+KYLE MIKASA is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
 
 KYLE MIKASA is a hardcore and techno artist tracked on soundcheck, with 48 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: Club Stomp, Osaka on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ KYLE MIKASA is a hardcore and techno artist tracked on soundcheck, with 48 sets 
 
 RICKY, KAMIKAZE, egomania
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*

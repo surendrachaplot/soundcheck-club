@@ -1,6 +1,6 @@
 # Gabski
 
-Gabski is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
+Gabski is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
 
 Gabski is a tech house and house artist tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Ramoss, Ale Grooves and Jey Mellen. Next up: Starlane Pizza Bar, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Gabski is a tech house and house artist tracked on soundcheck, with 14 sets logg
 
 Ramoss, Ale Grooves, Jey Mellen
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabski/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabski/)*

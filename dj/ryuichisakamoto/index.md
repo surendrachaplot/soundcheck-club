@@ -1,6 +1,6 @@
 # Ryuichi Sakamoto
 
-Ryuichi Sakamoto is a Classical and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
+Ryuichi Sakamoto is a Classical and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
 
 Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Alva Noto, Stephen O'Malley and Blackhaine. Next up: Neue Nationalgalerie, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundc
 
 Alva Noto, Stephen O'Malley, Blackhaine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*

@@ -1,6 +1,6 @@
 # SESSION (TECHNO) at WOMB
 
-SESSION (TECHNO) at WOMB on Sat 29 Aug, Tokyo. 4 acts on the bill: AHREUM, Drunken Kong, Tommy Wada and U:ICHI. Techno. Preview the line-up and save it on soundcheck.
+SESSION (TECHNO) at WOMB on Sat 29 Aug, Tokyo. 8 acts on the bill: AHREUM, Drunken Kong, KCT (1) and Kulage and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,10 @@ SESSION (TECHNO) at WOMB on Sat 29 Aug, Tokyo. 4 acts on the bill: AHREUM, Drunk
 
 - AHREUM
 - Drunken Kong
+- KCT (1)
+- Kulage
+- LiaRako
+- Shun Kurashima
 - Tommy Wada
 - U:ICHI
 

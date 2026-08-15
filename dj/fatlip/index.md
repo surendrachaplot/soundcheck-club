@@ -1,6 +1,6 @@
 # fat lip
 
-fat lip is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Klunkerkranich, Berlin on Sat, 15 Aug 2026.
+fat lip is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Klunkerkranich, Berlin on Sat, 15 Aug 2026.
 
 fat lip is a tech house and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Leipzig and London. Often billed alongside Silvi Knallt, Blank Vision and Emel White. Next up: Klunkerkranich, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ fat lip is a tech house and house artist tracked on soundcheck, with 13 sets log
 
 Silvi Knallt, Blank Vision, Emel White
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatlip/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatlip/)*

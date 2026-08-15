@@ -1,6 +1,6 @@
 # Tommes K. Brandt
 
-Tommes K. Brandt is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bohnengold, Berlin on Fri, 14 Aug 2026.
+Tommes K. Brandt is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bohnengold, Berlin on Fri, 14 Aug 2026.
 
 Tommes K. Brandt is a house and club artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside 7ommes, Nikklaas and Better Call Paul. Next up: Bohnengold, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Tommes K. Brandt is a house and club artist based in Germany, tracked on soundch
 
 ## Recently played
 
+- Bohnengold, Berlin — Fri, 14 Aug 2026
 - Bulbul Berlin, Berlin — Sat, 25 Jul 2026
 - Süss War Gestern, Berlin — Tue, 21 Jul 2026
 - OXI, Berlin — Sat, 4 Jul 2026
@@ -21,4 +22,4 @@ Tommes K. Brandt is a house and club artist based in Germany, tracked on soundch
 
 7ommes, Nikklaas, Better Call Paul
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*

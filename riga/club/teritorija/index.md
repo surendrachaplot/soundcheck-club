@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Esoniq" on Fri, 14 Aug 2026.
+Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Esoniq" on Fri, 14 Aug 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including ANGEDONIYA, Aniri Chan, A$PHYXXXÏA and ARRISHA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, wi
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

@@ -1,6 +1,6 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 6 Sept 2026.
+Liva K is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 6 Sept 2026.
 
 Liva K is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Chinois Ibiza, Ibiza on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Liva K is an afro house and house artist tracked on soundcheck, with 85 sets log
 
 Black Coffee, Bedouin, Damian Lazarus
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*

@@ -1,6 +1,6 @@
 # dithering
 
-dithering is a Hardcore and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bar Shrimp, Manchester on Thu, 27 Aug 2026.
+dithering is a Hardcore and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bar Shrimp, Manchester on Thu, 27 Aug 2026.
 
 dithering is a hardcore and downtempo artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside EJ Woodall, Nusheen and Semi Peppered. Next up: Bar Shrimp, Manchester on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ dithering is a hardcore and downtempo artist based in United Kingdom, tracked on
 
 EJ Woodall, Nusheen, Semi Peppered
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*

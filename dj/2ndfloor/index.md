@@ -1,6 +1,6 @@
 # 2nd Floor
 
-2nd Floor is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kockiri, Seoul on Sat, 15 Aug 2026.
+2nd Floor is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kockiri, Seoul on Sat, 15 Aug 2026.
 
 2nd Floor is a tech house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Basel, Berlin, Cologne and Seoul and 4 more. Often billed alongside Mogwaa, Y.T.S.T and SINAHILL. Next up: Kockiri, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@
 
 Mogwaa, Y.T.S.T, SINAHILL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndfloor/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndfloor/)*

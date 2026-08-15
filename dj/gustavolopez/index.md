@@ -1,6 +1,6 @@
 # Gustavo Lopez
 
-Gustavo Lopez is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 20 Aug 2026.
+Gustavo Lopez is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 20 Aug 2026.
 
 Gustavo Lopez is an electronica and techno artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona. Often billed alongside Gato, Miguel Silva and Civaro. Next up: Sunseabar Beach Club, Barcelona on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Gustavo Lopez is an electronica and techno artist based in Spain, tracked on sou
 
 Gato, Miguel Silva, Civaro
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*

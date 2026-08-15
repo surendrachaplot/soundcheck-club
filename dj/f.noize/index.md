@@ -1,6 +1,6 @@
 # F. Noize
 
-F. Noize is a Afro House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+F. Noize is a Afro House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 F. Noize is an afro house and ambient artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Barcelona, Brussels, Frankfurt and Glasgow and 4 more. Often billed alongside Angerfist, Drokz and Pinotello. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ F. Noize is an afro house and ambient artist based in Netherlands, tracked on so
 
 Angerfist, Drokz, Pinotello
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f.noize/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f.noize/)*

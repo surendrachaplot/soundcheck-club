@@ -1,6 +1,6 @@
 # ISORA
 
-ISORA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Green Works, Bristol on Sat, 15 Aug 2026.
+ISORA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Green Works, Bristol on Sat, 15 Aug 2026.
 
 ISORA is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Bristol and London and 1 more. Often billed alongside Krunx, The Bass Injector and Shirley Temper. Next up: Green Works, Bristol on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ISORA is a techno and hardcore artist based in United Kingdom, tracked on soundc
 
 Krunx, The Bass Injector, Shirley Temper
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*

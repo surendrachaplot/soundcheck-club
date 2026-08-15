@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Signal, New York City on Fri, 21 Aug 2026.
+shekdash is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Signal, New York City on Fri, 21 Aug 2026.
 
 shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 82 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Signal, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

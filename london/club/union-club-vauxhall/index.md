@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FOX IN THE BOX (FRIDAY WEEKLY AFTER PARTY) Open until 10am" on Fri, 14 Aug 2026.
+Union Club, Vauxhall is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 16 Aug 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Cristian Ebasta, Dhez, Donato Alberti and Donnie Bianco and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Dhez, Donato Alberti, Donnie Bianco and Duwat? and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | FOX IN THE BOX (FRIDAY WEEKLY AFTER PARTY) Open until 10am | Cristian Ebasta, Enrico Chirchiello |
 | Sun, 16 Aug 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Loora, Thomas Galbardi |
 | Thu, 20 Aug 2026 | DESIRE - Weekly Thursday After Party - DUWAT | Dhez, Duwat?, Simone Sim |
 | Fri, 21 Aug 2026 | AFTER PARTY AT FOX IN THE BOX (Open until 10 am ) | Enrico Chirchiello |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcomin
 | Sat, 29 Aug 2026 | VANITY afterhours bank holiday special: 1am - 10am ( 2 rooms, House + techno) | Enrico Chirchiello, Francesco Poggi, Hardy Heller, Koolfunk, LIZAZA, Naira Bullon, SHARKA, Skav, XS BULLY |
 | Sun, 30 Aug 2026 | NO BPM LIMIT, techno afterparty, Saturday night / Sunday morning from 1am till 10am | Enrico Chirchiello, Francesco Poggi, Koolfunk, LIZAZA, Naira Bullon, SHARKA, Skav, Steve Andrew, XS BULLY, trashedbaby |
 | Sun, 30 Aug 2026 | Orbit Sunday night / Monday morning after party | Luigi Imperato, Miss Dix, Thomas Galbardi |
+| Sat, 3 Oct 2026 | TROUGH LONDON |  |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

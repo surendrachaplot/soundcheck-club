@@ -1,6 +1,6 @@
 # PERCOSET
 
-PERCOSET is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
+PERCOSET is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
 
 PERCOSET is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 30 sets logged across Riga. Often billed alongside hitomori, maniken05 and porfod. Next up: Teritorija, Riga on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ PERCOSET is a hardcore and techno artist based in Latvia, tracked on soundcheck,
 
 hitomori, maniken05, porfod
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/percoset/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/percoset/)*

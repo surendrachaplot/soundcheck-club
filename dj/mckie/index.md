@@ -1,6 +1,6 @@
 # MC Kie
 
-MC Kie is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
+MC Kie is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
 
 MC Kie is a garage and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Artful Dodger, DJ Luck & MC Neat and MC Creed. Next up: The Lower Third, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ MC Kie is a garage and house artist based in United Kingdom, tracked on soundche
 
 Artful Dodger, DJ Luck & MC Neat, MC Creed
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mckie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mckie/)*

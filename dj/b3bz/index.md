@@ -1,6 +1,6 @@
 # b3bz
 
-b3bz is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+b3bz is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 b3bz is a breakbeat and bass artist based in France, tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside Duane, Jacky Jeane and Abajour. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ b3bz is a breakbeat and bass artist based in France, tracked on soundcheck, with
 
 Duane, Jacky Jeane, Abajour
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3bz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3bz/)*

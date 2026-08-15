@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Gilles Peterson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Gilles Peterson is a house and jazz artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Bali and Barcelona and 23 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gilles Peterson is a house and jazz artist tracked on soundcheck, with 75 sets l
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

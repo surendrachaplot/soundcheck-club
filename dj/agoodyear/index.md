@@ -1,6 +1,6 @@
 # A Good Year
 
-A Good Year is a Post-Punk and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
+A Good Year is a Post-Punk and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
 
 A Good Year is a post-punk and electro artist based in Denmark, tracked on soundcheck, with 3 sets logged across Bristol, Brussels and Copenhagen. Often billed alongside Loukeman, 96 Back and Alba Akvama. Next up: Trifolium, Copenhagen on Fri 11 Sept.
 
@@ -16,4 +16,4 @@ A Good Year is a post-punk and electro artist based in Denmark, tracked on sound
 
 Loukeman, 96 Back, Alba Akvama
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*

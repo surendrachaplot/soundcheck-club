@@ -1,6 +1,6 @@
 # DJ I.V.
 
-DJ I.V. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
+DJ I.V. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
 
 DJ I.V. is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Berlin, Chicago and Detroit. Often billed alongside Hardin, DJ Seoul and Augustus Williams. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ DJ I.V. is a techno and house artist based in United States of America, tracked 
 
 Hardin, DJ Seoul, Augustus Williams
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*

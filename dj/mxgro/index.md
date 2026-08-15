@@ -1,6 +1,6 @@
 # Mxgro
 
-Mxgro is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+Mxgro is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 Mxgro is a techno and breakbeat artist tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Avant-Garde Institute, TNT Dan and Botelo. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mxgro is a techno and breakbeat artist tracked on soundcheck, with 16 sets logge
 
 Avant-Garde Institute, TNT Dan, Botelo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgro/)*

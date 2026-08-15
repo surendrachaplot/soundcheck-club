@@ -1,6 +1,6 @@
 # KEI_DJ
 
-KEI_DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at White Space Lab, Tokyo on Wed, 19 Aug 2026.
+KEI_DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at White Space Lab, Tokyo on Wed, 19 Aug 2026.
 
 KEI_DJ is a techno and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside edge, MOTOKA and 北極 / Ali NM. Next up: White Space Lab, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ KEI_DJ is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 edge, MOTOKA, 北極 / Ali NM
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kei_dj/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kei_dj/)*

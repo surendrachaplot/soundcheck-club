@@ -1,6 +1,6 @@
 # Valderrama
 
-Valderrama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 19 Aug 2026.
+Valderrama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 19 Aug 2026.
 
 Valderrama is a techno and house artist based in Colombia, tracked on soundcheck, with 29 sets logged across Austin, Barcelona, Berlin and Brussels and 4 more. Often billed alongside NUUP, Thomas Hernandez and Kevin Ganora. Next up: Ku Barcelona, Barcelona on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Valderrama is a techno and house artist based in Colombia, tracked on soundcheck
 
 NUUP, Thomas Hernandez, Kevin Ganora
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valderrama/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valderrama/)*

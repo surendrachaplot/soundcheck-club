@@ -1,6 +1,6 @@
 # Mala Suerte
 
-Mala Suerte is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Skin Club, Madrid on Fri, 21 Aug 2026.
+Mala Suerte is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Skin Club, Madrid on Fri, 21 Aug 2026.
 
 Mala Suerte is a reggaeton and house artist based in Mexico, tracked on soundcheck, with 10 sets logged across Madrid and Mexicocity. Often billed alongside TOM CHIESA, Theia Daja and BZZHOUND. Next up: Skin Club, Madrid on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mala Suerte is a reggaeton and house artist based in Mexico, tracked on soundche
 
 TOM CHIESA, Theia Daja, BZZHOUND
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malasuerte/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malasuerte/)*

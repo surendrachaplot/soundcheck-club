@@ -1,6 +1,6 @@
 # Revlow
 
-Revlow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Oru Space Sutton, 7 Throwley Way, Sutton, SM1 4AF, London on Sat, 22 Aug 2026.
+Revlow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Oru Space Sutton, 7 Throwley Way, Sutton, SM1 4AF, London on Sat, 22 Aug 2026.
 
 Revlow is a house and disco artist tracked on soundcheck, with 37 sets logged across London. Often billed alongside Ardishko, LuSay and AJ Moreno. Next up: TBA - Oru Space Sutton, 7 Throwley Way, Sutton, SM1 4AF, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Revlow is a house and disco artist tracked on soundcheck, with 37 sets logged ac
 
 Ardishko, LuSay, AJ Moreno
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*

@@ -1,6 +1,6 @@
 # Parra Vie
 
-Parra Vie is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Folklore, London on Sat, 17 Oct 2026.
+Parra Vie is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Folklore, London on Sat, 17 Oct 2026.
 
 Parra Vie is a progressive house and deep house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Ebz, 2Doters and Altayef. Next up: Folklore, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Parra Vie is a progressive house and deep house artist tracked on soundcheck, wi
 
 Ebz, 2Doters, Altayef
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*

@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sun Space, Los Angeles on Sat, 15 Aug 2026.
+Ava Blank is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sun Space, Los Angeles on Sat, 15 Aug 2026.
 
 Ava Blank is a house and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: Sun Space, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ava Blank is a house and club artist based in United States of America, tracked 
 
 Dazegxd, Akumen, Andy Oro
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

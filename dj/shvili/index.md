@@ -1,6 +1,6 @@
 # Shvili
 
-Shvili is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Shvili is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
 
 Shvili is a house and techno artist tracked on soundcheck, with 123 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: TBA, Tbilisi on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Shvili is a house and techno artist tracked on soundcheck, with 123 sets logged 
 
 Max Sprauer, CAMILLA, Maksim
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

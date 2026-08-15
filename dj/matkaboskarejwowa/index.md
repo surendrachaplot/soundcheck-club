@@ -1,6 +1,6 @@
 # Matka Boska Rejwowa
 
-Matka Boska Rejwowa is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+Matka Boska Rejwowa is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 Matka Boska Rejwowa is a latin bass and baile funk artist based in Poland, tracked on soundcheck, with 15 sets logged across Krakow and Warsaw. Often billed alongside Avtomat, anymati and Fourth World Music. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Matka Boska Rejwowa is a latin bass and baile funk artist based in Poland, track
 
 Avtomat, anymati, Fourth World Music
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matkaboskarejwowa/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matkaboskarejwowa/)*

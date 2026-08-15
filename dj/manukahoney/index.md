@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Manuka Honey is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
 Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 143 sets logged across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside Baby Cocada, TEDESCO and Florentino. Next up: TBA, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 143 sets
 
 Baby Cocada, TEDESCO, Florentino
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

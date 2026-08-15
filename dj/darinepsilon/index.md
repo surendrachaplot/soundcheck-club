@@ -1,6 +1,6 @@
 # Darin Epsilon
 
-Darin Epsilon is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Darin Epsilon is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Darin Epsilon is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 25 more. Often billed alongside Rafa Silva, VONDA7 and Markus Klee. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Darin Epsilon is a techno and progressive house artist based in United States of
 
 Rafa Silva, VONDA7, Markus Klee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*

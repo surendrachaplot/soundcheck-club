@@ -1,6 +1,6 @@
 # D. Strange
 
-D. Strange is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
+D. Strange is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
 
 D. Strange is a techno and electro artist based in United States of America, tracked on soundcheck, with 52 sets logged across Berlin, Chicago, Detroit and Losangeles and 2 more. Often billed alongside Huey Mnemonic, Daniel Bell and Function. Next up: TBA - Secret Venue, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ D. Strange is a techno and electro artist based in United States of America, tra
 
 Huey Mnemonic, Daniel Bell, Function
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*

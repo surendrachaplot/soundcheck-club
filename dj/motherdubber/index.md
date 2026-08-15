@@ -1,6 +1,6 @@
 # Mother Dubber
 
-Mother Dubber is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
+Mother Dubber is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Gravière, Geneva on Sat, 15 Aug 2026.
 
 Mother Dubber is a dancehall and dub artist tracked on soundcheck, with 10 sets logged across Geneva and Zurich. Often billed alongside Blaise Deville, Bony Fly and O.B.F. Next up: La Gravière, Geneva on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mother Dubber is a dancehall and dub artist tracked on soundcheck, with 10 sets 
 
 Blaise Deville, Bony Fly, O.B.F
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*

@@ -1,6 +1,6 @@
 # suade (US)
 
-suade (US) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+suade (US) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 suade (US) is a techno and bass artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity, Portland, Sanfrancisco and Vancouver. Often billed alongside llloyd (US), Clearcast and likeholywine. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ suade (US) is a techno and bass artist based in United States of America, tracke
 
 llloyd (US), Clearcast, likeholywine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*

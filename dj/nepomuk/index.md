@@ -1,6 +1,6 @@
 # Nepomuk
 
-Nepomuk is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Nepomuk is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
 Nepomuk is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Istanbul, Munich and Prague and 2 more. Often billed alongside Melchiorr, 9LALEY and Almedina (2). Next up: Rote Sonne, Munich on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Nepomuk is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Rote Sonne, Munich — Fri, 14 Aug 2026
 - Stil vor Talent Store, Berlin — Fri, 10 Apr 2026
 - Flux, Istanbul — Sat, 14 Feb 2026
 - SASS Music Club, Vienna — Sat, 13 Dec 2025
@@ -25,4 +26,4 @@ Nepomuk is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Melchiorr, 9LALEY, Almedina (2)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk/)*

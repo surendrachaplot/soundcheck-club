@@ -1,6 +1,6 @@
 # Maik Yells
 
-Maik Yells is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Doggy Klœb, Malaga on Sat, 29 Aug 2026.
+Maik Yells is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Doggy Klœb, Malaga on Sat, 29 Aug 2026.
 
 Maik Yells is an electronica artist tracked on soundcheck, with 27 sets logged across Berlin, London, Malaga and Milan. Often billed alongside David Delgado, The Pushamann and Tripmastaz. Next up: Doggy Klœb, Malaga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Maik Yells is an electronica artist tracked on soundcheck, with 27 sets logged a
 
 David Delgado, The Pushamann, Tripmastaz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikyells/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikyells/)*

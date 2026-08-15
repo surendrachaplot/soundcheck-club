@@ -1,6 +1,6 @@
 # Eren (Vamonos, IST)
 
-Eren (Vamonos, IST) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
+Eren (Vamonos, IST) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
 
 Eren (Vamonos, IST) are a house and techno duo based in Turkey, tracked on soundcheck, with 15 sets logged across Barcelona, Istanbul and Miami. Often billed alongside Emre Senol, Babsy and Aldebaran. Next up: Yan Gastro, Istanbul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Eren (Vamonos, IST) are a house and techno duo based in Turkey, tracked on sound
 
 Emre Senol, Babsy, Aldebaran
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eren-vamonos-ist/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eren-vamonos-ist/)*

@@ -1,6 +1,6 @@
 # Michael Cignarale
 
-Michael Cignarale is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
+Michael Cignarale is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
 
 Michael Cignarale is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Chicago, Hamburg and London and 5 more. Often billed alongside Dee Diggs, Function and Jen Cardini. Next up: BASEMENT, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Michael Cignarale is a house and disco artist based in United States of America,
 
 Dee Diggs, Function, Jen Cardini
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*

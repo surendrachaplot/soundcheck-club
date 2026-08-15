@@ -1,6 +1,6 @@
 # Abo Abo
 
-Abo Abo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Abo Abo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Abo Abo is a techno and experimental artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 13 more. Often billed alongside TOMO (2), Plastique01 and Marco Maldarella. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Abo Abo is a techno and experimental artist tracked on soundcheck, with 21 sets 
 
 TOMO (2), Plastique01, Marco Maldarella
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*

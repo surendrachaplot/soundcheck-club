@@ -1,6 +1,6 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
+Cleric is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
 
 Cleric is a techno and acid artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Félicie, Bailey Ibbs and Daria Kolosova. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Cleric is a techno and acid artist tracked on soundcheck, with 113 sets logged a
 
 Félicie, Bailey Ibbs, Daria Kolosova
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

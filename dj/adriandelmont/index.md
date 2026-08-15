@@ -1,6 +1,6 @@
 # Adrian Delmont
 
-Adrian Delmont is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sensorium, Berlin on Sat, 15 Aug 2026.
+Adrian Delmont is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sensorium, Berlin on Sat, 15 Aug 2026.
 
 Adrian Delmont is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside 909on808, PASS THE AUX and Vaccaro. Next up: Sensorium, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Adrian Delmont is a techno and tech house artist tracked on soundcheck, with 3 s
 
 909on808, PASS THE AUX, Vaccaro
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriandelmont/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriandelmont/)*

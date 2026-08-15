@@ -1,6 +1,6 @@
 # Egg In The Morning
 
-Egg In The Morning is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at PKL Boston, Boston on Sun, 6 Sept 2026.
+Egg In The Morning is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at PKL Boston, Boston on Sun, 6 Sept 2026.
 
 Egg In The Morning is a house and tech house artist based in Colombia, tracked on soundcheck, with 22 sets logged across Boston and Newyorkcity. Often billed alongside Ferra Black, Lufer and Mason Collective. Next up: PKL Boston, Boston on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Egg In The Morning is a house and tech house artist based in Colombia, tracked o
 
 Ferra Black, Lufer, Mason Collective
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egginthemorning/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egginthemorning/)*

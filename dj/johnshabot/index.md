@@ -1,6 +1,6 @@
 # John Shabot
 
-John Shabot is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
+John Shabot is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
 
 John Shabot is a disco and house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Emilè, Jake Hodgkinson and Dan Howell. Next up: Two More Years, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ John Shabot is a disco and house artist tracked on soundcheck, with 8 sets logge
 
 Emilè, Jake Hodgkinson, Dan Howell
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnshabot/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnshabot/)*

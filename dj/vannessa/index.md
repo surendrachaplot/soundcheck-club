@@ -1,6 +1,6 @@
 # Vann Essa
 
-Vann Essa is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, San Francisco/Oakland on Thu, 20 Aug 2026.
+Vann Essa is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Vann Essa is a deep house and techno artist tracked on soundcheck, with 21 sets logged across Sanfrancisco. Often billed alongside IZIK, Admiral and Matony. Next up: TBA, Sanfrancisco on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Vann Essa is a deep house and techno artist tracked on soundcheck, with 21 sets 
 
 IZIK, Admiral, Matony
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vannessa/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vannessa/)*

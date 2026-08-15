@@ -1,6 +1,6 @@
 # Agata (PL)
 
-Agata (PL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Hangaren, Copenhagen on Sun, 23 Aug 2026.
+Agata (PL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Sun, 23 Aug 2026.
 
 Agata (PL) is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Hongkong and London and 3 more. Often billed alongside INVERNO, vp allowed and Stina Francina. Next up: Hangaren, Copenhagen on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Agata (PL) is a techno and trance artist based in Germany, tracked on soundcheck
 
 INVERNO, vp allowed, Stina Francina
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agatapl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agatapl/)*

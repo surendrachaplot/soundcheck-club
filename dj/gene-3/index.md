@@ -1,6 +1,6 @@
 # GENE
 
-GENE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Radio Radio, Amsterdam on Sun, 16 Aug 2026.
+GENE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Radio Radio, Amsterdam on Sun, 16 Aug 2026.
 
 GENE is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam, Bucharest, Philadelphia and Utrecht and 1 more. Often billed alongside Alec Dienaar, Desuba and Dragos Ilici. Next up: Radio Radio, Amsterdam on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ GENE is a techno and house artist based in Italy, tracked on soundcheck, with 8 
 
 Alec Dienaar, Desuba, Dragos Ilici
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*

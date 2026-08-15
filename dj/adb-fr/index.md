@@ -1,6 +1,6 @@
 # ADB (FR)
 
-ADB (FR) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Petit Bain, Paris on Sat, 29 Aug 2026.
+ADB (FR) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Petit Bain, Paris on Sat, 29 Aug 2026.
 
 ADB (FR) is a trance and techno artist based in France, tracked on soundcheck, with 19 sets logged across Montreal, Munich and Paris. Often billed alongside MEYEM, DJ Caline and ECZODIA. Next up: Petit Bain, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ADB (FR) is a trance and techno artist based in France, tracked on soundcheck, w
 
 MEYEM, DJ Caline, ECZODIA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*

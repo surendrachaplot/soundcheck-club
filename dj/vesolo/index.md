@@ -1,6 +1,6 @@
 # Vesolo
 
-Vesolo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Système, Montreal on Sat, 22 Aug 2026.
+Vesolo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Système, Montreal on Sat, 22 Aug 2026.
 
 Vesolo is a techno and club artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside Miss Twink USA, Flores Negras and Swan Drama. Next up: Système, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vesolo is a techno and club artist based in United States of America, tracked on
 
 Miss Twink USA, Flores Negras, Swan Drama
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*

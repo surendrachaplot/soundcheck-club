@@ -1,6 +1,6 @@
 # Luna Springs
 
-Luna Springs is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Latino Summer Music Festival 2026" on Fri, 21 Aug 2026.
+Luna Springs is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Latino Summer Music Festival 2026" on Fri, 21 Aug 2026.
 
 Luna Springs is a music venue in Birmingham listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Luna Springs is a music venue in Birmingham listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Latino Summer Music Festival 2026 |  |
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/luna-springs/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/luna-springs/)*

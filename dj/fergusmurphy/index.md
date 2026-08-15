@@ -1,6 +1,6 @@
 # Fergus Murphy
 
-Fergus Murphy is a Funk / Soul and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at H15 Scene & Studio, Copenhagen on Sun, 6 Sept 2026.
+Fergus Murphy is a Funk / Soul and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at H15 Scene & Studio, Copenhagen on Sun, 6 Sept 2026.
 
 Fergus Murphy is a funk / soul and jazz artist based in Ireland, tracked on soundcheck, with 57 sets logged across Copenhagen and Turin. Often billed alongside Daniel Kaarill, Batukizer and 2000F. Next up: H15 Scene & Studio, Copenhagen on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Fergus Murphy is a funk / soul and jazz artist based in Ireland, tracked on soun
 
 Daniel Kaarill, Batukizer, 2000F
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmurphy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmurphy/)*

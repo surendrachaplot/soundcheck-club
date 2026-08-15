@@ -1,6 +1,6 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+Sleepy Jean is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 Sleepy Jean is a house and electro artist tracked on soundcheck, with 35 sets logged across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Sleepy Jean is a house and electro artist tracked on soundcheck, with 35 sets lo
 
 TSUNIMAN, Touré, A For Alpha
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

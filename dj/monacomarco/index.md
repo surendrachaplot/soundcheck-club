@@ -1,6 +1,6 @@
 # Monaco Marco
 
-Monaco Marco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
+Monaco Marco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
 
 Monaco Marco is a house and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Frankfurt and Munich. Often billed alongside Robin Koch, Javier Bähr and ANXA. Next up: Legal, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Monaco Marco is a house and tech house artist based in Germany, tracked on sound
 
 Robin Koch, Javier Bähr, ANXA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monacomarco/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monacomarco/)*

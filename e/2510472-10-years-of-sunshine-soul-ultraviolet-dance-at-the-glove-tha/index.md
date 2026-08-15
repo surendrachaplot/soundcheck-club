@@ -1,6 +1,6 @@
 # 10 Years of Sunshine Soul: ULTRAVIOLET DANCE at The Glove That Fits
 
-10 Years of Sunshine Soul: ULTRAVIOLET DANCE at The Glove That Fits on Sat 12 Sept, London. 10 acts on the bill: Chenzo, DREY (UK), Kojay and LEV (UK) and 6 more. Club. Preview the line-up and save it on soundcheck.
+10 Years of Sunshine Soul: ULTRAVIOLET DANCE at The Glove That Fits on Sat 12 Sept, London. 11 acts on the bill: Chenzo, DREY (UK), Kojay and LEV (UK) and 7 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@
 - Max Sinàl
 - Mylo Harvey
 - P-Lucas
+- Raphael (UK)
 - Selassie TBC
 - WheelUP
 

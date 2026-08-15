@@ -1,6 +1,6 @@
 # Delta Heavy
 
-Delta Heavy is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Spin, San Diego on Fri, 11 Sept 2026.
+Delta Heavy is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Spin, San Diego on Fri, 11 Sept 2026.
 
 Delta Heavy is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Auckland and Austin and 29 more. Often billed alongside A Little Sound, Kanine and Dimension. Next up: Spin, Sandiego on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Delta Heavy is a drum & bass and bass artist based in United Kingdom, tracked on
 
 A Little Sound, Kanine, Dimension
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*

@@ -1,6 +1,6 @@
 # Bavhu
 
-Bavhu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Okahu Bay Wharf, Auckland on Sat, 22 Aug 2026.
+Bavhu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Okahu Bay Wharf, Auckland on Sat, 22 Aug 2026.
 
 Bavhu is a house and disco artist tracked on soundcheck, with 8 sets logged across Auckland and Melbourne. Often billed alongside Frank Booker, Brett Bronze and DYNO (2). Next up: Okahu Bay Wharf, Auckland on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Bavhu is a house and disco artist tracked on soundcheck, with 8 sets logged acro
 
 Frank Booker, Brett Bronze, DYNO (2)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bavhu/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bavhu/)*

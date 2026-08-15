@@ -1,6 +1,6 @@
 # Pablo Diserens
 
-Pablo Diserens is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
+Pablo Diserens is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
 
 Pablo Diserens is an experimental and ambient artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Slowfoam, Alif Hilal and Alliyah Enyo. Next up: 90mil, Berlin on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Pablo Diserens is an experimental and ambient artist tracked on soundcheck, with
 
 Slowfoam, Alif Hilal, Alliyah Enyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablodiserens/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablodiserens/)*

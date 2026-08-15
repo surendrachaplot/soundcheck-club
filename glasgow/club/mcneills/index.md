@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Wrong Party" on Sat, 15 Aug 2026.
+McNeills is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Wrong Party" on Sat, 15 Aug 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including Alexis Le-Tan, GK Machine, Illogical Operator and Miles J Paralysis. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -16,4 +16,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, wi
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

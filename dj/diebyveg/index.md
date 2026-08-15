@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Racket Space, Dublin on Fri, 21 Aug 2026.
+DIEBYVEG is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Racket Space, Dublin on Fri, 21 Aug 2026.
 
 DIEBYVEG is a house and garage artist tracked on soundcheck, with 42 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: The Racket Space, Dublin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ DIEBYVEG is a house and garage artist tracked on soundcheck, with 42 sets logged
 
 Puzzy Wrangler, Surferboy, High Fidelity
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

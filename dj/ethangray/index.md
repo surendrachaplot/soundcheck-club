@@ -1,6 +1,6 @@
 # Ethan Gray
 
-Ethan Gray is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Ethan Gray is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 Ethan Gray is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Malta and Newcastle. Often billed alongside MiNNA, Aline Rocha and Andrea Oliva. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -19,4 +19,4 @@ Ethan Gray is a house and tech house artist based in United Kingdom, tracked on 
 
 MiNNA, Aline Rocha, Andrea Oliva
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*

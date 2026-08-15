@@ -1,6 +1,6 @@
 # Rohdeo
 
-Rohdeo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
+Rohdeo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Rohdeo is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Aircrax, RITCHRD and S.I.M. Next up: Arcana, Sanfrancisco on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Rohdeo is a techno and house artist based in United States of America, tracked o
 
 Aircrax, RITCHRD, S.I.M
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohdeo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohdeo/)*

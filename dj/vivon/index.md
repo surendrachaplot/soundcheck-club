@@ -1,6 +1,6 @@
 # ViV:On
 
-ViV:On is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
+ViV:On is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
 
 ViV:On is a house and progressive house artist based in Italy, tracked on soundcheck, with 28 sets logged across Boston, Milan and Newyorkcity. Often billed alongside FRANZIV, AleBCostantino and DJ Bookworm. Next up: The Lower Level, Boston on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ViV:On is a house and progressive house artist based in Italy, tracked on soundc
 
 FRANZIV, AleBCostantino, DJ Bookworm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*

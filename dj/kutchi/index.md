@@ -1,6 +1,6 @@
 # Kutchi
 
-Kutchi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+Kutchi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
 
 Kutchi is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol and London. Often billed alongside Dusty Dan, Basement Maxx and NIIX. Next up: M.O.T, London on Fri 14 Aug.
 
@@ -14,6 +14,7 @@ Kutchi is a techno and bass artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- M.O.T, London — Fri, 14 Aug 2026
 - Next Door Records Two, London — Sat, 1 Aug 2026
 - Four Quarters, London — Fri, 3 Apr 2026
 - Secret Location, London — Sat, 17 Jan 2026
@@ -21,10 +22,9 @@ Kutchi is a techno and bass artist based in United Kingdom, tracked on soundchec
 - M.O.T, London — Sat, 12 Jul 2025
 - The Glove That Fits, London — Thu, 5 Jun 2025
 - Bricks, London — Fri, 30 May 2025
-- Dalston Den, London — Fri, 21 Feb 2025
 
 ## Shares bills with
 
 Dusty Dan, Basement Maxx, NIIX
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*

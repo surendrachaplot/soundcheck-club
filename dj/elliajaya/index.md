@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
 Ellia Jaya is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Belfast and 18 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
@@ -32,4 +32,4 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 86 sets 
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

@@ -1,6 +1,6 @@
 # Lamati
 
-Lamati is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Versalles 64, Mexico City on Sat, 15 Aug 2026.
+Lamati is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Versalles 64, Mexico City on Sat, 15 Aug 2026.
 
 Lamati is a house and techno artist based in Nicaragua, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Joss Crown, DU'DU (MX) and Diz Shocka. Next up: Versalles 64, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lamati is a house and techno artist based in Nicaragua, tracked on soundcheck, w
 
 Joss Crown, DU'DU (MX), Diz Shocka
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamati/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamati/)*

@@ -1,6 +1,6 @@
 # Rosey Gold
 
-Rosey Gold is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 77, London on Fri, 21 Aug 2026.
+Rosey Gold is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 77, London on Fri, 21 Aug 2026.
 
 Rosey Gold is an afro house and afrobeat artist tracked on soundcheck, with 20 sets logged across Amsterdam, Bali, Ibiza and London and 1 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: 77, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rosey Gold is an afro house and afrobeat artist tracked on soundcheck, with 20 s
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*

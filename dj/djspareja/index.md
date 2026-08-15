@@ -1,6 +1,6 @@
 # Djs Pareja
 
-Djs Pareja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Shamrock Bar & Basement, Buenos Aires on Fri, 21 Aug 2026.
+Djs Pareja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Shamrock Bar & Basement, Buenos Aires on Fri, 21 Aug 2026.
 
 Djs Pareja is a house and techno artist tracked on soundcheck, with 52 sets logged across Buenosaires, Losangeles and Mexicocity. Often billed alongside Bermani, Camila Isabel and Tom Tom Clubber. Next up: The Shamrock Bar & Basement, Buenosaires on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Djs Pareja is a house and techno artist tracked on soundcheck, with 52 sets logg
 
 Bermani, Camila Isabel, Tom Tom Clubber
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspareja/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspareja/)*

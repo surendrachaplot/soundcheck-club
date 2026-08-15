@@ -1,6 +1,6 @@
 # Yu Kawabata
 
-Yu Kawabata is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
+Yu Kawabata is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
 
 Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Bucharest and Hongkong and 7 more. Often billed alongside MAX DURANTE, FENGX2 and Kleyver Reyes. Next up: Smolna, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundch
 
 MAX DURANTE, FENGX2, Kleyver Reyes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*

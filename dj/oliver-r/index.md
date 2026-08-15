@@ -1,6 +1,6 @@
 # Oliver.r
 
-Oliver.r is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at 45 London, London on Sat, 22 Aug 2026.
+Oliver.r is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 45 London, London on Sat, 22 Aug 2026.
 
 Oliver.r is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside B.Love, Jhobei and Charleze. Next up: 45 London, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Oliver.r is a house and tech house artist based in United Kingdom, tracked on so
 
 B.Love, Jhobei, Charleze
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*

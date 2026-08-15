@@ -1,6 +1,6 @@
 # DJ Prestige
 
-DJ Prestige is a Disco and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Friends & Lovers, New York City on Sat, 8 Aug 2026.
+DJ Prestige is a Disco and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Friends & Lovers, New York City on Sat, 8 Aug 2026.
 
 DJ Prestige is a disco and r&b artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Monk-One. Next up: Friends & Lovers, Newyorkcity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ DJ Prestige is a disco and r&b artist tracked on soundcheck, with 3 sets logged 
 
 Monk-One
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprestige/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprestige/)*

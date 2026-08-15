@@ -1,6 +1,6 @@
 # Odyssey
 
-Odyssey is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 15 Aug 2026.
+Odyssey is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 15 Aug 2026.
 
 Odyssey is a techno and club artist tracked on soundcheck, with 17 sets logged across Amsterdam, Manchester, Melbourne and Newyorkcity and 2 more. Often billed alongside cyb0rrrg, cybr.nova and Soo Intoit. Next up: Carousel Bar & Ballroom, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Odyssey is a techno and club artist tracked on soundcheck, with 17 sets logged a
 
 cyb0rrrg, cybr.nova, Soo Intoit
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odyssey-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odyssey-us/)*

@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Andy Martin is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -20,6 +20,7 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 67 sets log
 
 ## Recently played
 
+- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - TBA - Secret Place, Marseille — Fri, 7 Aug 2026
 - TBA, Copenhagen — Sat, 18 Jul 2026
 - Lofi, Amsterdam — Fri, 26 Jun 2026
@@ -27,10 +28,9 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 67 sets log
 - The White Hotel, Manchester — Sat, 13 Jun 2026
 - Else, Berlin — Sat, 6 Jun 2026
 - Mains D'œuvres, Paris — Sat, 30 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Niño Arbol, Blasha & Allatt, DJ MARIA.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

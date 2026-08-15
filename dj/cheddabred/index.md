@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a Jazz and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
+Chedda Bred is a Jazz and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
 
 Chedda Bred is a jazz and broken beat artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: Dalston Den, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Chedda Bred is a jazz and broken beat artist tracked on soundcheck, with 20 sets
 
 Chedda B, Neue Grafik, limi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

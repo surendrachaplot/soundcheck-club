@@ -1,6 +1,6 @@
 # Melchiorr
 
-Melchiorr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
+Melchiorr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rote Sonne, Munich on Fri, 14 Aug 2026.
 
 Melchiorr is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Belgrade, Berlin, Brussels and Cologne and 4 more. Often billed alongside Nepōmuk, IZZYA and Kongusto. Next up: Rote Sonne, Munich on Fri 14 Aug.
 
@@ -15,6 +15,7 @@ Melchiorr is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Rote Sonne, Munich — Fri, 14 Aug 2026
 - Lieberscholli, Munich — Sat, 4 Jul 2026
 - Jungle Bar, Brussels — Sat, 20 Jun 2026
 - Rote Sonne, Munich — Fri, 15 May 2026
@@ -22,10 +23,9 @@ Melchiorr is a techno and house artist based in Germany, tracked on soundcheck, 
 - Tresor / Globus, Berlin — Wed, 29 Apr 2026
 - Para Klub Beograd, Belgrade — Sun, 26 Apr 2026
 - Bizarradies, Munich — Sat, 18 Apr 2026
-- Artheater, Cologne — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Nepōmuk, IZZYA, Kongusto
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*

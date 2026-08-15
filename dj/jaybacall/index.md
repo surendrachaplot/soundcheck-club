@@ -1,6 +1,6 @@
 # Jay Bacall
 
-Jay Bacall is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Egg London, London on Sat, 12 Sept 2026.
+Jay Bacall is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Egg London, London on Sat, 12 Sept 2026.
 
 Jay Bacall is an electronica and downtempo artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside KONNR, Ritchie Haydn and Neil Thornton. Next up: Egg London, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Jay Bacall is an electronica and downtempo artist based in United Kingdom, track
 
 KONNR, Ritchie Haydn, Neil Thornton
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybacall/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybacall/)*

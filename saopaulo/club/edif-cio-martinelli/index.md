@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "CONTATO no Edifício Martinelli! | 15.08" on Sat, 15 Aug 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CONTATO no Edifício Martinelli! | 15.08" on Sat, 15 Aug 2026.
 
 Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 3 upcoming nights, with line-ups including Gop Tun DJs. Browse upcoming dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -16,4 +16,4 @@ Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 3 upcomi
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

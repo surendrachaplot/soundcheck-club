@@ -1,6 +1,6 @@
 # La Terrasse
 
-La Terrasse is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+La Terrasse is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 La Terrasse is a house and disco artist based in France, tracked on soundcheck, with 17 sets logged across Berlin and Paris. Often billed alongside Dino!, Kat_Es and KaraKara. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ La Terrasse is a house and disco artist based in France, tracked on soundcheck, 
 
 Dino!, Kat_Es, KaraKara
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*

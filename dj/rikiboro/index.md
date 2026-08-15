@@ -1,6 +1,6 @@
 # Riki Boro
 
-Riki Boro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Radost FX, Prague on Fri, 14 Aug 2026.
+Riki Boro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Radost FX, Prague on Fri, 14 Aug 2026.
 
 Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundcheck, with 42 sets logged across Prague. Often billed alongside Thomas Tesla, Diva and KAWA. Next up: Radost FX, Prague on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundchec
 
 ## Recently played
 
+- Radost FX, Prague — Fri, 14 Aug 2026
 - Groove Bar, Prague — Thu, 14 May 2026
 - Twist Bar, Prague — Thu, 5 Mar 2026
 - Groove Bar, Prague — Thu, 19 Feb 2026
@@ -20,10 +21,9 @@ Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundchec
 - Groove Bar, Prague — Wed, 10 Dec 2025
 - Groove Bar, Prague — Thu, 6 Nov 2025
 - Chapeau Rouge, Prague — Sat, 25 Oct 2025
-- Groove Bar, Prague — Wed, 17 Sept 2025
 
 ## Shares bills with
 
 Thomas Tesla, Diva, KAWA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*

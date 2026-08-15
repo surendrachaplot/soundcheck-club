@@ -1,6 +1,6 @@
 # Ruf Dug
 
-Ruf Dug is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Depot Mayfield, Manchester on Sat, 29 Aug 2026.
+Ruf Dug is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Depot Mayfield, Manchester on Sat, 29 Aug 2026.
 
 Ruf Dug is a house and disco artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bristol, Chicago and Dublin and 14 more. Often billed alongside Tia Cousins, AdomasLP and MEMP3. Next up: Depot Mayfield, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ruf Dug is a house and disco artist tracked on soundcheck, with 86 sets logged a
 
 Tia Cousins, AdomasLP, MEMP3
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*

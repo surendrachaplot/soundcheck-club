@@ -1,6 +1,6 @@
 # Rami Nassif
 
-Rami Nassif is a Pop and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Rhythm, Toronto on Sun, 16 Aug 2026.
+Rami Nassif is a Pop and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Rhythm, Toronto on Sun, 16 Aug 2026.
 
 Rami Nassif is a pop and deep house artist based in Canada, tracked on soundcheck, with 23 sets logged across Montreal and Toronto. Often billed alongside Shen (2), BABL and 999ADJ. Next up: Rhythm, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Rami Nassif is a pop and deep house artist based in Canada, tracked on soundchec
 
 Shen (2), BABL, 999ADJ
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*

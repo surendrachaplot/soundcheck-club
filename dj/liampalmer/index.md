@@ -1,14 +1,13 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Night We Met, Nashville on Fri, 14 Aug 2026.
+Liam Palmer is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Brooklyn Army Terminal, New York City on Sat, 15 Aug 2026.
 
-Liam Palmer is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Night We Met, Nashville on Fri 14 Aug.
+Liam Palmer is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Night We Met | Nashville |
 | Sat, 15 Aug 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | fabric | London |
@@ -18,6 +17,7 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 156 set
 
 ## Recently played
 
+- Night We Met, Nashville — Fri, 14 Aug 2026
 - [UNVRS], Ibiza — Wed, 12 Aug 2026
 - Blue Marlin Ibiza, Ibiza — Wed, 29 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 28 Jul 2026
@@ -25,10 +25,9 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 156 set
 - FORGE, Sheffield — Sun, 19 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 14 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 11 Jul 2026
-- Chinois Ibiza, Ibiza — Tue, 7 Jul 2026
 
 ## Shares bills with
 
 Elliot Schooling, Locky, L.P. Rhythm
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*

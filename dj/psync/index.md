@@ -1,6 +1,6 @@
 # Psync
 
-Psync is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 1990, Glasgow on Sat, 22 Aug 2026.
+Psync is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 1990, Glasgow on Sat, 22 Aug 2026.
 
 Psync is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Avyakt, Daniel Hive and McGowski. Next up: 1990, Glasgow on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Psync is a techno and tech house artist tracked on soundcheck, with 3 sets logge
 
 Avyakt, Daniel Hive, McGowski
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psync/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psync/)*

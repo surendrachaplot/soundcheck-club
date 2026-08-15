@@ -1,19 +1,19 @@
 # Devønn
 
-Devønn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Skylight Warehouse, Vancouver on Fri, 14 Aug 2026.
+Devønn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
 
-Devønn is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Marist, NIMAHA and Bÿständer. Next up: Skylight Warehouse, Vancouver on Fri 14 Aug.
+Devønn is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Marist, NIMAHA and Bÿständer. Next up: 520 Alexander Street, Vancouver on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Skylight Warehouse | Vancouver |
 | Fri, 21 Aug 2026 | 520 Alexander Street | Vancouver |
 | Fri, 4 Sept 2026 | TBA | Vancouver |
 
 ## Recently played
 
+- Skylight Warehouse, Vancouver — Fri, 14 Aug 2026
 - Frankie's, Vancouver — Sat, 27 Jun 2026
 - TBA - NEW VENUE, Vancouver — Fri, 24 Apr 2026
 - TBA - Pender Studio, Vancouver — Sat, 21 Feb 2026
@@ -26,4 +26,4 @@ Devønn is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Marist, NIMAHA, Bÿständer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devonn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devonn/)*

@@ -1,6 +1,6 @@
 # Debbie.
 
-Debbie. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at FOLD, London on Sun, 23 Aug 2026.
+Debbie. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at FOLD, London on Sun, 23 Aug 2026.
 
 Debbie. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and London. Often billed alongside Bessie-Mae, DJ OT and Mosai. Next up: FOLD, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Debbie. is a techno and house artist based in United Kingdom, tracked on soundch
 
 Bessie-Mae, DJ OT, Mosai
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*

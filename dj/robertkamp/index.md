@@ -1,6 +1,6 @@
 # ROBERT KAMP
 
-ROBERT KAMP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
+ROBERT KAMP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
 
 ROBERT KAMP is a house and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Buzz Boutique and Unna Foulanah. Next up: Bulbul Berlin, Berlin on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ ROBERT KAMP is a house and tech house artist based in Germany, tracked on soundc
 
 Buzz Boutique, Unna Foulanah
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*

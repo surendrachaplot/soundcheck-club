@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Buenosaires and Mexicocity. Often billed alongside Sebastian Mora, Patrick Scuro and Basstronauten. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 Sebastian Mora, Patrick Scuro, Basstronauten
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

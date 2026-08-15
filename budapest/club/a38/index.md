@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Drum Club / Friday" on Fri, 14 Aug 2026.
+A38 is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "10 YEARS OF 1985 MUSIC: Alix Perez & SP:MC" on Wed, 19 Aug 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and EMILS and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and EMILS and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Drum Club / Friday | Longman, Sin |
 | Wed, 19 Aug 2026 | 10 YEARS OF 1985 MUSIC: Alix Perez & SP:MC | Alix Perez, Gemcamp, Markov |
 | Wed, 19 Aug 2026 | Bladerunnaz presents: Alix Perez & SP:MC (10 Years of 1985 Music) | Alix Perez, Gemcamp, Markov, SP:MC |
 | Thu, 27 Aug 2026 | Fine Selection #219 w/Electric Boutique & Lost in Details | Electric Boutique, Lost in Details |
@@ -23,4 +22,4 @@ A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with 
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

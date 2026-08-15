@@ -1,6 +1,6 @@
 # AUS10
 
-AUS10 is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Bolero, Seoul on Sat, 15 Aug 2026.
+AUS10 is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Bolero, Seoul on Sat, 15 Aug 2026.
 
 AUS10 is a house and hip-hop artist based in South Korea, tracked on soundcheck, with 85 sets logged across Seoul. Often billed alongside Cheno, FAKEDEEPLEE and Anton Borin (2). Next up: Bolero, Seoul on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ AUS10 is a house and hip-hop artist based in South Korea, tracked on soundcheck,
 
 Cheno, FAKEDEEPLEE, Anton Borin (2)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aus10/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aus10/)*

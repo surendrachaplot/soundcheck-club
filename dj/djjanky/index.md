@@ -1,6 +1,6 @@
 # DJ Janky
 
-DJ Janky is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Home Sweet Home, New York City on Thu, 20 Aug 2026.
+DJ Janky is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Home Sweet Home, New York City on Thu, 20 Aug 2026.
 
 DJ Janky is a club and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Pei Up, TO:NY and EAMMS. Next up: Home Sweet Home, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ DJ Janky is a club and house artist based in United States of America, tracked o
 
 Pei Up, TO:NY, EAMMS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*

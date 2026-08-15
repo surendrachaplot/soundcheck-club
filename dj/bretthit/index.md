@@ -1,6 +1,6 @@
 # BrettHit
 
-BrettHit is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 15 Aug 2026.
+BrettHit is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 15 Aug 2026.
 
 BrettHit is a techno and industrial artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Dusseldorf. Often billed alongside Donnerfotz HT, Fernanda Martins and Ropemaker. Next up: R25 Kulturschlachthof, Dusseldorf on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ BrettHit is a techno and industrial artist based in Germany, tracked on soundche
 
 Donnerfotz HT, Fernanda Martins, Ropemaker
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bretthit/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bretthit/)*

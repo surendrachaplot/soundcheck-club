@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ZENNER, Berlin on Sun, 16 Aug 2026.
+Coco Maria is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ZENNER, Berlin on Sun, 16 Aug 2026.
 
 Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: ZENNER, Berlin on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

@@ -1,6 +1,6 @@
 # Asa Tate
 
-Asa Tate is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
+Asa Tate is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
 
 Asa Tate is a house and balearic artist tracked on soundcheck, with 23 sets logged across Berlin, Brighton, Edinburgh and London. Often billed alongside Meg Paine, Tech Support and Ariane V. Next up: Renate, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Asa Tate is a house and balearic artist tracked on soundcheck, with 23 sets logg
 
 Meg Paine, Tech Support, Ariane V
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*

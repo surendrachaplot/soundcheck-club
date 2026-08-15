@@ -1,6 +1,6 @@
 # Milli
 
-Milli is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Steel Yard, London on Fri, 11 Sept 2026.
+Milli is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Steel Yard, London on Fri, 11 Sept 2026.
 
 Milli is a club and disco artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Berlin and Frankfurt and 3 more. Often billed alongside Anahita Shamsaei, RONISA and Rohan the producer. Next up: The Steel Yard, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Milli is a club and disco artist based in United Kingdom, tracked on soundcheck,
 
 Anahita Shamsaei, RONISA, Rohan the producer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*

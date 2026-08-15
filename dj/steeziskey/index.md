@@ -1,6 +1,6 @@
 # Steeziskey
 
-Steeziskey is a UK Funky and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
+Steeziskey is a UK Funky and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dalston Den, London on Sat, 15 Aug 2026.
 
 Steeziskey is an uk funky and broken beat artist tracked on soundcheck, with 12 sets logged across Leeds and London. Often billed alongside sbfmRADIO, Badly Drawn Banana and Chedda Bred. Next up: Dalston Den, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Steeziskey is an uk funky and broken beat artist tracked on soundcheck, with 12 
 
 sbfmRADIO, Badly Drawn Banana, Chedda Bred
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steeziskey/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steeziskey/)*

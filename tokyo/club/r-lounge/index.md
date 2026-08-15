@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Attempt" on Fri, 14 Aug 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "HEAT MODE" on Sat, 15 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AEMI, ATT, BEPPU and BERLINER KINDL and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Attempt | MOTOKA, SIGNAL (JP), 雷庵(RYan) |
 | Sat, 15 Aug 2026 | HEAT MODE | ATT |
 | Wed, 19 Aug 2026 | DJ RYOKO HAPPY BIRTHDAY |  |
 | Thu, 20 Aug 2026 | H.O.F | Ëmbyrblume |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, wit
 | Sat, 22 Aug 2026 | 夢幻 vol.9 | Dustvoxx |
 | Sun, 23 Aug 2026 | CRAZY BANANA ~Amazing dance music all over the world!~ | MMM, MagRena |
 | Thu, 27 Aug 2026 | Resound | BERLINER KINDL, SIGNAL (JP), cosmolady |
+| Sat, 29 Aug 2026 | DUST RIOT vol.4 | SONATA |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

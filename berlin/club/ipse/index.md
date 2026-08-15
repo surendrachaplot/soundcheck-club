@@ -1,6 +1,6 @@
 # Ipse
 
-Ipse is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "2 Years of Confluencia" on Sat, 22 Aug 2026.
+Ipse is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "2 Years of Confluencia" on Sat, 22 Aug 2026.
 
 Ipse is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Chuki Juri, Dcurv and No Silver Bullet. Browse upcoming dates, start times and who's playing. Vor Dem Schlesischen Tor 2a, Berlin, 10997, Germany.
 
@@ -16,4 +16,4 @@ Ipse is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Vor Dem Schlesischen Tor 2a, Berlin, 10997, Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ipse/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ipse/)*

@@ -1,6 +1,6 @@
 # Woddd
 
-Woddd is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Woddd is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
 Woddd is a house and minimal artist based in France, tracked on soundcheck, with 20 sets logged across Barcelona, London, Paris and Strasbourg. Often billed alongside Labouts, Aline Umber and Maxime dB. Next up: Fvtvr, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Woddd is a house and minimal artist based in France, tracked on soundcheck, with
 
 Labouts, Aline Umber, Maxime dB
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woddd-fr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woddd-fr/)*

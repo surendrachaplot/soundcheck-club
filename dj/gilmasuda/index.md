@@ -1,6 +1,6 @@
 # Gil Masuda
 
-Gil Masuda is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 915 Dupont, Toronto on Sat, 15 Aug 2026.
+Gil Masuda is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 915 Dupont, Toronto on Sat, 15 Aug 2026.
 
 Gil Masuda is a disco and funk / soul artist based in Canada, tracked on soundcheck, with 13 sets logged across Miami and Toronto. Often billed alongside Jason Palma, Roland Gonzales and Abacus. Next up: 915 Dupont, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gil Masuda is a disco and funk / soul artist based in Canada, tracked on soundch
 
 Jason Palma, Roland Gonzales, Abacus
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilmasuda/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilmasuda/)*

@@ -1,6 +1,6 @@
 # The Camel
 
-The Camel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+The Camel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
 The Camel is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Al Aslan, Dj Fugitive and EMIRA. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ The Camel is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Al Aslan, Dj Fugitive, EMIRA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamel/)*

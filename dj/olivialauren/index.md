@@ -1,6 +1,6 @@
 # Olivia Lauren
 
-Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Cafe, San Francisco/Oakland on Sat, 15 Aug 2026.
+Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Cafe, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Olivia Lauren is a club and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside arktoi, ANDYLAND and ELA MENTAL. Next up: The Cafe, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Olivia Lauren is a club and techno artist based in United States of America, tra
 
 arktoi, ANDYLAND, ELA MENTAL
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*

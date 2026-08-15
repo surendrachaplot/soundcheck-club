@@ -1,6 +1,6 @@
 # Raner Baumgartner
 
-Raner Baumgartner is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sala El Sol, Madrid on Sat, 15 Aug 2026.
+Raner Baumgartner is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala El Sol, Madrid on Sat, 15 Aug 2026.
 
 Raner Baumgartner is a techno and acid artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside KITAE, MOI6 and Serrato. Next up: Sala El Sol, Madrid on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Raner Baumgartner is a techno and acid artist based in Spain, tracked on soundch
 
 KITAE, MOI6, Serrato
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*

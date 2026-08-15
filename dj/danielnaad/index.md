@@ -1,6 +1,6 @@
 # Daniel Naad
 
-Daniel Naad is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Padel Yard Reffen, Copenhagen on Sat, 15 Aug 2026.
+Daniel Naad is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Padel Yard Reffen, Copenhagen on Sat, 15 Aug 2026.
 
 Daniel Naad is a minimal techno and house artist tracked on soundcheck, with 22 sets logged across Copenhagen. Often billed alongside Geroge, Fynutzu and 7 Levels. Next up: Padel Yard Reffen, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Daniel Naad is a minimal techno and house artist tracked on soundcheck, with 22 
 
 Geroge, Fynutzu, 7 Levels
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielnaad/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielnaad/)*

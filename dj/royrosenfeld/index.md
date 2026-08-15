@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
+Roy Rosenfeld is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 15 Aug 2026.
 
 Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Grand Quai du Port de Montreal, Montreal on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

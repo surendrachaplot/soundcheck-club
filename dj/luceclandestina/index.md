@@ -1,6 +1,6 @@
 # Luce Clandestina
 
-Luce Clandestina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Soffio Fregene, Rome on Sat, 29 Aug 2026.
+Luce Clandestina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Soffio Fregene, Rome on Sat, 29 Aug 2026.
 
 Luce Clandestina is a techno and electro artist based in Italy, tracked on soundcheck, with 44 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Soffio Fregene, Rome on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luce Clandestina is a techno and electro artist based in Italy, tracked on sound
 
 Emiliano Comollo, Seven sins, Voodoos and Taboos
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*

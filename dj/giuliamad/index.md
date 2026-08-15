@@ -1,6 +1,6 @@
 # Giulia Mad
 
-Giulia Mad is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
+Giulia Mad is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
 
 Giulia Mad is an afro house and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside Yhago, Alex Fox and Guidomik. Next up: EL SÓTANO, Madrid on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Giulia Mad is an afro house and house artist based in Spain, tracked on soundche
 
 Yhago, Alex Fox, Guidomik
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliamad/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliamad/)*

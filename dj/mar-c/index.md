@@ -1,6 +1,6 @@
 # Mar-C
 
-Mar-C is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ciao ciao Bar, Berlin on Fri, 28 Aug 2026.
+Mar-C is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ciao ciao Bar, Berlin on Fri, 28 Aug 2026.
 
 Mar-C is a deep house and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Nurnberg. Often billed alongside ANouch, Ana+One and Andre Kronert. Next up: ciao ciao Bar, Berlin on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Mar-C is a deep house and techno artist tracked on soundcheck, with 8 sets logge
 
 ANouch, Ana+One, Andre Kronert
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-c/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-c/)*

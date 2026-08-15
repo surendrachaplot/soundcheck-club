@@ -1,18 +1,18 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
+Shannen SP is a Amapiano and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 29 Aug 2026.
 
-Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Basel and Berlin and 15 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: The Carpet Shop, London on Fri 14 Aug.
+Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Basel and Berlin and 15 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: M.O.T, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | The Carpet Shop | London |
 | Sat, 29 Aug 2026 | M.O.T | London |
 
 ## Recently played
 
+- The Carpet Shop, London — Fri, 14 Aug 2026
 - Abercrombie Hotel, Sydney — Fri, 17 Jul 2026
 - OHM, Berlin — Fri, 26 Jun 2026
 - Badaboum, Paris — Sun, 21 Jun 2026
@@ -20,10 +20,9 @@ Shannen SP is an amapiano and club artist based in United Kingdom, tracked on so
 - Palais, London — Fri, 22 May 2026
 - HERE, London — Fri, 17 Apr 2026
 - Ormside Projects, London — Sat, 28 Mar 2026
-- Ormside Projects, London — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Bok Bok, Ikonika, Nico Adomako
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

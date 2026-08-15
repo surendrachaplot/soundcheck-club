@@ -1,6 +1,6 @@
 # Kogiel
 
-Kogiel is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
+Kogiel is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
 
 Kogiel is a garage and bass artist tracked on soundcheck, with 25 sets logged across Krakow and Warsaw. Often billed alongside NOV1K, dj.zamocno and Sarba. Next up: TBA - Bar Schodki, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kogiel is a garage and bass artist tracked on soundcheck, with 25 sets logged ac
 
 NOV1K, dj.zamocno, Sarba
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kogiel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kogiel/)*

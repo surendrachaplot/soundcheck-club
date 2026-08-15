@@ -1,6 +1,6 @@
 # Millie Forsberg
 
-Millie Forsberg is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
+Millie Forsberg is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Humboldthain Club, Berlin on Fri, 14 Aug 2026.
 
 Millie Forsberg is a techno and trance artist tracked on soundcheck, with 97 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, Melanchromie and SaltySis. Next up: Humboldthain Club, Berlin on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Millie Forsberg is a techno and trance artist tracked on soundcheck, with 97 set
 
 ## Recently played
 
+- Humboldthain Club, Berlin — Fri, 14 Aug 2026
 - Humboldthain Club, Berlin — Sat, 18 Jul 2026
 - Backstage, Munich — Sat, 11 Jul 2026
 - KitKatClub, Berlin — Wed, 1 Jul 2026
@@ -20,10 +21,9 @@ Millie Forsberg is a techno and trance artist tracked on soundcheck, with 97 set
 - TBA, Cologne — Sat, 6 Jun 2026
 - ://about blank, Berlin — Fri, 5 Jun 2026
 - TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
-- KitKatClub, Berlin — Wed, 20 May 2026
 
 ## Shares bills with
 
 DJ Jordan, Melanchromie, SaltySis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*

@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 68 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "OBSIDIA pres. HANÀ [HALF NIGHT LONG] & OUTDOOR FLOOR" on Fri, 14 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 68 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "OBSIDIA pres. HANÀ [HALF NIGHT LONG] & OUTDOOR FLOOR" on Fri, 14 Aug 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

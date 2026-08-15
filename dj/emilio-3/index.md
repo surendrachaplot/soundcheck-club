@@ -1,6 +1,6 @@
 # EMILIO (3)
 
-EMILIO (3) is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
+EMILIO (3) is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
 
 EMILIO (3) is a techno and industrial artist based in Japan, tracked on soundcheck, with 55 sets logged across Tokyo. Often billed alongside EVE (1), uuu7 and STRATAH. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ EMILIO (3) is a techno and industrial artist based in Japan, tracked on soundche
 
 EVE (1), uuu7, STRATAH
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-3/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-3/)*

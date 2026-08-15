@@ -1,6 +1,6 @@
 # Charlie Fry
 
-Charlie Fry is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 22 Aug 2026.
+Charlie Fry is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 22 Aug 2026.
 
 Charlie Fry is a tech house and house artist based in Dominican Republic, tracked on soundcheck, with 10 sets logged across Dublin. Often billed alongside ISKO, Rocco (BR) and Waximum. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Charlie Fry is a tech house and house artist based in Dominican Republic, tracke
 
 ISKO, Rocco (BR), Waximum
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliefry/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliefry/)*

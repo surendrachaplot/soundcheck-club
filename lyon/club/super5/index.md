@@ -1,14 +1,13 @@
 # Super5
 
-Super5 is a music venue in Lyon with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Da:mu" on Fri, 14 Aug 2026.
+Super5 is a music venue in Lyon with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "BMK RESIDENCY - Koffi" on Wed, 19 Aug 2026.
 
-Super5 is a music venue in Lyon listed on soundcheck. 9 upcoming nights, with line-ups including chani, Da:mu, Koffi and Nikky and 1 more. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
+Super5 is a music venue in Lyon listed on soundcheck. 8 upcoming nights, with line-ups including chani, Koffi, Nikky and Rasaaq. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Da:mu | Da:mu |
 | Wed, 19 Aug 2026 | BMK RESIDENCY - Koffi | Koffi |
 | Thu, 20 Aug 2026 | ROXO |  |
 | Fri, 21 Aug 2026 | DEE LALI |  |
@@ -22,4 +21,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 9 upcoming nights, with li
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

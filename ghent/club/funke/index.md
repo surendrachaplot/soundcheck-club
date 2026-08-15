@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FUNKE_CLUBNIGHT_Yentl & Yela, Weensecs" on Fri, 14 Aug 2026.
+Funke is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FUNKE_CLUBNIGHT_Yentl & Yela, Weensecs" on Fri, 14 Aug 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Nico Juice, Thang, Wannes Lenaers and Yela and 1 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -15,4 +15,4 @@ Funke is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with li
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

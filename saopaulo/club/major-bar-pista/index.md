@@ -1,14 +1,13 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Charlie convida Andrea Gram" on Fri, 14 Aug 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Major recebe Cabanka" on Sat, 15 Aug 2026.
 
-Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Charlie convida Andrea Gram |  |
 | Sat, 15 Aug 2026 | Major recebe Cabanka |  |
 | Wed, 19 Aug 2026 | Major recebe Guma Joana convida: Nebulosa e Avante |  |
 | Thu, 20 Aug 2026 | Major recebe YONOID |  |
@@ -23,4 +22,4 @@ Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 10 upcoming
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

@@ -1,6 +1,6 @@
 # Alis
 
-Alis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
+Alis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
 
 Alis is a techno and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Madrid and Milan and 2 more. Often billed alongside Sinai (1), 3polar and Alessandro Adriani. Next up: Œlgarten, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Alis is a techno and house artist tracked on soundcheck, with 11 sets logged acr
 
 Sinai (1), 3polar, Alessandro Adriani
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alis/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alis/)*

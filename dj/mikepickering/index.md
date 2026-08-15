@@ -1,6 +1,6 @@
 # Mike Pickering
 
-Mike Pickering is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
+Mike Pickering is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Mike Pickering is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Ibiza and Manchester. Often billed alongside DJ Paulette, Chad Jackson and David Morales. Next up: Amnesia Ibiza, Ibiza on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Mike Pickering is an electronica and house artist based in United Kingdom, track
 
 DJ Paulette, Chad Jackson, David Morales
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikepickering/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikepickering/)*

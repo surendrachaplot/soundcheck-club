@@ -1,14 +1,13 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jaeger, Oslo on Fri, 14 Aug 2026.
+Optimo (Espacio) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
 
-Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Jaeger, Oslo on Fri 14 Aug.
+Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Jaeger | Oslo |
 | Sat, 22 Aug 2026 | The Pitt Market | Edinburgh |
 | Sat, 22 Aug 2026 | Sub Club | Glasgow |
 | Sat, 22 Aug 2026 | TBA | Glasgow |
@@ -20,6 +19,7 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 181 se
 
 ## Recently played
 
+- Jaeger, Oslo — Fri, 14 Aug 2026
 - The Berkeley Suite, Glasgow — Sat, 8 Aug 2026
 - 528 Ibiza, Ibiza — Tue, 4 Aug 2026
 - Nowadays, New York City — Sun, 5 Jul 2026
@@ -27,10 +27,9 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 181 se
 - La Terrrazza, Barcelona — Sat, 27 Jun 2026
 - Phonox, London — Sat, 6 Jun 2026
 - Core, Madrid — Sat, 16 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 
 ## Shares bills with
 
 Daniel Avery, HAAi, Batu
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

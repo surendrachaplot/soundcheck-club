@@ -1,14 +1,15 @@
 # zohra
 
-zohra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 25 Aug 2026.
+zohra is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 25 Aug 2026.
 
-zohra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside JacobR, Trucha and A Pavlo. Next up: Sneaky Pete's, Edinburgh on Tue 25 Aug.
+zohra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside JacobR, Trucha and A Pavlo. Next up: Sneaky Pete's, Edinburgh on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Sneaky Pete's | Edinburgh |
+| Thu, 17 Sept 2026 | The Mash House | Edinburgh |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ zohra is a house and techno artist based in United Kingdom, tracked on soundchec
 
 JacobR, Trucha, A Pavlo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zohra/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zohra/)*

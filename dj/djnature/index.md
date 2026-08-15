@@ -1,6 +1,6 @@
 # DJ Nature
 
-DJ Nature is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Love Inn, Bristol on Sat, 15 Aug 2026.
+DJ Nature is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Love Inn, Bristol on Sat, 15 Aug 2026.
 
 DJ Nature is a house and club artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Barcelona, Bristol, Kyoto and Lisbon and 2 more. Often billed alongside DJ Nori, oriön (JP) and Alex From Tokyo. Next up: The Love Inn, Bristol on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Nature is a house and club artist based in United Kingdom, tracked on soundch
 
 DJ Nori, oriön (JP), Alex From Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnature/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnature/)*

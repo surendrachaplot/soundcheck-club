@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "WEEKEND SELECTERS" on Fri, 14 Aug 2026.
+BAR Inc is a music venue in Osaka with 20 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "WEEKEND SELECTERS" on Sat, 15 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including AOKI takamasa, Arpy Brown, Big Animal Theory and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 20 upcoming nights, with line-ups including AOKI takamasa, Arpy Brown, Big Animal Theory and DJ Monchan and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | WEEKEND SELECTERS | DJ Garth |
 | Sat, 15 Aug 2026 | WEEKEND SELECTERS | Fabio Me Llaman Soltero, Ground (1), Sunga |
 | Sun, 16 Aug 2026 | HOLIDAY ORDERS |  |
 | Wed, 19 Aug 2026 | WEEKDAY ORDERS |  |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with
 | Sun, 23 Aug 2026 | HOLIDAY ORDERS |  |
 | Thu, 27 Aug 2026 | WEEKDAY ORDERS |  |
 | Fri, 28 Aug 2026 | WEEKEND SELECTERS | Yoshihiro Okino |
+| Sat, 29 Aug 2026 | WEEKEND SELECTERS | DJ Quietstorm |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

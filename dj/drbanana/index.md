@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 14 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 14 Aug 2026.
+Dr Banana is a House and Garage artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 14 Aug 2026.
 
 Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Les Enfants Brillants, Barcelona on Fri 14 Aug.
 
@@ -23,6 +23,7 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logg
 
 ## Recently played
 
+- Les Enfants Brillants, Barcelona — Fri, 14 Aug 2026
 - Sukkerbiten, Oslo — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
@@ -30,10 +31,9 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logg
 - Night Tales, London — Fri, 29 May 2026
 - Freight Island, Manchester — Sun, 24 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
-- Sandown Racecourse, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

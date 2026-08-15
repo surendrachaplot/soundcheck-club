@@ -1,18 +1,18 @@
 # AMIRA
 
-AMIRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+AMIRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
 
-AMIRA is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Antwerp, Losangeles, Melbourne and Sandiego. Often billed alongside Terry Jasinto, DJ IDeaL and Jimbo James. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
+AMIRA is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Antwerp, Losangeles, Melbourne and Sandiego. Often billed alongside Terry Jasinto, DJ IDeaL and Jimbo James. Next up: Miscellania, Melbourne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Private Location | San Diego |
 | Sat, 15 Aug 2026 | Miscellania | Melbourne |
 
 ## Recently played
 
+- TBA - Private Location, San Diego — Fri, 14 Aug 2026
 - Buena Vista Lake, Los Angeles — Wed, 20 May 2026
 - Coasterra, San Diego — Wed, 31 Dec 2025
 - Het Bos, Antwerp — Wed, 29 Oct 2025
@@ -20,10 +20,9 @@ AMIRA is a house and techno artist based in United States of America, tracked on
 - Kimpton Alma Hotel Rooftop, San Diego — Sat, 16 Aug 2025
 - Spin, San Diego — Sat, 28 Jun 2025
 - EQ San Diego, San Diego — Fri, 13 Jun 2025
-- The Soap Factory, San Diego — Sat, 31 May 2025
 
 ## Shares bills with
 
 Terry Jasinto, DJ IDeaL, Jimbo James
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amira/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amira/)*

@@ -1,6 +1,6 @@
 # Carl Luis
 
-Carl Luis is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
+Carl Luis is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
 
 Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Milan and Newyorkcity. Often billed alongside Giouann, Arthur (DE) and Gavsborg. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck,
 
 Giouann, Arthur (DE), Gavsborg
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*

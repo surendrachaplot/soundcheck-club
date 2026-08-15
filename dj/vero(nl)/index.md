@@ -1,6 +1,6 @@
 # Vero (NL)
 
-Vero (NL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Vero (NL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Vero (NL) is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Ninsa, Darlow and Mitch de Klein. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Vero (NL) is a techno and hardcore artist based in Netherlands, tracked on sound
 
 Ninsa, Darlow, Mitch de Klein
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero(nl)/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero(nl)/)*

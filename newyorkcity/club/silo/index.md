@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Torren Foot / QLANK" on Fri, 14 Aug 2026.
+SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Heat House: Summer Closing ft Naak" on Sat, 15 Aug 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including A DJ Named SNE, Amiti, Anthony Romano and Anyasa and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including A DJ Named SNE, Amiti, Anthony Romano and Anyasa and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Torren Foot / QLANK | Torren Foot |
 | Sat, 15 Aug 2026 | Heat House: Summer Closing ft Naak | Ohlei, WEMI |
 | Sat, 15 Aug 2026 | Omar ؏ |  |
 | Sun, 16 Aug 2026 | Brunch Sessions |  |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, w
 | Fri, 21 Aug 2026 | Marco Faraone | Marco Faraone |
 | Tue, 25 Aug 2026 | Open Decks with STEEN & Masht | STEEN |
 | Wed, 26 Aug 2026 | Open Decks with STEEN and finding your niche | STEEN |
+| Thu, 27 Aug 2026 | Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP) | Bruce Wayne (US), ELIVVATE, IgP (1), KRAVE, Wires (US) |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

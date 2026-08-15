@@ -1,14 +1,13 @@
 # Magazine Open–Air
 
-Magazine Open–Air is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Our House W/ Meduza, James Hype, Nora En Pure & more" on Fri, 14 Aug 2026.
+Magazine Open–Air is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Josh Baker b2b Max Dean" on Sat, 15 Aug 2026.
 
-Magazine Open–Air is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Amelie Lens, Brina Knauss, Cristoph and david bay and 2 more. Browse upcoming dates, start times and who's playing. 11 Ordnance Crescent, London, SE10 0JH.
+Magazine Open–Air is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Amelie Lens, david bay, DAX J and D Double E and 2 more. Browse upcoming dates, start times and who's playing. 11 Ordnance Crescent, London, SE10 0JH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Our House W/ Meduza, James Hype, Nora En Pure & more | Brina Knauss, Cristoph, Dombresky, James Hype (UK), Layla Benitez, Meduza, Nora En Pure |
 | Sat, 15 Aug 2026 | Josh Baker b2b Max Dean | Josh Baker, Lily C-D, Marsolo, Max Dean, Nautica |
 | Sat, 15 Aug 2026 | Josh Baker b2b Max Dean | Josh Baker, Max Dean |
 | Sun, 16 Aug 2026 | 15 years: The Soulection Experience | D Double E, Joe Kay, Karen Nyame KG, Qendresa, Shaka Lion |
@@ -20,4 +19,4 @@ Magazine Open–Air is a music venue in London listed on soundcheck. 7 upcoming 
 
 11 Ordnance Crescent, London, SE10 0JH, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-open-air/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-open-air/)*

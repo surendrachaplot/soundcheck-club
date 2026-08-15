@@ -1,6 +1,6 @@
 # Kate Moss
 
-Kate Moss is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Liquid Club, Malta on Fri, 18 Sept 2026.
+Kate Moss is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Liquid Club, Malta on Fri, 18 Sept 2026.
 
 Kate Moss is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Athens, London and Malta. Often billed alongside CENKK, VENERE and Yashar (UK). Next up: Liquid Club, Malta on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kate Moss is a tech house and deep house artist based in United Kingdom, tracked
 
 CENKK, VENERE, Yashar (UK)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*

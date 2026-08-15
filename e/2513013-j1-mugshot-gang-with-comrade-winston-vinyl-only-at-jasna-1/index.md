@@ -1,6 +1,6 @@
 # J1 - Mugshot Gang with Comrade Winston [vinyl only] at Jasna 1
 
-J1 - Mugshot Gang with Comrade Winston [vinyl only] at Jasna 1 on Fri 4 Sept, Warsaw. 6 acts on the bill: Abrew, Comrade Winston, daisy cutter and DOMEL and 2 more. Preview the line-up and save it on soundcheck.
+J1 - Mugshot Gang with Comrade Winston [vinyl only] at Jasna 1 on Fri 4 Sept, Warsaw. 7 acts on the bill: Abrew, Comrade Winston, daisy cutter and dj.zamocno and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ J1 - Mugshot Gang with Comrade Winston [vinyl only] at Jasna 1 on Fri 4 Sept, Wa
 - Abrew
 - Comrade Winston
 - daisy cutter
+- dj.zamocno
 - DOMEL
 - max whatever
 - toutestmagnifique

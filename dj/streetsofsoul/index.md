@@ -1,6 +1,6 @@
 # Streets Of Soul
 
-Streets Of Soul is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Mr Wolfs, Bristol on Sun, 16 Aug 2026.
+Streets Of Soul is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mr Wolfs, Bristol on Sun, 16 Aug 2026.
 
 Streets Of Soul is a funk / soul and disco artist tracked on soundcheck, with 27 sets logged across Birmingham, Bristol and Paris. Often billed alongside SCHAEFFER, NORTHERN SOUL GIRL LEVANNA and Perry Louis. Next up: Mr Wolfs, Bristol on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Streets Of Soul is a funk / soul and disco artist tracked on soundcheck, with 27
 
 SCHAEFFER, NORTHERN SOUL GIRL LEVANNA, Perry Louis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/streetsofsoul/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/streetsofsoul/)*

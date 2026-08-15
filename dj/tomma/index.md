@@ -1,6 +1,6 @@
 # Tomma
 
-Tomma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Club der Visionaere, Berlin on Tue, 25 Aug 2026.
+Tomma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Tue, 25 Aug 2026.
 
 Tomma is a house and techno artist tracked on soundcheck, with 66 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and BEQA. Next up: Club der Visionaere, Berlin on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Tomma is a house and techno artist tracked on soundcheck, with 66 sets logged ac
 
 Gio Shengelia, Bekuchi, BEQA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*

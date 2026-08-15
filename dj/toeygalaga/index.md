@@ -1,6 +1,6 @@
 # Toey Galaga
 
-Toey Galaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
+Toey Galaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Badehaus Berlin, Berlin on Sat, 15 Aug 2026.
 
 Toey Galaga is a techno and trance artist based in Thailand, tracked on soundcheck, with 8 sets logged across Bangkok and Berlin. Often billed alongside X-Visions, Freulein P. and Electrooney. Next up: Badehaus Berlin, Berlin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Toey Galaga is a techno and trance artist based in Thailand, tracked on soundche
 
 X-Visions, Freulein P., Electrooney
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toeygalaga/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toeygalaga/)*

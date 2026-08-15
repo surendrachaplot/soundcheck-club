@@ -1,6 +1,6 @@
 # Ta Qali National Park
 
-Ta Qali National Park is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SummerDaze - Calvin Harris" on Sat, 15 Aug 2026.
+Ta Qali National Park is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SummerDaze - Calvin Harris" on Sat, 15 Aug 2026.
 
 Ta Qali National Park is a music venue in Malta listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Uno Malta, Crafts Village, Ta'Qali, Attard ATD, Attard 4000, Malta.
 
@@ -15,4 +15,4 @@ Ta Qali National Park is a music venue in Malta listed on soundcheck. 2 upcoming
 
 Uno Malta, Crafts Village, Ta'Qali, Attard ATD, Attard 4000, Malta, Malta
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/ta-qali-national-park/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/ta-qali-national-park/)*

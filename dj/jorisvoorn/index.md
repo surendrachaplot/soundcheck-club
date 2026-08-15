@@ -1,6 +1,6 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -33,4 +33,4 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets lo
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

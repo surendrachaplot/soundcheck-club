@@ -1,6 +1,6 @@
 # Ribé
 
-Ribé is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
+Ribé is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
 
 Ribé is a techno and electro artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Lewis Fautzi, Oscar Mulero and Adriana Lopez. Next up: EL SÓTANO, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ribé is a techno and electro artist tracked on soundcheck, with 24 sets logged 
 
 Lewis Fautzi, Oscar Mulero, Adriana Lopez
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ribe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ribe/)*

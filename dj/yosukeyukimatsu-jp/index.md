@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Haus der Visionäre, Berlin on Thu, 20 Aug 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Haus der Visionäre, Berlin on Thu, 20 Aug 2026.
 
 ¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Haus der Visionäre, Berlin on Thu 20 Aug.
 
@@ -29,4 +29,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

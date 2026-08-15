@@ -1,6 +1,6 @@
 # BÊTE NOIRE
 
-BÊTE NOIRE is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Samis Bar, Athens on Sun, 16 Aug 2026.
+BÊTE NOIRE is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Samis Bar, Athens on Sun, 16 Aug 2026.
 
 BÊTE NOIRE is a disco and electronica artist based in Greece, tracked on soundcheck, with 16 sets logged across Athens. Often billed alongside ClubKid, .Fro. and The Dreamer. Next up: Samis Bar, Athens on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ BÊTE NOIRE is a disco and electronica artist based in Greece, tracked on soundc
 
 ClubKid, .Fro., The Dreamer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bêtenoire/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bêtenoire/)*

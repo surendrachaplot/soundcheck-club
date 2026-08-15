@@ -1,6 +1,6 @@
 # Lauer
 
-Lauer is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Lauer is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 Lauer is a house and italo disco artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Sam Goku, Rosa Red and Sara Miller. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lauer is a house and italo disco artist tracked on soundcheck, with 77 sets logg
 
 Sam Goku, Rosa Red, Sara Miller
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*

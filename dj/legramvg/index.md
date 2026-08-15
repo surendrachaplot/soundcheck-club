@@ -1,6 +1,6 @@
 # LEGRAM VG
 
-LEGRAM VG is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
+LEGRAM VG is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
 
 LEGRAM VG is a house and electro artist tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Anaïs Liro, Oscar VG and Lumbago. Next up: Le Trabendo, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LEGRAM VG is a house and electro artist tracked on soundcheck, with 60 sets logg
 
 Anaïs Liro, Oscar VG, Lumbago
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*

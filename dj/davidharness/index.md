@@ -1,6 +1,6 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
+David Harness is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 David Harness is a house and deep house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Detroit, Lisbon and London and 5 more. Often billed alongside Homero Espinosa, DJ M3 and nina sol. Next up: The Great Northern, Sanfrancisco on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ David Harness is a house and deep house artist based in United States of America
 
 Homero Espinosa, DJ M3, nina sol
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

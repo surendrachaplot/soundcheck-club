@@ -1,6 +1,6 @@
 # Roussakis
 
-Roussakis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Hangaren, Copenhagen on Fri, 14 Aug 2026.
+Roussakis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Fri, 14 Aug 2026.
 
 Roussakis is a house and techno artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Max Finney, Anders HP and Anja Pi. Next up: Hangaren, Copenhagen on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Roussakis is a house and techno artist based in Denmark, tracked on soundcheck, 
 
 ## Recently played
 
+- Hangaren, Copenhagen — Fri, 14 Aug 2026
 - Culture Box, Copenhagen — Fri, 27 Mar 2026
 - Culture Box, Copenhagen — Sat, 26 Oct 2024
 - Baggen, Copenhagen — Wed, 19 Jun 2024
@@ -24,4 +25,4 @@ Roussakis is a house and techno artist based in Denmark, tracked on soundcheck, 
 
 Max Finney, Anders HP, Anja Pi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roussakis/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roussakis/)*

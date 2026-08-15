@@ -1,6 +1,6 @@
 # Donauinsel
 
-Donauinsel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "LOST IN SPACE" on Sat, 5 Sept 2026.
+Donauinsel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "LOST IN SPACE" on Sat, 5 Sept 2026.
 
 Donauinsel is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Wiener Grantscheibn. Browse upcoming dates, start times and who's playing. Donauinsel; 1210 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Donauinsel is a music venue in Vienna listed on soundcheck. 1 upcoming night, wi
 
 Donauinsel; 1210 Vienna; Austria, Vienna
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/donauinsel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/donauinsel/)*

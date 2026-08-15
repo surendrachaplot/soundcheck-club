@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "House of Unity: Summer Day Party" on Sat, 15 Aug 2026.
+Lakota is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "House of Unity: Summer Day Party" on Sat, 15 Aug 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Friction and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

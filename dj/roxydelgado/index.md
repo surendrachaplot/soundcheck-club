@@ -1,6 +1,6 @@
 # Roxy Delgado
 
-Roxy Delgado is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sidecar, Barcelona on Thu, 13 Aug 2026.
+Roxy Delgado is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sidecar, Barcelona on Thu, 13 Aug 2026.
 
 Roxy Delgado is a house and tech house artist tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside Juarez, Carlos De Castro and Chris Figueroa. Next up: Sidecar, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Roxy Delgado is a house and tech house artist tracked on soundcheck, with 15 set
 
 Juarez, Carlos De Castro, Chris Figueroa
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxydelgado/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxydelgado/)*

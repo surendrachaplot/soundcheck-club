@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "THIS! with Iz & Diz" on Sat, 15 Aug 2026.
+The Monkey Loft is a music venue in Seattle with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "THIS! with Iz & Diz" on Sat, 15 Aug 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 8 upcoming nights, with line-ups including Black Velveteen, Cami Jones, Christine Michelle and David Hohme and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -21,4 +21,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 8 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

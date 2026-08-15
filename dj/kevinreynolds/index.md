@@ -1,6 +1,6 @@
 # Kevin Reynolds
 
-Kevin Reynolds is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Spkrbox, Detroit on Sat, 15 Aug 2026.
+Kevin Reynolds is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Spkrbox, Detroit on Sat, 15 Aug 2026.
 
 Kevin Reynolds is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Detroit and Seattle. Often billed alongside MIKE RANSOM, Jon Dixon and Octave One. Next up: Spkrbox, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kevin Reynolds is a techno and house artist based in United States of America, t
 
 MIKE RANSOM, Jon Dixon, Octave One
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinreynolds/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinreynolds/)*

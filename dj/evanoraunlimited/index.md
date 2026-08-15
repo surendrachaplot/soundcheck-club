@@ -1,6 +1,6 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
 
 Evanora Unlimited is an experimental and industrial artist tracked on soundcheck, with 29 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Tagada, Vienna on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Evanora Unlimited is an experimental and industrial artist tracked on soundcheck
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

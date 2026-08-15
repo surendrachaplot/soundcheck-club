@@ -1,6 +1,6 @@
 # Shaddows
 
-Shaddows is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Crown, Bristol on Sat, 15 Aug 2026.
+Shaddows is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Crown, Bristol on Sat, 15 Aug 2026.
 
 Shaddows is a drum & bass and dubstep artist tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside El-B, Leks and LowQui. Next up: The Crown, Bristol on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Shaddows is a drum & bass and dubstep artist tracked on soundcheck, with 4 sets 
 
 El-B, Leks, LowQui
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaddows/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaddows/)*

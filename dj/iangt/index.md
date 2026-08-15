@@ -1,6 +1,6 @@
 # IanGT
 
-IanGT is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+IanGT is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 IanGT is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 12 sets logged across Sanfrancisco. Often billed alongside Zan (1), Suhcorro and jmo corleone. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ IanGT is a club and ghetto tech artist based in United States of America, tracke
 
 Zan (1), Suhcorro, jmo corleone
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iangt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iangt/)*

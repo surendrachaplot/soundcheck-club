@@ -1,6 +1,6 @@
 # OllyK
 
-OllyK is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Glove That Fits, London on Sat, 15 Aug 2026.
+OllyK is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sat, 15 Aug 2026.
 
 OllyK is a techno artist tracked on soundcheck, with 19 sets logged across Krakow and London. Often billed alongside Yova Yager, Luc * and 1BYAKKO. Next up: The Glove That Fits, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ OllyK is a techno artist tracked on soundcheck, with 19 sets logged across Krako
 
 Yova Yager, Luc *, 1BYAKKO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*

@@ -1,6 +1,6 @@
 # Buchan
 
-Buchan is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+Buchan is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
 Buchan is an electro and techno artist tracked on soundcheck, with 42 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside Edvvin, MATRIX3K and dd (PL). Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Buchan is an electro and techno artist tracked on soundcheck, with 42 sets logge
 
 Edvvin, MATRIX3K, dd (PL)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*

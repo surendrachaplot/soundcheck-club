@@ -1,6 +1,6 @@
 # AN(8)X festival 2026: Love Village, August 15-16th, September 25th at TBA - Secret Location
 
-AN(8)X festival 2026: Love Village, August 15-16th, September 25th at TBA - Secret Location on Fri 14 Aug, Berlin. 2 acts on the bill: Dyan Tai and WaqWaq Kingdom. Experimental and Club. Preview the line-up and save it on soundcheck.
+AN(8)X festival 2026: Love Village, August 15-16th, September 25th at TBA - Secret Location on Fri 14 Aug, Berlin. 3 acts on the bill: DJ COMEDOWN, Dyan Tai and WaqWaq Kingdom. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AN(8)X festival 2026: Love Village, August 15-16th, September 25th at TBA - Secr
 
 ## Line-up
 
+- DJ COMEDOWN
 - Dyan Tai
 - WaqWaq Kingdom
 

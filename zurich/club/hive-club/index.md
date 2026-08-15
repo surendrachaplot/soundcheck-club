@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Sascha Braemer" on Fri, 14 Aug 2026.
+Hive Club is a music venue in Zurich with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sascha Braemer" on Fri, 14 Aug 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming nights, with line-ups including And Hazel, Beez, Ben Sims and Bloom and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -22,4 +22,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming nights, wi
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

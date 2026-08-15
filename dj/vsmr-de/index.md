@@ -1,6 +1,6 @@
 # VSMR
 
-VSMR is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+VSMR is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
 VSMR is a house and tech house artist based in Germany, tracked on soundcheck, with 11 sets logged across Munich and Vienna. Often billed alongside Vincent Lang, Haze (GER) and Chet Rubbs. Next up: Legal, Munich on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ VSMR is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 Vincent Lang, Haze (GER), Chet Rubbs
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsmr-de/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsmr-de/)*

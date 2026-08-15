@@ -1,6 +1,6 @@
 # Kungs
 
-Kungs is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 27 Aug 2026.
+Kungs is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Kungs is a house and disco artist based in France, tracked on soundcheck, with 27 sets logged across Austin, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Chris Stussy, Isa Rojas and Purple Disco Machine. Next up: Pacha Ibiza, Ibiza on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Kungs is a house and disco artist based in France, tracked on soundcheck, with 2
 
 Chris Stussy, Isa Rojas, Purple Disco Machine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*

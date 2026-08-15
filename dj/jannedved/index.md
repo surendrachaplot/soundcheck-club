@@ -1,6 +1,6 @@
 # Jan Nedved
 
-Jan Nedved is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bukanyr Boat, Prague on Sat, 15 Aug 2026.
+Jan Nedved is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bukanyr Boat, Prague on Sat, 15 Aug 2026.
 
 Jan Nedved is a house and techno artist based in Czech Republic, tracked on soundcheck, with 20 sets logged across Budapest and Prague. Often billed alongside ASCENDER, Hiro and ANESI. Next up: Bukanyr Boat, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jan Nedved is a house and techno artist based in Czech Republic, tracked on soun
 
 ASCENDER, Hiro, ANESI
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*

@@ -1,6 +1,6 @@
 # Sandwicho
 
-Sandwicho is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Sandwicho is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Sandwicho is a techno and trance artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Belgrade, Berlin and Madrid and 2 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sandwicho is a techno and trance artist based in Spain, tracked on soundcheck, w
 
 Ozzwald, Cobb Douglas, JRG
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*

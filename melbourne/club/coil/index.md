@@ -1,15 +1,14 @@
 # Coil
 
-Coil is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Coil pres: Alex Albrecht [Live], Hannah D, Andy Hart, Ham" on Fri, 14 Aug 2026.
+Coil is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Coil pres: Elle, Christoph H, Qrator" on Sat, 15 Aug 2026.
 
-Coil is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Alex Albrecht, Andy Hart, DJ Pipe and Hannah D. Browse upcoming dates, start times and who's playing.
+Coil is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including DJ Pipe. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Coil pres: Alex Albrecht [Live], Hannah D, Andy Hart, Ham | Alex Albrecht, Andy Hart, Hannah D |
 | Sat, 15 Aug 2026 | Coil pres: Elle, Christoph H, Qrator |  |
 | Fri, 11 Sept 2026 | Times Collapsing presents: DJ Pipe [UK] | DJ Pipe |
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/coil/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/coil/)*

@@ -1,14 +1,15 @@
 # Claudius
 
-Claudius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Claudius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
-Claudius is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, Frankfurt, Munich and Washingtondc. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
+Claudius is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Frankfurt, Munich and Stuttgart and 1 more. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 26 Sept 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Claudius is a house and techno artist based in United States of America, tracked
 
 Calypsis, Danny Daze, Jus Nowhere
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*

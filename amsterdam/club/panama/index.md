@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "RAVING CHARLIE hard techno" on Sat, 8 Aug 2026.
+Panama is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RAVING CHARLIE hard techno" on Sat, 8 Aug 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including FHNX. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -17,4 +17,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, wi
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

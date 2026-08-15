@@ -1,6 +1,6 @@
 # Rudy.
 
-Rudy. is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
+Rudy. is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
 
 Rudy. is a house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Banksie, Joey & OBS and ADR (UK). Next up: Upper East, London on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Rudy. is a house artist tracked on soundcheck, with 5 sets logged across London.
 
 Banksie, Joey & OBS, ADR (UK)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudy/)*

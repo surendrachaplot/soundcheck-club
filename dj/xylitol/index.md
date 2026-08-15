@@ -1,6 +1,6 @@
 # Xylitol
 
-Xylitol is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Old Hairdressers, Glasgow on Sat, 15 Aug 2026.
+Xylitol is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Old Hairdressers, Glasgow on Sat, 15 Aug 2026.
 
 Xylitol is an experimental and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Belgrade, Berlin, Brighton and Glasgow and 2 more. Often billed alongside Meemo Comma, µ-Ziq and Alien Alarms. Next up: The Old Hairdressers, Glasgow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Xylitol is an experimental and jungle artist based in United Kingdom, tracked on
 
 Meemo Comma, µ-Ziq, Alien Alarms
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylitol/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylitol/)*

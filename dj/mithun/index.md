@@ -1,6 +1,6 @@
 # Mithun
 
-Mithun is a Club and Kuduro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Mithun is a Club and Kuduro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Mithun is a club and kuduro artist tracked on soundcheck, with 10 sets logged across Lisbon, London and Newyorkcity. Often billed alongside Izzi, Sway Of The Verses and AUKA. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mithun is a club and kuduro artist tracked on soundcheck, with 10 sets logged ac
 
 Izzi, Sway Of The Verses, AUKA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*

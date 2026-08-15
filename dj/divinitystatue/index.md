@@ -1,6 +1,6 @@
 # divinity statue
 
-divinity statue is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+divinity statue is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
 divinity statue is a techno artist based in Ukraine, tracked on soundcheck, with 23 sets logged across Berlin, Prague and Vienna. Often billed alongside Lil Autotune, Vividx and exegesis. Next up: Fuchs2, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ divinity statue is a techno artist based in Ukraine, tracked on soundcheck, with
 
 Lil Autotune, Vividx, exegesis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divinitystatue/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divinitystatue/)*

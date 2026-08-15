@@ -1,6 +1,6 @@
 # Lude (2)
 
-Lude (2) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Lude (2) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
 Lude (2) is a techno and electro artist based in France, tracked on soundcheck, with 12 sets logged across Strasbourg. Often billed alongside Justine Maze, Zhar and 1client. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Lude (2) is a techno and electro artist based in France, tracked on soundcheck, 
 
 Justine Maze, Zhar, 1client
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*

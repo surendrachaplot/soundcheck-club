@@ -1,6 +1,6 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 47 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Fat Joe Birthday Celebration at E11EVEN" on Fri, 14 Aug 2026.
+E11EVEN MIAMI is a music venue in Miami with 47 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Fat Joe Birthday Celebration at E11EVEN" on Fri, 14 Aug 2026.
 
 E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 47 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
@@ -23,4 +23,4 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 47 upcoming nights
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

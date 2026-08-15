@@ -1,6 +1,6 @@
 # Pinz
 
-Pinz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
+Pinz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
 
 Pinz is a house and techno artist based in Australia, tracked on soundcheck, with 30 sets logged across Melbourne and Sydney. Often billed alongside Deepa, Ari Kiko and Maz (5). Next up: Chinese Laundry, Sydney on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Pinz is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Deepa, Ari Kiko, Maz (5)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinz/)*

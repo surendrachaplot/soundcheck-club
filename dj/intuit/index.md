@@ -1,6 +1,6 @@
 # INTUIT
 
-INTUIT is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
+INTUIT is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
 
 INTUIT is an afro house and house artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside Golden Lady, Mixolis and Angela Rose. Next up: 93 Feet East, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ INTUIT is an afro house and house artist tracked on soundcheck, with 27 sets log
 
 Golden Lady, Mixolis, Angela Rose
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intuit/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intuit/)*

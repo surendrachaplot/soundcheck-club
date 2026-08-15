@@ -1,6 +1,6 @@
 # Silent Duality
 
-Silent Duality is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
+Silent Duality is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
 
 Silent Duality is a house and tech house artist tracked on soundcheck, with 3 sets logged across Miami and Newyorkcity. Often billed alongside Miguel Gallardo, RAAUL and Armii1n. Next up: Green Room NYC, Newyorkcity on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Silent Duality is a house and tech house artist tracked on soundcheck, with 3 se
 
 Miguel Gallardo, RAAUL, Armii1n
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silentduality/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silentduality/)*

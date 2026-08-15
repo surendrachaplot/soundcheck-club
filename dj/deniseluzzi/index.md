@@ -1,6 +1,6 @@
 # Denise Luzzi
 
-Denise Luzzi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at CONTACT, Amsterdam on Sat, 5 Sept 2026.
+Denise Luzzi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at CONTACT, Amsterdam on Sat, 5 Sept 2026.
 
 Denise Luzzi is an electronica and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Naples and 2 more. Often billed alongside Dino (2), Sancra and Fabrizio Sala. Next up: CONTACT, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Denise Luzzi is an electronica and techno artist based in Italy, tracked on soun
 
 Dino (2), Sancra, Fabrizio Sala
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*

@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Elli Acula is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -34,4 +34,4 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets log
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

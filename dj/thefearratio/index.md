@@ -1,6 +1,6 @@
 # The Fear Ratio
 
-The Fear Ratio is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
+The Fear Ratio is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
 
 The Fear Ratio is a techno and experimental artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, London and Montreal and 1 more. Often billed alongside James Ruskin, Mark Broom and Al Wootton. Next up: Paradiso, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ The Fear Ratio is a techno and experimental artist tracked on soundcheck, with 9
 
 James Ruskin, Mark Broom, Al Wootton
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*

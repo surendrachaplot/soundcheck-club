@@ -1,6 +1,6 @@
 # Victor G (MY)
 
-Victor G (MY) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
+Victor G (MY) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
 
 Victor G (MY) is a house and tech house artist based in Malaysia, tracked on soundcheck, with 45 sets logged across Kualalumpur. Often billed alongside Alam, Axel Groove and LZZY. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Victor G (MY) is a house and tech house artist based in Malaysia, tracked on sou
 
 Alam, Axel Groove, LZZY
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorg-my/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorg-my/)*

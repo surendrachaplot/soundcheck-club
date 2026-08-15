@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+George Smeddles is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
 George Smeddles is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ George Smeddles is a house and tech house artist tracked on soundcheck, with 71 
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

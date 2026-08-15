@@ -1,6 +1,6 @@
 # GON (LT)
 
-GON (LT) is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
+GON (LT) is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
 
 GON (LT) is a hip-hop artist tracked on soundcheck, with 3 sets logged across Osaka and Prague. Often billed alongside ANCHIN, Zest and Crystal (3). Next up: Socore Factory, Osaka on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ GON (LT) is a hip-hop artist tracked on soundcheck, with 3 sets logged across Os
 
 ANCHIN, Zest, Crystal (3)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gon/)*

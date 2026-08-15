@@ -1,6 +1,6 @@
 # Trovarsi
 
-Trovarsi is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Denver, Denver on Fri, 28 Aug 2026.
+Trovarsi is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Denver, Denver on Fri, 28 Aug 2026.
 
 Trovarsi is a techno and acid artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Bristol and Chicago and 7 more. Often billed alongside ALX-106, 92Jelani and David Castellani. Next up: TBA - Denver, Denver on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Trovarsi is a techno and acid artist based in United States of America, tracked 
 
 ALX-106, 92Jelani, David Castellani
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*

@@ -1,6 +1,6 @@
 # yung kidd
 
-yung kidd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
+yung kidd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
 
 yung kidd is a techno and house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Edinburgh and Glasgow. Often billed alongside Smiff, Lowree and Lara Sinclair. Next up: Leith Arches, Edinburgh on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ yung kidd is a techno and house artist based in United Kingdom, tracked on sound
 
 Smiff, Lowree, Lara Sinclair
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungkidd/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungkidd/)*

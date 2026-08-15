@@ -1,6 +1,6 @@
 # Nio-B
 
-Nio-B is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Sheffield on Sat, 5 Sept 2026.
+Nio-B is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Sheffield on Sat, 5 Sept 2026.
 
 Nio-B is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside MIDRIB, Freja and Marky V. Next up: TBA, Sheffield on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nio-B is a garage and dubstep artist based in United Kingdom, tracked on soundch
 
 MIDRIB, Freja, Marky V
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-b/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-b/)*

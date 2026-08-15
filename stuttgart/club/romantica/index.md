@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "GLITZERPERLCHEN mit SAMY BELL, DJ UMLEITUNG & Femcat" on Fri, 14 Aug 2026.
+Romantica is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GLITZERPERLCHEN mit SAMY BELL, DJ UMLEITUNG & Femcat" on Fri, 14 Aug 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including Alexander Maier, Femcat, GROOVESICK and Jorkes and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -17,4 +17,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

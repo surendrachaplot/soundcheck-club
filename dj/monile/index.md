@@ -1,6 +1,6 @@
 # Monile
 
-Monile is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at UMI, Brussels on Sat, 22 Aug 2026.
+Monile is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UMI, Brussels on Sat, 22 Aug 2026.
 
 Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Jonny Rock, Lamache and Miroloja. Next up: UMI, Brussels on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Monile is a house and techno artist based in Morocco, tracked on soundcheck, wit
 
 Jonny Rock, Lamache, Miroloja
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

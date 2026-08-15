@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Marco Carola is a Tech House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -23,6 +23,7 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 s
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Fri, 14 Aug 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 7 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 5 Aug 2026
@@ -30,10 +31,9 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 s
 - Pacha Ibiza, Ibiza — Fri, 31 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 17 Jul 2026
-- TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

@@ -1,6 +1,6 @@
 # 2AT
 
-2AT is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at EQ San Diego, San Diego on Thu, 20 Aug 2026.
+2AT is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at EQ San Diego, San Diego on Thu, 20 Aug 2026.
 
 2AT is a guaracha and latin bass artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Boston and Budapest and 23 more. Often billed alongside Nixss, Aleroj and BZZHOUND. Next up: EQ San Diego, Sandiego on Thu 20 Aug.
 
@@ -25,4 +25,4 @@
 
 Nixss, Aleroj, BZZHOUND
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*

@@ -1,6 +1,6 @@
 # Lake Turner
 
-Lake Turner is a Electro and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+Lake Turner is a Electro and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
 Lake Turner is an electro and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Alfie, Alythia Kwan and Dean Mir. Next up: Camden Courtyard, London on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Lake Turner is an electro and deep house artist based in United Kingdom, tracked
 
 Alfie, Alythia Kwan, Dean Mir
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*

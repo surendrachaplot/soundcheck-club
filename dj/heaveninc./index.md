@@ -1,6 +1,6 @@
 # Heaven INC.
 
-Heaven INC. is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Port de Budapest, Budapest on Thu, 20 Aug 2026.
+Heaven INC. is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Port de Budapest, Budapest on Thu, 20 Aug 2026.
 
 Heaven INC. is a tech house and progressive house artist based in Hungary, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona and Budapest. Often billed alongside Kühl, Jeff (aka Moveks) and Navider. Next up: Port de Budapest, Budapest on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Heaven INC. is a tech house and progressive house artist based in Hungary, track
 
 Kühl, Jeff (aka Moveks), Navider
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heaveninc./)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heaveninc./)*

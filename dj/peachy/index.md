@@ -1,6 +1,6 @@
 # PEACHY
 
-PEACHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Juuls Bar, Malta on Sun, 16 Aug 2026.
+PEACHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Juuls Bar, Malta on Sun, 16 Aug 2026.
 
 PEACHY is a techno and trance artist based in Malta, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside Idealist (2), INVERTED (MT) and Naomi Baldacchino. Next up: Juuls Bar, Malta on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ PEACHY is a techno and trance artist based in Malta, tracked on soundcheck, with
 
 Idealist (2), INVERTED (MT), Naomi Baldacchino
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*

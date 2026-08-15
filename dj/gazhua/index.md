@@ -1,6 +1,6 @@
 # Gazhua
 
-Gazhua is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 19 Sept 2026.
+Gazhua is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 19 Sept 2026.
 
 Gazhua is a techno and acid artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne and Sydney. Often billed alongside DELIRIOUS, 777serena and Honeysmack. Next up: TBA - INNER WEST, Sydney on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Gazhua is a techno and acid artist based in Australia, tracked on soundcheck, wi
 
 DELIRIOUS, 777serena, Honeysmack
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazhua/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazhua/)*

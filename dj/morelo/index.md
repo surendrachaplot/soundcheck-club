@@ -1,18 +1,18 @@
 # morelo
 
-morelo is a House and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Stoked&stoned, Seoul on Fri, 14 Aug 2026.
+morelo is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Stoked&stoned, Seoul on Sat, 15 Aug 2026.
 
-morelo is a house and dubstep artist tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside Mignon (2), DJ Soulscape and Oldshoes. Next up: Stoked&stoned, Seoul on Fri 14 Aug.
+morelo is a house and dubstep artist tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside Mignon (2), DJ Soulscape and Oldshoes. Next up: Stoked&stoned, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Stoked&stoned | Seoul |
 | Sat, 15 Aug 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
+- Stoked&stoned, Seoul — Fri, 14 Aug 2026
 - Ximxim Bar, Seoul — Fri, 1 Nov 2024
 - Kunstash, Seoul — Sun, 31 Dec 2023
 - Seoul Community Radio, Seoul — Thu, 28 Dec 2023
@@ -23,4 +23,4 @@ morelo is a house and dubstep artist tracked on soundcheck, with 7 sets logged a
 
 Mignon (2), DJ Soulscape, Oldshoes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*

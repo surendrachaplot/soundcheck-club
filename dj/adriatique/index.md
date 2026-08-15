@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
+Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ Adriatique is a techno and house artist tracked on soundcheck, with 153 sets log
 
 Mind Against, Colyn, Âme
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

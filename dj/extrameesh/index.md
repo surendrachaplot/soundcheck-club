@@ -1,6 +1,6 @@
 # Extra Meesh
 
-Extra Meesh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Good Room, New York City on Fri, 21 Aug 2026.
+Extra Meesh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Good Room, New York City on Fri, 21 Aug 2026.
 
 Extra Meesh is a house and disco artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside diedforthis, Seedy J and Fundido. Next up: Good Room, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Extra Meesh is a house and disco artist based in United States of America, track
 
 diedforthis, Seedy J, Fundido
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/extrameesh/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/extrameesh/)*

@@ -1,6 +1,6 @@
 # Inès Rau
 
-Inès Rau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
+Inès Rau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
 
 Inès Rau is a house and disco artist based in France, tracked on soundcheck, with 10 sets logged across Ibiza, London, Miami and Newyorkcity and 1 more. Often billed alongside ALEJO (US), ANDREA VANDALL and ATRIP. Next up: Nocturna, Ibiza on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Inès Rau is a house and disco artist based in France, tracked on soundcheck, wi
 
 ALEJO (US), ANDREA VANDALL, ATRIP
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*

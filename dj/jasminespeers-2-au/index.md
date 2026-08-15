@@ -1,6 +1,6 @@
 # Jasmine Speers
 
-Jasmine Speers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 4 Sept 2026.
+Jasmine Speers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 4 Sept 2026.
 
 Jasmine Speers is a techno and house artist based in Australia, tracked on soundcheck, with 28 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, cuznmatt and Acid Safari. Next up: Revolver Upstairs, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jasmine Speers is a techno and house artist based in Australia, tracked on sound
 
 Mike Callander, cuznmatt, Acid Safari
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminespeers-2-au/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminespeers-2-au/)*

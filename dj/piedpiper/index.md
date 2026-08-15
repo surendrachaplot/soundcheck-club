@@ -1,6 +1,6 @@
 # Pied Piper
 
-Pied Piper is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
+Pied Piper is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
 Pied Piper is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Birmingham, London and Manchester. Often billed alongside MC Creed, MC CKP and MC DT. Next up: Studio 338, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pied Piper is a garage and uk funky artist based in United Kingdom, tracked on s
 
 MC Creed, MC CKP, MC DT
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piedpiper/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piedpiper/)*

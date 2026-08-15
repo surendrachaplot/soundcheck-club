@@ -1,6 +1,6 @@
 # Frank Paper
 
-Frank Paper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Chemist, Boston on Fri, 28 Aug 2026.
+Frank Paper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Chemist, Boston on Fri, 28 Aug 2026.
 
 Frank Paper is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Newyorkcity. Often billed alongside 98dots, A lana and Alex Pastor. Next up: The Chemist, Boston on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Frank Paper is a house and techno artist based in United States of America, trac
 
 98dots, A lana, Alex Pastor
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankpaper/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankpaper/)*

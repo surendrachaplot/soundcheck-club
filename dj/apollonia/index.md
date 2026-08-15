@@ -1,6 +1,6 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
+Apollonia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Apollonia is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Apollonia is a house and techno artist tracked on soundcheck, with 99 sets logge
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

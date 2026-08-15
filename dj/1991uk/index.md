@@ -1,6 +1,6 @@
 # 1991 (UK)
 
-1991 (UK) is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+1991 (UK) is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 1991 (UK) is a drum & bass and bass artist tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 16 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -28,4 +28,4 @@
 
 Culture Shock, Dimension, Sub Focus
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*

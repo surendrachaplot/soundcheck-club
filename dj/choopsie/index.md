@@ -1,6 +1,6 @@
 # Choopsie
 
-Choopsie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Apotheke, Los Angeles on Sat, 22 Aug 2026.
+Choopsie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Apotheke, Los Angeles on Sat, 22 Aug 2026.
 
 Choopsie is a house and deep house artist tracked on soundcheck, with 14 sets logged across Denver, Losangeles and Newyorkcity. Often billed alongside DJ Shroomie, Beggar and Glo Phase. Next up: Apotheke, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Choopsie is a house and deep house artist tracked on soundcheck, with 14 sets lo
 
 DJ Shroomie, Beggar, Glo Phase
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choopsie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choopsie/)*

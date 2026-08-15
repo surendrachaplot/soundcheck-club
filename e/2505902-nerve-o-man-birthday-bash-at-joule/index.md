@@ -1,6 +1,6 @@
 # NERVE - O-MAN BIRTHDAY BASH at Joule
 
-NERVE - O-MAN BIRTHDAY BASH at Joule on Sat 15 Aug, Osaka. 6 acts on the bill: ALESSA(JP), HK. (1), KILLIN and NOBUYA (2) and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+NERVE - O-MAN BIRTHDAY BASH at Joule on Sat 15 Aug, Osaka. 7 acts on the bill: ALESSA(JP), Drunken Kong, HK. (1) and KILLIN and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NERVE - O-MAN BIRTHDAY BASH at Joule on Sat 15 Aug, Osaka. 6 acts on the bill: A
 ## Line-up
 
 - ALESSA(JP)
+- Drunken Kong
 - HK. (1)
 - KILLIN
 - NOBUYA (2)

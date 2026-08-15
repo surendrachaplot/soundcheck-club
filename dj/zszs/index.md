@@ -1,6 +1,6 @@
 # ZSZS
 
-ZSZS is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+ZSZS is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 ZSZS is a house and electronica artist based in Germany, tracked on soundcheck, with 5 sets logged across Frankfurt. Often billed alongside Arthur Robert, Bambi (FR) and Bibi Seck. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ ZSZS is a house and electronica artist based in Germany, tracked on soundcheck, 
 
 Arthur Robert, Bambi (FR), Bibi Seck
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*

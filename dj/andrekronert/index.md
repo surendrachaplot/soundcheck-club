@@ -1,6 +1,6 @@
 # Andre Kronert
 
-Andre Kronert is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Andre Kronert is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Andre Kronert is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Detroit and 4 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -17,6 +17,7 @@ Andre Kronert is a techno and house artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Südpol, Hamburg — Fri, 14 Aug 2026
 - TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
 - Westhafen, Leipzig — Fri, 1 May 2026
 - The Bassment, Detroit — Fri, 23 May 2025
@@ -27,4 +28,4 @@ Andre Kronert is a techno and house artist based in Germany, tracked on soundche
 
 Claus Bachor, Edgar Peng, 909 RACING TEAM
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*

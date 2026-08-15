@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Reset B2BABES: Djamzer b2b Peneløpe + AIEAIEAIE b2b Rebelo + Luna Orbitz b2b Elina" on Fri, 14 Aug 2026.
+La Gravière is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Reset B2BABES: Djamzer b2b Peneløpe + AIEAIEAIE b2b Rebelo + Luna Orbitz b2b Elina" on Fri, 14 Aug 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including AIEAIEAIE, Amal, Black Rave Culture and Bony Fly and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -19,4 +19,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

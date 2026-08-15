@@ -1,6 +1,6 @@
 # GYS (TT)
 
-GYS (TT) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
+GYS (TT) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
 
 GYS (TT) is a progressive house and deep house artist tracked on soundcheck, with 17 sets logged across London and Nottingham. Often billed alongside Tris (UK), Adela and Nour (UK). Next up: Last Arch, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ GYS (TT) is a progressive house and deep house artist tracked on soundcheck, wit
 
 Tris (UK), Adela, Nour (UK)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*

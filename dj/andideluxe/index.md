@@ -1,6 +1,6 @@
 # Andi de Luxe
 
-Andi de Luxe is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Minimal Bar, Berlin on Fri, 9 Oct 2026.
+Andi de Luxe is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Minimal Bar, Berlin on Fri, 9 Oct 2026.
 
 Andi de Luxe is a house and italo disco artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Oaky, Denifitiv Manu and Karsten Schmidt. Next up: Minimal Bar, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Andi de Luxe is a house and italo disco artist based in Germany, tracked on soun
 
 Oaky, Denifitiv Manu, Karsten Schmidt
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andideluxe/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andideluxe/)*

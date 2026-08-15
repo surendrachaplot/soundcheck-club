@@ -1,6 +1,6 @@
 # ZOËZO
 
-ZOËZO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
+ZOËZO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
 
 ZOËZO is a house and tech house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Rotterdam and Thehague. Often billed alongside Steve Riddm, Django and Moody Mehran. Next up: Brewpub Reijngoud, Rotterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ZOËZO is a house and tech house artist based in Netherlands, tracked on soundch
 
 Steve Riddm, Django, Moody Mehran
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*

@@ -1,14 +1,13 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Tiddalicious presents KEEP IT KEEN" on Fri, 14 Aug 2026.
+Abercrombie Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Playnice Confidential feat. Jacqui Cunningham, Kate Doherty, DJ Loner" on Sat, 15 Aug 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Soju Gang. Browse upcoming dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tiddalicious presents KEEP IT KEEN | Soju Gang |
 | Sat, 15 Aug 2026 | Playnice Confidential feat. Jacqui Cunningham, Kate Doherty, DJ Loner |  |
 | Fri, 21 Aug 2026 | Bodega Collective Presents: Abercrombie Takeover |  |
 
@@ -16,4 +15,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming ni
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

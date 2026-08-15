@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 41 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DJ Nori, DJ MAGARA & ICHILOW" on Fri, 14 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 40 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DNG & Nari" on Sat, 15 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 41 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 40 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | DJ Nori, DJ MAGARA & ICHILOW | DJ Nori |
 | Sat, 15 Aug 2026 | DNG & Nari | DNG (1), Nari (2), Toshiyuki Goto |
 | Mon, 17 Aug 2026 | KANGO, Ohishi & KAI | Ohishi |
 | Tue, 18 Aug 2026 | ZUKIE, KDT & Kenskzm | KDT |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 41 upcoming nights
 | Sat, 22 Aug 2026 | Toshiyuki Goto & KEI NAKAHARA | Toshiyuki Goto |
 | Mon, 24 Aug 2026 | DJ WATARAI, KNS & DJ TOYO |  |
 | Tue, 25 Aug 2026 | EZ & Manaha |  |
+| Wed, 26 Aug 2026 | KUBOTA,TAKESHI & DJ YAHMAN |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

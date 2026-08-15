@@ -1,6 +1,6 @@
 # Dario Klein
 
-Dario Klein is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+Dario Klein is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 Dario Klein is an electronica and progressive house artist tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside Michael Ritter, Chris Hanke and Don Son. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dario Klein is an electronica and progressive house artist tracked on soundcheck
 
 Michael Ritter, Chris Hanke, Don Son
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darioklein/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darioklein/)*

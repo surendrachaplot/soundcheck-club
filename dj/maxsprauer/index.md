@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
+Max Sprauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 101 sets logged across Berlin, Boston, Brussels and Chicago and 8 more. Often billed alongside Shvili, Rama NYC and Desyn. Next up: Refuge, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 101 sets lo
 
 Shvili, Rama NYC, Desyn
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

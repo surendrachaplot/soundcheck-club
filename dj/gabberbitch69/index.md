@@ -1,6 +1,6 @@
 # Gabberbitch69
 
-Gabberbitch69 is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, San Francisco/Oakland on Sat, 22 Aug 2026.
+Gabberbitch69 is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Gabberbitch69 is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Berlin, Copenhagen, Miami and Nashville and 3 more. Often billed alongside Franxx, DJ Land Reform and GET FACE. Next up: TBA, Sanfrancisco on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gabberbitch69 is a hardcore and techno artist based in United States of America,
 
 Franxx, DJ Land Reform, GET FACE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*

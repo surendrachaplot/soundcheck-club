@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 18 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "FIESTAS DE LA PALOMA: Iván Pica, David Berna, Gaskón" on Fri, 14 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FIESTAS DE LA PALOMA: Iván Pica, David Berna, Gaskón" on Fri, 14 Aug 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 18 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Bembi and David Berna and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 18 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

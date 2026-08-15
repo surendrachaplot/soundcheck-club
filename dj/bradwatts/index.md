@@ -1,6 +1,6 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Shady Pig Uluwatu, Bali on Sat, 15 Aug 2026.
+BRAD WATTS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Shady Pig Uluwatu, Bali on Sat, 15 Aug 2026.
 
 BRAD WATTS is a house and deep house artist tracked on soundcheck, with 30 sets logged across Bali, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Aidan Bega. Next up: The Shady Pig Uluwatu, Bali on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BRAD WATTS is a house and deep house artist tracked on soundcheck, with 30 sets 
 
 SOHAIL, Rowen Clark, Aidan Bega
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

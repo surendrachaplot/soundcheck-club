@@ -1,6 +1,6 @@
 # Trenzark
 
-Trenzark is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Sala El Sol, Madrid on Sat, 15 Aug 2026.
+Trenzark is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sala El Sol, Madrid on Sat, 15 Aug 2026.
 
 Trenzark is a techno and acid artist tracked on soundcheck, with 86 sets logged across Ibiza, Madrid and Nantes. Often billed alongside Pulpix, Nixy and Syperx. Next up: Sala El Sol, Madrid on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Trenzark is a techno and acid artist tracked on soundcheck, with 86 sets logged 
 
 Pulpix, Nixy, Syperx
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trenzark/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trenzark/)*

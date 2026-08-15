@@ -1,6 +1,6 @@
 # Shabiki
 
-Shabiki is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
+Shabiki is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
 
 Shabiki is a techno and tech house artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 5 more. Often billed alongside Rad.Lez, Lazykid and Gizmo. Next up: Bahnwärter Thiel, Munich on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Shabiki is a techno and tech house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich — Fri, 14 Aug 2026
 - Odonien, Cologne — Fri, 17 Jul 2026
 - Ritter Butzke, Berlin — Fri, 5 Jun 2026
 - Westhafen, Leipzig — Sat, 30 May 2026
@@ -19,10 +20,9 @@ Shabiki is a techno and tech house artist based in Germany, tracked on soundchec
 - Ritter Butzke, Berlin — Fri, 8 May 2026
 - Lieberscholli, Munich — Fri, 1 May 2026
 - Live-Club Bamberg, Nürnberg — Thu, 30 Apr 2026
-- Hoppetosse, Berlin — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Rad.Lez, Lazykid, Gizmo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiki/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiki/)*

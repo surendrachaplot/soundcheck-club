@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "New Tropicalistas + Soundglasses" on Fri, 14 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Rhythm People + Charlie Murnane" on Sat, 15 Aug 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Bradley Zero, Cinthie, Collie (1) and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including Bradley Zero, Cinthie, Collie (1) and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | New Tropicalistas + Soundglasses |  |
 | Sat, 15 Aug 2026 | Rhythm People + Charlie Murnane |  |
 | Sun, 16 Aug 2026 | Emmy Shigeta + Friends |  |
 | Thu, 20 Aug 2026 | Mad Professor | Mad Professor |
@@ -23,4 +22,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

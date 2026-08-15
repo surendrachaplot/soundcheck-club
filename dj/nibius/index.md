@@ -1,6 +1,6 @@
 # Nibius
 
-Nibius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Carmo Rooftop, Lisbon on Sat, 15 Aug 2026.
+Nibius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Carmo Rooftop, Lisbon on Sat, 15 Aug 2026.
 
 Nibius is a house and techno artist tracked on soundcheck, with 22 sets logged across Lisbon. Often billed alongside Pitcho, Fonzi (2) and Kokeshi. Next up: Carmo Rooftop, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nibius is a house and techno artist tracked on soundcheck, with 22 sets logged a
 
 Pitcho, Fonzi (2), Kokeshi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*

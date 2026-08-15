@@ -1,6 +1,6 @@
 # Kosmic Skaut
 
-Kosmic Skaut is a Acid and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Twist Bar, Prague on Fri, 28 Aug 2026.
+Kosmic Skaut is a Acid and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Twist Bar, Prague on Fri, 28 Aug 2026.
 
 Kosmic Skaut is an acid and club artist based in Czech Republic, tracked on soundcheck, with 32 sets logged across Prague. Often billed alongside Marie Pravda, Avsluta and Eva Porating. Next up: Twist Bar, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kosmic Skaut is an acid and club artist based in Czech Republic, tracked on soun
 
 Marie Pravda, Avsluta, Eva Porating
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmicskaut/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmicskaut/)*

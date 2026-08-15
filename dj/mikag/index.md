@@ -1,6 +1,6 @@
 # MIKA G
 
-MIKA G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+MIKA G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
 
 MIKA G is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside Eric Brwn, Enis Asfah and UWE!. Next up: ÆDEN, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ MIKA G is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Eric Brwn, Enis Asfah, UWE!
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*

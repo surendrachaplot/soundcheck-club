@@ -1,14 +1,15 @@
 # Ozwick
 
-Ozwick is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at The Glove That Fits, London on Fri, 28 Aug 2026.
+Ozwick is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Fri, 28 Aug 2026.
 
-Ozwick is a techno and house artist tracked on soundcheck, with 78 sets logged across London and Tokyo. Often billed alongside 7005, Bushmind and 7e. Next up: The Glove That Fits, London on Fri 28 Aug.
+Ozwick is a techno and house artist tracked on soundcheck, with 79 sets logged across London and Tokyo. Often billed alongside 7005, Bushmind and Taigen Kawabe. Next up: The Glove That Fits, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Glove That Fits | London |
+| Sat, 5 Sept 2026 | Spanners | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ozwick is a techno and house artist tracked on soundcheck, with 78 sets logged a
 
 ## Shares bills with
 
-7005, Bushmind, 7e
+7005, Bushmind, Taigen Kawabe
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*

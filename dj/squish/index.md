@@ -1,6 +1,6 @@
 # Squish
 
-Squish is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+Squish is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 Squish is a bass and techno artist tracked on soundcheck, with 9 sets logged across London, Losangeles, Manchester and Sanfrancisco and 1 more. Often billed alongside Cold Hippie, Form Affinity and Yuzo. Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Squish is a bass and techno artist tracked on soundcheck, with 9 sets logged acr
 
 Cold Hippie, Form Affinity, Yuzo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squish/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squish/)*

@@ -1,6 +1,6 @@
 # Øscil
 
-Øscil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
+Øscil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
 
 Øscil is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Frankfurt, Leipzig and Rome. Often billed alongside Jozh, Orakel and Artificial DNA. Next up: Tanzhaus West, Frankfurt on Fri 14 Aug.
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- Tanzhaus West, Frankfurt — Fri, 14 Aug 2026
 - Tanzhaus West, Frankfurt — Fri, 8 May 2026
 - Tanzhaus West, Frankfurt — Fri, 30 Jan 2026
 - TAG - Tevere ART Gallery, Rome — Fri, 19 Sept 2025
@@ -22,4 +23,4 @@
 
 Jozh, Orakel, Artificial DNA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil-de/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil-de/)*

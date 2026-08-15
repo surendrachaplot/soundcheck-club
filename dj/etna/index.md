@@ -1,6 +1,6 @@
 # ETNA
 
-ETNA is a Electronica and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
+ETNA is a Electronica and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 ETNA is an electronica and afrobeat artist based in Italy, tracked on soundcheck, with 41 sets logged across Athens, Ibiza and Milan. Often billed alongside ALDAVE, Vice Luna and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ ETNA is an electronica and afrobeat artist based in Italy, tracked on soundcheck
 
 ALDAVE, Vice Luna, Words of Niō
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*

@@ -1,6 +1,6 @@
 # Wade
 
-Wade is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Wade is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Basel and Brisbane and 30 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

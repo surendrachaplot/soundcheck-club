@@ -1,6 +1,6 @@
 # Harald Björk
 
-Harald Björk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Strömparterren - Norrbro Marknad, Stockholm on Sat, 15 Aug 2026.
+Harald Björk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Strömparterren - Norrbro Marknad, Stockholm on Sat, 15 Aug 2026.
 
 Harald Björk is a techno and house artist tracked on soundcheck, with 13 sets logged across Oslo and Stockholm. Often billed alongside OLING, Axel Hallqvist and Pavlo Plastikk. Next up: TBA - Strömparterren - Norrbro Marknad, Stockholm on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Harald Björk is a techno and house artist tracked on soundcheck, with 13 sets l
 
 OLING, Axel Hallqvist, Pavlo Plastikk
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haraldbjork/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haraldbjork/)*

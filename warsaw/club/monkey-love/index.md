@@ -1,14 +1,13 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "MONKEY LOVE pres. Easy Audio & anGelo" on Fri, 14 Aug 2026.
+MONKEY LOVE is a music venue in Warsaw with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MONKEY LOVE pres. Francesco & Jellin" on Sat, 15 Aug 2026.
 
-MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with line-ups including Franczesko, Easy Audio, Fedo (UA) and Francesco and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
+MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with line-ups including Franczesko, Fedo (UA), Francesco and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | MONKEY LOVE pres. Easy Audio & anGelo | Easy Audio |
 | Sat, 15 Aug 2026 | MONKEY LOVE pres. Francesco & Jellin | Francesco, Jellin |
 | Sun, 16 Aug 2026 | MONKEY LOVE pres. DAYSHIFT |  |
 | Fri, 21 Aug 2026 | MONKEY LOVE pres. MEDUZA | Kienievik, MIHVU, uiava |
@@ -22,4 +21,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, 
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

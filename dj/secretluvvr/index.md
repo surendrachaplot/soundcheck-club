@@ -1,6 +1,6 @@
 # secret luvvr
 
-secret luvvr is a Dub and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+secret luvvr is a Dub and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
 secret luvvr is a dub and afro tech artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Mellowdramatics, GUREY and LO-LOW. Next up: Jumbi, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ secret luvvr is a dub and afro tech artist tracked on soundcheck, with 13 sets l
 
 Mellowdramatics, GUREY, LO-LOW
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*

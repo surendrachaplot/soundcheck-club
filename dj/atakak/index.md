@@ -1,6 +1,6 @@
 # Ata Kak
 
-Ata Kak is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Cluny, Newcastle on Sun, 23 Aug 2026.
+Ata Kak is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Cluny, Newcastle on Sun, 23 Aug 2026.
 
 Ata Kak is a house and funk / soul artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Copenhagen and Leeds and 4 more. Often billed alongside 1tbsp, 33EMYBW and ARN4L2. Next up: The Cluny, Newcastle on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Ata Kak is a house and funk / soul artist tracked on soundcheck, with 9 sets log
 
 1tbsp, 33EMYBW, ARN4L2
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakak/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakak/)*

@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 80 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "U10247: French Connection (feat maniac&me, Nacime B and Kat)" on Fri, 14 Aug 2026.
+Minimal Bar is a music venue in Berlin with 80 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "U10247: French Connection (feat maniac&me, Nacime B and Kat)" on Fri, 14 Aug 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beshy and Beta Basti and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights,
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

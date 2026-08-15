@@ -1,6 +1,6 @@
 # Ghosty (1)
 
-Ghosty (1) is a Trance and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
+Ghosty (1) is a Trance and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
 
 Ghosty (1) is a trance and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Liverpool, Melbourne and Paris. Often billed alongside DAIZ, Amber Rose and BigT. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Ghosty (1) is a trance and drum & bass artist based in United Kingdom, tracked o
 
 DAIZ, Amber Rose, BigT
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*

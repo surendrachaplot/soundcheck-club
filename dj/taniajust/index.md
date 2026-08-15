@@ -1,6 +1,6 @@
 # Tania Just
 
-Tania Just is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Jolene, Copenhagen on Sat, 15 Aug 2026.
+Tania Just is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Jolene, Copenhagen on Sat, 15 Aug 2026.
 
 Tania Just is a house and techno artist based in Denmark, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 1 more. Often billed alongside Murrin, Mark Gill and Lucky Lube. Next up: Jolene, Copenhagen on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Tania Just is a house and techno artist based in Denmark, tracked on soundcheck,
 
 Murrin, Mark Gill, Lucky Lube
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*

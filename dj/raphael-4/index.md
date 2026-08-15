@@ -1,13 +1,14 @@
 # Raphael (UK)
 
-Raphael (UK) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Orange Room, London on Sat, 10 Oct 2026.
+Raphael (UK) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
-Raphael (UK) is a house and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Brother James, Faro and LEV (UK). Next up: Orange Room, London on Sat 10 Oct.
+Raphael (UK) is a house and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside LEV (UK), Brother James and Chenzo. Next up: The Glove That Fits, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | The Glove That Fits | London |
 | Sat, 10 Oct 2026 | Orange Room | London |
 
 ## Recently played
@@ -17,6 +18,6 @@ Raphael (UK) is a house and club artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Brother James, Faro, LEV (UK)
+LEV (UK), Brother James, Chenzo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*

@@ -1,6 +1,6 @@
 # Fault
 
-Fault is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Kastel, Istanbul on Wed, 19 Aug 2026.
+Fault is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kastel, Istanbul on Wed, 19 Aug 2026.
 
 Fault is a house and electro artist tracked on soundcheck, with 27 sets logged across Istanbul, Osaka and Tokyo. Often billed alongside Kaan Keles, Semih Akay and DJ Tutan. Next up: Kastel, Istanbul on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Fault is a house and electro artist tracked on soundcheck, with 27 sets logged a
 
 Kaan Keles, Semih Akay, DJ Tutan
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fault/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fault/)*

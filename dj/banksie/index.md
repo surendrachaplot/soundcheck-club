@@ -1,6 +1,6 @@
 # Banksie
 
-Banksie is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Banksie is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Banksie is a house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London, Manchester and Paris. Often billed alongside Annie Errez, Joey & OBS and Rudy.. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Banksie is a house artist based in United Kingdom, tracked on soundcheck, with 1
 
 Annie Errez, Joey & OBS, Rudy.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*

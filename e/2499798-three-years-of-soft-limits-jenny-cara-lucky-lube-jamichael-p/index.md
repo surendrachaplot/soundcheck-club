@@ -1,6 +1,6 @@
 # Three Years of Soft Limits: Jenny Cara, Lucky Lube, JaMichael & paper. (Live), Unjack at Ankali & Planeta Za
 
-Three Years of Soft Limits: Jenny Cara, Lucky Lube, JaMichael & paper. (Live), Unjack at Ankali & Planeta Za on Fri 21 Aug, Prague. 5 acts on the bill: Feenicks, Jenny Cara, Lucky Lube and Theo (8) and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Three Years of Soft Limits: Jenny Cara, Lucky Lube, JaMichael & paper. (Live), Unjack at Ankali & Planeta Za on Fri 21 Aug, Prague. 6 acts on the bill: Feenicks, Jenny Cara, Lucky Lube and Theo (8) and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Three Years of Soft Limits: Jenny Cara, Lucky Lube, JaMichael & paper. (Live), U
 - Jenny Cara
 - Lucky Lube
 - Theo (8)
+- too many Jesses
 - Unjack*
 
 *Source: [soundcheck](https://soundcheck.club/e/2499798-three-years-of-soft-limits-jenny-cara-lucky-lube-jamichael-p/)*

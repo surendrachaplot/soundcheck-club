@@ -1,6 +1,6 @@
 # Luis Retreo
 
-Luis Retreo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Luis Retreo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Luis Retreo is a house and club artist tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt and Vienna. Often billed alongside Ben.zo, Felix Lücke and Nimb. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Luis Retreo is a house and club artist tracked on soundcheck, with 11 sets logge
 
 Ben.zo, Felix Lücke, Nimb
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisretreo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisretreo/)*

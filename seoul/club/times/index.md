@@ -1,6 +1,6 @@
 # Times
 
-Times is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DOBERMAN & JADA PRESENT “BALLERZ BLOCK”" on Fri, 14 Aug 2026.
+Times is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DOBERMAN & JADA PRESENT “BALLERZ BLOCK”" on Fri, 14 Aug 2026.
 
 Times is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including ANDOW, DJ POOL, DOBERMAN and Multivsn and 2 more. Browse upcoming dates, start times and who's playing. Apgujeong-ro 54-gil, 25, B1.
 
@@ -16,4 +16,4 @@ Times is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with li
 
 Apgujeong-ro 54-gil, 25, B1, Seoul
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/times/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/times/)*

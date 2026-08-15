@@ -1,6 +1,6 @@
 # The White Swan
 
-The White Swan is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SHALL WE? RECORDS with special guest Medu(Spain) + 15 years of Tip Tap" on Sat, 15 Aug 2026.
+The White Swan is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SHALL WE? RECORDS with special guest Medu(Spain) + 15 years of Tip Tap" on Sat, 15 Aug 2026.
 
 The White Swan is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including mayflowduo, Medu and Shallum. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
@@ -17,4 +17,4 @@ The White Swan is a music venue in London listed on soundcheck. 4 upcoming night
 
 556 Commercial Road, Limehouse, E14 7JD, London
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*

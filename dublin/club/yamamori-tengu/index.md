@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Equinox presents: Pancratio" on Fri, 14 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Giovanni Grooves" on Sat, 15 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Equinox presents: Pancratio | Pancratio, Síofra |
 | Sat, 15 Aug 2026 | Giovanni Grooves | DJ Get Luc(y) |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
 | Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Jacky Murda, Rub A Dub HiFi |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nigh
 | Sat, 5 Sept 2026 | Tengu presents: Sunil Sharpe All Night Long | Sunil Sharpe |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show |  |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - Second Show |  |
+| Fri, 11 Sept 2026 | Club Comfort presents: JD REID | JD. REID, Roo Honeychild, Selky |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

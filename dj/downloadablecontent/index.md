@@ -1,6 +1,6 @@
 # Downloadable Content
 
-Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
+Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
 
 Downloadable Content is a techno and house artist tracked on soundcheck, with 54 sets logged across Munich, Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Legal, Munich on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Downloadable Content is a techno and house artist tracked on soundcheck, with 54
 
 ## Recently played
 
+- Legal, Munich — Fri, 14 Aug 2026
 - Bossa Nova Civic Club, New York City — Sun, 26 Jul 2026
 - TBA - Brooklyn, New York City — Sat, 11 Jul 2026
 - Eavesdrop, New York City — Wed, 1 Jul 2026
@@ -20,10 +21,9 @@ Downloadable Content is a techno and house artist tracked on soundcheck, with 54
 - Bossa Nova Civic Club, New York City — Sun, 21 Dec 2025
 - Nowadays, New York City — Sat, 6 Dec 2025
 - Elsewhere, New York City — Fri, 31 Oct 2025
-- Bossa Nova Civic Club, New York City — Wed, 30 Jul 2025
 
 ## Shares bills with
 
 Aquatic Themes, Aurora Halal, DJ DEADNAME
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*

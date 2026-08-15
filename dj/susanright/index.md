@@ -1,6 +1,6 @@
 # Susan Right
 
-Susan Right is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
+Susan Right is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
 
 Susan Right is a house and techno artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Hedda Stenberg, Mees Salomé and Olivier Weiter. Next up: Het Sieraad, Amsterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Susan Right is a house and techno artist based in Netherlands, tracked on soundc
 
 Hedda Stenberg, Mees Salomé, Olivier Weiter
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susanright/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susanright/)*

@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "DISORDER: Estella Boersma, DJ SEXSTASY, CVNSUMED, Ey.rah & MORE" on Fri, 14 Aug 2026.
+Virage is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DISORDER: Estella Boersma, DJ SEXSTASY, CVNSUMED, Ey.rah & MORE" on Fri, 14 Aug 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Alhena_ and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 16 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

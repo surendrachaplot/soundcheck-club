@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+TOT (BR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, London and Saopaulo. Often billed alongside Gartzzea, Carlo Rewer and Constratti. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, w
 
 Gartzzea, Carlo Rewer, Constratti
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

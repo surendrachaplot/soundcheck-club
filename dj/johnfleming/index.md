@@ -1,6 +1,6 @@
 # John '00' Fleming
 
-John '00' Fleming is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 29 Aug 2026.
+John '00' Fleming is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 John '00' Fleming is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Auckland, Birmingham, Bristol and Brussels and 15 more. Often billed alongside Paul Van Dyk, Aly & Fila and Alex M.O.R.P.H.. Next up: Halcyon, Sanfrancisco on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ John '00' Fleming is a trance and techno artist based in United Kingdom, tracked
 
 Paul Van Dyk, Aly & Fila, Alex M.O.R.P.H.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*

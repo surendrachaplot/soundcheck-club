@@ -1,6 +1,6 @@
 # SP:MC
 
-SP:MC is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TRAUM, Antwerp on Fri, 14 Aug 2026.
+SP:MC is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TRAUM, Antwerp on Fri, 14 Aug 2026.
 
 SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Auckland and Basel and 21 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: TRAUM, Antwerp on Fri 14 Aug.
 
@@ -20,6 +20,7 @@ SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 151 sets lo
 
 ## Recently played
 
+- TRAUM, Antwerp — Fri, 14 Aug 2026
 - The Prospect Building, Bristol — Sat, 8 Aug 2026
 - Quarters, Brighton — Fri, 7 Aug 2026
 - Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
@@ -27,10 +28,9 @@ SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 151 sets lo
 - The Prospect Building, Bristol — Sat, 27 Jun 2026
 - Volks, Brighton — Sat, 27 Jun 2026
 - Volks, Brighton — Sat, 27 Jun 2026
-- Hare & Hounds, Birmingham — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Skeptical, Alix Perez, Breakage
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*

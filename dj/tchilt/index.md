@@ -1,6 +1,6 @@
 # TCHiLT
 
-TCHiLT is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+TCHiLT is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 TCHiLT is a house and bass artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit, Losangeles, Miami and Sandiego and 1 more. Often billed alongside MNTRA, Gettoblaster and Torie. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -10,10 +10,10 @@ TCHiLT is a house and bass artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
-| Fri, 14 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
+- Tangent Gallery, Detroit — Fri, 14 Aug 2026
 - TV Lounge, Detroit — Thu, 13 Aug 2026
 - Tangent Gallery, Detroit — Thu, 13 Aug 2026
 - O'reilly’s Pub, San Francisco/Oakland — Thu, 14 May 2026
@@ -21,10 +21,9 @@ TCHiLT is a house and bass artist based in United States of America, tracked on 
 - TBA - Norwegian Joy + Harvest Caye, Belize, Miami — Sun, 18 Jan 2026
 - The Great Northern, San Francisco/Oakland — Thu, 1 Jan 2026
 - Phoenix Hotel, San Francisco/Oakland — Fri, 10 Oct 2025
-- Wicked West, San Diego — Sat, 12 Jul 2025
 
 ## Shares bills with
 
 MNTRA, Gettoblaster, Torie
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tchilt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tchilt/)*

@@ -1,6 +1,6 @@
 # AURELIA (MX)
 
-AURELIA (MX) is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 16 Aug 2026.
+AURELIA (MX) is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 16 Aug 2026.
 
 AURELIA (MX) is a house and italo disco artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity and Newyorkcity. Often billed alongside Soos, Danesholme and SNOWCAVEMAN. Next up: Sunday Sunday, Mexicocity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ AURELIA (MX) is a house and italo disco artist based in Mexico, tracked on sound
 
 Soos, Danesholme, SNOWCAVEMAN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelia-mx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelia-mx/)*

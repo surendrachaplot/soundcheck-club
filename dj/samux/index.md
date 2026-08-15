@@ -1,6 +1,6 @@
 # SAMUX
 
-SAMUX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
+SAMUX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
 
 SAMUX is a techno and trance artist based in Ireland, tracked on soundcheck, with 11 sets logged across Dublin. Often billed alongside ALPER SKR, WINSLAO and Connect. Next up: Wigwam, Dublin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SAMUX is a techno and trance artist based in Ireland, tracked on soundcheck, wit
 
 ALPER SKR, WINSLAO, Connect
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*

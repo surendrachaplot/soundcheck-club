@@ -1,6 +1,6 @@
 # Kaiju
 
-Kaiju is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Sat, 15 Aug 2026.
+Kaiju is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 15 Aug 2026.
 
 Kaiju is a dubstep artist tracked on soundcheck, with 4 sets logged across Bristol, London and Paris. Often billed alongside Cartridge (UK), Drime and Dub Athlete. Next up: M.O.T, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Kaiju is a dubstep artist tracked on soundcheck, with 4 sets logged across Brist
 
 Cartridge (UK), Drime, Dub Athlete
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiju/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiju/)*

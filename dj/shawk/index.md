@@ -1,19 +1,19 @@
 # SHAWK
 
-SHAWK is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 14 Aug 2026.
+SHAWK is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 15 Aug 2026.
 
-SHAWK is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh, Glasgow and London. Often billed alongside Bristol Luke, Corran and Hickey. Next up: La Cheetah Club, Glasgow on Fri 14 Aug.
+SHAWK is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh, Glasgow and London. Often billed alongside Bristol Luke, Corran and Hickey. Next up: Avalon Cafe Bermondsey, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | La Cheetah Club | Glasgow |
 | Sat, 15 Aug 2026 | Avalon Cafe Bermondsey | London |
 | Wed, 26 Aug 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
+- La Cheetah Club, Glasgow — Fri, 14 Aug 2026
 - The Art School, Glasgow — Sat, 7 Feb 2026
 - La Cheetah Club, Glasgow — Wed, 31 Dec 2025
 - The Art School, Glasgow — Sat, 4 Oct 2025
@@ -21,10 +21,9 @@ SHAWK is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 - Sneaky Pete's, Edinburgh — Wed, 6 Aug 2025
 - The Bongo Club, Edinburgh — Tue, 8 Apr 2025
 - Peckham Audio, London — Fri, 21 Feb 2025
-- The Mash House, Edinburgh — Sat, 1 Feb 2025
 
 ## Shares bills with
 
 Bristol Luke, Corran, Hickey
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawk/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawk/)*

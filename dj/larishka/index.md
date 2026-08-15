@@ -1,6 +1,6 @@
 # Larishka
 
-Larishka is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+Larishka is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Larishka is a trance and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Manchester. Often billed alongside ZOEVITA, Ėrrør.A and Abriss Andrej. Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Larishka is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ZOEVITA, Ėrrør.A, Abriss Andrej
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*

@@ -1,6 +1,6 @@
 # TBA - SECRET LOCATION (NORTE-PONIENTE) 
 
-TBA - SECRET LOCATION (NORTE-PONIENTE)  is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "NYNPHA" on Sat, 5 Sept 2026.
+TBA - SECRET LOCATION (NORTE-PONIENTE)  is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "NYNPHA" on Sat, 5 Sept 2026.
 
 TBA - SECRET LOCATION (NORTE-PONIENTE)  is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SECRET LOCATION (NORTE-PONIENTE)  is a music venue in Mexicocity listed on
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | NYNPHA |  |
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-secret-location-norte-poniente/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-secret-location-norte-poniente/)*

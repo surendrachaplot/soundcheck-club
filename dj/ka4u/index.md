@@ -1,6 +1,6 @@
 # KA4U
 
-KA4U is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
+KA4U is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
 
 KA4U is a techno and bass artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Limited Toss, Ascalypso and GYOKU. Next up: Noon + Cafe, Osaka on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ KA4U is a techno and bass artist tracked on soundcheck, with 72 sets logged acro
 
 Limited Toss, Ascalypso, GYOKU
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*

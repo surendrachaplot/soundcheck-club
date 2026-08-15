@@ -1,6 +1,6 @@
 # DJ PLUS PLUS
 
-DJ PLUS PLUS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+DJ PLUS PLUS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
 DJ PLUS PLUS is a house and disco artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Dusseldorf and Munich. Often billed alongside Arninho, HiHat and Annemalie. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ PLUS PLUS is a house and disco artist tracked on soundcheck, with 14 sets log
 
 Arninho, HiHat, Annemalie
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplusplus/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplusplus/)*

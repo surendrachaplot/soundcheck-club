@@ -1,6 +1,6 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Dune Park, Buenos Aires on Fri, 14 Aug 2026.
+Rossko is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Dune Park, Buenos Aires on Fri, 14 Aug 2026.
 
 Rossko is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Julian Anthony, Reeshy and Rich NXT. Next up: Dune Park, Buenosaires on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ Rossko is a house and tech house artist tracked on soundcheck, with 75 sets logg
 
 ## Recently played
 
+- Dune Park, Buenos Aires — Fri, 14 Aug 2026
 - [UNVRS], Ibiza — Wed, 15 Jul 2026
 - The Cross, London — Fri, 3 Jul 2026
 - Hazelwood Castle, Leeds — Sat, 30 May 2026
@@ -20,10 +21,9 @@ Rossko is a house and tech house artist tracked on soundcheck, with 75 sets logg
 - TBA - Enso Lounge, 124–126 Brick Lane, E1 6RU, London — Sun, 3 May 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
 - TBA - Thomas Street, Ultimo, Sydney — Sun, 5 Apr 2026
-- Home The Venue, Sydney — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Julian Anthony, Reeshy, Rich NXT
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

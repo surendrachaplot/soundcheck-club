@@ -1,6 +1,6 @@
 # The Old Hairdressers
 
-The Old Hairdressers is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Seraphim Sound (live): Xylitol / Konx-om-Pax / Éon / xtal logik" on Sat, 15 Aug 2026.
+The Old Hairdressers is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Seraphim Sound (live): Xylitol / Konx-om-Pax / Éon / xtal logik" on Sat, 15 Aug 2026.
 
 The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Craggyland, Konx-om-Pax and Xylitol. Browse upcoming dates, start times and who's playing. 20 - 28 Renfield Lane, G2 6PH Glasgow.
 
@@ -15,4 +15,4 @@ The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 2 upcomin
 
 20 - 28 Renfield Lane, G2 6PH Glasgow, Glasgow
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*

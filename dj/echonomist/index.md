@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
+Echonomist is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
 
 Echonomist is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, Avangart Tabldot and Hardt Antoine. Next up: MODULE, Copenhagen on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Echonomist is a house and techno artist tracked on soundcheck, with 121 sets log
 
 Jenia Tarsol, Avangart Tabldot, Hardt Antoine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

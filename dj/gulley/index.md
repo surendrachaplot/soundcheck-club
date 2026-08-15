@@ -1,6 +1,6 @@
 # Gulley
 
-Gulley is a Hip-Hop and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
+Gulley is a Hip-Hop and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
 
 Gulley is a hip-hop and jazz artist tracked on soundcheck, with 23 sets logged across Detroit. Often billed alongside Kesswa, Ameera and Shigeto. Next up: Moondog Cafe, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gulley is a hip-hop and jazz artist tracked on soundcheck, with 23 sets logged a
 
 Kesswa, Ameera, Shigeto
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gulley/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gulley/)*

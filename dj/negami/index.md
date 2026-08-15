@@ -1,6 +1,6 @@
 # Negami
 
-Negami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Solfa, Tokyo on Thu, 20 Aug 2026.
+Negami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Solfa, Tokyo on Thu, 20 Aug 2026.
 
 Negami is a techno and house artist tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside Nobuharu Morimoto, COSMOGANG and edge. Next up: Solfa, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Negami is a techno and house artist tracked on soundcheck, with 47 sets logged a
 
 Nobuharu Morimoto, COSMOGANG, edge
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negami/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negami/)*

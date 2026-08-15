@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "ZERB - 15.08.2026 - OCZKI" on Sat, 15 Aug 2026.
+OCZKI is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ZERB - 15.08.2026 - OCZKI" on Sat, 15 Aug 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including BOBAIO, Józef Keuner, Kuvau and Lane 8 and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -17,4 +17,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with l
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

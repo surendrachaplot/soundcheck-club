@@ -1,19 +1,19 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
+Yucky is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Rotterdam, Sanfrancisco and Sydney and 1 more. Often billed alongside A For Alpha, ROMSY and Shinshan Salazar. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
+Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Rotterdam, Sanfrancisco and Sydney and 1 more. Often billed alongside A For Alpha, ROMSY and Shinshan Salazar. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Nine Lives Gallery | Rotterdam |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 19 Sept 2026 | BASIS | Utrecht |
 
 ## Recently played
 
+- Nine Lives Gallery, Rotterdam — Fri, 14 Aug 2026
 - Garage Noord, Amsterdam — Sun, 26 Jul 2026
 - Mono, Rotterdam — Sat, 25 Jul 2026
 - Toffler, Rotterdam — Sat, 4 Jul 2026
@@ -21,10 +21,9 @@ Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck,
 - Thuishaven, Amsterdam — Sun, 24 May 2026
 - Mono, Rotterdam — Sat, 23 May 2026
 - Mono, Rotterdam — Fri, 22 May 2026
-- Olympisch Stadion, Amsterdam — Tue, 5 May 2026
 
 ## Shares bills with
 
 A For Alpha, ROMSY, Shinshan Salazar
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*

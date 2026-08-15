@@ -1,6 +1,6 @@
 # Markus Homm
 
-Markus Homm is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Wicked West, San Diego on Sat, 29 Aug 2026.
+Markus Homm is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Wicked West, San Diego on Sat, 29 Aug 2026.
 
 Markus Homm is a house and minimal artist based in Germany, tracked on soundcheck, with 7 sets logged across Buenosaires, Mexicocity, Miami and Munich and 2 more. Often billed alongside AOAO, Alain Hellion and Andrey Pushkarev. Next up: Wicked West, Sandiego on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Markus Homm is a house and minimal artist based in Germany, tracked on soundchec
 
 AOAO, Alain Hellion, Andrey Pushkarev
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markushomm/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markushomm/)*

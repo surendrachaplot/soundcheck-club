@@ -1,6 +1,6 @@
 # Jay Jay Revlon
 
-Jay Jay Revlon is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Jay Jay Revlon is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Jay Jay Revlon is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Maya Matriarch, DJ AMX and GIDEÖN. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jay Jay Revlon is a techno and ballroom artist based in United Kingdom, tracked 
 
 Maya Matriarch, DJ AMX, GIDEÖN
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjayrevlon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjayrevlon/)*

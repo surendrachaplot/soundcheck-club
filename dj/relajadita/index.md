@@ -1,6 +1,6 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+relajadita is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 relajadita is a techno and trance artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Basel and Berlin and 6 more. Often billed alongside Adrian Mills, DVAID and GIØ (1). Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ relajadita is a techno and trance artist tracked on soundcheck, with 19 sets log
 
 Adrian Mills, DVAID, GIØ (1)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

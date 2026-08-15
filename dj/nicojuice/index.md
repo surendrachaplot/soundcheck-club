@@ -1,6 +1,6 @@
 # Nico Juice
 
-Nico Juice is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Funke, Ghent on Sat, 15 Aug 2026.
+Nico Juice is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Funke, Ghent on Sat, 15 Aug 2026.
 
 Nico Juice is a disco and house artist tracked on soundcheck, with 15 sets logged across Ghent. Often billed alongside Forbidden Fruit, Thang and John Noseda. Next up: Funke, Ghent on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nico Juice is a disco and house artist tracked on soundcheck, with 15 sets logge
 
 Forbidden Fruit, Thang, John Noseda
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojuice/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojuice/)*

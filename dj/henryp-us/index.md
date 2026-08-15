@@ -1,6 +1,6 @@
 # Henry P (US)
 
-Henry P (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Flash, Washington DC on Sat, 15 Aug 2026.
+Henry P (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Flash, Washington DC on Sat, 15 Aug 2026.
 
 Henry P (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Washingtondc. Often billed alongside Apollo Dust, BehTarin and Bad Reputations. Next up: Flash, Washingtondc on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Henry P (US) is a house and techno artist based in United States of America, tra
 
 Apollo Dust, BehTarin, Bad Reputations
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henryp-us/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henryp-us/)*

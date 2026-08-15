@@ -1,6 +1,6 @@
 # akii
 
-akii is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - La Cinc de Apolo, Barcelona on Sat, 15 Aug 2026.
+akii is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La Cinc de Apolo, Barcelona on Sat, 15 Aug 2026.
 
 akii is a bass and dub artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin and Tokyo. Often billed alongside M.I.O, Aliceyuki and MUNÉO. Next up: TBA - La Cinc de Apolo, Barcelona on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ akii is a bass and dub artist tracked on soundcheck, with 51 sets logged across 
 
 M.I.O, Aliceyuki, MUNÉO
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

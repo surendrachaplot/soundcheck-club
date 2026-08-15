@@ -1,6 +1,6 @@
 # Gourski
 
-Gourski is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Gourski is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Gourski is a drum & bass and techno artist tracked on soundcheck, with 118 sets logged across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Gourski is a drum & bass and techno artist tracked on soundcheck, with 118 sets 
 
 Enaly, Jaycut, DELTA LABS
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*

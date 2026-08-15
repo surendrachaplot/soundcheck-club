@@ -1,6 +1,6 @@
 # KAZIA
 
-KAZIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
+KAZIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
 
 KAZIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and KREED.. Next up: Upper East, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ KAZIA is a house and tech house artist based in United Kingdom, tracked on sound
 
 Geo DJ, Sho (UK), KREED.
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*

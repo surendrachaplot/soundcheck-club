@@ -1,6 +1,6 @@
 # Swoose
 
-Swoose is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Night Tales Loft, London on Sat, 15 Aug 2026.
+Swoose is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Night Tales Loft, London on Sat, 15 Aug 2026.
 
 Swoose is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Belfast, Berlin and Dublin and 4 more. Often billed alongside Holly Lester, Kessler and Body Clinic. Next up: Night Tales Loft, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Swoose is a house and techno artist based in United Kingdom, tracked on soundche
 
 Holly Lester, Kessler, Body Clinic
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*

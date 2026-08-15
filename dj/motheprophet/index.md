@@ -1,6 +1,6 @@
 # Mo the prophet
 
-Mo the prophet is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
+Mo the prophet is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
 
 Mo the prophet is a house and trance artist tracked on soundcheck, with 21 sets logged across Hamburg and Munich. Often billed alongside heronymus, Chet Rubbs and Mikey Gee. Next up: Goldener Reiter, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mo the prophet is a house and trance artist tracked on soundcheck, with 21 sets 
 
 heronymus, Chet Rubbs, Mikey Gee
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*

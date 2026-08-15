@@ -1,6 +1,6 @@
 # Dingemanz
 
-Dingemanz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 29 Aug 2026.
+Dingemanz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 29 Aug 2026.
 
 Dingemanz is a techno and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Gijsheid and White Fox. Next up: De Fik Garden, Amsterdam on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Dingemanz is a techno and house artist based in Netherlands, tracked on soundche
 
 Gijsheid, White Fox
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dingemanz/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dingemanz/)*

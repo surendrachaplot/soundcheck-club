@@ -1,6 +1,6 @@
 # jiwon
 
-jiwon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Nyapi, Seoul on Fri, 14 Aug 2026.
+jiwon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Nyapi, Seoul on Fri, 14 Aug 2026.
 
 jiwon is a house and techno artist based in South Korea, tracked on soundcheck, with 31 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside eunuk, GYUWAN and Juncheol. Next up: Nyapi, Seoul on Fri 14 Aug.
 
@@ -13,6 +13,7 @@ jiwon is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
+- Nyapi, Seoul — Fri, 14 Aug 2026
 - Kockiri, Seoul — Thu, 13 Aug 2026
 - TBA, New York City — Sat, 25 Jul 2026
 - Mansions, New York City — Thu, 23 Jul 2026
@@ -20,10 +21,9 @@ jiwon is a house and techno artist based in South Korea, tracked on soundcheck, 
 - Nyapi, Seoul — Fri, 12 Jun 2026
 - Nyapi, Seoul — Sat, 6 Jun 2026
 - Kockiri, Seoul — Thu, 4 Jun 2026
-- Nyapi, Seoul — Sat, 30 May 2026
 
 ## Shares bills with
 
 eunuk, GYUWAN, Juncheol
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwon/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwon/)*

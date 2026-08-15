@@ -1,6 +1,6 @@
 # MPathy
 
-MPathy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
+MPathy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
 
 MPathy is a techno and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 4 more. Often billed alongside Øntold, Iman Deeper and LINBER LYNX. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ MPathy is a techno and house artist tracked on soundcheck, with 21 sets logged a
 
 Øntold, Iman Deeper, LINBER LYNX
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mpathy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mpathy/)*

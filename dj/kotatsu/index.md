@@ -1,6 +1,6 @@
 # Kotatsu
 
-Kotatsu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
+Kotatsu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
 
 Kotatsu is a house and techno artist based in France, tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), Alex Ormond and Ayana Pattra. Next up: VENT, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kotatsu is a house and techno artist based in France, tracked on soundcheck, wit
 
 SIGNAL (JP), Alex Ormond, Ayana Pattra
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotatsu/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotatsu/)*

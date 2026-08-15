@@ -1,6 +1,6 @@
 # muchogusto
 
-muchogusto is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
+muchogusto is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
 
 muchogusto is a disco and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside stampott and Ellis Vay. Next up: Akhnaton, Amsterdam on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ muchogusto is a disco and house artist based in Netherlands, tracked on soundche
 
 stampott, Ellis Vay
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muchogusto/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muchogusto/)*

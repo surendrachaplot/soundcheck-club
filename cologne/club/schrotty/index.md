@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SCHROTTY 8th Anniversary with BART SKILLS and many more" on Fri, 14 Aug 2026.
+Schrotty is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SCHROTTY 8th Anniversary with BART SKILLS and many more" on Fri, 14 Aug 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Anna Reusch and Anuuk and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -22,4 +22,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 9 upcoming nights, wi
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

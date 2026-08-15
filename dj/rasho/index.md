@@ -1,6 +1,6 @@
 # Rasho
 
-Rasho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Rasho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
 Rasho is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Maksim, Max Sprauer and O.BEE. Next up: OXI, Berlin on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Rasho is a house and techno artist tracked on soundcheck, with 72 sets logged ac
 
 ## Recently played
 
+- OXI, Berlin — Fri, 14 Aug 2026
 - Club der Visionaere, Berlin — Tue, 23 Jun 2026
 - Tresor / Globus, Berlin — Sat, 6 Jun 2026
 - H0L0, New York City — Sat, 30 May 2026
@@ -19,10 +20,9 @@ Rasho is a house and techno artist tracked on soundcheck, with 72 sets logged ac
 - fi, Cologne — Fri, 13 Mar 2026
 - Cadavra, Madrid — Fri, 27 Feb 2026
 - TBA - DTLA, Los Angeles — Fri, 23 Jan 2026
-- The Loading Dock, Austin — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Maksim, Max Sprauer, O.BEE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasho/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasho/)*

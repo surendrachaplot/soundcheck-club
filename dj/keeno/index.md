@@ -1,6 +1,6 @@
 # Keeno
 
-Keeno is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
+Keeno is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
 
 Keeno is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Whiney, AKTIVE and Hiraeth. Next up: The Chapel Angel Microbrewery, Nottingham on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Keeno is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Whiney, AKTIVE, Hiraeth
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keeno/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keeno/)*

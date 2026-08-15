@@ -1,6 +1,6 @@
 # Isabelle Gaultiér
 
-Isabelle Gaultiér is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Treibgut, Düsseldorf on Sat, 5 Sept 2026.
+Isabelle Gaultiér is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Treibgut, Düsseldorf on Sat, 5 Sept 2026.
 
 Isabelle Gaultiér is a house and techno artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside A.B.U., Aamir and Andy Kolwes. Next up: Treibgut, Dusseldorf on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Isabelle Gaultiér is a house and techno artist based in France, tracked on soun
 
 A.B.U., Aamir, Andy Kolwes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellegaultier/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellegaultier/)*

@@ -1,8 +1,8 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Debit is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Debit is a techno and experimental artist based in United States of America, tra
 | Wed, 26 Aug 2026 | Société des arts technologiques | Montreal |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Debit is a techno and experimental artist based in United States of America, tra
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

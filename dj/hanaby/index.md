@@ -1,6 +1,6 @@
 # Hanaby
 
-Hanaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+Hanaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 Hanaby is a techno and house artist tracked on soundcheck, with 102 sets logged across Antwerp, Athens, Berlin and Cologne and 9 more. Often billed alongside malengo, DJ Jewel and JADA MORAES. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Hanaby is a techno and house artist tracked on soundcheck, with 102 sets logged 
 
 malengo, DJ Jewel, JADA MORAES
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*

@@ -1,6 +1,6 @@
 # Dark Zenith
 
-Dark Zenith is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+Dark Zenith is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 Dark Zenith is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside CP4C, Diaz-Soto and Dj Quien. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Dark Zenith is a drum & bass and jungle artist tracked on soundcheck, with 8 set
 
 CP4C, Diaz-Soto, Dj Quien
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darkzenith/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darkzenith/)*

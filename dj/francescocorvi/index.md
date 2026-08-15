@@ -1,6 +1,6 @@
 # Francesco Corvi
 
-Francesco Corvi is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
+Francesco Corvi is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
 
 Francesco Corvi is an experimental artist tracked on soundcheck, with 9 sets logged across Berlin, Rome and Vienna. Often billed alongside Evol, Kikù Hibino and Nesso. Next up: Otto Wagner Areal, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Francesco Corvi is an experimental artist tracked on soundcheck, with 9 sets log
 
 Evol, Kikù Hibino, Nesso
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocorvi/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocorvi/)*

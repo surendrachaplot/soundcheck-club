@@ -1,6 +1,6 @@
 # alledanse
 
-alledanse is a Electronica and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Lemon, Chicago on Sat, 22 Aug 2026.
+alledanse is a Electronica and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lemon, Chicago on Sat, 22 Aug 2026.
 
 alledanse is an electronica and italo disco artist tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside BLESSTONIO, VITIGRRL and Veri Peri. Next up: Lemon, Chicago on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ alledanse is an electronica and italo disco artist tracked on soundcheck, with 4
 
 BLESSTONIO, VITIGRRL, Veri Peri
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alledanse/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alledanse/)*

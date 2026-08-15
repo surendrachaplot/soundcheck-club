@@ -1,6 +1,6 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Darwin is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Darwin is a techno and bass artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Basel and Berlin and 43 more. Often billed alongside Esposito, EMA (1) and Skee Mask. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -17,6 +17,7 @@ Darwin is a techno and bass artist tracked on soundcheck, with 158 sets logged a
 
 ## Recently played
 
+- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
 - CLUB RAUM, Amsterdam — Fri, 19 Jun 2026
@@ -24,10 +25,9 @@ Darwin is a techno and bass artist tracked on soundcheck, with 158 sets logged a
 - The Love Inn, Bristol — Fri, 12 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
 - Laak, The Hague — Sat, 6 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Esposito, EMA (1), Skee Mask
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

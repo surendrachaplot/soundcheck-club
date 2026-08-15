@@ -1,6 +1,6 @@
 # Ben Kok (2)
 
-Ben Kok (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Cabaret Voltaire, Edinburgh on Wed, 16 Sept 2026.
+Ben Kok (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cabaret Voltaire, Edinburgh on Wed, 16 Sept 2026.
 
 Ben Kok (2) is a house and disco artist based in South Africa, tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Suggy, Pheebs and Trucha. Next up: Cabaret Voltaire, Edinburgh on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Ben Kok (2) is a house and disco artist based in South Africa, tracked on soundc
 
 Suggy, Pheebs, Trucha
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*

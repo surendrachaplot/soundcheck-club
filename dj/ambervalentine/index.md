@@ -1,6 +1,6 @@
 # Amber Valentine
 
-Amber Valentine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Gabriela, New York City on Fri, 21 Aug 2026.
+Amber Valentine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gabriela, New York City on Fri, 21 Aug 2026.
 
 Amber Valentine is a house and disco artist based in United States of America, tracked on soundcheck, with 73 sets logged across Newyorkcity. Often billed alongside boyyyish, Griffin Maxwell Brooks and JD Samson. Next up: Gabriela, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Amber Valentine is a house and disco artist based in United States of America, t
 
 boyyyish, Griffin Maxwell Brooks, JD Samson
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambervalentine/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambervalentine/)*

@@ -1,6 +1,6 @@
 # Basement Vesterbro
 
-Basement Vesterbro is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Pride After Dark: The Official Afterparty" on Sat, 15 Aug 2026.
+Basement Vesterbro is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Pride After Dark: The Official Afterparty" on Sat, 15 Aug 2026.
 
 Basement Vesterbro is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including Mohammad Reza Mortazavi. Browse upcoming dates, start times and who's playing. Enghavevej 42, 1674 København V.
 
@@ -16,4 +16,4 @@ Basement Vesterbro is a music venue in Copenhagen listed on soundcheck. 3 upcomi
 
 Enghavevej 42, 1674 København V, Copenhagen
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/basement-vesterbro/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/basement-vesterbro/)*

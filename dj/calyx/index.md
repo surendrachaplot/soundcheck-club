@@ -1,14 +1,15 @@
 # Calyx
 
-Calyx is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Calyx is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Jakes. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Jakes. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 19 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 10 Oct 2026 | The Clock Factory | Bristol |
 
 ## Recently played
@@ -26,4 +27,4 @@ Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Kasra, Enei, Jakes
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*

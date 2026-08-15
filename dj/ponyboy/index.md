@@ -1,6 +1,6 @@
 # Ponyboy
 
-Ponyboy is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Ponyboy is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Ponyboy is a house and industrial artist based in United States of America, tracked on soundcheck, with 3 sets logged across Austin, Manchester and Newyorkcity. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Ponyboy is a house and industrial artist based in United States of America, trac
 
 ALCATRAZ, ARMANA KHAN, Aiden Francis
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponyboy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponyboy/)*

@@ -1,6 +1,6 @@
 # Drime
 
-Drime is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at M.O.T, London on Sat, 15 Aug 2026.
+Drime is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 15 Aug 2026.
 
 Drime is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Leeds and London. Often billed alongside Marky V, A.N.T and DFUSE. Next up: M.O.T, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Drime is a dubstep and drum & bass artist based in United Kingdom, tracked on so
 
 Marky V, A.N.T, DFUSE
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drime/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drime/)*

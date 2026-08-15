@@ -1,6 +1,6 @@
 # Znzl
 
-Znzl is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
+Znzl is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
 
 Znzl is a techno and industrial artist based in Morocco, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Ey.rah, Öspiel and Henning Baer. Next up: Crack Bellmer, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Znzl is a techno and industrial artist based in Morocco, tracked on soundcheck, 
 
 Ey.rah, Öspiel, Henning Baer
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*

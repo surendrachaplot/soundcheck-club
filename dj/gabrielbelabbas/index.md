@@ -1,6 +1,6 @@
 # Gabriel Belabbas
 
-Gabriel Belabbas is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Fvtvr, Paris on Sat, 15 Aug 2026.
+Gabriel Belabbas is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fvtvr, Paris on Sat, 15 Aug 2026.
 
 Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Automatic Writing. Next up: Fvtvr, Paris on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 63 se
 
 Poggio, Massaï, Automatic Writing
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*

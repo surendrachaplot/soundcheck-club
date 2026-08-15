@@ -1,6 +1,6 @@
 # Gee Beat
 
-Gee Beat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 15 Aug 2026.
+Gee Beat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 15 Aug 2026.
 
 Gee Beat is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Frankfurt and Porto. Often billed alongside Kaeru, ANYA (2) and Nesi. Next up: Nobu Hotel, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gee Beat is a house and techno artist tracked on soundcheck, with 47 sets logged
 
 Kaeru, ANYA (2), Nesi
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geebeat/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geebeat/)*

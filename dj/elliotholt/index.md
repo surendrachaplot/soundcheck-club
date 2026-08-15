@@ -1,6 +1,6 @@
 # Elliot Holt
 
-Elliot Holt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 22 Aug 2026.
+Elliot Holt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 22 Aug 2026.
 
 Elliot Holt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Leeds. Often billed alongside Cosmikuro, Ellis Weeks and Andrew Devine. Next up: Outlaws Yacht Club, Leeds on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Elliot Holt is a house and techno artist based in United Kingdom, tracked on sou
 
 Cosmikuro, Ellis Weeks, Andrew Devine
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*

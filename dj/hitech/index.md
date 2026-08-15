@@ -1,6 +1,6 @@
 # HiTech
 
-HiTech is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crown Nightclub, Boston on Fri, 21 Aug 2026.
+HiTech is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crown Nightclub, Boston on Fri, 21 Aug 2026.
 
 HiTech is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 34 more. Often billed alongside ojoo, Crystallmess and Fullbodydurag. Next up: Crown Nightclub, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HiTech is a ghetto tech and techno artist based in United States of America, tra
 
 ojoo, Crystallmess, Fullbodydurag
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*

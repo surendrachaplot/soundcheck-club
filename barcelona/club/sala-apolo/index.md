@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "CINECLUB 113: Free Party: A Folk History - ronni" on Mon, 17 Aug 2026.
+Sala Apolo is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CINECLUB 113: Free Party: A Folk History - ronni" on Mon, 17 Aug 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Digitalism. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -20,4 +20,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

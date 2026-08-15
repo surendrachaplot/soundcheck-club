@@ -1,6 +1,6 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Donato Dozzy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Donato Dozzy is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -18,6 +18,7 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 97 sets lo
 
 ## Recently played
 
+- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Spazio Cavea, Rome — Fri, 31 Jul 2026
 - Fvtvr, Paris — Sat, 18 Jul 2026
 - Sawmills, Bristol — Fri, 17 Jul 2026
@@ -25,10 +26,9 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 97 sets lo
 - THE MAGICK BAR, Rome — Wed, 1 Jul 2026
 - fabric, London — Sat, 27 Jun 2026
 - TBA, Naples — Fri, 19 Jun 2026
-- THE MAGICK BAR, Rome — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Voices From The Lake, Spekki Webu, Batu
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

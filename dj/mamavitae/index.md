@@ -1,6 +1,6 @@
 # Mamavitae
 
-Mamavitae is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Karmakoma, Belgrade on Fri, 21 Aug 2026.
+Mamavitae is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Karmakoma, Belgrade on Fri, 21 Aug 2026.
 
 Mamavitae is a techno and acid artist based in Serbia, tracked on soundcheck, with 22 sets logged across Belgrade. Often billed alongside Aneri, Asarri and .rigid. Next up: Karmakoma, Belgrade on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mamavitae is a techno and acid artist based in Serbia, tracked on soundcheck, wi
 
 Aneri, Asarri, .rigid
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamavitae/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamavitae/)*

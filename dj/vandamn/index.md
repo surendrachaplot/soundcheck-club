@@ -1,6 +1,6 @@
 # Van Damn
 
-Van Damn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 27 Aug 2026.
+Van Damn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 27 Aug 2026.
 
 Van Damn is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Aberdeen, Belfast, Dundee and Edinburgh and 4 more. Often billed alongside Ben Hemsley, Mas Que Nada Brothers and Frankie Elyse. Next up: People's Leisure Club, Edinburgh on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Van Damn is a house and techno artist based in United Kingdom, tracked on soundc
 
 Ben Hemsley, Mas Que Nada Brothers, Frankie Elyse
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandamn/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandamn/)*

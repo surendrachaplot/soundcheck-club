@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Night & Day: Ivan Smagghe, Youandewan, Lauren Flax, Patrick Russell, J. Richards" on Fri, 14 Aug 2026.
+Signal is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Night & Day: Ivan Smagghe, Youandewan, Lauren Flax, Patrick Russell, J. Richards" on Fri, 14 Aug 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and alexander:louis and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

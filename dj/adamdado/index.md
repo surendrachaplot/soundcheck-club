@@ -1,6 +1,6 @@
 # Adam Dado
 
-Adam Dado is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
+Adam Dado is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
 
 Adam Dado is a minimal and house artist based in Indonesia, tracked on soundcheck, with 40 sets logged across Bali and Bangkok. Often billed alongside Ryan Rayana, Lijero and Montella G. Next up: Crate Concept, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Adam Dado is a minimal and house artist based in Indonesia, tracked on soundchec
 
 Ryan Rayana, Lijero, Montella G
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*

@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown" on Fri, 14 Aug 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown" on Fri, 14 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Alex Xandra and Andi Beat and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

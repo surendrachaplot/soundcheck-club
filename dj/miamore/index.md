@@ -1,6 +1,6 @@
 # Mia More
 
-Mia More is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
+Mia More is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
 
 Mia More is an electronic artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Munich and Rotterdam. Often billed alongside Shabiki, Bastian Bux and Claptone. Next up: Bahnwärter Thiel, Munich on Fri 14 Aug.
 
@@ -12,6 +12,7 @@ Mia More is an electronic artist based in Netherlands, tracked on soundcheck, wi
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich — Fri, 14 Aug 2026
 - Bahnwärter Thiel, Munich — Sat, 10 Jan 2026
 - Club Atelier, Amsterdam — Sat, 23 Mar 2024
 - RTM, Rotterdam — Fri, 10 Mar 2023
@@ -20,4 +21,4 @@ Mia More is an electronic artist based in Netherlands, tracked on soundcheck, wi
 
 Shabiki, Bastian Bux, Claptone
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamore/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamore/)*

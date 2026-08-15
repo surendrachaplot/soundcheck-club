@@ -1,6 +1,6 @@
 # Accident Machine
 
-Accident Machine is a Electronica and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
+Accident Machine is a Electronica and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
 
 Accident Machine is an electronica and acid artist tracked on soundcheck, with 19 sets logged across Aberdeen, Edinburgh, Glasgow and Newcastle. Often billed alongside Marie Davidson, Sarah/Shaun and Optimo (Espacio). Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Accident Machine is an electronica and acid artist tracked on soundcheck, with 1
 
 Marie Davidson, Sarah/Shaun, Optimo (Espacio)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentmachine/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentmachine/)*

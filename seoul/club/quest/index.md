@@ -1,6 +1,6 @@
 # Quest
 
-Quest is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Fri, 14 Aug 2026; the next is "Madting presents: MADHOUSE, Quest takeover" on Sun, 16 Aug 2026.
+Quest is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Madting presents: MADHOUSE, Quest takeover" on Sun, 16 Aug 2026.
 
 Quest is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including AUS10, KING SHE, Mindspray and Xena (KR) and 1 more. Browse upcoming dates, start times and who's playing. South Korea, Seoul, Yongsan-gu, Itaewon-dong, 99-14 2층.
 
@@ -14,4 +14,4 @@ Quest is a music venue in Seoul listed on soundcheck. 1 upcoming night, with lin
 
 South Korea, Seoul, Yongsan-gu, Itaewon-dong, 99-14 2층, Seoul
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/quest/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/quest/)*

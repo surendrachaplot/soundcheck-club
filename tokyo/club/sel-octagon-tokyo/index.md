@@ -1,6 +1,6 @@
 # SEL OCTAGON TOKYO
 
-SEL OCTAGON TOKYO is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "TECHNOIZE" on Wed, 26 Aug 2026.
+SEL OCTAGON TOKYO is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TECHNOIZE" on Wed, 26 Aug 2026.
 
 SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including DALJAE, DØLLHAUS, EMILIO (3) and K4BUKI and 2 more. Browse upcoming dates, start times and who's playing. Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan.
 
@@ -15,4 +15,4 @@ SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 2 upcoming nig
 
 Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan, Tokyo
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*

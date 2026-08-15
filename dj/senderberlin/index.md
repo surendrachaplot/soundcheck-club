@@ -1,6 +1,6 @@
 # Sender Berlin
 
-Sender Berlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
+Sender Berlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
 
 Sender Berlin is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Squaric, Anri and A². Next up: ://about blank, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Sender Berlin is a techno and house artist based in Germany, tracked on soundche
 
 Squaric, Anri, A²
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senderberlin/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senderberlin/)*

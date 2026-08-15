@@ -1,6 +1,6 @@
 # Max Parkinson
 
-Max Parkinson is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Baby's All Right, New York City on Fri, 21 Aug 2026.
+Max Parkinson is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Baby's All Right, New York City on Fri, 21 Aug 2026.
 
 Max Parkinson is a bass and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Tone Troy, oomfhaver and AG (NYC). Next up: Baby's All Right, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Max Parkinson is a bass and house artist based in United States of America, trac
 
 Tone Troy, oomfhaver, AG (NYC)
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxparkinson/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxparkinson/)*

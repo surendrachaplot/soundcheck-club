@@ -1,6 +1,6 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
 
 Shingo Nakamura is a progressive house and trance artist based in Japan, tracked on soundcheck, with 52 sets logged across Boston, Houston, Losangeles and Melbourne and 10 more. Often billed alongside DJ NECO, Nanlaze and YOSHIMASA. Next up: Z Maruyama, Tokyo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, tracked
 
 DJ NECO, Nanlaze, YOSHIMASA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

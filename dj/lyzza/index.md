@@ -1,6 +1,6 @@
 # LYZZA
 
-LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
+LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
 
 LYZZA is a techno and club artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside Chinnamasta, DIORA and ARRA. Next up: Else, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ LYZZA is a techno and club artist tracked on soundcheck, with 56 sets logged acr
 
 Chinnamasta, DIORA, ARRA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*

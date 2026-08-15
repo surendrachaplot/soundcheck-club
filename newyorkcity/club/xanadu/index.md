@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 14 Aug 2026; the next is "SOUL ROLL presented by Stef Nava & Luv: guest appearance from Yellow Shoots! (skate all night)" on Fri, 14 Aug 2026.
+Xanadu is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO" on Sun, 16 Aug 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | SOUL ROLL presented by Stef Nava & Luv: guest appearance from Yellow Shoots! (skate all night) |  |
 | Sun, 16 Aug 2026 | Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO | Dirtyfinger, WONNSSS, zzzzach |
 | Sun, 23 Aug 2026 | Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad, | Andrew Lenox, Finn Jones, Lauren Murada, Party Dad, lenox |
 | Sun, 30 Aug 2026 | Sunday Skate Club feat. David Paglia, Club Flush: ANICHE (skate all night) | ANICHE, David Paglia |
@@ -21,4 +20,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

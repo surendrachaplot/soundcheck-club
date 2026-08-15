@@ -1,14 +1,13 @@
 # Istanbul Ghetto Club
 
-Istanbul Ghetto Club is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Spice H2O, Stockholm on Fri, 14 Aug 2026.
+Istanbul Ghetto Club is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Podlasie Club, Chicago on Sat, 22 Aug 2026.
 
-Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: Spice H2O, Stockholm on Fri 14 Aug.
+Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: Podlasie Club, Chicago on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Spice H2O | Stockholm |
 | Sat, 22 Aug 2026 | Podlasie Club | Chicago |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Thu, 27 Aug 2026 | Esplanade Tranquille | Montreal |
@@ -16,6 +15,7 @@ Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 45 
 
 ## Recently played
 
+- Spice H2O, Stockholm — Fri, 14 Aug 2026
 - H0L0, New York City — Sat, 6 Jun 2026
 - Soho House, Bangkok — Wed, 6 May 2026
 - Mdlr, Singapore — Fri, 1 May 2026
@@ -23,10 +23,9 @@ Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 45 
 - Lindenkeller, Munich — Sat, 14 Mar 2026
 - Photobastei, Zurich — Thu, 12 Mar 2026
 - West Harlem, Kyoto — Fri, 13 Feb 2026
-- Soho House Hong Kong, Hong Kong — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Azu Tiwaline, Mehmet Aslan, BASHKKA
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*

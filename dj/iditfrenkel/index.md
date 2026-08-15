@@ -1,6 +1,6 @@
 # Idit Frenkel
 
-Idit Frenkel is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 14 Aug 2026, next at Paloma, Berlin on Sat, 15 Aug 2026.
+Idit Frenkel is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paloma, Berlin on Sat, 15 Aug 2026.
 
 Idit Frenkel is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside Dionne, Foehn & Jerome and Karina Schneider. Next up: Paloma, Berlin on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Idit Frenkel is a house and tech house artist based in Germany, tracked on sound
 
 Dionne, Foehn & Jerome, Karina Schneider
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iditfrenkel/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iditfrenkel/)*

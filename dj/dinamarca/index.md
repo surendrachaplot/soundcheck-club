@@ -1,6 +1,6 @@
 # Dinamarca
 
-Dinamarca is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Fri, 14 Aug 2026, next at Melbourne Town Hall, Melbourne on Fri, 28 Aug 2026.
+Dinamarca is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Melbourne Town Hall, Melbourne on Fri, 28 Aug 2026.
 
 Dinamarca is a club and reggaeton artist based in Sweden, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside Meth Math, Manuka Honey and DJ Python. Next up: Melbourne Town Hall, Melbourne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Dinamarca is a club and reggaeton artist based in Sweden, tracked on soundcheck,
 
 Meth Math, Manuka Honey, DJ Python
 
-*Updated Fri, 14 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*
+*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*
