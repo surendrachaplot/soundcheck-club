@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Fri, 14 Aug 2026.
+Gerd Janson is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Glasgow on Sat, 15 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Hangaren, Copenhagen on Fri 14 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: TBA, Glasgow on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 15 Aug 2026 | TBA | Glasgow |
 | Sat, 15 Aug 2026 | Sub Club | Glasgow |
 | Fri, 21 Aug 2026 | YuYu Cine Club | Mexico City |
@@ -20,6 +19,7 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 292 sets lo
 | Sat, 5 Sept 2026 | La Terrrazza | Barcelona |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
 | Thu, 1 Oct 2026 | Pacha Ibiza | Ibiza |
+| Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Limoncello
 
-Limoncello is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
+Limoncello is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OST, Berlin on Thu, 20 Aug 2026.
 
-Limoncello is a trance and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: Das Werk, Vienna on Fri 14 Aug.
+Limoncello is a trance and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: OST, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Das Werk | Vienna |
 | Thu, 20 Aug 2026 | OST | Berlin |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | Südpol | Hamburg |

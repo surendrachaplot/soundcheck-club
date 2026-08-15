@@ -8,6 +8,6 @@ TBA - Warschauer Pl. 18, 10245 Berlin is a music venue in Berlin listed on sound
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | 4X - forever unlimited x FETID x SAD PROMPT ENGINEERING x Record Turnover | Bungalovv, CUNT REMEMBER, CÁRPATOS, Exilee, Heddah, Krohm, Locre, Midnight Climax, Mithril, Nico Adomako, PAX (2), Record Turnover, Salena, Warlord®, XZ5000, emme (2), m?y?a, olesia, shasti, truthspeaker |
+| Sat, 15 Aug 2026 | 4X - forever unlimited x FETID x SAD PROMPT ENGINEERING x Record Turnover | Bungalovv, CUNT REMEMBER, CÁRPATOS, EVE (1), Exilee, Heddah, Krohm, Locre, Midnight Climax, Mithril, Nico Adomako, PAX (2), Record Turnover, Salena, Warlord®, XZ5000, emme (2), m?y?a, olesia, shasti, truthspeaker |
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-pl-18-10245-berlin/)*

@@ -1,14 +1,13 @@
 # Matthias Meyer
 
-Matthias Meyer is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
+Matthias Meyer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
-Matthias Meyer is a house and deep house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Kater, Berlin on Fri 14 Aug.
+Matthias Meyer is a house and deep house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Kater | Berlin |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

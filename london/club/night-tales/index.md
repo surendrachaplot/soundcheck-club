@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 30 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Global Swing: Garrett David, MADVILLA, KT" on Sat, 15 Aug 2026.
+Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Global Swing: Garrett David, MADVILLA, KT" on Sat, 15 Aug 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including KT, Alexia Glensy, Alex Neri and Benga and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including KT, Alexia Glensy, Alex Neri and Benga and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 

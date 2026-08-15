@@ -1,14 +1,13 @@
 # patricccio
 
-patricccio is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Bike Jesus, Prague on Fri, 14 Aug 2026.
+patricccio is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 22 Aug 2026.
 
-patricccio is a techno and latin bass artist tracked on soundcheck, with 43 sets logged across Berlin and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Bike Jesus, Prague on Fri 14 Aug.
+patricccio is a techno and latin bass artist tracked on soundcheck, with 43 sets logged across Berlin and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Bike Jesus | Prague |
 | Sat, 22 Aug 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

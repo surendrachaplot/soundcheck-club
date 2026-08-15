@@ -1,14 +1,15 @@
 # Maschine
 
-Maschine is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
+Maschine is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
 
-Maschine is a techno and tech house artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin. Often billed alongside Drauf & Dran DJ Team, Bisk and DAV3. Next up: Der Weiße Hase, Berlin on Sat 15 Aug.
+Maschine is a techno and tech house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Drauf & Dran DJ Team, Bisk and DAV3. Next up: Der Weiße Hase, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Der Weiße Hase | Berlin |
+| Sat, 29 Aug 2026 | RAW Gelände | Berlin |
 | Sat, 29 Aug 2026 | TBA | Berlin |
 | Sat, 29 Aug 2026 | Der Weiße Hase | Berlin |
 

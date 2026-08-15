@@ -1,14 +1,13 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
+Grafix is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: The Brooklyn Monarch, Newyorkcity on Fri 14 Aug.
+Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | The Brooklyn Monarch | New York City |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |

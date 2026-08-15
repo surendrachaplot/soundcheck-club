@@ -1,14 +1,13 @@
 # Yela
 
-Yela is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Funke, Ghent on Fri, 14 Aug 2026.
+Yela is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 10 mins from hackney wick station, London on Sat, 22 Aug 2026.
 
-Yela is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Boston and 8 more. Often billed alongside Hofmann (BE), Hofmann and Daan Donk. Next up: Funke, Ghent on Fri 14 Aug.
+Yela is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Boston and 8 more. Often billed alongside Hofmann (BE), Hofmann and Daan Donk. Next up: TBA - 10 mins from hackney wick station, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Funke | Ghent |
 | Sat, 22 Aug 2026 | TBA - 10 mins from hackney wick station | London |
 | Sat, 29 Aug 2026 | The Rooftop Garden at The Standard, Brussels | Brussels |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |

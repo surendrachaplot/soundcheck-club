@@ -1,14 +1,13 @@
 # Anders HP
 
-Anders HP is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
+Anders HP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Anders HP is a house and techno artist tracked on soundcheck, with 45 sets logged across Copenhagen. Often billed alongside CERJ, Baime and Business Risky. Next up: MODULE, Copenhagen on Fri 14 Aug.
+Anders HP is a house and techno artist tracked on soundcheck, with 45 sets logged across Copenhagen. Often billed alongside CERJ, Baime and Business Risky. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | MODULE | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 2 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | Culture Box | Copenhagen |

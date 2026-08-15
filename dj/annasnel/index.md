@@ -1,14 +1,13 @@
 # ANNASNEL
 
-ANNASNEL is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 14 Aug 2026.
+ANNASNEL is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-ANNASNEL is a house and trance artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Shelter Amsterdam, Amsterdam on Fri 14 Aug.
+ANNASNEL is a house and trance artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |
 

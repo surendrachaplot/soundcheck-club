@@ -1,14 +1,13 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Danny Daze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
-Danny Daze is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: OXI, Berlin on Fri 14 Aug.
+Danny Daze is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | OXI | Berlin |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 4 Sept 2026 | The Glove That Fits | London |

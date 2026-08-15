@@ -1,14 +1,14 @@
 # TRU:L
 
-TRU:L is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bar Neun, Berlin on Sat, 29 Aug 2026.
+TRU:L is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 29 Aug 2026.
 
-TRU:L is a house and funk / soul artist based in Romania, tracked on soundcheck, with 31 sets logged across Berlin and Brussels. Often billed alongside Ken Okuda, Aaronovsky and Adam Bkr. Next up: Bar Neun, Berlin on Sat 29 Aug.
+TRU:L is a house and funk / soul artist based in Romania, tracked on soundcheck, with 31 sets logged across Berlin and Brussels. Often billed alongside Ken Okuda, Aaronovsky and Adam Bkr. Next up: Acud Macht NEU, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Bar Neun | Berlin |
+| Sat, 29 Aug 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
 

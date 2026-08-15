@@ -1,14 +1,13 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TRAUM, Antwerp on Fri, 14 Aug 2026.
+Alix Perez is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at A38, Budapest on Wed, 19 Aug 2026.
 
-Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: TRAUM, Antwerp on Fri 14 Aug.
+Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: A38, Budapest on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TRAUM | Antwerp |
 | Wed, 19 Aug 2026 | A38 | Budapest |
 | Wed, 19 Aug 2026 | A38 | Budapest |
 | Fri, 21 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |

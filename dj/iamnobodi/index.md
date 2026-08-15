@@ -1,13 +1,14 @@
 # IAMNOBODI
 
-IAMNOBODI is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Studio1111, Berlin on Fri, 28 Aug 2026.
+IAMNOBODI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Studio1111, Berlin on Fri, 28 Aug 2026.
 
-IAMNOBODI is a house and hip-hop artist tracked on soundcheck, with 9 sets logged across Berlin, Lisbon, London and Losangeles and 1 more. Often billed alongside anaiis, ANNA and AQUTIE. Next up: Studio1111, Berlin on Fri 28 Aug.
+IAMNOBODI is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin, Lisbon, London and Losangeles and 1 more. Often billed alongside anaiis, cliff and ANNA. Next up: Studio1111, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Studio1111 | Berlin |
 | Fri, 28 Aug 2026 | Studio1111 | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ IAMNOBODI is a house and hip-hop artist tracked on soundcheck, with 9 sets logge
 
 ## Shares bills with
 
-anaiis, ANNA, AQUTIE
+anaiis, cliff, ANNA
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamnobodi/)*

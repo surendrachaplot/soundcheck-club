@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Cousin, baby ganoush b2b Nèna, Sandor" on Fri, 14 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality" on Sat, 15 Aug 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Cousin, baby ganoush b2b Nèna, Sandor | Cousin, Nèna, Sandor, baby ganoush |
 | Sat, 15 Aug 2026 | DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality | DJ Storm (2), lis (5), mul/ANNA |
 | Fri, 21 Aug 2026 | co-curation by smother: smother, DJ MELL G, tba | DJ MELL G, smother |
 | Sat, 22 Aug 2026 | Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN | Luke Hess, Remma, Sarkawt Hamad |

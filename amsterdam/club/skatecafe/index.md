@@ -14,7 +14,7 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights
 | Fri, 28 Aug 2026 | AZÚCAR INVITES THE HERD | Jazz Dalia, LAMSI |
 | Sat, 29 Aug 2026 | HARTO FALIÓN (US, LIVE), OGR+ZELDZAME (LIVE), BOBBIN, AGP | BENITO (DE) |
 | Fri, 4 Sept 2026 | EYE CONTACT & VIAPHIA | Gabrielle Kwarteng, Jackie Jr., Styn, T.NO, YoungWoman, amara, awhlkuhn |
-| Sat, 5 Sept 2026 | ANTÍDOTO |  |
+| Sat, 5 Sept 2026 | ANTÍDOTO | Diego Armando, Jolani Jhones, Matty Chiabi, Maxvll, Nala, Yosef (ES), Yucky |
 | Sat, 12 Sept 2026 | TOURIST TRAP & SEEDLINIK | LENny (IT), Le Le, Not A Fan, Samuelspaniel, WANNABEASTAR, orczi96 |
 | Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 | Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |

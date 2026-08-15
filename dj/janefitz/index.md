@@ -1,14 +1,13 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 14 Aug 2026.
+Jane Fitz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Sun, 16 Aug 2026.
 
-Jane Fitz is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: Platforma Wolff, Bucharest on Fri 14 Aug.
+Jane Fitz is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: Gaffe, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Platforma Wolff | Bucharest |
 | Sun, 16 Aug 2026 | Gaffe | London |
 | Fri, 4 Sept 2026 | TBA | Sheffield |
 | Sat, 17 Oct 2026 | fabric | London |

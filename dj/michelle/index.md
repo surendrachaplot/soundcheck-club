@@ -1,14 +1,13 @@
 # Michelle
 
-Michelle is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mitsuki, Tokyo on Fri, 14 Aug 2026.
+Michelle is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hertz, Seoul on Sat, 15 Aug 2026.
 
-Michelle is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Craig Richards, Alyhas and Christian AB. Next up: Mitsuki, Tokyo on Fri 14 Aug.
+Michelle is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Craig Richards, Alyhas and Christian AB. Next up: Hertz, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Mitsuki | Tokyo |
 | Sat, 15 Aug 2026 | Hertz | Seoul |
 | Sat, 22 Aug 2026 | The Back Room | Bali |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |

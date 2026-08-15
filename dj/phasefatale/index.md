@@ -1,14 +1,13 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+Phase Fatale is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Red Roof Church, Montreal on Fri, 21 Aug 2026.
 
-Phase Fatale is a techno and ebm artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 53 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
+Phase Fatale is a techno and ebm artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 53 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Red Roof Church, Montreal on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Red Roof Church | Montreal |
 | Sat, 22 Aug 2026 | Paragon | New York City |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |

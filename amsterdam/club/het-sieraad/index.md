@@ -9,7 +9,7 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Collé All Night Long | Collé |
-| Sat, 15 Aug 2026 | Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove | Authentiek Recept, PERSIANLOVE! |
+| Fri, 21 Aug 2026 | Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove | Authentiek Recept, PERSIANLOVE! |
 | Fri, 21 Aug 2026 | Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove | Authentiek Recept, PERSIANLOVE! |
 | Sat, 22 Aug 2026 | Common_Ground: Corren Cavini All Night Long | Corren Cavini |
 | Sat, 29 Aug 2026 | Ninsa b2b Vero | Ninsa, Vero |

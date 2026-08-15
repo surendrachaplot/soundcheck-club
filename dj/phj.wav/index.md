@@ -1,14 +1,13 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, London on Fri, 14 Aug 2026.
+PHJ.WAV is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
-PHJ.WAV is a deep house and house artist tracked on soundcheck, with 32 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Gilez and Inspector Neptune. Next up: TBA, London on Fri 14 Aug.
+PHJ.WAV is a deep house and house artist tracked on soundcheck, with 32 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Gilez and Inspector Neptune. Next up: Peckham Arches, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA | London |
 | Sun, 30 Aug 2026 | Peckham Arches | London |
 
 ## Recently played

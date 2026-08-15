@@ -1,14 +1,13 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Jasna 1, Warsaw on Fri, 14 Aug 2026.
+Karina Schneider is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
-Karina Schneider is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Jasna 1, Warsaw on Fri 14 Aug.
+Karina Schneider is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Renate, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Jasna 1 | Warsaw |
 | Sat, 15 Aug 2026 | Renate | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 28 Aug 2026 | Rote Sonne | Munich |

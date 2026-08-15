@@ -1,14 +1,15 @@
 # EVE (1)
 
-EVE (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+EVE (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
-EVE (1) is a techno and industrial artist based in South Korea, tracked on soundcheck, with 203 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and EMILIO (3). Next up: TBA, Berlin on Sat 15 Aug.
+EVE (1) is a techno and industrial artist based in South Korea, tracked on soundcheck, with 204 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and EMILIO (3). Next up: TBA, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA | Berlin |
+| Sat, 15 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 
 ## Recently played
 

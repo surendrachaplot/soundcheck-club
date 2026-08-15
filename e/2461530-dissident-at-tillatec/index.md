@@ -1,6 +1,6 @@
 # Dissident at TILLATEC
 
-Dissident at TILLATEC on Fri 21 Aug, Amsterdam. 5 acts on the bill: angelboy, Carly Zeng, Cryptofauna and DIORA and 1 more. Preview the line-up and save it on soundcheck.
+Dissident at TILLATEC on Fri 21 Aug, Amsterdam. 6 acts on the bill: angelboy, Carly Zeng, Cryptofauna and DIORA and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Dissident at TILLATEC on Fri 21 Aug, Amsterdam. 5 acts on the bill: angelboy, Ca
 - Cryptofauna
 - DIORA
 - marum
+- Spekki Webu
 
 *Source: [soundcheck](https://soundcheck.club/e/2461530-dissident-at-tillatec/)*

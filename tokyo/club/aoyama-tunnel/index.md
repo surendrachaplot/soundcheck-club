@@ -1,14 +1,13 @@
 # Aoyama Tunnel
 
-Aoyama Tunnel is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TUNNEL FRIDAY" on Fri, 14 Aug 2026.
+Aoyama Tunnel is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "TUNNEL SATURDAY" on Sat, 15 Aug 2026.
 
-Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Dazzle Drums, Kengo and Max Essa. Browse upcoming dates, start times and who's playing. 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002.
+Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Dazzle Drums. Browse upcoming dates, start times and who's playing. 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TUNNEL FRIDAY | Kengo, Max Essa |
 | Sat, 15 Aug 2026 | TUNNEL SATURDAY | Dazzle Drums |
 
 ## Address

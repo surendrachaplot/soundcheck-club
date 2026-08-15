@@ -1,14 +1,13 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gare Porto, Porto on Fri, 14 Aug 2026.
+Amulador is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gare Porto, Porto on Fri, 28 Aug 2026.
 
-Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Gare Porto, Porto on Fri 14 Aug.
+Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Gare Porto, Porto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Gare Porto | Porto |
 | Fri, 28 Aug 2026 | Gare Porto | Porto |
 | Sat, 12 Sept 2026 | 8 Marvila | Lisbon |
 | Sat, 12 Sept 2026 | 8 Marvila | Lisbon |

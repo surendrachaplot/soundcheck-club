@@ -1,13 +1,14 @@
 # Tommy Holohan
 
-Tommy Holohan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Tommy Holohan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
-Tommy Holohan is a techno and house artist tracked on soundcheck, with 114 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 39 more. Often billed alongside KETTAMA, Clouds and Charlie Sparks. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Tommy Holohan is a techno and house artist tracked on soundcheck, with 115 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 39 more. Often billed alongside KETTAMA, Clouds and Charlie Sparks. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

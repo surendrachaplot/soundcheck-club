@@ -1,14 +1,13 @@
 # ARTISAH
 
-ARTISAH is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
+ARTISAH is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 15 Aug 2026.
 
-ARTISAH is a techno and industrial artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Melbourne and Sydney. Often billed alongside I-SO, pretzelz and Pandemonium. Next up: Revolver Upstairs, Melbourne on Fri 14 Aug.
+ARTISAH is a techno and industrial artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Melbourne and Sydney. Often billed alongside I-SO, pretzelz and Pandemonium. Next up: TBA - Inner West Location, Sydney on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sat, 15 Aug 2026 | TBA - Inner West Location | Sydney |
 
 ## Recently played

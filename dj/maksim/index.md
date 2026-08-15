@@ -1,14 +1,13 @@
 # Maksim
 
-Maksim is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Maksim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Maksim is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Berlin, Boston, Brighton and Bristol and 12 more. Often billed alongside O.BEE, Shvili and Rasho. Next up: OXI, Berlin on Fri 14 Aug.
+Maksim is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Berlin, Boston, Brighton and Bristol and 12 more. Often billed alongside O.BEE, Shvili and Rasho. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | OXI | Berlin |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 

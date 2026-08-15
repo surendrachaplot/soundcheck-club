@@ -1,14 +1,13 @@
 # Kevin Di Serna
 
-Kevin Di Serna is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 14 Aug 2026.
+Kevin Di Serna is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
-Kevin Di Serna is a progressive house and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 5 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Gaspar Torres. Next up: TBA - Club Araoz, Palermo, Buenosaires on Fri 14 Aug.
+Kevin Di Serna is a progressive house and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 5 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Gaspar Torres. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Club Araoz, Palermo | Buenos Aires |
 | Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 

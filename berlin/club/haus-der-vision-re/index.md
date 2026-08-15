@@ -1,13 +1,14 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "¥ØU$UK€ ¥UK1MAT$U" on Thu, 20 Aug 2026.
+Haus der Visionäre is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Valise magique producteur d'argent +229 57193023" on Sat, 15 Aug 2026.
 
-Haus der Visionäre is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alexander Skancke, Amir Alexander, Anahita Sadighi and Angelikö and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
+Haus der Visionäre is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Alexander Skancke, Amir Alexander, Anahita Sadighi and Angelikö and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Valise magique producteur d'argent +229 57193023 |  |
 | Thu, 20 Aug 2026 | ¥ØU$UK€ ¥UK1MAT$U | Errorsmith, yungfya, ¥ØU$UK€ ¥UK1MAT$U |
 | Fri, 21 Aug 2026 | KONTEXT 2 YEARS  | Angelikö, Baby Pantera, Buttechno, Carrier, Eleftheria, Emma DJ, Neue Medecina, Pascale Project, Ssaliva, Triš, Ulla, Valeria Litvakov, XTCLVR, Yaleesa Hall, Young Gaina, exthract, noorj, nunguja |
 | Sat, 22 Aug 2026 | Quirk x SlapFunk | Alexander Skancke, DJ Senc, Elena Moroder, Eli Verveine, Henriku, Kenny Larkin, Lamache, Magda, Samuel Deep, Trent Voyage, Volkan Akin |

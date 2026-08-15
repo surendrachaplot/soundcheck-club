@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Golden Record NYC x Hudd Traxx present Oliver Dollar B2B Eddie Leader" on Fri, 14 Aug 2026.
+Green Room NYC is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Golden Record NYC x Vin.yl present Tony Touch, Omer Mil & Mike Nasty" on Sat, 15 Aug 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Adi (CO), Andrés Dyer, Armii1n and Dan Andrei and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adi (CO), Andrés Dyer, Armii1n and Dan Andrei and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Golden Record NYC x Hudd Traxx present Oliver Dollar B2B Eddie Leader | Eddie Leader, Kiyoshi, Oliver Dollar, Rana Iravani |
 | Sat, 15 Aug 2026 | Golden Record NYC x Vin.yl present Tony Touch, Omer Mil & Mike Nasty | L3Ni, Mike Nasty, Omer Mil, SMURFOUDIRTY |
 | Sun, 16 Aug 2026 | Misbehave x Green Room presents Dame | Seven Minaya |
 | Fri, 21 Aug 2026 | Golden Record NYC presents Adi  | Adi (CO), Emsho, Gui Machado, Ivan Iacobucci, Louiv, Stella Fiore |

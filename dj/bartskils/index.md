@@ -1,14 +1,13 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Schrotty, Cologne on Fri, 14 Aug 2026.
+Bart Skils is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 28 Aug 2026.
 
-Bart Skils is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Schrotty, Cologne on Fri 14 Aug.
+Bart Skils is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Bahnwärter Thiel, Munich on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Schrotty | Cologne |
 | Fri, 28 Aug 2026 | Bahnwärter Thiel | Munich |
 | Fri, 4 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Fri, 25 Sept 2026 | Lofi | Amsterdam |

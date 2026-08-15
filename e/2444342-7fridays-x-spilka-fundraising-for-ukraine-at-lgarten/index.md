@@ -1,6 +1,6 @@
 # 7Fridays x Spilka fundraising for Ukraine at Œlgarten
 
-7Fridays x Spilka fundraising for Ukraine at Œlgarten on Sun 23 Aug, Berlin. 4 acts on the bill: Alis, Mark Gill, NASTYA NVRSLP and Zoe Palace. Techno and House. Preview the line-up and save it on soundcheck.
+7Fridays x Spilka fundraising for Ukraine at Œlgarten on Sun 23 Aug, Berlin. 5 acts on the bill: Alis, ALIS., Mark Gill and NASTYA NVRSLP and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Alis
+- ALIS.
 - Mark Gill
 - NASTYA NVRSLP
 - Zoe Palace

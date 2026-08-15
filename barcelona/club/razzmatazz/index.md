@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RAZZCLUBS: LAMSI + Nila  Dj Mami + Fakeguido  Puttos " on Fri, 14 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE" on Sat, 15 Aug 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Alienata, Amaliah, Anika Kunst and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -8,7 +8,6 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | RAZZCLUBS: LAMSI + Nila  Dj Mami + Fakeguido  Puttos  | DJ2D2, Fakeguido, Hi-Ki, LAMSI, Nila, PethbUri |
 | Sat, 15 Aug 2026 | RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE | Cyklos, Dasha Rush, Fold, Toner, Unreal |
 | Fri, 21 Aug 2026 | RAZZCLUBS: Amaliah + Nahoomie + Antidoto Club: Vagabund & MORE | Amaliah, Clandestine, Claudia, DARÍO, INEXXSTABLE, L4I4, Nahoomie, Vagabund, Verushka, Yosef (ES) |
 | Sat, 22 Aug 2026 | RAZZCLUBS:  Saint Ludo + NUMEN: Regis Live + Kwartz + Oran Ray Live & MORE | DJohnston, Kaidara, Kwartz, Rachael (ES), Regis, Saint Ludo, Speaks Silence, Sushinigami, Sylvia (ES) |
@@ -18,6 +17,7 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sat, 19 Sept 2026 | Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more | Drew McDowall, Pedro Maia, Shakti, The Hacker, Years of Denial |
 | Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
 | Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
+| Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 
 ## Address
 

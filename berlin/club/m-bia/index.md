@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SHØCC pres. Plea5urepul5e" on Fri, 14 Aug 2026.
+M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon" on Sat, 15 Aug 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and BVNNII and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and Daniela Hensel and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | SHØCC pres. Plea5urepul5e | BVNNII, Kettenatze, L X S, Plea5urepul5e, Popsen, Støffwechsel, TIZIANO |
 | Sat, 15 Aug 2026 | Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Mosher, Patrick Scuro, Simina Grigoriu |
 | Fri, 21 Aug 2026 | Club Night |  |
 | Sat, 22 Aug 2026 | Freakquency with Hatikwa | Daora, K3VKO, Onkel Tom, RHYTMOX |
@@ -18,6 +17,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with 
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |
+| Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Remzcore |
 
 ## Address
 

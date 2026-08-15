@@ -1,14 +1,13 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "OVERTONE + VILLAGE UNDERGROUND presents Josi Devil + Roaming Data [5 YEARS LOCKED IN PARTY]" on Fri, 14 Aug 2026.
+Village Underground Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Vetor Club x Plasma x Pirexia" on Sat, 22 Aug 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including A.Fruit, Albal, AMANTRA and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including A.Fruit, Albal, AMANTRA and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | OVERTONE + VILLAGE UNDERGROUND presents Josi Devil + Roaming Data [5 YEARS LOCKED IN PARTY] | Josi Devil, K A I, Roaming Data |
 | Sat, 22 Aug 2026 | Vetor Club x Plasma x Pirexia | AMANTRA, Cherolainne, Julio César, KBRAL, KMILA, M8NSE, Rattlesnakke, SIMONA, T0M1, ZEI (Br) |
 | Sat, 29 Aug 2026 | MUSA 4º ANIVERSARIO - OPEN AIR 12H | Doppelganger, Drazzit, Nina Pixina, SANTANA, Schacke, Tangela, Verushka |
 | Fri, 4 Sept 2026 | Azadi Soundsystem pres. Kahn & Neek | A.Fruit, DJ Der, Kahn, Miramizu, Neek |

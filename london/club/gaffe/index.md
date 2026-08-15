@@ -17,7 +17,7 @@ Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with 
 | Sat, 5 Sept 2026 | thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day | Bunney, DJ Fart in the Club, DJ Rino, Dockett Eddy, Ella Fayden, Kuba'97, Mia Cecille, Picasso, Vlada, tom thumb |
 | Sun, 6 Sept 2026 | Animals on Psychedelics x Braintickle | Carl H, GNMR, Katya, Naone, Richard Gregory |
 | Sat, 12 Sept 2026 | A day with 1-800 GIRLS & Friends | 1-800 GIRLS |
-| Fri, 18 Sept 2026 | Refractor On Tour London ● 5 YEARS OF REFRACTOR ● | Feral, Jan Swam, TSUNIMAN |
+| Fri, 18 Sept 2026 | Refractor On Tour London ● 5th Anniversary ● | Feral, Jan Swam, TSUNIMAN, Timnah |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+P.E.A.R.L. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-P.E.A.R.L. is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
+P.E.A.R.L. is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 
 ## Recently played

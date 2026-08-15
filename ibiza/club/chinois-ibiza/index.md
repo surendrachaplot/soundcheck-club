@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Major League Djz presents: Kaz James, Kitty Amor, Max Menaged" on Fri, 14 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "The Masquerade: Claptone, Kerri Chandler, Alaia & Gallo, Dezko" on Sat, 15 Aug 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -8,7 +8,6 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Major League Djz presents: Kaz James, Kitty Amor, Max Menaged | Kaz James, Kitty Amor, Major League Djz, Max Menaged |
 | Sat, 15 Aug 2026 | The Masquerade: Claptone, Kerri Chandler, Alaia & Gallo, Dezko | Alaia & Gallo, Claptone, Kerri Chandler |
 | Sun, 16 Aug 2026 | Bedouin presents SAGA: Bedouin, LUCH, MoBlack | Bedouin, LUCH (MEX), MoBlack |
 | Mon, 17 Aug 2026 | La Troya: David Morales, Oscar Colorado, RAMPINI, B WHYLE | David Morales, Oscar Colorado |
@@ -18,6 +17,7 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 49 upcoming nights
 | Fri, 21 Aug 2026 | Major League Djz presents: SPARROW, Massuma, AMIYA | Major League Djz, Massuma, Sparrow (CH) |
 | Sat, 22 Aug 2026 | The Masquerade: Claptone, Solardo, Marco Lys, Jonathan Ulysses | Claptone, Jonathan Ulysses, Marco Lys, Solardo |
 | Sun, 23 Aug 2026 | Bedouin presents SAGA: Bedouin, Acid Pauli, Viken Arman, Santiago Garcia | Acid Pauli, Bedouin, Santiago Garcia, Viken Arman |
+| Mon, 24 Aug 2026 | La Troya: WALLY LÓPEZ, Smokin Jo, RAMPINI, Oscar Colorado | Oscar Colorado, Smokin Jo, Wally Lopez |
 
 ## Address
 

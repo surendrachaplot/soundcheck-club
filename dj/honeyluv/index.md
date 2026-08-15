@@ -1,14 +1,13 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
+HoneyLuv is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Studio Club Malaga, Malaga on Sat, 29 Aug 2026.
 
-HoneyLuv is a house and tech house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Amnesia Ibiza, Ibiza on Fri 14 Aug.
+HoneyLuv is a house and tech house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Studio Club Malaga, Malaga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Studio Club Malaga | Malaga |
 | Sun, 30 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 11 Sept 2026 | Night We Met | Nashville |

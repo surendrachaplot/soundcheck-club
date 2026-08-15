@@ -1,14 +1,15 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rex Club, Paris on Wed, 9 Sept 2026.
+stargurl is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Rex Club, Paris on Wed, 9 Sept 2026.
 
-stargurl is a techno and trance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Brussels and Cologne and 5 more. Often billed alongside vizionn, DJ Angel (1) and Krl Mx. Next up: Rex Club, Paris on Wed 9 Sept.
+stargurl is a techno and trance artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Brussels and Cologne and 5 more. Often billed alongside vizionn, DJ Angel (1) and Krl Mx. Next up: Rex Club, Paris on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | Rex Club | Paris |
+| Fri, 18 Sept 2026 | TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France | Paris |
 | Fri, 25 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

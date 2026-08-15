@@ -1,14 +1,13 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+VIVI909 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
-VIVI909 is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Garagen, Cologne on Fri 14 Aug.
+VIVI909 is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Garagen | Cologne |
 | Sat, 15 Aug 2026 | Edelfettwerk | Hamburg |
 | Sat, 3 Oct 2026 | OST | Berlin |
 

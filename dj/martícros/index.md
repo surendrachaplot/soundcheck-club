@@ -1,14 +1,15 @@
 # Martí Cros
 
-Martí Cros is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
+Martí Cros is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
 
-Martí Cros is a techno and club artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside -nico-, Alienata and Anika Kunst. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
+Martí Cros is a club and techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside -nico-, Alienata and Anika Kunst. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Razzmatazz | Barcelona |
+| Fri, 11 Sept 2026 | LAUT | Barcelona |
 
 ## Recently played
 

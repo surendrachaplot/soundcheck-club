@@ -1,14 +1,13 @@
 # Max Menaged
 
-Max Menaged is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 14 Aug 2026.
+Max Menaged is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Standard, London, London on Sat, 15 Aug 2026.
 
-Max Menaged is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Copenhagen, Ibiza and London and 2 more. Often billed alongside Marten Lou, Emir Sagiroglu and Sam Karam. Next up: Chinois Ibiza, Ibiza on Fri 14 Aug.
+Max Menaged is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Copenhagen, Ibiza and London and 2 more. Often billed alongside Marten Lou, Emir Sagiroglu and Sam Karam. Next up: The Standard, London, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | The Standard, London | London |
 
 ## Recently played

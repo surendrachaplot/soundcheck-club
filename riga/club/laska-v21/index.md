@@ -1,14 +1,13 @@
 # Laska V21
 
-Laska V21 is a music venue in Riga with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "klik klak SUMMER EDIT" on Fri, 14 Aug 2026.
+Laska V21 is a music venue in Riga with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Laska Live: Geordie Greep (UK)" on Sat, 15 Aug 2026.
 
-Laska V21 is a music venue in Riga listed on soundcheck. 9 upcoming nights, with line-ups including Baba Sy, Elli Acula, Freiya March and Geordie and 2 more. Browse upcoming dates, start times and who's playing. Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia.
+Laska V21 is a music venue in Riga listed on soundcheck. 8 upcoming nights, with line-ups including Elli Acula, Freiya March, Geordie and Kat Kat Tat and 2 more. Browse upcoming dates, start times and who's playing. Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | klik klak SUMMER EDIT | Baba Sy, Freiya March, Opoku |
 | Sat, 15 Aug 2026 | Laska Live: Geordie Greep (UK) | Geordie |
 | Sun, 16 Aug 2026 | Vinyl Open Decks |  |
 | Sun, 23 Aug 2026 | Vinyl Open Decks |  |

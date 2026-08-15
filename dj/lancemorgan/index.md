@@ -1,13 +1,14 @@
 # Lance Morgan
 
-Lance Morgan is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
+Lance Morgan is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
 
-Lance Morgan is a deep house and house artist tracked on soundcheck, with 52 sets logged across Birmingham, Leeds and London. Often billed alongside Mark Radford, B3 and Dominique Danielle. Next up: Sector 57, Birmingham on Sat 29 Aug.
+Lance Morgan is a deep house and house artist tracked on soundcheck, with 53 sets logged across Birmingham, Leeds and London. Often billed alongside Mark Radford, B3 and Dominique Danielle. Next up: Basing House, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Basing House | London |
 | Sat, 29 Aug 2026 | Sector 57 | Birmingham |
 | Sun, 30 Aug 2026 | Onyx (E1) | London |
 

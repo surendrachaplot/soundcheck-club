@@ -1,14 +1,13 @@
 # Ammé
 
-Ammé is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+Ammé is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Toffler, Rotterdam on Fri, 21 Aug 2026.
 
-Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
+Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Toffler, Rotterdam on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Fri, 21 Aug 2026 | Toffler | Rotterdam |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 

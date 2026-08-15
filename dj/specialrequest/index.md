@@ -1,8 +1,8 @@
 # Special Request
 
-Special Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Special Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Special Request is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Special Request is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Special Request is a techno and house artist tracked on soundcheck, with 162 set
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

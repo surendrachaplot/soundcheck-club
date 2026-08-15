@@ -1,14 +1,13 @@
 # Bennet
 
-Bennet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
+Bennet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Copenhagen on Sun, 16 Aug 2026.
 
-Bennet is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Bennet (DE), Byron Yeates and 50PHIE. Next up: La Terrrazza, Barcelona on Fri 14 Aug.
+Bennet is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Bennet (DE), Byron Yeates and 50PHIE. Next up: TBA, Copenhagen on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | La Terrrazza | Barcelona |
 | Sun, 16 Aug 2026 | TBA | Copenhagen |
 
 ## Recently played

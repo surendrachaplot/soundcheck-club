@@ -17,7 +17,7 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 10 upcoming nigh
 | Fri, 28 Aug 2026 | Flo Masse • Kyra Khaldi • Same Faces | Flo Massé, Kyra Khaldi, SAMEFACES |
 | Sat, 29 Aug 2026 | Dam Swindle All Night | Dam Swindle |
 | Sat, 19 Sept 2026 | Ecclipse | Cleo Grooves, Lex Valverde |
-| Sun, 25 Oct 2026 | amore x radio Radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Jasmín, Karina Schneider, Victor (DE) |
+| Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Jasmín, Karina Schneider, Victor (DE) |
 
 ## Address
 

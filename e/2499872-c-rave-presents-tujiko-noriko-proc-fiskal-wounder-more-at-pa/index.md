@@ -1,6 +1,6 @@
 # (c)rave PRESENTS Tujiko Noriko, Proc Fiskal, Wounder + MORE at Panke
 
-(c)rave PRESENTS Tujiko Noriko, Proc Fiskal, Wounder + MORE at Panke on Sat 29 Aug, Berlin. 5 acts on the bill: Proc Fiskal, truthspeaker, TRYCE and Tujiko Noriko and 1 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+(c)rave PRESENTS Tujiko Noriko, Proc Fiskal, Wounder + MORE at Panke on Sat 29 Aug, Berlin. 5 acts on the bill: Proc Fiskal, truthspeaker, TRYCE and Tujiko Noriko and 1 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

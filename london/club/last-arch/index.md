@@ -11,7 +11,7 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, w
 | Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT), TiBOR (HU), Tibor |
 | Sat, 15 Aug 2026 | Archie Holmes x Arts of the Unknown | Archie Holmes, Arts of the Unknown, Fredd Mann, Joe Tonic, Stresshead |
 | Sun, 16 Aug 2026 | Flurt. x Leftback | Josh Smith, Last Pines, Mortalyf, Oscar Jones, PiNG (UK) |
-| Fri, 21 Aug 2026 | EMBER: Fiyahdred All Night Long [Afro Electronic, Soca, Dancehall] | Fiyahdred |
+| Fri, 21 Aug 2026 | CANCELLED - EMBER: Fiyahdred All Night Long [Afro Electronic, Soca, Dancehall] | Fiyahdred |
 | Sun, 30 Aug 2026 | Oscillation Carnival After Party | Ayanna Heaven, Oscillation., Samtheman |
 | Fri, 4 Sept 2026 | Last Arch invites: Dan Andrei and XDB | Dan Andrei, Eksish, Josh Keit, Oldfield, XDB |
 | Sat, 5 Sept 2026 | take1 presents: TRANCE1 |  |

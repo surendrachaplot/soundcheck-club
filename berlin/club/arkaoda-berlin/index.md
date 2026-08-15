@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TroubleMaker Records — 10th Anniversary" on Fri, 14 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "✷Arkaoda's✷" on Sat, 15 Aug 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alada, Albin (BR), alizé.e and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Albin (BR), alizé.e, Andriy K. and Baroque Hoe and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TroubleMaker Records — 10th Anniversary | Alada, DJ Pichula, Gadutra, MADAKYA |
 | Sat, 15 Aug 2026 | ✷Arkaoda's✷ | ELAYN, Kinzua, Marylou, Nic Krog, Nick Klein, TAKAKO, Tangela, Temple Rat, YSK. |
 | Thu, 20 Aug 2026 | dreamlink | Albin (BR), Andriy K., Baroque Hoe, Kasei P, alizé.e, endléa, silver pearl |
 | Thu, 27 Aug 2026 | Wormhole 005 and Last Thursday ever at Arkaoda | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez, Velasco |

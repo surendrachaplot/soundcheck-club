@@ -1,14 +1,15 @@
 # Guedra Guedra
 
-Guedra Guedra is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
+Guedra Guedra is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
 
-Guedra Guedra is an electronica and experimental artist based in Morocco, tracked on soundcheck, with 5 sets logged across Berlin, London, Nantes and Paris. Often billed alongside Aunty Rayzor, Born in Flamez and Clementaum. Next up: ICA, London on Thu 3 Sept.
+Guedra Guedra is an electronica and experimental artist based in Morocco, tracked on soundcheck, with 6 sets logged across Berlin, London, Nantes and Paris. Often billed alongside Aunty Rayzor, Born in Flamez and Clementaum. Next up: ICA, London on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | ICA | London |
+| Sat, 5 Sept 2026 | Point Ephémère | Paris |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Kutchi
 
-Kutchi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+Kutchi is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
 
-Kutchi is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol and London. Often billed alongside Dusty Dan, Basement Maxx and NIIX. Next up: M.O.T, London on Fri 14 Aug.
+Kutchi is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol and London. Often billed alongside Dusty Dan, Basement Maxx and NIIX. Next up: The Cider Box, Bristol on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | M.O.T | London |
 | Sat, 15 Aug 2026 | The Cider Box | Bristol |
 | Sun, 30 Aug 2026 | The Carpet Shop | London |
 

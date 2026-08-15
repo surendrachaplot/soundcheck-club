@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Samantha Togni is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
+Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 | Thu, 27 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 19 Sept 2026 | FOLD | London |
+| Sat, 19 Sept 2026 | ROSA | Berlin |
 
 ## Recently played
 

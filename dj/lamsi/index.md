@@ -1,14 +1,13 @@
 # LAMSI
 
-LAMSI is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Razzmatazz, Barcelona on Fri, 14 Aug 2026.
+LAMSI is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Skatecafe, Amsterdam on Fri, 28 Aug 2026.
 
-LAMSI is an electronica and house artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Jarreau Vandal, Tida Kamara and Chinnamasta. Next up: Razzmatazz, Barcelona on Fri 14 Aug.
+LAMSI is an electronica and house artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Jarreau Vandal, Tida Kamara and Chinnamasta. Next up: Skatecafe, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Razzmatazz | Barcelona |
 | Fri, 28 Aug 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 30 Oct 2026 | fabric | London |

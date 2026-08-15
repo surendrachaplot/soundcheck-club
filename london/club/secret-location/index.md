@@ -11,7 +11,7 @@ Secret Location is a music venue in London listed on soundcheck. 4 upcoming nigh
 | Fri, 14 Aug 2026 | Moon Society present Open Air |  |
 | Fri, 21 Aug 2026 | OFF Soto Series 7 with Alec Falconer & pekkuliar | Alec Falconer, pekkuliar |
 | Sat, 12 Sept 2026 | PROPER 002 - Hypnotic Techno |  |
-| Sat, 10 Oct 2026 | VYU presents: Revelations | Kakura, N1NJA, VIZANO |
+| Sat, 10 Oct 2026 | VYU: Revelations | Kakura, N1NJA, VIZANO |
 
 ## Address
 

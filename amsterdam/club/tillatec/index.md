@@ -9,7 +9,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Discos Movimiento x Pintai | ATEQ, Bluecommand, Gizem, Hafa, Hame (1), MNTY, Martinou, Move D, Telfort, Vera Logdanidi, nthng |
-| Fri, 21 Aug 2026 | Dissident | Carly Zeng, Cryptofauna, DIORA, angelboy, marum |
+| Fri, 21 Aug 2026 | Dissident | Carly Zeng, Cryptofauna, DIORA, Spekki Webu, angelboy, marum |
 | Sat, 22 Aug 2026 | ARMAT X REFORMA | Arkan, Hovani, James Harbrecht, PLATTER, Spikey Lee, androgienia, g3kko |
 | Sun, 23 Aug 2026 | ANTIDOTE 5 YEAR ANNIVERSARY | Dylan Fogarty, Flits, Mees Javois, Montse, Prance, VSSR, Varuna Agosti |
 | Fri, 28 Aug 2026 | Unsilenced with livwutang, Mery b2b Malom, skyra (live) | Malom, Mery, livwutang, skyra |

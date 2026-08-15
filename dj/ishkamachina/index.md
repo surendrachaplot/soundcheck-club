@@ -1,14 +1,13 @@
 # ishka machina
 
-ishka machina is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
+ishka machina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Stalin, Prague on Fri, 28 Aug 2026.
 
-ishka machina is a techno and trance artist based in India, tracked on soundcheck, with 64 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Altenburg 1964, Prague on Fri 14 Aug.
+ishka machina is a techno and trance artist based in India, tracked on soundcheck, with 64 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Stalin, Prague on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Altenburg 1964 | Prague |
 | Fri, 28 Aug 2026 | Stalin | Prague |
 | Fri, 28 Aug 2026 | Ankali & Planeta Za | Prague |
 

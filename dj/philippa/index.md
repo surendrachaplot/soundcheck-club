@@ -9,7 +9,7 @@ Philippa is a house and deep house artist tracked on soundcheck, with 26 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Kater | Berlin |
-| Thu, 22 Oct 2026 | TBA | Amsterdam |
+| Thu, 22 Oct 2026 | Transit | Amsterdam |
 
 ## Recently played
 

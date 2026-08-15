@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
+TBA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 20 Aug 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
+TBA is a techno and house artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | La Station - Gare des Mines | Paris |
 | Thu, 20 Aug 2026 | TBA - Rummelsburger Bucht | Berlin |
 | Wed, 26 Aug 2026 | Smolna | Warsaw |
 | Thu, 27 Aug 2026 | TBA - Rummelsburger Bucht | Berlin |
@@ -20,6 +19,7 @@ TBA is a techno and house artist tracked on soundcheck, with 240 sets logged acr
 | Sat, 10 Oct 2026 | Electric Ballroom | London |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 | Sat, 17 Oct 2026 | Electric Ballroom | London |
+| Sat, 24 Oct 2026 | Electric Ballroom | London |
 
 ## Recently played
 

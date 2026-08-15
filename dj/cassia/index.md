@@ -1,6 +1,6 @@
 # Cassia
 
-Cassia is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Cassia is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Cassia is a house and deep house artist tracked on soundcheck, with 63 sets logged across Budapest, Hamburg, Leipzig and London and 3 more. Often billed alongside SPCL.K, Cloud Ary and Chase Wilson. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -9,7 +9,6 @@ Cassia is a house and deep house artist tracked on soundcheck, with 63 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
-| Fri, 14 Aug 2026 | La Fabrica | Washington DC |
 
 ## Recently played
 

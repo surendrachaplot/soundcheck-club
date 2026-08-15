@@ -9,7 +9,7 @@ Femdelic is a funk / soul and disco artist based in Germany, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Kater | Berlin |
-| Sat, 29 Aug 2026 | Bar Neun | Berlin |
+| Sat, 29 Aug 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
 

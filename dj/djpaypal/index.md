@@ -1,14 +1,13 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Volks, Brighton on Fri, 14 Aug 2026.
+DJ Paypal is a Footwork and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Clock Factory, Bristol on Sat, 15 Aug 2026.
 
-DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Volks, Brighton on Fri 14 Aug.
+DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: The Clock Factory, Bristol on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Volks | Brighton |
 | Sat, 15 Aug 2026 | The Clock Factory | Bristol |
 | Sat, 15 Aug 2026 | Jumbi | London |
 | Sat, 15 Aug 2026 | The Clock Factory | Bristol |

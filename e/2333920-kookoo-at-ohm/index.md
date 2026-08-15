@@ -1,6 +1,6 @@
 # KOOKOO at OHM
 
-KOOKOO at OHM on Fri 4 Sept, Berlin. 1 act on the bill: Mieko Suzuki. Experimental. Preview the line-up and save it on soundcheck.
+KOOKOO at OHM on Fri 4 Sept, Berlin. 2 acts on the bill: Anna Butter and Mieko Suzuki. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOOKOO at OHM on Fri 4 Sept, Berlin. 1 act on the bill: Mieko Suzuki. Experiment
 
 ## Line-up
 
+- Anna Butter
 - Mieko Suzuki
 
 *Source: [soundcheck](https://soundcheck.club/e/2333920-kookoo-at-ohm/)*

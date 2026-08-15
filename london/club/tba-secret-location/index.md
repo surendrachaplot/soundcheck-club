@@ -9,7 +9,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 40 upcomi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | AN(8)X festival 2026: Love Village, August 15-16th, September 25th  | DJ COMEDOWN, Dyan Tai, WaqWaq Kingdom |
-| Fri, 14 Aug 2026 | NO SUGAR x FENCE HOP | JEY SYANO, MLLE CEE, Punk à Poules, Raylhem, namanariii, softwarewolfe |
 | Sat, 15 Aug 2026 | Fairy August | Johnson (2), Rafon (2) |
 | Sun, 16 Aug 2026 | DOGGY FAMILY FEST - POOL PARTY | Arval, Jorgge Decar, Nitrile Affair, Unreal Vibes, ildec, rubbio |
 | Thu, 20 Aug 2026 | Sara Landry Album Preview Party - Beatport Live London - Free RSVP | ALT8, Alex Farell, Sara Landry |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 40 upcomi
 | Sun, 23 Aug 2026 | ECLIPSE FEST PRESENTS: BLACK ORBIT 2026 |  |
 | Fri, 28 Aug 2026 | Twink Bash: Flooded | 550am, Enya Botello, Nark |
 | Fri, 28 Aug 2026 | Green Machine 4 Year Anniversary with Amelia Holt (NY) | Amelia Holt, Fortune (US), Jaggy, Joel Chandler, Nolia, frail808, patrick conahan |
+| Fri, 28 Aug 2026 | Sound Out Recs - Label Launch Party |  |
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

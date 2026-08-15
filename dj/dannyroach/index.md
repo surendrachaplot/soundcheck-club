@@ -1,8 +1,8 @@
 # Danny Roach
 
-Danny Roach is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+Danny Roach is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
-Danny Roach is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and jardabpm. Next up: The DBA, Manchester on Sat 22 Aug.
+Danny Roach is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, London and Manchester. Often billed alongside Deventi, ALAN JOE and INLIMEN. Next up: The DBA, Manchester on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Danny Roach is a techno and house artist tracked on soundcheck, with 38 sets log
 | Sat, 22 Aug 2026 | The DBA | Manchester |
 | Sat, 5 Sept 2026 | The DBA | Manchester |
 | Fri, 11 Sept 2026 | AMT | Berlin |
+| Fri, 13 Nov 2026 | AMT | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Danny Roach is a techno and house artist tracked on soundcheck, with 38 sets log
 
 ## Shares bills with
 
-Deventi, INLIMEN, jardabpm
+Deventi, ALAN JOE, INLIMEN
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*

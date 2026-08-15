@@ -1,14 +1,13 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
+Cara Elizabeth is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
-Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
+Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 15 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 16 Aug 2026 | Escala25 | Lisbon |
 | Sat, 22 Aug 2026 | Virage | Paris |
@@ -20,6 +19,7 @@ Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 136 set
 | Sun, 6 Sept 2026 | The Media Room | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Artheater | Cologne |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Fri, 23 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

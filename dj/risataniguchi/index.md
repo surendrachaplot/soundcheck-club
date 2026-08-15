@@ -1,14 +1,13 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 14 Aug 2026.
+Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
 
-Risa Taniguchi is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside YURI VALEN, Drunken Kong and ALEXANDER M. Next up: Der Weiße Hase, Berlin on Fri 14 Aug.
+Risa Taniguchi is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside YURI VALEN, Drunken Kong and ALEXANDER M. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 6 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground, Nagano | Tokyo |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

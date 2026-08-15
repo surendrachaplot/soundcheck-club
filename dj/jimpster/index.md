@@ -10,7 +10,7 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 81 sets lo
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sat, 17 Oct 2026 | The Jazz Cafe | London |
-| Thu, 22 Oct 2026 | TBA | Amsterdam |
+| Thu, 22 Oct 2026 | Transit | Amsterdam |
 
 ## Recently played
 

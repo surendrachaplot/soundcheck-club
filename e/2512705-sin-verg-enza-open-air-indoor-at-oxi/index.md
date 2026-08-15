@@ -20,6 +20,6 @@ SIN VERGÜENZA [OPEN AIR + INDOOR] at OXI on Sat 12 Sept, Berlin. 11 acts on the
 - Ojos de miel
 - PvssyDivx
 - SHOKI287
-- TheMuffinMan
+- The Muffin Man
 
 *Source: [soundcheck](https://soundcheck.club/e/2512705-sin-verg-enza-open-air-indoor-at-oxi/)*

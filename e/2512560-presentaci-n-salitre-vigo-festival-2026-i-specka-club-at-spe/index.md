@@ -1,6 +1,6 @@
 # PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club at Specka
 
-PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club on Fri 11 Sept, Madrid. 2 acts on the bill: Anxiety for Living and Southear. Techno and Electronica. Preview the line-up and save it on soundcheck.
+PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club on Fri 11 Sept, Madrid. 3 acts on the bill: Anxiety for Living, Southear and Yuliën. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club on Fri 11 Sept, Madrid. 2
 
 - Anxiety for Living
 - Southear
+- Yuliën
 
 *Source: [soundcheck](https://soundcheck.club/e/2512560-presentaci-n-salitre-vigo-festival-2026-i-specka-club-at-spe/)*

@@ -1,6 +1,6 @@
 # JUICI 004 | day2nite at Avalon Cafe Bermondsey
 
-JUICI 004 | day2nite at Avalon Cafe Bermondsey on Sat 22 Aug, London. 6 acts on the bill: Calder, D'Nice, Manta and Qualia Trax and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+JUICI 004 | day2nite at Avalon Cafe Bermondsey on Sat 22 Aug, London. 7 acts on the bill: Calder, D'Nice, Dacxi and Manta and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ JUICI 004 | day2nite at Avalon Cafe Bermondsey on Sat 22 Aug, London. 6 acts on 
 
 - Calder
 - D'Nice
+- Dacxi
 - Manta
 - Qualia Trax
 - Reece Spooner

@@ -1,14 +1,13 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Fri, 14 Aug 2026.
+Brina Knauss is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: fabric, London on Fri 14 Aug.
+Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Ushuaïa Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | fabric | London |
 | Wed, 19 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |

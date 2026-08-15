@@ -1,14 +1,13 @@
 # Immy
 
-Immy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
+Immy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
 
-Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
+Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: BASEMENT, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Brooklyn Loft Location <3 | New York City |
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 16 Oct 2026 | C12 | Brussels |

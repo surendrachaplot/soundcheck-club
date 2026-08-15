@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "OST Klubnacht" on Fri, 14 Aug 2026.
+OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Convent - Parade After Party" on Sat, 15 Aug 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | OST Klubnacht | BenzØ, Franeva, GM1 (IT), MAGDALENA MAY |
 | Sat, 15 Aug 2026 | Convent - Parade After Party | 2HOT2PLAY, Acid Asian, Amber Broos, DETOXX, Hannah Laing, Johannes Schuster, Nabor, Neon Graveyard, Phuture Traxx, SHU (2), TANJA MIJU, The Rocketman, Trancestrudel |
 | Thu, 20 Aug 2026 | Savory - Techno Every Thursday | Charleen Herzig, Kamäleon, Limoncello |
 | Fri, 21 Aug 2026 | OST Klubnacht |  |
@@ -18,6 +17,7 @@ OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with li
 | Sat, 29 Aug 2026 | Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more | +UMBRAX+, Axciid, BSLS, FOKUS (Live), GLASSBASS, Jordan.nsx, Karashò, Khyodo, Laviena, William Luck |
 | Sun, 30 Aug 2026 | EPS x OST Afterparty | Katy Rough, senaitstar |
 | Thu, 3 Sept 2026 | Savory - Techno Every Thursday |  |
+| Fri, 4 Sept 2026 | MAYHEM x OST w. ALT8, Krl Mx | ALT8, Antonym, GM1 (IT), Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
 
 ## Address
 

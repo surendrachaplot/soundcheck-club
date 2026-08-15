@@ -1,6 +1,6 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Floats United / Parade pre Party" on Fri, 14 Aug 2026.
+Der Weiße Hase is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Liebe & Bass / Afterparty – Hasen Truck" on Sat, 15 Aug 2026.
 
 Der Weiße Hase is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
@@ -8,8 +8,8 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 13 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Floats United / Parade pre Party | Felix Reichelt, Marvel Gold, Mathias Birnbaum, Mijk van Dijk, Nat SuPrise, Risa Taniguchi |
 | Sat, 15 Aug 2026 | Liebe & Bass / Afterparty – Hasen Truck | Bisk, DAV3, DAZA, Drauf & Dran DJ Team, Maschine, NIKO INCRAVALLE, Sika Akis, Swaytone |
+| Sat, 15 Aug 2026 | +22957193023 LES ETAPES POUR AVOIR LE VRAI PORTEFEUILLE | Magique, PAS |
 | Tue, 18 Aug 2026 | HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | JEZZN, Johnny Allwess, Swaytone |
 | Thu, 20 Aug 2026 | STRAFF / Techno Thursday / 5€ until 1 AM | Anubix, Ari Denaro, Epicx |
 | Fri, 21 Aug 2026 | Fem-All / Flinta Techno / Women & FLINTA free until 1 AM | Aria Seashell, Diana May, MILLA LOU, Nat SuPrise, Sika Akis, YOZÉ, krawallin |

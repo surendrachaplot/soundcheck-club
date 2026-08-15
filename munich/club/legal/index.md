@@ -1,14 +1,13 @@
 # Legal
 
-Legal is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Legal KLUBNACHT w./ Downloadable Content, Sam Goku, Goiaba, Lina Mendoza b2b Carlota" on Fri, 14 Aug 2026.
+Legal is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Legal KLUBNACHT w./ Candy Pollard, F.B.I., Miles Borghese, Lavandonia & Tuff Monty" on Sat, 15 Aug 2026.
 
-Legal is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including FLETCH, Almedina (2), buuo and Candy Pollard and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
+Legal is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including FLETCH, Almedina (2), buuo and Candy Pollard and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Legal KLUBNACHT w./ Downloadable Content, Sam Goku, Goiaba, Lina Mendoza b2b Carlota | Carlota, Downloadable Content, Goiaba, Sam Goku |
 | Sat, 15 Aug 2026 | Legal KLUBNACHT w./ Candy Pollard, F.B.I., Miles Borghese, Lavandonia & Tuff Monty | Candy Pollard, Lavandonia |
 | Fri, 21 Aug 2026 | Legal x string with FLETCH, Vincent Lang, HAZE, VSMR | FLETCH, Haze (GER), Shree (2), VSMR, Vincent Lang |
 | Fri, 21 Aug 2026 | STRING w. / FLETCH, Shree, Vincent Lang, VSMR, B2H, Shania, Haze & Friends | FLETCH, Haze (1), Shree, VSMR, Vincent Lang |

@@ -1,14 +1,13 @@
 # Kontronatura
 
-Kontronatura is a Baile Funk and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at export, Rotterdam on Fri, 14 Aug 2026.
+Kontronatura is a Baile Funk and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
-Kontronatura is a baile funk and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: export, Rotterdam on Fri 14 Aug.
+Kontronatura is a baile funk and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | export | Rotterdam |
 | Sun, 16 Aug 2026 | Algha's Plantroom | London |
 | Sat, 22 Aug 2026 | Ankali & Planeta Za | Prague |
 

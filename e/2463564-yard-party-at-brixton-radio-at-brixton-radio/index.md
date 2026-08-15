@@ -1,6 +1,6 @@
 # Yard Party at Brixton Radio at Brixton Radio
 
-Yard Party at Brixton Radio on Sat 29 Aug, London. 2 acts on the bill: Posthuman and Rhem. House and Acid. Preview the line-up and save it on soundcheck.
+Yard Party at Brixton Radio on Sat 29 Aug, London. 3 acts on the bill: Midnight Manoeuvres, Posthuman and Rhem. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yard Party at Brixton Radio on Sat 29 Aug, London. 2 acts on the bill: Posthuman
 
 ## Line-up
 
+- Midnight Manoeuvres
 - Posthuman
 - Rhem
 

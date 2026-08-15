@@ -1,13 +1,14 @@
 # Scoopsi
 
-Scoopsi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+Scoopsi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
-Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside Annina, Jack Clark and Jonaku (DE). Next up: Beate Uwe, Berlin on Fri 30 Oct.
+Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside Annina, Jack Clark and Jonaku (DE). Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Hoppetosse | Berlin |
 | Fri, 30 Oct 2026 | Beate Uwe | Berlin |
 
 ## Recently played

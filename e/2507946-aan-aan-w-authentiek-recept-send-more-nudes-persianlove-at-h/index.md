@@ -1,10 +1,10 @@
 # Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove at Het Sieraad
 
-Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove at Het Sieraad on Sat 15 Aug, Amsterdam. 2 acts on the bill: Authentiek Recept and PERSIANLOVE!. House. Preview the line-up and save it on soundcheck.
+Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove at Het Sieraad on Fri 21 Aug, Amsterdam. 2 acts on the bill: Authentiek Recept and PERSIANLOVE!. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | Het Sieraad |
 | City | Amsterdam |
 

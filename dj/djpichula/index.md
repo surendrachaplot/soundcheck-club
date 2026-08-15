@@ -1,14 +1,13 @@
 # DJ Pichula
 
-DJ Pichula is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 14 Aug 2026.
+DJ Pichula is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
 
-DJ Pichula is an experimental and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Alada, Gadutra and ADAM MUNNINGS. Next up: arkaoda Berlin, Berlin on Fri 14 Aug.
+DJ Pichula is an experimental and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Alada, Gadutra and ADAM MUNNINGS. Next up: Marmorbar, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | arkaoda Berlin | Berlin |
 | Fri, 21 Aug 2026 | Marmorbar | Berlin |
 
 ## Recently played

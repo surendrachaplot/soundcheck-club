@@ -1,8 +1,8 @@
 # snoritz
 
-snoritz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
+snoritz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
 
-snoritz is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Leipzig and 7 more. Often billed alongside PRADA2000, DJ Pinky Promise and Faster Horses. Next up: Artheater, Cologne on Fri 21 Aug.
+snoritz is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Cologne, Hamburg and Leipzig and 7 more. Often billed alongside PRADA2000, DJ Pinky Promise and Faster Horses. Next up: Artheater, Cologne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ snoritz is a techno and trance artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Artheater | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

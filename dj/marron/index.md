@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+MARRØN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 MARRØN is a techno and house artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -9,7 +9,6 @@ MARRØN is a techno and house artist tracked on soundcheck, with 254 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
-| Fri, 14 Aug 2026 | Tanzhaus West | Frankfurt |
 | Fri, 4 Sept 2026 | Fuchs2 | Prague |
 | Sat, 5 Sept 2026 | The Bassement | Madrid |
 | Fri, 11 Sept 2026 | TBA | Brussels |

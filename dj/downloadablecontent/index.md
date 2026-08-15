@@ -1,14 +1,13 @@
 # Downloadable Content
 
-Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Legal, Munich on Fri, 14 Aug 2026.
+Downloadable Content is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Downloadable Content is a techno and house artist tracked on soundcheck, with 54 sets logged across Munich, Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Legal, Munich on Fri 14 Aug.
+Downloadable Content is a techno and house artist tracked on soundcheck, with 54 sets logged across Munich, Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Legal | Munich |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 
 ## Recently played

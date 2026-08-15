@@ -1,6 +1,6 @@
 # 4X - forever unlimited x FETID x SAD PROMPT ENGINEERING x Record Turnover at TBA - Warschauer Pl. 18, 10245 Berlin
 
-4X - forever unlimited x FETID x SAD PROMPT ENGINEERING x Record Turnover at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 15 Aug, Berlin. 20 acts on the bill: Bungalovv, CÁRPATOS, CUNT REMEMBER and emme (2) and 16 more. Preview the line-up and save it on soundcheck.
+4X - forever unlimited x FETID x SAD PROMPT ENGINEERING x Record Turnover at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 15 Aug, Berlin. 21 acts on the bill: Bungalovv, CÁRPATOS, CUNT REMEMBER and emme (2) and 17 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@
 - CÁRPATOS
 - CUNT REMEMBER
 - emme (2)
+- EVE (1)
 - Exilee
 - Heddah
 - Krohm

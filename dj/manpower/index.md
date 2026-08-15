@@ -1,14 +1,13 @@
 # Man Power
 
-Man Power is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 14 Aug 2026.
+Man Power is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
-Man Power is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belfast and 24 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Golden Pudel Club, Hamburg on Fri 14 Aug.
+Man Power is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belfast and 24 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 31 Oct 2026 | Are You Affiliated | Newcastle |

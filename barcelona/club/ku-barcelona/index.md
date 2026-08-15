@@ -10,7 +10,7 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nigh
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |
 | Tue, 18 Aug 2026 | La Rvfleuze - Showcase |  |
-| Wed, 19 Aug 2026 | AVALON x Radar: Corcuera, Valderrama, Sabri b2b Rikaya, Ganem | Corcuera, Valderrama |
+| Wed, 19 Aug 2026 | Free Tickets AVALON x Radar x Fracture: Corcuera, S.a.b.r.i B2B Rikaya, Valderrama, Ganem | Corcuera, Valderrama |
 | Sun, 23 Aug 2026 | SIGHT & Valhalla pres. Korolova, Prophecy, JP Candela, Rivellino | JP Candela, Korolova, Rivellino |
 | Sun, 30 Aug 2026 | SIGHT pres. THEMBA, PAUZA, Marian Ariss | Marcel BS, Marian Ariss, PAUZA, THEMBA |
 | Sun, 6 Sept 2026 | SIGHT pres. Dunmore Brothers, Manda Moor, Werninghaus, Ezziolino | Dunmore Brothers, Manda Moor |

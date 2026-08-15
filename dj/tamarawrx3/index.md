@@ -1,8 +1,8 @@
 # tamarawrx3
 
-tamarawrx3 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
+tamarawrx3 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
 
-tamarawrx3 is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Multifun, Lenny Fuck and Christa K. Next up: Malzfabrik, Berlin on Sat 22 Aug.
+tamarawrx3 is a techno and trance artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Multifun, Lenny Fuck and Christa K. Next up: Malzfabrik, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ tamarawrx3 is a techno and trance artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Malzfabrik | Berlin |
 | Sat, 12 Sept 2026 | Humboldthain Club | Berlin |
+| Sat, 26 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 

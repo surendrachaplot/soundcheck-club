@@ -1,14 +1,13 @@
 # Nesa Azadikhah
 
-Nesa Azadikhah is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fvtvr, Paris on Fri, 14 Aug 2026.
+Nesa Azadikhah is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Unité.22, Marseille on Sat, 29 Aug 2026.
 
-Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Sina XX, Acid Arab and Deena Abdelwahed. Next up: Fvtvr, Paris on Fri 14 Aug.
+Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Sina XX, Acid Arab and Deena Abdelwahed. Next up: Unité.22, Marseille on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Fvtvr | Paris |
 | Sat, 29 Aug 2026 | Unité.22 | Marseille |
 | Fri, 11 Sept 2026 | Virage | Paris |
 

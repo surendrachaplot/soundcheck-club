@@ -1,14 +1,15 @@
 # Yous
 
-Yous is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Petit Bain, Paris on Sat, 29 Aug 2026.
+Yous is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Petit Bain, Paris on Sat, 29 Aug 2026.
 
-Yous is a trance and techno artist based in France, tracked on soundcheck, with 9 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and MIMI404. Next up: Petit Bain, Paris on Sat 29 Aug.
+Yous is a trance and techno artist based in France, tracked on soundcheck, with 10 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and ADB (FR). Next up: Petit Bain, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Petit Bain | Paris |
+| Fri, 4 Sept 2026 | ://about blank | Berlin |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Yous is a trance and techno artist based in France, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Bady (FR), E.T., MIMI404
+Bady (FR), E.T., ADB (FR)
 
 *Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yous-fr/)*

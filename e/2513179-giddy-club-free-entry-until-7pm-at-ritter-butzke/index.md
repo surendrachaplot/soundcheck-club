@@ -1,6 +1,6 @@
 # Giddy Club - free entry until 7pm at Ritter Butzke
 
-Giddy Club - free entry until 7pm at Ritter Butzke on Fri 18 Sept, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Giddy Club - free entry until 7pm at Ritter Butzke on Fri 18 Sept, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

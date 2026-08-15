@@ -1,6 +1,6 @@
 # OLHA
 
-OLHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+OLHA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 OLHA is a techno and trance artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 5 more. Often billed alongside SOCIAL VLAD, Matriark and Ani Kvirkvelia. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -9,7 +9,6 @@ OLHA is a techno and trance artist based in Ukraine, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
-| Fri, 14 Aug 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 

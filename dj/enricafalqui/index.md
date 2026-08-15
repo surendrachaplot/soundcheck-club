@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Enrica Falqui is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Enrica Falqui is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -9,7 +9,6 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 112 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
-| Fri, 14 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 30 Aug 2026 | Gaffe | London |
 | Fri, 4 Sept 2026 | Signal | New York City |
 | Sat, 12 Sept 2026 | La Rotonde Stalingrad | Paris |

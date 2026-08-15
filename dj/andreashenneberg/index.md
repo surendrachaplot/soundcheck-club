@@ -1,14 +1,13 @@
 # Andreas Henneberg
 
-Andreas Henneberg is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fundbureau, Hamburg on Fri, 14 Aug 2026.
+Andreas Henneberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 29 Aug 2026.
 
-Andreas Henneberg is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Hamburg and Losangeles and 8 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: Fundbureau, Hamburg on Fri 14 Aug.
+Andreas Henneberg is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Hamburg and Losangeles and 8 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: TBA, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Fundbureau | Hamburg |
 | Sat, 29 Aug 2026 | TBA | Berlin |
 | Sat, 5 Sept 2026 | Fridas Pier | Stuttgart |
 | Sat, 7 Nov 2026 | Nikolaisaal Potsdam | Berlin |

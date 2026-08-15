@@ -1,14 +1,13 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "BARULHO x NEUERNAME POPUP & RAVE CLUB KÖLN" on Fri, 14 Aug 2026.
+Garagen is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Chin Chin - im Zauberwald" on Fri, 28 Aug 2026.
 
-Garagen is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Asphodèle, Egyptian Lover, ENNA and Frau Beji and 2 more. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
+Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming nights, with line-ups including Egyptian Lover, ENNA, HENNESY and LUZIA and 2 more. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | BARULHO x NEUERNAME POPUP & RAVE CLUB KÖLN | Asphodèle, Frau Beji, Hey Bony, Jaelo, PICCELL, Tsunamy, VIVI909 |
 | Fri, 28 Aug 2026 | Chin Chin - im Zauberwald | ENNA, LUZIA, MARRED |
 | Sat, 29 Aug 2026 | LOVE THE GROOVE | HENNESY, SPEEDO (2), Sasuma |
 | Fri, 11 Sept 2026 | THE ON(C)E DIRECTION NIGHT · Garagen · Köln |  |

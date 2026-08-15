@@ -1,14 +1,13 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Disturb Rave with Cristobal Pesce" on Fri, 14 Aug 2026.
+Kømplex Lisbon is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SØLIID with ANNĒ [Mutual Rytm, Gre]" on Sat, 15 Aug 2026.
 
-Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
+Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including ANNĒ, CucaRafa, KØDE X and Mayan (PT) and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Disturb Rave with Cristobal Pesce | Cristobal Pesce, DIMENSION 9, Ga7o |
 | Sat, 15 Aug 2026 | SØLIID with ANNĒ [Mutual Rytm, Gre] | ANNĒ, CucaRafa, ophell |
 | Sat, 15 Aug 2026 | FRESCA invites Sara Delirio (to Sunrise) | Mayan (PT), Sara Delirio |
 | Fri, 21 Aug 2026 | RAVE360 - FREE Hard Techno 360 Event |  |

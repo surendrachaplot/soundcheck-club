@@ -1,6 +1,6 @@
 # Ministry Of Sound, Official Carnival After Party 2026 at Ministry Of Sound
 
-Ministry Of Sound, Official Carnival After Party 2026 on Mon 31 Aug, London. 4 acts on the bill: mddiction, Ned Spencer, Oneman and Shenin Amara. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Ministry Of Sound, Official Carnival After Party 2026 on Mon 31 Aug, London. 5 acts on the bill: Dj Cash Only, mddiction, Ned Spencer and Oneman and 1 more. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ministry Of Sound, Official Carnival After Party 2026 on Mon 31 Aug, London. 4 a
 
 ## Line-up
 
+- Dj Cash Only
 - mddiction
 - Ned Spencer
 - Oneman

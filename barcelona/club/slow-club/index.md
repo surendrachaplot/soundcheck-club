@@ -1,14 +1,13 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Tribalesque pres. Toni The Boss + Navider" on Fri, 14 Aug 2026.
+Slow Club is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hot Chili: Navider invites JAXX NOVEIRA" on Sat, 15 Aug 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Tribalesque pres. Toni The Boss + Navider | Navider, Toni The Boss |
 | Sat, 15 Aug 2026 | Hot Chili: Navider invites JAXX NOVEIRA | JAXX NOVEIRA, Navider |
 | Thu, 20 Aug 2026 | Deep, Tech, House: Hermes Disco Eterno | Hermes Disco Eterno |
 | Fri, 21 Aug 2026 | Glamour Freaks: Hermes Disco Eterno | Hermes Disco Eterno |
@@ -18,6 +17,7 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights
 | Sat, 29 Aug 2026 | Hypnotic: Navider | Navider |
 | Thu, 3 Sept 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 4 Sept 2026 | Tribalesque: Navider | Navider |
+| Sat, 5 Sept 2026 | The Retrospective: Luis Bonias + Frankie G | Frankie G, Luis Bonias |
 
 ## Address
 

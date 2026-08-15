@@ -1,14 +1,13 @@
 # Paisley Jensen
 
-Paisley Jensen is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Fri, 14 Aug 2026.
+Paisley Jensen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 2 Sept 2026.
 
-Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 6 more. Often billed alongside Danny Howard, Sam Divine and Sammy Porter. Next up: fabric, London on Fri 14 Aug.
+Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 6 more. Often billed alongside Danny Howard, Sam Divine and Sammy Porter. Next up: Hï Ibiza, Ibiza on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | fabric | London |
 | Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 3 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |

@@ -1,14 +1,13 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+Jay de Lys is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Coco Boule, Berlin on Fri, 21 Aug 2026.
 
-Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Joey Daniel. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
+Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Joey Daniel. Next up: Coco Boule, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Fri, 21 Aug 2026 | Coco Boule | Berlin |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 

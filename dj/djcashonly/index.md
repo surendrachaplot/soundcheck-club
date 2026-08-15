@@ -1,13 +1,14 @@
 # Dj Cash Only
 
-Dj Cash Only is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gallery, London on Sat, 26 Sept 2026.
+Dj Cash Only is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
 
-Dj Cash Only is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Ibiza, Leeds and London. Often billed alongside Sam Divine, Sam Supplier and ACID HARRY. Next up: Gallery, London on Sat 26 Sept.
+Dj Cash Only is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Ibiza, Leeds and London. Often billed alongside Sam Divine, Sam Supplier and ACID HARRY. Next up: Ministry Of Sound, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 31 Aug 2026 | Ministry Of Sound | London |
 | Sat, 26 Sept 2026 | Gallery | London |
 
 ## Recently played

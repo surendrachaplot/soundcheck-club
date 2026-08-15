@@ -1,14 +1,15 @@
 # Baptist (UK)
 
-Baptist (UK) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
+Baptist (UK) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
 
-Baptist (UK) is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: TBA - Venue MOT, London on Fri 21 Aug.
+Baptist (UK) is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: TBA - Venue MOT, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TBA - Venue MOT | London |
+| Fri, 21 Aug 2026 | TBA | London |
 
 ## Recently played
 

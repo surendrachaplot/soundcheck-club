@@ -1,14 +1,13 @@
 # LondonGround
 
-LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+LondonGround is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
 
-LondonGround is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and Max Haas. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
+LondonGround is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and Max Haas. Next up: Jardins de Joan Brossa, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 
 ## Recently played

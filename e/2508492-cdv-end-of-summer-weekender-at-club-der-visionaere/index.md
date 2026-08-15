@@ -1,6 +1,6 @@
 # CDV End Of Summer Weekender:: at Club der Visionaere
 
-CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 6 acts on the bill: Cabanne, Franky Greiner, Ion Ludwig and Janina and 2 more. Preview the line-up and save it on soundcheck.
+CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 7 acts on the bill: Cabanne, Franky Greiner, Giuliano Lomonte and Ion Ludwig and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 6 ac
 
 - Cabanne
 - Franky Greiner
+- Giuliano Lomonte
 - Ion Ludwig
 - Janina
 - Maki Polne

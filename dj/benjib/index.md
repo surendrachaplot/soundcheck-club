@@ -1,14 +1,13 @@
 # Benji B
 
-Benji B is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
+Benji B is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 13 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: Amnesia Ibiza, Ibiza on Fri 14 Aug.
+Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 13 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: 528 Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 3 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | public records | New York City |
 | Sat, 26 Sept 2026 | KOKO | London |

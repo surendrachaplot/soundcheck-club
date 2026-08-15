@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Adriana Ruas + Nuno di Rosso" on Fri, 14 Aug 2026.
+Plano B is a music venue in Porto with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Miguel Rendeiro + La Marie + SHIA" on Sat, 15 Aug 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 10 upcoming nights, with line-ups including Adriana Ruas, Joao Semedo, John Talabot and Miguel Rendeiro and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 9 upcoming nights, with line-ups including Joao Semedo, John Talabot, Miguel Rendeiro and Rompante and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Adriana Ruas + Nuno di Rosso | Adriana Ruas, Nuno di Rosso |
 | Sat, 15 Aug 2026 | Miguel Rendeiro + La Marie + SHIA | Miguel Rendeiro, SHIA |
 | Thu, 20 Aug 2026 | NIGHTSHIFT - Rui Trintaeum + LNDR | Rui Trintaeum |
 | Fri, 21 Aug 2026 | Rompante + Rúben Costa | Rompante, Rúben Costa |

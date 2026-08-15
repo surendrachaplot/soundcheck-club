@@ -1,14 +1,15 @@
 # Kid Drama
 
-Kid Drama is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Kid Drama is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
-Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Paris. Often billed alongside Need For Mirrors, Doc Scott and Loxy. Next up: The Glove That Fits, London on Sat 22 Aug.
+Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Paris. Often billed alongside Need For Mirrors, Doc Scott and Loxy. Next up: The Glove That Fits, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Glove That Fits | London |
+| Sat, 3 Oct 2026 | Phonox | London |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 宀 Club, Hong Kong on Fri, 14 Aug 2026.
+Tommy Four Seven is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at RASA, Singapore on Sat, 15 Aug 2026.
 
-Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Tauceti (FR), Dasha Rush and Adriana Lopez. Next up: 宀 Club, Hongkong on Fri 14 Aug.
+Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Tauceti (FR), Dasha Rush and Adriana Lopez. Next up: RASA, Singapore on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | 宀 Club | Hong Kong |
 | Sat, 15 Aug 2026 | RASA | Singapore |
 | Sat, 29 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 5 Sept 2026 | Europa Boat | Budapest |

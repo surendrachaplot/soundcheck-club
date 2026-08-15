@@ -1,6 +1,6 @@
 # TOILET SESSION: BLCK SWAN INVITES at DNA. HOUSE
 
-TOILET SESSION: BLCK SWAN INVITES at DNA. HOUSE on Sat 26 Sept, Berlin. 3 acts on the bill: Blck-Swan, DJ KILLING and Pablo Espinal. Preview the line-up and save it on soundcheck.
+TOILET SESSION: BLCK SWAN INVITES at DNA. HOUSE on Sat 26 Sept, Berlin. 4 acts on the bill: Blck-Swan, Conntex, DJ KILLING and Pablo Espinal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TOILET SESSION: BLCK SWAN INVITES at DNA. HOUSE on Sat 26 Sept, Berlin. 3 acts o
 ## Line-up
 
 - Blck-Swan
+- Conntex
 - DJ KILLING
 - Pablo Espinal
 

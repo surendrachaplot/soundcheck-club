@@ -1,14 +1,13 @@
 # Static Bloom (DE)
 
-Static Bloom (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pimpernel, Munich on Fri, 14 Aug 2026.
+Static Bloom (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kulturstrand München, Munich on Sat, 15 Aug 2026.
 
-Static Bloom (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Munich, Stuttgart and Vancouver. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: Pimpernel, Munich on Fri 14 Aug.
+Static Bloom (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Munich, Stuttgart and Vancouver. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: Kulturstrand München, Munich on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Pimpernel | Munich |
 | Sat, 15 Aug 2026 | Kulturstrand München | Munich |
 
 ## Recently played

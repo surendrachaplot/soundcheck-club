@@ -1,8 +1,8 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at FOLD, London on Sat, 22 Aug 2026.
+Ekkel is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at FOLD, London on Sat, 22 Aug 2026.
 
-Ekkel is a trance and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: FOLD, London on Sat 22 Aug.
+Ekkel is a trance and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: FOLD, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 56 sets logged a
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Signal | New York City |
 | Sun, 20 Sept 2026 | TBA - Open Air  | Los Angeles |
+| Fri, 25 Sept 2026 | LAUT | Barcelona |
 | Sat, 10 Oct 2026 | Eiger Studios | Leeds |
 
 ## Recently played

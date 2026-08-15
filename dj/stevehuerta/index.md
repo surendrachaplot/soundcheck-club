@@ -1,14 +1,13 @@
 # Huerta
 
-Huerta is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+Huerta is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Circus Osaka, Osaka on Thu, 20 Aug 2026.
 
-Huerta is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
+Huerta is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Circus Osaka, Osaka on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Secret Location, announce to all ticket holders 1 day prior to the event | Hong Kong |
 | Thu, 20 Aug 2026 | Circus Osaka | Osaka |
 | Fri, 21 Aug 2026 | Mitsuki | Tokyo |
 | Sat, 5 Sept 2026 | BRET | Amsterdam |

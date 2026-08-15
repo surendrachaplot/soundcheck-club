@@ -1,6 +1,6 @@
 # Plastic Night at Macarena Club
 
-Plastic Night at Macarena Club on Tue 18 Aug, Barcelona. 2 acts on the bill: DIROS and Kanedo. Preview the line-up and save it on soundcheck.
+Plastic Night at Macarena Club on Tue 18 Aug, Barcelona. 3 acts on the bill: BODAI, DIROS and Kanedo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Plastic Night at Macarena Club on Tue 18 Aug, Barcelona. 2 acts on the bill: DIR
 
 ## Line-up
 
+- BODAI
 - DIROS
 - Kanedo
 

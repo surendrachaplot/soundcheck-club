@@ -1,14 +1,13 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Grau Series: [Indoor/Outdoor] with Blue Hour (UK/DE), Adamatron b2b Fake Agent, Marie Pravda+more" on Fri, 14 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LUR EVENT vol.2" on Sat, 15 Aug 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 2NDRA, 3ever, AVHD and Ayiaa and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Grau Series: [Indoor/Outdoor] with Blue Hour (UK/DE), Adamatron b2b Fake Agent, Marie Pravda+more | Adamatron, Arton (CZ), Blue Hour, Etienn Grey, Fake Agent, Kirill Astra, Marie Pravda, ishka machina, too many Jesses |
 | Sat, 15 Aug 2026 | LUR EVENT vol.2 | 3ever, DAVIDOFFWHITE, L7K (1), Polarboi |
 | Thu, 20 Aug 2026 | SUN > ATG < SET: EERIE collective | DDK (1), RADYK, ZiZi, zazitech |
 | Fri, 21 Aug 2026 | ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender W/ Bloody Mary, Lars Huismann, Ly Sas | 2NDRA, AVHD, Bloody Mary, DARDANELLA, Dash (CZ), Diva, IAmNøt, KAWA, Kino Paladino, Lars Huismann, Ly Sas, MARS (4), Nadine, Nanzhen Yang, Patricio Strix, Pink Concrete, RiVid, Riki Boro, S.N.R.I., SJ Yellow, SURCO, Technadze, VISNEACS, VLZQUES, enthrust |

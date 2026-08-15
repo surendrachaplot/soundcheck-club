@@ -1,6 +1,6 @@
 # ://blank off summer - garden closing 2026 at ://about blank
 
-://blank off summer - garden closing 2026 at ://about blank on Sat 26 Sept, Berlin. 15 acts on the bill: a:tok, Bossy Doll Bina, ELIZEN THE EMPEROR and Galaxaura and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+://blank off summer - garden closing 2026 at ://about blank on Sat 26 Sept, Berlin. 19 acts on the bill: a:tok, Alex.Do, Bossy Doll Bina and DJ Purpur and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@
 ## Line-up
 
 - a:tok
+- Alex.Do
 - Bossy Doll Bina
+- DJ Purpur
 - ELIZEN THE EMPEROR
 - Galaxaura
 - HiHat
@@ -25,5 +27,7 @@
 - Rodmin
 - SACID
 - Sven Weisemann
+- tamarawrx3
+- Tièmoko Koné
 
 *Source: [soundcheck](https://soundcheck.club/e/2507135-blank-off-summer-garden-closing-2026-at-about-blank/)*

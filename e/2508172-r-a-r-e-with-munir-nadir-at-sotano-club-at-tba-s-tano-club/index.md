@@ -1,6 +1,6 @@
 # R.A.R.E with Munir Nadir at - Sotano Club at TBA - Sótano Club 
 
-R.A.R.E with Munir Nadir at - Sotano Club at TBA - Sótano Club  on Sat 15 Aug, Mallorca. 1 act on the bill: Munir Nadir. Acid and Minimal. Preview the line-up and save it on soundcheck.
+R.A.R.E with Munir Nadir at - Sotano Club at TBA - Sótano Club  on Sat 15 Aug, Mallorca. 1 act on the bill: Munir Nadir. Minimal and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

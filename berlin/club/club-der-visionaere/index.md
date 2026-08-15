@@ -1,15 +1,15 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Focal Point x Alien Communications x Les Enfants" on Fri, 14 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Noisy Glance" on Sat, 15 Aug 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Agazzi, Alien Communications, Anderson (US) and Andrea Ferlin and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Agazzi, Anderson (US), Andrea Ferlin and Andres Bucci and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Focal Point x Alien Communications x Les Enfants | Alien Communications, Andrew James Gustav, Enrica Falqui, Tunik |
 | Sat, 15 Aug 2026 | Noisy Glance | AOKI takamasa, Agazzi, Daniele Papini, Hugo, Topper |
+| Sat, 15 Aug 2026 | +22957193023 Les dangers du portefeuille magique | Au Contraire, PAS |
 | Sun, 16 Aug 2026 | OFF THE GRID | Ctrl+Opt, David Hornung, Gwenan, Karine, Lola Haro, Onirik, Shakolin, XDB |
 | Mon, 17 Aug 2026 | Santa Musica | Berní, Doreen, Vale Colvin |
 | Wed, 19 Aug 2026 | Musek Vol. V | BioN, Hamsa |

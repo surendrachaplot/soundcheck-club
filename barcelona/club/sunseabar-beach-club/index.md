@@ -14,7 +14,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upco
 | Fri, 21 Aug 2026 | 22Recordings x Café Croissant FREE OPEN AIR BEACH PARTY | Bella Sarris, C.ru.z, IAMBP, Man/Ipulate |
 | Sat, 22 Aug 2026 | FREE OPEN AIR BEACH PARTY - Half Baked x Les Enfants | Nate S.U, Reflex Blue, Sami Daik |
 | Sun, 23 Aug 2026 | FREE Open Air Beach Party ■ Checkpoint x Troopers | Adria (ES), Brieela, MARYO, Pau Rosés, Sampol |
-| Thu, 27 Aug 2026 | Bonanza x Liquid Palms pres. Paolo Mosca | Adrian Grösser, Breezy S, Derovio, NOBODYISALICE, Paolo Mosca |
+| Thu, 27 Aug 2026 | FREE BEACH PARTY Bonanza x Liquid Palms pres. Paolo Mosca | Adrian Grösser, Breezy S, Derovio, NOBODYISALICE, Paolo Mosca |
 | Fri, 28 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost Invites Innuendo at Platja Del Fòrum  | EFÍMERO |
 | Sat, 29 Aug 2026 | Less is More x Medio Crew presents Prichindel | Daescu, Gera (3), Kid Moss, Prichindel |
 | Sun, 30 Aug 2026 | Outer Place On The Beach x Les Enfants |  |

@@ -1,14 +1,13 @@
 # Etienne
 
-Etienne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
+Etienne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
-Etienne is a house and techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Frankfurt and London and 4 more. Often billed alongside Afem Syko, Alien Communications and Anah. Next up: OHM, Berlin on Fri 14 Aug.
+Etienne is a house and techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Frankfurt and London and 4 more. Often billed alongside Afem Syko, Alien Communications and Anah. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | OHM | Berlin |
 | Sun, 16 Aug 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

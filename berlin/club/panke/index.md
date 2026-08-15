@@ -1,8 +1,8 @@
 # Panke
 
-Panke is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Picha Congo Fundraiser" on Fri, 21 Aug 2026.
+Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Picha Congo Fundraiser" on Fri, 21 Aug 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Calcou and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Calcou and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 

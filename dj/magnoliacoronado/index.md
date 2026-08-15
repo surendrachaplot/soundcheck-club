@@ -1,14 +1,13 @@
 # Magnolia Coronado
 
-Magnolia Coronado is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Foro Normandie, Mexico City on Fri, 14 Aug 2026.
+Magnolia Coronado is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
 
-Magnolia Coronado is a techno and house artist tracked on soundcheck, with 82 sets logged across Mexicocity and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: Foro Normandie, Mexicocity on Fri 14 Aug.
+Magnolia Coronado is a techno and house artist tracked on soundcheck, with 82 sets logged across Mexicocity and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: Levu VIP, Mexicocity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Foro Normandie | Mexico City |
 | Sat, 22 Aug 2026 | Levu VIP | Mexico City |
 
 ## Recently played

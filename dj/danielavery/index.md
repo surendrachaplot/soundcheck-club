@@ -1,14 +1,13 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at essaim, Paris on Fri, 14 Aug 2026.
+Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
 
-Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: essaim, Paris on Fri 14 Aug.
+Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: The White Hotel, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | essaim | Paris |
 | Sat, 15 Aug 2026 | The White Hotel | Manchester |
 | Fri, 28 Aug 2026 | Strange Brew | Bristol |
 | Sat, 29 Aug 2026 | Southwark Park | London |
@@ -20,6 +19,7 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets l
 | Fri, 18 Sept 2026 | The Independent | San Francisco/Oakland |
 | Wed, 23 Sept 2026 | Elsewhere | New York City |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
+| Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 

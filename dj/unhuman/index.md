@@ -1,14 +1,13 @@
 # Unhuman
 
-Unhuman is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+Unhuman is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at E1, London on Sat, 19 Sept 2026.
 
-Unhuman is a techno and industrial artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Bali and Bangkok and 16 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
+Unhuman is a techno and industrial artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Bali and Bangkok and 16 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: E1, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Sept 2026 | E1 | London |
 
 ## Recently played

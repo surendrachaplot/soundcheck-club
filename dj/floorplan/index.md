@@ -1,14 +1,13 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+Floorplan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
-Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
+Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 29 Aug 2026 | Knockdown Center | New York City |
 | Fri, 4 Sept 2026 | BERHTA | Washington DC |
 | Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |

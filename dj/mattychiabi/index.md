@@ -1,13 +1,14 @@
 # Matty Chiabi
 
-Matty Chiabi is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Parallel, Amsterdam on Sat, 12 Sept 2026.
+Matty Chiabi is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
 
-Matty Chiabi is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Bristol, London and Madrid and 3 more. Often billed alongside Girls Don't Sync, Sophia Violet and Yemz. Next up: Parallel, Amsterdam on Sat 12 Sept.
+Matty Chiabi is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Bristol, London and Madrid and 3 more. Often billed alongside Girls Don't Sync, Sophia Violet and Yemz. Next up: Skatecafe, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Skatecafe | Amsterdam |
 | Sat, 12 Sept 2026 | Parallel | Amsterdam |
 
 ## Recently played

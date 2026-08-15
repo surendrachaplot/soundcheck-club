@@ -699,6 +699,12 @@
     .email-modal h3 { font-family:var(--head); font-size:var(--fs-lg); font-weight:800; letter-spacing:-0.025em; margin-bottom:6px; }
     .email-modal h3 .ac { color:var(--accent); }
     .email-modal p { color:var(--muted); font-size:var(--fs-base); margin-bottom:18px; }
+    /* "Keep listening" — the quiet way out of the check-your-inbox step. Values
+       copied from #auth-sent-done's inline style so the two secondary exits in
+       the sign-up flow are the same control, not two near-misses. */
+    .email-modal .email-later { display:block; margin:12px auto 0; background:none; border:none;
+      color:var(--muted); font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; }
+    .email-modal .email-later:hover { color:var(--fg); }
     .email-err { color:var(--accent); font-size:var(--fs-sm); margin-top:10px; min-height:1.2em; }
 
     /* player dock — media bar (video left when expanded, controls + scrubber centered) */
@@ -3971,7 +3977,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786707059483">
+<meta name="sc-build" content="1786793610821">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4031,7 +4037,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">87 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">142 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">86 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">143 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">86 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">121 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4110,7 +4116,7 @@
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a magic link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <p>We sent a magic link to <b id="auth-sent-to"></b>. Tap the link, or type the 6-character code from the email &mdash; either works, on any device:</p>
         <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
         <button class="go" type="button" id="auth-code-go">Sign in with code</button>
         <div class="err" id="auth-code-err"></div>
@@ -4415,10 +4421,36 @@
           try{ var r=await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); ok=r.ok; }catch(_){}
           if(!ok){ errEl.textContent='Couldn’t send the link — try again.'; submit.disabled=false; return; }
           try{ fetch(API_BASE+'/api/email',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); }catch(_){} // newsletter, best-effort
-          _pendingEmail=email; setPref('emailGated', true); setPref('pendingEmail', email); // optimistic unblock; link finishes the account
-          document.removeEventListener('keydown',onEsc); ov.remove();
+          _pendingEmail=email; setPref('emailGated', true); setPref('pendingEmail', email); // optimistic unblock; link OR code finishes the account
           showSignupBanner(email);
+          // UNBLOCK NOW, but DO NOT VANISH.
+          //
+          // This used to `ov.remove()` here, so the whole confirmation step did
+          // not exist: no "we sent it", no address to check for typos, and — the
+          // real damage — nowhere to type the 6-character code the email
+          // promises. Tapping the link on the same device was the ONLY way in.
+          // Anyone else was left with prefs.emailGated set, which hasEmail()
+          // reads as "already signed up", so they were never asked again.
           resolve(true);
+          var m=ov.querySelector('.email-modal');
+          m.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+            '<h3>Check your <span class="ac">inbox</span>.</h3>'+
+            '<p>We sent a link and a 6-character code to <b></b>. Tap the link, or type the code here — either works, on any device.</p>'+
+            '<form class="email-form"><input type="text" maxlength="8" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" placeholder="Code" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;" /><button type="submit">Sign me in</button></form>'+
+            '<p class="email-err" aria-live="polite"></p>'+
+            '<button type="button" class="email-later">Keep listening</button>';
+          m.querySelector('b').textContent=email;   // textContent, never innerHTML — this is user input
+          var codeI=m.querySelector('input'), codeF=m.querySelector('form'),
+              codeErr=m.querySelector('.email-err'), codeBtn=m.querySelector('button[type=submit]');
+          setTimeout(function(){ codeI.focus(); },30);
+          m.querySelector('.email-close').addEventListener('click',function(){ document.removeEventListener('keydown',onEsc); ov.remove(); });
+          m.querySelector('.email-later').addEventListener('click',function(){ document.removeEventListener('keydown',onEsc); ov.remove(); });
+          codeF.addEventListener('submit',async function(ev){
+            ev.preventDefault(); codeErr.textContent=''; codeBtn.disabled=true;
+            var msg=await finishCodeSignIn(email, codeI.value);
+            if(msg){ codeErr.textContent=msg; codeBtn.disabled=false; return; }
+            document.removeEventListener('keydown',onEsc); ov.remove();
+          });
         });
       });
     }
@@ -6208,27 +6240,50 @@
     document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
     // PWA-friendly sign-in: verify the emailed code in THIS context so the session
     // cookie lands in the (installed) app, not whatever browser opened the link.
-    document.getElementById('auth-code-go').addEventListener('click',async function(){
-      var email=(document.getElementById('auth-sent-to').textContent||'').trim().toLowerCase();
-      var code=(document.getElementById('auth-code').value||'').trim();
-      var err=document.getElementById('auth-code-err'), btn=this;
-      if(code.replace(/[^a-z0-9]/gi,'').length<4){ err.textContent='Enter the code from the email.'; return; }
-      btn.disabled=true; err.textContent='';
+    /**
+     * Finish sign-in with the emailed code. ONE implementation, because there
+     * are now two places you can type it: the sign-in sheet, and the play gate.
+     *
+     * The gate used to have none — it sent the email, deleted itself, and set
+     * prefs.emailGated, which hasEmail() treats as "past the gate". So anyone
+     * who did not tap the link on that exact device ended up with no account
+     * AND no further prompt: signed up in appearance only, forever.
+     *
+     * Returns a message on failure, null on success. The caller owns its own UI.
+     */
+    async function finishCodeSignIn(email, code){
+      email=(email||'').trim().toLowerCase();
+      code=(code||'').trim();
+      if(!email) return 'We lost your email address — start again.';
+      if(code.replace(/[^a-z0-9]/gi,'').length<4) return 'Enter the code from the email.';
       try{
         var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
         var j=await r.json().catch(function(){return {};});
-        if(!r.ok || !j.ok){ err.textContent=(r.status===400?'That code is wrong or expired.':'Something went wrong — try again.'); btn.disabled=false; return; }
+        if(!r.ok || !j.ok) return (r.status===400?'That code is wrong or expired.':'Something went wrong — try again.');
         if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
         var hadLocal=pickCount()>0;
-        closeAuth();
         await loadMe(); renderAccount();
+        hideSignupBanner();
+        setPref('pendingEmail','');
         if(currentUser && hadLocal){
           authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
             body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
                                   events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
           }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
         } else { showToast('Signed in'); }
-      }catch(_){ err.textContent='Network error — try again.'; btn.disabled=false; }
+        return null;
+      }catch(_){ return 'Network error — try again.'; }
+    }
+
+    document.getElementById('auth-code-go').addEventListener('click',async function(){
+      // Fall back to the stored pending address: the sheet fills #auth-sent-to,
+      // but a code typed after a GATE sign-up has no such element to read.
+      var email=(document.getElementById('auth-sent-to').textContent||'').trim() || _pendingEmail || prefs.pendingEmail || '';
+      var err=document.getElementById('auth-code-err'), btn=this;
+      btn.disabled=true; err.textContent='';
+      var msg=await finishCodeSignIn(email, document.getElementById('auth-code').value);
+      if(msg){ err.textContent=msg; btn.disabled=false; return; }
+      closeAuth();
     });
     authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });

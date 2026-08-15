@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "NWHR invites Napo Lugo, Benza, Dimitry" on Fri, 14 Aug 2026.
+NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "NWHR AFTER: Casual Treatment [OPEN TO CLOSE]" on Sat, 15 Aug 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including AADJA, Casual Treatment, Claire and Crescenzo and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including AADJA, Casual Treatment, Claire and Crescenzo and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | NWHR invites Napo Lugo, Benza, Dimitry | Dimitry, Napo Lugo |
 | Sat, 15 Aug 2026 | NWHR AFTER: Casual Treatment [OPEN TO CLOSE] | Casual Treatment |
 | Fri, 21 Aug 2026 | UNHRD Invites Jino K B2B Deneb, Zepha b2b Claire and Crescenzo | Claire, Crescenzo, Deneb, Jino K, Zepha |
 | Sat, 22 Aug 2026 | Speakeasy |  |

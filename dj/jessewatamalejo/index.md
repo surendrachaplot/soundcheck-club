@@ -1,14 +1,14 @@
 # Jesse Watamalejo
 
-Jesse Watamalejo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Jesse Watamalejo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, Amsterdam on Sat, 29 Aug 2026.
 
-Jesse Watamalejo is a tech house and house artist tracked on soundcheck, with 10 sets logged across Amsterdam and Thehague. Often billed alongside rebrånded, Federico Patafi and Vale.T. Next up: TBA, Amsterdam on Sat 29 Aug.
+Jesse Watamalejo is a tech house and house artist tracked on soundcheck, with 10 sets logged across Amsterdam and Thehague. Often billed alongside rebrånded, Federico Patafi and Vale.T. Next up: TBA - Secret Location, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA | Amsterdam |
+| Sat, 29 Aug 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played
 

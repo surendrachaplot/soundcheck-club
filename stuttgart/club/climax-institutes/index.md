@@ -1,14 +1,14 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "This !s" on Fri, 14 Aug 2026.
+Climax-Institutes is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "INTRODUCE x ROTES RAUSCHEN" on Sat, 15 Aug 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and crystal crimez (2) and 1 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | This !s | E-PUNK |
+| Sat, 15 Aug 2026 | INTRODUCE x ROTES RAUSCHEN |  |
 | Thu, 20 Aug 2026 | Appetizer - Hot August Episode | Adi Dassler, Philip Bogdan |
 | Fri, 21 Aug 2026 | COSMIC CONVERGENCE #5 BY KOLLEKTIV BASSZENDENT | Aniza (DE), CALiACRA, crystal crimez (2) |
 | Sat, 22 Aug 2026 | HSTLR NIGHT (Climax Institutes) |  |

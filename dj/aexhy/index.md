@@ -1,14 +1,13 @@
 # Aexhy
 
-Aexhy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Helios37, Cologne on Fri, 14 Aug 2026.
+Aexhy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
-Aexhy is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside SACID, 1luu and Trancemaster Krause. Next up: Helios37, Cologne on Fri 14 Aug.
+Aexhy is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside SACID, 1luu and Trancemaster Krause. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Helios37 | Cologne |
 | Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

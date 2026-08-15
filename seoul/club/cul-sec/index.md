@@ -1,14 +1,13 @@
 # Cul Sec
 
-Cul Sec is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CUL SEC" on Fri, 14 Aug 2026.
+Cul Sec is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CUL SEC" on Sat, 15 Aug 2026.
 
-Cul Sec is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Cityboy from Seoul, Lyumin and ranomin. Browse upcoming dates, start times and who's playing. 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343.
+Cul Sec is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Cityboy from Seoul and Lyumin. Browse upcoming dates, start times and who's playing. 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | CUL SEC | ranomin |
 | Sat, 15 Aug 2026 | CUL SEC | Cityboy from Seoul |
 | Sun, 16 Aug 2026 | CUL SEC | Lyumin |
 

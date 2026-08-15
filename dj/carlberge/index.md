@@ -1,8 +1,8 @@
 # Carl Bergé
 
-Carl Bergé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+Carl Bergé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
-Carl Bergé is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
+Carl Bergé is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carl Bergé is a house and techno artist tracked on soundcheck, with 71 sets log
 | Sat, 22 Aug 2026 | Boulderhalle Dynochrom | Frankfurt |
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 19 Sept 2026 | Schiffsanlegestelle Uber Arena | Berlin |
+| Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 

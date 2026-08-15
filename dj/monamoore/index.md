@@ -1,8 +1,8 @@
 # Mona Moore
 
-Mona Moore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 20 Aug 2026.
+Mona Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 20 Aug 2026.
 
-Mona Moore is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Berlin, Cologne, Hamburg and Montreal and 3 more. Often billed alongside Stan Starry, Foolik and Pauli Pocket. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Thu 20 Aug.
+Mona Moore is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Hamburg and Montreal and 3 more. Often billed alongside Stan Starry, Foolik and Pauli Pocket. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mona Moore is a techno and house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
+| Fri, 11 Sept 2026 | Hoppetosse | Berlin |
 | Fri, 9 Oct 2026 | Kater | Berlin |
 
 ## Recently played

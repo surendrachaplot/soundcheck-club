@@ -1,14 +1,13 @@
 # kasetakumi (2)
 
-kasetakumi (2) is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Bonobo, Tokyo on Fri, 14 Aug 2026.
+kasetakumi (2) is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Forestlimit, Tokyo on Sat, 15 Aug 2026.
 
-kasetakumi (2) is a house and experimental artist based in Japan, tracked on soundcheck, with 26 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, DJ melody and arow. Next up: Bonobo, Tokyo on Fri 14 Aug.
+kasetakumi (2) is a house and experimental artist based in Japan, tracked on soundcheck, with 26 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, DJ melody and arow. Next up: Forestlimit, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Bonobo | Tokyo |
 | Sat, 15 Aug 2026 | Forestlimit | Tokyo |
 | Fri, 4 Sept 2026 | West Harlem | Kyoto |
 

@@ -1,13 +1,14 @@
 # Nymed
 
-Nymed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Nymed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Wanderlust, Paris on Thu, 20 Aug 2026.
 
-Nymed is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: KitKatClub, Berlin on Fri 11 Sept.
+Nymed is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: Wanderlust, Paris on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Wanderlust | Paris |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "THE WEEKEND STARTS HERE: Delvyn (fka Porter), Sonuit, Fenster, Jauson" on Fri, 14 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Organza invites: SENERGI, Agua con gas, elliephunk, Organza" on Sat, 15 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Javier Anxiety, Agua con gas, Ahni and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Javier Anxiety, Agua con gas, Ahni and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | THE WEEKEND STARTS HERE: Delvyn (fka Porter), Sonuit, Fenster, Jauson | Fenster, Porter, Sonuit |
 | Sat, 15 Aug 2026 | Organza invites: SENERGI, Agua con gas, elliephunk, Organza | Agua con gas, Organza, SENERGI, elliephunk |
 | Thu, 20 Aug 2026 | House of Others (Vol.11): Ahni, Dzoara, materia hache | Ahni, Dzoara, materia hache |
 | Fri, 21 Aug 2026 | NODE: B. Clarke, TUP, Bianchetti, AD | B. Clarke, Bianchetti |
@@ -18,6 +17,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming night
 | Sat, 29 Aug 2026 | Bulbul Residents & Friends: Nikklaas, Casa Marrone & More | Nikklaas |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - Fresh Faces |  |
 | Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - House of Others | Triqi, boyyyish, materia hache |
+| Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - Broncos Takeover |  |
 
 ## Address
 

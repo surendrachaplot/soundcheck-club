@@ -17,7 +17,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming n
 | Fri, 28 Aug 2026 | Smoove: Continental GT, Supa D, Crazy Cousinz + more | Continental GT, Crazy Cousinz, Daddy Chulo, Donch, Emz (MC), Pioneer, Rampage, Supa D, mastaque |
 | Sat, 29 Aug 2026 | Trance Sanctuary Courtyard Party | Mark Landragin |
 | Sun, 30 Aug 2026 | Tribal Life - Carnival After Party |  |
-| Mon, 31 Aug 2026 | Ministry Of Sound, Official Carnival After Party 2026 | Ned Spencer, Oneman, Shenin Amara, mddiction |
+| Mon, 31 Aug 2026 | Ministry Of Sound, Official Carnival After Party 2026 | Dj Cash Only, Ned Spencer, Oneman, Shenin Amara, mddiction |
 
 ## Address
 

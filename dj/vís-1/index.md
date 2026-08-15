@@ -1,14 +1,13 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Spread, Tokyo on Fri, 14 Aug 2026.
+Vís (1) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sat, 15 Aug 2026.
 
-Vís (1) is a techno and dub artist tracked on soundcheck, with 125 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Spread, Tokyo on Fri 14 Aug.
+Vís (1) is a techno and dub artist tracked on soundcheck, with 125 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Suns Shimokitazawa, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Spread | Tokyo |
 | Sat, 15 Aug 2026 | Suns Shimokitazawa | Tokyo |
 
 ## Recently played

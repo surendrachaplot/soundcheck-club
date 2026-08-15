@@ -1,14 +1,13 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Cavo Paradiso, Mykonos on Fri, 14 Aug 2026.
+Afrojack is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Big Night Live, Boston on Fri, 28 Aug 2026.
 
-Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Cavo Paradiso, Mykonos on Fri 14 Aug.
+Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Big Night Live, Boston on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Cavo Paradiso | Mykonos |
 | Fri, 28 Aug 2026 | Big Night Live | Boston |
 | Fri, 25 Sept 2026 | E11EVEN MIAMI | Miami |
 | Mon, 5 Oct 2026 | Ushuaïa Ibiza | Ibiza |

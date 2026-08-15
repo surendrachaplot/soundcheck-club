@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "VOLTAGE - Face to Face ⋆˚｡ Camion Bazar" on Fri, 14 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "subtyl" on Sat, 15 Aug 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including Camion Bazar, cfds, Corbeille Dallas and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including cfds, Corbeille Dallas, Delano Legito and De Vedelly and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | VOLTAGE - Face to Face ⋆˚｡ Camion Bazar | Camion Bazar, Louis The 4th, STL-P, TBA |
 | Sat, 15 Aug 2026 | subtyl | Delano Legito, Egna, KALTBLUME, Sina XX |
 | Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS |  |
 | Thu, 27 Aug 2026 | Drag, Amour & Amitié |  |
@@ -18,6 +17,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 19 u
 | Fri, 4 Sept 2026 | LA CREOLE À LA STATION #7 — ULTIMATE PARTY |  |
 | Sat, 5 Sept 2026 | Tara Clerkin Trio (live) + TBC |  |
 | Sun, 6 Sept 2026 | The All Black Everything Kiki Ball |  |
+| Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 14 Aug 2026.
+Tommy Phillips is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Audio SF, San Francisco/Oakland on Sat, 15 Aug 2026.
 
-Tommy Phillips is a tech house and house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Pacha Ibiza, Ibiza on Fri 14 Aug.
+Tommy Phillips is a tech house and house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Audio SF, Sanfrancisco on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Audio SF | San Francisco/Oakland |
 | Sat, 15 Aug 2026 | Audio SF | San Francisco/Oakland |
 | Sun, 23 Aug 2026 | Boomerang Beach | The Hague |

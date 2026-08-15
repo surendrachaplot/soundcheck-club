@@ -1,14 +1,13 @@
 # Rafatel
 
-Rafatel is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
+Rafatel is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
 
-Rafatel is a house and deep house artist tracked on soundcheck, with 96 sets logged across Barcelona, Buenosaires, Hamburg and London and 4 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: Fünk, Mexicocity on Fri 14 Aug.
+Rafatel is a house and deep house artist tracked on soundcheck, with 96 sets logged across Barcelona, Buenosaires, Hamburg and London and 4 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: 303 Audiophile Bar, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Fünk | Mexico City |
 | Sat, 19 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 20 Sept 2026 | Palais | London |
 

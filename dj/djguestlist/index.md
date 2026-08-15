@@ -1,8 +1,8 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
+DJ GUESTLIST is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
-DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
+DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets 
 | Fri, 18 Sept 2026 | Superordinary | Brisbane |
 | Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

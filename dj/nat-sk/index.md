@@ -1,14 +1,13 @@
 # NAT(SK)
 
-NAT(SK) is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Fri, 14 Aug 2026.
+NAT(SK) is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Golden Gate, Berlin on Fri, 21 Aug 2026.
 
-NAT(SK) is a house and progressive house artist based in Slovakia, tracked on soundcheck, with 52 sets logged across Berlin, Copenhagen, Newyorkcity and Prague and 2 more. Often billed alongside YOON, Pelzman and Anna Logic. Next up: Hangaren, Copenhagen on Fri 14 Aug.
+NAT(SK) is a house and progressive house artist based in Slovakia, tracked on soundcheck, with 52 sets logged across Berlin, Copenhagen, Newyorkcity and Prague and 2 more. Often billed alongside YOON, Pelzman and Anna Logic. Next up: Golden Gate, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 21 Aug 2026 | Golden Gate | Berlin |
 | Fri, 28 Aug 2026 | Kater | Berlin |
 

@@ -1,14 +1,13 @@
 # Bruno Brero
 
-Bruno Brero is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
+Bruno Brero is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
-Bruno Brero is a trance and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Leipzig and Munich. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 14 Aug.
+Bruno Brero is a trance and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Leipzig and Munich. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | ÆDEN | Berlin |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |

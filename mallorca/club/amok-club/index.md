@@ -8,7 +8,7 @@ Amok Club is a music venue in Mallorca listed on soundcheck. 5 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Space of Sound Mallorca w/ Claptone | AAfrAA, Claptone, Nic Vesperi |
+| Sat, 15 Aug 2026 | Space of Sound Mallorca w/ Claptone | AAfrAA, Claptone, Nic Vesperi, Twiga |
 | Mon, 17 Aug 2026 | 122 - AMOK x Bootshaus | Alicia Hahn, Kaz James |
 | Mon, 24 Aug 2026 | 122 - AMOK x Bootshaus | Notre Dame, meera (NO) |
 | Mon, 31 Aug 2026 | 122 - AMOK x Bootshaus | Jean Philippe, Mole (1), Tripolism |

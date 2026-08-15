@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 57 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Marco Carola PRESENTS MUSIC ON" on Fri, 14 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Roger Sanchez - FLOWER POWER" on Sat, 15 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 57 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Marco Carola PRESENTS MUSIC ON | Calvin Clarke, East End Dubs, Joss Dean, Marco Carola, Max Dean, Tommy Phillips |
 | Sat, 15 Aug 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
 | Sat, 15 Aug 2026 | ROGER SANCHEZ / FLOWER POWER |  |
 | Sun, 16 Aug 2026 | Solomun+1 | DJ Gigola, Solomun |
@@ -18,6 +17,7 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 57 upcoming nights, 
 | Fri, 21 Aug 2026 | Marco Carola PRESENTS MUSIC ON | Frank Storm, Marco Carola, MĪMĪ x FY, Rampa |
 | Sat, 22 Aug 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
 | Sun, 23 Aug 2026 | Solomun+1 | Max Styler, Solomun |
+| Mon, 24 Aug 2026 | Sonny Fodera | Danny Howard, Eats Everything, Sonny Fodera |
 
 ## Address
 

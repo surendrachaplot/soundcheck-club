@@ -1,14 +1,13 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
+Metrik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
-Metrik is a drum & bass and bass artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 18 more. Often billed alongside Degs, P Money and Whiney. Next up: The Brooklyn Monarch, Newyorkcity on Fri 14 Aug.
+Metrik is a drum & bass and bass artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 18 more. Often billed alongside Degs, P Money and Whiney. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | The Brooklyn Monarch | New York City |
 | Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |

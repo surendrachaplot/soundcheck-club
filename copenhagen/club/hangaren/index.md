@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis" on Fri, 14 Aug 2026.
+Hangaren is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz " on Sat, 15 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis | DJ LoveCatt, Gerd Janson, Harrison Heat, NAT(SK), Roussakis, Tamara |
 | Sat, 15 Aug 2026 | Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz  | Elliott Taguchi, Holtz (2), Kander, Kardinal Bertram, Mëtro, UBER KNAST |
 | Fri, 21 Aug 2026 | Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis | Daria Kolosova, David Garset, Emma Priis, Johannes Astrup, pai-lin |
 | Sat, 22 Aug 2026 | Teenage Mutants, SCHAARUP, Azpecialguest, Eusherr, Gerssein, CERJ | Azpecialguest, CERJ, Gerssein, SCHAARUP, Teenage Mutants |
@@ -18,6 +17,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights
 | Fri, 28 Aug 2026 | Karrusel Afterparty: Kyle Starkey, B From E, ENNA | B From E, ENNA, Kyle Starkey |
 | Sat, 29 Aug 2026 | Karrusel Afterparty: TOCCORORO, Meilgaarden, WE.LL | Meilgaarden, TOCCORORO, WE.LL |
 | Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
+| Fri, 11 Sept 2026 | Mija, Gusted, DRABER666 | DRABER666, Gusted, Mija |
 
 ## Address
 

@@ -1,6 +1,6 @@
-# GLUE: OFFICIAL AFTERPARTY at TBA - London Zone 1
+# GLUE: Official Afterparty at TBA - London Zone 1
 
-GLUE: OFFICIAL AFTERPARTY at TBA - London Zone 1 on Sun 16 Aug, London. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+GLUE: Official Afterparty at TBA - London Zone 1 on Sun 16 Aug, London. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

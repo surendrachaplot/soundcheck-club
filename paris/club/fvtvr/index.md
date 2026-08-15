@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Fvtvr INVITES: Arthur Robert live, Nesa Azadikhah, Red Rooms" on Fri, 14 Aug 2026.
+Fvtvr is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Fvtvr x ALTO: Gabriel Belabbas, LAMALICE, Massaï" on Sat, 15 Aug 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Fvtvr INVITES: Arthur Robert live, Nesa Azadikhah, Red Rooms | Arthur Robert, Nesa Azadikhah, Red Rooms |
 | Sat, 15 Aug 2026 | Fvtvr x ALTO: Gabriel Belabbas, LAMALICE, Massaï | Gabriel Belabbas, LAMALICE, Massaï |
 | Fri, 21 Aug 2026 | Fvtvr INVITES: Slam, David Asko, Hyper Sam | David Asko, Hyper Sam, Slam |
 | Sat, 22 Aug 2026 | BCCO BERLIN: TWO DOTS, Yasmin Regisford, DJ HYPERDRIVE | DJ Hyperdrive, Iman Janes, Sicion, Two Dots (FR), Yasmin Regisford |
@@ -18,6 +17,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 12 upcoming nights, with l
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |
 | Fri, 18 Sept 2026 | The Third Room: 32H | .VRIL, Ahmet Sisman, Call Super, Christian AB, Fadi Mohem, Felix Fleer, Fred P, Isabel Soto, Nastia Reigel, ORBE, Oscar Mulero, Psyk, Rami Chami, Tauceti (FR), abs8lute |
+| Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |
 
 ## Address
 
