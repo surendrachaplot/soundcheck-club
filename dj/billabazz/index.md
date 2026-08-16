@@ -1,18 +1,18 @@
 # Billa Bazz
 
-Billa Bazz is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
+Billa Bazz is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at XOYO, London on Wed, 19 Aug 2026.
 
-Billa Bazz is a tech house and deep house artist tracked on soundcheck, with 66 sets logged across London. Often billed alongside Reeno, Leith and Azire. Next up: Paloma, London on Sat 15 Aug.
+Billa Bazz is a tech house and deep house artist tracked on soundcheck, with 66 sets logged across London. Often billed alongside Reeno, Leith and Azire. Next up: XOYO, London on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Paloma | London |
 | Wed, 19 Aug 2026 | XOYO | London |
 
 ## Recently played
 
+- Paloma, London — Sat, 15 Aug 2026
 - fabric, London — Sun, 9 Aug 2026
 - Gallery, London — Thu, 9 Jul 2026
 - XOYO, London — Wed, 17 Jun 2026
@@ -20,10 +20,9 @@ Billa Bazz is a tech house and deep house artist tracked on soundcheck, with 66 
 - TBA - EAST LONDON - Announced to ticket holders , London — Fri, 5 Jun 2026
 - TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 29 May 2026
 - fabric, London — Sun, 10 May 2026
-- Gallery, London — Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Reeno, Leith, Azire
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billabazz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billabazz/)*

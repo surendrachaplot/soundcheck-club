@@ -1,6 +1,6 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+SWIM (AU) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 CRUSH3d, DJ Heartstring, Bella Claxton
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*

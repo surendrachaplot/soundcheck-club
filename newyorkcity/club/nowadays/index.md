@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GROOVY GROOVY Nonstop: Gavsborg, Baalti, DJ Noir, DJ SWISHA, KATA, Lechuga Zafiro, NVST + more" on Sat, 15 Aug 2026.
+Nowadays is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "GROOVY GROOVY Nonstop: Gavsborg, Baalti, DJ Noir, DJ SWISHA, KATA, Lechuga Zafiro, NVST + more" on Sat, 15 Aug 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nights, with line-ups including 5ive, MORENXXX, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 42 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

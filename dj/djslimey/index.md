@@ -1,6 +1,6 @@
 # DJ Slimey
 
-DJ Slimey is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 20 Aug 2026.
+DJ Slimey is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 20 Aug 2026.
 
 DJ Slimey is a house and acid artist tracked on soundcheck, with 5 sets logged across Detroit, Newyorkcity and Philadelphia. Often billed alongside Teeyam, Byld and Donavan Glover. Next up: The Sound Lounge at Percy, Philadelphia on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ DJ Slimey is a house and acid artist tracked on soundcheck, with 5 sets logged a
 
 Teeyam, Byld, Donavan Glover
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*

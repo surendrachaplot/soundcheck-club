@@ -1,6 +1,6 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TECHNO PARK: Dolce Potente b2b Industrial Romantico " on Sat, 15 Aug 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "TECHNO PARK: Dolce Potente b2b Industrial Romantico " on Sat, 15 Aug 2026.
 
 Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 16 upcoming nights, with line-ups including Acidalia, ÆQUAL, Alimac and Atmosphreal and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
@@ -23,4 +23,4 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 16 upc
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

@@ -1,18 +1,18 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Night Tales, London on Sat, 15 Aug 2026.
+MADVILLA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Racket Space, Dublin on Fri, 25 Sept 2026.
 
-MADVILLA is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Job de Jong and Benji King. Next up: Night Tales, London on Sat 15 Aug.
+MADVILLA is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Job de Jong and Benji King. Next up: The Racket Space, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Night Tales | London |
 | Fri, 25 Sept 2026 | The Racket Space | Dublin |
 
 ## Recently played
 
+- Night Tales, London — Sat, 15 Aug 2026
 - NUMBER 90 LONDON, London — Thu, 30 Jul 2026
 - Starlane Pizza Bar, London — Sat, 27 Jun 2026
 - PROGRESS, Manchester — Sat, 6 Jun 2026
@@ -20,10 +20,9 @@ MADVILLA is a house and tech house artist tracked on soundcheck, with 62 sets lo
 - Ouseburn Garden, Newcastle — Sat, 30 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - fabric, London — Sun, 17 May 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 15 May 2026
 
 ## Shares bills with
 
 Garrett David, Job de Jong, Benji King
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*

@@ -1,6 +1,6 @@
 # p/kstr
 
-p/kstr is a Trance and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+p/kstr is a Trance and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 p/kstr is a trance and breakbeat artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Philipp Otterbach, Aber DJ and Jotel California. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ p/kstr is a trance and breakbeat artist based in Germany, tracked on soundcheck,
 
 Philipp Otterbach, Aber DJ, Jotel California
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pkstr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pkstr/)*

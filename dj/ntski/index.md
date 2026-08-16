@@ -1,6 +1,6 @@
 # NTsKi
 
-NTsKi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
+NTsKi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
 
 NTsKi is a techno and house artist tracked on soundcheck, with 35 sets logged across Kyoto, London, Manchester and Newyorkcity and 2 more. Often billed alongside E.O.U, Foodman and Jyn (1). Next up: MIDNIGHT EAST, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NTsKi is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 E.O.U, Foodman, Jyn (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntski/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntski/)*

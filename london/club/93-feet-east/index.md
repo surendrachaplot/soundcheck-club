@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Cam Stockman - London Headline" on Sat, 22 Aug 2026.
+93 Feet East is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Cam Stockman - London Headline" on Sat, 22 Aug 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including KT, ADR (UK), Boy Sonic and Brands and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -23,4 +23,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

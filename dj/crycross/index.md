@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 cry$cross is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Losangeles, Newyorkcity and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ cry$cross is a house and techno artist based in United States of America, tracke
 
 Swaya, BOJAQ, Daniro
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

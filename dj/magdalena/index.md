@@ -1,6 +1,6 @@
 # Magdalena
 
-Magdalena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
+Magdalena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Luz De Gas, Barcelona on Sat, 15 Aug 2026.
 
 Magdalena is a techno and house artist based in Colombia, tracked on soundcheck, with 23 sets logged across Austin, Barcelona, Buenosaires and Cologne and 11 more. Often billed alongside Annicka, Brina Knauss and ELIF. Next up: Luz De Gas, Barcelona on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ Magdalena is a techno and house artist based in Colombia, tracked on soundcheck,
 
 ## Recently played
 
+- Luz De Gas, Barcelona — Sat, 15 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 24 Jun 2026
 - Audio Club, Geneva — Fri, 30 Jan 2026
 - TBA, Mexico City — Thu, 13 Nov 2025
@@ -21,10 +22,9 @@ Magdalena is a techno and house artist based in Colombia, tracked on soundcheck,
 - Hï Ibiza, Ibiza — Thu, 11 Sept 2025
 - INPUT High Fidelity Dance Club, Barcelona — Sat, 9 Aug 2025
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 8 Aug 2025
-- TBA - Club Araoz, Palermo, Buenos Aires — Fri, 21 Feb 2025
 
 ## Shares bills with
 
 Annicka, Brina Knauss, ELIF
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*

@@ -1,6 +1,6 @@
 # Vall Du Son
 
-Vall Du Son is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Vall Du Son is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Vall Du Son is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Funk Tribu, Garbage Delight and Bella Claxton. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vall Du Son is a techno and house artist tracked on soundcheck, with 56 sets log
 
 Funk Tribu, Garbage Delight, Bella Claxton
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vallduson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vallduson/)*

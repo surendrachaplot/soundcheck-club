@@ -1,14 +1,13 @@
 # Azo
 
-Azo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Azo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at C12, Brussels on Sat, 22 Aug 2026.
 
-Azo is a techno and electro artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Vera Moro, Fais Le Beau and Kathleen C. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Azo is a techno and electro artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Vera Moro, Fais Le Beau and Kathleen C. Next up: C12, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | C12 | Brussels |
 
 ## Recently played
@@ -26,4 +25,4 @@ Azo is a techno and electro artist tracked on soundcheck, with 87 sets logged ac
 
 Vera Moro, Fais Le Beau, Kathleen C
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

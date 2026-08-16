@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Błysk Nad Wisłą - One More Time" on Sat, 15 Aug 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Błysk Nad Wisłą - One More Time" on Sat, 15 Aug 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Kuvau, NuCasa, Sincz and WEIKUM. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

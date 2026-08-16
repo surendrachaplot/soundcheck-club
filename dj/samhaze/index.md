@@ -1,6 +1,6 @@
 # Sam Haze
 
-Sam Haze is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Grand Bizarre, Toronto on Sat, 19 Sept 2026.
+Sam Haze is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Grand Bizarre, Toronto on Sat, 19 Sept 2026.
 
 Sam Haze is an afro house and deep house artist based in Canada, tracked on soundcheck, with 31 sets logged across Losangeles, Miami, Montreal and Toronto. Often billed alongside Jonathan Rosa, Francis Mercier and ARODES. Next up: Grand Bizarre, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sam Haze is an afro house and deep house artist based in Canada, tracked on soun
 
 Jonathan Rosa, Francis Mercier, ARODES
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samhaze/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samhaze/)*

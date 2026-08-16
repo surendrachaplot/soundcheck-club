@@ -1,6 +1,6 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hot Chili: Navider invites JAXX NOVEIRA" on Sat, 15 Aug 2026.
+Slow Club is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Hot Chili: Navider invites JAXX NOVEIRA" on Sat, 15 Aug 2026.
 
 Slow Club is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
@@ -23,4 +23,4 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 19 upcoming nights
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

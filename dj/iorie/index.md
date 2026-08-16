@@ -1,6 +1,6 @@
 # Iorie
 
-Iorie is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Iorie is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Iorie is a downtempo and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Hamburg and Ibiza and 9 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Iorie is a downtempo and house artist based in Germany, tracked on soundcheck, w
 
 Noraj Cue, Pauli Pocket, Sascha Cawa
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*

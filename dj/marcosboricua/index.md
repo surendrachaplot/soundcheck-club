@@ -1,6 +1,6 @@
 # Marcos Boricua
 
-Marcos Boricua is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala Villanos, Madrid on Fri, 16 Oct 2026.
+Marcos Boricua is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sala Villanos, Madrid on Fri, 16 Oct 2026.
 
 Marcos Boricua is a house and funk / soul artist based in Spain, tracked on soundcheck, with 50 sets logged across Madrid. Often billed alongside DJ Marcos Boricua, Dudier and John Morales. Next up: Sala Villanos, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Marcos Boricua is a house and funk / soul artist based in Spain, tracked on soun
 
 DJ Marcos Boricua, Dudier, John Morales
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosboricua/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosboricua/)*

@@ -1,6 +1,6 @@
 # Coussy
 
-Coussy is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
+Coussy is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
 
 Coussy is a techno and bass artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside h1bou, CCL and Cleveland. Next up: Système, Montreal on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Coussy is a techno and bass artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
+- Système, Montreal — Sat, 15 Aug 2026
 - Société des arts technologiques, Montreal — Sat, 7 Mar 2026
 - Village au Pied-du-Courant, Montreal — Sun, 3 Aug 2025
 - Système, Montreal — Sat, 7 Dec 2024
@@ -21,4 +22,4 @@ Coussy is a techno and bass artist based in Canada, tracked on soundcheck, with 
 
 h1bou, CCL, Cleveland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coussy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coussy/)*

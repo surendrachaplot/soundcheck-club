@@ -1,6 +1,6 @@
 # Jax Jones
 
-Jax Jones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 19 Sept 2026.
+Jax Jones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Jax Jones is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Bali, Belfast, Brisbane and Bristol and 10 more. Often billed alongside Robin Schulz, Martin Garrix and Nancie. Next up: Pacha Ibiza, Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jax Jones is a house and techno artist based in United Kingdom, tracked on sound
 
 Robin Schulz, Martin Garrix, Nancie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxjones-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxjones-uk/)*

@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Rave am Ring w/ Kleptos, S.3000, TZK & Frau Ciel" on Sat, 15 Aug 2026.
+://about blank is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Rave am Ring w/ Kleptos, S.3000, TZK & Frau Ciel" on Sat, 15 Aug 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

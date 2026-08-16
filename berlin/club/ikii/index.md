@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "New Grass: Green Spaces" on Thu, 20 Aug 2026.
+Ikii is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "New Grass: Green Spaces" on Thu, 20 Aug 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alex Jenkin, azul, inbuilt obsolescence and Kyle Toole and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

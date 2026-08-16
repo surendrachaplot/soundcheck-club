@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "cocoon - Melody, Nicola Cruz" on Sat, 15 Aug 2026.
+essaim is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "cocoon - Melody, Nicola Cruz" on Sat, 15 Aug 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including ANNĒ, Ben Sims, Céline Technorama and Feral and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

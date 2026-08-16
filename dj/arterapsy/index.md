@@ -1,14 +1,15 @@
 # Arterapsy
 
-Arterapsy is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Arterapsy is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
-Arterapsy is a progressive house and deep house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Harry Wilson, Elliot Moriarty and Flying Fat. Next up: Basing House, London on Fri 11 Sept.
+Arterapsy is a progressive house and deep house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Harry Wilson, Elliot Moriarty and Flying Fat. Next up: Basing House, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Basing House | London |
+| Fri, 2 Oct 2026 | Jungla London | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arterapsy is a progressive house and deep house artist tracked on soundcheck, wi
 
 Harry Wilson, Elliot Moriarty, Flying Fat
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arterapsy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arterapsy/)*

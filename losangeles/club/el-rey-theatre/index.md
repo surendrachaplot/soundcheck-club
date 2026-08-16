@@ -1,6 +1,6 @@
 # El Rey Theatre
 
-El Rey Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "BL3SS" on Fri, 11 Sept 2026.
+El Rey Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "BL3SS" on Fri, 11 Sept 2026.
 
 El Rey Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including BL3SS, Daniel Avery and DJ_Dave. Browse upcoming dates, start times and who's playing. 5515 Wilshire Blvd, Los Angeles, CA 90036.
 
@@ -19,4 +19,4 @@ El Rey Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming n
 
 5515 Wilshire Blvd, Los Angeles, CA 90036, Los Angeles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*

@@ -1,14 +1,13 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
+Spikey Lee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
-Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexicocity on Sat 15 Aug.
+Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08 | Mexico City |
 | Sat, 22 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 29 Aug 2026 | Club NYX | Amsterdam |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
@@ -16,6 +15,7 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 
 ## Recently played
 
+- TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City — Sat, 15 Aug 2026
 - RADION, Amsterdam — Sat, 8 Aug 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Wanderlust, Paris — Thu, 2 Jul 2026
@@ -23,10 +23,9 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 - Fuchs2, Prague — Sat, 20 Jun 2026
 - BASIS, Utrecht — Sat, 9 May 2026
 - CLUB RAUM, Amsterdam — Mon, 27 Apr 2026
-- CLUB RAUM, Amsterdam — Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Lenard Klein, Haeder, VINVAR
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

@@ -1,6 +1,6 @@
 # TORRENTZ
 
-TORRENTZ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
+TORRENTZ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Baseny Kora, Warsaw on Sat, 15 Aug 2026.
 
 TORRENTZ is a techno and hardcore artist based in Poland, tracked on soundcheck, with 16 sets logged across Krakow, Newyorkcity, Prague and Warsaw. Often billed alongside Mikouaj Rejw / Wixapol S.A., Wixapol and PLATTER. Next up: Baseny Kora, Warsaw on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ TORRENTZ is a techno and hardcore artist based in Poland, tracked on soundcheck,
 
 ## Recently played
 
+- Baseny Kora, Warsaw — Sat, 15 Aug 2026
 - Klub Spotkań Poczta Główna, Krakow — Fri, 19 Jun 2026
 - Jasna 1, Warsaw — Fri, 8 May 2026
 - Fuchs2, Prague — Sat, 11 Apr 2026
@@ -20,10 +21,9 @@ TORRENTZ is a techno and hardcore artist based in Poland, tracked on soundcheck,
 - Jasna 1, Warsaw — Sat, 14 Feb 2026
 - Dom Towarowy Braci Jabłkowskich, Warsaw — Fri, 31 Oct 2025
 - Klub Spotkań Poczta Główna, Krakow — Fri, 3 Oct 2025
-- Baseny Kora, Warsaw — Fri, 15 Aug 2025
 
 ## Shares bills with
 
 Mikouaj Rejw / Wixapol S.A., Wixapol, PLATTER
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*

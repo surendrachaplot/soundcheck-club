@@ -1,6 +1,6 @@
 # Etch
 
-Etch is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Etch is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 Etch is a drum & bass and bass artist tracked on soundcheck, with 31 sets logged across Berlin, Brighton, Bristol and Denver and 2 more. Often billed alongside Decibella, Sumgii and Abby Daze. Next up: M.O.T, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Etch is a drum & bass and bass artist tracked on soundcheck, with 31 sets logged
 
 Decibella, Sumgii, Abby Daze
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*

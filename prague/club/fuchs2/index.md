@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "F2 DAY RAVE & AFTER: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama ★ Neoma ★ Sioc  " on Sat, 15 Aug 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "F2 DAY RAVE & AFTER: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama ★ Neoma ★ Sioc  " on Sat, 15 Aug 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including aláya, Colum Urton, Dash (CZ) and DDK (1) and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -22,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with 
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

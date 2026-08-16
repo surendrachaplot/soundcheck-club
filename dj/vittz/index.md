@@ -1,6 +1,6 @@
 # Vittz
 
-Vittz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 45 London, London on Fri, 21 Aug 2026.
+Vittz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 45 London, London on Fri, 21 Aug 2026.
 
 Vittz is a trance and techno artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Sophia Nicole, A.I.F.O.S. and BEEAST. Next up: 45 London, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Vittz is a trance and techno artist tracked on soundcheck, with 4 sets logged ac
 
 Sophia Nicole, A.I.F.O.S., BEEAST
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vittz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vittz/)*

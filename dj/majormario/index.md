@@ -1,6 +1,6 @@
 # Major Mario
 
-Major Mario is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
+Major Mario is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
 
 Major Mario is a house and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Baldo, Ethel and Falsx. Next up: Cadavra, Madrid on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Major Mario is a house and electronica artist based in Spain, tracked on soundch
 
 Baldo, Ethel, Falsx
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majormario/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majormario/)*

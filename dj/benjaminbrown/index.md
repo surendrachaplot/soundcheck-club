@@ -1,6 +1,6 @@
 # Benjamin Brown
 
-Benjamin Brown is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+Benjamin Brown is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 Benjamin Brown is a house and acid artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Anthony George, DJ Gregory and Erick E. Next up: Kaap Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Benjamin Brown is a house and acid artist tracked on soundcheck, with 5 sets log
 
 Anthony George, DJ Gregory, Erick E
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminbrown/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminbrown/)*

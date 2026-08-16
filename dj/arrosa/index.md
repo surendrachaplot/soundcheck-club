@@ -1,6 +1,6 @@
 # Arrosa
 
-Arrosa is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
+Arrosa is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
 
 Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Brighton, Budapest and Dublin and 3 more. Often billed alongside Ricardo Castro, Odilon's Grip and Claudia Kane. Next up: Daltons Brighton, Brighton on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 
 
 Ricardo Castro, Odilon's Grip, Claudia Kane
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*

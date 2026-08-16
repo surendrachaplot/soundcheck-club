@@ -1,14 +1,13 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+BIIA is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ministerium Club, Lisbon on Sun, 30 Aug 2026.
 
-BIIA is a techno and hardcore artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Obudai Island, Budapest on Tue 11 Aug.
+BIIA is a techno and hardcore artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Ministerium Club, Lisbon on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sun, 30 Aug 2026 | Ministerium Club | Lisbon |
 | Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Aria Complex | Malta |
@@ -29,4 +28,4 @@ BIIA is a techno and hardcore artist tracked on soundcheck, with 137 sets logged
 
 Shlømo, Alignment, Basswell
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*

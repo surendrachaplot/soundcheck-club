@@ -1,6 +1,6 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
+Cristina Lazic is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
 
 Cristina Lazic is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Black Coffee and Damian Lazarus. Next up: Quinta do Miratejo, Lisbon on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Cristina Lazic is a house and tech house artist tracked on soundcheck, with 76 s
 
 East End Dubs, Black Coffee, Damian Lazarus
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

@@ -1,6 +1,6 @@
 # House Gospel Choir
 
-House Gospel Choir is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+House Gospel Choir is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 House Gospel Choir is a house and funk / soul artist tracked on soundcheck, with 23 sets logged across Birmingham, Edinburgh, Glasgow and Ibiza and 4 more. Often billed alongside Craig Charles, Dimitri From Paris and Ell Murphy. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ House Gospel Choir is a house and funk / soul artist tracked on soundcheck, with
 
 Craig Charles, Dimitri From Paris, Ell Murphy
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housegospelchoir/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housegospelchoir/)*

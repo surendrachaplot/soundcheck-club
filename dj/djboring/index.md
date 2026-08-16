@@ -1,6 +1,6 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Roberta's, New York City on Sun, 6 Sept 2026.
+DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Roberta's, New York City on Sun, 6 Sept 2026.
 
 DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Roberta's, Newyorkcity on Sun 6 Sept.
 
@@ -31,4 +31,4 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 201 sets logg
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

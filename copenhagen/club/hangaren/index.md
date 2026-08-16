@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz " on Sat, 15 Aug 2026.
+Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz " on Sat, 15 Aug 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

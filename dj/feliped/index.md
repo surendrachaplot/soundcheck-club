@@ -1,19 +1,19 @@
 # felipe d
 
-felipe d is a Baile Funk and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
+felipe d is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
 
-felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck, with 32 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: The Great Northern, Sanfrancisco on Sat 15 Aug.
+felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck, with 32 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Great Northern | San Francisco/Oakland |
 | Fri, 28 Aug 2026 | Monarch | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- The Great Northern, San Francisco/Oakland — Sat, 15 Aug 2026
 - TBA - DTLA, Los Angeles — Sat, 1 Aug 2026
 - The San Francisco Mint, San Francisco/Oakland — Sun, 26 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sat, 27 Jun 2026
@@ -21,10 +21,9 @@ felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck,
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 23 May 2026
 - The Foundry, San Francisco/Oakland — Sat, 25 Apr 2026
 - The Alley @ 1145 Folsom Street, San Francisco/Oakland — Thu, 23 Apr 2026
-- Arcana, San Francisco/Oakland — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 QUEENIE (US), Profesito, DJ Saratonin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*

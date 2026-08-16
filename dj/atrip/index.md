@@ -1,14 +1,13 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Crate Brewery, London on Fri, 21 Aug 2026.
 
-ATRIP is a house and garage artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Barcelona and Belfast and 36 more. Often billed alongside Oppidan, salute and DJ BORING. Next up: Gianpula Village, Malta on Wed 12 Aug.
+ATRIP is a house and garage artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Barcelona and Belfast and 36 more. Often billed alongside Oppidan, salute and DJ BORING. Next up: Crate Brewery, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 21 Aug 2026 | Crate Brewery | London |
 | Thu, 10 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 11 Sept 2026 | Village Studios | Vancouver |
@@ -31,4 +30,4 @@ ATRIP is a house and garage artist tracked on soundcheck, with 79 sets logged ac
 
 Oppidan, salute, DJ BORING
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

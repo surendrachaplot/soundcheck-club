@@ -1,6 +1,6 @@
 # Buggery Grips
 
-Buggery Grips is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
+Buggery Grips is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
 
 Buggery Grips is a bass and garage artist tracked on soundcheck, with 43 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Samantha, Brown Excellence and DJ Stingray 313. Next up: Dalston Superstore, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Buggery Grips is a bass and garage artist tracked on soundcheck, with 43 sets lo
 
 Samantha, Brown Excellence, DJ Stingray 313
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*

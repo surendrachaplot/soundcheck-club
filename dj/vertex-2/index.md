@@ -1,6 +1,6 @@
 # VERTEX (2)
 
-VERTEX (2) is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+VERTEX (2) is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
 
 VERTEX (2) is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Engineer (Live), DJ LIL-E and EVSKA. Next up: Endeavour, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ VERTEX (2) is a bass and experimental artist based in United Kingdom, tracked on
 
 Engineer (Live), DJ LIL-E, EVSKA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertex-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertex-2/)*

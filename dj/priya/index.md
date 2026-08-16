@@ -1,6 +1,6 @@
 # Priya
 
-Priya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Fri, 30 Oct 2026.
+Priya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Fri, 30 Oct 2026.
 
 Priya is a techno and house artist tracked on soundcheck, with 10 sets logged across London, Melbourne and Sydney. Often billed alongside KSMBA, Rakhi and 999999999. Next up: fabric, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Priya is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 KSMBA, Rakhi, 999999999
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priya/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priya/)*

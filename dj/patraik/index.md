@@ -1,6 +1,6 @@
 # Patraik
 
-Patraik is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Giselle, Düsseldorf on Fri, 28 Aug 2026.
+Patraik is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Giselle, Düsseldorf on Fri, 28 Aug 2026.
 
 Patraik is a house and deep house artist tracked on soundcheck, with 4 sets logged across Dusseldorf. Often billed alongside Barbara Boeing, DAVINA and DJ Steaw. Next up: Giselle, Dusseldorf on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Patraik is a house and deep house artist tracked on soundcheck, with 4 sets logg
 
 Barbara Boeing, DAVINA, DJ Steaw
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patraik/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patraik/)*

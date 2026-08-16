@@ -1,6 +1,6 @@
 # TiERRA
 
-TiERRA is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Flash, Washington DC on Sat, 29 Aug 2026.
+TiERRA is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Flash, Washington DC on Sat, 29 Aug 2026.
 
 TiERRA is a deep house and house artist tracked on soundcheck, with 15 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside Mettabbana, Bamba and MasGallo. Next up: Flash, Washingtondc on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TiERRA is a deep house and house artist tracked on soundcheck, with 15 sets logg
 
 Mettabbana, Bamba, MasGallo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tierra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tierra/)*

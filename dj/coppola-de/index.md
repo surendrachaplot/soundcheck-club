@@ -1,6 +1,6 @@
 # Coppola (DE)
 
-Coppola (DE) is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Atelier Rooftop, Berlin on Sat, 22 Aug 2026.
+Coppola (DE) is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Atelier Rooftop, Berlin on Sat, 22 Aug 2026.
 
 Coppola (DE) is a house and acid artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Basel and Berlin and 2 more. Often billed alongside DAWIT, JULEZ JK and Cem (2). Next up: Atelier Rooftop, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Coppola (DE) is a house and acid artist based in Germany, tracked on soundcheck,
 
 DAWIT, JULEZ JK, Cem (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola-de/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola-de/)*

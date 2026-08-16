@@ -1,18 +1,18 @@
 # Olita (UK)
 
-Olita (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
+Olita (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
 
-Olita (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: Miscellania, Melbourne on Sat 15 Aug.
+Olita (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: Starlane Pizza Bar, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Miscellania | Melbourne |
 | Sat, 19 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
+- Miscellania, Melbourne — Sat, 15 Aug 2026
 - TBA - Lyon, Lyon — Sat, 1 Aug 2026
 - M.O.T, London — Sun, 24 May 2026
 - Gaffe, London — Sun, 3 May 2026
@@ -20,10 +20,9 @@ Olita (UK) is a house and techno artist based in United Kingdom, tracked on soun
 - fabric, London — Sat, 28 Mar 2026
 - Soup, Manchester — Thu, 12 Mar 2026
 - Gaffe, London — Fri, 27 Feb 2026
-- Last Arch, London — Sun, 8 Feb 2026
 
 ## Shares bills with
 
 Sam Bangura, Neb Spook, Harry McCanna
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*

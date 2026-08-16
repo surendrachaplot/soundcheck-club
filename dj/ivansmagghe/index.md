@@ -1,14 +1,13 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Outer Heaven, New York City on Sat, 15 Aug 2026.
+Ivan Smagghe is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Outer Heaven, Newyorkcity on Sat 15 Aug.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Outer Heaven | New York City |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
@@ -18,6 +17,7 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets l
 
 ## Recently played
 
+- Outer Heaven, New York City — Sat, 15 Aug 2026
 - Signal, New York City — Fri, 14 Aug 2026
 - Islington Assembly Hall, London — Sat, 1 Aug 2026
 - Silencio, Paris — Fri, 31 Jul 2026
@@ -25,10 +25,9 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets l
 - Amber's, Manchester — Sat, 4 Jul 2026
 - Brutus, Rotterdam — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Zt Hotel + Wolf Club, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

@@ -1,6 +1,6 @@
 # Frank Booker
 
-Frank Booker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Okahu Bay Wharf, Auckland on Sat, 22 Aug 2026.
+Frank Booker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Okahu Bay Wharf, Auckland on Sat, 22 Aug 2026.
 
 Frank Booker is a house and disco artist tracked on soundcheck, with 33 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: Okahu Bay Wharf, Auckland on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Frank Booker is a house and disco artist tracked on soundcheck, with 33 sets log
 
 Samuel Harmony, Flamingo Pier, Nathan Haines
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*

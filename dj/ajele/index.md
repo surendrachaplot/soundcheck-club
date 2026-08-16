@@ -1,6 +1,6 @@
 # Ajele
 
-Ajele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
+Ajele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
 
 Ajele is a house and techno artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Basel and Zurich. Often billed alongside Alex Dallas, Alissa and Sentiment. Next up: Landesmuseum, Zurich on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Ajele is a house and techno artist based in Switzerland, tracked on soundcheck, 
 
 Alex Dallas, Alissa, Sentiment
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajele/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajele/)*

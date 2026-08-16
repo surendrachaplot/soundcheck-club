@@ -1,6 +1,6 @@
 # DALLUS
 
-DALLUS is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at HALO DETROIT, Detroit on Sat, 29 Aug 2026.
+DALLUS is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at HALO DETROIT, Detroit on Sat, 29 Aug 2026.
 
 DALLUS is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside Dylan Drazen, 888lambchop and DJ Skeez. Next up: HALO DETROIT, Detroit on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ DALLUS is a house and funk / soul artist based in United States of America, trac
 
 Dylan Drazen, 888lambchop, DJ Skeez
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dallus/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dallus/)*

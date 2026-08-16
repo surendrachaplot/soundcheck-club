@@ -1,6 +1,6 @@
 # Bassface
 
-Bassface is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Steel Yard, London on Sat, 15 Aug 2026.
+Bassface is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Steel Yard, London on Sat, 15 Aug 2026.
 
 Bassface is a tech house and drum & bass artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and London. Often billed alongside BRUCE GEE, Bassline and Giusseppi. Next up: The Steel Yard, London on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Bassface is a tech house and drum & bass artist based in Spain, tracked on sound
 
 ## Recently played
 
+- The Steel Yard, London — Sat, 15 Aug 2026
 - Egg London, London — Sat, 7 Feb 2026
 - WARE CLUB, Barcelona — Sat, 28 Sept 2024
 
@@ -19,4 +20,4 @@ Bassface is a tech house and drum & bass artist based in Spain, tracked on sound
 
 BRUCE GEE, Bassline, Giusseppi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassface/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassface/)*

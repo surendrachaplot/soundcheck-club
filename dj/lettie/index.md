@@ -1,6 +1,6 @@
 # Lettie
 
-Lettie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
+Lettie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
 
 Lettie is a garage and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Liverpool and London. Often billed alongside Lils, Amber Rose and Arundel. Next up: Palais, London on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ Lettie is a garage and house artist based in United Kingdom, tracked on soundche
 
 Lils, Amber Rose, Arundel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lettie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lettie/)*

@@ -1,6 +1,6 @@
 # pinponpanpon
 
-pinponpanpon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
+pinponpanpon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
 
 pinponpanpon is a techno and club artist based in Japan, tracked on soundcheck, with 16 sets logged across London, Newyorkcity, Tokyo and Vancouver and 1 more. Often billed alongside STARKIDS, WAGAHAI IS NEKO and music fm. Next up: WOMB, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ pinponpanpon is a techno and club artist based in Japan, tracked on soundcheck, 
 
 STARKIDS, WAGAHAI IS NEKO, music fm
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinponpanpon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinponpanpon/)*

@@ -1,6 +1,6 @@
 # Juan Guerra
 
-Juan Guerra is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Generator Barcelona, Barcelona on Sun, 16 Aug 2026.
+Juan Guerra is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Generator Barcelona, Barcelona on Sun, 16 Aug 2026.
 
 Juan Guerra is a techno and electronica artist tracked on soundcheck, with 43 sets logged across Barcelona and Dublin. Often billed alongside Nuuk, Manu Chaile and Edu Suarez. Next up: Generator Barcelona, Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Juan Guerra is a techno and electronica artist tracked on soundcheck, with 43 se
 
 Nuuk, Manu Chaile, Edu Suarez
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*

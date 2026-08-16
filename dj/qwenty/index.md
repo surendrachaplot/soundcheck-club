@@ -1,6 +1,6 @@
 # Qwenty
 
-Qwenty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+Qwenty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 Qwenty is a techno and house artist based in Italy, tracked on soundcheck, with 11 sets logged across Copenhagen and Paris. Often billed alongside DJ B2B, Adam Eisert and Aja Gulris. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Qwenty is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 DJ B2B, Adam Eisert, Aja Gulris
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*

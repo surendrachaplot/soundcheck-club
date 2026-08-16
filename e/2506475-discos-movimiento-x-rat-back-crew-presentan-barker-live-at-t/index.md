@@ -1,6 +1,6 @@
 # Discos Movimiento X Rat Back Crew presentan Barker live at TBA
 
-Discos Movimiento X Rat Back Crew presentan Barker live at TBA on Fri 4 Sept, Mexicocity. 3 acts on the bill: Barker, Daniel Alanís and Maseriche. Techno. Preview the line-up and save it on soundcheck.
+Discos Movimiento X Rat Back Crew presentan Barker live at TBA on Fri 4 Sept, Mexicocity. 4 acts on the bill: Barker, Daniel Alanís, KOI (MX) and Maseriche. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Discos Movimiento X Rat Back Crew presentan Barker live at TBA on Fri 4 Sept, Me
 
 - Barker
 - Daniel Alanís
+- KOI (MX)
 - Maseriche
 
 *Source: [soundcheck](https://soundcheck.club/e/2506475-discos-movimiento-x-rat-back-crew-presentan-barker-live-at-t/)*

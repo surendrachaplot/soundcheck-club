@@ -1,6 +1,6 @@
 # Gregor Tresher
 
-Gregor Tresher is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
+Gregor Tresher is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
 
 Gregor Tresher is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Lilly Palmer, Karotte and Emanuel Satie. Next up: Hive Club, Zurich on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Gregor Tresher is a techno and house artist tracked on soundcheck, with 72 sets 
 
 ## Recently played
 
+- Hive Club, Zurich — Sat, 15 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Sparta Schwimmclub, Frankfurt — Sat, 13 Jun 2026
 - Bolivar Beach Bar, Athens — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Gregor Tresher is a techno and house artist tracked on soundcheck, with 72 sets 
 - Artificial Family e. V., Frankfurt — Sat, 9 May 2026
 - fabric, London — Sun, 3 May 2026
 - Akvárium Klub, Budapest — Fri, 24 Apr 2026
-- Melkweg, Amsterdam — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Lilly Palmer, Karotte, Emanuel Satie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*

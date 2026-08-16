@@ -1,6 +1,6 @@
 # System Sol
 
-System Sol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Prairie du Canal, Paris on Sat, 22 Aug 2026.
+System Sol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Prairie du Canal, Paris on Sat, 22 Aug 2026.
 
 System Sol is a house and disco artist tracked on soundcheck, with 21 sets logged across Marseille, Nantes and Paris. Often billed alongside Damiano von Erckert, 42L (1) and Abstraxion. Next up: La Prairie du Canal, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ System Sol is a house and disco artist tracked on soundcheck, with 21 sets logge
 
 Damiano von Erckert, 42L (1), Abstraxion
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsol/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsol/)*

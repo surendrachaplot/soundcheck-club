@@ -1,6 +1,6 @@
 # Vice Luna
 
-Vice Luna is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
+Vice Luna is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Vice Luna is a tech house and progressive house artist based in Mexico, tracked on soundcheck, with 18 sets logged across Amsterdam, Ibiza, Mexicocity and Milan. Often billed alongside ETNA, Makossa and ALDAVE. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Vice Luna is a tech house and progressive house artist based in Mexico, tracked 
 
 ETNA, Makossa, ALDAVE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*

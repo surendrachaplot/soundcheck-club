@@ -1,19 +1,19 @@
 # diskoheinz
 
-diskoheinz is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
+diskoheinz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
-diskoheinz is a house and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Cologne, Dusseldorf, Munich and Stuttgart. Often billed alongside Timo Elias, Alice DiMar and David Hasert. Next up: TBA, Cologne on Sat 15 Aug.
+diskoheinz is a house and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Cologne, Dusseldorf, Munich and Stuttgart. Often billed alongside Timo Elias, Alice DiMar and David Hasert. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA | Cologne |
 | Fri, 21 Aug 2026 | Graf Adolf Platz | Düsseldorf |
 | Sat, 22 Aug 2026 | MH5 Rooftop | Munich |
 
 ## Recently played
 
+- TBA, Cologne — Sat, 15 Aug 2026
 - TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
 - Park.Cologne, Cologne — Sat, 16 Aug 2025
 - TBA, Stuttgart — Sun, 18 May 2025
@@ -26,4 +26,4 @@ diskoheinz is a house and tech house artist based in Germany, tracked on soundch
 
 Timo Elias, Alice DiMar, David Hasert
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*

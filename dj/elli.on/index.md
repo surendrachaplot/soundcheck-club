@@ -1,6 +1,6 @@
 # Elli.on
 
-Elli.on is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at THF Radio / Torhaus, Berlin on Fri, 21 Aug 2026.
+Elli.on is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at THF Radio / Torhaus, Berlin on Fri, 21 Aug 2026.
 
 Elli.on is a house and minimal artist tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Hamburg and Istanbul and 1 more. Often billed alongside Inner, Edgar Peng and FEVZEE. Next up: THF Radio / Torhaus, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Elli.on is a house and minimal artist tracked on soundcheck, with 55 sets logged
 
 Inner, Edgar Peng, FEVZEE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elli.on/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elli.on/)*

@@ -1,6 +1,6 @@
 # Heels & Souls
 
-Heels & Souls is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
+Heels & Souls is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Heels & Souls are a house and balearic duo tracked on soundcheck, with 79 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Hamish & Toby, James Andrew and Professor Roth. Next up: Village Underground Barcelona, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Heels & Souls are a house and balearic duo tracked on soundcheck, with 79 sets l
 
 Hamish & Toby, James Andrew, Professor Roth
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*

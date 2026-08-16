@@ -1,6 +1,6 @@
 # NANGOBI
 
-NANGOBI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
+NANGOBI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
 
 NANGOBI is a techno and tech house artist based in Uganda, tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside Amotik, CRYYM_ and Flores Negras. Next up: The Jackhammer Chicago, Chicago on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ NANGOBI is a techno and tech house artist based in Uganda, tracked on soundcheck
 
 Amotik, CRYYM_, Flores Negras
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*

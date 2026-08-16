@@ -1,6 +1,6 @@
 # Svarn
 
-Svarn is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Killing Time, Valencia on Fri, 4 Sept 2026.
+Svarn is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Killing Time, Valencia on Fri, 4 Sept 2026.
 
 Svarn is a tech house and electro artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Valencia. Often billed alongside Toxin, Broken boy and Bodio. Next up: Killing Time, Valencia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Svarn is a tech house and electro artist based in Ukraine, tracked on soundcheck
 
 Toxin, Broken boy, Bodio
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svarn-ukr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svarn-ukr/)*

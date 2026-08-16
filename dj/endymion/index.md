@@ -1,6 +1,6 @@
 # Endymion
 
-Endymion is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Endymion is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Endymion is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Barcelona, Budapest, Frankfurt and Glasgow and 2 more. Often billed alongside Dimitri K, Korsakoff and Major Conspiracy. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Endymion is a hardcore and gabber artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 15 Aug 2026
 - Fabrik, Madrid — Sat, 21 Feb 2026
 - SWG3, Glasgow — Sat, 1 Nov 2025
 - Obudai Island, Budapest — Wed, 6 Aug 2025
@@ -20,10 +21,9 @@ Endymion is a hardcore and gabber artist based in Netherlands, tracked on soundc
 - Fabrik, Madrid — Sat, 22 Mar 2025
 - WARE CLUB, Barcelona — Sat, 16 Nov 2024
 - Fabrik, Madrid — Fri, 14 Jun 2024
-- TBA - FlixBus Haltestelle Hauptbahnhof, Frankfurt — Sat, 30 Mar 2024
 
 ## Shares bills with
 
 Dimitri K, Korsakoff, Major Conspiracy
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*

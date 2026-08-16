@@ -1,6 +1,6 @@
 # 00:00
 
-00:00 is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "[Cancelled ]Thursdays are Casual" on Thu, 20 Aug 2026.
+00:00 is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "[Cancelled ]Thursdays are Casual" on Thu, 20 Aug 2026.
 
 00:00 is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Vesi. Browse upcoming dates, start times and who's playing. 21-38 44th Rd, Long Island City, NY 11101，USA.
 
@@ -15,4 +15,4 @@
 
 21-38 44th Rd, Long Island City, NY 11101，USA, New York City
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/00-00/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/00-00/)*

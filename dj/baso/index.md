@@ -1,6 +1,6 @@
 # Baso
 
-Baso is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paper, Seoul on Sun, 16 Aug 2026.
+Baso is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paper, Seoul on Sun, 16 Aug 2026.
 
 Baso is a house and club artist based in Argentina, tracked on soundcheck, with 10 sets logged across Bali and Seoul. Often billed alongside Jucid, Soyo and Acidwork. Next up: Paper, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Baso is a house and club artist based in Argentina, tracked on soundcheck, with 
 
 Jucid, Soyo, Acidwork
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*

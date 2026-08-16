@@ -1,6 +1,6 @@
 # Lipelis
 
-Lipelis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
+Lipelis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
 
 Lipelis is a house and disco artist based in Russia, tracked on soundcheck, with 26 sets logged across Bali, Bangkok, Barcelona and Belgrade and 14 more. Often billed alongside MLiR, DITA (ID) and Millos Kaiser. Next up: Karmakoma, Belgrade on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lipelis is a house and disco artist based in Russia, tracked on soundcheck, with
 
 MLiR, DITA (ID), Millos Kaiser
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lipelis/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lipelis/)*

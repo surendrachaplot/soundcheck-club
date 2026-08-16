@@ -1,6 +1,6 @@
 # Ewelina Koll
 
-Ewelina Koll is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+Ewelina Koll is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 Ewelina Koll is a trance and techno artist based in Poland, tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside GHOST DE, Marc van Linden and DJ Jordan. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ Ewelina Koll is a trance and techno artist based in Poland, tracked on soundchec
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 15 Aug 2026
 - Ritter Butzke, Berlin — Sat, 30 Aug 2025
 - Brandenburger Tor, Berlin — Sat, 12 Jul 2025
 
@@ -21,4 +22,4 @@ Ewelina Koll is a trance and techno artist based in Poland, tracked on soundchec
 
 GHOST DE, Marc van Linden, DJ Jordan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*

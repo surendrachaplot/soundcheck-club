@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Sara Landry is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -9,7 +9,6 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
-| Sat, 15 Aug 2026 | Life Park | Istanbul |
 | Thu, 20 Aug 2026 | TBA - Secret Location | London |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 
 ## Recently played
 
+- Life Park, Istanbul — Sat, 15 Aug 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Under the K Bridge, New York City — Sat, 1 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
@@ -26,10 +26,9 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 - Under the K Bridge, New York City — Fri, 31 Jul 2026
 - Tapada da Ajuda, Lisbon — Sat, 25 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
-- Studio Club Malaga, Malaga — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

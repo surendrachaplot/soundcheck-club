@@ -1,6 +1,6 @@
 # GXD
 
-GXD is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
+GXD is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
 
 GXD is a trance and progressive house artist tracked on soundcheck, with 3 sets logged across London and Tokyo. Often billed alongside Andy Moor, DJ NECO and Derek Ryan. Next up: Basing House, London on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ GXD is a trance and progressive house artist tracked on soundcheck, with 3 sets 
 
 Andy Moor, DJ NECO, Derek Ryan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gxd/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gxd/)*

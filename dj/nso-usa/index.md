@@ -1,6 +1,6 @@
 # N SO
 
-N SO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+N SO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 N SO is a techno and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Portland and Seattle. Often billed alongside ACHAMA, Jason Code and Ross Lowder. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ N SO is a techno and club artist based in United States of America, tracked on s
 
 ACHAMA, Jason Code, Ross Lowder
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*

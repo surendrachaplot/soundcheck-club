@@ -1,6 +1,6 @@
 # chlo333e
 
-chlo333e is a Trance and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Stage and Radio, Manchester on Wed, 19 Aug 2026.
+chlo333e is a Trance and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Stage and Radio, Manchester on Wed, 19 Aug 2026.
 
 chlo333e is a trance and experimental artist tracked on soundcheck, with 13 sets logged across Leeds and Manchester. Often billed alongside Princess Elf Bar, Willow J and Anop. Next up: Stage and Radio, Manchester on Wed 19 Aug.
 
@@ -27,4 +27,4 @@ chlo333e is a trance and experimental artist tracked on soundcheck, with 13 sets
 
 Princess Elf Bar, Willow J, Anop
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*

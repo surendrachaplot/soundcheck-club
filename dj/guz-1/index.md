@@ -1,6 +1,6 @@
 # GUZ (1)
 
-GUZ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nashaz, Brussels on Sat, 22 Aug 2026.
+GUZ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Nashaz, Brussels on Sat, 22 Aug 2026.
 
 GUZ (1) is a house and tech house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Brussels and Frankfurt and 5 more. Often billed alongside Hugel, Martin Ikin and ASK:ME. Next up: Nashaz, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ GUZ (1) is a house and tech house artist tracked on soundcheck, with 9 sets logg
 
 Hugel, Martin Ikin, ASK:ME
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guz-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guz-1/)*

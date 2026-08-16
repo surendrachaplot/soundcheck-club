@@ -1,6 +1,6 @@
 # Disco Sour
 
-Disco Sour is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Disco Sour is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Disco Sour is a house and tech house artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin and Valencia. Often billed alongside Cucut, Adria (ES) and Alison Swing. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Disco Sour is a house and tech house artist based in Spain, tracked on soundchec
 
 ## Recently played
 
+- Renate, Berlin — Sat, 15 Aug 2026
 - Oven Club, Valencia — Sat, 4 Apr 2026
 - Oven Club, Valencia — Fri, 27 Feb 2026
 - Forum Station, Barcelona — Fri, 29 Aug 2025
@@ -20,10 +21,9 @@ Disco Sour is a house and tech house artist based in Spain, tracked on soundchec
 - Rachdingue, Barcelona — Mon, 23 Jun 2025
 - Okio Social Club, Barcelona — Fri, 25 Apr 2025
 - Bridge 48, Barcelona — Sat, 15 Mar 2025
-- Beso Pedralbes, Barcelona — Sat, 1 Mar 2025
 
 ## Shares bills with
 
 Cucut, Adria (ES), Alison Swing
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discosour/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discosour/)*

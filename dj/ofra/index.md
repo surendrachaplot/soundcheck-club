@@ -1,6 +1,6 @@
 # Ofra
 
-Ofra is a Electro and EBM artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
+Ofra is a Electro and EBM artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
 
 Ofra is an electro and ebm artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Betonkust, I-F and Krismika. Next up: Het Bos, Antwerp on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Ofra is an electro and ebm artist based in Netherlands, tracked on soundcheck, w
 
 Betonkust, I-F, Krismika
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ofra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ofra/)*

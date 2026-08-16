@@ -1,18 +1,18 @@
 # Privacy
 
-Privacy is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
+Privacy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
-Privacy is a techno and electro artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 10 more. Often billed alongside Afra, L.F.T. and Serge. Next up: Acud Macht NEU, Berlin on Sat 15 Aug.
+Privacy is a techno and electro artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 10 more. Often billed alongside Afra, L.F.T. and Serge. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Acud Macht NEU | Berlin |
 | Fri, 21 Aug 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
 
+- Acud Macht NEU, Berlin — Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 5 Jun 2026
 - H0L0, New York City — Sat, 17 Jan 2026
 - Loone, Berlin — Thu, 14 Aug 2025
@@ -20,10 +20,9 @@ Privacy is a techno and electro artist based in Germany, tracked on soundcheck, 
 - Aoyama Hachi, Tokyo — Sat, 1 Mar 2025
 - Compufunk Records, Osaka — Sun, 23 Feb 2025
 - 宀 Club, Hong Kong — Fri, 21 Feb 2025
-- Bonobo, Tokyo — Fri, 14 Feb 2025
 
 ## Shares bills with
 
 Afra, L.F.T., Serge
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/privacy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/privacy/)*

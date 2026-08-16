@@ -1,6 +1,6 @@
 # James Worker
 
-James Worker is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ernest, Newcastle on Sat, 22 Aug 2026.
+James Worker is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ernest, Newcastle on Sat, 22 Aug 2026.
 
 James Worker is a house and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London and Newcastle. Often billed alongside Sam Warren, Molly Sinnott and PHJ.WAV. Next up: Ernest, Newcastle on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ James Worker is a house and garage artist based in United Kingdom, tracked on so
 
 Sam Warren, Molly Sinnott, PHJ.WAV
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*

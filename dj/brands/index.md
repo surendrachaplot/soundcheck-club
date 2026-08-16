@@ -1,6 +1,6 @@
 # Brands
 
-Brands is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+Brands is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
 Brands is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Olly Brady, AALEX and AUDIO DUNE. Next up: 93 Feet East, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Brands is a house and garage artist tracked on soundcheck, with 5 sets logged ac
 
 Olly Brady, AALEX, AUDIO DUNE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*

@@ -1,6 +1,6 @@
 # Amiti
 
-Amiti is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at SILO, New York City on Sat, 17 Oct 2026.
+Amiti is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Sat, 17 Oct 2026.
 
 Amiti is a techno and deep house artist tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside David Lindmer, Alfa Romero and Brian Cid. Next up: SILO, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Amiti is a techno and deep house artist tracked on soundcheck, with 14 sets logg
 
 David Lindmer, Alfa Romero, Brian Cid
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiti-us/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiti-us/)*

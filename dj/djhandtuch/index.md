@@ -1,6 +1,6 @@
 # DJ Handtuch
 
-DJ Handtuch is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Fundbureau, Hamburg on Sat, 15 Aug 2026.
+DJ Handtuch is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Fundbureau, Hamburg on Sat, 15 Aug 2026.
 
 DJ Handtuch is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside DJ Pinky Promise, Alex Benz and Anton Jonathan. Next up: Fundbureau, Hamburg on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ DJ Handtuch is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Fundbureau, Hamburg — Sat, 15 Aug 2026
 - Karoline 45, Hamburg — Sat, 8 Aug 2026
 - Lilli Escher, Hamburg — Wed, 22 Jul 2026
 - Lilli Escher, Hamburg — Tue, 28 Apr 2026
@@ -21,4 +22,4 @@ DJ Handtuch is a techno and trance artist based in Germany, tracked on soundchec
 
 DJ Pinky Promise, Alex Benz, Anton Jonathan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*

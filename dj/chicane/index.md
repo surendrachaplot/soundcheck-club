@@ -1,6 +1,6 @@
 # Chicane
 
-Chicane is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quarters, Brighton on Sat, 3 Oct 2026.
+Chicane is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quarters, Brighton on Sat, 3 Oct 2026.
 
 Chicane is a trance and house artist tracked on soundcheck, with 22 sets logged across Belfast, Brighton, Brisbane and Bristol and 10 more. Often billed alongside Leena Punks, Seb Fontaine and Amy Wiles. Next up: Quarters, Brighton on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Chicane is a trance and house artist tracked on soundcheck, with 22 sets logged 
 
 Leena Punks, Seb Fontaine, Amy Wiles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicane/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicane/)*

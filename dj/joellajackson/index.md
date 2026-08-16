@@ -1,6 +1,6 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at [UNVRS], Ibiza on Sat, 15 Aug 2026.
+Joëlla Jackson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at [UNVRS], Ibiza on Sat, 15 Aug 2026.
 
 Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: [UNVRS], Ibiza on Sat 15 Aug.
 
@@ -21,6 +21,7 @@ Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 117
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sat, 15 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 21 Jul 2026
 - Thuishaven, Amsterdam — Sun, 19 Jul 2026
 - fabric, London — Sat, 18 Jul 2026
@@ -28,10 +29,9 @@ Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 117
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Tantra Bar Ibiza, Ibiza — Fri, 3 Jul 2026
-- [UNVRS], Ibiza — Wed, 24 Jun 2026
 
 ## Shares bills with
 
 Benny Rodrigues, Franky Rizardo, Mason Collective
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*

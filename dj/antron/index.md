@@ -1,6 +1,6 @@
 # antron
 
-antron is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eavesdrop, New York City on Sat, 29 Aug 2026.
+antron is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Eavesdrop, New York City on Sat, 29 Aug 2026.
 
 antron is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across London, Newyorkcity and Paris. Often billed alongside Alex Viper, Anito Soul and Cherry Orchard. Next up: Eavesdrop, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ antron is a techno and dub techno artist based in United States of America, trac
 
 Alex Viper, Anito Soul, Cherry Orchard
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*

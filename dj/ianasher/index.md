@@ -1,6 +1,6 @@
 # Ian Asher
 
-Ian Asher is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Big Night Live, Boston on Sat, 12 Sept 2026.
+Ian Asher is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Big Night Live, Boston on Sat, 12 Sept 2026.
 
 Ian Asher is a house and pop artist tracked on soundcheck, with 40 sets logged across Amsterdam, Austin, Boston and Brisbane and 16 more. Often billed alongside Andy C, Benny Benassi and David Guetta. Next up: Big Night Live, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ian Asher is a house and pop artist tracked on soundcheck, with 40 sets logged a
 
 Andy C, Benny Benassi, David Guetta
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

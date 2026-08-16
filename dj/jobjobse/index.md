@@ -1,15 +1,13 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Job Jobse is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
 
-Job Jobse is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Job Jobse is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Else, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
-| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 28 Aug 2026 | Else | Berlin |
 | Sat, 29 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |
@@ -19,6 +17,7 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 142 sets logg
 
 ## Recently played
 
+- Burgess Park, London — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -26,10 +25,9 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 142 sets logg
 - Parc de la Trinitat, Barcelona — Sun, 12 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - DC-10, Ibiza — Mon, 22 Jun 2026
-- Woodstock'69, Amsterdam — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Palms Trax, BASHKKA, Saoirse
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

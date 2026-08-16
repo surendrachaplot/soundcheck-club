@@ -1,15 +1,13 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+DJ Nobu is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Gianpula Village, Malta on Wed 12 Aug.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Société des arts technologiques | Montreal |
 | Sat, 22 Aug 2026 | Lincoln Factory | Detroit |
@@ -20,9 +18,12 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 225 sets logged
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Sat, 19 Sept 2026 | The Lower Level | Boston |
+| Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
+| Sat, 10 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -30,10 +31,9 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 225 sets logged
 - Mitsuki, Tokyo — Sat, 25 Jul 2026
 - Radius, Chicago — Sun, 19 Jul 2026
 - TRANSMISSION DC, Washington DC — Sat, 18 Jul 2026
-- TBA - Brooklyn, New York City — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

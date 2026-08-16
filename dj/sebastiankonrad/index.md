@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Nordstern, Basel on Sat, 22 Aug 2026.
+Sebastian Konrad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Nordstern, Basel on Sat, 22 Aug 2026.
 
 Sebastian Konrad is a house and techno artist tracked on soundcheck, with 53 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 7 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Nordstern, Basel on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Konrad is a house and techno artist tracked on soundcheck, with 53 set
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

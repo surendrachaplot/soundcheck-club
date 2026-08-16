@@ -1,6 +1,6 @@
 # Duhan
 
-Duhan is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
+Duhan is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
 
 Duhan is a techno and minimal artist tracked on soundcheck, with 21 sets logged across Tokyo and Toronto. Often billed alongside DINO (3), AMV.3 and Marivs. Next up: TBA, Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Duhan is a techno and minimal artist tracked on soundcheck, with 21 sets logged 
 
 DINO (3), AMV.3, Marivs
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duhan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duhan/)*

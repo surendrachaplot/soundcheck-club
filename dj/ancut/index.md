@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
+Ancut is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
 Ancut is a techno and electro artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias (1), So-Fi and Alex Picone. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ancut is a techno and electro artist tracked on soundcheck, with 63 sets logged 
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

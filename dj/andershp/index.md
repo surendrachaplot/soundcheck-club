@@ -1,6 +1,6 @@
 # Anders HP
 
-Anders HP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Anders HP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Anders HP is a house and techno artist tracked on soundcheck, with 45 sets logged across Copenhagen. Often billed alongside CERJ, Baime and Business Risky. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Anders HP is a house and techno artist tracked on soundcheck, with 45 sets logge
 
 CERJ, Baime, Business Risky
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*

@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LUR EVENT vol.2" on Sat, 15 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "LUR EVENT vol.2" on Sat, 15 Aug 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 2NDRA, 3ever, AVHD and Ayiaa and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -20,4 +20,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

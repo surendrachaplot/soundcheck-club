@@ -1,6 +1,6 @@
 # Chico Sonido
 
-Chico Sonido is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Balagan, Mexico City on Thu, 20 Aug 2026.
+Chico Sonido is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Balagan, Mexico City on Thu, 20 Aug 2026.
 
 Chico Sonido is a latin bass and electronica artist tracked on soundcheck, with 8 sets logged across London and Mexicocity. Often billed alongside Ruiseñor, Dj Babatr and 1-800 GIRLS. Next up: Balagan, Mexicocity on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Chico Sonido is a latin bass and electronica artist tracked on soundcheck, with 
 
 Ruiseñor, Dj Babatr, 1-800 GIRLS
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicosonido/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicosonido/)*

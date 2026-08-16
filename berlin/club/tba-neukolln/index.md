@@ -1,6 +1,6 @@
 # TBA - Neukolln
 
-TBA - Neukolln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Nachtkreis by TWELVE" on Sat, 12 Sept 2026.
+TBA - Neukolln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Nachtkreis by TWELVE" on Sat, 12 Sept 2026.
 
 TBA - Neukolln is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Andress, Caligula, Linda shiro and maniac&me and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Neukolln is a music venue in Berlin listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Nachtkreis by TWELVE | Andress, Caligula, Linda shiro, Paàl, maniac&me |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neukolln/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neukolln/)*

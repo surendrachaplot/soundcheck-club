@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Frequenzen der Geschichten" on Sat, 22 Aug 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Frequenzen der Geschichten" on Sat, 22 Aug 2026.
 
 Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including Fractal Void, Inken, Lars Eidinger and Lena Willikens and 2 more. Browse upcoming dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -15,4 +15,4 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 2 upcomi
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

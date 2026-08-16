@@ -1,6 +1,6 @@
 # CDLC Barcelona
 
-CDLC Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Graziano Raffa ( SUDBEAT ) at Red Edition" on Sat, 15 Aug 2026.
+CDLC Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Graziano Raffa ( SUDBEAT ) at Red Edition" on Sat, 15 Aug 2026.
 
 CDLC Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Graziano Raffa, SACK (AR) and Volmaan. Browse upcoming dates, start times and who's playing. Passeig Marítim, 32, 08003 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ CDLC Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming ni
 
 Passeig Marítim, 32, 08003 Barcelona, Spain, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/cdlc-barcelona/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/cdlc-barcelona/)*

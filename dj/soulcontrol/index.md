@@ -1,6 +1,6 @@
 # Soulcontrol
 
-Soulcontrol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
+Soulcontrol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
 
 Soulcontrol is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Moritz Biebl, Caren Callas and SARAHTONIN (3). Next up: AMT, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Soulcontrol is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- AMT, Berlin — Sat, 15 Aug 2026
 - Latitude Record Store, Berlin — Thu, 15 May 2025
 - AVA Club, Berlin — Sat, 5 Apr 2025
 - Humboldthain Club, Berlin — Sat, 21 Sept 2024
@@ -23,4 +24,4 @@ Soulcontrol is a house and techno artist based in Germany, tracked on soundcheck
 
 Moritz Biebl, Caren Callas, SARAHTONIN (3)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulcontrol/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulcontrol/)*

@@ -1,6 +1,6 @@
 # Adroit
 
-Adroit is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at B2 Rīga, Riga on Fri, 14 Aug 2026.
+Adroit is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at B2 Rīga, Riga on Fri, 14 Aug 2026.
 
 Adroit is a minimal and house artist based in Latvia, tracked on soundcheck, with 15 sets logged across Riga. Often billed alongside D I N, Electricano and Ikss. Next up: B2 Rīga, Riga on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Adroit is a minimal and house artist based in Latvia, tracked on soundcheck, wit
 
 D I N, Electricano, Ikss
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnyadroit/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnyadroit/)*

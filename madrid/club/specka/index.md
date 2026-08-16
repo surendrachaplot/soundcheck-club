@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Incunables Rentrée I Specka Club" on Fri, 4 Sept 2026.
+Specka is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Incunables Rentrée I Specka Club" on Fri, 4 Sept 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Anthony Rother, Anxiety for Living, ARSA and Brody (2) and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

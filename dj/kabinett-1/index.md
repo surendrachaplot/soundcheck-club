@@ -1,6 +1,6 @@
 # Kabinett
 
-Kabinett is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at control, Bucharest on Fri, 21 Aug 2026.
+Kabinett is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at control, Bucharest on Fri, 21 Aug 2026.
 
 Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bucharest and London and 6 more. Often billed alongside Nuclear Digital Transistor, Intruso and Franz Scala. Next up: control, Bucharest on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, 
 
 Nuclear Digital Transistor, Intruso, Franz Scala
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*

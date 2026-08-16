@@ -1,6 +1,6 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+ona:v is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
 ona:v is a techno and electro artist tracked on soundcheck, with 101 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 5 more. Often billed alongside ENAEN, Iona.Violet and Kairogen. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ ona:v is a techno and electro artist tracked on soundcheck, with 101 sets logged
 
 ENAEN, Iona.Violet, Kairogen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*

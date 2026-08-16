@@ -1,6 +1,6 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mimosa, London on Sat, 22 Aug 2026.
+Dimanté is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mimosa, London on Sat, 22 Aug 2026.
 
 Dimanté is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Any Koh, Folek and Monnay. Next up: Mimosa, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Dimanté is a techno and progressive house artist based in Ukraine, tracked on s
 
 Any Koh, Folek, Monnay
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante/)*

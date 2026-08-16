@@ -1,6 +1,6 @@
 # 1928 E 7th Pl, Los Angeles, CA 90021
 
-1928 E 7th Pl, Los Angeles, CA 90021 is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sunday Sessions LA: Dylan Payne All Night Long (Vinyl Only)" on Sun, 16 Aug 2026.
+1928 E 7th Pl, Los Angeles, CA 90021 is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sunday Sessions LA: Dylan Payne All Night Long (Vinyl Only)" on Sun, 16 Aug 2026.
 
 1928 E 7th Pl, Los Angeles, CA 90021 is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Dylan Payne. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Sunday Sessions LA: Dylan Payne All Night Long (Vinyl Only) | Dylan Payne |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1928-e-7th-pl-los-angeles-ca-90021/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1928-e-7th-pl-los-angeles-ca-90021/)*

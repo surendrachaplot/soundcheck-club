@@ -1,6 +1,6 @@
 # By Dusk
 
-By Dusk is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
+By Dusk is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
 
 By Dusk is a techno and minimal techno artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Underground Tribe, Dj Clark Gabble and Fernweh (2). Next up: Gallery, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ By Dusk is a techno and minimal techno artist tracked on soundcheck, with 20 set
 
 Underground Tribe, Dj Clark Gabble, Fernweh (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bydusk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bydusk/)*

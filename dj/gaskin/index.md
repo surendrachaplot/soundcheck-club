@@ -1,14 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 15 Aug 2026.
+Gaskin is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
-Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Ushuaïa Ibiza, Ibiza on Sat 15 Aug.
+Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Thuishaven | Amsterdam |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets log
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
+| Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sat, 15 Aug 2026
 - Tiger Yard, Cardiff — Sat, 1 Aug 2026
 - The Nest, Nottingham — Sat, 1 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
@@ -30,10 +31,9 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets log
 - Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
 - Esferic Bcn, Barcelona — Fri, 19 Jun 2026
-- TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

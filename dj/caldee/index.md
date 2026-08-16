@@ -1,6 +1,6 @@
 # CALDEE
 
-CALDEE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Annua, Mexico City on Sat, 29 Aug 2026.
+CALDEE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Annua, Mexico City on Sat, 29 Aug 2026.
 
 CALDEE is a house and club artist tracked on soundcheck, with 8 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside Mackswell, Aku and Bastian Bell. Next up: Annua, Mexicocity on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ CALDEE is a house and club artist tracked on soundcheck, with 8 sets logged acro
 
 Mackswell, Aku, Bastian Bell
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caldee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caldee/)*

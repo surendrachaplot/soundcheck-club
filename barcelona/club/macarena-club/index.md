@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Tempesta Music" on Sat, 15 Aug 2026.
+Macarena Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Tempesta Music" on Sat, 15 Aug 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including Jo-Sie, BODAI, André Butano and Daescu and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 17 upcoming ni
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

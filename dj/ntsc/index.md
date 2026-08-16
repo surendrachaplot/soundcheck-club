@@ -1,6 +1,6 @@
 # NTSC
 
-NTSC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
+NTSC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
 
 NTSC is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside Alex Benz, Andrey Pushkarev and Bunsen. Next up: Golden Gate, Berlin on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ NTSC is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Alex Benz, Andrey Pushkarev, Bunsen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntsc/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntsc/)*

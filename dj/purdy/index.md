@@ -1,6 +1,6 @@
 # Purdy
 
-Purdy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+Purdy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 Purdy is a techno and trance artist tracked on soundcheck, with 33 sets logged across Newyorkcity and Philadelphia. Often billed alongside CRYFXB, Paradøx and ROGERS.ec. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Purdy is a techno and trance artist tracked on soundcheck, with 33 sets logged a
 
 CRYFXB, Paradøx, ROGERS.ec
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purdy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purdy/)*

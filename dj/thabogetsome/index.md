@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Thabo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Thabo is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -9,13 +9,13 @@ Thabo is a house and techno artist tracked on soundcheck, with 81 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
-| Sat, 15 Aug 2026 | TBA | Berlin |
 | Fri, 21 Aug 2026 | Giselle | Düsseldorf |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 
 ## Recently played
 
+- TBA, Berlin — Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Else, Berlin — Sat, 8 Aug 2026
 - Café am Neuen See, Berlin — Sat, 1 Aug 2026
@@ -23,10 +23,9 @@ Thabo is a house and techno artist tracked on soundcheck, with 81 sets logged ac
 - Romantica, Stuttgart — Fri, 10 Jul 2026
 - Else, Berlin — Sat, 27 Jun 2026
 - The Cause, London — Fri, 19 Jun 2026
-- Club Malasaña, Madrid — Fri, 29 May 2026
 
 ## Shares bills with
 
 Thalo Santana, Blame Anthony, Butterhands
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

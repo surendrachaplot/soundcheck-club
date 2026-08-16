@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sam Alfred is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside X CLUB., SAIDAH and KETTAMA. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside X CLUB., SAIDAH and KETTAMA. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
@@ -36,4 +35,4 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 132 sets log
 
 X CLUB., SAIDAH, KETTAMA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

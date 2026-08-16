@@ -1,6 +1,6 @@
 # Lucas Jedamzick
 
-Lucas Jedamzick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
+Lucas Jedamzick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
 
 Lucas Jedamzick is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Otto Lebowski, Ionah Inept and BBetriebswirt. Next up: Humboldthain Club, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Lucas Jedamzick is a house and techno artist tracked on soundcheck, with 6 sets 
 
 Otto Lebowski, Ionah Inept, BBetriebswirt
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasjedamzick/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasjedamzick/)*

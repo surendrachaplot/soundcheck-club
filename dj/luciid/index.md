@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OST, Berlin on Fri, 28 Aug 2026.
+Luciid is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at OST, Berlin on Fri, 28 Aug 2026.
 
 Luciid is a techno and industrial artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Vendex, Skryption and Dexphase. Next up: OST, Berlin on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Luciid is a techno and industrial artist tracked on soundcheck, with 108 sets lo
 
 Vendex, Skryption, Dexphase
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

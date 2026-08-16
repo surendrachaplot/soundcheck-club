@@ -1,6 +1,6 @@
 # HAIG
 
-HAIG is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
+HAIG is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
 
 HAIG is a tech house and deep house artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside Geo DJ, ACAPULCO and DRIA. Next up: XOYO, London on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ HAIG is a tech house and deep house artist tracked on soundcheck, with 28 sets l
 
 Geo DJ, ACAPULCO, DRIA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haig/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haig/)*

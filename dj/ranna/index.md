@@ -1,6 +1,6 @@
 # RANNA
 
-RANNA is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Live Haus, Tokyo on Fri, 11 Sept 2026.
+RANNA is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Live Haus, Tokyo on Fri, 11 Sept 2026.
 
 RANNA is an electronica and bass artist tracked on soundcheck, with 17 sets logged across Sanfrancisco and Tokyo. Often billed alongside MUNÉO, M.I.O and INAE. Next up: Live Haus, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ RANNA is an electronica and bass artist tracked on soundcheck, with 17 sets logg
 
 MUNÉO, M.I.O, INAE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranna/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranna/)*

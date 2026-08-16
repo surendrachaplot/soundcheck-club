@@ -1,6 +1,6 @@
 # NEMS-B
 
-NEMS-B is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Gare / Le Gore, Paris on Sat, 15 Aug 2026.
+NEMS-B is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Gare / Le Gore, Paris on Sat, 15 Aug 2026.
 
 NEMS-B is a techno and deep house artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Lyon and Marseille and 1 more. Often billed alongside Alcachofa, Amour Noir and Arcene K. Next up: La Gare / Le Gore, Paris on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ NEMS-B is a techno and deep house artist tracked on soundcheck, with 16 sets log
 
 ## Recently played
 
+- La Gare / Le Gore, Paris — Sat, 15 Aug 2026
 - La Gare / Le Gore, Paris — Fri, 14 Aug 2026
 - La Gare / Le Gore, Paris — Sat, 16 May 2026
 - Le Bouge Marseille, Marseille — Fri, 20 Mar 2026
@@ -19,10 +20,9 @@ NEMS-B is a techno and deep house artist tracked on soundcheck, with 16 sets log
 - TBA - LE BOUGE, Marseille — Thu, 13 Nov 2025
 - Kater, Berlin — Fri, 27 Jun 2025
 - Amaluna Paris, Paris — Fri, 13 Jun 2025
-- LAUT, Barcelona — Sat, 10 May 2025
 
 ## Shares bills with
 
 Alcachofa, Amour Noir, Arcene K
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nems-b/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nems-b/)*

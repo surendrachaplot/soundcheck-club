@@ -1,6 +1,6 @@
 # Sonora
 
-Sonora is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+Sonora is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 Sonora is a techno and trance artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Leeds and London and 4 more. Often billed alongside Drazzit, Cobb Douglas and Doppelganger. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sonora is a techno and trance artist tracked on soundcheck, with 35 sets logged 
 
 Drazzit, Cobb Douglas, Doppelganger
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonora/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonora/)*

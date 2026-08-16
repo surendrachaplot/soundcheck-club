@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ＬＩＬＩＴＨ THE PLANET ✦ LIMITED 10€ TICKETS" on Sat, 15 Aug 2026.
+ÆDEN is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ＬＩＬＩＴＨ THE PLANET ✦ 10€ PRE-SALE" on Sat, 15 Aug 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including KIV., Aaron Blau, Acierate and Al Aslan and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | ＬＩＬＩＴＨ THE PLANET ✦ LIMITED 10€ TICKETS | Al Aslan, Annyrock, CSILLA, ENÈH, Ksenia K, MIKA G, Manus Malone, STEEZY, The Camel, Vaccaro |
+| Sat, 15 Aug 2026 | ＬＩＬＩＴＨ THE PLANET ✦ 10€ PRE-SALE | Al Aslan, Annyrock, CSILLA, ENÈH, Ksenia K, MIKA G, Manus Malone, STEEZY, The Camel, Vaccaro |
 | Wed, 19 Aug 2026 | Floating Over - ÆDEN/ŒL Garten | Nayoo |
 | Wed, 19 Aug 2026 | ＬＩＬＩＴＨ✦ |  |
 | Fri, 21 Aug 2026 | BPM x Anechoic: Summer Ride | August Kind, B.R.K.Ø., Bruno Brero, Deltapeak, E.T., Eli Bot, Hanne B, MIMI404, OnlyWithYou, VICKY, bbymeister, e.leptic, jeanska, k4mi, queen yasmeen, sterni (DE) |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

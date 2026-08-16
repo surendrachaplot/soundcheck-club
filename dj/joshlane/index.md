@@ -1,6 +1,6 @@
 # Joshlane
 
-Joshlane is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Joshlane is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Joshlane is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Brussels and Istanbul. Often billed alongside Revere, Stoac and Beswerda. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Joshlane is a techno and progressive house artist based in Netherlands, tracked 
 
 Revere, Stoac, Beswerda
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshlane/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshlane/)*

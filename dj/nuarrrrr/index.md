@@ -1,6 +1,6 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Greifswalder Str. 24, 10405 Berlin, Berlin on Sat, 15 Aug 2026.
+nuarrrrr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Greifswalder Str. 24, 10405 Berlin, Berlin on Sat, 15 Aug 2026.
 
 nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logged across Berlin, Brussels, Krakow and Warsaw. Often billed alongside Nadezh No, Sava (3) and Aslamin. Next up: TBA - Greifswalder Str. 24, 10405 Berlin, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logge
 
 ## Recently played
 
+- TBA - Greifswalder Str. 24, 10405 Berlin, Berlin — Sat, 15 Aug 2026
 - B-SIDE, Warsaw — Sat, 8 Aug 2026
 - Jasna 1, Warsaw — Sat, 1 Aug 2026
 - KitKatClub, Berlin — Fri, 31 Jul 2026
@@ -19,10 +20,9 @@ nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logge
 - Renate, Berlin — Fri, 10 Jul 2026
 - Club Der Polnischen Versager, Berlin — Fri, 10 Jul 2026
 - MONKEY LOVE, Warsaw — Fri, 26 Jun 2026
-- Sekta Selekta, Krakow — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Nadezh No, Sava (3), Aslamin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*

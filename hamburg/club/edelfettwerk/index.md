@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "4 My People Day & Night Festival " on Sat, 15 Aug 2026.
+Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "4 My People Day & Night Festival " on Sat, 15 Aug 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including Annie, CAIVA, CALLUSH and Carotin and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -18,4 +18,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

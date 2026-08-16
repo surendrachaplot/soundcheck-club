@@ -1,14 +1,13 @@
 # Two More Years
 
-Two More Years is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Two More Years - Fifth Birthday (House & Disco by The Canal)" on Sat, 15 Aug 2026.
+Two More Years is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Spicy Juliet Summer Party ep.002" on Sat, 22 Aug 2026.
 
-Two More Years is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Chris Wheatley, Dan Howell, Franklin DJ and Giles Smith and 2 more. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
+Two More Years is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Chris Wheatley, Late Night Disco and Nadia Ksaiba. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Two More Years - Fifth Birthday (House & Disco by The Canal) | Dan Howell, Franklin DJ, Giles Smith, Jacob Friday, John Shabot |
 | Sat, 22 Aug 2026 | Spicy Juliet Summer Party ep.002 |  |
 | Sat, 29 Aug 2026 | Late Night Disco - Bank Holiday Special | Chris Wheatley, Late Night Disco, Nadia Ksaiba |
 
@@ -16,4 +15,4 @@ Two More Years is a music venue in London listed on soundcheck. 3 upcoming night
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

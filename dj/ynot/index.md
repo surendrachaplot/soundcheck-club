@@ -1,6 +1,6 @@
 # YNOT
 
-YNOT is a Minimal and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Home The Venue, Sydney on Sat, 15 Aug 2026.
+YNOT is a Minimal and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Home The Venue, Sydney on Sat, 15 Aug 2026.
 
 YNOT is a minimal and disco artist tracked on soundcheck, with 3 sets logged across Losangeles and Sydney. Often billed alongside becks (2) and KATERI. Next up: Home The Venue, Sydney on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ YNOT is a minimal and disco artist tracked on soundcheck, with 3 sets logged acr
 
 ## Recently played
 
+- Home The Venue, Sydney — Sat, 15 Aug 2026
 - The Bellwether, Los Angeles — Fri, 1 May 2026
 - The Lexington, Los Angeles — Sat, 25 Apr 2026
 
@@ -19,4 +20,4 @@ YNOT is a minimal and disco artist tracked on soundcheck, with 3 sets logged acr
 
 becks (2), KATERI
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ynot/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ynot/)*

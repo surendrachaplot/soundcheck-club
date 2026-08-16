@@ -1,6 +1,6 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at essaim, Paris on Sat, 15 Aug 2026.
+Melody RA+RE is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at essaim, Paris on Sat, 15 Aug 2026.
 
 Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: essaim, Paris on Sat 15 Aug.
 
@@ -16,6 +16,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets 
 
 ## Recently played
 
+- essaim, Paris — Sat, 15 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - The Fox and Firkin, London — Sat, 1 Aug 2026
@@ -23,10 +24,9 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets 
 - THE MAGICK BAR, Rome — Fri, 26 Jun 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

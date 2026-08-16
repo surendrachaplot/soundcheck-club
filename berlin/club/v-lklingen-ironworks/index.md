@@ -1,6 +1,6 @@
 # Völklingen Ironworks
 
-Völklingen Ironworks is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FERRA FESTIVAL" on Fri, 21 Aug 2026.
+Völklingen Ironworks is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "FERRA FESTIVAL" on Fri, 21 Aug 2026.
 
 Völklingen Ironworks is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including KARAH and Winson Ngoh. Browse upcoming dates, start times and who's playing. Rathausstraße 75-79, 66333 Völklingen, Germany.
 
@@ -15,4 +15,4 @@ Völklingen Ironworks is a music venue in Berlin listed on soundcheck. 2 upcomin
 
 Rathausstraße 75-79, 66333 Völklingen, Germany, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/v-lklingen-ironworks/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/v-lklingen-ironworks/)*

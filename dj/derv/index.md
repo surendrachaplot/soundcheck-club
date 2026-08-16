@@ -1,6 +1,6 @@
 # Derv
 
-Derv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Wigwam, Dublin on Fri, 21 Aug 2026.
+Derv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Wigwam, Dublin on Fri, 21 Aug 2026.
 
 Derv is a techno and house artist based in Ireland, tracked on soundcheck, with 69 sets logged across Belfast, Dublin, Galway and Limerick and 2 more. Often billed alongside Puzzy Wrangler, Mode_1 and Collie (1). Next up: Wigwam, Dublin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Derv is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 Puzzy Wrangler, Mode_1, Collie (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*

@@ -1,6 +1,6 @@
 # Talpah
 
-Talpah is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
+Talpah is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
 
 Talpah is an experimental and electronica artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Budapest and Glasgow and 7 more. Often billed alongside Ciro Vitiello, KOPI O and Mvcoko. Next up: Atno, Budapest on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Talpah is an experimental and electronica artist based in Italy, tracked on soun
 
 Ciro Vitiello, KOPI O, Mvcoko
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talpah/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talpah/)*

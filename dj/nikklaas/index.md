@@ -1,6 +1,6 @@
 # Nikklaas
 
-Nikklaas is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 29 Aug 2026.
+Nikklaas is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 29 Aug 2026.
 
 Nikklaas is a house and club artist tracked on soundcheck, with 138 sets logged across Berlin and Dusseldorf. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Bulbul Berlin, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Nikklaas is a house and club artist tracked on soundcheck, with 138 sets logged 
 
 Better Call Paul, Anne Hou, MagDita
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*

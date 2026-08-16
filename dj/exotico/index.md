@@ -1,6 +1,6 @@
 # Exotico
 
-Exotico is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Munster Munch, London on Sat, 22 Aug 2026.
+Exotico is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Munster Munch, London on Sat, 22 Aug 2026.
 
 Exotico is a tech house and garage artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Enrico Chirchiello, Ricky Sahota and Beezo. Next up: Munster Munch, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Exotico is a tech house and garage artist tracked on soundcheck, with 13 sets lo
 
 Enrico Chirchiello, Ricky Sahota, Beezo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exotico/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exotico/)*

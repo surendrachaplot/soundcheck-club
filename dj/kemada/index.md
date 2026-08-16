@@ -1,18 +1,18 @@
 # KEMADA
 
-KEMADA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
+KEMADA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Egg London, London on Sat, 5 Sept 2026.
 
-KEMADA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Dan Luxa, Cam Smith (3) and Hakz. Next up: XOYO, London on Sat 15 Aug.
+KEMADA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Dan Luxa, Cam Smith (3) and Hakz. Next up: Egg London, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | XOYO | London |
 | Sat, 5 Sept 2026 | Egg London | London |
 
 ## Recently played
 
+- XOYO, London — Sat, 15 Aug 2026
 - Basing House, London — Sat, 11 Jul 2026
 - DUO, London — Fri, 5 Jun 2026
 - 93 Feet East, London — Sat, 1 Nov 2025
@@ -24,4 +24,4 @@ KEMADA is a house and tech house artist based in United Kingdom, tracked on soun
 
 Dan Luxa, Cam Smith (3), Hakz
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kemada/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kemada/)*

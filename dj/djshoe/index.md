@@ -1,6 +1,6 @@
 # DJ Shoe
 
-DJ Shoe is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
+DJ Shoe is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
 
 DJ Shoe is a house and club artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Dom Haley, Rainbow Tutu and Berky. Next up: TBA - Bushwick (Halsey J), DM a DJ or host for address, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ Shoe is a house and club artist tracked on soundcheck, with 10 sets logged ac
 
 Dom Haley, Rainbow Tutu, Berky
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*

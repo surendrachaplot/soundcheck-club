@@ -1,6 +1,6 @@
 # HEDO HYDR8
 
-HEDO HYDR8 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at KG Radio, Belgrade on Fri, 21 Aug 2026.
+HEDO HYDR8 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at KG Radio, Belgrade on Fri, 21 Aug 2026.
 
 HEDO HYDR8 is a techno and bass artist based in Denmark, tracked on soundcheck, with 22 sets logged across Belgrade, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Muskila, Gavnlig and CAYOOTEE. Next up: KG Radio, Belgrade on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ HEDO HYDR8 is a techno and bass artist based in Denmark, tracked on soundcheck, 
 
 Muskila, Gavnlig, CAYOOTEE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedohydr8/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedohydr8/)*

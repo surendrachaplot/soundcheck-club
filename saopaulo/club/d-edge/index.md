@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "D-EDGE SP pres.: UNLIMITED: P1: HOFFMAN. LOURENE LIVE. MARI ANNA.MARY MESK. P2: BRUNO LINO + " on Sat, 15 Aug 2026.
+D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "D-EDGE SP pres.: UNLIMITED: P1: HOFFMAN. LOURENE LIVE. MARI ANNA.MARY MESK. P2: BRUNO LINO + " on Sat, 15 Aug 2026.
 
 D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Cesare vs Disorder and Diogo Accioly and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -22,4 +22,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

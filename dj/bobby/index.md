@@ -1,6 +1,6 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
+Bobby. is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
 
 Bobby. is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 29 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Bobby. is a techno and house artist tracked on soundcheck, with 137 sets logged 
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

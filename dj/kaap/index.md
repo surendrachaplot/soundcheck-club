@@ -1,6 +1,6 @@
 # Kaap
 
-Kaap is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Kaap is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Kaap is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside Human Space Machine, RDS and Eversines. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Kaap is a techno and house artist tracked on soundcheck, with 20 sets logged acr
 
 Human Space Machine, RDS, Eversines
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaap/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaap/)*

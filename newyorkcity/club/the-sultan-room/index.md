@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "New York Modular Society Rooftop Jam" on Mon, 17 Aug 2026.
+The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "New York Modular Society Rooftop Jam" on Mon, 17 Aug 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Bandolover, Celebrity Bitcrush, Crew Called Self and Gardy Girault and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

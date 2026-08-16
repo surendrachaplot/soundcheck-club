@@ -1,15 +1,13 @@
 # Meow Wolf Houston
 
-Meow Wolf Houston is a music venue in Houston with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Whales" on Sat, 15 Aug 2026.
+Meow Wolf Houston is a music venue in Houston with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Canabliss" on Sat, 5 Sept 2026.
 
-Meow Wolf Houston is a music venue in Houston listed on soundcheck. 9 upcoming nights, with line-ups including Baauer and Whales. Browse upcoming dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
+Meow Wolf Houston is a music venue in Houston listed on soundcheck. 7 upcoming nights, with line-ups including Baauer. Browse upcoming dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Whales | Whales |
-| Sat, 15 Aug 2026 | Whales |  |
 | Sat, 5 Sept 2026 | Canabliss |  |
 | Sat, 19 Sept 2026 | WHIPPED CREAM |  |
 | Fri, 25 Sept 2026 | Seth David |  |
@@ -22,4 +20,4 @@ Meow Wolf Houston is a music venue in Houston listed on soundcheck. 9 upcoming n
 
 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA, Houston
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*

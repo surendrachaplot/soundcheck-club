@@ -1,6 +1,6 @@
 # Miss Take
 
-Miss Take is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Miss Take is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Miss Take is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig, Munich and Rome. Often billed alongside jewelry, SAM (9) and Niklas Wandt. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Miss Take is a house and techno artist based in Germany, tracked on soundcheck, 
 
 jewelry, SAM (9), Niklas Wandt
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*

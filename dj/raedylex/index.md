@@ -1,15 +1,13 @@
 # RAEDY LEX
 
-RAEDY LEX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+RAEDY LEX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tangent Gallery, Detroit on Sun, 16 Aug 2026.
 
-RAEDY LEX is a house and techno artist tracked on soundcheck, with 49 sets logged across Detroit and Sanfrancisco. Often billed alongside Dantiez, Disc Jockey George and Drop Catch. Next up: TV Lounge, Detroit on Thu 13 Aug.
+RAEDY LEX is a house and techno artist tracked on soundcheck, with 49 sets logged across Detroit and Sanfrancisco. Often billed alongside Dantiez, Disc Jockey George and Drop Catch. Next up: Tangent Gallery, Detroit on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TV Lounge | Detroit |
-| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sun, 16 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
@@ -27,4 +25,4 @@ RAEDY LEX is a house and techno artist tracked on soundcheck, with 49 sets logge
 
 Dantiez, Disc Jockey George, Drop Catch
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*

@@ -1,6 +1,6 @@
 # Kotono Shirai
 
-Kotono Shirai is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at WOMB, Tokyo on Thu, 20 Aug 2026.
+Kotono Shirai is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at WOMB, Tokyo on Thu, 20 Aug 2026.
 
 Kotono Shirai is a house and tech house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside ALEXANDER M, IRODORI and Louis Shannon. Next up: WOMB, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Kotono Shirai is a house and tech house artist based in Japan, tracked on soundc
 
 ALEXANDER M, IRODORI, Louis Shannon
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotonoshirai/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotonoshirai/)*

@@ -1,15 +1,13 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Thuishaven, Amsterdam on Sat, 15 Aug 2026.
+Benny Rodrigues is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Benny Rodrigues is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Thuishaven, Amsterdam on Sat 15 Aug.
+Benny Rodrigues is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Thuishaven | Amsterdam |
-| Sat, 15 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Sat, 29 Aug 2026 | Lofi | Amsterdam |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
@@ -20,20 +18,21 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 192 set
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sat, 15 Aug 2026
+- Thuishaven, Amsterdam — Sat, 15 Aug 2026
 - Colorado Charlie, The Hague — Sun, 9 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Bronze Beach, Amsterdam — Sun, 26 Jul 2026
 - NAR, Utrecht — Sun, 26 Jul 2026
 - Oranjepark, Rotterdam — Sat, 25 Jul 2026
-- Het Sieraad, Amsterdam — Sat, 25 Jul 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Michel de Hey, Prunk, Karim Soliman
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

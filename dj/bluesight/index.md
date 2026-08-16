@@ -1,6 +1,6 @@
 # bluesight
 
-bluesight is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bolero, Seoul on Sun, 16 Aug 2026.
+bluesight is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bolero, Seoul on Sun, 16 Aug 2026.
 
 bluesight is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside Coral the Animal, Zion and AEIDA. Next up: Bolero, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ bluesight is a hip-hop and club artist based in South Korea, tracked on soundche
 
 Coral the Animal, Zion, AEIDA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluesight/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluesight/)*

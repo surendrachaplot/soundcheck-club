@@ -1,14 +1,13 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at VENT, Tokyo on Sat, 15 Aug 2026.
+LB aka LABAT is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Faust, Seoul on Sun, 16 Aug 2026.
 
-LB aka LABAT is a techno and house artist tracked on soundcheck, with 199 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 57 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: VENT, Tokyo on Sat 15 Aug.
+LB aka LABAT is a techno and house artist tracked on soundcheck, with 199 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 57 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Faust, Seoul on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | VENT | Tokyo |
 | Sun, 16 Aug 2026 | Faust | Seoul |
 | Sun, 23 Aug 2026 | Else | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -17,6 +16,7 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 199 sets l
 
 ## Recently played
 
+- VENT, Tokyo — Sat, 15 Aug 2026
 - Soho House Hong Kong, Hong Kong — Fri, 14 Aug 2026
 - Lane 23, Kuala Lumpur — Sat, 8 Aug 2026
 - Night Tales, London — Fri, 24 Jul 2026
@@ -24,10 +24,9 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 199 sets l
 - TRAUM, Antwerp — Fri, 19 Jun 2026
 - Silencio, Paris — Sat, 6 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
-- Ruigenhoek, Utrecht — Sat, 30 May 2026
 
 ## Shares bills with
 
 DJ Gigola, Juicy Romance, Special Request
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

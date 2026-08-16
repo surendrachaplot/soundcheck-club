@@ -1,6 +1,6 @@
 # Pesto
 
-Pesto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
+Pesto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
 
 Pesto is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Belfast and Bristol. Often billed alongside Laithal, Matcha and Howie Booth. Next up: The Barge, Belfast on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Pesto is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- The Barge, Belfast — Sat, 15 Aug 2026
 - The Ulster Sports Club, Belfast — Fri, 15 May 2026
 - The Ulster Sports Club, Belfast — Sat, 14 Feb 2026
 - The Croft, Bristol — Sat, 24 Jan 2026
@@ -24,4 +25,4 @@ Pesto is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Laithal, Matcha, Howie Booth
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pesto/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pesto/)*

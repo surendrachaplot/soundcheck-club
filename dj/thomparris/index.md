@@ -1,6 +1,6 @@
 # Thom Parris
 
-Thom Parris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chiave, London on Fri, 28 Aug 2026.
+Thom Parris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chiave, London on Fri, 28 Aug 2026.
 
 Thom Parris is a house and techno artist tracked on soundcheck, with 29 sets logged across London. Often billed alongside Son of Paul, Make A Dance and Alfie Aukett. Next up: Chiave, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Thom Parris is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Son of Paul, Make A Dance, Alfie Aukett
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*

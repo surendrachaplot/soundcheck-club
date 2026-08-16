@@ -1,14 +1,13 @@
 # Arsenal Mikebe
 
-Arsenal Mikebe is a Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kafe Hærverk, Oslo on Fri, 14 Aug 2026.
+Arsenal Mikebe is a Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
 
-Arsenal Mikebe is a dub artist based in Uganda, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Mad Professor, DjRUM and Roza Terenzi. Next up: Kafe Hærverk, Oslo on Fri 14 Aug.
+Arsenal Mikebe is a dub artist based in Uganda, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Mad Professor, DjRUM and Roza Terenzi. Next up: Tresor / Globus, Berlin on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Kafe Hærverk | Oslo |
 | Wed, 19 Aug 2026 | Tresor / Globus | Berlin |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
@@ -27,4 +26,4 @@ Arsenal Mikebe is a dub artist based in Uganda, tracked on soundcheck, with 10 s
 
 Mad Professor, DjRUM, Roza Terenzi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

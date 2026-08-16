@@ -1,6 +1,6 @@
 # JD (3)
 
-JD (3) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
+JD (3) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
 
 JD (3) is a tech house artist tracked on soundcheck, with 4 sets logged across London and Melbourne. Often billed alongside Caren G., The Snatcha and DJ Black Moses. Next up: Solace, Melbourne on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ JD (3) is a tech house artist tracked on soundcheck, with 4 sets logged across L
 
 Caren G., The Snatcha, DJ Black Moses
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-3/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-3/)*

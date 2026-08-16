@@ -1,6 +1,6 @@
 # DJ maddog
 
-DJ maddog is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Chemist, Boston on Fri, 28 Aug 2026.
+DJ maddog is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Chemist, Boston on Fri, 28 Aug 2026.
 
 DJ maddog is a club and hardcore artist based in United States of America, tracked on soundcheck, with 47 sets logged across Boston, Brussels, Cardiff and Cologne and 12 more. Often billed alongside Chelita, Replicator and Roiju. Next up: The Chemist, Boston on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ maddog is a club and hardcore artist based in United States of America, track
 
 Chelita, Replicator, Roiju
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*

@@ -1,6 +1,6 @@
 # HVL
 
-HVL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gut Level, Sheffield on Fri, 11 Sept 2026.
+HVL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gut Level, Sheffield on Fri, 11 Sept 2026.
 
 HVL is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Kvanchi, Ndrx and Kancheli. Next up: Gut Level, Sheffield on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ HVL is a techno and house artist tracked on soundcheck, with 99 sets logged acro
 
 Kvanchi, Ndrx, Kancheli
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*

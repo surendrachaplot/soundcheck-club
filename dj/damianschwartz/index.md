@@ -1,6 +1,6 @@
 # Damian Schwartz
 
-Damian Schwartz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala Villanos, Madrid on Fri, 9 Oct 2026.
+Damian Schwartz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sala Villanos, Madrid on Fri, 9 Oct 2026.
 
 Damian Schwartz is a house and electronica artist based in Spain, tracked on soundcheck, with 13 sets logged across Berlin, Madrid, Newyorkcity and Washingtondc. Often billed alongside DJ F (ES), Federico Molinari and Nekes. Next up: Sala Villanos, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Damian Schwartz is a house and electronica artist based in Spain, tracked on sou
 
 DJ F (ES), Federico Molinari, Nekes
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damianschwartz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damianschwartz/)*

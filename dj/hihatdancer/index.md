@@ -1,6 +1,6 @@
 # HIHATDANCER
 
-HIHATDANCER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Sala Corrientes - C Art Media, Buenos Aires on Sat, 15 Aug 2026.
+HIHATDANCER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Sala Corrientes - C Art Media, Buenos Aires on Sat, 15 Aug 2026.
 
 HIHATDANCER is a techno and house artist based in Argentina, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Camila Isabel, Victoria Arena and @ConradoStein. Next up: TBA - Sala Corrientes - C Art Media, Buenosaires on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ HIHATDANCER is a techno and house artist based in Argentina, tracked on soundche
 
 ## Recently played
 
+- TBA - Sala Corrientes - C Art Media, Buenos Aires — Sat, 15 Aug 2026
 - Melt Underground, Buenos Aires — Sat, 1 Aug 2026
 - TBA - Manso Club, Colegiales, CABA, Buenos Aires — Sat, 18 Jul 2026
 - TBA - WAX CLUB - MAIPU 878, CABA, Buenos Aires — Sat, 30 May 2026
@@ -19,10 +20,9 @@ HIHATDANCER is a techno and house artist based in Argentina, tracked on soundche
 - Otra Historia Club Cultural, Buenos Aires — Fri, 6 Mar 2026
 - TBA - Wax Club, Buenos Aires — Fri, 27 Feb 2026
 - TBA - Centro Colegiales, Buenos Aires — Sat, 20 Sept 2025
-- TBA - Niceto (LADO B), Buenos Aires — Thu, 14 Aug 2025
 
 ## Shares bills with
 
 Camila Isabel, Victoria Arena, @ConradoStein
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*

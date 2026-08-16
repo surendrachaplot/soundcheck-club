@@ -1,6 +1,6 @@
 # Serocee
 
-Serocee is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at MV Pearl of London, London on Sat, 29 Aug 2026.
+Serocee is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at MV Pearl of London, London on Sat, 29 Aug 2026.
 
 Serocee is a dancehall and hip-hop artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside Big Narstie and Toddla T. Next up: MV Pearl of London, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Serocee is a dancehall and hip-hop artist based in United Kingdom, tracked on so
 
 Big Narstie, Toddla T
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serocee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serocee/)*

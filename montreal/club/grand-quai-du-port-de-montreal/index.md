@@ -1,19 +1,17 @@
 # Grand Quai du Port de Montreal
 
-Grand Quai du Port de Montreal is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LOST MIRACLE (Sébastien Léger + Roy Rosenfeld) @ GRAND QUAI (SITE EXTÉRIEUR)" on Sat, 15 Aug 2026.
+Grand Quai du Port de Montreal is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Montreal Reggae Nation Festival" on Sun, 6 Sept 2026.
 
-Grand Quai du Port de Montreal is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including Hicky & Kalo, Laure (CA), Moti (CR) and Roy Rosenfeld and 1 more. Browse upcoming dates, start times and who's playing. 200 Rue de la Commune O, Montréal H2Y 4B2.
+Grand Quai du Port de Montreal is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 200 Rue de la Commune O, Montréal H2Y 4B2.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | LOST MIRACLE (Sébastien Léger + Roy Rosenfeld) @ GRAND QUAI (SITE EXTÉRIEUR) | Hicky & Kalo, Laure (CA), Moti (CR), Roy Rosenfeld, Sebastien Leger |
-| Sat, 15 Aug 2026 | LOST MIRACLE (Sébastien Léger + Roy Rosenfeld) at GRAND QUAI (SITE EXTÉRIEUR) | Hicky & Kalo |
 | Sun, 6 Sept 2026 | Montreal Reggae Nation Festival |  |
 
 ## Address
 
 200 Rue de la Commune O, Montréal H2Y 4B2, Montreal
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/grand-quai-du-port-de-montreal/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/grand-quai-du-port-de-montreal/)*

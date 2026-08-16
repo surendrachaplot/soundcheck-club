@@ -1,6 +1,6 @@
 # Kolja.Kebab
 
-Kolja.Kebab is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Kolja.Kebab is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 Kolja.Kebab is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Amorelie, multivitaminmarie and Bélavie. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Kolja.Kebab is a trance and techno artist based in Germany, tracked on soundchec
 
 Amorelie, multivitaminmarie, Bélavie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolja.kebab/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolja.kebab/)*

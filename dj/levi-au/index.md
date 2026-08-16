@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Sat, 22 Aug 2026.
+Levi (AU) is a Afro House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 34 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: The San Francisco Mint, Sanfrancisco on Sat 22 Aug.
 
@@ -32,4 +32,4 @@ Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 89 
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

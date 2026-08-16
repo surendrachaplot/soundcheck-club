@@ -1,6 +1,6 @@
 # Pascal Moscheni
 
-Pascal Moscheni is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Pascal Moscheni is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Pascal Moscheni is a house and electronica artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 18 more. Often billed alongside Simone de Kunovich, Pancratio and Alex Kassian. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Pascal Moscheni is a house and electronica artist tracked on soundcheck, with 74
 
 Simone de Kunovich, Pancratio, Alex Kassian
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*

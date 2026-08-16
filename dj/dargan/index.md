@@ -1,18 +1,18 @@
 # Dargan
 
-Dargan is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
+Dargan is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
-Dargan is a house and drum & bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside KUN (3), Bellini Baby and Art Behaviour. Next up: Geary Avenue Warehouse Project, Toronto on Sat 15 Aug.
+Dargan is a house and drum & bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside KUN (3), Bellini Baby and Art Behaviour. Next up: Rhythm, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Geary Avenue Warehouse Project | Toronto |
 | Fri, 28 Aug 2026 | Rhythm | Toronto |
 
 ## Recently played
 
+- Geary Avenue Warehouse Project, Toronto — Sat, 15 Aug 2026
 - La Récré, Montreal — Fri, 7 Aug 2026
 - The Ballroom Bowl (John Street) - Rooftop, Toronto — Sun, 2 Aug 2026
 
@@ -20,4 +20,4 @@ Dargan is a house and drum & bass artist based in Canada, tracked on soundcheck,
 
 KUN (3), Bellini Baby, Art Behaviour
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dargan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dargan/)*

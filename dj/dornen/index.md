@@ -1,6 +1,6 @@
 # Dornen
 
-Dornen is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
+Dornen is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
 
 Dornen is an experimental and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Nurnberg and Tbilisi. Often billed alongside Måtyrer, Mariami and lomi. Next up: TBA - Raketenstation Hombroich, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dornen is an experimental and techno artist tracked on soundcheck, with 29 sets 
 
 Måtyrer, Mariami, lomi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dornen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dornen/)*

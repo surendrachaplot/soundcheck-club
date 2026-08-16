@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "CALYX (5am License): E.DN, Lazlo, TiLA, Trainspotters" on Sat, 15 Aug 2026.
+The Mash House is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "CALYX (5am License): E.DN, Lazlo, TiLA, Trainspotters" on Sat, 15 Aug 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including YVI, Brynk, Dan Jakson and DV60 and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

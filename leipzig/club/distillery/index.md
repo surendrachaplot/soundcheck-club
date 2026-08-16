@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "KEIN GRUND ZUR VERNUNFT: IT'S ALL ABOUT HOUSE X Bephål" on Sat, 15 Aug 2026.
+Distillery is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "KEIN GRUND ZUR VERNUNFT: IT'S ALL ABOUT HOUSE X Bephål" on Sat, 15 Aug 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, with line-ups including Alexia (2), ali e., Bephål and boris (creme club) and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -22,4 +22,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, 
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

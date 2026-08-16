@@ -1,6 +1,6 @@
 # Mystigrix
 
-Mystigrix is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+Mystigrix is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 Mystigrix is a house and techno artist based in France, tracked on soundcheck, with 36 sets logged across Berlin, Budapest, Cologne and Hamburg and 2 more. Often billed alongside Cardi-O, Atréju Mensah and Balthazar Martinez. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Mystigrix is a house and techno artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
+- Distillery, Leipzig — Sat, 15 Aug 2026
 - Kater, Berlin — Sat, 1 Aug 2026
 - OXI, Berlin — Fri, 26 Jun 2026
 - Mom's Limousine Service, Berlin — Sun, 26 Apr 2026
@@ -19,10 +20,9 @@ Mystigrix is a house and techno artist based in France, tracked on soundcheck, w
 - Klunkerkranich, Berlin — Sat, 28 Mar 2026
 - Monarch, Berlin — Fri, 27 Feb 2026
 - Pallas, Hamburg — Fri, 14 Nov 2025
-- Renate, Berlin — Fri, 17 Oct 2025
 
 ## Shares bills with
 
 Cardi-O, Atréju Mensah, Balthazar Martinez
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*

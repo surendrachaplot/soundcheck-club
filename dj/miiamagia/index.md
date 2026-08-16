@@ -1,6 +1,6 @@
 # Miia Magia
 
-Miia Magia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
+Miia Magia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
 
 Miia Magia is a techno and house artist based in Finland, tracked on soundcheck, with 9 sets logged across Berlin, Copenhagen, Riga and Stockholm. Often billed alongside Andy Martin, Bella Boo and Prof. Stranger. Next up: Crack Bellmer, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Miia Magia is a techno and house artist based in Finland, tracked on soundcheck,
 
 Andy Martin, Bella Boo, Prof. Stranger
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miiamagia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miiamagia/)*

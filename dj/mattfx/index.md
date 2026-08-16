@@ -1,6 +1,6 @@
 # Matt FX
 
-Matt FX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Outer Heaven, New York City on Sat, 22 Aug 2026.
+Matt FX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Outer Heaven, New York City on Sat, 22 Aug 2026.
 
 Matt FX is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Mexicocity, Newyorkcity, Seoul and Tokyo. Often billed alongside Mona Matsuoka, Tim Lucent and Vibeiana. Next up: Outer Heaven, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Matt FX is a house and techno artist based in United States of America, tracked 
 
 Mona Matsuoka, Tim Lucent, Vibeiana
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*

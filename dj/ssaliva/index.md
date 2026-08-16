@@ -1,6 +1,6 @@
 # Ssaliva
 
-Ssaliva is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Ssaliva is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Ssaliva is an experimental and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Otis (BE), Emma DJ and Liyo. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ssaliva is an experimental and club artist tracked on soundcheck, with 22 sets l
 
 Otis (BE), Emma DJ, Liyo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*

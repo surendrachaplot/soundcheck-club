@@ -1,6 +1,6 @@
 # Thaïs (FR)
 
-Thaïs (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Thaïs (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Thaïs (FR) is a techno and house artist tracked on soundcheck, with 34 sets logged across Bangkok, Brussels, Dusseldorf and Lisbon and 7 more. Often billed alongside Andy Pi, Beatrice M. and Blanche. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Thaïs (FR) is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Andy Pi, Beatrice M., Blanche
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*

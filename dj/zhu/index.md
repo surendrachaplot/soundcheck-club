@@ -1,14 +1,13 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Navy Pier, Chicago on Sat, 15 Aug 2026.
+ZHU is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pacha New York, New York City on Fri, 11 Sept 2026.
 
-ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Navy Pier, Chicago on Sat 15 Aug.
+ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Pacha New York, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Navy Pier | Chicago |
 | Fri, 11 Sept 2026 | Pacha New York | New York City |
 | Fri, 11 Sept 2026 | Pacha New York | New York City |
 | Fri, 23 Oct 2026 | The Concourse Project | Austin |
@@ -17,6 +16,7 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Navy Pier, Chicago — Sat, 15 Aug 2026
 - Chinois Ibiza, Ibiza — Wed, 22 Jul 2026
 - The Roundhouse, London — Sat, 18 Jul 2026
 - 170 Russell, Melbourne — Sun, 5 Apr 2026
@@ -24,10 +24,9 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 - TBA - Blanche Anderson Moore Organ Recital Hall (1100 Baits Dr, Ann Arbor), Detroit — Wed, 12 Nov 2025
 - Brooklyn Storehouse, New York City — Sat, 4 Oct 2025
 - The Midway, San Francisco/Oakland — Wed, 1 Jan 2025
-- The Midway, San Francisco/Oakland — Tue, 31 Dec 2024
 
 ## Shares bills with
 
 Diplo, Azzecca, Biscits
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

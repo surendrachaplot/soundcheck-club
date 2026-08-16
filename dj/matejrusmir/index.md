@@ -1,6 +1,6 @@
 # Matej Rusmir
 
-Matej Rusmir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
+Matej Rusmir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
 
 Matej Rusmir is a techno and trance artist based in Serbia, tracked on soundcheck, with 36 sets logged across Belgrade. Often billed alongside illillillillill, tsola and Ali Guney. Next up: Karmakoma, Belgrade on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Matej Rusmir is a techno and trance artist based in Serbia, tracked on soundchec
 
 ## Recently played
 
+- Karmakoma, Belgrade — Sat, 15 Aug 2026
 - Para Klub Beograd, Belgrade — Sun, 12 Jul 2026
 - Drugstore Beograd, Belgrade — Sat, 25 Apr 2026
 - Drugstore Beograd, Belgrade — Sat, 14 Mar 2026
@@ -19,10 +20,9 @@ Matej Rusmir is a techno and trance artist based in Serbia, tracked on soundchec
 - Drugstore Beograd, Belgrade — Sat, 31 Jan 2026
 - Karmakoma, Belgrade — Fri, 23 Jan 2026
 - Para Klub Beograd, Belgrade — Sun, 18 Jan 2026
-- Para Klub Beograd, Belgrade — Sun, 14 Dec 2025
 
 ## Shares bills with
 
 illillillillill, tsola, Ali Guney
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*

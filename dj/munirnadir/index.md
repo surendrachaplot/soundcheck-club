@@ -1,6 +1,6 @@
 # Munir Nadir
 
-Munir Nadir is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Sótano Club , Mallorca on Sat, 15 Aug 2026.
+Munir Nadir is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Sótano Club , Mallorca on Sat, 15 Aug 2026.
 
 Munir Nadir is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Alex Dima, Cristian Sarde and Lorenzo Aribone. Next up: TBA - Sótano Club , Mallorca on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ Munir Nadir is a house and techno artist tracked on soundcheck, with 72 sets log
 
 ## Recently played
 
+- TBA - Sótano Club , Mallorca — Sat, 15 Aug 2026
 - Gianca - Murazzi, Turin — Fri, 31 Jul 2026
 - Le point fort d'Aubervilliers, Paris — Sat, 18 Jul 2026
 - TBA - private rooftop (marina metro station), Barcelona — Sun, 21 Jun 2026
@@ -21,10 +22,9 @@ Munir Nadir is a house and techno artist tracked on soundcheck, with 72 sets log
 - Bunker, Turin — Mon, 1 Jun 2026
 - Gianca - Murazzi, Turin — Sat, 23 May 2026
 - Teatro Continuo di Alberto Burri, Milan — Sat, 11 Apr 2026
-- Apollo Club Milano, Milan — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Alex Dima, Cristian Sarde, Lorenzo Aribone
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*

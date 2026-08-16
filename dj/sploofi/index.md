@@ -1,6 +1,6 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 1124 Congress St NE, 2nd Floor, Washington DC on Sat, 22 Aug 2026.
+Sploofi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - 1124 Congress St NE, 2nd Floor, Washington DC on Sat, 22 Aug 2026.
 
 Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Montreal, Newyorkcity and Washingtondc. Often billed alongside Nicolò Bernardi, Ron Like Hell and Haruka. Next up: TBA - 1124 Congress St NE, 2nd Floor, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sploofi is a techno and experimental artist based in United States of America, t
 
 Nicolò Bernardi, Ron Like Hell, Haruka
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*

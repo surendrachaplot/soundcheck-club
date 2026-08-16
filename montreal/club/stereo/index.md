@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sasha - Mike Chidiac" on Sat, 15 Aug 2026.
+Stereo is a music venue in Montreal with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sasha - Mike Chidiac" on Sat, 15 Aug 2026.
 
 Stereo is a music venue in Montreal listed on soundcheck. 22 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Chus & Ceballos and Danny Tenaglia and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Montreal listed on soundcheck. 22 upcoming nights, wi
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

@@ -1,6 +1,6 @@
 # Delta Division
 
-Delta Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Delta Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Delta Division is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, London and Zurich. Often billed alongside Air Protection Office, Mruda and N ska. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Delta Division is a techno and house artist tracked on soundcheck, with 14 sets 
 
 Air Protection Office, Mruda, N ska
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*

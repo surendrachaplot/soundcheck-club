@@ -1,6 +1,6 @@
 # Arkyn
 
-Arkyn is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Manchester on Fri, 2 Oct 2026.
+Arkyn is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Manchester on Fri, 2 Oct 2026.
 
 Arkyn is a jungle and hardcore artist tracked on soundcheck, with 19 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Vinyl Junkie, Billy Daniel Bunter and Swankout. Next up: TBA, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Arkyn is a jungle and hardcore artist tracked on soundcheck, with 19 sets logged
 
 Vinyl Junkie, Billy Daniel Bunter, Swankout
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*

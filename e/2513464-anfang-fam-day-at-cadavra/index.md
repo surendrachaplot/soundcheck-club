@@ -1,6 +1,6 @@
 # Anfang Fam Day at Cadavra
 
-Anfang Fam Day at Cadavra on Thu 10 Sept, Madrid. 1 act on the bill: SERNA. Techno. Preview the line-up and save it on soundcheck.
+Anfang Fam Day at Cadavra on Thu 10 Sept, Madrid. 2 acts on the bill: Safia (2) and SERNA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Anfang Fam Day at Cadavra on Thu 10 Sept, Madrid. 1 act on the bill: SERNA. Tech
 
 ## Line-up
 
+- Safia (2)
 - SERNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2513464-anfang-fam-day-at-cadavra/)*

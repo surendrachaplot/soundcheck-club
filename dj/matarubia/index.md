@@ -1,6 +1,6 @@
 # mata rubia
 
-mata rubia is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 22 Aug 2026.
+mata rubia is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 22 Aug 2026.
 
 mata rubia is a techno and club artist based in Czech Republic, tracked on soundcheck, with 20 sets logged across Prague and Strasbourg. Often billed alongside TerminusTechnikus, Youssef Motus and patricccio. Next up: Ankali & Planeta Za, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ mata rubia is a techno and club artist based in Czech Republic, tracked on sound
 
 TerminusTechnikus, Youssef Motus, patricccio
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matarubia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matarubia/)*

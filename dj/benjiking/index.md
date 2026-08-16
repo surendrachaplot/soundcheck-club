@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
+Benji King is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Benji King is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 7 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: Amnesia Ibiza, Ibiza on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Benji King is a house and tech house artist tracked on soundcheck, with 76 sets 
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

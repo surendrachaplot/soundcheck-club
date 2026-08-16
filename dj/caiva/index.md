@@ -1,6 +1,6 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
+CAIVA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
 CAIVA is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Barcelona, Basel and Berlin and 35 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ CAIVA is a techno and trance artist tracked on soundcheck, with 156 sets logged 
 
 ## Recently played
 
+- Edelfettwerk, Hamburg — Sat, 15 Aug 2026
 - Tresor / Globus, Berlin — Mon, 3 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 4 Jul 2026
 - Kilomètre25, Paris — Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ CAIVA is a techno and trance artist tracked on soundcheck, with 156 sets logged 
 - RSO.BERLIN, Berlin — Sat, 16 May 2026
 - Unité.22, Marseille — Sat, 2 May 2026
 - RSO.BERLIN, Berlin — Fri, 24 Apr 2026
-- Monte Kristo Estates, Malta — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

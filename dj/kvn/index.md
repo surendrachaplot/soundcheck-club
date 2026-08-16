@@ -1,6 +1,6 @@
 # KVN
 
-KVN is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
+KVN is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
 
 KVN is a tech house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Glasgow, Hamburg and London and 4 more. Often billed alongside miku, AFAR and ASIA (DE). Next up: Virage, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KVN is a tech house and techno artist based in United States of America, tracked
 
 miku, AFAR, ASIA (DE)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvn/)*

@@ -1,6 +1,6 @@
 # Pershing Square
 
-Pershing Square is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DIM MAK in the Park" on Sat, 15 Aug 2026.
+Pershing Square is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "DIM MAK in the Park" on Sat, 15 Aug 2026.
 
 Pershing Square is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Anton Tumas, Birds of Mind, Crystal Waters and Lee Burridge and 2 more. Browse upcoming dates, start times and who's playing. 532 S Olive Street, Los Angeles, CA 90013, USA.
 
@@ -16,4 +16,4 @@ Pershing Square is a music venue in Losangeles listed on soundcheck. 3 upcoming 
 
 532 S Olive Street, Los Angeles, CA 90013, USA, Los Angeles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/pershing-square/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/pershing-square/)*

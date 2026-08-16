@@ -1,6 +1,6 @@
 # Echo/Dawn
 
-Echo/Dawn is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokaal Talent, Antwerp on Sat, 19 Sept 2026.
+Echo/Dawn is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lokaal Talent, Antwerp on Sat, 19 Sept 2026.
 
 Echo/Dawn is a techno and garage artist tracked on soundcheck, with 5 sets logged across Antwerp and Brussels. Often billed alongside 1morning, Akua and Alex Rita. Next up: Lokaal Talent, Antwerp on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Echo/Dawn is a techno and garage artist tracked on soundcheck, with 5 sets logge
 
 1morning, Akua, Alex Rita
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echodawn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echodawn/)*

@@ -1,6 +1,6 @@
 # Kepler (EE)
 
-Kepler (EE) is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 21 Aug 2026.
+Kepler (EE) is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 21 Aug 2026.
 
 Kepler (EE) is a house artist based in Estonia, tracked on soundcheck, with 5 sets logged across Amsterdam, Tallinn and Utrecht. Often billed alongside Anil Aras, Boss Priester and Brett Rästas. Next up: Shelter Amsterdam, Amsterdam on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Kepler (EE) is a house artist based in Estonia, tracked on soundcheck, with 5 se
 
 Anil Aras, Boss Priester, Brett Rästas
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kepler-ee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kepler-ee/)*

@@ -1,6 +1,6 @@
 # dicqbeats
 
-dicqbeats is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
+dicqbeats is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
 
 dicqbeats is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Hissyfit, BUBUCORE69 and CLAUDIX. Next up: Sinners and Saints, Washingtondc on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ dicqbeats is a hardcore and breakcore artist based in United States of America, 
 
 Hissyfit, BUBUCORE69, CLAUDIX
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*

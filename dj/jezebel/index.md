@@ -1,18 +1,18 @@
 # Jezebel
 
-Jezebel is a EBM and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at District, Liverpool on Sat, 15 Aug 2026.
+Jezebel is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
-Jezebel is an ebm and house artist tracked on soundcheck, with 28 sets logged across Berlin, Brussels, Detroit and Dublin and 3 more. Often billed alongside Surferboy, deejaytrainwreck and JWY (1). Next up: District, Liverpool on Sat 15 Aug.
+Jezebel is an ebm and house artist tracked on soundcheck, with 28 sets logged across Berlin, Brussels, Detroit and Dublin and 3 more. Often billed alongside Surferboy, deejaytrainwreck and JWY (1). Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | District | Liverpool |
 | Fri, 21 Aug 2026 | Graf Adolf Platz | Düsseldorf |
 
 ## Recently played
 
+- District, Liverpool — Sat, 15 Aug 2026
 - Yamamori Tengu, Dublin — Fri, 17 Jul 2026
 - Yamamori Izakaya, Dublin — Fri, 13 Mar 2026
 - Slane Castle, Dublin — Wed, 31 Dec 2025
@@ -20,10 +20,9 @@ Jezebel is an ebm and house artist tracked on soundcheck, with 28 sets logged ac
 - Slane Castle, Dublin — Fri, 31 Oct 2025
 - Wigwam, Dublin — Sat, 5 Jul 2025
 - Wigwam, Dublin — Fri, 18 Apr 2025
-- Yamamori Izakaya, Dublin — Fri, 7 Feb 2025
 
 ## Shares bills with
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

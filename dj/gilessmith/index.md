@@ -1,18 +1,18 @@
 # Giles Smith
 
-Giles Smith is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
+Giles Smith is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Eastway Baths, London on Sun, 11 Oct 2026.
 
-Giles Smith is a house and disco artist tracked on soundcheck, with 70 sets logged across Bali, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: Two More Years, London on Sat 15 Aug.
+Giles Smith is a house and disco artist tracked on soundcheck, with 70 sets logged across Bali, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: Eastway Baths, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Two More Years | London |
 | Sun, 11 Oct 2026 | Eastway Baths | London |
 
 ## Recently played
 
+- Two More Years, London — Sat, 15 Aug 2026
 - Movers, Nottingham — Sat, 20 Jun 2026
 - EartH, London — Fri, 19 Jun 2026
 - Jumbi, London — Sun, 7 Jun 2026
@@ -20,10 +20,9 @@ Giles Smith is a house and disco artist tracked on soundcheck, with 70 sets logg
 - Bricks, London — Sun, 3 May 2026
 - Two Tribes CAMPFIRE, London — Sat, 11 Apr 2026
 - The Bath House, London — Sat, 4 Apr 2026
-- Pastiche, Berlin — Sun, 22 Mar 2026
 
 ## Shares bills with
 
 Alexander Nut, Dave Lee, Leanne Wright
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*

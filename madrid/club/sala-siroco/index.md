@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "SQUALO: Julia Pé, Luska, Fer Xplosion aka Giorgio Toalliter" on Fri, 28 Aug 2026.
+Sala Siroco is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SQUALO: Julia Pé, Luska, Fer Xplosion aka Giorgio Toalliter" on Fri, 28 Aug 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Belkan, Djen, Fer Xplosion and G4G0 and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -21,4 +21,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

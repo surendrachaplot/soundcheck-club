@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Dj Schnake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets log
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

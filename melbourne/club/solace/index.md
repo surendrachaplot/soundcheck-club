@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Hotplate 005 - Party & Day Market feat: Zjoso, Bex, Pins 'N Needles, Mike Gurrieri…" on Sat, 15 Aug 2026.
+Solace is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Free. Live. Music // Standing Circle" on Wed, 19 Aug 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including Afrodisiac, Aidan Rudd, Asynine and Bex and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Afrodisiac, Aidan Rudd, Asynine and Dasha SPRW and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Hotplate 005 - Party & Day Market feat: Zjoso, Bex, Pins 'N Needles, Mike Gurrieri… | Bex, LEXI (2), Mike Gurrieri, Pins 'N Needles, Zjoso |
 | Wed, 19 Aug 2026 | Free. Live. Music // Standing Circle |  |
 | Thu, 20 Aug 2026 | Solace Radio x SLAUGHTER Materials EP Launch W/ Jae SLAUGHTER Dasha | Dasha SPRW |
 | Fri, 21 Aug 2026 | Saltare x Solace W/ Aidan Rudd & Asynine (Live) | Aidan Rudd, Asynine, MJK., syrup-E |
@@ -23,4 +22,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, w
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

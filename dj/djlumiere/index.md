@@ -1,6 +1,6 @@
 # DJ Lumiere
 
-DJ Lumiere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chapeau Rouge, Prague on Fri, 11 Sept 2026.
+DJ Lumiere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chapeau Rouge, Prague on Fri, 11 Sept 2026.
 
 DJ Lumiere is a house and techno artist tracked on soundcheck, with 58 sets logged across Prague. Often billed alongside Ondrej K, Hugorieri and STAYSKY. Next up: Chapeau Rouge, Prague on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Lumiere is a house and techno artist tracked on soundcheck, with 58 sets logg
 
 Ondrej K, Hugorieri, STAYSKY
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*

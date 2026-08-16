@@ -1,6 +1,6 @@
 # JAY C
 
-JAY C is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+JAY C is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
 JAY C is a house artist based in Spain, tracked on soundcheck, with 2 sets logged across Amsterdam and Madrid. Often billed alongside Andrew Azara, Janeret and Traumer. Next up: Shelter Amsterdam, Amsterdam on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ JAY C is a house artist based in Spain, tracked on soundcheck, with 2 sets logge
 
 Andrew Azara, Janeret, Traumer
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayc/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayc/)*

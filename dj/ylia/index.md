@@ -1,6 +1,6 @@
 # Ylia
 
-Ylia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
+Ylia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
 
 Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Madrid, Malaga and Rome and 2 more. Often billed alongside Lucient, Phran and Meritxell De Soto. Next up: TBA - Pratdip (Tarragona, Spain), Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 26 
 
 Lucient, Phran, Meritxell De Soto
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*

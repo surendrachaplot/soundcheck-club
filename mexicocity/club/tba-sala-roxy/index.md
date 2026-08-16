@@ -1,6 +1,6 @@
 # TBA - Sala Roxy
 
-TBA - Sala Roxy is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Yoyaku World Tour 2026 - Guadalajara" on Sat, 7 Nov 2026.
+TBA - Sala Roxy is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Yoyaku World Tour 2026 - Guadalajara" on Sat, 7 Nov 2026.
 
 TBA - Sala Roxy is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sala Roxy is a music venue in Mexicocity listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Yoyaku World Tour 2026 - Guadalajara |  |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-sala-roxy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-sala-roxy/)*

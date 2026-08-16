@@ -1,6 +1,6 @@
 # 1ycia
 
-1ycia is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 28 Aug 2026.
+1ycia is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 1ycia is a pop and techno artist tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside IOANNINA, Moonpie and QUEENIE (US). Next up: The Great Northern, Sanfrancisco on Fri 28 Aug.
 
@@ -20,4 +20,4 @@
 
 IOANNINA, Moonpie, QUEENIE (US)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1ycia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1ycia/)*

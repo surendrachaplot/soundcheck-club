@@ -1,6 +1,6 @@
 # Kimo
 
-Kimo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Kimo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Kimo is a house and techno artist based in Indonesia, tracked on soundcheck, with 6 sets logged across Berlin, Lisbon, Lyon and Montreal and 1 more. Often billed alongside Alison Swing, Amin Fallaha and Anton X. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Kimo is a house and techno artist based in Indonesia, tracked on soundcheck, wit
 
 ## Recently played
 
+- Renate, Berlin — Sat, 15 Aug 2026
 - Bar Datcha, Montreal — Fri, 14 Aug 2026
 - TBA, Strasbourg — Sun, 21 Jun 2026
 - Lisboa Rio, Lisbon — Wed, 24 Sept 2025
@@ -22,4 +23,4 @@ Kimo is a house and techno artist based in Indonesia, tracked on soundcheck, wit
 
 Alison Swing, Amin Fallaha, Anton X
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimo-id/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimo-id/)*

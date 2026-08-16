@@ -1,14 +1,13 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
+Groove Armada is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
+Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Forte Santo António da Barra | Lisbon |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 8 Sept 2026 | 528 Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets lo
 
 ## Recently played
 
+- Forte Santo António da Barra, Lisbon — Sat, 15 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - TRAUM, Antwerp — Mon, 20 Jul 2026
@@ -28,10 +28,9 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets lo
 - Glendalough Estate, Dublin — Fri, 12 Jun 2026
 - 528 Ibiza, Ibiza — Tue, 26 May 2026
 - Chinois Ibiza, Ibiza — Thu, 21 May 2026
-- Sawmills, Bristol — Sat, 16 May 2026
 
 ## Shares bills with
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

@@ -1,6 +1,6 @@
 # KRSDJ
 
-KRSDJ is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Goya Social Club, Madrid on Fri, 28 Aug 2026.
+KRSDJ is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Goya Social Club, Madrid on Fri, 28 Aug 2026.
 
 KRSDJ is a techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Madrid. Often billed alongside Bigot3x (2), Rodri Martin and Fgdj. Next up: Goya Social Club, Madrid on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ KRSDJ is a techno artist based in Spain, tracked on soundcheck, with 16 sets log
 
 Bigot3x (2), Rodri Martin, Fgdj
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krsdj/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krsdj/)*

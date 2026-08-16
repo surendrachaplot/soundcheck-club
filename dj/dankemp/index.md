@@ -1,6 +1,6 @@
 # DanKemp
 
-DanKemp is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Marrickville, Sydney on Sat, 22 Aug 2026.
+DanKemp is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Marrickville, Sydney on Sat, 22 Aug 2026.
 
 DanKemp is a jungle and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Sydney. Often billed alongside Incog, skinbin and Jaye Ward. Next up: TBA - Marrickville, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DanKemp is a jungle and house artist based in United Kingdom, tracked on soundch
 
 Incog, skinbin, Jaye Ward
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dankemp/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dankemp/)*

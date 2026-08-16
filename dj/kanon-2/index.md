@@ -1,6 +1,6 @@
 # Kanon (2)
 
-Kanon (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+Kanon (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
 Kanon (2) is a techno and trance artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside DANDAN, EMILIO (3) and ERIMIYA. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Kanon (2) is a techno and trance artist tracked on soundcheck, with 3 sets logge
 
 DANDAN, EMILIO (3), ERIMIYA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-2/)*

@@ -1,14 +1,13 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
+Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Strange Brew, Bristol on Fri, 28 Aug 2026.
 
-Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: The White Hotel, Manchester on Sat 15 Aug.
+Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Strange Brew, Bristol on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The White Hotel | Manchester |
 | Fri, 28 Aug 2026 | Strange Brew | Bristol |
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | Renate | Berlin |
@@ -20,9 +19,11 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets l
 | Wed, 23 Sept 2026 | Elsewhere | New York City |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
+- The White Hotel, Manchester — Sat, 15 Aug 2026
 - essaim, Paris — Fri, 14 Aug 2026
 - Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
 - TBA - Secret Location, London — Thu, 23 Jul 2026
@@ -30,10 +31,9 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets l
 - City Recital Hall, Sydney — Thu, 11 Jun 2026
 - Revolver Upstairs, Melbourne — Sun, 7 Jun 2026
 - Melbourne Town Hall, Melbourne — Sat, 6 Jun 2026
-- The Pitt Market, Edinburgh — Sat, 30 May 2026
 
 ## Shares bills with
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

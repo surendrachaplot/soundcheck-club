@@ -1,6 +1,6 @@
 # Unjack*
 
-Unjack* is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 21 Aug 2026.
+Unjack* is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 21 Aug 2026.
 
 Unjack* is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Prague, Vienna and Warsaw. Often billed alongside Nastik (UA), Dash (CZ) and Kirill Astra. Next up: Ankali & Planeta Za, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Unjack* is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 Nastik (UA), Dash (CZ), Kirill Astra
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unjack-cz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unjack-cz/)*

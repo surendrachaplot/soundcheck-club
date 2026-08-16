@@ -1,6 +1,6 @@
 # Parvatis
 
-Parvatis is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
+Parvatis is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
 
 Parvatis is a techno and acid artist based in Malta, tracked on soundcheck, with 18 sets logged across Malta. Often billed alongside Scythe, Budg and DJ Fuckoff. Next up: Club Phoenix - Gianpula Village, Malta on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Parvatis is a techno and acid artist based in Malta, tracked on soundcheck, with
 
 Scythe, Budg, DJ Fuckoff
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parvatis/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parvatis/)*

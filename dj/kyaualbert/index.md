@@ -1,6 +1,6 @@
 # Kyau & Albert
 
-Kyau & Albert is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
+Kyau & Albert is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
 
 Kyau & Albert are a trance and progressive house duo tracked on soundcheck, with 13 sets logged across Dublin, Glasgow, Hamburg and Ibiza and 9 more. Often billed alongside nümind, Boss Axis and Ciaran McAuley. Next up: Saint Judes, Glasgow on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kyau & Albert are a trance and progressive house duo tracked on soundcheck, with
 
 nümind, Boss Axis, Ciaran McAuley
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*

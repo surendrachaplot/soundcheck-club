@@ -1,6 +1,6 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LA RIPOSTE: NEMS-B inv. ZEBRAIN" on Sat, 15 Aug 2026.
+La Gare / Le Gore is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "LA RIPOSTE: NEMS-B inv. ZEBRAIN" on Sat, 15 Aug 2026.
 
 La Gare / Le Gore is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Acid Oslo, A.mo, Axel Blanc and Benabou and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
@@ -23,4 +23,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 16 upcoming ni
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

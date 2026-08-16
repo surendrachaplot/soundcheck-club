@@ -1,14 +1,13 @@
 # Alba Akvama
 
-Alba Akvama is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Valby Parken, Copenhagen on Thu, 13 Aug 2026.
+Alba Akvama is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
 
-Alba Akvama is an electronic artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen and London. Often billed alongside miaw, A Good Year and Alfredo92. Next up: Valby Parken, Copenhagen on Thu 13 Aug.
+Alba Akvama is an electronic artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen and London. Often billed alongside miaw, A Good Year and Alfredo92. Next up: Trifolium, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Valby Parken | Copenhagen |
 | Fri, 11 Sept 2026 | Trifolium | Copenhagen |
 
 ## Recently played
@@ -23,4 +22,4 @@ Alba Akvama is an electronic artist based in Denmark, tracked on soundcheck, wit
 
 miaw, A Good Year, Alfredo92
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albaakvama/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albaakvama/)*

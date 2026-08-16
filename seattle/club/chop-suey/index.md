@@ -1,6 +1,6 @@
 # Chop Suey
 
-Chop Suey is a music venue in Seattle with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MILKSHAKE (2000's Club & Pop Hits!)" on Sat, 5 Sept 2026.
+Chop Suey is a music venue in Seattle with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "MILKSHAKE (2000's Club & Pop Hits!)" on Sat, 5 Sept 2026.
 
 Chop Suey is a music venue in Seattle listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1325 E. Madison; Seattle, WA 98122; United States.
 
@@ -15,4 +15,4 @@ Chop Suey is a music venue in Seattle listed on soundcheck. 2 upcoming nights. B
 
 1325 E. Madison; Seattle, WA 98122; United States, Seattle
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*

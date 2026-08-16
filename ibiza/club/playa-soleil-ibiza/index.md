@@ -1,14 +1,13 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Crême de Crême" on Sat, 15 Aug 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SW ♡ IBIZA AUGUST 19" on Wed, 19 Aug 2026.
 
-Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
+Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Crême de Crême |  |
 | Wed, 19 Aug 2026 | SW ♡ IBIZA AUGUST 19 |  |
 | Sat, 22 Aug 2026 | Crême de Crême |  |
 | Sat, 29 Aug 2026 | Crême de Crême |  |
@@ -18,9 +17,10 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming n
 | Sat, 19 Sept 2026 | Crême de Crême |  |
 | Sat, 26 Sept 2026 | Crême de Crême |  |
 | Wed, 30 Sept 2026 | SW ♡ IBIZA SEPTEMBER 30 |  |
+| Wed, 7 Oct 2026 | SW ♡ IBIZA CLOSING OCTOBER 7 |  |
 
 ## Address
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

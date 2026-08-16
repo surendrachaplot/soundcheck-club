@@ -1,6 +1,6 @@
 # 3kelves
 
-3kelves is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
+3kelves is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 3kelves is a house and disco artist tracked on soundcheck, with 24 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Dylan C. Greene, Supertaste and A-Trak. Next up: Public Works, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Dylan C. Greene, Supertaste, A-Trak
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*

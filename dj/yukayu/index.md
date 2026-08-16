@@ -1,6 +1,6 @@
 # YUKA YU
 
-YUKA YU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - 260 Kearny St, San Francisco, San Francisco/Oakland on Fri, 28 Aug 2026.
+YUKA YU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - 260 Kearny St, San Francisco, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 YUKA YU is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Portland and Sanfrancisco. Often billed alongside Cryptik, Loic Tambay and Cole Odin. Next up: TBA - 260 Kearny St, San Francisco, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ YUKA YU is a house and techno artist based in United States of America, tracked 
 
 Cryptik, Loic Tambay, Cole Odin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*

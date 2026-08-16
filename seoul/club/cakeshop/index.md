@@ -1,14 +1,13 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Fiction X Spice Seoul" on Sat, 15 Aug 2026.
+Cakeshop is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Make Noise for Palestine_After Party" on Sun, 16 Aug 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including Arexibo, chukimaandal, Citi Jeong and DDD (2) and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including Arexibo, chukimaandal, Citi Jeong and DDD (2) and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Fiction X Spice Seoul | DJ JM, KISEWA, Ligrye, M2XL, MAZE (KR), Mars Parck |
 | Sun, 16 Aug 2026 | Make Noise for Palestine_After Party | Arexibo, DJ yesyes, KoiKoi, MAZE (KR), MOHOHOMO, Moruka, Nimvy, Tabris, chukimaandal, rue (3) |
 | Fri, 21 Aug 2026 | Unluckyme | Citi Jeong, JIHEE KIM, LFT (KR), pa de haan. |
 | Sat, 22 Aug 2026 | WHOREMONES | KISEWA, MOHOHOMO, rue (3) |
@@ -21,4 +20,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

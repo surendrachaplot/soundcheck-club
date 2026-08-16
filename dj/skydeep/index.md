@@ -1,6 +1,6 @@
 # Sky Deep
 
-Sky Deep is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Sky Deep is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Sky Deep is a techno and progressive house artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside KH38, materia hache and 2FARO. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sky Deep is a techno and progressive house artist tracked on soundcheck, with 20
 
 KH38, materia hache, 2FARO
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydeep/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydeep/)*

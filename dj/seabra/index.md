@@ -1,6 +1,6 @@
 # Seabra
 
-Seabra is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
+Seabra is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
 
 Seabra is a house and pop artist based in France, tracked on soundcheck, with 6 sets logged across Paris and Saopaulo. Often billed alongside Amine S, Any Yugël and Avante. Next up: Mia Mao, Paris on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Seabra is a house and pop artist based in France, tracked on soundcheck, with 6 
 
 Amine S, Any Yugël, Avante
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*

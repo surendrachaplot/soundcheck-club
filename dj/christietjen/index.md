@@ -1,6 +1,6 @@
 # Chris Tietjen
 
-Chris Tietjen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Silbergold, Frankfurt on Sat, 15 Aug 2026.
+Chris Tietjen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Silbergold, Frankfurt on Sat, 15 Aug 2026.
 
 Chris Tietjen is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin and Frankfurt. Often billed alongside Markus Fix, ALNA and André Dancekowski. Next up: Silbergold, Frankfurt on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Chris Tietjen is a house and techno artist tracked on soundcheck, with 10 sets l
 
 ## Recently played
 
+- Silbergold, Frankfurt — Sat, 15 Aug 2026
 - Tokonoma Club, Frankfurt — Wed, 13 May 2026
 - Yachtklub, Frankfurt — Thu, 30 Apr 2026
 - Kater, Berlin — Sat, 18 Oct 2025
@@ -19,10 +20,9 @@ Chris Tietjen is a house and techno artist tracked on soundcheck, with 10 sets l
 - Silbergold, Frankfurt — Sat, 15 Jun 2024
 - TBA - CLUB FOUR Neue Mainzer Str. 24, 60311 Frankfurt am Main , Frankfurt — Sat, 20 Apr 2024
 - Union West, Frankfurt — Sat, 21 Oct 2023
-- Silbergold, Frankfurt — Fri, 22 Sept 2023
 
 ## Shares bills with
 
 Markus Fix, ALNA, André Dancekowski
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christietjen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christietjen/)*

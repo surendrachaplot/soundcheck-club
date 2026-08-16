@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 22 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Dachambo「blue dot white line」release tour" on Sat, 15 Aug 2026.
+Club Metro is a music venue in Kyoto with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Dachambo「blue dot white line」release tour" on Sat, 15 Aug 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 22 upcoming nights, with line-ups including Andy Vaz, DMITRI ABSINTHE, Doltz and MAX PELA and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 22 upcoming nights, w
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

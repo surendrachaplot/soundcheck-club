@@ -1,14 +1,13 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
+Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at FOLD, London on Fri, 21 Aug 2026.
 
-Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Floyd, Miami on Sat 15 Aug.
+Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: FOLD, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Floyd | Miami |
 | Fri, 21 Aug 2026 | FOLD | London |
 | Sat, 29 Aug 2026 | Ratpack Piano Bar | Edinburgh |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,6 +19,7 @@ Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets 
 
 ## Recently played
 
+- Floyd, Miami — Sat, 15 Aug 2026
 - Refuge, New York City — Fri, 14 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 2 Aug 2026
 - NUMBER 90 LONDON, London — Fri, 17 Jul 2026
@@ -27,10 +27,9 @@ Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets 
 - Refuge, New York City — Fri, 3 Jul 2026
 - Avenida Doctor Marañon 17, Barcelona, Barcelona — Sun, 21 Jun 2026
 - Bikini Club, Barcelona — Fri, 19 Jun 2026
-- High Lights - Barking Park, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

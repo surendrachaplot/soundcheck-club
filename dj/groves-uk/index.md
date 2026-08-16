@@ -1,6 +1,6 @@
 # Groves
 
-Groves is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 93 Feet East, London on Sat, 10 Oct 2026.
+Groves is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 93 Feet East, London on Sat, 10 Oct 2026.
 
 Groves is a house artist tracked on soundcheck, with 7 sets logged across Bristol, London and Manchester. Often billed alongside Dan Cowan, Lewis Carroll and Talieu. Next up: 93 Feet East, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Groves is a house artist tracked on soundcheck, with 7 sets logged across Bristo
 
 Dan Cowan, Lewis Carroll, Talieu
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*

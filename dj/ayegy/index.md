@@ -1,6 +1,6 @@
 # AYEGY
 
-AYEGY is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+AYEGY is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 AYEGY is an electronica and techno artist tracked on soundcheck, with 8 sets logged across London, Losangeles, Newyorkcity and Toronto. Often billed alongside Boysinblush, Patch+ and Cold Hippie. Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ AYEGY is an electronica and techno artist tracked on soundcheck, with 8 sets log
 
 Boysinblush, Patch+, Cold Hippie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayegy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayegy/)*

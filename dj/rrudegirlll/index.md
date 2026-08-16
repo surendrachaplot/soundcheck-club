@@ -1,6 +1,6 @@
 # RRUDEGIRLLL
 
-RRUDEGIRLLL is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+RRUDEGIRLLL is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 RRUDEGIRLLL is a techno and baile funk artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside LOVECAT, Nina Pixina and JONE OF ARX. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ RRUDEGIRLLL is a techno and baile funk artist tracked on soundcheck, with 11 set
 
 LOVECAT, Nina Pixina, JONE OF ARX
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*

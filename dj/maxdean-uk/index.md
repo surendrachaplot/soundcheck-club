@@ -1,15 +1,13 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Magazine Open–Air, London on Sat, 15 Aug 2026.
+Max Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
 
-Max Dean is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Magazine Open–Air, London on Sat 15 Aug.
+Max Dean is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: [UNVRS], Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Magazine Open–Air | London |
-| Sat, 15 Aug 2026 | Magazine Open–Air | London |
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
@@ -20,20 +18,21 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 224 sets l
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
+| Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Magazine Open–Air, London — Sat, 15 Aug 2026
+- Magazine Open–Air, London — Sat, 15 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 14 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - Brooklyn Storehouse, New York City — Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 21 Jul 2026
-- Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

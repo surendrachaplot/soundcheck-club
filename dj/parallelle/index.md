@@ -1,6 +1,6 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
+Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
 
 Parallelle is a house and deep house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside CamelPhat, DJ Tennis and Damian Lazarus. Next up: Quinta do Miratejo, Lisbon on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Parallelle is a house and deep house artist tracked on soundcheck, with 103 sets
 
 CamelPhat, DJ Tennis, Damian Lazarus
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

@@ -1,14 +1,13 @@
 # The Knockout
 
-The Knockout is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Freakstyle Posse" on Sat, 15 Aug 2026.
+The Knockout is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "After Dark - 'This Is Electro'" on Thu, 20 Aug 2026.
 
-The Knockout is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Digital KitKat and Guerrilla Pump. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
+The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Freakstyle Posse | Digital KitKat, Guerrilla Pump |
 | Thu, 20 Aug 2026 | After Dark - 'This Is Electro' |  |
 | Thu, 17 Sept 2026 | After Dark Industrial Dance Party |  |
 
@@ -16,4 +15,4 @@ The Knockout is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming n
 
 3223 Mission Street, San Francisco, CA 94110, United States, San Francisco/Oakland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*

@@ -1,6 +1,6 @@
 # Arushi Jain
 
-Arushi Jain is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
+Arushi Jain is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
 
 Arushi Jain is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 25 sets logged across Copenhagen, Dublin, London and Losangeles and 6 more. Often billed alongside Baby Leo, Aurora Halal and BASHKKA. Next up: Pageant, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Arushi Jain is an ambient and experimental artist based in United States of Amer
 
 Baby Leo, Aurora Halal, BASHKKA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arushijain/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arushijain/)*

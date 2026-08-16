@@ -1,14 +1,13 @@
 # Cantina Social
 
-Cantina Social is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Pigs Kaput" on Sat, 15 Aug 2026.
+Cantina Social is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Patso" on Sun, 16 Aug 2026.
 
-Cantina Social is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including Lockbird, Patso and Pigs Kaput. Browse upcoming dates, start times and who's playing. Leokoriou 6-8, Athens 10554, Greece.
+Cantina Social is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Lockbird and Patso. Browse upcoming dates, start times and who's playing. Leokoriou 6-8, Athens 10554, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Pigs Kaput | Pigs Kaput |
 | Sun, 16 Aug 2026 | Patso | Patso |
 | Wed, 19 Aug 2026 | Lockbird | Lockbird |
 
@@ -16,4 +15,4 @@ Cantina Social is a music venue in Athens listed on soundcheck. 3 upcoming night
 
 Leokoriou 6-8, Athens 10554, Greece, Athens
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*

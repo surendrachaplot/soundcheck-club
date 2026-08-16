@@ -1,6 +1,6 @@
 # jo_sway
 
-jo_sway is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
+jo_sway is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
 
 jo_sway is a club and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside purp, Bodegaparty and NoahG. Next up: Paragon, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ jo_sway is a club and techno artist based in United States of America, tracked o
 
 purp, Bodegaparty, NoahG
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*

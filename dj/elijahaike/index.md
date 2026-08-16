@@ -1,6 +1,6 @@
 # Elijah Aike
 
-Elijah Aike is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri, 28 Aug 2026.
+Elijah Aike is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri, 28 Aug 2026.
 
 Elijah Aike is an electro and experimental artist tracked on soundcheck, with 8 sets logged across Auckland, London and Singapore. Often billed alongside Gato.at, Coupdekat and Crystal Murray. Next up: TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Elijah Aike is an electro and experimental artist tracked on soundcheck, with 8 
 
 Gato.at, Coupdekat, Crystal Murray
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahaike/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahaike/)*

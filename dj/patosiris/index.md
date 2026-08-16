@@ -1,6 +1,6 @@
 # Pat Osiris
 
-Pat Osiris is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Marble Bar, Detroit on Thu, 8 Oct 2026.
+Pat Osiris is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Marble Bar, Detroit on Thu, 8 Oct 2026.
 
 Pat Osiris is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside Adam Ortiz, Andrea Kalajian and Antwon Faulkner. Next up: Marble Bar, Detroit on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Pat Osiris is a house and drum & bass artist based in United States of America, 
 
 Adam Ortiz, Andrea Kalajian, Antwon Faulkner
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patosiris/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patosiris/)*

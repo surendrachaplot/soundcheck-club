@@ -1,6 +1,6 @@
 # Yiye
 
-Yiye is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+Yiye is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 Yiye is a techno and dub techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Berlin and Madrid. Often billed alongside Redondoo, K1000o and Oscar Blue. Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Yiye is a techno and dub techno artist based in Spain, tracked on soundcheck, wi
 
 Redondoo, K1000o, Oscar Blue
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiye/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiye/)*

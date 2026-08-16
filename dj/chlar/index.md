@@ -1,14 +1,13 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Chlär is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Prince Charles, Berlin on Sat, 22 Aug 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Chlär is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Prince Charles, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | Prince Charles | Berlin |
 | Fri, 28 Aug 2026 | Studio Club Malaga | Malaga |
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
@@ -35,4 +34,4 @@ Chlär is a techno and house artist tracked on soundcheck, with 246 sets logged 
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

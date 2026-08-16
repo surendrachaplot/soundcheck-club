@@ -1,18 +1,18 @@
 # Monrroe
 
-Monrroe is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Monrroe is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Monrroe is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Bali and Bangkok and 28 more. Often billed alongside Duskee, Emily Makis and GLXY. Next up: Lofi, Amsterdam on Sat 15 Aug.
+Monrroe is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Bali and Bangkok and 28 more. Often billed alongside Duskee, Emily Makis and GLXY. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 15 Aug 2026
 - Tägi, Zurich — Fri, 10 Jul 2026
 - The Full Moon Pub & Attic Bar, Bristol — Sat, 20 Jun 2026
 - High Lights - Barking Park, London — Sun, 31 May 2026
@@ -20,10 +20,9 @@ Monrroe is a drum & bass and jungle artist based in United Kingdom, tracked on s
 - Kola Club, Portsmouth — Sat, 23 May 2026
 - Plot 22, Sheffield — Fri, 1 May 2026
 - Beaver Works, Leeds — Sun, 19 Apr 2026
-- Grelle Forelle, Vienna — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Duskee, Emily Makis, GLXY
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monrroe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monrroe/)*

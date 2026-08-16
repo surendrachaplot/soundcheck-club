@@ -1,15 +1,13 @@
 # Midline
 
-Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "TroyBoi MIAMI" on Sat, 15 Aug 2026.
+Midline is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "slayr presents: Half Blood Tour MIAMI" on Tue, 18 Aug 2026.
 
-Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex and 1 more. Browse upcoming dates, start times and who's playing.
+Midline is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TroyBoi MIAMI | TroyBoi |
-| Sat, 15 Aug 2026 | BabyChiefDoit - RAMBO TOUR MIAMI |  |
 | Tue, 18 Aug 2026 | slayr presents: Half Blood Tour MIAMI |  |
 | Fri, 28 Aug 2026 | Collegiate Nightlife presents: Jake Shore MIAMI |  |
 | Sat, 5 Sept 2026 | Andrew Power MIAMI | Andre Power |
@@ -18,5 +16,7 @@ Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with
 | Sat, 3 Oct 2026 | Akeem Ali: The Texture Tour |  |
 | Fri, 9 Oct 2026 | Starjunk 95 MIAMI |  |
 | Sat, 17 Oct 2026 | Mose MIAMI | Mose |
+| Tue, 20 Oct 2026 | ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR |  |
+| Sat, 31 Oct 2026 | DJ Habibeats MIAMI | DJ Habibeats |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

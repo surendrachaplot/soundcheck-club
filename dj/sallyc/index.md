@@ -1,14 +1,13 @@
 # Sally C
 
-Sally C is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sally C is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 22 Aug 2026.
 
-Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Ushuaïa Ibiza, Ibiza on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
@@ -33,4 +32,4 @@ Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

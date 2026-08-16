@@ -1,6 +1,6 @@
 # Pimpernel
 
-Pimpernel is a music venue in Munich with 35 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Pimpernel All Night Long" on Sat, 15 Aug 2026.
+Pimpernel is a music venue in Munich with 35 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Pimpernel All Night Long" on Sat, 15 Aug 2026.
 
 Pimpernel is a music venue in Munich listed on soundcheck. 35 upcoming nights, with line-ups including Basti Grub, Capitan Lalo, JAN RIEG and Luvin'Lou and 2 more. Browse upcoming dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
 
@@ -23,4 +23,4 @@ Pimpernel is a music venue in Munich listed on soundcheck. 35 upcoming nights, w
 
 Müllerstr. 56; 80469 Munich; Germany, Munich
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*

@@ -1,6 +1,6 @@
 # Eichenbaum
 
-Eichenbaum is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
+Eichenbaum is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
 
 Eichenbaum is a progressive house and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Auckland and Budapest and 2 more. Often billed alongside Guy J, Sasha and Franky Wah. Next up: Parník Tyrš, Prague on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Eichenbaum is a progressive house and house artist tracked on soundcheck, with 1
 
 Guy J, Sasha, Franky Wah
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*

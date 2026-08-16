@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 15 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "2HARD4U (HARDTECHNO)" on Sat, 15 Aug 2026.
+Baalsaal is a music venue in Hamburg with 15 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "2HARD4U (HARDTECHNO)" on Sat, 15 Aug 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming nights, with line-ups including Aliha, dannycookin, Kaizen and ROOB and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming nights, w
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

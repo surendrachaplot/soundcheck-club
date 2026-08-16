@@ -1,6 +1,6 @@
 # Rage.inald
 
-Rage.inald is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
+Rage.inald is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
 
 Rage.inald is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity and Philadelphia. Often billed alongside Raw Unkut, MIRA MIRA and Pamela_ and her sons. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Rage.inald is a techno and house artist based in United States of America, track
 
 Raw Unkut, MIRA MIRA, Pamela_ and her sons
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*

@@ -1,6 +1,6 @@
 # Remzcore
 
-Remzcore is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Remzcore is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Remzcore is a hardcore and techno artist based in France, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Brussels and Cologne and 7 more. Often billed alongside Dimitri K, Angerfist and Russian Village Boys. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Remzcore is a hardcore and techno artist based in France, tracked on soundcheck,
 
 Dimitri K, Angerfist, Russian Village Boys
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remzcore/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remzcore/)*

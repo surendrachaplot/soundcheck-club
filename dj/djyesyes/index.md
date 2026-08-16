@@ -1,6 +1,6 @@
 # DJ yesyes
 
-DJ yesyes is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cakeshop, Seoul on Sun, 16 Aug 2026.
+DJ yesyes is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cakeshop, Seoul on Sun, 16 Aug 2026.
 
 DJ yesyes is a techno and gabber artist tracked on soundcheck, with 21 sets logged across Seoul, Stockholm and Tokyo. Often billed alongside Yetsuby, Shins and Arexibo. Next up: Cakeshop, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ DJ yesyes is a techno and gabber artist tracked on soundcheck, with 21 sets logg
 
 Yetsuby, Shins, Arexibo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*

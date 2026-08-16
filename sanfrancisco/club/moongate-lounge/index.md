@@ -1,6 +1,6 @@
 # Moongate Lounge
 
-Moongate Lounge is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "DJ SWISHA" on Thu, 20 Aug 2026.
+Moongate Lounge is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "DJ SWISHA" on Thu, 20 Aug 2026.
 
 Moongate Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including DJ SWISHA. Browse upcoming dates, start times and who's playing. 28 Waverly Pl San Francisco, CA 94061 United States.
 
@@ -14,4 +14,4 @@ Moongate Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcomin
 
 28 Waverly Pl San Francisco, CA 94061 United States, San Francisco/Oakland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moongate-lounge/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moongate-lounge/)*

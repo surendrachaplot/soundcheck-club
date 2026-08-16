@@ -1,6 +1,6 @@
 # RAINBIRD
 
-RAINBIRD is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
+RAINBIRD is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
 
 RAINBIRD is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Belfast, Liverpool and Prague. Often billed alongside LOOKY, ERIC LINDSAY and Em Rainbird. Next up: The Temple, Belfast on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RAINBIRD is a techno and hardcore artist based in United Kingdom, tracked on sou
 
 LOOKY, ERIC LINDSAY, Em Rainbird
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbird/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbird/)*

@@ -1,6 +1,6 @@
 # Frag Maddin
 
-Frag Maddin is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Giselle, Düsseldorf on Fri, 28 Aug 2026.
+Frag Maddin is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Giselle, Düsseldorf on Fri, 28 Aug 2026.
 
 Frag Maddin is a house artist tracked on soundcheck, with 3 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside AVA Irandoost, Borella and Crille & Tamalt. Next up: Giselle, Dusseldorf on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Frag Maddin is a house artist tracked on soundcheck, with 3 sets logged across B
 
 AVA Irandoost, Borella, Crille & Tamalt
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fragmaddin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fragmaddin/)*

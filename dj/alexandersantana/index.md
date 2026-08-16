@@ -1,6 +1,6 @@
 # Alexander Santana
 
-Alexander Santana is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
+Alexander Santana is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
 
 Alexander Santana is a trance and techno artist tracked on soundcheck, with 11 sets logged across Copenhagen. Often billed alongside Lead Ore, Kardinal Bertram and Anna Logic. Next up: Den Anden Side, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Alexander Santana is a trance and techno artist tracked on soundcheck, with 11 s
 
 Lead Ore, Kardinal Bertram, Anna Logic
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandersantana/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandersantana/)*

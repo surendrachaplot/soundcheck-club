@@ -1,6 +1,6 @@
 # Otal
 
-Otal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
+Otal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
 
 Otal is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside SELESSA T., Elie Bukassa and Viénce. Next up: Coco Boule, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Otal is a house and techno artist tracked on soundcheck, with 27 sets logged acr
 
 SELESSA T., Elie Bukassa, Viénce
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otal/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otal/)*

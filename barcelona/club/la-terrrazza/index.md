@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ERROR404 pres. KALAHARI OYSTER CULT" on Sat, 15 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ERROR404 pres. KALAHARI OYSTER CULT" on Sat, 15 Aug 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including Belu Rodriguez, BRU ON, caskobi and Cesar Martino and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

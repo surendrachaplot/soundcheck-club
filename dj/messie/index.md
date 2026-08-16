@@ -1,6 +1,6 @@
 # MESSIE
 
-MESSIE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
+MESSIE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
 MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck, with 17 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 7 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck,
 
 Arthi, Anish Kumar, Bushbby
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*

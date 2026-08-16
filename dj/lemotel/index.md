@@ -1,6 +1,6 @@
 # Le Motel
 
-Le Motel is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Le Motel is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 Le Motel is a bass and techno artist based in Belgium, tracked on soundcheck, with 43 sets logged across Antwerp, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Magugu, ojoo and AliA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Le Motel is a bass and techno artist based in Belgium, tracked on soundcheck, wi
 
 Magugu, ojoo, AliA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*

@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "9/4 Otoconia House Music Social Ft. Leira, Sloth, & Trinitron" on Fri, 4 Sept 2026.
+Crystal Lounge is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "9/4 Otoconia House Music Social Ft. Leira, Sloth, & Trinitron" on Fri, 4 Sept 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Julie Herrera, Leira and Trinitron. Browse upcoming dates, start times and who's playing. 2008 1st Ave.
 
@@ -18,4 +18,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming nigh
 
 2008 1st Ave, Seattle
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

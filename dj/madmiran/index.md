@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
+mad miran is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 mad miran is a techno and bass artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: FOLD, London on Sat 15 Aug.
 
@@ -19,6 +19,7 @@ mad miran is a techno and bass artist tracked on soundcheck, with 193 sets logge
 
 ## Recently played
 
+- FOLD, London — Sat, 15 Aug 2026
 - Radio Radio, Amsterdam — Fri, 14 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -26,10 +27,9 @@ mad miran is a techno and bass artist tracked on soundcheck, with 193 sets logge
 - BLITZ, Munich — Sat, 18 Jul 2026
 - CLUB RAUM, Amsterdam — Fri, 3 Jul 2026
 - Nowadays, New York City — Sat, 6 Jun 2026
-- TBA, Los Angeles — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

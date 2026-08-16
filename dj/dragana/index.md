@@ -1,6 +1,6 @@
 # Dragana
 
-Dragana is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Dragana is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Dragana is a house and minimal artist tracked on soundcheck, with 20 sets logged across Berlin, Buenosaires, Lisbon and London and 4 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dragana is a house and minimal artist tracked on soundcheck, with 20 sets logged
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*

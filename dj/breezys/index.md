@@ -1,6 +1,6 @@
 # Breezy S
 
-Breezy S is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
+Breezy S is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
 
 Breezy S is a house and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Mikaella, Miguel Silva and Djoan. Next up: Sunseabar Beach Club, Barcelona on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Breezy S is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Mikaella, Miguel Silva, Djoan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*

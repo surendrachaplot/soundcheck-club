@@ -1,6 +1,6 @@
 # VCR (1)
 
-VCR (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+VCR (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 VCR (1) is an electronic artist tracked on soundcheck, with 20 sets logged across Brussels, Copenhagen, Ghent and Paris and 1 more. Often billed alongside KŌMA (3), CAAG and Casper. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ VCR (1) is an electronic artist tracked on soundcheck, with 20 sets logged acros
 
 KŌMA (3), CAAG, Casper
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vcr-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vcr-1/)*

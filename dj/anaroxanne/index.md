@@ -1,6 +1,6 @@
 # Ana Roxanne
 
-Ana Roxanne is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The White Hotel, Manchester on Wed, 4 Nov 2026.
+Ana Roxanne is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The White Hotel, Manchester on Wed, 4 Nov 2026.
 
 Ana Roxanne is an experimental and ambient artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Brussels and Glasgow and 10 more. Often billed alongside DJ Python, Dreamcrusher and ojoo. Next up: The White Hotel, Manchester on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Ana Roxanne is an experimental and ambient artist tracked on soundcheck, with 22
 
 DJ Python, Dreamcrusher, ojoo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*

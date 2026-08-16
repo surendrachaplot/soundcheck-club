@@ -1,6 +1,6 @@
 # Madtronik
 
-Madtronik is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Madtronik is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 Madtronik is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside 69DB, Ixindamix and SP23. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ Madtronik is a techno and acid artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- Gaffe, London — Sat, 15 Aug 2026
 - Distillery N17, London — Sat, 18 Oct 2025
 - Distillery N17, London — Sat, 20 Sept 2025
 
@@ -21,4 +22,4 @@ Madtronik is a techno and acid artist based in United Kingdom, tracked on soundc
 
 69DB, Ixindamix, SP23
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madtronik/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madtronik/)*

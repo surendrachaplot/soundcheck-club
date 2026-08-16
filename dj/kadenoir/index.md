@@ -1,6 +1,6 @@
 # Kade Noir
 
-Kade Noir is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Kade Noir is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Kade Noir is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Zuid Void, Donkerdok and Levin Schwarz. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Kade Noir is a techno and hardcore artist based in Netherlands, tracked on sound
 
 Zuid Void, Donkerdok, Levin Schwarz
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kadenoir/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kadenoir/)*

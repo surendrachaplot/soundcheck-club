@@ -1,6 +1,6 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Meduza | G.Siras" on Sat, 15 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Meduza | G.Siras" on Sat, 15 Aug 2026.
 
 Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 7 upcoming nights, with line-ups including Agent Greg, Argie, David Morales and Diplo and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
@@ -20,4 +20,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 7 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

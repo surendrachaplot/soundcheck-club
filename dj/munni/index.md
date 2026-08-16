@@ -1,6 +1,6 @@
 # MUNNI
 
-MUNNI is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
+MUNNI is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
 
 MUNNI is a club and experimental artist tracked on soundcheck, with 26 sets logged across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: fabric, London on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ MUNNI is a club and experimental artist tracked on soundcheck, with 26 sets logg
 
 Jelsen, Madjestic Kasual, Organ Tapes
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*

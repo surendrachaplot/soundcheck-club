@@ -1,6 +1,6 @@
 # Pessimist
 
-Pessimist is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+Pessimist is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
 Pessimist is a drum & bass and bass artist tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Berlin and Birmingham and 14 more. Often billed alongside Anina, Clarity and Mackenzie (UK). Next up: M.O.T, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pessimist is a drum & bass and bass artist tracked on soundcheck, with 42 sets l
 
 Anina, Clarity, Mackenzie (UK)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pessimist/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pessimist/)*

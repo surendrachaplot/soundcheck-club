@@ -1,6 +1,6 @@
 # NOV1K
 
-NOV1K is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
+NOV1K is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Bar Schodki, Warsaw on Fri, 21 Aug 2026.
 
 NOV1K is a garage and bass artist based in Poland, tracked on soundcheck, with 26 sets logged across Krakow and Warsaw. Often billed alongside Kogiel, dj.zamocno and Sarba. Next up: TBA - Bar Schodki, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NOV1K is a garage and bass artist based in Poland, tracked on soundcheck, with 2
 
 Kogiel, dj.zamocno, Sarba
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*

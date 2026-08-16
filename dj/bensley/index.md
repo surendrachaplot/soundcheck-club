@@ -1,6 +1,6 @@
 # Bensley
 
-Bensley is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 16 Aug 2026.
+Bensley is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 16 Aug 2026.
 
 Bensley is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Auckland, Brisbane, Bristol and Denver and 10 more. Often billed alongside Anny (UK), Kaizah and MC Ridda. Next up: F8 1192 Folsom, Sanfrancisco on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Bensley is a drum & bass and jungle artist tracked on soundcheck, with 17 sets l
 
 Anny (UK), Kaizah, MC Ridda
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*

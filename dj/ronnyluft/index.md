@@ -1,6 +1,6 @@
 # Ronny Luft
 
-Ronny Luft is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+Ronny Luft is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 Ronny Luft is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside Felix Reichelt, Cat Vermillion and Kaminka Merel. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -9,23 +9,21 @@ Ronny Luft is a techno and house artist tracked on soundcheck, with 36 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Void Club | Berlin |
-| Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
-| Sat, 15 Aug 2026 | Golden Flamingo | Berlin |
 | Fri, 28 Aug 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 15 Aug 2026
+- Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
+- Golden Flamingo, Berlin — Sat, 15 Aug 2026
 - Der Weiße Hase, Berlin — Fri, 3 Jul 2026
 - Golden Flamingo, Berlin — Sat, 13 Jun 2026
 - Der Weiße Hase, Berlin — Fri, 5 Jun 2026
 - Der Weiße Hase, Berlin — Fri, 29 May 2026
 - Void Club, Berlin — Fri, 15 May 2026
-- Der Weiße Hase, Berlin — Sat, 25 Apr 2026
-- Der Weiße Hase, Berlin — Fri, 27 Mar 2026
-- Golden Flamingo, Berlin — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Felix Reichelt, Cat Vermillion, Kaminka Merel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*

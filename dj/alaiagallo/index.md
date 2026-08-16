@@ -1,6 +1,6 @@
 # Alaia & Gallo
 
-Alaia & Gallo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 15 Aug 2026.
+Alaia & Gallo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Alaia & Gallo are a house and tech house duo based in Italy, tracked on soundcheck, with 5 sets logged across Ibiza and Naples. Often billed alongside Alex Delmar, DJ Le Baron and Femmebot Grooves. Next up: Chinois Ibiza, Ibiza on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Alaia & Gallo are a house and tech house duo based in Italy, tracked on soundche
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Sat, 15 Aug 2026
 - Vybe Ibiza, Ibiza — Sun, 18 May 2025
 - Ibiza Jet, Ibiza — Sun, 18 May 2025
 - Ibiza Jet, Ibiza — Sat, 17 May 2025
@@ -21,4 +22,4 @@ Alaia & Gallo are a house and tech house duo based in Italy, tracked on soundche
 
 Alex Delmar, DJ Le Baron, Femmebot Grooves
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alaiagallo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alaiagallo/)*

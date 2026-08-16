@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ESTRELLA & PHIA b2b 36framez" on Sat, 15 Aug 2026.
+nachbar is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ESTRELLA & PHIA b2b 36framez" on Sat, 15 Aug 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, AEZARYA, angelboy and ESTRELLA and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, 
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

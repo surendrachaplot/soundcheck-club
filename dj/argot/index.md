@@ -1,6 +1,6 @@
 # ARGOT
 
-ARGOT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+ARGOT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
 ARGOT is a trance and techno artist based in France, tracked on soundcheck, with 3 sets logged across Berlin and Paris. Often billed alongside ADB (FR), Amøn and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ ARGOT is a trance and techno artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - Kilomètre25, Paris — Thu, 23 Jul 2026
 - Rex Club, Paris — Wed, 18 Feb 2026
 
@@ -19,4 +20,4 @@ ARGOT is a trance and techno artist based in France, tracked on soundcheck, with
 
 ADB (FR), Amøn, Cara Elizabeth
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argot/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argot/)*

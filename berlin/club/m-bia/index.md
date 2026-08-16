@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon" on Sat, 15 Aug 2026.
+M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon" on Sat, 15 Aug 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and Daniela Hensel and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

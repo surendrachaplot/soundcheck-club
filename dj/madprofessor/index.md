@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Fidelity Studio, Dublin on Thu, 20 Aug 2026.
+Mad Professor is a Dub and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fidelity Studio, Dublin on Thu, 20 Aug 2026.
 
 Mad Professor is a dub and bass artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Fidelity Studio, Dublin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 64 sets logge
 
 DjRUM, Tash LC, Arsenal Mikebe
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

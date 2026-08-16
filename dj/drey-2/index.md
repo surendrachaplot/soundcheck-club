@@ -1,6 +1,6 @@
 # DREY (UK)
 
-DREY (UK) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+DREY (UK) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton and London. Often billed alongside Donut, LORA S and Max Sinàl. Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on 
 
 Donut, LORA S, Max Sinàl
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*

@@ -1,6 +1,6 @@
 # Malibu
 
-Malibu is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Malibu is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Malibu is an ambient and experimental artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside ESP, Nick León and ojoo. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Malibu is an ambient and experimental artist tracked on soundcheck, with 71 sets
 
 ESP, Nick León, ojoo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*

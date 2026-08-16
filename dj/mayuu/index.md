@@ -1,6 +1,6 @@
 # Mayuu
 
-Mayuu is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Speakerbox, Bangkok on Sun, 16 Aug 2026.
+Mayuu is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Speakerbox, Bangkok on Sun, 16 Aug 2026.
 
 Mayuu is a techno and electronica artist based in Thailand, tracked on soundcheck, with 13 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Eizu 映図 and DukeDumb. Next up: Speakerbox, Bangkok on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Mayuu is a techno and electronica artist based in Thailand, tracked on soundchec
 
 DJ Krit Morton, Eizu 映図, DukeDumb
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuu/)*

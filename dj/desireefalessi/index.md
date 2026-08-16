@@ -1,6 +1,6 @@
 # Desirée Falessi
 
-Desirée Falessi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Desirée Falessi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -15,6 +15,7 @@ Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 set
 
 ## Recently played
 
+- Kater, Berlin — Sat, 15 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Renate, Berlin — Fri, 17 Jul 2026
 - Sunseabar Beach Club, Barcelona — Tue, 23 Jun 2026
@@ -22,10 +23,9 @@ Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 set
 - Kaos Berlin, Berlin — Sun, 7 Jun 2026
 - TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris — Fri, 5 Jun 2026
 - Mtkvarze, Tbilisi — Fri, 15 May 2026
-- OST, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 Magda, Monile, Enrica Falqui
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*

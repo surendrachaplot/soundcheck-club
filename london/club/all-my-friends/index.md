@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Type One Community: Hackney Wick Residency - Free Entry" on Fri, 21 Aug 2026.
+All My Friends is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Type One Community: Hackney Wick Residency - Free Entry" on Fri, 21 Aug 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including KT, Eddie Richards, Kyle Parsley and Ryan Jones. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -16,4 +16,4 @@ All My Friends is a music venue in London listed on soundcheck. 3 upcoming night
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

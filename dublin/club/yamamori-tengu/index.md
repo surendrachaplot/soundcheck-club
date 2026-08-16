@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Giovanni Grooves" on Sat, 15 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 18 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Research x Hidden Love: ANNĒ" on Fri, 21 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 18 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Giovanni Grooves | DJ Get Luc(y) |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
 | Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Jacky Murda, Rub A Dub HiFi |
 | Fri, 28 Aug 2026 | Four Four presents: Future Éire at Tengu |  |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nigh
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show |  |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - Second Show |  |
 | Fri, 11 Sept 2026 | Club Comfort presents: JD REID | JD. REID, Roo Honeychild, Selky |
+| Sat, 12 Sept 2026 | District X Afters: Tengu |  |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

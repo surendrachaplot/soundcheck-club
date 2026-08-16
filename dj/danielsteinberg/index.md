@@ -1,6 +1,6 @@
 # Daniel Steinberg
 
-Daniel Steinberg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
+Daniel Steinberg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
 
 Daniel Steinberg is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Milan and Toronto. Often billed alongside Kristin Velvet, BB Deng and Nils Ohrmann. Next up: Club der Visionaere, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Daniel Steinberg is a house and tech house artist based in Germany, tracked on s
 
 Kristin Velvet, BB Deng, Nils Ohrmann
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsteinberg/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsteinberg/)*

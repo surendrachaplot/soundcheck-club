@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
+Louise Plus One is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
 
 Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 112 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Colour Factory, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 112 
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

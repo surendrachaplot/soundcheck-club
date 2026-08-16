@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+D.Dan is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 28 Aug 2026 | Karmakoma | Belgrade |
@@ -20,9 +19,11 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
+| Sun, 11 Oct 2026 | VENT | Tokyo |
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 15 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - CLUB RAUM, Amsterdam — Fri, 31 Jul 2026
 - Motel Campo, Geneva — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 - The Bassement, Madrid — Sat, 4 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 27 Jun 2026
 - 24 Kitchen Street, Liverpool — Fri, 26 Jun 2026
-- The Cause, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

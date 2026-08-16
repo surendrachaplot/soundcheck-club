@@ -1,6 +1,6 @@
 # Lunara
 
-Lunara is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lion Super Club, Seoul on Fri, 21 Aug 2026.
+Lunara is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lion Super Club, Seoul on Fri, 21 Aug 2026.
 
 Lunara is a techno artist tracked on soundcheck, with 3 sets logged across Berlin, London and Seoul. Often billed alongside ANXHELA, Anton Kubikov and Gforty. Next up: Lion Super Club, Seoul on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Lunara is a techno artist tracked on soundcheck, with 3 sets logged across Berli
 
 ANXHELA, Anton Kubikov, Gforty
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunara/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunara/)*

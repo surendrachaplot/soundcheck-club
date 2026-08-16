@@ -1,8 +1,8 @@
 # NAP (MX)
 
-NAP (MX) is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Standard Time, Toronto on Fri, 21 Aug 2026.
+NAP (MX) is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Standard Time, Toronto on Fri, 21 Aug 2026.
 
-NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 13 more. Often billed alongside rodman, Ana Armada and Jimeno Arnaud. Next up: Standard Time, Toronto on Fri 21 Aug.
+NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 14 more. Often billed alongside rodman, Ana Armada and Jimeno Arnaud. Next up: Standard Time, Toronto on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NAP (MX) is a house and downtempo artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Standard Time | Toronto |
 | Sat, 29 Aug 2026 | public records | New York City |
+| Sat, 5 Sept 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ NAP (MX) is a house and downtempo artist based in United States of America, trac
 
 rodman, Ana Armada, Jimeno Arnaud
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

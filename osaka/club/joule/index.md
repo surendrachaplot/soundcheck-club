@@ -1,15 +1,13 @@
 # Joule
 
-Joule is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY-" on Wed, 12 Aug 2026.
+Joule is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Juan Atkins JAPAN TOUR" on Fri, 28 Aug 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including ALESSA(JP), DJ Compufunk, DJ HI-C and Drunken Kong and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including DJ Compufunk, DJ HI-C, Drunken Kong and Juan Atkins and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY- | NOBUYA (2), O-MAN |
-| Sat, 15 Aug 2026 | NERVE - O-MAN BIRTHDAY BASH | ALESSA(JP), Drunken Kong, HK. (1), KILLIN, NOBUYA (2), O-MAN, YOKO aka LAiR |
 | Fri, 28 Aug 2026 | Juan Atkins JAPAN TOUR | DJ Compufunk, DJ HI-C, Juan Atkins |
 | Sat, 12 Sept 2026 | INTENTION OSAKA | Drunken Kong, MARIHO, NOBUYA (2), Nao Nomura, O-MAN, RICHKID, Satoshi Tanaka, YOKO aka LAiR, yu-more |
 
@@ -17,4 +15,4 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

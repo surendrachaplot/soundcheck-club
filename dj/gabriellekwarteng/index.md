@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
 
 Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Skatecafe, Amsterdam on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 231 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

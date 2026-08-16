@@ -1,6 +1,6 @@
 # da Graca Brothers
 
-da Graca Brothers is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Yellow House, Amsterdam on Fri, 21 Aug 2026.
+da Graca Brothers is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Yellow House, Amsterdam on Fri, 21 Aug 2026.
 
 da Graca Brothers is a house and electronica artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Buenosaires and Milan. Often billed alongside Boyos Soundsystem, Franco Strato and Bevan. Next up: Yellow House, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ da Graca Brothers is a house and electronica artist based in Netherlands, tracke
 
 Boyos Soundsystem, Franco Strato, Bevan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagracabrothers/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagracabrothers/)*

@@ -1,6 +1,6 @@
 # SUDDEN DEATH
 
-SUDDEN DEATH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+SUDDEN DEATH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 SUDDEN DEATH is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Nymphostar, &more and jo_sway. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ SUDDEN DEATH is a techno and house artist based in United States of America, tra
 
 Nymphostar, &more, jo_sway
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suddendeath/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suddendeath/)*

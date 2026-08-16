@@ -1,6 +1,6 @@
 # Tracy Mayy
 
-Tracy Mayy is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at YOTO, Hamburg on Fri, 21 Aug 2026.
+Tracy Mayy is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at YOTO, Hamburg on Fri, 21 Aug 2026.
 
 Tracy Mayy is an afrobeats and afro house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside DJ Boas and Kofi Ryan. Next up: YOTO, Hamburg on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Tracy Mayy is an afrobeats and afro house artist based in Germany, tracked on so
 
 DJ Boas, Kofi Ryan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tracymayy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tracymayy/)*

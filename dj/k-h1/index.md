@@ -1,6 +1,6 @@
 # K-H1
 
-K-H1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+K-H1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 K-H1 is a techno and house artist based in Russia, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg and London. Often billed alongside Khloe, SIMZ (DE) and Charlie.. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ K-H1 is a techno and house artist based in Russia, tracked on soundcheck, with 1
 
 Khloe, SIMZ (DE), Charlie.
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-h1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-h1/)*

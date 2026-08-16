@@ -1,6 +1,6 @@
 # tee.tee
 
-tee.tee is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+tee.tee is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 tee.tee is a deep house and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside elliephunk, Camilla Rae and Organza. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ tee.tee is a deep house and techno artist tracked on soundcheck, with 3 sets log
 
 elliephunk, Camilla Rae, Organza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tee.tee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tee.tee/)*

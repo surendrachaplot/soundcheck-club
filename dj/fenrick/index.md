@@ -1,14 +1,13 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Fenrick is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
 
-Fenrick is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Fenrick is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: E1, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 28 Aug 2026 | E1 | London |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
@@ -31,4 +30,4 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 124 sets logge
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

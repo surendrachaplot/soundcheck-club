@@ -1,6 +1,6 @@
 # Kaizen
 
-Kaizen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Baalsaal, Hamburg on Sat, 15 Aug 2026.
+Kaizen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Baalsaal, Hamburg on Sat, 15 Aug 2026.
 
 Kaizen is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Belgrade, Brighton, Bristol and Hamburg and 3 more. Often billed alongside TZO (1), Aiden (DE) and LAURIX (DE). Next up: Baalsaal, Hamburg on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Kaizen is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Baalsaal, Hamburg — Sat, 15 Aug 2026
 - Baalsaal, Hamburg — Fri, 17 Jul 2026
 - Kult, Belgrade — Wed, 20 May 2026
 - Abercrombie Hotel, Sydney — Fri, 6 Feb 2026
@@ -25,4 +26,4 @@ Kaizen is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 TZO (1), Aiden (DE), LAURIX (DE)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizen/)*

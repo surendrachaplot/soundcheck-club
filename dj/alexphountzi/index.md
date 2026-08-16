@@ -1,6 +1,6 @@
 # Alex Phountzi
 
-Alex Phountzi is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jumbi, London on Sat, 5 Sept 2026.
+Alex Phountzi is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jumbi, London on Sat, 5 Sept 2026.
 
 Alex Phountzi is a house and broken beat artist tracked on soundcheck, with 10 sets logged across Bristol and London. Often billed alongside IG Culture, Izco and Alexander Nut. Next up: Jumbi, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Alex Phountzi is a house and broken beat artist tracked on soundcheck, with 10 s
 
 IG Culture, Izco, Alexander Nut
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexphountzi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexphountzi/)*

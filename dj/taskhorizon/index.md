@@ -1,6 +1,6 @@
 # Task Horizon
 
-Task Horizon is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Dynamo, Zurich on Fri, 18 Sept 2026.
+Task Horizon is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dynamo, Zurich on Fri, 18 Sept 2026.
 
 Task Horizon is a drum & bass artist tracked on soundcheck, with 10 sets logged across London, Prague and Zurich. Often billed alongside Ekwols, Black Sun Empire and Magnetude. Next up: Dynamo, Zurich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Task Horizon is a drum & bass artist tracked on soundcheck, with 10 sets logged 
 
 Ekwols, Black Sun Empire, Magnetude
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taskhorizon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taskhorizon/)*

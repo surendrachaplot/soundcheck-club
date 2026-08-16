@@ -1,6 +1,6 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at EL SÓTANO, Madrid on Sat, 15 Aug 2026.
+Monty is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at EL SÓTANO, Madrid on Sat, 15 Aug 2026.
 
 Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: EL SÓTANO, Madrid on Sat 15 Aug.
 
@@ -16,6 +16,7 @@ Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logge
 
 ## Recently played
 
+- EL SÓTANO, Madrid — Sat, 15 Aug 2026
 - Insomnia, Berlin — Sat, 18 Jul 2026
 - Insomnia, Berlin — Fri, 10 Jul 2026
 - Grelle Forelle, Vienna — Sat, 20 Jun 2026
@@ -23,10 +24,9 @@ Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logge
 - The Black Box, Denver — Tue, 7 Apr 2026
 - 1720, Los Angeles — Sat, 4 Apr 2026
 - Cervantes' Masterpiece Ballroom, Denver — Fri, 3 Apr 2026
-- Insomnia, Berlin — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Visages, Wiebe Roose, SP:MC
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

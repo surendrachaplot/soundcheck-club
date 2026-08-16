@@ -1,6 +1,6 @@
 # Kekeneko
 
-Kekeneko is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at HVEN, Tokyo on Fri, 21 Aug 2026.
+Kekeneko is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at HVEN, Tokyo on Fri, 21 Aug 2026.
 
 Kekeneko is a club and techno artist tracked on soundcheck, with 16 sets logged across Brighton, London, Manchester and Tokyo. Often billed alongside Loveblade, Seren 4 Ever and Ship Sket. Next up: HVEN, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kekeneko is a club and techno artist tracked on soundcheck, with 16 sets logged 
 
 Loveblade, Seren 4 Ever, Ship Sket
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*

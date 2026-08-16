@@ -1,6 +1,6 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+VOLTMARIE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 VOLTMARIE is a techno and club artist tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside Eminelli, MELIMEKO and ninon.. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VOLTMARIE is a techno and club artist tracked on soundcheck, with 17 sets logged
 
 Eminelli, MELIMEKO, ninon.
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

@@ -1,6 +1,6 @@
 # Forêt
 
-Forêt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
+Forêt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
 
 Forêt is a house and techno artist tracked on soundcheck, with 4 sets logged across Barcelona and Paris. Often billed alongside Maara, NOCH (2) and Rey Colino. Next up: Cabaret Sauvage, Paris on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Forêt is a house and techno artist tracked on soundcheck, with 4 sets logged ac
 
 Maara, NOCH (2), Rey Colino
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forêt/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forêt/)*

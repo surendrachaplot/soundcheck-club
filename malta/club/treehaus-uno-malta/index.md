@@ -1,6 +1,6 @@
 # Treehaus, Uno Malta
 
-Treehaus, Uno Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "PLAYROOM - BIGGEST COMMERCIAL EVENT IN MALTA" on Fri, 21 Aug 2026.
+Treehaus, Uno Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "PLAYROOM - BIGGEST COMMERCIAL EVENT IN MALTA" on Fri, 21 Aug 2026.
 
 Treehaus, Uno Malta is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including MIZAK. Browse upcoming dates, start times and who's playing. Treehaus - Uno Malta, Crafts Village, Ta'Qali - Attard, Ta' Qali, ATD4000, Malta.
 
@@ -14,4 +14,4 @@ Treehaus, Uno Malta is a music venue in Malta listed on soundcheck. 1 upcoming n
 
 Treehaus - Uno Malta, Crafts Village, Ta'Qali - Attard, Ta' Qali, ATD4000, Malta, Malta
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/treehaus-uno-malta/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/treehaus-uno-malta/)*

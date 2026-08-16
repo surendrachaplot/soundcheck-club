@@ -1,6 +1,6 @@
 # Purple Disco Machine
 
-Purple Disco Machine is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Antiguo Aquapark Calvià (Mallorca), Mallorca on Sun, 16 Aug 2026.
+Purple Disco Machine is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Antiguo Aquapark Calvià (Mallorca), Mallorca on Sun, 16 Aug 2026.
 
 Purple Disco Machine is a house and disco artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside david bay, LP Giobbi and Armand Van Helden. Next up: Antiguo Aquapark Calvià (Mallorca), Mallorca on Sun 16 Aug.
 
@@ -34,4 +34,4 @@ Purple Disco Machine is a house and disco artist based in Germany, tracked on so
 
 david bay, LP Giobbi, Armand Van Helden
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*

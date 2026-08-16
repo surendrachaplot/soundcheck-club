@@ -1,6 +1,6 @@
 # Oceanbeat Ibiza Boat
 
-Oceanbeat Ibiza Boat is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "IBIZA AFTERNOON BOAT PARTY" on Sun, 16 Aug 2026.
+Oceanbeat Ibiza Boat is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "IBIZA AFTERNOON BOAT PARTY" on Sun, 16 Aug 2026.
 
 Oceanbeat Ibiza Boat is a music venue in Ibiza listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. Local 6, Carrer del Quartó de Portmany, 2, 07800 Ibiza, Illes Balears, España.
 
@@ -23,4 +23,4 @@ Oceanbeat Ibiza Boat is a music venue in Ibiza listed on soundcheck. 16 upcoming
 
 Local 6, Carrer del Quartó de Portmany, 2, 07800 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/oceanbeat-ibiza-boat/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/oceanbeat-ibiza-boat/)*

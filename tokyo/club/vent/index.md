@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "LB aka LABAT" on Sat, 15 Aug 2026.
+VENT is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Haruka" on Fri, 21 Aug 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including BANANA-CHAN, Conures (DJ Tokunaga), Curses and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including Conures (DJ Tokunaga), Curses, D.Dan and DJ OGAWA and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | LB aka LABAT | BANANA-CHAN, HERO (JPN), LB aka LABAT |
 | Fri, 21 Aug 2026 | Haruka | Haruka, Kengo Yuasa, Lisa Mizuno, tnseei |
 | Sat, 22 Aug 2026 | Simon Vuarambon | Conures (DJ Tokunaga), Kamekawa, Kotatsu, Midy, Simon Vuarambon, Vino (1), yoshiken |
 | Fri, 28 Aug 2026 | Laolu | DJ OGAWA, Laolu, Maya, SATICA, Tuyetmizuno |
@@ -18,9 +17,10 @@ VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 | Fri, 11 Sept 2026 | Solar | Solar |
 | Sat, 12 Sept 2026 | Schacke / KILLIAN | Schacke |
 | Sat, 19 Sept 2026 | Randomer | Randomer |
+| Sun, 20 Sept 2026 | Praslea | Jellyf!sh, Praslea |
 
 ## Address
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

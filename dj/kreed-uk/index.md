@@ -1,6 +1,6 @@
 # KREED.
 
-KREED. is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
+KREED. is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Upper East, London on Sun, 16 Aug 2026.
 
 KREED. is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 2 more. Often billed alongside Sho (UK), KAZIA and Meeshy. Next up: Upper East, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ KREED. is a minimal and house artist based in United Kingdom, tracked on soundch
 
 Sho (UK), KAZIA, Meeshy
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreed-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreed-uk/)*

@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Browar Warszawski, Warsaw on Fri, 21 Aug 2026.
+Laolu is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Browar Warszawski, Warsaw on Fri, 21 Aug 2026.
 
 Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Browar Warszawski, Warsaw on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logg
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

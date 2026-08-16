@@ -1,6 +1,6 @@
 # Spit And Sawdust
 
-Spit And Sawdust is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Ramped Up" on Sat, 22 Aug 2026.
+Spit And Sawdust is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Ramped Up" on Sat, 22 Aug 2026.
 
 Spit And Sawdust is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Reichenberger Strasse 133; Kreuzberg; 10999 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Spit And Sawdust is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 
 Reichenberger Strasse 133; Kreuzberg; 10999 Berlin; Germany, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spit-and-sawdust/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spit-and-sawdust/)*

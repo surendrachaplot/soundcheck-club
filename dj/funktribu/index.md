@@ -1,14 +1,13 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Funk Tribu is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
 
-Funk Tribu is a techno and trance artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Funk Tribu is a techno and trance artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Boucher Road Fields, Belfast on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Boucher Road Fields | Belfast |
 | Fri, 18 Sept 2026 | SWG3 | Glasgow |
 | Fri, 25 Sept 2026 | Studio Club Malaga | Malaga |
@@ -35,4 +34,4 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 169 sets lo
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

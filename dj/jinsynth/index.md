@@ -1,6 +1,6 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
+Jin Synth is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
 
 Jin Synth is a techno and experimental artist tracked on soundcheck, with 46 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: The White Hotel, Manchester on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jin Synth is a techno and experimental artist tracked on soundcheck, with 46 set
 
 Efdemin, Fadi Mohem, Luigi Tozzi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

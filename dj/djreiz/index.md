@@ -1,6 +1,6 @@
 # DJ Reiz
 
-DJ Reiz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Virage, Paris on Fri, 4 Sept 2026.
+DJ Reiz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Virage, Paris on Fri, 4 Sept 2026.
 
 DJ Reiz is a techno and trance artist based in France, tracked on soundcheck, with 33 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside vizionn, ARPL and RaverPik. Next up: Virage, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Reiz is a techno and trance artist based in France, tracked on soundcheck, wi
 
 vizionn, ARPL, RaverPik
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djreiz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djreiz/)*

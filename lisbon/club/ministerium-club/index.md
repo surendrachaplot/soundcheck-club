@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ADRENA +++ with Boris (Ostgut Ton - DE), 7CIRCLE, Taxsh, Bede Ben" on Sat, 15 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 13 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ADRENA +++ with Boris (Ostgut Ton - DE), 7CIRCLE, Taxsh, Bede Ben" on Sat, 15 Aug 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming nights, with line-ups including 7CIRCLE, Angel Karel, BIIA and BLNK and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming ni
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

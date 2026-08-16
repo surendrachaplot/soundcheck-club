@@ -1,6 +1,6 @@
 # Ectomorph
 
-Ectomorph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at export, Rotterdam on Fri, 28 Aug 2026.
+Ectomorph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at export, Rotterdam on Fri, 28 Aug 2026.
 
 Ectomorph is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, London and Rome and 2 more. Often billed alongside BMG, Erika and DJ Stingray 313. Next up: export, Rotterdam on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ectomorph is a techno and house artist based in United States of America, tracke
 
 BMG, Erika, DJ Stingray 313
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*

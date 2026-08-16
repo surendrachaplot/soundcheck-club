@@ -1,6 +1,6 @@
 # Kim Kaos
 
-Kim Kaos is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Kim Kaos is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Kim Kaos is a house and acid artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Rotterdam. Often billed alongside Divine, ROOG and Alexander Koning. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kim Kaos is a house and acid artist based in Netherlands, tracked on soundcheck,
 
 Divine, ROOG, Alexander Koning
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*

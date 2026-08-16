@@ -1,6 +1,6 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - North London, London on Sat, 22 Aug 2026.
+Katia Curie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - North London, London on Sat, 22 Aug 2026.
 
 Katia Curie is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: TBA - North London, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 110 sets lo
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

@@ -1,6 +1,6 @@
 # Constantine (US)
 
-Constantine (US) is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
+Constantine (US) is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
 
 Constantine (US) is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston, Chicago, Detroit and Newyorkcity. Often billed alongside Mo Mami, Elock and ranee. Next up: Pianos, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Constantine (US) is a club and ghetto tech artist based in United States of Amer
 
 Mo Mami, Elock, ranee
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*

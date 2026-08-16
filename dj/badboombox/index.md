@@ -1,14 +1,13 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Bad Boombox is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Bad Boombox is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Bad Boombox is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -35,4 +34,4 @@ Bad Boombox is a techno and trance artist tracked on soundcheck, with 202 sets l
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

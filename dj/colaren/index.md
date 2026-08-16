@@ -1,6 +1,6 @@
 # COLA REN
 
-COLA REN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Pastiche, Berlin on Fri, 28 Aug 2026.
+COLA REN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pastiche, Berlin on Fri, 28 Aug 2026.
 
 COLA REN is a techno and house artist tracked on soundcheck, with 17 sets logged across Berlin, Kyoto, Munich and Osaka and 3 more. Often billed alongside Jascer, NTsKi and Actress. Next up: Pastiche, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ COLA REN is a techno and house artist tracked on soundcheck, with 17 sets logged
 
 Jascer, NTsKi, Actress
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*

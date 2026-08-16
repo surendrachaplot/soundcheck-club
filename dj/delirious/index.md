@@ -1,6 +1,6 @@
 # DELIRIOUS
 
-DELIRIOUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 19 Sept 2026.
+DELIRIOUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 19 Sept 2026.
 
 DELIRIOUS is a techno and trance artist tracked on soundcheck, with 14 sets logged across Sydney. Often billed alongside Yellowdrop, Alison Belle and Bass To Pain Converter. Next up: TBA - INNER WEST, Sydney on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DELIRIOUS is a techno and trance artist tracked on soundcheck, with 14 sets logg
 
 Yellowdrop, Alison Belle, Bass To Pain Converter
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirious/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirious/)*

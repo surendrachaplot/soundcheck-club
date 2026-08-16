@@ -1,6 +1,6 @@
 # Leo Schick
 
-Leo Schick is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
+Leo Schick is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
 
 Leo Schick is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Berlin, Munich and Vienna. Often billed alongside Chiara Allnutt, Freudenthal and Steve Hope. Next up: Lieberscholli, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Leo Schick is a techno and tech house artist tracked on soundcheck, with 15 sets
 
 Chiara Allnutt, Freudenthal, Steve Hope
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoschick/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoschick/)*

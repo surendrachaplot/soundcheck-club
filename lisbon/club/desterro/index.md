@@ -1,14 +1,13 @@
 # Desterro
 
-Desterro is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Psicosférico" on Sat, 15 Aug 2026.
+Desterro is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Alienação - Desterro #38 with bizkit, ØIAM & João Melgueira" on Thu, 20 Aug 2026.
 
-Desterro is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including bscd, João Melgueira, ØIAM and Paixão. Browse upcoming dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
+Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including bscd, João Melgueira and ØIAM. Browse upcoming dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Psicosférico | Paixão |
 | Thu, 20 Aug 2026 | Alienação - Desterro #38 with bizkit, ØIAM & João Melgueira | João Melgueira, bscd, ØIAM |
 | Sat, 22 Aug 2026 | [R\F] Noite Fresca #73 |  |
 
@@ -16,4 +15,4 @@ Desterro is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, wit
 
 Calçada do Desterro nº7 1150-241 Lisbon, Portugal, Lisbon
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*

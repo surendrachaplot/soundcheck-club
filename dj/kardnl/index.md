@@ -1,6 +1,6 @@
 # Kardnl
 
-Kardnl is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
+Kardnl is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
 
 Kardnl is a house and garage artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside softsky. Next up: Honey's, Newyorkcity on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Kardnl is a house and garage artist based in United States of America, tracked o
 
 softsky
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardnl/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardnl/)*

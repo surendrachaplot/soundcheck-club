@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Cousin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Cousin is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Auckland and Berlin and 18 more. Often billed alongside DJ Fart in the Club, Ben Fester and Kia (AU). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Cousin is a techno and house artist tracked on soundcheck, with 86 sets logged a
 
 DJ Fart in the Club, Ben Fester, Kia (AU)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

@@ -1,6 +1,6 @@
 # Accomplice
 
-Accomplice is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
+Accomplice is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
 
 Accomplice is a house and acid artist based in Ireland, tracked on soundcheck, with 21 sets logged across Berlin and Dublin. Often billed alongside Prøwl, Pineal Navigation and DJ Gary. Next up: Pawn Shop, Dublin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Accomplice is a house and acid artist based in Ireland, tracked on soundcheck, w
 
 Prøwl, Pineal Navigation, DJ Gary
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/accomplice/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/accomplice/)*

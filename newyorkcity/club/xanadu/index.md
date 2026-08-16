@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO" on Sun, 16 Aug 2026.
+Xanadu is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO" on Sun, 16 Aug 2026.
 
 Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -20,4 +20,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

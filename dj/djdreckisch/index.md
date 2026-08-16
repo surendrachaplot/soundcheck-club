@@ -1,6 +1,6 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+DJ DRECKISCH is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
 DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
@@ -16,6 +16,7 @@ DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 78 sets l
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 3 Jul 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
@@ -23,10 +24,9 @@ DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 78 sets l
 - Lokschuppen Berlin, Berlin — Sat, 30 May 2026
 - DSTRKT Club Berlin, Berlin — Thu, 14 May 2026
 - Schlachthof Wiesbaden, Frankfurt — Thu, 30 Apr 2026
-- Lehmann Club, Stuttgart — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

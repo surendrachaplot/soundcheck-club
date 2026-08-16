@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kinder der Nacht - Parade After Party w/ T78" on Sat, 15 Aug 2026.
+Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kinder der Nacht - Parade After Party w/ T78" on Sat, 15 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ADOBE, Alex Xandra, Andriiic and Anton Quasi and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

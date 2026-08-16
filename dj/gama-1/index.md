@@ -1,6 +1,6 @@
 # Gama (1)
 
-Gama (1) is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
+Gama (1) is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
 
 Gama (1) is a baile funk and house artist based in Brazil, tracked on soundcheck, with 4 sets logged across Mexicocity and Saopaulo. Often billed alongside Alexandre Bispo, Bruja de Mentira and Delcu. Next up: TBA - FORO PEDREGAL, Mexicocity on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Gama (1) is a baile funk and house artist based in Brazil, tracked on soundcheck
 
 Alexandre Bispo, Bruja de Mentira, Delcu
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gama-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gama-1/)*

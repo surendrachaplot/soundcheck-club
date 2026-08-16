@@ -1,6 +1,6 @@
 # Donnie Bianco
 
-Donnie Bianco is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Union Club, Vauxhall, London on Sat, 22 Aug 2026.
+Donnie Bianco is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Union Club, Vauxhall, London on Sat, 22 Aug 2026.
 
 Donnie Bianco is a techno and tech house artist tracked on soundcheck, with 38 sets logged across London. Often billed alongside Thomas Galbardi, Francesco Poggi and Diana Loredana. Next up: Union Club, Vauxhall, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Donnie Bianco is a techno and tech house artist tracked on soundcheck, with 38 s
 
 Thomas Galbardi, Francesco Poggi, Diana Loredana
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donniebianco/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donniebianco/)*

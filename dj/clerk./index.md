@@ -1,6 +1,6 @@
 # CLERK.
 
-CLERK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
+CLERK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
 
 CLERK. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Belfast. Often billed alongside Casual, GUZZ. and Skellyoz. Next up: The Barge, Belfast on Sat 15 Aug.
 
@@ -12,10 +12,11 @@ CLERK. is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
+- The Barge, Belfast — Sat, 15 Aug 2026
 - The Marcus Ward, Belfast — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Casual, GUZZ., Skellyoz
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clerk./)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clerk./)*

@@ -1,6 +1,6 @@
 # XDB
 
-XDB is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+XDB is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 XDB is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -15,6 +15,7 @@ XDB is a techno and house artist tracked on soundcheck, with 126 sets logged acr
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt — Sat, 15 Aug 2026
 - OXI, Berlin — Fri, 14 Aug 2026
 - TBA - Secret Location, New York City — Sat, 1 Aug 2026
 - Lx Factory, Lisbon — Thu, 16 Jul 2026
@@ -22,10 +23,9 @@ XDB is a techno and house artist tracked on soundcheck, with 126 sets logged acr
 - Amber's, Manchester — Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Club der Visionaere, Berlin — Sun, 14 Jun 2026
-- Hoppetosse, Berlin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

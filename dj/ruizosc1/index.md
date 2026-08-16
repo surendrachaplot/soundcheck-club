@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+RUIZ OSC1 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
 
 RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 37 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: OXI, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 139 sets logg
 
 Carmen Electro, Tarkno, slin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

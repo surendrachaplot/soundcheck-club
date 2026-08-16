@@ -1,6 +1,6 @@
 # Mau BB
 
-Mau BB is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
+Mau BB is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
 
 Mau BB is a house and tech house artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona and Ibiza. Often billed alongside Angel Mellado, Kike Cornejo and Pisano. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Mau BB is a house and tech house artist based in Spain, tracked on soundcheck, w
 
 Angel Mellado, Kike Cornejo, Pisano
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maubb/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maubb/)*

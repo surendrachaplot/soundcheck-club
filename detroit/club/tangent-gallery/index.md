@@ -1,16 +1,13 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Charivari Detroit • Parallel" on Thu, 13 Aug 2026.
+Tangent Gallery is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Tangent Gallery • Dantiez/RAEDY LEX/JMT/Drop Catch • Charivari Detroit Closing Party" on Sun, 16 Aug 2026.
 
-Tangent Gallery is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including Afra, AK (US), Aluna and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
+Tangent Gallery is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including Afra, AK (US), Aluna and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Charivari Detroit • Parallel | DJ Bone, DJ I.V., DJ Seoul, DJ Spen, Dantiez, Disc Jockey George, Duck Trash, Eddie Fowlkes, Eddie Logix, Garrison XR, Gettoblaster, JMT (2), Johnny Malek, Just Shacoi, Kai Alce, LADYMONIX, LATEX GIRL, LostBoy, MNTRA, Mona Black, Norm Talley, Peter Croce, RAEDY LEX, Ryan Sadorus, Satoshi Tomiie, TCHiLT, Terrence Parker, Wax Assassin, Werkout Plan, britty., jamea., sillygirlcarmen, we1sman |
-| Sat, 15 Aug 2026 | Tangent • Saturday • Gettoblaster/Disc Jockey George/Johnny Malek • Charivari Detroit | Disc Jockey George, Duck Trash, Gettoblaster, Johnny Malek, LATEX GIRL, Mona Black, Wax Assassin |
-| Sat, 15 Aug 2026 | FIESTA HOUSE DAY PARTY: CHARIVARI DETROIT 2026 | SWDEJAY |
 | Sun, 16 Aug 2026 | Tangent Gallery • Dantiez/RAEDY LEX/JMT/Drop Catch • Charivari Detroit Closing Party | AK (US), DJ I.V., DJ Krazy, DJ Seoul, Dantiez, Drop Catch, JMT (2), RAEDY LEX, Werkout Plan |
 | Fri, 21 Aug 2026 | Summer Bliss Music & Arts Festival 2026 | Aluna, DEEPFAKE, DISCOBOT, Devin Jetski, Drop Catch, J Rush, JMT (2), Key Mitch, LostBoy, Melbeatz, Nanoos, OOZE, Ro Low |
 | Fri, 11 Sept 2026 | Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines | BEIGE, Kenjiro |
@@ -23,4 +20,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 10 upcoming ni
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

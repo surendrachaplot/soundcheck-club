@@ -1,6 +1,6 @@
 # Jotam.
 
-Jotam. is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
+Jotam. is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
 
 Jotam. is a techno and ambient artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Howler (UK), Nadine Talakovics and Alex Levin. Next up: TBA - secret venue [ask your local network], Leipzig on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Jotam. is a techno and ambient artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- TBA - secret venue [ask your local network], Leipzig — Sat, 15 Aug 2026
 - Slot, Hamburg — Sat, 4 Apr 2026
 - Block1, Berlin — Thu, 19 Mar 2026
 
@@ -20,4 +21,4 @@ Jotam. is a techno and ambient artist based in Germany, tracked on soundcheck, w
 
 Howler (UK), Nadine Talakovics, Alex Levin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*

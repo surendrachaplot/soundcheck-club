@@ -1,6 +1,6 @@
 # L/MA0RI
 
-L/MA0RI is a Ghetto Tech and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+L/MA0RI is a Ghetto Tech and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 L/MA0RI is a ghetto tech and dub techno artist based in France, tracked on soundcheck, with 4 sets logged across Berlin, Utrecht and Zurich. Often billed alongside ADO (DE), Add FM and Ado. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ L/MA0RI is a ghetto tech and dub techno artist based in France, tracked on sound
 
 ADO (DE), Add FM, Ado
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lma0ri/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lma0ri/)*

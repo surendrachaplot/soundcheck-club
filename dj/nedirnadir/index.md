@@ -1,6 +1,6 @@
 # Nedir Nadir
 
-Nedir Nadir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
+Nedir Nadir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
 
 Nedir Nadir is a techno and trance artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Laure Croft, Upper90 and ANNASNEL. Next up: BASIS, Utrecht on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Nedir Nadir is a techno and trance artist based in Netherlands, tracked on sound
 
 Laure Croft, Upper90, ANNASNEL
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nedirnadir/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nedirnadir/)*

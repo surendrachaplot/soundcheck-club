@@ -1,6 +1,6 @@
 # Little Gay Brother
 
-Little Gay Brother is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Little Gay Brother is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Little Gay Brother is a house and disco artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Karlie Marx, Donnie Sunshine and Mark-Ashley Dupé. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Little Gay Brother is a house and disco artist tracked on soundcheck, with 10 se
 
 Karlie Marx, Donnie Sunshine, Mark-Ashley Dupé
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlegaybrother/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlegaybrother/)*

@@ -1,6 +1,6 @@
 # DJ MOSKI
 
-DJ MOSKI is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Barracuda Beach Club, Lisbon on Sun, 16 Aug 2026.
+DJ MOSKI is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Barracuda Beach Club, Lisbon on Sun, 16 Aug 2026.
 
 DJ MOSKI is a tech house and techno artist tracked on soundcheck, with 5 sets logged across Lisbon. Often billed alongside ADHDaddy, Chima Isaaro and FUKCNORMAL. Next up: Barracuda Beach Club, Lisbon on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ DJ MOSKI is a tech house and techno artist tracked on soundcheck, with 5 sets lo
 
 ADHDaddy, Chima Isaaro, FUKCNORMAL
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoski/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoski/)*

@@ -1,6 +1,6 @@
 # Ghandi
 
-Ghandi is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Twist Bar, Prague on Sat, 22 Aug 2026.
+Ghandi is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Twist Bar, Prague on Sat, 22 Aug 2026.
 
 Ghandi is a house and post-punk artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Glasgow, Ibiza and Prague. Often billed alongside Bazooka Joe, Dash (CZ) and Raidem. Next up: Twist Bar, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ghandi is a house and post-punk artist based in Czech Republic, tracked on sound
 
 Bazooka Joe, Dash (CZ), Raidem
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*

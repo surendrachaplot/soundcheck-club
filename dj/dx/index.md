@@ -1,6 +1,6 @@
 # Dx
 
-Dx is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Shinjuku Duusraa, Tokyo on Sat, 22 Aug 2026.
+Dx is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Shinjuku Duusraa, Tokyo on Sat, 22 Aug 2026.
 
 Dx is a jungle and drum & bass artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside MileZ, Acrocanthosaurus and DJ Kensei. Next up: Shinjuku Duusraa, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Dx is a jungle and drum & bass artist based in Japan, tracked on soundcheck, wit
 
 MileZ, Acrocanthosaurus, DJ Kensei
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dx/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dx/)*

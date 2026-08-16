@@ -1,6 +1,6 @@
 # Ivy Hollivana
 
-Ivy Hollivana is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at La Sotterenea, Montreal on Sun, 16 Aug 2026.
+Ivy Hollivana is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at La Sotterenea, Montreal on Sun, 16 Aug 2026.
 
 Ivy Hollivana is an experimental and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Montreal, Seattle and Toronto and 1 more. Often billed alongside Matt Tecson, EtOH and Xiumei. Next up: La Sotterenea, Montreal on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Ivy Hollivana is an experimental and club artist based in United States of Ameri
 
 Matt Tecson, EtOH, Xiumei
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*

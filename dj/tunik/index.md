@@ -1,6 +1,6 @@
 # Tunik
 
-Tunik is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
+Tunik is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
 
 Tunik is an electro and techno artist based in Argentina, tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside tINI, Hitch and Alex (ES). Next up: Starlane Pizza Bar, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tunik is an electro and techno artist based in Argentina, tracked on soundcheck,
 
 tINI, Hitch, Alex (ES)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*

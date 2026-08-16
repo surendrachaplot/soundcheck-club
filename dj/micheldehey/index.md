@@ -1,6 +1,6 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 27 Aug 2026.
+Michel de Hey is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 27 Aug 2026.
 
 Michel de Hey is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: SISSI'S Amsterdam, Amsterdam on Thu 27 Aug.
 
@@ -34,4 +34,4 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 130 s
 
 Benny Rodrigues, Prunk, AAT (NL)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

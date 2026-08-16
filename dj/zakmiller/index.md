@@ -1,6 +1,6 @@
 # Zak Miller
 
-Zak Miller is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
+Zak Miller is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
 
 Zak Miller is a house and garage artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: The Glove That Fits, London on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Zak Miller is a house and garage artist based in United Kingdom, tracked on soun
 
 Alfaz, Bear Winder, A Hard Day's Dance
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*

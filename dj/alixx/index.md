@@ -1,6 +1,6 @@
 # AliXx
 
-AliXx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Point Ephémère, Paris on Sat, 22 Aug 2026.
+AliXx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Point Ephémère, Paris on Sat, 22 Aug 2026.
 
 AliXx is a techno and trance artist tracked on soundcheck, with 15 sets logged across Nantes and Paris. Often billed alongside 9dwa, Fluid Matter and Kick21. Next up: Point Ephémère, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ AliXx is a techno and trance artist tracked on soundcheck, with 15 sets logged a
 
 9dwa, Fluid Matter, Kick21
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixx/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixx/)*

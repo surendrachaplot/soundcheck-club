@@ -1,6 +1,6 @@
 # TOMI
 
-TOMI is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Washington DC on Sat, 22 Aug 2026.
+TOMI is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Washington DC on Sat, 22 Aug 2026.
 
 TOMI is a hip-hop and house artist tracked on soundcheck, with 6 sets logged across Miami, Tokyo, Washingtondc and Zurich. Often billed alongside Angel Heredia, DA BOOK and DICKERMAN. Next up: TBA, Washingtondc on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ TOMI is a hip-hop and house artist tracked on soundcheck, with 6 sets logged acr
 
 Angel Heredia, DA BOOK, DICKERMAN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomi/)*

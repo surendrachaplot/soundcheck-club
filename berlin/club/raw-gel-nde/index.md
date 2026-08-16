@@ -1,6 +1,6 @@
 # RAW Gelände
 
-RAW Gelände is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Zug der Liebe goes RAW" on Sat, 29 Aug 2026.
+RAW Gelände is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Zug der Liebe goes RAW" on Sat, 29 Aug 2026.
 
 RAW Gelände is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including anna G, Basstronauten, Bonq and CLARA (FR) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ RAW Gelände is a music venue in Berlin listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Zug der Liebe goes RAW | Basstronauten, Bonq, CLARA (FR), Dancel Culture, Kaminka Merel, Maschine, NIKO INCRAVALLE, SHAZY, Sagrivox, Sebastian Gabriel, anna G, manque |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/raw-gel-nde/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/raw-gel-nde/)*

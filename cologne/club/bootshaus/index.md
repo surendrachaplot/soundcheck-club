@@ -1,14 +1,13 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 14 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Into The Madness Pre-Party Weekender  w. RAN - D" on Sat, 15 Aug 2026.
+Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "LOONYLAND pres. LUCA DANTE SPADAFORA & 2 ENGEL & Charlie" on Fri, 21 Aug 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 14 upcoming nights, with line-ups including Afem Syko, Alba Franch, Atzendent and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including Afem Syko, Alba Franch, Atzendent and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Into The Madness Pre-Party Weekender  w. RAN - D | Kili (3) |
 | Fri, 21 Aug 2026 | LOONYLAND pres. LUCA DANTE SPADAFORA & 2 ENGEL & Charlie | Charlie |
 | Thu, 27 Aug 2026 | ANIME SOUNDS by CrispyRob - The Last Chapter |  |
 | Fri, 4 Sept 2026 | R3hab pres. by Bootshaus | R3hab |
@@ -18,9 +17,10 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 14 upcoming nights, 
 | Fri, 18 Sept 2026 | polyamor | Alba Franch, Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi |
 | Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
 | Fri, 25 Sept 2026 | UNREAL WEEKENDER NIGHT I | Afem Syko, BIIANCO, Johannes Schuster, Mad Dog, Nikolina, Pixie Dust |
+| Fri, 9 Oct 2026 | CHROME COLOGNE | OGUZ |
 
 ## Address
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

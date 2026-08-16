@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Official After Party - Day Rave Under The Bridge" on Sun, 16 Aug 2026.
+Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Official After Party - Day Rave Under The Bridge" on Sun, 16 Aug 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Boundless (1), Danilo Filipe, Diego Genn and Francisca Urbano and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -17,4 +17,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kumbionik - Reborn Edition" on Sat, 15 Aug 2026.
+ESC is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kumbionik - Reborn Edition" on Sat, 15 Aug 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including 99jakes, Akufen, Alice Gas and Char.l.n and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -19,4 +19,4 @@ ESC is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

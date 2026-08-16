@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Lehmann Clubnacht with ÜBERREST, Mila Black, Raphael Dincsoy, Source Code, 2ND FLOOR NKR" on Sat, 15 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Lehmann Clubnacht with ÜBERREST, Mila Black, Raphael Dincsoy, Source Code, 2ND FLOOR NKR" on Sat, 15 Aug 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Ben Hille, Blawan, DICE and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -18,4 +18,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

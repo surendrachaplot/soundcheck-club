@@ -1,6 +1,6 @@
 # Vesna
 
-Vesna is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+Vesna is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 Vesna is a club and bass artist tracked on soundcheck, with 3 sets logged across Mexicocity. Often billed alongside 1OO1O, AAAA and Alatriste. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Vesna is a club and bass artist tracked on soundcheck, with 3 sets logged across
 
 1OO1O, AAAA, Alatriste
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vesna/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vesna/)*

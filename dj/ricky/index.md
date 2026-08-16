@@ -1,6 +1,6 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
+RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
 
 RICKY is a techno and gabber artist tracked on soundcheck, with 39 sets logged across Osaka, Sanfrancisco, Seoul and Tokyo. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Decabar Super, Tokyo on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 39 sets logged a
 
 KYLE MIKASA, KAMIKAZE, egomania
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*

@@ -1,6 +1,6 @@
 # Tommyknocker
 
-Tommyknocker is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Tommyknocker is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Tommyknocker is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Cologne and Frankfurt and 5 more. Often billed alongside Art of Fighters, Endymion and Korsakoff. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Tommyknocker is a hardcore and gabber artist based in Italy, tracked on soundche
 
 ## Recently played
 
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 15 Aug 2026
 - Club 69, Glasgow — Fri, 7 Aug 2026
 - Recreatiegebied Gaasperplas, Amsterdam — Sat, 4 Jul 2026
 - Lehmann Club, Stuttgart — Fri, 9 Jan 2026
@@ -20,10 +21,9 @@ Tommyknocker is a hardcore and gabber artist based in Italy, tracked on soundche
 - TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam — Sat, 13 Sept 2025
 - Fabrik, Madrid — Sat, 22 Mar 2025
 - Bootshaus, Cologne — Fri, 7 Mar 2025
-- Slay, Glasgow — Sat, 2 Nov 2024
 
 ## Shares bills with
 
 Art of Fighters, Endymion, Korsakoff
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*

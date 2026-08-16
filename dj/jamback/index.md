@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
+Jamback is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Brooklyn Storehouse, Newyorkcity on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 177 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

@@ -1,6 +1,6 @@
 # Headbirds
 
-Headbirds is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Macarena Club, Barcelona on Thu, 20 Aug 2026.
+Headbirds is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Macarena Club, Barcelona on Thu, 20 Aug 2026.
 
 Headbirds is a techno and club artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside GuyOhm, Facets and Jairo Uría. Next up: Macarena Club, Barcelona on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Headbirds is a techno and club artist based in Spain, tracked on soundcheck, wit
 
 GuyOhm, Facets, Jairo Uría
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/headbirds/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/headbirds/)*

@@ -1,6 +1,6 @@
 # Karim Olen Ash
 
-Karim Olen Ash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
+Karim Olen Ash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
 
 Karim Olen Ash is a techno and house artist tracked on soundcheck, with 66 sets logged across Leipzig, London, Mexicocity and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: Paragon, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Karim Olen Ash is a techno and house artist tracked on soundcheck, with 66 sets 
 
 Chippy Nonstop, Phillippe, REDLINERS
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*

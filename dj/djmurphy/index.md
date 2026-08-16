@@ -1,6 +1,6 @@
 # DJ Murphy
 
-DJ Murphy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 28 Aug 2026.
+DJ Murphy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 28 Aug 2026.
 
 DJ Murphy is a techno and house artist tracked on soundcheck, with 35 sets logged across Saopaulo. Often billed alongside Anderson Noise, Spuri and Adnan Sharif. Next up: D-EDGE, Saopaulo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Murphy is a techno and house artist tracked on soundcheck, with 35 sets logge
 
 Anderson Noise, Spuri, Adnan Sharif
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurphy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurphy/)*

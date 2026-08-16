@@ -1,6 +1,6 @@
 # Niceto Bar
 
-Niceto Bar is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Som Social Club 002" on Sun, 16 Aug 2026.
+Niceto Bar is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Som Social Club 002" on Sun, 16 Aug 2026.
 
 Niceto Bar is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Avenix. Browse upcoming dates, start times and who's playing. Av. Cnel. Niceto Vega 5507.
 
@@ -14,4 +14,4 @@ Niceto Bar is a music venue in Buenosaires listed on soundcheck. 1 upcoming nigh
 
 Av. Cnel. Niceto Vega 5507, Buenos Aires
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/niceto-bar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/niceto-bar/)*

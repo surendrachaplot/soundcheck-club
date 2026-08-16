@@ -1,6 +1,6 @@
 # Kora Lyssa
 
-Kora Lyssa is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 19 Sept 2026.
+Kora Lyssa is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 19 Sept 2026.
 
 Kora Lyssa is an electronic artist based in Spain, tracked on soundcheck, with 23 sets logged across Milan. Often billed alongside Marthial, cccre and Iacopo Carli. Next up: Tempio del Futuro Perduto, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kora Lyssa is an electronic artist based in Spain, tracked on soundcheck, with 2
 
 Marthial, cccre, Iacopo Carli
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*

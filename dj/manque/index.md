@@ -1,6 +1,6 @@
 # manque
 
-manque is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+manque is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 manque is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Dancel Culture, Sebastian Gabriel and Anna Almani. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ manque is a techno and house artist tracked on soundcheck, with 8 sets logged ac
 
 Dancel Culture, Sebastian Gabriel, Anna Almani
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manque/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manque/)*

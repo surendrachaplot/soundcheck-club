@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Alex Cahe, Redoon" on Sat, 15 Aug 2026.
+Switch Bar is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Jaggy, Rochelle" on Sun, 16 Aug 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Alessa (ES), Alex Cahe, Arildo and Bran (4) and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Alessa (ES), Arildo, Bran (4) and Dagger and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Alex Cahe, Redoon | Alex Cahe |
 | Sun, 16 Aug 2026 | Jaggy, Rochelle | Jaggy, Rochelle |
 | Tue, 18 Aug 2026 | RNXRX, Dj Sul | Dj Sul, RNXRX |
 | Wed, 19 Aug 2026 | Wetness: Omen, MENTA | MENTA, Omen |
@@ -18,9 +17,10 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 | Fri, 28 Aug 2026 | Bran, Kolko, Dagger, Calila | Bran (4), Dagger, Kolko |
 | Sat, 29 Aug 2026 | REDNBLUE | REDNBLUE |
 | Wed, 2 Sept 2026 | Bobare Wednesday: Alessa / LeMichael | Alessa (ES), LeMichael |
+| Wed, 7 Oct 2026 | Bobare Wednesday: Concrete Joe / LM | LM, LeMichael |
 
 ## Address
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

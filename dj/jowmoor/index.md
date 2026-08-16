@@ -1,6 +1,6 @@
 # Jow Moor
 
-Jow Moor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 21 Aug 2026.
+Jow Moor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 21 Aug 2026.
 
 Jow Moor is a techno and tech house artist based in Spain, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Hamburg and Ibiza and 1 more. Often billed alongside o.robles, Felipe O and Frutis. Next up: Born 2B Music Bar, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jow Moor is a techno and tech house artist based in Spain, tracked on soundcheck
 
 o.robles, Felipe O, Frutis
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jowmoor/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jowmoor/)*

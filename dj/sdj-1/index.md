@@ -1,6 +1,6 @@
 # SDJ (1)
 
-SDJ (1) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 20 Aug 2026.
+SDJ (1) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 20 Aug 2026.
 
 SDJ (1) is a trance and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Manchester. Often billed alongside FXCKBOUT, FAGASH and Gatling. Next up: Eastern Bloc Records, Manchester on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ SDJ (1) is a trance and house artist based in United Kingdom, tracked on soundch
 
 FXCKBOUT, FAGASH, Gatling
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

@@ -1,6 +1,6 @@
 # TONA
 
-TONA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+TONA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
 TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 8 sets logged across Munich. Often billed alongside NAGINI, Vaneska and subcutan. Next up: Lieberscholli, Munich on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 NAGINI, Vaneska, subcutan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tona/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tona/)*

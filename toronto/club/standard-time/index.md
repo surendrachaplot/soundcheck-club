@@ -1,14 +1,13 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "On The Way Afterparty featuring R-ODERICK, Benski, and Neel B2B Mark MacLeod  " on Sat, 15 Aug 2026.
+Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Tawoos presents: LMNL Sessions Vol. 1" on Sun, 16 Aug 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Benski and Benski (CA) and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Corinne and Dameer and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | On The Way Afterparty featuring R-ODERICK, Benski, and Neel B2B Mark MacLeod   | Benski, Benski (CA), R-ODERICK |
 | Sun, 16 Aug 2026 | Tawoos presents: LMNL Sessions Vol. 1 | Dameer, ROU-H, Sār (CA), discostan |
 | Fri, 21 Aug 2026 | Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito   | ESCOBUTT, Juanit0, NAP (MX) |
 | Fri, 28 Aug 2026 | Leon Vynehall Open to Close | Leon Vynehall |
@@ -18,9 +17,10 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
+| Fri, 13 Nov 2026 | yaego música electronica en vivo Tour | yaego |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

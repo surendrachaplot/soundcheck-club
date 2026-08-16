@@ -1,6 +1,6 @@
 # Acerbic
 
-Acerbic is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
+Acerbic is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
 
 Acerbic is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London, Saopaulo and Valencia. Often billed alongside Chris Liberator, DAVE the Drummer and !NN. Next up: Distillery N17, London on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Acerbic is an acid and techno artist based in United Kingdom, tracked on soundch
 
 Chris Liberator, DAVE the Drummer, !NN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acerbic/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acerbic/)*

@@ -1,6 +1,6 @@
 # Henriku
 
-Henriku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Henriku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 Henriku is a house and techno artist based in Norway, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Bucharest and Lisbon and 3 more. Often billed alongside Alexander Skancke, Trent Voyage and Elena Moroder. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Henriku is a house and techno artist based in Norway, tracked on soundcheck, wit
 
 Alexander Skancke, Trent Voyage, Elena Moroder
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*

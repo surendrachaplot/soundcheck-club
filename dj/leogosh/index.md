@@ -1,6 +1,6 @@
 # Leo Gosh
 
-Leo Gosh is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at fabric, London on Sat, 12 Sept 2026.
+Leo Gosh is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Sat, 12 Sept 2026.
 
 Leo Gosh is an idm and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Jhumka, Lucie (UK) and Sydney (SP). Next up: fabric, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Leo Gosh is an idm and house artist based in United Kingdom, tracked on soundche
 
 Jhumka, Lucie (UK), Sydney (SP)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leogosh/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leogosh/)*

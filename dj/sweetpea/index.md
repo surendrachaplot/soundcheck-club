@@ -1,6 +1,6 @@
 # Sweetpea
 
-Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
 Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Decibella, Dillinja and Minor Forms. Next up: Club Cheek, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Decibella, Dillinja, Minor Forms
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*

@@ -1,6 +1,6 @@
 # ophell
 
-ophell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
+ophell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
 
 ophell is a techno and trance artist based in Portugal, tracked on soundcheck, with 29 sets logged across Berlin and Lisbon. Often billed alongside GADDAM, GTH (FR) and Ketarina. Next up: Kømplex Lisbon, Lisbon on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ ophell is a techno and trance artist based in Portugal, tracked on soundcheck, w
 
 ## Recently played
 
+- Kømplex Lisbon, Lisbon — Sat, 15 Aug 2026
 - Quinta Mira Rio, Lisbon — Fri, 31 Jul 2026
 - Kømplex Lisbon, Lisbon — Tue, 9 Jun 2026
 - Kømplex Lisbon, Lisbon — Sat, 18 Apr 2026
@@ -19,10 +20,9 @@ ophell is a techno and trance artist based in Portugal, tracked on soundcheck, w
 - Kømplex Lisbon, Lisbon — Sat, 28 Feb 2026
 - Kømplex Lisbon, Lisbon — Fri, 19 Dec 2025
 - Kømplex Lisbon, Lisbon — Sat, 6 Dec 2025
-- Kømplex Lisbon, Lisbon — Fri, 24 Oct 2025
 
 ## Shares bills with
 
 GADDAM, GTH (FR), Ketarina
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophell/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophell/)*

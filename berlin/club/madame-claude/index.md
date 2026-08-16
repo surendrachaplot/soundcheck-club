@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Experimontag: 3 Live Acts + 1 DJ" on Mon, 17 Aug 2026.
+Madame Claude is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Experimontag: 3 Live Acts + 1 DJ" on Mon, 17 Aug 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Aquarium. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

@@ -1,6 +1,6 @@
 # Hazy Andrew
 
-Hazy Andrew is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
+Hazy Andrew is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
 
 Hazy Andrew is a techno and house artist tracked on soundcheck, with 13 sets logged across Riga. Often billed alongside Grisha Nirgov, Herren Ivo and Johnny Depo. Next up: TBA - Hyper Radošais Centrs, Riga on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Hazy Andrew is a techno and house artist tracked on soundcheck, with 13 sets log
 
 ## Recently played
 
+- TBA - Hyper Radošais Centrs, Riga — Sat, 15 Aug 2026
 - B2 Rīga, Riga — Fri, 19 Jun 2026
 - Laska V21, Riga — Fri, 1 May 2026
 - TBA - The Lodge, Riga — Wed, 31 Dec 2025
@@ -19,10 +20,9 @@ Hazy Andrew is a techno and house artist tracked on soundcheck, with 13 sets log
 - Cehs, Riga — Fri, 24 Oct 2025
 - TBA - The Lodge, Riga — Fri, 17 Oct 2025
 - Laska V21, Riga — Fri, 26 Sept 2025
-- Laska V21, Riga — Sat, 28 Jun 2025
 
 ## Shares bills with
 
 Grisha Nirgov, Herren Ivo, Johnny Depo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazyandrew/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazyandrew/)*

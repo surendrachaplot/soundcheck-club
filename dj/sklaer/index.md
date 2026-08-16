@@ -1,6 +1,6 @@
 # Sklaer
 
-Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Gare / Le Gore, Paris on Thu, 20 Aug 2026.
+Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Gare / Le Gore, Paris on Thu, 20 Aug 2026.
 
 Sklaer is a techno and electro artist tracked on soundcheck, with 37 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Clarence, Ian Maur and Clarence Rise. Next up: La Gare / Le Gore, Paris on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Sklaer is a techno and electro artist tracked on soundcheck, with 37 sets logged
 
 Clarence, Ian Maur, Clarence Rise
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*

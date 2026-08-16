@@ -1,6 +1,6 @@
 # Piersmog
 
-Piersmog is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
+Piersmog is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
 
 Piersmog is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Mole (US), echo (3) and Cataract. Next up: ErF Studios, Newyorkcity on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Piersmog is a house and techno artist based in United States of America, tracked
 
 Mole (US), echo (3), Cataract
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piersmog/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piersmog/)*

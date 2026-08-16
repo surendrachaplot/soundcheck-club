@@ -1,6 +1,6 @@
 # Danyelino
 
-Danyelino is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
+Danyelino is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
 
 Danyelino is a house and tech house artist tracked on soundcheck, with 199 sets logged across Barcelona, Ibiza and Miami. Often billed alongside Ms. Mada, Bakke and Thunderpony. Next up: Jolene Downtown Miami, Miami on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Danyelino is a house and tech house artist tracked on soundcheck, with 199 sets 
 
 Ms. Mada, Bakke, Thunderpony
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*

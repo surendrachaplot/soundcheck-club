@@ -1,6 +1,6 @@
 # Wagz
 
-Wagz is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
+Wagz is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
 
 Wagz is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logged across London, Manchester and Sheffield. Often billed alongside Need For Mirrors, Kid Drama and Mantmast. Next up: Joshua Brooks, Manchester on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Wagz is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logge
 
 Need For Mirrors, Kid Drama, Mantmast
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wagz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wagz/)*

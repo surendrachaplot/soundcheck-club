@@ -1,6 +1,6 @@
 # Forged Reigns
 
-Forged Reigns is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 5 Sept 2026.
+Forged Reigns is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 5 Sept 2026.
 
 Forged Reigns is a house and garage artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside 4STRA, ENSIDER (2) and Pauliexoxoxo. Next up: Geary Avenue Warehouse Project, Toronto on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Forged Reigns is a house and garage artist based in Canada, tracked on soundchec
 
 4STRA, ENSIDER (2), Pauliexoxoxo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgedreigns/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgedreigns/)*

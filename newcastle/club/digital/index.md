@@ -1,14 +1,13 @@
 # Digital
 
-Digital is a music venue in Newcastle with 12 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Excite Lets Ave It!" on Sat, 15 Aug 2026.
+Digital is a music venue in Newcastle with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Back To The Groove Presents : Beyond Limits B2B Firza" on Sat, 5 Sept 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 12 upcoming nights, with line-ups including Bushbaby, Cristoph, Easby and FIRZA and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 11 upcoming nights, with line-ups including Bushbaby, Cristoph, Easby and FIRZA and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Excite Lets Ave It! |  |
 | Sat, 5 Sept 2026 | Back To The Groove Presents : Beyond Limits B2B Firza | FIRZA |
 | Sat, 5 Sept 2026 | Back To The Groove presents: Beyond Limits B2B FIRZA | FIRZA |
 | Fri, 18 Sept 2026 | Dvoid x Khaotic Present: Toxic Machinery, Incult, Damaxy |  |
@@ -18,9 +17,10 @@ Digital is a music venue in Newcastle listed on soundcheck. 12 upcoming nights, 
 | Sat, 17 Oct 2026 | Energy Cru presents: Bushbaby (All Night Long) | Bushbaby |
 | Fri, 23 Oct 2026 | This is Bounce UK vs Ministry of Bounce Halloween Special |  |
 | Sat, 24 Oct 2026 | Trance Day Party: Newcastle |  |
+| Sat, 7 Nov 2026 | inU with Guy J & Jeremy Olander | Easby, Guy J, Jeremy Olander, SOBAH |
 
 ## Address
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

@@ -1,6 +1,6 @@
 # AAA
 
-AAA is a Hip-Hop and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Unter Deck, Munich on Wed, 19 Aug 2026.
+AAA is a Hip-Hop and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Unter Deck, Munich on Wed, 19 Aug 2026.
 
 AAA is a hip-hop and deep house artist tracked on soundcheck, with 30 sets logged across Amsterdam, London, Munich and Newyorkcity and 2 more. Often billed alongside NATHIFA EFIA, AyChibs and Donch. Next up: Unter Deck, Munich on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ AAA is a hip-hop and deep house artist tracked on soundcheck, with 30 sets logge
 
 NATHIFA EFIA, AyChibs, Donch
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaa/)*

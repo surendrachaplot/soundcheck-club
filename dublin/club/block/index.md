@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Block x Encore x Vibez Emotion. ANNA" on Sat, 22 Aug 2026.
+block. is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Block x Encore x Vibez Emotion. ANNA" on Sat, 22 Aug 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Captain Wallop, Connect, ANNA and Janeret and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -19,4 +19,4 @@ block. is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

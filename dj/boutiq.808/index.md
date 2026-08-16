@@ -1,6 +1,6 @@
 # Boutiq.808
 
-Boutiq.808 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Pracht, Frankfurt on Sat, 29 Aug 2026.
+Boutiq.808 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pracht, Frankfurt on Sat, 29 Aug 2026.
 
 Boutiq.808 is a house and tech house artist tracked on soundcheck, with 93 sets logged across Berlin, Dusseldorf, Frankfurt and Hamburg and 3 more. Often billed alongside Chris Beulich, Chris Wood and Valenzia. Next up: Pracht, Frankfurt on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Boutiq.808 is a house and tech house artist tracked on soundcheck, with 93 sets 
 
 Chris Beulich, Chris Wood, Valenzia
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boutiq.808/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boutiq.808/)*

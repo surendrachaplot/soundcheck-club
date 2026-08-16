@@ -1,6 +1,6 @@
 # Kelan
 
-Kelan is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
+Kelan is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
 
 Kelan is an industrial and experimental artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bristol, London and Paris. Often billed alongside Dhangsha, OLGA B. and RADIO SOFA (DJ). Next up: Vespers Club, London on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ Kelan is an industrial and experimental artist based in United Kingdom, tracked 
 
 Dhangsha, OLGA B., RADIO SOFA (DJ)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*

@@ -1,6 +1,6 @@
 # subfeels
 
-subfeels is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+subfeels is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 subfeels is a techno and bass artist based in Canada, tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside ek:), DJ Tips and Kaytree. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ subfeels is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 ek:), DJ Tips, Kaytree
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subfeels/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subfeels/)*

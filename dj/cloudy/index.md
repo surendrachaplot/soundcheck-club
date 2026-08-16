@@ -1,14 +1,13 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Cloudy is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Boomerang Beach, The Hague on Sun, 16 Aug 2026.
 
-Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Boomerang Beach, Thehague on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Boomerang Beach | The Hague |
 | Sun, 23 Aug 2026 | Kiesgrube | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,6 +19,7 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Mon, 7 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Sat, 12 Sept 2026 | Matrez - Warehouse | Belgrade |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

@@ -1,6 +1,6 @@
 # Tarquin Manek
 
-Tarquin Manek is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri, 28 Aug 2026.
+Tarquin Manek is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri, 28 Aug 2026.
 
 Tarquin Manek is a bass and experimental artist based in Australia, tracked on soundcheck, with 10 sets logged across Berlin and Melbourne. Often billed alongside DJ Mum, Jannah Quill and Moopie. Next up: The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Tarquin Manek is a bass and experimental artist based in Australia, tracked on s
 
 DJ Mum, Jannah Quill, Moopie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarquinmanek/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarquinmanek/)*

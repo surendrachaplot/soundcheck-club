@@ -1,6 +1,6 @@
 # doccudder
 
-doccudder is a electronic artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Mondo, Madrid on Sat, 15 Aug 2026.
+doccudder is a electronic artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Mondo, Madrid on Sat, 15 Aug 2026.
 
 doccudder is an electronic artist based in Spain, tracked on soundcheck, with 23 sets logged across Madrid. Often billed alongside Gerardo Niva, Bad Boombox and Club Angel. Next up: Mondo, Madrid on Sat 15 Aug.
 
@@ -17,6 +17,7 @@ doccudder is an electronic artist based in Spain, tracked on soundcheck, with 23
 
 ## Recently played
 
+- Mondo, Madrid — Sat, 15 Aug 2026
 - Mondo, Madrid — Thu, 13 Aug 2026
 - Mondo, Madrid — Thu, 6 Aug 2026
 - Mondo, Madrid — Thu, 23 Jul 2026
@@ -24,10 +25,9 @@ doccudder is an electronic artist based in Spain, tracked on soundcheck, with 23
 - Mondo, Madrid — Thu, 9 Jul 2026
 - Mondo, Madrid — Sat, 4 Jul 2026
 - Mondo, Madrid — Sat, 27 Jun 2026
-- Mondo, Madrid — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Gerardo Niva, Bad Boombox, Club Angel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*

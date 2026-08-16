@@ -1,6 +1,6 @@
 # Anfang Fam Day at Cadavra
 
-Anfang Fam Day at Cadavra on Thu 17 Sept, Madrid. 3 acts on the bill: Jakka, Noot Noot and Safia (2). Techno. Preview the line-up and save it on soundcheck.
+Anfang Fam Day at Cadavra on Thu 17 Sept, Madrid. 4 acts on the bill: Jakka, Mario Blur, Noot Noot and Safia (2). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Anfang Fam Day at Cadavra on Thu 17 Sept, Madrid. 3 acts on the bill: Jakka, Noo
 ## Line-up
 
 - Jakka
+- Mario Blur
 - Noot Noot
 - Safia (2)
 

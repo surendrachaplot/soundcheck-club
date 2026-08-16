@@ -1,14 +1,13 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Kuba'97 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
-Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Gaffe, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 
@@ -27,4 +26,4 @@ Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 DJ Rino, Dana Kuehr, Ben Kamal
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*

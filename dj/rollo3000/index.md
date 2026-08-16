@@ -1,6 +1,6 @@
 # Rollo3000
 
-Rollo3000 is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Goldener Reiter, Munich on Sat, 29 Aug 2026.
+Rollo3000 is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Goldener Reiter, Munich on Sat, 29 Aug 2026.
 
 Rollo3000 is a house and balearic artist based in Germany, tracked on soundcheck, with 14 sets logged across Munich. Often billed alongside Chet Rubbs, Goiaba and Luvin'Lou. Next up: Goldener Reiter, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rollo3000 is a house and balearic artist based in Germany, tracked on soundcheck
 
 Chet Rubbs, Goiaba, Luvin'Lou
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rollo3000/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rollo3000/)*

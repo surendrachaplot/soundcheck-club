@@ -1,14 +1,15 @@
 # Vasimolo
 
-Vasimolo is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bar Datcha, Montreal on Fri, 28 Aug 2026.
+Vasimolo is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bar Datcha, Montreal on Fri, 28 Aug 2026.
 
-Vasimolo is an italo disco and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Sami (4), Sammy (3) and DJ Hidi. Next up: Bar Datcha, Montreal on Fri 28 Aug.
+Vasimolo is an italo disco and house artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Sami (4), Sammy (3) and Aram. Next up: Bar Datcha, Montreal on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Bar Datcha | Montreal |
+| Sun, 6 Sept 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Vasimolo is an italo disco and house artist based in Canada, tracked on soundche
 
 ## Shares bills with
 
-Sami (4), Sammy (3), DJ Hidi
+Sami (4), Sammy (3), Aram
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vasimolo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vasimolo/)*

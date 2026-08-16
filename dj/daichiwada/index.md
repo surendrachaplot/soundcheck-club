@@ -1,6 +1,6 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Villa, Oslo on Fri, 9 Oct 2026.
+Daichi Wada is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Villa, Oslo on Fri, 9 Oct 2026.
 
 Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck, with 57 sets logged across Berlin, Copenhagen, Glasgow and Kyoto and 6 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: The Villa, Oslo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck,
 
 XINOVI, KOSEI, Golpe Mortal
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*

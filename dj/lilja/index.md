@@ -1,6 +1,6 @@
 # lil ja
 
-lil ja is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Giri, Berlin on Fri, 28 Aug 2026.
+lil ja is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Giri, Berlin on Fri, 28 Aug 2026.
 
 lil ja is a house and baile funk artist based in Sweden, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Cologne and Madrid and 2 more. Often billed alongside HEDDA, faceblindbabe and Hanaby. Next up: Giri, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ lil ja is a house and baile funk artist based in Sweden, tracked on soundcheck, 
 
 HEDDA, faceblindbabe, Hanaby
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*

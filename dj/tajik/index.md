@@ -1,6 +1,6 @@
 # Tajik
 
-Tajik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Tajik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Tajik is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Chris Ku, Chris Beulich and Cosmic Cherry. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Tajik is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Renate, Berlin — Sat, 15 Aug 2026
 - Phantom Bar Berlin, Berlin — Sat, 9 May 2026
 - OXI, Berlin — Fri, 1 May 2026
 - Mom's Limousine Service, Berlin — Sat, 13 Dec 2025
@@ -22,4 +23,4 @@ Tajik is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Chris Ku, Chris Beulich, Cosmic Cherry
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tajik/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tajik/)*

@@ -1,6 +1,6 @@
 # ADOBE
 
-ADOBE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+ADOBE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 ADOBE is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Rob Robsen, GHOST DE and Klipp&Klar. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ ADOBE is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 15 Aug 2026
 - LGL Spätkauf, Berlin — Sat, 6 Jun 2026
 - Void Club, Berlin — Sat, 7 Feb 2026
 
@@ -19,4 +20,4 @@ ADOBE is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Rob Robsen, GHOST DE, Klipp&Klar
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobe/)*

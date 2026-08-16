@@ -1,6 +1,6 @@
 # Violent Magic Orchestra
 
-Violent Magic Orchestra is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Msqdrt Mosaique Sessions, Antwerp on Sun, 16 Aug 2026.
+Violent Magic Orchestra is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Msqdrt Mosaique Sessions, Antwerp on Sun, 16 Aug 2026.
 
 Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Msqdrt Mosaique Sessions, Antwerp on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Violent Magic Orchestra is a techno and experimental artist tracked on soundchec
 
 VMO, hOLysHiT, Marie Davidson
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*

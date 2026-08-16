@@ -1,18 +1,18 @@
 # RECLUSE (2)
 
-RECLUSE (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Socrates, Kyoto on Sat, 15 Aug 2026.
+RECLUSE (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
-RECLUSE (2) is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Kyoto and Melbourne. Often billed alongside CUT:NA, Louchi and ATARANGI. Next up: Socrates, Kyoto on Sat 15 Aug.
+RECLUSE (2) is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Kyoto and Melbourne. Often billed alongside CUT:NA, Louchi and ATARANGI. Next up: ÆDEN, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Socrates | Kyoto |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
+- Socrates, Kyoto — Sat, 15 Aug 2026
 - Golden Flamingo, Berlin — Sat, 6 Jun 2026
 - TBA - Secret Location in Central Berlin!!, Berlin — Fri, 5 Jun 2026
 - ÆDEN, Berlin — Wed, 20 May 2026
@@ -25,4 +25,4 @@ RECLUSE (2) is a techno and house artist based in Germany, tracked on soundcheck
 
 CUT:NA, Louchi, ATARANGI
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recluse-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recluse-2/)*

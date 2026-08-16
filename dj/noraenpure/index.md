@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Beach House San Diego, San Diego on Fri, 28 Aug 2026.
+Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Beach House San Diego, San Diego on Fri, 28 Aug 2026.
 
 Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Beach House San Diego, Sandiego on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 se
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

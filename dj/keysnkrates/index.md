@@ -1,6 +1,6 @@
 # Keys N Krates
 
-Keys N Krates is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 22 Aug 2026.
+Keys N Krates is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 22 Aug 2026.
 
 Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Denver, Losangeles, Lyon and Mexicocity and 5 more. Often billed alongside Pat Lok, Sabrosito and Black Daria. Next up: Sunnyside Pavilion, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck
 
 Pat Lok, Sabrosito, Black Daria
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keysnkrates/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keysnkrates/)*

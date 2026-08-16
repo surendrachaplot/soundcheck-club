@@ -1,6 +1,6 @@
 # VanRock
 
-VanRock is a House and Club artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
+VanRock is a House and Club artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
 
 VanRock is a house and club artist tracked on soundcheck, with 228 sets logged across London. Often billed alongside NYCity Soundz, Mr Fresh Official and Eddie Van Poppel. Next up: Crown Pier, London on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ VanRock is a house and club artist tracked on soundcheck, with 228 sets logged a
 
 NYCity Soundz, Mr Fresh Official, Eddie Van Poppel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanrock/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanrock/)*

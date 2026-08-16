@@ -1,6 +1,6 @@
 # ANT Mifsud
 
-ANT Mifsud is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Café del Mar Malta, Malta on Sat, 5 Sept 2026.
+ANT Mifsud is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Café del Mar Malta, Malta on Sat, 5 Sept 2026.
 
 ANT Mifsud is an afro house and house artist based in Malta, tracked on soundcheck, with 12 sets logged across London and Malta. Often billed alongside MIZAK, Carl Bee and DJ Freespirit. Next up: Café del Mar Malta, Malta on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ANT Mifsud is an afro house and house artist based in Malta, tracked on soundche
 
 MIZAK, Carl Bee, DJ Freespirit
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antmifsud/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antmifsud/)*

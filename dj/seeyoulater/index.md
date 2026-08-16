@@ -1,6 +1,6 @@
 # SEE YOU LATER
 
-SEE YOU LATER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
+SEE YOU LATER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
 
 SEE YOU LATER is a techno and hardcore artist tracked on soundcheck, with 6 sets logged across Berlin and Ghent. Often billed alongside KASIENKA, Stinny Stone and droomwolkje. Next up: Chinastraat, Ghent on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ SEE YOU LATER is a techno and hardcore artist tracked on soundcheck, with 6 sets
 
 KASIENKA, Stinny Stone, droomwolkje
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seeyoulater/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seeyoulater/)*

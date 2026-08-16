@@ -1,6 +1,6 @@
 # General Lee's Cocktail House
 
-General Lee's Cocktail House is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Heaven Sent" on Sun, 16 Aug 2026.
+General Lee's Cocktail House is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Heaven Sent" on Sun, 16 Aug 2026.
 
 General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including agraybé, Akumen, Andy Oro and No Pressure. Browse upcoming dates, start times and who's playing. 475 Gin Ling Way, Los Angeles, California, 90012.
 
@@ -16,4 +16,4 @@ General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck
 
 475 Gin Ling Way, Los Angeles, California, 90012, Los Angeles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*

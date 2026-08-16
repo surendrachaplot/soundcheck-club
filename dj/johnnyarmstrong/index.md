@@ -1,6 +1,6 @@
 # Johnny Armstrong
 
-Johnny Armstrong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
+Johnny Armstrong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
 
 Johnny Armstrong is a techno and house artist tracked on soundcheck, with 4 sets logged across Chicago and London. Often billed alongside Christian Thomas, DJ Lady D and Mantas Steles. Next up: TBA, Chicago on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Johnny Armstrong is a techno and house artist tracked on soundcheck, with 4 sets
 
 Christian Thomas, DJ Lady D, Mantas Steles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyarmstrong/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyarmstrong/)*

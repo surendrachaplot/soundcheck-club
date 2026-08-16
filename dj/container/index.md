@@ -1,6 +1,6 @@
 # Container
 
-Container is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Hideout Inn, Chicago on Fri, 11 Sept 2026.
+Container is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Hideout Inn, Chicago on Fri, 11 Sept 2026.
 
 Container is an experimental and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Assyouti, B4mba and Catnapp. Next up: The Hideout Inn, Chicago on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Container is an experimental and techno artist based in United States of America
 
 Assyouti, B4mba, Catnapp
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/container/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/container/)*

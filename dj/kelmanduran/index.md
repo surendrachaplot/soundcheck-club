@@ -1,14 +1,13 @@
 # Kelman Duran
 
-Kelman Duran is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 15 Aug 2026.
+Kelman Duran is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
 
-Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: YuYu Cine Club, Mexicocity on Sat 15 Aug.
+Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: YuYu Cine Club, Mexicocity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | YuYu Cine Club | Mexico City |
 | Sat, 22 Aug 2026 | YuYu Cine Club | Mexico City |
 | Sat, 19 Sept 2026 | The White Hotel | Manchester |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
@@ -16,6 +15,7 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, tra
 
 ## Recently played
 
+- YuYu Cine Club, Mexico City — Sat, 15 Aug 2026
 - public records, New York City — Thu, 6 Aug 2026
 - Little Joy, Los Angeles — Sat, 25 Jul 2026
 - TBA - <3, Chicago — Sat, 18 Jul 2026
@@ -23,10 +23,9 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, tra
 - Le Bain, New York City — Sat, 20 Jun 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 - Panke, Berlin — Sat, 2 May 2026
-- Various Venues, Bristol, Bristol — Wed, 22 Apr 2026
 
 ## Shares bills with
 
 BAE BAE, Loraine James, Nick León
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*

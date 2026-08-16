@@ -1,6 +1,6 @@
 # Max. (BE)
 
-Max. (BE) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
+Max. (BE) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
 
 Max. (BE) is a techno and electronica artist tracked on soundcheck, with 8 sets logged across Berlin and Ghent. Often billed alongside Rafael Munoz, Altinbas and Amalie. Next up: Chinastraat, Ghent on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Max. (BE) is a techno and electronica artist tracked on soundcheck, with 8 sets 
 
 Rafael Munoz, Altinbas, Amalie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/max.be/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/max.be/)*

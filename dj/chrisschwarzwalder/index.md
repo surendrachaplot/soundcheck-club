@@ -1,6 +1,6 @@
 # Chris Schwarzwälder
 
-Chris Schwarzwälder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Chris Schwarzwälder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Chris Schwarzwälder is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Chris Schwarzwälder is a house and techno artist based in Germany, tracked on s
 
 Mira, Britta Arnold, Sven Dohse
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*

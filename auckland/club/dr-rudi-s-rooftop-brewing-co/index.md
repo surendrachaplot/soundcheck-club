@@ -1,6 +1,6 @@
 # Dr Rudi's Rooftop Brewing Co
 
-Dr Rudi's Rooftop Brewing Co is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Tigerlily Live at Dr Rudis!" on Fri, 21 Aug 2026.
+Dr Rudi's Rooftop Brewing Co is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Tigerlily Live at Dr Rudis!" on Fri, 21 Aug 2026.
 
 Dr Rudi's Rooftop Brewing Co is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including Tigerlily. Browse upcoming dates, start times and who's playing. Level 2/204 Quay Street, Auckland CBD, Auckland 1010.
 
@@ -14,4 +14,4 @@ Dr Rudi's Rooftop Brewing Co is a music venue in Auckland listed on soundcheck. 
 
 Level 2/204 Quay Street, Auckland CBD, Auckland 1010, Auckland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/dr-rudi-s-rooftop-brewing-co/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/dr-rudi-s-rooftop-brewing-co/)*

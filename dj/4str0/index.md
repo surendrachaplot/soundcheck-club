@@ -1,6 +1,6 @@
 # 4STR0
 
-4STR0 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
+4STR0 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
 
 4STR0 is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona and Manchester. Often billed alongside Hanz, Deventi and Gills. Next up: The DBA, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@
 
 Hanz, Deventi, Gills
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4str0/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4str0/)*

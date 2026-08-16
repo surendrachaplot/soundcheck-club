@@ -1,6 +1,6 @@
 # NHK yx koyxen
 
-NHK yx koyxen is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at S-Pod, Kyoto on Sat, 22 Aug 2026.
+NHK yx koyxen is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at S-Pod, Kyoto on Sat, 22 Aug 2026.
 
 NHK yx koyxen is a techno and experimental artist tracked on soundcheck, with 11 sets logged across Kyoto and Osaka. Often billed alongside Ken'ichi Itoi, Liviu Groza and Paul Leonard. Next up: S-Pod, Kyoto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ NHK yx koyxen is a techno and experimental artist tracked on soundcheck, with 11
 
 Ken'ichi Itoi, Liviu Groza, Paul Leonard
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NHKyxkoyxen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NHKyxkoyxen/)*

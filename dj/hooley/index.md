@@ -1,6 +1,6 @@
 # Hooley
 
-Hooley is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 29 Aug 2026.
+Hooley is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 29 Aug 2026.
 
 Hooley is an ambient and downtempo artist tracked on soundcheck, with 17 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Simon Scott, Slacky [Space Ritual] and Ana K Miller. Next up: Outlaws Yacht Club, Leeds on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Hooley is an ambient and downtempo artist tracked on soundcheck, with 17 sets lo
 
 Simon Scott, Slacky [Space Ritual], Ana K Miller
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*

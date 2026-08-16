@@ -1,18 +1,18 @@
 # Tronik Youth
 
-Tronik Youth is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
+Tronik Youth is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
-Tronik Youth is a house and acid artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Bucharest, Edinburgh and London and 2 more. Often billed alongside Franklin DJ, Megan Leo and Paranoid London. Next up: The Marquee Moon, London on Sat 15 Aug.
+Tronik Youth is a house and acid artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Bucharest, Edinburgh and London and 2 more. Often billed alongside Franklin DJ, Megan Leo and Paranoid London. Next up: The Glove That Fits, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Marquee Moon | London |
 | Fri, 4 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 
+- The Marquee Moon, London — Sat, 15 Aug 2026
 - KOKO, London — Sat, 25 Jul 2026
 - The Glove That Fits, London — Sat, 30 May 2026
 - control, Bucharest — Fri, 3 Apr 2026
@@ -20,10 +20,9 @@ Tronik Youth is a house and acid artist based in United Kingdom, tracked on soun
 - BAR CINEMA ZILLI, Milan — Fri, 16 Jan 2026
 - The Glove That Fits, London — Sat, 22 Nov 2025
 - The Marquee Moon, London — Fri, 31 Oct 2025
-- KOKO, London — Fri, 4 Jul 2025
 
 ## Shares bills with
 
 Franklin DJ, Megan Leo, Paranoid London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tronikyouth/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tronikyouth/)*

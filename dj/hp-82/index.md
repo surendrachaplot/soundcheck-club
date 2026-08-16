@@ -1,6 +1,6 @@
 # HP-82
 
-HP-82 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
+HP-82 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
 
 HP-82 is a techno and house artist tracked on soundcheck, with 32 sets logged across Riga. Often billed alongside Ikss, Ksenia Kamikaza and Esoniq. Next up: Hartmanis Manor, Riga on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HP-82 is a techno and house artist tracked on soundcheck, with 32 sets logged ac
 
 Ikss, Ksenia Kamikaza, Esoniq
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*

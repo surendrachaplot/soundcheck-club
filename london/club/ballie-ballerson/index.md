@@ -1,6 +1,6 @@
 # Ballie Ballerson
 
-Ballie Ballerson is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "13th" on Sat, 29 Aug 2026.
+Ballie Ballerson is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "13th" on Sat, 29 Aug 2026.
 
 Ballie Ballerson is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 97-113 Curtain Rd, London EC2A 3BS, United Kingdom.
 
@@ -14,4 +14,4 @@ Ballie Ballerson is a music venue in London listed on soundcheck. 1 upcoming nig
 
 97-113 Curtain Rd, London EC2A 3BS, United Kingdom, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballie-ballerson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballie-ballerson/)*

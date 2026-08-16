@@ -1,6 +1,6 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
+Andy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
 
 Andy Hart is a house and techno artist based in Australia, tracked on soundcheck, with 29 sets logged across Berlin, Melbourne, Mexicocity and Tokyo. Often billed alongside Myles Mac, Pjenné and Alex Albrecht. Next up: QQQ ST. Park, Melbourne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Andy Hart is a house and techno artist based in Australia, tracked on soundcheck
 
 Myles Mac, Pjenné, Alex Albrecht
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*

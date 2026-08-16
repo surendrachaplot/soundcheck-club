@@ -1,6 +1,6 @@
 # Patrick Mason: TORONTO at TBA
 
-Patrick Mason: TORONTO at TBA on Sat 22 Aug, Toronto. 6 acts on the bill: Alley Kay, DJ Minx, MENACE (CA) and Patrick Mason and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Patrick Mason: TORONTO at TBA on Sat 22 Aug, Toronto. 7 acts on the bill: Alley Kay, DJ Minx, MENACE (CA) and Patrick Mason and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Patrick Mason: TORONTO at TBA on Sat 22 Aug, Toronto. 6 acts on the bill: Alley 
 - MENACE (CA)
 - Patrick Mason
 - Pedro (CA)
+- Psi (1)
 - SHEA (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2425107-patrick-mason-toronto-at-tba/)*

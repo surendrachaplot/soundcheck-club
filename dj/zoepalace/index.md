@@ -1,6 +1,6 @@
 # Zoe Palace
 
-Zoe Palace is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
+Zoe Palace is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
 
 Zoe Palace is a techno and trance artist tracked on soundcheck, with 17 sets logged across Berlin, Nantes and Paris. Often billed alongside DEEPLY DSTRBD, DJ TEETH and TPR (DE). Next up: Œlgarten, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Zoe Palace is a techno and trance artist tracked on soundcheck, with 17 sets log
 
 DEEPLY DSTRBD, DJ TEETH, TPR (DE)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepalace/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepalace/)*

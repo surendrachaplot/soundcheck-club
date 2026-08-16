@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Happy Feelings - Colorado Charlie" on Sat, 15 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)" on Sun, 16 Aug 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 13 upcoming nights, with line-ups including 22 Interns, AAT (NL), Boris Coelman and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 12 upcoming nights, with line-ups including 22 Interns, AAT (NL), Boris Coelman and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Happy Feelings - Colorado Charlie | IN2POL, KINETIKS, NewTone |
 | Sun, 16 Aug 2026 | Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT) | 22 Interns, Kendal, LAMMER, Spacer Woman |
 | Fri, 21 Aug 2026 | Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs | Sem Jacobs, Silvie Loto, Toman |
 | Sat, 22 Aug 2026 | Colorado Charlie with Jan Blomqvist, Helsloot, Sinca | Helsloot, Jan Blomqvist, Sinca |
@@ -18,9 +17,10 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 13 upcoming 
 | Sun, 30 Aug 2026 | Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz | Lisa Korver, Mika Heggemann, Olive Anguz |
 | Sun, 6 Sept 2026 | Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) | Daughter In Law, Easttown, Franky Rizardo |
 | Sat, 12 Sept 2026 | Colorado Charlie with Colyn (3hrs), Nicky Elisabeth | Colyn, Nicky Elisabeth |
+| Sun, 13 Sept 2026 | Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT) | Ellam, Ellia Jaya, Gaskin, Michel de Hey, Wildish |
 
 ## Address
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

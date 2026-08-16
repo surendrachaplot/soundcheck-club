@@ -1,6 +1,6 @@
 # Strath
 
-Strath is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Fri, 18 Sept 2026.
+Strath is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Cause, London on Fri, 18 Sept 2026.
 
 Strath is a house and acid artist tracked on soundcheck, with 23 sets logged across Amsterdam, Dublin, Leeds and London and 4 more. Often billed alongside Harry Who, SG Lewis and Afroasis. Next up: The Cause, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Strath is a house and acid artist tracked on soundcheck, with 23 sets logged acr
 
 Harry Who, SG Lewis, Afroasis
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*

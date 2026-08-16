@@ -1,6 +1,6 @@
 # Alias
 
-Alias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 15 Aug 2026.
+Alias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 15 Aug 2026.
 
 Alias is a house and techno artist tracked on soundcheck, with 9 sets logged across Bangkok, Hamburg, Losangeles and Lyon and 3 more. Often billed alongside A.mo, AMAYO and Beste Hira. Next up: Club Frau Holle, Hamburg on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Alias is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 ## Recently played
 
+- Club Frau Holle, Hamburg — Sat, 15 Aug 2026
 - TBA - Toronto, Toronto — Wed, 4 Mar 2026
 - Santeria Toscana 31, Milan — Thu, 24 Apr 2025
 - The Warehouse Talat Noi, Bangkok — Thu, 17 Apr 2025
@@ -19,10 +20,9 @@ Alias is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 - Terminal Club, Lyon — Fri, 29 Nov 2024
 - Rex Club, Paris — Wed, 2 Oct 2024
 - TBA - Toronto, Toronto — Sat, 3 Aug 2024
-- Station1640, Los Angeles — Fri, 3 Feb 2023
 
 ## Shares bills with
 
 A.mo, AMAYO, Beste Hira
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alias/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alias/)*

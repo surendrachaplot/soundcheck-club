@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
+DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
 DJ Minx is a house and techno artist tracked on soundcheck, with 176 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: TBA, Toronto on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 176 sets logged
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

@@ -1,6 +1,6 @@
 # Francesco (BCN)
 
-Francesco (BCN) is a Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
+Francesco (BCN) is a Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
 
 Francesco (BCN) is a club artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside SERGIO (HAKKE), Armela and Massi (2). Next up: LAUT, Barcelona on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Francesco (BCN) is a club artist tracked on soundcheck, with 5 sets logged acros
 
 SERGIO (HAKKE), Armela, Massi (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesco-bcn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesco-bcn/)*

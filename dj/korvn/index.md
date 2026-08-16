@@ -1,6 +1,6 @@
 # KORVN
 
-KORVN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Stereo, Montreal on Fri, 21 Aug 2026.
+KORVN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Stereo, Montreal on Fri, 21 Aug 2026.
 
 KORVN is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Montreal. Often billed alongside BitterCaress, Omar Hamdi and Xaviera. Next up: Stereo, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KORVN is a techno and trance artist based in France, tracked on soundcheck, with
 
 BitterCaress, Omar Hamdi, Xaviera
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korvn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korvn/)*

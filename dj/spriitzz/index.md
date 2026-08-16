@@ -1,14 +1,13 @@
 # Spriitzz
 
-Spriitzz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Spriitzz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Spriitzz is a house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Belfast, Brussels and Cork and 5 more. Often billed alongside Spray, Mall Grab and Sally C. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Spriitzz is a house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Belfast, Brussels and Cork and 5 more. Often billed alongside Spray, Mall Grab and Sally C. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Spriitzz is a house and techno artist tracked on soundcheck, with 12 sets logged
 
 Spray, Mall Grab, Sally C
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*

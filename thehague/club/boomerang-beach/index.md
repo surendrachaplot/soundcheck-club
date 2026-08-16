@@ -1,14 +1,13 @@
 # Boomerang Beach
 
-Boomerang Beach is a music venue in The Hague with 6 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "De Sessie - Ryan Elliott - Summer Sessions" on Sat, 15 Aug 2026.
+Boomerang Beach is a music venue in The Hague with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Rotterdam Rave Beach Sessions with Cloudy & friends" on Sun, 16 Aug 2026.
 
-Boomerang Beach is a music venue in Thehague listed on soundcheck. 6 upcoming nights, with line-ups including Kepler, Boss Priester, CLAESSENS and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands.
+Boomerang Beach is a music venue in Thehague listed on soundcheck. 5 upcoming nights, with line-ups including Kepler, Boss Priester, CLAESSENS and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | De Sessie - Ryan Elliott - Summer Sessions | Ka Nalu, Ryan Elliott, nik-ey |
 | Sun, 16 Aug 2026 | Rotterdam Rave Beach Sessions with Cloudy & friends | Cloudy, MIT (6), Vagabund |
 | Fri, 21 Aug 2026 | Hush at the Beach with Kepler, Boss Priester & More | Boss Priester, Easttown, Kepler |
 | Sun, 23 Aug 2026 | Give Soul at the Beach - August | DAF, Job de Jong, Karim Soliman, Nigel Hey, Stefan Meser, Tommy Phillips |
@@ -19,4 +18,4 @@ Boomerang Beach is a music venue in Thehague listed on soundcheck. 6 upcoming ni
 
 Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands, The Hague
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*

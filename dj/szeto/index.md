@@ -1,6 +1,6 @@
 # SZETO
 
-SZETO is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Drake Hotel, Toronto on Sat, 5 Sept 2026.
+SZETO is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Drake Hotel, Toronto on Sat, 5 Sept 2026.
 
 SZETO is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Elixah, Marcus Visionary and Barroness. Next up: The Drake Hotel, Toronto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ SZETO is a drum & bass and jungle artist tracked on soundcheck, with 20 sets log
 
 Elixah, Marcus Visionary, Barroness
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szeto/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szeto/)*

@@ -1,0 +1,28 @@
+# guesst (1)
+
+guesst (1) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bourbon On Division, Chicago on Thu, 27 Aug 2026.
+
+guesst (1) is a drum & bass and bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago and Seattle. Often billed alongside Initial G, Dj Scari and Toyacoyah. Next up: Bourbon On Division, Chicago on Thu 27 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 27 Aug 2026 | Bourbon On Division | Chicago |
+
+## Recently played
+
+- Gracey’s, Chicago — Sun, 5 Jul 2026
+- Podlasie Club, Chicago — Fri, 3 Jul 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle — Thu, 28 May 2026
+- Bourbon On Division, Chicago — Thu, 21 May 2026
+- Bourbon On Division, Chicago — Thu, 9 Apr 2026
+- Whistler, Chicago — Thu, 12 Mar 2026
+- Bookclub, Chicago — Sat, 7 Mar 2026
+- TBA, Chicago — Sun, 1 Feb 2026
+
+## Shares bills with
+
+Initial G, Dj Scari, Toyacoyah
+
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guesst-1/)*

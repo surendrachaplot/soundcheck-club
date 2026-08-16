@@ -1,6 +1,6 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Flash, Washington DC on Fri, 21 Aug 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Flash, Washington DC on Fri, 21 Aug 2026.
 
 Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: Flash, Washingtondc on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, wit
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

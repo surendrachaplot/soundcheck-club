@@ -1,6 +1,6 @@
 # Achille Lombardi
 
-Achille Lombardi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at NEO CLUB ROMA, Rome on Sat, 15 Aug 2026.
+Achille Lombardi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at NEO CLUB ROMA, Rome on Sat, 15 Aug 2026.
 
 Achille Lombardi is a house and club artist based in Italy, tracked on soundcheck, with 21 sets logged across Rome. Often billed alongside Marco Rea, Max Beat and Flavio Rago. Next up: NEO CLUB ROMA, Rome on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Achille Lombardi is a house and club artist based in Italy, tracked on soundchec
 
 ## Recently played
 
+- NEO CLUB ROMA, Rome — Sat, 15 Aug 2026
 - NEO CLUB ROMA, Rome — Fri, 7 Aug 2026
 - NEO CLUB ROMA, Rome — Sat, 1 Aug 2026
 - NEO CLUB ROMA, Rome — Fri, 31 Jul 2026
@@ -19,10 +20,9 @@ Achille Lombardi is a house and club artist based in Italy, tracked on soundchec
 - NEO CLUB ROMA, Rome — Sat, 25 Jul 2026
 - NEO CLUB ROMA, Rome — Fri, 24 Jul 2026
 - NEO CLUB ROMA, Rome — Sat, 18 Jul 2026
-- NEO CLUB ROMA, Rome — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Marco Rea, Max Beat, Flavio Rago
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achillelombardi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achillelombardi/)*

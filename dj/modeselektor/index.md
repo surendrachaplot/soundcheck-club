@@ -1,6 +1,6 @@
 # Modeselektor
 
-Modeselektor is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
+Modeselektor is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
 Modeselektor is a techno and electronica artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Helena Hauff, Richie Hawtin and Anetha. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Modeselektor is a techno and electronica artist tracked on soundcheck, with 57 s
 
 Helena Hauff, Richie Hawtin, Anetha
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

@@ -1,6 +1,6 @@
 # JT Donaldson
 
-JT Donaldson is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+JT Donaldson is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
 JT Donaldson is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Chicago, Losangeles and Miami and 5 more. Often billed alongside Dvize, Lumin and Brett Johnson. Next up: TBA, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ JT Donaldson is a house and hip-hop artist based in United States of America, tr
 
 Dvize, Lumin, Brett Johnson
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*

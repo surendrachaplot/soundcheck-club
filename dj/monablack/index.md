@@ -1,20 +1,19 @@
 # Mona Black
 
-Mona Black is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
+Mona Black is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
 
-Mona Black is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Detroit. Often billed alongside Drop Catch, RAEDY LEX and sillygirlcarmen. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
+Mona Black is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Detroit. Often billed alongside Drop Catch, RAEDY LEX and sillygirlcarmen. Next up: Elektricity, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
-| Sat, 15 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 | Sat, 10 Oct 2026 | Russell Industrial Center | Detroit |
 
 ## Recently played
 
+- Tangent Gallery, Detroit — Sat, 15 Aug 2026
 - Tangent Gallery, Detroit — Thu, 13 Aug 2026
 - Magic Stick, Detroit — Sat, 25 Jul 2026
 - Magic Stick, Detroit — Sat, 20 Jun 2026
@@ -22,10 +21,9 @@ Mona Black is a house and techno artist based in United States of America, track
 - Exodos Lounge, Detroit — Fri, 22 May 2026
 - HALO DETROIT, Detroit — Fri, 12 Dec 2025
 - Magic Stick, Detroit — Sat, 1 Nov 2025
-- Magic Stick, Detroit — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Drop Catch, RAEDY LEX, sillygirlcarmen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monablack/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monablack/)*

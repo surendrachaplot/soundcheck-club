@@ -1,15 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Drama" on Sat, 15 Aug 2026.
+Spkrbox is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SPKR BRNCH" on Sun, 16 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Al Ester, Hazmat Live, Kevin Reynolds and MIKE RANSOM and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Al Ester, Hazmat Live, Perish and SWDEJAY and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Drama | Tylr |
-| Sat, 15 Aug 2026 | Three Dimensions | Kevin Reynolds, MIKE RANSOM |
 | Sun, 16 Aug 2026 | SPKR BRNCH |  |
 | Sun, 16 Aug 2026 | Beatz & BBQ | Tim Cronick |
 | Sun, 16 Aug 2026 | Domingo | SWDEJAY |
@@ -21,4 +19,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming nights, wit
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

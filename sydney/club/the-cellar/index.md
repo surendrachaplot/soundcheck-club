@@ -1,6 +1,6 @@
 # The Cellar
 
-The Cellar is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Cellar Sydney Reboot" on Sat, 12 Sept 2026.
+The Cellar is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Cellar Sydney Reboot" on Sat, 12 Sept 2026.
 
 The Cellar is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Cassette. Browse upcoming dates, start times and who's playing. Basement level, 58 Elizabeth St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ The Cellar is a music venue in Sydney listed on soundcheck. 2 upcoming nights, w
 
 Basement level, 58 Elizabeth St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-cellar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-cellar/)*

@@ -1,14 +1,13 @@
 # Spin
 
-Spin is a music venue in San Diego with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sun Klassique: Golden Hour" on Sat, 15 Aug 2026.
+Spin is a music venue in San Diego with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "RISE: Trance Thursday Nightclub - AKV" on Thu, 20 Aug 2026.
 
-Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in Sandiego listed on soundcheck. 16 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Sun Klassique: Golden Hour | Jake Mora, Megalina, Rivka M |
 | Thu, 20 Aug 2026 | RISE: Trance Thursday Nightclub - AKV |  |
 | Thu, 20 Aug 2026 | Headroom Listening Sessions: San Diego |  |
 | Fri, 21 Aug 2026 | LED presents Nitefreak with Corkidi | Nitefreak |
@@ -18,9 +17,10 @@ Spin is a music venue in Sandiego listed on soundcheck. 17 upcoming nights, with
 | Fri, 4 Sept 2026 | FNGRS CRSSD x knownunknown present Partiboi69 | Partiboi69 |
 | Sat, 5 Sept 2026 | LED presents Distant Matter |  |
 | Sun, 6 Sept 2026 | GG & Friends |  |
+| Fri, 11 Sept 2026 | SD Union with Delta Heavy | Delta Heavy, MC Ridda |
 
 ## Address
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

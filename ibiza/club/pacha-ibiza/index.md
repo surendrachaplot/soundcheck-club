@@ -1,15 +1,14 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Roger Sanchez - FLOWER POWER" on Sat, 15 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 55 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Roger Sanchez - FLOWER POWER" on Sat, 15 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 55 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
-| Sat, 15 Aug 2026 | ROGER SANCHEZ / FLOWER POWER |  |
 | Sun, 16 Aug 2026 | Solomun+1 | DJ Gigola, Solomun |
 | Mon, 17 Aug 2026 | Sonny Fodera | Arielle Free, Danny Howard, Sonny Fodera |
 | Wed, 19 Aug 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
@@ -18,9 +17,10 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, 
 | Sat, 22 Aug 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
 | Sun, 23 Aug 2026 | Solomun+1 | Max Styler, Solomun |
 | Mon, 24 Aug 2026 | Sonny Fodera | Danny Howard, Eats Everything, Sonny Fodera |
+| Tue, 25 Aug 2026 | Gordo - TARAKA | Gordo |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

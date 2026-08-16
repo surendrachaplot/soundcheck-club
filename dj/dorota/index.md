@@ -1,6 +1,6 @@
 # Dorota
 
-Dorota is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
+Dorota is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
 
 Dorota is a techno and minimal techno artist based in Hungary, tracked on soundcheck, with 48 sets logged across Budapest. Often billed alongside Acsa, Andrija Jäger and JAGER (HU). Next up: TBA -  Secret Open Air Party, Budapest on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Dorota is a techno and minimal techno artist based in Hungary, tracked on soundc
 
 Acsa, Andrija Jäger, JAGER (HU)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorota/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorota/)*

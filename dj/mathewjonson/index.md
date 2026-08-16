@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Mathew Jonson is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 42 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -17,6 +17,7 @@ Mathew Jonson is a techno and house artist tracked on soundcheck, with 139 sets 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 1 Aug 2026
 - Bijhuub, Amsterdam — Sat, 13 Jun 2026
 - Club der Visionaere, Berlin — Sun, 31 May 2026
@@ -24,10 +25,9 @@ Mathew Jonson is a techno and house artist tracked on soundcheck, with 139 sets 
 - Lincoln Factory, Detroit — Mon, 25 May 2026
 - Refuge, New York City — Sat, 23 May 2026
 - 94th Aero Squadron, Miami — Fri, 22 May 2026
-- UNO MALTA, Malta — Thu, 14 May 2026
 
 ## Shares bills with
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

@@ -1,6 +1,6 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "カミノ・ザ・ファンク 1st Album『Off Shore』リリースパーティー　prod.ブギーゴッド" on Sat, 22 Aug 2026.
+Teranoma Tidepool is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "カミノ・ザ・ファンク 1st Album『Off Shore』リリースパーティー　prod.ブギーゴッド" on Sat, 22 Aug 2026.
 
 Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including H'de, Koichi (Koichiro Okada), Ku'damm and Mercy. and 2 more. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
@@ -17,4 +17,4 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 4 upcoming nig
 
 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F, Osaka
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*

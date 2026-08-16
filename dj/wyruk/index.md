@@ -1,6 +1,6 @@
 # WYR (UK)
 
-WYR (UK) is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Zerox, Newcastle on Fri, 21 Aug 2026.
+WYR (UK) is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Zerox, Newcastle on Fri, 21 Aug 2026.
 
 WYR (UK) is a drum & bass and electronica artist tracked on soundcheck, with 7 sets logged across Newcastle. Often billed alongside SYPHON, WAVES and Decaz. Next up: Zerox, Newcastle on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ WYR (UK) is a drum & bass and electronica artist tracked on soundcheck, with 7 s
 
 SYPHON, WAVES, Decaz
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wyruk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wyruk/)*

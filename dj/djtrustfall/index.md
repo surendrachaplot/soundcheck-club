@@ -1,6 +1,6 @@
 # DJ Trustfall
 
-DJ Trustfall is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
+DJ Trustfall is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
 
 DJ Trustfall is a house and club artist tracked on soundcheck, with 31 sets logged across Toronto. Often billed alongside Raf Reza, Trustfall and Kai (TO). Next up: Soleil, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ DJ Trustfall is a house and club artist tracked on soundcheck, with 31 sets logg
 
 Raf Reza, Trustfall, Kai (TO)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrustfall/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrustfall/)*

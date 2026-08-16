@@ -1,6 +1,6 @@
 # Al Dente (2)
 
-Al Dente (2) is a Latin Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Neko Rooftop bar, Ghent on Sat, 22 Aug 2026.
+Al Dente (2) is a Latin Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Neko Rooftop bar, Ghent on Sat, 22 Aug 2026.
 
 Al Dente (2) is a latin bass and garage artist tracked on soundcheck, with 12 sets logged across Ghent. Often billed alongside BJF, DC Noises and KEVIN KOFII. Next up: Neko Rooftop bar, Ghent on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Al Dente (2) is a latin bass and garage artist tracked on soundcheck, with 12 se
 
 BJF, DC Noises, KEVIN KOFII
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldente-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldente-2/)*

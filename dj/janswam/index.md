@@ -1,6 +1,6 @@
 # Jan Swam
 
-Jan Swam is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Fri, 18 Sept 2026.
+Jan Swam is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Fri, 18 Sept 2026.
 
 Jan Swam is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Emilia Grima, servei and A Strange Wedding. Next up: Gaffe, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jan Swam is a techno and trance artist tracked on soundcheck, with 49 sets logge
 
 Emilia Grima, servei, A Strange Wedding
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janswam/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janswam/)*

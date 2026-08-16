@@ -1,6 +1,6 @@
 # Pedro (CA)
 
-Pedro (CA) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
+Pedro (CA) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
 Pedro (CA) is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Toronto and Vancouver. Often billed alongside Alley Kay, MENACE. and R4TS. Next up: TBA, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pedro (CA) is a techno and tech house artist based in Netherlands, tracked on so
 
 Alley Kay, MENACE., R4TS
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroca/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroca/)*

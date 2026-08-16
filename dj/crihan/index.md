@@ -1,6 +1,6 @@
 # Crihan
 
-Crihan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Crihan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Crihan is a minimal and house artist based in Romania, tracked on soundcheck, with 37 sets logged across Antwerp, Barcelona, Berlin and Boston and 18 more. Often billed alongside Andreea Rayne, Brizman and Cristi Cons. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Crihan is a minimal and house artist based in Romania, tracked on soundcheck, wi
 
 ## Recently played
 
+- OXI, Berlin — Sat, 15 Aug 2026
 - Versalles 94, Mexico City — Thu, 25 Jun 2026
 - Dune Park, Buenos Aires — Fri, 12 Jun 2026
 - Carousel Bar & Ballroom, Sydney — Sat, 23 May 2026
@@ -19,10 +20,9 @@ Crihan is a minimal and house artist based in Romania, tracked on soundcheck, wi
 - Club der Visionaere, Berlin — Fri, 24 Apr 2026
 - Hoppetosse, Berlin — Fri, 12 Dec 2025
 - 303 Audiophile Bar, Barcelona — Sat, 27 Sept 2025
-- Goya Social Club, Madrid — Thu, 25 Sept 2025
 
 ## Shares bills with
 
 Andreea Rayne, Brizman, Cristi Cons
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crihan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crihan/)*

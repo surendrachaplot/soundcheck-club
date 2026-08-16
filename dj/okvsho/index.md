@@ -1,6 +1,6 @@
 # Okvsho
 
-Okvsho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
+Okvsho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Landesmuseum, Zurich on Mon, 10 Aug 2026.
 
 Okvsho is a house and disco artist tracked on soundcheck, with 11 sets logged across London, Paris, Seoul and Zurich. Often billed alongside KAYYAK, Alex Dallas and Princess P. Next up: Landesmuseum, Zurich on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Okvsho is a house and disco artist tracked on soundcheck, with 11 sets logged ac
 
 KAYYAK, Alex Dallas, Princess P
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okvsho/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okvsho/)*

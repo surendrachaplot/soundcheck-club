@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FUEGO WEEK 12" on Sat, 15 Aug 2026.
+Eden is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "FUEGO WEEK 12" on Sat, 15 Aug 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

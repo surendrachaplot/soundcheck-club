@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
+Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Dam Swindle is a house and disco artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Amnesia Ibiza, Ibiza on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 179 sets log
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

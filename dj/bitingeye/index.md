@@ -1,6 +1,6 @@
 # Biting Eye
 
-Biting Eye is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
+Biting Eye is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
 
 Biting Eye is a techno and electro artist tracked on soundcheck, with 8 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside SPOTLITE, Ambient Communication and Ben Huang. Next up: OIL Club, Shenzhen on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Biting Eye is a techno and electro artist tracked on soundcheck, with 8 sets log
 
 SPOTLITE, Ambient Communication, Ben Huang
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitingeye/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitingeye/)*

@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 14 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Jody Wisternoff + PEREZ RUSSO - by SOMOS PRODUCE, LA BIBLIOTECA" on Sat, 15 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 14 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Jody Wisternoff + PEREZ RUSSO - by SOMOS PRODUCE, LA BIBLIOTECA" on Sat, 15 Aug 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 14 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 5 Sept 2026 | Antrim + Paula OS x My House, La Biblioteca, San Telmo Buenos Aires | Antrim, Kebin van Reeken, Paula OS |
 | Fri, 11 Sept 2026 | Alex Stein x Karmic, La Biblioteca, San Telmo Buenos Aires | Alex Stein |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

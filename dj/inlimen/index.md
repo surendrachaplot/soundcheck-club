@@ -1,6 +1,6 @@
 # INLIMEN
 
-INLIMEN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+INLIMEN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
 INLIMEN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Birmingham, Glasgow and Leeds and 8 more. Often billed alongside Arkane, Mold Boutique and XANDY. Next up: The DBA, Manchester on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ INLIMEN is a techno and house artist based in United Kingdom, tracked on soundch
 
 Arkane, Mold Boutique, XANDY
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*

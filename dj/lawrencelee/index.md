@@ -1,6 +1,6 @@
 # Lawrence Lee
 
-Lawrence Lee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
+Lawrence Lee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
 
 Lawrence Lee is a techno and trance artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Athens and Berlin and 15 more. Often billed alongside Jensen Interceptor, Cora (CN) and HAO (CN). Next up: TBA - Private Location, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lawrence Lee is a techno and trance artist tracked on soundcheck, with 68 sets l
 
 Jensen Interceptor, Cora (CN), HAO (CN)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*

@@ -1,6 +1,6 @@
 # MOTA
 
-MOTA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at LAUT, Barcelona on Sat, 29 Aug 2026.
+MOTA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at LAUT, Barcelona on Sat, 29 Aug 2026.
 
 MOTA is a techno and drum & bass artist based in Spain, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Maduk, Javi gOn and BACO. Next up: LAUT, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MOTA is a techno and drum & bass artist based in Spain, tracked on soundcheck, w
 
 Maduk, Javi gOn, BACO
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mota/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mota/)*

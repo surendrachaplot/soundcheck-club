@@ -1,18 +1,18 @@
 # David Scott
 
-David Scott is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+David Scott is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 23 Oct 2026.
 
-David Scott is an electro and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside LEZZER QUEST, Bonzai Bonner and Danse Atmos. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
+David Scott is an electro and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside LEZZER QUEST, Bonzai Bonner and Danse Atmos. Next up: La Cheetah Club, Glasgow on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Berkeley Suite | Glasgow |
 | Fri, 23 Oct 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
+- The Berkeley Suite, Glasgow — Sat, 15 Aug 2026
 - La Cheetah Club, Glasgow — Fri, 24 Jul 2026
 - Room 2 Glasgow, Glasgow — Sat, 1 Nov 2025
 - McChuills Music Bar, Glasgow — Sun, 28 Sept 2025
@@ -23,4 +23,4 @@ David Scott is an electro and house artist based in United Kingdom, tracked on s
 
 LEZZER QUEST, Bonzai Bonner, Danse Atmos
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscott/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscott/)*

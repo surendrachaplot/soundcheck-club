@@ -1,6 +1,6 @@
 # Clock Poets
 
-Clock Poets is a Minimal Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Fri, 21 Aug 2026.
+Clock Poets is a Minimal Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club der Visionaere, Berlin on Fri, 21 Aug 2026.
 
 Clock Poets is a minimal techno and broken beat artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Brussels and Mallorca and 1 more. Often billed alongside Andrea Ferlin, Rg and Cem G. Next up: Club der Visionaere, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Clock Poets is a minimal techno and broken beat artist tracked on soundcheck, wi
 
 Andrea Ferlin, Rg, Cem G
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clockpoets/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clockpoets/)*

@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Convent - Parade After Party" on Sat, 15 Aug 2026.
+OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Convent - Parade After Party" on Sat, 15 Aug 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

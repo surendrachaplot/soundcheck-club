@@ -1,6 +1,6 @@
 # Giancarlino
 
-Giancarlino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Giancarlino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Giancarlino is a techno and electro artist based in Italy, tracked on soundcheck, with 13 sets logged across Naples and Rome. Often billed alongside IRIDE, GNMR and Marcolino. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Giancarlino is a techno and electro artist based in Italy, tracked on soundcheck
 
 IRIDE, GNMR, Marcolino
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giancarlino/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giancarlino/)*

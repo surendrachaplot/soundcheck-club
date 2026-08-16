@@ -1,6 +1,6 @@
 # SAFA
 
-SAFA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+SAFA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 SAFA is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Denver and Frankfurt and 2 more. Often billed alongside Dawit Asfaha, GERKE and Jenne. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ SAFA is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Dawit Asfaha, GERKE, Jenne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safa/)*

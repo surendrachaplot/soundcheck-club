@@ -1,6 +1,6 @@
 # ATAMI
 
-ATAMI is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ZEROTOKYO, Tokyo on Sun, 16 Aug 2026.
+ATAMI is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ZEROTOKYO, Tokyo on Sun, 16 Aug 2026.
 
 ATAMI is a bass and techno artist tracked on soundcheck, with 97 sets logged across Tokyo. Often billed alongside MOOTOE, VECSILLE and SAKO. Next up: ZEROTOKYO, Tokyo on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ ATAMI is a bass and techno artist tracked on soundcheck, with 97 sets logged acr
 
 MOOTOE, VECSILLE, SAKO
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*

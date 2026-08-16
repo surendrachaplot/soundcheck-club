@@ -1,6 +1,6 @@
 # Mic(RO) Dos
 
-Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Rampart Range Colorado, Denver on Fri, 21 Aug 2026.
+Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Rampart Range Colorado, Denver on Fri, 21 Aug 2026.
 
 Mic(RO) Dos is a minimal and tech house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver. Often billed alongside Pro-K and Hermans. Next up: TBA - Rampart Range Colorado, Denver on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Mic(RO) Dos is a minimal and tech house artist based in United States of America
 
 Pro-K, Hermans
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*

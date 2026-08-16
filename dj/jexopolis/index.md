@@ -1,6 +1,6 @@
 # Jex Opolis
 
-Jex Opolis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Buenos Aires on Fri, 4 Sept 2026.
+Jex Opolis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Buenos Aires on Fri, 4 Sept 2026.
 
 Jex Opolis is a house and progressive house artist tracked on soundcheck, with 44 sets logged across Brussels, Buenosaires, Chicago and Hamburg and 20 more. Often billed alongside Bell Towers, Jeremy Castillo and Adi Toohey. Next up: TBA, Buenosaires on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Jex Opolis is a house and progressive house artist tracked on soundcheck, with 4
 
 Bell Towers, Jeremy Castillo, Adi Toohey
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*

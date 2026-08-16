@@ -1,6 +1,6 @@
 # Blue Summer Ibiza Boat
 
-Blue Summer Ibiza Boat is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Casa Del Mar - Ibiza Cruise with Ezequiel Arias" on Mon, 17 Aug 2026.
+Blue Summer Ibiza Boat is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Casa Del Mar - Ibiza Cruise with Ezequiel Arias" on Mon, 17 Aug 2026.
 
 Blue Summer Ibiza Boat is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Cris-H, Emanate and Ezequiel Arias. Browse upcoming dates, start times and who's playing. Carrer de la Mola 31, 07800, Evissa, Illes Balears.
 
@@ -15,4 +15,4 @@ Blue Summer Ibiza Boat is a music venue in Ibiza listed on soundcheck. 2 upcomin
 
 Carrer de la Mola 31, 07800, Evissa, Illes Balears, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-summer-ibiza-boat/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-summer-ibiza-boat/)*

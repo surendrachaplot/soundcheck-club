@@ -1,6 +1,6 @@
 # Rayven Lux
 
-Rayven Lux is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
+Rayven Lux is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
 
 Rayven Lux is a drum & bass and jungle artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Bristol, London and Rotterdam and 1 more. Often billed alongside BLAIZE, Black Sun Empire and Coco Bryce. Next up: TivoliVredenburg, Utrecht on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Rayven Lux is a drum & bass and jungle artist based in Netherlands, tracked on s
 
 BLAIZE, Black Sun Empire, Coco Bryce
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayvenlux/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayvenlux/)*

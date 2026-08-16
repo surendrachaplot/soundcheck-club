@@ -1,14 +1,13 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+BASHKKA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 27 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 298 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Gianpula Village, Malta on Wed 12 Aug.
+BASHKKA is a techno and house artist tracked on soundcheck, with 298 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 27 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
@@ -35,4 +34,4 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 298 sets logged
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

@@ -1,6 +1,6 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at essaim, Paris on Sat, 15 Aug 2026.
+Nicola Cruz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at essaim, Paris on Sat, 15 Aug 2026.
 
 Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: essaim, Paris on Sat 15 Aug.
 
@@ -15,6 +15,7 @@ Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets log
 
 ## Recently played
 
+- essaim, Paris — Sat, 15 Aug 2026
 - FOLD, London — Sat, 8 Aug 2026
 - The Loft, Manchester — Fri, 7 Aug 2026
 - Lux Fragil, Lisbon — Sat, 25 Jul 2026
@@ -22,10 +23,9 @@ Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets log
 - Les Enfants Brillants, Barcelona — Fri, 24 Jul 2026
 - Fünk, Mexico City — Sat, 13 Jun 2026
 - 94th Aero Squadron, Miami — Sat, 18 Apr 2026
-- Public Works, San Francisco/Oakland — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Shvili, Cosmic JD, Juncheol
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*

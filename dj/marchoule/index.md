@@ -1,14 +1,15 @@
 # Marc Houle
 
-Marc Houle is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Circus Tokyo, Tokyo on Fri, 28 Aug 2026.
+Marc Houle is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Circus Tokyo, Tokyo on Fri, 28 Aug 2026.
 
-Marc Houle is a techno and tech house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Buenosaires and Kyoto and 6 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: Circus Tokyo, Tokyo on Fri 28 Aug.
+Marc Houle is a techno and tech house artist based in Canada, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Buenosaires and Kyoto and 6 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: Circus Tokyo, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Circus Tokyo | Tokyo |
+| Sat, 29 Aug 2026 | Circus Osaka | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marc Houle is a techno and tech house artist based in Canada, tracked on soundch
 
 Artbat, Deadmau5, Dubfire
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*

@@ -1,6 +1,6 @@
 # Brad Scott
 
-Brad Scott is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 28 Aug 2026.
+Brad Scott is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 28 Aug 2026.
 
 Brad Scott is an electro and ebm artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and DJ Nightwitch. Next up: Upstairs at the 700, Philadelphia on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Brad Scott is an electro and ebm artist based in United States of America, track
 
 DJ Baby Berlin, Ivy Oh, DJ Nightwitch
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*

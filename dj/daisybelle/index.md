@@ -1,14 +1,13 @@
 # Daisybelle
 
-Daisybelle is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
+Daisybelle is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
-Daisybelle is a house and disco artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Carly Foxx, MiNNA and STEWPOT. Next up: LDN East, London on Sat 15 Aug.
+Daisybelle is a house and disco artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Carly Foxx, MiNNA and STEWPOT. Next up: Night Tales Loft, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | LDN East | London |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -17,6 +16,7 @@ Daisybelle is a house and disco artist tracked on soundcheck, with 87 sets logge
 
 ## Recently played
 
+- LDN East, London — Sat, 15 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - Old Royal Naval College, London — Sun, 2 Aug 2026
 - TBA, London — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Daisybelle is a house and disco artist tracked on soundcheck, with 87 sets logge
 - Freight Brixton, London — Fri, 3 Jul 2026
 - Ballinderry Park, Galway, Galway — Fri, 29 May 2026
 - Night Tales Loft, London — Sat, 16 May 2026
-- Bricks, London — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Carly Foxx, MiNNA, STEWPOT
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*

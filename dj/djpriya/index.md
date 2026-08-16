@@ -1,6 +1,6 @@
 # DJ PRIYA
 
-DJ PRIYA is a Hardcore and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
+DJ PRIYA is a Hardcore and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
 
 DJ PRIYA is a hardcore and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Barcelona, Brighton, Dublin and London and 1 more. Often billed alongside THEMPRESS, AYAYA and Airali. Next up: Planet Wax, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ DJ PRIYA is a hardcore and garage artist based in United Kingdom, tracked on sou
 
 THEMPRESS, AYAYA, Airali
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpriya/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpriya/)*

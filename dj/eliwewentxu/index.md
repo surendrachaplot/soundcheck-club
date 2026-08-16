@@ -1,6 +1,6 @@
 # Eli Wewentxu
 
-Eli Wewentxu is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Mexico City on Fri, 21 Aug 2026.
+Eli Wewentxu is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Mexico City on Fri, 21 Aug 2026.
 
 Eli Wewentxu is an experimental and ambient artist tracked on soundcheck, with 7 sets logged across Buenosaires, Mexicocity, Turin and Utrecht. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: TBA, Mexicocity on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Eli Wewentxu is an experimental and ambient artist tracked on soundcheck, with 7
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*

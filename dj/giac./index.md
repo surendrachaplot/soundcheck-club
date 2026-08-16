@@ -1,6 +1,6 @@
 # giac.
 
-giac. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
+giac. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
 
 giac. is a house and electro artist tracked on soundcheck, with 46 sets logged across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Audiodise Park Montjuic, Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ giac. is a house and electro artist tracked on soundcheck, with 46 sets logged a
 
 Swann, Martini Raw, Pau Rosés
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*

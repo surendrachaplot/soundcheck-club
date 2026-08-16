@@ -1,15 +1,13 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "DOES YOUR MAMA KNOW? (DYMK FINALE)" on Sat, 15 Aug 2026.
+Catch One is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG)" on Fri, 28 Aug 2026.
 
-Catch One is a music venue in Losangeles listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
+Catch One is a music venue in Losangeles listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | DOES YOUR MAMA KNOW? (DYMK FINALE) |  |
-| Sat, 15 Aug 2026 | 2N1T3 #04 TORIENA |  |
 | Fri, 28 Aug 2026 | HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG) |  |
 | Fri, 28 Aug 2026 | Debí BaiLAr MáS PerrEO (Bad Bunny - Dance Night) |  |
 | Fri, 28 Aug 2026 | REGGAETON Y 2000s (Perreo Classics + Y2K All Night!) |  |
@@ -22,4 +20,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 9 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

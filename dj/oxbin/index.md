@@ -1,6 +1,6 @@
 # Oxbin
 
-Oxbin is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala Siroco, Madrid on Fri, 11 Sept 2026.
+Oxbin is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sala Siroco, Madrid on Fri, 11 Sept 2026.
 
 Oxbin is a techno and electronica artist based in Spain, tracked on soundcheck, with 9 sets logged across Amsterdam and Madrid. Often billed alongside Nau Leone, Gleezy and ARVØW. Next up: Sala Siroco, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Oxbin is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Nau Leone, Gleezy, ARVØW
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxbin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxbin/)*

@@ -1,15 +1,13 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "10 Aug - 16 Aug" on Sat, 15 Aug 2026.
+Stoked&stoned is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "LOS 2000" on Sun, 16 Aug 2026.
 
-Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including Acidwork, bumv, DJ Soulscape and FOI (SK) and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
+Stoked&stoned is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including bumv, FOI (SK), Justruud and Krijka and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | 10 Aug - 16 Aug | Acidwork, DJ Soulscape, JNS, Jesse You, Kimoji, Mignon (2), Nolove, Oldshoes, Riskii (2), Sebibadboy, Youngseok, morelo |
-| Sat, 15 Aug 2026 | Saturday Stoked&stoned | JNS, Riskii (2), Sebibadboy, Youngseok |
 | Sun, 16 Aug 2026 | LOS 2000 |  |
 | Sun, 23 Aug 2026 | 17 Aug - 23 Aug | FOI (SK), Justruud, Krijka, Mignon (2), Nolove, Sebibadboy, TRUEUNSOL, Youngseok, bumv |
 
@@ -17,4 +15,4 @@ Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming nights,
 
 Seoul, Yongsan District, Daesagwan-ro, 72 2F, Seoul
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*

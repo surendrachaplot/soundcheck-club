@@ -1,6 +1,6 @@
 # Daniel Mata
 
-Daniel Mata is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Promenaden Eck, Berlin on Thu, 3 Sept 2026.
+Daniel Mata is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Promenaden Eck, Berlin on Thu, 3 Sept 2026.
 
 Daniel Mata is a house and tech house artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside crydebleich, Cardi-O and Buggi. Next up: Promenaden Eck, Berlin on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Daniel Mata is a house and tech house artist tracked on soundcheck, with 7 sets 
 
 crydebleich, Cardi-O, Buggi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmata/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmata/)*

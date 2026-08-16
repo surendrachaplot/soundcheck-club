@@ -1,14 +1,13 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Ollie Lishman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Else, Berlin on Sun, 30 Aug 2026.
 
-Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Else, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 30 Aug 2026 | Else | Berlin |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
@@ -29,4 +28,4 @@ Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

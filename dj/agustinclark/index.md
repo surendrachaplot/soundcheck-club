@@ -1,6 +1,6 @@
 # Agustin Clark
 
-Agustin Clark is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
+Agustin Clark is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
 
 Agustin Clark is a house and minimal artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Buenosaires and Hamburg and 3 more. Often billed alongside Amalia Balbontin, Mateo Dufour and Alci. Next up: Crobar - Buenos Aires, Buenosaires on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Agustin Clark is a house and minimal artist tracked on soundcheck, with 16 sets 
 
 Amalia Balbontin, Mateo Dufour, Alci
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinclark/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinclark/)*

@@ -1,6 +1,6 @@
 # Eski
 
-Eski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
+Eski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
 
 Eski is a techno and house artist based in Denmark, tracked on soundcheck, with 35 sets logged across Copenhagen. Often billed alongside tadoh, MiniMalene (2) and Anna Logic. Next up: Culture Box, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Eski is a techno and house artist based in Denmark, tracked on soundcheck, with 
 
 tadoh, MiniMalene (2), Anna Logic
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eski/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eski/)*

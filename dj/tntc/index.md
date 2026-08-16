@@ -1,6 +1,6 @@
 # TNTC
 
-TNTC is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+TNTC is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 TNTC is an experimental and bass artist based in Spain, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Basel and Berlin and 2 more. Often billed alongside Baba Sy, Opoku and B4mba. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ TNTC is an experimental and bass artist based in Spain, tracked on soundcheck, w
 
 Baba Sy, Opoku, B4mba
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntc/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntc/)*

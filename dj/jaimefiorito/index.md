@@ -1,6 +1,6 @@
 # Jaime Fiorito
 
-Jaime Fiorito is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
+Jaime Fiorito is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Jaime Fiorito is a house and balearic artist tracked on soundcheck, with 37 sets logged across Athens, Berlin, Ibiza and Istanbul and 5 more. Often billed alongside Camilo Miranda, Luca Averna and Christian Len. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Jaime Fiorito is a house and balearic artist tracked on soundcheck, with 37 sets
 
 Camilo Miranda, Luca Averna, Christian Len
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimefiorito/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimefiorito/)*

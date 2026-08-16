@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Morgan Seatree / Gerardo Niva / doccudder" on Sat, 15 Aug 2026.
+Mondo is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Morgan Seatree / Gerardo Niva / doccudder" on Sat, 15 Aug 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including 6 SENSE, Alarico, Alba Franch and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with 
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

@@ -1,14 +1,13 @@
 # Dijon
 
-Dijon is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Dijon is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
-Dijon is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged across Bristol, Budapest, Newyorkcity and Paris. Often billed alongside Dom Dolla, Little Simz and Oklou. Next up: Obudai Island, Budapest on Tue 11 Aug.
+Dijon is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged across Bristol, Budapest, Newyorkcity and Paris. Often billed alongside Dom Dolla, Little Simz and Oklou. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 
 ## Recently played
@@ -21,4 +20,4 @@ Dijon is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged a
 
 Dom Dolla, Little Simz, Oklou
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*

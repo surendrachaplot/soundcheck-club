@@ -1,6 +1,6 @@
 # Obelix
 
-Obelix is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OHM, Berlin on Sat, 22 Aug 2026.
+Obelix is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at OHM, Berlin on Sat, 22 Aug 2026.
 
 Obelix is a house and techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Berlin, Bucharest, London and Manchester. Often billed alongside DJ Life, DJ CHICHI and Dornika. Next up: OHM, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Obelix is a house and techno artist based in Australia, tracked on soundcheck, w
 
 DJ Life, DJ CHICHI, Dornika
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obelix/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obelix/)*

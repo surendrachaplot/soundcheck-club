@@ -1,6 +1,6 @@
 # Marcel Dusk
 
-Marcel Dusk is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 28 Aug 2026.
+Marcel Dusk is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 28 Aug 2026.
 
 Marcel Dusk is a minimal techno and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Munich. Often billed alongside SASHTY, Dykstra and Shishmish. Next up: Bahnwärter Thiel, Munich on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Marcel Dusk is a minimal techno and techno artist based in Germany, tracked on s
 
 SASHTY, Dykstra, Shishmish
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldusk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldusk/)*

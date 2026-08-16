@@ -1,6 +1,6 @@
 # arktoi
 
-arktoi is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Qbar, San Francisco/Oakland on Fri, 21 Aug 2026.
+arktoi is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Qbar, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 arktoi is a club and pop artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside Olivia Lauren, MAMA SAN and MASHALLAH. Next up: Qbar, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ arktoi is a club and pop artist based in United States of America, tracked on so
 
 Olivia Lauren, MAMA SAN, MASHALLAH
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*

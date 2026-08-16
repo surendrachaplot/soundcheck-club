@@ -1,14 +1,13 @@
 # Echofaze
 
-Echofaze is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Echofaze is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
 
-Echofaze is a techno and house artist based in Malta, tracked on soundcheck, with 23 sets logged across Berlin and Malta. Often billed alongside INVERTED (MT), YAZMIN (MT) and STK (MT). Next up: Gianpula Village, Malta on Wed 12 Aug.
+Echofaze is a techno and house artist based in Malta, tracked on soundcheck, with 23 sets logged across Berlin and Malta. Often billed alongside INVERTED (MT), YAZMIN (MT) and STK (MT). Next up: Liquid Club, Malta on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 4 Sept 2026 | Liquid Club | Malta |
 
 ## Recently played
@@ -26,4 +25,4 @@ Echofaze is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 INVERTED (MT), YAZMIN (MT), STK (MT)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echofaze/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echofaze/)*

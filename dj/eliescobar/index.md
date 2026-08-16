@@ -1,6 +1,6 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 13 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Eli Escobar is a House and Electro artist with 13 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Eli Escobar is a house and electro artist tracked on soundcheck, with 535 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -23,6 +23,7 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 535 sets l
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Paragon, New York City — Fri, 24 Jul 2026
 - Gabriela, New York City — Thu, 23 Jul 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 535 sets l
 - Jolene Downtown Miami, Miami — Sat, 18 Jul 2026
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
 - Gabriela, New York City — Thu, 16 Jul 2026
-- Elsewhere, New York City — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

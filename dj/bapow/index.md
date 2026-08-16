@@ -1,6 +1,6 @@
 # Bapow
 
-Bapow is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
+Bapow is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
 
 Bapow is a trance and techno artist based in Belgium, tracked on soundcheck, with 12 sets logged across Brussels and Budapest. Often billed alongside Poppy (BE), Ava Eva and Dyed Soundorom. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Bapow is a trance and techno artist based in Belgium, tracked on soundcheck, wit
 
 Poppy (BE), Ava Eva, Dyed Soundorom
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*

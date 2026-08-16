@@ -1,6 +1,6 @@
 # Korolova
 
-Korolova is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 23 Aug 2026.
+Korolova is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 23 Aug 2026.
 
 Korolova is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Ku Barcelona, Barcelona on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ Korolova is a techno and house artist tracked on soundcheck, with 124 sets logge
 
 Adam Beyer, Artbat, Franky Wah
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

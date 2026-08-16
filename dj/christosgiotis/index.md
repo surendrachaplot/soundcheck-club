@@ -1,6 +1,6 @@
 # Christos Giotis
 
-Christos Giotis is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Skull Bar, Athens on Sun, 16 Aug 2026.
+Christos Giotis is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Skull Bar, Athens on Sun, 16 Aug 2026.
 
 Christos Giotis is a progressive house and techno artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens. Often billed alongside Bouzidi (2), Sander El and Sirod. Next up: Skull Bar, Athens on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ Christos Giotis is a progressive house and techno artist based in Greece, tracke
 
 Bouzidi (2), Sander El, Sirod
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christosgiotis/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christosgiotis/)*

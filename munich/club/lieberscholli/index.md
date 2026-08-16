@@ -1,14 +1,13 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Township Rebellion Invites Open Air" on Sat, 15 Aug 2026.
+Lieberscholli is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Scholli pres. Volkoder" on Fri, 21 Aug 2026.
 
-Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Alex Volta, Anna Lazer, Anna Reusch and Apolonia and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
+Lieberscholli is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including Alex Volta, Anna Lazer, Anna Reusch and Apolonia and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Township Rebellion Invites Open Air | Nothing But Love, SKIY, Township Rebellion |
 | Fri, 21 Aug 2026 | Scholli pres. Volkoder | Genji Yoshida, Human Rias, Nicholsandroark, Volkoder |
 | Sat, 22 Aug 2026 | TOON TOWN RETURNS w. Grace Dahl (OPEN AIR & INDOOR) | Dolan, Elpawel, Grace Dahl, Inu G, Jeyrototo, Kamo, Kongusto, O/H/M, RAPH, SHAJAN, TONA |
 | Sun, 23 Aug 2026 | Discovery Sessions: Open Air w. Justin Jay | Human Rias, Jan Minnerup, Justin Jay, Shake Daddy |
@@ -22,4 +21,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

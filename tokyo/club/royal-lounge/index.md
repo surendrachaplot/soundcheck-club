@@ -1,14 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "15 SAT ロトベル誕生祭" on Sat, 15 Aug 2026.
+Royal Lounge is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sunset House Rooftop" on Sun, 16 Aug 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including Addiy, Junya, KAIKAI and PUNK N MATRIX and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including Addiy, Junya, KAIKAI and PUNK N MATRIX and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | 15 SAT ロトベル誕生祭 |  |
 | Sun, 16 Aug 2026 | Sunset House Rooftop |  |
 | Mon, 17 Aug 2026 | MONDAY ALTITUDE |  |
 | Tue, 18 Aug 2026 | DJ NIGHT -NEXUS- |  |
@@ -18,9 +17,10 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights,
 | Sat, 22 Aug 2026 | Mothership Connection |  |
 | Sun, 23 Aug 2026 | ROYAL SUNDAY |  |
 | Mon, 24 Aug 2026 | ROYAL MONDAY |  |
+| Tue, 25 Aug 2026 | DJ NIGHT -NEXUS- |  |
 
 ## Address
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

@@ -1,6 +1,6 @@
 # Loose E
 
-Loose E is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 17 Sept 2026.
+Loose E is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 17 Sept 2026.
 
 Loose E is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: The Berkeley Suite, Glasgow on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Loose E is a garage and jungle artist based in United Kingdom, tracked on soundc
 
 3-Lix, Emiliooo, Orla Halligan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*

@@ -1,6 +1,6 @@
 # DV8 (LV)
 
-DV8 (LV) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+DV8 (LV) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 DV8 (LV) is a techno and hardcore artist based in Azerbaijan, tracked on soundcheck, with 12 sets logged across Riga. Often billed alongside UZAY, Existal and hitomori. Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DV8 (LV) is a techno and hardcore artist based in Azerbaijan, tracked on soundch
 
 UZAY, Existal, hitomori
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*

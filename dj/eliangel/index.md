@@ -1,6 +1,6 @@
 # Eliangel
 
-Eliangel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+Eliangel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
 Eliangel is a house and techno artist based in Venezuela, tracked on soundcheck, with 55 sets logged across Berlin and Mexicocity. Often billed alongside Ferraz, Alby Esc and ELA. Next up: OXI, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Eliangel is a house and techno artist based in Venezuela, tracked on soundcheck,
 
 Ferraz, Alby Esc, ELA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*

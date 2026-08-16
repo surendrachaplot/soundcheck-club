@@ -1,6 +1,6 @@
 # Angelos
 
-Angelos is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 29 Aug 2026.
+Angelos is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Angelos is an afro house and house artist tracked on soundcheck, with 29 sets logged across Athens, Berlin, Brussels and Geneva and 11 more. Often billed alongside Black Coffee, Damian Lazarus and Henrik Schwarz. Next up: Hï Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Angelos is an afro house and house artist tracked on soundcheck, with 29 sets lo
 
 Black Coffee, Damian Lazarus, Henrik Schwarz
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*

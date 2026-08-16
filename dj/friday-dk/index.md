@@ -1,6 +1,6 @@
 # Frida(y)
 
-Frida(y) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
+Frida(y) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
 
 Frida(y) is a techno and house artist tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Anna Logic, Adexia and Anders HP. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ Frida(y) is a techno and house artist tracked on soundcheck, with 6 sets logged 
 
 Anna Logic, Adexia, Anders HP
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*

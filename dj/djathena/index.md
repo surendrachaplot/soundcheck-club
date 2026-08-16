@@ -1,6 +1,6 @@
 # Athena
 
-Athena is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Athena is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 Athena is a house and minimal artist tracked on soundcheck, with 3 sets logged across Chicago, Mexicocity and Newyorkcity. Often billed alongside Nick AM, A. Parssi and Athena (2). Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Athena is a house and minimal artist tracked on soundcheck, with 3 sets logged a
 
 Nick AM, A. Parssi, Athena (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djathena/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djathena/)*

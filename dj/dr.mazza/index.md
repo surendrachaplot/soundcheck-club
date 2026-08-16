@@ -1,6 +1,6 @@
 # dr. Mazza
 
-dr. Mazza is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+dr. Mazza is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 dr. Mazza is a techno and baile funk artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London, Paris and Saopaulo. Often billed alongside GUREY, Kontronatura and Daskaran. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ dr. Mazza is a techno and baile funk artist based in United Kingdom, tracked on 
 
 GUREY, Kontronatura, Daskaran
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mazza/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mazza/)*

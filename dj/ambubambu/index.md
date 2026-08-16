@@ -1,19 +1,19 @@
 # Ambu Bambu
 
-Ambu Bambu is a Bass and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Time is the new space, Rotterdam on Sat, 15 Aug 2026.
+Ambu Bambu is a Bass and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
-Ambu Bambu is a bass and ambient artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, London, Milan and Rotterdam and 2 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: Time is the new space, Rotterdam on Sat 15 Aug.
+Ambu Bambu is a bass and ambient artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, London, Milan and Rotterdam and 2 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Time is the new space | Rotterdam |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Sun, 30 Aug 2026 | murmur | Amsterdam |
 
 ## Recently played
 
+- Time is the new space, Rotterdam — Sat, 15 Aug 2026
 - De Nijverheid, Utrecht — Sat, 11 Jul 2026
 - KABUL à GoGo, Utrecht — Sat, 6 Jun 2026
 - Doka, Amsterdam — Sat, 16 May 2026
@@ -21,10 +21,9 @@ Ambu Bambu is a bass and ambient artist based in Netherlands, tracked on soundch
 - Tempio del Futuro Perduto, Milan — Fri, 13 Mar 2026
 - export, Rotterdam — Sat, 31 Jan 2026
 - CLUB RAUM, Amsterdam — Fri, 16 Jan 2026
-- Nomono, Utrecht — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Tjade, Conduct Disorder, kimmah
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*

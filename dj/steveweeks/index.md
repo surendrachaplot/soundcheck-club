@@ -1,6 +1,6 @@
 # Steve Weeks
 
-Steve Weeks is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
+Steve Weeks is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
 
 Steve Weeks is an ebm and post-punk artist tracked on soundcheck, with 56 sets logged across London. Often billed alongside Ricardo Castro, Dj.Malefica and Elander Ziggy. Next up: Electrowerkz, London on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Steve Weeks is an ebm and post-punk artist tracked on soundcheck, with 56 sets l
 
 ## Recently played
 
+- Electrowerkz, London — Sat, 15 Aug 2026
 - Electrowerkz, London — Fri, 17 Jul 2026
 - Electrowerkz, London — Fri, 12 Jun 2026
 - Electrowerkz, London — Sat, 16 May 2026
@@ -20,10 +21,9 @@ Steve Weeks is an ebm and post-punk artist tracked on soundcheck, with 56 sets l
 - Electrowerkz, London — Fri, 13 Mar 2026
 - Electrowerkz, London — Sat, 21 Feb 2026
 - Electrowerkz, London — Sat, 17 Jan 2026
-- Colours Hoxton, London — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Ricardo Castro, Dj.Malefica, Elander Ziggy
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveweeks/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveweeks/)*

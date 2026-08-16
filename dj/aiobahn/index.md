@@ -1,6 +1,6 @@
 # Aiobahn
 
-Aiobahn is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 21 Aug 2026.
+Aiobahn is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 21 Aug 2026.
 
 Aiobahn is a club and pop artist tracked on soundcheck, with 18 sets logged across Osaka and Tokyo. Often billed alongside lilbesh ramko, HEAVEN'S GATE CREW and Genick. Next up: ZEROTOKYO, Tokyo on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Aiobahn is a club and pop artist tracked on soundcheck, with 18 sets logged acro
 
 lilbesh ramko, HEAVEN'S GATE CREW, Genick
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiobahn/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiobahn/)*

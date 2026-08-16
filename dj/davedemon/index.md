@@ -1,6 +1,6 @@
 # Dave Demon
 
-Dave Demon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+Dave Demon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 Dave Demon is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside GHOST DE, DJ Jordan and Rob Robsen. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Dave Demon is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 15 Aug 2026
 - Void Club, Berlin — Sat, 20 Dec 2025
 - Brandenburger Tor, Berlin — Sat, 12 Jul 2025
 - Void Club, Berlin — Sat, 3 May 2025
@@ -21,4 +22,4 @@ Dave Demon is a techno and trance artist based in Germany, tracked on soundcheck
 
 GHOST DE, DJ Jordan, Rob Robsen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davedemon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davedemon/)*

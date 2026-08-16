@@ -1,6 +1,6 @@
 # GALGØ
 
-GALGØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sala ART, Madrid on Sat, 29 Aug 2026.
+GALGØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sala ART, Madrid on Sat, 29 Aug 2026.
 
 GALGØ is a techno artist tracked on soundcheck, with 13 sets logged across Berlin and Madrid. Often billed alongside NARCX, H1pnos1s and QUINCE (2). Next up: Sala ART, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ GALGØ is a techno artist tracked on soundcheck, with 13 sets logged across Berl
 
 NARCX, H1pnos1s, QUINCE (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galgo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galgo/)*

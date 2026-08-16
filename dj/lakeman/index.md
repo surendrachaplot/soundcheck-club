@@ -1,6 +1,6 @@
 # Lakeman
 
-Lakeman is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
+Lakeman is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
 
 Lakeman is a house and minimal artist tracked on soundcheck, with 10 sets logged across Berlin and Buenosaires. Often billed alongside Federico Molinari, Nekes and DFUNKLUB. Next up: Club der Visionaere, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lakeman is a house and minimal artist tracked on soundcheck, with 10 sets logged
 
 Federico Molinari, Nekes, DFUNKLUB
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakeman/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakeman/)*

@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Cova Santa presents Pablo Fierro" on Sat, 15 Aug 2026.
+Cova Santa is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Pantheøn" on Sun, 16 Aug 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Cova Santa presents Pablo Fierro | PAUZA, Pablo Fierro |
 | Sun, 16 Aug 2026 | Pantheøn | De La Swing, Hector Couto, JNJS, Sem Jacobs, Solardo |
 | Tue, 18 Aug 2026 | PIV IBIZA TUESDAYS - August 18 | Chiara Kidd, Grant Nelson, Kellie Allen, Midas Field, Ms. Mada, Prunk, Retrouve, Romeo Louisa |
 | Wed, 19 Aug 2026 | Rumors |  |
@@ -18,9 +17,10 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, w
 | Wed, 26 Aug 2026 | Rumors |  |
 | Fri, 28 Aug 2026 | WooMooN | Avangart Tabldot, BOHEM, Parallelle, Sam Shure |
 | Sun, 30 Aug 2026 | Pantheøn | Agoria, HoneyLuv, Rivellino |
+| Tue, 1 Sept 2026 | PIV IBIZA TUESDAYS - September 1 | AAT (NL), Anil Aras, Lauren Lo Sung, Locklead, Prunk |
 
 ## Address
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

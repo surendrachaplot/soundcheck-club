@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Metalheadz Blue Note Sessions (Liverpool)" on Sat, 15 Aug 2026.
+Kapsule is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Reheat 5th Birthday with Onur Özer, Lee Rands & Louie G" on Sat, 12 Sept 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Aerofunk, Ant TC1, Cadence. and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Aerofunk, Cadence., Captain Wallop and Ivan Smagghe and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Metalheadz Blue Note Sessions (Liverpool) | Ant TC1, Goldie, Loxy |
 | Sat, 12 Sept 2026 | Reheat 5th Birthday with Onur Özer, Lee Rands & Louie G | Lee Rands, Louie G, Onur Özer |
 | Fri, 25 Sept 2026 | Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz | Cadence., tINI |
 | Sat, 26 Sept 2026 | Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) | Captain Wallop, Oldboy, Osmosis Jones |
@@ -20,4 +19,4 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, w
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

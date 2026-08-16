@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
+ThanksMate is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
 
 ThanksMate is a house and disco artist tracked on soundcheck, with 54 sets logged across Amsterdam, London, Milan and Naples and 2 more. Often billed alongside Obbi, Curcio and Mugman. Next up: Umoya, Naples on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ ThanksMate is a house and disco artist tracked on soundcheck, with 54 sets logge
 
 Obbi, Curcio, Mugman
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

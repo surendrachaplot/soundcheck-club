@@ -1,6 +1,6 @@
 # Darlyn Vlys
 
-Darlyn Vlys is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
+Darlyn Vlys is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
 
 Darlyn Vlys is an electro and techno artist based in France, tracked on soundcheck, with 4 sets logged across Barcelona, Paris and Prague. Often billed alongside GuyOhm, Ark3r and ChillOhm. Next up: Rachdingue, Barcelona on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Darlyn Vlys is an electro and techno artist based in France, tracked on soundche
 
 ## Recently played
 
+- Rachdingue, Barcelona — Sat, 15 Aug 2026
 - Rachdingue, Barcelona — Sat, 6 Jul 2024
 - Bike Jesus, Prague — Fri, 29 Dec 2023
 - à la Folie Paris, Paris — Fri, 15 Dec 2023
@@ -20,4 +21,4 @@ Darlyn Vlys is an electro and techno artist based in France, tracked on soundche
 
 GuyOhm, Ark3r, ChillOhm
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darlynvlys/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darlynvlys/)*

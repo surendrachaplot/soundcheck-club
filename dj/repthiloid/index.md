@@ -1,6 +1,6 @@
 # Repthiloid
 
-Repthiloid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
+Repthiloid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
 
 Repthiloid is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Leipzig. Often billed alongside Dynamic Experience, MOMSON and Alles_oder_Nada. Next up: Malzfabrik, Berlin on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Repthiloid is a techno and house artist based in Germany, tracked on soundcheck,
 
 Dynamic Experience, MOMSON, Alles_oder_Nada
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/repthiloid/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/repthiloid/)*

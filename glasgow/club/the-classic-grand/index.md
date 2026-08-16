@@ -1,14 +1,13 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Coloursfest 25th Anniversary - Official After Party" on Sat, 15 Aug 2026.
+The Classic Grand is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "TRAGIK Presents: IKKHI / MADMIZE / SMR" on Fri, 21 Aug 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Carbon Based Lifeforms, Chaos Clan, Charlie B and Dougal and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Carbon Based Lifeforms, Chaos Clan, Charlie B and Dougal and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Coloursfest 25th Anniversary - Official After Party |  |
 | Fri, 21 Aug 2026 | TRAGIK Presents: IKKHI / MADMIZE / SMR |  |
 | Fri, 28 Aug 2026 | BOUNCE: Ueberrest | Ueberrest |
 | Sat, 29 Aug 2026 | Darkside: 27 Years |  |
@@ -18,9 +17,10 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming 
 | Sat, 12 Sept 2026 | AKAI Presents: Juul Exler |  |
 | Sat, 19 Sept 2026 | Rave Heaven with George Bowie (GBX) | George Bowie |
 | Tue, 22 Sept 2026 | CATALYST: Denis Dekay - Glasgow |  |
+| Sat, 26 Sept 2026 | CATALYST: Denis Dekay - Glasgow |  |
 
 ## Address
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

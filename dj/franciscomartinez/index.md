@@ -1,6 +1,6 @@
 # Francisco Martinez
 
-Francisco Martinez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Francisco Martinez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
 Francisco Martinez is a house and minimal artist tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Istanbul and Lisbon and 1 more. Often billed alongside Youngs, Abscal and Alex (ES). Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Francisco Martinez is a house and minimal artist tracked on soundcheck, with 5 s
 
 Youngs, Abscal, Alex (ES)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscomartinez/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscomartinez/)*

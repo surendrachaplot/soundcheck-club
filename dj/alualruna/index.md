@@ -1,6 +1,6 @@
 # Alu Alruna
 
-Alu Alruna is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Grandeur Cru Wine Shop, Detroit on Thu, 27 Aug 2026.
+Alu Alruna is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Grandeur Cru Wine Shop, Detroit on Thu, 27 Aug 2026.
 
 Alu Alruna is a techno and electro artist tracked on soundcheck, with 15 sets logged across Detroit. Often billed alongside Auntie Chanel, Cherriel and Sapphyre. Next up: Grandeur Cru Wine Shop, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Alu Alruna is a techno and electro artist tracked on soundcheck, with 15 sets lo
 
 Auntie Chanel, Cherriel, Sapphyre
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alualruna/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alualruna/)*

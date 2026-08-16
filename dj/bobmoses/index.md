@@ -1,14 +1,13 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat, 15 Aug 2026.
+Bob Moses is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Nitsa Club, Barcelona on Fri, 21 Aug 2026.
 
-Bob Moses is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Ben Böhmer, Claptone and Justin Martin. Next up: TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat 15 Aug.
+Bob Moses is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Ben Böhmer, Claptone and Justin Martin. Next up: Nitsa Club, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - The Roof at The Ritz-Carlton, Istanbul | Istanbul |
 | Fri, 21 Aug 2026 | Nitsa Club | Barcelona |
 | Sun, 23 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
@@ -17,6 +16,7 @@ Bob Moses is a house and deep house artist tracked on soundcheck, with 50 sets l
 
 ## Recently played
 
+- TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul — Sat, 15 Aug 2026
 - Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
 - Berkeley Greek Theatre, San Francisco/Oakland — Fri, 17 Jul 2026
 - The Pinnacle, Nashville — Tue, 7 Apr 2026
@@ -24,10 +24,9 @@ Bob Moses is a house and deep house artist tracked on soundcheck, with 50 sets l
 - TBA - Norwegian Joy + Harvest Caye, Belize, Miami — Sun, 18 Jan 2026
 - Club Space Miami, Miami — Fri, 19 Dec 2025
 - Carson Creek Ranch, Austin — Sat, 25 Oct 2025
-- Great American Music Hall, San Francisco/Oakland — Thu, 18 Sept 2025
 
 ## Shares bills with
 
 Ben Böhmer, Claptone, Justin Martin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

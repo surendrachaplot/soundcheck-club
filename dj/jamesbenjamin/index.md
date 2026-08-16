@@ -1,6 +1,6 @@
 # James Benjamin
 
-James Benjamin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
+James Benjamin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Breakglass Studios, Montreal on Sun, 16 Aug 2026.
 
 James Benjamin is a house and techno artist based in Canada, tracked on soundcheck, with 39 sets logged across Mexicocity, Montreal, Newyorkcity and Toronto. Often billed alongside Jamvvis, Runa and SAMIA. Next up: Breakglass Studios, Montreal on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ James Benjamin is a house and techno artist based in Canada, tracked on soundche
 
 Jamvvis, Runa, SAMIA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbenjamin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbenjamin/)*

@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "FERVO FLUXO 5TH BIRTHDAY" on Sat, 15 Aug 2026.
+Virage is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "FERVO FLUXO 5TH BIRTHDAY" on Sat, 15 Aug 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Alhena_ and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 15 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

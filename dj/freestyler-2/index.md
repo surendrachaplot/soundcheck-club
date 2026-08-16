@@ -1,6 +1,6 @@
 # Freestyler (2)
 
-Freestyler (2) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
+Freestyler (2) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
 
 Freestyler (2) is a club and experimental artist tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Ghent and Hamburg and 1 more. Often billed alongside bod [包家巷], EuroEyez and Softmatter. Next up: OHM, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Freestyler (2) is a club and experimental artist tracked on soundcheck, with 23 
 
 bod [包家巷], EuroEyez, Softmatter
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*

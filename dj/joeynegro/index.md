@@ -1,6 +1,6 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Dave Lee is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Dave Lee is a house and disco artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dave Lee is a house and disco artist tracked on soundcheck, with 89 sets logged 
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

@@ -1,14 +1,13 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 27 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "G-Eazy (Live), Sounds By DJ Ruckus" on Sat, 15 Aug 2026.
+Savaya Bali is a music venue in Bali with 26 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Snakehips" on Sun, 16 Aug 2026.
 
-Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, AWEN and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
+Savaya Bali is a music venue in Bali listed on soundcheck. 26 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, AWEN and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | G-Eazy (Live), Sounds By DJ Ruckus |  |
 | Sun, 16 Aug 2026 | Snakehips |  |
 | Fri, 21 Aug 2026 | Defected | Ferreck Dawn, Low Steppa |
 | Sat, 22 Aug 2026 | Cristoph | Cristoph |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, w
 | Sun, 30 Aug 2026 | AARON SEVILLA | AARON SEVILLA |
 | Sat, 5 Sept 2026 | Laolu | Laolu |
 | Sun, 6 Sept 2026 | Maesic |  |
+| Sat, 12 Sept 2026 | Marten Lou | Marten Lou |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

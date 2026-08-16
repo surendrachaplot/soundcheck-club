@@ -1,6 +1,6 @@
 # meera (NO)
 
-meera (NO) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Amok Club, Mallorca on Mon, 24 Aug 2026.
+meera (NO) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amok Club, Mallorca on Mon, 24 Aug 2026.
 
 meera (NO) is a house and afro house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Amok Club, Mallorca on Mon 24 Aug.
 
@@ -27,4 +27,4 @@ meera (NO) is a house and afro house artist tracked on soundcheck, with 62 sets 
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meerano/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meerano/)*

@@ -1,6 +1,6 @@
 # HDN (DK)
 
-HDN (DK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kraftwerket, Copenhagen on Fri, 21 Aug 2026.
+HDN (DK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kraftwerket, Copenhagen on Fri, 21 Aug 2026.
 
 HDN (DK) is a drum & bass and bass artist tracked on soundcheck, with 12 sets logged across Copenhagen. Often billed alongside Dwonji, ASTA MARI and CALIFANO. Next up: Kraftwerket, Copenhagen on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HDN (DK) is a drum & bass and bass artist tracked on soundcheck, with 12 sets lo
 
 Dwonji, ASTA MARI, CALIFANO
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hdndk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hdndk/)*

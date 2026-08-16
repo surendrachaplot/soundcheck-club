@@ -1,6 +1,6 @@
 # Luke Reynolds
 
-Luke Reynolds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
+Luke Reynolds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
 
 Luke Reynolds is a house and tech house artist tracked on soundcheck, with 16 sets logged across Leeds, London and Manchester. Often billed alongside Kinso, Cam Harrop and AVIAX. Next up: Headrow House, Leeds on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Luke Reynolds is a house and tech house artist tracked on soundcheck, with 16 se
 
 Kinso, Cam Harrop, AVIAX
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukereynolds/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukereynolds/)*

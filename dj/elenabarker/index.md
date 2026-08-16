@@ -1,6 +1,6 @@
 # Elena Barker
 
-Elena Barker is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
+Elena Barker is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
 
 Elena Barker is a techno and club artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Seoul. Often billed alongside beltranz, Christian AB and DISTORT (ES). Next up: TBA - LFO, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Elena Barker is a techno and club artist based in Spain, tracked on soundcheck, 
 
 beltranz, Christian AB, DISTORT (ES)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*

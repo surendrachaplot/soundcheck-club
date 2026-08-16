@@ -1,14 +1,13 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OHM, Berlin on Sat, 15 Aug 2026.
+PAURRO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at smartbar, Chicago on Fri, 21 Aug 2026.
 
-PAURRO is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: OHM, Berlin on Sat 15 Aug.
+PAURRO is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: smartbar, Chicago on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | OHM | Berlin |
 | Fri, 21 Aug 2026 | smartbar | Chicago |
 | Sat, 22 Aug 2026 | TBA - OUTDOOR VENUE  | Philadelphia |
 | Sun, 23 Aug 2026 | Signal | New York City |
@@ -16,6 +15,7 @@ PAURRO is a house and techno artist tracked on soundcheck, with 174 sets logged 
 
 ## Recently played
 
+- OHM, Berlin — Sat, 15 Aug 2026
 - fabric, London — Sat, 1 Aug 2026
 - Tresor / Globus, Berlin — Fri, 17 Jul 2026
 - BASEMENT, New York City — Sat, 11 Jul 2026
@@ -23,10 +23,9 @@ PAURRO is a house and techno artist tracked on soundcheck, with 174 sets logged 
 - La Bellevilloise, Paris — Fri, 19 Jun 2026
 - Oven Club, Valencia — Fri, 12 Jun 2026
 - Société des arts technologiques, Montreal — Fri, 5 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 29 May 2026
 
 ## Shares bills with
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

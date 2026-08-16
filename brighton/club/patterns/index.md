@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Patterns Terrace Party: The Journey Men" on Sat, 22 Aug 2026.
+Patterns is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Patterns Terrace Party: The Journey Men" on Sat, 22 Aug 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), Boris and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

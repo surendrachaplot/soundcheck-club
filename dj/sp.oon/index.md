@@ -1,6 +1,6 @@
 # Sp.oon
 
-Sp.oon is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at WaterBear Venue, Brighton on Fri, 21 Aug 2026.
+Sp.oon is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at WaterBear Venue, Brighton on Fri, 21 Aug 2026.
 
 Sp.oon is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton. Often billed alongside Matt Bird aka Birdman. Next up: WaterBear Venue, Brighton on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Sp.oon is a techno and progressive house artist based in United Kingdom, tracked
 
 Matt Bird aka Birdman
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.oon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.oon/)*

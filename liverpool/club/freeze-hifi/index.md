@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Freeze Hi-Fi presents Todd Terry & Mr. V" on Wed, 19 Aug 2026.
+Freeze HiFi is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Freeze Hi-Fi presents Todd Terry & Mr. V" on Wed, 19 Aug 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Mr. V and Todd Terry. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -14,4 +14,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 1 upcoming night
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

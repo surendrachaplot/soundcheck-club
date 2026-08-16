@@ -1,15 +1,13 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Satoshi Tomiie is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at smartbar, Chicago on Fri, 18 Sept 2026.
 
-Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 37 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: TV Lounge, Detroit on Thu 13 Aug.
+Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 37 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: smartbar, Chicago on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TV Lounge | Detroit |
-| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 18 Sept 2026 | smartbar | Chicago |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
@@ -32,4 +30,4 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 123 sets
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

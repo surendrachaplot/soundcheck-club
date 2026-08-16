@@ -1,6 +1,6 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TRANSMISSION DC, Washington DC on Thu, 20 Aug 2026.
+DJ Stingray 313 is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TRANSMISSION DC, Washington DC on Thu, 20 Aug 2026.
 
 DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: TRANSMISSION DC, Washingtondc on Thu 20 Aug.
 
@@ -31,4 +31,4 @@ DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 s
 
 DJ MELL G, Helena Hauff, Akua
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*

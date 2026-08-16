@@ -1,6 +1,6 @@
 # Emma B
 
-Emma B is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
+Emma B is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
 
 Emma B is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Herr Krank. Next up: Kilomètre25, Paris on Sat 15 Aug.
 
@@ -16,6 +16,7 @@ Emma B is a house and techno artist tracked on soundcheck, with 93 sets logged a
 
 ## Recently played
 
+- Kilomètre25, Paris — Sat, 15 Aug 2026
 - Ijland, Amsterdam — Sat, 13 Jun 2026
 - UMI, Brussels — Fri, 5 Jun 2026
 - Parc Floral De Paris, Paris — Thu, 7 May 2026
@@ -23,10 +24,9 @@ Emma B is a house and techno artist tracked on soundcheck, with 93 sets logged a
 - BRET, Amsterdam — Sun, 26 Apr 2026
 - Silencio, Paris — Sun, 5 Apr 2026
 - Blackstone Street Warehouse, Liverpool — Sat, 28 Mar 2026
-- La Cité Fertile, Paris — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Deborah Aime La Bagarre, Baccus, Herr Krank
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

@@ -1,19 +1,19 @@
 # Simone Zino
 
-Simone Zino is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UNDERCITY, Seoul on Sat, 15 Aug 2026.
+Simone Zino is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-Simone Zino is a techno and tech house artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside R.Korner, Joseph Capriati and Mik&Ale. Next up: UNDERCITY, Seoul on Sat 15 Aug.
+Simone Zino is a techno and tech house artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside R.Korner, Joseph Capriati and Mik&Ale. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | UNDERCITY | Seoul |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | fabric | London |
 
 ## Recently played
 
+- UNDERCITY, Seoul — Sat, 15 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
 - Super Club, Milan — Sat, 28 Mar 2026
 - Gate Milano, Milan — Sat, 14 Feb 2026
@@ -21,10 +21,9 @@ Simone Zino is a techno and tech house artist based in Italy, tracked on soundch
 - Gate Milano, Milan — Mon, 5 Jan 2026
 - Gate Milano, Milan — Fri, 5 Dec 2025
 - Gate Milano, Milan — Fri, 14 Nov 2025
-- RAWFACTORY, Amsterdam — Fri, 24 Oct 2025
 
 ## Shares bills with
 
 R.Korner, Joseph Capriati, Mik&Ale
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonezino/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonezino/)*

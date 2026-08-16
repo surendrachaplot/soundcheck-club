@@ -1,6 +1,6 @@
 # NiKi K
 
-NiKi K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Neukölln, Berlin on Sun, 18 Oct 2026.
+NiKi K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Neukölln, Berlin on Sun, 18 Oct 2026.
 
 NiKi K is a techno and house artist based in Ireland, tracked on soundcheck, with 27 sets logged across Berlin and Manchester. Often billed alongside Sparkling Water Dreams, Josh Reid and DJ NORTHERN. Next up: TBA - Neukölln, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ NiKi K is a techno and house artist based in Ireland, tracked on soundcheck, wit
 
 Sparkling Water Dreams, Josh Reid, DJ NORTHERN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikik/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikik/)*

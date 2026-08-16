@@ -1,14 +1,13 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Ben UFO is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Auckland and Austin and 57 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Auckland and Austin and 57 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: 528 Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sun, 16 Aug 2026 | 528 Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Sat, 29 Aug 2026 | MTELUS | Montreal |
@@ -20,6 +19,7 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged
 | Fri, 25 Sept 2026 | Art Club | Houston |
 | Fri, 25 Sept 2026 | Art Club | Houston |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
+| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

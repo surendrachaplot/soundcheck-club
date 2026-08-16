@@ -1,6 +1,6 @@
 # Swindle (UK)
 
-Swindle (UK) is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Phonox, London on Fri, 18 Sept 2026.
+Swindle (UK) is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Phonox, London on Fri, 18 Sept 2026.
 
 Swindle (UK) is a bass and grime artist tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside 4am Kru, Ama (UK) and Biome. Next up: Phonox, London on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Swindle (UK) is a bass and grime artist tracked on soundcheck, with 3 sets logge
 
 4am Kru, Ama (UK), Biome
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swindle-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swindle-uk/)*

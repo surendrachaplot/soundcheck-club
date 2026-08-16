@@ -1,14 +1,13 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
+Nina Pixina is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
-Nina Pixina is a techno and trance artist tracked on soundcheck, with 36 sets logged across Barcelona, Brighton, Bucharest and Leeds and 1 more. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: Algha's Plantroom, London on Sat 15 Aug.
+Nina Pixina is a techno and trance artist tracked on soundcheck, with 36 sets logged across Barcelona, Brighton, Bucharest and Leeds and 1 more. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Algha's Plantroom | London |
 | Sun, 16 Aug 2026 | Algha's Plantroom | London |
 | Sat, 29 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
@@ -16,6 +15,7 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 36 sets lo
 
 ## Recently played
 
+- Algha's Plantroom, London — Sat, 15 Aug 2026
 - Distillery N17, London — Sat, 1 Aug 2026
 - EartH, London — Fri, 24 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
@@ -23,10 +23,9 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 36 sets lo
 - Algha's Plantroom, London — Sat, 23 May 2026
 - FOLD, London — Sat, 2 May 2026
 - Sui Generis, London — Sat, 18 Apr 2026
-- Gaffe, London — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Gloria Rose, RayRay, Amphia
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

@@ -1,6 +1,6 @@
 # Rich
 
-Rich is a Progressive House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kassa Boat, Budapest on Fri, 21 Aug 2026.
+Rich is a Progressive House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kassa Boat, Budapest on Fri, 21 Aug 2026.
 
 Rich is a progressive house and disco artist tracked on soundcheck, with 12 sets logged across Budapest, Leeds, Prague and Seoul. Often billed alongside Old & Rich, Akira and Austin Powers. Next up: Kassa Boat, Budapest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rich is a progressive house and disco artist tracked on soundcheck, with 12 sets
 
 Old & Rich, Akira, Austin Powers
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*

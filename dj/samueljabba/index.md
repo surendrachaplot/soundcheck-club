@@ -1,6 +1,6 @@
 # Samuel Jabba
 
-Samuel Jabba is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Samuel Jabba is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 Samuel Jabba is a techno and electro artist based in Colombia, tracked on soundcheck, with 13 sets logged across Athens, Barcelona, Brussels and Buenosaires and 6 more. Often billed alongside Bakked, 22 (1) and Adi (CO). Next up: FOLD, London on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Samuel Jabba is a techno and electro artist based in Colombia, tracked on soundc
 
 ## Recently played
 
+- FOLD, London — Sat, 15 Aug 2026
 - Jalousy, Brussels — Sat, 27 Jun 2026
 - Sigma, Ibiza — Tue, 9 Jun 2026
 - 2ten, Athens — Sat, 6 Jun 2026
@@ -19,10 +20,9 @@ Samuel Jabba is a techno and electro artist based in Colombia, tracked on soundc
 - 94th Aero Squadron, Miami — Sat, 18 Apr 2026
 - Melt Underground, Buenos Aires — Fri, 6 Feb 2026
 - Vacuum, Milan — Thu, 24 Apr 2025
-- Les Enfants Brillants, Barcelona — Sun, 20 Apr 2025
 
 ## Shares bills with
 
 Bakked, 22 (1), Adi (CO)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*

@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE" on Sat, 15 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE" on Sat, 15 Aug 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Alienata, Amaliah, Anika Kunst and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

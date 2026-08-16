@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Free The Jungle with Samurai Breaks" on Fri, 21 Aug 2026.
+Quarters is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Free The Jungle with Samurai Breaks" on Fri, 21 Aug 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, Captain Wallop, Chicane and Danilo Plessow and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

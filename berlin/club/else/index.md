@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Else x Toy Tonics" on Sat, 15 Aug 2026.
+Else is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Else x Toy Tonics" on Sat, 15 Aug 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including ALCATRAZ, Alex Kassian, Amanda Mussi and Anaté and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

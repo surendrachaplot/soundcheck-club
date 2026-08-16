@@ -1,6 +1,6 @@
 # E.T.
 
-E.T. is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+E.T. is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
 E.T. is a guaracha and latin bass artist based in France, tracked on soundcheck, with 47 sets logged across Berlin, Madrid, Mexicocity and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ E.T. is a guaracha and latin bass artist based in France, tracked on soundcheck,
 
 PAK-E, MIMI404, e.leptic
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*

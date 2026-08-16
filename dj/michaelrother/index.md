@@ -1,6 +1,6 @@
 # Michael Rother
 
-Michael Rother is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Michael Rother is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Michael Rother is an experimental and ambient artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Newyorkcity. Often billed alongside Dopplereffekt, Eiko Ishibashi and Gigi Masin. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -9,10 +9,10 @@ Michael Rother is an experimental and ambient artist based in Germany, tracked o
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
-| Sat, 15 Aug 2026 | Neue Nationalgalerie | Berlin |
 
 ## Recently played
 
+- Neue Nationalgalerie, Berlin — Sat, 15 Aug 2026
 - Neue Nationalgalerie, Berlin — Wed, 12 Aug 2026
 - Knockdown Center, New York City — Sun, 30 Mar 2025
 
@@ -20,4 +20,4 @@ Michael Rother is an experimental and ambient artist based in Germany, tracked o
 
 Dopplereffekt, Eiko Ishibashi, Gigi Masin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrother/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrother/)*

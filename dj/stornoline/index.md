@@ -1,6 +1,6 @@
 # Stornoline
 
-Stornoline is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ://about blank, Berlin on Sun, 13 Sept 2026.
+Stornoline is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Sun, 13 Sept 2026.
 
 Stornoline is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Leipzig and Zurich. Often billed alongside CHOREOPHILA, Multifun and Goldie Palm. Next up: ://about blank, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Stornoline is a house and techno artist tracked on soundcheck, with 15 sets logg
 
 CHOREOPHILA, Multifun, Goldie Palm
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stornoline/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stornoline/)*

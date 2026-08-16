@@ -1,6 +1,6 @@
 # chaos.disco.club
 
-chaos.disco.club is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
+chaos.disco.club is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
 
 chaos.disco.club is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Stuttgart. Often billed alongside Alexander Maier, Evaa_ and Femcat. Next up: TBA - Secret Location, Berlin on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ chaos.disco.club is a house and techno artist based in Germany, tracked on sound
 
 Alexander Maier, Evaa_, Femcat
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*

@@ -1,18 +1,18 @@
 # Surf 2 Glory
 
-Surf 2 Glory is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 15 Aug 2026.
+Surf 2 Glory is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Surf 2 Glory is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside MALUGI, Marlon Hoffstadt and ferrari rot. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 15 Aug.
+Surf 2 Glory is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside MALUGI, Marlon Hoffstadt and ferrari rot. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Kolonnadenhof der Museumsinsel Berlin | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played
 
+- Kolonnadenhof der Museumsinsel Berlin, Berlin — Sat, 15 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Surf 2 Glory is a techno and house artist tracked on soundcheck, with 125 sets l
 - Den Anden Side, Copenhagen — Sat, 30 May 2026
 - Karoline 45, Hamburg — Sat, 23 May 2026
 - RSO.BERLIN, Berlin — Sat, 23 May 2026
-- RAI Amsterdam, Amsterdam — Mon, 27 Apr 2026
 
 ## Shares bills with
 
 MALUGI, Marlon Hoffstadt, ferrari rot
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*

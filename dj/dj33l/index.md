@@ -1,6 +1,6 @@
 # dj33L
 
-dj33L is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
+dj33L is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
 
 dj33L is a techno and trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside R-DNA, stress tess and Burtay. Next up: TBA - Brooklyn, Newyorkcity on Sat 15 Aug.
 
@@ -13,10 +13,11 @@ dj33L is a techno and trance artist based in United States of America, tracked o
 
 ## Recently played
 
+- TBA - Brooklyn, New York City — Sat, 15 Aug 2026
 - TBA - Announced day of , New York City — Sat, 24 Jan 2026
 
 ## Shares bills with
 
 R-DNA, stress tess, Burtay
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*

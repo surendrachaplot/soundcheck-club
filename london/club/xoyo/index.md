@@ -1,15 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Kepler B2B Job de Jong, Hidde van Wee & Kim April [FINAL 100]" on Sat, 15 Aug 2026.
+XOYO is a music venue in London with 30 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "MOTION Every Monday" on Mon, 17 Aug 2026.
 
-XOYO is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Kepler, Aidyscape, Aldor and Andrew Sharpe and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Aidyscape, Aldor, Andrew Sharpe and AR (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Kepler B2B Job de Jong, Hidde van Wee & Kim April [FINAL 100] | Hidde van Wee, Job de Jong, KEMADA, Kepler, Kim April |
-| Sat, 15 Aug 2026 | Kepler b2b Job de Jong | Job de Jong, Kepler |
 | Mon, 17 Aug 2026 | MOTION Every Monday |  |
 | Wed, 19 Aug 2026 | PARADOX | Billa Bazz, Mads Diamond, erroneous |
 | Thu, 20 Aug 2026 | Insomnia London: DJelley, Nadia Summer, Temporary Alex | DJelley, Nadia Summer |
@@ -18,9 +16,11 @@ XOYO is a music venue in London listed on soundcheck. 32 upcoming nights, with l
 | Mon, 24 Aug 2026 | MOTION Every Monday |  |
 | Wed, 26 Aug 2026 | PARADOX | Cris Cioata, FREDGETLIFTED, HAIG |
 | Thu, 27 Aug 2026 | Insomnia London: gau7t, Raina, Sideshow b2b Kazza | SIDESHOW (2), gau7t, raina (2) |
+| Sat, 29 Aug 2026 | Jungle Cakes: The Return | Congo Natty, Deekline, Serial Killaz |
+| Sun, 30 Aug 2026 | Joss Dean [All Night Long] with Special Guests | Joss Dean |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

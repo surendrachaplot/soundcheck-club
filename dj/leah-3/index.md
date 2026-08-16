@@ -1,6 +1,6 @@
 # LEAH (3)
 
-LEAH (3) is a Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+LEAH (3) is a Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
 LEAH (3) is a trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside KLING&KLANG, Paul Meier and SPEEDBOYS. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ LEAH (3) is a trance artist based in Germany, tracked on soundcheck, with 3 sets
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 10 Apr 2026
 - Lokschuppen Berlin, Berlin — Fri, 26 Sept 2025
 
@@ -19,4 +20,4 @@ LEAH (3) is a trance artist based in Germany, tracked on soundcheck, with 3 sets
 
 KLING&KLANG, Paul Meier, SPEEDBOYS
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leah-3/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leah-3/)*

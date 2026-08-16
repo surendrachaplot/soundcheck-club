@@ -1,6 +1,6 @@
 # NIMAHA
 
-NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
+NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
 
 NIMAHA is a techno and hardcore artist tracked on soundcheck, with 25 sets logged across Vancouver. Often billed alongside The Nu Po, Behrad Tehrani and Marist. Next up: 520 Alexander Street, Vancouver on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NIMAHA is a techno and hardcore artist tracked on soundcheck, with 25 sets logge
 
 The Nu Po, Behrad Tehrani, Marist
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*

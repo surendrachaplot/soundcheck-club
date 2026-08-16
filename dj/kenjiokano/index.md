@@ -1,6 +1,6 @@
 # Kenji Okano
 
-Kenji Okano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Bar結界, Tokyo on Sat, 12 Sept 2026.
+Kenji Okano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bar結界, Tokyo on Sat, 12 Sept 2026.
 
 Kenji Okano is a techno and house artist based in Japan, tracked on soundcheck, with 34 sets logged across Tokyo. Often billed alongside monielu.h, Da Yama and SUETSUGU. Next up: Bar結界, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kenji Okano is a techno and house artist based in Japan, tracked on soundcheck, 
 
 monielu.h, Da Yama, SUETSUGU
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiokano/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiokano/)*

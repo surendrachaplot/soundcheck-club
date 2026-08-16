@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 19 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "OPEN-AIR: Deep Dish" on Sat, 22 Aug 2026.
+BERHTA is a music venue in Washington DC with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "OPEN-AIR: Deep Dish" on Sat, 22 Aug 2026.
 
 BERHTA is a music venue in Washingtondc listed on soundcheck. 19 upcoming nights, with line-ups including 6EJOU, Cassian, Deep Dish and John Digweed and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 19 upcoming nights
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

@@ -1,13 +1,14 @@
 # Psi (1)
 
-Psi (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cherry Beach, Toronto on Sun, 23 Aug 2026.
+Psi (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
-Psi (1) is a house and techno artist tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside KRISHAWN, Young Teesh and 999ADJ. Next up: Cherry Beach, Toronto on Sun 23 Aug.
+Psi (1) is a house and techno artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside KRISHAWN, Young Teesh and 999ADJ. Next up: TBA, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA | Toronto |
 | Sun, 23 Aug 2026 | Cherry Beach | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Psi (1) is a house and techno artist tracked on soundcheck, with 22 sets logged 
 
 KRISHAWN, Young Teesh, 999ADJ
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*

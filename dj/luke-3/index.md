@@ -1,6 +1,6 @@
 # LUKE (3)
 
-LUKE (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
+LUKE (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
 LUKE (3) is a techno and house artist tracked on soundcheck, with 4 sets logged across Losangeles, Tbilisi and Tokyo. Often billed alongside AiMii, DJason and ELYSIUM. Next up: HVEN, Tokyo on Mon 9 Nov.
 
@@ -20,4 +20,4 @@ LUKE (3) is a techno and house artist tracked on soundcheck, with 4 sets logged 
 
 AiMii, DJason, ELYSIUM
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luke-3/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luke-3/)*

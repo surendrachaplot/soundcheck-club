@@ -1,14 +1,13 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+TYGAPAW is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
-TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and LSDXOXO. Next up: Burgess Park, London on Sat 15 Aug.
+TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and LSDXOXO. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Burgess Park | London |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Sat, 29 Aug 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 5 Sept 2026 | Nowadays | New York City |
@@ -16,6 +15,7 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Burgess Park, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - H0L0, New York City — Sat, 18 Jul 2026
 - 99 Scott Ave, New York City — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 - Concourse Dance Bar, Philadelphia — Sun, 7 Jun 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
-- Tresor / Globus, Berlin — Sat, 16 May 2026
 
 ## Shares bills with
 
 Juliana Huxtable, Shyboi, LSDXOXO
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*

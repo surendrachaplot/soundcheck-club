@@ -1,6 +1,6 @@
 # Crave Tapes DJ Night at 8MM
 
-Crave Tapes DJ Night at 8MM on Sat 22 Aug, Berlin. 2 acts on the bill: Carlos GrabStein and Desolate Discotheque. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Crave Tapes DJ Night at 8MM on Sat 22 Aug, Berlin. 3 acts on the bill: Carlos GrabStein, Desolate Discotheque and Holywanderer. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Crave Tapes DJ Night at 8MM on Sat 22 Aug, Berlin. 2 acts on the bill: Carlos Gr
 
 - Carlos GrabStein
 - Desolate Discotheque
+- Holywanderer
 
 *Source: [soundcheck](https://soundcheck.club/e/2495175-crave-tapes-dj-night-at-8mm/)*

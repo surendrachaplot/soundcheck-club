@@ -1,6 +1,6 @@
 # SHINZEE
 
-SHINZEE is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
+SHINZEE is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
 
 SHINZEE is a r&b and hip-hop artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London. Often billed alongside leverson, Signorina and Sndyvibes. Next up: Lightbox, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SHINZEE is a r&b and hip-hop artist based in United Kingdom, tracked on soundche
 
 leverson, Signorina, Sndyvibes
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinzee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinzee/)*

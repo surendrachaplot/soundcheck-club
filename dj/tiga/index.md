@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Maya Beach Experience, Naples on Sat, 22 Aug 2026.
+Tiga is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Maya Beach Experience, Naples on Sat, 22 Aug 2026.
 
 Tiga is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 37 more. Often billed alongside DJ Holographic, DJ Tennis and X CLUB.. Next up: Maya Beach Experience, Naples on Sat 22 Aug.
 
@@ -32,4 +32,4 @@ Tiga is a techno and house artist tracked on soundcheck, with 112 sets logged ac
 
 DJ Holographic, DJ Tennis, X CLUB.
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

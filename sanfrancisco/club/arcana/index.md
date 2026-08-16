@@ -1,14 +1,13 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "STRAPT" on Sat, 15 Aug 2026.
+Arcana is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "NIGHT BLOOM -- Femme Jatale" on Sun, 16 Aug 2026.
 
-Arcana is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Andy411, cstr, Discnogirl and DJ CARO and 2 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
+Arcana is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Andy411, cstr, Femme Jatale and LILRAV4 and 2 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | STRAPT | DJ CARO, Discnogirl, IYKUK |
 | Sun, 16 Aug 2026 | NIGHT BLOOM -- Femme Jatale | Femme Jatale |
 | Thu, 20 Aug 2026 | SALSOL | Sánlo |
 | Fri, 21 Aug 2026 | Natural Orbit | Modyl, Natural Orbit, scummy rumi |
@@ -21,4 +20,4 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights,
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

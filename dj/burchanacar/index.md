@@ -1,6 +1,6 @@
 # Burchan Acar
 
-Burchan Acar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Mansions, New York City on Sun, 16 Aug 2026.
+Burchan Acar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mansions, New York City on Sun, 16 Aug 2026.
 
 Burchan Acar is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Boston, London and Losangeles and 2 more. Often billed alongside Ryan King, Hugo (US) and Rama NYC. Next up: Mansions, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Burchan Acar is a house and techno artist based in United States of America, tra
 
 Ryan King, Hugo (US), Rama NYC
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*

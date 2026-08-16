@@ -1,6 +1,6 @@
 # Boy Sonic
 
-Boy Sonic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 93 Feet East, London on Sat, 12 Sept 2026.
+Boy Sonic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 93 Feet East, London on Sat, 12 Sept 2026.
 
 Boy Sonic is a house and disco artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside David Elimelech, Katy De Jesus and Lord Byron. Next up: 93 Feet East, London on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Boy Sonic is a house and disco artist tracked on soundcheck, with 2 sets logged 
 
 David Elimelech, Katy De Jesus, Lord Byron
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boysonic/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boysonic/)*

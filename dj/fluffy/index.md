@@ -1,6 +1,6 @@
 # Fluffy
 
-Fluffy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 20 Aug 2026.
+Fluffy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 20 Aug 2026.
 
 Fluffy is a techno and house artist tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Maiko, Big Hands and FXCKBOUT. Next up: Eastern Bloc Records, Manchester on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Fluffy is a techno and house artist tracked on soundcheck, with 4 sets logged ac
 
 Maiko, Big Hands, FXCKBOUT
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluffy/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluffy/)*

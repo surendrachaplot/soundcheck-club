@@ -1,6 +1,6 @@
 # Just(e) Alex
 
-Just(e) Alex is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
+Just(e) Alex is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Just(e) Alex is a techno artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside BIANKA, GAZTAMBIDE and Nacho. Next up: ISOamsterdam, Amsterdam on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Just(e) Alex is a techno artist based in France, tracked on soundcheck, with 6 s
 
 BIANKA, GAZTAMBIDE, Nacho
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justealex/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justealex/)*

@@ -1,6 +1,6 @@
 # Domenik Deckert
 
-Domenik Deckert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gewölbe, Cologne on Sat, 29 Aug 2026.
+Domenik Deckert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gewölbe, Cologne on Sat, 29 Aug 2026.
 
 Domenik Deckert is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Mike Momburg, DAVINA and Tom Velden. Next up: Gewölbe, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Domenik Deckert is a house and techno artist based in Germany, tracked on soundc
 
 Mike Momburg, DAVINA, Tom Velden
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*

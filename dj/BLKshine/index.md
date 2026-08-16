@@ -1,6 +1,6 @@
 # BLKshine
 
-BLKshine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at public records, New York City on Sun, 6 Sept 2026.
+BLKshine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at public records, New York City on Sun, 6 Sept 2026.
 
 BLKshine is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Detroit and Newyorkcity. Often billed alongside AK (US), SHAUNIE and LANSUH. Next up: public records, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ BLKshine is a house and techno artist based in United States of America, tracked
 
 AK (US), SHAUNIE, LANSUH
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/BLKshine/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/BLKshine/)*

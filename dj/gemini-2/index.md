@@ -1,6 +1,6 @@
 # Gemini (2)
 
-Gemini (2) is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Sun, 27 Sept 2026.
+Gemini (2) is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Cause, London on Sun, 27 Sept 2026.
 
 Gemini (2) is an amapiano and afro house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Ade Smilez, Angela Rose and DJ Majesty. Next up: The Cause, London on Sun 27 Sept.
 
@@ -18,4 +18,4 @@ Gemini (2) is an amapiano and afro house artist tracked on soundcheck, with 2 se
 
 Ade Smilez, Angela Rose, DJ Majesty
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini-2/)*

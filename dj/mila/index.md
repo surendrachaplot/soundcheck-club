@@ -1,6 +1,6 @@
 # Mila
 
-Mila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Distrikt, Prague on Fri, 21 Aug 2026.
+Mila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Distrikt, Prague on Fri, 21 Aug 2026.
 
 Mila is a house and techno artist tracked on soundcheck, with 11 sets logged across Mexicocity and Prague. Often billed alongside DJ SEX, Adrian Bluper and Alatriste. Next up: Distrikt, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mila is a house and techno artist tracked on soundcheck, with 11 sets logged acr
 
 DJ SEX, Adrian Bluper, Alatriste
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mila/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mila/)*

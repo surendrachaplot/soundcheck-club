@@ -1,6 +1,6 @@
 # Remnant
 
-Remnant is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Punctum - Krásovka, Prague on Sat, 15 Aug 2026.
+Remnant is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Punctum - Krásovka, Prague on Sat, 15 Aug 2026.
 
 Remnant is an industrial and ebm artist based in United States of America, tracked on soundcheck, with 19 sets logged across Brussels, Detroit, Losangeles and Prague and 3 more. Often billed alongside REMNANT.exe, Djedi and Juche. Next up: Punctum - Krásovka, Prague on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Remnant is an industrial and ebm artist based in United States of America, track
 
 ## Recently played
 
+- Punctum - Krásovka, Prague — Sat, 15 Aug 2026
 - Tangent Gallery, Detroit — Fri, 17 Jul 2026
 - Tangent Gallery, Detroit — Sat, 20 Jun 2026
 - Diamondback Music Hall, Detroit — Fri, 8 May 2026
@@ -19,10 +20,9 @@ Remnant is an industrial and ebm artist based in United States of America, track
 - Tangent Gallery, Detroit — Thu, 26 Mar 2026
 - TBA, Los Angeles — Sat, 28 Jun 2025
 - Small's, Detroit — Fri, 2 May 2025
-- FLUCC, Vienna — Sat, 19 Apr 2025
 
 ## Shares bills with
 
 REMNANT.exe, Djedi, Juche
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remnant/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remnant/)*

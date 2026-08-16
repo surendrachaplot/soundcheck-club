@@ -1,6 +1,6 @@
 # Steve Andrew
 
-Steve Andrew is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
+Steve Andrew is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
 
 Steve Andrew is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Francesco Poggi, Enrico Chirchiello and Ryan Spicer. Next up: Union Club, Vauxhall, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Steve Andrew is a tech house and techno artist based in United Kingdom, tracked 
 
 Francesco Poggi, Enrico Chirchiello, Ryan Spicer
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveandrew/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveandrew/)*

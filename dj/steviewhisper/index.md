@@ -1,6 +1,6 @@
 # Stevie Whisper
 
-Stevie Whisper is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Karmakoma, Belgrade on Sat, 22 Aug 2026.
+Stevie Whisper is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Karmakoma, Belgrade on Sat, 22 Aug 2026.
 
 Stevie Whisper is a techno and bass artist tracked on soundcheck, with 25 sets logged across Amsterdam, Bangkok, Belgrade and Hongkong and 1 more. Often billed alongside Phillie P, Matkec and Sacha Mambo. Next up: Karmakoma, Belgrade on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Stevie Whisper is a techno and bass artist tracked on soundcheck, with 25 sets l
 
 Phillie P, Matkec, Sacha Mambo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewhisper/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewhisper/)*

@@ -1,6 +1,6 @@
 # Rassel XTL
 
-Rassel XTL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Milan on Fri, 21 Aug 2026.
+Rassel XTL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Milan on Fri, 21 Aug 2026.
 
 Rassel XTL is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Milan. Often billed alongside RXSS (2), ELNA and TUROTUNZ. Next up: TBA, Milan on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rassel XTL is a techno and hardcore artist tracked on soundcheck, with 13 sets l
 
 RXSS (2), ELNA, TUROTUNZ
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasselxtl/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasselxtl/)*

@@ -1,6 +1,6 @@
 # Winter Wrong
 
-Winter Wrong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
+Winter Wrong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
 
 Winter Wrong is a techno and acid artist tracked on soundcheck, with 67 sets logged across Austin, Boston, Miami and Newyorkcity. Often billed alongside Ultrathem, SDRV and Pressure Point (US). Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Winter Wrong is a techno and acid artist tracked on soundcheck, with 67 sets log
 
 Ultrathem, SDRV, Pressure Point (US)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterwrong/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterwrong/)*

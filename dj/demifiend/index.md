@@ -1,6 +1,6 @@
 # Demifiend
 
-Demifiend is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Brushy Street Commons, Austin on Sat, 5 Sept 2026.
+Demifiend is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Brushy Street Commons, Austin on Sat, 5 Sept 2026.
 
 Demifiend is a hardcore and club artist tracked on soundcheck, with 19 sets logged across Austin, Chicago, Denver and Detroit and 5 more. Often billed alongside kittenhouse, Obi-Wan Shinobi and Seanni B. Next up: Brushy Street Commons, Austin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Demifiend is a hardcore and club artist tracked on soundcheck, with 19 sets logg
 
 kittenhouse, Obi-Wan Shinobi, Seanni B
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*

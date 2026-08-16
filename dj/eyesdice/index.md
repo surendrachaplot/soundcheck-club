@@ -1,6 +1,6 @@
 # Eyesdice
 
-Eyesdice is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
+Eyesdice is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
 
 Eyesdice is a techno and italo disco artist based in Poland, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Berlin Bunny, Franz Scala and Paty Vapor. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Eyesdice is a techno and italo disco artist based in Poland, tracked on soundche
 
 Berlin Bunny, Franz Scala, Paty Vapor
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

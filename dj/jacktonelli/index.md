@@ -1,6 +1,6 @@
 # JackTonelli
 
-JackTonelli is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
+JackTonelli is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
 
 JackTonelli is a house and industrial artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside KANZE, Celebrity Bitcrush and DBL_BBL. Next up: Hart Bar, Newyorkcity on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ JackTonelli is a house and industrial artist tracked on soundcheck, with 3 sets 
 
 KANZE, Celebrity Bitcrush, DBL_BBL
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacktonelli/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacktonelli/)*

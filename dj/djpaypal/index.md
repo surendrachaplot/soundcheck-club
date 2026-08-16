@@ -1,16 +1,13 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Clock Factory, Bristol on Sat, 15 Aug 2026.
+DJ Paypal is a Footwork and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
 
-DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: The Clock Factory, Bristol on Sat 15 Aug.
+DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Sidney & Matilda, Sheffield on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Clock Factory | Bristol |
-| Sat, 15 Aug 2026 | Jumbi | London |
-| Sat, 15 Aug 2026 | The Clock Factory | Bristol |
 | Fri, 21 Aug 2026 | Sidney & Matilda | Sheffield |
 | Sat, 22 Aug 2026 | Stereo | Glasgow |
 | Fri, 11 Sept 2026 | Elsewhere | New York City |
@@ -18,17 +15,17 @@ DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logg
 
 ## Recently played
 
+- The Clock Factory, Bristol — Sat, 15 Aug 2026
+- Jumbi, London — Sat, 15 Aug 2026
+- The Clock Factory, Bristol — Sat, 15 Aug 2026
 - Volks, Brighton — Fri, 14 Aug 2026
 - HVEN, Tokyo — Fri, 8 May 2026
 - Space, Tokyo — Sun, 3 May 2026
 - West Harlem, Kyoto — Fri, 1 May 2026
 - TBA - request info at westoakmf.org, San Francisco/Oakland — Sat, 25 Apr 2026
-- TBA - Casita Hollywood, Los Angeles — Fri, 24 Apr 2026
-- Swan Dive, Portland — Thu, 23 Apr 2026
-- Mullen's Sports Bar & Grill, Chicago — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Kloxii Li, Missy, TEDDMAN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

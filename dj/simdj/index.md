@@ -1,6 +1,6 @@
 # SIM (SI)
 
-SIM (SI) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 15 Aug 2026.
+SIM (SI) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 15 Aug 2026.
 
 SIM (SI) is a baile funk and club artist tracked on soundcheck, with 6 sets logged across Barcelona, Seoul and Vancouver. Often billed alongside 131bpm, ANOTR and Alessa (ES). Next up: Gorg-O-Mish, Vancouver on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ SIM (SI) is a baile funk and club artist tracked on soundcheck, with 6 sets logg
 
 ## Recently played
 
+- Gorg-O-Mish, Vancouver — Sat, 15 Aug 2026
 - Grain Haus, Seoul — Mon, 4 May 2026
 - Bolero, Seoul — Sat, 14 Mar 2026
 - Razzmatazz, Barcelona — Fri, 16 May 2025
@@ -22,4 +23,4 @@ SIM (SI) is a baile funk and club artist tracked on soundcheck, with 6 sets logg
 
 131bpm, ANOTR, Alessa (ES)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simdj/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simdj/)*

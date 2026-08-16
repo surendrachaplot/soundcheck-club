@@ -1,6 +1,6 @@
 # Wrcklés
 
-Wrcklés is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Moondog Cafe, Detroit on Fri, 14 Aug 2026.
+Wrcklés is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Moondog Cafe, Detroit on Fri, 14 Aug 2026.
 
 Wrcklés is an experimental and r&b artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside 888lambchop, BLAAQGOLD and DJ Cleveland Browne. Next up: Moondog Cafe, Detroit on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Wrcklés is an experimental and r&b artist based in United States of America, tr
 
 888lambchop, BLAAQGOLD, DJ Cleveland Browne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*

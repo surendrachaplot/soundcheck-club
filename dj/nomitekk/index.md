@@ -1,6 +1,6 @@
 # nomitekk
 
-nomitekk is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Roof 175, Frankfurt on Sat, 15 Aug 2026.
+nomitekk is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Roof 175, Frankfurt on Sat, 15 Aug 2026.
 
 nomitekk is a techno and trance artist tracked on soundcheck, with 19 sets logged across Frankfurt and Nurnberg. Often billed alongside Kacy, PENELOPE (DE) and CiKi. Next up: Roof 175, Frankfurt on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ nomitekk is a techno and trance artist tracked on soundcheck, with 19 sets logge
 
 ## Recently played
 
+- Roof 175, Frankfurt — Sat, 15 Aug 2026
 - Airport Würzburg, Nürnberg — Fri, 24 Jul 2026
 - MTW, Frankfurt — Fri, 17 Jul 2026
 - K39, Frankfurt — Sat, 4 Jul 2026
@@ -21,10 +22,9 @@ nomitekk is a techno and trance artist tracked on soundcheck, with 19 sets logge
 - Schlachthof Wiesbaden, Frankfurt — Wed, 3 Jun 2026
 - MTW, Frankfurt — Thu, 30 Apr 2026
 - Tanzhaus West, Frankfurt — Fri, 13 Mar 2026
-- MTW, Frankfurt — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Kacy, PENELOPE (DE), CiKi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*

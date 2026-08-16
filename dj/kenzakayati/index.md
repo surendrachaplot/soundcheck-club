@@ -1,19 +1,19 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+KENZA KAYATI is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
-KENZA KAYATI is a techno and electronica artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Milan and Montreal and 1 more. Often billed alongside Ede, Aimé You and Aliska. Next up: SAGE, Berlin on Sat 15 Aug.
+KENZA KAYATI is a techno and electronica artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Milan and Montreal and 1 more. Often billed alongside Ede, Aimé You and Aliska. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | SAGE | Berlin |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 
 ## Recently played
 
+- SAGE, Berlin — Sat, 15 Aug 2026
 - SAGE, Berlin — Sat, 30 May 2026
 - Volt Club Milano, Milan — Fri, 20 Mar 2026
 - Moon Warsaw, Warsaw — Wed, 31 Dec 2025
@@ -23,4 +23,4 @@ KENZA KAYATI is a techno and electronica artist based in Germany, tracked on sou
 
 Ede, Aimé You, Aliska
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*

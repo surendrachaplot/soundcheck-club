@@ -1,6 +1,6 @@
 # Kali Malone
 
-Kali Malone is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
+Kali Malone is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
 
 Kali Malone is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Stephen O'Malley, ojoo and KMRU. Next up: Neue Nationalgalerie, Berlin on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Kali Malone is an experimental and ambient artist based in United States of Amer
 
 Stephen O'Malley, ojoo, KMRU
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*

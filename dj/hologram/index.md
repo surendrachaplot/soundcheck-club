@@ -1,6 +1,6 @@
 # Hologram
 
-Hologram is a Drum & Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
+Hologram is a Drum & Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
 
 Hologram is a drum & bass and latin bass artist tracked on soundcheck, with 4 sets logged across Brighton and Mexicocity. Often billed alongside Annix, Beano and DJ Hazard. Next up: Volks, Brighton on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Hologram is a drum & bass and latin bass artist tracked on soundcheck, with 4 se
 
 Annix, Beano, DJ Hazard
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hologram/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hologram/)*

@@ -1,6 +1,6 @@
 # AGELESS
 
-AGELESS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
+AGELESS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
 AGELESS is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside Sossa, Seth Troxler and Arapu. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ AGELESS is a house and techno artist tracked on soundcheck, with 112 sets logged
 
 Sossa, Seth Troxler, Arapu
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*

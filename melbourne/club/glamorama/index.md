@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Work Wife + A.Well at Glamorama Saturdays x Club Well Takeover" on Sat, 15 Aug 2026.
+Glamorama is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Interval - BURNR [NL] + DAYZZI" on Fri, 21 Aug 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including A.Well, bellxsxs, Dan Newman and DAYZZI and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including bellxsxs, Dan Newman, DAYZZI and DJ JNETT and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Work Wife + A.Well at Glamorama Saturdays x Club Well Takeover | A.Well, Work Wife |
 | Fri, 21 Aug 2026 | Interval - BURNR [NL] + DAYZZI | DAYZZI |
 | Sat, 22 Aug 2026 | Hooker + Fosters at Glamorama Saturdays | Fosters, Hooker |
 | Sat, 29 Aug 2026 | Fabrication | bellxsxs |
@@ -22,4 +21,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "𝑨𝑳𝑰𝑬𝑵 𝑶𝑵𝑳𝒀 𝑯𝑨𝑹𝑫 || 𝑫𝑨𝑹𝑲 𝑭𝑹𝑬𝑸𝑼𝑬𝑵𝑪𝒀 || 𝑮𝑬𝑻 𝑭𝑹𝑬𝑬 𝑷𝑨𝑺𝑺" on Sat, 15 Aug 2026.
+City Hall is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "𝑨𝑳𝑰𝑬𝑵 𝑶𝑵𝑳𝒀 𝑯𝑨𝑹𝑫 || 𝑫𝑨𝑹𝑲 𝑭𝑹𝑬𝑸𝑼𝑬𝑵𝑪𝒀 || 𝑮𝑬𝑻 𝑭𝑹𝑬𝑬 𝑷𝑨𝑺𝑺" on Sat, 15 Aug 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including Basement Scene, Cristian Varela, CUTIE and DIL KASHMIR and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 21 upcoming nights
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

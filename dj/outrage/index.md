@@ -1,6 +1,6 @@
 # Outrage
 
-Outrage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Vaag, Antwerp on Sat, 10 Oct 2026.
+Outrage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Vaag, Antwerp on Sat, 10 Oct 2026.
 
 Outrage is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 7 more. Often billed alongside Subject 13, Joe Le Groove and Nookie (UK). Next up: Club Vaag, Antwerp on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Outrage is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Subject 13, Joe Le Groove, Nookie (UK)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outrage/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outrage/)*

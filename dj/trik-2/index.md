@@ -1,6 +1,6 @@
 # Trik (2)
 
-Trik (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
+Trik (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
 
 Trik (2) is a techno and industrial artist based in Portugal, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon and Porto. Often billed alongside DIMENSION 9, Carol d'Souza and DJINNMUSIC. Next up: Kømplex Lisbon, Lisbon on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Trik (2) is a techno and industrial artist based in Portugal, tracked on soundch
 
 DIMENSION 9, Carol d'Souza, DJINNMUSIC
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trik-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trik-2/)*

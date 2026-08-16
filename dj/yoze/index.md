@@ -1,6 +1,6 @@
 # YOZÉ
 
-YOZÉ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+YOZÉ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Hamburg and Istanbul. Often billed alongside Rob Robsen, GHOST DE and Førehand. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 15 Aug 2026
 - 74 Hall, Istanbul — Fri, 15 May 2026
 - Void Club, Berlin — Sat, 18 Apr 2026
 - M-BIA, Berlin — Sat, 3 Jan 2026
@@ -20,10 +21,9 @@ YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with
 - Ritter Butzke, Berlin — Sat, 27 Dec 2025
 - Zorlu Performans Sanatları Merkezi, Istanbul — Sat, 8 Nov 2025
 - Amsterdam Central Station, Amsterdam — Sat, 25 Oct 2025
-- Void Club, Berlin — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Rob Robsen, GHOST DE, Førehand
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*

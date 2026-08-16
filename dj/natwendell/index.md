@@ -1,6 +1,6 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Nat Wendell is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
 Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets log
 
 Luca Olivotto, Eva Crystaltips, Marie Lung
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

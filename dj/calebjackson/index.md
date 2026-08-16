@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Caleb Jackson is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Caleb Jackson is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Bali and Berlin and 8 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -16,6 +16,7 @@ Caleb Jackson is a house and tech house artist tracked on soundcheck, with 65 se
 
 ## Recently played
 
+- Kater, Berlin — Sat, 15 Aug 2026
 - La Brisa, Bali — Sat, 25 Jul 2026
 - Thuishaven, Amsterdam — Sun, 5 Jul 2026
 - Lieberscholli, Munich — Fri, 3 Jul 2026
@@ -23,10 +24,9 @@ Caleb Jackson is a house and tech house artist tracked on soundcheck, with 65 se
 - TBA - Il Mercato Centrale, Melbourne — Sat, 13 Jun 2026
 - The Cause, London — Sat, 23 May 2026
 - Plaza Hotel Sydney, Sydney — Sat, 9 May 2026
-- Parkedup, Auckland — Sun, 15 Mar 2026
 
 ## Shares bills with
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

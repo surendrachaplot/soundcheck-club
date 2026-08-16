@@ -1,6 +1,6 @@
 # Jamin
 
-Jamin is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Jamin is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Jamin is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 9 sets logged across Cologne and Hamburg. Often billed alongside Badlokk, Cosmic Dance and Gourski. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Jamin is a techno and drum & bass artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Odonien, Cologne — Sat, 15 Aug 2026
 - Fundbureau, Hamburg — Sat, 23 May 2026
 - Fundbureau, Hamburg — Sat, 28 Feb 2026
 - Odonien, Cologne — Fri, 10 Oct 2025
@@ -19,10 +20,9 @@ Jamin is a techno and drum & bass artist based in Germany, tracked on soundcheck
 - Odonien, Cologne — Sat, 19 Apr 2025
 - fi, Cologne — Tue, 31 Dec 2024
 - Grüner Jäger, Hamburg — Sat, 16 Mar 2024
-- Café Schöne Aussichten (CSA), Hamburg — Sat, 27 Jan 2024
 
 ## Shares bills with
 
 Badlokk, Cosmic Dance, Gourski
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamin/)*

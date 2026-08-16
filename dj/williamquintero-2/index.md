@@ -1,6 +1,6 @@
 # William Quintero (2)
 
-William Quintero (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+William Quintero (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 William Quintero (2) is a tech house and house artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside Bread & Butter, TIME LVPSE and Tato (2). Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ William Quintero (2) is a tech house and house artist tracked on soundcheck, wit
 
 ## Recently played
 
+- Ministry Of Sound, London — Sat, 15 Aug 2026
 - TBA, London — Sun, 9 Aug 2026
 - TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 7 Aug 2026
 - Dear Darling, London — Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ William Quintero (2) is a tech house and house artist tracked on soundcheck, wit
 - Gallery, London — Thu, 18 Jun 2026
 - Union Club, Vauxhall, London — Sun, 14 Jun 2026
 - Jungla London, London — Sun, 31 May 2026
-- Jungla London, London — Fri, 29 May 2026
 
 ## Shares bills with
 
 Bread & Butter, TIME LVPSE, Tato (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*

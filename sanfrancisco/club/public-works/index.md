@@ -1,14 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception," on Sat, 15 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Oliver Koletzki presented by Public Works" on Fri, 21 Aug 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including 3kelves, Asymmetry, Benjamin K and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 12 upcoming nights, with line-ups including 3kelves, Asymmetry, Benjamin K and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, | DJ Perception, Dylan Schwartz, Highkin', Jason Peters, Juan Maclean, Louiv, Nicoshi |
 | Fri, 21 Aug 2026 | Oliver Koletzki presented by Public Works | 3kelves, Asymmetry, Benjamin K, Dylan C. Greene, Oliver Koletzki |
 | Fri, 28 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 28 Aug 2026 | Öona Dahl & David Hohme presented by Public Works | David Hohme, Öona Dahl |
@@ -18,9 +17,10 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming 
 | Sat, 19 Sept 2026 | MGMT DJ SET presented by Goldenvoice | Jeremy Castillo, Mishka |
 | Sat, 3 Oct 2026 | JANTSEN PRESENTED BY VEXRA & Public Works |  |
 | Fri, 16 Oct 2026 | PW 16-Year Anniversary Night One: Detroit Love with Carl Craig & Moodymann | Carl Craig, Moodymann |
+| Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

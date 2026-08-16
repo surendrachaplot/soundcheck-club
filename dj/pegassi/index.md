@@ -1,14 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Pegassi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Pegassi is a techno and trance artist tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Pegassi is a techno and trance artist tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -20,6 +19,7 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 165 sets logge
 | Sat, 3 Oct 2026 | The Telegraph Building | Belfast |
 | Fri, 9 Oct 2026 | Gate Milano | Milan |
 | Fri, 9 Oct 2026 | Gate Milano | Milan |
+| Sat, 10 Oct 2026 | Escala25 | Lisbon |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 165 sets logge
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

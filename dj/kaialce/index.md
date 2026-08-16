@@ -1,15 +1,13 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Kai Alce is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TV Lounge, Detroit on Sun, 16 Aug 2026.
 
-Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and DJ Spen. Next up: TV Lounge, Detroit on Thu 13 Aug.
+Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and DJ Spen. Next up: TV Lounge, Detroit on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TV Lounge | Detroit |
-| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sun, 16 Aug 2026 | TV Lounge | Detroit |
 | Fri, 21 Aug 2026 | 99 Scott Ave | New York City |
 
@@ -28,4 +26,4 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets lo
 
 DJ Kemit, Ash Lauryn, DJ Spen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

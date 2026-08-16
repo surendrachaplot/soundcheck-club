@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at The Grand Boston, Boston on Sat, 5 Sept 2026.
+Dombresky is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Grand Boston, Boston on Sat, 5 Sept 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 139 sets logged across Austin, Bali, Barcelona and Boston and 29 more. Often billed alongside Jaded (UK), Cassian and Eli Brown. Next up: The Grand Boston, Boston on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 139 sets 
 
 Jaded (UK), Cassian, Eli Brown
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

@@ -1,6 +1,6 @@
 # Bok Bar
 
-Bok Bar is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sundae - FREE " on Sun, 16 Aug 2026.
+Bok Bar is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sundae - FREE " on Sun, 16 Aug 2026.
 
 Bok Bar is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including DJ Xtina and Francisco Collazo. Browse upcoming dates, start times and who's playing. 800 Mifflin St, Philadelphia, PA 19148, USA.
 
@@ -14,4 +14,4 @@ Bok Bar is a music venue in Philadelphia listed on soundcheck. 1 upcoming night,
 
 800 Mifflin St, Philadelphia, PA 19148, USA, Philadelphia
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bok-bar/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bok-bar/)*

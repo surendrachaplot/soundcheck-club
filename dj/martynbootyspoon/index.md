@@ -1,6 +1,6 @@
 # Martyn Bootyspoon
 
-Martyn Bootyspoon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
+Martyn Bootyspoon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
 
 Martyn Bootyspoon is a house and techno artist tracked on soundcheck, with 103 sets logged across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Martyn Bootyspoon is a house and techno artist tracked on soundcheck, with 103 s
 
 Goddollars, Jacques Greene, Finn
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*

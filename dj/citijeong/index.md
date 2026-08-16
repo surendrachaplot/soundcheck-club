@@ -1,6 +1,6 @@
 # Citi Jeong
 
-Citi Jeong is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
+Citi Jeong is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
 
 Citi Jeong is a club and ghetto tech artist based in South Korea, tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside Dieman, HASHTAGPOPE and Hyejin. Next up: Cakeshop, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Citi Jeong is a club and ghetto tech artist based in South Korea, tracked on sou
 
 Dieman, HASHTAGPOPE, Hyejin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citijeong/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citijeong/)*

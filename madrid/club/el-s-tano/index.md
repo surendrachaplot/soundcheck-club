@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "BAKALAO CLASSICS: Raúl Cremona, Monty, Gaskón" on Sat, 15 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "BAKALAO CLASSICS: Raúl Cremona, Monty, Gaskón" on Sat, 15 Aug 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Bembi and Deetron and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 17 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

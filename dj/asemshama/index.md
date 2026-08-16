@@ -1,6 +1,6 @@
 # Asem Shama
 
-Asem Shama is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Asem Shama is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Asem Shama is a techno and electro artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside Ilyas S, Simon Stiglmeier and (NOT) XCESS. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Asem Shama is a techno and electro artist based in Germany, tracked on soundchec
 
 Ilyas S, Simon Stiglmeier, (NOT) XCESS
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asemshama/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asemshama/)*

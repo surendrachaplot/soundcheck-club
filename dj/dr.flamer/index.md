@@ -1,6 +1,6 @@
 # Dr.Flamer
 
-Dr.Flamer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
+Dr.Flamer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
 
 Dr.Flamer is a house and techno artist based in Italy, tracked on soundcheck, with 98 sets logged across Dublin. Often billed alongside DJ PIERR, Syl Black and Mkav. Next up: Electric Garden, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dr.Flamer is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 DJ PIERR, Syl Black, Mkav
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.flamer/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.flamer/)*

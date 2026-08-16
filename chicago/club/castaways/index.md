@@ -1,6 +1,6 @@
 # Castaways
 
-Castaways is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "ARC At The Lake with Sasha" on Sun, 23 Aug 2026.
+Castaways is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ARC At The Lake with Sasha" on Sun, 23 Aug 2026.
 
 Castaways is a music venue in Chicago listed on soundcheck. 4 upcoming nights, with line-ups including Azzecca, Cameron Jack, Nick Warren and Sasha. Browse upcoming dates, start times and who's playing. 1603 N Lake Shore Dr, Chicago, Illinois 60614.
 
@@ -17,4 +17,4 @@ Castaways is a music venue in Chicago listed on soundcheck. 4 upcoming nights, w
 
 1603 N Lake Shore Dr, Chicago, Illinois 60614, Chicago
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*

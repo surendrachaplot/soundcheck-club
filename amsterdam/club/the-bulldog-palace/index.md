@@ -1,6 +1,6 @@
 # The Bulldog Palace
 
-The Bulldog Palace is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "About Us ADE Showcase" on Fri, 23 Oct 2026.
+The Bulldog Palace is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "About Us ADE Showcase" on Fri, 23 Oct 2026.
 
 The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including ABOUT SOFIYA, Alex Pi, DJ Pierre and Paula Sanz and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 15, 1017 PS Amsterdam.
 
@@ -14,4 +14,4 @@ The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 1 upcomin
 
 Leidseplein 15, 1017 PS Amsterdam, Amsterdam
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-bulldog-palace/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-bulldog-palace/)*

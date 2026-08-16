@@ -1,6 +1,6 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+ISAbella is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
 ISAbella is a house and techno artist tracked on soundcheck, with 250 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
@@ -18,6 +18,7 @@ ISAbella is a house and techno artist tracked on soundcheck, with 250 sets logge
 
 ## Recently played
 
+- Backsteinboot, Berlin — Sat, 15 Aug 2026
 - TILLATEC, Amsterdam — Sun, 2 Aug 2026
 - Trädgården, Stockholm — Sat, 1 Aug 2026
 - Radio Radio, Amsterdam — Fri, 31 Jul 2026
@@ -25,10 +26,9 @@ ISAbella is a house and techno artist tracked on soundcheck, with 250 sets logge
 - OXI, Berlin — Fri, 24 Jul 2026
 - Else, Berlin — Sun, 19 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
-- CLUB RAUM, Amsterdam — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

@@ -1,6 +1,6 @@
 # justin case
 
-justin case is a Ambient and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+justin case is a Ambient and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 justin case is an ambient and psytrance artist based in Greece, tracked on soundcheck, with 31 sets logged across Amsterdam, Hamburg, Rotterdam and Utrecht and 1 more. Often billed alongside Lola Edo, Slimfit and job sifre. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ justin case is an ambient and psytrance artist based in Greece, tracked on sound
 
 Lola Edo, Slimfit, job sifre
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*

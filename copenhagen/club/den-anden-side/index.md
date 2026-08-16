@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Group Therapy Pride" on Sat, 15 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Group Therapy Pride" on Sat, 15 Aug 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including ābnamā, Adam Eisert, Alexander Santana and Anders HP and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

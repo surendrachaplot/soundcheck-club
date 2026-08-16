@@ -1,6 +1,6 @@
 # Soylent Black
 
-Soylent Black is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
+Soylent Black is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Electrowerkz, London on Sat, 15 Aug 2026.
 
 Soylent Black is an ebm and post-punk artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Ricardo Castro, Steve Weeks and Dj.Malefica. Next up: Electrowerkz, London on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Soylent Black is an ebm and post-punk artist tracked on soundcheck, with 7 sets 
 
 ## Recently played
 
+- Electrowerkz, London — Sat, 15 Aug 2026
 - Electrowerkz, London — Sat, 16 May 2026
 - Electrowerkz, London — Sat, 1 Nov 2025
 - Electrowerkz, London — Sat, 10 May 2025
@@ -23,4 +24,4 @@ Soylent Black is an ebm and post-punk artist tracked on soundcheck, with 7 sets 
 
 Ricardo Castro, Steve Weeks, Dj.Malefica
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soylentblack/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soylentblack/)*

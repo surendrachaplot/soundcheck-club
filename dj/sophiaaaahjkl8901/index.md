@@ -1,6 +1,6 @@
 # Sophiaaaahjkl;8901
 
-Sophiaaaahjkl;8901 is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
+Sophiaaaahjkl;8901 is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 Sophiaaaahjkl;8901 is a breakcore and hardcore artist tracked on soundcheck, with 8 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside Technopagan, Creep-P and DJ Saratonin. Next up: F8 1192 Folsom, Sanfrancisco on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Sophiaaaahjkl;8901 is a breakcore and hardcore artist tracked on soundcheck, wit
 
 Technopagan, Creep-P, DJ Saratonin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaaaahjkl8901/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaaaahjkl8901/)*

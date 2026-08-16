@@ -1,6 +1,6 @@
 # SAOX
 
-SAOX is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at M-BIA, Berlin on Sat, 12 Sept 2026.
+SAOX is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at M-BIA, Berlin on Sat, 12 Sept 2026.
 
 SAOX is a techno and psytrance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Madrid. Often billed alongside Momentune, DaSoMaZo and Keen (2). Next up: M-BIA, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SAOX is a techno and psytrance artist based in Germany, tracked on soundcheck, w
 
 Momentune, DaSoMaZo, Keen (2)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saox/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saox/)*

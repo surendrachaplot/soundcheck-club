@@ -1,6 +1,6 @@
 # Estância Alto da Serra
 
-Estância Alto da Serra is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Techno Route 22 YRS - The Revolution Will Not Be Televised" on Sat, 22 Aug 2026.
+Estância Alto da Serra is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Techno Route 22 YRS - The Revolution Will Not Be Televised" on Sat, 22 Aug 2026.
 
 Estância Alto da Serra is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Acid Chochi, Binaryh, DAVE the Drummer and Félicie and 1 more. Browse upcoming dates, start times and who's playing. Estrada Névio Carlone, 3 - Riacho Grande, São Paulo, Brazil.
 
@@ -14,4 +14,4 @@ Estância Alto da Serra is a music venue in Saopaulo listed on soundcheck. 1 upc
 
 Estrada Névio Carlone, 3 - Riacho Grande, São Paulo, Brazil, Sao Paulo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/est-ncia-alto-da-serra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/est-ncia-alto-da-serra/)*

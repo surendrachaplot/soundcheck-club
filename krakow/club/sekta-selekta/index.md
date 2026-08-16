@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 3 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Sekta Selekta: Samogulov, wooqee, Dana Damn, Art Duvelle" on Sat, 15 Aug 2026.
+Sekta Selekta is a music venue in Krakow with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sekta Selekta: Samogulov, wooqee, Dana Damn, Art Duvelle" on Sat, 15 Aug 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 3 upcoming nights, with line-ups including Glassz, Hubsond, Kondrat and Samogulov and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -16,4 +16,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 3 upcoming nights
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "BREAKZONE Festival 2026 (DAY & NIGHT) - 15th Anniversary" on Sat, 15 Aug 2026.
+Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "BREAKZONE Festival 2026 (DAY & NIGHT) - 15th Anniversary" on Sat, 15 Aug 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and An On Bast and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

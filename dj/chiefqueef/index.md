@@ -1,6 +1,6 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
+CHIEF QUEEF is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
 
 CHIEF QUEEF is a techno and baile funk artist tracked on soundcheck, with 13 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside DJ BREXIT, Joy Boy and Nissa Carrington. Next up: Golden Pudel Club, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CHIEF QUEEF is a techno and baile funk artist tracked on soundcheck, with 13 set
 
 DJ BREXIT, Joy Boy, Nissa Carrington
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*

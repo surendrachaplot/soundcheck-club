@@ -1,6 +1,6 @@
 # Joshua James (UK)
 
-Joshua James (UK) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Joshua James (UK) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Joshua James (UK) is a disco and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Bristol, Ibiza, London and Manchester. Often billed alongside HAAi, Job Jobse and Saoirse. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Joshua James (UK) is a disco and house artist based in United Kingdom, tracked o
 
 HAAi, Job Jobse, Saoirse
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames-uk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames-uk/)*

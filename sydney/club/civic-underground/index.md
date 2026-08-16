@@ -1,14 +1,13 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Naughty Corner - Underground" on Sat, 15 Aug 2026.
+Civic Underground is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "People Like Us" on Sat, 22 Aug 2026.
 
-Civic Underground is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Eddy Wells, Harry Hayes and Timmy Regisford. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
+Civic Underground is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Harry Hayes and Timmy Regisford. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Naughty Corner - Underground | Eddy Wells |
 | Sat, 22 Aug 2026 | People Like Us |  |
 | Sat, 29 Aug 2026 | TECH PANDA X KENZANI SYDNEY TAKEOVER: 29 AUG |  |
 | Fri, 4 Sept 2026 | WIP Music presents. Timmy Regisford (Shelter NYC) | Timmy Regisford |
@@ -18,4 +17,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 5 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

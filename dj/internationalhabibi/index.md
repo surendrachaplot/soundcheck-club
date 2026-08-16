@@ -1,6 +1,6 @@
 # International Habibi
 
-International Habibi is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Little Jerry, Toronto on Sat, 22 Aug 2026.
+International Habibi is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Little Jerry, Toronto on Sat, 22 Aug 2026.
 
 International Habibi is a minimal and minimal techno artist tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside Vladislove, DJ Chris (CA) and Frank & Tony. Next up: The Little Jerry, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ International Habibi is a minimal and minimal techno artist tracked on soundchec
 
 Vladislove, DJ Chris (CA), Frank & Tony
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalhabibi/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalhabibi/)*

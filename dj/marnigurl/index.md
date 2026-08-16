@@ -1,6 +1,6 @@
 # Marnigurl
 
-Marnigurl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
+Marnigurl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Soleil, Toronto on Sun, 16 Aug 2026.
 
 Marnigurl is a techno and house artist tracked on soundcheck, with 53 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Jaw Jones, Zellers and OMG.BLOG. Next up: Soleil, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Marnigurl is a techno and house artist tracked on soundcheck, with 53 sets logge
 
 Jaw Jones, Zellers, OMG.BLOG
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*

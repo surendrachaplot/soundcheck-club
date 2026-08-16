@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "CHAPISTIVAL 2026: ÉDITION MIRAGE" on Thu, 13 Aug 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "CHAPISTIVAL 2026: ÉDITION MIRAGE" on Thu, 13 Aug 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including PEAKSOU. Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -14,4 +14,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 1 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

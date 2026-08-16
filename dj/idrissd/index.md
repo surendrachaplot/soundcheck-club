@@ -1,6 +1,6 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Sun, 16 Aug 2026.
+Idriss D is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at UNO MALTA, Malta on Sun, 16 Aug 2026.
 
 Idriss D is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: UNO MALTA, Malta on Sun 16 Aug.
 
@@ -29,4 +29,4 @@ Idriss D is a house and techno artist tracked on soundcheck, with 99 sets logged
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

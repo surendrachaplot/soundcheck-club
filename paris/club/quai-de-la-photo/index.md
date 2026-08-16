@@ -1,6 +1,6 @@
 # Quai De La Photo
 
-Quai De La Photo is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Afterwork sur-mesure Jeudi 3 Septembre 2026" on Thu, 3 Sept 2026.
+Quai De La Photo is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Afterwork sur-mesure Jeudi 3 Septembre 2026" on Thu, 3 Sept 2026.
 
 Quai De La Photo is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Quai De La Photo is a music venue in Paris listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Afterwork sur-mesure Jeudi 3 Septembre 2026 |  |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/quai-de-la-photo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/quai-de-la-photo/)*

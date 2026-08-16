@@ -1,6 +1,6 @@
 # Chicks Luv Us
 
-Chicks Luv Us is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
+Chicks Luv Us is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Audio Club, Geneva on Sat, 15 Aug 2026.
 
 Chicks Luv Us is a tech house and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Brussels and Bucharest and 17 more. Often billed alongside Chris Di Perri, GW Harrison and Ben Sterling. Next up: Audio Club, Geneva on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Chicks Luv Us is a tech house and house artist tracked on soundcheck, with 56 se
 
 ## Recently played
 
+- Audio Club, Geneva — Sat, 15 Aug 2026
 - CDLC Barcelona, Barcelona — Thu, 18 Jun 2026
 - TBA - Citadelle de Marseille, Marseille — Sat, 9 May 2026
 - Silencio, Paris — Sat, 8 Nov 2025
@@ -20,10 +21,9 @@ Chicks Luv Us is a tech house and house artist tracked on soundcheck, with 56 se
 - Pick Up, Turin — Fri, 10 Oct 2025
 - Avyca Ibiza, Ibiza — Sat, 26 Jul 2025
 - [UNVRS], Ibiza — Wed, 16 Jul 2025
-- Eden, Ibiza — Fri, 27 Jun 2025
 
 ## Shares bills with
 
 Chris Di Perri, GW Harrison, Ben Sterling
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*

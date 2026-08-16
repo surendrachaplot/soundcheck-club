@@ -1,6 +1,6 @@
 # dbeater
 
-dbeater is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
+dbeater is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 dbeater is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside acidhousewife3000, Vlad Zinn and ttttttttt. Next up: HWK, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ dbeater is an electronica and experimental artist based in United Kingdom, track
 
 acidhousewife3000, Vlad Zinn, ttttttttt
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*

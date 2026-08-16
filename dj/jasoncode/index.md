@@ -1,6 +1,6 @@
 # Jason Code
 
-Jason Code is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Jason Code is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Jason Code is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Ross Lowder, N SO and JENN GREEN. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jason Code is a techno and house artist based in United States of America, track
 
 Ross Lowder, N SO, JENN GREEN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*

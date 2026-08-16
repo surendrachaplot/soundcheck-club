@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Salty Pleasure 12: Carla Roca / Miss Pin / Dystorphia " on Fri, 21 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Salty Pleasure 12: Carla Roca / Miss Pin / Dystorphia " on Fri, 21 Aug 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 5 upcoming nights, with line-ups including A.C., Carla Roca, Eddie Santini and Flakka (2) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -18,4 +18,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 5 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

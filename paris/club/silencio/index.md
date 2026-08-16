@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Logic1000 / Captnnn" on Sat, 15 Aug 2026.
+Silencio is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Logic1000 / Captnnn" on Sat, 15 Aug 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Antal, Logic1000, Major League Djz and Roman Flügel. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -17,4 +17,4 @@ Silencio is a music venue in Paris listed on soundcheck. 4 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+UFO95 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 UFO95 is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -17,6 +17,7 @@ UFO95 is a techno and house artist tracked on soundcheck, with 155 sets logged a
 
 ## Recently played
 
+- Gaffe, London — Sat, 15 Aug 2026
 - TBA - Los Angeles, Los Angeles — Sat, 1 Aug 2026
 - TBA - Denver, Denver — Fri, 31 Jul 2026
 - BASEMENT, New York City — Sat, 25 Jul 2026
@@ -24,10 +25,9 @@ UFO95 is a techno and house artist tracked on soundcheck, with 155 sets logged a
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Bassiani, Tbilisi — Fri, 3 Jul 2026
 - Razzmatazz, Barcelona — Sat, 6 Jun 2026
-- Mia Mao, Paris — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

@@ -1,6 +1,6 @@
 # Can (8)
 
-Can (8) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Forestlimit, Tokyo on Sat, 29 Aug 2026.
+Can (8) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Forestlimit, Tokyo on Sat, 29 Aug 2026.
 
 Can (8) is an experimental and bass artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Daichi Wago, Tetsuya Fukada and Ziziphus Jujuba. Next up: Forestlimit, Tokyo on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Can (8) is an experimental and bass artist based in Japan, tracked on soundcheck
 
 Daichi Wago, Tetsuya Fukada, Ziziphus Jujuba
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*

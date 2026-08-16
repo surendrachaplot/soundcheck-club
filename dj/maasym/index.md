@@ -1,6 +1,6 @@
 # Maasym
 
-Maasym is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
+Maasym is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
 
 Maasym is a techno artist tracked on soundcheck, with 11 sets logged across Hamburg and Stuttgart. Often billed alongside SVPERCELL, Danya (DE) and Dju:k. Next up: Lehmann Club, Stuttgart on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Maasym is a techno artist tracked on soundcheck, with 11 sets logged across Hamb
 
 SVPERCELL, Danya (DE), Dju:k
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maasym/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maasym/)*

@@ -1,6 +1,6 @@
 # TBA - Centre culturel d'Anderlecht
 
-TBA - Centre culturel d'Anderlecht is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 15 Aug 2026; the next is "Les Escales Estivales - Lorkê Lorkê" on Thu, 20 Aug 2026.
+TBA - Centre culturel d'Anderlecht is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Les Escales Estivales - Lorkê Lorkê" on Thu, 20 Aug 2026.
 
 TBA - Centre culturel d'Anderlecht is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Centre culturel d'Anderlecht is a music venue in Brussels listed on soundc
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Les Escales Estivales - Lorkê Lorkê |  |
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-centre-culturel-d-anderlecht/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-centre-culturel-d-anderlecht/)*

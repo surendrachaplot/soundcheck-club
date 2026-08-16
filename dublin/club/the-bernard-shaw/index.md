@@ -1,14 +1,13 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Citrus presents // Disco Day Party at Beatyard // Free Entry" on Sat, 15 Aug 2026.
+The Bernard Shaw is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "The Shed Residents X The Lounge: Open Air at Beatyard" on Sat, 22 Aug 2026.
 
-The Bernard Shaw is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Accomplice, Catz 'N Dogz, Handsome Paddy and L.ivory and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
+The Bernard Shaw is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Accomplice, Catz 'N Dogz, Handsome Paddy and L.ivory and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Citrus presents // Disco Day Party at Beatyard // Free Entry |  |
 | Sat, 22 Aug 2026 | The Shed Residents X The Lounge: Open Air at Beatyard |  |
 | Sat, 22 Aug 2026 | Soirée De French House | SHO, Tr One |
 | Sun, 23 Aug 2026 | Beatyard presents Handsome Paddy & Friends | Handsome Paddy |
@@ -20,4 +19,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 7 upcoming nig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

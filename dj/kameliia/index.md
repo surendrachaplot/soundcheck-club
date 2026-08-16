@@ -1,6 +1,6 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Kameliia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 Kameliia is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Setaoc Mass, Ignez and Philippa Pacho. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -14,6 +14,7 @@ Kameliia is a techno and house artist tracked on soundcheck, with 74 sets logged
 
 ## Recently played
 
+- Gaffe, London — Sat, 15 Aug 2026
 - Else, Berlin — Sat, 8 Aug 2026
 - Arzenal, Budapest — Fri, 31 Jul 2026
 - Macadam, Nantes — Sat, 18 Jul 2026
@@ -21,10 +22,9 @@ Kameliia is a techno and house artist tracked on soundcheck, with 74 sets logged
 - Bassiani, Tbilisi — Fri, 10 Jul 2026
 - TBA - Secret Warehouse, Paris — Sat, 13 Jun 2026
 - Fridas Pier, Stuttgart — Fri, 12 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Setaoc Mass, Ignez, Philippa Pacho
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*

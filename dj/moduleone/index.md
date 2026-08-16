@@ -1,6 +1,6 @@
 # Module One
 
-Module One is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Module One is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Module One is a house and disco artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Soela, Black Eyes and 4meter. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Module One is a house and disco artist tracked on soundcheck, with 8 sets logged
 
 ## Recently played
 
+- OXI, Berlin — Sat, 15 Aug 2026
 - Paloma, Berlin — Fri, 27 Feb 2026
 - Kater, Berlin — Fri, 20 Jun 2025
 - Paloma, Berlin — Sat, 5 Oct 2024
@@ -24,4 +25,4 @@ Module One is a house and disco artist tracked on soundcheck, with 8 sets logged
 
 Soela, Black Eyes, 4meter
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moduleone/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moduleone/)*

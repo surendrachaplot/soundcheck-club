@@ -1,14 +1,13 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Crusy" on Sat, 15 Aug 2026.
+Halcyon is a music venue in San Francisco/Oakland with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "DATSKO" on Fri, 21 Aug 2026.
 
-Halcyon is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Adapter, Anyasa, Crusy and DATSKO and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in Sanfrancisco listed on soundcheck. 12 upcoming nights, with line-ups including Adapter, Anyasa, DATSKO and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Crusy | Crusy |
 | Fri, 21 Aug 2026 | DATSKO | DATSKO |
 | Sat, 22 Aug 2026 | GABSS |  |
 | Fri, 28 Aug 2026 | Truncate | Max Gardner, Truncate |
@@ -18,9 +17,10 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming night
 | Fri, 11 Sept 2026 | BYORN |  |
 | Sat, 12 Sept 2026 | DXNBY | DXNBY |
 | Fri, 18 Sept 2026 | SAM COLLINS |  |
+| Sat, 19 Sept 2026 | JAMES POOLE |  |
 
 ## Address
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

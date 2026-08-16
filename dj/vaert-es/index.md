@@ -1,6 +1,6 @@
 # Vaert
 
-Vaert is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
+Vaert is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
 
 Vaert is an electronic artist tracked on soundcheck, with 4 sets logged across Barcelona and Milan. Often billed alongside Andrea Castells, Ivan Pugliares and Joseph Capriati. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Vaert is an electronic artist tracked on soundcheck, with 4 sets logged across B
 
 Andrea Castells, Ivan Pugliares, Joseph Capriati
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaert-es/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaert-es/)*

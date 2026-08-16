@@ -1,6 +1,6 @@
 # CITIZEN
 
-CITIZEN is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
+CITIZEN is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
 
 CITIZEN is a garage and breakbeat artist tracked on soundcheck, with 55 sets logged across Liverpool, London and Melbourne. Often billed alongside INSECT CRUSHA, A.N.T and OS:MAN. Next up: The Carpet Shop, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CITIZEN is a garage and breakbeat artist tracked on soundcheck, with 55 sets log
 
 INSECT CRUSHA, A.N.T, OS:MAN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citizen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citizen/)*

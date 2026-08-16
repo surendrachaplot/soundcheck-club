@@ -1,6 +1,6 @@
 # Ourman
 
-Ourman is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+Ourman is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 Ourman is a dubstep and drum & bass artist tracked on soundcheck, with 8 sets logged across Bristol, London and Paris. Often billed alongside Zha (UK), Boofy and Argo (FR). Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ Ourman is a dubstep and drum & bass artist tracked on soundcheck, with 8 sets lo
 
 Zha (UK), Boofy, Argo (FR)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ourman/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ourman/)*

@@ -1,6 +1,6 @@
 # Medlock
 
-Medlock is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
+Medlock is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
 
 Medlock is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, London, Manchester and Milan. Often billed alongside colell, HØLEIGH and Philip Kylberg. Next up: Gaffe, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Medlock is a trance and techno artist based in United Kingdom, tracked on soundc
 
 colell, HØLEIGH, Philip Kylberg
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*

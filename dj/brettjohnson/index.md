@@ -1,6 +1,6 @@
 # Brett Johnson
 
-Brett Johnson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
+Brett Johnson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
 
 Brett Johnson is a house and acid artist based in United States of America, tracked on soundcheck, with 180 sets logged across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Horse Opera, Brother Pate and Robert Roman. Next up: Quartyard, Sandiego on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Brett Johnson is a house and acid artist based in United States of America, trac
 
 Horse Opera, Brother Pate, Robert Roman
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*

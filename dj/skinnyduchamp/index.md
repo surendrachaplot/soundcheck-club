@@ -1,6 +1,6 @@
 # Skinny Duchamp
 
-Skinny Duchamp is a Deep House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Club der Visionaere, Berlin on Mon, 31 Aug 2026.
+Skinny Duchamp is a Deep House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Club der Visionaere, Berlin on Mon, 31 Aug 2026.
 
 Skinny Duchamp is a deep house and electro artist based in Italy, tracked on soundcheck, with 49 sets logged across Berlin. Often billed alongside Al_Massimo, DJ Haribo and Elisé. Next up: Club der Visionaere, Berlin on Mon 31 Aug.
 
@@ -26,4 +26,4 @@ Skinny Duchamp is a deep house and electro artist based in Italy, tracked on sou
 
 Al_Massimo, DJ Haribo, Elisé
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyduchamp/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyduchamp/)*

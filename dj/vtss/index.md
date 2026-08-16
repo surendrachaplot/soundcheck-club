@@ -1,14 +1,13 @@
 # VTSS
 
-VTSS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+VTSS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
 
-VTSS is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Patrick Mason and Boys Noize. Next up: Gianpula Village, Malta on Wed 12 Aug.
+VTSS is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Patrick Mason and Boys Noize. Next up: Boucher Road Fields, Belfast on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Boucher Road Fields | Belfast |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
@@ -30,4 +29,4 @@ VTSS is a techno and house artist tracked on soundcheck, with 175 sets logged ac
 
 I Hate Models, Patrick Mason, Boys Noize
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

@@ -1,6 +1,6 @@
 # Jaquarius
 
-Jaquarius is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Muziekcentrum Kinky Star, Ghent on Fri, 13 Nov 2026.
+Jaquarius is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Muziekcentrum Kinky Star, Ghent on Fri, 13 Nov 2026.
 
 Jaquarius is an acid and electro artist tracked on soundcheck, with 5 sets logged across Ghent, Lyon and Paris. Often billed alongside Castor W., Adrien d'Elzius and Boston 168. Next up: Muziekcentrum Kinky Star, Ghent on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Jaquarius is an acid and electro artist tracked on soundcheck, with 5 sets logge
 
 Castor W., Adrien d'Elzius, Boston 168
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaquarius-fr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaquarius-fr/)*

@@ -1,6 +1,6 @@
 # Kevin Peter He
 
-Kevin Peter He is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Kevin Peter He is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Kevin Peter He is an experimental and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles, Melbourne, Newyorkcity and Prague and 1 more. Often billed alongside Debit, FITNESSS (2) and Jake Oleson. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Kevin Peter He is an experimental and techno artist based in United States of Am
 
 Debit, FITNESSS (2), Jake Oleson
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinpeterhe/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinpeterhe/)*

@@ -1,6 +1,6 @@
 # Sally Swan
 
-Sally Swan is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
+Sally Swan is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 18 Aug 2026.
 
 Sally Swan is a house and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Edinburgh and Glasgow. Often billed alongside Sweeney, CIem and Hayley Zalassi. Next up: Sneaky Pete's, Edinburgh on Tue 18 Aug.
 
@@ -28,4 +28,4 @@ Sally Swan is a house and garage artist based in United Kingdom, tracked on soun
 
 Sweeney, CIem, Hayley Zalassi
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyswan/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyswan/)*

@@ -1,6 +1,6 @@
 # DAVIDOFFWHITE
 
-DAVIDOFFWHITE is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Altenburg 1964, Prague on Sat, 15 Aug 2026.
+DAVIDOFFWHITE is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Altenburg 1964, Prague on Sat, 15 Aug 2026.
 
 DAVIDOFFWHITE is a techno and baile funk artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside Nøteleks, 2NDRA and NEUWERTH. Next up: Altenburg 1964, Prague on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ DAVIDOFFWHITE is a techno and baile funk artist based in Czech Republic, tracked
 
 ## Recently played
 
+- Altenburg 1964, Prague — Sat, 15 Aug 2026
 - Prostor Elementů, Prague — Fri, 19 Jun 2026
 - Brix, Prague — Fri, 5 Jun 2026
 - Altenburg 1964, Prague — Fri, 8 May 2026
@@ -24,4 +25,4 @@ DAVIDOFFWHITE is a techno and baile funk artist based in Czech Republic, tracked
 
 Nøteleks, 2NDRA, NEUWERTH
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*

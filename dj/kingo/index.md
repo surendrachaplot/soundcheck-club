@@ -1,6 +1,6 @@
 # KINGO
 
-KINGO is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
+KINGO is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
 
 KINGO is an industrial and techno artist based in South Africa, tracked on soundcheck, with 5 sets logged across Liverpool and Vancouver. Often billed alongside VLADJ, DK PAU and HEU (CA). Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ KINGO is an industrial and techno artist based in South Africa, tracked on sound
 
 ## Recently played
 
+- 1201 Franklin St, Vancouver — Sat, 15 Aug 2026
 - Arts Club, Liverpool — Sat, 20 Dec 2025
 - Industrial 236, Vancouver — Fri, 15 Aug 2025
 - TBA - VANCOUVER, Vancouver — Fri, 27 Jun 2025
@@ -21,4 +22,4 @@ KINGO is an industrial and techno artist based in South Africa, tracked on sound
 
 VLADJ, DK PAU, HEU (CA)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingo/)*

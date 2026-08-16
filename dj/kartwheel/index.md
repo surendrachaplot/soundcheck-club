@@ -1,6 +1,6 @@
 # Kartwheel
 
-Kartwheel is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
+Kartwheel is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
 
 Kartwheel is a disco and deep house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Ghent. Often billed alongside Arabella Memdouh, Einmusik and Miss Melera. Next up: Thuishaven, Amsterdam on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Kartwheel is a disco and deep house artist based in Netherlands, tracked on soun
 
 Arabella Memdouh, Einmusik, Miss Melera
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kartwheel/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kartwheel/)*

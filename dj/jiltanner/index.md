@@ -1,6 +1,6 @@
 # Jil Tanner
 
-Jil Tanner is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Jil Tanner is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Jil Tanner is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside LOVRA, Vlad Yaki and Thomas Schumacher. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -13,6 +13,7 @@ Jil Tanner is a techno and house artist tracked on soundcheck, with 36 sets logg
 
 ## Recently played
 
+- TBA, Berlin — Sat, 15 Aug 2026
 - Treptower Park, Berlin — Sat, 11 Jul 2026
 - Weekend, Berlin — Sat, 11 Jul 2026
 - Westhafen, Leipzig — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Jil Tanner is a techno and house artist tracked on soundcheck, with 36 sets logg
 - Tanzhaus West, Frankfurt — Sat, 13 Jun 2026
 - Wolkezwei, Leipzig — Fri, 1 May 2026
 - Ritter Butzke, Berlin — Sat, 4 Apr 2026
-- Insomnia, Berlin — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 LOVRA, Vlad Yaki, Thomas Schumacher
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiltanner/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiltanner/)*

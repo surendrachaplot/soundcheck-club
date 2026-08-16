@@ -1,6 +1,6 @@
 # DJ Shadow
 
-DJ Shadow is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+DJ Shadow is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 DJ Shadow is a hip-hop and electronica artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Brighton and Chicago and 17 more. Often billed alongside Ben UFO, Channel Tres and KETTAMA. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Shadow is a hip-hop and electronica artist based in United States of America,
 
 Ben UFO, Channel Tres, KETTAMA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadow/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadow/)*

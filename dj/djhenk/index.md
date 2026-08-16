@@ -1,6 +1,6 @@
 # DJ Henk
 
-DJ Henk is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+DJ Henk is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
 DJ Henk is a trance and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside get no, $EITAN777 and LŸBRA. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
@@ -18,6 +18,7 @@ DJ Henk is a trance and techno artist tracked on soundcheck, with 140 sets logge
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - KitKatClub, Berlin — Thu, 13 Aug 2026
 - KitKatClub, Berlin — Thu, 16 Jul 2026
 - Lokschuppen Berlin, Berlin — Wed, 8 Jul 2026
@@ -25,10 +26,9 @@ DJ Henk is a trance and techno artist tracked on soundcheck, with 140 sets logge
 - The Racket Space, Dublin — Sat, 13 Jun 2026
 - KitKatClub, Berlin — Thu, 11 Jun 2026
 - Lokschuppen Berlin, Berlin — Fri, 5 Jun 2026
-- ://about blank, Berlin — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 get no, $EITAN777, LŸBRA
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*

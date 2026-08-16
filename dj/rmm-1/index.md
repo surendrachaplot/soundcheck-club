@@ -1,6 +1,6 @@
 # RMM (1)
 
-RMM (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The California Clipper, Chicago on Tue, 18 Aug 2026.
+RMM (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The California Clipper, Chicago on Tue, 18 Aug 2026.
 
 RMM (1) is an electro and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin and Chicago. Often billed alongside Baseck, Blaine Mason and Dan Graveyard. Next up: The California Clipper, Chicago on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ RMM (1) is an electro and techno artist based in United States of America, track
 
 Baseck, Blaine Mason, Dan Graveyard
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmm-1/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmm-1/)*

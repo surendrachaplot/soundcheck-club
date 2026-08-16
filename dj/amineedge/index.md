@@ -1,6 +1,6 @@
 # Amine Edge
 
-Amine Edge is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Amine Edge is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Amine Edge is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brisbane, Dublin, Ibiza and Lisbon and 7 more. Often billed alongside Huxley, Shadow Child and Alex Mills. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Amine Edge is a tech house and house artist based in United Kingdom, tracked on 
 
 Huxley, Shadow Child, Alex Mills
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amineedge/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amineedge/)*

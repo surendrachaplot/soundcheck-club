@@ -1,6 +1,6 @@
 # HKKPTR
 
-HKKPTR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
+HKKPTR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
 
 HKKPTR is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Frankfurt and Munich and 1 more. Often billed alongside RaverPik, Sabu! and The Jakob Sister. Next up: Altenburg 1964, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ HKKPTR is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 RaverPik, Sabu!, The Jakob Sister
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hkkptr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hkkptr/)*

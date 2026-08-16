@@ -1,6 +1,6 @@
 # D-FAULT
 
-D-FAULT is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Benelux Rederij Boot, Ghent on Sun, 30 Aug 2026.
+D-FAULT is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Benelux Rederij Boot, Ghent on Sun, 30 Aug 2026.
 
 D-FAULT is a house and progressive house artist tracked on soundcheck, with 5 sets logged across Ghent. Often billed alongside Red D, Alfred Anders and Alsan. Next up: Benelux Rederij Boot, Ghent on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ D-FAULT is a house and progressive house artist tracked on soundcheck, with 5 se
 
 Red D, Alfred Anders, Alsan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-fault/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-fault/)*

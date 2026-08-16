@@ -1,14 +1,13 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Ballroom at Palais: DJ Winggold" on Sat, 15 Aug 2026.
+Ballroom at Palais is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Ballroom at Palais: Nadia Ksaiba & Max Self" on Sun, 16 Aug 2026.
 
-Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including DJ Winggold, Elianne, Fiyahdred and Kyle Bower and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Ballroom at Palais is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Elianne, Fiyahdred, Kyle Bower and KYMA and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Ballroom at Palais: DJ Winggold | DJ Winggold |
 | Sun, 16 Aug 2026 | Ballroom at Palais: Nadia Ksaiba & Max Self | Nadia Ksaiba |
 | Thu, 20 Aug 2026 | Ballroom at Palais: GRACE (RAW SILK) | RAW SILK |
 | Fri, 21 Aug 2026 | Ballroom at Palais: Kyle Bower | Kyle Bower |
@@ -22,4 +21,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming n
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

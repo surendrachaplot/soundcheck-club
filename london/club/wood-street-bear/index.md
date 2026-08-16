@@ -1,6 +1,6 @@
 # Wood Street Bear
 
-Wood Street Bear is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Woodbridge Festival Summer Launch - DJ Ben Osborne" on Sat, 15 Aug 2026.
+Wood Street Bear is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Woodbridge Festival Summer Launch - DJ Ben Osborne" on Sat, 15 Aug 2026.
 
 Wood Street Bear is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Ben Osborne and Drastic Shuffle. Browse upcoming dates, start times and who's playing. 135 Wood Street, London E17 9HG.
 
@@ -15,4 +15,4 @@ Wood Street Bear is a music venue in London listed on soundcheck. 2 upcoming nig
 
 135 Wood Street, London E17 9HG, London
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*

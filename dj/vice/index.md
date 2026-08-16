@@ -1,6 +1,6 @@
 # Vice
 
-Vice is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at House of Yes, New York City on Fri, 28 Aug 2026.
+Vice is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at House of Yes, New York City on Fri, 28 Aug 2026.
 
 Vice is a techno and club artist tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Vyper, Xana 101 and Boyfriend Dick. Next up: House of Yes, Newyorkcity on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Vice is a techno and club artist tracked on soundcheck, with 8 sets logged acros
 
 Vyper, Xana 101, Boyfriend Dick
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vice/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vice/)*

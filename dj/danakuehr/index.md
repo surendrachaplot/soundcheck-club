@@ -1,14 +1,13 @@
 # Dana Kuehr
 
-Dana Kuehr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Dana Kuehr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
-Dana Kuehr is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 8 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Dana Kuehr is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 8 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dana Kuehr is a house and techno artist based in United States of America, track
 
 Fais Le Beau, DJ Rino, Karla Böhm
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*

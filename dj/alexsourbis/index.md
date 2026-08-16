@@ -1,6 +1,6 @@
 # Alex Sourbis
 
-Alex Sourbis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
+Alex Sourbis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
 
 Alex Sourbis is a techno and bass artist tracked on soundcheck, with 13 sets logged across Berlin, Brussels and London. Often billed alongside Sixsixsixties, Dana Kuehr and Maito. Next up: radial, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Alex Sourbis is a techno and bass artist tracked on soundcheck, with 13 sets log
 
 Sixsixsixties, Dana Kuehr, Maito
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsourbis/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsourbis/)*

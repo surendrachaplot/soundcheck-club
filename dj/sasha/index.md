@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Stereo, Montreal on Sat, 15 Aug 2026.
+Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Stereo, Montreal on Sat, 15 Aug 2026.
 
 Sasha is a progressive house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Stereo, Montreal on Sat 15 Aug.
 
@@ -19,6 +19,7 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 160 s
 
 ## Recently played
 
+- Stereo, Montreal — Sat, 15 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 14 Aug 2026
 - World Headquarters, Newcastle — Sat, 1 Aug 2026
 - Manko Athens, Athens — Sat, 18 Jul 2026
@@ -26,10 +27,9 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 160 s
 - Sala UNI Madrid, Madrid — Fri, 17 Jul 2026
 - Tofte Manor, London — Sat, 4 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
-- TBA - Felons Barrel Room, Manly, Sydney — Sun, 7 Jun 2026
 
 ## Shares bills with
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

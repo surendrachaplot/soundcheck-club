@@ -1,6 +1,6 @@
 # KMRU
 
-KMRU is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+KMRU is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 KMRU is an experimental and electronica artist based in Kenya, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Carmen Villain, Aho Ssan and Jessica Ekomane. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ KMRU is an experimental and electronica artist based in Kenya, tracked on soundc
 
 Carmen Villain, Aho Ssan, Jessica Ekomane
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*

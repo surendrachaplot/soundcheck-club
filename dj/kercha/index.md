@@ -1,6 +1,6 @@
 # Kercha
 
-Kercha is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - SAKARI, Tbilisi on Fri, 21 Aug 2026.
+Kercha is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - SAKARI, Tbilisi on Fri, 21 Aug 2026.
 
 Kercha is a bass and dubstep artist tracked on soundcheck, with 8 sets logged across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside DUKU, A.Fruit and Neekeetone. Next up: TBA - SAKARI, Tbilisi on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Kercha is a bass and dubstep artist tracked on soundcheck, with 8 sets logged ac
 
 DUKU, A.Fruit, Neekeetone
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kercha/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kercha/)*

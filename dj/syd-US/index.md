@@ -1,6 +1,6 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at El Secreto De Rosita, Washington DC on Sat, 29 Aug 2026.
+Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at El Secreto De Rosita, Washington DC on Sat, 29 Aug 2026.
 
 Syd (US) is a club and techno artist tracked on soundcheck, with 85 sets logged across Boston, Chicago, Detroit and Losangeles and 8 more. Often billed alongside NATALIA., Tromac and kabir.. Next up: El Secreto De Rosita, Washingtondc on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 85 sets logged 
 
 NATALIA., Tromac, kabir.
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

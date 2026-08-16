@@ -1,6 +1,6 @@
 # mitt
 
-mitt is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
+mitt is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
 
 mitt is a minimal and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Prague and Warsaw. Often billed alongside DJ Troy, Neue Medecina and Paoler. Next up: Twist Bar, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ mitt is a minimal and tech house artist based in Germany, tracked on soundcheck,
 
 DJ Troy, Neue Medecina, Paoler
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitt/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitt/)*

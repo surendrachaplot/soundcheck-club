@@ -1,6 +1,6 @@
 # Felix Kropf
 
-Felix Kropf is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Paloma, Berlin on Fri, 21 Aug 2026.
+Felix Kropf is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paloma, Berlin on Fri, 21 Aug 2026.
 
 Felix Kropf is a house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Håstad, Ori Raz and Sevensol. Next up: Paloma, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Felix Kropf is a house artist based in Germany, tracked on soundcheck, with 15 s
 
 Håstad, Ori Raz, Sevensol
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkropf/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkropf/)*

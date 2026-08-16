@@ -1,6 +1,6 @@
 # Luc Mast
 
-Luc Mast is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Luc Mast is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Luc Mast is an electronic artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Naone, Rozaly and Sally C. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luc Mast is an electronic artist based in Netherlands, tracked on soundcheck, wi
 
 Naone, Rozaly, Sally C
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucmast/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucmast/)*

@@ -1,6 +1,6 @@
 # Horkheimer
 
-Horkheimer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Horkheimer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Horkheimer is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Frankfurt and Leipzig and 7 more. Often billed alongside Ata, Chinaski and Femcat. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Horkheimer is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Renate, Berlin — Sat, 15 Aug 2026
 - Distillery, Leipzig — Thu, 25 Dec 2025
 - Romantica, Stuttgart — Sat, 7 Jun 2025
 - Silbergold, Frankfurt — Wed, 30 Apr 2025
@@ -19,10 +20,9 @@ Horkheimer is a techno and house artist based in Germany, tracked on soundcheck,
 - Silbergold, Frankfurt — Tue, 31 Dec 2024
 - THF Radio / Torhaus, Berlin — Tue, 17 Dec 2024
 - Good Room, New York City — Sat, 30 Nov 2024
-- Romantica, Stuttgart — Sat, 23 Nov 2024
 
 ## Shares bills with
 
 Ata, Chinaski, Femcat
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horkheimer/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horkheimer/)*

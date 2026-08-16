@@ -1,6 +1,6 @@
 # Jmcee
 
-Jmcee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Katarì 2.0, Naples on Sun, 16 Aug 2026.
+Jmcee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Katarì 2.0, Naples on Sun, 16 Aug 2026.
 
 Jmcee is a house and techno artist based in Australia, tracked on soundcheck, with 81 sets logged across Bali, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Lucca Tan, Gabri-L and Steph Yeah. Next up: Katarì 2.0, Naples on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Jmcee is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Lucca Tan, Gabri-L, Steph Yeah
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*

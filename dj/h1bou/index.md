@@ -1,6 +1,6 @@
 # h1bou
 
-h1bou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
+h1bou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
 
 h1bou is a techno and house artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal and Toronto. Often billed alongside Field Note, Dijipoune and zi!. Next up: Système, Montreal on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ h1bou is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
+- Système, Montreal — Sat, 15 Aug 2026
 - TBA - Centre-sud, Montreal — Fri, 7 Aug 2026
 - Bar Datcha, Montreal — Thu, 30 Jul 2026
 - Parquette, Montreal — Sat, 4 Jul 2026
@@ -19,10 +20,9 @@ h1bou is a techno and house artist based in Canada, tracked on soundcheck, with 
 - Système, Montreal — Sat, 6 Jun 2026
 - TBA - Rosemont/Plateau, Montreal — Sun, 17 May 2026
 - TBA - Montreal, Montreal — Wed, 31 Dec 2025
-- TBA - Montreal, Montreal — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Field Note, Dijipoune, zi!
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*

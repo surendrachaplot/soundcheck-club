@@ -1,6 +1,6 @@
 # p.K.one
 
-p.K.one is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at FLUCC, Vienna on Sat, 15 Aug 2026.
+p.K.one is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at FLUCC, Vienna on Sat, 15 Aug 2026.
 
 p.K.one is an electronic artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Annika Stein, MELIMEKO and Mareia. Next up: FLUCC, Vienna on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ p.K.one is an electronic artist tracked on soundcheck, with 4 sets logged across
 
 ## Recently played
 
+- FLUCC, Vienna — Sat, 15 Aug 2026
 - Marea Alta, Vienna — Sat, 16 May 2026
 - FLUCC, Vienna — Sat, 7 Mar 2026
 - Club Lucia, Vienna — Sat, 7 Feb 2026
@@ -20,4 +21,4 @@ p.K.one is an electronic artist tracked on soundcheck, with 4 sets logged across
 
 Annika Stein, MELIMEKO, Mareia
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.k.one/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.k.one/)*

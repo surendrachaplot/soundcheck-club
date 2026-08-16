@@ -1,6 +1,6 @@
 # Teki Latex
 
-Teki Latex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Teki Latex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Teki Latex is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Neffa-T, Koboyo and Surusinghe. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Teki Latex is a techno and house artist tracked on soundcheck, with 78 sets logg
 
 Neffa-T, Koboyo, Surusinghe
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*

@@ -1,6 +1,6 @@
 # B.R.K.Ø.
 
-B.R.K.Ø. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+B.R.K.Ø. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
 B.R.K.Ø. is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside e.leptic, E.T. and Deltapeak. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ B.R.K.Ø. is a techno and trance artist based in Germany, tracked on soundcheck,
 
 e.leptic, E.T., Deltapeak
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.k.o./)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.k.o./)*

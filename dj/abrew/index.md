@@ -1,6 +1,6 @@
 # Abrew
 
-Abrew is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+Abrew is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
 Abrew is a techno and trance artist tracked on soundcheck, with 92 sets logged across Krakow, Prague and Warsaw. Often billed alongside Kobayashkn, dj.zamocno and bolo. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Abrew is a techno and trance artist tracked on soundcheck, with 92 sets logged a
 
 Kobayashkn, dj.zamocno, bolo
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrew/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrew/)*

@@ -1,6 +1,6 @@
 # Mika Siponen
 
-Mika Siponen is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Mika Siponen is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Mika Siponen is an electronic artist tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside Gregor Welz, Ponygirl and Alex.Do. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Mika Siponen is an electronic artist tracked on soundcheck, with 3 sets logged a
 
 Gregor Welz, Ponygirl, Alex.Do
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasiponen/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasiponen/)*

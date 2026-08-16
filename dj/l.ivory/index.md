@@ -1,6 +1,6 @@
 # L.ivory
 
-L.ivory is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at The Bernard Shaw, Dublin on Sat, 5 Sept 2026.
+L.ivory is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Bernard Shaw, Dublin on Sat, 5 Sept 2026.
 
 L.ivory is a house and techno artist based in Ireland, tracked on soundcheck, with 15 sets logged across Dublin. Often billed alongside Rhyzine, Kaily and LPM (1). Next up: The Bernard Shaw, Dublin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ L.ivory is a house and techno artist based in Ireland, tracked on soundcheck, wi
 
 Rhyzine, Kaily, LPM (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.ivory/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.ivory/)*

@@ -1,6 +1,6 @@
 # HBB (US)
 
-HBB (US) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - MATRIARCH LA, Los Angeles on Fri, 18 Sept 2026.
+HBB (US) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - MATRIARCH LA, Los Angeles on Fri, 18 Sept 2026.
 
 HBB (US) is a deep house and house artist tracked on soundcheck, with 25 sets logged across Losangeles and Sanfrancisco. Often billed alongside Sauaro, KMNI and Les Baklavas. Next up: TBA - MATRIARCH LA, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ HBB (US) is a deep house and house artist tracked on soundcheck, with 25 sets lo
 
 Sauaro, KMNI, Les Baklavas
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hbb-us/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hbb-us/)*

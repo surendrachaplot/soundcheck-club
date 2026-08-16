@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "What Happens: Rocío Portillo / Tim Andresen / AYELEN / Marsans / Matias Oliveros / Distracted" on Sat, 15 Aug 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "What Happens: Rocío Portillo / Tim Andresen / AYELEN / Marsans / Matias Oliveros / Distracted" on Sat, 15 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Alex Stein and AMITTET and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

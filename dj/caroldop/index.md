@@ -1,6 +1,6 @@
 # Carol DOP
 
-Carol DOP is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Hotel Labtwentytwo, Barcelona on Sun, 13 Sept 2026.
+Carol DOP is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hotel Labtwentytwo, Barcelona on Sun, 13 Sept 2026.
 
 Carol DOP is an afro tech and afro house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside CHRIS RAZZ, /K/iara and Djoan. Next up: Hotel Labtwentytwo, Barcelona on Sun 13 Sept.
 
@@ -23,4 +23,4 @@ Carol DOP is an afro tech and afro house artist based in Spain, tracked on sound
 
 CHRIS RAZZ, /K/iara, Djoan
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caroldop/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caroldop/)*

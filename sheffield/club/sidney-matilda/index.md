@@ -1,14 +1,13 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 11 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "GLYPH - Summer Session - Trance & Progressive: 1996-2026 ft Paul Pearson, Hiddenagenda, S.W.A.P" on Sat, 15 Aug 2026.
+Sidney & Matilda is a music venue in Sheffield with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "S&M X Beat Bunker X Nowt Daft presents: DJ Paypal" on Fri, 21 Aug 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Aries, Bailey Ibbs, Charla Green and Cimmerian and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming nights, with line-ups including Aries, Bailey Ibbs, Charla Green and Cimmerian and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | GLYPH - Summer Session - Trance & Progressive: 1996-2026 ft Paul Pearson, Hiddenagenda, S.W.A.P | Craig Cassiera, Dave Lazenby |
 | Fri, 21 Aug 2026 | S&M X Beat Bunker X Nowt Daft presents: DJ Paypal | DJ Paypal, Finn Eden, Livsey |
 | Fri, 11 Sept 2026 | BILL REAVER presents: Lady Passion | Lady Passion |
 | Fri, 18 Sept 2026 | ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more | Bailey Ibbs, Cimmerian, Harrison (UK), Move Elusive |
@@ -18,9 +17,10 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 11 upcoming
 | Fri, 16 Oct 2026 | S&M X Unity Underground presents: Slipmatt | Dead Man's Chest, King Chuga, Slipmatt |
 | Fri, 23 Oct 2026 | S&M x Wub Club presents: Dillinja | Charla Green, Dillinja |
 | Sat, 31 Oct 2026 | WICKED BEHAVIOUR  |  |
+| Fri, 13 Nov 2026 | Steel City D&B Winter Warmer with Danny Byrd + Aries | Aries, Danny Byrd |
 
 ## Address
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

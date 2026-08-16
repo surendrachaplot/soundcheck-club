@@ -1,6 +1,6 @@
 # IDLIBRA
 
-IDLIBRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at La Gravière, Geneva on Sat, 22 Aug 2026.
+IDLIBRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Gravière, Geneva on Sat, 22 Aug 2026.
 
 IDLIBRA is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Geneva and Leipzig and 7 more. Often billed alongside Alírio, Cashu and Kontronatura. Next up: La Gravière, Geneva on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ IDLIBRA is a house and techno artist tracked on soundcheck, with 41 sets logged 
 
 Alírio, Cashu, Kontronatura
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idlibra/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idlibra/)*

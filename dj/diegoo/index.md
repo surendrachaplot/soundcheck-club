@@ -1,6 +1,6 @@
 # Diegoo
 
-Diegoo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
+Diegoo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
 
 Diegoo is a house and deep house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside CAÑITA, Disco Bogotá and LegenDari. Next up: TBA - Secret Rooftop Location in Brooklyn, Newyorkcity on Sat 22 Aug.
 
@@ -15,4 +15,4 @@ Diegoo is a house and deep house artist based in United States of America, track
 
 CAÑITA, Disco Bogotá, LegenDari
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoo/)*

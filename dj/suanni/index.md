@@ -1,6 +1,6 @@
 # Suanni
 
-Suanni is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
+Suanni is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
 
 Suanni is a techno and acid artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Sanfrancisco and Tokyo. Often billed alongside JustJovani, CASPII and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Suanni is a techno and acid artist based in United States of America, tracked on
 
 JustJovani, CASPII, Cobb Douglas
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suanni/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suanni/)*

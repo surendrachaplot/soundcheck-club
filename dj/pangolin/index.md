@@ -1,6 +1,6 @@
 # Pangölin
 
-Pangölin is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
+Pangölin is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
 
 Pangölin is a progressive house and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Manchester. Often billed alongside WeeDot, Róisín W and The Brokers. Next up: Eastern Bloc Records, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Pangölin is a progressive house and tech house artist based in United Kingdom, 
 
 WeeDot, Róisín W, The Brokers
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*

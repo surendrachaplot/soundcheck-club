@@ -1,18 +1,18 @@
 # Moby
 
-Moby is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Old Royal Naval College, London on Sat, 15 Aug 2026.
+Moby is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Moby is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Bangkok, Berlin, London and Losangeles and 1 more. Often billed alongside ASHER SWISSA, Alesso and Cat Dealers. Next up: Old Royal Naval College, London on Sat 15 Aug.
+Moby is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Bangkok, Berlin, London and Losangeles and 1 more. Often billed alongside ASHER SWISSA, Alesso and Cat Dealers. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Old Royal Naval College | London |
 | Thu, 24 Sept 2026 | Various Venues | London |
 
 ## Recently played
 
+- Old Royal Naval College, London — Sat, 15 Aug 2026
 - River City Bangkok, Bangkok — Fri, 10 Apr 2026
 - Los Angeles Convention Center, Los Angeles — Fri, 9 May 2025
 - Los Angeles Convention Center, Los Angeles — Fri, 9 May 2025
@@ -23,4 +23,4 @@ Moby is a progressive house and techno artist based in United States of America,
 
 ASHER SWISSA, Alesso, Cat Dealers
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moby/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moby/)*

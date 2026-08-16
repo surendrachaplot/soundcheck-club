@@ -1,14 +1,13 @@
 # Frankie $
 
-Frankie $ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
+Frankie $ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Mitsuki, Tokyo on Thu, 27 Aug 2026.
 
-Frankie $ is a house and techno artist based in Japan, tracked on soundcheck, with 123 sets logged across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Al Jones, Hayato Iwaki and YANNY (1). Next up: Festival Povaleč, Prague on Thu 13 Aug.
+Frankie $ is a house and techno artist based in Japan, tracked on soundcheck, with 123 sets logged across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Al Jones, Hayato Iwaki and YANNY (1). Next up: Mitsuki, Tokyo on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Festival Povaleč | Prague |
 | Thu, 27 Aug 2026 | Mitsuki | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
@@ -27,4 +26,4 @@ Frankie $ is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 Al Jones, Hayato Iwaki, YANNY (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*

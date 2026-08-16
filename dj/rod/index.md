@@ -1,6 +1,6 @@
 # ROD
 
-ROD is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 15 Aug 2026, next at export, Rotterdam on Sat, 15 Aug 2026.
+ROD is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at export, Rotterdam on Sat, 15 Aug 2026.
 
 ROD is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and Speedy J. Next up: export, Rotterdam on Sat 15 Aug.
 
@@ -15,6 +15,7 @@ ROD is a techno and house artist tracked on soundcheck, with 48 sets logged acro
 
 ## Recently played
 
+- export, Rotterdam — Sat, 15 Aug 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 - BRET, Amsterdam — Sat, 2 May 2026
 - TILLATEC, Amsterdam — Sun, 29 Mar 2026
@@ -22,10 +23,9 @@ ROD is a techno and house artist tracked on soundcheck, with 48 sets logged acro
 - RADION, Amsterdam — Sat, 14 Feb 2026
 - CLUB RAUM, Amsterdam — Sat, 8 Nov 2025
 - Sameheads, Berlin — Fri, 29 Aug 2025
-- TBA - Molbergsweg 1c, Deventer, Amsterdam — Sat, 9 Aug 2025
 
 ## Shares bills with
 
 Benny Rodrigues, Cynthia Spiering, Speedy J
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*

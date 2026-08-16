@@ -1,6 +1,6 @@
 # Iueke
 
-Iueke is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Dim, Belgrade on Sat, 12 Sept 2026.
+Iueke is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dim, Belgrade on Sat, 12 Sept 2026.
 
 Iueke is a techno and experimental artist based in France, tracked on soundcheck, with 8 sets logged across Belgrade, Berlin, Lyon and Paris. Often billed alongside Zaltan, Elena Sizova and Gilb'R. Next up: Dim, Belgrade on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Iueke is a techno and experimental artist based in France, tracked on soundcheck
 
 Zaltan, Elena Sizova, Gilb'R
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iueke/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iueke/)*

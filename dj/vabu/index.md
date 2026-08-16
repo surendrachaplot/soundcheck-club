@@ -1,6 +1,6 @@
 # VABU
 
-VABU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 21 Aug 2026.
+VABU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 21 Aug 2026.
 
 VABU is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Darin Epsilon, Nikiija and DIESEN. Next up: Club Frau Holle, Hamburg on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VABU is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Darin Epsilon, Nikiija, DIESEN
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vabu/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vabu/)*

@@ -1,6 +1,6 @@
 # Trustfall
 
-Trustfall is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Trustfall is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Trustfall is a techno and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and DJ Trustfall. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Trustfall is a techno and house artist based in United States of America, tracke
 
 Peter Sheppard, Andy Warren, DJ Trustfall
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*

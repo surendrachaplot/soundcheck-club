@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
+Nicolle Velcro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
 Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundcheck, with 28 sets logged across Lisbon. Often billed alongside Adam Purnell, Kemetic and AZM (1). Next up: Escala25, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundche
 
 Adam Purnell, Kemetic, AZM (1)
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

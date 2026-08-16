@@ -1,6 +1,6 @@
 # Millos Kaiser
 
-Millos Kaiser is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 22 Aug 2026.
+Millos Kaiser is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 22 Aug 2026.
 
 Millos Kaiser is a house and disco artist based in Brazil, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Edinburgh and 11 more. Often billed alongside Gop Tun DJs, Mendel and Eli Iwasa. Next up: Caracol Bar, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Millos Kaiser is a house and disco artist based in Brazil, tracked on soundcheck
 
 Gop Tun DJs, Mendel, Eli Iwasa
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*

@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "WAS ZUR HOLLE! with Spam (IL KIOSK KOLLEKTIV), Alias (Luna Club), Timeless Moments, MATT YOU" on Sat, 15 Aug 2026.
+Club Frau Holle is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "WAS ZUR HOLLE! with Spam (IL KIOSK KOLLEKTIV), Alias (Luna Club), Timeless Moments, MATT YOU" on Sat, 15 Aug 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Alias, Benjamin Grimm, CHICHO and Frank Leder and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -17,4 +17,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

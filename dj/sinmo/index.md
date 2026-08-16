@@ -1,6 +1,6 @@
 # Sinmo
 
-Sinmo is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 15 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+Sinmo is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
 Sinmo is a tech house and electro artist tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside Buchan, Abuelita and Animistic Beliefs. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
@@ -12,6 +12,7 @@ Sinmo is a tech house and electro artist tracked on soundcheck, with 9 sets logg
 
 ## Recently played
 
+- K-Bar Powiśle, Warsaw — Sat, 15 Aug 2026
 - Sekta Selekta, Krakow — Sat, 8 Aug 2026
 - MONKEY LOVE, Warsaw — Sat, 25 Jul 2026
 - Mastak, Warsaw — Sun, 14 Jun 2026
@@ -19,10 +20,9 @@ Sinmo is a tech house and electro artist tracked on soundcheck, with 9 sets logg
 - Mastak, Warsaw — Sat, 8 Nov 2025
 - Jasna 1, Warsaw — Fri, 31 Oct 2025
 - VVOSK RECORDS, Warsaw — Fri, 26 Sept 2025
-- Jasna 1, Warsaw — Thu, 13 Mar 2025
 
 ## Shares bills with
 
 Buchan, Abuelita, Animistic Beliefs
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*

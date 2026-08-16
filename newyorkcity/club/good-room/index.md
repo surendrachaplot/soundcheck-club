@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 15 Aug 2026; the next is "Stuntsz: Body Language ft Ben Wagner, Partok, James Axon, Leo Scheck, Jaesyun, Markus Z " on Sat, 15 Aug 2026.
+Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Honey Trap & Accessory Records: Titonton Duvante (live), Rose Kourts, Amelia Holt + more" on Thu, 20 Aug 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 1morning, A lana, Alex McCracken and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 1morning, A lana, Alex McCracken and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Stuntsz: Body Language ft Ben Wagner, Partok, James Axon, Leo Scheck, Jaesyun, Markus Z  | Ben Wagner, Jaesyun, James Axon, Leo Scheck, Partok |
 | Thu, 20 Aug 2026 | Honey Trap & Accessory Records: Titonton Duvante (live), Rose Kourts, Amelia Holt + more | Amelia Holt, Greville, Miles Mercer, Rose Kourts, Second Contact, Simic, Titonton Duvanté |
 | Fri, 21 Aug 2026 | Anish Kumar, Extra Meesh, Alyssa Stowers, John Silas | Anish Kumar, Extra Meesh, John Silas |
 | Sat, 22 Aug 2026 | Darker Than Wax ft FFAN, Marco Weibel, Xica Soul, Ben Hixon | Ben Hixon, FFAN, Marco Weibel, Xica Soul |
@@ -18,9 +17,10 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 | Sat, 5 Sept 2026 | Fango, Tim Sweeney, gabby cocco (all night) | Fango, Tim Sweeney, gabby cocco |
 | Sun, 6 Sept 2026 | Gloria Danger | Budino, Gee Dee, Liad Krispin, Mike Servito, ThoughtKnot |
 | Fri, 11 Sept 2026 | Justin Strauss (all night), Rissa Garcia, Ruez | Justin Strauss, Rissa Garcia, Ruez |
+| Sat, 19 Sept 2026 | Love Games: Tony Humphries, Lauren Murada & Finn Jones, TYLERFROMWHERE, Steph Vaye | Finn Jones, Lauren Murada, Steph Vaye, TYLERFROMWHERE, Tony Humphries |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sat, 15 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
