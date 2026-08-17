@@ -2,7 +2,7 @@
 
 Phin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-Phin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Burnski, Mrt and Skream. Next up: Dullingham Polo Club, London on Sat 22 Aug.
+Phin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside DJ VALENTINE, Leo (2) and Kepler. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Phin is a house and tech house artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Burnski, Mrt, Skream
+DJ VALENTINE, Leo (2), Kepler
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phin/)*

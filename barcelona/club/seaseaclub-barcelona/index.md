@@ -15,7 +15,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 10 upco
 | Sat, 19 Sept 2026 | TSOA: Fritz Kalkbrenner & Einmusik (Open Air) | Agatha Pher, Einmusik, Envel, Fritz Kalkbrenner |
 | Sun, 20 Sept 2026 | SWING pres. Nic Fanciulli | BizZa, DIROS, Nic Fanciulli, Rendher |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
-| Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
+| Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
 | Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |
 | Sun, 8 Nov 2026 | TSOA: X Years w. Jan Blomqvist (Open Air) | Agatha Pher, Brizas, Jan Blomqvist |
 

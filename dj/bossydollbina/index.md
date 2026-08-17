@@ -1,13 +1,14 @@
 # Bossy Doll Bina
 
-Bossy Doll Bina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Bossy Doll Bina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Beach Neukölln, Berlin on Sat, 22 Aug 2026.
 
-Bossy Doll Bina is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Lisbon and Marseille and 1 more. Often billed alongside SALIMATA, Bombata and David Dorad. Next up: ://about blank, Berlin on Sat 26 Sept.
+Bossy Doll Bina is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Lisbon and Marseille and 1 more. Often billed alongside SALIMATA, Bombata and David Dorad. Next up: Beach Neukölln, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Beach Neukölln | Berlin |
 | Sat, 26 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played

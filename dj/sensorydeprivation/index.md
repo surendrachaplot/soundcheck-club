@@ -2,7 +2,7 @@
 
 Sensory Deprivation is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
-Sensory Deprivation is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside ANNDRA, Discolisko and MEDINA. Next up: Hall, Tallinn on Fri 11 Sept.
+Sensory Deprivation is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside MEDINA, Techno Hate Project and Lee Wander. Next up: Hall, Tallinn on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Sensory Deprivation is a techno artist based in Finland, tracked on soundcheck, 
 
 ## Shares bills with
 
-ANNDRA, Discolisko, MEDINA
+MEDINA, Techno Hate Project, Lee Wander
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensorydeprivation/)*

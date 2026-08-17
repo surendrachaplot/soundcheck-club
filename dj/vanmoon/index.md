@@ -2,7 +2,7 @@
 
 Van Moon is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Van Moon is a club and house artist based in India, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Lell Nahar, Andrew Rayel and Unseen.. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Van Moon is a club and house artist based in India, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Lell Nahar, Jono Stephenson and Black Box. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Van Moon is a club and house artist based in India, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Lell Nahar, Andrew Rayel, Unseen.
+Lell Nahar, Jono Stephenson, Black Box
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanmoon/)*

@@ -2,7 +2,7 @@
 
 Nuclear Boyfriend is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stereo, Glasgow on Fri, 21 Aug 2026.
 
-Nuclear Boyfriend is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Babyjaii and deBasement. Next up: Stereo, Glasgow on Fri 21 Aug.
+Nuclear Boyfriend is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside deBasement and Babyjaii. Next up: Stereo, Glasgow on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Nuclear Boyfriend is an electronic artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Babyjaii, deBasement
+deBasement, Babyjaii
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuclearboyfriend/)*

@@ -2,7 +2,7 @@
 
 NIKKI (3) is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
-NIKKI (3) is an electronica and progressive house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside CLO (2), EMJANERO and Junglehussi. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
+NIKKI (3) is an electronica and progressive house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Junglehussi, SKYLERMYLER and Zander. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ NIKKI (3) is an electronica and progressive house artist based in Netherlands, t
 
 ## Shares bills with
 
-CLO (2), EMJANERO, Junglehussi
+Junglehussi, SKYLERMYLER, Zander
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki-3/)*

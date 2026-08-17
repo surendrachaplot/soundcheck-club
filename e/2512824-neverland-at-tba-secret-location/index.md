@@ -1,6 +1,6 @@
 # NEVERLAND at TBA - Secret Location
 
-NEVERLAND at TBA - Secret Location on Sat 29 Aug, London. 4 acts on the bill: Goddess, Kling, Lezcano and Micro Bites. Techno. Preview the line-up and save it on soundcheck.
+NEVERLAND at TBA - Secret Location on Sat 29 Aug, London. 5 acts on the bill: Goddess, Kling, Lau.tastic and Lezcano and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ NEVERLAND at TBA - Secret Location on Sat 29 Aug, London. 4 acts on the bill: Go
 
 - Goddess
 - Kling
+- Lau.tastic
 - Lezcano
 - Micro Bites
 

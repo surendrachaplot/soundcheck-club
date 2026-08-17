@@ -2,7 +2,7 @@
 
 Richard Odoi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Richard Odoi is an electronic artist based in Uganda, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside raging moms, aheadacheaday and Sketchy. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Richard Odoi is an electronic artist based in Uganda, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside aheadacheaday, Byron Yeates and Nahomi. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Richard Odoi is an electronic artist based in Uganda, tracked on soundcheck, wit
 
 ## Shares bills with
 
-raging moms, aheadacheaday, Sketchy
+aheadacheaday, Byron Yeates, Nahomi
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardodoi/)*

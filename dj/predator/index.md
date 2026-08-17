@@ -2,7 +2,7 @@
 
 Predator is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Predator is a gabber and hardcore artist based in Italy, tracked on soundcheck, with 1 set logged across Frankfurt. Often billed alongside Neophyte, Korsakoff and Pinotello. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
+Predator is a gabber and hardcore artist based in Italy, tracked on soundcheck, with 1 set logged across Frankfurt. Often billed alongside Korsakoff, Mad Dog and Marc Acardipane. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Predator is a gabber and hardcore artist based in Italy, tracked on soundcheck, 
 
 ## Shares bills with
 
-Neophyte, Korsakoff, Pinotello
+Korsakoff, Mad Dog, Marc Acardipane
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*
