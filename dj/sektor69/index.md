@@ -1,8 +1,8 @@
 # SEKTOR69
 
-SEKTOR69 is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+SEKTOR69 is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
-SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Schrotty, Cologne on Fri 4 Sept.
+SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Schrotty, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, 
 | Fri, 11 Sept 2026 | Das Werk | Vienna |
 | Fri, 11 Sept 2026 | Gleis19 | Vienna |
 | Sat, 19 Sept 2026 | OST | Berlin |
+| Sat, 3 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
 

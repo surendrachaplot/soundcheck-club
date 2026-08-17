@@ -1,8 +1,8 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Madam by Night invites: Dive Deep Melodic Nights Vol. V" on Fri, 21 Aug 2026.
+Madam is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Madam by Night invites: Dive Deep Melodic Nights Vol. V" on Fri, 21 Aug 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Aline Rocha, Carl Craig, Chris Di Perri and Crystal Touch and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 

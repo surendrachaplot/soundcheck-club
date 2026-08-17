@@ -1,6 +1,6 @@
-# LA SCARLETTE: Eloi, Lili Castiglioni, kou2tatane & more at Virage
+# La Scarlette: Eloi, Lili Castiglioni, kou2tatane & more at Virage
 
-LA SCARLETTE: Eloi, Lili Castiglioni, kou2tatane & more at Virage on Wed 26 Aug, Paris. 2 acts on the bill: Eloi and Lili Castiglioni. Preview the line-up and save it on soundcheck.
+La Scarlette: Eloi, Lili Castiglioni, kou2tatane & more at Virage on Wed 26 Aug, Paris. 2 acts on the bill: Eloi and Lili Castiglioni. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

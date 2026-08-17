@@ -1,8 +1,8 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Digital, Newcastle on Sat, 5 Sept 2026.
+FIRZA is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Digital, Newcastle on Sat, 5 Sept 2026.
 
-FIRZA is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 7 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Digital, Newcastle on Sat 5 Sept.
+FIRZA is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 7 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Digital, Newcastle on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FIRZA is a house and tech house artist tracked on soundcheck, with 24 sets logge
 | Sat, 5 Sept 2026 | Digital | Newcastle |
 | Sat, 5 Sept 2026 | Digital | Newcastle |
 | Fri, 16 Oct 2026 | Mama Roux | Birmingham |
+| Sun, 25 Oct 2026 | Toekomstmuziek | Amsterdam |
 
 ## Recently played
 

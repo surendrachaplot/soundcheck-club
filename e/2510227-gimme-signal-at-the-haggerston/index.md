@@ -1,6 +1,6 @@
 # Gimme Signal at The Haggerston
 
-Gimme Signal at The Haggerston on Fri 28 Aug, London. 2 acts on the bill: Kim Öhman and Ms. Renegade. Dancehall and UK Funky. Preview the line-up and save it on soundcheck.
+Gimme Signal at The Haggerston on Fri 28 Aug, London. 2 acts on the bill: Kim Öhman and Ms. Renegade. Breakbeat and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

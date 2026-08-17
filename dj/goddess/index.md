@@ -2,7 +2,7 @@
 
 Goddess is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
 
-Goddess is a techno artist based in Kenya, tracked on soundcheck, with 1 set logged across London. Often billed alongside Kling, Lau.tastic and Lezcano. Next up: TBA - Secret Location, London on Sat 29 Aug.
+Goddess is a techno artist based in Kenya, tracked on soundcheck, with 1 set logged across London. Often billed alongside Kling, Lau.tastic and Micro Bites. Next up: TBA - Secret Location, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Goddess is a techno artist based in Kenya, tracked on soundcheck, with 1 set log
 
 ## Shares bills with
 
-Kling, Lau.tastic, Lezcano
+Kling, Lau.tastic, Micro Bites
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddess/)*

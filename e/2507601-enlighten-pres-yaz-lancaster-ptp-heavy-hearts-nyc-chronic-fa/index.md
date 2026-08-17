@@ -1,6 +1,6 @@
-# Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Yokel, Tony Onuchukwu at SJQ
+# Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Tony Onuchukwu at SJQ
 
-Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Yokel, Tony Onuchukwu at SJQ on Mon 24 Aug, London. 1 act on the bill: Yaz Lancaster. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
+Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Tony Onuchukwu at SJQ on Mon 24 Aug, London. 1 act on the bill: Yaz Lancaster. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

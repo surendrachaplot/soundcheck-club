@@ -9,7 +9,7 @@ SJQ is a music venue in London listed on soundcheck. 5 upcoming nights, with lin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | DIME 'Sitting Stealth' EP Release |  |
-| Mon, 24 Aug 2026 | Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Yokel, Tony Onuchukwu | Yaz Lancaster |
+| Mon, 24 Aug 2026 | Enlighten Pres: Yaz Lancaster (PTP/Heavy Hearts/NYC) chronic fatigue, Tony Onuchukwu | Yaz Lancaster |
 | Sat, 5 Sept 2026 | Persimmon Sound | Gus de Silva, Wan Tu |
 | Fri, 18 Sept 2026 | Wax & Wane: Donna Leake | Donna Leake |
 | Sun, 20 Sept 2026 | Koshun Nakao + Rieko Makita |  |

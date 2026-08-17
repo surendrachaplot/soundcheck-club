@@ -1,13 +1,14 @@
 # Benwal
 
-Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
+Benwal is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: M.O.T, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | M.O.T | London |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Cabaret Voltaire | Edinburgh |
@@ -15,11 +16,10 @@ Benwal is a techno and house artist tracked on soundcheck, with 170 sets logged 
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | De Flesjesfabriek | Ghent |
+| Sat, 17 Oct 2026 | M.O.T | London |
 | Wed, 21 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 1 Nov 2026 | Mondo Open Air | Madrid |
-| Sun, 1 Nov 2026 | Mondo | Madrid |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

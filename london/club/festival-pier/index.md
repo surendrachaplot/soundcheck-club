@@ -1,6 +1,6 @@
 # Festival Pier
 
-Festival Pier is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mama's Boy: Boat Party" on Sun, 30 Aug 2026.
+Festival Pier is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mama's Boy Boat Party: Laurence Guy" on Sun, 30 Aug 2026.
 
 Festival Pier is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including J. Peacock, Laurence Guy and MARINI. Browse upcoming dates, start times and who's playing. Festival Pier; South Bank; London SE1 8XZ; United Kingdom.
 
@@ -8,7 +8,7 @@ Festival Pier is a music venue in London listed on soundcheck. 1 upcoming night,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Mama's Boy: Boat Party | J. Peacock, Laurence Guy, MARINI |
+| Sun, 30 Aug 2026 | Mama's Boy Boat Party: Laurence Guy | J. Peacock, Laurence Guy, MARINI |
 
 ## Address
 

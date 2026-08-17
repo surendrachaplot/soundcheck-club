@@ -1,13 +1,14 @@
 # adobeprincess
 
-adobeprincess is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
+adobeprincess is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at OHM, Berlin on Sat, 22 Aug 2026.
 
-adobeprincess is a techno and house artist tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Dublin and London and 8 more. Often billed alongside Jek (US), deep creep and Downloadable Content. Next up: FOLD, London on Sat 29 Aug.
+adobeprincess is a techno and house artist tracked on soundcheck, with 56 sets logged across Berlin, Brussels, Dublin and London and 8 more. Often billed alongside Jek (US), deep creep and Downloadable Content. Next up: OHM, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | OHM | Berlin |
 | Sat, 29 Aug 2026 | FOLD | London |
 | Sun, 6 Sept 2026 | Knockdown Center | New York City |
 

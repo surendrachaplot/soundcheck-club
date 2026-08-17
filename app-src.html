@@ -3985,7 +3985,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786976818706">
+<meta name="sc-build" content="1786979923709">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4043,7 +4043,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">90 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">124 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">20 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">90 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">125 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">20 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6927,12 +6927,26 @@
     // the poster comes from the client rather than the response.
     function vtRun(render){
       var src=_vtSource; _vtSource=null;
-      if(!document.startViewTransition || matchMedia('(prefers-reduced-motion: reduce)').matches) return render();
+      // THE RENDER MUST HAPPEN EVEN IF THE ANIMATION CANNOT.
+      //
+      // startViewTransition REJECTS with InvalidStateError on a hidden document,
+      // and Chrome never invokes the update callback in that case — so the page
+      // that was supposed to be drawn inside it simply is not. A link opened in
+      // a background tab lands on a blank panel: the URL is right, the data is
+      // fetched, nothing is on screen. The transition is decoration; the render
+      // is the point, so anything that stops the transition falls straight
+      // through to rendering.
+      if(!document.startViewTransition || document.hidden ||
+         matchMedia('(prefers-reduced-motion: reduce)').matches) return render();
       var prev = src ? src.style.viewTransitionName : null;
       if(src) src.style.viewTransitionName='sc-hero';
+      var ran=false, once=function(){ if(ran) return; ran=true; render(); };
       var t;
-      try { t=document.startViewTransition(render); } catch(_){ if(src) src.style.viewTransitionName=prev||''; return render(); }
-      t.finished.catch(function(){}).then(function(){ if(src) src.style.viewTransitionName=prev||''; });
+      try { t=document.startViewTransition(once); } catch(_){ if(src) src.style.viewTransitionName=prev||''; once(); return; }
+      // Belt AND braces: if the transition is abandoned before it ever calls the
+      // callback, draw anyway rather than leaving an empty page behind.
+      if(t && t.updateCallbackDone) t.updateCallbackDone.catch(function(){ once(); });
+      t.finished.catch(function(){}).then(function(){ if(src) src.style.viewTransitionName=prev||''; once(); });
       return t;
     }
     // poster: when known, the skeleton opens with the real poster already in its
