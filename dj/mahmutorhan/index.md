@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Void Mykonos, Mykonos on Sun, 16 Aug 2026.
+Mahmut Orhan is a House and Afro House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Void Mykonos, Mykonos on Sun 16 Aug.
+Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Chinois Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Void Mykonos | Mykonos |
 | Wed, 19 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Santanna Mykonos | Mykonos |
 | Wed, 26 Aug 2026 | Chinois Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 se
 | Wed, 7 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | UFO im Velodrom | Berlin |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Phantom, Paris | Paris |
 
 ## Recently played
 

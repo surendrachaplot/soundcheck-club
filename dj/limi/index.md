@@ -1,13 +1,14 @@
 # limi
 
-limi is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+limi is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Greyhound, London on Thu, 3 Sept 2026.
 
-limi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, London and Manchester. Often billed alongside DJ Programma, Neue Grafik and THEMPRESS. Next up: Endeavour, London on Fri 18 Sept.
+limi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, London and Manchester. Often billed alongside DJ Programma, Neue Grafik and THEMPRESS. Next up: The Greyhound, London on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | The Greyhound | London |
 | Fri, 18 Sept 2026 | Endeavour | London |
 | Sat, 14 Nov 2026 | Ninety One | London |
 

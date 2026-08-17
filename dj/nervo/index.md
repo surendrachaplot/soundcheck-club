@@ -1,14 +1,13 @@
 # Nervo
 
-Nervo is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Nervo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 12 Sept 2026.
 
-Nervo is a house and electro artist based in Australia, tracked on soundcheck, with 20 sets logged across Bangkok, Barcelona, Boston and Frankfurt and 8 more. Often billed alongside Dimitri Vegas & Like Mike, Robin Schulz and ASK:ME. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Nervo is a house and electro artist based in Australia, tracked on soundcheck, with 20 sets logged across Bangkok, Barcelona, Boston and Frankfurt and 8 more. Often billed alongside Dimitri Vegas & Like Mike, Robin Schulz and ASK:ME. Next up: Pacha Ibiza, Ibiza on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Sat, 12 Sept 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TRICO festival showcase" on Sun, 16 Aug 2026.
+Nyapi is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "2nd floor & Kimsoyoung91" on Thu, 20 Aug 2026.
 
-Nyapi is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and dguru and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
+Nyapi is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and dguru and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | TRICO festival showcase |  |
 | Thu, 20 Aug 2026 | 2nd floor & Kimsoyoung91 | .2ndfloor |
 | Fri, 21 Aug 2026 | Nyapi invites Di Linh (Savage Hanoi) | Di Linh, Hender, VENEBOE, dguru |
 | Sat, 22 Aug 2026 | Somewhere Deep in My Heart | Juncheol |

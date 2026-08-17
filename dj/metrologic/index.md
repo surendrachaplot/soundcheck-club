@@ -9,7 +9,7 @@ metrologic is a techno and electro artist based in Greece, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Endeavour | London |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

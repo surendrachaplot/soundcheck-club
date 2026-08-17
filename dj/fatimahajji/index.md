@@ -1,14 +1,13 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Fatima Hajji is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nitsa Club, Barcelona on Fri, 28 Aug 2026.
 
-Fatima Hajji is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Nitsa Club, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 28 Aug 2026 | Nitsa Club | Barcelona |
 | Sat, 5 Sept 2026 | Substation | Seattle |
 | Fri, 11 Sept 2026 | Public Works | San Francisco/Oakland |

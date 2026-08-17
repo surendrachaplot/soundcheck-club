@@ -9,7 +9,7 @@ Sean Johnston is an acid and electronica artist tracked on soundcheck, with 71 s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Phonox | London |
-| Sun, 8 Nov 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 7 Nov 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played
 

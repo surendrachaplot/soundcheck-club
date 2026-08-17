@@ -14,7 +14,7 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 | Sat, 5 Sept 2026 | The Ghost + Heels&Souls + PolK (Groove Grill) | Cortazar, Heels & Souls, Orson Sinaka, Pol K, The Ghost |
 | Sat, 19 Sept 2026 | ESCANDALO Day & Night (12hrs) | Albal, HEDDA, VOID/DIVO, Wigs |
 | Sat, 3 Oct 2026 | The Sound Society x 22Recordings | C.ru.z, DJ Tree, Dizzy |
-| Sun, 8 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
+| Sat, 7 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Hanna Baertig
 
-Hanna Baertig is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Hanna Baertig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
 
-Hanna Baertig is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Multifun, Salomon (2) and CIKO. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+Hanna Baertig is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Multifun, Salomon (2) and CIKO. Next up: ://about blank, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Sat, 19 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played

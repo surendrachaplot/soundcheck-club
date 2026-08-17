@@ -1,14 +1,14 @@
 # Lyo.
 
-Lyo. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Lovètosse, Berlin on Sat, 5 Sept 2026.
+Lyo. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
 
-Lyo. is a techno and house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside JD Typo, eric.a and xupid. Next up: TBA - Lovètosse, Berlin on Sat 5 Sept.
+Lyo. is a techno and house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside JD Typo, eric.a and xupid. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
+| Sat, 5 Sept 2026 | TBA - Lovétosse | Berlin |
 
 ## Recently played
 

@@ -2,14 +2,14 @@
 
 Universidad Autónoma de Madrid (UAM) is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Black Coffee MADRID" on Fri, 11 Sept 2026.
 
-Universidad Autónoma de Madrid (UAM) is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including ANOTR, Black Coffee, Marco Carola and PAWSA. Browse upcoming dates, start times and who's playing. Ciudad Universitaria de Cantoblanco, 28049 Madrid.
+Universidad Autónoma de Madrid (UAM) is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including ANOTR, Black Coffee, Marco Carola and Miguelle and 2 more. Browse upcoming dates, start times and who's playing. Ciudad Universitaria de Cantoblanco, 28049 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Black Coffee MADRID | Black Coffee |
-| Sat, 12 Sept 2026 | LAP 57 - MADRID RACE WEEK - UNIVERSIDAD AUTÓNOMA DE MADRID | ANOTR, Marco Carola, PAWSA |
+| Sat, 12 Sept 2026 | LAP 57 - MADRID RACE WEEK - UNIVERSIDAD AUTÓNOMA DE MADRID | ANOTR, Marco Carola, Miguelle, PAWSA, TONS |
 
 ## Address
 

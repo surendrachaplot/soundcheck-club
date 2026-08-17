@@ -1,6 +1,6 @@
 # takt presents: Only Fire Hoe Weekend Release Party at Studio1111
 
-takt presents: Only Fire Hoe Weekend Release Party at Studio1111 on Fri 21 Aug, Berlin. 4 acts on the bill: Chippy Nonstop, DJ KILLING, Nyennea and Only Fire. Techno and Club. Preview the line-up and save it on soundcheck.
+takt presents: Only Fire Hoe Weekend Release Party at Studio1111 on Fri 21 Aug, Berlin. 5 acts on the bill: Chippy Nonstop, DJ KILLING, Kylie Exotic and Nyennea and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ takt presents: Only Fire Hoe Weekend Release Party at Studio1111 on Fri 21 Aug, 
 
 - Chippy Nonstop
 - DJ KILLING
+- Kylie Exotic
 - Nyennea
 - Only Fire
 

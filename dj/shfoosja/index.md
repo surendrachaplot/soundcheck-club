@@ -1,14 +1,15 @@
 # Shfoosja
 
-Shfoosja is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
+Shfoosja is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
 
-Shfoosja is a techno and bass artist tracked on soundcheck, with 12 sets logged across Berlin, London, Lyon and Marseille and 1 more. Often billed alongside MARIAD, MASSEILOT and 42L (1). Next up: Le Sucre, Lyon on Fri 21 Aug.
+Shfoosja is a bass and techno artist tracked on soundcheck, with 13 sets logged across Berlin, London, Lyon and Marseille and 1 more. Often billed alongside MARIAD, MASSEILOT and Mafille. Next up: Le Sucre, Lyon on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Le Sucre | Lyon |
+| Fri, 18 Sept 2026 | Badaboum | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shfoosja is a techno and bass artist tracked on soundcheck, with 12 sets logged 
 
 ## Shares bills with
 
-MARIAD, MASSEILOT, 42L (1)
+MARIAD, MASSEILOT, Mafille
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*

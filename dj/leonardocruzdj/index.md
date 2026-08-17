@@ -1,14 +1,14 @@
 # Leonardo Cruz DJ
 
-Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 3 Oct 2026.
+Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-Leonardo Cruz DJ is a house and tech house artist based in Brazil, tracked on soundcheck, with 36 sets logged across London. Often billed alongside Juliana Branco, Simoon Pedro and G Belmonte. Next up: TBA, London on Sat 3 Oct.
+Leonardo Cruz DJ is a house and tech house artist based in Brazil, tracked on soundcheck, with 36 sets logged across London. Often billed alongside Juliana Branco, Simoon Pedro and G Belmonte. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

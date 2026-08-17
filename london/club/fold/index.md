@@ -2,7 +2,7 @@
 
 FOLD is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Voigtmann + Z@p at FOLD" on Fri, 21 Aug 2026.
 
-FOLD is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including adobeprincess, Alarico, Alien Communications and amil raja and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including adobeprincess, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
@@ -16,7 +16,7 @@ FOLD is a music venue in London listed on soundcheck. 22 upcoming nights, with l
 | Sun, 30 Aug 2026 | UNFOLD CXXX (Extended - 24 Hour) |  |
 | Fri, 4 Sept 2026 | Origins: Rene Wise (All Night Long) | Rene Wise |
 | Fri, 4 Sept 2026 | I. JORDAN b2b Byron Yeates - All Night Long (FOLD Steam Room) | Byron Yeates, I. JORDAN |
-| Sat, 5 Sept 2026 | FOLD presents Bassiani (EXTENDED) |  |
+| Sat, 5 Sept 2026 | FOLD presents Bassiani (EXTENDED) | Alba Heidari, Anabel Arroyo, HVL, Haruka, James Newmarch, Ndrx, Newa, Voicedrone, Zitto, Zurkin, bbecks |
 | Fri, 11 Sept 2026 | XTD - 012 - Barac | Barac, Cem Ozden, Harry McCanna, Zya (1) |
 
 ## Address

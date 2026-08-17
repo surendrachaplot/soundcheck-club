@@ -10,7 +10,7 @@ Blck-Swan is a techno and tech house artist tracked on soundcheck, with 56 sets 
 | --- | --- | --- |
 | Wed, 19 Aug 2026 | Sensorium | Berlin |
 | Wed, 16 Sept 2026 | Sensorium | Berlin |
-| Sat, 26 Sept 2026 | DNA. HOUSE | Berlin |
+| Sat, 26 Sept 2026 | DNA. CLUB | Berlin |
 | Sat, 31 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played

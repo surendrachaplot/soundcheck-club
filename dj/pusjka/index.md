@@ -1,8 +1,8 @@
 # Pusjka
 
-Pusjka is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cmon Ground, Ghent on Fri, 21 Aug 2026.
+Pusjka is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cmon Ground, Ghent on Fri, 21 Aug 2026.
 
-Pusjka is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ghent. Often billed alongside Adriaan de Roover. Next up: Cmon Ground, Ghent on Fri 21 Aug.
+Pusjka is an ambient and downtempo artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ghent. Often billed alongside Adriaan de Roover. Next up: Cmon Ground, Ghent on Fri 21 Aug.
 
 ## Upcoming shows
 

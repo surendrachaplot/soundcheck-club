@@ -9,7 +9,7 @@ Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Renate x Queer Vinyl Night (Klubnacht + Free Open Air) | Jimmie, Kidcat, SALAS, zikade |
-| Fri, 21 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) line-up curated by Lunacy Berlin | Ady Toledano, Bizzarro Universe, Cook Strummer, Daniel Jaeger, Dj handbag, Emma Keks, Madmotormiquel, Stephan Licha |
+| Fri, 21 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) DJ Line-Up curated by Lunacy Berlin | Ady Toledano, Bizzarro Universe, Cook Strummer, Daniel Jaeger, Dj handbag, Emma Keks, Madmotormiquel, Stephan Licha |
 | Sat, 22 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal | Amy Kisnorbo, Bakläxa, DJ SKIN, Eversines, Frank Heise, Mademoisel, Marie K (1), O.M.Theorem, Philipp Drube, Pieter Jansen, RDS, Uta, mgt (DE) |
 | Thu, 27 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) x Remoto Records | ACID B4RBIE, Atomlui, Christian Kluge, Neowise, Rupert Marnie |
 | Fri, 28 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer | AGILY, ESVEAE, Handmade, Kingsizebed, Samuel Fish, Samwise (US), Shira Kela |

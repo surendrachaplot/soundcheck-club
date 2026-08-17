@@ -1,14 +1,13 @@
 # Karine
 
-Karine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
+Karine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Karine is a house and techno artist based in Ukraine, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: Club der Visionaere, Berlin on Sun 16 Aug.
+Karine is a house and techno artist based in Ukraine, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played

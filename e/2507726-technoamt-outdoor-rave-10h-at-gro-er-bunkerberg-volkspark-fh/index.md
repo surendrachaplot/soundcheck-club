@@ -1,6 +1,6 @@
 # TECHNOAMT OUTDOOR RAVE 10H at Großer Bunkerberg Volkspark Fhain
 
-TECHNOAMT OUTDOOR RAVE 10H at Großer Bunkerberg Volkspark Fhain on Sat 5 Sept, Berlin. 6 acts on the bill: CARGO (DE), Cobb Douglas, EZA (DE) and futurristic and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TECHNOAMT OUTDOOR RAVE 10H at Großer Bunkerberg Volkspark Fhain on Sat 5 Sept, Berlin. 8 acts on the bill: Calcifer, CARGO (DE), Cobb Douglas and EZA (DE) and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,13 @@ TECHNOAMT OUTDOOR RAVE 10H at Großer Bunkerberg Volkspark Fhain on Sat 5 Sept, 
 
 ## Line-up
 
+- Calcifer
 - CARGO (DE)
 - Cobb Douglas
 - EZA (DE)
 - futurristic
 - MIMI404
 - NYXEA
+- RuBi.
 
 *Source: [soundcheck](https://soundcheck.club/e/2507726-technoamt-outdoor-rave-10h-at-gro-er-bunkerberg-volkspark-fh/)*

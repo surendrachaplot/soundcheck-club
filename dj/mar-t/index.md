@@ -1,14 +1,13 @@
 # Mar-T
 
-Mar-T is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Mar-T is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-Mar-T is a techno and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 7 more. Often billed alongside Luca Donzelli, Marco Faraone and CAAL. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
+Mar-T is a techno and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 7 more. Often billed alongside Luca Donzelli, Marco Faraone and CAAL. Next up: Amnesia Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 

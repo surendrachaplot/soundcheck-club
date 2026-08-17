@@ -1,14 +1,13 @@
 # abs8lute
 
-abs8lute is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+abs8lute is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
-abs8lute is a techno and electro artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Fadi Mohem, Lea Occhi and Beste Hira. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+abs8lute is a techno and electro artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Fadi Mohem, Lea Occhi and Beste Hira. Next up: Fvtvr, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 
 ## Recently played

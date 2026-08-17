@@ -1,16 +1,16 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
 
-The Lady Machine is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+The Lady Machine is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Maaya, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Sun, 23 Aug 2026 | Maaya | Berlin |
 | Fri, 4 Sept 2026 | TBA | Barcelona |
+| Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 

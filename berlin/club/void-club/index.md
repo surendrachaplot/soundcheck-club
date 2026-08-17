@@ -15,7 +15,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Alex Xandra, Andriiic, DJ Jordan, Endica, MCHL51, Marí Kozlovska, Mosher, Patrick Scuro, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |
 | Sat, 3 Oct 2026 | NetWork 2.0 |  |
-| Fri, 9 Oct 2026 | Seazed: Bounce & Trance Night |  |
+| Fri, 9 Oct 2026 | Seazed: Bounce & Trance Night(2 Floors) |  |
 | Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | Ewelina Koll, GHOST DE, Marc van Linden, Seimen Dexter |
 | Sat, 31 Oct 2026 | Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown | Current Value, Upzet, unknown.dnb |
 

@@ -1,13 +1,14 @@
 # LOZA|ANSO
 
-LOZA|ANSO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 11 Sept 2026.
+LOZA|ANSO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dr. Dou Social Club, Barcelona on Wed, 26 Aug 2026.
 
-LOZA|ANSO is a techno and tech house artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Cambric, Lino Fuso and ADRIANNA. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 11 Sept.
+LOZA|ANSO is a techno and tech house artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside Cambric, Lino Fuso and ADRIANNA. Next up: Dr. Dou Social Club, Barcelona on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Dr. Dou Social Club | Barcelona |
 | Fri, 11 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played

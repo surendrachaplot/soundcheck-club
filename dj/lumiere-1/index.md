@@ -1,14 +1,13 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hertz, Seoul on Sun, 16 Aug 2026.
+Lumiere is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Lumiere is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Hertz, Seoul on Sun 16 Aug.
+Lumiere is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Hertz | Seoul |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |

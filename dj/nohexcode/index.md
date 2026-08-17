@@ -10,7 +10,7 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 29 sets logged
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Steel Yard | London |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

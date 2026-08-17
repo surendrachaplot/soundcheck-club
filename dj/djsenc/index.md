@@ -10,7 +10,7 @@ DJ Senc is a house and tech house artist tracked on soundcheck, with 126 sets lo
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Haus der Visionäre | Berlin |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
-| Sat, 26 Sept 2026 | Studio Stereo | Barcelona |
+| Sat, 26 Sept 2026 | TBA | Barcelona |
 
 ## Recently played
 

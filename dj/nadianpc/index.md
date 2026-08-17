@@ -9,7 +9,7 @@ nadia (npc) is a club and ambient artist tracked on soundcheck, with 22 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | OHM | Berlin |
-| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
+| Sat, 5 Sept 2026 | TBA - Lovétosse | Berlin |
 
 ## Recently played
 

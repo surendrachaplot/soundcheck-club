@@ -1,13 +1,14 @@
 # Oriana
 
-Oriana is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
+Oriana is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
 
-Oriana is a techno and electro artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 21 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
+Oriana is a techno and electro artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 21 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: Seaseaclub Barcelona, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
 

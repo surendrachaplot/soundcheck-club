@@ -1,14 +1,13 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Lisboa, Lisbon on Sun, 16 Aug 2026.
+Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 5 Sept 2026.
 
-Danilo Filipe is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin, Cologne and Lisbon. Often billed alongside Antonym, Athina and Bobaz Lobster. Next up: Village Underground Lisboa, Lisbon on Sun 16 Aug.
+Danilo Filipe is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin, Cologne and Lisbon. Often billed alongside Antonym, Athina and Bobaz Lobster. Next up: Lokschuppen Berlin, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Sept 2026 | Artheater | Cologne |
 | Fri, 23 Oct 2026 | OST | Berlin |

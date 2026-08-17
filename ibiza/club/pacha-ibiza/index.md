@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 54 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Solomun+1" on Sun, 16 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 53 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Sonny Fodera" on Mon, 17 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 54 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 53 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Solomun+1 | DJ Gigola, Solomun |
 | Mon, 17 Aug 2026 | Sonny Fodera | Arielle Free, Danny Howard, Sonny Fodera |
 | Wed, 19 Aug 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 20 Aug 2026 | Purple Disco Machine - PURE PACHA | Flight Facilities, Purple Disco Machine, david bay |
@@ -18,6 +17,7 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 54 upcoming nights, 
 | Mon, 24 Aug 2026 | Sonny Fodera | Danny Howard, Eats Everything, Sonny Fodera |
 | Tue, 25 Aug 2026 | Gordo - TARAKA | Gordo |
 | Wed, 26 Aug 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
+| Thu, 27 Aug 2026 | Purple Disco Machine - PURE PACHA | Kungs, Purple Disco Machine, david bay |
 
 ## Address
 

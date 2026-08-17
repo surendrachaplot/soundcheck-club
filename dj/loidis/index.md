@@ -1,14 +1,13 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Signal, New York City on Fri, 4 Sept 2026.
 
-Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Huerco S. and Skee Mask. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
+Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Huerco S. and Skee Mask. Next up: Signal, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |

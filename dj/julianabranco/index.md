@@ -9,7 +9,7 @@ Juliana Branco is a house and electro artist tracked on soundcheck, with 40 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Glove That Fits | London |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

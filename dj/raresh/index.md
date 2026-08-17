@@ -1,14 +1,13 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Raresh is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
-Raresh is a house and minimal artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
+Raresh is a house and minimal artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | NUMBER 90 LONDON | London |
 | Mon, 7 Sept 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |

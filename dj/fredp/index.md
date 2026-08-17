@@ -1,13 +1,14 @@
 # Fred P
 
-Fred P is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Fred P is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
 
-Fred P is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Fred P is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Paradiso, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Paradiso | Amsterdam |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Fri, 11 Sept 2026 | La Paloma | Barcelona |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |

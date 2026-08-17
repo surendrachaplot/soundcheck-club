@@ -1,8 +1,8 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Noizer pres. Heatwave Vol. 3" on Thu, 20 Aug 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Noizer pres. Heatwave Vol. 3" on Thu, 20 Aug 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including acidheaven, Adria (ES), Adrian Grösser and AFFKT and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including acidheaven, Adria (ES), Adrian Grösser and AFFKT and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 

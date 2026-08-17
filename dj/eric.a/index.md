@@ -9,7 +9,7 @@ eric.a is an electronic artist tracked on soundcheck, with 16 sets logged across
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | migas, a listening bar | Berlin |
-| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
+| Sat, 5 Sept 2026 | TBA - Lovétosse | Berlin |
 
 ## Recently played
 

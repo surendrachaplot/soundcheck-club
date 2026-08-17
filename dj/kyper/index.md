@@ -1,13 +1,14 @@
 # Kyper
 
-Kyper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
+Kyper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at WOMB, Tokyo on Sat, 22 Aug 2026.
 
-Kyper is a house and techno artist based in South Korea, tracked on soundcheck, with 101 sets logged across Seoul and Tokyo. Often billed alongside Hyerang, Boyoon and Juncheol. Next up: Modeci, Seoul on Sat 29 Aug.
+Kyper is a house and techno artist based in South Korea, tracked on soundcheck, with 102 sets logged across Seoul and Tokyo. Often billed alongside Hyerang, Boyoon and Juncheol. Next up: WOMB, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | WOMB | Tokyo |
 | Sat, 29 Aug 2026 | Modeci | Seoul |
 
 ## Recently played

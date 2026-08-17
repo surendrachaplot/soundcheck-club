@@ -1,14 +1,16 @@
 # Maria Louisa
 
-Maria Louisa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Maria Louisa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Maria Louisa is a house and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam and Utrecht. Often billed alongside Doppelgang, 36framez and Adriana Lopez. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
+Maria Louisa is a techno and house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Utrecht. Often billed alongside Doppelgang, Mila Haj Kasem and Selene. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
+| Fri, 18 Sept 2026 | RADION | Amsterdam |
+| Fri, 18 Sept 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -19,6 +21,6 @@ Maria Louisa is a house and techno artist based in Netherlands, tracked on sound
 
 ## Shares bills with
 
-Doppelgang, 36framez, Adriana Lopez
+Doppelgang, Mila Haj Kasem, Selene
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marialouisa/)*

@@ -9,7 +9,7 @@ Lula Club is a music venue in Madrid listed on soundcheck. 18 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | We are back Again | CAMET, COLLISION |
-| Fri, 4 Sept 2026 | Bendita Locura x Connect |  |
+| Fri, 4 Sept 2026 | Bendita Locura x Connect | Red Effects, nachoscoppa |
 | Sat, 5 Sept 2026 | SATURDAY NIGHT |  |
 | Thu, 10 Sept 2026 | MAZ - RACE WEEKEND | Maz (BR) |
 | Fri, 11 Sept 2026 | Jimi Jules - RACE WEEKEND | Jimi Jules |

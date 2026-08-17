@@ -1,14 +1,13 @@
 # Miran N
 
-Miran N is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Miran N is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Miran N is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside ADO (DE), tamypro and Eluzid. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+Miran N is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside ADO (DE), tamypro and Eluzid. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 
 ## Recently played

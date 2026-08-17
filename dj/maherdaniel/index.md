@@ -1,13 +1,14 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
+Maher Daniel is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-Maher Daniel is a house and minimal artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
+Maher Daniel is a house and minimal artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Playa Soleil Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Port of Belgrade | Belgrade |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |

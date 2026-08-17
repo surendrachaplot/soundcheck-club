@@ -1,14 +1,15 @@
 # Kev Williams
 
-Kev Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
+Kev Williams is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
 
-Kev Williams is a house and deep house artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Frankfurt. Often billed alongside Marvio, Momoda and Perch. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
+Kev Williams is a house and deep house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona and Frankfurt. Often billed alongside Marvio, Momoda and Perch. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Luz De Gas | Barcelona |
+| Sat, 22 Aug 2026 | Azul Rooftop Barceloneta | Barcelona |
 
 ## Recently played
 

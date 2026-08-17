@@ -8,7 +8,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | SUMMER HEROES: Open Air with Michelle Manetti | BRU ON, IVAN POSEIDON, Michelle Manetti, MøønkiZa, Tomas Aquino, juliboe |
+| Thu, 20 Aug 2026 | SUMMER HEROES: Open Air with Michelle Manetti | BRU ON, IVAN POSEIDON, KARI (Ø), Michelle Manetti, MøønkiZa, Tomas Aquino, juliboe |
 | Fri, 21 Aug 2026 | Throwback - Back to 80s, 90s & 00s at La Terrrazza | Mr Majestyk |
 | Fri, 21 Aug 2026 | Retro Future Disco Club | Jay Luna, Jordan Peak, caskobi |
 | Sat, 22 Aug 2026 | Baang meets La Terrrazza | Dadame, Marc Gimeno, Prosumer |

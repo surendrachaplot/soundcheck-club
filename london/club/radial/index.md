@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Adult Party" on Fri, 21 Aug 2026.
+radial is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Adult Party" on Fri, 21 Aug 2026.
 
-radial is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Alex Sourbis, carmen (7), Cathal and Danny Goliger and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alex Sourbis, carmen (7), Cathal and Danny Goliger and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ radial is a music venue in London listed on soundcheck. 12 upcoming nights, with
 | Sat, 12 Sept 2026 | I Portal | Cathal, Dual Monitor, ELEANOR, Koboro, Small Crab (2), Syz, Yas Reven |
 | Thu, 17 Sept 2026 | STUDENT OF SOUND: AN INTRODUCTION | JÏMONO |
 | Fri, 18 Sept 2026 | Tom VR + Special Guests | Tom VR |
+| Sat, 19 Sept 2026 | IMPULSE CONTROL: STRANGE THERAPY SHOWCASE | New Flesh (2), Toni S, ex.sses |
 | Fri, 9 Oct 2026 | Lu:k London debut + more TBA (Loose Lips) |  |
-| Sat, 10 Oct 2026 | DOOSH V6 |  |
 
 ## Address
 

@@ -1,14 +1,14 @@
 # Mattia Fois
 
-Mattia Fois is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 3 Oct 2026.
+Mattia Fois is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-Mattia Fois is a techno and electro artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Panik Attak, ANTØNIØ. and Bleim01. Next up: TBA, London on Sat 3 Oct.
+Mattia Fois is a techno and electro artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Panik Attak, ANTØNIØ. and Bleim01. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

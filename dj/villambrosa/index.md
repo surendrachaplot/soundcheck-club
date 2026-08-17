@@ -1,0 +1,24 @@
+# VILLAMBROSA
+
+VILLAMBROSA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Die Schneiderei, Zurich on Sat, 22 Aug 2026.
+
+VILLAMBROSA is a house and afro house artist tracked on soundcheck, with 5 sets logged across Madrid and Zurich. Often billed alongside Dejan, Anna Nova and Chris Zippel. Next up: Die Schneiderei, Zurich on Sat 22 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 22 Aug 2026 | Die Schneiderei | Zurich |
+
+## Recently played
+
+- Supermarket, Zurich — Sat, 15 Aug 2026
+- Landesmuseum, Zurich — Mon, 27 Jul 2026
+- Supermarket, Zurich — Sat, 13 Jun 2026
+- Hangar48 Club, Madrid — Sat, 28 Mar 2026
+
+## Shares bills with
+
+Dejan, Anna Nova, Chris Zippel
+
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/villambrosa/)*

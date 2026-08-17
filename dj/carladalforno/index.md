@@ -1,8 +1,8 @@
 # Carla dal Forno
 
-Carla dal Forno is a Electronica and Pop artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Carla dal Forno is a Electronica and Pop artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Carla dal Forno is an electronica and pop artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bristol, Glasgow and Manchester and 3 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Carla dal Forno is an electronica and pop artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carla dal Forno is an electronica and pop artist based in Germany, tracked on so
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Tue, 22 Sept 2026 | Silent Green | Berlin |
+| Thu, 24 Sept 2026 | murmur | Amsterdam |
 | Sun, 27 Sept 2026 | Lafayette Anticipations | Paris |
 | Tue, 29 Sept 2026 | The Glad Cafe | Glasgow |
 | Wed, 30 Sept 2026 | The White Hotel | Manchester |

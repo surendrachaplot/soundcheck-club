@@ -1,14 +1,13 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 16 Aug 2026.
+MoBlack is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Scorpios, Mykonos on Tue, 25 Aug 2026.
 
-MoBlack is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Nitefreak and Sparrow & Barbossa. Next up: Chinois Ibiza, Ibiza on Sun 16 Aug.
+MoBlack is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Nitefreak and Sparrow & Barbossa. Next up: Scorpios, Mykonos on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Chinois Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Scorpios | Mykonos |
 | Sat, 29 Aug 2026 | BCM | Mallorca |
 | Sat, 19 Sept 2026 | Fortune Sound Club | Vancouver |

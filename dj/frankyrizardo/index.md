@@ -1,14 +1,13 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pacha New York, New York City on Sat, 29 Aug 2026.
 
-Franky Rizardo is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Franky Rizardo is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Pacha New York, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Sat, 29 Aug 2026 | Pacha New York | New York City |
 | Sat, 29 Aug 2026 | Pacha New York | New York City |
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 235 
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 

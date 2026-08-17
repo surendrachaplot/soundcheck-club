@@ -1,14 +1,15 @@
 # Tash LC
 
-Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
+Tash LC is a Dancehall and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
 
-Tash LC is a dancehall and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Ormside Projects, London on Sun 30 Aug.
+Tash LC is a dancehall and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Ormside Projects, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Ormside Projects | London |
+| Sat, 5 Sept 2026 | Else | Berlin |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |

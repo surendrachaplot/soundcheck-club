@@ -1,14 +1,13 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Adrian Mills is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -20,6 +19,7 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 | Fri, 2 Oct 2026 | Schrotty | Cologne |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
+| Tue, 27 Oct 2026 | Roxy | Prague |
 
 ## Recently played
 

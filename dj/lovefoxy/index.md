@@ -1,8 +1,8 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
+LOVEFOXY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
 
-LOVEFOXY is a house and techno artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Nocturna, Ibiza on Wed 26 Aug.
+LOVEFOXY is a house and techno artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Nocturna, Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 159 sets logge
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Nocturna | Ibiza |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
+| Fri, 23 Oct 2026 | Parallel | Amsterdam |
 
 ## Recently played
 

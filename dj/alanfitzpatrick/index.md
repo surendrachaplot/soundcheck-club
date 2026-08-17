@@ -1,14 +1,13 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Alan Fitzpatrick is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
 
-Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
+Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: [UNVRS], Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |

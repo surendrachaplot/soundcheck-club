@@ -1,14 +1,13 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Nico Moreno is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside DYEN, I Hate Models and Trym. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Nico Moreno is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside DYEN, I Hate Models and Trym. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |

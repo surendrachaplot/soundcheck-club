@@ -1,8 +1,8 @@
 # Rami Chami
 
-Rami Chami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
+Rami Chami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
-Rami Chami is a techno and house artist based in Lebanon, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside .VRIL, Ahmet Sisman and Call Super. Next up: Fvtvr, Paris on Fri 18 Sept.
+Rami Chami is a house and techno artist based in Lebanon, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside Call Super, Fadi Mohem and Tauceti (FR). Next up: Fvtvr, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Rami Chami is a techno and house artist based in Lebanon, tracked on soundcheck,
 
 ## Shares bills with
 
-.VRIL, Ahmet Sisman, Call Super
+Call Super, Fadi Mohem, Tauceti (FR)
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramichami/)*

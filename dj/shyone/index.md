@@ -1,8 +1,8 @@
 # Shy One
 
-Shy One is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Shy One is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
-Shy One is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and Errol. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
+Shy One is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Shy One is a house and techno artist tracked on soundcheck, with 121 sets logged
 | Sat, 29 Aug 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sun, 20 Sept 2026 | The White Hotel | Manchester |
+| Sat, 10 Oct 2026 | FOLD | London |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Shy One is a house and techno artist tracked on soundcheck, with 121 sets logged
 
 ## Shares bills with
 
-Ruby Savage, NIKS, Errol
+Ruby Savage, NIKS, OK Williams
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

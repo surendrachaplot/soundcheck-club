@@ -1,14 +1,13 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Ben Sims is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at essaim, Paris on Fri, 21 Aug 2026.
 
-Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: essaim, Paris on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 21 Aug 2026 | essaim | Paris |
 | Sat, 22 Aug 2026 | KALT | Strasbourg |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |

@@ -1,13 +1,14 @@
 # Tom Pavicich
 
-Tom Pavicich is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Tom Pavicich is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
 
-Tom Pavicich is a house and progressive house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
+Tom Pavicich is a house and progressive house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA - De Ruyterkade 14 Amsterdam Central | Amsterdam |
 | Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played

@@ -9,7 +9,7 @@ Maryisonacid is a techno and house artist tracked on soundcheck, with 67 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA - check description | Berlin |
-| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
+| Sat, 5 Sept 2026 | TBA - Lovétosse | Berlin |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played

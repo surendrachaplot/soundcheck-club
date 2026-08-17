@@ -1,8 +1,8 @@
 # Boisdale of Canary Wharf
 
-Boisdale of Canary Wharf is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Palm Beat Club" on Wed, 19 Aug 2026.
+Boisdale of Canary Wharf is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Palm Beat Club" on Wed, 19 Aug 2026.
 
-Boisdale of Canary Wharf is a music venue in London listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Cabbot Place, London E14 4QT.
+Boisdale of Canary Wharf is a music venue in London listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. Cabbot Place, London E14 4QT.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Boisdale of Canary Wharf is a music venue in London listed on soundcheck. 10 upc
 | Thu, 27 Aug 2026 | Thursdays House Night |  |
 | Sat, 29 Aug 2026 | Mi Soul Radio |  |
 | Thu, 3 Sept 2026 | Thursdays House Night |  |
-| Sat, 5 Sept 2026 | Mi Soul Radio |  |
+| Thu, 3 Sept 2026 | Thursdays House Night |  |
 
 ## Address
 

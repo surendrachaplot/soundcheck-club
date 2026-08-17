@@ -1,14 +1,13 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Shimmy Robin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
 
-Shimmy Robin is a techno and house artist tracked on soundcheck, with 104 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Najeh, dj blip and dj fako. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+Shimmy Robin is a techno and house artist tracked on soundcheck, with 104 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Najeh, dj blip and dj fako. Next up: Südpol, Hamburg on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
 
 ## Recently played

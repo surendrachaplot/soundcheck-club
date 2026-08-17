@@ -1,13 +1,14 @@
 # Kylie Exotic
 
-Kylie Exotic is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Los Angeles on Sat, 22 Aug 2026.
+Kylie Exotic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Studio1111, Berlin on Fri, 21 Aug 2026.
 
-Kylie Exotic is a techno and tech house artist based in Ireland, tracked on soundcheck, with 6 sets logged across Berlin, Losangeles, Miami and Newyorkcity. Often billed alongside Only Fire, AISHA and Dangerous Rose. Next up: TBA, Losangeles on Sat 22 Aug.
+Kylie Exotic is a techno and tech house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Berlin, Losangeles, Miami and Newyorkcity. Often billed alongside Only Fire, AISHA and Chippy Nonstop. Next up: Studio1111, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Studio1111 | Berlin |
 | Sat, 22 Aug 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -20,6 +21,6 @@ Kylie Exotic is a techno and tech house artist based in Ireland, tracked on soun
 
 ## Shares bills with
 
-Only Fire, AISHA, Dangerous Rose
+Only Fire, AISHA, Chippy Nonstop
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylieexotic/)*

@@ -1,14 +1,13 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 16 Aug 2026.
+LUCH (MEX) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Scorpios, Mykonos on Thu, 20 Aug 2026.
 
-LUCH (MEX) is an afro house and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Chicago, Ibiza and Lisbon and 9 more. Often billed alongside Jamie Jones, Maxi Meraki and ALVEZ. Next up: Chinois Ibiza, Ibiza on Sun 16 Aug.
+LUCH (MEX) is an afro house and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Chicago, Ibiza and Lisbon and 9 more. Often billed alongside Jamie Jones, Maxi Meraki and ALVEZ. Next up: Scorpios, Mykonos on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Chinois Ibiza | Ibiza |
 | Thu, 20 Aug 2026 | Scorpios | Mykonos |
 | Sat, 19 Sept 2026 | KOKO | London |
 

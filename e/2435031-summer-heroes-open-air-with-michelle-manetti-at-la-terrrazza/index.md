@@ -1,6 +1,6 @@
 # SUMMER HEROES: Open Air with Michelle Manetti at La Terrrazza
 
-SUMMER HEROES: Open Air with Michelle Manetti at La Terrrazza on Thu 20 Aug, Barcelona. 6 acts on the bill: BRU ON, IVAN POSEIDON, juliboe and Michelle Manetti and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+SUMMER HEROES: Open Air with Michelle Manetti at La Terrrazza on Thu 20 Aug, Barcelona. 7 acts on the bill: BRU ON, IVAN POSEIDON, juliboe and KARI (Ø) and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ SUMMER HEROES: Open Air with Michelle Manetti at La Terrrazza on Thu 20 Aug, Bar
 - BRU ON
 - IVAN POSEIDON
 - juliboe
+- KARI (Ø)
 - Michelle Manetti
 - MøønkiZa
 - Tomas Aquino

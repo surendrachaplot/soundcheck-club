@@ -1,14 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CLUB 909 inv. Tina Tornade & GOTIS" on Sun, 16 Aug 2026.
+La Gare / Le Gore is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Acid Oslo" on Mon, 17 Aug 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Acid Oslo, A.mo, Axel Blanc and Benabou and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Acid Oslo, A.mo, Axel Blanc and Benabou and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | CLUB 909 inv. Tina Tornade & GOTIS | GOTIS, Tina Tornade |
 | Mon, 17 Aug 2026 | Acid Oslo | Acid Oslo |
 | Tue, 18 Aug 2026 | JAM DU BPM CONTEST |  |
 | Wed, 19 Aug 2026 | PYGMENTS inv. Cattoni & In-Tan | Cattoni, In-Tan |
@@ -18,6 +17,7 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 15 upcoming ni
 | Sun, 23 Aug 2026 | CLUB 909 inv. Christie & GOTIS | Christie, GOTIS |
 | Mon, 24 Aug 2026 | Acid Oslo | Acid Oslo |
 | Tue, 25 Aug 2026 | JAM DU BPM CONTEST |  |
+| Thu, 27 Aug 2026 | PYGMENTS inv. In-Tan & SECRET GUEST | In-Tan |
 
 ## Address
 

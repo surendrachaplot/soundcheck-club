@@ -1,14 +1,13 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Alvaro Medina is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Studio Club Malaga, Malaga on Sat, 29 Aug 2026.
 
-Alvaro Medina is a house and minimal artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside MARYO, Federico Molinari and Nekes. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
+Alvaro Medina is a house and minimal artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside MARYO, Federico Molinari and Nekes. Next up: Studio Club Malaga, Malaga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played

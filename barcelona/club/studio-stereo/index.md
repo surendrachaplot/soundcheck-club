@@ -1,8 +1,8 @@
 # Studio Stereo
 
-Studio Stereo is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Studio Stereo pres. BRIDGE 48 showcase" on Thu, 20 Aug 2026.
+Studio Stereo is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Studio Stereo pres. BRIDGE 48 showcase" on Thu, 20 Aug 2026.
 
-Studio Stereo is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including A. CASANOVA, Alessio Panasiti, ALOT and Angelo Cortines and 2 more. Browse upcoming dates, start times and who's playing. 08007.
+Studio Stereo is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including A. CASANOVA, Alessio Panasiti, ALOT and Angelo Cortines and 2 more. Browse upcoming dates, start times and who's playing. 08007.
 
 ## What's on
 

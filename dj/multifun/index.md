@@ -1,14 +1,13 @@
 # Multifun
 
-Multifun is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Multifun is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
 
-Multifun is a trance and techno artist tracked on soundcheck, with 110 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Hanna Baertig, CHOREOPHILA and tamarawrx3. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+Multifun is a trance and techno artist tracked on soundcheck, with 110 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Hanna Baertig, CHOREOPHILA and tamarawrx3. Next up: Humboldthain Club, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Fri, 21 Aug 2026 | Humboldthain Club | Berlin |
 | Sat, 5 Sept 2026 | Kater | Berlin |
 | Sun, 13 Sept 2026 | ://about blank | Berlin |

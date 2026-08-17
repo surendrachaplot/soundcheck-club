@@ -1,6 +1,6 @@
 # [8]: INDEPENDENCE invites ШЩЦ [3 FLOORS] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8]: INDEPENDENCE invites ШЩЦ [3 FLOORS] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 22 Aug, Berlin. 11 acts on the bill: bod [包家巷], e03 (1), Jana Woodstock and Konakov and 7 more. Preview the line-up and save it on soundcheck.
+[8]: INDEPENDENCE invites ШЩЦ [3 FLOORS] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 22 Aug, Berlin. 17 acts on the bill: 1000bodies, AXT, bod [包家巷] and Chaosy and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,18 @@
 
 ## Line-up
 
+- 1000bodies
+- AXT
 - bod [包家巷]
+- Chaosy
 - e03 (1)
 - Jana Woodstock
 - Konakov
 - Nastya Muravyova
 - noorj
+- Sariim
+- Seviliya
+- Terikon
 - truthspeaker
 - Voin Oruwu
 - Warlord®

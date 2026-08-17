@@ -1,14 +1,13 @@
 # Bulie Jordeaux
 
-Bulie Jordeaux is a electronic artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Bulie Jordeaux is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
-Bulie Jordeaux is an electronic artist based in Belgium, tracked on soundcheck, with 15 sets logged across Brussels and Paris. Often billed alongside Jacky Jeane, Abajour and Amau. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
+Bulie Jordeaux is an electronic artist based in Belgium, tracked on soundcheck, with 15 sets logged across Brussels and Paris. Often billed alongside Jacky Jeane, Abajour and Amau. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TBA - La Louverie | Paris |
 | Sat, 22 Aug 2026 | Ruiterijcomplex | Brussels |
 | Tue, 15 Sept 2026 | La Boule Noire | Paris |
 

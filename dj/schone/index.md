@@ -1,14 +1,15 @@
 # Schöne
 
-Schöne is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sat, 22 Aug 2026.
+Schöne is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sat, 22 Aug 2026.
 
-Schöne is a techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Vera Grace, Encomio and Idilay. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sat 22 Aug.
+Schöne is a club and techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Idilay, Vera Grace and Wispelturig. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Paradiso Noord / Tolhuistuin | Amsterdam |
+| Sat, 22 Aug 2026 | Parallel | Amsterdam |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Schöne is a techno artist based in Netherlands, tracked on soundcheck, with 3 s
 
 ## Shares bills with
 
-Vera Grace, Encomio, Idilay
+Idilay, Vera Grace, Wispelturig
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schone/)*

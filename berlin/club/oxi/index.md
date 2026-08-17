@@ -14,7 +14,7 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 | Sat, 22 Aug 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Bayetë, Camilo Miranda, Delfonic, Franz Scala, Luca Averna, Luca Elsi, Trujillo, keikee |
 | Sun, 23 Aug 2026 | OXIgarten presents Garage Girls with Moxie, livwutang & many more | Garage Girls, HEDDA, Jana Falcon, Moxie, livwutang |
 | Tue, 25 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Alexander Kowalski, Hontas, OCD, Viktoria Spielmann |
-| Fri, 28 Aug 2026 | DECOY w/ RUIZ OSC1, HUJUS, No Valentia, Bours?, Caniche & MORE | Bours?, Caniche, Fran LF, HUJUS, No Valentia, RUIZ OSC1, saya (DE) |
+| Fri, 28 Aug 2026 | DECOY w/ RUIZ OSC1, HUJUS, No Valentia, Bours?, Fran LF, Caniche & saya | Bours?, Caniche, Fran LF, HUJUS, No Valentia, RUIZ OSC1, saya (DE) |
 | Sun, 30 Aug 2026 | DAY: Fadercult @ OXI Garden with Montezuma [LIVE]   | Ben Derris, Linus Villa, Maschérie, Montezuma (DE), Sony2k, Talia Dorr |
 | Sat, 5 Sept 2026 | Small Great House 'September Edition' (Open Air + Indoor) 19 Hours | Cosmic Cherry, Darwin Stapel, David Silver, Eva Crystaltips, Jan Ketel, Johannes Albert, Lavan, Luca Olivotto, Maik Gyver, Nephews, Quadrakey, SELESSA T., Siggatunez |
 | Thu, 10 Sept 2026 | Broken Noise | Alex Levin, Comf, Forgotten Sounds, Howler (UK), Jotam., Nadine Talakovics |

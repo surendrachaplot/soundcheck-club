@@ -1,8 +1,8 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+OK Williams is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
-OK Williams is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: Circle Park, Brussels on Sat 29 Aug.
+OK Williams is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: Circle Park, Brussels on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OK Williams is a techno and house artist tracked on soundcheck, with 172 sets lo
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
+| Sat, 10 Oct 2026 | FOLD | London |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played

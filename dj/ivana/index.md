@@ -1,13 +1,14 @@
 # Ivana
 
-Ivana is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Ivana is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
-Ivana is a house and drum & bass artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Miami. Often billed alongside Lola Brennt, anna G and Acidic Juice. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
+Ivana is a house and drum & bass artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin and Miami. Often billed alongside Lola Brennt, anna G and Anne-Sophie Selig. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -21,6 +22,6 @@ Ivana is a house and drum & bass artist tracked on soundcheck, with 7 sets logge
 
 ## Shares bills with
 
-Lola Brennt, anna G, Acidic Juice
+Lola Brennt, anna G, Anne-Sophie Selig
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana/)*

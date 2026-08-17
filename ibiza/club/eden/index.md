@@ -1,8 +1,8 @@
 # Eden
 
-Eden is a music venue in Ibiza with 36 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ACTIN' BAD WEEK 7 (Presented by Holler At Me)" on Mon, 17 Aug 2026.
+Eden is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ACTIN' BAD WEEK 7 (Presented by Holler At Me)" on Mon, 17 Aug 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 36 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 

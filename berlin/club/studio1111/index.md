@@ -8,7 +8,7 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | takt presents: Only Fire Hoe Weekend Release Party | Chippy Nonstop, DJ KILLING, Nyennea, Only Fire |
+| Fri, 21 Aug 2026 | takt presents: Only Fire Hoe Weekend Release Party | Chippy Nonstop, DJ KILLING, Kylie Exotic, Nyennea, Only Fire |
 | Fri, 28 Aug 2026 | Forward Festival Afterparty curated by EASYdoesit and Bipolar Berlin | IAMNOBODI, cliff |
 | Fri, 28 Aug 2026 | Forward Festival Afterparty curated by EASYdoesit & Bipolar Berlin | IAMNOBODI, cliff |
 | Fri, 4 Sept 2026 | Toy Tonics Art Jam | A.tari, Armanda, Cody Currie, Kapote, Lars Eidinger, Robin Flux |

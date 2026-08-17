@@ -10,7 +10,7 @@ Modlar is a techno and electro artist tracked on soundcheck, with 27 sets logged
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sui Generis | London |
 | Thu, 3 Sept 2026 | The Glove That Fits | London |
-| Sat, 3 Oct 2026 | TBA | London |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

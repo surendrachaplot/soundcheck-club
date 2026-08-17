@@ -1,14 +1,13 @@
 # Nissa Carrington
 
-Nissa Carrington is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
+Nissa Carrington is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
 
-Nissa Carrington is a bass and club artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 1 more. Often billed alongside yung_womb, Slimgirl fat and SLIC Unit. Next up: Sonnenraum, Berlin on Sun 16 Aug.
+Nissa Carrington is a bass and club artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 1 more. Often billed alongside yung_womb, Slimgirl fat and SLIC Unit. Next up: Golden Pudel Club, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 22 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 22 Aug 2026 | Golden Pudel Club | Hamburg |
 

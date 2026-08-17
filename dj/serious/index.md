@@ -2,7 +2,7 @@
 
 Serious is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
 
-Serious is a drum & bass artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside DJ Hazard, DJ Hype and Funsta. Next up: Phonox, London on Fri 4 Sept.
+Serious is a drum & bass artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Taxman, DJ Hazard and DJ Hype. Next up: Phonox, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Serious is a drum & bass artist based in United Kingdom, tracked on soundcheck, 
 
 ## Shares bills with
 
-DJ Hazard, DJ Hype, Funsta
+Taxman, DJ Hazard, DJ Hype
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serious/)*

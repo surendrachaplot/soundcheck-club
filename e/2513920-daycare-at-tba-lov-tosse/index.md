@@ -1,11 +1,11 @@
-# daycare at TBA - Lovètosse
+# daycare at TBA - Lovétosse
 
-daycare at TBA - Lovètosse on Sat 5 Sept, Berlin. 9 acts on the bill: CH3LO, DJ CHICHI, Eliseo Adri and eric.a and 5 more. Preview the line-up and save it on soundcheck.
+daycare at TBA - Lovétosse on Sat 5 Sept, Berlin. 9 acts on the bill: CH3LO, DJ CHICHI, Eliseo Adri and eric.a and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Sept 2026 |
-| Venue | TBA - Lovètosse |
+| Venue | TBA - Lovétosse |
 | City | Berlin |
 
 ## Line-up

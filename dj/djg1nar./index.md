@@ -1,14 +1,13 @@
 # DJ G1NA R.
 
-DJ G1NA R. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+DJ G1NA R. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-DJ G1NA R. is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ SOFTICE. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+DJ G1NA R. is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ SOFTICE. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played

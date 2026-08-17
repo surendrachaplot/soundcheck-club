@@ -2,13 +2,13 @@
 
 Setlist @ Somerset House is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "R&B AND FUNKY HOUSE NIGHT presents INVASION CREW" on Fri, 21 Aug 2026.
 
-Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Atjazz, Handson Family, Shamiso and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
+Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Atjazz, Handson Family, Jacinta and Shamiso and 1 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | R&B AND FUNKY HOUSE NIGHT presents INVASION CREW |  |
+| Fri, 21 Aug 2026 | R&B AND FUNKY HOUSE NIGHT presents INVASION CREW | Jacinta |
 | Sat, 22 Aug 2026 | R'n'B LDN Summer Day Party, SOMERSET HOUSE SETLIST |  |
 | Sat, 22 Aug 2026 | SETLIFE present Shamiso | Shamiso |
 | Sat, 22 Aug 2026 | SUMMER BBQ SESSIONS: Setlist London |  |

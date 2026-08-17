@@ -1,6 +1,6 @@
 # Foggy w/ LA RAT (live), Aneleon, Haya, Lily Haz, WD40, Pablo Ulises Lienhard (live) at OHM
 
-Foggy w/ LA RAT (live), Aneleon, Haya, Lily Haz, WD40, Pablo Ulises Lienhard (live) at OHM on Thu 20 Aug, Berlin. 3 acts on the bill: Anele, Lily Haz and WD40. Dub and Gqom. Preview the line-up and save it on soundcheck.
+Foggy w/ LA RAT (live), Aneleon, Haya, Lily Haz, WD40, Pablo Ulises Lienhard (live) at OHM on Thu 20 Aug, Berlin. 3 acts on the bill: Anele, Lily Haz and WD40. Bass and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

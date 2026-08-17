@@ -1,14 +1,13 @@
 # Silberhauch
 
-Silberhauch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Silberhauch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tresor / Globus, Berlin on Wed, 19 Aug 2026.
 
-Silberhauch is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Momo Femi, Revolucien and ALKARLINE. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+Silberhauch is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Momo Femi, Revolucien and ALKARLINE. Next up: Tresor / Globus, Berlin on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Wed, 19 Aug 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

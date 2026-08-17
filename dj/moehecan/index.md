@@ -1,13 +1,14 @@
 # Moehecan
 
-Moehecan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+Moehecan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Salöön (Säälchen/Holzmarkt 25), Berlin on Thu, 20 Aug 2026.
 
-Moehecan is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Berlin, Frankfurt, Manchester and Paris. Often billed alongside Lea Czychy, KANA and Eva Crystaltips. Next up: Renate, Berlin on Sat 5 Sept.
+Moehecan is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Berlin, Frankfurt, Manchester and Paris. Often billed alongside Lea Czychy, KANA and Eva Crystaltips. Next up: Salöön (Säälchen/Holzmarkt 25), Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Salöön (Säälchen/Holzmarkt 25) | Berlin |
 | Sat, 5 Sept 2026 | Renate | Berlin |
 
 ## Recently played

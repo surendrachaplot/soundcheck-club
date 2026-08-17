@@ -1,13 +1,14 @@
 # nachoscoppa
 
-nachoscoppa is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, CABA, Buenos Aires on Fri, 25 Sept 2026.
+nachoscoppa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lula Club, Madrid on Fri, 4 Sept 2026.
 
-nachoscoppa is a tech house and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: TBA - Secret Location, CABA, Buenosaires on Fri 25 Sept.
+nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 3 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: Lula Club, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Lula Club | Madrid |
 | Fri, 25 Sept 2026 | TBA - Secret Location, CABA | Buenos Aires |
 
 ## Recently played

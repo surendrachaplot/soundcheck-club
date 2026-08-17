@@ -10,7 +10,7 @@ DJ KILLING is a techno and house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Studio1111 | Berlin |
 | Fri, 28 Aug 2026 | Golden Pudel Club | Hamburg |
-| Sat, 26 Sept 2026 | DNA. HOUSE | Berlin |
+| Sat, 26 Sept 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 

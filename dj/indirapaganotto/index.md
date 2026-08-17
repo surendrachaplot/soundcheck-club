@@ -1,14 +1,13 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 16 Aug 2026.
+Indira Paganotto is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at UNO MALTA, Malta on Fri, 21 Aug 2026.
 
-Indira Paganotto is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Hï Ibiza, Ibiza on Sun 16 Aug.
+Indira Paganotto is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: UNO MALTA, Malta on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | UNO MALTA | Malta |
 | Sun, 23 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Indira Paganotto is a techno and house artist tracked on soundcheck, with 193 se
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 17 Oct 2026 | The Cause | London |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 

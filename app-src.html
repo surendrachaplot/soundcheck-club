@@ -3274,6 +3274,12 @@
     .fp-ev-venue .venue-link:hover{ text-decoration:underline; }
     .fp-ev-meta{ font:600 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:8px 0 18px; }
     .fp-ev-playbar{ display:grid; grid-template-columns:repeat(auto-fit,minmax(104px,1fr)); gap:9px; margin-bottom:16px; }
+    /* A PAST event hides Save and I'm going, leaving Play alone in the grid —
+       auto-fit then collapses to a single 1fr column and Play stretched the full
+       width of the page (327px on a phone). The equal-width grid is right when
+       there are siblings to be equal WITH; on its own the button takes its
+       natural width like every other button in the app. */
+    .fp-ev-playbar.solo{ display:flex; }
     /* share = a quiet icon in the page's top corner (not a full button in the row) */
     .fp-ev-share-ic{ position:absolute; top:14px; right:14px; z-index:4; width:38px; height:38px; border-radius:50%; border:1px solid var(--border); background:rgba(22,16,42,.6); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color var(--dur-1), color var(--dur-1); }
     .fp-ev-share-ic:hover{ border-color:var(--sel); color:var(--sel-text); }
@@ -3979,7 +3985,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786814959803">
+<meta name="sc-build" content="1786971553519">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4037,7 +4043,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">144 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">86 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">121 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">90 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">124 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">20 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4940,13 +4946,22 @@
         }
         showToast(walkAll?'No sets ready for this line-up yet.':'No set ready for this artist yet.'); return;
       }
-      // KEY BY SLUG AGAIN, one layer deeper. `list` has just been FILTERED down
-      // to the acts with a playable video, but startIdx indexes the array the
-      // caller passed — the same two-index-spaces bug the line-up rows already
-      // fixed once, hiding one level further in. Tapping the 4th act's play
-      // button started the 1st act's set.
-      var want=(all[s0]||{}).slug;
-      var at=want?list.findIndex(function(a){ return a.slug===want; }):-1;
+      // Re-find the clicked entry AFTER the filter above: `list` has been cut
+      // down to the acts with a playable video, but startIdx indexes the array
+      // the caller passed. Two index spaces, and using the wrong one starts the
+      // wrong set.
+      //
+      // MATCH ON videoId FIRST, slug only as the fallback. Keying on slug alone
+      // was right for a LINE-UP (one entry per artist, so slugs are unique) and
+      // catastrophic for an ARTIST'S OWN SETS, where every entry shares one
+      // slug: findIndex returned 0 every time, so every row on every artist
+      // page played the first set. A line-up entry has no videoId until it is
+      // resolved above, which is exactly when slug is the only identity there
+      // is — hence the fallback rather than a straight swap.
+      var want=all[s0]||{};
+      var at=list.findIndex(function(a){
+        return want.videoId ? a.videoId===want.videoId : (!!want.slug && a.slug===want.slug);
+      });
       if(at<0 && opts && opts.one){
         // A button next to ONE act plays that act or nothing. Its own
         // SoundCloud/NTS set if there is one, never the next act's.
@@ -8439,7 +8454,7 @@
         if(q.length<2){ if(showing!=='empty'){ renderSearchEmpty(results); showing='empty'; } return; }
         lastQ=q; showing='results';
         results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
-        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+_sxWhen); }catch(_){ j={}; }
+        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+sxWhen(_sxFilter)); }catch(_){ j={}; }
         if(input.value.trim()!==q) return; // a newer keystroke is in flight
         renderSearch(results, j, q);
       },220);
@@ -8448,8 +8463,8 @@
       _sxRefetch=async function(){
         var q=input.value.trim(); if(q.length<2) return;
         results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
-        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+_sxWhen); }catch(_){ j={}; }
-        _sxLast=q;                       // keep the reset guard from wiping _sxWhen
+        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+sxWhen(_sxFilter)); }catch(_){ j={}; }
+        _sxLast=q;                       // same query — do not let the reset guard clear the pill
         renderSearch(results, j, q);
       };
       input.addEventListener('input',run);
@@ -8477,12 +8492,13 @@
     // Which type the pills are filtering to. Reset on a NEW query: a filter that
     // survives into an unrelated search silently hides most of the answer.
     var _sxFilter='all', _sxLast=null, _sxData=null;
-    // WHEN filter — the only one that needs the server, because past nights are
-    // not in the upcoming payload at all. Resets with the type filter on a new
-    // query: a search stuck in "Past" would silently hide tonight.
-    var _sxWhen='upcoming', _sxRefetch=null;
+    // "Past events" is just another pill in the SAME row — one row of filters,
+    // no second axis to reason about. It is the only one that needs the server,
+    // because past nights are not in the upcoming payload at all.
+    var _sxRefetch=null;
+    function sxWhen(f){ return f==='past' ? 'past' : 'upcoming'; }
     function renderSearch(el, j, q){
-      if(_sxLast!==q){ _sxFilter='all'; _sxWhen='upcoming'; _sxLast=q; }
+      if(_sxLast!==q){ _sxFilter='all'; _sxLast=q; }
       _sxData={ el: el, j: j, q: q };
       var items=[];
       (j.artists||[]).forEach(function(a){ items.push({ type:'artist', name:a.name, score:matchScore(a.name,q), slug:a.slug, image:a.image_url, sub:'Artist' }); });
@@ -8498,8 +8514,8 @@
         });
       }
       if(!items.length){
-        el.innerHTML='<div class="empty" style="padding:20px 0">No '+(_sxWhen==='past'?'past ':'')+'matches for &ldquo;'+esc(q)+'&rdquo;'+
-          (_sxWhen==='past'?' — try Upcoming or All time.':' — try an artist, venue or city.')+'</div>'; return; }
+        el.innerHTML='<div class="empty" style="padding:20px 0">No '+(_sxFilter==='past'?'past events':'matches')+' for &ldquo;'+esc(q)+'&rdquo;'+
+          (_sxFilter==='past'?' — try All.':' — try an artist, venue or city.')+'</div>'; return; }
       items.sort(function(a,b){ return a.score-b.score || String(a.name||'').length-String(b.name||'').length; });
       // TYPE FILTER. All by default — filtering is an option, never a step you
       // have to take before you can see anything. The pills filter the ONE ranked
@@ -8510,25 +8526,24 @@
       // typed, not a result of a type you can pick.
       var counts={all:0,artist:0,venue:0,event:0};
       items.forEach(function(it){ if(it.type==='city') return; counts.all++; if(counts[it.type]!=null) counts[it.type]++; });
-      var shown=items.filter(function(it){ return _sxFilter==='all' || it.type==='city' || it.type===_sxFilter; });
+      var shown=items.filter(function(it){
+        if(_sxFilter==='all') return true;
+        if(it.type==='city') return true;                 // always an answer, never filtered out
+        if(_sxFilter==='past') return it.type==='event';   // the past payload, events only
+        return it.type===_sxFilter;
+      });
       var pillHtml='<div class="pillrow" style="margin:2px 0 14px">'+
-        [['all','All'],['artist','Artists'],['venue','Venues'],['event','Events']].map(function(f){
+        [['all','All'],['artist','Artists'],['venue','Venues'],['event','Events'],['past','Past events']].map(function(f){
+          // Past events carries no count and is ALWAYS offered: its results live
+          // in a different request, so the number is unknowable until you ask.
+          if(f[0]==='past') return '<button class="qchip'+(_sxFilter==='past'?' on':'')+'" type="button" data-sxf="past" aria-pressed="'+(_sxFilter==='past')+'">Past events</button>';
           if(f[0]!=='all' && !counts[f[0]]) return '';   // nothing of this type — do not offer it
           return '<button class="qchip'+(_sxFilter===f[0]?' on':'')+'" type="button" data-sxf="'+f[0]+'" aria-pressed="'+(_sxFilter===f[0])+'">'+f[1]+' '+counts[f[0]]+'</button>';
         }).join('')+'</div>';
-      // WHEN row. Only shown where it can change anything — it filters events,
-      // so it is pointless while you are looking at Artists or Venues.
-      var whenHtml='';
-      if(_sxFilter==='all' || _sxFilter==='event'){
-        whenHtml='<div class="pillrow" style="margin:-8px 0 14px">'+
-          [['upcoming','Upcoming'],['past','Past'],['all','All time']].map(function(w){
-            return '<button class="qchip'+(_sxWhen===w[0]?' on':'')+'" type="button" data-sxw="'+w[0]+'" aria-pressed="'+(_sxWhen===w[0])+'">'+w[1]+'</button>';
-          }).join('')+'</div>';
-      }
       items=shown;
       var TYPEICON={ artist:'♪', venue:'▮', event:'✦', person:'@' };
       var GLOBE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>';
-      el.innerHTML=pillHtml+whenHtml+'<div class="sx-uni">'+items.slice(0,30).map(function(it,i){
+      el.innerHTML=pillHtml+'<div class="sx-uni">'+items.slice(0,30).map(function(it,i){
         if(it.type==='city'){
           return '<button class="sx-uni-row sx-uni-city" type="button" data-i="'+i+'"><span class="sx-uni-av sx-uni-cityic">'+GLOBE+'</span>'+
             '<span class="sx-uni-m"><span class="sx-uni-nm">'+esc(it.name)+'</span><span class="sx-uni-sub">'+esc(it.sub)+'</span></span></button>';
@@ -8541,13 +8556,11 @@
       // Wire the pills. Re-render from the SAME payload — no refetch, so switching
       // costs nothing and the ranking is identical to what was already on screen.
       el.querySelectorAll('.qchip[data-sxf]').forEach(function(b){ b.addEventListener('click',function(){
-        _sxFilter=b.dataset.sxf;
+        var was=_sxFilter; _sxFilter=b.dataset.sxf;
+        // Only Past events costs a request. Every other switch is a view of the
+        // list already on screen, so it stays instant and cannot reorder it.
+        if(sxWhen(was)!==sxWhen(_sxFilter)){ if(_sxRefetch) _sxRefetch(); return; }
         if(_sxData) renderSearch(_sxData.el, _sxData.j, _sxData.q);
-      }); });
-      el.querySelectorAll('.qchip[data-sxw]').forEach(function(b){ b.addEventListener('click',function(){
-        if(_sxWhen===b.dataset.sxw) return;
-        _sxWhen=b.dataset.sxw;
-        if(_sxRefetch) _sxRefetch();          // past nights are not in this payload
       }); });
       el.querySelectorAll('.sx-uni-row[data-i]').forEach(function(b){ b.addEventListener('click',function(){
         var it=items[+b.dataset.i]; if(!it) return;
@@ -8650,7 +8663,18 @@
     // country code for a city slug (→ flag), via the baked CITY_LIST
     function cityCC(slug){ if(!slug || typeof CITY_LIST==='undefined') return ''; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug) return CITY_LIST[i].country||''; } return ''; }
     async function openArtist(slug){
-      var _deepTab=(location.hash||'').replace(/^#/,'');   // capture BEFORE setRoute may clear the hash
+      /**
+       * A tab hash belongs to the artist it was opened on, NOT to the next one.
+       *
+       * The tab click writes #similar to the URL. Tapping an act from that tab
+       * then opened THAT artist on their Similar tab — and from there to the
+       * next, so you could walk the whole site and never see a Sets tab again.
+       * Only honour the hash when we are arriving from OUTSIDE (a shared link or
+       * a fresh load); an in-app hop from one artist page to another starts on
+       * the default tab, which is Sets.
+       */
+      var _fromAnotherEntity=/^(dj|club|e)\//.test(currentRoute()||'');
+      var _deepTab=_fromAnotherEntity ? '' : (location.hash||'').replace(/^#/,'');   // capture BEFORE setRoute may clear the hash
       setRoute('dj/'+slug);
       trackView('artist', slug);
       openPanel(pageSkeleton());
@@ -9627,7 +9651,7 @@
               (ev.city?'<div class="fp-ev-meta">'+esc(cityLabel(ev.city))+'</div>':'')+   /* genres live in the pill row below the buttons, not here */
               // Equal-width action row (Play same size as its siblings — grid wraps
               // to a second row on narrow screens without stretching). Share → corner icon, Tickets → below the blurb.
-              '<div class="fp-ev-playbar">'+
+              '<div class="fp-ev-playbar'+(isPast?' solo':'')+'">'+
                 ((ev.artists||[]).length?'<button class="fp-pb go" id="fp-ev-play" type="button">'+PLAY_SVG+'<span>Play</span></button>':'')+
                 (isPast?'':'<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved ✓':'Save')+'</button>'+
                   '<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='going'?'I&rsquo;m going ✓':'I&rsquo;m going')+'</button>')+

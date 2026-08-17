@@ -2,7 +2,7 @@
 
 Jesper Aubin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
-Jesper Aubin is a house and minimal artist based in Sweden, tracked on soundcheck, with 14 sets logged across Berlin and Copenhagen. Often billed alongside Kaldera, Raj el Rey and Lex Ludlow. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
+Jesper Aubin is a house and minimal artist based in Sweden, tracked on soundcheck, with 14 sets logged across Berlin and Copenhagen. Often billed alongside Kaldera, Raj el Rey and Raj Shindi. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Jesper Aubin is a house and minimal artist based in Sweden, tracked on soundchec
 
 ## Shares bills with
 
-Kaldera, Raj el Rey, Lex Ludlow
+Kaldera, Raj el Rey, Raj Shindi
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperaubin/)*

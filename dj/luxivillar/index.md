@@ -1,14 +1,13 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Luxi Villar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |

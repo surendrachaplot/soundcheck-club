@@ -1,13 +1,14 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Sept 2026.
+Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
 
-Henry Saiz is a progressive house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 5 Sept.
+Henry Saiz is a progressive house and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA - De Ruyterkade 14 Amsterdam Central | Amsterdam |
 | Sat, 5 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | The Steel Yard | London |
 

@@ -1,8 +1,8 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+ÜBERKIKZ is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-ÜBERKIKZ is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+ÜBERKIKZ is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@
 | Fri, 4 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | Forte Antenne | Rome |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Fri, 2 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
-| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # POPOLA at The Fox and Firkin
 
-POPOLA at The Fox and Firkin on Sat 5 Sept, London. Preview the line-up and save it on soundcheck.
+POPOLA at The Fox and Firkin on Sat 5 Sept, London. R&B and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

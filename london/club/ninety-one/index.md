@@ -13,7 +13,7 @@ Ninety One is a music venue in London listed on soundcheck. 10 upcoming nights, 
 | Sat, 12 Sept 2026 | Ninety One Presents: Resident DJs |  |
 | Sat, 3 Oct 2026 | Sounds Like London: Sippin' T  Osquello  Lily London B2B Gracey | Lily London, Sippin' T |
 | Sat, 10 Oct 2026 | Sounds Like London: Girls Love Grime | Amber Rose |
-| Sat, 17 Oct 2026 | Sounds Like London: Freshta (3 Hour Set) + Support | Freshta |
+| Sat, 17 Oct 2026 | Sounds Like London: Freshta (3 Hour Set) + Temujin | Freshta, Temujin |
 | Sat, 24 Oct 2026 | Sounds Like London: Roska, Klose One + Mike Chin | Klose One, Roska |
 | Sat, 31 Oct 2026 | Sounds Like London: Spooky (All Vinyl, All Night) | Spooky |
 | Sat, 7 Nov 2026 | Sounds Like London: OSO:MAN with Scott Diaz & Bear Winder | Bear Winder, Scott Diaz |
