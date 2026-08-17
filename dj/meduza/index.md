@@ -1,14 +1,13 @@
 # Meduza
 
-Meduza is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cavo Paradiso, Mykonos on Sat, 15 Aug 2026.
+Meduza is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-Meduza is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Cavo Paradiso, Mykonos on Sat 15 Aug.
+Meduza is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Hï Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Cavo Paradiso | Mykonos |
 | Wed, 19 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 21 Aug 2026 | Royale | Boston |
@@ -20,6 +19,7 @@ Meduza is a house and techno artist tracked on soundcheck, with 170 sets logged 
 | Wed, 23 Sept 2026 | Hï Ibiza | Ibiza |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
+| Sat, 3 Oct 2026 | Echostage | Washington DC |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Meduza is a house and techno artist tracked on soundcheck, with 170 sets logged 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

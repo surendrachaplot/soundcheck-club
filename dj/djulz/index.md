@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
+D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
 
 D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Traumer. Next up: TBA, Liverpool on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 
 Alexander Skancke, DJ Senc, Traumer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

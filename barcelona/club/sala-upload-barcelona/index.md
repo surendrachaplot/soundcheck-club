@@ -1,6 +1,6 @@
 # Sala Upload Barcelona
 
-Sala Upload Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "❀ POLYGLOT ❀ DJ Plead, MBODJ, TRS & EYRA" on Fri, 4 Sept 2026.
+Sala Upload Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "❀ POLYGLOT ❀ DJ Plead, MBODJ, TRS & EYRA" on Fri, 4 Sept 2026.
 
 Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including DJ Plead, EYRA, MBODJ and TRS (3). Browse upcoming dates, start times and who's playing. Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 2 upco
 
 Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*

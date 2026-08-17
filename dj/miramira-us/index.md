@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
+MIRA MIRA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
 
 MIRA MIRA is a techno and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Detroit, London, Mexicocity and Miami and 3 more. Often billed alongside Rage.inald, Nick Boyd and Pamela_ and her sons. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ MIRA MIRA is a techno and house artist based in United States of America, tracke
 
 Rage.inald, Nick Boyd, Pamela_ and her sons
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

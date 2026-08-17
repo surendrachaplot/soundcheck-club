@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
+Six Sex is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Nitsa Club, Barcelona on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 46 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

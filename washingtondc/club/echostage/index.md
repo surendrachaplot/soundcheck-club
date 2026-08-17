@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Virtual Riot x Blanke w/ Whales, NEOTEK" on Fri, 21 Aug 2026.
+Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Virtual Riot x Blanke w/ Whales, NEOTEK" on Fri, 21 Aug 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

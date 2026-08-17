@@ -1,6 +1,6 @@
 # Ivan Iacobucci
 
-Ivan Iacobucci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Green Room NYC, New York City on Fri, 21 Aug 2026.
+Ivan Iacobucci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Green Room NYC, New York City on Fri, 21 Aug 2026.
 
 Ivan Iacobucci is a house and techno artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Bucharest and London and 12 more. Often billed alongside Stella Fiore, Dino (2) and Francesco Farfa. Next up: Green Room NYC, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ivan Iacobucci is a house and techno artist tracked on soundcheck, with 35 sets 
 
 Stella Fiore, Dino (2), Francesco Farfa
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*

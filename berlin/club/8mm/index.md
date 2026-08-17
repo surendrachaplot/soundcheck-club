@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "8MM & Shameless/Limitless present: terraplana" on Thu, 20 Aug 2026.
+8MM is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "8MM & Shameless/Limitless present: terraplana" on Thu, 20 Aug 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, Holywanderer and miaw. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -21,4 +21,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

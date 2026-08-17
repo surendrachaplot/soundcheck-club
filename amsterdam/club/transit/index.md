@@ -1,6 +1,6 @@
 # Transit
 
-Transit is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "30 Years Of Freerange at ADE" on Thu, 22 Oct 2026.
+Transit is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "30 Years Of Freerange at ADE" on Thu, 22 Oct 2026.
 
 Transit is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Black Loops, Fouk, Hudson’s Choice and Jimpster and 1 more. Browse upcoming dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
 
@@ -14,4 +14,4 @@ Transit is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, wi
 
 Aambeeldstraat 38, 1021 KB Amsterdam, Amsterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*

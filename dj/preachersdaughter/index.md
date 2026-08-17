@@ -1,6 +1,6 @@
 # Preacher's Daughter
 
-Preacher's Daughter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 22 Aug 2026.
+Preacher's Daughter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 22 Aug 2026.
 
 Preacher's Daughter is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside LTE (1), ramón.ting and Alex Hell-n. Next up: The Onyx Room at House of Yes, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Preacher's Daughter is a techno and house artist based in United States of Ameri
 
 LTE (1), ramón.ting, Alex Hell-n
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*

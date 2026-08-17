@@ -1,8 +1,8 @@
 # Xquisite Korpse
 
-Xquisite Korpse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
+Xquisite Korpse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
 
-Xquisite Korpse is a techno and trance artist based in Italy, tracked on soundcheck, with 1 set logged across London. Often billed alongside AYIM, Aleromaze and Cosmic Caz. Next up: Gaffe, London on Fri 21 Aug.
+Xquisite Korpse is a techno and trance artist based in Italy, tracked on soundcheck, with 1 set logged across London. Often billed alongside Max Burstyn, Medlock and Cosmic Caz. Next up: Gaffe, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Xquisite Korpse is a techno and trance artist based in Italy, tracked on soundch
 
 ## Shares bills with
 
-AYIM, Aleromaze, Cosmic Caz
+Max Burstyn, Medlock, Cosmic Caz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xquisitekorpse/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xquisitekorpse/)*

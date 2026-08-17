@@ -1,6 +1,6 @@
 # Braga Circuit
 
-Braga Circuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Greyhound, London on Sat, 22 Aug 2026.
+Braga Circuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Greyhound, London on Sat, 22 Aug 2026.
 
 Braga Circuit is a house and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh, Glasgow, London and Lyon. Often billed alongside AZAAD, Anastazja and Brassica. Next up: The Greyhound, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Braga Circuit is a house and club artist based in United Kingdom, tracked on sou
 
 AZAAD, Anastazja, Brassica
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*

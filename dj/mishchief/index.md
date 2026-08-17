@@ -1,6 +1,6 @@
 # Mish'Chief
 
-Mish'Chief is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
+Mish'Chief is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Mish'Chief is an electronic artist based in Australia, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Bridget, Cookie (2) and Jedidiah. Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -14,4 +14,4 @@ Mish'Chief is an electronic artist based in Australia, tracked on soundcheck, wi
 
 Bridget, Cookie (2), Jedidiah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishchief/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishchief/)*

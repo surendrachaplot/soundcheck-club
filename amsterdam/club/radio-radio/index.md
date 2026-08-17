@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Canapa-x present: 'OFFSET party by GENE'" on Sun, 16 Aug 2026.
+Radio Radio is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Tokyo Underground: Avant-garde Art of the Far East" on Wed, 19 Aug 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alexia Glensy, Andy Luff, Bennet (DE) and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Alexia Glensy, Andy Luff, Bennet (DE) and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Canapa-x present: 'OFFSET party by GENE' | GENE, Rolmar, Voicila Alin |
 | Wed, 19 Aug 2026 | Tokyo Underground: Avant-garde Art of the Far East |  |
 | Fri, 21 Aug 2026 | Andy Luff • Alexia Glensy | Alexia Glensy, Andy Luff |
 | Sat, 22 Aug 2026 | DJ Life • Moxes • lizz.e | DJ Life, Moxes, lizz.e |
@@ -21,4 +20,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming night
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

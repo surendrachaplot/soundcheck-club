@@ -1,8 +1,8 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Cheeky Monday: Natty Lou" on Mon, 17 Aug 2026.
+Melkweg is a music venue in Amsterdam with 43 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Cheeky Monday: Natty Lou" on Mon, 17 Aug 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, Alleviate and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 43 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, Alleviate and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

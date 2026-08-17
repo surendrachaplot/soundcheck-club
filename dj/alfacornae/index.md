@@ -1,6 +1,6 @@
 # Alfa Cornae
 
-Alfa Cornae is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
+Alfa Cornae is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
 Alfa Cornae is a techno and electronica artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin and Turin. Often billed alongside Alex Wilcox, Amo (IT) and BENZA. Next up: ÆDEN, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Alfa Cornae is a techno and electronica artist based in Italy, tracked on soundc
 
 Alex Wilcox, Amo (IT), BENZA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfacornae/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfacornae/)*

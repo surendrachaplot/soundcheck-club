@@ -1,6 +1,6 @@
 # Talla 2XLC
 
-Talla 2XLC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at KitKatClub, Berlin on Wed, 19 Aug 2026.
+Talla 2XLC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at KitKatClub, Berlin on Wed, 19 Aug 2026.
 
 Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: KitKatClub, Berlin on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck
 
 Paul Van Dyk, Andreas Kraemer, Cat Vermillion
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talla2xlc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talla2xlc/)*

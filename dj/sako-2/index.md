@@ -1,14 +1,13 @@
 # Sako (2)
 
-Sako (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Système, Montreal on Sat, 15 Aug 2026.
+Sako (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
-Sako (2) is a techno and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Montreal. Often billed alongside Kiju, Lis Dalton and MIASALAV. Next up: Système, Montreal on Sat 15 Aug.
+Sako (2) is a techno and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Montreal. Often billed alongside Kiju, Lis Dalton and MIASALAV. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Système | Montreal |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sako (2) is a techno and electronica artist based in United States of America, t
 
 Kiju, Lis Dalton, MIASALAV
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*

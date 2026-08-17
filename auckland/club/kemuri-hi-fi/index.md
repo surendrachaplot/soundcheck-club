@@ -1,6 +1,6 @@
 # Kemuri Hi-Fi
 
-Kemuri Hi-Fi is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Super Selection Vol.4 - Jazz Fusion & City Pop Vinyl Night" on Wed, 26 Aug 2026.
+Kemuri Hi-Fi is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Super Selection Vol.4 - Jazz Fusion & City Pop Vinyl Night" on Wed, 26 Aug 2026.
 
 Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Queen Street, Commercial Bay, Auckland 1010.
 
@@ -14,4 +14,4 @@ Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 1 upcoming night
 
 1 Queen Street, Commercial Bay, Auckland 1010, Auckland
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*

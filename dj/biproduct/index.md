@@ -1,6 +1,6 @@
 # Biproduct
 
-Biproduct is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Address sent to ticket holders day of , Philadelphia on Fri, 21 Aug 2026.
+Biproduct is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Address sent to ticket holders day of , Philadelphia on Fri, 21 Aug 2026.
 
 Biproduct is a techno and industrial artist based in United States of America, tracked on soundcheck, with 7 sets logged across Boston, Philadelphia and Sandiego. Often billed alongside 9D3, AVATO and Angel Attack. Next up: TBA - Address sent to ticket holders day of , Philadelphia on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Biproduct is a techno and industrial artist based in United States of America, t
 
 9D3, AVATO, Angel Attack
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*

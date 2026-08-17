@@ -1,14 +1,13 @@
 # Davor
 
-Davor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Flinders, Sydney on Sat, 15 Aug 2026.
+Davor is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Flinders, Sydney on Sat, 19 Sept 2026.
 
-Davor is a techno and trance artist based in Croatia, tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Ciaran McAuley, Infected Mushroom and Lokesh. Next up: The Flinders, Sydney on Sat 15 Aug.
+Davor is a techno and trance artist based in Croatia, tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Ciaran McAuley, Infected Mushroom and Lokesh. Next up: The Flinders, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Flinders | Sydney |
 | Sat, 19 Sept 2026 | The Flinders | Sydney |
 
 ## Recently played
@@ -23,4 +22,4 @@ Davor is a techno and trance artist based in Croatia, tracked on soundcheck, wit
 
 Ciaran McAuley, Infected Mushroom, Lokesh
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davor/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davor/)*

@@ -1,6 +1,6 @@
 # Los Cabra
 
-Los Cabra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Los Cabra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 Los Cabra is a techno and house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin and Istanbul. Often billed alongside Borella, NÚRIA (DE) and Sascha Cawa. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Los Cabra is a techno and house artist based in Argentina, tracked on soundcheck
 
 Borella, NÚRIA (DE), Sascha Cawa
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loscabra/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loscabra/)*

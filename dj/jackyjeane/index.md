@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Jacky Jeane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Jacky Jeane is a techno and house artist tracked on soundcheck, with 67 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jacky Jeane is a techno and house artist tracked on soundcheck, with 67 sets log
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

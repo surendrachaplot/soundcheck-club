@@ -1,8 +1,8 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Inner Circle feat. Edward Tenk" on Thu, 20 Aug 2026.
+Círculo is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Inner Circle feat. Edward Tenk" on Thu, 20 Aug 2026.
 
-Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Edward Tenk and Konnin. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
+Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Beghelli, Edward Tenk and Konnin. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
 ## What's on
 
@@ -11,9 +11,12 @@ Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, 
 | Thu, 20 Aug 2026 | Inner Circle feat. Edward Tenk | Edward Tenk |
 | Fri, 21 Aug 2026 | Inner Circle feat. Konnin | Konnin |
 | Sat, 22 Aug 2026 | Inner Circle feat. Pipe Carrillo |  |
+| Thu, 27 Aug 2026 | Inner Circle feat. Beghelli | Beghelli |
+| Fri, 28 Aug 2026 | Inner Circle feat. Marquezz |  |
+| Sat, 29 Aug 2026 | Inner Circle feat. YDN |  |
 
 ## Address
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

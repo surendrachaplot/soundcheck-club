@@ -1,6 +1,6 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "+22957193023 LES ETAPES POUR AVOIR LE VRAI PORTEFEUILLE" on Sat, 15 Aug 2026.
+Der Weiße Hase is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "+22957193023 LES ETAPES POUR AVOIR LE VRAI PORTEFEUILLE" on Sat, 15 Aug 2026.
 
 Der Weiße Hase is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 12 upcoming nig
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

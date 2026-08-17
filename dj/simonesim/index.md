@@ -1,6 +1,6 @@
 # Simone Sim
 
-Simone Sim is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Union Club, Vauxhall, London on Thu, 20 Aug 2026.
+Simone Sim is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Union Club, Vauxhall, London on Thu, 20 Aug 2026.
 
 Simone Sim is a tech house and techno artist tracked on soundcheck, with 130 sets logged across London. Often billed alongside Duwat?, Diana Loredana and Dhez. Next up: Union Club, Vauxhall, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Simone Sim is a tech house and techno artist tracked on soundcheck, with 130 set
 
 Duwat?, Diana Loredana, Dhez
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonesim/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonesim/)*

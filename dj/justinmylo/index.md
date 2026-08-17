@@ -1,6 +1,6 @@
 # Justin Mylo
 
-Justin Mylo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 10 Sept 2026.
+Justin Mylo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Justin Mylo is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Ibiza, Miami, Singapore and Tokyo and 1 more. Often billed alongside Martin Garrix, R3hab and ALVA (FR). Next up: Ushuaïa Ibiza, Ibiza on Thu 10 Sept.
 
@@ -23,4 +23,4 @@ Justin Mylo is a house and progressive house artist based in Netherlands, tracke
 
 Martin Garrix, R3hab, ALVA (FR)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmylo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmylo/)*

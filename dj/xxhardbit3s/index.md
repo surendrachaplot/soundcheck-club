@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
+XXHARDBIT3S is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sinners and Saints, Washington DC on Thu, 3 Sept 2026.
 
 XXHARDBIT3S is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Boston, Denver, Montreal and Newyorkcity and 3 more. Often billed alongside JESSXO, 3mouth and Soo Intoit. Next up: Sinners and Saints, Washingtondc on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ XXHARDBIT3S is a hardcore and techno artist based in United States of America, t
 
 JESSXO, 3mouth, Soo Intoit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

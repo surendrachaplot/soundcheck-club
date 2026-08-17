@@ -1,6 +1,6 @@
 # Cataract
 
-Cataract is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
+Cataract is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
 
 Cataract is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside Ben Chaddha, Trader O and Choo Choo. Next up: ErF Studios, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cataract is a house and techno artist based in United States of America, tracked
 
 Ben Chaddha, Trader O, Choo Choo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cataract/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cataract/)*

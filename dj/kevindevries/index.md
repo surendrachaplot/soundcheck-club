@@ -1,14 +1,13 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 15 Aug 2026.
+Kevin de Vries is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Kevin de Vries is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Tale Of Us, Chris Avantgarde and Anyma. Next up: Bolivar Beach Bar, Athens on Sat 15 Aug.
+Kevin de Vries is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Tale Of Us, Chris Avantgarde and Anyma. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Bolivar Beach Bar | Athens |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | Poolen | Copenhagen |
@@ -29,4 +28,4 @@ Kevin de Vries is a techno and house artist tracked on soundcheck, with 165 sets
 
 Tale Of Us, Chris Avantgarde, Anyma
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

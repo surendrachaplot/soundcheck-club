@@ -1,6 +1,6 @@
 # Hu-Sane
 
-Hu-Sane is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
+Hu-Sane is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
 
 Hu-Sane is a bass and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Edinburgh, Glasgow, Manchester and Newcastle and 1 more. Often billed alongside Rahul.mp3, ELANDA and FROSKI. Next up: SWG3, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Hu-Sane is a bass and house artist based in United Kingdom, tracked on soundchec
 
 Rahul.mp3, ELANDA, FROSKI
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hu-sane/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hu-sane/)*

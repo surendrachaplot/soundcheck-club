@@ -1,8 +1,8 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
+ECZODIA is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
 
-ECZODIA is a techno and hardcore artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OMAKS, Jacidorex and LESSSS. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
+ECZODIA is a techno and hardcore artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OMAKS, Jacidorex and LESSSS. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ECZODIA is a techno and hardcore artist tracked on soundcheck, with 82 sets logg
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Sat, 14 Nov 2026 | TBA - CDMX | Mexico City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ECZODIA is a techno and hardcore artist tracked on soundcheck, with 82 sets logg
 
 OMAKS, Jacidorex, LESSSS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

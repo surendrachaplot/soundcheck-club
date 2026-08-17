@@ -1,6 +1,6 @@
 # Shimon (3)
 
-Shimon (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Shimon (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Shimon (3) is a house and tech house artist based in France, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Geneva and Paris and 1 more. Often billed alongside Farry, Britta Arnold and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Shimon (3) is a house and tech house artist based in France, tracked on soundche
 
 Farry, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon-3/)*

@@ -1,14 +1,14 @@
 # Amino
 
-Amino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - The Vault - 16940 Hamilton Ave., Detroit on Sat, 22 Aug 2026.
+Amino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat, 22 Aug 2026.
 
-Amino is a techno and electro artist tracked on soundcheck, with 84 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: TBA - The Vault - 16940 Hamilton Ave., Detroit on Sat 22 Aug.
+Amino is a techno and electro artist tracked on soundcheck, with 84 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - The Vault - 16940 Hamilton Ave. | Detroit |
+| Sat, 22 Aug 2026 | TBA - The Vault : 16940 Hamilton Avenue: | Detroit |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Amino is a techno and electro artist tracked on soundcheck, with 84 sets logged 
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

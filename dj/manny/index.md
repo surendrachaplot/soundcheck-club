@@ -1,6 +1,6 @@
 # MANNY
 
-MANNY is a Reggaeton and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+MANNY is a Reggaeton and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 MANNY is a reggaeton and dancehall artist based in India, tracked on soundcheck, with 11 sets logged across London, Newyorkcity and Tbilisi. Often billed alongside DJ Smooth, Donnie Sunshine and Fiyahdred. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ MANNY is a reggaeton and dancehall artist based in India, tracked on soundcheck,
 
 DJ Smooth, Donnie Sunshine, Fiyahdred
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny/)*

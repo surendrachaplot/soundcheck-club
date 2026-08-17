@@ -1,6 +1,6 @@
 # Club Z3N
 
-Club Z3N is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Lux - Progressive House to Techno" on Fri, 21 Aug 2026.
+Club Z3N is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Lux - Progressive House to Techno" on Fri, 21 Aug 2026.
 
 Club Z3N is a music venue in Auckland listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Club Z3N is a music venue in Auckland listed on soundcheck. 2 upcoming nights. B
 | Fri, 21 Aug 2026 | Lux - Progressive House to Techno |  |
 | Fri, 21 Aug 2026 | LUX II - UNDRGND Series |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/club-z3n/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/club-z3n/)*

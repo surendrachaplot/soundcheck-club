@@ -1,8 +1,8 @@
 # Chinwezz
 
-Chinwezz is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 3 Sept 2026.
+Chinwezz is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 3 Sept 2026.
 
-Chinwezz is a funk / soul and house artist based in Argentina, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Ivan Dallmann. Next up: H15 Scene & Studio, Copenhagen on Thu 3 Sept.
+Chinwezz is a funk / soul and house artist based in Argentina, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside HNRKSN and Ivan Dallmann. Next up: H15 Scene & Studio, Copenhagen on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Chinwezz is a funk / soul and house artist based in Argentina, tracked on soundc
 
 ## Shares bills with
 
-Ivan Dallmann
+HNRKSN, Ivan Dallmann
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinwezz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinwezz/)*

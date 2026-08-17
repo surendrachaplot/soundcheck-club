@@ -1,6 +1,6 @@
 # PINA (PT)
 
-PINA (PT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Soup, Manchester on Sat, 22 Aug 2026.
+PINA (PT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Soup, Manchester on Sat, 22 Aug 2026.
 
 PINA (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 9 sets logged across Lisbon, Manchester, Saopaulo and Seoul and 1 more. Often billed alongside Gsaid, CHANG and NITA. Next up: Soup, Manchester on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ PINA (PT) is a techno and house artist based in Portugal, tracked on soundcheck,
 
 Gsaid, CHANG, NITA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pina-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pina-3/)*

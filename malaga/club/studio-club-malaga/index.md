@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Summer Thursday" on Thu, 27 Aug 2026.
+Studio Club Malaga is a music venue in Malaga with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Summer Thursday" on Thu, 27 Aug 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming nights, with line-ups including Alba Franch, Alvaro Medina, AMORAL and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -23,4 +23,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming 
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

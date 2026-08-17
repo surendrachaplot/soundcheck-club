@@ -1,14 +1,15 @@
 # NikNak
 
-NikNak is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+NikNak is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
-NikNak is an experimental and dub artist tracked on soundcheck, with 50 sets logged across Berlin, Brighton, Bristol and Brussels and 9 more. Often billed alongside Breakfake, Dub Athlete and Iration Steppas. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
+NikNak is an experimental and dub artist tracked on soundcheck, with 51 sets logged across Berlin, Brighton, Bristol and Brussels and 9 more. Often billed alongside Breakfake, Dub Athlete and Iration Steppas. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Howard Assembly Room | Leeds |
+| Sat, 14 Nov 2026 | Ninety One | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NikNak is an experimental and dub artist tracked on soundcheck, with 50 sets log
 
 Breakfake, Dub Athlete, Iration Steppas
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*

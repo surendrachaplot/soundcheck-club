@@ -1,14 +1,15 @@
 # MagRena
 
-MagRena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at R Lounge, Tokyo on Sun, 23 Aug 2026.
+MagRena is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at R Lounge, Tokyo on Sun, 23 Aug 2026.
 
-MagRena is a house and techno artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside Yoshiki Aoyama, BANANA-CHAN and MINAMI. Next up: R Lounge, Tokyo on Sun 23 Aug.
+MagRena is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside Yoshiki Aoyama, BANANA-CHAN and MINAMI. Next up: R Lounge, Tokyo on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | R Lounge | Tokyo |
+| Sat, 26 Sept 2026 | Bahama Kitchen | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MagRena is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Yoshiki Aoyama, BANANA-CHAN, MINAMI
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magrena/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magrena/)*

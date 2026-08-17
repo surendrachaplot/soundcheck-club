@@ -1,6 +1,6 @@
 # Takenbymarshall
 
-Takenbymarshall is a Breakcore and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
+Takenbymarshall is a Breakcore and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
 
 Takenbymarshall is a breakcore and electro artist tracked on soundcheck, with 42 sets logged across Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Vespers Club, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Takenbymarshall is a breakcore and electro artist tracked on soundcheck, with 42
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

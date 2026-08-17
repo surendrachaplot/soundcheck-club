@@ -1,14 +1,13 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Thomas Schumacher is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at H1 Club and Lounge, Hamburg on Fri, 18 Sept 2026.
 
-Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: TBA, Berlin on Sat 15 Aug.
+Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: H1 Club and Lounge, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA | Berlin |
 | Fri, 18 Sept 2026 | H1 Club and Lounge | Hamburg |
 | Sat, 19 Sept 2026 | Schrotty | Cologne |
 | Sat, 24 Oct 2026 | Lieberscholli | Munich |
@@ -28,4 +27,4 @@ Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 se
 
 A.D.H.S., Anna Reusch, Alex Stein
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

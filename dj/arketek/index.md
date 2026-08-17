@@ -1,6 +1,6 @@
 # Arketek
 
-Arketek is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lazy Thinking, Sydney on Fri, 21 Aug 2026.
+Arketek is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Lazy Thinking, Sydney on Fri, 21 Aug 2026.
 
 Arketek is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Sydney. Often billed alongside Postponez, An Dres and Bats. Next up: Lazy Thinking, Sydney on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Arketek is an experimental and electronica artist tracked on soundcheck, with 7 
 
 Postponez, An Dres, Bats
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arketek/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arketek/)*

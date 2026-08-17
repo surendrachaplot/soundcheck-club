@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Roll" on Wed, 12 Aug 2026.
+Saloon is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Roll" on Wed, 12 Aug 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 35DH-1, AKARI, Big Animal Theory and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -23,4 +23,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with 
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

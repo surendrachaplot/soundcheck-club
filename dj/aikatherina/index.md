@@ -1,6 +1,6 @@
 # Aikatherina
 
-Aikatherina is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
+Aikatherina is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
 
 Aikatherina is a jungle and drum & bass artist tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Benc, Mentalien and Dead Man's Chest. Next up: Atno, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Aikatherina is a jungle and drum & bass artist tracked on soundcheck, with 10 se
 
 Benc, Mentalien, Dead Man's Chest
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aikatherina/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aikatherina/)*

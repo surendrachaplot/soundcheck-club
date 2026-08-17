@@ -1,6 +1,6 @@
 # TEED
 
-TEED is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
+TEED is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 TEED is a house and bass artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: 528 Ibiza, Ibiza on Tue 8 Sept.
 
@@ -27,4 +27,4 @@ TEED is a house and bass artist tracked on soundcheck, with 45 sets logged acros
 
 Dom Dolla, Heidi Lawden, Oppidan
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

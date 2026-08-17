@@ -1,6 +1,6 @@
 # LENny (IT)
 
-LENny (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
+LENny (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
 
 LENny (IT) is a house and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Paris and Sydney. Often billed alongside 42nd Avenue, ADHI and AYIM. Next up: Skatecafe, Amsterdam on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ LENny (IT) is a house and techno artist tracked on soundcheck, with 5 sets logge
 
 42nd Avenue, ADHI, AYIM
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyit/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyit/)*

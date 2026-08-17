@@ -1,6 +1,6 @@
 # Acid Chochi
 
-Acid Chochi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
+Acid Chochi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
 
 Acid Chochi is a techno and acid artist based in Brazil, tracked on soundcheck, with 1 set logged across Saopaulo. Often billed alongside Binaryh, DAVE the Drummer and Félicie. Next up: Estância Alto da Serra, Saopaulo on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Acid Chochi is a techno and acid artist based in Brazil, tracked on soundcheck, 
 
 Binaryh, DAVE the Drummer, Félicie
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidchochi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidchochi/)*

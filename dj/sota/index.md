@@ -1,8 +1,8 @@
 # SOTA
 
-SOTA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Plaza Hotel Sydney, Sydney on Fri, 4 Sept 2026.
+SOTA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Plaza Hotel Sydney, Sydney on Fri, 4 Sept 2026.
 
-SOTA is a house and techno artist tracked on soundcheck, with 116 sets logged across Antwerp, Auckland, Brisbane and Kyoto and 9 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Plaza Hotel Sydney, Sydney on Fri 4 Sept.
+SOTA is a house and techno artist tracked on soundcheck, with 117 sets logged across Antwerp, Auckland, Brisbane and Kyoto and 10 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Plaza Hotel Sydney, Sydney on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ SOTA is a house and techno artist tracked on soundcheck, with 116 sets logged ac
 | Fri, 25 Sept 2026 | Logan Campbell Centre | Auckland |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
+| Sat, 14 Nov 2026 | The Nest | Nottingham |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 116 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

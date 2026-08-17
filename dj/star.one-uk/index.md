@@ -1,6 +1,6 @@
 # Star.One
 
-Star.One is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Between The Bridges, London on Sat, 22 Aug 2026.
+Star.One is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Between The Bridges, London on Sat, 22 Aug 2026.
 
 Star.One is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol, Kualalumpur, Leeds and London and 2 more. Often billed alongside Jony Maddkidz, 2ManyDJs and Asher. Next up: Between The Bridges, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Star.One is a garage and bass artist based in United Kingdom, tracked on soundch
 
 Jony Maddkidz, 2ManyDJs, Asher
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/star.one-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/star.one-uk/)*

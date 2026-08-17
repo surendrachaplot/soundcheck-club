@@ -1,14 +1,13 @@
 # Glazart
 
-Glazart is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "After O'Clock X La Plage Open Air: Cattoni, Pantheer, Varya Karpova" on Sun, 16 Aug 2026.
+Glazart is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "After O'clock X La Plage Open Air: Chris Honorat, Chich, DJ Tuttle" on Sat, 22 Aug 2026.
 
-Glazart is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Alhena_, Cattoni, Charleeps and Chris Honorat and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
+Glazart is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Alhena_, Charleeps, Chris Honorat and Christie and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | After O'Clock X La Plage Open Air: Cattoni, Pantheer, Varya Karpova | Cattoni, Varya Karpova |
 | Sat, 22 Aug 2026 | After O'clock X La Plage Open Air: Chris Honorat, Chich, DJ Tuttle | Chich, Chris Honorat, DJ Tuttle |
 | Sun, 23 Aug 2026 | After O'Clock X La Plage Open Air: Myra, Charleeps, Fred djaaleb | Charleeps, MYRA (NL) |
 | Sat, 29 Aug 2026 | After O'Clock X La Plage Open Air: Roulita, Arrabiata, MARIAD | MARIAD, Roulita |
@@ -18,4 +17,4 @@ Glazart is a music venue in Paris listed on soundcheck. 5 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

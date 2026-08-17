@@ -1,6 +1,6 @@
 # Blade
 
-Blade is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bangkok Island, Bangkok on Sat, 22 Aug 2026.
+Blade is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bangkok Island, Bangkok on Sat, 22 Aug 2026.
 
 Blade is an electronic artist tracked on soundcheck, with 5 sets logged across Bangkok, Berlin and London. Often billed alongside Daora, SiD and Bambi (Menage a Trois). Next up: Bangkok Island, Bangkok on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Blade is an electronic artist tracked on soundcheck, with 5 sets logged across B
 
 Daora, SiD, Bambi (Menage a Trois)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blade/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blade/)*

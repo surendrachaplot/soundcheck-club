@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
+Tripolism is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 Tripolism is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
 
@@ -30,4 +30,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 74 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

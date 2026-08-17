@@ -1,6 +1,6 @@
 # moth (US)
 
-moth (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at H0L0, New York City on Thu, 20 Aug 2026.
+moth (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at H0L0, New York City on Thu, 20 Aug 2026.
 
 moth (US) is a techno and club artist tracked on soundcheck, with 77 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside erika (SF), sfcowboy and Vertigo. Next up: H0L0, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ moth (US) is a techno and club artist tracked on soundcheck, with 77 sets logged
 
 erika (SF), sfcowboy, Vertigo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*

@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Klubnacht" on Sat, 15 Aug 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Klubnacht" on Sat, 15 Aug 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Acronym, Agata, Alinka and Alix Perez and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

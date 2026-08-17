@@ -1,6 +1,6 @@
 # Sonia
 
-Sonia is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ELYSIUM: CORRUPTION" on Sat, 22 Aug 2026.
+Sonia is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ELYSIUM: CORRUPTION" on Sat, 22 Aug 2026.
 
 Sonia is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including 18+, Mere Notilde and Switch Angel. Browse upcoming dates, start times and who's playing. 10 Brookline Ave, Cambridge, MA 02136.
 
@@ -15,4 +15,4 @@ Sonia is a music venue in Boston listed on soundcheck. 2 upcoming nights, with l
 
 10 Brookline Ave, Cambridge, MA 02136, Boston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sonia/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sonia/)*

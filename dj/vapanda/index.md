@@ -1,6 +1,6 @@
 # Vapanda
 
-Vapanda is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tendance, Prague on Wed, 19 Aug 2026.
+Vapanda is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tendance, Prague on Wed, 19 Aug 2026.
 
 Vapanda is an electronica and acid artist based in Czech Republic, tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Møreti, Andrea Zucca and Mike.H. Next up: Tendance, Prague on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Vapanda is an electronica and acid artist based in Czech Republic, tracked on so
 
 Møreti, Andrea Zucca, Mike.H
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vapanda/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vapanda/)*

@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Acid Town" on Fri, 21 Aug 2026.
+Supermarket is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Acid Town" on Fri, 21 Aug 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including Antja, Cap, Daniel Meister and ERROR (LYRASIS) and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -18,4 +18,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 5 upcoming nights, 
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

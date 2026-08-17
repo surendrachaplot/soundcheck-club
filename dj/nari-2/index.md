@@ -1,6 +1,6 @@
 # Nari (2)
 
-Nari (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at clubasia, Tokyo on Thu, 20 Aug 2026.
+Nari (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at clubasia, Tokyo on Thu, 20 Aug 2026.
 
 Nari (2) is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Kyoto, Newyorkcity and Osaka and 2 more. Often billed alongside KOTSU, DNG (1) and V_R_A_P. Next up: clubasia, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Nari (2) is a house and techno artist tracked on soundcheck, with 113 sets logge
 
 KOTSU, DNG (1), V_R_A_P
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*

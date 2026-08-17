@@ -1,14 +1,13 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at PTR-Usine, Geneva on Fri, 28 Aug 2026.
 
-Kangding Ray is a techno and experimental artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Lofi, Amsterdam on Sat 15 Aug.
+Kangding Ray is a techno and experimental artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: PTR-Usine, Geneva on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 28 Aug 2026 | PTR-Usine | Geneva |
 | Fri, 28 Aug 2026 | Alhambar | Geneva |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
@@ -30,4 +29,4 @@ Kangding Ray is a techno and experimental artist tracked on soundcheck, with 133
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

@@ -1,6 +1,6 @@
 # SUCIA!
 
-SUCIA! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+SUCIA! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 SUCIA! is a club and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SUCIA! is a club and techno artist based in United States of America, tracked on
 
 Mars Kasei, Sel.6, Chiara Noriko
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*

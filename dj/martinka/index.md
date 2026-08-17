@@ -1,8 +1,8 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Martin Ka is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
-Martin Ka is a techno and house artist tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Cassiopeia, Berlin on Sat 22 Aug.
+Martin Ka is a techno and house artist tracked on soundcheck, with 63 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Martin Ka is a techno and house artist tracked on soundcheck, with 62 sets logge
 | Sat, 22 Aug 2026 | Cassiopeia | Berlin |
 | Sat, 12 Sept 2026 | Ritter Butzke | Berlin |
 | Fri, 18 Sept 2026 | Kater | Berlin |
+| Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Martin Ka is a techno and house artist tracked on soundcheck, with 62 sets logge
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

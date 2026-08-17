@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "D-EDGE SP pres.: UNLIMITED: P1: HOFFMAN. LOURENE LIVE. MARI ANNA.MARY MESK. P2: BRUNO LINO + " on Sat, 15 Aug 2026.
+D-EDGE is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MOVING D-EDGE SP pres.: DREW b2b WALOW. KAUAN NAVARRO. N1NOX b2b MAZINHO. RAFAEL PASTE LIVE" on Thu, 20 Aug 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Cesare vs Disorder and Diogo Accioly and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Diogo Accioly and DJ Marky and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | D-EDGE SP pres.: UNLIMITED: P1: HOFFMAN. LOURENE LIVE. MARI ANNA.MARY MESK. P2: BRUNO LINO +  | Cesare vs Disorder, DPR (1), Rafael Onid |
 | Thu, 20 Aug 2026 | MOVING D-EDGE SP pres.: DREW b2b WALOW. KAUAN NAVARRO. N1NOX b2b MAZINHO. RAFAEL PASTE LIVE |  |
 | Fri, 21 Aug 2026 | FREAK CHIC D-EDGE SP pres.: P1: Phonique. Adnan Sharif B2B LU.CIAN. Diogo Accioly | Adnan Sharif, Diogo Accioly, Phonique |
 | Sat, 22 Aug 2026 | NAVE D-EDGE SP pres.: MARKY & FRIENDS. Hugh Hardie. DJ MS2 // P2: Marcelo Vasami (AR). Teclas | DJ Marky, Hugh Hardie, Marcelo Vasami, Teclas |
@@ -22,4 +21,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

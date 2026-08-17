@@ -1,6 +1,6 @@
 # James Connor
 
-James Connor is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Location, Detroit on Fri, 21 Aug 2026.
+James Connor is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Detroit on Fri, 21 Aug 2026.
 
 James Connor is a techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside KICK (DET) and LAÍRE. Next up: TBA - Secret Location, Detroit on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ James Connor is a techno artist based in United States of America, tracked on so
 
 KICK (DET), LAÍRE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesconnor-us/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesconnor-us/)*

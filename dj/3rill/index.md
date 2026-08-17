@@ -1,6 +1,6 @@
 # 3rill
 
-3rill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bonobo, Tokyo on Fri, 21 Aug 2026.
+3rill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bonobo, Tokyo on Fri, 21 Aug 2026.
 
 3rill is a house and techno artist based in Japan, tracked on soundcheck, with 71 sets logged across Tokyo. Often billed alongside Keigo, Onométro and Terax. Next up: Bonobo, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Keigo, Onométro, Terax
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3rill/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3rill/)*

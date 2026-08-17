@@ -1,6 +1,6 @@
 # Riki Boro
 
-Riki Boro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Riki Boro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundcheck, with 42 sets logged across Prague. Often billed alongside Thomas Tesla, Diva and KAWA. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundchec
 
 Thomas Tesla, Diva, KAWA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*

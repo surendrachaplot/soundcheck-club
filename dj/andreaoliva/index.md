@@ -1,14 +1,13 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 16 Aug 2026.
+Andrea Oliva is a Tech House and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
 
-Andrea Oliva is a tech house and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Kiesgrube, Dusseldorf on Sun 16 Aug.
+Andrea Oliva is a tech house and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Kiesgrube | Düsseldorf |
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 199 se
 | Fri, 25 Sept 2026 | Chinois Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Kiesgrube, Düsseldorf — Sun, 16 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 10 Aug 2026
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 3 Aug 2026
@@ -30,10 +31,9 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 199 se
 - Ushuaïa Ibiza, Ibiza — Sat, 25 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 20 Jul 2026
 - [UNVRS], Ibiza — Sun, 19 Jul 2026
-- Hï Ibiza, Ibiza — Mon, 13 Jul 2026
 
 ## Shares bills with
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

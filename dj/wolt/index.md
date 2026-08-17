@@ -1,13 +1,14 @@
 # WOLT
 
-WOLT is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Umeda BANGBOO, Osaka on Sat, 5 Sept 2026.
+WOLT is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Blvck Water, Osaka on Wed, 19 Aug 2026.
 
-WOLT is a techno and psytrance artist tracked on soundcheck, with 86 sets logged across Kyoto and Osaka. Often billed alongside Tom Monkey, ZAGUN and MASOI. Next up: Umeda BANGBOO, Osaka on Sat 5 Sept.
+WOLT is a techno and psytrance artist tracked on soundcheck, with 87 sets logged across Kyoto and Osaka. Often billed alongside Tom Monkey, ZAGUN and MASOI. Next up: Blvck Water, Osaka on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Blvck Water | Osaka |
 | Sat, 5 Sept 2026 | Umeda BANGBOO | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ WOLT is a techno and psytrance artist tracked on soundcheck, with 86 sets logged
 
 Tom Monkey, ZAGUN, MASOI
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolt/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolt/)*

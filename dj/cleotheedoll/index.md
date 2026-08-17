@@ -1,6 +1,6 @@
 # CleoTheeDoll
 
-CleoTheeDoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TV Lounge, Detroit on Tue, 18 Aug 2026.
+CleoTheeDoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TV Lounge, Detroit on Tue, 18 Aug 2026.
 
 CleoTheeDoll is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit. Often billed alongside Garrison XR, Auntie Chanel and Tylr. Next up: TV Lounge, Detroit on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ CleoTheeDoll is a techno and house artist based in United States of America, tra
 
 Garrison XR, Auntie Chanel, Tylr
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*

@@ -1,18 +1,17 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Slush" on Sun, 16 Aug 2026.
+Modeci is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Roll That Beat with Tres Vibes (JPN)" on Sat, 29 Aug 2026.
 
-Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including .2ndfloor, Boyoon, Dakim and DJ PI-GE and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
+Modeci is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Boyoon, DJ PI-GE, Hyerang and Kikiorix and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Slush | .2ndfloor, Dakim, Hakim. |
 | Sat, 29 Aug 2026 | Roll That Beat with Tres Vibes (JPN) | Boyoon, DJ PI-GE, Hyerang, Kikiorix, Kyper, Satoshi Otsuki |
 
 ## Address
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

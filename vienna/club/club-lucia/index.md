@@ -1,14 +1,13 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "GABBERZ0NE" on Sat, 15 Aug 2026.
+Club Lucia is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Klanggerecht presents: TANZINSTANZ" on Fri, 21 Aug 2026.
 
-Club Lucia is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Geostatic, NooK (2), Spektiv and TONKS. Browse upcoming dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
+Club Lucia is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Geostatic, NooK (2), Spektiv and TONKS. Browse upcoming dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | GABBERZ0NE |  |
 | Fri, 21 Aug 2026 | Klanggerecht presents: TANZINSTANZ | NooK (2), TONKS |
 | Sat, 5 Sept 2026 | DISCORDIA |  |
 | Fri, 25 Sept 2026 | Transparent Audio Labelnight Vienna | Geostatic, Spektiv |
@@ -18,4 +17,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 5 upcoming nights, w
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

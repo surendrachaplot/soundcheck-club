@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
+Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
 
 Keen is a house and techno artist tracked on soundcheck, with 67 sets logged across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: Pawn Shop, Dublin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Keen is a house and techno artist tracked on soundcheck, with 67 sets logged acr
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

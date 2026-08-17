@@ -1,6 +1,6 @@
 # Zuzu
 
-Zuzu is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Dream Archives: Steppin' 2 Sound 4" on Fri, 21 Aug 2026.
+Zuzu is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Dream Archives: Steppin' 2 Sound 4" on Fri, 21 Aug 2026.
 
 Zuzu is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
 
@@ -14,4 +14,4 @@ Zuzu is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse u
 
 510 Massachusetts Ave, Cambridge MA 02136, Boston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*

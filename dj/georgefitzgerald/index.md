@@ -1,18 +1,18 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 16 Aug 2026.
+George FitzGerald is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
-George FitzGerald is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: Sneaky Pete's, Edinburgh on Sun 16 Aug.
+George FitzGerald is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 12 Sept 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh — Sun, 16 Aug 2026
 - The Berkeley Suite, Glasgow — Sat, 15 Aug 2026
 - OHM, Berlin — Sat, 8 Aug 2026
 - TBA - Secret Location, London — Thu, 23 Jul 2026
@@ -20,10 +20,9 @@ George FitzGerald is a house and techno artist tracked on soundcheck, with 46 se
 - Fidelity Studio, Dublin — Sat, 27 Jun 2026
 - Fidelity Studio, Dublin — Fri, 8 May 2026
 - The Carpet Shop, London — Sat, 18 Apr 2026
-- Club Cheek, London — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Lil Silva, Fold, Scuba
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

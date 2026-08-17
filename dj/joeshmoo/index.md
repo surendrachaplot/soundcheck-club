@@ -1,6 +1,6 @@
 # Joe Shmoo
 
-Joe Shmoo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at KitKatClub, Berlin on Thu, 20 Aug 2026.
+Joe Shmoo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at KitKatClub, Berlin on Thu, 20 Aug 2026.
 
 Joe Shmoo is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Limoncello, Wiebe Roose and alemiko. Next up: KitKatClub, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Joe Shmoo is a trance and techno artist based in United Kingdom, tracked on soun
 
 Limoncello, Wiebe Roose, alemiko
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeshmoo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeshmoo/)*

@@ -1,6 +1,6 @@
 # ESS O ESS
 
-ESS O ESS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
+ESS O ESS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
 
 ESS O ESS is a techno and house artist tracked on soundcheck, with 2 sets logged across Sydney and Tokyo. Often billed alongside Chris Stoker, Daichi and Jamie Blanco. Next up: TBA - Inner West Location, Sydney on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ ESS O ESS is a techno and house artist tracked on soundcheck, with 2 sets logged
 
 Chris Stoker, Daichi, Jamie Blanco
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essoess/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essoess/)*

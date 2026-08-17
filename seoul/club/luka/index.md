@@ -1,18 +1,18 @@
 # Luka
 
-Luka is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "TASKFORCE SEOUL - HARD TECHNO, HARDSTYLE, HARDCORE" on Sat, 15 Aug 2026.
+Luka is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "BASS MUSIC SEOUL VOL.2: DNB, DUBSTEP, TRAP & HARD TECHNO" on Fri, 21 Aug 2026.
 
-Luka is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Casepeat, Kago Pengchi, M42 (1) and Purple Rabbit. Browse upcoming dates, start times and who's playing. B1, 46 152Gil, Gangnamdaero, Seoul.
+Luka is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Carbonatez, Pennywize, PONGPONG and Rivako. Browse upcoming dates, start times and who's playing. B1, 46 152Gil, Gangnamdaero, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TASKFORCE SEOUL - HARD TECHNO, HARDSTYLE, HARDCORE |  |
-| Sun, 16 Aug 2026 | TRANCE4 SEOUL: The Luka Sessions [3rd] | Casepeat, Kago Pengchi, M42 (1), Purple Rabbit |
+| Fri, 21 Aug 2026 | BASS MUSIC SEOUL VOL.2: DNB, DUBSTEP, TRAP & HARD TECHNO | PONGPONG, Rivako |
+| Sat, 22 Aug 2026 | HARD TECHNO X HARDCORE VOL.3 | Carbonatez, Pennywize, Rivako |
 
 ## Address
 
 B1, 46 152Gil, Gangnamdaero, Seoul, Seoul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*

@@ -1,8 +1,8 @@
 # Neutran
 
-Neutran is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Giselle, Düsseldorf on Sat, 22 Aug 2026.
+Neutran is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Giselle, Düsseldorf on Sat, 22 Aug 2026.
 
-Neutran is a techno and experimental artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Dusseldorf and Prague and 1 more. Often billed alongside C-KAY, KCT (1) and Rikuto Shibazaki. Next up: Giselle, Dusseldorf on Sat 22 Aug.
+Neutran is a techno and experimental artist tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Dusseldorf and Prague and 1 more. Often billed alongside C-KAY, KCT (1) and Rikuto Shibazaki. Next up: Giselle, Dusseldorf on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neutran is a techno and experimental artist tracked on soundcheck, with 17 sets 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Giselle | Düsseldorf |
 | Thu, 24 Sept 2026 | Fitzroy | Berlin |
+| Sat, 14 Nov 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Neutran is a techno and experimental artist tracked on soundcheck, with 17 sets 
 
 C-KAY, KCT (1), Rikuto Shibazaki
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*

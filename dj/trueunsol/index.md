@@ -1,6 +1,6 @@
 # TRUEUNSOL
 
-TRUEUNSOL is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
+TRUEUNSOL is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
 
 TRUEUNSOL is a house and minimal artist based in South Korea, tracked on soundcheck, with 81 sets logged across Seoul and Tokyo. Often billed alongside Daul, DJ Wow and Gyusco. Next up: Stoked&stoned, Seoul on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ TRUEUNSOL is a house and minimal artist based in South Korea, tracked on soundch
 
 Daul, DJ Wow, Gyusco
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trueunsol/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trueunsol/)*

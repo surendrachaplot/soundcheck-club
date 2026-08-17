@@ -1,6 +1,6 @@
 # Chaos Clan
 
-Chaos Clan is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
+Chaos Clan is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
 
 Chaos Clan is a gabber and hardcore artist tracked on soundcheck, with 9 sets logged across Glasgow. Often billed alongside Rob Da Rhythm, Wreckheadz and Bracken. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Chaos Clan is a gabber and hardcore artist tracked on soundcheck, with 9 sets lo
 
 Rob Da Rhythm, Wreckheadz, Bracken
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosclan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosclan/)*

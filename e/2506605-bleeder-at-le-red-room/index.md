@@ -1,6 +1,6 @@
 # BLEEDER at Le Red Room
 
-BLEEDER at Le Red Room on Thu 10 Sept, Montreal. 2 acts on the bill: fangsie and Mowie (2). Techno and Gabber. Preview the line-up and save it on soundcheck.
+BLEEDER at Le Red Room on Thu 10 Sept, Montreal. 2 acts on the bill: fangsie and Mowie (2). Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

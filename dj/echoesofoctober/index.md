@@ -1,6 +1,6 @@
 # Echoes Of October
 
-Echoes Of October is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 29 Aug 2026.
+Echoes Of October is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 29 Aug 2026.
 
 Echoes Of October is a techno and trance artist tracked on soundcheck, with 82 sets logged across Berlin, Hamburg, Hongkong and Lisbon and 8 more. Often billed alongside Inverse Element, Philipp Drube and SHADYLINES. Next up: TBA - Secret Warehouse Location, Hongkong on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Echoes Of October is a techno and trance artist tracked on soundcheck, with 82 s
 
 Inverse Element, Philipp Drube, SHADYLINES
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echoesofoctober/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echoesofoctober/)*

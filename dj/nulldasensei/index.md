@@ -1,6 +1,6 @@
 # NullDaSensei
 
-NullDaSensei is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 20 Aug 2026.
+NullDaSensei is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 20 Aug 2026.
 
 NullDaSensei is a bass and dub artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Mars89, ZuKaRoHi and ykah. Next up: Enter Shibuya, Tokyo on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ NullDaSensei is a bass and dub artist based in Japan, tracked on soundcheck, wit
 
 Mars89, ZuKaRoHi, ykah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nulldasensei/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nulldasensei/)*

@@ -1,6 +1,6 @@
 # Paul Elstak
 
-Paul Elstak is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Paul Elstak is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
 Paul Elstak is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Angerfist, Dual Damage and Brennan Heart. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Paul Elstak is a hardcore and gabber artist based in Netherlands, tracked on sou
 
 Angerfist, Dual Damage, Brennan Heart
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*

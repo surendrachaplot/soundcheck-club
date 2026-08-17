@@ -1,14 +1,13 @@
 # Toner
 
-Toner is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
+Toner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Razzmatazz, Barcelona on Fri, 28 Aug 2026.
 
-Toner is a techno and house artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Tokyo. Often billed alongside PethbUri, Sushinigami and DJ2D2. Next up: Razzmatazz, Barcelona on Sat 15 Aug.
+Toner is a techno and house artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Tokyo. Often billed alongside PethbUri, Sushinigami and DJ2D2. Next up: Razzmatazz, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Razzmatazz | Barcelona |
 | Fri, 28 Aug 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -26,4 +25,4 @@ Toner is a techno and house artist based in Spain, tracked on soundcheck, with 2
 
 PethbUri, Sushinigami, DJ2D2
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toner/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toner/)*

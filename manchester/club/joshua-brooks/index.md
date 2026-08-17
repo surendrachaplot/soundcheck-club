@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Metalheadz: Goldie b2b Doc Scott - Manchester" on Fri, 21 Aug 2026.
+Joshua Brooks is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Metalheadz: Goldie b2b Doc Scott - Manchester" on Fri, 21 Aug 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including Ant TC1, AYDN, Badger (UK) and Because of Art and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 16 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

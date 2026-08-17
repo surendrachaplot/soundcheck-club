@@ -1,6 +1,6 @@
 # Bushfya
 
-Bushfya is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+Bushfya is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
 
 Bushfya is an electronica and techno artist tracked on soundcheck, with 38 sets logged across Berlin and Hamburg. Often billed alongside Margo, senneh and Carluschka. Next up: Südpol, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bushfya is an electronica and techno artist tracked on soundcheck, with 38 sets 
 
 Margo, senneh, Carluschka
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushfya/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushfya/)*

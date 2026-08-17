@@ -1,20 +1,20 @@
 # Violent Magic Orchestra
 
-Violent Magic Orchestra is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Msqdrt Mosaique Sessions, Antwerp on Sun, 16 Aug 2026.
+Violent Magic Orchestra is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Msqdrt Mosaique Sessions, Antwerp on Sun 16 Aug.
+Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Msqdrt Mosaique Sessions | Antwerp |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Wed, 26 Aug 2026 | The Old Blue Last | London |
 | Sat, 29 Aug 2026 | Société des arts technologiques | Montreal |
 
 ## Recently played
 
+- Msqdrt Mosaique Sessions, Antwerp — Sun, 16 Aug 2026
 - Urban Spree, Berlin — Wed, 29 Jul 2026
 - Neue Zukunft, Berlin — Sun, 26 Jul 2026
 - El Pumarejo Barcelona, Barcelona — Thu, 23 Jul 2026
@@ -22,10 +22,9 @@ Violent Magic Orchestra is a techno and experimental artist tracked on soundchec
 - Ostrov Štvanice, Prague — Fri, 10 Jul 2026
 - HUNGR, Tallinn — Sun, 28 Jun 2026
 - Botanique, Brussels — Tue, 23 Jun 2026
-- Cartilage, Paris — Mon, 22 Jun 2026
 
 ## Shares bills with
 
 VMO, hOLysHiT, Marie Davidson
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*

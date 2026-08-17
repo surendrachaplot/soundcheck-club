@@ -1,6 +1,6 @@
 # Jacaranda Baltic
 
-Jacaranda Baltic is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Antony Szmierek: Live Performance & Signing (14+ with an Adult)" on Tue, 25 Aug 2026.
+Jacaranda Baltic is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Antony Szmierek: Live Performance & Signing (14+ with an Adult)" on Tue, 25 Aug 2026.
 
 Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including Antony Szmierek and Bonobo. Browse upcoming dates, start times and who's playing. Unit 2, Cains Brewery, Liverpool L8 5XJ.
 
@@ -17,4 +17,4 @@ Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 4 upcoming 
 
 Unit 2, Cains Brewery, Liverpool L8 5XJ, Liverpool
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*

@@ -1,6 +1,6 @@
 # Dos Flakos
 
-Dos Flakos is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
+Dos Flakos is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
 
 Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Losangeles and Madrid and 6 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Dead Letter No. 9, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 51 sets l
 
 DJ Ultra Violet, Rosa Perreo, Cquestt
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*

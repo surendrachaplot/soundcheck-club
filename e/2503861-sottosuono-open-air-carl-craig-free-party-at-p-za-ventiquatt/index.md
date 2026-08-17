@@ -1,6 +1,6 @@
 # SOTTOSUONO OPEN AIR: Carl Craig [free party] at P.za Ventiquattro Maggio
 
-SOTTOSUONO OPEN AIR: Carl Craig [free party] at P.za Ventiquattro Maggio on Sat 12 Sept, Milan. 4 acts on the bill: Carl Craig, Gab Gato, NEKKETTO and The Robinson. Preview the line-up and save it on soundcheck.
+SOTTOSUONO OPEN AIR: Carl Craig [free party] at P.za Ventiquattro Maggio on Sat 12 Sept, Milan. 5 acts on the bill: Carl Craig, FilippoDiGiorno, Gab Gato and NEKKETTO and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SOTTOSUONO OPEN AIR: Carl Craig [free party] at P.za Ventiquattro Maggio on Sat 
 ## Line-up
 
 - Carl Craig
+- FilippoDiGiorno
 - Gab Gato
 - NEKKETTO
 - The Robinson

@@ -1,6 +1,6 @@
 # Sacha Madadian
 
-Sacha Madadian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - 8 Copley Street, Roxbury MA, Boston on Sat, 22 Aug 2026.
+Sacha Madadian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 8 Copley Street, Roxbury MA, Boston on Sat, 22 Aug 2026.
 
 Sacha Madadian is a house and techno artist tracked on soundcheck, with 13 sets logged across Boston. Often billed alongside Alfredo Rico-Dimas, Azzeddine and Medux. Next up: TBA - 8 Copley Street, Roxbury MA, Boston on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sacha Madadian is a house and techno artist tracked on soundcheck, with 13 sets 
 
 Alfredo Rico-Dimas, Azzeddine, Medux
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamadadian/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamadadian/)*

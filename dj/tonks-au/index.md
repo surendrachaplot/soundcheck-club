@@ -1,6 +1,6 @@
 # TONKS
 
-TONKS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
+TONKS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
 
 TONKS is a techno and trance artist based in Austria, tracked on soundcheck, with 9 sets logged across Cologne and Vienna. Often billed alongside NooK (2), KAROLINA and Annakonda. Next up: Club Lucia, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ TONKS is a techno and trance artist based in Austria, tracked on soundcheck, wit
 
 NooK (2), KAROLINA, Annakonda
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonks-au/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonks-au/)*

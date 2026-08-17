@@ -1,6 +1,6 @@
 # Ross Lowder
 
-Ross Lowder is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Ross Lowder is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Ross Lowder is a techno and bass artist based in United States of America, tracked on soundcheck, with 17 sets logged across Seattle. Often billed alongside Jason Code, KJ3 (US) and N SO. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ross Lowder is a techno and bass artist based in United States of America, track
 
 Jason Code, KJ3 (US), N SO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosslowder/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosslowder/)*

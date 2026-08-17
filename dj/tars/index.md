@@ -1,6 +1,6 @@
 # TARS
 
-TARS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+TARS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 TARS is a house and techno artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Berlin, Ghent, Nantes and Paris. Often billed alongside Britta Arnold, Pauli Pocket and Sascha Cawa. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ TARS is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Britta Arnold, Pauli Pocket, Sascha Cawa
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tars/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tars/)*

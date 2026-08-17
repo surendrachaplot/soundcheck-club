@@ -1,6 +1,6 @@
 # Prvne
 
-Prvne is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
+Prvne is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
 
 Prvne is an electronic artist based in France, tracked on soundcheck, with 3 sets logged across Brussels. Often billed alongside Laryssa Kim, NMSS and Naskilobones. Next up: Beursschouwburg, Brussels on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Prvne is an electronic artist based in France, tracked on soundcheck, with 3 set
 
 Laryssa Kim, NMSS, Naskilobones
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prvne/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prvne/)*

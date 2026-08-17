@@ -1,6 +1,6 @@
 # TMB (1)
 
-TMB (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 3 Oct 2026.
+TMB (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 3 Oct 2026.
 
 TMB (1) is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside Eva Nyx, AH-N!CE and Stuckeyrella. Next up: Uebel & Gefährlich, Hamburg on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ TMB (1) is a techno artist based in Germany, tracked on soundcheck, with 7 sets 
 
 Eva Nyx, AH-N!CE, Stuckeyrella
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*

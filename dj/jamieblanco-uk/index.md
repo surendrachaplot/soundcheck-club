@@ -1,6 +1,6 @@
 # Jamie Blanco
 
-Jamie Blanco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
+Jamie Blanco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
 
 Jamie Blanco is a disco and house artist tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside Kato, ESS O ESS and Genki Tanaka. Next up: TBA - Inner West Location, Sydney on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Jamie Blanco is a disco and house artist tracked on soundcheck, with 4 sets logg
 
 Kato, ESS O ESS, Genki Tanaka
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*

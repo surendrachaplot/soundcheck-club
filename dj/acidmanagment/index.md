@@ -1,6 +1,6 @@
 # Acid Managment
 
-Acid Managment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Acid Managment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Acid Managment is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Aber DJ, Asphalt DJ and Bambi (FR). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Acid Managment is a techno and trance artist based in Germany, tracked on soundc
 
 Aber DJ, Asphalt DJ, Bambi (FR)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmanagment/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmanagment/)*

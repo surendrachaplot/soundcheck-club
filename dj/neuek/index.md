@@ -1,6 +1,6 @@
 # Neue K
 
-Neue K is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dunckerclub, Berlin on Mon, 24 Aug 2026.
+Neue K is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dunckerclub, Berlin on Mon, 24 Aug 2026.
 
 Neue K is an ebm and post-punk artist tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside ADULT., Absolute Body Control and Bloody Mary. Next up: Dunckerclub, Berlin on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Neue K is an ebm and post-punk artist tracked on soundcheck, with 29 sets logged
 
 ADULT., Absolute Body Control, Bloody Mary
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuek/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuek/)*

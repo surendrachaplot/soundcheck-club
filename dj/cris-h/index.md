@@ -1,14 +1,13 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Blue Summer Ibiza Boat, Ibiza on Mon, 17 Aug 2026.
+Cris-H is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Manii Beach, Amsterdam on Sat, 29 Aug 2026.
 
-Cris-H is a progressive house and deep house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Blue Summer Ibiza Boat, Ibiza on Mon 17 Aug.
+Cris-H is a progressive house and deep house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Manii Beach, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Blue Summer Ibiza Boat | Ibiza |
 | Sat, 29 Aug 2026 | Manii Beach | Amsterdam |
 | Wed, 21 Oct 2026 | Zum Barbarossa | Amsterdam |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
@@ -17,6 +16,7 @@ Cris-H is a progressive house and deep house artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Blue Summer Ibiza Boat, Ibiza — Sun, 16 Aug 2026
 - Paal69, Amsterdam — Sat, 15 Aug 2026
 - Supperclub Cruise, Amsterdam — Sat, 1 Aug 2026
 - Hyde Club, Barcelona — Sat, 13 Jun 2026
@@ -24,10 +24,9 @@ Cris-H is a progressive house and deep house artist tracked on soundcheck, with 
 - Loods 12, Amsterdam — Fri, 22 May 2026
 - Kadinsky Cafe, Amsterdam — Sat, 9 May 2026
 - Hotel Arena, Amsterdam — Mon, 27 Apr 2026
-- Loods 12, Amsterdam — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Paul Sparkes, Prismode, Solvane
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*

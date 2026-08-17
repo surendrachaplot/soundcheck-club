@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "HOLIDAY ORDERS" on Sun, 16 Aug 2026.
+BAR Inc is a music venue in Osaka with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "WEEKDAY ORDERS" on Wed, 19 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 19 upcoming nights, with line-ups including AOKI takamasa, Arpy Brown, Big Animal Theory and DJ Monchan and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 18 upcoming nights, with line-ups including AOKI takamasa, Arpy Brown, Big Animal Theory and DJ Monchan and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | HOLIDAY ORDERS |  |
 | Wed, 19 Aug 2026 | WEEKDAY ORDERS |  |
 | Thu, 20 Aug 2026 | WEEKDAY ORDERS | DJ Monchan |
 | Fri, 21 Aug 2026 | WEEKEND SELECTERS | YAMA(JP/OSK) |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 19 upcoming nights, with
 | Fri, 28 Aug 2026 | WEEKEND SELECTERS | Yoshihiro Okino |
 | Sat, 29 Aug 2026 | WEEKEND SELECTERS | DJ Quietstorm |
 | Sun, 30 Aug 2026 | HOLIDAY ORDERS |  |
+| Fri, 4 Sept 2026 | WEEKEND SELECTERS -Toy Tonics Jam- | Arpy Brown, Gee Lane, Ryu (2) |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

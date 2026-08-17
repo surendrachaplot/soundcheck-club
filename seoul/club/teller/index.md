@@ -1,19 +1,21 @@
 # teller
 
-teller is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Saturday, August 15, 2026" on Sat, 15 Aug 2026.
+teller is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Friday, August 21, 2026" on Fri, 21 Aug 2026.
 
-teller is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Kibum, Krijka, Kugel and Leafar Legov and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
+teller is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including Dakim, Kibum, Krijka and Kugel and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Saturday, August 15, 2026 | Kibum, Krijka, Nomal |
-| Fri, 28 Aug 2026 | Friday, August 28, 2026 | Kugel, Young Sun, Zorba |
+| Fri, 21 Aug 2026 | Friday, August 21, 2026 | Lyumin, Mihak |
+| Sat, 22 Aug 2026 | Saturday, August 22, 2026 | Dakim, Oho. |
+| Fri, 28 Aug 2026 | Friday, August 28, 2026 | Kibum, Kugel, Young Sun, Zorba |
 | Sat, 29 Aug 2026 | Invites Leafar Legov | Leafar Legov |
+| Sun, 30 Aug 2026 | Sunday, August 30, 2026 | Krijka, Nomal, Oho. |
 
 ## Address
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

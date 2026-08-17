@@ -1,6 +1,6 @@
 # Karuta
 
-Karuta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Mitsuki, Tokyo on Tue, 18 Aug 2026.
+Karuta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Mitsuki, Tokyo on Tue, 18 Aug 2026.
 
 Karuta is a house and techno artist based in Japan, tracked on soundcheck, with 87 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Atsuki, Celter and KABUTO. Next up: Mitsuki, Tokyo on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ Karuta is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Atsuki, Celter, KABUTO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karuta/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karuta/)*

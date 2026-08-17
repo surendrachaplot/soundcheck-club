@@ -1,14 +1,13 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Eagle, London on Sun, 16 Aug 2026.
+Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Eagle, London on Sun, 23 Aug 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 380 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 16 Aug.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 381 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | The Eagle | London |
 | Sun, 23 Aug 2026 | The Eagle | London |
 | Fri, 28 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Southwark Park | London |
@@ -20,9 +19,11 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 380 set
 | Fri, 9 Oct 2026 | Necto | Detroit |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Stereo | Montreal |
+| Sat, 14 Nov 2026 | Hare & Hounds | Birmingham |
 
 ## Recently played
 
+- The Eagle, London — Sun, 16 Aug 2026
 - The Eagle, London — Sun, 9 Aug 2026
 - TILLATEC, Amsterdam — Fri, 7 Aug 2026
 - Chinois Ibiza, Ibiza — Mon, 3 Aug 2026
@@ -30,10 +31,9 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 380 set
 - Patterns, Brighton — Sat, 1 Aug 2026
 - Steelyard Kelham, Sheffield — Sat, 1 Aug 2026
 - The Eagle, London — Sun, 26 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Luke Howard, James Hillard, Severino
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

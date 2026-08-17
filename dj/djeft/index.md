@@ -1,6 +1,6 @@
 # DJ Eft
 
-DJ Eft is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+DJ Eft is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 DJ Eft is a techno and bass artist based in United States of America, tracked on soundcheck, with 22 sets logged across Kyoto, Newyorkcity, Portland and Tokyo and 1 more. Often billed alongside Gardenparty, Succubass and Carly Barton. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DJ Eft is a techno and bass artist based in United States of America, tracked on
 
 Gardenparty, Succubass, Carly Barton
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*

@@ -1,6 +1,6 @@
 # Quiosque Giro Giro
 
-Quiosque Giro Giro is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Disconnected at Giro Giro" on Sat, 22 Aug 2026.
+Quiosque Giro Giro is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Disconnected at Giro Giro" on Sat, 22 Aug 2026.
 
 Quiosque Giro Giro is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Quiosque Giro Giro is a music venue in Lisbon listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Disconnected at Giro Giro |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quiosque-giro-giro/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quiosque-giro-giro/)*

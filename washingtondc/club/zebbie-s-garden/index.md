@@ -1,6 +1,6 @@
 # Zebbie's Garden
 
-Zebbie's Garden is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Her House: Skilah" on Sat, 29 Aug 2026.
+Zebbie's Garden is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Her House: Skilah" on Sat, 29 Aug 2026.
 
 Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 1223 Connecticut Ave NW, Washington, DC 20036.
 
@@ -17,4 +17,4 @@ Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 4 upcomin
 
 1223 Connecticut Ave NW, Washington, DC 20036, Washington DC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*

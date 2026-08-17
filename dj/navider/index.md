@@ -1,14 +1,13 @@
 # Navider
 
-Navider is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Slow Club, Barcelona on Sat, 15 Aug 2026.
+Navider is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Port de Budapest, Budapest on Thu, 20 Aug 2026.
 
-Navider is a house and techno artist tracked on soundcheck, with 255 sets logged across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Sat 15 Aug.
+Navider is a house and techno artist tracked on soundcheck, with 255 sets logged across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Port de Budapest, Budapest on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Slow Club | Barcelona |
 | Thu, 20 Aug 2026 | Port de Budapest | Budapest |
 | Sat, 22 Aug 2026 | Slow Club | Barcelona |
 | Thu, 27 Aug 2026 | Slow Club | Barcelona |
@@ -20,6 +19,7 @@ Navider is a house and techno artist tracked on soundcheck, with 255 sets logged
 | Thu, 17 Sept 2026 | Slow Club | Barcelona |
 | Thu, 24 Sept 2026 | Slow Club | Barcelona |
 | Thu, 1 Oct 2026 | Slow Club | Barcelona |
+| Thu, 8 Oct 2026 | Slow Club | Barcelona |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Navider is a house and techno artist tracked on soundcheck, with 255 sets logged
 
 D.T.H., Hermes Disco Eterno, Frankie G
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*

@@ -1,14 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Escala25, Lisbon on Sun, 16 Aug 2026.
+Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Escala25, Lisbon on Sun 16 Aug.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Escala25 | Lisbon |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sun, 30 Aug 2026 | Colorado Charlie | The Hague |
@@ -17,11 +16,13 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 162 set
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Sat, 17 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
 
 ## Recently played
 
+- Escala25, Lisbon — Sun, 16 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Studio Club Malaga, Malaga — Fri, 7 Aug 2026
 - Beton-T, Utrecht — Sat, 1 Aug 2026
@@ -29,10 +30,9 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 162 set
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
 - Else, Berlin — Fri, 10 Jul 2026
 - DNA Club, Munich — Fri, 3 Jul 2026
-- Kømplex Lisbon, Lisbon — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

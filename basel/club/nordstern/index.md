@@ -1,14 +1,13 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Jungle Street Groove Afterparty" on Sat, 15 Aug 2026.
+Nordstern is a music venue in Basel with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DAY|RAVE with Scenarios" on Sat, 22 Aug 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming nights, with line-ups including Alix Perez, Anfisa Letyago, Comzy and Fiona Zanetti and 2 more. Browse upcoming dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming nights, with line-ups including Alix Perez, Anfisa Letyago, Comzy and Fiona Zanetti and 2 more. Browse upcoming dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Jungle Street Groove Afterparty | KYLIE, Kaleiko, Michel Sacher, THYORA, Tanja Alison, kso12 |
 | Sat, 22 Aug 2026 | DAY/RAVE with Scenarios | Sebastian Konrad, Sezer Uysal |
 | Fri, 28 Aug 2026 | NTO | Michel Sacher, NTO, THYORA |
 | Sat, 29 Aug 2026 | Alix Perez | Alix Perez, Comzy |
@@ -22,4 +21,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming nights, wit
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

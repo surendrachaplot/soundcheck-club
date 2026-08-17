@@ -1,6 +1,6 @@
 # KVKN
 
-KVKN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Wanderlust, Paris on Thu, 20 Aug 2026.
+KVKN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Wanderlust, Paris on Thu, 20 Aug 2026.
 
 KVKN is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Leipzig and London and 3 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: Wanderlust, Paris on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ KVKN is a techno and house artist tracked on soundcheck, with 20 sets logged acr
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*

@@ -1,14 +1,15 @@
 # DiscCampForest
 
-DiscCampForest is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
+DiscCampForest is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
 
-DiscCampForest is a house and disco artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Monkey Timers, HARUTO and JUN INAGAWA. Next up: WOMB, Tokyo on Fri 28 Aug.
+DiscCampForest is a house and disco artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside Monkey Timers, JUN INAGAWA and Sunga. Next up: WOMB, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | WOMB | Tokyo |
+| Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 
 ## Recently played
@@ -24,6 +25,6 @@ DiscCampForest is a house and disco artist based in Japan, tracked on soundcheck
 
 ## Shares bills with
 
-Monkey Timers, HARUTO, JUN INAGAWA
+Monkey Timers, JUN INAGAWA, Sunga
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*

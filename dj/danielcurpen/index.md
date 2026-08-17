@@ -1,6 +1,6 @@
 # Daniel Curpen
 
-Daniel Curpen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Daniel Curpen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Daniel Curpen is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Copenhagen, London and Malta. Often billed alongside Braxton, Jody Wisternoff and My Friend. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Daniel Curpen is a house and techno artist based in United Kingdom, tracked on s
 
 Braxton, Jody Wisternoff, My Friend
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielcurpen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielcurpen/)*

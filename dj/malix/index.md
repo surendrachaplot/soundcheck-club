@@ -1,6 +1,6 @@
 # malix
 
-malix is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Phonox, London on Sat, 5 Sept 2026.
+malix is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Phonox, London on Sat, 5 Sept 2026.
 
 malix is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Ibiza, Lisbon and London and 1 more. Often billed alongside Kojay, Arthi and FS Green. Next up: Phonox, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ malix is an afro house and afro tech artist based in United Kingdom, tracked on 
 
 Kojay, Arthi, FS Green
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*

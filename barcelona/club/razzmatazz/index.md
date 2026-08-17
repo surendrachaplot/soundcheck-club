@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE" on Sat, 15 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "RAZZCLUBS: Amaliah + Nahoomie + Antidoto Club: Vagabund & MORE" on Fri, 21 Aug 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Alienata, Amaliah, Anika Kunst and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Alienata, Amaliah, Anika Kunst and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE | Cyklos, Dasha Rush, Fold, Toner, Unreal |
 | Fri, 21 Aug 2026 | RAZZCLUBS: Amaliah + Nahoomie + Antidoto Club: Vagabund & MORE | Amaliah, Clandestine, Claudia, DARÍO, INEXXSTABLE, L4I4, Nahoomie, Vagabund, Verushka, Yosef (ES) |
 | Sat, 22 Aug 2026 | RAZZCLUBS:  Saint Ludo + NUMEN: Regis Live + Kwartz + Oran Ray Live & MORE | DJohnston, Kaidara, Kwartz, Rachael (ES), Regis, Saint Ludo, Speaks Silence, Sushinigami, Sylvia (ES) |
 | Fri, 28 Aug 2026 | RAZZCLUBS: Havana x Fuego: Tsunami + Afri k + Drizzyclare - Powered By Greenlight Sound System | DJ2D2, Drizzyclare, PethbUri, Sushinigami, Toner, Tsunami |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
 | Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
+| Fri, 13 Nov 2026 | SPORTS |  |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

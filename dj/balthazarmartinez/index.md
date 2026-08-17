@@ -1,6 +1,6 @@
 # Balthazar Martinez
 
-Balthazar Martinez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Paloma, Berlin on Sat, 22 Aug 2026.
+Balthazar Martinez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Paloma, Berlin on Sat, 22 Aug 2026.
 
 Balthazar Martinez is a house and disco artist based in France, tracked on soundcheck, with 103 sets logged across Barcelona, Berlin, Paris and Strasbourg. Often billed alongside Mandel Turner, Mat Fink and Mini Nik. Next up: Paloma, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Balthazar Martinez is a house and disco artist based in France, tracked on sound
 
 Mandel Turner, Mat Fink, Mini Nik
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balthazarmartinez/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balthazarmartinez/)*

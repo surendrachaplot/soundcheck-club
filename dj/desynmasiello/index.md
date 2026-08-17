@@ -1,6 +1,6 @@
 # Desyn
 
-Desyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
+Desyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
 
 Desyn is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Refuge, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Desyn is a house and techno artist tracked on soundcheck, with 101 sets logged a
 
 Tom Morgan, Faciendo Soundsystem, Rama NYC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*

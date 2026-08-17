@@ -1,13 +1,14 @@
 # Diskosport
 
-Diskosport is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Diskosport is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
-Diskosport is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Antic Soul, Asem Shama and Blame the Booker. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
+Diskosport is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Antic Soul, Asem Shama and Blame the Booker. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -21,4 +22,4 @@ Diskosport is a house and techno artist tracked on soundcheck, with 5 sets logge
 
 Antic Soul, Asem Shama, Blame the Booker
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskosport/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskosport/)*

@@ -1,6 +1,6 @@
 # sydfalls
 
-sydfalls is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+sydfalls is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 sydfalls is a techno and club artist tracked on soundcheck, with 64 sets logged across Antwerp, Berlin, Brussels and Chicago and 7 more. Often billed alongside Icey Bby, Via App and Introspekt. Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ sydfalls is a techno and club artist tracked on soundcheck, with 64 sets logged 
 
 Icey Bby, Via App, Introspekt
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydfalls/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydfalls/)*

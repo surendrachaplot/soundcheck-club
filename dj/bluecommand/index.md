@@ -1,14 +1,13 @@
 # Bluecommand
 
-Bluecommand is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+Bluecommand is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fünk, Mexico City on Fri, 28 Aug 2026.
 
-Bluecommand is a techno and electronica artist based in Mexico, tracked on soundcheck, with 125 sets logged across Amsterdam, Berlin, Mexicocity and Tbilisi. Often billed alongside Phanta, Ranma Entero and MNTY. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
+Bluecommand is a techno and electronica artist based in Mexico, tracked on soundcheck, with 125 sets logged across Amsterdam, Berlin, Mexicocity and Tbilisi. Often billed alongside Phanta, Ranma Entero and MNTY. Next up: Fünk, Mexicocity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TILLATEC | Amsterdam |
 | Fri, 28 Aug 2026 | Fünk | Mexico City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Bluecommand is a techno and electronica artist based in Mexico, tracked on sound
 
 Phanta, Ranma Entero, MNTY
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*

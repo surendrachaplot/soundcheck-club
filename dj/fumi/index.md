@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+FUMI is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 FUMI is a techno and industrial artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
@@ -17,6 +17,7 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 95 sets logge
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - ZEROTOKYO, Tokyo — Mon, 10 Aug 2026
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Lion Super Club, Seoul — Sat, 8 Aug 2026
@@ -24,10 +25,9 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 95 sets logge
 - Arzenal, Budapest — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- M7 Club, Barcelona — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

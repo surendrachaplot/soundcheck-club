@@ -1,6 +1,6 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+SGT Pokes is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 96 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Mala and Dub Athlete. Next up: The Cause, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 96 sets logge
 
 DUKU, Mala, Dub Athlete
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

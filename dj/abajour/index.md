@@ -1,6 +1,6 @@
 # Abajour
 
-Abajour is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Abajour is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Abajour is an electronic artist tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Newyorkcity and Paris. Often billed alongside Ben Klock, Fadi Mohem and Inox Traxx. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Abajour is an electronic artist tracked on soundcheck, with 15 sets logged acros
 
 Ben Klock, Fadi Mohem, Inox Traxx
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abajour/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abajour/)*

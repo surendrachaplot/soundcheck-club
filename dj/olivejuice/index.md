@@ -1,6 +1,6 @@
 # Olive Juice
 
-Olive Juice is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+Olive Juice is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Endeavour, London on Fri, 18 Sept 2026.
 
 Olive Juice is a bass and experimental artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside ROHiNA, limi and Kafn. Next up: Endeavour, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Olive Juice is a bass and experimental artist tracked on soundcheck, with 11 set
 
 ROHiNA, limi, Kafn
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*

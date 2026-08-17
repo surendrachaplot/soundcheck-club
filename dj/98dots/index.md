@@ -1,18 +1,19 @@
 # 98dots
 
-98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 16 Aug 2026.
+98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Dolphin, Philadelphia on Sat, 29 Aug 2026.
 
-98dots is a techno and house artist tracked on soundcheck, with 67 sets logged across Antwerp, Belgrade, Berlin and Boston and 11 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: Summertime Roof Terrace, Newyorkcity on Sun 16 Aug.
+98dots is a techno and house artist tracked on soundcheck, with 68 sets logged across Antwerp, Belgrade, Berlin and Boston and 11 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: The Dolphin, Philadelphia on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Summertime Roof Terrace | New York City |
+| Sat, 29 Aug 2026 | The Dolphin | Philadelphia |
 | Fri, 18 Sept 2026 | Signal | New York City |
 
 ## Recently played
 
+- Summertime Roof Terrace, New York City — Sun, 16 Aug 2026
 - Bassiani, Tbilisi — Fri, 31 Jul 2026
 - Cherry Beach, Toronto — Sun, 19 Jul 2026
 - TBA, Boston — Fri, 17 Jul 2026
@@ -20,10 +21,9 @@
 - Mansions, New York City — Fri, 3 Jul 2026
 - Apollo Studio, New York City — Sat, 13 Jun 2026
 - Signal, New York City — Fri, 5 Jun 2026
-- The Jama, Toronto — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

@@ -1,6 +1,6 @@
 # Mambele
 
-Mambele is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
+Mambele is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
 
 Mambele is an electro and bass artist tracked on soundcheck, with 23 sets logged across Antwerp and Brussels. Often billed alongside Bibi Seck, John Noseda and La Dame. Next up: Illegaal, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mambele is an electro and bass artist tracked on soundcheck, with 23 sets logged
 
 Bibi Seck, John Noseda, La Dame
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mambele/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mambele/)*

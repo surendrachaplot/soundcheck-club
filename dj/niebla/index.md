@@ -1,6 +1,6 @@
 # Niebla
 
-Niebla is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+Niebla is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 Niebla is an electronica artist based in Colombia, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 4 more. Often billed alongside Amotik, Answer Code Request and BELLA (NL). Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Niebla is an electronica artist based in Colombia, tracked on soundcheck, with 1
 
 Amotik, Answer Code Request, BELLA (NL)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*

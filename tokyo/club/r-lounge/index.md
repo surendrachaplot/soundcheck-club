@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "DJ RYOKO HAPPY BIRTHDAY" on Wed, 19 Aug 2026.
+R Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DJ RYOKO HAPPY BIRTHDAY" on Wed, 19 Aug 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AEMI, BEPPU, BERLINER KINDL and CITY1 and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wit
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

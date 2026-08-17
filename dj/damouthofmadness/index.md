@@ -1,6 +1,6 @@
 # Da Mouth of Madness
 
-Da Mouth of Madness is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Da Mouth of Madness is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 Da Mouth of Madness is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Frankfurt, Glasgow and Nurnberg. Often billed alongside MOUTH, The Darkraver and Noxiouz. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Da Mouth of Madness is a hardcore and gabber artist based in Netherlands, tracke
 
 MOUTH, The Darkraver, Noxiouz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damouthofmadness/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damouthofmadness/)*

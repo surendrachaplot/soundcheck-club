@@ -1,6 +1,6 @@
 # Purple Flame
 
-Purple Flame is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Usquare, Brussels on Wed, 19 Aug 2026.
+Purple Flame is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Usquare, Brussels on Wed, 19 Aug 2026.
 
 Purple Flame is a downtempo and house artist tracked on soundcheck, with 9 sets logged across Barcelona, Brussels and Tbilisi. Often billed alongside Aman Dava, Anushka Chkheidze and AudioSpace. Next up: Usquare, Brussels on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Purple Flame is a downtempo and house artist tracked on soundcheck, with 9 sets 
 
 Aman Dava, Anushka Chkheidze, AudioSpace
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purpleflame/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purpleflame/)*

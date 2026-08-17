@@ -1,14 +1,13 @@
 # Birgit
 
-Birgit is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Birgits WEEKENDER" on Fri, 14 Aug 2026.
+Birgit is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Birgits WEEKENDER" on Fri, 21 Aug 2026.
 
-Birgit is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including AELVA K, Albin Brezlan, Daniel Schumann and Dirty Doering and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 3, 10997 Berlin.
+Birgit is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including AELVA K, Albin Brezlan, Daniel Schumann and Dirty Doering and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 3, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Birgits WEEKENDER | Konfusia, Kos:mo, RHAPSODIE, Sayuri (GER) |
 | Fri, 21 Aug 2026 | Birgits WEEKENDER | Gioski, LOUPING, Mabu, Predex, Till Antonio |
 | Fri, 28 Aug 2026 | Birgits WEEKENDER | Albin Brezlan, DJ Guess, Marty Mcfly, Rad.Lez |
 | Sat, 29 Aug 2026 | Pascale Voltaire & Friends - Open Air & Clubnight | AELVA K, Daniel Schumann, Dirty Doering, Florian François, Pascale Voltaire, Yves Meyer |
@@ -20,4 +19,4 @@ Birgit is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with 
 
 Schleusenufer 3, 10997 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/birgit/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/birgit/)*

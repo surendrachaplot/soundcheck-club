@@ -1,6 +1,6 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Green Room NYC, New York City on Fri, 21 Aug 2026.
+Stella Fiore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Green Room NYC, New York City on Fri, 21 Aug 2026.
 
 Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Boston and Bucharest and 16 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima (2). Next up: Green Room NYC, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Stella Fiore is a house and techno artist based in Germany, tracked on soundchec
 
 Ivan Iacobucci, Friendzone, Naima (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*

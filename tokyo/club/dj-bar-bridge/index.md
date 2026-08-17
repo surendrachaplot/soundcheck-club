@@ -1,6 +1,6 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 64 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "KANGO, Ohishi & KAI" on Mon, 17 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 64 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "KANGO, Ohishi & KAI" on Mon, 17 Aug 2026.
 
 DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 64 upcoming nights, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and KATIMI AI and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 64 upcoming nights
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

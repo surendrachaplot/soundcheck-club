@@ -1,18 +1,18 @@
 # Burnin' Vernon
 
-Burnin' Vernon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cherry Beach, Toronto on Sun, 16 Aug 2026.
+Burnin' Vernon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bsmt 254, Toronto on Thu, 20 Aug 2026.
 
-Burnin' Vernon is a techno and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Nour (CAN), Barroness and CRISTI:ANA. Next up: Cherry Beach, Toronto on Sun 16 Aug.
+Burnin' Vernon is a techno and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Nour (CAN), Barroness and CRISTI:ANA. Next up: Bsmt 254, Toronto on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Cherry Beach | Toronto |
 | Thu, 20 Aug 2026 | Bsmt 254 | Toronto |
 
 ## Recently played
 
+- Cherry Beach, Toronto — Sun, 16 Aug 2026
 - Motorista Studio, Toronto — Fri, 5 Jun 2026
 - The Piston, Toronto — Thu, 4 Dec 2025
 - Wiggle Room, Toronto — Fri, 18 Jul 2025
@@ -24,4 +24,4 @@ Burnin' Vernon is a techno and house artist based in Canada, tracked on soundche
 
 Nour (CAN), Barroness, CRISTI:ANA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burninvernon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burninvernon/)*

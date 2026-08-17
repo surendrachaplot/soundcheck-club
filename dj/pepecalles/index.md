@@ -1,6 +1,6 @@
 # Pepe Calles
 
-Pepe Calles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Oria After Dark, Toronto on Sat, 29 Aug 2026.
+Pepe Calles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Oria After Dark, Toronto on Sat, 29 Aug 2026.
 
 Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Martin Vora, Fauren and Nitin. Next up: Oria After Dark, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Martin Vora, Fauren, Nitin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*

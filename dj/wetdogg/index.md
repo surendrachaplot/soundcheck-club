@@ -1,6 +1,6 @@
 # wetdogg
 
-wetdogg is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+wetdogg is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 wetdogg is a techno and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit, Montreal and Newyorkcity. Often billed alongside Ryan Spencer, MGUN and Bileebob. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -27,4 +27,4 @@ wetdogg is a techno and experimental artist based in United States of America, t
 
 Ryan Spencer, MGUN, Bileebob
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*

@@ -1,8 +1,8 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 17 Aug 2026.
+Noxe Barcelona is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 17 Aug 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Drunk At Vogue, Gianmarco Limenta, GIVIO and Nesi and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Drunk At Vogue, Gianmarco Limenta, GIVIO and Nesi and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming ni
 | Wed, 26 Aug 2026 | Housy at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 | Thu, 27 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | Gianmarco Limenta, Nesi |
 | Mon, 31 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
+| Mon, 7 Sept 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 
 ## Address
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

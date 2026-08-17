@@ -1,6 +1,6 @@
 # Joeski
 
-Joeski is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
+Joeski is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Joeski is a house and afro house artist tracked on soundcheck, with 57 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Joeski, DJ Chus and Black Coffee. Next up: Hï Ibiza, Ibiza on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Joeski is a house and afro house artist tracked on soundcheck, with 57 sets logg
 
 DJ Joeski, DJ Chus, Black Coffee
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*

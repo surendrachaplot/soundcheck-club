@@ -1,6 +1,6 @@
 # Marisa Joyce
 
-Marisa Joyce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Marisa Joyce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
 Marisa Joyce is a techno and house artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Basel and Zurich. Often billed alongside Galopp, MARCISM and Dekerim. Next up: Hive Club, Zurich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Marisa Joyce is a techno and house artist based in Switzerland, tracked on sound
 
 Galopp, MARCISM, Dekerim
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*

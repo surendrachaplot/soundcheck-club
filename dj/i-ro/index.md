@@ -1,14 +1,13 @@
 # I-RO
 
-I-RO is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at export, Rotterdam on Sat, 15 Aug 2026.
+I-RO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
 
-I-RO is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Dusseldorf and 12 more. Often billed alongside Beste Hira, Thoms Traxx and Hitam. Next up: export, Rotterdam on Sat 15 Aug.
+I-RO is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Dusseldorf and 12 more. Often billed alongside Beste Hira, Thoms Traxx and Hitam. Next up: CLUB RAUM, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | export | Rotterdam |
 | Sat, 5 Sept 2026 | CLUB RAUM | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
@@ -29,4 +28,4 @@ I-RO is a techno and house artist tracked on soundcheck, with 77 sets logged acr
 
 Beste Hira, Thoms Traxx, Hitam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i-ro/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i-ro/)*

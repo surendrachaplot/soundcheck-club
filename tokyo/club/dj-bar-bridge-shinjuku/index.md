@@ -1,8 +1,8 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 53 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SuperUnKnown" on Mon, 17 Aug 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 54 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SuperUnKnown" on Mon, 17 Aug 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 53 upcoming nights, with line-ups including 7e, CHIDA, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 54 upcoming nights, with line-ups including 7e, CHIDA, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 53 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

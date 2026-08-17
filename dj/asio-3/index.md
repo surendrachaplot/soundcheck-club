@@ -1,6 +1,6 @@
 # asio (3)
 
-asio (3) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 21 Aug 2026.
+asio (3) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 21 Aug 2026.
 
 asio (3) is a house and tech house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Washingtondc. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Fri 21 Aug.
 
@@ -17,4 +17,4 @@ asio (3) is a house and tech house artist based in United States of America, tra
 - Danger Danger, New York City — Fri, 6 Feb 2026
 - Danger Danger, New York City — Fri, 16 Jan 2026
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asio-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asio-3/)*

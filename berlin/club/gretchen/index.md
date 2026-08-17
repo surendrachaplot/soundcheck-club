@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 39 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. KOOB, MAURA + KING OWUSU" on Thu, 20 Aug 2026.
+Gretchen is a music venue in Berlin with 39 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. KOOB, MAURA + KING OWUSU" on Thu, 20 Aug 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 39 upcoming nights, with line-ups including Acid Arab, Alley Cat, Allynx and Bel Cobain and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 39 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

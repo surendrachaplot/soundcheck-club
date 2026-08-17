@@ -1,6 +1,6 @@
 # Mad Shivers
 
-Mad Shivers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
+Mad Shivers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
 
 Mad Shivers is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Philippe Autuori, Josiane and Robert Owens. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mad Shivers is a house and deep house artist tracked on soundcheck, with 13 sets
 
 Philippe Autuori, Josiane, Robert Owens
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madshivers/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madshivers/)*

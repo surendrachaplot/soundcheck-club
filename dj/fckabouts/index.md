@@ -1,6 +1,6 @@
 # F*ckabouts
 
-F*ckabouts is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+F*ckabouts is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
 F*ckabouts is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Brands, Miggi and Rhiavas. Next up: 93 Feet East, London on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ F*ckabouts is a deep house and house artist based in United Kingdom, tracked on 
 
 Brands, Miggi, Rhiavas
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabouts/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabouts/)*

@@ -1,14 +1,13 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 15 Aug 2026.
+Mateo Dufour is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-Mateo Dufour is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Toman. Next up: Crobar - Buenos Aires, Buenosaires on Sat 15 Aug.
+Mateo Dufour is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Toman. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mateo Dufour is a house and tech house artist tracked on soundcheck, with 76 set
 
 ANOTR, Sven Vath, Toman
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

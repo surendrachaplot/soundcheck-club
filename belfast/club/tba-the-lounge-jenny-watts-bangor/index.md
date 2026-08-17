@@ -1,6 +1,6 @@
 # TBA - The Lounge, Jenny Watts, Bangor.
 
-TBA - The Lounge, Jenny Watts, Bangor. is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "FUTUR.SCAPE - Trance Music All Night" on Sat, 5 Sept 2026.
+TBA - The Lounge, Jenny Watts, Bangor. is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "FUTUR.SCAPE - Trance Music All Night" on Sat, 5 Sept 2026.
 
 TBA - The Lounge, Jenny Watts, Bangor. is a music venue in Belfast listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Lounge, Jenny Watts, Bangor. is a music venue in Belfast listed on sou
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | FUTUR.SCAPE - Trance Music All Night |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/tba-the-lounge-jenny-watts-bangor/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/tba-the-lounge-jenny-watts-bangor/)*

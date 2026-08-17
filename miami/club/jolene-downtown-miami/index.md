@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "RHR b2b Jonny From Space" on Thu, 20 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "RHR b2b Jonny From Space" on Thu, 20 Aug 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including Arapu, Archie Hamilton, Baby Jesus and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -23,4 +23,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

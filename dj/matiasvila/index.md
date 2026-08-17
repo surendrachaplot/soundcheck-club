@@ -1,6 +1,6 @@
 # Matias Vila
 
-Matias Vila is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 28 Aug 2026.
+Matias Vila is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Matias Vila is a progressive house artist based in Argentina, tracked on soundcheck, with 5 sets logged across Ibiza and Malaga. Often billed alongside Albano Bastonero, Mariano Mellino and Demattei. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Matias Vila is a progressive house artist based in Argentina, tracked on soundch
 
 Albano Bastonero, Mariano Mellino, Demattei
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasvila/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasvila/)*

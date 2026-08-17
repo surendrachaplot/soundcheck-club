@@ -1,16 +1,16 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "KEIN GRUND ZUR VERNUNFT: IT'S ALL ABOUT HOUSE X Bephål" on Sat, 15 Aug 2026.
+Distillery is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "5 YEARS OF Proper Pull" on Fri, 21 Aug 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, with line-ups including Alexia (2), ali e., Bephål and boris (creme club) and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, with line-ups including Alexia (2), ali e., boris (creme club) and Carlotta Jacobi and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | KEIN GRUND ZUR VERNUNFT: IT'S ALL ABOUT HOUSE X Bephål | Bephål, Cleo SNK, Die Ruhe, Filburt, Greata, Mystigrix, NICI PALM, Napoleon Dynamite, Ostbam |
 | Fri, 21 Aug 2026 | 5 YEARS OF Proper Pull |  |
 | Sat, 22 Aug 2026 | NA ENDLICH | Daniel Stefanik, Danilo Kupfernagel, KIMYA, LEENI, Malena (2), Mathias Kaden |
+| Sun, 23 Aug 2026 | PROGRESSIVE SUNDAY | Emeveka, Skoria |
 | Fri, 28 Aug 2026 | RUDE UNDERGROUND |  |
 | Sat, 29 Aug 2026 | KEINKOLLEKTIV X NEW KIDS |  |
 | Sat, 5 Sept 2026 | Crème GRDN + Afterhour | Alexia (2), Carlotta Jacobi, DJ Pipe, Davy (Crème Club), Felix Lücke, Lulu & Nell, Vincent Neumann, ali e., boris (creme club), foxloe |
@@ -22,4 +22,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, 
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

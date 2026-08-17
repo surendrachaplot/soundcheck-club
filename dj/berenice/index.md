@@ -1,6 +1,6 @@
 # Berenice
 
-Berenice is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Berenice is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Berenice is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside ISAbella, JOVENDELAPERLA and Mama Yha Yha. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Berenice is a techno and house artist tracked on soundcheck, with 54 sets logged
 
 ISAbella, JOVENDELAPERLA, Mama Yha Yha
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berenice/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berenice/)*

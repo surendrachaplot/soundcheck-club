@@ -1,6 +1,6 @@
 # Swagchief
 
-Swagchief is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
+Swagchief is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
 
 Swagchief is a trance and techno artist tracked on soundcheck, with 6 sets logged across Basel. Often billed alongside DJ Glentan, Aiden (DE) and DJ WASSERFALL. Next up: Bredella Village, Basel on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Swagchief is a trance and techno artist tracked on soundcheck, with 6 sets logge
 
 DJ Glentan, Aiden (DE), DJ WASSERFALL
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagchief/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagchief/)*

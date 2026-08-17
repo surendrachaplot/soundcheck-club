@@ -1,6 +1,6 @@
 # Submerse
 
-Submerse is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Submerse is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Submerse is a jungle and club artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Stupid Kozo, Yamaneko and MileZ. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Submerse is a jungle and club artist based in United Kingdom, tracked on soundch
 
 Stupid Kozo, Yamaneko, MileZ
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*

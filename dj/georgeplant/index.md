@@ -1,6 +1,6 @@
 # George Plant
 
-George Plant is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
+George Plant is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
 
 George Plant is a house and techno artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Colin Dale, HARUNA (2) and JOE AKA. Next up: The Ministry, London on Sun 4 Oct.
 
@@ -21,4 +21,4 @@ George Plant is a house and techno artist tracked on soundcheck, with 5 sets log
 
 Colin Dale, HARUNA (2), JOE AKA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeplant/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeplant/)*

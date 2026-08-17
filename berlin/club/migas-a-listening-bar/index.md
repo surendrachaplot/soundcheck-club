@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Stanislav Tolkachev plays at migas" on Thu, 20 Aug 2026.
+migas, a listening bar is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Stanislav Tolkachev plays at migas" on Thu, 20 Aug 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including eric.a, Llupe and Stanislav Tolkachev. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -18,4 +18,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 5 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

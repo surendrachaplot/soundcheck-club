@@ -1,6 +1,6 @@
 # The Drake Hotel
 
-The Drake Hotel is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "TORONTO, I NEED YOU (Open Air)" on Sun, 23 Aug 2026.
+The Drake Hotel is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TORONTO, I NEED YOU (Open Air)" on Sun, 23 Aug 2026.
 
 The Drake Hotel is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Anaïs, Elozyz and SZETO. Browse upcoming dates, start times and who's playing. 1150 Queen Street West; Toronto, ON M6J 1J3; Canada.
 
@@ -15,4 +15,4 @@ The Drake Hotel is a music venue in Toronto listed on soundcheck. 2 upcoming nig
 
 1150 Queen Street West; Toronto, ON M6J 1J3; Canada, Toronto
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*

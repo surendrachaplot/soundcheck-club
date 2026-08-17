@@ -1,8 +1,8 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+DJ Sneak is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
 
-DJ Sneak is a house and deep house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Dan and DJ Heather. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 5 Sept.
+DJ Sneak is a house and deep house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Heather and DJ Dan. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 74 sets lo
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sun, 6 Sept 2026 | smartbar | Chicago |
+| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 74 sets lo
 
 ## Shares bills with
 
-Doc Martin, DJ Dan, DJ Heather
+Doc Martin, DJ Heather, DJ Dan
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*

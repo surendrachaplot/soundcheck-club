@@ -1,6 +1,6 @@
 # Mr. Noisy
 
-Mr. Noisy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Charlatan, Ghent on Fri, 21 Aug 2026.
+Mr. Noisy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Charlatan, Ghent on Fri, 21 Aug 2026.
 
 Mr. Noisy is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ghent. Often billed alongside Carlamote. Next up: Charlatan, Ghent on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Mr. Noisy is an electronic artist based in United Kingdom, tracked on soundcheck
 
 Carlamote
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.noisy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.noisy/)*

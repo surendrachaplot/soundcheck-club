@@ -1,6 +1,6 @@
 # LYNE
 
-LYNE is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+LYNE is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 LYNE is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Cologne. Often billed alongside Gourski, DELTA LABS and Enaly. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ LYNE is a drum & bass and techno artist based in Germany, tracked on soundcheck,
 
 Gourski, DELTA LABS, Enaly
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyne/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyne/)*

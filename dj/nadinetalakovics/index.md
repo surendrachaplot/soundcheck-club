@@ -1,14 +1,13 @@
 # Nadine Talakovics
 
-Nadine Talakovics is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
+Nadine Talakovics is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
 
-Nadine Talakovics is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside fr. JPLA, Kikimike and s.ra. Next up: TBA - secret venue [ask your local network], Leipzig on Sat 15 Aug.
+Nadine Talakovics is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside fr. JPLA, Kikimike and s.ra. Next up: OXI, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - secret venue [ask your local network] | Leipzig |
 | Thu, 10 Sept 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Nadine Talakovics is a techno and house artist based in Germany, tracked on soun
 
 fr. JPLA, Kikimike, s.ra
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinetalakovics/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinetalakovics/)*

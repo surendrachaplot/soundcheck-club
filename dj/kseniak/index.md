@@ -1,14 +1,13 @@
 # Ksenia K
 
-Ksenia K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Sat, 15 Aug 2026.
+Ksenia K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
-Ksenia K is a house and techno artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Annyrock, DJ Zurückbleiben Bitte and Mike Trofimov. Next up: ÆDEN, Berlin on Sat 15 Aug.
+Ksenia K is a house and techno artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Annyrock, DJ Zurückbleiben Bitte and Mike Trofimov. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | ÆDEN | Berlin |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ksenia K is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Annyrock, DJ Zurückbleiben Bitte, Mike Trofimov
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniak/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniak/)*

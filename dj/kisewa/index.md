@@ -1,14 +1,15 @@
 # KISEWA
 
-KISEWA is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cakeshop, Seoul on Sat, 22 Aug 2026.
+KISEWA is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cakeshop, Seoul on Sat, 22 Aug 2026.
 
-KISEWA is a club and bass artist tracked on soundcheck, with 103 sets logged across Bali, Seoul and Tokyo. Often billed alongside NET GALA, T.T.E and dayoung. Next up: Cakeshop, Seoul on Sat 22 Aug.
+KISEWA is a club and bass artist tracked on soundcheck, with 104 sets logged across Bali, Seoul and Tokyo. Often billed alongside NET GALA, T.T.E and dayoung. Next up: Cakeshop, Seoul on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Cakeshop | Seoul |
+| Tue, 1 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KISEWA is a club and bass artist tracked on soundcheck, with 103 sets logged acr
 
 NET GALA, T.T.E, dayoung
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*

@@ -1,14 +1,15 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Carl Stone is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-Carl Stone is an experimental and ambient artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Kyoto and London and 9 more. Often billed alongside Crystallmess, A. G. Cook and Aire. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Carl Stone is an experimental and ambient artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Denver and Kyoto and 10 more. Often billed alongside Crystallmess, A. G. Cook and Aire. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
+| Wed, 14 Oct 2026 | Glob | Denver |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Carl Stone is an experimental and ambient artist tracked on soundcheck, with 21 
 
 Crystallmess, A. G. Cook, Aire
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*

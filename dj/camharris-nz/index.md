@@ -1,6 +1,6 @@
 # Cam Harris
 
-Cam Harris is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Il Brutto Auckland, Auckland on Fri, 28 Aug 2026.
+Cam Harris is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Il Brutto Auckland, Auckland on Fri, 28 Aug 2026.
 
 Cam Harris is a techno and house artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Auckland. Often billed alongside Mia Kober, Oliver Huntemann and Out Of Sorts. Next up: Il Brutto Auckland, Auckland on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Cam Harris is a techno and house artist based in New Zealand, tracked on soundch
 
 Mia Kober, Oliver Huntemann, Out Of Sorts
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*

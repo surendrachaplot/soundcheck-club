@@ -1,8 +1,8 @@
 # MAURER
 
-MAURER is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+MAURER is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
-MAURER is a techno and electronica artist based in Spain, tracked on soundcheck, with 25 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 2 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: ÆDEN, Berlin on Sat 22 Aug.
+MAURER is a techno and electronica artist based in Spain, tracked on soundcheck, with 26 sets logged across Berlin, Buenosaires, Cologne and Frankfurt and 3 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MAURER is a techno and electronica artist based in Spain, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
 | Sat, 5 Sept 2026 | Specka | Madrid |
+| Sat, 14 Nov 2026 | MTW | Frankfurt |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MAURER is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 VOICEX, FILTRACK, PØVE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*

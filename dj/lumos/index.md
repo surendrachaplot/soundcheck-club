@@ -1,6 +1,6 @@
 # Lumos
 
-Lumos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Lumos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Lumos is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Hashashin, Rosati and Akua. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Lumos is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 Hashashin, Rosati, Akua
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*

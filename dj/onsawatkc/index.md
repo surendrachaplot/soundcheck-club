@@ -1,6 +1,6 @@
 # Onsawa&tkc
 
-Onsawa&tkc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
+Onsawa&tkc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
 
 Onsawa&tkc is a house and techno artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside Anri, Ayantula and Curses. Next up: VENT, Tokyo on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Onsawa&tkc is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Anri, Ayantula, Curses
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*

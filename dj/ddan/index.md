@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+D.Dan is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Lofi, Amsterdam on Sat 15 Aug.
+D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 28 Aug 2026 | Karmakoma | Belgrade |
 | Fri, 4 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -20,6 +19,7 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
 | Sun, 11 Oct 2026 | VENT | Tokyo |
+| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

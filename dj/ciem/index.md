@@ -1,6 +1,6 @@
 # CIem
 
-CIem is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
+CIem is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
 
 CIem is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside Sweeney, Sally Swan and Jardine. Next up: Ratpack Piano Bar, Edinburgh on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ CIem is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Sweeney, Sally Swan, Jardine
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciem/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciem/)*

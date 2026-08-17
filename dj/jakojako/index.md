@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+JakoJako is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Lofi, Amsterdam on Sat 15 Aug.
+JakoJako is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Fri, 28 Aug 2026 | MTELUS | Montreal |
 | Sat, 5 Sept 2026 | SMUT Athens | Athens |
@@ -33,4 +32,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 159 sets logge
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

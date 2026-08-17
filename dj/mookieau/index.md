@@ -1,6 +1,6 @@
 # Mookie (AU)
 
-Mookie (AU) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Mookie (AU) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 Mookie (AU) is a techno and acid artist based in Australia, tracked on soundcheck, with 9 sets logged across Berlin, Nurnberg, Sydney and Tallinn. Often billed alongside Vic Zee, LeStrange and Nastya Dikikh. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mookie (AU) is a techno and acid artist based in Australia, tracked on soundchec
 
 Vic Zee, LeStrange, Nastya Dikikh
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mookieau/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mookieau/)*

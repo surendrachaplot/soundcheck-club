@@ -1,6 +1,6 @@
 # CUERVA
 
-CUERVA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Château Moderne, Brussels on Fri, 21 Aug 2026.
+CUERVA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Château Moderne, Brussels on Fri, 21 Aug 2026.
 
 CUERVA is a techno and trance artist tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside Alada, Insolence and Joliiah. Next up: Château Moderne, Brussels on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ CUERVA is a techno and trance artist tracked on soundcheck, with 2 sets logged a
 
 Alada, Insolence, Joliiah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerva/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerva/)*

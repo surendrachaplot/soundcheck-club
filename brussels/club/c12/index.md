@@ -1,14 +1,13 @@
 # C12
 
-C12 is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "C12 Nite with Sandrien, BORED BOUDDHA, Amalie & Hank" on Sat, 15 Aug 2026.
+C12 is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "C12 Nite with Paramida, Kathleen C, Softy" on Sat, 22 Aug 2026.
 
-C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Alma Negrot and Amalie and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
+C12 is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Alma Negrot and Answer Code Request and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | C12 Nite with Sandrien, BORED BOUDDHA, Amalie & Hank | Amalie, BORED BOUDDHA, Hank (US), Sandrien |
 | Sat, 22 Aug 2026 | C12 Nite with Paramida, Kathleen C, Softy |  |
 | Sat, 22 Aug 2026 | Queer Future Club x C12 | Alma Negrot, Azo |
 | Fri, 4 Sept 2026 | 2 Rooms, 2 Temperatures - C12 x 10SET |  |
@@ -21,4 +20,4 @@ C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

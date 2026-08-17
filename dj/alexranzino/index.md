@@ -1,6 +1,6 @@
 # Alex Ranzino
 
-Alex Ranzino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Alex Ranzino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Alex Ranzino is a techno and house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, Berkan V8 and Mila Black. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alex Ranzino is a techno and house artist based in Netherlands, tracked on sound
 
 Bastienne, Berkan V8, Mila Black
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexranzino/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexranzino/)*

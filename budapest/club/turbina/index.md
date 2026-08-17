@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "KRave with Loukia [AUS] - Nagyterem" on Sat, 22 Aug 2026.
+Turbina is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "KRave with Loukia [AUS] - Nagyterem" on Sat, 22 Aug 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Akác, Arash Ete, Charry and CRB and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -17,4 +17,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 4 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

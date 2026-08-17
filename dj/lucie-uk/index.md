@@ -1,6 +1,6 @@
 # Lucie (UK)
 
-Lucie (UK) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
+Lucie (UK) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
 
 Lucie (UK) is a techno and idm artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Leo Gosh, Sydney (SP) and Uggo. Next up: Club Cheek, London on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Lucie (UK) is a techno and idm artist tracked on soundcheck, with 4 sets logged 
 
 Leo Gosh, Sydney (SP), Uggo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucie-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucie-uk/)*

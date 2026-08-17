@@ -1,6 +1,6 @@
 # Norm Talley
 
-Norm Talley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at public records, New York City on Sat, 29 Aug 2026.
+Norm Talley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at public records, New York City on Sat, 29 Aug 2026.
 
 Norm Talley is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Detroit and Newyorkcity. Often billed alongside Delano Smith, Mike Agent X Clark and Eddie Fowlkes. Next up: public records, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Norm Talley is a house and techno artist based in United States of America, trac
 
 Delano Smith, Mike Agent X Clark, Eddie Fowlkes
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*

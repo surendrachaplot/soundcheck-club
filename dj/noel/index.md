@@ -1,6 +1,6 @@
 # NOËL
 
-NOËL is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
+NOËL is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
 
 NOËL is a bass and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside SAKO, sanguinica and Bossy Doll Bina. Next up: ZEROTOKYO, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ NOËL is a bass and techno artist tracked on soundcheck, with 14 sets logged acr
 
 SAKO, sanguinica, Bossy Doll Bina
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noel/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noel/)*

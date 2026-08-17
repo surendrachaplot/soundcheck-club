@@ -1,6 +1,6 @@
 # Doppelganger
 
-Doppelganger is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
+Doppelganger is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
 
 Doppelganger is a techno and trance artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Drazzit, Fillo Deportaberta and SANTANA. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Doppelganger is a techno and trance artist based in Spain, tracked on soundcheck
 
 Drazzit, Fillo Deportaberta, SANTANA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelganger-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelganger-uk/)*

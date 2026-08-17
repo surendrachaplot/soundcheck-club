@@ -1,6 +1,6 @@
 # mrs. worldwide
 
-mrs. worldwide is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
+mrs. worldwide is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 mrs. worldwide is a club and house artist tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside ZZ (4), jmo corleone and DJ Audit. Next up: Club Six, Sanfrancisco on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ mrs. worldwide is a club and house artist tracked on soundcheck, with 4 sets log
 
 ZZ (4), jmo corleone, DJ Audit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrs.worldwide/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrs.worldwide/)*

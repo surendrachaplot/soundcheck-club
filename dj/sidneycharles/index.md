@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
@@ -23,6 +23,7 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 212 
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Son Fusteret, Mallorca — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 212 
 - Luz De Gas, Barcelona — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
 - Mint Warehouse, Leeds — Sat, 18 Jul 2026
-- Luz De Gas, Barcelona — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Prunk, ALISHA, L.P. Rhythm
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

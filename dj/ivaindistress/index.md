@@ -1,6 +1,6 @@
 # ivaindistress
 
-ivaindistress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
+ivaindistress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
 
 ivaindistress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Rainbow Tutu, BABEITSPURR and BEYBLADE SHAWTY. Next up: TBA - Bushwick (Halsey J), DM a DJ or host for address, Newyorkcity on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ ivaindistress is a club and ghetto tech artist based in United States of America
 
 Rainbow Tutu, BABEITSPURR, BEYBLADE SHAWTY
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaindistress/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaindistress/)*

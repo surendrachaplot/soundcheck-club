@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
+Phil Berg is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
 
 Phil Berg is a techno and club artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Fridas Pier, Stuttgart on Fri 21 Aug.
 
@@ -33,4 +33,4 @@ Phil Berg is a techno and club artist tracked on soundcheck, with 141 sets logge
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

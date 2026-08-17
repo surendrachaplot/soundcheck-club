@@ -1,6 +1,6 @@
 # Christian Nielsen
 
-Christian Nielsen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
+Christian Nielsen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
 
 Christian Nielsen is a house and techno artist based in Denmark, tracked on soundcheck, with 17 sets logged across Amsterdam, Copenhagen, Ibiza and Toronto. Often billed alongside Miss Monique, Midele and Raxon. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Christian Nielsen is a house and techno artist based in Denmark, tracked on soun
 
 Miss Monique, Midele, Raxon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiannielsen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiannielsen/)*

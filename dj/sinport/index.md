@@ -1,8 +1,8 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Zapfhahn In & Outdoor, Nürnberg on Fri, 21 Aug 2026.
+Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Zapfhahn In & Outdoor, Nürnberg on Fri, 21 Aug 2026.
 
-Sin:port is a techno and house artist tracked on soundcheck, with 128 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Zapfhahn In & Outdoor, Nurnberg on Fri 21 Aug.
+Sin:port is a techno and house artist tracked on soundcheck, with 129 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Zapfhahn In & Outdoor, Nurnberg on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sin:port is a techno and house artist tracked on soundcheck, with 128 sets logge
 | Sat, 12 Sept 2026 | Ritter Butzke | Berlin |
 | Fri, 18 Sept 2026 | Kater | Berlin |
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
+| Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Sin:port is a techno and house artist tracked on soundcheck, with 128 sets logge
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

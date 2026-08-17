@@ -1,18 +1,17 @@
 # Tall Ship
 
-Tall Ship is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Bachata Brunch Club x LA EXPERIENCIA LATINA: Sisko's Sunset Festival" on Sun, 16 Aug 2026.
+Tall Ship is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Labor Day White Party" on Mon, 7 Sept 2026.
 
-Tall Ship is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1 E Pier Dr, Boston, MA 02128.
+Tall Ship is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 E Pier Dr, Boston, MA 02128.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Bachata Brunch Club x LA EXPERIENCIA LATINA: Sisko's Sunset Festival |  |
 | Mon, 7 Sept 2026 | Labor Day White Party |  |
 
 ## Address
 
 1 E Pier Dr, Boston, MA 02128, Boston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tall-ship/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tall-ship/)*

@@ -1,6 +1,6 @@
 # Optimuss
 
-Optimuss is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+Optimuss is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
 Optimuss is an industrial and techno artist based in Russia, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Budapest and Madrid. Often billed alongside D|K|OXY, VRODAK and 5ogol. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Optimuss is an industrial and techno artist based in Russia, tracked on soundche
 
 D|K|OXY, VRODAK, 5ogol
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*

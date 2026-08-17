@@ -1,6 +1,6 @@
 # Siegfried Plemo
 
-Siegfried Plemo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 28 Aug 2026.
+Siegfried Plemo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 28 Aug 2026.
 
 Siegfried Plemo is a club and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Etiennette, Frida Carlos and Jasper Kråch. Next up: Bulbul Berlin, Berlin on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Siegfried Plemo is a club and house artist based in Germany, tracked on soundche
 
 Etiennette, Frida Carlos, Jasper Kråch
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siegfriedplemo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siegfriedplemo/)*

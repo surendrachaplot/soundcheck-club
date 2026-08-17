@@ -1,6 +1,6 @@
 # Fionn Curran
 
-Fionn Curran is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
+Fionn Curran is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
 
 Fionn Curran is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Amsterdam, Belfast, Birmingham and Brisbane and 11 more. Often billed alongside Black Traffic, DATSKO and Jason Cluff. Next up: The Telegraph Building, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Fionn Curran is a techno and hardcore artist tracked on soundcheck, with 34 sets
 
 Black Traffic, DATSKO, Jason Cluff
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fionncurran/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fionncurran/)*

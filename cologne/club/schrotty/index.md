@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "HYPER DREAMS mit Miss Bashful M¥SS KETA SHOKI287 u.v.m. Club" on Fri, 28 Aug 2026.
+Schrotty is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "HYPER DREAMS mit Miss Bashful M¥SS KETA SHOKI287 u.v.m. Club" on Fri, 28 Aug 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Anna Reusch and Anuuk and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -21,4 +21,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 8 upcoming nights, wi
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

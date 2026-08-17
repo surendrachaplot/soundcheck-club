@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "KC [DJ Godfather • Lisa More • C.K • Kelly Placard • Timeless Rhythms]" on Sat, 15 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "FLASHBALL [Beignet, Yume]" on Thu, 20 Aug 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | KC [DJ Godfather • Lisa More • C.K • Kelly Placard • Timeless Rhythms] | C.K, DJ Godfather, Kelly Placard, Lisa More, Timeless Rhythms |
 | Thu, 20 Aug 2026 | FLASHBALL [Beignet, Yume] | Beignet |
 | Fri, 21 Aug 2026 | SOUND OF KARMEN [Bambounou (3Hs30 set), James Djinn] | Bambounou |
 | Sat, 22 Aug 2026 | KC [Arlanoa • Carla Schmitt • Mars O10C • Nass • 7seconds] | Arlanoa, Carla Schmitt, Mars O10C |
@@ -23,4 +22,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming n
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

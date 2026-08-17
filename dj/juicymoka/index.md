@@ -1,6 +1,6 @@
 # JUICYMOKA
 
-JUICYMOKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Le Scandale, Geneva on Sat, 29 Aug 2026.
+JUICYMOKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Le Scandale, Geneva on Sat, 29 Aug 2026.
 
 JUICYMOKA is a techno and hardcore artist based in France, tracked on soundcheck, with 9 sets logged across Berlin, Geneva and Paris. Often billed alongside ALL1SØN, Charlotte Lion and Kalimanda. Next up: Le Scandale, Geneva on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JUICYMOKA is a techno and hardcore artist based in France, tracked on soundcheck
 
 ALL1SØN, Charlotte Lion, Kalimanda
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*

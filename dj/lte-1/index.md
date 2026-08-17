@@ -1,6 +1,6 @@
 # LTE (1)
 
-LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
 
 LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ LTE (1) is a techno and experimental artist based in United States of America, t
 
 Jalpari, Alex Hell-n, Petal
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*

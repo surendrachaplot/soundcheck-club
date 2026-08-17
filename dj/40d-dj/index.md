@@ -1,6 +1,6 @@
 # 40D (Dj)
 
-40D (Dj) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
+40D (Dj) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
 
 40D (Dj) is a deep house and house artist based in Mozambique, tracked on soundcheck, with 7 sets logged across Lisbon, London and Porto. Often billed alongside AfroKillerz, Boddhi Satva and DJ IC. Next up: Onyx (E1), London on Fri 11 Sept.
 
@@ -23,4 +23,4 @@
 
 AfroKillerz, Boddhi Satva, DJ IC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*

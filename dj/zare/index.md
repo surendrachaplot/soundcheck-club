@@ -1,6 +1,6 @@
 # ZARE
 
-ZARE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
+ZARE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
 
 ZARE is a house and tech house artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Lieberscholli, Munich on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ZARE is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 Black Box, Unseen., Papi Joe
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zare/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zare/)*

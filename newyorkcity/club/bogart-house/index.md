@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "CvnTea: An Afternoon Soirée…for C*nts [rooftop]" on Sat, 22 Aug 2026.
+Bogart House is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CvnTea: An Afternoon Soirée…for C*nts [rooftop]" on Sat, 22 Aug 2026.
 
 Bogart House is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Ben Wild, Lucía Beyond, Thee Aries and Tube (2). Browse upcoming dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -15,4 +15,4 @@ Bogart House is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

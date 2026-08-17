@@ -1,6 +1,6 @@
 # Generous B
 
-Generous B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Generous B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Generous B is a house and disco artist tracked on soundcheck, with 22 sets logged across Miami. Often billed alongside Souls Departed, Cole Knight and JOVIGIBS. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Generous B is a house and disco artist tracked on soundcheck, with 22 sets logge
 
 Souls Departed, Cole Knight, JOVIGIBS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*

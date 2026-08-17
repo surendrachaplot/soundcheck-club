@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Z:oali" on Tue, 18 Aug 2026.
+Lilli Escher is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Z:oali" on Tue, 18 Aug 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Newinfluenzer. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 2 upcoming nights
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

@@ -1,6 +1,6 @@
 # Nookie (UK)
 
-Nookie (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
+Nookie (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
 
 Nookie (UK) is a jungle and drum & bass artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Birmingham and Boston and 10 more. Often billed alongside Ray Keith, Madcap and Subject 13. Next up: Hidden, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nookie (UK) is a jungle and drum & bass artist tracked on soundcheck, with 48 se
 
 Ray Keith, Madcap, Subject 13
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nookie-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nookie-uk/)*

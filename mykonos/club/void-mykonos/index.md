@@ -1,18 +1,17 @@
 # Void Mykonos
 
-Void Mykonos is a music venue in Mykonos with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Alex Monopoly | Diego San Deigo" on Sat, 15 Aug 2026.
+Void Mykonos is a music venue in Mykonos with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mahmut Orhan | Rami" on Sun, 16 Aug 2026.
 
-Void Mykonos is a music venue in Mykonos listed on soundcheck. 2 upcoming nights, with line-ups including Mahmut Orhan and Rami. Browse upcoming dates, start times and who's playing. Lakka, Mikonos 846 00, Greece.
+Void Mykonos is a music venue in Mykonos listed on soundcheck. 1 upcoming night, with line-ups including Mahmut Orhan and Rami. Browse upcoming dates, start times and who's playing. Lakka, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Alex Monopoly / Diego San Deigo |  |
 | Sun, 16 Aug 2026 | Mahmut Orhan / Rami | Mahmut Orhan, Rami |
 
 ## Address
 
 Lakka, Mikonos 846 00, Greece, Mykonos
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/void-mykonos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/void-mykonos/)*

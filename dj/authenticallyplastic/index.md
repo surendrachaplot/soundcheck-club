@@ -1,6 +1,6 @@
 # Authentically Plastic
 
-Authentically Plastic is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Authentically Plastic is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 Authentically Plastic is a techno and club artist based in Uganda, tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Berlin and Brussels and 18 more. Often billed alongside Nsasi, Soft Break and Turkana. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Authentically Plastic is a techno and club artist based in Uganda, tracked on so
 
 Nsasi, Soft Break, Turkana
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*

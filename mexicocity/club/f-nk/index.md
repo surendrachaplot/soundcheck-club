@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Dyed Soundorom + Soul Of Hex" on Sat, 15 Aug 2026.
+Fünk is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Ssensorial x Fünk" on Thu, 20 Aug 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Alejandro Veneno, Alonso Rivero, Andy Woldman and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Alejandro Veneno, Alonso Rivero, Andy Woldman and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Dyed Soundorom + Soul Of Hex | Dyed Soundorom, Soul Of Hex |
 | Thu, 20 Aug 2026 | Ssensorial x Fünk | Erika Mena, Gohtobi, Niño Arbol, Vargas |
 | Fri, 21 Aug 2026 | Dance Your Name 13 años: Fina b2b Young Drums (All Night Long) | Fina, Young Drums |
 | Sat, 22 Aug 2026 | West Side Project x Fünk | Andy Woldman, Ëlorian |
@@ -22,4 +21,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

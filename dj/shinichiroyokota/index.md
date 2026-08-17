@@ -1,6 +1,6 @@
 # Shinichiro Yokota
 
-Shinichiro Yokota is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The A.I.R Building, Tokyo on Fri, 28 Aug 2026.
+Shinichiro Yokota is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The A.I.R Building, Tokyo on Fri, 28 Aug 2026.
 
 Shinichiro Yokota is a house and techno artist based in Japan, tracked on soundcheck, with 13 sets logged across Osaka and Tokyo. Often billed alongside Guchon, HONEY B and Licaxxx. Next up: The A.I.R Building, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Shinichiro Yokota is a house and techno artist based in Japan, tracked on soundc
 
 Guchon, HONEY B, Licaxxx
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinichiroyokota/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinichiroyokota/)*

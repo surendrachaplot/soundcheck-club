@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Gimme Signal" on Fri, 28 Aug 2026.
+The Haggerston is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Gimme Signal" on Fri, 28 Aug 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including DIGITALSAINT, KATALYSSST, Kim Öhman and LISAKEEKS and 1 more. Browse upcoming dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -16,4 +16,4 @@ The Haggerston is a music venue in London listed on soundcheck. 3 upcoming night
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

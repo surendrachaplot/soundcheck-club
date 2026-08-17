@@ -1,6 +1,6 @@
 # Finn Nelson
 
-Finn Nelson is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
+Finn Nelson is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
 
 Finn Nelson is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Manchester. Often billed alongside Earth2Sam, Cut the Rug and Nick & Nath. Next up: Honey Street Studio, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Finn Nelson is a house and garage artist based in United Kingdom, tracked on sou
 
 Earth2Sam, Cut the Rug, Nick & Nath
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*

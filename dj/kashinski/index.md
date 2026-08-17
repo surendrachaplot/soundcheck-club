@@ -1,6 +1,6 @@
 # Kashinski
 
-Kashinski is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at MS Rheinland, Cologne on Sat, 22 Aug 2026.
+Kashinski is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at MS Rheinland, Cologne on Sat, 22 Aug 2026.
 
 Kashinski is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Cologne. Often billed alongside Dj Bowlz, andré wiese and Just a Name. Next up: MS Rheinland, Cologne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kashinski is a techno and tech house artist tracked on soundcheck, with 9 sets l
 
 Dj Bowlz, andré wiese, Just a Name
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashinski/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashinski/)*

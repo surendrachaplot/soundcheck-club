@@ -1,6 +1,6 @@
 # Killjoy
 
-Killjoy is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 29 Aug 2026.
+Killjoy is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 29 Aug 2026.
 
 Killjoy is a garage and jungle artist tracked on soundcheck, with 25 sets logged across Ghent, Kyoto, London and Manchester and 5 more. Often billed alongside Mincy, Tuff Trax and Genick. Next up: Sub Club Melbourne, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Killjoy is a garage and jungle artist tracked on soundcheck, with 25 sets logged
 
 Mincy, Tuff Trax, Genick
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killjoy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killjoy/)*

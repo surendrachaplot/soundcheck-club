@@ -1,6 +1,6 @@
 # TBA - 6910 Shirley Avenue 
 
-TBA - 6910 Shirley Avenue  is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Might Be Magic presents: CHKLTE - Extended Set" on Sat, 22 Aug 2026.
+TBA - 6910 Shirley Avenue  is a music venue in Austin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Might Be Magic presents: CHKLTE - Extended Set" on Sat, 22 Aug 2026.
 
 TBA - 6910 Shirley Avenue  is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Brett Johnson and CHKLTE. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 6910 Shirley Avenue  is a music venue in Austin listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Might Be Magic presents: CHKLTE - Extended Set | Brett Johnson, CHKLTE |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley-avenue/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley-avenue/)*

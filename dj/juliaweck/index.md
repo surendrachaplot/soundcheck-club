@@ -1,6 +1,6 @@
 # Julia Weck
 
-Julia Weck is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 29 Aug 2026.
+Julia Weck is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 29 Aug 2026.
 
 Julia Weck is a disco and house artist tracked on soundcheck, with 13 sets logged across Berlin, Lisbon, Paris and Saopaulo. Often billed alongside Giu Viscardi, Benjamin Ferreira and Vermelho. Next up: Caracol Bar, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Julia Weck is a disco and house artist tracked on soundcheck, with 13 sets logge
 
 Giu Viscardi, Benjamin Ferreira, Vermelho
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*

@@ -1,6 +1,6 @@
 # Popper Cherry
 
-Popper Cherry is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Electrowerkz, London on Sat, 22 Aug 2026.
+Popper Cherry is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Electrowerkz, London on Sat, 22 Aug 2026.
 
 Popper Cherry is a trance and house artist tracked on soundcheck, with 13 sets logged across Belfast, Dublin, Glasgow and London. Often billed alongside Katiee.eem, T4T B2B and Dr. Berry. Next up: Electrowerkz, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Popper Cherry is a trance and house artist tracked on soundcheck, with 13 sets l
 
 Katiee.eem, T4T B2B, Dr. Berry
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poppercherry/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poppercherry/)*

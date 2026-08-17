@@ -1,8 +1,8 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Miss Bashful is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Miss Bashful is a techno and trance artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Miss Bashful is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Miss Bashful is a techno and trance artist tracked on soundcheck, with 94 sets l
 | Fri, 28 Aug 2026 | Schrotty | Cologne |
 | Sat, 29 Aug 2026 | Club Phoenix - Gianpula Village | Malta |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | La Machine Du Moulin Rouge | Paris |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Miss Bashful is a techno and trance artist tracked on soundcheck, with 94 sets l
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

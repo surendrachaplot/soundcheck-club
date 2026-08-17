@@ -1,6 +1,6 @@
 # Groove P
 
-Groove P is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
+Groove P is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
 
 Groove P is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Damian Wilson, David Penn and Jaegerossa. Next up: fabric, London on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ Groove P is an electronic artist based in United Kingdom, tracked on soundcheck,
 
 Damian Wilson, David Penn, Jaegerossa
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovep/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovep/)*

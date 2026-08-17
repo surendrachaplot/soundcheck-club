@@ -1,6 +1,6 @@
 # Balkhausen
 
-Balkhausen is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Tue, 18 Aug 2026.
+Balkhausen is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Tue, 18 Aug 2026.
 
 Balkhausen is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin. Often billed alongside alemiko, Limoncello and ZOEVITA. Next up: ://about blank, Berlin on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ Balkhausen is a techno and trance artist based in Germany, tracked on soundcheck
 
 alemiko, Limoncello, ZOEVITA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*

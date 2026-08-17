@@ -1,6 +1,6 @@
 # Stoac
 
-Stoac is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Stoac is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 Stoac is a techno and progressive house artist tracked on soundcheck, with 12 sets logged across Amsterdam and Rotterdam. Often billed alongside Maarten Spoor, Rakontur and Cyantist. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Stoac is a techno and progressive house artist tracked on soundcheck, with 12 se
 
 Maarten Spoor, Rakontur, Cyantist
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoac/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoac/)*

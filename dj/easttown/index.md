@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
+Easttown is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
 
 Easttown is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 97 sets lo
 
 Rooléh, Joëlla Jackson, Franky Rizardo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

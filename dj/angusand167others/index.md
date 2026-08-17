@@ -1,6 +1,6 @@
 # Angusand167others
 
-Angusand167others is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+Angusand167others is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 Angusand167others is a garage and house artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside 1-800 GIRLS, Amraks and Bicep. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Angusand167others is a garage and house artist based in Australia, tracked on so
 
 1-800 GIRLS, Amraks, Bicep
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angusand167others/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angusand167others/)*

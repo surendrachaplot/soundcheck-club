@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Blue Star presents: Deconstruct" on Wed, 19 Aug 2026.
+Stage and Radio is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Blue Star presents: Deconstruct" on Wed, 19 Aug 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 20 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

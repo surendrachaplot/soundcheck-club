@@ -1,6 +1,6 @@
 # Kidcat
 
-Kidcat is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Thu, 20 Aug 2026.
+Kidcat is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Renate, Berlin on Thu, 20 Aug 2026.
 
 Kidcat is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Renate, Berlin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Kidcat is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

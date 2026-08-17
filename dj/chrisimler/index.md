@@ -1,6 +1,6 @@
 # Chris Imler
 
-Chris Imler is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Panke, Berlin on Sat, 10 Oct 2026.
+Chris Imler is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Panke, Berlin on Sat, 10 Oct 2026.
 
 Chris Imler is an experimental and post-punk artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Brussels and Copenhagen and 9 more. Often billed alongside Naomie Klaus, Menqui and Pako Vega. Next up: Panke, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chris Imler is an experimental and post-punk artist based in Germany, tracked on
 
 Naomie Klaus, Menqui, Pako Vega
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*

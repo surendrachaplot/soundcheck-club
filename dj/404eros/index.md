@@ -1,6 +1,6 @@
 # 404 eros
 
-404 eros is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ormside Projects, London on Sat, 29 Aug 2026.
+404 eros is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ormside Projects, London on Sat, 29 Aug 2026.
 
 404 eros is a house and hip-hop artist tracked on soundcheck, with 17 sets logged across Berlin, London, Manchester and Paris and 2 more. Often billed alongside anu, Actress and CHEWCHEW. Next up: Ormside Projects, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@
 
 anu, Actress, CHEWCHEW
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/404eros/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/404eros/)*

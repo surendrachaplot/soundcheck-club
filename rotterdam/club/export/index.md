@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "I-RO, Ozzo, ROD" on Sat, 15 Aug 2026.
+export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "doo-bop, Doktoro, sima k" on Fri, 21 Aug 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alírio, Ben Diggins, BMG and Bukkha and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including Alírio, Ben Diggins, BMG and Bukkha and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | I-RO, Ozzo, ROD | I-RO, ROD |
 | Fri, 21 Aug 2026 | doo-bop, Doktoro, sima k | Doktoro, doo-bop, sima k |
 | Sat, 22 Aug 2026 | POING FESTIVAL after hours | Alírio, Faustin, Nene H, Slimfit, kimmah |
 | Fri, 28 Aug 2026 | Interdimensional Transmissions x Clone Records | BMG, Ectomorph, Erika, Serge, jannah |
@@ -21,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

@@ -1,6 +1,6 @@
 # Futa
 
-Futa is a Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at ZUBAR, Tokyo on Wed, 16 Sept 2026.
+Futa is a Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ZUBAR, Tokyo on Wed, 16 Sept 2026.
 
 Futa is an ambient artist tracked on soundcheck, with 4 sets logged across London and Tokyo. Often billed alongside Ozwick, Anchorsong and Ben hauke. Next up: ZUBAR, Tokyo on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ Futa is an ambient artist tracked on soundcheck, with 4 sets logged across Londo
 
 Ozwick, Anchorsong, Ben hauke
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futa/)*

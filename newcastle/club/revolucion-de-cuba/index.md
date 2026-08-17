@@ -1,6 +1,6 @@
 # Revolucion de Cuba
 
-Revolucion de Cuba is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Platform47" on Sun, 30 Aug 2026.
+Revolucion de Cuba is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Platform47" on Sun, 30 Aug 2026.
 
 Revolucion de Cuba is a music venue in Newcastle listed on soundcheck. 3 upcoming nights, with line-ups including Peverell. Browse upcoming dates, start times and who's playing. 1-3 Cloth Market, Newcastle upon Tyne NE1 1EE.
 
@@ -16,4 +16,4 @@ Revolucion de Cuba is a music venue in Newcastle listed on soundcheck. 3 upcomin
 
 1-3 Cloth Market, Newcastle upon Tyne NE1 1EE, Newcastle
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/revolucion-de-cuba/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/revolucion-de-cuba/)*

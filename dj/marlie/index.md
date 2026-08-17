@@ -1,14 +1,13 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
+Marlie is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
 
-Marlie is a house and tech house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
+Marlie is a house and tech house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Supermarket, Zurich on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Supermarket | Zurich |
 | Sat, 5 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -33,4 +32,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 122 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

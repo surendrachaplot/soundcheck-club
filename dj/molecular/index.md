@@ -1,6 +1,6 @@
 # MOLECULAR
 
-MOLECULAR is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
+MOLECULAR is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
 
 MOLECULAR is a drum & bass and techno artist based in Latvia, tracked on soundcheck, with 16 sets logged across Barcelona, Bristol, London and Madrid and 5 more. Often billed alongside Kyrist, A.M.C. and Bou (UK). Next up: The Clock Factory, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MOLECULAR is a drum & bass and techno artist based in Latvia, tracked on soundch
 
 Kyrist, A.M.C., Bou (UK)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molecular/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molecular/)*

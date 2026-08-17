@@ -1,14 +1,15 @@
 # Majistrate
 
-Majistrate is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Majistrate is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
-Majistrate is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Logan D, Harry Shotta and BassLayerz. Next up: Eutopia Whs, London on Sat 5 Sept.
+Majistrate is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
+| Sat, 14 Nov 2026 | HERE | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Majistrate is a drum & bass and jungle artist tracked on soundcheck, with 24 set
 
 ## Shares bills with
 
-Logan D, Harry Shotta, BassLayerz
+Logan D, Harry Shotta, Eksman
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*

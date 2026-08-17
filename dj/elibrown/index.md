@@ -1,8 +1,8 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Akvárium Klub, Budapest on Fri, 11 Sept 2026.
+Eli Brown is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Akvárium Klub, Budapest on Fri, 11 Sept 2026.
 
-Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Akvárium Klub, Budapest on Fri 11 Sept.
+Eli Brown is a techno and house artist tracked on soundcheck, with 150 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Akvárium Klub, Budapest on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logg
 | Sat, 26 Sept 2026 | The Concourse Project | Austin |
 | Sun, 18 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 30 Oct 2026 | Echostage | Washington DC |
+| Sat, 14 Nov 2026 | City Market | Los Angeles |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logg
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

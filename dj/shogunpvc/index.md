@@ -1,6 +1,6 @@
 # Shogun PVC
 
-Shogun PVC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
+Shogun PVC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at White Space Lab, Tokyo on Fri, 21 Aug 2026.
 
 Shogun PVC is a techno and industrial artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside B.A.R.K, Shintarø Kanie and SiSeN. Next up: White Space Lab, Tokyo on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Shogun PVC is a techno and industrial artist tracked on soundcheck, with 8 sets 
 
 B.A.R.K, Shintarø Kanie, SiSeN
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shogunpvc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shogunpvc/)*

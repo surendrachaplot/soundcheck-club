@@ -1,6 +1,6 @@
 # TBA - Contact promoter for location
 
-TBA - Contact promoter for location is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Dying Light" on Mon, 17 Aug 2026.
+TBA - Contact promoter for location is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Dying Light" on Mon, 17 Aug 2026.
 
 TBA - Contact promoter for location is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including vivaval. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Contact promoter for location is a music venue in Newyorkcity listed on so
 | --- | --- | --- |
 | Mon, 17 Aug 2026 | Dying Light | vivaval |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-contact-promoter-for-location/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-contact-promoter-for-location/)*

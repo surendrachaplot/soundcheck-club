@@ -1,6 +1,6 @@
 # Brusca
 
-Brusca is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 5A, Lisbon on Fri, 21 Aug 2026.
+Brusca is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 5A, Lisbon on Fri, 21 Aug 2026.
 
 Brusca is a techno and club artist based in Portugal, tracked on soundcheck, with 41 sets logged across Berlin, Lisbon, London and Porto. Often billed alongside Laura Hasagun, Midinoize and CRAVO. Next up: 5A, Lisbon on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Brusca is a techno and club artist based in Portugal, tracked on soundcheck, wit
 
 Laura Hasagun, Midinoize, CRAVO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*

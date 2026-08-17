@@ -1,6 +1,6 @@
 # TBA - Brunswick Ballroom
 
-TBA - Brunswick Ballroom is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "ASTELS AUSTRALIA TOUR 2026 - Melbourne" on Sun, 1 Nov 2026.
+TBA - Brunswick Ballroom is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "ASTELS AUSTRALIA TOUR 2026 - Melbourne" on Sun, 1 Nov 2026.
 
 TBA - Brunswick Ballroom is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Brunswick Ballroom is a music venue in Melbourne listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | ASTELS AUSTRALIA TOUR 2026 - Melbourne |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-brunswick-ballroom/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-brunswick-ballroom/)*

@@ -1,14 +1,13 @@
 # Diana May
 
-Diana May is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at M-BIA, Berlin on Sat, 15 Aug 2026.
+Diana May is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 21 Aug 2026.
 
-Diana May is a techno and psytrance artist tracked on soundcheck, with 66 sets logged across Berlin and Lisbon. Often billed alongside Frankie Flowerz, Daniel Boon and Basstronauten. Next up: M-BIA, Berlin on Sat 15 Aug.
+Diana May is a techno and psytrance artist tracked on soundcheck, with 66 sets logged across Berlin and Lisbon. Often billed alongside Frankie Flowerz, Daniel Boon and Basstronauten. Next up: Der Weiße Hase, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | M-BIA | Berlin |
 | Fri, 21 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 30 Aug 2026 | SAGE | Berlin |
 
@@ -27,4 +26,4 @@ Diana May is a techno and psytrance artist tracked on soundcheck, with 66 sets l
 
 Frankie Flowerz, Daniel Boon, Basstronauten
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*

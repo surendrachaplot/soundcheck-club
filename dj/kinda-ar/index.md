@@ -1,6 +1,6 @@
 # KINDA
 
-KINDA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
+KINDA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
 
 KINDA is a techno and acid artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Brussels and Madrid and 2 more. Often billed alongside Acidnena, EMIR-B and no.masc. Next up: Madreams, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ KINDA is a techno and acid artist tracked on soundcheck, with 29 sets logged acr
 
 Acidnena, EMIR-B, no.masc
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinda-ar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinda-ar/)*

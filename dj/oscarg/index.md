@@ -1,6 +1,6 @@
 # Oscar G
 
-Oscar G is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
+Oscar G is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Oscar G is a house and afro house artist tracked on soundcheck, with 77 sets logged across Ibiza, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Amal Nemer. Next up: Hï Ibiza, Ibiza on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Oscar G is a house and afro house artist tracked on soundcheck, with 77 sets log
 
 Lazaro Casanova, Nicole Fiallo, Amal Nemer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*

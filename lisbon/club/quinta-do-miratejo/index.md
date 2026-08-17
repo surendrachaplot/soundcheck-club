@@ -1,19 +1,17 @@
 # Quinta do Miratejo
 
-Quinta do Miratejo is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Boa Viagem x Rainbow Disco Club" on Sat, 15 Aug 2026.
+Quinta do Miratejo is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Boa Viagem - Mira Rio 1 year anniversary" on Sat, 29 Aug 2026.
 
-Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Antal, ANYA JAVYBZ, C4STRO and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica, Portugal.
+Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including C4STRO, Cuba (PT), Giu Nunez and Zopelar. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Boa Viagem x Rainbow Disco Club | ANYA JAVYBZ, Antal, CHIDA, Capablanca, DJ Caring, Dolce Vito, Jonny Rock |
-| Sun, 16 Aug 2026 | Folder Records — SPECIAL EDITION at Quinta MIRA RIO | Cristina Lazic, Kelson, Mâhfoud, Parallelle, Ricci |
 | Sat, 29 Aug 2026 | Boa Viagem - Mira Rio 1 year anniversary | C4STRO, Cuba (PT), Giu Nunez, Zopelar |
 
 ## Address
 
 R. do Joinal 2825, Caparica, Portugal, Lisbon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*

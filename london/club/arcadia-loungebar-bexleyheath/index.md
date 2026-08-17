@@ -1,6 +1,6 @@
 # Arcadia Loungebar, Bexleyheath
 
-Arcadia Loungebar, Bexleyheath is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "[CANCELLED] Shuffle" on Sat, 22 Aug 2026.
+Arcadia Loungebar, Bexleyheath is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "[CANCELLED] Shuffle" on Sat, 22 Aug 2026.
 
 Arcadia Loungebar, Bexleyheath is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 247 Broadway, DA6 8DB, Bexleyheath, Bexley, United Kingdom.
 
@@ -14,4 +14,4 @@ Arcadia Loungebar, Bexleyheath is a music venue in London listed on soundcheck. 
 
 247 Broadway, DA6 8DB, Bexleyheath, Bexley, United Kingdom, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arcadia-loungebar-bexleyheath/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arcadia-loungebar-bexleyheath/)*

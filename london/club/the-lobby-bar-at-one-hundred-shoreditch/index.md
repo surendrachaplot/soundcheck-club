@@ -1,6 +1,6 @@
 # The Lobby Bar at One Hundred Shoreditch
 
-The Lobby Bar at One Hundred Shoreditch is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Lobby Lates" on Thu, 20 Aug 2026.
+The Lobby Bar at One Hundred Shoreditch is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Lobby Lates" on Thu, 20 Aug 2026.
 
 The Lobby Bar at One Hundred Shoreditch is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 100 Shoreditch High St, London, E1 6JQ.
 
@@ -14,4 +14,4 @@ The Lobby Bar at One Hundred Shoreditch is a music venue in London listed on sou
 
 100 Shoreditch High St, London, E1 6JQ, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lobby-bar-at-one-hundred-shoreditch/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lobby-bar-at-one-hundred-shoreditch/)*

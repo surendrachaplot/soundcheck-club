@@ -1,14 +1,13 @@
 # SPEEDBOYS
 
-SPEEDBOYS is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
+SPEEDBOYS is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
 
-SPEEDBOYS is a trance and techno artist tracked on soundcheck, with 48 sets logged across Basel, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside KLING&KLANG, CARGO (DE) and DJ Henk. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
+SPEEDBOYS is a trance and techno artist tracked on soundcheck, with 48 sets logged across Basel, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside KLING&KLANG, CARGO (DE) and DJ Henk. Next up: ://about blank, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Sept 2026 | ://about blank | Berlin |
 | Fri, 30 Oct 2026 | Distillery | Leipzig |
 
@@ -27,4 +26,4 @@ SPEEDBOYS is a trance and techno artist tracked on soundcheck, with 48 sets logg
 
 KLING&KLANG, CARGO (DE), DJ Henk
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedboys/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedboys/)*

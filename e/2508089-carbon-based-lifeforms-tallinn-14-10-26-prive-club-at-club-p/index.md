@@ -1,10 +1,10 @@
 # Carbon Based Lifeforms- Tallinn -14.10.26- Prive Club at Club Privé
 
-Carbon Based Lifeforms- Tallinn -14.10.26- Prive Club at Club Privé on Fri 16 Oct, Tallinn. 1 act on the bill: Carbon Based Lifeforms. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Carbon Based Lifeforms- Tallinn -14.10.26- Prive Club at Club Privé on Wed 14 Oct, Tallinn. 1 act on the bill: Carbon Based Lifeforms. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 16 Oct 2026 |
+| Date | Wed, 14 Oct 2026 |
 | Venue | Club Privé |
 | City | Tallinn |
 

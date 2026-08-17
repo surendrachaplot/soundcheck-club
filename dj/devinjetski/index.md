@@ -1,6 +1,6 @@
 # Devin Jetski
 
-Devin Jetski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+Devin Jetski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 Devin Jetski is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit. Often billed alongside Darren Shelton, Enthusiast and PP Girlfriend. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Devin Jetski is a house and techno artist based in United States of America, tra
 
 Darren Shelton, Enthusiast, PP Girlfriend
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devinjetski/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devinjetski/)*

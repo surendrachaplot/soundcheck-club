@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Wolffer + IRENA" on Fri, 21 Aug 2026.
+M.N.Roy is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Wolffer + IRENA" on Fri, 21 Aug 2026.
 
 M.N.Roy is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including Colossio, Irena Stanisic, Soni Ceron and Wolffer. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -17,4 +17,4 @@ M.N.Roy is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, 
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

@@ -1,6 +1,6 @@
 # SENAIDA
 
-SENAIDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
+SENAIDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
 
 SENAIDA is a techno and house artist based in Canada, tracked on soundcheck, with 52 sets logged across Athens, Bangkok, Berlin and Brussels and 7 more. Often billed alongside estro, AnEmD and CRYFXB. Next up: The Grey Space In The Middle, Thehague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SENAIDA is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 estro, AnEmD, CRYFXB
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*

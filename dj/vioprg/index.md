@@ -1,6 +1,6 @@
 # Vio PRG
 
-Vio PRG is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 4 Sept 2026.
+Vio PRG is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 4 Sept 2026.
 
 Vio PRG is a house and techno artist based in Romania, tracked on soundcheck, with 130 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Anacalypto, Ady Toledano and Frozilla. Next up: Karmen Camina, Strasbourg on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Vio PRG is a house and techno artist based in Romania, tracked on soundcheck, wi
 
 Anacalypto, Ady Toledano, Frozilla
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*

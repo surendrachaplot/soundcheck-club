@@ -1,8 +1,8 @@
 # ANNA
 
-ANNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at block., Dublin on Sat, 22 Aug 2026.
+ANNA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at block., Dublin on Sat, 22 Aug 2026.
 
-ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: block., Dublin on Sat 22 Aug.
+ANNA is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: block., Dublin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged acr
 | Sat, 22 Aug 2026 | block. | Dublin |
 | Sun, 23 Aug 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sat, 5 Sept 2026 | Odonien | Cologne |
+| Sat, 5 Sept 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged acr
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

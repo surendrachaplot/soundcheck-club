@@ -1,6 +1,6 @@
 # Miss Blair
 
-Miss Blair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Wych, Toronto on Fri, 21 Aug 2026.
+Miss Blair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Wych, Toronto on Fri, 21 Aug 2026.
 
 Miss Blair is a house and techno artist tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Sabal Matter, Support Group and A.J. Matos. Next up: The Wych, Toronto on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Miss Blair is a house and techno artist tracked on soundcheck, with 8 sets logge
 
 Sabal Matter, Support Group, A.J. Matos
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missblair/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missblair/)*

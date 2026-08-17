@@ -1,6 +1,6 @@
 # Ikss
 
-Ikss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
+Ikss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
 
 Ikss is a techno and house artist tracked on soundcheck, with 90 sets logged across Riga. Often billed alongside HP-82, Ksenia Kamikaza and PUPA. Next up: Hartmanis Manor, Riga on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Ikss is a techno and house artist tracked on soundcheck, with 90 sets logged acr
 
 HP-82, Ksenia Kamikaza, PUPA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*

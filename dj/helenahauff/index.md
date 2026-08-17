@@ -1,14 +1,13 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+Helena Hauff is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lincoln Factory, Detroit on Fri, 4 Sept 2026.
 
-Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Fuchs2, Prague on Sat 15 Aug.
+Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Lincoln Factory, Detroit on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 | Fri, 4 Sept 2026 | Lincoln Factory | Detroit |
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sat, 12 Sept 2026 | Bunker | Turin |
@@ -34,4 +33,4 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 
 Ben UFO, DVS1, Job Jobse
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

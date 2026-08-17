@@ -1,6 +1,6 @@
 # Specific Objects
 
-Specific Objects is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Culture Box, Copenhagen on Sat, 29 Aug 2026.
+Specific Objects is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Culture Box, Copenhagen on Sat, 29 Aug 2026.
 
 Specific Objects is a techno and trance artist tracked on soundcheck, with 60 sets logged across Antwerp, Berlin, Bucharest and Cologne and 11 more. Often billed alongside Caniche, Steven Shade and DJ.P. Next up: Culture Box, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Specific Objects is a techno and trance artist tracked on soundcheck, with 60 se
 
 Caniche, Steven Shade, DJ.P
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*

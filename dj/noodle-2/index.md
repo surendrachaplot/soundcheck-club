@@ -1,6 +1,6 @@
 # noodle
 
-noodle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
+noodle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
 
 noodle is a house and techno artist tracked on soundcheck, with 59 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and yung kidd. Next up: Leith Arches, Edinburgh on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ noodle is a house and techno artist tracked on soundcheck, with 59 sets logged a
 
 Iris Pertegaz, Domenic Cappello, yung kidd
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*

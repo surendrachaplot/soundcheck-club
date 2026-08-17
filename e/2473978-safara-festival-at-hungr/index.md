@@ -1,6 +1,6 @@
 # Safara Festival at HUNGR
 
-Safara Festival at HUNGR on Fri 21 Aug, Tallinn. 9 acts on the bill: Baba Sy, Bamba, Dharma Doom and Exploited Body and 5 more. Preview the line-up and save it on soundcheck.
+Safara Festival at HUNGR on Fri 21 Aug, Tallinn. 11 acts on the bill: Baba Sy, Bamba, Dharma Doom and Exploited Body and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,9 +14,11 @@ Safara Festival at HUNGR on Fri 21 Aug, Tallinn. 9 acts on the bill: Baba Sy, Ba
 - Bamba
 - Dharma Doom
 - Exploited Body
+- Grove
 - Mookie (AU)
 - Opoku
 - Pasaporteman
+- Rama (2)
 - Shah Rud
 - TNTC
 

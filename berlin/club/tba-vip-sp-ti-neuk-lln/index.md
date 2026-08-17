@@ -1,6 +1,6 @@
 # TBA - VIP Späti, Neukölln
 
-TBA - VIP Späti, Neukölln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "SPÄTI SESSION - FREE ENTRY" on Fri, 21 Aug 2026.
+TBA - VIP Späti, Neukölln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "SPÄTI SESSION - FREE ENTRY" on Fri, 21 Aug 2026.
 
 TBA - VIP Späti, Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - VIP Späti, Neukölln is a music venue in Berlin listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | SPÄTI SESSION - FREE ENTRY |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-vip-sp-ti-neuk-lln/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-vip-sp-ti-neuk-lln/)*

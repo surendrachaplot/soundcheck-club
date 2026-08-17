@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Midnight Flower" on Fri, 21 Aug 2026.
+Paloma is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Midnight Flower" on Fri, 21 Aug 2026.
 
 Paloma is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Arnaud Denzler, Balthazar Martinez, bb:fm and Benjamin Roeder and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
@@ -23,4 +23,4 @@ Paloma is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

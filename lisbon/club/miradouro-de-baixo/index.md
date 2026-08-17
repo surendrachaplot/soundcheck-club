@@ -1,6 +1,6 @@
 # Miradouro de Baixo
 
-Miradouro de Baixo is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Roof Tempo by Colugo" on Sun, 23 Aug 2026.
+Miradouro de Baixo is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Roof Tempo by Colugo" on Sun, 23 Aug 2026.
 
 Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including SEN10ZA. Browse upcoming dates, start times and who's playing. Rua de São Lázaro 72, 1150-330 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming n
 
 Rua de São Lázaro 72, 1150-330 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*

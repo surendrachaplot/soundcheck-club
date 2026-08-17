@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Monkey Timers, Dita & Gero" on Fri, 21 Aug 2026.
+Klymax Discotheque is a music venue in Bali with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Monkey Timers, Dita & Gero" on Fri, 21 Aug 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 4 upcoming nights, with line-ups including Danny, DITA (ID), Hanna and Monkey Timers. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 4 upcoming nig
 | Fri, 28 Aug 2026 | Toy Tonics Jam, Gero |  |
 | Sat, 29 Aug 2026 | Danny, Mislav | Danny |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

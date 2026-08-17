@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Budai House Clique with Colbora, Hoffman, Evelean, Anyanwu ⏾ Nights of Budapest Park" on Thu, 20 Aug 2026.
+Budapest Park is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Budai House Clique with Colbora, Hoffman, Evelean, Anyanwu ⏾ Nights of Budapest Park" on Thu, 20 Aug 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Âme, Mateo, Spirit and Teenage Mutants. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -19,4 +19,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 6 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

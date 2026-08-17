@@ -1,6 +1,6 @@
 # Gridlock
 
-Gridlock is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+Gridlock is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 Gridlock is a techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, London, Madrid and Manchester. Often billed alongside TAITO, Varanasi and RayRay. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Gridlock is a techno artist based in United Kingdom, tracked on soundcheck, with
 
 TAITO, Varanasi, RayRay
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*

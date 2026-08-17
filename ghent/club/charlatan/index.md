@@ -1,14 +1,13 @@
 # Charlatan
 
-Charlatan is a music venue in Ghent with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "MagiK, Dewaele & Oduwale" on Sat, 15 Aug 2026.
+Charlatan is a music venue in Ghent with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Resident Night - Carlamote & Mr. Noisy" on Fri, 21 Aug 2026.
 
-Charlatan is a music venue in Ghent listed on soundcheck. 6 upcoming nights, with line-ups including AMARE, AM.I, Carlamote and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
+Charlatan is a music venue in Ghent listed on soundcheck. 5 upcoming nights, with line-ups including AMARE, AM.I, Carlamote and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | MagiK, Dewaele & Oduwale |  |
 | Fri, 21 Aug 2026 | Resident Night - Carlamote & Mr. Noisy | Carlamote, Mr. Noisy |
 | Sat, 22 Aug 2026 | Glitterbox | Cosmo, Woodhead |
 | Sat, 29 Aug 2026 | RED D ALL NIGHT LONG | Red D |
@@ -19,4 +18,4 @@ Charlatan is a music venue in Ghent listed on soundcheck. 6 upcoming nights, wit
 
 Vlasmarkt 6, 9000 Gent, Belgium, Ghent
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*

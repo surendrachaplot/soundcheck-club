@@ -1,6 +1,6 @@
 # Obseth
 
-Obseth is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Melkweg, Amsterdam on Tue, 8 Sept 2026.
+Obseth is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Melkweg, Amsterdam on Tue, 8 Sept 2026.
 
 Obseth is a techno artist tracked on soundcheck, with 2 sets logged across Amsterdam and Porto. Often billed alongside Dexon and Roi (ES). Next up: Melkweg, Amsterdam on Tue 8 Sept.
 
@@ -18,4 +18,4 @@ Obseth is a techno artist tracked on soundcheck, with 2 sets logged across Amste
 
 Dexon, Roi (ES)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obseth/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obseth/)*

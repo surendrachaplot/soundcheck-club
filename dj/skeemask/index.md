@@ -1,14 +1,13 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Skee Mask is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hall, Tallinn on Sat, 5 Sept 2026.
 
-Skee Mask is a techno and bass artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
+Skee Mask is a techno and bass artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Hall, Tallinn on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Sat, 5 Sept 2026 | Hall | Tallinn |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -30,4 +29,4 @@ Skee Mask is a techno and bass artist tracked on soundcheck, with 154 sets logge
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

@@ -1,6 +1,6 @@
 # Norabee
 
-Norabee is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
+Norabee is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
 
 Norabee is a house and electronica artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam and Milan. Often billed alongside Vannelli Bros, HYLO (IT) and Mixed Methods. Next up: Circolo Magnolia, Milan on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Norabee is a house and electronica artist based in Italy, tracked on soundcheck,
 
 Vannelli Bros, HYLO (IT), Mixed Methods
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norabee/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norabee/)*

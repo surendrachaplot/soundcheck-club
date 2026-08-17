@@ -1,6 +1,6 @@
 # Megalina
 
-Megalina is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Private Location, San Diego on Sun, 13 Sept 2026.
+Megalina is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Private Location, San Diego on Sun, 13 Sept 2026.
 
 Megalina is a house and tech house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Sandiego. Often billed alongside Terry Jasinto, Mr Wright and Donald Glaude. Next up: TBA - Private Location, Sandiego on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Megalina is a house and tech house artist based in United States of America, tra
 
 Terry Jasinto, Mr Wright, Donald Glaude
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megalina/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megalina/)*

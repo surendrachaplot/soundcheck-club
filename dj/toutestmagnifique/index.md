@@ -1,6 +1,6 @@
 # toutestmagnifique
 
-toutestmagnifique is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+toutestmagnifique is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
 toutestmagnifique is a trance and techno artist based in Poland, tracked on soundcheck, with 30 sets logged across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ toutestmagnifique is a trance and techno artist based in Poland, tracked on soun
 
 Abrew, dj.zamocno, DOMEL
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toutestmagnifique/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toutestmagnifique/)*

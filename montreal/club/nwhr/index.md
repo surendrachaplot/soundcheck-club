@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "NWHR AFTER: Casual Treatment [OPEN TO CLOSE]" on Sat, 15 Aug 2026.
+NWHR is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "UNHRD Invites Jino K B2B Deneb, Zepha b2b Claire and Crescenzo" on Fri, 21 Aug 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including AADJA, Casual Treatment, Claire and Crescenzo and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including AADJA, Claire, Crescenzo and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | NWHR AFTER: Casual Treatment [OPEN TO CLOSE] | Casual Treatment |
 | Fri, 21 Aug 2026 | UNHRD Invites Jino K B2B Deneb, Zepha b2b Claire and Crescenzo | Claire, Crescenzo, Deneb, Jino K, Zepha |
 | Sat, 22 Aug 2026 | Speakeasy |  |
 | Fri, 28 Aug 2026 | NOS: Moonrise - NotMeghan, Elias Erium, Mike Chidiac | Elias Erium, Mike Chidiac, NotMeghan |
@@ -18,4 +17,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

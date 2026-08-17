@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+TTX (GER) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside Tana (2), DJ Babyblade and DJ Hochzeit. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, wi
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

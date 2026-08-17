@@ -1,14 +1,13 @@
 # Nico Adomako
 
-Nico Adomako is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 15 Aug 2026.
+Nico Adomako is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
 
-Nico Adomako is a club and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Basel, Berlin and Bristol and 7 more. Often billed alongside Mobilegirl, Kanucia and ohjeelo. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 15 Aug.
+Nico Adomako is a club and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Basel, Berlin and Bristol and 7 more. Often billed alongside Mobilegirl, Kanucia and ohjeelo. Next up: Kampnagel, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Sat, 22 Aug 2026 | Kampnagel | Hamburg |
 | Sat, 22 Aug 2026 | Kampnagel | Hamburg |
 | Fri, 28 Aug 2026 | Ormside Projects | London |
@@ -28,4 +27,4 @@ Nico Adomako is a club and bass artist tracked on soundcheck, with 76 sets logge
 
 Mobilegirl, Kanucia, ohjeelo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*

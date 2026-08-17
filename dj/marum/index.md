@@ -1,6 +1,6 @@
 # marum
 
-marum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
+marum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
 
 marum is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Hongkong and Leipzig and 7 more. Often billed alongside BLEID, Violet (PT) and Phoebe (1). Next up: TILLATEC, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ marum is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 BLEID, Violet (PT), Phoebe (1)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marum/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marum/)*

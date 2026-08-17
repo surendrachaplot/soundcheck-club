@@ -1,6 +1,6 @@
 # MS Rheinland
 
-MS Rheinland is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Øhne Bedenken - Bøat Trippin' VOL. 5" on Sat, 22 Aug 2026.
+MS Rheinland is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Øhne Bedenken - Bøat Trippin' VOL. 5" on Sat, 22 Aug 2026.
 
 MS Rheinland is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Kashinski. Browse upcoming dates, start times and who's playing. Köln: Anleger 10, Konrad-Adenauer-Ufer, 50668 Köln (unterhalb Musical Dome).
 
@@ -14,4 +14,4 @@ MS Rheinland is a music venue in Cologne listed on soundcheck. 1 upcoming night,
 
 Köln: Anleger 10, Konrad-Adenauer-Ufer, 50668 Köln (unterhalb Musical Dome), Cologne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinland/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinland/)*

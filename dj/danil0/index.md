@@ -1,6 +1,6 @@
 # DANIL0
 
-DANIL0 is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cadavra, Madrid on Fri, 28 Aug 2026.
+DANIL0 is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cadavra, Madrid on Fri, 28 Aug 2026.
 
 DANIL0 is an electronica artist based in Spain, tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Avo (ES), Cesc (ES) and ANGEL (3). Next up: Cadavra, Madrid on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DANIL0 is an electronica artist based in Spain, tracked on soundcheck, with 14 s
 
 Avo (ES), Cesc (ES), ANGEL (3)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danil0/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danil0/)*

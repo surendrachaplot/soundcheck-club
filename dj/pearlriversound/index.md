@@ -1,6 +1,6 @@
 # Pearl River Sound
 
-Pearl River Sound is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
+Pearl River Sound is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
 
 Pearl River Sound is an acid and techno artist tracked on soundcheck, with 26 sets logged across Chicago, Krakow, Milan and Naples and 2 more. Often billed alongside Manifesto Disappunto, Achieh and Prest. Next up: TBA, Chicago on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Pearl River Sound is an acid and techno artist tracked on soundcheck, with 26 se
 
 Manifesto Disappunto, Achieh, Prest
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlriversound/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlriversound/)*

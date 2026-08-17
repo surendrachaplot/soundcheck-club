@@ -1,6 +1,6 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+Spikey Lee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
 Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 
 Lenard Klein, Haeder, VINVAR
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

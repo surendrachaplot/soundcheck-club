@@ -1,6 +1,6 @@
 # Blosvenn
 
-Blosvenn is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
+Blosvenn is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
 
 Blosvenn is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside BAHAA AL DEEN, NYCTO and SURCO. Next up: ://about blank, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Blosvenn is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 BAHAA AL DEEN, NYCTO, SURCO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*

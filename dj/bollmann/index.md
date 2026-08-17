@@ -1,13 +1,14 @@
 # Bollmann
 
-Bollmann is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Space for Skate, Munich on Sat, 5 Sept 2026.
+Bollmann is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
 
-Bollmann is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: Space for Skate, Munich on Sat 5 Sept.
+Bollmann is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: Pineapple Park, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Pineapple Park | Munich |
 | Sat, 5 Sept 2026 | Space for Skate | Munich |
 | Fri, 18 Sept 2026 | SILO | New York City |
 
@@ -26,4 +27,4 @@ Bollmann is a techno and industrial artist tracked on soundcheck, with 93 sets l
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

@@ -1,6 +1,6 @@
 # Klub Werkstatt
 
-Klub Werkstatt is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Luke Alessi" on Fri, 21 Aug 2026.
+Klub Werkstatt is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Luke Alessi" on Fri, 21 Aug 2026.
 
 Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Anna Logic, Harrison Heat, Luke Alessi and Waqar. Browse upcoming dates, start times and who's playing. Refshalevej 167A, 1432, Copenhagen.
 
@@ -14,4 +14,4 @@ Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 1 upcoming n
 
 Refshalevej 167A, 1432, Copenhagen, Copenhagen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*

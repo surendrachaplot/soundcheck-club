@@ -1,14 +1,13 @@
 # Chris Ku
 
-Chris Ku is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Chris Ku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - NOC Not Only Coffee, Berlin on Sat, 22 Aug 2026.
 
-Chris Ku is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Cosmic Cherry. Next up: Renate, Berlin on Sat 15 Aug.
+Chris Ku is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Cosmic Cherry. Next up: TBA - NOC Not Only Coffee, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Renate | Berlin |
 | Sat, 22 Aug 2026 | TBA - NOC Not Only Coffee | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Chris Ku is a house and techno artist tracked on soundcheck, with 14 sets logged
 
 Tajik, Chris Beulich, Cosmic Cherry
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*

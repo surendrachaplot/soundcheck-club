@@ -1,14 +1,15 @@
 # Saint Bernard
 
-Saint Bernard is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Acadana, Hong Kong on Fri, 21 Aug 2026.
+Saint Bernard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Acadana, Hong Kong on Fri, 21 Aug 2026.
 
-Saint Bernard is a house and progressive house artist tracked on soundcheck, with 36 sets logged across Hongkong. Often billed alongside Anyss, MLCH and Paki. Next up: Acadana, Hongkong on Fri 21 Aug.
+Saint Bernard is a house and techno artist tracked on soundcheck, with 37 sets logged across Hongkong. Often billed alongside Anyss, DJ Kirby and MLCH. Next up: Acadana, Hongkong on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Acadana | Hong Kong |
+| Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Saint Bernard is a house and progressive house artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Anyss, MLCH, Paki
+Anyss, DJ Kirby, MLCH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*

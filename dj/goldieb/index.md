@@ -1,6 +1,6 @@
 # Goldie B
 
-Goldie B is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
+Goldie B is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
 
 Goldie B is a techno and bass artist tracked on soundcheck, with 30 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside Kumanope, Mad Rey and Mézigue. Next up: Mains D'œuvres, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Goldie B is a techno and bass artist tracked on soundcheck, with 30 sets logged 
 
 Kumanope, Mad Rey, Mézigue
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*

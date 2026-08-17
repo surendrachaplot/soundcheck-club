@@ -1,14 +1,13 @@
 # Arthur (DE)
 
-Arthur (DE) is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Arthur (DE) is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
-Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Kelvedon Hall, London on Fri 14 Aug.
+Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Fri, 21 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
@@ -27,4 +26,4 @@ Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundchec
 
 Carl Luis, Giouann, Tikiman
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*

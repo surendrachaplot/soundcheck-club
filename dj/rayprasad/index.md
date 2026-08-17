@@ -1,6 +1,6 @@
 # RAY PRASAD
 
-RAY PRASAD is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cannons, Detroit on Sat, 19 Sept 2026.
+RAY PRASAD is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cannons, Detroit on Sat, 19 Sept 2026.
 
 RAY PRASAD is a disco and house artist based in Canada, tracked on soundcheck, with 2 sets logged across Chicago and Detroit. Next up: Cannons, Detroit on Sat 19 Sept.
 
@@ -14,4 +14,4 @@ RAY PRASAD is a disco and house artist based in Canada, tracked on soundcheck, w
 
 - Jackson Park, Chicago — Sun, 12 Jul 2026
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayprasad/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayprasad/)*

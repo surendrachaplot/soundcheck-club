@@ -1,6 +1,6 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
+Deselecta is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
 
 Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 66 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Carpet Shop, London on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 66 sets
 
 Krash Dubs, 50CAL, Sleazebag
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

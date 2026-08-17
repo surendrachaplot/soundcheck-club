@@ -1,6 +1,6 @@
 # Lukrø
 
-Lukrø is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Lavallée, Brussels on Fri, 21 Aug 2026.
+Lukrø is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Lavallée, Brussels on Fri, 21 Aug 2026.
 
 Lukrø is a latin bass and reggaeton artist based in Peru, tracked on soundcheck, with 33 sets logged across Antwerp, Barcelona, Berlin and Brussels and 8 more. Often billed alongside QECHUABOi, Vitu Valera and Bony Fly. Next up: Lavallée, Brussels on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Lukrø is a latin bass and reggaeton artist based in Peru, tracked on soundcheck
 
 QECHUABOi, Vitu Valera, Bony Fly
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukro/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukro/)*

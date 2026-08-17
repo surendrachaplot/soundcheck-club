@@ -1,6 +1,6 @@
 # Beaabea
 
-Beaabea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
+Beaabea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
 
 Beaabea is a techno and house artist tracked on soundcheck, with 32 sets logged across Bristol, London and Nottingham. Often billed alongside Denham Audio, Lander (UK) and Y U QT. Next up: Next Door Records, London on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Beaabea is a techno and house artist tracked on soundcheck, with 32 sets logged 
 
 Denham Audio, Lander (UK), Y U QT
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaabea/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaabea/)*

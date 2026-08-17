@@ -1,6 +1,6 @@
 # Gumbo
 
-Gumbo is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Socore Factory, Osaka on Sun, 23 Aug 2026.
+Gumbo is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Socore Factory, Osaka on Sun, 23 Aug 2026.
 
 Gumbo is a house and latin bass artist based in France, tracked on soundcheck, with 3 sets logged across Osaka. Often billed alongside KEi and MINAMI. Next up: Socore Factory, Osaka on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ Gumbo is a house and latin bass artist based in France, tracked on soundcheck, w
 
 KEi, MINAMI
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbo-fr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbo-fr/)*

@@ -1,6 +1,6 @@
 # Bours?
 
-Bours? is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+Bours? is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
 
 Bours? is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside The Chronics, ØTTA and Alex Nantaya. Next up: OXI, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Bours? is a techno and trance artist tracked on soundcheck, with 107 sets logged
 
 The Chronics, ØTTA, Alex Nantaya
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*

@@ -1,6 +1,6 @@
 # MVHY
 
-MVHY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
+MVHY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
 
 MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Newyorkcity, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Akirahawks. Next up: BASEMENT, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 La Schmock, DJ City, Akirahawks
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*

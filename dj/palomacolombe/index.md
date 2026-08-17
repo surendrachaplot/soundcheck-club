@@ -1,6 +1,6 @@
 # Paloma Colombe
 
-Paloma Colombe is a Afrobeat and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Le Sucre, Lyon on Fri, 28 Aug 2026.
+Paloma Colombe is a Afrobeat and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Le Sucre, Lyon on Fri, 28 Aug 2026.
 
 Paloma Colombe is an afrobeat and techno artist based in France, tracked on soundcheck, with 13 sets logged across Lyon and Paris. Often billed alongside Canblaster, Koumiya and Miley Serious. Next up: Le Sucre, Lyon on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Paloma Colombe is an afrobeat and techno artist based in France, tracked on soun
 
 Canblaster, Koumiya, Miley Serious
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palomacolombe/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palomacolombe/)*

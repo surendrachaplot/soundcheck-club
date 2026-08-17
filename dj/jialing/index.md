@@ -1,6 +1,6 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
+JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
 
 JIALING is a club and techno artist tracked on soundcheck, with 114 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Korea Town Acid. Next up: Pianos, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ JIALING is a club and techno artist tracked on soundcheck, with 114 sets logged 
 
 Mui Mui, PHANTAZN, Korea Town Acid
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

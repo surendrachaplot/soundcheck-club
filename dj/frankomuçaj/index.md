@@ -1,6 +1,6 @@
 # Franko Muçaj
 
-Franko Muçaj is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+Franko Muçaj is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
 Franko Muçaj is a techno and house artist tracked on soundcheck, with 6 sets logged across Barcelona, Berlin and Frankfurt. Often billed alongside ButchVoyage, Alan Dorve and Besch. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Franko Muçaj is a techno and house artist tracked on soundcheck, with 6 sets lo
 
 ButchVoyage, Alan Dorve, Besch
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankomuçaj/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankomuçaj/)*

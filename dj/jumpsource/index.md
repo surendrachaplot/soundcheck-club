@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Jump Source is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Jump Source is a techno and tech house artist based in Canada, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Brussels and Chicago and 8 more. Often billed alongside Patrick Holland, Priori and Jennifer Loveless. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -32,4 +32,4 @@ Jump Source is a techno and tech house artist based in Canada, tracked on soundc
 
 Patrick Holland, Priori, Jennifer Loveless
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

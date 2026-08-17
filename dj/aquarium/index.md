@@ -1,6 +1,6 @@
 # Aquarium
 
-Aquarium is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Madame Claude, Berlin on Mon, 17 Aug 2026.
+Aquarium is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Madame Claude, Berlin on Mon, 17 Aug 2026.
 
 Aquarium is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin and Tokyo. Often billed alongside lostbaggage, suimin and Ario. Next up: Madame Claude, Berlin on Mon 17 Aug.
 
@@ -26,4 +26,4 @@ Aquarium is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 lostbaggage, suimin, Ario
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*

@@ -1,8 +1,8 @@
 # Alexander Koning
 
-Alexander Koning is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Alexander Koning is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Alexander Koning is an acid and techno artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
+Alexander Koning is an acid and techno artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alexander Koning is an acid and techno artist based in Netherlands, tracked on s
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Sat, 3 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 9 Oct 2026 | Patronaat | Amsterdam |
 | Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Alexander Koning is an acid and techno artist based in Netherlands, tracked on s
 
 Erick E, Lucien Foort, Remy Unger
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*

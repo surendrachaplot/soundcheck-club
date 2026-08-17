@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
+Richy Ahmed is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
 
 Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: [UNVRS], Ibiza on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

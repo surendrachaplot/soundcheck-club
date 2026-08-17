@@ -1,6 +1,6 @@
 # Vie Sauvage
 
-Vie Sauvage is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 20 Aug 2026.
+Vie Sauvage is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 20 Aug 2026.
 
 Vie Sauvage is a progressive house and deep house artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Hauy, Anaïs Ley and BLANKET. Next up: Jardins Gamelin, Montreal on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Vie Sauvage is a progressive house and deep house artist based in Canada, tracke
 
 Hauy, Anaïs Ley, BLANKET
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viesauvage/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viesauvage/)*

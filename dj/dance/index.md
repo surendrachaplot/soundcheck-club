@@ -1,6 +1,6 @@
 # Dance
 
-Dance is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Serafeio Athletic & Community Complex, Athens on Sun, 27 Sept 2026.
+Dance is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Serafeio Athletic & Community Complex, Athens on Sun, 27 Sept 2026.
 
 Dance is a house and club artist tracked on soundcheck, with 53 sets logged across Athens, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside DJ B2B, Amine Edge & DANCE and Bass. Next up: Serafeio Athletic & Community Complex, Athens on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Dance is a house and club artist tracked on soundcheck, with 53 sets logged acro
 
 DJ B2B, Amine Edge & DANCE, Bass
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*

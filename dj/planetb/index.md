@@ -1,6 +1,6 @@
 # Planet B
 
-Planet B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
+Planet B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
 
 Planet B is a house and disco artist tracked on soundcheck, with 140 sets logged across Mexicocity, Miami, Montreal and Munich and 5 more. Often billed alongside beewack, Eli Escobar and Toribio. Next up: public records, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Planet B is a house and disco artist tracked on soundcheck, with 140 sets logged
 
 beewack, Eli Escobar, Toribio
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*

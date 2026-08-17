@@ -1,6 +1,6 @@
 # MILLIE
 
-MILLIE is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+MILLIE is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
 MILLIE is a house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Pheebs, A Hard Day's Dance and Aroop Roy. Next up: fabric, London on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ MILLIE is a house artist based in United Kingdom, tracked on soundcheck, with 2 
 
 Pheebs, A Hard Day's Dance, Aroop Roy
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millie/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millie/)*

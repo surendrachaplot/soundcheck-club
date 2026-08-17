@@ -1,6 +1,6 @@
 # Liqwe
 
-Liqwe is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "GROOVERS TRAXX - Record Release Pop Up" on Fri, 4 Sept 2026.
+Liqwe is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "GROOVERS TRAXX - Record Release Pop Up" on Fri, 4 Sept 2026.
 
 Liqwe is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including Flashbaxx. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Liqwe is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with l
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | GROOVERS TRAXX - Record Release Pop Up | Flashbaxx |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/liqwe/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/liqwe/)*

@@ -1,14 +1,13 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Sat, 15 Aug 2026.
+Jamie Fielding is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Barras Art & Design Centre, Glasgow on Sat, 22 Aug 2026.
 
-Jamie Fielding is a house and tech house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Niteplan, Job de Jong and Luuk van Dijk. Next up: fabric, London on Sat 15 Aug.
+Jamie Fielding is a house and tech house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Niteplan, Job de Jong and Luuk van Dijk. Next up: Barras Art & Design Centre, Glasgow on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | fabric | London |
 | Sat, 22 Aug 2026 | Barras Art & Design Centre | Glasgow |
 | Sun, 23 Aug 2026 | Eden | Ibiza |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -33,4 +32,4 @@ Jamie Fielding is a house and tech house artist tracked on soundcheck, with 56 s
 
 Niteplan, Job de Jong, Luuk van Dijk
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

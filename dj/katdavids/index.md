@@ -1,6 +1,6 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
+Kat Davids is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
 
 Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: THF Radio / Torhaus, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Kat Davids is a house and techno artist based in Germany, tracked on soundcheck,
 
 Cecilia Tosh, MASCHA, Jana Falcon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katdavids/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katdavids/)*

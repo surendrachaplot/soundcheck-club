@@ -1,6 +1,6 @@
 # Craigie Knowes
 
-Craigie Knowes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
+Craigie Knowes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
 
 Craigie Knowes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 12 more. Often billed alongside Domenic Cappello, Fantastic Man and The Burrell Connection. Next up: TBA - Secret Location, Edinburgh, Edinburgh on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Craigie Knowes is a techno and house artist based in United Kingdom, tracked on 
 
 Domenic Cappello, Fantastic Man, The Burrell Connection
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*

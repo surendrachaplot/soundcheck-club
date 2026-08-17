@@ -1,14 +1,13 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Roots x Les Enfants pres. LAIA (All Night Long)" on Sat, 15 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Noizer pres. Sara Delirio + Kai Galactic" on Thu, 20 Aug 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Roots x Les Enfants pres. LAIA (All Night Long) | Laia |
 | Thu, 20 Aug 2026 | Noizer pres. Sara Delirio + Kai Galactic | Sara Delirio |
 | Fri, 21 Aug 2026 | Les Enfants pres. Mariiin All Night Long | Mariiin |
 | Sat, 22 Aug 2026 | Les Enfants pres. JUAAN All Night Long | JUAAN |
@@ -18,9 +17,10 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upc
 | Fri, 4 Sept 2026 | Les Enfants pres. Lvca Live Hybrid Set All Night Long | LVCA (2) |
 | Sat, 5 Sept 2026 | Magnetic People Night Time at Les Enfants pres. Marlie, De La Swing, Alex | Alex (ES), De La Swing, Marlie |
 | Thu, 10 Sept 2026 | Noizer pres. Backspin Showcase: Regal + Flug | Flug, Regal |
+| Fri, 11 Sept 2026 | Get Closer at Les Enfants pres. Luuk van Dijk | Luuk van Dijk |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

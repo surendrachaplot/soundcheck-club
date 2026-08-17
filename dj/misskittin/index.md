@@ -1,8 +1,8 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Miss Kittin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Miss Kittin is a techno and electro artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Miss Kittin is a techno and electro artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Miss Kittin is a techno and electro artist tracked on soundcheck, with 94 sets l
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Miss Kittin is a techno and electro artist tracked on soundcheck, with 94 sets l
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

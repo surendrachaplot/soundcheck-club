@@ -1,6 +1,6 @@
 # Canva6
 
-Canva6 is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
+Canva6 is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
 
 Canva6 is an electronic artist based in Italy, tracked on soundcheck, with 5 sets logged across London, Milan, Rome and Thehague. Often billed alongside Gábor Lázár, Jeans (NL) and Kaitlin Simotics. Next up: Laak, Thehague on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Canva6 is an electronic artist based in Italy, tracked on soundcheck, with 5 set
 
 Gábor Lázár, Jeans (NL), Kaitlin Simotics
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canva6/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canva6/)*

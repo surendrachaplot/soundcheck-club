@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "ITALO MODERNI invites Slow Motion Records Dj's" on Sat, 22 Aug 2026.
+Phantom Bar Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ITALO MODERNI invites Slow Motion Records Dj's" on Sat, 22 Aug 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Adrian Marth, auto_timer, DJ LOUI FROM JUPITER4 and Maque and 1 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -17,4 +17,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

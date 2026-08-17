@@ -1,6 +1,6 @@
 # Silvia Torres
 
-Silvia Torres is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
+Silvia Torres is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
 
 Silvia Torres is a techno and experimental artist tracked on soundcheck, with 12 sets logged across Barcelona and Madrid. Often billed alongside Elena Barker, Irazu and 1st Degree. Next up: TBA - LFO, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Silvia Torres is a techno and experimental artist tracked on soundcheck, with 12
 
 Elena Barker, Irazu, 1st Degree
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silviatorres/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silviatorres/)*

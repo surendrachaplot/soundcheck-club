@@ -1,14 +1,13 @@
 # Holtz (2)
 
-Holtz (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
+Holtz (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 29 Aug 2026.
 
-Holtz (2) is a techno and trance artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Kallax, EI.VN and Dico Nemus. Next up: Hangaren, Copenhagen on Sat 15 Aug.
+Holtz (2) is a techno and trance artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Kallax, EI.VN and Dico Nemus. Next up: Den Anden Side, Copenhagen on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
@@ -26,4 +25,4 @@ Holtz (2) is a techno and trance artist based in Denmark, tracked on soundcheck,
 
 Kallax, EI.VN, Dico Nemus
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holtz-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holtz-2/)*

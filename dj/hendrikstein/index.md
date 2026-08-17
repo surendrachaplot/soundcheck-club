@@ -1,6 +1,6 @@
 # Hendrik Stein
 
-Hendrik Stein is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
+Hendrik Stein is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
 
 Hendrik Stein is a disco and italo disco artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Copenhagen, Dublin and Hamburg and 5 more. Often billed alongside Frinda di Lanco, Rena Volvo and Boogie Rookie. Next up: arkaoda Berlin, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Hendrik Stein is a disco and italo disco artist based in Germany, tracked on sou
 
 Frinda di Lanco, Rena Volvo, Boogie Rookie
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*

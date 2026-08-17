@@ -1,6 +1,6 @@
 # enereph
 
-enereph is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+enereph is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 enereph is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Portland, Seattle, Toronto and Vancouver. Often billed alongside IHA (CA), Succubass and DJ Eft. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ enereph is a techno and experimental artist based in United States of America, t
 
 IHA (CA), Succubass, DJ Eft
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enereph/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enereph/)*

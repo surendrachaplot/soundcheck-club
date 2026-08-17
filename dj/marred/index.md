@@ -1,6 +1,6 @@
 # MARRED
 
-MARRED is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+MARRED is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 MARRED is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Cologne. Often billed alongside Bouncy Bitch, PANACOTTA and HENNESY. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ MARRED is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Bouncy Bitch, PANACOTTA, HENNESY
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marred/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marred/)*

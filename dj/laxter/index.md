@@ -1,6 +1,6 @@
 # LAXTER
 
-LAXTER is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at M7 Club, Barcelona on Fri, 21 Aug 2026.
+LAXTER is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M7 Club, Barcelona on Fri, 21 Aug 2026.
 
 LAXTER is a techno artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Ana Sclifos, Leo Cotrozo and Giusseppi. Next up: M7 Club, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ LAXTER is a techno artist tracked on soundcheck, with 10 sets logged across Barc
 
 Ana Sclifos, Leo Cotrozo, Giusseppi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laxter/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laxter/)*

@@ -1,6 +1,6 @@
 # Mergrim
 
-Mergrim is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Monopol, Berlin on Sat, 22 Aug 2026.
+Mergrim is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Monopol, Berlin on Sat, 22 Aug 2026.
 
 Mergrim is a breakbeat and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Izumi Yamamoto, Jiu-q and Marcos Meza. Next up: Monopol, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Mergrim is a breakbeat and house artist tracked on soundcheck, with 6 sets logge
 
 Izumi Yamamoto, Jiu-q, Marcos Meza
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mergrim/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mergrim/)*

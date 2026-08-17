@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Daria Kolosova is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -9,7 +9,6 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
-| Sat, 15 Aug 2026 | Jasna 1 | Warsaw |
 | Fri, 21 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 22 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,6 +19,7 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 275 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Erol Alkan is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Erol Alkan is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -32,4 +32,4 @@ Erol Alkan is a house and techno artist tracked on soundcheck, with 132 sets log
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

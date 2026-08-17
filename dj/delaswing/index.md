@@ -1,14 +1,13 @@
 # De La Swing
 
-De La Swing is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
+De La Swing is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at [UNVRS], Ibiza on Sat, 22 Aug 2026.
 
-De La Swing is a tech house and house artist tracked on soundcheck, with 84 sets logged across Bali, Barcelona, Bucharest and Budapest and 11 more. Often billed alongside Paco Osuna, Melanie Ribbe and Alex (ES). Next up: Cova Santa, Ibiza on Sun 16 Aug.
+De La Swing is a tech house and house artist tracked on soundcheck, with 84 sets logged across Bali, Barcelona, Bucharest and Budapest and 11 more. Often billed alongside Paco Osuna, Melanie Ribbe and Alex (ES). Next up: [UNVRS], Ibiza on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 22 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 19 Sept 2026 | [UNVRS] | Ibiza |
@@ -16,6 +15,7 @@ De La Swing is a tech house and house artist tracked on soundcheck, with 84 sets
 
 ## Recently played
 
+- Cova Santa, Ibiza — Sun, 16 Aug 2026
 - [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 28 Jul 2026
 - LAB theCLUB, Madrid — Sat, 18 Jul 2026
@@ -23,10 +23,9 @@ De La Swing is a tech house and house artist tracked on soundcheck, with 84 sets
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 4 Jul 2026
 - [UNVRS], Ibiza — Sat, 27 Jun 2026
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Paco Osuna, Melanie Ribbe, Alex (ES)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*

@@ -1,6 +1,6 @@
 # Ridwan
 
-Ridwan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+Ridwan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
 Ridwan is a house and techno artist tracked on soundcheck, with 4 sets logged across Bali. Often billed alongside Bagvs, Jonathan Kusuma and Kimoji. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Ridwan is a house and techno artist tracked on soundcheck, with 4 sets logged ac
 
 Bagvs, Jonathan Kusuma, Kimoji
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridwan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridwan/)*

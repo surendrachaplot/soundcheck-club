@@ -1,6 +1,6 @@
 # Kommune2010
 
-Kommune2010 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kabinett der Kuriositäten Open Air" on Sat, 22 Aug 2026.
+Kommune2010 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Kabinett der Kuriositäten Open Air" on Sat, 22 Aug 2026.
 
 Kommune2010 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Sprendlingerlandstr.181.
 
@@ -14,4 +14,4 @@ Kommune2010 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night
 
 Sprendlingerlandstr.181, Frankfurt
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kommune2010/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kommune2010/)*

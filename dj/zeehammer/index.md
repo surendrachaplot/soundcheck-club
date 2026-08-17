@@ -1,6 +1,6 @@
 # Zee Hammer
 
-Zee Hammer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Zee Hammer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Zee Hammer is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds, London and Manchester. Often billed alongside Ben.zo, Adam Pits and Ambient Babestation Meltdown. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Zee Hammer is a techno and experimental artist based in United Kingdom, tracked 
 
 Ben.zo, Adam Pits, Ambient Babestation Meltdown
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeehammer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeehammer/)*

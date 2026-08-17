@@ -1,6 +1,6 @@
 # Albal
 
-Albal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
+Albal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 Albal is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: Village Underground Barcelona, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Albal is a techno and house artist tracked on soundcheck, with 46 sets logged ac
 
 Juguete, ISAbella, acidheaven
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*

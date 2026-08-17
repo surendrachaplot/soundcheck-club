@@ -1,6 +1,6 @@
 # Sam Valle
 
-Sam Valle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+Sam Valle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 Sam Valle is a techno and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Newyorkcity, Sanfrancisco and Tokyo. Often billed alongside SHRAY, Choo Choo and ceviché. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Sam Valle is a techno and house artist based in United States of America, tracke
 
 SHRAY, Choo Choo, ceviché
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*

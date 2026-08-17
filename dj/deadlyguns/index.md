@@ -1,6 +1,6 @@
 # Deadly Guns
 
-Deadly Guns is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
+Deadly Guns is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
 
 Deadly Guns is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Glasgow and Madrid and 4 more. Often billed alongside DRS, Angerfist and Sound Rush. Next up: M-BIA, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Deadly Guns is a hardcore and techno artist based in United Kingdom, tracked on 
 
 DRS, Angerfist, Sound Rush
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadlyguns/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadlyguns/)*

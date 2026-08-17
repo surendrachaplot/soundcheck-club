@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kinder der Nacht - Parade After Party w/ T78" on Sat, 15 Aug 2026.
+Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz" on Fri, 21 Aug 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ADOBE, Alex Xandra, Andriiic and Anton Quasi and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alex Xandra, Andriiic, Anton Quasi and audite and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
 | Fri, 21 Aug 2026 | 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz | Gianni Noel, Luca Hagenmüller, MARIE.MOON, MixB, Nebuchadnezzar, Upzet, Zeihta, dela Moon |
 | Sat, 22 Aug 2026 | VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui | Aynaet, Gabrielle (DE), K.EULE, Odium, Section 63, Will Tempo, Xepeia, kutscher |
 | Fri, 28 Aug 2026 | Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy | Anton Quasi, Dub Isotope, EMBEE3, Jimi Handtrix, Lay.Dee Strange, Migz, MixB, Saint Popsy, Soniq, Upzet, Yoru, Yoru (Berlin), audite |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | Sat, 3 Oct 2026 | NetWork 2.0 |  |
 | Fri, 9 Oct 2026 | Seazed: Bounce & Trance Night |  |
 | Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | Ewelina Koll, GHOST DE, Marc van Linden, Seimen Dexter |
+| Sat, 31 Oct 2026 | Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown | Current Value, Upzet, unknown.dnb |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,6 +1,6 @@
 # Flor Coto
 
-Flor Coto is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Flor Coto is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
 Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Flor Coto is a house and electro artist based in Argentina, tracked on soundchec
 
 Szew, Rafael, Chuki Juri
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*

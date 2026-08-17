@@ -1,6 +1,6 @@
 # Man Power
 
-Man Power is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Man Power is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Man Power is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belfast and 24 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Man Power is a house and techno artist tracked on soundcheck, with 94 sets logge
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

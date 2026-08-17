@@ -1,6 +1,6 @@
 # Okahu Bay Wharf
 
-Okahu Bay Wharf is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "WAVES, 1862 & Pals Present DEL COSTÁ @ Okahu Bay Ft. Touch Sensitive, Frank Booker" on Sat, 22 Aug 2026.
+Okahu Bay Wharf is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "WAVES, 1862 & Pals Present DEL COSTÁ @ Okahu Bay Ft. Touch Sensitive, Frank Booker" on Sat, 22 Aug 2026.
 
 Okahu Bay Wharf is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including Bavhu, Daniel Farley, Frank Booker and Touch Sensitive. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Okahu Bay Wharf is a music venue in Auckland listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | WAVES, 1862 & Pals Present DEL COSTÁ @ Okahu Bay Ft. Touch Sensitive, Frank Booker | Bavhu, Daniel Farley, Frank Booker, Touch Sensitive |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/okahu-bay-wharf/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/okahu-bay-wharf/)*

@@ -1,6 +1,6 @@
 # yohan.aif
 
-yohan.aif is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Slakthuset, Stockholm on Sat, 22 Aug 2026.
+yohan.aif is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Slakthuset, Stockholm on Sat, 22 Aug 2026.
 
 yohan.aif is a techno and hardcore artist tracked on soundcheck, with 32 sets logged across Berlin, Stockholm and Vienna. Often billed alongside Joey (2), Claire Hardman and KILIÅN. Next up: Slakthuset, Stockholm on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ yohan.aif is a techno and hardcore artist tracked on soundcheck, with 32 sets lo
 
 Joey (2), Claire Hardman, KILIÅN
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan.aif/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan.aif/)*

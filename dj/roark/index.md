@@ -1,6 +1,6 @@
 # ROARK
 
-ROARK is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Comuna 488, Mexico City on Sat, 22 Aug 2026.
+ROARK is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at La Comuna 488, Mexico City on Sat, 22 Aug 2026.
 
 ROARK is an electro and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Mexicocity and Newyorkcity. Often billed alongside CYCLO BONETTE, Maxwellbean and Around Us. Next up: La Comuna 488, Mexicocity on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ ROARK is an electro and techno artist tracked on soundcheck, with 5 sets logged 
 
 CYCLO BONETTE, Maxwellbean, Around Us
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roark/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roark/)*

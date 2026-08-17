@@ -1,6 +1,6 @@
 # Madota
 
-Madota is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
+Madota is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
 
 Madota is a house and deep house artist based in Iran, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Ibiza and Lisbon and 11 more. Often billed alongside Kora (CA), Mira and Ata. Next up: House of Yes, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Madota is a house and deep house artist based in Iran, tracked on soundcheck, wi
 
 Kora (CA), Mira, Ata
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*

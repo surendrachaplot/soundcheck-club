@@ -1,14 +1,14 @@
 # Miro ( Stereokitchen )
 
-Miro ( Stereokitchen ) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 450 S Bixel St, Los Angeles, CA 90017, Los Angeles on Sun, 23 Aug 2026.
+Miro ( Stereokitchen ) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Apotheke, Los Angeles on Sun, 23 Aug 2026.
 
-Miro ( Stereokitchen ) is a house and deep house artist tracked on soundcheck, with 26 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco. Often billed alongside Krane, Adam Rose and Franky A. Next up: 450 S Bixel St, Los Angeles, CA 90017, Losangeles on Sun 23 Aug.
+Miro ( Stereokitchen ) is a house and deep house artist tracked on soundcheck, with 26 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco. Often billed alongside Krane, Adam Rose and Franky A. Next up: Apotheke, Losangeles on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | 450 S Bixel St, Los Angeles, CA 90017 | Los Angeles |
+| Sun, 23 Aug 2026 | Apotheke | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Miro ( Stereokitchen ) is a house and deep house artist tracked on soundcheck, w
 
 Krane, Adam Rose, Franky A
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirostereokitchen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirostereokitchen/)*

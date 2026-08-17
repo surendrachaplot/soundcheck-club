@@ -1,8 +1,8 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fvtvr, Paris on Sat, 22 Aug 2026.
+Two Dots (FR) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fvtvr, Paris on Sat, 22 Aug 2026.
 
-Two Dots (FR) is a techno and trance artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Budapest, Copenhagen and Marseille and 2 more. Often billed alongside Yasmin Regisford, 25EMEHEURE and ALIS.. Next up: Fvtvr, Paris on Sat 22 Aug.
+Two Dots (FR) is a techno and trance artist based in France, tracked on soundcheck, with 11 sets logged across Berlin, Budapest, Copenhagen and Marseille and 2 more. Often billed alongside Yasmin Regisford, 25EMEHEURE and ALIS.. Next up: Fvtvr, Paris on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Two Dots (FR) is a techno and trance artist based in France, tracked on soundche
 | Sat, 22 Aug 2026 | Fvtvr | Paris |
 | Sat, 5 Sept 2026 | Turbina | Budapest |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
+| Sat, 14 Nov 2026 | KALT | Strasbourg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Two Dots (FR) is a techno and trance artist based in France, tracked on soundche
 
 Yasmin Regisford, 25EMEHEURE, ALIS.
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

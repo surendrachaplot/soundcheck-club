@@ -1,14 +1,15 @@
 # Guile
 
-Guile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
+Guile is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
 
-Guile is a house and electro artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 3 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: Urban Spree, Berlin on Fri 28 Aug.
+Guile is a house and electro artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 3 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: Urban Spree, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Urban Spree | Berlin |
+| Fri, 18 Sept 2026 | Avant Garten | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Guile is a house and electro artist tracked on soundcheck, with 30 sets logged a
 
 Manu Oubiña, LUKAS (4), Edu C
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*

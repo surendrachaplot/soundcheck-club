@@ -1,6 +1,6 @@
 # Bonnie
 
-Bonnie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
+Bonnie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
 
 Bonnie is a house and techno artist tracked on soundcheck, with 25 sets logged across Austin, Chicago, Hamburg and Losangeles and 4 more. Often billed alongside Clyde (2), arow and Liquid Stranger. Next up: clubasia, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bonnie is a house and techno artist tracked on soundcheck, with 25 sets logged a
 
 Clyde (2), arow, Liquid Stranger
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*

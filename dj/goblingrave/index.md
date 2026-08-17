@@ -1,6 +1,6 @@
 # Goblin Grave
 
-Goblin Grave is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
+Goblin Grave is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
 
 Goblin Grave is a techno and gabber artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt, Glasgow and Nurnberg and 1 more. Often billed alongside INTOX, DJ BenGalo and EAX030. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Goblin Grave is a techno and gabber artist based in Germany, tracked on soundche
 
 INTOX, DJ BenGalo, EAX030
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goblingrave/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goblingrave/)*

@@ -1,6 +1,6 @@
 # Phoenix Landing
 
-Phoenix Landing is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Re:Set with Mawn Lower & Joe Tagessian" on Wed, 19 Aug 2026.
+Phoenix Landing is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Re:Set with Mawn Lower & Joe Tagessian" on Wed, 19 Aug 2026.
 
 Phoenix Landing is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Fred V, Joe Tagessian and Mawn Lower. Browse upcoming dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
 
@@ -15,4 +15,4 @@ Phoenix Landing is a music venue in Boston listed on soundcheck. 2 upcoming nigh
 
 512 Massachusetts Avenue; Cambridge, MA 02123; United States, Boston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*

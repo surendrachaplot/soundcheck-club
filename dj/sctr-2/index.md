@@ -1,6 +1,6 @@
 # SCTR (2)
 
-SCTR (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at BÒTOXE Club Athens, Athens on Sat, 19 Sept 2026.
+SCTR (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at BÒTOXE Club Athens, Athens on Sat, 19 Sept 2026.
 
 SCTR (2) is a techno and psytrance artist tracked on soundcheck, with 13 sets logged across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: BÒTOXE Club Athens, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ SCTR (2) is a techno and psytrance artist tracked on soundcheck, with 13 sets lo
 
 Tanison, Deherian, Christian Cambas
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*

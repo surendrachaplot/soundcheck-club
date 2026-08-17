@@ -1,6 +1,6 @@
 # Traxman
 
-Traxman is a Footwork and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
+Traxman is a Footwork and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
 
 Traxman is a footwork and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside DJ Spinn, DJ Manny and Jana Rush. Next up: Pianos, Newyorkcity on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Traxman is a footwork and house artist tracked on soundcheck, with 71 sets logge
 
 DJ Spinn, DJ Manny, Jana Rush
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*

@@ -1,14 +1,13 @@
 # Florelle
 
-Florelle is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
+Florelle is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
-Florelle is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Paris. Often billed alongside DJ Henk, subga and YËDM. Next up: Humboldthain Club, Berlin on Sat 15 Aug.
+Florelle is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Paris. Often billed alongside DJ Henk, subga and YËDM. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Humboldthain Club | Berlin |
 | Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 25 Sept 2026 | Lokschuppen Berlin | Berlin |
 
@@ -27,4 +26,4 @@ Florelle is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 DJ Henk, subga, YËDM
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*

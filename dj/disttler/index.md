@@ -1,6 +1,6 @@
 # disttler
 
-disttler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
+disttler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
 
 disttler is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Davidlab, Guido Iacovitti and Hellotrip. Next up: Mena Berlin, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ disttler is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Davidlab, Guido Iacovitti, Hellotrip
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disttler/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disttler/)*

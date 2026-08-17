@@ -1,6 +1,6 @@
 # Tauer
 
-Tauer is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Tauer is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Tauer is a techno and dub techno artist tracked on soundcheck, with 25 sets logged across Lisbon, Paris and Porto. Often billed alongside Enkō, Montero and Anika Kunst. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Tauer is a techno and dub techno artist tracked on soundcheck, with 25 sets logg
 
 Enkō, Montero, Anika Kunst
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tauer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tauer/)*

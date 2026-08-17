@@ -1,18 +1,17 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Chillin n Grillin: DJ Sub Zero, Rabieta" on Sun, 16 Aug 2026.
+Lion's Den is a music venue in Miami with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Pickle Surprise" on Sat, 29 Aug 2026.
 
-Lion's Den is a music venue in Miami listed on soundcheck. 2 upcoming nights, with line-ups including Gio Elia, Manumat, Terence Tabeau and Will Renuart. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
+Lion's Den is a music venue in Miami listed on soundcheck. 1 upcoming night, with line-ups including Gio Elia, Manumat, Terence Tabeau and Will Renuart. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Chillin n Grillin: DJ Sub Zero, Rabieta |  |
 | Sat, 29 Aug 2026 | Pickle Surprise | Gio Elia, Manumat, Terence Tabeau, Will Renuart |
 
 ## Address
 
 150 NW 73rd st, Miami
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

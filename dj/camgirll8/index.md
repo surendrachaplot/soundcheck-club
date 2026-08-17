@@ -1,6 +1,6 @@
 # camgirll8
 
-camgirll8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Rawhide, New York City on Fri, 28 Aug 2026.
+camgirll8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Rawhide, New York City on Fri, 28 Aug 2026.
 
 camgirll8 is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Memphy, FASHION (US) and Makadsi. Next up: Club Rawhide, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ camgirll8 is a house and techno artist based in United States of America, tracke
 
 Memphy, FASHION (US), Makadsi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirll8/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirll8/)*

@@ -1,14 +1,13 @@
 # Flash
 
-Flash is a music venue in Washington DC with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sunday Love: Andrey Pushkarev - Vivian Wang - Unit J" on Sun, 16 Aug 2026.
+Flash is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Eelke Kleijn" on Fri, 21 Aug 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 22 upcoming nights, with line-ups including Adi (CO), Adrian Collazo, Allanit and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including Adi (CO), Adrian Collazo, Allanit and Apollo Dust and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Sunday Love: Andrey Pushkarev - Vivian Wang - Unit J | Andrey Pushkarev, Vivian Wang |
 | Fri, 21 Aug 2026 | Eelke Kleijn | Eelke Kleijn, Tomas C |
 | Sat, 22 Aug 2026 | James Zabiela - Adi | Adi (CO), James Zabiela, SaintMark |
 | Sun, 23 Aug 2026 | Sunday Love: Isaac Carter - Cali Lanauze - Rich Thomas | Cali Lanauze, Isaac Carter, Rich Thomas |
@@ -18,9 +17,10 @@ Flash is a music venue in Washingtondc listed on soundcheck. 22 upcoming nights,
 | Fri, 4 Sept 2026 | fumi | JADE CAO, fumi (DE) |
 | Sat, 5 Sept 2026 | DJ Three & Öona Dahl [open-to-close] | Conscious Contact, DJ Three, Öona Dahl |
 | Sun, 6 Sept 2026 | Sunday Love: Eduardo de la Calle - dimneonsum - Edo | Edo, Eduardo de la Calle |
+| Fri, 11 Sept 2026 | John Talabot | Apollo Dust, Henry P (US), John Talabot |
 
 ## Address
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Morgan Seatree / Gerardo Niva / doccudder" on Sat, 15 Aug 2026.
+Mondo is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "bullet tooth / Gerardo Niva / doccudder" on Thu, 20 Aug 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including 6 SENSE, Alarico, Alba Franch and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with line-ups including 6 SENSE, Alarico, Alba Franch and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Morgan Seatree / Gerardo Niva / doccudder | Gerardo Niva, Morgan Seatree, doccudder |
 | Thu, 20 Aug 2026 | bullet tooth / Gerardo Niva / doccudder | Gerardo Niva, bullet tooth, doccudder |
 | Sat, 22 Aug 2026 | 6SENSE / Gerardo Niva / Dan Newman | 6 SENSE, Bella Claxton, Dan Newman, Gerardo Niva |
 | Thu, 27 Aug 2026 | Demi Riquisimo / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Demi Riquisimo, Gerardo Niva |
@@ -18,9 +17,10 @@ Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with 
 | Thu, 17 Sept 2026 | Alarico pres. KENJI HINA / DJ SWISHERMAN | Alarico, DJ SWISHERMAN |
 | Sat, 19 Sept 2026 | AFTERPARTY: Pegassi / Gerardo Niva B2B NewTone / EMILIJA  | EMILIJA, Gerardo Niva, NewTone, Pegassi |
 | Thu, 24 Sept 2026 | southstar B2B DJ SWISHERMAN  /  Gerardo Niva  /  doccudder   | DJ SWISHERMAN, Gerardo Niva, doccudder, southstar |
+| Sat, 26 Sept 2026 | AFTERPARTY: Gerardo Niva / Kara Okay / Freddi | Freddi, Gerardo Niva, Kara Okay |
 
 ## Address
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

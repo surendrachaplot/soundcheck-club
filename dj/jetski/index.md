@@ -1,6 +1,6 @@
 # Jetski
 
-Jetski is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Rough Trade Liverpool, Liverpool on Sat, 5 Sept 2026.
+Jetski is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Rough Trade Liverpool, Liverpool on Sat, 5 Sept 2026.
 
 Jetski is a jungle and footwork artist tracked on soundcheck, with 7 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Rough Trade Liverpool, Liverpool on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Jetski is a jungle and footwork artist tracked on soundcheck, with 7 sets logged
 
 Zubz, DJ Soyboi, DROMEK
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*

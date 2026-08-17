@@ -1,6 +1,6 @@
 # DANIEL OKARO
 
-DANIEL OKARO is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
+DANIEL OKARO is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
 
 DANIEL OKARO is a club and experimental artist based in Poland, tracked on soundcheck, with 5 sets logged across Berlin, London and Warsaw. Often billed alongside NIKITAIDISYUDA, FLASH (UK) and emi (UA). Next up: B-SIDE, Warsaw on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ DANIEL OKARO is a club and experimental artist based in Poland, tracked on sound
 
 NIKITAIDISYUDA, FLASH (UK), emi (UA)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielokaro/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielokaro/)*

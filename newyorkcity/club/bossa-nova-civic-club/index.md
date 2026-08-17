@@ -1,6 +1,6 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sybil Jason + Frantz + Ike Release" on Sun, 16 Aug 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Disco Portal" on Mon, 17 Aug 2026.
 
 Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, Ah Dek, aka ieuan and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
@@ -8,7 +8,6 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 u
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Sybil Jason + Frantz + Ike Release | Frantz, Ike Release, Sybil Jason |
 | Mon, 17 Aug 2026 | Disco Portal | LIONESSA, PUFF, Varist, suciopath |
 | Tue, 18 Aug 2026 | ESOTEK - ENTRANCE | CYNICAL (US), Friedberg, MyCube, Nöel Black, Wren's Lullaby, aka ieuan |
 | Wed, 19 Aug 2026 | TUCKWILD with cute boys, Robyn DaBank, Tasheff, Miss Hoochie, Angel, MTHR TRSA | MTHR TRSA, Robyn DaBank, Tasheff, cute boys |
@@ -18,9 +17,10 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 u
 | Sat, 22 Aug 2026 | Happy Hour by GENRELESS with steele deficiency & 3K LB Marlin |  |
 | Sun, 23 Aug 2026 | THE HOOD NEEDS HOUSE | Jedai, Jiggy Crack, Kweku Saunderson, SMURFOUDIRTY, cry$cross, nish. |
 | Sun, 23 Aug 2026 | panatekk Happy Hour with Clit.hub, Coral Kill, LaFHomme | Clit.hub, CoralKILL, LaFHomme |
+| Mon, 24 Aug 2026 | Supraliminal | Bookworms, Jalpari, MIRA MIRA, Rage.inald |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # GRETA (GR)
 
-GRETA (GR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Astron Club, Athens on Sat, 29 Aug 2026.
+GRETA (GR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Astron Club, Athens on Sat, 29 Aug 2026.
 
 GRETA (GR) is a techno and house artist tracked on soundcheck, with 38 sets logged across Athens, Berlin and Munich. Often billed alongside Ayshel, Miss Trouli and Andreas Palmer. Next up: Astron Club, Athens on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ GRETA (GR) is a techno and house artist tracked on soundcheck, with 38 sets logg
 
 Ayshel, Miss Trouli, Andreas Palmer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-gr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-gr/)*

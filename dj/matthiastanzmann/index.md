@@ -1,6 +1,6 @@
 # Matthias Tanzmann
 
-Matthias Tanzmann is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 22 Aug 2026.
+Matthias Tanzmann is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Domenic D'Agnelli, Chris Di Perri and Davide Squillace. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 1
 
 Domenic D'Agnelli, Chris Di Perri, Davide Squillace
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*

@@ -1,15 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "The Late Show" on Sat, 15 Aug 2026.
+Revolver Upstairs is a music venue in Melbourne with 20 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Tilt Shift Wednesdays" on Wed, 19 Aug 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 22 upcoming nights, with line-ups including 3rd Orbit, Acid Safari, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 20 upcoming nights, with line-ups including Acid Safari, Alex Wann, ANNIE KEZ and archiLo and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Late Show | 3rd Orbit, Freddy Gardens, Kovac, Lewis Cancut, Shannon |
-| Sun, 16 Aug 2026 | Samantha Loverdige & Cooper Smith - Winter Series pres. by Thick As Thieves | Ben Silver (AUS), Boogs, Rem Siman, Samantha Loveridge, Spacey Space, The Journey |
 | Wed, 19 Aug 2026 | Tilt Shift Wednesdays | Aristo G |
 | Thu, 20 Aug 2026 | REVOLVER BANDROOM: DUSTMYTE + Special Guests |  |
 | Fri, 21 Aug 2026 | Newsta & Friends x Revolver Fridays | DANZAH, Matt Radovich, Mike Callander, Theodore Kittens |
@@ -18,9 +16,11 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 22 upcomin
 | Wed, 26 Aug 2026 | Tilt Shift Wednesdays | Marco Liuzzi |
 | Fri, 28 Aug 2026 | Jacques Greene (CA) — Kanvas presents & Revolver Fridays | DJ Kiti, Jacques Greene, Lex, Mike Callander, Sharanya, Yollks |
 | Sat, 29 Aug 2026 | REVOLVER BANDROOM: Mount Kujo — 'The Berlin Tapes' Album Launch & Homecoming |  |
+| Sun, 30 Aug 2026 | 25 Years Deep — Boogs x Revolver Sundays | Ben Silver (AUS), Boogs, DJ JNETT, Joey Coco, Spacey Space, archiLo |
+| Fri, 4 Sept 2026 | Curated x Revolver Fridays | AROHA, Acid Safari, Flynn Bulman, Jasmine Speers, Mike Callander |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

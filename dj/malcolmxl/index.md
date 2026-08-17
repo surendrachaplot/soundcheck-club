@@ -1,6 +1,6 @@
 # Malcolm XL
 
-Malcolm XL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Club Rawhide, New York City on Fri, 21 Aug 2026.
+Malcolm XL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Club Rawhide, New York City on Fri, 21 Aug 2026.
 
 Malcolm XL is a techno and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: Club Rawhide, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Malcolm XL is a techno and club artist based in United States of America, tracke
 
 Robyn DaBank, Gagbert, DJ Freedem
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*

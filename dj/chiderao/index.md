@@ -1,6 +1,6 @@
 # Chidera O
 
-Chidera O is a Amapiano and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Vespers Club, London on Sun, 30 Aug 2026.
+Chidera O is a Amapiano and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Vespers Club, London on Sun, 30 Aug 2026.
 
 Chidera O is an amapiano and techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside MOYA_, Kabir and AYAYA. Next up: Vespers Club, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Chidera O is an amapiano and techno artist tracked on soundcheck, with 9 sets lo
 
 MOYA_, Kabir, AYAYA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiderao/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiderao/)*

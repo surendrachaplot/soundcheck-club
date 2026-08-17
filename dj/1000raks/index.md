@@ -1,6 +1,6 @@
 # 1000raks
 
-1000raks is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
+1000raks is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
 
 1000raks is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam and London. Often billed alongside LO-LOW, Manuka Honey and XS BULLY. Next up: Dalston Superstore, London on Fri 21 Aug.
 
@@ -24,4 +24,4 @@
 
 LO-LOW, Manuka Honey, XS BULLY
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*

@@ -1,6 +1,6 @@
 # Arlo
 
-Arlo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Independent, San Francisco/Oakland on Fri, 11 Sept 2026.
+Arlo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Independent, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Arlo is a house and tech house artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Bristol, Chicago and Miami and 4 more. Often billed alongside Martini Raw, AMARI and ARTIIC. Next up: The Independent, Sanfrancisco on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Arlo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Martini Raw, AMARI, ARTIIC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*

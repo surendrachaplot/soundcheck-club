@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "OPEN DECKS" on Wed, 19 Aug 2026.
+Planet Wax is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "OPEN DECKS" on Wed, 19 Aug 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Amber Rose, CATLADY, DJ Chromz and DJ Ollie and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Amber Rose, CATLADY, DJ Chromz and DJ Ollie and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Planet Wax is a music venue in London listed on soundcheck. 10 upcoming nights, 
 | Sat, 22 Aug 2026 | AWOO LA RAVE: Focus Congo Fundraiser | Amber Rose, DJ PRIYA, Petit Problème, Sho Gabi, Teddy Kitano, Tsunamy |
 | Wed, 26 Aug 2026 | OPEN DECKS |  |
 | Thu, 27 Aug 2026 | OBSIDIAN RECORDS: POP-UP | DJ Ollie, GEOMETRIKK, Tilly |
+| Fri, 28 Aug 2026 | OVERTONE // Takeover Planet Wax | Just Jane, Manga Saint Hilare |
 | Sat, 29 Aug 2026 | MOODSWING // S4AINTZ BDAY BASH | DJ Chromz, DJ Perception, Harry Luda, Jack Mensah, Lady Passion |
 | Sat, 29 Aug 2026 | PIRATEZ DUBSTEP SPECIAL | Estevez (1) |
-| Thu, 3 Sept 2026 | LEGACY: ROOTS... Where the sound began | Logan D, Millz, Nicky Blackmarket |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

@@ -1,14 +1,13 @@
 # too many Jesses
 
-too many Jesses is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bukanyr Boat, Prague on Sat, 15 Aug 2026.
+too many Jesses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 21 Aug 2026.
 
-too many Jesses is a techno and house artist based in Czech Republic, tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside ishka machina, ASCENDER and Adamatron. Next up: Bukanyr Boat, Prague on Sat 15 Aug.
+too many Jesses is a techno and house artist based in Czech Republic, tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside ishka machina, ASCENDER and Adamatron. Next up: Ankali & Planeta Za, Prague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Bukanyr Boat | Prague |
 | Fri, 21 Aug 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -21,4 +20,4 @@ too many Jesses is a techno and house artist based in Czech Republic, tracked on
 
 ishka machina, ASCENDER, Adamatron
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*

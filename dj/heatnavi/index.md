@@ -1,6 +1,6 @@
 # HEATNAVI
 
-HEATNAVI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Poetry Club, Glasgow on Sat, 26 Sept 2026.
+HEATNAVI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Poetry Club, Glasgow on Sat, 26 Sept 2026.
 
 HEATNAVI is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow. Often billed alongside Mellin, 3rdcrush and 96 Back. Next up: The Poetry Club, Glasgow on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ HEATNAVI is a drum & bass and techno artist based in United Kingdom, tracked on 
 
 Mellin, 3rdcrush, 96 Back
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heatnavi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heatnavi/)*

@@ -1,8 +1,8 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Bijou" on Fri, 21 Aug 2026.
+Audio SF is a music venue in San Francisco/Oakland with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Bijou" on Fri, 21 Aug 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 11 upcoming nights, with line-ups including Hayden James. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 12 upcoming nights, with line-ups including Hayden James. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 11 upcoming nigh
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

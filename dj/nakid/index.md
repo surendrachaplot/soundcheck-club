@@ -1,6 +1,6 @@
 # NAKiD
 
-NAKiD is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
+NAKiD is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
 
 NAKiD is a bass and drum & bass artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside ATAMI, MOOTOE and DJYOUTH. Next up: Camelot, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NAKiD is a bass and drum & bass artist based in Japan, tracked on soundcheck, wi
 
 ATAMI, MOOTOE, DJYOUTH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakid/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakid/)*

@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at All My Friends, London on Sun, 30 Aug 2026.
+KT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at All My Friends, London on Sun, 30 Aug 2026.
 
 KT is a house and techno artist tracked on soundcheck, with 124 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: All My Friends, London on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ KT is a house and techno artist tracked on soundcheck, with 124 sets logged acro
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

@@ -1,14 +1,14 @@
 # Amber Broos
 
-Amber Broos is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
+Amber Broos is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
-Amber Broos is a techno and electro artist based in Belgium, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside VE/RA, Acid Asian and Chris Avantgarde. Next up: OST, Berlin on Sat 15 Aug.
+Amber Broos is a techno and trance artist based in Belgium, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside The Rocketman, VE/RA and Acid Asian. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | OST | Berlin |
+| Sat, 14 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Amber Broos is a techno and electro artist based in Belgium, tracked on soundche
 
 ## Shares bills with
 
-VE/RA, Acid Asian, Chris Avantgarde
+The Rocketman, VE/RA, Acid Asian
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*

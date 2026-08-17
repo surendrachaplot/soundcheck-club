@@ -1,10 +1,10 @@
 # KOLLEKTIV: THE REALM at 2ten
 
-KOLLEKTIV: THE REALM at 2ten on Tue 27 Oct, Athens. 5 acts on the bill: George Apergis, Marthe, Mikele and Tolis Q and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+KOLLEKTIV: THE REALM at 2ten on Sat 10 Oct, Athens. 5 acts on the bill: George Apergis, Marthe, Mikele and Tolis Q and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 27 Oct 2026 |
+| Date | Sat, 10 Oct 2026 |
 | Venue | 2ten |
 | City | Athens |
 

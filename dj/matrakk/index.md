@@ -1,6 +1,6 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+MATRAKK is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
 MATRAKK is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside 2HOT2PLAY, CLTX and Nico Moreno. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ MATRAKK is a techno and trance artist tracked on soundcheck, with 88 sets logged
 
 2HOT2PLAY, CLTX, Nico Moreno
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*

@@ -1,6 +1,6 @@
 # branqueeno
 
-branqueeno is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+branqueeno is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 branqueeno is a house and tech house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Remniqe, Bustin' Loose and E-Mood. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ branqueeno is a house and tech house artist based in United States of America, t
 
 Remniqe, Bustin' Loose, E-Mood
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*

@@ -1,14 +1,13 @@
 # Milo Makua
 
-Milo Makua is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
+Milo Makua is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck, with 68 sets logged across Berlin, Copenhagen and Oslo. Often billed alongside Johannes Astrup, Elliott Taguchi and DJ 2LATE. Next up: Pumpehuset, Copenhagen on Sat 15 Aug.
+Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck, with 68 sets logged across Berlin, Copenhagen and Oslo. Often billed alongside Johannes Astrup, Elliott Taguchi and DJ 2LATE. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Pumpehuset | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sun, 13 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
@@ -28,4 +27,4 @@ Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck
 
 Johannes Astrup, Elliott Taguchi, DJ 2LATE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*

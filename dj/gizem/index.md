@@ -1,14 +1,13 @@
 # Gizem
 
-Gizem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+Gizem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Woodstock'69, Amsterdam on Sun, 6 Sept 2026.
 
-Gizem is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Istanbul and Lisbon. Often billed alongside Edward, Hafa and Hame (1). Next up: TILLATEC, Amsterdam on Sat 15 Aug.
+Gizem is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Istanbul and Lisbon. Often billed alongside Edward, Hafa and Hame (1). Next up: Woodstock'69, Amsterdam on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 6 Sept 2026 | Woodstock'69 | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Gizem is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 Edward, Hafa, Hame (1)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*

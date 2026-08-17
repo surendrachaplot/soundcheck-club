@@ -1,6 +1,6 @@
 # Da Capo
 
-Da Capo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 28 Aug 2026.
+Da Capo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 28 Aug 2026.
 
 Da Capo is an afro house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Bali and Barcelona and 13 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: Bolivar Beach Bar, Athens on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Da Capo is an afro house and house artist tracked on soundcheck, with 51 sets lo
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

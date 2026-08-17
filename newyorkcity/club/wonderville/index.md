@@ -1,18 +1,17 @@
 # Wonderville
 
-Wonderville is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "VITAMIN D" on Sun, 16 Aug 2026.
+Wonderville is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Tackycardia: 028" on Sat, 22 Aug 2026.
 
-Wonderville is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including AJACENT, Cryostatik, DJ girlcrush and DR DIONNE and 1 more. Browse upcoming dates, start times and who's playing. 1186 Broadway, Brooklyn, NY 11221, USA.
+Wonderville is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including AJACENT, Cryostatik, DJ girlcrush and MiGS718. Browse upcoming dates, start times and who's playing. 1186 Broadway, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | VITAMIN D | DR DIONNE |
 | Sat, 22 Aug 2026 | Tackycardia: 028 | AJACENT, Cryostatik, DJ girlcrush, MiGS718 |
 
 ## Address
 
 1186 Broadway, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/wonderville/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/wonderville/)*

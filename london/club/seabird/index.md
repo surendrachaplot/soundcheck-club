@@ -1,6 +1,6 @@
 # Seabird
 
-Seabird is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "BBE Music: Seabird Summer Takeover ft Audrey Powne trio & MUSCLECARS" on Sat, 29 Aug 2026.
+Seabird is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "BBE Music: Seabird Summer Takeover ft Audrey Powne trio & MUSCLECARS" on Sat, 29 Aug 2026.
 
 Seabird is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including MUSCLECARS. Browse upcoming dates, start times and who's playing. 40 Blackfriars Road 14th Floor, London, SE1 8NY.
 
@@ -14,4 +14,4 @@ Seabird is a music venue in London listed on soundcheck. 1 upcoming night, with 
 
 40 Blackfriars Road 14th Floor, London, SE1 8NY, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/seabird/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/seabird/)*

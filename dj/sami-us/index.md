@@ -1,6 +1,6 @@
 # S A M I
 
-S A M I is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+S A M I is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 S A M I is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Milan and Newyorkcity. Often billed alongside okDUNC, tyben and sixsix. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ S A M I is a techno and house artist based in United States of America, tracked 
 
 okDUNC, tyben, sixsix
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-us/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-us/)*

@@ -1,6 +1,6 @@
 # Shana G
 
-Shana G is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Shana G is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Shana G is a house and club artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Another George, Charles Burrows and Deejay Nye. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Shana G is a house and club artist tracked on soundcheck, with 20 sets logged ac
 
 Another George, Charles Burrows, Deejay Nye
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanag/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanag/)*

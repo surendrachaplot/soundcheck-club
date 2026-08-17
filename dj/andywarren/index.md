@@ -1,6 +1,6 @@
 # Andy Warren
 
-Andy Warren is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Andy Warren is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Andy Warren is a house and techno artist tracked on soundcheck, with 39 sets logged across Newyorkcity, Portland, Sanfrancisco and Tokyo and 1 more. Often billed alongside Peter Sheppard, Ginkgo and Trustfall. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Andy Warren is a house and techno artist tracked on soundcheck, with 39 sets log
 
 Peter Sheppard, Ginkgo, Trustfall
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*

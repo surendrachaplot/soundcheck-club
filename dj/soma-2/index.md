@@ -1,6 +1,6 @@
 # Soma (2)
 
-Soma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 28 Aug 2026.
+Soma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 28 Aug 2026.
 
 Soma (2) is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Athens, Berlin, Dublin and London and 3 more. Often billed alongside KEi, NOËL and Rikuto Shibazaki. Next up: Bahnwärter Thiel, Munich on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Soma (2) is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 KEi, NOËL, Rikuto Shibazaki
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma-2/)*

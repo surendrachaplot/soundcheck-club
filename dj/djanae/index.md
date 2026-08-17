@@ -1,6 +1,6 @@
 # DJanae
 
-DJanae is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jade, New York City on Sat, 22 Aug 2026.
+DJanae is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jade, New York City on Sat, 22 Aug 2026.
 
 DJanae is a techno and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside HEYFAYBAE, Petite Nhi and shirlz. Next up: Jade, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJanae is a techno and footwork artist based in United States of America, tracke
 
 HEYFAYBAE, Petite Nhi, shirlz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*

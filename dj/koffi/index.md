@@ -1,6 +1,6 @@
 # Koffi
 
-Koffi is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Super5, Lyon on Wed, 19 Aug 2026.
+Koffi is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Super5, Lyon on Wed, 19 Aug 2026.
 
 Koffi is an electro and house artist tracked on soundcheck, with 9 sets logged across Lyon and Paris. Often billed alongside IMA:R, Gogo Gadgeto and Zegaz. Next up: Super5, Lyon on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Koffi is an electro and house artist tracked on soundcheck, with 9 sets logged a
 
 IMA:R, Gogo Gadgeto, Zegaz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koffi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koffi/)*

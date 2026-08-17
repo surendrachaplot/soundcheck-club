@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "MONDAY ROAST w. Dorsch" on Mon, 17 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MONDAY ROAST w. Dorsch" on Mon, 17 Aug 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Adron (DE), arkadiusz.official, Boy Oh Boy and CIOZ and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -18,4 +18,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 5 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

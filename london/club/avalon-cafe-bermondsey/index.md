@@ -1,14 +1,13 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Good Night 2" on Sun, 16 Aug 2026.
+Avalon Cafe Bermondsey is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "JUICI 004 | day2nite" on Sat, 22 Aug 2026.
 
-Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Calder, Dacxi, D'Nice and Elle Akosua and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
+Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Calder, Dacxi, D'Nice and Elle Akosua and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Good Night 2 |  |
 | Sat, 22 Aug 2026 | JUICI 004 / day2nite | Calder, D'Nice, Dacxi, Manta, Qualia Trax, Reece Spooner, Yu Yang |
 | Thu, 27 Aug 2026 | Unbound Earth | Elle Akosua |
 | Fri, 28 Aug 2026 | Shimmer 008 - Affinities Edition |  |
@@ -21,4 +20,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 8 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

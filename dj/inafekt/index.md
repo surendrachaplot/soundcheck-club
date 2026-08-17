@@ -1,14 +1,13 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Club Vaag, Antwerp on Sat, 15 Aug 2026.
+Inafekt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pllek, Amsterdam on Sat, 24 Oct 2026.
 
-Inafekt is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 14 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Club Vaag, Antwerp on Sat 15 Aug.
+Inafekt is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 14 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Pllek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Club Vaag | Antwerp |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Inafekt is a techno and house artist based in United Kingdom, tracked on soundch
 
 Kyle Starkey, Entasia, DART
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

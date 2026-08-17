@@ -1,6 +1,6 @@
 # zacattacq
 
-zacattacq is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Ivy, Sydney on Sun, 6 Sept 2026.
+zacattacq is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Ivy, Sydney on Sun, 6 Sept 2026.
 
 zacattacq is a garage and techno artist tracked on soundcheck, with 9 sets logged across Australiancapitalterritory, Brisbane, Melbourne and Sydney. Often billed alongside Deens, WAXX OFF and 6 SENSE. Next up: The Ivy, Sydney on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ zacattacq is a garage and techno artist tracked on soundcheck, with 9 sets logge
 
 Deens, WAXX OFF, 6 SENSE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*

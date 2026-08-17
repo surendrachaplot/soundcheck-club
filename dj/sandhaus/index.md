@@ -1,6 +1,6 @@
 # SANDHAUS
 
-SANDHAUS is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dear Darling, London on Sat, 5 Sept 2026.
+SANDHAUS is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dear Darling, London on Sat, 5 Sept 2026.
 
 SANDHAUS is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Madrid. Often billed alongside Ind Ra, AVANTIME and Bremen. Next up: Dear Darling, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ SANDHAUS is a deep house and house artist based in United Kingdom, tracked on so
 
 Ind Ra, AVANTIME, Bremen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandhaus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandhaus/)*

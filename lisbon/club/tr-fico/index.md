@@ -1,6 +1,6 @@
 # Tráfico
 
-Tráfico is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kambalache - POP UP" on Sat, 22 Aug 2026.
+Tráfico is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Kambalache - POP UP" on Sat, 22 Aug 2026.
 
 Tráfico is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Doca Santo Amaro - Alcântara Armazém 3, Lisbon, Portugal 1350-353.
 
@@ -14,4 +14,4 @@ Tráfico is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Brow
 
 Doca Santo Amaro - Alcântara Armazém 3, Lisbon, Portugal 1350-353, Lisbon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tr-fico/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tr-fico/)*

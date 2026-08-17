@@ -1,6 +1,6 @@
 # Richard Odoi
 
-Richard Odoi is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Richard Odoi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Richard Odoi is an electronic artist based in Uganda, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside ADO (DE), Add FM and Ado. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -14,4 +14,4 @@ Richard Odoi is an electronic artist based in Uganda, tracked on soundcheck, wit
 
 ADO (DE), Add FM, Ado
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardodoi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardodoi/)*

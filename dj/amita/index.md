@@ -1,6 +1,6 @@
 # amita
 
-amita is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 1 Sept 2026.
+amita is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 1 Sept 2026.
 
 amita is a jungle and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Boston, Newyorkcity, Philadelphia and Tokyo. Often billed alongside Petal, Kaili and ANICHE. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ amita is a jungle and techno artist based in United States of America, tracked o
 
 Petal, Kaili, ANICHE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amita/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amita/)*

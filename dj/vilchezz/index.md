@@ -1,6 +1,6 @@
 # Vilchezz
 
-Vilchezz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Vilchezz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Vilchezz is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside BENZA, Grace Dahl and NDSTPS. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Vilchezz is a techno and house artist tracked on soundcheck, with 39 sets logged
 
 BENZA, Grace Dahl, NDSTPS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*

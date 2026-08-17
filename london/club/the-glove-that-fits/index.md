@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Salotto Sounds - Sunday Open Air" on Sun, 16 Aug 2026.
+The Glove That Fits is a music venue in London with 23 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "family affair volume X: a party for palestine" on Fri, 21 Aug 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 7005, AJ Manning, Alan Fitzpatrick and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 7005, AJ Manning, Alan Fitzpatrick and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Salotto Sounds - Sunday Open Air | Alfaz, NOIDMATE, Pandar, SCCO, Zak Miller |
 | Fri, 21 Aug 2026 | family affair volume X: a party for palestine | Richard Gregory, Sheriff Boo, Séarlait |
 | Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor, Kerrie, Equinox & Nik Colk Void  | Datassette, Equinox (UK), Kerrie, Kid Drama, London Modular, Monoak, Nik Colk Void, No data available, Radioactive Man, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
 | Thu, 27 Aug 2026 | pwrSystm - 1st anniversary |  |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming
 | Thu, 3 Sept 2026 | Rubedo II | CITYTRONIX, Modlar, Shayleen Rose |
 | Fri, 4 Sept 2026 | Club Hiatus x Nein: Danny Daze | Danny Daze, Franklin DJ, Meltem Yazar, Tronik Youth |
 | Sat, 5 Sept 2026 | Day & Night: Atlas Project x Bath House x Mission Control | Ardishko, FASTON, Saumac |
+| Sun, 6 Sept 2026 | Fossil Archive presents: Gareth Wild, Vindya, R.M.K | Gareth Wild, R.M.K, Vindya |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

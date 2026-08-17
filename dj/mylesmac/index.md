@@ -1,6 +1,6 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Myles Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 Myles Mac is a house and techno artist tracked on soundcheck, with 78 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Myles Mac is a house and techno artist tracked on soundcheck, with 78 sets logge
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

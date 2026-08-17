@@ -1,6 +1,6 @@
 # BHAOUNCEOUT
 
-BHAOUNCEOUT is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Coyote Studios, Los Angeles on Fri, 4 Sept 2026.
+BHAOUNCEOUT is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Coyote Studios, Los Angeles on Fri, 4 Sept 2026.
 
 BHAOUNCEOUT is a dubstep and drum & bass artist tracked on soundcheck, with 4 sets logged across Losangeles and Sanfrancisco. Often billed alongside Couya and b11nk_. Next up: Coyote Studios, Losangeles on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ BHAOUNCEOUT is a dubstep and drum & bass artist tracked on soundcheck, with 4 se
 
 Couya, b11nk_
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaounceout/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaounceout/)*

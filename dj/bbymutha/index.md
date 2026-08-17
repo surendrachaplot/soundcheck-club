@@ -1,6 +1,6 @@
 # Bbymutha
 
-Bbymutha is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
+Bbymutha is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
 
 Bbymutha is a club and techno artist tracked on soundcheck, with 9 sets logged across Chicago, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Beverly Chills, Archangel and BEYA. Next up: TRANSMISSION DC, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bbymutha is a club and techno artist tracked on soundcheck, with 9 sets logged a
 
 Beverly Chills, Archangel, BEYA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymutha/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymutha/)*

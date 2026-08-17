@@ -1,6 +1,6 @@
 # Hex Embrace
 
-Hex Embrace is a EBM and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 18 Aug 2026.
+Hex Embrace is a EBM and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 18 Aug 2026.
 
 Hex Embrace is an ebm and club artist based in United States of America, tracked on soundcheck, with 120 sets logged across Sanfrancisco. Often billed alongside ImpirumCrypt, Hopelesss and Sinnticia. Next up: F8 1192 Folsom, Sanfrancisco on Tue 18 Aug.
 
@@ -26,4 +26,4 @@ Hex Embrace is an ebm and club artist based in United States of America, tracked
 
 ImpirumCrypt, Hopelesss, Sinnticia
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexembrace/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexembrace/)*

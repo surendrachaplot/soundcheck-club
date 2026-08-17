@@ -1,6 +1,6 @@
 # Tigerbalm
 
-Tigerbalm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
+Tigerbalm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 Tigerbalm is a house and disco artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Barcelona, Bristol, Edinburgh and Ibiza and 9 more. Often billed alongside JKriv, Bill Brewster and Crazy P. Next up: 528 Ibiza, Ibiza on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Tigerbalm is a house and disco artist based in United Kingdom, tracked on soundc
 
 JKriv, Bill Brewster, Crazy P
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*

@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amber's, Manchester on Sat, 29 Aug 2026.
+Meeshy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amber's, Manchester on Sat, 29 Aug 2026.
 
 Meeshy is a tech house and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Birmingham, Ibiza and London and 2 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Amber's, Manchester on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Meeshy is a tech house and house artist tracked on soundcheck, with 44 sets logg
 
 hitty, Djammin, Shenin Amara
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

@@ -1,14 +1,14 @@
 # Who is ela¿
 
-Who is ela¿ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Who is ela¿ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Odonien, Cologne on Sat, 14 Nov 2026.
 
-Who is ela¿ is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX (2). Next up: Ritter Butzke, Berlin on Sat 15 Aug.
+Who is ela¿ is a techno and trance artist tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX (2). Next up: Odonien, Cologne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Who is ela¿ is a techno and house artist tracked on soundcheck, with 45 sets lo
 
 KRAWALLBARBIE, Anna Ullrich, BRX (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisela¿/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisela¿/)*

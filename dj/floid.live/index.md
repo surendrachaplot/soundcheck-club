@@ -1,6 +1,6 @@
 # Floid.live
 
-Floid.live is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
+Floid.live is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
 
 Floid.live is an electronic artist tracked on soundcheck, with 3 sets logged across Amsterdam, Berlin and Prague. Often billed alongside Woody92, BLUME and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Floid.live is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 Woody92, BLUME, Efdemin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*

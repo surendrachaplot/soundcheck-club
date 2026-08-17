@@ -1,14 +1,15 @@
 # The Dark Arch (T.D.A)
 
-The Dark Arch (T.D.A) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Tunnel Club, Birmingham on Fri, 25 Sept 2026.
+The Dark Arch (T.D.A) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tunnel Club, Birmingham on Fri, 25 Sept 2026.
 
-The Dark Arch (T.D.A) is a techno and acid artist tracked on soundcheck, with 7 sets logged across Birmingham. Often billed alongside A*S*Y*S (2), ASLO and BEKIMACHINE. Next up: Tunnel Club, Birmingham on Fri 25 Sept.
+The Dark Arch (T.D.A) is a techno and acid artist tracked on soundcheck, with 8 sets logged across Birmingham. Often billed alongside A*S*Y*S (2), ASLO and BEKIMACHINE. Next up: Tunnel Club, Birmingham on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Tunnel Club | Birmingham |
+| Sat, 14 Nov 2026 | Suki10c | Birmingham |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ The Dark Arch (T.D.A) is a techno and acid artist tracked on soundcheck, with 7 
 
 A*S*Y*S (2), ASLO, BEKIMACHINE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkarcht.d.a/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkarcht.d.a/)*

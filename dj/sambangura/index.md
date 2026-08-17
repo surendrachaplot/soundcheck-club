@@ -1,14 +1,13 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
+Sam Bangura is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Sam Bangura is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
+Sam Bangura is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | Hagglers Corner | Sheffield |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
@@ -28,4 +27,4 @@ Sam Bangura is a house and techno artist tracked on soundcheck, with 113 sets lo
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

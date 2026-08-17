@@ -1,14 +1,13 @@
 # Lolo (AU)
 
-Lolo (AU) is a Tech House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+Lolo (AU) is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - LFO.exp, Madrid on Sat, 5 Sept 2026.
 
-Lolo (AU) is a tech house and minimal techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin, Madrid and Melbourne. Often billed alongside Kia (AU), Reptant and Azu Tiwaline. Next up: Backsteinboot, Berlin on Sat 15 Aug.
+Lolo (AU) is a tech house and minimal techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin, Madrid and Melbourne. Often billed alongside Kia (AU), Reptant and Azu Tiwaline. Next up: TBA - LFO.exp, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Sat, 5 Sept 2026 | TBA - LFO.exp | Madrid |
 
 ## Recently played
@@ -23,4 +22,4 @@ Lolo (AU) is a tech house and minimal techno artist based in Australia, tracked 
 
 Kia (AU), Reptant, Azu Tiwaline
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolo-4/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolo-4/)*

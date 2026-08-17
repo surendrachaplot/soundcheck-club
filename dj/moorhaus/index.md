@@ -1,6 +1,6 @@
 # Moorhaus
 
-Moorhaus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at smartbar, Chicago on Sat, 22 Aug 2026.
+Moorhaus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at smartbar, Chicago on Sat, 22 Aug 2026.
 
 Moorhaus is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago. Often billed alongside Muffy, Dunes of Dawn and Zoumy. Next up: smartbar, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Moorhaus is a house and tech house artist based in United States of America, tra
 
 Muffy, Dunes of Dawn, Zoumy
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*

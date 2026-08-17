@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ministry Of Sound, London on Sat, 22 Aug 2026.
+DJ Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ministry Of Sound, London on Sat, 22 Aug 2026.
 
 DJ Harvey is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Bali and Chicago and 13 more. Often billed alongside Heidi Lawden, Natasha Diggs and Arianna Danae. Next up: Ministry Of Sound, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Harvey is a house and techno artist tracked on soundcheck, with 56 sets logge
 
 Heidi Lawden, Natasha Diggs, Arianna Danae
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

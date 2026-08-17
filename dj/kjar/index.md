@@ -1,6 +1,6 @@
 # Kjar
 
-Kjar is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
+Kjar is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
 
 Kjar is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Krakow. Often billed alongside Carla Roca, Flakka (2) and Miss Pin. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Kjar is a techno artist based in Poland, tracked on soundcheck, with 1 set logge
 
 Carla Roca, Flakka (2), Miss Pin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kjar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kjar/)*

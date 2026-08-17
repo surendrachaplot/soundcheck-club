@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "HIP HOP NIGHT: DJ CARTER B2B DJ MARATHON (CLUB BANGERS ALL NIGHT)" on Sat, 22 Aug 2026.
+Big Pink is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "HIP HOP NIGHT: DJ CARTER B2B DJ MARATHON (CLUB BANGERS ALL NIGHT)" on Sat, 22 Aug 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -19,4 +19,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

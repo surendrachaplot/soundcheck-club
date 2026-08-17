@@ -1,6 +1,6 @@
 # Pullär
 
-Pullär is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bridge 48, Barcelona on Thu, 3 Sept 2026.
+Pullär is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bridge 48, Barcelona on Thu, 3 Sept 2026.
 
 Pullär is an electronic artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: Bridge 48, Barcelona on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Pullär is an electronic artist tracked on soundcheck, with 3 sets logged across
 
 KRYTE, Franco Brida, Freeka
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*

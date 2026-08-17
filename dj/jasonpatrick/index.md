@@ -1,6 +1,6 @@
 # Jason Patrick
 
-Jason Patrick is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 29 Aug 2026.
+Jason Patrick is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 29 Aug 2026.
 
 Jason Patrick is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago, Detroit and Losangeles. Often billed alongside DJ Hyperactive, AGENT PROVOCATEUR and Adorio. Next up: Smoke & Mirrors, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jason Patrick is a techno and minimal techno artist based in United States of Am
 
 DJ Hyperactive, AGENT PROVOCATEUR, Adorio
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpatrick/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpatrick/)*

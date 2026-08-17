@@ -1,6 +1,6 @@
 # Nick Kelly
 
-Nick Kelly is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Nick Kelly is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Nick Kelly is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dan Anderson, Horsemen and IZZY (UK). Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Nick Kelly is a techno and tech house artist based in United Kingdom, tracked on
 
 Dan Anderson, Horsemen, IZZY (UK)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkelly/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkelly/)*

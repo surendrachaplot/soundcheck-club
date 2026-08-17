@@ -1,14 +1,13 @@
 # CiKi
 
-CiKi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at MTW, Frankfurt on Sat, 15 Aug 2026.
+CiKi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
 
-CiKi is a techno and trance artist tracked on soundcheck, with 36 sets logged across Frankfurt and Toronto. Often billed alongside Kacy, Polytoxic and Formale Bassgestaltung. Next up: MTW, Frankfurt on Sat 15 Aug.
+CiKi is a techno and trance artist tracked on soundcheck, with 36 sets logged across Frankfurt and Toronto. Often billed alongside Kacy, Polytoxic and Formale Bassgestaltung. Next up: Nidderbad, Frankfurt on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | MTW | Frankfurt |
 | Sat, 22 Aug 2026 | Nidderbad | Frankfurt |
 
 ## Recently played
@@ -26,4 +25,4 @@ CiKi is a techno and trance artist tracked on soundcheck, with 36 sets logged ac
 
 Kacy, Polytoxic, Formale Bassgestaltung
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*

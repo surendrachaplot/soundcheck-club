@@ -1,6 +1,6 @@
 # Jona Sorger
 
-Jona Sorger is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Jona Sorger is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Jona Sorger is a techno artist based in Austria, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Djen (2), Schiaba and Effow. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jona Sorger is a techno artist based in Austria, tracked on soundcheck, with 10 
 
 Djen (2), Schiaba, Effow
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasorger/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasorger/)*

@@ -1,6 +1,6 @@
 # Garçon
 
-Garçon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Garçon is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Garçon is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside Agonis, Timnah and Konduku. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -9,7 +9,6 @@ Garçon is a techno and house artist tracked on soundcheck, with 82 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 28 Aug 2026 | Trädgården | Stockholm |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
@@ -30,4 +29,4 @@ Garçon is a techno and house artist tracked on soundcheck, with 82 sets logged 
 
 Agonis, Timnah, Konduku
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

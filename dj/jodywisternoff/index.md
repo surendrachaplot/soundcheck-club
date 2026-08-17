@@ -1,14 +1,13 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 15 Aug 2026.
+Jody Wisternoff is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 5 Sept 2026.
 
-Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 94 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 15 Aug.
+Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 94 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: TBA, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
 | Sat, 5 Sept 2026 | TBA | London |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
@@ -27,4 +26,4 @@ Jody Wisternoff is a progressive house and house artist tracked on soundcheck, w
 
 Marsh, Nicky Elisabeth, Dosem
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

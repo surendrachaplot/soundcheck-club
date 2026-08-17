@@ -1,6 +1,6 @@
 # formica (ES)
 
-formica (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
+formica (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
 
 formica (ES) is an electronic artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Marcel Dettmann and Sugar Free. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 17 Oct.
 
@@ -14,4 +14,4 @@ formica (ES) is an electronic artist based in Spain, tracked on soundcheck, with
 
 Marcel Dettmann, Sugar Free
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formicaes/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formicaes/)*

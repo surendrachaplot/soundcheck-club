@@ -1,6 +1,6 @@
 # Tom Trago
 
-Tom Trago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
+Tom Trago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
 
 Tom Trago is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside BELLA (NL), Carlos Valdes and David Vunk. Next up: Club der Visionaere, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Tom Trago is a house and techno artist tracked on soundcheck, with 127 sets logg
 
 BELLA (NL), Carlos Valdes, David Vunk
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*

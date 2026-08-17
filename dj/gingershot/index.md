@@ -1,6 +1,6 @@
 # Gingershot
 
-Gingershot is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Turbina, Budapest on Sat, 17 Oct 2026.
+Gingershot is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Turbina, Budapest on Sat, 17 Oct 2026.
 
 Gingershot is a techno and trance artist tracked on soundcheck, with 68 sets logged across Berlin and Budapest. Often billed alongside Rozalina, Ben Dover and szoliver. Next up: Turbina, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Gingershot is a techno and trance artist tracked on soundcheck, with 68 sets log
 
 Rozalina, Ben Dover, szoliver
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*

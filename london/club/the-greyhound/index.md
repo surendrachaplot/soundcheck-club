@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SILK" on Thu, 20 Aug 2026.
+The Greyhound is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SILK" on Thu, 20 Aug 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Blossom Hill, Braga Circuit, EVIL THWEK and Gazebo DJs and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Blossom Hill, Braga Circuit, Dylan Forbes and EVIL THWEK and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 12 upcoming night
 | Sat, 5 Sept 2026 | Blossom Hill + Pez Invites: Heléna Star & Giulia Tess | Blossom Hill, Giulia Tess, Heléna Star, Lou Vincent |
 | Sat, 12 Sept 2026 | RELISH | Jackmack, Jamie Unknown, Joycey (2), Lex Hearth, Theon Bower |
 | Sat, 19 Sept 2026 | All At Once #4 - edm 4 queer ppl | EVIL THWEK, Space Candy, Takenbymarshall |
-| Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs |
+| Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

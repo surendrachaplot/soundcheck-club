@@ -1,6 +1,6 @@
 # Billy Boy
 
-Billy Boy is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jungle Bar, Brussels on Sat, 29 Aug 2026.
+Billy Boy is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jungle Bar, Brussels on Sat, 29 Aug 2026.
 
 Billy Boy is a techno and minimal techno artist tracked on soundcheck, with 17 sets logged across Bangkok, Berlin and Brussels. Often billed alongside Giizmoo, Oxtazz and Amalie. Next up: Jungle Bar, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Billy Boy is a techno and minimal techno artist tracked on soundcheck, with 17 s
 
 Giizmoo, Oxtazz, Amalie
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyboy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyboy/)*

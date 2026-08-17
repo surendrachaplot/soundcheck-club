@@ -1,6 +1,6 @@
 # Diossa
 
-Diossa is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
+Diossa is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
 
 Diossa is a techno and trance artist based in United States of America, tracked on soundcheck, with 17 sets logged across Amsterdam, Boston, Miami and Newyorkcity and 2 more. Often billed alongside Ramsey Neville, Junkfile and Marco Neves. Next up: Refuge, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Diossa is a techno and trance artist based in United States of America, tracked 
 
 Ramsey Neville, Junkfile, Marco Neves
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*

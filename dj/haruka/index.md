@@ -1,6 +1,6 @@
 # Haruka
 
-Haruka is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at VENT, Tokyo on Fri, 21 Aug 2026.
+Haruka is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at VENT, Tokyo on Fri, 21 Aug 2026.
 
 Haruka is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., Patrick Russell and Wata Igarashi. Next up: VENT, Tokyo on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Haruka is a techno and house artist tracked on soundcheck, with 129 sets logged 
 
 DJ MARIA., Patrick Russell, Wata Igarashi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*

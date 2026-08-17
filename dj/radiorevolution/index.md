@@ -1,6 +1,6 @@
 # Radio Revolution
 
-Radio Revolution is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Yless, Seoul on Sat, 22 Aug 2026.
+Radio Revolution is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Yless, Seoul on Sat, 22 Aug 2026.
 
 Radio Revolution is a minimal and house artist based in South Korea, tracked on soundcheck, with 97 sets logged across Osaka, Seoul and Singapore. Often billed alongside DJ Jinwook, Jongho and Chae. Next up: Yless, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Radio Revolution is a minimal and house artist based in South Korea, tracked on 
 
 DJ Jinwook, Jongho, Chae
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radiorevolution/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radiorevolution/)*

@@ -1,0 +1,15 @@
+# Solaris at rake?raka?
+
+Solaris at rake?raka? on Fri 4 Sept, Osaka. 1 act on the bill: Teshi tama. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 4 Sept 2026 |
+| Venue | rake?raka? |
+| City | Osaka |
+
+## Line-up
+
+- Teshi tama
+
+*Source: [soundcheck](https://soundcheck.club/e/2514101-solaris-at-rake-raka/)*

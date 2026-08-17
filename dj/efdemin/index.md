@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+Efdemin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
 
 Efdemin is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: RADION, Amsterdam on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Efdemin is a techno and house artist tracked on soundcheck, with 116 sets logged
 
 Polygonia, Steffi, Virginia
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

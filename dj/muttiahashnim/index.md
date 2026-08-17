@@ -1,6 +1,6 @@
 # Muttiah Ashnim
 
-Muttiah Ashnim is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Fundbureau, Hamburg on Fri, 25 Sept 2026.
+Muttiah Ashnim is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fundbureau, Hamburg on Fri, 25 Sept 2026.
 
 Muttiah Ashnim is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Bangkok, Hamburg and Singapore. Often billed alongside Cosmo Carbon, Läbraatz and TiM TASTE. Next up: Fundbureau, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Muttiah Ashnim is a techno and progressive house artist tracked on soundcheck, w
 
 Cosmo Carbon, Läbraatz, TiM TASTE
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muttiahashnim/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muttiahashnim/)*

@@ -1,14 +1,13 @@
 # Monophonik
 
-Monophonik is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Monophonik is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
 
-Monophonik is a techno and trance artist based in India, tracked on soundcheck, with 16 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 6 more. Often billed alongside Chalo, D.Dan and Inner Zone. Next up: Lofi, Amsterdam on Sat 15 Aug.
+Monophonik is a techno and trance artist based in India, tracked on soundcheck, with 16 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 6 more. Often billed alongside Chalo, D.Dan and Inner Zone. Next up: Den Anden Side, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 21 Aug 2026 | Den Anden Side | Copenhagen |
 | Fri, 28 Aug 2026 | Dual | Bangkok |
 | Sat, 29 Aug 2026 | 宀 Club | Hong Kong |
@@ -28,4 +27,4 @@ Monophonik is a techno and trance artist based in India, tracked on soundcheck, 
 
 Chalo, D.Dan, Inner Zone
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monophonik/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monophonik/)*

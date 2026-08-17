@@ -1,6 +1,6 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Rave Rooftop with Golpe" on Sat, 29 Aug 2026.
+Sky Lounge 360 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Rave Rooftop with Golpe" on Sat, 29 Aug 2026.
 
 Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including Golpe, Hugorieri, KOBOV and Malandra JR and 2 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
@@ -15,4 +15,4 @@ Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming night
 
 Náměstí Republiky 5, 110 00 Praha 1, Prague
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*

@@ -1,6 +1,6 @@
 # Danny Avila
 
-Danny Avila is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 29 Aug 2026.
+Danny Avila is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 29 Aug 2026.
 
 Danny Avila is a techno and tech house artist based in Spain, tracked on soundcheck, with 50 sets logged across Austin, Barcelona, Berlin and Boston and 24 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: Crobar - Buenos Aires, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Danny Avila is a techno and tech house artist based in Spain, tracked on soundch
 
 Carlos Manaça, Charles D (US), Dj Du'ArT
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*

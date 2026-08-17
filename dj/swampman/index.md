@@ -1,8 +1,8 @@
 # Swampman
 
-Swampman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Last Arch, London on Sat, 3 Oct 2026.
+Swampman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Last Arch, London on Sat, 3 Oct 2026.
 
-Swampman is a drum & bass and jungle artist based in New Zealand, tracked on soundcheck, with 1 set logged across London. Often billed alongside ETHICS, Episode Three and karishma. Next up: Last Arch, London on Sat 3 Oct.
+Swampman is a drum & bass and jungle artist based in New Zealand, tracked on soundcheck, with 1 set logged across London. Often billed alongside karishma, ETHICS and Episode Three. Next up: Last Arch, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Swampman is a drum & bass and jungle artist based in New Zealand, tracked on sou
 
 ## Shares bills with
 
-ETHICS, Episode Three, karishma
+karishma, ETHICS, Episode Three
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swampman/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swampman/)*

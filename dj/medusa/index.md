@@ -1,6 +1,6 @@
 # Medusa
 
-Medusa is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
+Medusa is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
 
 Medusa is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 23 sets logged across Basel, Bristol, Detroit and Leeds and 6 more. Often billed alongside Edgerunner, Pada and cyaabottom. Next up: Trumbullplex, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Medusa is a gabber and hardcore artist based in Germany, tracked on soundcheck, 
 
 Edgerunner, Pada, cyaabottom
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*

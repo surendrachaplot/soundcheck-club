@@ -1,6 +1,6 @@
 # RUBY RAWR
 
-RUBY RAWR is a Hardcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
+RUBY RAWR is a Hardcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
 
 RUBY RAWR is a hardcore and bass artist tracked on soundcheck, with 7 sets logged across Manchester and Nottingham. Often billed alongside FKA Hardcore, LUNAx3 and PHIA SKY. Next up: Stage and Radio, Manchester on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ RUBY RAWR is a hardcore and bass artist tracked on soundcheck, with 7 sets logge
 
 FKA Hardcore, LUNAx3, PHIA SKY
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*

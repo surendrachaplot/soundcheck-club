@@ -1,6 +1,6 @@
 # Jiu-q
 
-Jiu-q is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Monopol, Berlin on Sat, 22 Aug 2026.
+Jiu-q is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Monopol, Berlin on Sat, 22 Aug 2026.
 
 Jiu-q is an electronic artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Izumi Yamamoto, Kat Polar and Mergrim. Next up: Monopol, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Jiu-q is an electronic artist tracked on soundcheck, with 6 sets logged across B
 
 Izumi Yamamoto, Kat Polar, Mergrim
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiu-q/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiu-q/)*

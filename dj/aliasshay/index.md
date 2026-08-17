@@ -1,6 +1,6 @@
 # Alias Shay
 
-Alias Shay is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Crack Bellmer, Berlin on Sat, 22 Aug 2026.
+Alias Shay is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Crack Bellmer, Berlin on Sat, 22 Aug 2026.
 
 Alias Shay is a pop and electro artist based in Tunisia, tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside DumTak, FunkyKid and AAMIROO. Next up: Crack Bellmer, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Alias Shay is a pop and electro artist based in Tunisia, tracked on soundcheck, 
 
 DumTak, FunkyKid, AAMIROO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*

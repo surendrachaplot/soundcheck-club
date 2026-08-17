@@ -1,6 +1,6 @@
 # Sulk
 
-Sulk is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 宀 Club, Hong Kong on Sat, 22 Aug 2026.
+Sulk is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 宀 Club, Hong Kong on Sat, 22 Aug 2026.
 
 Sulk is a techno and club artist tracked on soundcheck, with 36 sets logged across Hongkong, Shanghai, Shenzhen and Tokyo. Often billed alongside DJ 86, NEBULAE and Alion. Next up: 宀 Club, Hongkong on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sulk is a techno and club artist tracked on soundcheck, with 36 sets logged acro
 
 DJ 86, NEBULAE, Alion
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*

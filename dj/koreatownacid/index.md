@@ -1,6 +1,6 @@
 # Korea Town Acid
 
-Korea Town Acid is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Korea Town Acid is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Korea Town Acid is a techno and house artist tracked on soundcheck, with 67 sets logged across Hongkong, Lyon, Montreal and Newyorkcity and 5 more. Often billed alongside Eejungmi, JIALING and SINAHILL. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -27,4 +27,4 @@ Korea Town Acid is a techno and house artist tracked on soundcheck, with 67 sets
 
 Eejungmi, JIALING, SINAHILL
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*

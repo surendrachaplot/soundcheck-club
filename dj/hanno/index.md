@@ -1,6 +1,6 @@
 # Hanno
 
-Hanno is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+Hanno is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 Hanno is a house and ballroom artist tracked on soundcheck, with 26 sets logged across Munich. Often billed alongside Angel K, Benjamin Roeder and Bogus Trumper. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hanno is a house and ballroom artist tracked on soundcheck, with 26 sets logged 
 
 Angel K, Benjamin Roeder, Bogus Trumper
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*

@@ -1,6 +1,6 @@
 # alizé.e
 
-alizé.e is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
+alizé.e is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
 
 alizé.e is an electronica and ambient artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Brussels. Often billed alongside Andriy K., Kat Never and scdr. Next up: arkaoda Berlin, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ alizé.e is an electronica and ambient artist based in France, tracked on soundc
 
 Andriy K., Kat Never, scdr
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*

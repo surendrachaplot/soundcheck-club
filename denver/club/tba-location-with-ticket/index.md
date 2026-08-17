@@ -1,6 +1,6 @@
 # TBA - Location With Ticket
 
-TBA - Location With Ticket is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Obscurity 27" on Sat, 22 Aug 2026.
+TBA - Location With Ticket is a music venue in Denver with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Obscurity 27" on Sat, 22 Aug 2026.
 
 TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Obscurity 27 |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*

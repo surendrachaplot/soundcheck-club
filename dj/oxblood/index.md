@@ -1,6 +1,6 @@
 # Oxblood
 
-Oxblood is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Wanderlust, Paris on Thu, 10 Sept 2026.
+Oxblood is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Wanderlust, Paris on Thu, 10 Sept 2026.
 
 Oxblood is a techno and ebm artist tracked on soundcheck, with 28 sets logged across Berlin, Lisbon, London and Lyon and 2 more. Often billed alongside 24sex-b, Munsinger and law and haktion. Next up: Wanderlust, Paris on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Oxblood is a techno and ebm artist tracked on soundcheck, with 28 sets logged ac
 
 24sex-b, Munsinger, law and haktion
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxblood/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxblood/)*

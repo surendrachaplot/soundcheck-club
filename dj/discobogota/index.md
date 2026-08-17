@@ -1,6 +1,6 @@
 # Disco Bogotá
 
-Disco Bogotá is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
+Disco Bogotá is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
 
 Disco Bogotá is a disco and house artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Anastasia Gotsis, Andrey Trofimov and CON-AIR. Next up: TBA - Secret Rooftop Location in Brooklyn, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Disco Bogotá is a disco and house artist tracked on soundcheck, with 14 sets lo
 
 Anastasia Gotsis, Andrey Trofimov, CON-AIR
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discobogota/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discobogota/)*

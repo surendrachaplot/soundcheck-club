@@ -1,6 +1,6 @@
 # Niki Sadeki
 
-Niki Sadeki is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
+Niki Sadeki is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
 
 Niki Sadeki is a house and deep house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 16 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: Kauz, Zurich on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Niki Sadeki is a house and deep house artist tracked on soundcheck, with 67 sets
 
 Britta Arnold, Chris Schwarzwälder, ELIF
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*

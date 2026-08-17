@@ -1,14 +1,13 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "GAGxDAS: PRIDE" on Sat, 15 Aug 2026.
+Pumpehuset is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "tonser // Pumpehuset" on Sat, 19 Sept 2026.
 
-Pumpehuset is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Cassius, Conway, dj Joe and DRAHO and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
+Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including Cassius, Conway, ELOQ and Lisa Fosmark and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | GAGxDAS: PRIDE | DRAHO, Metaraph, Milo Makua, Peachlyfe, Samantha Togni, dj Joe |
 | Sat, 19 Sept 2026 | tonser // Pumpehuset | Tonser |
 | Sat, 19 Sept 2026 | ESCAPISM presents: MPH [uk] 360° XP + Guests | ELOQ, Lisa Fosmark, MPH (1), parashoot |
 | Fri, 25 Sept 2026 | Etnica 30 Years Celebration - Origin Of Trance |  |
@@ -20,4 +19,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 7 upcoming night
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

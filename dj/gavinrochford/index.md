@@ -1,6 +1,6 @@
 # Gavin Rochford
 
-Gavin Rochford is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 19 Sept 2026.
+Gavin Rochford is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 19 Sept 2026.
 
 Gavin Rochford is a progressive house and house artist based in Ireland, tracked on soundcheck, with 5 sets logged across Berlin, Dublin and Toronto. Often billed alongside Alex O'Rion, Amber Long and Bonjour Ben. Next up: Yamamori Tengu, Dublin on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Gavin Rochford is a progressive house and house artist based in Ireland, tracked
 
 Alex O'Rion, Amber Long, Bonjour Ben
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinrochford/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinrochford/)*

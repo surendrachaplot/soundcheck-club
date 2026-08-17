@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "F2 DAY RAVE & AFTER: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama ★ Neoma ★ Sioc  " on Sat, 15 Aug 2026.
+Fuchs2 is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "F2 Live Open Air Warmup Curated by Dukla" on Thu, 20 Aug 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including aláya, Colum Urton, Dash (CZ) and DDK (1) and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including aláya, Colum Urton, Dj Alyaz and Double J and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | F2 DAY RAVE & AFTER: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama ★ Neoma ★ Sioc   | DDK (1), Dash (CZ), Helena Hauff, Inger Illel, Kaa Glo, LemonWhore, Midirama, Misha Jaru, NEW MAGIC MEDIA, Nastya Muravyova, Neoma, Nina Farrina, SJ Yellow, Sioc, TRANSmisia, divinity statue, fahell, saschka, tmk (CZ), zazitech |
 | Thu, 20 Aug 2026 | F2 Live Open Air Warmup Curated by Dukla | Dukla, Young Aesthete |
 | Thu, 3 Sept 2026 | SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader | Opi (CZ) |
 | Fri, 4 Sept 2026 | DYS x RAUM Records with MARRØN, GEISTFREI, aláya, White Aura  | Colum Urton, GEISTFREI, MARRØN, Melchiorr, Nepomuk, Nepōmuk, Verhall, White Aura, aláya, manu abeca |
@@ -22,4 +21,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with 
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

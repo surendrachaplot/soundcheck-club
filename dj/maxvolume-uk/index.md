@@ -1,6 +1,6 @@
 # Max Volume (UK)
 
-Max Volume (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Home Nightclub Bexleyheath, London on Fri, 25 Sept 2026.
+Max Volume (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Home Nightclub Bexleyheath, London on Fri, 25 Sept 2026.
 
 Max Volume (UK) is a tech house and deep house artist tracked on soundcheck, with 2 sets logged across Amsterdam and London. Often billed alongside AS I AM, Aruna and DANEC. Next up: Home Nightclub Bexleyheath, London on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Max Volume (UK) is a tech house and deep house artist tracked on soundcheck, wit
 
 AS I AM, Aruna, DANEC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume-uk/)*

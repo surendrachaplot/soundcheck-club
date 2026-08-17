@@ -1,6 +1,6 @@
 # Mera Bhai
 
-Mera Bhai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at RASA, Singapore on Sat, 22 Aug 2026.
+Mera Bhai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at RASA, Singapore on Sat, 22 Aug 2026.
 
 Mera Bhai is a house and disco artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Raji Rags, Lawrence Hart and Raidaa. Next up: RASA, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mera Bhai is a house and disco artist based in United Kingdom, tracked on soundc
 
 Raji Rags, Lawrence Hart, Raidaa
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*

@@ -1,6 +1,6 @@
 # El Pastor
 
-El Pastor is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
+El Pastor is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
 
 El Pastor is a trance and house artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside DJ BRECHSTANGE, DiskoJochen and HØLLE (2). Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ El Pastor is a trance and house artist tracked on soundcheck, with 19 sets logge
 
 DJ BRECHSTANGE, DiskoJochen, HØLLE (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elpastor/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elpastor/)*

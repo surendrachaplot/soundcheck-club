@@ -1,15 +1,13 @@
 # Cyklos
 
-Cyklos is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Razzmatazz 3, Barcelona on Sat, 15 Aug 2026.
+Cyklos is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nova Jazz Cava, Barcelona on Sat, 26 Sept 2026.
 
-Cyklos is a techno and hip-hop artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Munich. Often billed alongside stndrd, ABSIS and Spear. Next up: Razzmatazz 3, Barcelona on Sat 15 Aug.
+Cyklos is a techno and hip-hop artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Munich. Often billed alongside stndrd, ABSIS and Spear. Next up: Nova Jazz Cava, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Razzmatazz 3 | Barcelona |
-| Sat, 15 Aug 2026 | Razzmatazz | Barcelona |
 | Sat, 26 Sept 2026 | Nova Jazz Cava | Barcelona |
 
 ## Recently played
@@ -27,4 +25,4 @@ Cyklos is a techno and hip-hop artist based in Spain, tracked on soundcheck, wit
 
 stndrd, ABSIS, Spear
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*

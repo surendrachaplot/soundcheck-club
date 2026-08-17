@@ -1,6 +1,6 @@
 # Koichi (Koichiro Okada)
 
-Koichi (Koichiro Okada) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
+Koichi (Koichiro Okada) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
 
 Koichi (Koichiro Okada) is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Kyoto and Osaka. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Teranoma Tidepool, Osaka on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Koichi (Koichiro Okada) is a techno and house artist based in Japan, tracked on 
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koichikoichirookada/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koichikoichirookada/)*

@@ -1,14 +1,13 @@
 # Elliot Moriarty
 
-Elliot Moriarty is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at E1, London on Sat, 15 Aug 2026.
+Elliot Moriarty is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
 
-Elliot Moriarty is a progressive house and deep house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Budapest, Chicago and Copenhagen and 4 more. Often billed alongside Arterapsy, Cris-H and Harry Wilson. Next up: E1, London on Sat 15 Aug.
+Elliot Moriarty is a progressive house and deep house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Budapest, Chicago and Copenhagen and 4 more. Often billed alongside Arterapsy, Cris-H and Harry Wilson. Next up: fabric, London on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | E1 | London |
 | Sun, 13 Sept 2026 | fabric | London |
 | Fri, 2 Oct 2026 | Jungla London | London |
 | Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
@@ -28,4 +27,4 @@ Elliot Moriarty is a progressive house and deep house artist tracked on soundche
 
 Arterapsy, Cris-H, Harry Wilson
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*

@@ -1,6 +1,6 @@
 # Primitive Art
 
-Primitive Art is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Autosilo Richard, Milan on Sat, 19 Sept 2026.
+Primitive Art is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Autosilo Richard, Milan on Sat, 19 Sept 2026.
 
 Primitive Art is a dub techno and experimental artist based in Italy, tracked on soundcheck, with 8 sets logged across Berlin, London, Milan and Zurich. Often billed alongside STILL, AGOSTINO and Al Paino. Next up: Autosilo Richard, Milan on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Primitive Art is a dub techno and experimental artist based in Italy, tracked on
 
 STILL, AGOSTINO, Al Paino
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primitiveart/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primitiveart/)*

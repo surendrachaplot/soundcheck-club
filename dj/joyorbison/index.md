@@ -1,6 +1,6 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Joy Orbison is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 99 sets log
 
 Interplanetary Criminal, Overmono, Jyoty
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

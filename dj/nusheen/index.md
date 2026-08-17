@@ -1,6 +1,6 @@
 # Nusheen
 
-Nusheen is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Stereo, Glasgow on Sat, 3 Oct 2026.
+Nusheen is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
 Nusheen is a house and amapiano artist tracked on soundcheck, with 26 sets logged across Glasgow, London and Manchester. Often billed alongside Hometown Sound, Kahn and Naone. Next up: Stereo, Glasgow on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nusheen is a house and amapiano artist tracked on soundcheck, with 26 sets logge
 
 Hometown Sound, Kahn, Naone
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*

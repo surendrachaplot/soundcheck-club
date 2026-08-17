@@ -1,19 +1,19 @@
 # PNG (US)
 
-PNG (US) is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bolero, Seoul on Sat, 15 Aug 2026.
+PNG (US) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bolero, Seoul on Sun, 16 Aug 2026.
 
-PNG (US) is a house and club artist tracked on soundcheck, with 6 sets logged across Chicago, Sanfrancisco and Seoul. Often billed alongside Jackson Walker, vin. and AUS10. Next up: Bolero, Seoul on Sat 15 Aug.
+PNG (US) is a house and club artist tracked on soundcheck, with 6 sets logged across Chicago, Sanfrancisco and Seoul. Often billed alongside Jackson Walker, vin. and AUS10. Next up: Bolero, Seoul on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Bolero | Seoul |
 | Sun, 16 Aug 2026 | Bolero | Seoul |
 | Fri, 11 Sept 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
 
+- Bolero, Seoul — Sun, 16 Aug 2026
 - Bolero, Seoul — Sat, 15 Aug 2026
 - The Hibernia Bank Vault, San Francisco/Oakland — Sat, 16 Aug 2025
 - Faight Collective, San Francisco/Oakland — Fri, 27 Jun 2025
@@ -23,4 +23,4 @@ PNG (US) is a house and club artist tracked on soundcheck, with 6 sets logged ac
 
 Jackson Walker, vin., AUS10
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*

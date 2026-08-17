@@ -1,14 +1,15 @@
 # H-Foundation
 
-H-Foundation is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Reelworks Denver, Denver on Sat, 22 Aug 2026.
+H-Foundation is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Reelworks Denver, Denver on Sat, 22 Aug 2026.
 
-H-Foundation is a house and downtempo artist based in United States of America, tracked on soundcheck, with 6 sets logged across Chicago, Denver, London and Losangeles and 2 more. Often billed alongside Maher Daniel, Chus & Ceballos and Dig This. Next up: Reelworks Denver, Denver on Sat 22 Aug.
+H-Foundation is a house and downtempo artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Denver, London and Losangeles and 2 more. Often billed alongside Maher Daniel, Chus & Ceballos and DJ Heather. Next up: Reelworks Denver, Denver on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Reelworks Denver | Denver |
+| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ H-Foundation is a house and downtempo artist based in United States of America, 
 
 ## Shares bills with
 
-Maher Daniel, Chus & Ceballos, Dig This
+Maher Daniel, Chus & Ceballos, DJ Heather
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

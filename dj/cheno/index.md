@@ -1,6 +1,6 @@
 # Cheno
 
-Cheno is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
+Cheno is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
 
 Cheno is a hip-hop and techno artist based in South Korea, tracked on soundcheck, with 87 sets logged across Seoul. Often billed alongside AUS10, Anton Borin (2) and Mikey!. Next up: TBA, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cheno is a hip-hop and techno artist based in South Korea, tracked on soundcheck
 
 AUS10, Anton Borin (2), Mikey!
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheno/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheno/)*

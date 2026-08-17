@@ -1,6 +1,6 @@
 # Gemüt
 
-Gemüt is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dual, Bangkok on Sat, 29 Aug 2026.
+Gemüt is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dual, Bangkok on Sat, 29 Aug 2026.
 
 Gemüt is an industrial and techno artist tracked on soundcheck, with 2 sets logged across Bangkok. Often billed alongside REIKS, The3RD and InRemission. Next up: Dual, Bangkok on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Gemüt is an industrial and techno artist tracked on soundcheck, with 2 sets log
 
 REIKS, The3RD, InRemission
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemut/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemut/)*

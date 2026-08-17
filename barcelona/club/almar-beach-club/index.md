@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Placeo & Soundwave pres. Mattia Scolaro - Free Beach Party – Groovy Friday" on Fri, 21 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Placeo & Soundwave pres. Mattia Scolaro - Free Beach Party – Groovy Friday" on Fri, 21 Aug 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Alphanova, Babo, Bill Hates and Javier Ferreira and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -16,4 +16,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 3 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

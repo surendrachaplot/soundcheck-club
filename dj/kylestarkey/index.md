@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
+Kyle Starkey is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 Kyle Starkey is a techno and house artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Mon 17 Aug.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 163 sets l
 
 DART, Benwal, Faster Horses
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

@@ -1,6 +1,6 @@
 # Solopeter
 
-Solopeter is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
+Solopeter is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
 
 Solopeter is a techno artist based in Italy, tracked on soundcheck, with 9 sets logged across Milan. Often billed alongside Enygma, R.Korner and Richey V. Next up: Department 184, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Solopeter is a techno artist based in Italy, tracked on soundcheck, with 9 sets 
 
 Enygma, R.Korner, Richey V
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solopeter/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solopeter/)*

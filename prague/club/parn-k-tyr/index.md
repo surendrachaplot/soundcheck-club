@@ -1,6 +1,6 @@
 # Parník Tyrš
 
-Parník Tyrš is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "PGM Boat Party Prague with DJ Ruby, Eichenbaum, Tonaco" on Fri, 21 Aug 2026.
+Parník Tyrš is a music venue in Prague with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "PGM Boat Party Prague with DJ Ruby, Eichenbaum, Tonaco" on Fri, 21 Aug 2026.
 
 Parník Tyrš is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including ASCENDER, DJ Ruby, Eichenbaum and Tonaco. Browse upcoming dates, start times and who's playing. Rašínovo nábřeží 120 00 Prague, Czech Republic.
 
@@ -14,4 +14,4 @@ Parník Tyrš is a music venue in Prague listed on soundcheck. 1 upcoming night,
 
 Rašínovo nábřeží 120 00 Prague, Czech Republic, Prague
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/parn-k-tyr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/parn-k-tyr/)*

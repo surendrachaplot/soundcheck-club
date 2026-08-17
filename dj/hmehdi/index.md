@@ -1,6 +1,6 @@
 # HMEHDI
 
-HMEHDI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
+HMEHDI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
 
 HMEHDI is a techno and club artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Grillac, XZ5000 and Nizo. Next up: Blue Velvet, Berlin on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ HMEHDI is a techno and club artist tracked on soundcheck, with 5 sets logged acr
 
 Grillac, XZ5000, Nizo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hmehdi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hmehdi/)*

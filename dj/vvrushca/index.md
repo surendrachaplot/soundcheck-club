@@ -1,6 +1,6 @@
 # vvrushca
 
-vvrushca is a Baile Funk and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+vvrushca is a Baile Funk and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 vvrushca is a baile funk and ghetto tech artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside anymati, Matka Boska Rejwowa and Avtomat. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ vvrushca is a baile funk and ghetto tech artist based in Poland, tracked on soun
 
 anymati, Matka Boska Rejwowa, Avtomat
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vvrushca/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vvrushca/)*

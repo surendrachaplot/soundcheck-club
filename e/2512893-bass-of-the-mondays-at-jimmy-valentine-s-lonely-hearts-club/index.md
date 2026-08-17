@@ -1,10 +1,10 @@
 # Bass of the Mondays at Jimmy Valentine's Lonely Hearts Club
 
-Bass of the Mondays at Jimmy Valentine's Lonely Hearts Club on Sun 16 Aug, Washingtondc. 1 act on the bill: DJ Blasian. House. Preview the line-up and save it on soundcheck.
+Bass of the Mondays at Jimmy Valentine's Lonely Hearts Club on Mon 17 Aug, Washingtondc. 1 act on the bill: DJ Blasian. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 16 Aug 2026 |
+| Date | Mon, 17 Aug 2026 |
 | Venue | Jimmy Valentine's Lonely Hearts Club |
 | City | Washington DC |
 

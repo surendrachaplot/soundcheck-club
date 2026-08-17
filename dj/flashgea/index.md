@@ -1,14 +1,13 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Ground at Club Space, Miami on Sat, 15 Aug 2026.
+Flash Gea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: The Ground at Club Space, Miami on Sat 15 Aug.
+Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | The Ground at Club Space | Miami |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 
@@ -27,4 +26,4 @@ Flash Gea is a techno and trance artist based in United States of America, track
 
 Conrad Taylor, girl_irl, AMAYAH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

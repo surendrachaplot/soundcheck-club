@@ -1,6 +1,6 @@
 # Yaz Lancaster
 
-Yaz Lancaster is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at KINDL Centre for Contemporary Art, Berlin on Fri, 21 Aug 2026.
+Yaz Lancaster is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at KINDL Centre for Contemporary Art, Berlin on Fri, 21 Aug 2026.
 
 Yaz Lancaster is an experimental and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, London and Newyorkcity. Often billed alongside Soo Intoit, Kilopatrah Jones and Niyah West. Next up: KINDL Centre for Contemporary Art, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Yaz Lancaster is an experimental and club artist based in United States of Ameri
 
 Soo Intoit, Kilopatrah Jones, Niyah West
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*

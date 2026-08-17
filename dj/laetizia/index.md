@@ -1,6 +1,6 @@
 # Laetizia
 
-Laetizia is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Laetizia is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Laetizia is a house and experimental artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Munich. Often billed alongside N:in (DE), Festnacht and Nika Son. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Laetizia is a house and experimental artist based in Germany, tracked on soundch
 
 N:in (DE), Festnacht, Nika Son
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*

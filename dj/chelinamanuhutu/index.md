@@ -1,6 +1,6 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Chelina Manuhutu is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 14
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

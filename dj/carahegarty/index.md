@@ -1,14 +1,15 @@
 # cara hegarty
 
-cara hegarty is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 25 Aug 2026.
+cara hegarty is a Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 25 Aug 2026.
 
-cara hegarty is a techno and disco artist tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside Phoebe Roper, Brad2Mack and OFFGRID. Next up: Sneaky Pete's, Edinburgh on Tue 25 Aug.
+cara hegarty is a disco and techno artist tracked on soundcheck, with 10 sets logged across Edinburgh. Often billed alongside OFFGRID, Phoebe Roper and Brad2Mack. Next up: Sneaky Pete's, Edinburgh on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Sneaky Pete's | Edinburgh |
+| Fri, 11 Sept 2026 | La Belle Angele | Edinburgh |
 | Wed, 16 Sept 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -23,6 +24,6 @@ cara hegarty is a techno and disco artist tracked on soundcheck, with 9 sets log
 
 ## Shares bills with
 
-Phoebe Roper, Brad2Mack, OFFGRID
+OFFGRID, Phoebe Roper, Brad2Mack
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*

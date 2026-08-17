@@ -1,6 +1,6 @@
 # Belu Rodriguez
 
-Belu Rodriguez is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
+Belu Rodriguez is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
 
 Belu Rodriguez is a progressive house and tech house artist tracked on soundcheck, with 66 sets logged across Barcelona and Ibiza. Often billed alongside Noire, Tomi Deleau and Diego Montiel. Next up: La Terrrazza, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Belu Rodriguez is a progressive house and tech house artist tracked on soundchec
 
 Noire, Tomi Deleau, Diego Montiel
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belurodriguez/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belurodriguez/)*

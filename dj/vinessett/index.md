@@ -1,6 +1,6 @@
 # VINESSETT
 
-VINESSETT is a Club and Noise artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+VINESSETT is a Club and Noise artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
 VINESSETT is a club and noise artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Paris and Thehague. Often billed alongside iced lattina, Brodinski and Fredoleboss. Next up: Recyclart, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ VINESSETT is a club and noise artist tracked on soundcheck, with 18 sets logged 
 
 iced lattina, Brodinski, Fredoleboss
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*

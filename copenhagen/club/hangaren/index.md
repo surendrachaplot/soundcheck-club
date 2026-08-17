@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz " on Sat, 15 Aug 2026.
+Hangaren is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis" on Fri, 21 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz  | Elliott Taguchi, Holtz (2), Kander, Kardinal Bertram, Mëtro, UBER KNAST |
 | Fri, 21 Aug 2026 | Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis | Daria Kolosova, David Garset, Emma Priis, Johannes Astrup, pai-lin |
 | Sat, 22 Aug 2026 | Teenage Mutants, SCHAARUP, Azpecialguest, Eusherr, Gerssein, CERJ | Azpecialguest, CERJ, Gerssein, SCHAARUP, Teenage Mutants |
 | Sun, 23 Aug 2026 | Sunday Psy: Agata, Neri J, Matriark, Martin Gilleshøj | Agata (PL), Martin Gilleshøj, Matriark, Neri J |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 | Sat, 29 Aug 2026 | Karrusel Afterparty: TOCCORORO, Meilgaarden, WE.LL | Meilgaarden, TOCCORORO, WE.LL |
 | Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
 | Sat, 5 Sept 2026 | Endurance |  |
+| Fri, 11 Sept 2026 | Mija, Gusted, DRABER666 | DRABER666, Gusted, Mija |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

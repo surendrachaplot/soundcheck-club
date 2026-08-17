@@ -1,6 +1,6 @@
 # Kairogen
 
-Kairogen is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+Kairogen is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
 
 Kairogen is a techno and house artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
 
@@ -30,4 +30,4 @@ Kairogen is a techno and house artist based in United Kingdom, tracked on soundc
 
 Slam, Skillis, Feena
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*

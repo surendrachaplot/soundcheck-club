@@ -1,8 +1,8 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Second Speed: blk. Liverpool" on Sat, 3 Oct 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Second Speed: blk. Liverpool" on Sat, 3 Oct 2026.
 
-Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including Above & Beyond, Amy Wiles, Black Traffic and blk. and 2 more. Browse upcoming dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
+Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Above & Beyond, Amy Wiles, Black Traffic and blk. and 2 more. Browse upcoming dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 | Sat, 17 Oct 2026 | Above & Beyond presents Anjunabeats Liverpool | Above & Beyond, Amy Wiles, Ferry Corsten, Marsh |
 | Sat, 24 Oct 2026 | ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more | DAISY, ESC (5), Girls Don't Sync, Interplanetary Criminal, MALUGI, Notion |
 | Sat, 7 Nov 2026 | Cloonee Presents Hellbent Liverpool | Cloonee |
+| Sat, 14 Nov 2026 | Glitterbox Liverpool |  |
 
 ## Address
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

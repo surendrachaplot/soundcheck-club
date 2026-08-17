@@ -1,20 +1,20 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Radius, Chicago on Sun, 16 Aug 2026.
+ChaseWest is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 28 Aug 2026.
 
-ChaseWest is a house and tech house artist tracked on soundcheck, with 45 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Radius, Chicago on Sun 16 Aug.
+ChaseWest is a house and tech house artist tracked on soundcheck, with 45 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: 1015 Folsom, Sanfrancisco on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Radius | Chicago |
 | Fri, 28 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Radius, Chicago — Sun, 16 Aug 2026
 - Coda, Toronto — Fri, 17 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 11 Jul 2026
 - KOKO, London — Fri, 26 Jun 2026
@@ -22,10 +22,9 @@ ChaseWest is a house and tech house artist tracked on soundcheck, with 45 sets l
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - Elsewhere, New York City — Sat, 11 Apr 2026
 - Club Space Miami, Miami — Sat, 4 Apr 2026
-- Factory Town, Miami — Sun, 29 Mar 2026
 
 ## Shares bills with
 
 Beltran, KinAhau, Max Dean
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

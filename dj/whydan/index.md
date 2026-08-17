@@ -1,6 +1,6 @@
 # whydan
 
-whydan is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+whydan is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
 whydan is an electronic artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Lee Cash, ChatCTE and AG (1). Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ whydan is an electronic artist based in United States of America, tracked on sou
 
 Lee Cash, ChatCTE, AG (1)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whydan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whydan/)*

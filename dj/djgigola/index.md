@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 16 Aug 2026.
+DJ Gigola is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 DJ Gigola is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Pacha Ibiza, Ibiza on Sun 16 Aug.
 
@@ -22,6 +22,7 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 241 sets logg
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Sun, 16 Aug 2026
 - Burgess Park, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - M.O.T, London — Sat, 8 Aug 2026
@@ -29,10 +30,9 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 241 sets logg
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Else, Berlin — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
-- Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 MCR-T, KI/KI, Anetha
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

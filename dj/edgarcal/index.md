@@ -1,14 +1,13 @@
 # Edgar Cal
 
-Edgar Cal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 14 Aug 2026.
+Edgar Cal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
 
-Edgar Cal is a techno and house artist based in Canada, tracked on soundcheck, with 13 sets logged across Vancouver. Often billed alongside Fizch, AWood and C-Star. Next up: Gorg-O-Mish, Vancouver on Fri 14 Aug.
+Edgar Cal is a techno and house artist based in Canada, tracked on soundcheck, with 13 sets logged across Vancouver. Often billed alongside Fizch, AWood and C-Star. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Gorg-O-Mish | Vancouver |
 | Sat, 22 Aug 2026 | TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2) | Vancouver |
 
 ## Recently played
@@ -26,4 +25,4 @@ Edgar Cal is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Fizch, AWood, C-Star
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*

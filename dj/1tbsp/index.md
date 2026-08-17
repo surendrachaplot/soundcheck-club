@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+1tbsp is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 1tbsp is a house and techno artist tracked on soundcheck, with 116 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -27,4 +27,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

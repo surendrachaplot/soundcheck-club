@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The White Hotel, Manchester on Thu, 20 Aug 2026.
+Marie Davidson is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The White Hotel, Manchester on Thu, 20 Aug 2026.
 
 Marie Davidson is a techno and electro artist tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Austin and Bangkok and 49 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: The White Hotel, Manchester on Thu 20 Aug.
 
@@ -32,4 +32,4 @@ Marie Davidson is a techno and electro artist tracked on soundcheck, with 151 se
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

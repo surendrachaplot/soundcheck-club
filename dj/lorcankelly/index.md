@@ -1,6 +1,6 @@
 # Lorcan Kelly
 
-Lorcan Kelly is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 11 Sept 2026.
+Lorcan Kelly is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 11 Sept 2026.
 
 Lorcan Kelly is a techno and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Belfast, Berlin and Cork and 4 more. Often billed alongside Sophie (2), Chris Flannigan and DIEBYVEG. Next up: The Ulster Sports Club, Belfast on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Lorcan Kelly is a techno and house artist based in United Kingdom, tracked on so
 
 Sophie (2), Chris Flannigan, DIEBYVEG
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*

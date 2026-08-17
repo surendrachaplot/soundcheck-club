@@ -1,6 +1,6 @@
 # Lamique
 
-Lamique is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at nachbar, Amsterdam on Thu, 20 Aug 2026.
+Lamique is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at nachbar, Amsterdam on Thu, 20 Aug 2026.
 
 Lamique is a techno and house artist tracked on soundcheck, with 7 sets logged across Amsterdam and Berlin. Often billed alongside Akua, Arjun and Bastienne. Next up: nachbar, Amsterdam on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ Lamique is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 Akua, Arjun, Bastienne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamique/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamique/)*

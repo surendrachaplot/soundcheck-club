@@ -1,6 +1,6 @@
 # Morten Breum
 
-Morten Breum is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Opium Barcelona, Barcelona on Wed, 19 Aug 2026.
+Morten Breum is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Opium Barcelona, Barcelona on Wed, 19 Aug 2026.
 
 Morten Breum is a house and electro artist based in Denmark, tracked on soundcheck, with 24 sets logged across Barcelona, Detroit, Ibiza and London and 4 more. Often billed alongside David Guetta, Meduza and James Hype (UK). Next up: Opium Barcelona, Barcelona on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Morten Breum is a house and electro artist based in Denmark, tracked on soundche
 
 David Guetta, Meduza, James Hype (UK)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mortenbreum/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mortenbreum/)*

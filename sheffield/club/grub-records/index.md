@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Grub Selectors In-Store" on Fri, 21 Aug 2026.
+Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Grub Selectors In-Store" on Fri, 21 Aug 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nights, with line-ups including Wow & Flutter. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -16,4 +16,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

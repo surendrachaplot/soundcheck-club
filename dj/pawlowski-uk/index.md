@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
+Pawlowski (UK) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
 Pawlowski (UK) is a techno and trance artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Basel and Berlin and 13 more. Often billed alongside Alignment, Holy Priest and NOVAH. Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Pawlowski (UK) is a techno and trance artist tracked on soundcheck, with 27 sets
 
 Alignment, Holy Priest, NOVAH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

@@ -1,6 +1,6 @@
 # Salam Kitty
 
-Salam Kitty is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Stereo, Glasgow on Sat, 12 Sept 2026.
+Salam Kitty is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Stereo, Glasgow on Sat, 12 Sept 2026.
 
 Salam Kitty is a club and experimental artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: Stereo, Glasgow on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Salam Kitty is a club and experimental artist based in United Kingdom, tracked o
 
 Bellarosa, DIJA, HUNTRESS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*

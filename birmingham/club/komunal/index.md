@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Cue Trax + friends with Croft + Adam Mclean" on Fri, 21 Aug 2026.
+komunal is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Cue Trax + friends with Croft + Adam Mclean" on Fri, 21 Aug 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming nights, with line-ups including Dannheimer, Elliott Boyd and Tañ. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -18,4 +18,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

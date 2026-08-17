@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Laylit #149 - Detroit" on Sat, 29 Aug 2026.
+Northern Lights Lounge is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Laylit #149 - Detroit" on Sat, 29 Aug 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including Brent Shay, DJ Candor, DJ I.V. and DJ IV and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -16,4 +16,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 3 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

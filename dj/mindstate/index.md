@@ -1,14 +1,15 @@
 # Mindstate
 
-Mindstate is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Four Quarters, London on Fri, 28 Aug 2026.
+Mindstate is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Four Quarters, London on Fri, 28 Aug 2026.
 
-Mindstate is a drum & bass and dubstep artist tracked on soundcheck, with 29 sets logged across Birmingham, Bristol, Ghent and London and 1 more. Often billed alongside dogger, Verbz and DRS. Next up: Four Quarters, London on Fri 28 Aug.
+Mindstate is a drum & bass and jungle artist tracked on soundcheck, with 30 sets logged across Birmingham, Bristol, Ghent and London and 1 more. Often billed alongside dogger, Verbz and DRS. Next up: Four Quarters, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Four Quarters | London |
+| Sat, 31 Oct 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mindstate is a drum & bass and dubstep artist tracked on soundcheck, with 29 set
 
 dogger, Verbz, DRS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindstate/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindstate/)*

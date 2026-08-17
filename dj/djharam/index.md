@@ -1,6 +1,6 @@
 # DJ Haram
 
-DJ Haram is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
+DJ Haram is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
 
 DJ Haram is a club and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Barcelona, Belgrade, Berlin and Bristol and 26 more. Often billed alongside 8ULENTINA, Nazar and Kode9. Next up: TRANSMISSION DC, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Haram is a club and techno artist based in United States of America, tracked 
 
 8ULENTINA, Nazar, Kode9
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharam/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharam/)*

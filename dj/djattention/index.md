@@ -1,6 +1,6 @@
 # DJ ATTENTION
 
-DJ ATTENTION is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+DJ ATTENTION is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 DJ ATTENTION is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside grunge mum, elle xxo and Crush Club. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ ATTENTION is a techno and club artist based in United States of America, trac
 
 grunge mum, elle xxo, Crush Club
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*

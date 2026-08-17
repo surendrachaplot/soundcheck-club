@@ -1,13 +1,14 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
+Tim Lucent is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Green Room NYC, New York City on Sat, 22 Aug 2026.
 
-Tim Lucent is a house and disco artist based in United States of America, tracked on soundcheck, with 61 sets logged across Losangeles and Newyorkcity. Often billed alongside Laila Amira, Choukroun and Armii1n. Next up: Honey's, Newyorkcity on Fri 4 Sept.
+Tim Lucent is a house and disco artist based in United States of America, tracked on soundcheck, with 62 sets logged across Losangeles and Newyorkcity. Often billed alongside Laila Amira, Armii1n and Choukroun. Next up: Green Room NYC, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Green Room NYC | New York City |
 | Fri, 4 Sept 2026 | Honey's | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tim Lucent is a house and disco artist based in United States of America, tracke
 
 ## Shares bills with
 
-Laila Amira, Choukroun, Armii1n
+Laila Amira, Armii1n, Choukroun
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

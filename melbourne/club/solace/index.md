@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Free. Live. Music // Standing Circle" on Wed, 19 Aug 2026.
+Solace is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Free. Live. Music // Standing Circle" on Wed, 19 Aug 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Afrodisiac, Aidan Rudd, Asynine and Dasha SPRW and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -22,4 +22,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, wi
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

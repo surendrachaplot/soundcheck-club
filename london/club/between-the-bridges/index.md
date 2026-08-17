@@ -1,6 +1,6 @@
 # Between The Bridges
 
-Between The Bridges is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SHRBTCH PRESENTS: DJ Luck & MC Neat DAY PARTY" on Sat, 22 Aug 2026.
+Between The Bridges is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SHRBTCH PRESENTS: DJ Luck & MC Neat DAY PARTY" on Sat, 22 Aug 2026.
 
 Between The Bridges is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including DJ Luck & MC Neat and Star.One. Browse upcoming dates, start times and who's playing. Queen's Walk, South Bank, SE1.
 
@@ -15,4 +15,4 @@ Between The Bridges is a music venue in London listed on soundcheck. 2 upcoming 
 
 Queen's Walk, South Bank, SE1, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/between-the-bridges/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/between-the-bridges/)*

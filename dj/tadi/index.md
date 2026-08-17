@@ -1,6 +1,6 @@
 # tadi
 
-tadi is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Karmakoma, Belgrade on Fri, 21 Aug 2026.
+tadi is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Karmakoma, Belgrade on Fri, 21 Aug 2026.
 
 tadi is a techno and latin bass artist tracked on soundcheck, with 17 sets logged across Athens, Belgrade and Berlin. Often billed alongside Feloneezy, Kӣr and Matale. Next up: Karmakoma, Belgrade on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ tadi is a techno and latin bass artist tracked on soundcheck, with 17 sets logge
 
 Feloneezy, Kӣr, Matale
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tadi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tadi/)*

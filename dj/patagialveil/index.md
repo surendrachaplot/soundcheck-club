@@ -1,6 +1,6 @@
 # patagial veil
 
-patagial veil is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Address sent to ticket holders day of , Philadelphia on Fri, 21 Aug 2026.
+patagial veil is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Address sent to ticket holders day of , Philadelphia on Fri, 21 Aug 2026.
 
 patagial veil is a techno and acid artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside 9-System, Alien Body and B.Rod. Next up: TBA - Address sent to ticket holders day of , Philadelphia on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ patagial veil is a techno and acid artist based in United States of America, tra
 
 9-System, Alien Body, B.Rod
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patagialveil/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patagialveil/)*

@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kastel #ROOFTOPSERIES: FUCHS + AKSAK + SEMİH AKAY + Fault" on Wed, 19 Aug 2026.
+Kastel is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Kastel #ROOFTOPSERIES: FUCHS + AKSAK + SEMİH AKAY + Fault" on Wed, 19 Aug 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, with line-ups including BATU (TR), Benny Benassi, Eren Yildiz and FAITH and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -18,4 +18,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, wit
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

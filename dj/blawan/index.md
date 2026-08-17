@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 29 Aug 2026.
+Blawan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 29 Aug 2026.
 
 Blawan is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Lehmann Club, Stuttgart on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Blawan is a techno and house artist tracked on soundcheck, with 152 sets logged 
 
 Helena Hauff, JakoJako, Pariah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

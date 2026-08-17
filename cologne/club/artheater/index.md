@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SUMMER & FRIENDS – Hardbounce, Trance & Psytrance" on Sat, 15 Aug 2026.
+Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Jump House" on Fri, 21 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | SUMMER & FRIENDS – Hardbounce, Trance & Psytrance |  |
 | Fri, 21 Aug 2026 | Jump House | Diffrent, Ken Brause, Lizzle, Tristan K (1), anyka, snoritz |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
 | Fri, 28 Aug 2026 | Aura Extra with slin & Tarkno all night long on vinyl | Tarkno, slin |
@@ -22,4 +21,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

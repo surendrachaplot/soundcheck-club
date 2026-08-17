@@ -1,6 +1,6 @@
 # RAULITO WOLF
 
-RAULITO WOLF is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Klunkerkranich, Berlin on Tue, 18 Aug 2026.
+RAULITO WOLF is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Klunkerkranich, Berlin on Tue, 18 Aug 2026.
 
 RAULITO WOLF is a house and downtempo artist based in Germany, tracked on soundcheck, with 16 sets logged across Basel, Berlin, Osaka and Tokyo. Often billed alongside Raphael Hofman, ELIZEN THE EMPEROR and Fourmi Rouz. Next up: Klunkerkranich, Berlin on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ RAULITO WOLF is a house and downtempo artist based in Germany, tracked on soundc
 
 Raphael Hofman, ELIZEN THE EMPEROR, Fourmi Rouz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulitowolf/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulitowolf/)*

@@ -1,6 +1,6 @@
 # Acsa
 
-Acsa is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
+Acsa is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
 
 Acsa is a minimal techno and acid artist based in Hungary, tracked on soundcheck, with 28 sets logged across Budapest. Often billed alongside Dorota, Andrija Jäger and JAGER (HU). Next up: TBA -  Secret Open Air Party, Budapest on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Acsa is a minimal techno and acid artist based in Hungary, tracked on soundcheck
 
 Dorota, Andrija Jäger, JAGER (HU)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acsa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acsa/)*

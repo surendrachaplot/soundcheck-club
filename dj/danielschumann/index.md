@@ -1,6 +1,6 @@
 # Daniel Schumann
 
-Daniel Schumann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
+Daniel Schumann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
 Daniel Schumann is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside A.N.I.C.E., Pascale Voltaire and Flow TNTS. Next up: Birgit, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Daniel Schumann is a house and techno artist based in Germany, tracked on soundc
 
 A.N.I.C.E., Pascale Voltaire, Flow TNTS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielschumann/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielschumann/)*

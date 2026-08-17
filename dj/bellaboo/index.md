@@ -1,6 +1,6 @@
 # Bella Boo
 
-Bella Boo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Bella Boo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Art Alfie, Axel Boman and Kornél Kovács. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logge
 
 Art Alfie, Axel Boman, Kornél Kovács
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*

@@ -1,14 +1,15 @@
 # Aio
 
-Aio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Aio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
-Aio is a techno and house artist tracked on soundcheck, with 65 sets logged across Auckland, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Aender, Maurice Mino and Konfusia. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
+Aio is a techno and house artist tracked on soundcheck, with 66 sets logged across Auckland, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Aender, Maurice Mino and Sin:port. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
+| Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Aio is a techno and house artist tracked on soundcheck, with 65 sets logged acro
 
 ## Shares bills with
 
-Aender, Maurice Mino, Konfusia
+Aender, Maurice Mino, Sin:port
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

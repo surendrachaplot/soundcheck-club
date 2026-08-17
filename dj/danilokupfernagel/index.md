@@ -1,6 +1,6 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+Danilo Kupfernagel is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
 
 Danilo Kupfernagel is a techno and tech house artist tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Distillery, Leipzig on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Danilo Kupfernagel is a techno and tech house artist tracked on soundcheck, with
 
 LEENI, Mollono.Bass, Jpattersson
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*

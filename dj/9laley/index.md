@@ -1,13 +1,14 @@
 # 9LALEY
 
-9LALEY is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+9LALEY is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
 
-9LALEY is a trance and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Munich and 1 more. Often billed alongside NAGINI, HIVEMIND and Praun. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
+9LALEY is a trance and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Cologne and Munich and 1 more. Often billed alongside NAGINI, HIVEMIND and Praun. Next up: Pineapple Park, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Pineapple Park | Munich |
 | Sat, 29 Aug 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 NAGINI, HIVEMIND, Praun
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*

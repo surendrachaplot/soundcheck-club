@@ -1,6 +1,6 @@
 # Uma Scheffer
 
-Uma Scheffer is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at City Hall, Barcelona on Mon, 17 Aug 2026.
+Uma Scheffer is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at City Hall, Barcelona on Mon, 17 Aug 2026.
 
 Uma Scheffer is a techno and electronica artist based in Argentina, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside Deimov, Julieta Kopp and oyokai. Next up: City Hall, Barcelona on Mon 17 Aug.
 
@@ -27,4 +27,4 @@ Uma Scheffer is a techno and electronica artist based in Argentina, tracked on s
 
 Deimov, Julieta Kopp, oyokai
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*

@@ -1,6 +1,6 @@
 # Your Poison
 
-Your Poison is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Le Petit Salon, Lyon on Sat, 12 Sept 2026.
+Your Poison is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Le Petit Salon, Lyon on Sat, 12 Sept 2026.
 
 Your Poison is a techno and trance artist based in France, tracked on soundcheck, with 2 sets logged across Lyon. Often billed alongside Cara Elizabeth, ENFAN and L.zwo. Next up: Le Petit Salon, Lyon on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Your Poison is a techno and trance artist based in France, tracked on soundcheck
 
 Cara Elizabeth, ENFAN, L.zwo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourpoison/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourpoison/)*

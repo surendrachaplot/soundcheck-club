@@ -1,6 +1,6 @@
 # SARA AFSHAR
 
-SARA AFSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 22 Aug 2026.
+SARA AFSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 SARA AFSHAR is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Emanate, Rooz and Dubfire. Next up: The Midway, Sanfrancisco on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SARA AFSHAR is a techno and house artist based in United States of America, trac
 
 Emanate, Rooz, Dubfire
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saraafshar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saraafshar/)*

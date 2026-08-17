@@ -1,6 +1,6 @@
 # wallflower_
 
-wallflower_ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
+wallflower_ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
 
 wallflower_ is a techno and house artist based in Ukraine, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and Glasgow and 1 more. Often billed alongside SOCIAL VLAD, MZR and Pino Peña. Next up: Paloma, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ wallflower_ is a techno and house artist based in Ukraine, tracked on soundcheck
 
 SOCIAL VLAD, MZR, Pino Peña
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallflower_/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallflower_/)*

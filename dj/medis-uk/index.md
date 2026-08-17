@@ -1,6 +1,6 @@
 # Medis
 
-Medis is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Love Inn, Bristol on Thu, 20 Aug 2026.
+Medis is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Love Inn, Bristol on Thu, 20 Aug 2026.
 
 Medis is a bass and dubstep artist tracked on soundcheck, with 38 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Neek, Amy Kisnorbo and Commodo. Next up: The Love Inn, Bristol on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Medis is a bass and dubstep artist tracked on soundcheck, with 38 sets logged ac
 
 Neek, Amy Kisnorbo, Commodo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medis-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medis-uk/)*

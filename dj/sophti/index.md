@@ -1,14 +1,13 @@
 # Sophti
 
-Sophti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+Sophti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Sophti is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside DJ Business (2), Beqqi and Carl Hang. Next up: ://about blank, Berlin on Sat 15 Aug.
+Sophti is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside DJ Business (2), Beqqi and Carl Hang. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | ://about blank | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sophti is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 DJ Business (2), Beqqi, Carl Hang
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*

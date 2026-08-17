@@ -1,6 +1,6 @@
 # Oliver Night
 
-Oliver Night is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Grow, London on Sat, 29 Aug 2026.
+Oliver Night is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Grow, London on Sat, 29 Aug 2026.
 
 Oliver Night is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam and London. Often billed alongside Cengiz, Midnight Runner and Rohan Rakhit. Next up: Grow, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Oliver Night is a house and broken beat artist based in United Kingdom, tracked 
 
 Cengiz, Midnight Runner, Rohan Rakhit
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivernight/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivernight/)*

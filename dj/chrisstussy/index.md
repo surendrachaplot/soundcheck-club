@@ -1,6 +1,6 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Chris Stussy is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Chris Stussy is a house and techno artist tracked on soundcheck, with 273 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
@@ -23,6 +23,7 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 273 sets l
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - SWG3, Glasgow — Sat, 8 Aug 2026
 - SWG3, Glasgow — Fri, 7 Aug 2026
@@ -30,10 +31,9 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 273 sets l
 - Woodstock'69, Amsterdam — Sun, 2 Aug 2026
 - Hardturm Areal, Zurich — Sat, 1 Aug 2026
 - Burgess Park, London — Fri, 31 Jul 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

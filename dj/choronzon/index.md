@@ -1,6 +1,6 @@
 # Choronzon
 
-Choronzon is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
+Choronzon is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
 
 Choronzon is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Athens, Berlin, London and Tbilisi. Often billed alongside Dahc Dermur VIII, Ancient Methods and Becky Stroke. Next up: Astron Club, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Choronzon is a techno and industrial artist tracked on soundcheck, with 31 sets 
 
 Dahc Dermur VIII, Ancient Methods, Becky Stroke
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*

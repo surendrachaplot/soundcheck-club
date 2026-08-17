@@ -1,6 +1,6 @@
 # Jorge Savoretti
 
-Jorge Savoretti is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 4 Sept 2026.
+Jorge Savoretti is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 4 Sept 2026.
 
 Jorge Savoretti is a house and minimal artist tracked on soundcheck, with 36 sets logged across Auckland, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Arapu, Danillo Coppaz and Giorgio Robles. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jorge Savoretti is a house and minimal artist tracked on soundcheck, with 36 set
 
 Arapu, Danillo Coppaz, Giorgio Robles
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesavoretti/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesavoretti/)*

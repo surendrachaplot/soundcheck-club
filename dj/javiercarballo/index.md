@@ -1,6 +1,6 @@
 # Javier Carballo
 
-Javier Carballo is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 12 Sept 2026.
+Javier Carballo is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 12 Sept 2026.
 
 Javier Carballo is an electro and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Les Enfants Brillants, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Javier Carballo is an electro and techno artist tracked on soundcheck, with 91 s
 
 ildec, Hitch, Alex (ES)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

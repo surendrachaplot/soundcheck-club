@@ -1,6 +1,6 @@
 # Tash LC
 
-Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
+Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
 
 Tash LC is a dancehall and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Ormside Projects, London on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Tash LC is a dancehall and house artist tracked on soundcheck, with 120 sets log
 
 Ahadadream, Jamz Supernova, Moxie
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

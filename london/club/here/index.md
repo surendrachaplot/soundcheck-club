@@ -1,8 +1,8 @@
 # HERE
 
-HERE is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
+HERE is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
 
-HERE is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AliA, Alix Perez, Beatrice M. and Bitter Babe and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+HERE is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including AliA, Alix Perez, Beatrice M. and Bitter Babe and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
@@ -17,9 +17,10 @@ HERE is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 | Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Club London | Cassius |
 | Sat, 7 Nov 2026 | Two Shell (with Weirdcore) — HERE @ Outernet, London | Two Shell |
+| Sat, 14 Nov 2026 | The History of Jungle | DJ Hype, DJ Rap, DJ SS, Eksman, Grooverider, Inja, Kenny Ken, MC Det, MC Flux, MC GQ, Majistrate, Navigator, Nicky Blackmarket, Roni Size |
 
 ## Address
 
 Denmark Street, London WC2H, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/here/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/here/)*

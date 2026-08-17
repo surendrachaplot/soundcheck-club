@@ -1,14 +1,15 @@
 # 1908
 
-1908 is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Migas, Hong Kong on Sat, 29 Aug 2026.
+1908 is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Migas, Hong Kong on Sat, 29 Aug 2026.
 
-1908 is a bass and drum & bass artist tracked on soundcheck, with 22 sets logged across Bangkok and Hongkong. Often billed alongside Joesnotdead, GONG! and HØRǍÇÍÒ. Next up: Migas, Hongkong on Sat 29 Aug.
+1908 is a bass and drum & bass artist tracked on soundcheck, with 23 sets logged across Bangkok and Hongkong. Often billed alongside GONG!, Joesnotdead and HØRǍÇÍÒ. Next up: Migas, Hongkong on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Migas | Hong Kong |
+| Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Joesnotdead, GONG!, HØRǍÇÍÒ
+GONG!, Joesnotdead, HØRǍÇÍÒ
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*

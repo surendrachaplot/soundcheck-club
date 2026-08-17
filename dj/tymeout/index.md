@@ -1,8 +1,8 @@
 # Tymeout
 
-Tymeout is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
+Tymeout is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
 
-Tymeout is a techno and hardcore artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside HiroHiro, Rëgret and SEIGI.. Next up: Nakano Heavysick Zero, Tokyo on Sat 12 Sept.
+Tymeout is a hardcore and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside SEIGI., HiroHiro and Rëgret. Next up: Nakano Heavysick Zero, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Tymeout is a techno and hardcore artist based in Japan, tracked on soundcheck, w
 
 ## Shares bills with
 
-HiroHiro, Rëgret, SEIGI.
+SEIGI., HiroHiro, Rëgret
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymeout/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymeout/)*

@@ -1,14 +1,15 @@
 # Taku Hirayama
 
-Taku Hirayama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at 宀 Club, Hong Kong on Fri, 4 Sept 2026.
+Taku Hirayama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 宀 Club, Hong Kong on Fri, 4 Sept 2026.
 
-Taku Hirayama is a techno and house artist tracked on soundcheck, with 30 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Dan-neo, Finsent C and Faxtory. Next up: 宀 Club, Hongkong on Fri 4 Sept.
+Taku Hirayama is a techno and house artist tracked on soundcheck, with 31 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Finsent C, Dan-neo and Faxtory. Next up: 宀 Club, Hongkong on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | 宀 Club | Hong Kong |
+| Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Taku Hirayama is a techno and house artist tracked on soundcheck, with 30 sets l
 
 ## Shares bills with
 
-Dan-neo, Finsent C, Faxtory
+Finsent C, Dan-neo, Faxtory
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*

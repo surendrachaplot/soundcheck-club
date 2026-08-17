@@ -1,6 +1,6 @@
 # KARABA
 
-KARABA is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Gallery, London on Fri, 28 Aug 2026.
+KARABA is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Gallery, London on Fri, 28 Aug 2026.
 
 KARABA is an afro house and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Berlin, London, Losangeles and Miami and 7 more. Often billed alongside Airon, DJ PERIODT and DJ Sam. Next up: Gallery, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ KARABA is an afro house and house artist based in United States of America, trac
 
 Airon, DJ PERIODT, DJ Sam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*

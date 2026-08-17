@@ -1,6 +1,6 @@
 # Hector Moreno
 
-Hector Moreno is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ocean Drive Hotel, Ibiza on Fri, 4 Sept 2026.
+Hector Moreno is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ocean Drive Hotel, Ibiza on Fri, 4 Sept 2026.
 
 Hector Moreno is a house and techno artist based in Switzerland, tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Berlin and Geneva and 3 more. Often billed alongside Fernando De Matos, SamC and Master M. Next up: Ocean Drive Hotel, Ibiza on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Hector Moreno is a house and techno artist based in Switzerland, tracked on soun
 
 Fernando De Matos, SamC, Master M
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*

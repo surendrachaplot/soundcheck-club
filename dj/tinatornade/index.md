@@ -1,6 +1,6 @@
 # Tina Tornade
 
-Tina Tornade is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at La Gare / Le Gore, Paris on Sun, 16 Aug 2026.
+Tina Tornade is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at La Gare / Le Gore, Paris on Sun, 16 Aug 2026.
 
 Tina Tornade is a techno and bass artist tracked on soundcheck, with 45 sets logged across Nantes, Paris and Strasbourg. Often billed alongside KUSS, Alys LF and Or'l. Next up: La Gare / Le Gore, Paris on Sun 16 Aug.
 
@@ -13,6 +13,7 @@ Tina Tornade is a techno and bass artist tracked on soundcheck, with 45 sets log
 
 ## Recently played
 
+- La Gare / Le Gore, Paris — Sun, 16 Aug 2026
 - Mia Mao, Paris — Sat, 25 Jul 2026
 - Pavillon Villette, Paris — Sat, 13 Jun 2026
 - Stereolux, Nantes — Sat, 25 Oct 2025
@@ -20,10 +21,9 @@ Tina Tornade is a techno and bass artist tracked on soundcheck, with 45 sets log
 - Le 211, Paris — Sat, 11 Oct 2025
 - La Gaîté Lyrique, Paris — Sat, 20 Sept 2025
 - Glazart, Paris — Sat, 20 Sept 2025
-- La Gare / Le Gore, Paris — Sun, 24 Aug 2025
 
 ## Shares bills with
 
 KUSS, Alys LF, Or'l
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*

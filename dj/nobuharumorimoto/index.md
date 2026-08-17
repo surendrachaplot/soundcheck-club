@@ -1,6 +1,6 @@
 # Nobuharu Morimoto
 
-Nobuharu Morimoto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Solfa, Tokyo on Thu, 20 Aug 2026.
+Nobuharu Morimoto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Solfa, Tokyo on Thu, 20 Aug 2026.
 
 Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Negami, COSMOGANG and nylon. Next up: Solfa, Tokyo on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundc
 
 Negami, COSMOGANG, nylon
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuharumorimoto/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuharumorimoto/)*

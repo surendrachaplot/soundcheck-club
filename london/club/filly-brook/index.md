@@ -1,14 +1,13 @@
 # Filly Brook
 
-Filly Brook is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Vinyl Quest" on Sun, 16 Aug 2026.
+Filly Brook is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Eleventh Heaven" on Fri, 4 Sept 2026.
 
-Filly Brook is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including LEV (UK) and Max Sinàl. Browse upcoming dates, start times and who's playing. 392 Grove Green Road, London, E11 4AP, United Kingdom.
+Filly Brook is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 392 Grove Green Road, London, E11 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Vinyl Quest | LEV (UK), Max Sinàl |
 | Fri, 4 Sept 2026 | Eleventh Heaven |  |
 | Fri, 25 Sept 2026 | Leyton Arts Club Launch Party |  |
 
@@ -16,4 +15,4 @@ Filly Brook is a music venue in London listed on soundcheck. 3 upcoming nights, 
 
 392 Grove Green Road, London, E11 4AP, United Kingdom, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*

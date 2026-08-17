@@ -1,6 +1,6 @@
 # Skratch
 
-Skratch is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
+Skratch is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
 
 Skratch is a bass and dub artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Fukinsei, Orson and Cate Hops. Next up: Panke, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Skratch is a bass and dub artist based in Germany, tracked on soundcheck, with 1
 
 Fukinsei, Orson, Cate Hops
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skratch/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skratch/)*

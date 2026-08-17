@@ -1,6 +1,6 @@
 # Dj PeXu
 
-Dj PeXu is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA, London on Sat, 22 Aug 2026.
+Dj PeXu is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 22 Aug 2026.
 
 Dj PeXu is a techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Shane DB, Spec J DJ and El Tel The Transcender. Next up: TBA, London on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Dj PeXu is a techno artist tracked on soundcheck, with 2 sets logged across Lond
 
 Shane DB, Spec J DJ, El Tel The Transcender
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpexu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpexu/)*

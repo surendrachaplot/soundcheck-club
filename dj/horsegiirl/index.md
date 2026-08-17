@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+horsegiirL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 horsegiirL is a techno and house artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside DJ Gigola, MCR-T and KI/KI. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -32,4 +32,4 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 
 DJ Gigola, MCR-T, KI/KI
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

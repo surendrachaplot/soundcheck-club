@@ -1,6 +1,6 @@
 # MASi
 
-MASi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Bellevue, Zurich on Sat, 12 Sept 2026.
+MASi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Bellevue, Zurich on Sat, 12 Sept 2026.
 
 MASi is a techno and house artist based in Spain, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside GIORGIO (IT) and Rocco. Next up: Club Bellevue, Zurich on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ MASi is a techno and house artist based in Spain, tracked on soundcheck, with 1 
 
 GIORGIO (IT), Rocco
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masi/)*

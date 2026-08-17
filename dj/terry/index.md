@@ -1,6 +1,6 @@
 # Terry
 
-Terry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 18 Aug 2026.
+Terry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 18 Aug 2026.
 
 Terry is a house and techno artist tracked on soundcheck, with 22 sets logged across Athens, Brussels, Melbourne and Mykonos and 1 more. Often billed alongside Benny Benassi, Alok and Bex. Next up: Cavo Paradiso, Mykonos on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Terry is a house and techno artist tracked on soundcheck, with 22 sets logged ac
 
 Benny Benassi, Alok, Bex
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terry/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terry/)*

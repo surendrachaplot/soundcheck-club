@@ -1,14 +1,13 @@
 # Verushka
 
-Verushka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 15 Aug 2026.
+Verushka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
-Verushka is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Acidnena, Meritxell De Soto and Hello Sasy. Next up: Den Anden Side, Copenhagen on Sat 15 Aug.
+Verushka is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Acidnena, Meritxell De Soto and Hello Sasy. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Den Anden Side | Copenhagen |
 | Fri, 21 Aug 2026 | Razzmatazz | Barcelona |
 | Sat, 29 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 4 Sept 2026 | ÆDEN | Berlin |
@@ -29,4 +28,4 @@ Verushka is a house and techno artist tracked on soundcheck, with 98 sets logged
 
 Acidnena, Meritxell De Soto, Hello Sasy
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*

@@ -1,6 +1,6 @@
 # VXBZ
 
-VXBZ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
+VXBZ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
 
 VXBZ is a trance and techno artist tracked on soundcheck, with 5 sets logged across Basel. Often billed alongside IULIATSKI, Galopp and L.zwo. Next up: Bredella Village, Basel on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ VXBZ is a trance and techno artist tracked on soundcheck, with 5 sets logged acr
 
 IULIATSKI, Galopp, L.zwo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*

@@ -1,6 +1,6 @@
 # RONI
 
-RONI is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+RONI is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
 RONI is a techno and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 27 more. Often billed alongside Lisa More, Aloka and Identified Patient. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ RONI is a techno and bass artist tracked on soundcheck, with 112 sets logged acr
 
 Lisa More, Aloka, Identified Patient
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

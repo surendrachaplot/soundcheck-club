@@ -1,19 +1,19 @@
 # A.M. Project
 
-A.M. Project is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
+A.M. Project is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
-A.M. Project is a house and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 16 Aug.
+A.M. Project is a house and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Sat, 29 Aug 2026 | Lofi | Amsterdam |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 
 ## Recently played
 
+- Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 16 Aug 2026
 - Honey Street Studio, Manchester — Sat, 20 Jun 2026
 - Distrikt, Leeds — Sun, 3 May 2026
 - TBA - San Antonio, Sa Punta des Molí, Ibiza — Sat, 2 May 2026
@@ -21,10 +21,9 @@ A.M. Project is a house and electronica artist tracked on soundcheck, with 70 se
 - Eden, Ibiza — Sat, 28 Mar 2026
 - fabric, London — Sun, 1 Mar 2026
 - Seaseaclub Barcelona, Barcelona — Sat, 21 Feb 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Samuel Deep, AZAAD, DJ Senc
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*

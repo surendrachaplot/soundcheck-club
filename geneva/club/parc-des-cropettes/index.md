@@ -1,6 +1,6 @@
 # Parc des Cropettes
 
-Parc des Cropettes is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Picnic Culturel avec le Label HU" on Thu, 20 Aug 2026.
+Parc des Cropettes is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Picnic Culturel avec le Label HU" on Thu, 20 Aug 2026.
 
 Parc des Cropettes is a music venue in Geneva listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Parc des Cropettes is a music venue in Geneva listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Picnic Culturel avec le Label HU |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/parc-des-cropettes/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/parc-des-cropettes/)*

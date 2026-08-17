@@ -1,14 +1,13 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+DJ ZBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
-DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, with 14 sets logged across Bangkok, Barcelona, Berlin and Prague and 2 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Esther Silex. Next up: Renate, Berlin on Sat 15 Aug.
+DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, with 14 sets logged across Bangkok, Barcelona, Berlin and Prague and 2 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Esther Silex. Next up: Kater, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Renate | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Sat, 22 Aug 2026 | Trojský Pivovar | Prague |
 
@@ -27,4 +26,4 @@ DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Britta Arnold, Chris Schwarzwälder, Esther Silex
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

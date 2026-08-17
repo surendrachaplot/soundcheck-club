@@ -1,6 +1,6 @@
 # Boundless (1)
 
-Boundless (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 21 Aug 2026.
+Boundless (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 21 Aug 2026.
 
 Boundless (1) is a techno and house artist based in Portugal, tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Lisbon and London and 4 more. Often billed alongside Jorge Martins, Ben Jammin and Bryan Ro. Next up: Village Underground Lisboa, Lisbon on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Boundless (1) is a techno and house artist based in Portugal, tracked on soundch
 
 Jorge Martins, Ben Jammin, Bryan Ro
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*

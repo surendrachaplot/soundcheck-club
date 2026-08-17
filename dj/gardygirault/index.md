@@ -1,6 +1,6 @@
 # Gardy Girault
 
-Gardy Girault is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Sultan Room, New York City on Sat, 29 Aug 2026.
+Gardy Girault is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Sultan Room, New York City on Sat, 29 Aug 2026.
 
 Gardy Girault is an afro house and amapiano artist tracked on soundcheck, with 19 sets logged across Miami, Montreal and Newyorkcity. Often billed alongside Poirier and pizzi. Next up: The Sultan Room, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gardy Girault is an afro house and amapiano artist tracked on soundcheck, with 1
 
 Poirier, pizzi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gardygirault/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gardygirault/)*

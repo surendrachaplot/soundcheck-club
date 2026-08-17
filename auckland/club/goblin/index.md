@@ -1,6 +1,6 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Bikes In Space - Upside Down Lounge" on Wed, 19 Aug 2026.
+Goblin is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Bikes In Space - Upside Down Lounge" on Wed, 19 Aug 2026.
 
 Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
@@ -15,4 +15,4 @@ Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming nights. Bro
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

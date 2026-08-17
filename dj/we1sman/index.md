@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Grandeur Cru Wine Shop, Detroit on Thu, 27 Aug 2026.
+we1sman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Grandeur Cru Wine Shop, Detroit on Thu, 27 Aug 2026.
 
 we1sman is a techno and club artist tracked on soundcheck, with 131 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Grandeur Cru Wine Shop, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ we1sman is a techno and club artist tracked on soundcheck, with 131 sets logged 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

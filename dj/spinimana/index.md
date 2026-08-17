@@ -1,6 +1,6 @@
 # Spinimana
 
-Spinimana is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Horse & Groom, London on Fri, 30 Oct 2026.
+Spinimana is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Horse & Groom, London on Fri, 30 Oct 2026.
 
 Spinimana is a disco and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside COBUU. Next up: The Horse & Groom, London on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Spinimana is a disco and house artist based in United Kingdom, tracked on soundc
 
 COBUU
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinimana/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinimana/)*

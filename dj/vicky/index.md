@@ -1,6 +1,6 @@
 # VICKY
 
-VICKY is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+VICKY is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
 VICKY is a trance and progressive house artist based in Taiwan, tracked on soundcheck, with 3 sets logged across Berlin, Ibiza and Montreal. Often billed alongside August Kind, Aël Solara and B.R.K.Ø.. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ VICKY is a trance and progressive house artist based in Taiwan, tracked on sound
 
 August Kind, Aël Solara, B.R.K.Ø.
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky/)*

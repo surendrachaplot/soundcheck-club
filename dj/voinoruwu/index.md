@@ -1,6 +1,6 @@
 # Voin Oruwu
 
-Voin Oruwu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Voin Oruwu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Voin Oruwu is a techno and tech house artist tracked on soundcheck, with 8 sets logged across Athens, Berlin, Bucharest and Krakow and 2 more. Often billed alongside BUDZKO, Dima Kachan and Nastia. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Voin Oruwu is a techno and tech house artist tracked on soundcheck, with 8 sets 
 
 BUDZKO, Dima Kachan, Nastia
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voinoruwu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voinoruwu/)*

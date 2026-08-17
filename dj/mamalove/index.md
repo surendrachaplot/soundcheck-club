@@ -1,6 +1,6 @@
 # MAMA LOVE
 
-MAMA LOVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 27 Aug 2026.
+MAMA LOVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 27 Aug 2026.
 
 MAMA LOVE is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Hamburg and Madrid and 1 more. Often billed alongside caipora, materia hache and Bizzarro Universe. Next up: Golden Pudel Club, Hamburg on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ MAMA LOVE is a techno and house artist tracked on soundcheck, with 35 sets logge
 
 caipora, materia hache, Bizzarro Universe
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*

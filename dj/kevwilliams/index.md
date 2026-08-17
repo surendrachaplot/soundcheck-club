@@ -1,6 +1,6 @@
 # Kev Williams
 
-Kev Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
+Kev Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
 
 Kev Williams is a house and deep house artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Frankfurt. Often billed alongside Marvio, Momoda and Perch. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kev Williams is a house and deep house artist based in Spain, tracked on soundch
 
 Marvio, Momoda, Perch
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevwilliams/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevwilliams/)*

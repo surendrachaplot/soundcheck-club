@@ -1,6 +1,6 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Palais de Tokyo, Paris on Sat, 22 Aug 2026.
+Erna (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Palais de Tokyo, Paris on Sat, 22 Aug 2026.
 
 Erna (FR) is a techno and house artist tracked on soundcheck, with 57 sets logged across Antwerp, Berlin, Brussels and Hamburg and 5 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: Palais de Tokyo, Paris on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Erna (FR) is a techno and house artist tracked on soundcheck, with 57 sets logge
 
 Egna, Amor Satyr, Kanucia
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

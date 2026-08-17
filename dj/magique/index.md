@@ -1,6 +1,6 @@
 # Magique
 
-Magique is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
+Magique is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 15 Aug 2026.
 
 Magique is an electronic artist based in South Africa, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside PAS. Next up: Der Weiße Hase, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Magique is an electronic artist based in South Africa, tracked on soundcheck, wi
 
 PAS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magique/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magique/)*

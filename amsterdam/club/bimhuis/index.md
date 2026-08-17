@@ -1,6 +1,6 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Joanne Joanne Robertson + S*an D. Henry-Smith" on Thu, 3 Sept 2026.
+Bimhuis is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Joanne Joanne Robertson + S*an D. Henry-Smith" on Thu, 3 Sept 2026.
 
 Bimhuis is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -14,4 +14,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Br
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

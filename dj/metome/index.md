@@ -1,6 +1,6 @@
 # metome
 
-metome is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
+metome is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
 
 metome is a techno and house artist based in Japan, tracked on soundcheck, with 33 sets logged across Chicago, Kyoto, Osaka and Tokyo. Often billed alongside kafuka, Lhinen and Masahiko Takeda. Next up: Teranoma Tidepool, Osaka on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ metome is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 kafuka, Lhinen, Masahiko Takeda
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metome/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metome/)*

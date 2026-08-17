@@ -1,6 +1,6 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Deep Transmission 8 - DT 808" on Fri, 21 Aug 2026.
+WaterBear Venue is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Deep Transmission 8 - DT 808" on Fri, 21 Aug 2026.
 
 WaterBear Venue is a music venue in Brighton listed on soundcheck. 4 upcoming nights, with line-ups including Cage (1), Caroline Banx, Dave Angel and DSD uk and 2 more. Browse upcoming dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
@@ -17,4 +17,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 4 upcoming ni
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

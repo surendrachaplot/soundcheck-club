@@ -1,14 +1,13 @@
 # LDN East
 
-LDN East is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "AMAPIANOLAND - End of Summer Afrobeats & Amapiano Day Festival" on Sun, 16 Aug 2026.
+LDN East is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Forward Motion Street Party" on Sat, 22 Aug 2026.
 
-LDN East is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Crazy P and Don't F**k with Disco. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
+LDN East is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Crazy P and Don't F**k with Disco. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | AMAPIANOLAND - End of Summer Afrobeats & Amapiano Day Festival |  |
 | Sat, 22 Aug 2026 | Forward Motion Street Party |  |
 | Sat, 22 Aug 2026 | Forward motion |  |
 | Fri, 28 Aug 2026 | Take Off 16+ End Of Summer Open Air Rave |  |
@@ -22,4 +21,4 @@ LDN East is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

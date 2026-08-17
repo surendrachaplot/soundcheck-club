@@ -1,14 +1,15 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 12 sets logged across Amsterdam, Auckland, Bristol and Budapest and 6 more. Often billed alongside Grafix, 1991 (UK) and Anaïs. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 13 sets logged across Amsterdam, Auckland, Bristol and Budapest and 7 more. Often billed alongside Circadian, Grafix and 1991 (UK). Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 14 Nov 2026 | The Nest | Nottingham |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 12 sets log
 
 ## Shares bills with
 
-Grafix, 1991 (UK), Anaïs
+Circadian, Grafix, 1991 (UK)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

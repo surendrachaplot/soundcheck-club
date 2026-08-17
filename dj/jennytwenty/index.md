@@ -1,6 +1,6 @@
 # Jenny Twenty
 
-Jenny Twenty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Social, London on Fri, 21 Aug 2026.
+Jenny Twenty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Social, London on Fri, 21 Aug 2026.
 
 Jenny Twenty is a house and disco artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside FC Kahuna and Psychemagik. Next up: The Social, London on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Jenny Twenty is a house and disco artist based in United Kingdom, tracked on sou
 
 FC Kahuna, Psychemagik
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennytwenty/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennytwenty/)*

@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Donnerdogge" on Thu, 20 Aug 2026.
+Golden Gate is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Donnerdogge" on Thu, 20 Aug 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Ana Karla, BelaBang, Cindy G and Hagel and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 5 upcoming nights, 
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

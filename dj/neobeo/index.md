@@ -1,6 +1,6 @@
 # Neobeo
 
-Neobeo is a Downtempo and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
+Neobeo is a Downtempo and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
 
 Neobeo is a downtempo and psytrance artist tracked on soundcheck, with 68 sets logged across Berlin and Hamburg. Often billed alongside Doron, James Rod and Lotte Ahoi. Next up: gART.n, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Neobeo is a downtempo and psytrance artist tracked on soundcheck, with 68 sets l
 
 Doron, James Rod, Lotte Ahoi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*

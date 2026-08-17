@@ -1,6 +1,6 @@
 # Mere Notilde
 
-Mere Notilde is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Sonia, Boston on Thu, 3 Sept 2026.
+Mere Notilde is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sonia, Boston on Thu, 3 Sept 2026.
 
 Mere Notilde is a house and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston and Toronto. Often billed alongside destracshn, BRATATTACK and Fibre. Next up: Sonia, Boston on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ Mere Notilde is a house and experimental artist based in United States of Americ
 
 destracshn, BRATATTACK, Fibre
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*

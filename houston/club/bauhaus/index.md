@@ -1,6 +1,6 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 13 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Cosmic Gate" on Fri, 21 Aug 2026.
+Bauhaus is a music venue in Houston with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Cosmic Gate" on Fri, 21 Aug 2026.
 
 Bauhaus is a music venue in Houston listed on soundcheck. 13 upcoming nights, with line-ups including Andrew Rayel, bradeazy, Classmatic and Cosmic Gate and 2 more. Browse upcoming dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
@@ -23,4 +23,4 @@ Bauhaus is a music venue in Houston listed on soundcheck. 13 upcoming nights, wi
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

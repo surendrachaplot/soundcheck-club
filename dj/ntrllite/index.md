@@ -1,6 +1,6 @@
 # ntrllite
 
-ntrllite is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jade, New York City on Sat, 29 Aug 2026.
+ntrllite is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jade, New York City on Sat, 29 Aug 2026.
 
 ntrllite is a techno and pop artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity and Philadelphia. Often billed alongside Cure2, AL.P0 and Gamma Vibes. Next up: Jade, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ntrllite is a techno and pop artist based in United States of America, tracked o
 
 Cure2, AL.P0, Gamma Vibes
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntrllite/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntrllite/)*

@@ -1,6 +1,6 @@
 # Camilo Miranda
 
-Camilo Miranda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
+Camilo Miranda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
 
 Camilo Miranda is a house and disco artist tracked on soundcheck, with 69 sets logged across Athens, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Luca Averna, Christian Len and Jaime Fiorito. Next up: OXI, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Camilo Miranda is a house and disco artist tracked on soundcheck, with 69 sets l
 
 Luca Averna, Christian Len, Jaime Fiorito
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*

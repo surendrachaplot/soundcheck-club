@@ -1,15 +1,13 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at public records, New York City on Fri, 28 Aug 2026.
 
-Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Lola Palmer, Eli Verveine and Priku. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
+Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Lola Palmer, Eli Verveine and Priku. Next up: public records, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA - Downtown LA | Los Angeles |
-| Sun, 16 Aug 2026 | Flash | Washington DC |
 | Fri, 28 Aug 2026 | public records | New York City |
 | Sat, 29 Aug 2026 | Wicked West | San Diego |
 | Fri, 9 Oct 2026 | Stereo | Montreal |
@@ -17,6 +15,7 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 87 se
 
 ## Recently played
 
+- Flash, Washington DC — Sun, 16 Aug 2026
 - TBA - Downtown LA, Los Angeles — Sat, 15 Aug 2026
 - Refuge, New York City — Sat, 1 Aug 2026
 - Kater, Berlin — Sat, 11 Jul 2026
@@ -24,10 +23,9 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 87 se
 - Rūmu, Lisbon — Fri, 12 Jun 2026
 - Fünk, Mexico City — Sat, 6 Jun 2026
 - Mad Radio Miami, Miami — Fri, 5 Jun 2026
-- TBA - East Williamsburg, New York City — Fri, 1 May 2026
 
 ## Shares bills with
 
 Lola Palmer, Eli Verveine, Priku
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

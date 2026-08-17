@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Breakcore artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
+LUNAx3 is a Gabber and Breakcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
 
 LUNAx3 is a gabber and breakcore artist tracked on soundcheck, with 17 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside beansclub, Purity Filter and RUBY RAWR. Next up: Vespers Club, London on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ LUNAx3 is a gabber and breakcore artist tracked on soundcheck, with 17 sets logg
 
 beansclub, Purity Filter, RUBY RAWR
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

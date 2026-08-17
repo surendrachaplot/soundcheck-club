@@ -1,6 +1,6 @@
 # MKB (1)
 
-MKB (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Accidental Theatre, Belfast on Sat, 10 Oct 2026.
+MKB (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Accidental Theatre, Belfast on Sat, 10 Oct 2026.
 
 MKB (1) is a trance and techno artist tracked on soundcheck, with 2 sets logged across Belfast. Often billed alongside DJ SCHEMA and WILL CARRIGAN.. Next up: Accidental Theatre, Belfast on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ MKB (1) is a trance and techno artist tracked on soundcheck, with 2 sets logged 
 
 DJ SCHEMA, WILL CARRIGAN.
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkb-1/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkb-1/)*

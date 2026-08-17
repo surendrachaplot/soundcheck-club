@@ -1,6 +1,6 @@
 # Jakob (BE)
 
-Jakob (BE) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Jakob (BE) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Jakob (BE) is a techno and psytrance artist based in Belgium, tracked on soundcheck, with 17 sets logged across Auckland, Berlin, Madrid and Montreal and 6 more. Often billed alongside Alternate State, RaW and Deniz Bul. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jakob (BE) is a techno and psytrance artist based in Belgium, tracked on soundch
 
 Alternate State, RaW, Deniz Bul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakob-be/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakob-be/)*

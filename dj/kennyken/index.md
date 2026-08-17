@@ -1,8 +1,8 @@
 # Kenny Ken
 
-Kenny Ken is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Clock Factory, Bristol on Sat, 29 Aug 2026.
+Kenny Ken is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Clock Factory, Bristol on Sat, 29 Aug 2026.
 
-Kenny Ken is a drum & bass and jungle artist tracked on soundcheck, with 57 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: The Clock Factory, Bristol on Sat 29 Aug.
+Kenny Ken is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: The Clock Factory, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kenny Ken is a drum & bass and jungle artist tracked on soundcheck, with 57 sets
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Clock Factory | Bristol |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
+| Sat, 14 Nov 2026 | HERE | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kenny Ken is a drum & bass and jungle artist tracked on soundcheck, with 57 sets
 
 Nicky Blackmarket, DJ Hype, Grooverider
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*

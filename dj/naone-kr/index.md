@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Naone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Naone is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -9,7 +9,6 @@ Naone is a techno and house artist tracked on soundcheck, with 174 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
-| Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
@@ -31,4 +30,4 @@ Naone is a techno and house artist tracked on soundcheck, with 174 sets logged a
 
 Iggy P, mad miran, Doudou MD
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

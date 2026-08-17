@@ -1,6 +1,6 @@
 # Markus Sollid
 
-Markus Sollid is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Mayhem, Copenhagen on Thu, 24 Sept 2026.
+Markus Sollid is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mayhem, Copenhagen on Thu, 24 Sept 2026.
 
 Markus Sollid is an electronic artist tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Canadian Rifles. Next up: Mayhem, Copenhagen on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Markus Sollid is an electronic artist tracked on soundcheck, with 2 sets logged 
 
 Canadian Rifles
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussollid/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussollid/)*

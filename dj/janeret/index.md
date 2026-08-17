@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Janeret is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 Janeret is a house and minimal artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 130 sets logge
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

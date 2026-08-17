@@ -1,14 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Noise Orchestra presents: PHASE SHIFT – Open Air Extended" on Sat, 15 Aug 2026.
+Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "PARTICLES" on Sun, 16 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, Mattia Koväl, Aleromaze and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, Aleromaze, ANNX and AYIM and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Noise Orchestra presents: PHASE SHIFT – Open Air Extended | Antonio De Angelis, Deranged, Kameliia, Livid (UK), Madtronik, Mattia Koväl, Pre Silent, Quelza, Silpagare, TAITO, UFO95 |
 | Sun, 16 Aug 2026 | PARTICLES | Jane Fitz, Marco Shuttle |
 | Fri, 21 Aug 2026 | Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze | AYIM, Aleromaze, Cosmic Caz, Kaytseng, Max Burstyn, Medlock, Melati, Xquisite Korpse |
 | Sat, 22 Aug 2026 | Singularity X Ground Rules: Day 2 Night |  |
@@ -18,9 +17,10 @@ Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with 
 | Sun, 6 Sept 2026 | Animals on Psychedelics x Braintickle | Carl H, GNMR, Katya, Naone, Richard Gregory |
 | Sat, 12 Sept 2026 | A day with 1-800 GIRLS & Friends | 1-800 GIRLS |
 | Fri, 18 Sept 2026 | Refractor On Tour London ● 5th Anniversary ● | Feral, Jan Swam, TSUNIMAN, Timnah |
+| Sat, 19 Sept 2026 | Wisdom Teeth: Facta & K-LONE (All Day Long) & More TBA | Facta, K-LONE |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

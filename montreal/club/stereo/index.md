@@ -1,14 +1,13 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 22 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Sasha - Mike Chidiac" on Sat, 15 Aug 2026.
+Stereo is a music venue in Montreal with 21 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "OCTOV x Stereo: Patrick Mason - KORVN" on Fri, 21 Aug 2026.
 
-Stereo is a music venue in Montreal listed on soundcheck. 22 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Chus & Ceballos and Danny Tenaglia and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
+Stereo is a music venue in Montreal listed on soundcheck. 21 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Chus & Ceballos and Danny Tenaglia and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Sasha - Mike Chidiac | Mike Chidiac, Sasha |
 | Fri, 21 Aug 2026 | OCTOV x Stereo: Patrick Mason - KORVN | KORVN, Patrick Mason |
 | Sat, 22 Aug 2026 | Eelke Kleijn (All Night Long) | Eelke Kleijn |
 | Fri, 28 Aug 2026 | Luigi Madonna - Mayfie | Luigi Madonna |
@@ -18,9 +17,10 @@ Stereo is a music venue in Montreal listed on soundcheck. 22 upcoming nights, wi
 | Sun, 6 Sept 2026 | Ilan Bluestone - Alpha 9 - Marycee | Marycee |
 | Sat, 12 Sept 2026 | Analog Volts x Stereo: Flo Massé - Monile | Flo Massé, Monile |
 | Fri, 18 Sept 2026 | Wata Igarashi | Wata Igarashi |
+| Sat, 19 Sept 2026 | Âme (Live) - Trikk | Trikk, Âme |
 
 ## Address
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

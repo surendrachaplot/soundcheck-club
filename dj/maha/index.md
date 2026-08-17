@@ -1,14 +1,15 @@
 # MAHA
 
-MAHA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
+MAHA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
-MAHA is a techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Budapest and Cologne and 1 more. Often billed alongside Tarkan, AESZTETIK and CLAVD. Next up: Arzenal, Budapest on Sat 7 Nov.
+MAHA is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Budapest and Cologne and 2 more. Often billed alongside Tarkan, CLAVD and Leskus. Next up: Arzenal, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
+| Sat, 14 Nov 2026 | MTW | Frankfurt |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ MAHA is a techno artist based in Germany, tracked on soundcheck, with 6 sets log
 
 ## Shares bills with
 
-Tarkan, AESZTETIK, CLAVD
+Tarkan, CLAVD, Leskus
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*

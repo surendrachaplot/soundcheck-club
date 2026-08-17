@@ -1,6 +1,6 @@
 # Lenard Klein
 
-Lenard Klein is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Lenard Klein is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Lenard Klein is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Berlin and Copenhagen and 3 more. Often billed alongside Spikey Lee, Haeder and Bunsen. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lenard Klein is a house and techno artist based in Germany, tracked on soundchec
 
 Spikey Lee, Haeder, Bunsen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenardklein/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenardklein/)*

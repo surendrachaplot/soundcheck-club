@@ -1,6 +1,6 @@
 # Lunice
 
-Lunice is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
+Lunice is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
 
 Lunice is a bass and hip-hop artist tracked on soundcheck, with 17 sets logged across London, Losangeles, Montreal and Newyorkcity and 4 more. Often billed alongside EPROM, JAEL and Amy Kisnorbo. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Lunice is a bass and hip-hop artist tracked on soundcheck, with 17 sets logged a
 
 EPROM, JAEL, Amy Kisnorbo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunice/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunice/)*

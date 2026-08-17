@@ -1,16 +1,15 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Golden Record NYC x Vin.yl present Tony Touch, Omer Mil & Mike Nasty" on Sat, 15 Aug 2026.
+Green Room NYC is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Golden Record NYC presents Adi, Stella Fiore B2B Ivan Iacobucci & Louiv" on Fri, 21 Aug 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adi (CO), Andrés Dyer, Armii1n and Dan Andrei and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Adi (CO), Alton Miller, Andrés Dyer and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Golden Record NYC x Vin.yl present Tony Touch, Omer Mil & Mike Nasty | L3Ni, Mike Nasty, Omer Mil, SMURFOUDIRTY |
-| Sun, 16 Aug 2026 | Misbehave x Green Room presents Dame | Seven Minaya |
 | Fri, 21 Aug 2026 | Golden Record NYC presents Adi, Stella Fiore B2B Ivan Iacobucci & Louiv | Adi (CO), Emsho, Gui Machado, Ivan Iacobucci, Louiv, Stella Fiore |
+| Sat, 22 Aug 2026 | Golden Record NYC x pregame x Third Floor Sounds present Maayan Nidam, Alton Miller | Alton Miller, Armii1n, Lubelski, Maayan Nidam, Stonie Blue, TEE EM DEE, Tim Lucent, Zayd Turk |
 | Fri, 28 Aug 2026 | Golden Record NYC x TAMED present Mihai Pol | Armii1n, Joiah, Max Sprauer, Miguel Gallardo, Mihai Pol, RAAUL, Silent Duality |
 | Sat, 29 Aug 2026 | Golden Record NYC presents Polygonia   | Mike Servito, Polygonia |
 | Fri, 4 Sept 2026 | D[IV]ERSION w Sybil (UK) | Sepehr, Sybil |
@@ -20,4 +19,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

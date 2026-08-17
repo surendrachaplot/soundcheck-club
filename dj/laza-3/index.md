@@ -1,6 +1,6 @@
 # LAZA (3)
 
-LAZA (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Dallas Club, Mexico City on Fri, 21 Aug 2026.
+LAZA (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dallas Club, Mexico City on Fri, 21 Aug 2026.
 
 LAZA (3) is a techno and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Brussels and Lisbon and 2 more. Often billed alongside Clementaum, Cherolainne and DJ AYA. Next up: Dallas Club, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ LAZA (3) is a techno and house artist tracked on soundcheck, with 11 sets logged
 
 Clementaum, Cherolainne, DJ AYA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laza-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laza-3/)*

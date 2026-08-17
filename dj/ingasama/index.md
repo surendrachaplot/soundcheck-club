@@ -1,6 +1,6 @@
 # Inga Sama
 
-Inga Sama is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Inga Sama is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Inga Sama is a progressive house and techno artist based in France, tracked on soundcheck, with 20 sets logged across Berlin and Strasbourg. Often billed alongside Ahni, Ina Vietha and Manta. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Inga Sama is a progressive house and techno artist based in France, tracked on s
 
 Ahni, Ina Vietha, Manta
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingasama/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingasama/)*

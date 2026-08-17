@@ -1,6 +1,6 @@
 # BabiDoll
 
-BabiDoll is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
+BabiDoll is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
 
 BabiDoll is a techno and club artist tracked on soundcheck, with 6 sets logged across Austin, Losangeles and Portland. Often billed alongside BabiBoi, ARMANA KHAN and C Powers. Next up: Kingdom Nightclub, Austin on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ BabiDoll is a techno and club artist tracked on soundcheck, with 6 sets logged a
 
 BabiBoi, ARMANA KHAN, C Powers
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babidoll/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babidoll/)*

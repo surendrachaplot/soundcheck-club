@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 240 sets logged across Amsterdam, Athens, Austin and Barcelona and 69 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 240 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

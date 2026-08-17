@@ -1,6 +1,6 @@
 # YAS (9)
 
-YAS (9) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
+YAS (9) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
 
 YAS (9) is a baile funk and club artist tracked on soundcheck, with 6 sets logged across Amsterdam, Birmingham, Dublin and London. Often billed alongside Caio Prince, SZAL and AAlva. Next up: Skatecafe, Amsterdam on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ YAS (9) is a baile funk and club artist tracked on soundcheck, with 6 sets logge
 
 Caio Prince, SZAL, AAlva
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yas-9/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yas-9/)*

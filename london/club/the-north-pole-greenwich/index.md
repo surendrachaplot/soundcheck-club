@@ -1,6 +1,6 @@
 # The North Pole Greenwich
 
-The North Pole Greenwich is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Liberate LDN presents: Lovebrunch Halloween After Party" on Sat, 31 Oct 2026.
+The North Pole Greenwich is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Liberate LDN presents: Lovebrunch Halloween After Party" on Sat, 31 Oct 2026.
 
 The North Pole Greenwich is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 131 Greenwich High Rd, London, SE10 8JA.
 
@@ -14,4 +14,4 @@ The North Pole Greenwich is a music venue in London listed on soundcheck. 1 upco
 
 131 Greenwich High Rd, London, SE10 8JA, London
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-north-pole-greenwich/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-north-pole-greenwich/)*

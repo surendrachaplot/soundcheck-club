@@ -1,6 +1,6 @@
 # Mara Bruiser
 
-Mara Bruiser is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
+Mara Bruiser is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
 
 Mara Bruiser is an acid and techno artist tracked on soundcheck, with 3 sets logged across London and Saopaulo. Often billed alongside Acid Asian, Acid Chochi and Binaryh. Next up: Estância Alto da Serra, Saopaulo on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Mara Bruiser is an acid and techno artist tracked on soundcheck, with 3 sets log
 
 Acid Asian, Acid Chochi, Binaryh
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marabruiser/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marabruiser/)*

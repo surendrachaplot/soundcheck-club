@@ -1,13 +1,14 @@
 # Emerson
 
-Emerson is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Emerson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
-Emerson is a techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Frankfurt and Tokyo. Often billed alongside Otis, Peter Eilmes and 2 Girls 1 Club. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
+Emerson is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Frankfurt and Tokyo. Often billed alongside Antic Soul, Asem Shama and Blame the Booker. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -20,6 +21,6 @@ Emerson is a techno artist based in Germany, tracked on soundcheck, with 6 sets 
 
 ## Shares bills with
 
-Otis, Peter Eilmes, 2 Girls 1 Club
+Antic Soul, Asem Shama, Blame the Booker
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*

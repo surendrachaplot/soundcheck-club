@@ -1,6 +1,6 @@
 # ISHU
 
-ISHU is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+ISHU is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 ISHU is a club and uk funky artist based in India, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Bindās, Missy T and Mithun. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ ISHU is a club and uk funky artist based in India, tracked on soundcheck, with 2
 
 Bindās, Missy T, Mithun
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishu/)*

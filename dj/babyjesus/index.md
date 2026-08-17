@@ -1,6 +1,6 @@
 # Baby Jesus
 
-Baby Jesus is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
+Baby Jesus is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
 
 Baby Jesus is a house and afro house artist based in Brazil, tracked on soundcheck, with 5 sets logged across Amsterdam and Miami. Often billed alongside Roll-e, MEGUSTA and 249.92. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Baby Jesus is a house and afro house artist based in Brazil, tracked on soundche
 
 Roll-e, MEGUSTA, 249.92
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjesus/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjesus/)*

@@ -1,6 +1,6 @@
 # Holyoake
 
-Holyoake is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Holyoake is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Holyoake is a house and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Brick Top, Groooves and James Worker. Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -14,4 +14,4 @@ Holyoake is a house and garage artist based in United Kingdom, tracked on soundc
 
 Brick Top, Groooves, James Worker
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holyoake/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holyoake/)*

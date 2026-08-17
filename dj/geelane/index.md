@@ -1,6 +1,6 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
+Gee Lane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
 
 Gee Lane is a house and disco artist tracked on soundcheck, with 114 sets logged across Amsterdam, Auckland, Bali and Barcelona and 30 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Tanjong Beach Club, Singapore on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Gee Lane is a house and disco artist tracked on soundcheck, with 114 sets logged
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

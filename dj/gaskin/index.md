@@ -1,14 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+Gaskin is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
-Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
+Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Thuishaven | Amsterdam |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
@@ -20,9 +19,11 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets log
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 16 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 15 Aug 2026
 - Tiger Yard, Cardiff — Sat, 1 Aug 2026
 - The Nest, Nottingham — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 179 sets log
 - Ushuaïa Ibiza, Ibiza — Sat, 18 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
-- Esferic Bcn, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

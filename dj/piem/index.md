@@ -1,6 +1,6 @@
 # Piem
 
-Piem is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
+Piem is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
 
 Piem is a house and tech house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside Nesi, Tamborero and GIVIO. Next up: Else, Berlin on Fri 21 Aug.
 
@@ -32,4 +32,4 @@ Piem is a house and tech house artist tracked on soundcheck, with 158 sets logge
 
 Nesi, Tamborero, GIVIO
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*

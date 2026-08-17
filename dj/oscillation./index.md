@@ -1,6 +1,6 @@
 # Oscillation.
 
-Oscillation. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Last Arch, London on Sun, 30 Aug 2026.
+Oscillation. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Last Arch, London on Sun, 30 Aug 2026.
 
 Oscillation. is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Ayanna Heaven, DREY (UK) and KISA. Next up: Last Arch, London on Sun 30 Aug.
 
@@ -18,4 +18,4 @@ Oscillation. is a house and broken beat artist based in United Kingdom, tracked 
 
 Ayanna Heaven, DREY (UK), KISA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*

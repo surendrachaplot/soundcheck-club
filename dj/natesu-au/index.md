@@ -1,14 +1,13 @@
 # Nate S.U
 
-Nate S.U is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Nate S.U is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
 
-Nate S.U is a house and electro artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Elijah Something, DJ Botermelk and Fabiano José. Next up: Macadam, Nantes on Fri 14 Aug.
+Nate S.U is a house and electro artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Elijah Something, DJ Botermelk and Fabiano José. Next up: Distrikt, Leeds on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Macadam | Nantes |
 | Fri, 21 Aug 2026 | Distrikt | Leeds |
 | Sat, 22 Aug 2026 | Sunseabar Beach Club | Barcelona |
 
@@ -27,4 +26,4 @@ Nate S.U is a house and electro artist based in Australia, tracked on soundcheck
 
 Elijah Something, DJ Botermelk, Fabiano José
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*

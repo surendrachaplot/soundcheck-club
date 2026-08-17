@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
+JKS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
 
 JKS is a techno and house artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 46 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: Refuge, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ JKS is a techno and house artist tracked on soundcheck, with 142 sets logged acr
 
 Bailey Ibbs, BENZA, CAIVA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

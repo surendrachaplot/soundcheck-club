@@ -1,6 +1,6 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
+Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
 
 Will Renuart is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: Lion's Den, Miami on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Will Renuart is a house and techno artist based in United States of America, tra
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

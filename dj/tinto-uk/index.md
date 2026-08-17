@@ -1,8 +1,8 @@
 # Tinto (UK)
 
-Tinto (UK) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+Tinto (UK) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
-Tinto (UK) is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Cologne. Often billed alongside B!B!, DAVIDE (2) and Flex on Trax. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
+Tinto (UK) is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Cologne. Often billed alongside Tschatsching, Leenberger and MARRED. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Tinto (UK) is a trance and techno artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-B!B!, DAVIDE (2), Flex on Trax
+Tschatsching, Leenberger, MARRED
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinto-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinto-uk/)*

@@ -1,14 +1,13 @@
 # Denzel
 
-Denzel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Denzel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bristol and London and 7 more. Often billed alongside Joni DJ, Nikolajev and CCL. Next up: Hall, Tallinn on Fri 14 Aug.
+Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bristol and London and 7 more. Often billed alongside Joni DJ, Nikolajev and CCL. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Hall | Tallinn |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Signal | New York City |
@@ -28,4 +27,4 @@ Denzel is a techno and house artist based in Finland, tracked on soundcheck, wit
 
 Joni DJ, Nikolajev, CCL
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*

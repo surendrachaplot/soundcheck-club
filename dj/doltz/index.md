@@ -1,6 +1,6 @@
 # Doltz
 
-Doltz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club Metro, Kyoto on Sat, 22 Aug 2026.
+Doltz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Metro, Kyoto on Sat, 22 Aug 2026.
 
 Doltz is a techno and house artist tracked on soundcheck, with 28 sets logged across Athens, Berlin, Bristol and Kyoto and 9 more. Often billed alongside DJ Nobu, OCCA and DANA NADA. Next up: Club Metro, Kyoto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Doltz is a techno and house artist tracked on soundcheck, with 28 sets logged ac
 
 DJ Nobu, OCCA, DANA NADA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*

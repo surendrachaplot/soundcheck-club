@@ -1,6 +1,6 @@
 # kyo (3)
 
-kyo (3) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
+kyo (3) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
 
 kyo (3) is a garage and bass artist based in Japan, tracked on soundcheck, with 10 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Genick, MOOTOE and Jacotanu. Next up: J.J. Mahoney's Bar, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ kyo (3) is a garage and bass artist based in Japan, tracked on soundcheck, with 
 
 Genick, MOOTOE, Jacotanu
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyo-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyo-3/)*

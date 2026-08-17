@@ -1,6 +1,6 @@
 # Syback
 
-Syback is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Secret Location, Madrid on Sat, 26 Sept 2026.
+Syback is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Madrid on Sat, 26 Sept 2026.
 
 Syback is a techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Athens, London and Madrid. Often billed alongside MILLI (IT), SHINGONI and ZUZANAH. Next up: TBA - Secret Location, Madrid on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Syback is a techno artist based in United Kingdom, tracked on soundcheck, with 1
 
 MILLI (IT), SHINGONI, ZUZANAH
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*

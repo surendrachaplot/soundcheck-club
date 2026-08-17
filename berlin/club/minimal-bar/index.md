@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 79 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "U10247: A seasick Sunday in Berlin (feat maniac&me and Schiaffino) !FREE ENTRY" on Sun, 16 Aug 2026.
+Minimal Bar is a music venue in Berlin with 80 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "U10247: A seasick Sunday in Berlin (feat maniac&me and Schiaffino) !FREE ENTRY" on Sun, 16 Aug 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beshy and Beta Basti and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beshy and Beta Basti and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming nights,
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

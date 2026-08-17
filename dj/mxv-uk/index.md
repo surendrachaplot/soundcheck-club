@@ -1,6 +1,6 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+MXV (UK) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
 MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: Camden Courtyard, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, t
 
 Nour (UK), Tris (UK), ALLKNIGHT
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*

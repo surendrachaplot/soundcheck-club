@@ -1,6 +1,6 @@
 # Villa Madalena
 
-Villa Madalena is a music venue in Porto with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "BIG Summer Pool Party - Porto" on Sun, 30 Aug 2026.
+Villa Madalena is a music venue in Porto with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "BIG Summer Pool Party - Porto" on Sun, 30 Aug 2026.
 
 Villa Madalena is a music venue in Porto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rua Nazarães, 541.
 
@@ -14,4 +14,4 @@ Villa Madalena is a music venue in Porto listed on soundcheck. 1 upcoming night.
 
 Rua Nazarães, 541, Porto
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/villa-madalena/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/villa-madalena/)*

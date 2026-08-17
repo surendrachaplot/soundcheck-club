@@ -1,6 +1,6 @@
 # MariePrude
 
-MariePrude is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+MariePrude is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 MariePrude is an electronic artist based in France, tracked on soundcheck, with 5 sets logged across Barcelona and Paris. Often billed alongside Cherman, Abajour and Amau. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ MariePrude is an electronic artist based in France, tracked on soundcheck, with 
 
 Cherman, Abajour, Amau
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marieprude/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marieprude/)*

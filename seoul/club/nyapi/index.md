@@ -1,14 +1,13 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Hills & Europa with DJ Garth" on Sat, 15 Aug 2026.
+Nyapi is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TRICO festival showcase" on Sun, 16 Aug 2026.
 
-Nyapi is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and dguru and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
+Nyapi is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and dguru and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Hills & Europa with DJ Garth | DJ Garth, JAEHAN (2), jiwon |
 | Sun, 16 Aug 2026 | TRICO festival showcase |  |
 | Thu, 20 Aug 2026 | 2nd floor & Kimsoyoung91 | .2ndfloor |
 | Fri, 21 Aug 2026 | Nyapi invites Di Linh (Savage Hanoi) | Di Linh, Hender, VENEBOE, dguru |
@@ -21,4 +20,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with li
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

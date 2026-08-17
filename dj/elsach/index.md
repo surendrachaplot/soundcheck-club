@@ -1,6 +1,6 @@
 # Elsa (CH)
 
-Elsa (CH) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Elsa (CH) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Elsa (CH) is a techno and house artist tracked on soundcheck, with 11 sets logged across Basel, Berlin, Paris and Strasbourg and 1 more. Often billed alongside Osiris (4), Elsa Bernini and Jan Loup. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Elsa (CH) is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 Osiris (4), Elsa Bernini, Jan Loup
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*

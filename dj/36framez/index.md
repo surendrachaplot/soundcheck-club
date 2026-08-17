@@ -1,14 +1,13 @@
 # 36framez
 
-36framez is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at nachbar, Amsterdam on Sat, 15 Aug 2026.
+36framez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-36framez is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Amaliah. Next up: nachbar, Amsterdam on Sat 15 Aug.
+36framez is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Amaliah. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | nachbar | Amsterdam |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sat, 19 Sept 2026 | KABUL à GoGo | Utrecht |
 | Sat, 10 Oct 2026 | BASIS | Utrecht |
@@ -30,4 +29,4 @@
 
 Doppelgang, Carlos Valdes, Amaliah
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*

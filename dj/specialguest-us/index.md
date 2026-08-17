@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
+Special Guest (US) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
 
 Special Guest (US) is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Carasel, DJ S (UK) and SP:MC. Next up: fabric, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Special Guest (US) is a house and techno artist tracked on soundcheck, with 146 
 
 Carasel, DJ S (UK), SP:MC
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

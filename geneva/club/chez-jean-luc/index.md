@@ -1,6 +1,6 @@
 # Chez Jean-Luc
 
-Chez Jean-Luc is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "David Armada & Friends" on Thu, 20 Aug 2026.
+Chez Jean-Luc is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "David Armada & Friends" on Thu, 20 Aug 2026.
 
 Chez Jean-Luc is a music venue in Geneva listed on soundcheck. 2 upcoming nights, with line-ups including David Armada. Browse upcoming dates, start times and who's playing. Rue de la Cité 9 1204 Genève.
 
@@ -15,4 +15,4 @@ Chez Jean-Luc is a music venue in Geneva listed on soundcheck. 2 upcoming nights
 
 Rue de la Cité 9 1204 Genève, Geneva
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/chez-jean-luc/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/chez-jean-luc/)*

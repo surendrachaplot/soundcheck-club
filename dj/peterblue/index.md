@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Loo Loo, Mexico City on Sat, 29 Aug 2026.
+PETERBLUE is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Loo Loo, Mexico City on Sat, 29 Aug 2026.
 
 PETERBLUE is a techno and trance artist tracked on soundcheck, with 57 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Adrian Mills, Noise Mafia and fumi (DE). Next up: Loo Loo, Mexicocity on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 57 sets logg
 
 Adrian Mills, Noise Mafia, fumi (DE)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

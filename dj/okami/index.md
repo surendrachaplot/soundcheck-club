@@ -1,6 +1,6 @@
 # ŌKAMI
 
-ŌKAMI is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Four Quarters, London on Wed, 19 Aug 2026.
+ŌKAMI is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Four Quarters, London on Wed, 19 Aug 2026.
 
 ŌKAMI is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London, Losangeles, Osaka and Tokyo. Often billed alongside Deejay Nye, Vince Lam and BlackMagicWoman. Next up: Four Quarters, London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@
 
 Deejay Nye, Vince Lam, BlackMagicWoman
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okami/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okami/)*

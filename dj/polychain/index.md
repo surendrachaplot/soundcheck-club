@@ -1,14 +1,13 @@
 # Poly Chain
 
-Poly Chain is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Meteor Studio, Tbilisi on Sat, 15 Aug 2026.
+Poly Chain is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Left Bank, Tbilisi on Fri, 21 Aug 2026.
 
-Poly Chain is a techno and electro artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside DJ MELL G, MSJY and Anastasia Kristensen. Next up: Meteor Studio, Tbilisi on Sat 15 Aug.
+Poly Chain is a techno and electro artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside DJ MELL G, MSJY and Anastasia Kristensen. Next up: Left Bank, Tbilisi on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Meteor Studio | Tbilisi |
 | Fri, 21 Aug 2026 | Left Bank | Tbilisi |
 
 ## Recently played
@@ -26,4 +25,4 @@ Poly Chain is a techno and electro artist tracked on soundcheck, with 45 sets lo
 
 DJ MELL G, MSJY, Anastasia Kristensen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*

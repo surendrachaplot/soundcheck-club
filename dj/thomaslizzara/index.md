@@ -1,14 +1,13 @@
 # Thomas Lizzara
 
-Thomas Lizzara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 15 Aug 2026.
+Thomas Lizzara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
 
-Thomas Lizzara is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Basstronauten, Daniel Boon and Paul Wolf. Next up: Tanzhaus West, Frankfurt on Sat 15 Aug.
+Thomas Lizzara is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Basstronauten, Daniel Boon and Paul Wolf. Next up: Spindler & Klatt, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Tanzhaus West | Frankfurt |
 | Sat, 12 Sept 2026 | Spindler & Klatt | Berlin |
 | Sat, 26 Sept 2026 | TBA - Herr Kauzig | Leipzig |
 
@@ -27,4 +26,4 @@ Thomas Lizzara is a techno and house artist based in Germany, tracked on soundch
 
 Basstronauten, Daniel Boon, Paul Wolf
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaslizzara/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaslizzara/)*

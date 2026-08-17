@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon" on Sat, 15 Aug 2026.
+M-BIA is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Club Night" on Fri, 21 Aug 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anime, Basstronauten, BrettHit and Daniela Hensel and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Anime, BrettHit, Daora and Deadly Guns and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Mosher, Patrick Scuro, Simina Grigoriu |
 | Fri, 21 Aug 2026 | Club Night |  |
 | Sat, 22 Aug 2026 | Freakquency with Hatikwa | Daora, K3VKO, Onkel Tom, RHYTMOX |
 | Fri, 28 Aug 2026 | VEXED with Fernanda Martins  | BrettHit, Fernanda Martins |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |
 | Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Remzcore |
+| Sat, 26 Sept 2026 | Tropical Nomads presents: Technology (Nano Rec.) |  |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

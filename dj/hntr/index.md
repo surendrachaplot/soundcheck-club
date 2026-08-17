@@ -1,8 +1,8 @@
 # HNTR
 
-HNTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Church Nightclub, Denver on Sat, 29 Aug 2026.
+HNTR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Church Nightclub, Denver on Sat, 29 Aug 2026.
 
-HNTR is a techno and house artist tracked on soundcheck, with 39 sets logged across Austin, Boston, Chicago and Cologne and 16 more. Often billed alongside DÉTOLLY, Adam Beyer and Eli Brown. Next up: The Church Nightclub, Denver on Sat 29 Aug.
+HNTR is a techno and house artist tracked on soundcheck, with 40 sets logged across Austin, Boston, Chicago and Cologne and 17 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: The Church Nightclub, Denver on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HNTR is a techno and house artist tracked on soundcheck, with 39 sets logged acr
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Church Nightclub | Denver |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 14 Nov 2026 | City Market | Los Angeles |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ HNTR is a techno and house artist tracked on soundcheck, with 39 sets logged acr
 
 ## Shares bills with
 
-DÉTOLLY, Adam Beyer, Eli Brown
+DÉTOLLY, Eli Brown, Adam Beyer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*

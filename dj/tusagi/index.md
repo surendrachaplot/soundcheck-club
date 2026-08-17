@@ -1,8 +1,8 @@
 # Tusagi
 
-Tusagi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+Tusagi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
-Tusagi is an electronica and techno artist tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside DJ Kündigung, Lando and MIÑIN. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
+Tusagi is an electronica and techno artist tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Privacy, VAP1D and Mithril. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Tusagi is an electronica and techno artist tracked on soundcheck, with 1 set log
 
 ## Shares bills with
 
-DJ Kündigung, Lando, MIÑIN
+Privacy, VAP1D, Mithril
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tusagi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tusagi/)*

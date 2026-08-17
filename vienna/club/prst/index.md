@@ -1,14 +1,13 @@
 # PRST
 
-PRST is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "PRST Klubnacht with Alice, Bodin, Felix Rupprecht" on Sat, 15 Aug 2026.
+PRST is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "EYES 001" on Fri, 21 Aug 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Alice (AT), Anna Ullrich, Bodin and Chris Freud and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Anna Ullrich, Chris Freud, COLD ASS ICE and David Radi and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | PRST Klubnacht with Alice, Bodin, Felix Rupprecht | Alice (AT), Bodin, Felix Rupprecht |
 | Fri, 21 Aug 2026 | EYES 001 | Dj Babatr, Yas Reven, pengg |
 | Sat, 22 Aug 2026 | Frazi.er selects: Vienna | Dizzy (PL), Frazi.er, MELIMEKO, TONI BA |
 | Fri, 28 Aug 2026 | Anna Ullrich pres. ACHTERBAHN | Anna Ullrich, COLD ASS ICE, Sancta |
@@ -19,4 +18,4 @@ PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

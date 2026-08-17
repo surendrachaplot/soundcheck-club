@@ -1,14 +1,13 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "EVERY 3rd SUNDAY" on Sun, 16 Aug 2026.
+COUNTER CLUB is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "solfa in COUNTER CLUB" on Tue, 18 Aug 2026.
 
-COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including ATAMI, Dolly (2), KAHO and MAAT and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
+COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Dolly (2), KAHO, MAAT and MASARU and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | EVERY 3rd SUNDAY | ATAMI |
 | Tue, 18 Aug 2026 | solfa in COUNTER CLUB | Dolly (2), ONO (3), Yuri |
 | Thu, 20 Aug 2026 | COUNTERCLUB THURSDAY |  |
 | Thu, 20 Aug 2026 | EVERY WEDNESDAY |  |
@@ -18,9 +17,10 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights,
 | Wed, 26 Aug 2026 | EVERY WEDNESDAY |  |
 | Fri, 28 Aug 2026 | G.S.O | KAHO |
 | Sun, 30 Aug 2026 | NEWEST LATIN |  |
+| Sun, 30 Aug 2026 | COUNTERCLUB SUNDAY |  |
 
 ## Address
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

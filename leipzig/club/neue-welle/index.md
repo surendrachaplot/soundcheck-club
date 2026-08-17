@@ -1,6 +1,6 @@
 # Neue Welle
 
-Neue Welle is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "SUBOTNIK PT 13 // TRANCE BOUNCE // TBA" on Sat, 10 Oct 2026.
+Neue Welle is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SUBOTNIK PT 13 // TRANCE BOUNCE // TBA" on Sat, 10 Oct 2026.
 
 Neue Welle is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including Schwesta P. Browse upcoming dates, start times and who's playing. Rolf-Axen-Strasse 35 04229 Leipzig, Germany.
 
@@ -15,4 +15,4 @@ Neue Welle is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, 
 
 Rolf-Axen-Strasse 35 04229 Leipzig, Germany, Leipzig
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*

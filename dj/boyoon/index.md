@@ -1,6 +1,6 @@
 # Boyoon
 
-Boyoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
+Boyoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
 
 Boyoon is a techno and house artist based in South Korea, tracked on soundcheck, with 67 sets logged across Seoul. Often billed alongside Hyerang, Kyper and Juncheol. Next up: Modeci, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Boyoon is a techno and house artist based in South Korea, tracked on soundcheck,
 
 Hyerang, Kyper, Juncheol
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyoon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyoon/)*

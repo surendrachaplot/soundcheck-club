@@ -1,6 +1,6 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at DeTour, Tokyo on Fri, 28 Aug 2026.
+DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at DeTour, Tokyo on Fri, 28 Aug 2026.
 
 DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 32 sets logged across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: DeTour, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 32 sets lo
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

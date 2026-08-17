@@ -1,6 +1,6 @@
 # Seb Skint
 
-Seb Skint is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Blues Kitchen Manchester, Manchester on Sun, 30 Aug 2026.
+Seb Skint is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Blues Kitchen Manchester, Manchester on Sun, 30 Aug 2026.
 
 Seb Skint is a garage and bass artist tracked on soundcheck, with 22 sets logged across Liverpool and Manchester. Often billed alongside Mattik (UK), Mattik UK and Rich Reason. Next up: The Blues Kitchen Manchester, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Seb Skint is a garage and bass artist tracked on soundcheck, with 22 sets logged
 
 Mattik (UK), Mattik UK, Rich Reason
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebskint/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebskint/)*

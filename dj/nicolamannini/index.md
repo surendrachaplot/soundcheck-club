@@ -1,6 +1,6 @@
 # Nicola Mannini
 
-Nicola Mannini is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at House of Ora, London on Fri, 16 Oct 2026.
+Nicola Mannini is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at House of Ora, London on Fri, 16 Oct 2026.
 
 Nicola Mannini is a house and ambient artist tracked on soundcheck, with 25 sets logged across London and Milan. Often billed alongside Pietro LGF, Suerta and Chapel Walk. Next up: House of Ora, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nicola Mannini is a house and ambient artist tracked on soundcheck, with 25 sets
 
 Pietro LGF, Suerta, Chapel Walk
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamannini/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamannini/)*

@@ -1,6 +1,6 @@
 # Particles
 
-Particles is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Freight Island, Manchester on Sun, 6 Sept 2026.
+Particles is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Freight Island, Manchester on Sun, 6 Sept 2026.
 
 Particles is a garage and bass artist tracked on soundcheck, with 15 sets logged across Istanbul and Manchester. Often billed alongside Murteza, Rectør and Jung (3). Next up: Freight Island, Manchester on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Particles is a garage and bass artist tracked on soundcheck, with 15 sets logged
 
 Murteza, Rectør, Jung (3)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*

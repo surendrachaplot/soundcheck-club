@@ -1,6 +1,6 @@
 # Malzfabrik
 
-Malzfabrik is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "Hochsommer - Sommerhoch" on Sat, 22 Aug 2026.
+Malzfabrik is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Hochsommer - Sommerhoch" on Sat, 22 Aug 2026.
 
 Malzfabrik is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Dynamic Experience, multibliss, Philena and Repthiloid and 2 more. Browse upcoming dates, start times and who's playing. Bessemerstraße 2-14, 12103 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Malzfabrik is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 Bessemerstraße 2-14, 12103 Berlin, Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/malzfabrik/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/malzfabrik/)*

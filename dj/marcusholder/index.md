@@ -1,6 +1,6 @@
 # Marcus Holder
 
-Marcus Holder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
+Marcus Holder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
 
 Marcus Holder is a house and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Melbourne. Often billed alongside Blachord, Abribass and Acid Washed. Next up: Bulbul Berlin, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marcus Holder is a house and techno artist tracked on soundcheck, with 15 sets l
 
 Blachord, Abribass, Acid Washed
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusholder/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusholder/)*

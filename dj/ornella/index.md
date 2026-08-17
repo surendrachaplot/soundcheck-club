@@ -1,6 +1,6 @@
 # Ornella
 
-Ornella is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
+Ornella is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
 
 Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Fuse, Brussels on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

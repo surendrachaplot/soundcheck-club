@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Blasha & Allatt is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Blasha & Allatt are a techno and house duo tracked on soundcheck, with 273 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside aalice, Steffi and Freddy K. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -9,7 +9,6 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 273 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
-| Fri, 14 Aug 2026 | Hall | Tallinn |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 29 Aug 2026 | Macadam | Nantes |
 | Sun, 30 Aug 2026 | Southwark Park | London |
@@ -20,6 +19,7 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 273 sets 
 | Sat, 19 Sept 2026 | WaV | Liverpool |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 273 sets 
 
 aalice, Steffi, Freddy K
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

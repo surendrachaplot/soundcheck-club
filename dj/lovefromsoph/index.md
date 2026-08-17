@@ -1,6 +1,6 @@
 # Lovefromsoph
 
-Lovefromsoph is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
+Lovefromsoph is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
 
 Lovefromsoph is a techno and ambient artist based in Australia, tracked on soundcheck, with 5 sets logged across Amsterdam and Sydney. Often billed alongside ARTISAH, Ali Bilal and Dave Stuart. Next up: UNSW Roundhouse, Sydney on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Lovefromsoph is a techno and ambient artist based in Australia, tracked on sound
 
 ARTISAH, Ali Bilal, Dave Stuart
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefromsoph/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefromsoph/)*

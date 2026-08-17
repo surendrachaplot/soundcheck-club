@@ -1,13 +1,14 @@
 # Merco Ben
 
-Merco Ben is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
+Merco Ben is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
 
-Merco Ben is a techno and bass artist based in France, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside SOGI, Guchon and SENNY D. Next up: おおばキャンプ村, Tokyo on Sat 5 Sept.
+Merco Ben is a techno and bass artist based in France, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Guchon, SOGI and Aliceyuki. Next up: おおばキャンプ村, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ Merco Ben is a techno and bass artist based in France, tracked on soundcheck, wi
 
 ## Shares bills with
 
-SOGI, Guchon, SENNY D
+Guchon, SOGI, Aliceyuki
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mercoben/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mercoben/)*

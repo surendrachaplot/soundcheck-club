@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Clara Cuvé is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
@@ -35,4 +35,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets lo
 
 Kobosil, MCR-T, 999999999
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

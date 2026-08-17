@@ -1,6 +1,6 @@
 # Esk (UK)
 
-Esk (UK) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Jumbi, London on Sat, 12 Sept 2026.
+Esk (UK) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jumbi, London on Sat, 12 Sept 2026.
 
 Esk (UK) is a house and hip-hop artist tracked on soundcheck, with 13 sets logged across Bristol, London and Tokyo. Often billed alongside Arthi, Geeneus and Kareem Ali. Next up: Jumbi, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Esk (UK) is a house and hip-hop artist tracked on soundcheck, with 13 sets logge
 
 Arthi, Geeneus, Kareem Ali
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esk-1/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esk-1/)*

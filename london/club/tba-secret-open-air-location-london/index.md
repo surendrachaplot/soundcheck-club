@@ -1,6 +1,6 @@
 # TBA - Secret Open Air Location, London
 
-TBA - Secret Open Air Location, London is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "PARAVIBE - 9th Birthday Al Fresco Forest Party" on Sat, 29 Aug 2026.
+TBA - Secret Open Air Location, London is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "PARAVIBE - 9th Birthday Al Fresco Forest Party" on Sat, 29 Aug 2026.
 
 TBA - Secret Open Air Location, London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Open Air Location, London is a music venue in London listed on soun
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | PARAVIBE - 9th Birthday Al Fresco Forest Party |  |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-open-air-location-london/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-open-air-location-london/)*

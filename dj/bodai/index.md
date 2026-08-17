@@ -1,6 +1,6 @@
 # BODAI
 
-BODAI is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Macarena Club, Barcelona on Tue, 18 Aug 2026.
+BODAI is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Macarena Club, Barcelona on Tue, 18 Aug 2026.
 
 BODAI is a progressive house and electronica artist tracked on soundcheck, with 5 sets logged across Barcelona, Buenosaires and Lisbon. Often billed alongside Christian Rojas, DIROS and Eli Nissan. Next up: Macarena Club, Barcelona on Tue 18 Aug.
 
@@ -21,4 +21,4 @@ BODAI is a progressive house and electronica artist tracked on soundcheck, with 
 
 Christian Rojas, DIROS, Eli Nissan
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodai/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodai/)*

@@ -1,6 +1,6 @@
 # CHAMBERS (UK)
 
-CHAMBERS (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
+CHAMBERS (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
 
 CHAMBERS (UK) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside GRIGGY, AJ Jonesy and Beno Garcia. Next up: Stage and Radio, Manchester on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ CHAMBERS (UK) is a garage and house artist based in United Kingdom, tracked on s
 
 GRIGGY, AJ Jonesy, Beno Garcia
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chambersuk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chambersuk/)*

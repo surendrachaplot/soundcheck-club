@@ -1,6 +1,6 @@
 # Dan Newman
 
-Dan Newman is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
+Dan Newman is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
 
 Dan Newman is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Cardiff, Dublin and Madrid and 2 more. Often billed alongside Gerardo Niva, 6 SENSE and Bella Claxton. Next up: Mondo, Madrid on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dan Newman is a house and garage artist based in United Kingdom, tracked on soun
 
 Gerardo Niva, 6 SENSE, Bella Claxton
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*

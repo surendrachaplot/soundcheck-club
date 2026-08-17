@@ -1,6 +1,6 @@
 # Yuuki
 
-Yuuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
+Yuuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
 
 Yuuki is a house and techno artist tracked on soundcheck, with 23 sets logged across London, Newyorkcity, Osaka and Seoul and 1 more. Often billed alongside Saumac, DJ AKi and Darley. Next up: Apollo Studio, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Yuuki is a house and techno artist tracked on soundcheck, with 23 sets logged ac
 
 Saumac, DJ AKi, Darley
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*

@@ -1,6 +1,6 @@
 # Timon (2)
 
-Timon (2) is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
+Timon (2) is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
 
 Timon (2) is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Nettle Dj, ChrisCarter and ANGL (2). Next up: Groovetank Live, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Timon (2) is an afro house and afro tech artist based in United Kingdom, tracked
 
 Nettle Dj, ChrisCarter, ANGL (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timon-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timon-2/)*

@@ -1,6 +1,6 @@
 # Rhythm & Sound
 
-Rhythm & Sound is a Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
+Rhythm & Sound is a Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
 
 Rhythm & Sound are a dub duo based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Basic Channel and Moritz von Oswald. Next up: Melkweg, Amsterdam on Sun 25 Oct.
 
@@ -14,4 +14,4 @@ Rhythm & Sound are a dub duo based in Germany, tracked on soundcheck, with 1 set
 
 Basic Channel, Moritz von Oswald
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmandsound/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmandsound/)*

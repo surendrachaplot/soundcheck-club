@@ -1,6 +1,6 @@
 # blissy e
 
-blissy e is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+blissy e is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 blissy e is a broken beat and jazz artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across London. Often billed alongside GENIETUNES, Sweet Cic and Donut. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ blissy e is a broken beat and jazz artist based in United Kingdom, tracked on so
 
 GENIETUNES, Sweet Cic, Donut
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*

@@ -1,6 +1,6 @@
 # PAC (2)
 
-PAC (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+PAC (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 PAC (2) is a techno and house artist tracked on soundcheck, with 19 sets logged across Copenhagen and Newyorkcity. Often billed alongside S A M I, sixsix and DJ Machine (2). Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ PAC (2) is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 S A M I, sixsix, DJ Machine (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*

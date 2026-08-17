@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Het Concept // House & UK Garage" on Sat, 22 Aug 2026.
+Club Up is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Het Concept // House & UK Garage" on Sat, 22 Aug 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Baker (NL), Club Soda, Danny Snowden and Jeremy Sylvester and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -19,4 +19,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, w
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

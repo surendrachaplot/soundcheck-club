@@ -1,0 +1,28 @@
+# xupid
+
+xupid is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Lovètosse, Berlin on Sat, 5 Sept 2026.
+
+xupid is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside JD Typo, Lyo. and eric.a. Next up: TBA - Lovètosse, Berlin on Sat 5 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
+
+## Recently played
+
+- TBA, Berlin — Sat, 20 Jun 2026
+- C115, Berlin — Sun, 24 May 2026
+- Renate, Berlin — Sat, 16 May 2026
+- Sonnenraum, Berlin — Sun, 5 Apr 2026
+- Renate, Berlin — Thu, 5 Mar 2026
+- Sonnenraum, Berlin — Sat, 7 Feb 2026
+- TBA - Sonnenraum Eichenstraße 4a, 12435 Berlin, Berlin — Sat, 15 Nov 2025
+- TBA - Lovètosse, Berlin — Sat, 26 Jul 2025
+
+## Shares bills with
+
+JD Typo, Lyo., eric.a
+
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xupid/)*

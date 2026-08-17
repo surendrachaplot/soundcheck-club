@@ -1,6 +1,6 @@
 # Maus Hábitos
 
-Maus Hábitos is a music venue in Porto with 1 upcoming night listed on soundcheck as of Sun, 16 Aug 2026; the next is "RAVEBABE" on Sat, 22 Aug 2026.
+Maus Hábitos is a music venue in Porto with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "RAVEBABE" on Sat, 22 Aug 2026.
 
 Maus Hábitos is a music venue in Porto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Porto.
 
@@ -14,4 +14,4 @@ Maus Hábitos is a music venue in Porto listed on soundcheck. 1 upcoming night. 
 
 Porto, Porto
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/maus-h-bitos/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/maus-h-bitos/)*

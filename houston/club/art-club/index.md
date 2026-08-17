@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 19 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "DJ Night — DJ Tennis" on Tue, 18 Aug 2026.
+Art Club is a music venue in Houston with 19 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DJ Night — DJ Tennis" on Tue, 18 Aug 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 19 upcoming nights, with line-ups including Amarji King, Ben UFO, Big Ace and Broken Hill and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 19 upcoming nights, w
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

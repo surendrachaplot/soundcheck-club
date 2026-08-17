@@ -1,6 +1,6 @@
 # mayalabae
 
-mayalabae is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
+mayalabae is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
 
 mayalabae is a techno and electro artist tracked on soundcheck, with 42 sets logged across Montreal and Toronto. Often billed alongside Pretty Privilege, Sperdakos and CrisseMarqueur. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ mayalabae is a techno and electro artist tracked on soundcheck, with 42 sets log
 
 Pretty Privilege, Sperdakos, CrisseMarqueur
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*

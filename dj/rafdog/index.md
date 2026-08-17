@@ -1,6 +1,6 @@
 # RafDog
 
-RafDog is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - SAKARI, Tbilisi on Fri, 21 Aug 2026.
+RafDog is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SAKARI, Tbilisi on Fri, 21 Aug 2026.
 
 RafDog is a dubstep and bass artist tracked on soundcheck, with 3 sets logged across Tbilisi. Often billed alongside The Machete Boyz, Goka and irrationalizard. Next up: TBA - SAKARI, Tbilisi on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ RafDog is a dubstep and bass artist tracked on soundcheck, with 3 sets logged ac
 
 The Machete Boyz, Goka, irrationalizard
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafdog/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafdog/)*

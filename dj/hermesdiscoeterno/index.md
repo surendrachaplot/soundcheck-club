@@ -1,6 +1,6 @@
 # Hermes Disco Eterno
 
-Hermes Disco Eterno is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Slow Club, Barcelona on Thu, 20 Aug 2026.
+Hermes Disco Eterno is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Slow Club, Barcelona on Thu, 20 Aug 2026.
 
 Hermes Disco Eterno is a house and tech house artist tracked on soundcheck, with 54 sets logged across Barcelona. Often billed alongside Icey, D.T.H. and Toni The Boss. Next up: Slow Club, Barcelona on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Hermes Disco Eterno is a house and tech house artist tracked on soundcheck, with
 
 Icey, D.T.H., Toni The Boss
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermesdiscoeterno/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermesdiscoeterno/)*

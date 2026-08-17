@@ -1,6 +1,6 @@
 # Tsutomu
 
-Tsutomu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Tsutomu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Tsutomu is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Seoul and Tokyo. Often billed alongside Kojiro, DJ Sodeyama and Qmico. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Tsutomu is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Kojiro, DJ Sodeyama, Qmico
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsutomu/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsutomu/)*

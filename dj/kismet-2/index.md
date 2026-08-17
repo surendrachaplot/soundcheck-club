@@ -1,14 +1,13 @@
 # kismet
 
-kismet is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+kismet is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
 
-kismet is an afro house and tech house artist tracked on soundcheck, with 7 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Shenin Amara, Beezo and DJ S (UK). Next up: Ministry Of Sound, London on Sat 15 Aug.
+kismet is an afro house and tech house artist tracked on soundcheck, with 7 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside DJ S (UK), Shenin Amara and Beezo. Next up: Basing House, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Ministry Of Sound | London |
 | Fri, 21 Aug 2026 | Basing House | London |
 
 ## Recently played
@@ -22,6 +21,6 @@ kismet is an afro house and tech house artist tracked on soundcheck, with 7 sets
 
 ## Shares bills with
 
-Shenin Amara, Beezo, DJ S (UK)
+DJ S (UK), Shenin Amara, Beezo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*

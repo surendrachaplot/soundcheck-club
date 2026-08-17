@@ -1,6 +1,6 @@
 # Innuendo
 
-Innuendo is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Innuendo is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
 
 Innuendo is a techno and electro artist based in Belgium, tracked on soundcheck, with 10 sets logged across Basel, Berlin, Brussels and Lyon and 1 more. Often billed alongside DJ Rino, Ben Kamal and Cio (Spezialmaterial). Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Innuendo is a techno and electro artist based in Belgium, tracked on soundcheck,
 
 DJ Rino, Ben Kamal, Cio (Spezialmaterial)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*

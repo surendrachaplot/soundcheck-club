@@ -1,6 +1,6 @@
 # Alicia Carrera
 
-Alicia Carrera is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
+Alicia Carrera is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
 
 Alicia Carrera is a house and techno artist based in Spain, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bangkok and Belgrade and 15 more. Often billed alongside Sound Metaphors Djs, David Fogarty and Courtney Bailey. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Alicia Carrera is a house and techno artist based in Spain, tracked on soundchec
 
 Sound Metaphors Djs, David Fogarty, Courtney Bailey
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciacarrera/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciacarrera/)*

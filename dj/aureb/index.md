@@ -1,6 +1,6 @@
 # Aureb
 
-Aureb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
+Aureb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
 
 Aureb is a techno and house artist based in France, tracked on soundcheck, with 33 sets logged across London, Lyon, Marseille and Paris. Often billed alongside Disco Darblé, Eskha and Airod. Next up: Virage, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Aureb is a techno and house artist based in France, tracked on soundcheck, with 
 
 Disco Darblé, Eskha, Airod
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aureb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aureb/)*

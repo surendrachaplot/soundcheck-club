@@ -1,6 +1,6 @@
 # PTR-Usine
 
-PTR-Usine is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Rave party revival (Sirāt after-show)" on Fri, 28 Aug 2026.
+PTR-Usine is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Rave party revival (Sirāt after-show)" on Fri, 28 Aug 2026.
 
 PTR-Usine is a music venue in Geneva listed on soundcheck. 2 upcoming nights, with line-ups including Autechre, Kangding Ray, Sorcery and Wallis. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 5281, Geneva; Switzerland.
 
@@ -15,4 +15,4 @@ PTR-Usine is a music venue in Geneva listed on soundcheck. 2 upcoming nights, wi
 
 Place des Volontaires 4; 5281, Geneva; Switzerland, Geneva
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/ptr-usine/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/ptr-usine/)*

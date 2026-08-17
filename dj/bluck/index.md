@@ -1,6 +1,6 @@
 # Bluck
 
-Bluck is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
+Bluck is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Bluck is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Leeds and London. Often billed alongside Dove (UK), Randoma and TILDA (2). Next up: fabric, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Bluck is a drum & bass and jungle artist tracked on soundcheck, with 22 sets log
 
 Dove (UK), Randoma, TILDA (2)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*

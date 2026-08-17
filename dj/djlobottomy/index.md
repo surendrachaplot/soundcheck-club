@@ -1,6 +1,6 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Fri, 28 Aug 2026.
+@djlobottomy is a Latin Bass and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 @djlobottomy is a latin bass and guaracha artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside Maznoize, xtcemi and DE ALMA. Next up: Thee Stork Club, Sanfrancisco on Fri 28 Aug.
 
@@ -26,4 +26,4 @@
 
 Maznoize, xtcemi, DE ALMA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*

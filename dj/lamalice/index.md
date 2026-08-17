@@ -1,14 +1,13 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Fvtvr, Paris on Sat, 15 Aug 2026.
+LAMALICE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Rex Club, Paris on Fri, 11 Sept 2026.
 
-LAMALICE is a house and electro artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Fvtvr, Paris on Sat 15 Aug.
+LAMALICE is a house and electro artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Rex Club, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Fvtvr | Paris |
 | Fri, 11 Sept 2026 | Rex Club | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ LAMALICE is a house and electro artist tracked on soundcheck, with 110 sets logg
 
 Massaï, ABI (FR), Alyhas
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

@@ -1,13 +1,14 @@
 # Ryan Spencer
 
-Ryan Spencer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Système, Montreal on Sat, 29 Aug 2026.
+Ryan Spencer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cafeteria, Toronto on Fri, 28 Aug 2026.
 
-Ryan Spencer is a house and techno artist based in United States of America, tracked on soundcheck, with 256 sets logged across Detroit, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Système, Montreal on Sat 29 Aug.
+Ryan Spencer is a house and techno artist based in United States of America, tracked on soundcheck, with 257 sets logged across Detroit, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Cafeteria, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Cafeteria | Toronto |
 | Sat, 29 Aug 2026 | Système | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ryan Spencer is a house and techno artist based in United States of America, tra
 
 Shigeto, Charles Trees, Tammy Lakkis
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*

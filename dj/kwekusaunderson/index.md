@@ -1,6 +1,6 @@
 # Kweku Saunderson
 
-Kweku Saunderson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+Kweku Saunderson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 Kweku Saunderson is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit and Newyorkcity. Often billed alongside Kevin Saunderson, The Saunderson Brothers and cry$cross. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ Kweku Saunderson is a house and techno artist based in United States of America,
 
 Kevin Saunderson, The Saunderson Brothers, cry$cross
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwekusaunderson/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwekusaunderson/)*

@@ -1,6 +1,6 @@
 # Slamb
 
-Slamb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
+Slamb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
 
 Slamb is a house and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Caitlin Medcalf, AHJU and Assembler Code. Next up: Club 77, Sydney on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Slamb is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Caitlin Medcalf, AHJU, Assembler Code
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slamb/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slamb/)*

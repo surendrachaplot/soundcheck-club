@@ -1,6 +1,6 @@
 # Sabine Hoffmann
 
-Sabine Hoffmann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Sabine Hoffmann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
 
 Sabine Hoffmann is a techno and house artist tracked on soundcheck, with 89 sets logged across Berlin and Hamburg. Often billed alongside Tinko, Kenneth Christiansen and Shaleen. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Sabine Hoffmann is a techno and house artist tracked on soundcheck, with 89 sets
 
 Tinko, Kenneth Christiansen, Shaleen
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*

@@ -1,14 +1,15 @@
 # eric.a
 
-eric.a is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at migas, a listening bar, Berlin on Fri, 21 Aug 2026.
+eric.a is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at migas, a listening bar, Berlin on Fri, 21 Aug 2026.
 
-eric.a is an electronic artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside JD Typo, Lyo. and xupid. Next up: migas, a listening bar, Berlin on Fri 21 Aug.
+eric.a is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside JD Typo, Lyo. and xupid. Next up: migas, a listening bar, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | migas, a listening bar | Berlin |
+| Sat, 5 Sept 2026 | TBA - Lovètosse | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ eric.a is an electronic artist tracked on soundcheck, with 15 sets logged across
 
 JD Typo, Lyo., xupid
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*

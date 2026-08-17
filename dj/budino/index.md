@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 22 Aug 2026.
+Budino is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 22 Aug 2026.
 
 Budino is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Cabaret Sauvage, Paris on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Budino is a house and techno artist tracked on soundcheck, with 147 sets logged 
 
 Gabrielle Kwarteng, Massimiliano Pagliara, Cormac
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

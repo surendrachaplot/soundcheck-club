@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
+Sofiia Zoloto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
 
 Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 42 sets logged across Berlin, Munich, Nurnberg and Prague and 1 more. Often billed alongside 9LALEY, Miran N and Muallem. Next up: Trojský Pivovar, Prague on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 42 sets l
 
 9LALEY, Miran N, Muallem
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 BLANKA is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ BLANKA is a techno and house artist tracked on soundcheck, with 136 sets logged 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

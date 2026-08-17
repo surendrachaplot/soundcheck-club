@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 12 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)" on Sun, 16 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs" on Fri, 21 Aug 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 12 upcoming nights, with line-ups including 22 Interns, AAT (NL), Boris Coelman and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 11 upcoming nights, with line-ups including AAT (NL), Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT) | 22 Interns, Kendal, LAMMER, Spacer Woman |
 | Fri, 21 Aug 2026 | Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs | Sem Jacobs, Silvie Loto, Toman |
 | Sat, 22 Aug 2026 | Colorado Charlie with Jan Blomqvist, Helsloot, Sinca | Helsloot, Jan Blomqvist, Sinca |
 | Sun, 23 Aug 2026 | Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT) | Lauren Lo Sung, Locky, Luke Dean_ |
@@ -18,9 +17,10 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 12 upcoming 
 | Sun, 6 Sept 2026 | Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) | Daughter In Law, Easttown, Franky Rizardo |
 | Sat, 12 Sept 2026 | Colorado Charlie with Colyn (3hrs), Nicky Elisabeth | Colyn, Nicky Elisabeth |
 | Sun, 13 Sept 2026 | Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT) | Ellam, Ellia Jaya, Gaskin, Michel de Hey, Wildish |
+| Fri, 18 Sept 2026 | Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk | Boris Coelman, Luuk van Dijk, Merel Helderman |
 
 ## Address
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

@@ -1,8 +1,8 @@
 # Dusky
 
-Dusky is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
+Dusky is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Dusky is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Dan Shake, Junior Simba and Skream. Next up: Chinois Ibiza, Ibiza on Tue 15 Sept.
+Dusky is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Dan Shake, Junior Simba and Skream. Next up: Chinois Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist tracked on soundcheck, with 93 sets logged ac
 
 Dan Shake, Junior Simba, Skream
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

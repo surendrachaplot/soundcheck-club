@@ -1,6 +1,6 @@
 # Octo
 
-Octo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Octo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
 Octo is a minimal and house artist tracked on soundcheck, with 10 sets logged across Lisbon and Madrid. Often billed alongside Kee_ko, SLIM J and A. Lobo. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Octo is a minimal and house artist tracked on soundcheck, with 10 sets logged ac
 
 Kee_ko, SLIM J, A. Lobo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octo/)*

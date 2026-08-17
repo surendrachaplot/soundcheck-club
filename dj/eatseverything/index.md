@@ -1,14 +1,13 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at [UNVRS], Ibiza on Sat, 15 Aug 2026.
+Eats Everything is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pacha Ibiza, Ibiza on Mon, 24 Aug 2026.
 
-Eats Everything is a house and tech house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside EATS, Sam Divine and Melé. Next up: [UNVRS], Ibiza on Sat 15 Aug.
+Eats Everything is a house and tech house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside EATS, Sam Divine and Melé. Next up: Pacha Ibiza, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | [UNVRS] | Ibiza |
 | Mon, 24 Aug 2026 | Pacha Ibiza | Ibiza |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Eats Everything is a house and tech house artist tracked on soundcheck, with 178
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
+| Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Eats Everything is a house and tech house artist tracked on soundcheck, with 178
 
 EATS, Sam Divine, Melé
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

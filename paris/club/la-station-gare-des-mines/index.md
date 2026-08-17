@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "subtyl" on Sat, 15 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Spectrum Waves: 2 DAYS" on Fri, 21 Aug 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including cfds, Corbeille Dallas, Delano Legito and De Vedelly and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including cfds, Corbeille Dallas, De Vedelly and Fatima Koanda and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | subtyl | Delano Legito, Egna, KALTBLUME, Sina XX |
 | Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS |  |
 | Thu, 27 Aug 2026 | Drag, Amour & Amitié |  |
 | Fri, 28 Aug 2026 | Ma soeur, j'ai raté le terminus  |  |
@@ -18,9 +17,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 18 u
 | Sat, 5 Sept 2026 | Tara Clerkin Trio (live) + TBC |  |
 | Sun, 6 Sept 2026 | The All Black Everything Kiki Ball |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
+| Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

@@ -1,14 +1,13 @@
 # Sascha Braemer
 
-Sascha Braemer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Hive Club, Zurich on Fri, 14 Aug 2026.
+Sascha Braemer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
 
-Sascha Braemer is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Markus Klee, Calypsis and MUKKIMIAU. Next up: Hive Club, Zurich on Fri 14 Aug.
+Sascha Braemer is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Markus Klee, Calypsis and MUKKIMIAU. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Hive Club | Zurich |
 | Sat, 5 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sascha Braemer is a techno and house artist tracked on soundcheck, with 36 sets 
 
 Markus Klee, Calypsis, MUKKIMIAU
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabraemer/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabraemer/)*

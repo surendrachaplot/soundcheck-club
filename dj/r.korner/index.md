@@ -1,6 +1,6 @@
 # R.Korner
 
-R.Korner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 16 Aug 2026.
+R.Korner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 R.Korner is a techno and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Ibiza and Milan and 1 more. Often billed alongside Richey V, Massi Rocket and Akoriz. Next up: Hï Ibiza, Ibiza on Sun 16 Aug.
 
@@ -12,6 +12,7 @@ R.Korner is a techno and house artist tracked on soundcheck, with 29 sets logged
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 16 Aug 2026
 - Cinecittà World, Rome — Sat, 7 Feb 2026
 - Toekomstmuziek, Amsterdam — Sat, 25 Oct 2025
 - Club NYX, Amsterdam — Sat, 25 Oct 2025
@@ -19,10 +20,9 @@ R.Korner is a techno and house artist tracked on soundcheck, with 29 sets logged
 - Super Club, Milan — Sat, 29 Mar 2025
 - The Rocket Club, Milan — Thu, 20 Mar 2025
 - CIRCOLO BOTULINO, Milan — Fri, 7 Mar 2025
-- The Rocket Club, Milan — Thu, 20 Feb 2025
 
 ## Shares bills with
 
 Richey V, Massi Rocket, Akoriz
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r.korner/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r.korner/)*

@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 15 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Darude" on Fri, 21 Aug 2026.
+Q Nightclub is a music venue in Seattle with 15 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Darude" on Fri, 21 Aug 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 15 upcoming nights, with line-ups including Arlo, Biscits, Classmatic and Darude and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 15 upcoming nights
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

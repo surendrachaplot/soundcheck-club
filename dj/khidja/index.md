@@ -1,6 +1,6 @@
 # Khidja
 
-Khidja is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
+Khidja is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
 
 Khidja is a techno and acid artist tracked on soundcheck, with 43 sets logged across Belgrade, Berlin, Bucharest and Ghent and 5 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: arkaoda Berlin, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Khidja is a techno and acid artist tracked on soundcheck, with 43 sets logged ac
 
 Katzele, Marius Georgescu, Fantastic Twins
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*

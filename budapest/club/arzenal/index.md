@@ -1,8 +1,8 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Arzenál vs Katlan: The Summer Festival 2026" on Wed, 19 Aug 2026.
+Arzenal is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Arzenál vs Katlan: The Summer Festival 2026" on Wed, 19 Aug 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

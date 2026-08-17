@@ -1,6 +1,6 @@
 # Ms. Renegade
 
-Ms. Renegade is a Breakbeat and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The Haggerston, London on Fri, 28 Aug 2026.
+Ms. Renegade is a Breakbeat and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Haggerston, London on Fri, 28 Aug 2026.
 
 Ms. Renegade is a breakbeat and uk funky artist based in Sweden, tracked on soundcheck, with 10 sets logged across London and Stockholm. Often billed alongside FANNY (SE), Marble and Sho Gabi. Next up: The Haggerston, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ms. Renegade is a breakbeat and uk funky artist based in Sweden, tracked on soun
 
 FANNY (SE), Marble, Sho Gabi
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*

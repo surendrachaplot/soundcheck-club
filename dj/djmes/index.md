@@ -1,6 +1,6 @@
 # DJ Mes
 
-DJ Mes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
+DJ Mes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
 
 DJ Mes is a house and deep house artist tracked on soundcheck, with 8 sets logged across Chicago, Losangeles, Osaka and Sanfrancisco and 2 more. Often billed alongside DJ Dan, Anthony Mansfield and Bianca. Next up: F8 1192 Folsom, Sanfrancisco on Wed 26 Aug.
 
@@ -24,4 +24,4 @@ DJ Mes is a house and deep house artist tracked on soundcheck, with 8 sets logge
 
 DJ Dan, Anthony Mansfield, Bianca
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmes/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmes/)*

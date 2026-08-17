@@ -1,6 +1,6 @@
 # Carotin
 
-Carotin is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Carotin is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Carotin is a trance and techno artist tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside ELOISA, Melanchromie and Paraçek. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Carotin is a trance and techno artist tracked on soundcheck, with 43 sets logged
 
 ELOISA, Melanchromie, Paraçek
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carotin/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carotin/)*

@@ -1,14 +1,13 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Kevin de Vries I Sat Aug 15" on Sat, 15 Aug 2026.
+Bolivar Beach Bar is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mayans with David Morales I Thu Aug 20" on Thu, 20 Aug 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Kevin de Vries I Sat Aug 15 | Kevin de Vries, Nick Devon |
 | Thu, 20 Aug 2026 | Mayans with David Morales I Thu Aug 20 | David Morales, Dino MFU, DjSteph, Rezo (2) |
 | Fri, 21 Aug 2026 | John Digweed I Fri Aug 21 | DjSteph, John Digweed |
 | Thu, 27 Aug 2026 | Mayans with Âme Live I Thu Aug 27 | DjSteph, Rezo (2), Âme |
@@ -23,4 +22,4 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 10 upcoming n
 
 Posidonos Avenue, Alimos, Athens, Athens
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*

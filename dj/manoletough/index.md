@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Mano Le Tough is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Mano Le Tough is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Âme, Sossa and Jonathan Kaspar. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -27,4 +27,4 @@ Mano Le Tough is a house and techno artist tracked on soundcheck, with 162 sets 
 
 Âme, Sossa, Jonathan Kaspar
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

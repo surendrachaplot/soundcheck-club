@@ -1,8 +1,8 @@
 # Adriana (1)
 
-Adriana (1) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at The Night Cat, Melbourne on Sat, 5 Sept 2026.
+Adriana (1) is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Night Cat, Melbourne on Sat, 5 Sept 2026.
 
-Adriana (1) is a house and disco artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Auckland and Berlin and 7 more. Often billed alongside Zjoso, Elsie and Milo Eastwood. Next up: The Night Cat, Melbourne on Sat 5 Sept.
+Adriana (1) is a house and disco artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Auckland and Berlin and 7 more. Often billed alongside Zjoso, Elsie and Milo Eastwood. Next up: The Night Cat, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adriana (1) is a house and disco artist tracked on soundcheck, with 49 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Night Cat | Melbourne |
 | Sat, 26 Sept 2026 | TBA | Melbourne |
+| Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Adriana (1) is a house and disco artist tracked on soundcheck, with 49 sets logg
 
 Zjoso, Elsie, Milo Eastwood
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*

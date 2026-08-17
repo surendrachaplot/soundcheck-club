@@ -1,6 +1,6 @@
 # Jamie Woon
 
-Jamie Woon is a Dubstep and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Akvárium Klub, Budapest on Sun, 13 Sept 2026.
+Jamie Woon is a Dubstep and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Akvárium Klub, Budapest on Sun, 13 Sept 2026.
 
 Jamie Woon is a dubstep and r&b artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Budapest. Next up: Akvárium Klub, Budapest on Sun 13 Sept.
 
@@ -10,4 +10,4 @@ Jamie Woon is a dubstep and r&b artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Akvárium Klub | Budapest |
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiewoon/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiewoon/)*

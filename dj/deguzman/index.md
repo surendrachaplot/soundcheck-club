@@ -1,14 +1,13 @@
 # DeGuzman
 
-DeGuzman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Roof 175, Frankfurt on Sat, 15 Aug 2026.
+DeGuzman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sky Club, Leipzig on Sat, 22 Aug 2026.
 
-DeGuzman is a techno and trance artist based in Germany, tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 8 more. Often billed alongside The Belgian Stallion, SANDRA ROMINA and Paranormila. Next up: Roof 175, Frankfurt on Sat 15 Aug.
+DeGuzman is a techno and trance artist based in Germany, tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 8 more. Often billed alongside The Belgian Stallion, SANDRA ROMINA and Paranormila. Next up: Sky Club, Leipzig on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Roof 175 | Frankfurt |
 | Sat, 22 Aug 2026 | Sky Club | Leipzig |
 | Fri, 11 Sept 2026 | Gateway Gardens Ocean Club | Frankfurt |
 
@@ -27,4 +26,4 @@ DeGuzman is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 The Belgian Stallion, SANDRA ROMINA, Paranormila
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*

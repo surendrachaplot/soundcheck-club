@@ -1,6 +1,6 @@
 # Genick
 
-Genick is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
+Genick is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
 
 Genick is a bass and garage artist tracked on soundcheck, with 76 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Jacotanu, VECSILLE and Oblongar. Next up: J.J. Mahoney's Bar, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Genick is a bass and garage artist tracked on soundcheck, with 76 sets logged ac
 
 Jacotanu, VECSILLE, Oblongar
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genick/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genick/)*

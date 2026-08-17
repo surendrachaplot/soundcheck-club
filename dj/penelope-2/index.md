@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Myra, Lisbon on Sat, 22 Aug 2026.
+Penelope (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Myra, Lisbon on Sat, 22 Aug 2026.
 
 Penelope (2) is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Myra, Lisbon on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Penelope (2) is a house and techno artist tracked on soundcheck, with 127 sets l
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

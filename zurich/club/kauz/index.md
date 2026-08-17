@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "season opening" on Sat, 29 Aug 2026.
+Kauz is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "season opening" on Sat, 29 Aug 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Anthik, Baerg, dit:eau and Ektoplast and 2 more. Browse upcoming dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -17,4 +17,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with li
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

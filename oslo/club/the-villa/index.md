@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Det Gode Selskab x Continually" on Fri, 21 Aug 2026.
+The Villa is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Det Gode Selskab x Continually" on Fri, 21 Aug 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Alex Jangle, Daichi Wada, Finnebassen and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -23,4 +23,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, wit
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

@@ -1,14 +1,13 @@
 # Function
 
-Function is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
+Function is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
 
-Function is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: BASEMENT, Newyorkcity on Sat 15 Aug.
+Function is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: Tresor / Globus, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
@@ -28,4 +27,4 @@ Function is a techno and house artist based in United States of America, tracked
 
 Regis, Sandwell District, Sarah Wreath
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*

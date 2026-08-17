@@ -1,6 +1,6 @@
 # Sebibadboy
 
-Sebibadboy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
+Sebibadboy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
 
 Sebibadboy is a house and deep house artist tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside Gyusco, Youngseok and JNS. Next up: Stoked&stoned, Seoul on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sebibadboy is a house and deep house artist tracked on soundcheck, with 32 sets 
 
 Gyusco, Youngseok, JNS
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebibadboy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebibadboy/)*

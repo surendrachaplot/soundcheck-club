@@ -1,6 +1,6 @@
 # Nadine
 
-Nadine is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Nadine is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 Nadine is a techno and electro artist tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Prague. Often billed alongside Patricio Strix, Bonjour Ben and Daniel Czerner. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Nadine is a techno and electro artist tracked on soundcheck, with 8 sets logged 
 
 Patricio Strix, Bonjour Ben, Daniel Czerner
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*

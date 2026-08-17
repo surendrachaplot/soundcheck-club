@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Dancehall artist with 4 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Seb Odyssey is a House and Dancehall artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets 
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

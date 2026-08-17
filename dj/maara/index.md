@@ -1,14 +1,13 @@
 # Maara
 
-Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at MS Club, Marseille on Sat, 15 Aug 2026.
+Maara is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Maara is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: MS Club, Marseille on Sat 15 Aug.
+Maara is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | MS Club | Marseille |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 5 Sept 2026 | Artheater | Cologne |
 | Sat, 12 Sept 2026 | Cabaret Sauvage | Paris |
@@ -29,4 +28,4 @@ Maara is a techno and house artist tracked on soundcheck, with 153 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

@@ -1,6 +1,6 @@
 # ONO (3)
 
-ONO (3) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
+ONO (3) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
 
 ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, with 33 sets logged across Montreal, Osaka and Tokyo. Often billed alongside Shingo, VIDEOBOY and Kohei. Next up: COUNTER CLUB, Tokyo on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, wi
 
 Shingo, VIDEOBOY, Kohei
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*

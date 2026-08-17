@@ -1,18 +1,18 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
+Pau Rosés is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
 
-Pau Rosés is a house and techno artist tracked on soundcheck, with 136 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: Audiodise Park Montjuic, Barcelona on Sun 16 Aug.
+Pau Rosés is a house and techno artist tracked on soundcheck, with 136 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: Sunseabar Beach Club, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Audiodise Park Montjuic | Barcelona |
 | Sun, 23 Aug 2026 | Sunseabar Beach Club | Barcelona |
 
 ## Recently played
 
+- Audiodise Park Montjuic, Barcelona — Sun, 16 Aug 2026
 - Studio Stereo, Barcelona — Sat, 15 Aug 2026
 - Studio Stereo, Barcelona — Fri, 31 Jul 2026
 - La Terrrazza, Barcelona — Fri, 17 Jul 2026
@@ -20,10 +20,9 @@ Pau Rosés is a house and techno artist tracked on soundcheck, with 136 sets log
 - Macarena Club, Barcelona — Sun, 28 Jun 2026
 - Razzmatazz, Barcelona — Sat, 27 Jun 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Tue, 23 Jun 2026
-- Audiodise Park Montjuic, Barcelona — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Adria (ES), Swann, Vince Void
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*

@@ -1,14 +1,15 @@
 # SCARBA
 
-SCARBA is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
+SCARBA is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
 
-SCARBA is a techno and baile funk artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, London and Newcastle. Often billed alongside Nick Clev, Sam Beach and CHEZA LUCINA. Next up: Four Quarters, London on Fri 21 Aug.
+SCARBA is a techno and baile funk artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, London and Newcastle. Often billed alongside Nick Clev, Sam Beach and CHEZA LUCINA. Next up: Four Quarters, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Four Quarters | London |
+| Sun, 6 Sept 2026 | Lvls | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SCARBA is a techno and baile funk artist based in United Kingdom, tracked on sou
 
 Nick Clev, Sam Beach, CHEZA LUCINA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*

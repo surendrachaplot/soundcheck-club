@@ -1,14 +1,13 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
+Sem Jacobs is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Colorado Charlie, The Hague on Fri, 21 Aug 2026.
 
-Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Cova Santa, Ibiza on Sun 16 Aug.
+Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Colorado Charlie, Thehague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 21 Aug 2026 | Colorado Charlie | The Hague |
 | Fri, 28 Aug 2026 | Westlight Rooftop at The William Vale | New York City |
 | Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |
@@ -16,6 +15,7 @@ Sem Jacobs is a house and tech house artist based in Netherlands, tracked on sou
 
 ## Recently played
 
+- Cova Santa, Ibiza — Sun, 16 Aug 2026
 - Button Factory, Dublin — Sat, 8 Aug 2026
 - Blue Marlin Ibiza, Ibiza — Wed, 29 Jul 2026
 - Boomerang Beach, The Hague — Sat, 20 Jun 2026
@@ -23,10 +23,9 @@ Sem Jacobs is a house and tech house artist based in Netherlands, tracked on sou
 - The Concourse Project, Austin — Fri, 29 May 2026
 - Shelter Amsterdam, Amsterdam — Sat, 23 May 2026
 - Night We Met, Nashville — Fri, 10 Apr 2026
-- Knockdown Center, New York City — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ranger Trucco, Dennis Ferrer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*

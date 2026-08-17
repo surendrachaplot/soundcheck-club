@@ -1,6 +1,6 @@
 # Selvasolstice
 
-Selvasolstice is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
+Selvasolstice is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
 
 Selvasolstice is a hardcore and gabber artist tracked on soundcheck, with 13 sets logged across Belfast and Manchester. Often billed alongside FOULMOUTH, CBABY and Nu: Sun. Next up: The DBA, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Selvasolstice is a hardcore and gabber artist tracked on soundcheck, with 13 set
 
 FOULMOUTH, CBABY, Nu: Sun
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selvasolstice/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selvasolstice/)*

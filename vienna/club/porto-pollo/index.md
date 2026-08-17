@@ -1,6 +1,6 @@
 # Porto Pollo
 
-Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "TASTELESS - DAY TIME - Porto Pollo" on Fri, 21 Aug 2026.
+Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TASTELESS - DAY TIME - Porto Pollo" on Fri, 21 Aug 2026.
 
 Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including DELIVARY, Fede Frostl, Gandolph Romeo and Kid Kodama and 2 more. Browse upcoming dates, start times and who's playing. Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria.
 
@@ -16,4 +16,4 @@ Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, 
 
 Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria, Vienna
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*

@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Courtesy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

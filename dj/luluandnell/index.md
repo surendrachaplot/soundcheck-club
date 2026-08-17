@@ -1,6 +1,6 @@
 # Lulu & Nell
 
-Lulu & Nell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 16 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Lulu & Nell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Lulu & Nell are a house and techno duo based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Leipzig and Vienna. Often billed alongside Boris & Davy, DJ G1NA R. and Davy (Crème Club). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lulu & Nell are a house and techno duo based in Germany, tracked on soundcheck, 
 
 Boris & Davy, DJ G1NA R., Davy (Crème Club)
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*

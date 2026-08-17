@@ -1,6 +1,6 @@
 # DJ Decimal
 
-DJ Decimal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at E1, London on Sat, 19 Sept 2026.
+DJ Decimal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at E1, London on Sat, 19 Sept 2026.
 
 DJ Decimal is an afro house and house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Supa D, Beezo and Pioneer. Next up: E1, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Decimal is an afro house and house artist tracked on soundcheck, with 16 sets
 
 Supa D, Beezo, Pioneer
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*

@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 18 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "Outdoor Emo Festival Comes to Bristol" on Sat, 22 Aug 2026.
+Lakota is a music venue in Bristol with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Outdoor Emo Festival Comes to Bristol" on Sat, 22 Aug 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 18 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Friction and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 18 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

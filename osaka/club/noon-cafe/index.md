@@ -1,6 +1,6 @@
 # Noon + Cafe
 
-Noon + Cafe is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "NU-LABO (Mermaid-DUB FOREVER RELEASE EDITION)" on Thu, 20 Aug 2026.
+Noon + Cafe is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "NU-LABO (Mermaid-DUB FOREVER RELEASE EDITION)" on Thu, 20 Aug 2026.
 
 Noon + Cafe is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including 1TA (1), Element (3), KA4U and Lemi and 1 more. Browse upcoming dates, start times and who's playing. 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan.
 
@@ -15,4 +15,4 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 2 upcoming nights, w
 
 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan, Osaka
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*

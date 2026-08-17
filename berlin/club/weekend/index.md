@@ -1,8 +1,8 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 16 Aug 2026; the next is "WKND X OPERATOR" on Fri, 21 Aug 2026.
+Weekend is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "WKND X OPERATOR" on Fri, 21 Aug 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alex Gallus, BOHO, Ceci Fierce and Dennis Beutler and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alex Gallus, BOHO, Ceci Fierce and Dennis Beutler and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
@@ -15,10 +15,12 @@ Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with
 | Fri, 18 Sept 2026 | WKND X DON'T TELL ANYONE – LAST ROOFTOP DANCE | BOHO |
 | Fri, 25 Sept 2026 | WKND X HARRIS & GALLUS – GALLUS B-DAY | Alex Gallus |
 | Fri, 9 Oct 2026 | WKND X THE MICHELINS | Misha Svirid, Phonique |
+| Fri, 16 Oct 2026 | WKND X OFFLINE | DJ PayPaul |
+| Fri, 23 Oct 2026 | WKND X USHA BERLIN | Denno Matini |
 | Fri, 30 Oct 2026 | WKND X STUCK IN SPACE - PRE HALLOWEEN |  |
 
 ## Address
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

@@ -1,6 +1,6 @@
 # OCTI
 
-OCTI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 16 Aug 2026, next at FOLD, London on Sat, 19 Sept 2026.
+OCTI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at FOLD, London on Sat, 19 Sept 2026.
 
 OCTI is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across London and Newyorkcity. Often billed alongside ASHTREY, KYRUH and LUN★. Next up: FOLD, London on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ OCTI is a techno and house artist based in United States of America, tracked on 
 
 ASHTREY, KYRUH, LUN★
 
-*Updated Sun, 16 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*
+*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*
