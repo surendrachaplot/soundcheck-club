@@ -1,8 +1,8 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Jessie Dols // DJ Discostoff // SIMAY GONULTAS // Timeless Moments" on Fri, 21 Aug 2026.
+Fundbureau is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Jessie Dols // DJ Discostoff // SIMAY GONULTAS // Timeless Moments" on Fri, 21 Aug 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, Avocado, BENITO (DE) and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including 3LEEZA, Avocado, BENITO (DE) and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, 
 | Fri, 11 Sept 2026 | Once upon a time | 3LEEZA, HANÀ, Linh (2), SPORTMANN, TWOFACEDKIMMY, Tariel, e.leptic, sabenzzzo, vibemeister |
 | Fri, 25 Sept 2026 | Subios Records Showcase | Muttiah Ashnim, TiM TASTE |
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, IAM (2), MELINA (3), Sindicate, duaba |
+| Sat, 7 Nov 2026 | RAUM.fahrt |  |
 
 ## Address
 

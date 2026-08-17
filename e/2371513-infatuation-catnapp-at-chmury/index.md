@@ -1,6 +1,6 @@
 # infatuation• Catnapp at Chmury
 
-infatuation• Catnapp at Chmury on Fri 11 Sept, Warsaw. 1 act on the bill: Catnapp. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+infatuation• Catnapp at Chmury on Fri 11 Sept, Warsaw. 2 acts on the bill: Catnapp and czuly. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ infatuation• Catnapp at Chmury on Fri 11 Sept, Warsaw. 1 act on the bill: Catn
 ## Line-up
 
 - Catnapp
+- czuly
 
 *Source: [soundcheck](https://soundcheck.club/e/2371513-infatuation-catnapp-at-chmury/)*

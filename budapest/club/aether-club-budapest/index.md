@@ -1,8 +1,8 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "NO TOMORROW - 3en, Akac, Axydent, Charry" on Fri, 21 Aug 2026.
+Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "NO TOMORROW - 3en, Akac, Axydent, Charry" on Fri, 21 Aug 2026.
 
-Aether Club Budapest is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including 3en, Adis Is OK, Akác and And/Or and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
+Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including 3en, Adis Is OK, Akác and And/Or and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 3 upcomi
 | Fri, 21 Aug 2026 | NO TOMORROW - 3en, Akac, Axydent, Charry | 3en, Akác, Axydent, Charry |
 | Sat, 22 Aug 2026 | AETHER HEROES - Adis Is OK, Mirmur, Levi Gava | Adis Is OK, Mirmur |
 | Fri, 28 Aug 2026 | NO TOMORROW - NYCTO, Kiuz, And/Or, dtnb | And/Or, Kiuz, NYCTO, dtnb |
+| Sat, 29 Aug 2026 | RAW CCLXVI - Captain Knuckles, Daniel Moritz, DJ Syncbutton, Sobek | Captain Knuckles, DJ Syncbutton, Daniel Moritz, Sobek |
 
 ## Address
 

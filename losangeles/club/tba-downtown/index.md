@@ -1,8 +1,8 @@
-# TBA - Downtown
+# TBA - downtown
 
-TBA - Downtown is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MoveToTheGroove" on Thu, 20 Aug 2026.
+TBA - downtown is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MoveToTheGroove" on Thu, 20 Aug 2026.
 
-TBA - Downtown is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Act of Rage, Andy Martin, DJ Healthy and Mez Monty and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - downtown is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Act of Rage, Andy Martin, DJ Healthy and Mez Monty and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,14 +1,13 @@
 # Disguised
 
-Disguised is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Disguised is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-Disguised is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Disguised is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |

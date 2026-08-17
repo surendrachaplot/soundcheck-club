@@ -2,13 +2,13 @@
 
 The Lady Hampshire is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Back To Funk Winter BBQ Sessions" on Sat, 29 Aug 2026.
 
-The Lady Hampshire is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 91 Parramatta Road, Camperdown, NSW 2050, Sydney.
+The Lady Hampshire is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Burnhard, Kinetic and Normski. Browse upcoming dates, start times and who's playing. 91 Parramatta Road, Camperdown, NSW 2050, Sydney.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Back To Funk Winter BBQ Sessions |  |
+| Sat, 29 Aug 2026 | Back To Funk Winter BBQ Sessions | Burnhard, Kinetic, Normski |
 
 ## Address
 

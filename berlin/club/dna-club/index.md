@@ -9,8 +9,8 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 22 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
-| Fri, 21 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce | Daniela Dair |
-| Sat, 22 Aug 2026 | FREE ENTRY: Festival Afterparty at DNA. CLUB (Hip-Hop, Rap & Techno) |  |
+| Fri, 21 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: House, Bounce & Funky | Daniela Dair |
+| Sat, 22 Aug 2026 | FREE ENTRY: Festival Afterparty at DNA. CLUB (Hip-Hop, Rap & Techno) | Ravejezuz |
 | Sun, 23 Aug 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 27 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 28 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |

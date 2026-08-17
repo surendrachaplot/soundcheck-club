@@ -1,6 +1,6 @@
 # Klanggerecht presents: TANZINSTANZ at Club Lucia
 
-Klanggerecht presents: TANZINSTANZ at Club Lucia on Fri 21 Aug, Vienna. 2 acts on the bill: NooK (2) and TONKS. Techno and House. Preview the line-up and save it on soundcheck.
+Klanggerecht presents: TANZINSTANZ at Club Lucia on Fri 21 Aug, Vienna. 3 acts on the bill: eyris, NooK (2) and TONKS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Klanggerecht presents: TANZINSTANZ at Club Lucia on Fri 21 Aug, Vienna. 2 acts o
 
 ## Line-up
 
+- eyris
 - NooK (2)
 - TONKS
 

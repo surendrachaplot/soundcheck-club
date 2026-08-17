@@ -1,14 +1,13 @@
 # Sept
 
-Sept is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Sept is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fvtvr, Paris on Fri, 28 Aug 2026.
 
-Sept is a techno and house artist based in Poland, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside DLV, Danté and Lucinee. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Sept is a techno and house artist based in Poland, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside DLV, Danté and Lucinee. Next up: Fvtvr, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 28 Aug 2026 | Fvtvr | Paris |
 | Sat, 12 Sept 2026 | Else | Berlin |
 

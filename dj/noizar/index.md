@@ -1,13 +1,14 @@
 # Noizar
 
-Noizar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Lubber Fiend, Newcastle on Sat, 3 Oct 2026.
+Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hang Dai Chinese, Dublin on Fri, 25 Sept 2026.
 
-Noizar is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: The Lubber Fiend, Newcastle on Sat 3 Oct.
+Noizar is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: Hang Dai Chinese, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Hang Dai Chinese | Dublin |
 | Sat, 3 Oct 2026 | The Lubber Fiend | Newcastle |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 

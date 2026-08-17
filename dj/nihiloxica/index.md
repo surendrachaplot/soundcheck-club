@@ -1,13 +1,14 @@
 # Nihiloxica
 
-Nihiloxica is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
+Nihiloxica is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Rote Fabrik, Zurich on Fri, 28 Aug 2026.
 
-Nihiloxica is an experimental and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 7 more. Often billed alongside Allan Strange, Caterina Barbieri and Colleen. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
+Nihiloxica is an experimental and techno artist tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 8 more. Often billed alongside Allan Strange, Caterina Barbieri and Colleen. Next up: Rote Fabrik, Zurich on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Rote Fabrik | Zurich |
 | Sat, 26 Sept 2026 | TBA - check telegram | Berlin |
 
 ## Recently played

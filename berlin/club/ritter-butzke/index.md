@@ -8,7 +8,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Community-Rave - free entry until 7pm | DERICE, EVNTHZN, EVYA, Katja Kilig, Kijara, Nadia Bel Air, RaVix, k.meower |
+| Fri, 21 Aug 2026 | Community-Rave - free entry until 7pm | DERICE, EVNTHZN, EVYA, Katja Kilig, Kijara, Nadia Bel Air, Noxumi, RaVix, k.meower |
 | Sat, 22 Aug 2026 | Nifra | Castor |
 | Sat, 22 Aug 2026 | Fab Massimo | Bombata, Fab Massimo, justUS |
 | Thu, 27 Aug 2026 | Calimas Sommerhütte Free Open Air |  |

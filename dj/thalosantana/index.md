@@ -1,14 +1,13 @@
 # Thalo Santana
 
-Thalo Santana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Thalo Santana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Insel der Jugend, Berlin on Sat, 29 Aug 2026.
 
-Thalo Santana is a house and techno artist based in Brazil, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside Thabo, Kolter and Julian Feierabend. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Thalo Santana is a house and techno artist based in Brazil, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside Thabo, Kolter and Julian Feierabend. Next up: Insel der Jugend, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Insel der Jugend | Berlin |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 

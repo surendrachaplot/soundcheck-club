@@ -1,6 +1,6 @@
 # Interval - BURNR [NL] + DAYZZI at Glamorama
 
-Interval - BURNR [NL] + DAYZZI at Glamorama on Fri 21 Aug, Melbourne. 1 act on the bill: DAYZZI. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Interval - BURNR [NL] + DAYZZI at Glamorama on Fri 21 Aug, Melbourne. 2 acts on the bill: DAYZZI and Ejeckt. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Interval - BURNR [NL] + DAYZZI at Glamorama on Fri 21 Aug, Melbourne. 1 act on t
 ## Line-up
 
 - DAYZZI
+- Ejeckt
 
 *Source: [soundcheck](https://soundcheck.club/e/2479022-interval-burnr-nl-dayzzi-at-glamorama/)*

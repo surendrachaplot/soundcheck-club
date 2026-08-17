@@ -9,7 +9,7 @@ Débris is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 17 Aug 2026 | REPOS |  |
-| Tue, 25 Aug 2026 | Club night | oshi (2) |
+| Tue, 25 Aug 2026 | ?! | oshi (2) |
 | Fri, 9 Oct 2026 | Jeremy Cheung [Typhoon 8, HongKong] / Mitch [Repeat Dance, Narrm] / cosmolady / Teruu | Jeremy Cheung, Teruu, cosmolady, mitch.aiff |
 
 ## Address

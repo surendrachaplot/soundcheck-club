@@ -1,8 +1,8 @@
 # Trix
 
-Trix is a music venue in Antwerp with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Ely Oaks" on Thu, 1 Oct 2026.
+Trix is a music venue in Antwerp with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Ely Oaks" on Thu, 1 Oct 2026.
 
-Trix is a music venue in Antwerp listed on soundcheck. 5 upcoming nights, with line-ups including Bellaire, Ely Oaks and Niels Orens. Browse upcoming dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
+Trix is a music venue in Antwerp listed on soundcheck. 6 upcoming nights, with line-ups including Bellaire, Ely Oaks and Niels Orens. Browse upcoming dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Trix is a music venue in Antwerp listed on soundcheck. 5 upcoming nights, with l
 | Sat, 10 Oct 2026 | Celebration of Life |  |
 | Thu, 15 Oct 2026 | Käärijä EURODISKO TOUR |  |
 | Fri, 16 Oct 2026 | Bellaire | Bellaire |
+| Sun, 15 Nov 2026 | Solomon Fox |  |
 
 ## Address
 

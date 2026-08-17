@@ -1,14 +1,15 @@
 # kuniii
 
-kuniii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Azumaya, Tokyo on Mon, 24 Aug 2026.
+kuniii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Azumaya, Tokyo on Mon, 24 Aug 2026.
 
-kuniii is a house and techno artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside judgeman, SOGI and savezearth. Next up: Azumaya, Tokyo on Mon 24 Aug.
+kuniii is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside judgeman, SOGI and savezearth. Next up: Azumaya, Tokyo on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Azumaya | Tokyo |
+| Thu, 3 Sept 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 

@@ -15,7 +15,7 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, w
 | Fri, 11 Sept 2026 | OFF-VISION presents Gabriel Belabbas | Gabriel Belabbas, j:me |
 | Sat, 12 Sept 2026 | Ton Trax - DY Dance [DAYP:008] Launch Party with Ton Trax, Lashimba & Joe Roche | Joe Roche, Lashimba |
 | Sat, 19 Sept 2026 | Ashley's fundraiser | ASHTYLR, Anop, FOULMOUTH, Lapalace, Lucky Bunny, Princess Elf Bar, SHERI (2), Willow J |
-| Fri, 25 Sept 2026 | Chorus Social 007: skywalka // cuci cuci coo // April // Esmé | April (UK), Esmé, cuci cuci coo, skywalka |
+| Fri, 25 Sept 2026 | Chorus Social 007: skywalka // Linnemann // April // Esmé | April (UK), Esmé, Linnemann, cuci cuci coo, skywalka |
 | Sat, 26 Sept 2026 | 𖦹 Sybil (All Night Long) at TOPP 𖦹 | Sybil |
 | Sat, 10 Oct 2026 | Llou's | Jordan Villa, imad:re |
 

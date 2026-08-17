@@ -1,14 +1,13 @@
 # hawi
 
-hawi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+hawi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Insel der Jugend, Berlin on Sat, 29 Aug 2026.
 
-hawi is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Thalo Santana, Thabo and Blame Anthony. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+hawi is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Thalo Santana, Thabo and Blame Anthony. Next up: Insel der Jugend, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Insel der Jugend | Berlin |
 | Sun, 30 Aug 2026 | Else | Berlin |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |

@@ -1,14 +1,13 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Mathys Lenne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at vurt., Seoul on Fri, 21 Aug 2026.
 
-Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside Maris Shilton, Mara Menace and Olivia Mendez. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside Maris Shilton, Mara Menace and Olivia Mendez. Next up: vurt., Seoul on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 21 Aug 2026 | vurt. | Seoul |
 | Thu, 24 Sept 2026 | ÆDEN | Berlin |
 

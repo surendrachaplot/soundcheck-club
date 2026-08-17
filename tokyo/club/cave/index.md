@@ -16,7 +16,7 @@ Cave is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with li
 | Sat, 5 Sept 2026 | Koenji Cave presents Gravity Vol.21 | BERLINER KINDL, Bones, Kent Oria, NABE |
 | Fri, 11 Sept 2026 | Koenji Cave presents - Elven Dance - Vol.34 | CATRONICA |
 | Sat, 12 Sept 2026 | 'The Psychedelic Trance Party' Kaleidoscope Vol.21 | BERLINER KINDL |
-| Fri, 18 Sept 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.34 | Raveman |
+| Fri, 18 Sept 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.34 | CyberMoripy, Raveman |
 | Tue, 22 Sept 2026 | Koenji Cave presents - EL DORADO - XXII | CATRONICA, NAGEE |
 
 ## Address

@@ -1,6 +1,6 @@
 # VANISH Clydesdale Takeover at The Clydesdale
 
-VANISH Clydesdale Takeover at The Clydesdale on Sat 22 Aug, Glasgow. 6 acts on the bill: Génie, Jay Celino, Kairogen and LYLE (2) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+VANISH Clydesdale Takeover at The Clydesdale on Sat 22 Aug, Glasgow. 7 acts on the bill: Frank Grime, Génie, Jay Celino and Kairogen and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VANISH Clydesdale Takeover at The Clydesdale on Sat 22 Aug, Glasgow. 6 acts on t
 
 ## Line-up
 
+- Frank Grime
 - Génie
 - Jay Celino
 - Kairogen

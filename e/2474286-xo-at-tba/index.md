@@ -1,6 +1,6 @@
 # xo at TBA
 
-xo at TBA on Sun 20 Sept, Montreal. 10 acts on the bill: Andy Martin, CCL, Char.l.n and D.Dan and 6 more. Preview the line-up and save it on soundcheck.
+xo at TBA on Sun 20 Sept, Montreal. 11 acts on the bill: Andy Martin, CCL, Char.l.n and D.Dan and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ xo at TBA on Sun 20 Sept, Montreal. 10 acts on the bill: Andy Martin, CCL, Char.
 - Marea Marea
 - Priori
 - Richard Akingbehin
+- Virginia
 - Vlada
 
 *Source: [soundcheck](https://soundcheck.club/e/2474286-xo-at-tba/)*

@@ -3985,7 +3985,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786971553519">
+<meta name="sc-build" content="1786976818706">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -9651,11 +9651,25 @@
               (ev.city?'<div class="fp-ev-meta">'+esc(cityLabel(ev.city))+'</div>':'')+   /* genres live in the pill row below the buttons, not here */
               // Equal-width action row (Play same size as its siblings — grid wraps
               // to a second row on narrow screens without stretching). Share → corner icon, Tickets → below the blurb.
-              '<div class="fp-ev-playbar'+(isPast?' solo':'')+'">'+
-                ((ev.artists||[]).length?'<button class="fp-pb go" id="fp-ev-play" type="button">'+PLAY_SVG+'<span>Play</span></button>':'')+
-                (isPast?'':'<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved ✓':'Save')+'</button>'+
-                  '<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='going'?'I&rsquo;m going ✓':'I&rsquo;m going')+'</button>')+
-              '</div>'+
+              (function(){
+                // Build the row as a LIST so the count is knowable. `solo` used to
+                // be keyed on isPast, which was only accidentally right: a past
+                // event with no artists has no Play either, and an upcoming one
+                // could still end up with a single button. One button = flex, so
+                // it takes its natural width instead of stretching the page.
+                var acts=[];
+                if((ev.artists||[]).length) acts.push('<button class="fp-pb go" id="fp-ev-play" type="button">'+PLAY_SVG+'<span>Play</span></button>');
+                if(isPast){
+                  // A NIGHT THAT HAS HAPPENED IS A NIGHT YOU CAN LOG. Without this
+                  // the archive was read-only: the page knew you were there only if
+                  // you had already logged it somewhere else, and offered no way in.
+                  acts.push('<button class="fp-pb" id="fp-ev-log" type="button">'+logSvg+'<span>'+(ev.mine?'Edit your log':'Log this gig')+'</span></button>');
+                } else {
+                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved ✓':'Save')+'</button>');
+                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='going'?'I&rsquo;m going ✓':'I&rsquo;m going')+'</button>');
+                }
+                return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'</div>';
+              })()+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
@@ -9748,6 +9762,13 @@
             playYtList(lq, i, {one:true});
           }); });
           var pb=document.getElementById('fp-ev-play'); if(pb && lq.length) pb.onclick=function(){ playYtList(lq,0); };
+          // Log this gig / Edit your log — same prefilled flow the diary and the
+          // artist page already use, so the night, venue and bill come with it.
+          var lb=document.getElementById('fp-ev-log');
+          if(lb) lb.addEventListener('click',function(){
+            if(!currentUser){ openAuth(); return; }
+            openLog({ eventId: id });
+          });
         // Edit your own log of this night. openLog({eventId}) is the same entry
         // point the "log a night" prompts use, so it opens seeded, not blank.
         var me=document.getElementById('ev-mine-edit');

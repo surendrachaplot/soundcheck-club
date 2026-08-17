@@ -9,7 +9,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upc
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | Headset's Gay Garage | Gabor Matty, Katelate, Sweet Philly |
-| Thu, 20 Aug 2026 | Elements: Magic presents PASO x Mixfits | Mixfits (2), PASO |
+| Thu, 20 Aug 2026 | Elements: presents PASO x Mixfits | Mixfits (2), PASO |
 | Fri, 21 Aug 2026 | La Beat Soul Club |  |
 | Sat, 22 Aug 2026 | Fangs Disco Club |  |
 | Sun, 23 Aug 2026 | Late and Loud |  |

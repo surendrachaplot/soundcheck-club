@@ -1,14 +1,15 @@
 # Psykoterapi
 
-Psykoterapi is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Psykoterapi is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
-Psykoterapi is a techno and dub techno artist tracked on soundcheck, with 21 sets logged across Stockholm. Often billed alongside Dog on Acid, Jessie Granqvist and Andemon. Next up: Slakthuset, Stockholm on Sat 19 Sept.
+Psykoterapi is a techno and dub techno artist tracked on soundcheck, with 22 sets logged across Stockholm. Often billed alongside Dog on Acid, Jessie Granqvist and Andemon. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Slakthuset | Stockholm |
+| Sat, 10 Oct 2026 | Eventhuset | Stockholm |
 
 ## Recently played
 

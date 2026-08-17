@@ -1,14 +1,15 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Autechre is a IDM and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Austin and Barcelona and 40 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: National Gallery Prague, Prague on Thu 24 Sept.
+Autechre is an idm and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 25 Sept 2026 | Rote Fabrik | Zurich |
 | Tue, 29 Sept 2026 | Planet.tt Gasometer | Vienna |
 | Thu, 1 Oct 2026 | Ložionica | Belgrade |
 | Sat, 3 Oct 2026 | Universe Athens | Athens |

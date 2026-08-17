@@ -9,7 +9,7 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 265 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Stereo | Montreal |
-| Sat, 22 Aug 2026 | TBA | Toronto |
+| Sat, 22 Aug 2026 | TBA - 821 Runnymede Rd Toronto, ON M6N 3V8 | Toronto |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |

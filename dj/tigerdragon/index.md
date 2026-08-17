@@ -1,13 +1,15 @@
 # tiger&dragon
 
-tiger&dragon is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Aiiro Cafe, Tokyo on Fri, 16 Oct 2026.
+tiger&dragon is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Aisotope Lounge, Tokyo on Sat, 26 Sept 2026.
 
-tiger&dragon is a house and r&b artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside MAXIM (8). Next up: Aiiro Cafe, Tokyo on Fri 16 Oct.
+tiger&dragon is a house and pop artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside MAXIM (8). Next up: Aisotope Lounge, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Aisotope Lounge | Tokyo |
+| Thu, 1 Oct 2026 | Aisotope Lounge | Tokyo |
 | Fri, 16 Oct 2026 | Aiiro Cafe | Tokyo |
 
 ## Shares bills with

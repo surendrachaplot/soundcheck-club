@@ -11,7 +11,7 @@ KGR(n) is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with l
 | Tue, 25 Aug 2026 | KGR(story) | Askwhy, Moli (3), karanaki |
 | Mon, 21 Sept 2026 | Arboretum × KGRn TOKYO | C-KAY, In Ray, Mogano, karanaki |
 | Fri, 2 Oct 2026 | Marionette x KGRn TOKYO | C-KAY, Compuma, Grimwig, Moli (3) |
-| Thu, 8 Oct 2026 | TBA |  |
+| Thu, 8 Oct 2026 | Astral Industries × KGRn TOKYO |  |
 | Mon, 12 Oct 2026 | KGR(resident) | In Ray, KotaNakano, Moli (3), karanaki |
 
 ## Address

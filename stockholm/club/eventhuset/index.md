@@ -12,7 +12,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights
 | Sat, 29 Aug 2026 | Bronx Techno Zoo - we are all beautiful animals |  |
 | Sat, 5 Sept 2026 | BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> T.B.A | GT7, MERILIN, Nina Michelle, Paralich |
 | Sat, 26 Sept 2026 | Sauna Locker Room Party ! Support the underground and press that interested button |  |
-| Sat, 10 Oct 2026 | DJ Godfather at BRONX Stockholm - 10 OCT 2026 | DJ Godfather |
+| Sat, 10 Oct 2026 | DJ Godfather >> Psykoterapi at BRONX Stockholm - 10 OCT 2026 | DJ Godfather, Psykoterapi |
 | Sat, 24 Oct 2026 | (Secret Artist) a Mexican/American DJ and producer from Detroit |  |
 
 ## Address

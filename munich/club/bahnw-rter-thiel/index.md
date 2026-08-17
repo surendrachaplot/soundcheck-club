@@ -15,7 +15,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming ni
 | Fri, 28 Aug 2026 | Freitag mit Bart Skils / Bahnwärter Thiel | Bart Skils, Marcel Dusk, Soma (2), Wanda Wild |
 | Sat, 29 Aug 2026 | Rote Sonne x Bahnwärter Thiel Open Air & Club | 9LALEY, Alicea, Anna Ullrich, Confusion, DJ Mischkonsum, DJ SUSI, DJ Yugo, FJUSHA, IZZYA, MASSAGIO, Oliver Albach, Roshan, SloMo, buuo, suki, ÆNZØ |
 | Thu, 3 Sept 2026 | 135+ mit Uhrwerk der Nacht & 808 Kollektive | JACID |
-| Fri, 4 Sept 2026 | SYNTHX 3 Year Anniversary | Jan Minnerup, MBREKK, NAGINI, Praun, TONA, Vaneska, ÆNN |
+| Fri, 4 Sept 2026 | SYNTHX 3 Year Anniversary | ANASTASÍA, Jan Minnerup, MBREKK, NAGINI, Praun, TONA, Vaneska, ÆNN |
 | Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air mit Christian Löffler |  |
 
 ## Address

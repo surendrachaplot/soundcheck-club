@@ -1,8 +1,8 @@
 # Soup
 
-Soup is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SIDE B invites A.Morgan" on Sat, 22 Aug 2026.
+Soup is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SIDE B invites A.Morgan" on Sat, 22 Aug 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including A.Morgan, atalaya, Atiké and caonix and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including A.Morgan, atalaya, Atiké and caonix and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Soup is a music venue in Manchester listed on soundcheck. 7 upcoming nights, wit
 | Mon, 7 Sept 2026 | Grey Lantern presents: Ak'chamel |  |
 | Fri, 25 Sept 2026 | DUBSTATE: mixtress, imad:re, Lilyn | Lilyn, imad:re, mixtress |
 | Fri, 2 Oct 2026 | Dance Policy W/ ZAKIA SEWELL & NOSSA | Zakia |
+| Fri, 2 Oct 2026 | Grey Lantern presents: Youthmovies / Zac Clowe |  |
 | Sat, 3 Oct 2026 | Keeno Music - Manchester | Keeno |
 | Thu, 8 Oct 2026 | heylucas (live) |  |
 

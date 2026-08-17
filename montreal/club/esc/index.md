@@ -1,8 +1,8 @@
 # ESC
 
-ESC is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TANGERINE" on Thu, 20 Aug 2026.
+ESC is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TANGERINE" on Thu, 20 Aug 2026.
 
-ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including 99jakes, Akufen, Alice Gas and Char.l.n and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
+ESC is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including 99jakes, Akufen, Alice Gas and Char.l.n and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
 ## What's on
 
@@ -13,6 +13,7 @@ ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with l
 | Sun, 30 Aug 2026 | THE ANNUAL GATHERING | Akufen, Joe Tagessian, MightyKat, Ohm Hourani, Ruslan, Salar Ansari, Stretch |
 | Fri, 4 Sept 2026 | KØRE avec un K |  |
 | Sat, 5 Sept 2026 | 1460BPM x ESC: NOA - ALL NIGHT LONG |  |
+| Sat, 19 Sept 2026 | ✰ Strawberry Gothcake: KAVARI, SHADOW WIZARD MONEY GANG & MORE ✰ |  |
 
 ## Address
 

@@ -10,7 +10,7 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, wit
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | RAWRpocalypse! xD |  |
 | Fri, 28 Aug 2026 | C.A.M. SESSION | Christian Ackermann |
-| Fri, 4 Sept 2026 | CALL OF THE WILD 6 |  |
+| Fri, 4 Sept 2026 | CALL OF THE WILD #6 with Electronic Routes & exLEpäng |  |
 | Sat, 5 Sept 2026 | KARAOKE PARTY - Schiefe Töne, große Gefühle |  |
 | Fri, 11 Sept 2026 | [TRANCE EDIT] |  |
 

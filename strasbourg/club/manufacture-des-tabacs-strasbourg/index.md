@@ -8,7 +8,7 @@ Manufacture des Tabacs - Strasbourg is a music venue in Strasbourg listed on sou
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | EXB festival 16e édition - OPEN AIR | 1client, Justine Maze, Lude (2), Mister Natasha, Mute, Perruche, Tal Stef, Zhar |
+| Thu, 3 Sept 2026 | EXB festival 16e édition - OPEN AIR | 1client, Justine Maze, Lude (2), Mister Natasha, Mute, Perruche, Tal Stef, Wolves (1), Zhar |
 
 ## Address
 

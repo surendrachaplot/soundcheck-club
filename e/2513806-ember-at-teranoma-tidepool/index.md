@@ -1,6 +1,6 @@
 # EMBER at Teranoma Tidepool
 
-EMBER at Teranoma Tidepool on Fri 21 Aug, Osaka. 2 acts on the bill: Ayato and Natsuki. Minimal and Ambient. Preview the line-up and save it on soundcheck.
+EMBER at Teranoma Tidepool on Fri 21 Aug, Osaka. 2 acts on the bill: Ayato and Natsuki. Minimal and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -9,8 +9,8 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | solfa in COUNTER CLUB | Dolly (2), ONO (3), Yuri |
+| Wed, 19 Aug 2026 | EVERY WEDNESDAY |  |
 | Thu, 20 Aug 2026 | COUNTERCLUB THURSDAY |  |
-| Thu, 20 Aug 2026 | EVERY WEDNESDAY |  |
 | Fri, 21 Aug 2026 | MIDNIGHTFUNKNESS |  |
 | Sat, 22 Aug 2026 | COUNTERCLUB SATURDAY |  |
 | Tue, 25 Aug 2026 | COUNTERCLUB TUESDAY | MAAT |

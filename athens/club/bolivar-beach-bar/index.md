@@ -1,8 +1,8 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mayans with David Morales I Thu Aug 20" on Thu, 20 Aug 2026.
+Bolivar Beach Bar is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mayans with David Morales I Thu Aug 20" on Thu, 20 Aug 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 9 upcoming ni
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Mayans with David Morales I Thu Aug 20 | David Morales, Dino MFU, DjSteph, Rezo (2) |
 | Fri, 21 Aug 2026 | John Digweed I Fri Aug 21 | DjSteph, John Digweed |
+| Sat, 22 Aug 2026 | Gordo I Sat Aug 22 | Dino MFU, Gordo (1) |
 | Thu, 27 Aug 2026 | Mayans with Âme Live I Thu Aug 27 | DjSteph, Rezo (2), Âme |
 | Fri, 28 Aug 2026 | Caiiro b3b Da Capo b3b Enoo Napa I Fri Aug 28 | Caiiro, Da Capo, Enoo Napa |
 | Sat, 29 Aug 2026 | Enrico Sangiuliano I Sama' Abdulhadi Ι Sat 29 Aug | Enrico Sangiuliano, Manolaco, Sama' Abdulhadi |

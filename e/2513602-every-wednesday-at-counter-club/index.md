@@ -1,10 +1,10 @@
 # EVERY WEDNESDAY at COUNTER CLUB
 
-EVERY WEDNESDAY at COUNTER CLUB on Thu 20 Aug, Tokyo. Preview the line-up and save it on soundcheck.
+EVERY WEDNESDAY at COUNTER CLUB on Wed 19 Aug, Tokyo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 20 Aug 2026 |
+| Date | Wed, 19 Aug 2026 |
 | Venue | COUNTER CLUB |
 | City | Tokyo |
 

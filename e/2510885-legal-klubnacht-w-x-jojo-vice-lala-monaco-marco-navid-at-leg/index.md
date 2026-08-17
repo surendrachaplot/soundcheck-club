@@ -1,6 +1,6 @@
 # Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid at Legal
 
-Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid on Sat 22 Aug, Munich. 3 acts on the bill: Jojo Vice, La La and Monaco Marco. House and Tech House. Preview the line-up and save it on soundcheck.
+Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid on Sat 22 Aug, Munich. 5 acts on the bill: -LaLa-, Æ-X, Jojo Vice and La La and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid on Sat 22 Aug, Mu
 
 ## Line-up
 
+- -LaLa-
+- Æ-X
 - Jojo Vice
 - La La
 - Monaco Marco

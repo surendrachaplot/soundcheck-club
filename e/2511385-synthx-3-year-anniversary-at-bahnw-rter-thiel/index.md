@@ -1,6 +1,6 @@
 # SYNTHX 3 Year Anniversary at Bahnwärter Thiel
 
-SYNTHX 3 Year Anniversary at Bahnwärter Thiel on Fri 4 Sept, Munich. 7 acts on the bill: ÆNN, Jan Minnerup, MBREKK and NAGINI and 3 more. Preview the line-up and save it on soundcheck.
+SYNTHX 3 Year Anniversary at Bahnwärter Thiel on Fri 4 Sept, Munich. 8 acts on the bill: ÆNN, ANASTASÍA, Jan Minnerup and MBREKK and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SYNTHX 3 Year Anniversary at Bahnwärter Thiel on Fri 4 Sept, Munich. 7 acts on 
 ## Line-up
 
 - ÆNN
+- ANASTASÍA
 - Jan Minnerup
 - MBREKK
 - NAGINI

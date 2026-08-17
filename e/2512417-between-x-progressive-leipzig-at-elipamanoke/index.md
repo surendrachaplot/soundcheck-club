@@ -1,6 +1,6 @@
 # between x Progressive Leipzig at elipamanoke
 
-between x Progressive Leipzig at elipamanoke on Wed 26 Aug, Leipzig. Preview the line-up and save it on soundcheck.
+between x Progressive Leipzig at elipamanoke on Wed 26 Aug, Leipzig. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

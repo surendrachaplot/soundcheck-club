@@ -1,8 +1,8 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Flash, Washington DC on Sat, 22 Aug 2026.
+James Zabiela is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Flash, Washington DC on Sat, 22 Aug 2026.
 
-James Zabiela is a house and techno artist tracked on soundcheck, with 61 sets logged across Auckland, Barcelona, Belfast and Belgrade and 24 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: Flash, Washingtondc on Sat 22 Aug.
+James Zabiela is a house and techno artist tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: Flash, Washingtondc on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ James Zabiela is a house and techno artist tracked on soundcheck, with 61 sets l
 | Fri, 4 Sept 2026 | TBA - Club Morocco, Costa Salguero | Buenos Aires |
 | Fri, 25 Sept 2026 | The Steel Yard | London |
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | Patterns | Brighton |
 | Sat, 24 Oct 2026 | WaV | Liverpool |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 

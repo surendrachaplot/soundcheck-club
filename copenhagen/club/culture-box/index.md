@@ -13,7 +13,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming nig
 | Fri, 28 Aug 2026 | Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave | AMITTET, Delff, Dwonji, HDN (2), LINUS, MNSTR, Maxi Mo, Taxman |
 | Sat, 29 Aug 2026 | Specific Objects / Elliott Taguchi / vanpana / Emma Sø / CERJ | CERJ, Elliott Taguchi, Emma Sø, Specific Objects, vanpana |
 | Fri, 4 Sept 2026 | Stellar Fountain: Erich Von Kollar / MSW Collective / GÆO / GALATIUS / KEVIN FLOOR | GÆO, KEVIN FLOOR |
-| Sat, 5 Sept 2026 | Nomadic: Demi Riquísimo / Steffen H / Andrés Solar / Gonzabraa / Ana Karla / Marho | Ana Karla, Andrés Solar, Demi Riquisimo, Steffen H |
+| Sat, 5 Sept 2026 | Nomadic: Demi Riquísimo / Steffen H / Andrés Solar / Gonzabraa / Ana Karla / Marho | Ana Karla, Andrés Solar, Demi Riquisimo, Marho, Steffen H |
 | Fri, 11 Sept 2026 | ANII / Aurora & Mane Maid / ULDΛLL / Vibecast: AriOn / ROPO | ANII, AriOn, ROPO, ULDΛLL |
 | Sat, 12 Sept 2026 | Marius Lehnert / Eski / Adapt / StefAir / LELE / Ivan Ibarra B2B Sheik | ADAPT (DK), Eski, Ivan Ibarra, Marius Lehnert, Sheik |
 | Fri, 18 Sept 2026 | Biesmans / Kawun / Wille / Fluid Sound Collective | Biesmans, Eva Claudia, KLENA, Kawun, Kirakingkong, Prom Night, Sakena Ali, Wille |

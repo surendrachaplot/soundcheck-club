@@ -1,6 +1,6 @@
-# Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Rhythm Session at Lost Horizon
+# Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Ms Ogyny, Rhythm Session at Lost Horizon
 
-Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Rhythm Session at Lost Horizon on Fri 30 Oct, Bristol. 4 acts on the bill: Fear-E, Jerome Hill, Shadesy and Sunil Sharpe. Techno and Acid. Preview the line-up and save it on soundcheck.
+Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Ms Ogyny, Rhythm Session at Lost Horizon on Fri 30 Oct, Bristol. 4 acts on the bill: Fear-E, Jerome Hill, Shadesy and Sunil Sharpe. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

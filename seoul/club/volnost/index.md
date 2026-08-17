@@ -8,7 +8,7 @@ Volnost is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Thursday Volnost | Haemi Park, Pseudobaul |
+| Thu, 20 Aug 2026 | Thursday Volnost | Haemi Park, Pseudobaul, Yeji |
 | Fri, 21 Aug 2026 | Volnost Night | DJ SIN, Ujean, ccb |
 | Sat, 22 Aug 2026 | Volnost INVITES 'MARCO YU' | Hogun, Hwiah, KYVU, MarcoYu, mizae lim |
 | Thu, 27 Aug 2026 | Special Thursday Volnost | KYVU, Kugel, Sunday Lee |

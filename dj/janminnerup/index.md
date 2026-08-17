@@ -2,7 +2,7 @@
 
 Jan Minnerup is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lieberscholli, Munich on Sun, 23 Aug 2026.
 
-Jan Minnerup is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside NAGINI, Vaneska and ANASTASÍA. Next up: Lieberscholli, Munich on Sun 23 Aug.
+Jan Minnerup is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside ANASTASÍA, NAGINI and Vaneska. Next up: Lieberscholli, Munich on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Jan Minnerup is a trance and techno artist tracked on soundcheck, with 33 sets l
 
 ## Shares bills with
 
-NAGINI, Vaneska, ANASTASÍA
+ANASTASÍA, NAGINI, Vaneska
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janminnerup/)*

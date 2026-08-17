@@ -1,14 +1,15 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kassa Boat, Budapest on Fri, 21 Aug 2026.
+Daniel Moritz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kassa Boat, Budapest on Fri, 21 Aug 2026.
 
-Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 107 sets logged across Budapest and Malta. Often billed alongside Rovizz, Sobek and CRB. Next up: Kassa Boat, Budapest on Fri 21 Aug.
+Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 108 sets logged across Budapest and Malta. Often billed alongside Sobek, Rovizz and CRB. Next up: Kassa Boat, Budapest on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Kassa Boat | Budapest |
+| Sat, 29 Aug 2026 | Aether Club Budapest | Budapest |
 | Fri, 18 Sept 2026 | Arzenal | Budapest |
 
 ## Recently played
@@ -24,6 +25,6 @@ Daniel Moritz is a house and techno artist based in Hungary, tracked on soundche
 
 ## Shares bills with
 
-Rovizz, Sobek, CRB
+Sobek, Rovizz, CRB
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*

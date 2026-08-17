@@ -1,13 +1,14 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Good Club Rewind" on Sat, 5 Sept 2026.
+The Lord Gladstone is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Klanggarten Lord Gladstone Takeover: 02" on Fri, 28 Aug 2026.
 
-The Lord Gladstone is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Casual P, Deens, Karmel Jäger and Maxcherry. Browse upcoming dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
+The Lord Gladstone is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Casual P, Deens, Karmel Jäger and Maxcherry. Browse upcoming dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Klanggarten Lord Gladstone Takeover: 02 |  |
 | Sat, 5 Sept 2026 | Good Club Rewind | Casual P, Deens, Karmel Jäger, Maxcherry |
 
 ## Address

@@ -1,13 +1,14 @@
 # Invisible City
 
-Invisible City is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cafeteria, Toronto on Fri, 28 Aug 2026.
+Invisible City is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cafeteria, Toronto on Sat, 22 Aug 2026.
 
-Invisible City is a house and balearic artist based in Canada, tracked on soundcheck, with 45 sets logged across Belgrade, Berlin, London and Montreal and 2 more. Often billed alongside Milch (1), Tony Price and Ryan Spencer. Next up: Cafeteria, Toronto on Fri 28 Aug.
+Invisible City is a house and balearic artist based in Canada, tracked on soundcheck, with 46 sets logged across Belgrade, Berlin, London and Montreal and 2 more. Often billed alongside Milch (1), Tony Price and Ryan Spencer. Next up: Cafeteria, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Cafeteria | Toronto |
 | Fri, 28 Aug 2026 | Cafeteria | Toronto |
 | Sat, 29 Aug 2026 | Système | Montreal |
 

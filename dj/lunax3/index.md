@@ -10,7 +10,7 @@ LUNAx3 is a gabber and breakcore artist tracked on soundcheck, with 17 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Vespers Club | London |
 | Mon, 24 Aug 2026 | Eiger Studios | Leeds |
-| Tue, 25 Aug 2026 | Mist Rolling Inn | Nottingham |
+| Wed, 26 Aug 2026 | Mist Rolling Inn | Nottingham |
 | Sat, 29 Aug 2026 | Stage and Radio | Manchester |
 | Sat, 12 Sept 2026 | Daltons Brighton | Brighton |
 

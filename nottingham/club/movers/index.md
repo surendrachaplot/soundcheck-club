@@ -10,7 +10,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, 
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Selectors: Alex Traska (2 for £14 Margs & Wine Deals) | Alex Traska |
 | Fri, 21 Aug 2026 | Electroclash: Post-Punk, Indie - with Evil Women [Punk Set] & residents |  |
-| Sat, 22 Aug 2026 | A love letter to... Donna Summer |  |
+| Sat, 22 Aug 2026 | A love letter to... Donna Summer: Disco, House, R&B |  |
 | Thu, 27 Aug 2026 | Sip N Paint: hosted by Da Vinci Club |  |
 | Fri, 28 Aug 2026 | Victory Album Listening Party: Pholo, Frost, Morgue, Lvcky + more | Lvcky |
 | Sat, 29 Aug 2026 | Dancing Time: African, Brazilian, Tropical & Latin w/ Stu Hemulem & DJ Daddio |  |

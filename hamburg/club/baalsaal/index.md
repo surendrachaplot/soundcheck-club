@@ -14,8 +14,8 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming nights, w
 | Sat, 29 Aug 2026 | BLOCKED |  |
 | Sat, 5 Sept 2026 | 2HARD4U (HARDTECHNO) |  |
 | Fri, 11 Sept 2026 | Groove / Steven Shade (Berlin) & Bauer (Berlin) | BAUER (DE), Steven Shade |
+| Fri, 18 Sept 2026 | NONCHALANT (Sophisticated Techno) | ROOB |
 | Fri, 25 Sept 2026 | GR:IT |  |
-| Sat, 26 Sept 2026 | NONCHALANT (Sophisticated Techno) | ROOB |
 | Sat, 3 Oct 2026 | 2HARD4U (HARDTECHNO) |  |
 | Fri, 16 Oct 2026 | SENZA NOME |  |
 

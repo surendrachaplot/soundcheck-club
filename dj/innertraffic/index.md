@@ -2,7 +2,7 @@
 
 innertraffic is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Chika-Ikkai, Osaka on Sat, 22 Aug 2026.
 
-innertraffic is a bass and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Osaka. Often billed alongside Eichi Abe, HSC (1) and Yuto Takei. Next up: Chika-Ikkai, Osaka on Sat 22 Aug.
+innertraffic is a bass and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Osaka. Often billed alongside Yuto Takei, HSC (1) and Eichi Abe. Next up: Chika-Ikkai, Osaka on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ innertraffic is a bass and techno artist based in Japan, tracked on soundcheck, 
 
 ## Shares bills with
 
-Eichi Abe, HSC (1), Yuto Takei
+Yuto Takei, HSC (1), Eichi Abe
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innertraffic/)*

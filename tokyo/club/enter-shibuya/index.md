@@ -1,8 +1,8 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "lucid" on Mon, 17 Aug 2026.
+Enter Shibuya is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "lucid" on Mon, 17 Aug 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 

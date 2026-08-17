@@ -1,14 +1,15 @@
 # Mihael Simic
 
-Mihael Simic is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Mihael Simic is a Minimal and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
-Mihael Simic is a minimal and electro artist tracked on soundcheck, with 21 sets logged across Belgrade, Istanbul and Zurich. Often billed alongside Benosah, Flavio (CH) and Juzz. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
+Mihael Simic is a minimal and electro artist tracked on soundcheck, with 22 sets logged across Belgrade, Istanbul and Zurich. Often billed alongside Pedram, Benosah and Flavio (CH). Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Frankhan Selectist | Istanbul |
+| Sat, 5 Sept 2026 | Supermarket | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mihael Simic is a minimal and electro artist tracked on soundcheck, with 21 sets
 
 ## Shares bills with
 
-Benosah, Flavio (CH), Juzz
+Pedram, Benosah, Flavio (CH)
 
 *Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaelsimic/)*
