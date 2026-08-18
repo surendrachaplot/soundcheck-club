@@ -1,6 +1,6 @@
 # Sebastian Swarm
 
-Sebastian Swarm is a Bass and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
+Sebastian Swarm is a Bass and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
 
 Sebastian Swarm is a bass and italo disco artist tracked on soundcheck, with 11 sets logged across Berlin, Dundee and Glasgow. Often billed alongside Charlotte Tuesday, Peeve and Lizzie Urquhart. Next up: SWG3, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Swarm is a bass and italo disco artist tracked on soundcheck, with 11 
 
 Charlotte Tuesday, Peeve, Lizzie Urquhart
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianswarm/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianswarm/)*

@@ -1,6 +1,6 @@
 # GWEN DE LIEN
 
-GWEN DE LIEN is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 22 Aug 2026.
+GWEN DE LIEN is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 22 Aug 2026.
 
 GWEN DE LIEN is a house and downtempo artist based in Turkey, tracked on soundcheck, with 4 sets logged across Istanbul and Stuttgart. Often billed alongside Acid Pauli and Marius Lehnert. Next up: Fridas Pier, Stuttgart on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ GWEN DE LIEN is a house and downtempo artist based in Turkey, tracked on soundch
 
 Acid Pauli, Marius Lehnert
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*

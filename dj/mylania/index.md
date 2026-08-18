@@ -1,6 +1,6 @@
 # Mylania
 
-Mylania is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Four Quarters, London on Wed, 19 Aug 2026.
+Mylania is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Four Quarters, London on Wed, 19 Aug 2026.
 
 Mylania is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside Petz, ad*n and CHY (1). Next up: Four Quarters, London on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Mylania is a jungle and drum & bass artist based in United Kingdom, tracked on s
 
 Petz, ad*n, CHY (1)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*

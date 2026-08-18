@@ -1,8 +1,8 @@
 # FilippoDiGiorno
 
-FilippoDiGiorno is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at P.za Ventiquattro Maggio, Milan on Sat, 12 Sept 2026.
+FilippoDiGiorno is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at P.za Ventiquattro Maggio, Milan on Sat, 12 Sept 2026.
 
-FilippoDiGiorno is an electronic artist based in Italy, tracked on soundcheck, with 1 set logged across Milan. Often billed alongside Gab Gato, The Robinson and Carl Craig. Next up: P.za Ventiquattro Maggio, Milan on Sat 12 Sept.
+FilippoDiGiorno is an electronic artist based in Italy, tracked on soundcheck, with 1 set logged across Milan. Often billed alongside Carl Craig, Gab Gato and NEKKETTO. Next up: P.za Ventiquattro Maggio, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ FilippoDiGiorno is an electronic artist based in Italy, tracked on soundcheck, w
 
 ## Shares bills with
 
-Gab Gato, The Robinson, Carl Craig
+Carl Craig, Gab Gato, NEKKETTO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filippodigiorno/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filippodigiorno/)*

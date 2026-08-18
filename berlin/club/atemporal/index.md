@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Nada Yoga inspired deep listening session with Phil Richarde" on Thu, 20 Aug 2026.
+Atemporal is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Nada Yoga inspired deep listening session with Phil Richarde" on Thu, 20 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -16,4 +16,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Br
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

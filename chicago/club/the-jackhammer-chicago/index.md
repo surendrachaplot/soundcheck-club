@@ -1,6 +1,6 @@
 # The Jackhammer Chicago
 
-The Jackhammer Chicago is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "OBEY PROTOCOL" on Sat, 22 Aug 2026.
+The Jackhammer Chicago is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OBEY PROTOCOL" on Sat, 22 Aug 2026.
 
 The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Jenny Fox, Jon McCray, KIMKILLA and NANGOBI and 1 more. Browse upcoming dates, start times and who's playing. 6406 N Clark St, Chicago, IL 60626.
 
@@ -15,4 +15,4 @@ The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 2 upcom
 
 6406 N Clark St, Chicago, IL 60626, Chicago
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*

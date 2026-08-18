@@ -1,6 +1,6 @@
 # Iga
 
-Iga is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+Iga is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
 Iga is a hip-hop and bass artist based in Germany, tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside NordOst, meweta and uku kasai. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Iga is a hip-hop and bass artist based in Germany, tracked on soundcheck, with 1
 
 NordOst, meweta, uku kasai
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*

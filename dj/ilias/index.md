@@ -1,6 +1,6 @@
 # Ilias
 
-Ilias is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at UMI, Brussels on Sat, 29 Aug 2026.
+Ilias is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at UMI, Brussels on Sat, 29 Aug 2026.
 
 Ilias is a minimal and house artist based in Belgium, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Brussels. Often billed alongside Rozevelt, r.omy and Bayny. Next up: UMI, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ilias is a minimal and house artist based in Belgium, tracked on soundcheck, wit
 
 Rozevelt, r.omy, Bayny
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilias/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilias/)*

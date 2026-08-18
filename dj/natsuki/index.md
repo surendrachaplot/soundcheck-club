@@ -1,6 +1,6 @@
 # Natsuki
 
-Natsuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Teranoma Tidepool, Osaka on Fri, 21 Aug 2026.
+Natsuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Teranoma Tidepool, Osaka on Fri, 21 Aug 2026.
 
 Natsuki is a house and techno artist based in Japan, tracked on soundcheck, with 13 sets logged across Kyoto and Osaka. Often billed alongside ALUCA, Anchorsong and Ayato. Next up: Teranoma Tidepool, Osaka on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Natsuki is a house and techno artist based in Japan, tracked on soundcheck, with
 
 ALUCA, Anchorsong, Ayato
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*

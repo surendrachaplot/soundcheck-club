@@ -1,6 +1,6 @@
 # Omari Jazz
 
-Omari Jazz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
+Omari Jazz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
 
 Omari Jazz is a techno and club artist tracked on soundcheck, with 25 sets logged across Losangeles, Portland, Sanfrancisco and Seattle. Often billed alongside sqip, Omari and Slurgeon. Next up: TBA, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Omari Jazz is a techno and club artist tracked on soundcheck, with 25 sets logge
 
 sqip, Omari, Slurgeon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*

@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DeepDig: Harri Pepper (4 Hours) // Sky Rivers" on Sat, 22 Aug 2026.
+Grow is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DeepDig: Harri Pepper (4 Hours) // Sky Rivers" on Sat, 22 Aug 2026.
 
 Grow is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alfie Panaiotis, Ben hauke, Cengiz and Cosmo Sofi and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -22,4 +22,4 @@ Grow is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

@@ -1,6 +1,6 @@
 # Gatling
 
-Gatling is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
+Gatling is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
 
 Gatling is a garage and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Deventi, FXCKBOUT and SDJ (1). Next up: The DBA, Manchester on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Gatling is a garage and house artist based in United Kingdom, tracked on soundch
 
 Deventi, FXCKBOUT, SDJ (1)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gatling-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gatling-2/)*

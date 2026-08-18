@@ -1,6 +1,6 @@
 # Akufen
 
-Akufen is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
+Akufen is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
 
 Akufen is a minimal and house artist tracked on soundcheck, with 9 sets logged across Berlin, Bucharest, London and Montreal. Often billed alongside Ohm Hourani, Claire and Foehn & Jerome. Next up: ESC, Montreal on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Akufen is a minimal and house artist tracked on soundcheck, with 9 sets logged a
 
 Ohm Hourani, Claire, Foehn & Jerome
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*

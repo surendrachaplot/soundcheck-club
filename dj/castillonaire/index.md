@@ -1,6 +1,6 @@
 # Castillonaire
 
-Castillonaire is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
+Castillonaire is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
 
 Castillonaire is a club and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Detroit, Losangeles, Melbourne and Mexicocity and 4 more. Often billed alongside rogue.wav, WILHELMINA and Choo Choo. Next up: Jade, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Castillonaire is a club and house artist based in United States of America, trac
 
 rogue.wav, WILHELMINA, Choo Choo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*

@@ -1,6 +1,6 @@
 # MUCKANIKS
 
-MUCKANIKS is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
+MUCKANIKS is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
 
 MUCKANIKS is a garage and house artist tracked on soundcheck, with 6 sets logged across Bristol, Leeds, Liverpool and London. Often billed alongside BVNQUET, Higgo and LLEAHDAVIES. Next up: Starlane Pizza Bar, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ MUCKANIKS is a garage and house artist tracked on soundcheck, with 6 sets logged
 
 BVNQUET, Higgo, LLEAHDAVIES
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*

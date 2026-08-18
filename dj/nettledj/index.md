@@ -1,6 +1,6 @@
 # Nettle Dj
 
-Nettle Dj is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
+Nettle Dj is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
 
 Nettle Dj is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Timon (2), ChrisCarter and Mista Glitch. Next up: Groovetank Live, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Nettle Dj is an afro house and afro tech artist based in United Kingdom, tracked
 
 Timon (2), ChrisCarter, Mista Glitch
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettledj/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettledj/)*

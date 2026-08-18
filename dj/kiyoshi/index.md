@@ -1,6 +1,6 @@
 # Kiyoshi
 
-Kiyoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
+Kiyoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
 
 Kiyoshi is a house and techno artist tracked on soundcheck, with 106 sets logged across Losangeles, Newyorkcity, Osaka and Tbilisi and 2 more. Often billed alongside Chuwee, Armii1n and Gui Machado. Next up: Refuge, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kiyoshi is a house and techno artist tracked on soundcheck, with 106 sets logged
 
 Chuwee, Armii1n, Gui Machado
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*

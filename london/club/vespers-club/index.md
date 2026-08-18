@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Ku$h with Gang" on Tue, 18 Aug 2026.
+Vespers Club is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Ku$h with Gang" on Tue, 18 Aug 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AAKAARA, Bekefi, Berwick (Live) and Chidera O and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -22,4 +22,4 @@ Vespers Club is a music venue in London listed on soundcheck. 9 upcoming nights,
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

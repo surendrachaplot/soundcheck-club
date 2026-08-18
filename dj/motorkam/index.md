@@ -1,8 +1,8 @@
 # MotorKam
 
-MotorKam is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
+MotorKam is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
 
-MotorKam is a footwork and ghetto tech artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside DJ Medusa, Ember LaFiamma and Just Shacoi. Next up: Trumbullplex, Detroit on Sat 22 Aug.
+MotorKam is a footwork and ghetto tech artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside DJ Medusa, Dastardly Kids and Ember LaFiamma. Next up: Trumbullplex, Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ MotorKam is a footwork and ghetto tech artist based in United States of America,
 
 ## Shares bills with
 
-DJ Medusa, Ember LaFiamma, Just Shacoi
+DJ Medusa, Dastardly Kids, Ember LaFiamma
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motorkam/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motorkam/)*

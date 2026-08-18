@@ -1,6 +1,6 @@
 # Lady Goccia
 
-Lady Goccia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+Lady Goccia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
 Lady Goccia is a techno and electro artist based in Italy, tracked on soundcheck, with 29 sets logged across Berlin, Milan and Rome. Often billed alongside IKIIR, AMBRA and ARMANDO. Next up: Maaya, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lady Goccia is a techno and electro artist based in Italy, tracked on soundcheck
 
 IKIIR, AMBRA, ARMANDO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*

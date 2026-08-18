@@ -1,6 +1,6 @@
 # ACE C0NWAY
 
-ACE C0NWAY is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
+ACE C0NWAY is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
 
 ACE C0NWAY is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton, Glasgow, London and Manchester. Often billed alongside JoeJas, retropxssy and anti.Net. Next up: TBA - 198 Hackney Road, E2 7QL, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ACE C0NWAY is a hip-hop and experimental artist based in United Kingdom, tracked
 
 JoeJas, retropxssy, anti.Net
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acec0nway/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acec0nway/)*

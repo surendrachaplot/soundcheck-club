@@ -1,6 +1,6 @@
 # Ømen
 
-Ømen is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Ømen is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 Ømen is a techno and industrial artist based in France, tracked on soundcheck, with 25 sets logged across Barcelona, Copenhagen, Geneva and Liverpool and 4 more. Often billed alongside Cathédral, Labåzuy and Lau.tastic. Next up: M.O.T, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@
 
 Cathédral, Labåzuy, Lau.tastic
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omen/)*

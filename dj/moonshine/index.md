@@ -1,6 +1,6 @@
 # Moonshine
 
-Moonshine is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
+Moonshine is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Breakglass Studios, Montreal on Wed, 19 Aug 2026.
 
 Moonshine is a club and afro house artist based in Democratic Republic of the Congo, tracked on soundcheck, with 48 sets logged across Athens, Barcelona, Birmingham and Brussels and 11 more. Often billed alongside San Farafina, Pierre Kwenders and NegoO. Next up: Breakglass Studios, Montreal on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Moonshine is a club and afro house artist based in Democratic Republic of the Co
 
 San Farafina, Pierre Kwenders, NegoO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonshine/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonshine/)*

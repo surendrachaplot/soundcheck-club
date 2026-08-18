@@ -1,6 +1,6 @@
 # Youngseok
 
-Youngseok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
+Youngseok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
 
 Youngseok is a house and techno artist tracked on soundcheck, with 80 sets logged across Seoul. Often billed alongside Gyusco, Nolove and Jesse You. Next up: Stoked&stoned, Seoul on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Youngseok is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 Gyusco, Nolove, Jesse You
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngseok/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngseok/)*

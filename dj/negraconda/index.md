@@ -1,14 +1,15 @@
 # NEGRACONDA
 
-NEGRACONDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+NEGRACONDA is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
-NEGRACONDA is a techno and house artist based in Mexico, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: Shunter, Rotterdam on Sat 22 Aug.
+NEGRACONDA is a techno and club artist based in Mexico, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
+| Sat, 5 Sept 2026 | La Station - Gare des Mines | Paris |
 | Sat, 3 Oct 2026 | Lark | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ NEGRACONDA is a techno and house artist based in Mexico, tracked on soundcheck, 
 
 Magnolia Coronado, Bruja Prieta, Dj Fucci
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*

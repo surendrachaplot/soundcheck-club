@@ -1,6 +1,6 @@
 # uiava
 
-uiava is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 21 Aug 2026.
+uiava is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 21 Aug 2026.
 
 uiava is a house and tech house artist based in Ukraine, tracked on soundcheck, with 43 sets logged across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and Jellin. Next up: MONKEY LOVE, Warsaw on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ uiava is a house and tech house artist based in Ukraine, tracked on soundcheck, 
 
 Easy Audio, bart ender, Jellin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*

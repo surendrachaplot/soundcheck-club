@@ -1,6 +1,6 @@
 # Terrapoid
 
-Terrapoid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
+Terrapoid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
 
 Terrapoid is a techno and electro artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside Benjamin Grimm, CHICHO and Randali. Next up: Club Frau Holle, Hamburg on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Terrapoid is a techno and electro artist based in Germany, tracked on soundcheck
 
 Benjamin Grimm, CHICHO, Randali
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrapoid/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrapoid/)*

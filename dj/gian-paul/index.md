@@ -1,6 +1,6 @@
 # Gian-Paul
 
-Gian-Paul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
+Gian-Paul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
 
 Gian-Paul is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Denver, Edinburgh and London and 1 more. Often billed alongside Dayna C, Alien Communications and J. Richards. Next up: Shelter Amsterdam, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gian-Paul is a house and techno artist based in United States of America, tracke
 
 Dayna C, Alien Communications, J. Richards
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*

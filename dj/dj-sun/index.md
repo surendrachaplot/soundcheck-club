@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
+DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
 
 DJ-SUN is a club and house artist tracked on soundcheck, with 36 sets logged across Losangeles, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Tromac, JEWELSSEA and flotussin. Next up: Pianos, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ DJ-SUN is a club and house artist tracked on soundcheck, with 36 sets logged acr
 
 Tromac, JEWELSSEA, flotussin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

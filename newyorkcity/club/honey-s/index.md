@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "KOLO" on Sun, 23 Aug 2026.
+Honey's is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "KOLO" on Sun, 23 Aug 2026.
 
 Honey's is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including ANDI WALL, Arroyo, Campdukes and J.N.R. and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

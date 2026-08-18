@@ -1,6 +1,6 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at clubasia, Tokyo on Thu, 20 Aug 2026.
+Stones Taro is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at clubasia, Tokyo on Thu, 20 Aug 2026.
 
 Stones Taro is a house and bass artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Lomax, KOTSU and FELINE (JP). Next up: clubasia, Tokyo on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Stones Taro is a house and bass artist tracked on soundcheck, with 117 sets logg
 
 Lomax, KOTSU, FELINE (JP)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

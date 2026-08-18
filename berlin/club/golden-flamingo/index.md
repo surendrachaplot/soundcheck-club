@@ -1,6 +1,6 @@
 # Golden Flamingo
 
-Golden Flamingo is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "SHAMELESS - OPEN AIR AFTERWORK & AFTERPARTY" on Fri, 21 Aug 2026.
+Golden Flamingo is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "SHAMELESS - OPEN AIR AFTERWORK & AFTERPARTY" on Fri, 21 Aug 2026.
 
 Golden Flamingo is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including DJ Glitterelli, KunstTechnologe, Najka and PyjamaMama and 1 more. Browse upcoming dates, start times and who's playing. James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Golden Flamingo is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*

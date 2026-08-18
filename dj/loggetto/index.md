@@ -1,6 +1,6 @@
 # l'oggetto
 
-l'oggetto is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Eavesdrop, New York City on Sun, 30 Aug 2026.
+l'oggetto is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eavesdrop, New York City on Sun, 30 Aug 2026.
 
 l'oggetto is a house and funk / soul artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside TonyDeepDisco and wesfourth. Next up: Eavesdrop, Newyorkcity on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ l'oggetto is a house and funk / soul artist tracked on soundcheck, with 5 sets l
 
 TonyDeepDisco, wesfourth
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loggetto/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loggetto/)*

@@ -1,6 +1,6 @@
 # Miss Pin
 
-Miss Pin is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
+Miss Pin is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
 
 Miss Pin is a techno artist based in Poland, tracked on soundcheck, with 3 sets logged across Krakow and Warsaw. Often billed alongside Kate Loss, xcessive and Carla Roca. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Miss Pin is a techno artist based in Poland, tracked on soundcheck, with 3 sets 
 
 Kate Loss, xcessive, Carla Roca
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misspin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misspin/)*

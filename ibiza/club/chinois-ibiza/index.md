@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 47 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "La Troya: David Morales, Oscar Colorado, RAMPINI, B WHYLE" on Mon, 17 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 47 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "La Troya: David Morales, Oscar Colorado, RAMPINI, B WHYLE" on Mon, 17 Aug 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alan Dixon and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

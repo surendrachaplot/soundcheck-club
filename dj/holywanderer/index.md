@@ -1,6 +1,6 @@
 # Holywanderer
 
-Holywanderer is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 8MM, Berlin on Sat, 22 Aug 2026.
+Holywanderer is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at 8MM, Berlin on Sat, 22 Aug 2026.
 
 Holywanderer is an ebm and electro artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Heshumi, nuarrrrr and Anna Hoeber. Next up: 8MM, Berlin on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Holywanderer is an ebm and electro artist tracked on soundcheck, with 8 sets log
 
 Heshumi, nuarrrrr, Anna Hoeber
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*

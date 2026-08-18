@@ -1,6 +1,6 @@
 # Nevermind Bar
 
-Nevermind Bar is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Soulful Sessions" on Sat, 22 Aug 2026.
+Nevermind Bar is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Soulful Sessions" on Sat, 22 Aug 2026.
 
 Nevermind Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Skatty. Browse upcoming dates, start times and who's playing. 336 Burwood Road, Hawthorn VIC 3122, Australia.
 
@@ -14,4 +14,4 @@ Nevermind Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming nig
 
 336 Burwood Road, Hawthorn VIC 3122, Australia, Melbourne
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/nevermind-bar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/nevermind-bar/)*

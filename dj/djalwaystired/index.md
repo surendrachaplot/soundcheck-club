@@ -1,6 +1,6 @@
 # dj always tired
 
-dj always tired is a Downtempo and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Club der Visionaere, Berlin on Tue, 18 Aug 2026.
+dj always tired is a Downtempo and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club der Visionaere, Berlin on Tue, 18 Aug 2026.
 
 dj always tired is a downtempo and hip-hop artist based in Greece, tracked on soundcheck, with 8 sets logged across Athens and Berlin. Often billed alongside AVEM, Anja Schneider and BBlove. Next up: Club der Visionaere, Berlin on Tue 18 Aug.
 
@@ -24,4 +24,4 @@ dj always tired is a downtempo and hip-hop artist based in Greece, tracked on so
 
 AVEM, Anja Schneider, BBlove
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*

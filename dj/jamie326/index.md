@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
+Jamie 3:26 is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
 
 Jamie 3:26 is a house and disco artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Natasha Diggs. Next up: 99 Scott Ave, Newyorkcity on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Jamie 3:26 is a house and disco artist tracked on soundcheck, with 106 sets logg
 
 Dimitri From Paris, Melvo Baptiste, Natasha Diggs
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

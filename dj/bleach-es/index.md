@@ -1,6 +1,6 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Bleach is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Bleach is a techno and industrial artist tracked on soundcheck, with 40 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside JUNN GULDUR, ADAM MUNNINGS and Cyranotaurus Cortex. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Bleach is a techno and industrial artist tracked on soundcheck, with 40 sets log
 
 JUNN GULDUR, ADAM MUNNINGS, Cyranotaurus Cortex
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*

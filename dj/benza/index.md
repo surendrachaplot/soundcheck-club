@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
+BENZA is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
 
 BENZA is a techno and minimal techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 16 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Refuge, Newyorkcity on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ BENZA is a techno and minimal techno artist tracked on soundcheck, with 63 sets 
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

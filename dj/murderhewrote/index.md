@@ -1,6 +1,6 @@
 # Murder He Wrote
 
-Murder He Wrote is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Sheffield on Sat, 5 Sept 2026.
+Murder He Wrote is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Sheffield on Sat, 5 Sept 2026.
 
 Murder He Wrote is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Barcelona, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Marcus Nasty, Obeka and A:sine. Next up: TBA, Sheffield on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Murder He Wrote is a garage and drum & bass artist based in United Kingdom, trac
 
 Marcus Nasty, Obeka, A:sine
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murderhewrote/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murderhewrote/)*

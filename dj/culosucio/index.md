@@ -1,6 +1,6 @@
 # Culo Sucio
 
-Culo Sucio is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Minimal Bar, Berlin on Fri, 28 Aug 2026.
+Culo Sucio is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Minimal Bar, Berlin on Fri, 28 Aug 2026.
 
 Culo Sucio is a minimal and house artist based in Ecuador, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside DAZA, Daniel Jaramillo and Juan Diego Drouet. Next up: Minimal Bar, Berlin on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Culo Sucio is a minimal and house artist based in Ecuador, tracked on soundcheck
 
 DAZA, Daniel Jaramillo, Juan Diego Drouet
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/culosucio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/culosucio/)*

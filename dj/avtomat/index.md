@@ -1,6 +1,6 @@
 # Avtomat
 
-Avtomat is a Bass and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
+Avtomat is a Bass and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 21 Aug 2026.
 
 Avtomat is a bass and hard drum artist tracked on soundcheck, with 50 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside themsel in distress, Aldona Relax and anymati. Next up: K-Bar Powiśle, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Avtomat is a bass and hard drum artist tracked on soundcheck, with 50 sets logge
 
 themsel in distress, Aldona Relax, anymati
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avtomat/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avtomat/)*

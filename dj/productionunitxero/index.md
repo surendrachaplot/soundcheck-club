@@ -1,6 +1,6 @@
 # production unit xero
 
-production unit xero is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
+production unit xero is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
 
 production unit xero is a techno and jungle artist tracked on soundcheck, with 14 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Joel Noct, Omari Jazz and xBulletNymphx. Next up: TBA, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ production unit xero is a techno and jungle artist tracked on soundcheck, with 1
 
 Joel Noct, Omari Jazz, xBulletNymphx
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/productionunitxero/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/productionunitxero/)*

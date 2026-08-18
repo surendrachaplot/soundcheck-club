@@ -1,6 +1,6 @@
 # Ant TC1
 
-Ant TC1 is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
+Ant TC1 is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
 
 Ant TC1 is a drum & bass and jungle artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 23 more. Often billed alongside Goldie, Doc Scott and Diverge. Next up: Joshua Brooks, Manchester on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Ant TC1 is a drum & bass and jungle artist tracked on soundcheck, with 56 sets l
 
 Goldie, Doc Scott, Diverge
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*

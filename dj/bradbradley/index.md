@@ -1,6 +1,6 @@
 # Brad Bradley
 
-Brad Bradley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
+Brad Bradley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
 
 Brad Bradley is a house and techno artist tracked on soundcheck, with 32 sets logged across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Safiye and Burly Chassis. Next up: The Red Church, Bristol on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Brad Bradley is a house and techno artist tracked on soundcheck, with 32 sets lo
 
 SPICYIVY, Safiye, Burly Chassis
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradbradley/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradbradley/)*

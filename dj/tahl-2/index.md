@@ -1,6 +1,6 @@
 # Tahl (US)
 
-Tahl (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Tahl (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
 Tahl (US) is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin, Losangeles and Seoul. Often billed alongside Sakaguchi, sprintf and ADO (DE). Next up: TBA, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tahl (US) is a techno and house artist tracked on soundcheck, with 20 sets logge
 
 Sakaguchi, sprintf, ADO (DE)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl-2/)*

@@ -1,6 +1,6 @@
 # DJ Cobo
 
-DJ Cobo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
+DJ Cobo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
 
 DJ Cobo is a house and trance artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside BOGU (ES), CLANDESTINE (2) and Roger Freedom. Next up: La Paloma, Barcelona on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ DJ Cobo is a house and trance artist based in Spain, tracked on soundcheck, with
 
 BOGU (ES), CLANDESTINE (2), Roger Freedom
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcobo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcobo/)*

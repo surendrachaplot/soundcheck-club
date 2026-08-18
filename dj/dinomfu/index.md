@@ -1,6 +1,6 @@
 # Dino MFU
 
-Dino MFU is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bolivar Beach Bar, Athens on Thu, 20 Aug 2026.
+Dino MFU is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bolivar Beach Bar, Athens on Thu, 20 Aug 2026.
 
 Dino MFU is a house and disco artist tracked on soundcheck, with 13 sets logged across Athens and Mykonos. Often billed alongside Agent Greg, David Morales and Deelo. Next up: Bolivar Beach Bar, Athens on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Dino MFU is a house and disco artist tracked on soundcheck, with 13 sets logged 
 
 Agent Greg, David Morales, Deelo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinomfu/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinomfu/)*

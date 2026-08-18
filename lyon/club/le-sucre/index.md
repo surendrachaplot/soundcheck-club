@@ -1,6 +1,6 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "club x Physical Tool" on Fri, 21 Aug 2026.
+Le Sucre is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "club x Physical Tool" on Fri, 21 Aug 2026.
 
 Le Sucre is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with line-ups including Klorofil, Audrey Danza, Halfpipe Records and Hysteria temple Foundation and 2 more. Browse upcoming dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
@@ -19,4 +19,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with 
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

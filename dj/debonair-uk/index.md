@@ -1,6 +1,6 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+DEBONAIR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 DEBONAIR is a techno and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe (1). Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ DEBONAIR is a techno and house artist tracked on soundcheck, with 55 sets logged
 
 Jubilee, Objekt, Coe (1)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*

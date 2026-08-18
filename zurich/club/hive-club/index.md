@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Cera Khin" on Fri, 21 Aug 2026.
+Hive Club is a music venue in Zurich with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Cera Khin" on Fri, 21 Aug 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 7 upcoming nights, with line-ups including Ben Sims, Bloom, Cera Khin and Dejan and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -20,4 +20,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 7 upcoming nights, wi
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

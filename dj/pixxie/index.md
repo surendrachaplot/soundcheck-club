@@ -1,6 +1,6 @@
 # Pixxie
 
-Pixxie is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
+Pixxie is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Pixxie is a deep house and progressive house artist tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside IZIK, MOSTASH and ALMAS. Next up: The Midway, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pixxie is a deep house and progressive house artist tracked on soundcheck, with 
 
 IZIK, MOSTASH, ALMAS
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*

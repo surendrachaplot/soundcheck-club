@@ -1,6 +1,6 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Coco Boule, Berlin on Fri, 21 Aug 2026.
+Jay de Lys is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Coco Boule, Berlin on Fri, 21 Aug 2026.
 
 Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Joey Daniel. Next up: Coco Boule, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets 
 
 Franky Rizardo, Easttown, Joey Daniel
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

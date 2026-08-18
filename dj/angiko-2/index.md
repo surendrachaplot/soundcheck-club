@@ -1,6 +1,6 @@
 # Angiko (2)
 
-Angiko (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Angiko (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Angiko (2) is a techno and dub techno artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Neoom, pezel and DJ Vibekiller. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Angiko (2) is a techno and dub techno artist based in Austria, tracked on soundc
 
 Neoom, pezel, DJ Vibekiller
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angiko-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angiko-2/)*

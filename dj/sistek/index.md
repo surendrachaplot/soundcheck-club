@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
+Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
 
 Sistek is an afro house and house artist tracked on soundcheck, with 33 sets logged across Basel, Berlin, Boston and Chicago and 16 more. Often billed alongside ARODES, Chelina Manuhutu and Cristoph. Next up: Hï Ibiza, Ibiza on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Sistek is an afro house and house artist tracked on soundcheck, with 33 sets log
 
 ARODES, Chelina Manuhutu, Cristoph
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

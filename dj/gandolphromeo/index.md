@@ -1,6 +1,6 @@
 # Gandolph Romeo
 
-Gandolph Romeo is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Porto Pollo, Vienna on Fri, 21 Aug 2026.
+Gandolph Romeo is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Porto Pollo, Vienna on Fri, 21 Aug 2026.
 
 Gandolph Romeo is a deep house and tech house artist tracked on soundcheck, with 22 sets logged across Budapest and Vienna. Often billed alongside Elpe, Andy Luff and Apua. Next up: Porto Pollo, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Gandolph Romeo is a deep house and tech house artist tracked on soundcheck, with
 
 Elpe, Andy Luff, Apua
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gandolphromeo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gandolphromeo/)*

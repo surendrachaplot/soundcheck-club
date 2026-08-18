@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 
 Mayell, Tau Car, O.BEE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

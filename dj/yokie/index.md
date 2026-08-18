@@ -1,6 +1,6 @@
 # YOKIE
 
-YOKIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nyapi, Seoul on Sat, 29 Aug 2026.
+YOKIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nyapi, Seoul on Sat, 29 Aug 2026.
 
 YOKIE is a house and techno artist based in South Korea, tracked on soundcheck, with 18 sets logged across Seoul. Often billed alongside Jooheon, Hender and Yeonju. Next up: Nyapi, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ YOKIE is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Jooheon, Hender, Yeonju
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokie/)*

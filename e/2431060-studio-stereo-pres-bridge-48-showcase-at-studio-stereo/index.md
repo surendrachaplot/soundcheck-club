@@ -1,6 +1,6 @@
 # Studio Stereo pres. BRIDGE 48 showcase at Studio Stereo
 
-Studio Stereo pres. BRIDGE 48 showcase on Thu 20 Aug, Barcelona. 1 act on the bill: Dave Rose. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo pres. BRIDGE 48 showcase on Thu 20 Aug, Barcelona. 2 acts on the bill: Dave Rose and KRISTINA PI. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Studio Stereo pres. BRIDGE 48 showcase on Thu 20 Aug, Barcelona. 1 act on the bi
 ## Line-up
 
 - Dave Rose
+- KRISTINA PI
 
 *Source: [soundcheck](https://soundcheck.club/e/2431060-studio-stereo-pres-bridge-48-showcase-at-studio-stereo/)*

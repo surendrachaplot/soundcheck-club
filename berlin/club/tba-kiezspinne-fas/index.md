@@ -1,6 +1,6 @@
 # TBA - Kiezspinne FAS
 
-TBA - Kiezspinne FAS is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Rauschfrei" on Sat, 3 Oct 2026.
+TBA - Kiezspinne FAS is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rauschfrei" on Sat, 3 Oct 2026.
 
 TBA - Kiezspinne FAS is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Kiezspinne FAS is a music venue in Berlin listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Rauschfrei |  |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-kiezspinne-fas/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-kiezspinne-fas/)*

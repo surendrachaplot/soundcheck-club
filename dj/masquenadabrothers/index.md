@@ -1,6 +1,6 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 21 Aug 2026.
+Mas Que Nada Brothers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 21 Aug 2026.
 
 Mas Que Nada Brothers is a house and disco artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: The Little Neon Door, Shoreditch, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, track
 
 Tommy Tickle, Hywel Gregory, Joe Murphy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*

@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "House of Others (Vol.11): Ahni, Dzoara, materia hache" on Thu, 20 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "House of Others (Vol.11): Ahni, Dzoara, materia hache" on Thu, 20 Aug 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Javier Anxiety, Ahni, B. Clarke and Bianchetti and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

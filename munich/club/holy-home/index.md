@@ -1,6 +1,6 @@
 # Holy Home
 
-Holy Home is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Holy Home w/ Irving" on Fri, 21 Aug 2026.
+Holy Home is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Holy Home w/ Irving" on Fri, 21 Aug 2026.
 
 Holy Home is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including irving. Browse upcoming dates, start times and who's playing. Reichenbachstr. 21, 80469 Munich.
 
@@ -15,4 +15,4 @@ Holy Home is a music venue in Munich listed on soundcheck. 2 upcoming nights, wi
 
 Reichenbachstr. 21, 80469 Munich, Munich
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*

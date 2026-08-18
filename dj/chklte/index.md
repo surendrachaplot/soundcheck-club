@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+CHKLTE is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 CHKLTE is a house and minimal artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 114 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

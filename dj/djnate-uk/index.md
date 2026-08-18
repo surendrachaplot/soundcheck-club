@@ -1,6 +1,6 @@
 # DJ Nate (UK)
 
-DJ Nate (UK) is a Tech House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Steel Yard, London on Fri, 28 Aug 2026.
+DJ Nate (UK) is a Tech House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Steel Yard, London on Fri, 28 Aug 2026.
 
 DJ Nate (UK) is a tech house and dancehall artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Pioneer, Rampage Sound and Supa D. Next up: The Steel Yard, London on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ DJ Nate (UK) is a tech house and dancehall artist tracked on soundcheck, with 5 
 
 Pioneer, Rampage Sound, Supa D
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate-uk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate-uk/)*

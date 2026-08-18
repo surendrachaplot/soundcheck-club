@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Exit Reality, Singapore on Fri, 28 Aug 2026.
+Vera Grace is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Exit Reality, Singapore on Fri, 28 Aug 2026.
 
 Vera Grace is a techno and industrial artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Exit Reality, Singapore on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Vera Grace is a techno and industrial artist tracked on soundcheck, with 123 set
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

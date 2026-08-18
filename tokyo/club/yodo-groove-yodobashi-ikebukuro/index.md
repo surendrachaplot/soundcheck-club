@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SUBSPACE feat. RINALY – Rooftop Day Party at YODO GROOVE" on Sat, 22 Aug 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SUBSPACE feat. RINALY – Rooftop Day Party at YODO GROOVE" on Sat, 22 Aug 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Antoniexx, Black Asteroid, Chika Luna and DJ AKi and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -19,4 +19,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

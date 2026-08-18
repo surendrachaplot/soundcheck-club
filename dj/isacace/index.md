@@ -1,6 +1,6 @@
 # ISAC ACE
 
-ISAC ACE is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Lux Fragil, Lisbon on Thu, 20 Aug 2026.
+ISAC ACE is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lux Fragil, Lisbon on Thu, 20 Aug 2026.
 
 ISAC ACE is a disco and funk / soul artist based in Portugal, tracked on soundcheck, with 5 sets logged across Lisbon. Often billed alongside Fonzi (2), Leote and M.Dusa. Next up: Lux Fragil, Lisbon on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ ISAC ACE is a disco and funk / soul artist based in Portugal, tracked on soundch
 
 Fonzi (2), Leote, M.Dusa
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isacace/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isacace/)*

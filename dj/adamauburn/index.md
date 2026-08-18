@@ -1,6 +1,6 @@
 # Adam Auburn
 
-Adam Auburn is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 27 Sept 2026.
+Adam Auburn is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 27 Sept 2026.
 
 Adam Auburn is a house and tech house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Denver, Losangeles, Nashville and Sandiego. Often billed alongside DJ IDeaL, Armand Van Helden and Biscits. Next up: Los Angeles State Historic Park, Losangeles on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Adam Auburn is a house and tech house artist based in United States of America, 
 
 DJ IDeaL, Armand Van Helden, Biscits
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamauburn/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamauburn/)*

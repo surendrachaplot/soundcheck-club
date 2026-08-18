@@ -1,6 +1,6 @@
 # Katarra
 
-Katarra is a Hip-Hop and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dallas Club, Mexico City on Fri, 21 Aug 2026.
+Katarra is a Hip-Hop and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dallas Club, Mexico City on Fri, 21 Aug 2026.
 
 Katarra is a hip-hop and dancehall artist based in United States of America, tracked on soundcheck, with 31 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, Juni and DU'DU (MX). Next up: Dallas Club, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Katarra is a hip-hop and dancehall artist based in United States of America, tra
 
 Black Daria, Juni, DU'DU (MX)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarra/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarra/)*

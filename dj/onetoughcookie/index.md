@@ -1,6 +1,6 @@
 # One Tough Cookie
 
-One Tough Cookie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Marseille 13014, Marseille on Sat, 29 Aug 2026.
+One Tough Cookie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Marseille 13014, Marseille on Sat, 29 Aug 2026.
 
 One Tough Cookie is a house and minimal artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: TBA - Marseille 13014, Marseille on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ One Tough Cookie is a house and minimal artist tracked on soundcheck, with 33 se
 
 Charlotte (FR), Charonne, Poggio
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*

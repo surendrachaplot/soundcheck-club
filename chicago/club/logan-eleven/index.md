@@ -1,6 +1,6 @@
 # Logan Eleven
 
-Logan Eleven is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "GuestList" on Sat, 22 Aug 2026.
+Logan Eleven is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "GuestList" on Sat, 22 Aug 2026.
 
 Logan Eleven is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Andrew Emil. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Logan Eleven is a music venue in Chicago listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | GuestList | Andrew Emil |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/logan-eleven/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/logan-eleven/)*

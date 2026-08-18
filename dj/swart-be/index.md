@@ -1,6 +1,6 @@
 # SWART (BE)
 
-SWART (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
+SWART (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
 
 SWART (BE) is a techno and trance artist based in Belgium, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Jane Muss, Azyr and Kompass Traxx. Next up: Else, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ SWART (BE) is a techno and trance artist based in Belgium, tracked on soundcheck
 
 Jane Muss, Azyr, Kompass Traxx
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swart-be/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swart-be/)*

@@ -1,6 +1,6 @@
 # Modyl
 
-Modyl is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
+Modyl is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Modyl is a techno and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside scummy rumi, Club Turtle and Natural Orbit. Next up: Arcana, Sanfrancisco on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Modyl is a techno and experimental artist based in United States of America, tra
 
 scummy rumi, Club Turtle, Natural Orbit
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modyl/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modyl/)*

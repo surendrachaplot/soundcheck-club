@@ -1,8 +1,8 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jazz and Jungle artist with 18 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RUST, Copenhagen on Fri, 21 Aug 2026.
+Takuya Nakamura is a Jazz and Jungle artist with 18 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RUST, Copenhagen on Fri, 21 Aug 2026.
 
-Takuya Nakamura is a jazz and jungle artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Doc Scott and Doula. Next up: RUST, Copenhagen on Fri 21 Aug.
+Takuya Nakamura is a jazz and jungle artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: RUST, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Takuya Nakamura is a jazz and jungle artist tracked on soundcheck, with 107 sets
 
 ## Shares bills with
 
-rmzi, Doc Scott, Doula
+rmzi, Aanandi, Doc Scott
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

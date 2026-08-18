@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Barbary, Philadelphia on Fri, 21 Aug 2026.
+Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Barbary, Philadelphia on Fri, 21 Aug 2026.
 
 Sasha is a progressive house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: The Barbary, Philadelphia on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 160 s
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

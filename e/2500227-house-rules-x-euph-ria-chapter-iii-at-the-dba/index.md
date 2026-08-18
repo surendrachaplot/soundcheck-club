@@ -1,6 +1,6 @@
 # HOUSE RULES x EUPHÓRIA: Chapter III at The DBA
 
-HOUSE RULES x EUPHÓRIA: Chapter III at The DBA on Fri 21 Aug, Manchester. 8 acts on the bill: blo rida, BRNE, FXCKBOUT and HSTN and 4 more. Trance and House. Preview the line-up and save it on soundcheck.
+HOUSE RULES x EUPHÓRIA: Chapter III at The DBA on Fri 21 Aug, Manchester. 8 acts on the bill: blo rida, BRNE, FXCKBOUT and HSTN and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

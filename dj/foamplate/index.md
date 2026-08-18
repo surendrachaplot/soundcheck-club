@@ -1,6 +1,6 @@
 # Foamplate
 
-Foamplate is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
+Foamplate is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
 
 Foamplate is a bass and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Copenhagen and Stockholm. Often billed alongside Klara Nov, L-Wiz and Marble. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Foamplate is a bass and jungle artist based in United Kingdom, tracked on soundc
 
 Klara Nov, L-Wiz, Marble
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foamplate/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foamplate/)*

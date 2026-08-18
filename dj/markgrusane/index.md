@@ -1,6 +1,6 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
+Mark Grusane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
 
 Mark Grusane is a house and disco artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Austin and Berlin and 15 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: Sameheads, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mark Grusane is a house and disco artist based in United States of America, trac
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

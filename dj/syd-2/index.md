@@ -1,13 +1,14 @@
 # Syd (2)
 
-Syd (2) is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+Syd (2) is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TV Lounge, Detroit on Tue, 18 Aug 2026.
 
-Syd (2) is a bass and electro artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit and Newyorkcity. Often billed alongside AG (1), CAM GIRL and DJ Assault. Next up: Marble Bar, Detroit on Fri 18 Sept.
+Syd (2) is a bass and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit and Newyorkcity. Often billed alongside Fullbodydurag, Garrison XR and AG (1). Next up: TV Lounge, Detroit on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 18 Aug 2026 | TV Lounge | Detroit |
 | Fri, 18 Sept 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -20,6 +21,6 @@ Syd (2) is a bass and electro artist based in United States of America, tracked 
 
 ## Shares bills with
 
-AG (1), CAM GIRL, DJ Assault
+Fullbodydurag, Garrison XR, AG (1)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*

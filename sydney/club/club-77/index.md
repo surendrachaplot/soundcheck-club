@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Fridays at 77 x Chuleo Club: Slim Soledad, Zalina, Maz, Maria Piña" on Fri, 21 Aug 2026.
+Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Fridays at 77 x Chuleo Club: Slim Soledad, Zalina, Maz, Maria Piña" on Fri, 21 Aug 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Caitlin Medcalf and Ciara and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

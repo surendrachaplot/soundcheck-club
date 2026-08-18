@@ -1,6 +1,6 @@
 # Lurch
 
-Lurch is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Fox Cafe, Bristol on Sat, 22 Aug 2026.
+Lurch is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Fox Cafe, Bristol on Sat, 22 Aug 2026.
 
 Lurch is a bass and dub artist tracked on soundcheck, with 9 sets logged across Bristol, London and Losangeles. Often billed alongside sysk, CESKA and Carré. Next up: The Fox Cafe, Bristol on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lurch is a bass and dub artist tracked on soundcheck, with 9 sets logged across 
 
 sysk, CESKA, Carré
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lurch/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lurch/)*

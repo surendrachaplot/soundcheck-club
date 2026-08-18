@@ -1,6 +1,6 @@
 # Bello Bar
 
-Bello Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Apartment Records presents: Jo Johnson / Being / DRM" on Fri, 11 Sept 2026.
+Bello Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Apartment Records presents: Jo Johnson / Being / DRM" on Fri, 11 Sept 2026.
 
 Bello Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Jo Johnson. Browse upcoming dates, start times and who's playing. 1 Portobello Harbour, Dublin, Ireland.
 
@@ -14,4 +14,4 @@ Bello Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, wit
 
 1 Portobello Harbour, Dublin, Ireland, Dublin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bello-bar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bello-bar/)*

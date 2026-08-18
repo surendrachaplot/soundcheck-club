@@ -1,6 +1,6 @@
 # 1R.fm
 
-1R.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
+1R.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
 
 1R.fm is a house and techno artist tracked on soundcheck, with 7 sets logged across Boston. Often billed alongside DJ Bookworm, AleBCostantino and FRANZIV. Next up: The Lower Level, Boston on Sat 29 Aug.
 
@@ -23,4 +23,4 @@
 
 DJ Bookworm, AleBCostantino, FRANZIV
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1r.fm/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1r.fm/)*

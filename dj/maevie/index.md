@@ -1,6 +1,6 @@
 # maevie
 
-maevie is a Trance and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+maevie is a Trance and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
 
 maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and Willow J. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck
 
 Lucky Bunny, Princess Elf Bar, Willow J
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*

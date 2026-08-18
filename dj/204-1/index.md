@@ -1,6 +1,6 @@
 # 204 (1)
 
-204 (1) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at DeTour, Tokyo on Sun, 23 Aug 2026.
+204 (1) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at DeTour, Tokyo on Sun, 23 Aug 2026.
 
 204 (1) is a house and trance artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside YOSHIMASA, ATT and BEPPU. Next up: DeTour, Tokyo on Sun 23 Aug.
 
@@ -19,4 +19,4 @@
 
 YOSHIMASA, ATT, BEPPU
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/204-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/204-1/)*

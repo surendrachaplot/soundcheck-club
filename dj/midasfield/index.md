@@ -1,6 +1,6 @@
 # Midas Field
 
-Midas Field is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Midas Field is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
 Midas Field is a house and deep house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Dam Swindle, Drabes and Julian Wijn. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
@@ -33,4 +33,4 @@ Midas Field is a house and deep house artist based in Netherlands, tracked on so
 
 Dam Swindle, Drabes, Julian Wijn
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

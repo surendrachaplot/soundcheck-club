@@ -1,8 +1,8 @@
 # Öona Dahl
 
-Öona Dahl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 28 Aug 2026.
+Öona Dahl is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 28 Aug 2026.
 
-Öona Dahl is a house and techno artist tracked on soundcheck, with 53 sets logged across Austin, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Three, Anton Tumas and Sydney Blu. Next up: Public Works, Sanfrancisco on Fri 28 Aug.
+Öona Dahl is a house and techno artist tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Three, Anton Tumas and Sydney Blu. Next up: Public Works, Sanfrancisco on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Public Works | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | Flash | Washington DC |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 DJ Three, Anton Tumas, Sydney Blu
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*

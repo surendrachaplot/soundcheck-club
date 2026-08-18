@@ -1,6 +1,6 @@
 # Daria Zadekova
 
-Daria Zadekova is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
+Daria Zadekova is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
 
 Daria Zadekova is a house and deep house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Frankfurt and Istanbul. Often billed alongside Tuna (DE), Jakob Lesch and Flo Circus. Next up: TBA, Frankfurt on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Daria Zadekova is a house and deep house artist tracked on soundcheck, with 14 s
 
 Tuna (DE), Jakob Lesch, Flo Circus
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariazadekova/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariazadekova/)*

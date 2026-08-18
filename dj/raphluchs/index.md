@@ -1,6 +1,6 @@
 # Raph Luchs
 
-Raph Luchs is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Raph Luchs is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
 
 Raph Luchs is an electro and house artist based in Belgium, tracked on soundcheck, with 5 sets logged across Brussels. Often billed alongside VTT (BE), Ays (NL) and Dj Fossette. Next up: Place D'espagne, Brussels on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Raph Luchs is an electro and house artist based in Belgium, tracked on soundchec
 
 VTT (BE), Ays (NL), Dj Fossette
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphluchs/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphluchs/)*

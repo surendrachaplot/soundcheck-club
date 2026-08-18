@@ -1,6 +1,6 @@
 # Shakti
 
-Shakti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+Shakti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
 Shakti is a tech house and house artist based in Colombia, tracked on soundcheck, with 28 sets logged across Barcelona, Birmingham, Detroit and Liverpool and 6 more. Often billed alongside Lucide, Cy Nico and Kim.Qna. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shakti is a tech house and house artist based in Colombia, tracked on soundcheck
 
 Lucide, Cy Nico, Kim.Qna
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti/)*

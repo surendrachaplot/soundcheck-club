@@ -1,6 +1,6 @@
 # Kyri R2
 
-Kyri R2 is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Kyri R2 is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Kyri R2 is a disco and funk / soul artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Osunlade, Atjazz and Handson Family. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Kyri R2 is a disco and funk / soul artist tracked on soundcheck, with 23 sets lo
 
 Osunlade, Atjazz, Handson Family
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrir2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrir2/)*

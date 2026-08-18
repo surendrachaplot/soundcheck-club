@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS -" on Thu, 20 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS -" on Thu, 20 Aug 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wi
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

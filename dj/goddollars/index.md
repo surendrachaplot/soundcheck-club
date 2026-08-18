@@ -1,6 +1,6 @@
 # Goddollars
 
-Goddollars is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
+Goddollars is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
 
 Goddollars is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, London, Losangeles and Newyorkcity and 2 more. Often billed alongside nonsuit, likeholywine and Adam Kraft. Next up: Los Globos, Losangeles on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Goddollars is a house and techno artist based in United States of America, track
 
 nonsuit, likeholywine, Adam Kraft
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddollars/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddollars/)*

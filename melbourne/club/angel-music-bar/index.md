@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "mschess at Angel" on Tue, 18 Aug 2026.
+Angel Music Bar is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "mschess at Angel" on Tue, 18 Aug 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including BabyG, bbsanii, Charlotte Rooney and CHEAHDX and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -23,4 +23,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming 
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

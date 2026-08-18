@@ -1,6 +1,6 @@
 # Freigeist
 
-Freigeist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+Freigeist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 Freigeist is a techno and house artist tracked on soundcheck, with 26 sets logged across Belgrade and Berlin. Often billed alongside Npoint_O, Josh Reid and Beryll. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Freigeist is a techno and house artist tracked on soundcheck, with 26 sets logge
 
 Npoint_O, Josh Reid, Beryll
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freigeist/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freigeist/)*

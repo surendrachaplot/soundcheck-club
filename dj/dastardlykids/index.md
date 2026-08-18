@@ -1,13 +1,14 @@
 # Dastardly Kids
 
-Dastardly Kids is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
+Dastardly Kids is a Ghetto Tech and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TV Lounge, Detroit on Fri, 21 Aug 2026.
 
-Dastardly Kids is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver and Detroit. Often billed alongside Fullbodydurag, Ember LaFiamma and HiTech. Next up: Trumbullplex, Detroit on Sat 22 Aug.
+Dastardly Kids is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver and Detroit. Often billed alongside Fullbodydurag, Disc Jockey George and Ember LaFiamma. Next up: TV Lounge, Detroit on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TV Lounge | Detroit |
 | Sat, 22 Aug 2026 | Trumbullplex | Detroit |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dastardly Kids is a ghetto tech and techno artist based in United States of Amer
 
 ## Shares bills with
 
-Fullbodydurag, Ember LaFiamma, HiTech
+Fullbodydurag, Disc Jockey George, Ember LaFiamma
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dastardlykids/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dastardlykids/)*

@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DV60 + Friends [5am Special]" on Fri, 21 Aug 2026.
+The Mash House is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DV60 + Friends [5am Special]" on Fri, 21 Aug 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming nights, with line-ups including YVI, amhailt.xox, Anikonik and Brynk and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -19,4 +19,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

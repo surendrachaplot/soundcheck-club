@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
 Honey Dijon is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stussy. Next up: DC-10, Ibiza on Mon 17 Aug.
 
@@ -19,6 +19,7 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 197 sets lo
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 17 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - Komplexo Tempo, Sao Paulo — Fri, 24 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
@@ -26,10 +27,9 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 197 sets lo
 - Knockdown Center, New York City — Sat, 11 Jul 2026
 - Parque da Pasteleira, Porto — Fri, 3 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sat, 27 Jun 2026
-- Glendalough Estate, Dublin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Chloé Caillet, Mochakk, Chris Stussy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

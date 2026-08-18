@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "KOWA SAMSTAG - GIORG & Jeff Bay" on Sat, 22 Aug 2026.
+Kowalski is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "KOWA SAMSTAG - GIORG & Jeff Bay" on Sat, 22 Aug 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including GIORG, Solvane and tim|bre. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -19,4 +19,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

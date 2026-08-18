@@ -1,6 +1,6 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cova Santa, Ibiza on Fri, 28 Aug 2026.
+Parallelle is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cova Santa, Ibiza on Fri, 28 Aug 2026.
 
 Parallelle is a house and deep house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside CamelPhat, DJ Tennis and Damian Lazarus. Next up: Cova Santa, Ibiza on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Parallelle is a house and deep house artist tracked on soundcheck, with 103 sets
 
 CamelPhat, DJ Tennis, Damian Lazarus
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

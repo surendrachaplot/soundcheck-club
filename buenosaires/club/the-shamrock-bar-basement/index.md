@@ -1,6 +1,6 @@
 # The Shamrock Bar & Basement
 
-The Shamrock Bar & Basement is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "FUN FUN Internacional con Mystery Affair" on Fri, 21 Aug 2026.
+The Shamrock Bar & Basement is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "FUN FUN Internacional con Mystery Affair" on Fri, 21 Aug 2026.
 
 The Shamrock Bar & Basement is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Djs Pareja and Mystery Affair. Browse upcoming dates, start times and who's playing. Rodríguez Peña 1220, C1021ABA CABA, Argentina.
 
@@ -14,4 +14,4 @@ The Shamrock Bar & Basement is a music venue in Buenosaires listed on soundcheck
 
 Rodríguez Peña 1220, C1021ABA CABA, Argentina, Buenos Aires
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-shamrock-bar-basement/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-shamrock-bar-basement/)*

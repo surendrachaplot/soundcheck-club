@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
+Adria (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
 
 Adria (ES) is a house and techno artist tracked on soundcheck, with 133 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 2 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia (2). Next up: Sunseabar Beach Club, Barcelona on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Adria (ES) is a house and techno artist tracked on soundcheck, with 133 sets log
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

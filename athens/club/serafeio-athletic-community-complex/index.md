@@ -1,6 +1,6 @@
 # Serafeio Athletic & Community Complex
 
-Serafeio Athletic & Community Complex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Paniqueeri Festival" on Sun, 27 Sept 2026.
+Serafeio Athletic & Community Complex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Paniqueeri Festival" on Sun, 27 Sept 2026.
 
 Serafeio Athletic & Community Complex is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Dance. Browse upcoming dates, start times and who's playing. Echelidon &, Pireos 144, Athina 118 54, Greece.
 
@@ -14,4 +14,4 @@ Serafeio Athletic & Community Complex is a music venue in Athens listed on sound
 
 Echelidon &, Pireos 144, Athina 118 54, Greece, Athens
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/serafeio-athletic-community-complex/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/serafeio-athletic-community-complex/)*

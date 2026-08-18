@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Scorpios, Mykonos on Tue, 18 Aug 2026.
+ANOTR is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Scorpios, Mykonos on Tue, 18 Aug 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Scorpios, Mykonos on Tue 18 Aug.
 
@@ -35,4 +35,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 154 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

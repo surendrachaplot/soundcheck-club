@@ -1,8 +1,8 @@
 # Harmony
 
-Harmony is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
+Harmony is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
 
-Harmony is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 1KY (1), ZAZA C and Josh Wickers. Next up: Tola, London on Fri 25 Sept.
+Harmony is a house and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 1KY (1), Josh Wickers and ZAZA C. Next up: Tola, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Harmony is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-1KY (1), ZAZA C, Josh Wickers
+1KY (1), Josh Wickers, ZAZA C
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harmony/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harmony/)*

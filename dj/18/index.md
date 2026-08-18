@@ -1,6 +1,6 @@
 # 18+
 
-18+ is a Reggaeton and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sonia, Boston on Sat, 22 Aug 2026.
+18+ is a Reggaeton and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sonia, Boston on Sat, 22 Aug 2026.
 
 18+ is a reggaeton and hardcore artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Boston, Brighton and Bristol and 11 more. Often billed alongside PM, ALEX REV and Aexhy. Next up: Sonia, Boston on Sat 22 Aug.
 
@@ -26,4 +26,4 @@
 
 PM, ALEX REV, Aexhy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*

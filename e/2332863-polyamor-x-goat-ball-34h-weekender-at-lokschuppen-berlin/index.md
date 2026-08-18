@@ -1,6 +1,6 @@
 # Polyamor X GOAT BALL 34h Weekender at Lokschuppen Berlin
 
-Polyamor X GOAT BALL 34h Weekender at Lokschuppen Berlin on Fri 21 Aug, Berlin. 28 acts on the bill: ĀFRAME, Alexa Fluor, ANDATA and Carotin and 24 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Polyamor X GOAT BALL 34h Weekender at Lokschuppen Berlin on Fri 21 Aug, Berlin. 33 acts on the bill: ĀFRAME, Alas (2), Alexa Fluor and ANDATA and 29 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Polyamor X GOAT BALL 34h Weekender at Lokschuppen Berlin on Fri 21 Aug, Berlin. 
 ## Line-up
 
 - ĀFRAME
+- Alas (2)
 - Alexa Fluor
 - ANDATA
 - Carotin
@@ -23,16 +24,20 @@ Polyamor X GOAT BALL 34h Weekender at Lokschuppen Berlin on Fri 21 Aug, Berlin. 
 - Eskha
 - GEN97
 - GEORGE aka DR.RADSPORT
+- Gianni
 - HiTMiLØW
 - Limoncello
+- M4RY
 - MANU OWUSU
 - Maryline K
 - Mika Heggemann
 - myzelia
+- Ozzwald
 - SaltySis
 - Salzbauer
 - SATYS FYRE
 - Shake Daddy
+- snoritz
 - Softdrive
 - SOHOE
 - Stinny Stone

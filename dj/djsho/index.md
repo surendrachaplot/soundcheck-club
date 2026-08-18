@@ -1,6 +1,6 @@
 # DJ SHO
 
-DJ SHO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Oath, Tokyo on Sat, 22 Aug 2026.
+DJ SHO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Oath, Tokyo on Sat, 22 Aug 2026.
 
 DJ SHO is a house and disco artist tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside Baikamo, DRESS (2) and ATESH. Next up: Oath, Tokyo on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ DJ SHO is a house and disco artist tracked on soundcheck, with 6 sets logged acr
 
 Baikamo, DRESS (2), ATESH
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsho/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsho/)*

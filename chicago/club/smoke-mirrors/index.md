@@ -1,6 +1,6 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "RIKHTER" on Fri, 21 Aug 2026.
+Smoke & Mirrors is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "RIKHTER" on Fri, 21 Aug 2026.
 
 Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including Bird Bones, Chontane, DXNBY and Ivy Lab and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
@@ -21,4 +21,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

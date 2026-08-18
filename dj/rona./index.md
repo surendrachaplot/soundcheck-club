@@ -1,6 +1,6 @@
 # RONA.
 
-RONA. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+RONA. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 RONA. is a house and techno artist based in Australia, tracked on soundcheck, with 22 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside DJ PGZ, Pretty Girl and Bertie. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RONA. is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 DJ PGZ, Pretty Girl, Bertie
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rona./)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rona./)*

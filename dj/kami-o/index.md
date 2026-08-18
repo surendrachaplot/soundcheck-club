@@ -1,6 +1,6 @@
 # Kami-O
 
-Kami-O is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
+Kami-O is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
 
 Kami-O is a dubstep and grime artist tracked on soundcheck, with 14 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Skillis, DJ Greenman and ELANDA. Next up: The Mash House, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kami-O is a dubstep and grime artist tracked on soundcheck, with 14 sets logged 
 
 Skillis, DJ Greenman, ELANDA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kami-o/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kami-o/)*

@@ -1,14 +1,14 @@
 # Psi (1)
 
-Psi (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat, 22 Aug 2026.
+Psi (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
 
-Psi (1) is a house and techno artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside KRISHAWN, Young Teesh and 999ADJ. Next up: TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat 22 Aug.
+Psi (1) is a house and techno artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside KRISHAWN, Young Teesh and 999ADJ. Next up: Runnymede Hall, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - 821 Runnymede Rd Toronto, ON M6N 3V8 | Toronto |
+| Sat, 22 Aug 2026 | Runnymede Hall | Toronto |
 | Sun, 23 Aug 2026 | Cherry Beach | Toronto |
 
 ## Recently played
@@ -26,4 +26,4 @@ Psi (1) is a house and techno artist tracked on soundcheck, with 23 sets logged 
 
 KRISHAWN, Young Teesh, 999ADJ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*

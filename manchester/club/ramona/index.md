@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "HOUSE RULES: OUT LOUD" on Fri, 28 Aug 2026.
+Ramona is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "HOUSE RULES: OUT LOUD" on Fri, 28 Aug 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Chafik Bali, Jess Rose and Nick Charles. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -15,4 +15,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming nights, w
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

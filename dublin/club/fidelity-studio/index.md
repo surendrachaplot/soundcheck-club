@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Mad Professor" on Thu, 20 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Mad Professor" on Thu, 20 Aug 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Bradley Zero, Cinthie, Collie (1) and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -20,4 +20,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming nigh
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

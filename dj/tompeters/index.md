@@ -1,6 +1,6 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Club Rawhide, New York City on Sat, 22 Aug 2026.
+Tom Peters is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club Rawhide, New York City on Sat, 22 Aug 2026.
 
 Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Club Rawhide, Newyorkcity on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

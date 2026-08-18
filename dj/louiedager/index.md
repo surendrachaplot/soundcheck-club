@@ -1,6 +1,6 @@
 # Louie Dager
 
-Louie Dager is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
+Louie Dager is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 20 Aug 2026.
 
 Louie Dager is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside Rambo Springsteen, Jessy Nimni and Alex Dovo. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Louie Dager is a house and deep house artist based in United States of America, 
 
 Rambo Springsteen, Jessy Nimni, Alex Dovo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louiedager/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louiedager/)*

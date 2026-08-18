@@ -1,6 +1,6 @@
 # BATU (TR)
 
-BATU (TR) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
+BATU (TR) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
 
 BATU (TR) is a house and afro house artist tracked on soundcheck, with 11 sets logged across Istanbul, London and Milan. Often billed alongside Eren Yildiz, Orkun Bozdemir and Amine K. Next up: Kastel, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ BATU (TR) is a house and afro house artist tracked on soundcheck, with 11 sets l
 
 Eren Yildiz, Orkun Bozdemir, Amine K
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batutr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batutr/)*

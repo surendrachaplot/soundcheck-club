@@ -1,6 +1,6 @@
 # Chris Veron
 
-Chris Veron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at KitKatClub, Berlin on Sun, 27 Sept 2026.
+Chris Veron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KitKatClub, Berlin on Sun, 27 Sept 2026.
 
 Chris Veron is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Lisbon and Stuttgart. Often billed alongside Kos:mo, Disturbed Berlin and Emanuel Eisbrenner. Next up: KitKatClub, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Chris Veron is a techno and house artist based in Germany, tracked on soundcheck
 
 Kos:mo, Disturbed Berlin, Emanuel Eisbrenner
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*

@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Blacks' Myths" on Thu, 27 Aug 2026.
+Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Blacks' Myths" on Thu, 27 Aug 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Andrés, Chuk Ezeanya, Detroit Bureau of Sound and Gulley and 2 more. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -17,4 +17,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

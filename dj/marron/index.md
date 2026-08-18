@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+MARRØN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 MARRØN is a techno and house artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ MARRØN is a techno and house artist tracked on soundcheck, with 254 sets logged
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

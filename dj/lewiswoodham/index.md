@@ -1,6 +1,6 @@
 # Lewis Woodham
 
-Lewis Woodham is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Lewis Woodham is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
 Lewis Woodham is a house and tech house artist tracked on soundcheck, with 12 sets logged across Barcelona and London. Often billed alongside Tenzin, Ellzo and Ize (1). Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lewis Woodham is a house and tech house artist tracked on soundcheck, with 12 se
 
 Tenzin, Ellzo, Ize (1)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiswoodham/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiswoodham/)*

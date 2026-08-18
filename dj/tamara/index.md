@@ -1,6 +1,6 @@
 # Tamara
 
-Tamara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+Tamara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 Tamara is a house and techno artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside Samuel Rees, Waqar and ARYA (DK). Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tamara is a house and techno artist based in Denmark, tracked on soundcheck, wit
 
 Samuel Rees, Waqar, ARYA (DK)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*

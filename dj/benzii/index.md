@@ -1,6 +1,6 @@
 # benzii
 
-benzii is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 7 Nov 2026.
+benzii is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, London on Sat, 7 Nov 2026.
 
 benzii is a club and experimental artist tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Warlord®, bod [包家巷] and 0neo. Next up: TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ benzii is a club and experimental artist tracked on soundcheck, with 32 sets log
 
 Warlord®, bod [包家巷], 0neo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*

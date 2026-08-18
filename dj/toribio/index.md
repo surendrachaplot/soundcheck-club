@@ -1,8 +1,8 @@
 # Toribio
 
-Toribio is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 24 Kitchen Street Green Room, Liverpool on Fri, 28 Aug 2026.
+Toribio is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 24 Kitchen Street Green Room, Liverpool on Fri, 28 Aug 2026.
 
-Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: 24 Kitchen Street Green Room, Liverpool on Fri 28 Aug.
+Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: 24 Kitchen Street Green Room, Liverpool on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toribio is a house and disco artist based in United States of America, tracked o
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | 24 Kitchen Street Green Room | Liverpool |
 | Sun, 30 Aug 2026 | NUMBER 90 LONDON | London |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Toribio is a house and disco artist based in United States of America, tracked o
 
 Mickey Perez, Guthrie, Love Injection
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

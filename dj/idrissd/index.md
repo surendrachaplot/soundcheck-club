@@ -1,6 +1,6 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Macarena Club, Barcelona on Mon, 31 Aug 2026.
+Idriss D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Macarena Club, Barcelona on Mon, 31 Aug 2026.
 
 Idriss D is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: Macarena Club, Barcelona on Mon 31 Aug.
 
@@ -28,4 +28,4 @@ Idriss D is a house and techno artist tracked on soundcheck, with 99 sets logged
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

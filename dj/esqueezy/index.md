@@ -1,6 +1,6 @@
 # Esqueezy
 
-Esqueezy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The White Hotel, Manchester on Sun, 20 Sept 2026.
+Esqueezy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The White Hotel, Manchester on Sun, 20 Sept 2026.
 
 Esqueezy is a house and garage artist tracked on soundcheck, with 13 sets logged across London, Manchester and Sheffield. Often billed alongside Finn, BFTT and DJ Q. Next up: The White Hotel, Manchester on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Esqueezy is a house and garage artist tracked on soundcheck, with 13 sets logged
 
 Finn, BFTT, DJ Q
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esqueezy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esqueezy/)*

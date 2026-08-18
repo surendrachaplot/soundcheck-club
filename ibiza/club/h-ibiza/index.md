@@ -1,6 +1,6 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 51 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Francis Mercier presents Solèy" on Mon, 17 Aug 2026.
+Hï Ibiza is a music venue in Ibiza with 51 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Francis Mercier presents Solèy" on Mon, 17 Aug 2026.
 
 Hï Ibiza is a music venue in Ibiza listed on soundcheck. 51 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
@@ -23,4 +23,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 51 upcoming nights, wi
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

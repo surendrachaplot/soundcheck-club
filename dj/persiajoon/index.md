@@ -1,6 +1,6 @@
 # persiajoon
 
-persiajoon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
+persiajoon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
 
 persiajoon is a techno and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Edinburgh, Glasgow and London and 1 more. Often billed alongside 222babychai, AYDJ and Princess Elf Bar. Next up: SWG3, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ persiajoon is a techno and club artist based in United Kingdom, tracked on sound
 
 222babychai, AYDJ, Princess Elf Bar
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/persiajoon/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/persiajoon/)*

@@ -1,8 +1,8 @@
 # blo rida
 
-blo rida is a Trance and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
+blo rida is a Bass and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
 
-blo rida is a trance and bass artist tracked on soundcheck, with 21 sets logged across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche (2) and MEMP3. Next up: The DBA, Manchester on Fri 21 Aug.
+blo rida is a bass and trance artist tracked on soundcheck, with 21 sets logged across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche (2) and MEMP3. Next up: The DBA, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ blo rida is a trance and bass artist tracked on soundcheck, with 21 sets logged 
 
 Club Penguin, Ali Roche (2), MEMP3
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*

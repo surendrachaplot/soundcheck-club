@@ -1,6 +1,6 @@
 # Beibeilon
 
-Beibeilon is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 11 Sept 2026.
+Beibeilon is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 11 Sept 2026.
 
 Beibeilon is a club and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Hongkong, Milan and Shenzhen. Often billed alongside DJ 86, zzm (2) and AntiSocialPrincess. Next up: Tempio del Futuro Perduto, Milan on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Beibeilon is a club and techno artist tracked on soundcheck, with 76 sets logged
 
 DJ 86, zzm (2), AntiSocialPrincess
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*

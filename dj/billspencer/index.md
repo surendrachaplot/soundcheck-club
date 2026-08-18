@@ -1,6 +1,6 @@
 # Bill Spencer
 
-Bill Spencer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
+Bill Spencer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
 
 Bill Spencer is a techno and house artist tracked on soundcheck, with 16 sets logged across Detroit and Toronto. Often billed alongside Ryan Spencer, Scott Zacharias and BMG. Next up: Paris Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bill Spencer is a techno and house artist tracked on soundcheck, with 16 sets lo
 
 Ryan Spencer, Scott Zacharias, BMG
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billspencer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billspencer/)*

@@ -1,8 +1,8 @@
 # Squibs
 
-Squibs is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
+Squibs is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
 
-Squibs is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Kyle Kerns, Campdukes and Mini Sants. Next up: Honey's, Newyorkcity on Sat 5 Sept.
+Squibs is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Campdukes, Kyle Kerns and Mini Sants. Next up: Honey's, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Squibs is an electronic artist based in United States of America, tracked on sou
 
 ## Shares bills with
 
-Kyle Kerns, Campdukes, Mini Sants
+Campdukes, Kyle Kerns, Mini Sants
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squibs/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squibs/)*

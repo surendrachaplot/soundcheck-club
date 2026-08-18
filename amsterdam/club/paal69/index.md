@@ -1,6 +1,6 @@
 # Paal69
 
-Paal69 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Paal69 invites GreenHouse" on Fri, 28 Aug 2026.
+Paal69 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Paal69 invites GreenHouse" on Fri, 28 Aug 2026.
 
 Paal69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Budakid, Eichenbaum and Rose Ringed. Browse upcoming dates, start times and who's playing. South Beach, Zandvoort, Netherlands.
 
@@ -16,4 +16,4 @@ Paal69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, wi
 
 South Beach, Zandvoort, Netherlands, Amsterdam
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*

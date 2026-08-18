@@ -1,6 +1,6 @@
 # WhiteRice
 
-WhiteRice is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at South Bowl, Philadelphia on Sat, 22 Aug 2026.
+WhiteRice is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at South Bowl, Philadelphia on Sat, 22 Aug 2026.
 
 WhiteRice is a house and deep house artist tracked on soundcheck, with 5 sets logged across Philadelphia. Often billed alongside Ben Arsenal, Francisco Collazo and Jackie G. Next up: South Bowl, Philadelphia on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ WhiteRice is a house and deep house artist tracked on soundcheck, with 5 sets lo
 
 Ben Arsenal, Francisco Collazo, Jackie G
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whiterice/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whiterice/)*

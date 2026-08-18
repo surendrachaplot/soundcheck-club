@@ -1,6 +1,6 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Bridge, Los Angeles on Fri, 21 Aug 2026.
+Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Bridge, Los Angeles on Fri, 21 Aug 2026.
 
 Monkey Safari is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: The Bridge, Losangeles on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Monkey Safari is a house and techno artist tracked on soundcheck, with 104 sets 
 
 Einmusik, Surreal Flight, ELIF
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
 
 DITA (ID) is a house and disco artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 103 sets logge
 
 Brent Burns, Cormac, Marcellus Pittman
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

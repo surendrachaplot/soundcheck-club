@@ -1,6 +1,6 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Neue Nationalgalerie, Berlin on Thu, 20 Aug 2026.
+Sound Metaphors Djs is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Neue Nationalgalerie, Berlin on Thu, 20 Aug 2026.
 
 Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Castro Moore, David Fogarty and Alicia Carrera. Next up: Neue Nationalgalerie, Berlin on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 
 
 Castro Moore, David Fogarty, Alicia Carrera
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*

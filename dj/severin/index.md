@@ -1,6 +1,6 @@
 # Severin
 
-Severin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
+Severin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
 
 Severin is a house and techno artist based in Denmark, tracked on soundcheck, with 12 sets logged across Copenhagen and Hamburg. Often billed alongside KANT, NILU and Anastasia Kristensen. Next up: Culture Box, Copenhagen on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Severin is a house and techno artist based in Denmark, tracked on soundcheck, wi
 
 KANT, NILU, Anastasia Kristensen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/severin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/severin/)*

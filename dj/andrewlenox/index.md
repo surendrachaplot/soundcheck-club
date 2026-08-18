@@ -1,6 +1,6 @@
 # Andrew Lenox
 
-Andrew Lenox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
+Andrew Lenox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
 
 Andrew Lenox is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity and Philadelphia. Often billed alongside Peter Napoli, kraftwitch and Alissa Brianna. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Andrew Lenox is a house and techno artist based in United States of America, tra
 
 Peter Napoli, kraftwitch, Alissa Brianna
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewlenox/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewlenox/)*

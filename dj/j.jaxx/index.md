@@ -1,6 +1,6 @@
 # J. Jaxx
 
-J. Jaxx is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Eden NYC, New York City on Sat, 15 Aug 2026.
+J. Jaxx is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eden NYC, New York City on Sat, 15 Aug 2026.
 
 J. Jaxx is a house and club artist tracked on soundcheck, with 7 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Mackswell, AQUTIE and Austin Millz. Next up: Eden NYC, Newyorkcity on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ J. Jaxx is a house and club artist tracked on soundcheck, with 7 sets logged acr
 
 Mackswell, AQUTIE, Austin Millz
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.jaxx/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.jaxx/)*

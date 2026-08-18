@@ -1,6 +1,6 @@
 # PUSMUS
 
-PUSMUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Private space (IG or RA DM), Barcelona on Sat, 22 Aug 2026.
+PUSMUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Private space (IG or RA DM), Barcelona on Sat, 22 Aug 2026.
 
 PUSMUS is a techno and trance artist based in Croatia, tracked on soundcheck, with 5 sets logged across Barcelona, Budapest and Krakow. Often billed alongside ALGAYEV, CCSC and DIDIXX. Next up: TBA - Private space (IG or RA DM), Barcelona on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ PUSMUS is a techno and trance artist based in Croatia, tracked on soundcheck, wi
 
 ALGAYEV, CCSC, DIDIXX
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*

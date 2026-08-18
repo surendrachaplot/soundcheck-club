@@ -1,6 +1,6 @@
 # Dunaway (2)
 
-Dunaway (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Rhythm, Toronto on Sun, 30 Aug 2026.
+Dunaway (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rhythm, Toronto on Sun, 30 Aug 2026.
 
 Dunaway (2) is a bass and techno artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Hiroki, Ceremonies and Critter. Next up: Rhythm, Toronto on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ Dunaway (2) is a bass and techno artist tracked on soundcheck, with 4 sets logge
 
 Hiroki, Ceremonies, Critter
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaway-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaway-2/)*

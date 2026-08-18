@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Studio 54th Cole: DJ Garth - Cole Odin - Sleight of Hands & Friends" on Fri, 21 Aug 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Studio 54th Cole: DJ Garth - Cole Odin - Sleight of Hands & Friends" on Fri, 21 Aug 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including 1ycia, Avalon Emerson, BEYA and Cole Odin and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -19,4 +19,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 6 upco
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

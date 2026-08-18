@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Huerta -long set-" on Thu, 20 Aug 2026.
+Circus Osaka is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Huerta -long set-" on Thu, 20 Aug 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including Baby J (2), ecec, Erik Luebs and Haruka and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -20,4 +20,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

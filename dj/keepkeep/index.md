@@ -1,8 +1,8 @@
 # KeepKeep
 
-KeepKeep is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
+KeepKeep is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
 
-KeepKeep is a techno and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Glasgow, Liverpool and Manchester. Often billed alongside SHUNTA, Loftik and AYDJ. Next up: The DBA, Manchester on Fri 21 Aug.
+KeepKeep is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Glasgow, Liverpool and Manchester. Often billed alongside SHUNTA, Loftik and AYDJ. Next up: The DBA, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KeepKeep is a techno and house artist based in United Kingdom, tracked on soundc
 
 SHUNTA, Loftik, AYDJ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keepkeep/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keepkeep/)*

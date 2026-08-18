@@ -1,6 +1,6 @@
 # Jedda
 
-Jedda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Edinburgh on Fri, 18 Sept 2026.
+Jedda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Edinburgh on Fri, 18 Sept 2026.
 
 Jedda is a house and disco artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Cardiff, Edinburgh and London. Often billed alongside Hobbes, Bartek and Last Days of Pompeii. Next up: TBA, Edinburgh on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jedda is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Hobbes, Bartek, Last Days of Pompeii
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*

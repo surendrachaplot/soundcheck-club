@@ -1,6 +1,6 @@
 # Adam Be (1)
 
-Adam Be (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
+Adam Be (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
 
 Adam Be (1) is a house and disco artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Grace Sands, Levi Love and Supernature Disco. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Adam Be (1) is a house and disco artist based in United Kingdom, tracked on soun
 
 Grace Sands, Levi Love, Supernature Disco
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adambe-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adambe-1/)*

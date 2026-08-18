@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "co-curation by smother: smother, DJ MELL G, tba" on Fri, 21 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "co-curation by smother: smother, DJ MELL G, tba" on Fri, 21 Aug 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -20,4 +20,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 7 upcoming nigh
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Recyclart Reopening" on Fri, 11 Sept 2026.
+Recyclart is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Recyclart Reopening" on Fri, 11 Sept 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including iced lattina, Klein, Soa420 and VINESSETT and 2 more. Browse upcoming dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -17,4 +17,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming nights, 
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

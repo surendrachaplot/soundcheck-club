@@ -1,14 +1,16 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Stage and Radio, Manchester on Fri, 28 Aug 2026.
+Pizzicatto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Stage and Radio, Manchester on Fri, 28 Aug 2026.
 
-Pizzicatto is a house and tech house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Stage and Radio, Manchester on Fri 28 Aug.
+Pizzicatto is a house and tech house artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Stage and Radio, Manchester on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Stage and Radio | Manchester |
+| Sat, 5 Sept 2026 | Spook Club | Valencia |
+| Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 
 ## Recently played
@@ -26,4 +28,4 @@ Pizzicatto is a house and tech house artist tracked on soundcheck, with 59 sets 
 
 Varis, Pau Pérez, Sueezo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

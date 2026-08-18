@@ -1,6 +1,6 @@
 # Felix Reichelt
 
-Felix Reichelt is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
+Felix Reichelt is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
 
 Felix Reichelt is a techno and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bangkok, Berlin and Hamburg. Often billed alongside Cat Vermillion, Ronny Luft and Kaminka Merel. Next up: Luftschloss auf dem Tempelhofer Feld, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Felix Reichelt is a techno and tech house artist tracked on soundcheck, with 90 
 
 Cat Vermillion, Ronny Luft, Kaminka Merel
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*

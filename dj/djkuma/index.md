@@ -1,6 +1,6 @@
 # DJ Kuma
 
-DJ Kuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 22 Aug 2026.
+DJ Kuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 22 Aug 2026.
 
 DJ Kuma is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and Kualalumpur and 2 more. Often billed alongside Meliha, Alam and Obadius. Next up: Pisco Bar, Kualalumpur on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Kuma is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 Meliha, Alam, Obadius
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*

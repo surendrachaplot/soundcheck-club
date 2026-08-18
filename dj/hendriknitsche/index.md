@@ -1,6 +1,6 @@
 # Hendrik Nitsche
 
-Hendrik Nitsche is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
+Hendrik Nitsche is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
 
 Hendrik Nitsche is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Dr. Spree, Dshanna and Gray Contrast. Next up: OXI, Berlin on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Hendrik Nitsche is a techno artist based in Germany, tracked on soundcheck, with
 
 Dr. Spree, Dshanna, Gray Contrast
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendriknitsche/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendriknitsche/)*

@@ -1,6 +1,6 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MCF" on Tue, 18 Aug 2026.
+DeTour is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MCF" on Tue, 18 Aug 2026.
 
 DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 204 (1), ASIN, BEPPU and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
@@ -23,4 +23,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with 
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

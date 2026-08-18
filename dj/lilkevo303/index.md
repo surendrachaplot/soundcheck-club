@@ -1,6 +1,6 @@
 # Lil Kevo 303
 
-Lil Kevo 303 is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
+Lil Kevo 303 is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
 
 Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Boston and Budapest and 13 more. Often billed alongside Hitori Tori, 99jakes and RiDylan. Next up: The Burlington, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lil Kevo 303 is a breakcore and hardcore artist based in United States of Americ
 
 Hitori Tori, 99jakes, RiDylan
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*

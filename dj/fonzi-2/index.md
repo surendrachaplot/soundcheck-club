@@ -1,6 +1,6 @@
 # Fonzi (2)
 
-Fonzi (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lux Fragil, Lisbon on Thu, 20 Aug 2026.
+Fonzi (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lux Fragil, Lisbon on Thu, 20 Aug 2026.
 
 Fonzi (2) is a house and techno artist tracked on soundcheck, with 26 sets logged across Lisbon and Porto. Often billed alongside Nibius, Pitcho and Kaesar. Next up: Lux Fragil, Lisbon on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Fonzi (2) is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 Nibius, Pitcho, Kaesar
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*

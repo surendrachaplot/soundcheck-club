@@ -1,6 +1,6 @@
 # Raphael Kosmos
 
-Raphael Kosmos is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
+Raphael Kosmos is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
 
 Raphael Kosmos is a techno and electro artist tracked on soundcheck, with 91 sets logged across Belgrade, Berlin, Brussels and Prague. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: arkaoda Berlin, Berlin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Raphael Kosmos is a techno and electro artist tracked on soundcheck, with 91 set
 
 Olinstvi, Manntracs, Midirama
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*

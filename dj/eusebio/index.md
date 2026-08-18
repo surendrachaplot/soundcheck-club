@@ -1,6 +1,6 @@
 # Eusebio
 
-Eusebio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 20 Aug 2026.
+Eusebio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 20 Aug 2026.
 
 Eusebio is a house and techno artist tracked on soundcheck, with 2 sets logged across Washingtondc. Often billed alongside MAXIMILIANO (US) and Tony Backwards. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Eusebio is a house and techno artist tracked on soundcheck, with 2 sets logged a
 
 MAXIMILIANO (US), Tony Backwards
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eusebio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eusebio/)*

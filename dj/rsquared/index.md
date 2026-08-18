@@ -1,6 +1,6 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 25 Aug 2026.
+RSquared is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 25 Aug 2026.
 
 RSquared is a tech house and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Hï Ibiza, Ibiza on Tue 25 Aug.
 
@@ -27,4 +27,4 @@ RSquared is a tech house and house artist tracked on soundcheck, with 53 sets lo
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

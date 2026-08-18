@@ -1,6 +1,6 @@
 # SAMBA7
 
-SAMBA7 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
+SAMBA7 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
 
 SAMBA7 is a trance and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside Meyhartt, VLUNA and CAVVØ. Next up: elipamanoke, Leipzig on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ SAMBA7 is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Meyhartt, VLUNA, CAVVØ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*

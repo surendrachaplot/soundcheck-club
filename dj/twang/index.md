@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Twang is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Twang is a techno and club artist tracked on soundcheck, with 37 sets logged across Athens, Leipzig, London and Madrid. Often billed alongside TEDESCO, THEMPRESS and ASHTREY. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Twang is a techno and club artist tracked on soundcheck, with 37 sets logged acr
 
 TEDESCO, THEMPRESS, ASHTREY
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

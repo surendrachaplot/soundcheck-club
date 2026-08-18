@@ -1,6 +1,6 @@
 # Tortoise
 
-Tortoise is a Experimental and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tortoise is a Experimental and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Tortoise is an experimental and jazz artist tracked on soundcheck, with 5 sets logged across Barcelona, Losangeles, Thehague and Tokyo and 1 more. Often billed alongside Chinnamasta, Eiko Ishibashi and KMRU. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Tortoise is an experimental and jazz artist tracked on soundcheck, with 5 sets l
 
 Chinnamasta, Eiko Ishibashi, KMRU
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tortoise/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tortoise/)*

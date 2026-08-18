@@ -1,6 +1,6 @@
 # Arao
 
-Arao is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at White Space Lab, Tokyo on Sat, 29 Aug 2026.
+Arao is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at White Space Lab, Tokyo on Sat, 29 Aug 2026.
 
 Arao is a techno and house artist tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Monna Lisa, Bundo and 35DH-1. Next up: White Space Lab, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Arao is a techno and house artist tracked on soundcheck, with 60 sets logged acr
 
 Monna Lisa, Bundo, 35DH-1
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arao/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arao/)*

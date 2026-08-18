@@ -1,6 +1,6 @@
 # Milo Spykers
 
-Milo Spykers is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+Milo Spykers is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
 
 Milo Spykers is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Amelie Lens, Ahl Iver and Farrago. Next up: Garage Klub, Antwerp on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Milo Spykers is a techno and trance artist tracked on soundcheck, with 56 sets l
 
 Amelie Lens, Ahl Iver, Farrago
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milospykers/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milospykers/)*

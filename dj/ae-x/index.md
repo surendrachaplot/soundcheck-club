@@ -1,6 +1,6 @@
 # Æ-X
 
-Æ-X is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
+Æ-X is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
 
 Æ-X is a house and tech house artist based in Romania, tracked on soundcheck, with 22 sets logged across Munich, Valencia and Vienna. Often billed alongside -LaLa-, Flœr and Alice (AT). Next up: Legal, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@
 
 -LaLa-, Flœr, Alice (AT)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ae-x/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ae-x/)*

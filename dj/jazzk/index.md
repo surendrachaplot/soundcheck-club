@@ -1,6 +1,6 @@
 # Jazz K
 
-Jazz K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 20 Aug 2026.
+Jazz K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 20 Aug 2026.
 
 Jazz K is a techno and house artist tracked on soundcheck, with 127 sets logged across Barcelona. Often billed alongside LUXX, NIIXII and ERRANT. Next up: Dr. Dou Social Club, Barcelona on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Jazz K is a techno and house artist tracked on soundcheck, with 127 sets logged 
 
 LUXX, NIIXII, ERRANT
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*

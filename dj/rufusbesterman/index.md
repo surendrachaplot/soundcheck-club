@@ -1,6 +1,6 @@
 # Rufus Besterman
 
-Rufus Besterman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Rufus Besterman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Rufus Besterman is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Alessandro Miranda, Discolypso Crew and Dombrance. Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Rufus Besterman is a house and disco artist based in United Kingdom, tracked on 
 
 Alessandro Miranda, Discolypso Crew, Dombrance
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusbesterman/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusbesterman/)*

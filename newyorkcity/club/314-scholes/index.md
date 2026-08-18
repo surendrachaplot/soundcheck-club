@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Dopplereffekt/DJ Stingray 313" on Fri, 21 Aug 2026.
+314 Scholes is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Dopplereffekt/DJ Stingray 313" on Fri, 21 Aug 2026.
 
 314 Scholes is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Bookworms, DJ Pierre, Dj Sliink and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -22,4 +22,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

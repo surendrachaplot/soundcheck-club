@@ -1,6 +1,6 @@
 # or
 
-or is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "XTRA GALACTIC" on Sat, 22 Aug 2026.
+or is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "XTRA GALACTIC" on Sat, 22 Aug 2026.
 
 or is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Gewnky and Yamariki. Browse upcoming dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -15,4 +15,4 @@ or is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

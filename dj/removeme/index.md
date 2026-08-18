@@ -1,6 +1,6 @@
 # Remove Me
 
-Remove Me is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
+Remove Me is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
 
 Remove Me is an electronic artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, London and Madrid and 1 more. Often billed alongside Carl H, Vass and DJ Masda. Next up: Colour Factory, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Remove Me is an electronic artist tracked on soundcheck, with 18 sets logged acr
 
 Carl H, Vass, DJ Masda
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*

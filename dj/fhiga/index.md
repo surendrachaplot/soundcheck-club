@@ -1,6 +1,6 @@
 # Fhiga
 
-Fhiga is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sala Roka, Malaga on Sat, 22 Aug 2026.
+Fhiga is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sala Roka, Malaga on Sat, 22 Aug 2026.
 
 Fhiga is a techno and acid artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Budapest, Madrid and Malaga and 1 more. Often billed alongside GNRØ, PÜCH and CLANDESTINE (2). Next up: Sala Roka, Malaga on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fhiga is a techno and acid artist based in Spain, tracked on soundcheck, with 22
 
 GNRØ, PÜCH, CLANDESTINE (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fhiga/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fhiga/)*

@@ -1,6 +1,6 @@
 # The Flair
 
-The Flair is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 28 Aug 2026.
+The Flair is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 28 Aug 2026.
 
 The Flair is a house and disco artist tracked on soundcheck, with 14 sets logged across Berlin, Losangeles and Newyorkcity. Often billed alongside Dani Ramos, Discolypso Crew and Kenia. Next up: Dead Letter No. 9, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ The Flair is a house and disco artist tracked on soundcheck, with 14 sets logged
 
 Dani Ramos, Discolypso Crew, Kenia
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*

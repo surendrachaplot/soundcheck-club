@@ -1,6 +1,6 @@
 # Robert Aiki Aubrey Lowe
 
-Robert Aiki Aubrey Lowe is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Robert Aiki Aubrey Lowe is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Robert Aiki Aubrey Lowe is an electronica and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles, Newyorkcity, Philadelphia and Sydney. Often billed alongside 1morning, Introspekt and Nídia. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Robert Aiki Aubrey Lowe is an electronica and techno artist based in United Stat
 
 1morning, Introspekt, Nídia
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertaikiaubreylowe/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertaikiaubreylowe/)*

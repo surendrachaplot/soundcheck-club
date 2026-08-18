@@ -1,8 +1,8 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Knockdown Center, New York City on Fri, 21 Aug 2026.
+SG Lewis is a House and Electronica artist with 13 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Knockdown Center, New York City on Fri, 21 Aug 2026.
 
-SG Lewis is a house and electronica artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Knockdown Center, Newyorkcity on Fri 21 Aug.
+SG Lewis is a house and electronica artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Knockdown Center, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 85 sets l
 | Fri, 21 Aug 2026 | Knockdown Center | New York City |
 | Sat, 22 Aug 2026 | Knockdown Center | New York City |
 | Sat, 22 Aug 2026 | Elsewhere | New York City |
+| Sat, 22 Aug 2026 | FS. | Tokyo |
+| Sat, 22 Aug 2026 | FS. | Tokyo |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Sat, 12 Sept 2026 | Hï Ibiza | Ibiza |
@@ -18,7 +20,6 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 85 sets l
 | Sat, 19 Sept 2026 | Index | Dublin |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 85 sets l
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

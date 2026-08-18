@@ -1,6 +1,6 @@
 # FLEX.cat
 
-FLEX.cat is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Studio Stereo, Barcelona on Fri, 4 Sept 2026.
+FLEX.cat is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Studio Stereo, Barcelona on Fri, 4 Sept 2026.
 
 FLEX.cat is a house and electro artist tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside J.Benitez (2), A. CASANOVA and _MARCBA. Next up: Studio Stereo, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ FLEX.cat is a house and electro artist tracked on soundcheck, with 34 sets logge
 
 J.Benitez (2), A. CASANOVA, _MARCBA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flex.cat/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flex.cat/)*

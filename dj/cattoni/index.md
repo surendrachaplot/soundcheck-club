@@ -1,6 +1,6 @@
 # Cattoni
 
-Cattoni is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 19 Aug 2026.
+Cattoni is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 19 Aug 2026.
 
 Cattoni is a techno and trance artist based in France, tracked on soundcheck, with 25 sets logged across Berlin, Lyon and Paris. Often billed alongside In-Tan, Kelbail and Artifak. Next up: La Gare / Le Gore, Paris on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Cattoni is a techno and trance artist based in France, tracked on soundcheck, wi
 
 In-Tan, Kelbail, Artifak
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*

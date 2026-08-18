@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 17 Aug 2026.
+Noxe Barcelona is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Moods at Noxe (26th floor W Barcelona)" on Tue, 18 Aug 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Drunk At Vogue, Gianmarco Limenta, GIVIO and Nesi and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Drunk At Vogue, Gianmarco Limenta, GIVIO and Nesi and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 18 Aug 2026 | Moods at Noxe (26th floor W Barcelona) | Drunk At Vogue, Vikki |
 | Wed, 19 Aug 2026 | Housy at Noxe (26th floor W Barcelona) | GIVIO, Sarah Andersson |
 | Thu, 20 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | Nesi, Pau Grima |
@@ -18,9 +17,10 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming n
 | Thu, 27 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | Gianmarco Limenta, Nesi |
 | Mon, 31 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Mon, 7 Sept 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
+| Mon, 14 Sept 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 
 ## Address
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

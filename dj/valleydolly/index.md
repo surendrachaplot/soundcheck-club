@@ -1,6 +1,6 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Valley Dolly is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
 Valley Dolly is a house and techno artist tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Lisbon and Munich and 3 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Valley Dolly is a house and techno artist tracked on soundcheck, with 61 sets lo
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

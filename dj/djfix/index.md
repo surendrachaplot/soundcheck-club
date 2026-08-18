@@ -1,6 +1,6 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+djfix is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 djfix is a techno and tech house artist tracked on soundcheck, with 26 sets logged across Berlin, Copenhagen, Dublin and London and 8 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ djfix is a techno and tech house artist tracked on soundcheck, with 26 sets logg
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

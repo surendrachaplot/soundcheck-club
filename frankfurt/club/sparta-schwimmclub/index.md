@@ -1,6 +1,6 @@
 # Sparta Schwimmclub
 
-Sparta Schwimmclub is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "OURS x 20Y KarotteS KITCHEN with The Hacker, Karotte, Luzie, Frau Laura" on Sat, 22 Aug 2026.
+Sparta Schwimmclub is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OURS x 20Y KarotteS KITCHEN with The Hacker, Karotte, Luzie, Frau Laura" on Sat, 22 Aug 2026.
 
 Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Frau Laura, Karotte, KiNK and Luzie and 2 more. Browse upcoming dates, start times and who's playing. Franziusstrasse 35 60314 Frankfurt.
 
@@ -15,4 +15,4 @@ Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 2 upcomin
 
 Franziusstrasse 35 60314 Frankfurt, Frankfurt
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*

@@ -1,6 +1,6 @@
 # Kingston
 
-Kingston is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - JOLOKO, Kuala Lumpur on Sat, 22 Aug 2026.
+Kingston is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - JOLOKO, Kuala Lumpur on Sat, 22 Aug 2026.
 
 Kingston is a house and disco artist tracked on soundcheck, with 14 sets logged across Kualalumpur. Often billed alongside Lionel Rizki, Li Yi and shtikman. Next up: TBA - JOLOKO, Kualalumpur on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kingston is a house and disco artist tracked on soundcheck, with 14 sets logged 
 
 Lionel Rizki, Li Yi, shtikman
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingston/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingston/)*

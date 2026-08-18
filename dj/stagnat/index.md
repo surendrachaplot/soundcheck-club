@@ -1,6 +1,6 @@
 # Stagnat
 
-Stagnat is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Stagnat is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Stagnat is a techno artist tracked on soundcheck, with 7 sets logged across Belgrade and Vienna. Often billed alongside Adriatica, Anemona and Angiko (2). Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Stagnat is a techno artist tracked on soundcheck, with 7 sets logged across Belg
 
 Adriatica, Anemona, Angiko (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*

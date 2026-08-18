@@ -1,6 +1,6 @@
 # Gianni Noel
 
-Gianni Noel is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+Gianni Noel is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
 
 Gianni Noel is a techno and psytrance artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Upzet, unknown.dnb and Antiquis Anima. Next up: Void Club, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Gianni Noel is a techno and psytrance artist tracked on soundcheck, with 7 sets 
 
 Upzet, unknown.dnb, Antiquis Anima
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianninoel/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianninoel/)*

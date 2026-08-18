@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Common Grwnd" on Wed, 19 Aug 2026.
+Maaya is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Common Grwnd" on Wed, 19 Aug 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AMBRA, auto_timer, CRYME and Curses and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -21,4 +21,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with l
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

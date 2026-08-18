@@ -1,6 +1,6 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
+Mozey is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
 Mozey is a drum & bass and jungle artist tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Birmingham and Boston and 27 more. Often billed alongside Kanine, Hybrid Minds and K Motionz. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 93 sets log
 
 Kanine, Hybrid Minds, K Motionz
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

@@ -1,6 +1,6 @@
 # FOI (SK)
 
-FOI (SK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
+FOI (SK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
 
 FOI (SK) is a house and minimal artist based in South Korea, tracked on soundcheck, with 58 sets logged across Seoul. Often billed alongside givogi, Jimin and Riskii (2). Next up: Stoked&stoned, Seoul on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ FOI (SK) is a house and minimal artist based in South Korea, tracked on soundche
 
 givogi, Jimin, Riskii (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*

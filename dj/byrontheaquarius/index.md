@@ -1,14 +1,15 @@
 # Byron The Aquarius
 
-Byron The Aquarius is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Firn, Seattle on Sat, 22 Aug 2026.
+Byron The Aquarius is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Firn, Seattle on Sat, 22 Aug 2026.
 
-Byron The Aquarius is a house and deep house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: Firn, Seattle on Sat 22 Aug.
+Byron The Aquarius is a house and deep house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: Firn, Seattle on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Firn | Seattle |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Byron The Aquarius is a house and deep house artist tracked on soundcheck, with 
 
 Kyle Hall, Carl Craig, Rimarkable
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*

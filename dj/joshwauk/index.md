@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Barbary, Philadelphia on Sat, 22 Aug 2026.
+Joshwa is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Barbary, Philadelphia on Sat, 22 Aug 2026.
 
 Joshwa is a tech house and house artist tracked on soundcheck, with 77 sets logged across Boston, Chicago, Copenhagen and Denver and 24 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: The Barbary, Philadelphia on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 77 sets logg
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

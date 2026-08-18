@@ -1,6 +1,6 @@
 # LINDS (NL)
 
-LINDS (NL) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
+LINDS (NL) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
 
 LINDS (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp and Berlin. Often billed alongside Linds, Cleric and Pink Concrete. Next up: RADION, Amsterdam on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ LINDS (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 
 
 Linds, Cleric, Pink Concrete
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*

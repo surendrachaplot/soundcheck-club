@@ -1,6 +1,6 @@
 # Valeby
 
-Valeby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Valeby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Valeby is a techno and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Cologne and Madrid. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Valeby is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Rozie, CHOREOPHILA, Multifun
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*

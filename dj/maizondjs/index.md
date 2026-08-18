@@ -1,6 +1,6 @@
 # Maizon DJs
 
-Maizon DJs is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fabwick, London on Sat, 26 Sept 2026.
+Maizon DJs is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fabwick, London on Sat, 26 Sept 2026.
 
 Maizon DJs is a deep house and afro house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Zaki, Clive From Accounts and Faro. Next up: Fabwick, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Maizon DJs is a deep house and afro house artist based in United Kingdom, tracke
 
 Zaki, Clive From Accounts, Faro
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maizondjs/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maizondjs/)*

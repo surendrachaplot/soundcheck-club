@@ -1,6 +1,6 @@
 # Ovid
 
-Ovid is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
+Ovid is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
 
 Ovid is a techno and bass artist tracked on soundcheck, with 29 sets logged across Dublin, Miami, Newyorkcity and Osaka and 5 more. Often billed alongside Janus Rose, Benbo and DJ DEADNAME. Next up: Mood Ring, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ovid is a techno and bass artist tracked on soundcheck, with 29 sets logged acro
 
 Janus Rose, Benbo, DJ DEADNAME
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovid/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovid/)*

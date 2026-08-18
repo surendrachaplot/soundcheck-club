@@ -1,14 +1,15 @@
 # Ben Zo
 
-Ben Zo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
+Ben Zo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
 
-Ben Zo is a techno and house artist based in Philippines, tracked on soundcheck, with 139 sets logged across Cologne, Dundee, Ghent and Leipzig and 3 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: The Gutter, Newyorkcity on Sat 29 Aug.
+Ben Zo is a techno and house artist based in Philippines, tracked on soundcheck, with 140 sets logged across Cologne, Dundee, Ghent and Leipzig and 3 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: The Gutter, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Gutter | New York City |
+| Sun, 6 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ben Zo is a techno and house artist based in Philippines, tracked on soundcheck,
 
 cruz ctrl, STEEN, David Lunch
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*

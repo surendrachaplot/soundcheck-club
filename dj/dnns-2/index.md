@@ -1,6 +1,6 @@
 # DNNS
 
-DNNS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Comfort Zone, Toronto on Fri, 28 Aug 2026.
+DNNS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Comfort Zone, Toronto on Fri, 28 Aug 2026.
 
 DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside Zorza, NTBR and AA/XX. Next up: The Comfort Zone, Toronto on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, wi
 
 Zorza, NTBR, AA/XX
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*

@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Amniote Editions" on Fri, 21 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Amniote Editions" on Fri, 21 Aug 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming nights, with line-ups including Adam Eisert, Alexander Santana, Anders HP and Anton Goltermann and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -22,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

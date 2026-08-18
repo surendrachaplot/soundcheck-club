@@ -1,6 +1,6 @@
 # Shabi
 
-Shabi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
+Shabi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
 
 Shabi is a house and disco artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Javier Anxiety, Luca Olivotto and Nephews. Next up: Bulbul Berlin, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Shabi is a house and disco artist based in Germany, tracked on soundcheck, with 
 
 Javier Anxiety, Luca Olivotto, Nephews
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi/)*

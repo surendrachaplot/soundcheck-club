@@ -1,6 +1,6 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Lakota, Bristol on Sun, 6 Sept 2026.
+Milly on Air is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lakota, Bristol on Sun, 6 Sept 2026.
 
 Milly on Air is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and Eats Everything. Next up: Lakota, Bristol on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Milly on Air is a house and techno artist tracked on soundcheck, with 71 sets lo
 
 Gallegos, J.Rains, Eats Everything
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

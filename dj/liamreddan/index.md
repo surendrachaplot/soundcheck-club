@@ -1,6 +1,6 @@
 # Liam Reddan
 
-Liam Reddan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
+Liam Reddan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
 
 Liam Reddan is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Vinz Sosa, Ateş Sönmez and Banglasesh. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Liam Reddan is a house and techno artist tracked on soundcheck, with 9 sets logg
 
 Vinz Sosa, Ateş Sönmez, Banglasesh
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*

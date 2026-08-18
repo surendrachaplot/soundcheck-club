@@ -1,6 +1,6 @@
 # Laurine
 
-Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Night Tales, London on Fri, 21 Aug 2026.
+Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Night Tales, London on Fri, 21 Aug 2026.
 
 Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Night Tales, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged
 
 Cecilio, S.Moreira, Jorge Escribano
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*

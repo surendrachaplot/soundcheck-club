@@ -1,6 +1,6 @@
 # Bakläxa
 
-Bakläxa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Bakläxa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
 Bakläxa is a techno and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Bristol, Hamburg and London. Often billed alongside Aaronovsky, Janosch (2) and pbl.fyi. Next up: Renate, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bakläxa is a techno and house artist based in United Kingdom, tracked on soundc
 
 Aaronovsky, Janosch (2), pbl.fyi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baklaxa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baklaxa/)*

@@ -1,6 +1,6 @@
 # Pineal Navigation
 
-Pineal Navigation is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
+Pineal Navigation is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
 
 Pineal Navigation is a techno and house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Dublin. Often billed alongside Accomplice, Prøwl and Alienata. Next up: Pawn Shop, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pineal Navigation is a techno and house artist based in Ireland, tracked on soun
 
 Accomplice, Prøwl, Alienata
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinealnavigation/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinealnavigation/)*

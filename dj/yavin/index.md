@@ -1,6 +1,6 @@
 # Yavin
 
-Yavin is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
+Yavin is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
 
 Yavin is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin, Hamburg and Seoul. Often billed alongside Bonjour Ben, Daniel Czerner and Alma Linda. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Yavin is an electronic artist based in Germany, tracked on soundcheck, with 3 se
 
 Bonjour Ben, Daniel Czerner, Alma Linda
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yavin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yavin/)*

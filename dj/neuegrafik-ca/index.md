@@ -1,6 +1,6 @@
 # Neue Grafik
 
-Neue Grafik is a Jazz and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+Neue Grafik is a Jazz and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 Neue Grafik is a jazz and electronica artist tracked on soundcheck, with 17 sets logged across Amsterdam, Cologne, Dusseldorf and London and 2 more. Often billed alongside limi, DJ Programma and Entek. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Neue Grafik is a jazz and electronica artist tracked on soundcheck, with 17 sets
 
 limi, DJ Programma, Entek
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*

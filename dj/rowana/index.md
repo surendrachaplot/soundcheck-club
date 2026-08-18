@@ -1,6 +1,6 @@
 # ROWANA
 
-ROWANA is a Trance and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
+ROWANA is a Trance and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sawmills, Bristol on Fri, 21 Aug 2026.
 
 ROWANA is a trance and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol. Often billed alongside Neil And I, Emma Rose and BBY GOOSE. Next up: Sawmills, Bristol on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ ROWANA is a trance and garage artist based in United Kingdom, tracked on soundch
 
 Neil And I, Emma Rose, BBY GOOSE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*

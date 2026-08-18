@@ -1,6 +1,6 @@
 # Diveo
 
-Diveo is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
+Diveo is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
 
 Diveo is a club artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside THELIMITDOESNOTEXIST, ASTER (DJ) and Ah-Mer-Ah-Su. Next up: Mood Ring, Newyorkcity on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Diveo is a club artist tracked on soundcheck, with 3 sets logged across Newyorkc
 
 THELIMITDOESNOTEXIST, ASTER (DJ), Ah-Mer-Ah-Su
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diveo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diveo/)*

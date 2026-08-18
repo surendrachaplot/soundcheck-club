@@ -1,6 +1,6 @@
 # Simmons Old Street
 
-Simmons Old Street is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Hip Hop Halloween" on Sat, 31 Oct 2026.
+Simmons Old Street is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Hip Hop Halloween" on Sat, 31 Oct 2026.
 
 Simmons Old Street is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Simmons Old Street is a music venue in London listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hip Hop Halloween |  |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/simmons-old-street/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/simmons-old-street/)*

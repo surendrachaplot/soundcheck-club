@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Room pres.: MYKI (Tofistock, DE)" on Wed, 19 Aug 2026.
+Rūmu is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Room pres.: MYKI (Tofistock, DE)" on Wed, 19 Aug 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Bernardo Vaz, Kristina (2) and MYKI. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

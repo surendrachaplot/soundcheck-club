@@ -1,6 +1,6 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Chalet Nonna Carmela, Naples on Thu, 20 Aug 2026.
+Riva Starr is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Chalet Nonna Carmela, Naples on Thu, 20 Aug 2026.
 
 Riva Starr is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Chalet Nonna Carmela, Naples on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 77 sets 
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

@@ -1,6 +1,6 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bambi's, Toronto on Fri, 28 Aug 2026.
+J. Richards is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bambi's, Toronto on Fri, 28 Aug 2026.
 
 J. Richards is a house and techno artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 8 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: Bambi's, Toronto on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ J. Richards is a house and techno artist based in United States of America, trac
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

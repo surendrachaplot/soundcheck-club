@@ -1,6 +1,6 @@
 # Jazzheadchronic
 
-Jazzheadchronic is a Funk / Soul and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Fox and Firkin, London on Sat, 29 Aug 2026.
+Jazzheadchronic is a Funk / Soul and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Fox and Firkin, London on Sat, 29 Aug 2026.
 
 Jazzheadchronic is a funk / soul and hip-hop artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London. Often billed alongside Nick Halkes, DJ Keith Lawrence and Aitch B. Next up: The Fox and Firkin, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jazzheadchronic is a funk / soul and hip-hop artist based in United Kingdom, tra
 
 Nick Halkes, DJ Keith Lawrence, Aitch B
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzheadchronic/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzheadchronic/)*

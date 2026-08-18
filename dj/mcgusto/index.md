@@ -1,6 +1,6 @@
 # MC Gusto
 
-MC Gusto is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Distillery N17, London on Fri, 28 Aug 2026.
+MC Gusto is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Distillery N17, London on Fri, 28 Aug 2026.
 
 MC Gusto is a drum & bass and jungle artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brighton, Bristol and Denver and 8 more. Often billed alongside DLR, Minor Forms and Kublai. Next up: Distillery N17, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ MC Gusto is a drum & bass and jungle artist tracked on soundcheck, with 30 sets 
 
 DLR, Minor Forms, Kublai
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*

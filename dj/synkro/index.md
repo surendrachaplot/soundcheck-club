@@ -1,6 +1,6 @@
 # Synkro
 
-Synkro is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bar Shrimp, Manchester on Thu, 20 Aug 2026.
+Synkro is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Shrimp, Manchester on Thu, 20 Aug 2026.
 
 Synkro is a drum & bass and bass artist tracked on soundcheck, with 29 sets logged across Antwerp, Berlin, Brighton and Bristol and 5 more. Often billed alongside Bop, WDDS and Jim Bane. Next up: Bar Shrimp, Manchester on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Synkro is a drum & bass and bass artist tracked on soundcheck, with 29 sets logg
 
 Bop, WDDS, Jim Bane
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*

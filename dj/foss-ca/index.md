@@ -1,6 +1,6 @@
 # FØSS
 
-FØSS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
+FØSS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
 
 FØSS is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Antwerp, Berlin, Brussels and Cologne and 8 more. Often billed alongside Fenrick, B2 (1) and DURDENHAUER. Next up: Mia Mao, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FØSS is a techno and hardcore artist tracked on soundcheck, with 38 sets logged
 
 Fenrick, B2 (1), DURDENHAUER
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*

@@ -1,6 +1,6 @@
 # NEKODAIKEYLAI
 
-NEKODAIKEYLAI is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at White Space Lab, Tokyo on Thu, 20 Aug 2026.
+NEKODAIKEYLAI is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at White Space Lab, Tokyo on Thu, 20 Aug 2026.
 
 NEKODAIKEYLAI is a techno artist tracked on soundcheck, with 2 sets logged across Tokyo. Next up: White Space Lab, Tokyo on Thu 20 Aug.
 
@@ -14,4 +14,4 @@ NEKODAIKEYLAI is a techno artist tracked on soundcheck, with 2 sets logged acros
 
 - White Space Lab, Tokyo — Sat, 4 Jul 2026
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekodaikeylai/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekodaikeylai/)*

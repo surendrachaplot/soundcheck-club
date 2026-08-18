@@ -1,6 +1,6 @@
 # Erik Jabari
 
-Erik Jabari is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
+Erik Jabari is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
 
 Erik Jabari is an electronic artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Krakow and London and 1 more. Often billed alongside DJ Pete, Moritz von Oswald and Skee Mask. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Erik Jabari is an electronic artist based in Germany, tracked on soundcheck, wit
 
 DJ Pete, Moritz von Oswald, Skee Mask
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjabari/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjabari/)*

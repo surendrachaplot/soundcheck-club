@@ -1,6 +1,6 @@
 # SF Fudge
 
-SF Fudge is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
+SF Fudge is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
 
 SF Fudge is a techno and dub techno artist tracked on soundcheck, with 8 sets logged across Brisbane. Often billed alongside Public Nuisance, Alan Fitzpatrick and BLADEXC. Next up: The Prince Consort, Brisbane on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ SF Fudge is a techno and dub techno artist tracked on soundcheck, with 8 sets lo
 
 Public Nuisance, Alan Fitzpatrick, BLADEXC
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sffudge/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sffudge/)*

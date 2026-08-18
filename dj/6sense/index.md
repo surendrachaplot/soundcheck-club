@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
+6 SENSE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
 
 6 SENSE is a techno and house artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 11 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: Mondo, Madrid on Sat 22 Aug.
 
@@ -30,4 +30,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

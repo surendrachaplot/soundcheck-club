@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "MONKEY LOVE pres. MEDUZA" on Fri, 21 Aug 2026.
+MONKEY LOVE is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MONKEY LOVE pres. MEDUZA" on Fri, 21 Aug 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Franczesko, Fedo (UA), Gaamer and Jellin and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -19,4 +19,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, 
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

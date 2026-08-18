@@ -1,6 +1,6 @@
 # Dogshow
 
-Dogshow is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground, London on Fri, 2 Oct 2026.
+Dogshow is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Village Underground, London on Fri, 2 Oct 2026.
 
 Dogshow is a house and disco artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Liverpool and London and 1 more. Often billed alongside HENGE, ASAP RICKY and Alien Izz. Next up: Village Underground, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dogshow is a house and disco artist based in United Kingdom, tracked on soundche
 
 HENGE, ASAP RICKY, Alien Izz
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dogshow/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dogshow/)*

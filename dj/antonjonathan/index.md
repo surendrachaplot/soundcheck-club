@@ -1,6 +1,6 @@
 # Anton Jonathan
 
-Anton Jonathan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Anton Jonathan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Anton Jonathan is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and DJ SOURCE. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Anton Jonathan is a house and techno artist based in Germany, tracked on soundch
 
 EliaHaze, DJ Babyblade, DJ SOURCE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*

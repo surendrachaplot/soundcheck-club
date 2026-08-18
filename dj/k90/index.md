@@ -1,8 +1,8 @@
 # K90
 
-K90 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
+K90 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
 
-K90 is a techno and trance artist tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Madwave and Indecent Noise. Next up: WaV, Liverpool on Sat 22 Aug.
+K90 is a trance and techno artist tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Indecent Noise and Madwave. Next up: WaV, Liverpool on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ K90 is a techno and trance artist tracked on soundcheck, with 1 set logged acros
 
 ## Shares bills with
 
-Madwave, Indecent Noise
+Indecent Noise, Madwave
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k90/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k90/)*

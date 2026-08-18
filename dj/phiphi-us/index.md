@@ -1,13 +1,14 @@
 # phiphi
 
-phiphi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
+phiphi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lion's Den, Miami on Sat, 22 Aug 2026.
 
-phiphi is a house and techno artist tracked on soundcheck, with 24 sets logged across Miami and Newyorkcity. Often billed alongside Marie Qrie, Milo Ziro and Alexx in Chainss. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 30 Aug.
+phiphi is a house and techno artist tracked on soundcheck, with 25 sets logged across Miami and Newyorkcity. Often billed alongside Marie Qrie, Milo Ziro and Alexx in Chainss. Next up: Lion's Den, Miami on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Lion's Den | Miami |
 | Sun, 30 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ phiphi is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 Marie Qrie, Milo Ziro, Alexx in Chainss
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi-us/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi-us/)*

@@ -1,13 +1,14 @@
 # Kobashi Mitsuki
 
-Kobashi Mitsuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at THE HAPPY mAN CHEAKS, Tokyo on Fri, 21 Aug 2026.
+Kobashi Mitsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Oath, Tokyo on Tue, 18 Aug 2026.
 
-Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundcheck, with 79 sets logged across Osaka and Tokyo. Often billed alongside Terax, niwa and lostbaggage. Next up: THE HAPPY mAN CHEAKS, Tokyo on Fri 21 Aug.
+Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundcheck, with 80 sets logged across Osaka and Tokyo. Often billed alongside Terax, niwa and lostbaggage. Next up: Oath, Tokyo on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 18 Aug 2026 | Oath | Tokyo |
 | Fri, 21 Aug 2026 | THE HAPPY mAN CHEAKS | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundche
 
 Terax, niwa, lostbaggage
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*

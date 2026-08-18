@@ -1,6 +1,6 @@
 # NoXa
 
-NoXa is a Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+NoXa is a Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 NoXa is a gabber artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Cologne. Often billed alongside Pavo, Ruffian and The Darkraver. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NoXa is a gabber artist based in Netherlands, tracked on soundcheck, with 10 set
 
 Pavo, Ruffian, The Darkraver
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxa/)*

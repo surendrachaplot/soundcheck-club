@@ -1,6 +1,6 @@
 # berlioz
 
-berlioz is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Collins Barracks, Dublin on Fri, 28 Aug 2026.
+berlioz is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Collins Barracks, Dublin on Fri, 28 Aug 2026.
 
 berlioz is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Brussels and Dublin and 10 more. Often billed alongside Anetha, Aroop Roy and Ben Böhmer. Next up: TBA - Collins Barracks, Dublin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ berlioz is a house and jazz artist based in United Kingdom, tracked on soundchec
 
 Anetha, Aroop Roy, Ben Böhmer
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*

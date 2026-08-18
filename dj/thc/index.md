@@ -1,6 +1,6 @@
 # THC
 
-THC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+THC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 THC is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ THC is a house and techno artist tracked on soundcheck, with 199 sets logged acr
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

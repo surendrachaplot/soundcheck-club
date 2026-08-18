@@ -1,6 +1,6 @@
-# Rusty Bar: PRe-Drink at Rusty Bar
+# Rusty Bar: Pre-Drink at Rusty Bar
 
-Rusty Bar: PRe-Drink on Fri 28 Aug, Malta. 1 act on the bill: Praag. House. Preview the line-up and save it on soundcheck.
+Rusty Bar: Pre-Drink on Fri 28 Aug, Malta. 1 act on the bill: Praag. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

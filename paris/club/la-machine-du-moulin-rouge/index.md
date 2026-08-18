@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Flash Cocotte" on Sat, 29 Aug 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Flash Cocotte" on Sat, 29 Aug 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including ADAM MUNNINGS, Chippy Nonstop, Gigi L'Amour and Kandelissa and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -16,4 +16,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 3 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

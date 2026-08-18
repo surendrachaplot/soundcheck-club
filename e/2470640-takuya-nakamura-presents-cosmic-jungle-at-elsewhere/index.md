@@ -1,6 +1,6 @@
 # Takuya Nakamura presents: Cosmic Jungle at Elsewhere
 
-Takuya Nakamura presents: Cosmic Jungle at Elsewhere on Fri 25 Sept, Newyorkcity. 1 act on the bill: Takuya Nakamura. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura presents: Cosmic Jungle at Elsewhere on Fri 25 Sept, Newyorkcity. 8 acts on the bill: Aanandi, amita, Bereket and J. Albert and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,13 @@ Takuya Nakamura presents: Cosmic Jungle at Elsewhere on Fri 25 Sept, Newyorkcity
 
 ## Line-up
 
+- Aanandi
+- amita
+- Bereket
+- J. Albert
+- NIGELTHREETIMES
+- RAMZi
+- RP Boo
 - Takuya Nakamura
 
 *Source: [soundcheck](https://soundcheck.club/e/2470640-takuya-nakamura-presents-cosmic-jungle-at-elsewhere/)*

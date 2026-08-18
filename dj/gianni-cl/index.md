@@ -1,13 +1,14 @@
 # Gianni
 
-Gianni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Gianni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
-Gianni is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 10 more. Often billed alongside Lou Combo, Childplay and DJ Palga. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
+Gianni is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 10 more. Often billed alongside Lou Combo, Childplay and DJ Palga. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Frankhan Selectist | Istanbul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gianni is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 Lou Combo, Childplay, DJ Palga
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-cl/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-cl/)*

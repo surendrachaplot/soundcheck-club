@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "La Rvfleuze - Showcase" on Tue, 18 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "La Rvfleuze - Showcase" on Tue, 18 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Bora Uzer, CJ Jeff, Corcuera and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -21,4 +21,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

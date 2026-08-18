@@ -1,6 +1,6 @@
 # Broken boy
 
-Broken boy is a Tech House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
+Broken boy is a Tech House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
 
 Broken boy is a tech house and electro artist based in Ukraine, tracked on soundcheck, with 12 sets logged across Bangkok and Valencia. Often billed alongside Toxin, Svarn and Bodio. Next up: Resume Valencia, Valencia on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Broken boy is a tech house and electro artist based in Ukraine, tracked on sound
 
 Toxin, Svarn, Bodio
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenboy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenboy/)*

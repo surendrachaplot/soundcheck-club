@@ -1,6 +1,6 @@
 # XANDY
 
-XANDY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+XANDY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
 XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged across Birmingham, London, Manchester and Riga and 1 more. Often billed alongside INLIMEN, Aeden (1) and Eudoxie. Next up: Sui Generis, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 INLIMEN, Aeden (1), Eudoxie
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*

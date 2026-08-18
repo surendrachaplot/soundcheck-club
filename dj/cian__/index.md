@@ -1,6 +1,6 @@
 # CIAN__
 
-CIAN__ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
+CIAN__ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
 
 CIAN__ is a techno and house artist tracked on soundcheck, with 18 sets logged across Belfast. Often billed alongside Sophie (2), Body Clinic and IndeniaL. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ CIAN__ is a techno and house artist tracked on soundcheck, with 18 sets logged a
 
 Sophie (2), Body Clinic, IndeniaL
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cian__/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cian__/)*

@@ -1,6 +1,6 @@
 # Synoxis
 
-Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
 Synoxis is a drum & bass and bass artist tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside 1991, Ampe and Asian Sal. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Synoxis is a drum & bass and bass artist tracked on soundcheck, with 17 sets log
 
 1991, Ampe, Asian Sal
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*

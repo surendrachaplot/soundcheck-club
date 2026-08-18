@@ -1,8 +1,8 @@
 # SHUNTA
 
-SHUNTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
+SHUNTA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The DBA, Manchester on Fri, 21 Aug 2026.
 
-SHUNTA is a techno and house artist tracked on soundcheck, with 13 sets logged across Kyoto, London, Manchester and Tokyo. Often billed alongside KeepKeep, AMiiNA and Danny Roach. Next up: The DBA, Manchester on Fri 21 Aug.
+SHUNTA is a techno and bass artist tracked on soundcheck, with 13 sets logged across Kyoto, London, Manchester and Tokyo. Often billed alongside KeepKeep, AMiiNA and Danny Roach. Next up: The DBA, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SHUNTA is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 KeepKeep, AMiiNA, Danny Roach
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shunta/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shunta/)*

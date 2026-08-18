@@ -1,6 +1,6 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Yanamaste is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 217 sets logg
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

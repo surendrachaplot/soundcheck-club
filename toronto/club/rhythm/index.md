@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Long Play: James Blake and Post-Dubstep" on Tue, 18 Aug 2026.
+Rhythm is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Long Play: James Blake and Post-Dubstep" on Tue, 18 Aug 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including Amália Leandro, Art Behaviour, Bellini Baby and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming nights, wit
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

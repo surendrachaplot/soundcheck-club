@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
+Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 Winson is a techno and deep house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Amnesia Ibiza, Ibiza on Mon 17 Aug.
 
@@ -23,6 +23,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 70 sets log
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 - UNO MALTA, Malta — Fri, 31 Jul 2026
 - Eden, Ibiza — Tue, 21 Jul 2026
 - Arzenal, Budapest — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Winson is a techno and deep house artist tracked on soundcheck, with 70 sets log
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 - Halle 622, Zurich — Sat, 4 Apr 2026
 - IFEMA, Madrid — Fri, 27 Mar 2026
-- E1, London — Fri, 27 Mar 2026
 
 ## Shares bills with
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

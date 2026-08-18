@@ -1,6 +1,6 @@
 # bîllî
 
-bîllî is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
+bîllî is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
 
 bîllî is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Elle Dee, HNDRNC and Jacq Jill. Next up: TBA - Brooklyn Open Air, Newyorkcity on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ bîllî is a techno and house artist based in United States of America, tracked 
 
 Elle Dee, HNDRNC, Jacq Jill
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billi-us/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billi-us/)*

@@ -1,6 +1,6 @@
 # M. Freelance
 
-M. Freelance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Specka, Madrid on Fri, 16 Oct 2026.
+M. Freelance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Specka, Madrid on Fri, 16 Oct 2026.
 
 M. Freelance is a techno and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Brody (2), AlesaDJ and Augusto Taito. Next up: Specka, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ M. Freelance is a techno and house artist based in Spain, tracked on soundcheck,
 
 Brody (2), AlesaDJ, Augusto Taito
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*

@@ -1,6 +1,6 @@
 # Greg G
 
-Greg G is a Psytrance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 24 Oct 2026.
+Greg G is a Psytrance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 24 Oct 2026.
 
 Greg G is a psytrance and hip-hop artist based in United States of America, tracked on soundcheck, with 2 sets logged across Losangeles and Zurich. Often billed alongside Shanto. Next up: Zinkbad Eventhalle, Zurich on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Greg G is a psytrance and hip-hop artist based in United States of America, trac
 
 Shanto
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregg/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregg/)*

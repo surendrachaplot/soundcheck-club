@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Rave From Hometown - Amapiano, Chinese Dance, Latin Tech, Thai 3 Cha (FREE ENTRY)" on Thu, 20 Aug 2026.
+Club Makossa is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rave From Hometown - Amapiano, Chinese Dance, Latin Tech, Thai 3 Cha (FREE ENTRY)" on Thu, 20 Aug 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, Anna Kiss and Aruna and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -21,4 +21,4 @@ Club Makossa is a music venue in London listed on soundcheck. 8 upcoming nights,
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

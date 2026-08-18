@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 25 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Craze x Dieselboy: Create & Destroy Tour" on Fri, 21 Aug 2026.
+Substation is a music venue in Seattle with 25 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Craze x Dieselboy: Create & Destroy Tour" on Fri, 21 Aug 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 25 upcoming nights, with line-ups including AC Slater, AEREA, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 25 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

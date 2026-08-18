@@ -1,6 +1,6 @@
 # Puma
 
-Puma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
+Puma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
 
 Puma is a house and techno artist tracked on soundcheck, with 7 sets logged across Detroit, Geneva and Paris. Often billed alongside mimetic, Garance and Acid Pauli. Next up: Tropical Corner, Geneva on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Puma is a house and techno artist tracked on soundcheck, with 7 sets logged acro
 
 mimetic, Garance, Acid Pauli
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puma/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puma/)*

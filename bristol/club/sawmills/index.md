@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Gia & Muckers: Sunset Party" on Fri, 21 Aug 2026.
+Sawmills is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Gia & Muckers: Sunset Party" on Fri, 21 Aug 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including A.M.C., AD (UK), Anton X and Atlas (2) and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -19,4 +19,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

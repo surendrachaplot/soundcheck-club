@@ -1,6 +1,6 @@
 # DJ Dommenjay
 
-DJ Dommenjay is a Garage and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fundbureau, Hamburg on Sat, 5 Sept 2026.
+DJ Dommenjay is a Garage and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fundbureau, Hamburg on Sat, 5 Sept 2026.
 
 DJ Dommenjay is a garage and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside Alith Berndarn, BENITO (DE) and Fibe. Next up: Fundbureau, Hamburg on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ DJ Dommenjay is a garage and trance artist based in Germany, tracked on soundche
 
 Alith Berndarn, BENITO (DE), Fibe
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommenjay/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommenjay/)*

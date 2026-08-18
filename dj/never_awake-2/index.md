@@ -1,6 +1,6 @@
 # never_AWAKE (2)
 
-never_AWAKE (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
+never_AWAKE (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
 
 never_AWAKE (2) is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin and Munich. Often billed alongside 9LALEY, Amøn and Bollmann. Next up: Pineapple Park, Munich on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ never_AWAKE (2) is a techno and trance artist tracked on soundcheck, with 4 sets
 
 9LALEY, Amøn, Bollmann
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/never_awake-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/never_awake-2/)*

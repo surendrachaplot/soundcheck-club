@@ -1,14 +1,14 @@
 # Alley Kay
 
-Alley Kay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat, 22 Aug 2026.
+Alley Kay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
 
-Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 66 sets logged across Detroit, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat 22 Aug.
+Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 66 sets logged across Detroit, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Runnymede Hall, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - 821 Runnymede Rd Toronto, ON M6N 3V8 | Toronto |
+| Sat, 22 Aug 2026 | Runnymede Hall | Toronto |
 | Sat, 19 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
@@ -26,4 +26,4 @@ Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Darkova, Addy, Greg Gow
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*

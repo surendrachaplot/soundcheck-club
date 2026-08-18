@@ -1,6 +1,6 @@
 # Petersham Bowling Club
 
-Petersham Bowling Club is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Singing Stones presents: Zoltan Fecso (Naarm)" on Sun, 30 Aug 2026.
+Petersham Bowling Club is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Singing Stones presents: Zoltan Fecso (Naarm)" on Sun, 30 Aug 2026.
 
 Petersham Bowling Club is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 77 Brighton St; Petersham, Sydney NSW; Australia.
 
@@ -14,4 +14,4 @@ Petersham Bowling Club is a music venue in Sydney listed on soundcheck. 1 upcomi
 
 77 Brighton St; Petersham, Sydney NSW; Australia, Sydney
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/petersham-bowling-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/petersham-bowling-club/)*

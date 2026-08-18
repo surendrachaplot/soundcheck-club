@@ -1,8 +1,8 @@
 # Mango X MathMan
 
-Mango X MathMan is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
+Mango X MathMan is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
 
-Mango X MathMan are a house duo based in Ireland, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside George Feely and DJ Deece. Next up: Electric Garden, Dublin on Sat 22 Aug.
+Mango X MathMan are a house duo based in Ireland, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside DJ Deece and George Feely. Next up: Electric Garden, Dublin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Mango X MathMan are a house duo based in Ireland, tracked on soundcheck, with 1 
 
 ## Shares bills with
 
-George Feely, DJ Deece
+DJ Deece, George Feely
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoxmathman/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoxmathman/)*

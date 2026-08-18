@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+OMOLOKO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 OMOLOKO is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 27 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 84 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

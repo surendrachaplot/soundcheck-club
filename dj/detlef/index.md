@@ -1,6 +1,6 @@
 # Detlef
 
-Detlef is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Detlef is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
 Detlef is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Athens, Austin, Barcelona and Brighton and 22 more. Often billed alongside Joey Daniel, Late Replies and Latmun. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Detlef is a tech house and house artist based in United Kingdom, tracked on soun
 
 Joey Daniel, Late Replies, Latmun
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*

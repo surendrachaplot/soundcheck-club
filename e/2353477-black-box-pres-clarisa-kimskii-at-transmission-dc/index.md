@@ -1,6 +1,6 @@
 # Black Box pres. Clarisa Kimskii at TRANSMISSION DC
 
-Black Box pres. Clarisa Kimskii at TRANSMISSION DC on Sat 12 Sept, Washingtondc. 1 act on the bill: Clarisa Kimskii. Preview the line-up and save it on soundcheck.
+Black Box pres. Clarisa Kimskii at TRANSMISSION DC on Sat 12 Sept, Washingtondc. 8 acts on the bill: Artemis.105, Bastet (US), Clarisa Kimskii and Djoser and 4 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,13 @@ Black Box pres. Clarisa Kimskii at TRANSMISSION DC on Sat 12 Sept, Washingtondc.
 
 ## Line-up
 
+- Artemis.105
+- Bastet (US)
 - Clarisa Kimskii
+- Djoser
+- Jackson Ryland
+- Jett
+- Juana
+- Tsurugi
 
 *Source: [soundcheck](https://soundcheck.club/e/2353477-black-box-pres-clarisa-kimskii-at-transmission-dc/)*

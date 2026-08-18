@@ -1,6 +1,6 @@
 # Pijus
 
-Pijus is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Pijus is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 Pijus is a breakbeat and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Dublin and London and 4 more. Often billed alongside Shaolin Cowboy, lizaliza and dj poolboi. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Pijus is a breakbeat and house artist tracked on soundcheck, with 10 sets logged
 
 Shaolin Cowboy, lizaliza, dj poolboi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*

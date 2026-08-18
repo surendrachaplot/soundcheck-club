@@ -1,6 +1,6 @@
 # Mr. Maggio
 
-Mr. Maggio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Mr. Maggio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Mr. Maggio is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside Alexej, CHICHO and JASHTECH. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Mr. Maggio is a techno and house artist based in Germany, tracked on soundcheck,
 
 Alexej, CHICHO, JASHTECH
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*

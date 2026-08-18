@@ -1,6 +1,6 @@
 # Fel C (BR)
 
-Fel C (BR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at D-EDGE, Sao Paulo on Sun, 30 Aug 2026.
+Fel C (BR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at D-EDGE, Sao Paulo on Sun, 30 Aug 2026.
 
 Fel C (BR) is a house and tech house artist tracked on soundcheck, with 9 sets logged across Barcelona and Saopaulo. Often billed alongside Diogo Accioly, Adnan Sharif and BAPP. Next up: D-EDGE, Saopaulo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Fel C (BR) is a house and tech house artist tracked on soundcheck, with 9 sets l
 
 Diogo Accioly, Adnan Sharif, BAPP
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felcbr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felcbr/)*

@@ -1,6 +1,6 @@
 # DJ CHICHI
 
-DJ CHICHI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Salöön (Säälchen/Holzmarkt 25), Berlin on Thu, 20 Aug 2026.
+DJ CHICHI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Salöön (Säälchen/Holzmarkt 25), Berlin on Thu, 20 Aug 2026.
 
 DJ CHICHI is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 4 more. Often billed alongside chichi, BBYG and Keex. Next up: Salöön (Säälchen/Holzmarkt 25), Berlin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ DJ CHICHI is a house and techno artist based in Germany, tracked on soundcheck, 
 
 chichi, BBYG, Keex
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchichi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchichi/)*

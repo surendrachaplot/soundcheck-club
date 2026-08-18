@@ -1,13 +1,14 @@
 # Cali Lanauze
 
-Cali Lanauze is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Flash, Washington DC on Sun, 23 Aug 2026.
+Cali Lanauze is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 21 Aug 2026.
 
-Cali Lanauze is a house and deep house artist tracked on soundcheck, with 11 sets logged across Mexicocity, Miami, Newyorkcity and Sandiego and 2 more. Often billed alongside Art Department, Leo Del Toro and Shaun Reeves. Next up: Flash, Washingtondc on Sun 23 Aug.
+Cali Lanauze is a house and deep house artist tracked on soundcheck, with 12 sets logged across Mexicocity, Miami, Newyorkcity and Sandiego and 2 more. Often billed alongside Art Department, Auphoria and Leo Del Toro. Next up: Summertime Roof Terrace, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Summertime Roof Terrace | New York City |
 | Sun, 23 Aug 2026 | Flash | Washington DC |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cali Lanauze is a house and deep house artist tracked on soundcheck, with 11 set
 
 ## Shares bills with
 
-Art Department, Leo Del Toro, Shaun Reeves
+Art Department, Auphoria, Leo Del Toro
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calilanauze/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calilanauze/)*

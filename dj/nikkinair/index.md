@@ -1,8 +1,8 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Process PDX, Portland on Thu, 3 Sept 2026.
+Nikki Nair is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Process PDX, Portland on Thu, 3 Sept 2026.
 
-Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Process PDX, Portland on Thu 3 Sept.
+Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Process PDX, Portland on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Process PDX | Portland |
 | Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 9 Oct 2026 | Wigwam | Dublin |
 | Sat, 31 Oct 2026 | M.O.T | London |
 
@@ -28,4 +29,4 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

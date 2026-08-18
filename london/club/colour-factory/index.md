@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "INTERNATIONAL A$$ SHAKING COMMITTEE PRESENTS: I LIED, I LOVE BEING OUTSIDE" on Sat, 22 Aug 2026.
+Colour Factory is a music venue in London with 18 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "INTERNATIONAL A$$ SHAKING COMMITTEE PRESENTS: I LIED, I LOVE BEING OUTSIDE" on Sat, 22 Aug 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Aeroplane, Alex Metric, Amber Rose and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 18 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

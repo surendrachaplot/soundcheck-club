@@ -1,6 +1,6 @@
 # The Court Padel Club
 
-The Court Padel Club is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "ID: Courtside" on Sun, 30 Aug 2026.
+The Court Padel Club is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "ID: Courtside" on Sun, 30 Aug 2026.
 
 The Court Padel Club is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Court Padel Club is a music venue in Glasgow listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | ID: Courtside |  |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-court-padel-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-court-padel-club/)*

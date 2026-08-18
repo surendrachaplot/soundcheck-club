@@ -1,6 +1,6 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "THOSE HOLY: Cold Celtic Electronics Release Show" on Thu, 27 Aug 2026.
+Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "THOSE HOLY: Cold Celtic Electronics Release Show" on Thu, 27 Aug 2026.
 
 Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including Crimewave, Flora Yin-Wong, Grey Streak and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
@@ -21,4 +21,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, wi
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

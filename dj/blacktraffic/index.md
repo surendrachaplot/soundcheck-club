@@ -1,8 +1,8 @@
 # Black Traffic
 
-Black Traffic is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 24 Aug 2026.
+Black Traffic is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 24 Aug 2026.
 
-Black Traffic is a techno and hardcore artist tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Amnesia Ibiza, Ibiza on Mon 24 Aug.
+Black Traffic is a techno and hardcore artist tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Amnesia Ibiza, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Black Traffic is a techno and hardcore artist tracked on soundcheck, with 75 set
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
+| Sun, 30 Aug 2026 | The Telegraph Building | Belfast |
 | Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 
@@ -28,4 +29,4 @@ Black Traffic is a techno and hardcore artist tracked on soundcheck, with 75 set
 
 blk., Jezza & Jod, Jason Cluff
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*

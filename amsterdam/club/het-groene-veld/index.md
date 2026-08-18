@@ -1,6 +1,6 @@
 # Het Groene Veld
 
-Het Groene Veld is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "3 JAAR KRUISPUNT" on Sat, 12 Sept 2026.
+Het Groene Veld is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is " KRUISPUNT 3 JAAR" on Sat, 12 Sept 2026.
 
 Het Groene Veld is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including drum song (dj), Gimmeamfbreakbeat, screenage dj and Tonto. Browse upcoming dates, start times and who's playing. G.J. Scheurleerweg 212c 1027 BA Amsterdam.
 
@@ -8,10 +8,10 @@ Het Groene Veld is a music venue in Amsterdam listed on soundcheck. 1 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 3 JAAR KRUISPUNT | Gimmeamfbreakbeat, Tonto, drum song (dj), screenage dj |
+| Sat, 12 Sept 2026 |  KRUISPUNT 3 JAAR | Gimmeamfbreakbeat, Tonto, drum song (dj), screenage dj |
 
 ## Address
 
 G.J. Scheurleerweg 212c 1027 BA Amsterdam, Amsterdam
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-groene-veld/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-groene-veld/)*

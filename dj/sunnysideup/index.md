@@ -1,6 +1,6 @@
 # Sunny Side Up
 
-Sunny Side Up is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
+Sunny Side Up is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
 
 Sunny Side Up is an electronica and house artist tracked on soundcheck, with 8 sets logged across Sheffield. Often billed alongside Vinyl Richiee, Paniolo and 97/98. Next up: The System, Sheffield on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Sunny Side Up is an electronica and house artist tracked on soundcheck, with 8 s
 
 Vinyl Richiee, Paniolo, 97/98
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysideup/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysideup/)*

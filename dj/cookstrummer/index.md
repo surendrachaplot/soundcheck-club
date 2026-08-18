@@ -1,6 +1,6 @@
 # Cook Strummer
 
-Cook Strummer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Cook Strummer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Cook Strummer is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Istanbul, Riga and Vienna. Often billed alongside Peter Schumann, ONNI and Scoopsi. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Cook Strummer is a house and techno artist based in Germany, tracked on soundche
 
 Peter Schumann, ONNI, Scoopsi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*

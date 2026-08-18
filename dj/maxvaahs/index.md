@@ -1,6 +1,6 @@
 # Max Vaahs
 
-Max Vaahs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
+Max Vaahs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
 
 Max Vaahs is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bucharest and Hamburg and 14 more. Often billed alongside Vaahzer, Vlada and GNMR. Next up: Nowadays, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Max Vaahs is a techno and house artist tracked on soundcheck, with 33 sets logge
 
 Vaahzer, Vlada, GNMR
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvaahs/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvaahs/)*

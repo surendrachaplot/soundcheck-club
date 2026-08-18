@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DREAMLAND X GIRLCORE" on Fri, 21 Aug 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DREAMLAND X GIRLCORE" on Fri, 21 Aug 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Alex Milo, Allius, Amelia Leigh and Anop and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

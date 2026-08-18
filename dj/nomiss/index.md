@@ -1,6 +1,6 @@
 # NO MISS
 
-NO MISS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
+NO MISS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
 
 NO MISS is a techno and trance artist based in France, tracked on soundcheck, with 30 sets logged across Berlin, Budapest, Marseille and Nantes and 1 more. Often billed alongside BETÏSES, Bones 33 and ARTISAN. Next up: Kilomètre25, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NO MISS is a techno and trance artist based in France, tracked on soundcheck, wi
 
 BETÏSES, Bones 33, ARTISAN
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomiss/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomiss/)*

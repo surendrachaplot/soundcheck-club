@@ -1,6 +1,6 @@
 # Egregore
 
-Egregore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+Egregore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
 Egregore is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Chicago and Copenhagen and 8 more. Often billed alongside DINA, David Fogarty and Sound Metaphors Djs. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Egregore is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DINA, David Fogarty, Sound Metaphors Djs
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*

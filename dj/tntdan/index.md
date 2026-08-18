@@ -1,6 +1,6 @@
 # TNT Dan
 
-TNT Dan is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+TNT Dan is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 TNT Dan is a techno and breakbeat artist tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Avant-Garde Institute, DJ Hiccup and Mxgro. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TNT Dan is a techno and breakbeat artist tracked on soundcheck, with 13 sets log
 
 Avant-Garde Institute, DJ Hiccup, Mxgro
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntdan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntdan/)*

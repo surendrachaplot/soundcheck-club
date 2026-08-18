@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "A Midsummers Night Dream: Peter Storm, JØ and DJ Meech" on Wed, 19 Aug 2026.
+Jupiter Disco is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "A Midsummers Night Dream: Peter Storm, JØ and DJ Meech" on Wed, 19 Aug 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Elephantglasses, Dj incognito mode, James Juke and La Reinarde and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 10 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

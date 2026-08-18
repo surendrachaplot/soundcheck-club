@@ -1,6 +1,6 @@
 # Daniel Dreier
 
-Daniel Dreier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Daniel Dreier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 Daniel Dreier is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Guido Schneider, Alex Kraemer and Eveline Fink. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Daniel Dreier is a techno and house artist tracked on soundcheck, with 11 sets l
 
 Guido Schneider, Alex Kraemer, Eveline Fink
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldreier/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldreier/)*

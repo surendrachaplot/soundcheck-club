@@ -1,6 +1,6 @@
 # ALXJ
 
-ALXJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+ALXJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
 ALXJ is a techno and house artist tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside vom Feisten, justUS and Katzengold. Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ALXJ is a techno and house artist tracked on soundcheck, with 27 sets logged acr
 
 vom Feisten, justUS, Katzengold
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alxj/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alxj/)*

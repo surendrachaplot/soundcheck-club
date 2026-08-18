@@ -1,6 +1,6 @@
 # 000vda
 
-000vda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Forte Antenne, Rome on Fri, 11 Sept 2026.
+000vda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Forte Antenne, Rome on Fri, 11 Sept 2026.
 
 000vda is a techno and house artist based in Italy, tracked on soundcheck, with 17 sets logged across Berlin, Milan, Naples and Rome. Often billed alongside Zerø, Fabrizio Sala and fivequestionmarks. Next up: Forte Antenne, Rome on Fri 11 Sept.
 
@@ -25,4 +25,4 @@
 
 Zerø, Fabrizio Sala, fivequestionmarks
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/000vda/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/000vda/)*

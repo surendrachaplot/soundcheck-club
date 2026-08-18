@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "PHANTOM FREQUENCIES" on Fri, 21 Aug 2026.
+Silbergold is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "PHANTOM FREQUENCIES" on Fri, 21 Aug 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including POIZN and Tazman. Browse upcoming dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -14,4 +14,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 1 upcoming night,
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

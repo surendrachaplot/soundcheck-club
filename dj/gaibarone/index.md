@@ -1,6 +1,6 @@
 # Gai Barone
 
-Gai Barone is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Gai Barone is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 Gai Barone is a progressive house and deep house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, London and Madrid and 4 more. Often billed alongside Not Demure, Around Us and Aubrey Fry. Next up: Basing House, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gai Barone is a progressive house and deep house artist tracked on soundcheck, w
 
 Not Demure, Around Us, Aubrey Fry
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaibarone/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaibarone/)*

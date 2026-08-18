@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kater, Berlin on Sun, 30 Aug 2026.
+Topper is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kater, Berlin on Sun, 30 Aug 2026.
 
 Topper is a house and minimal artist tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Kater, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Topper is a house and minimal artist tracked on soundcheck, with 86 sets logged 
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

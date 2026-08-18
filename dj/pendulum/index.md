@@ -1,6 +1,6 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 11 Sept 2026.
+Pendulum is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Pendulum is a drum & bass and bass artist tracked on soundcheck, with 51 sets logged across Auckland, Austin, Birmingham and Brighton and 28 more. Often billed alongside Kanine, Mozey and Netsky. Next up: 1015 Folsom, Sanfrancisco on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Pendulum is a drum & bass and bass artist tracked on soundcheck, with 51 sets lo
 
 Kanine, Mozey, Netsky
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

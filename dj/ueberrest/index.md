@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Ueberrest is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Arzenal, Budapest on Wed 19 Aug.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

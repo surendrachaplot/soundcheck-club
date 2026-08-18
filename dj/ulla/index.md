@@ -1,6 +1,6 @@
 # Ulla
 
-Ulla is a Experimental and Ambient artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Ulla is a Experimental and Ambient artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Ulla is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Ulla is an experimental and ambient artist based in United States of America, tr
 
 Perila, Lawrence, Map.ache
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*

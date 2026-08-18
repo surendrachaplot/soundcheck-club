@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Hannon & Friends" on Sat, 22 Aug 2026.
+Bricks is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Hannon & Friends" on Sat, 22 Aug 2026.
 
 Bricks is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including 2Shy MC, Ardishko, B.Love and Enta and 1 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -18,4 +18,4 @@ Bricks is a music venue in London listed on soundcheck. 5 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

@@ -1,6 +1,6 @@
 # Zwooky
 
-Zwooky is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cross Club, Prague on Fri, 28 Aug 2026.
+Zwooky is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cross Club, Prague on Fri, 28 Aug 2026.
 
 Zwooky is a techno and minimal artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside Ziggy, 90z and Thomas Tesla. Next up: Cross Club, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Zwooky is a techno and minimal artist based in Czech Republic, tracked on soundc
 
 Ziggy, 90z, Thomas Tesla
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwooky/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwooky/)*

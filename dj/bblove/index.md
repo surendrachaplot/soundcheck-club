@@ -1,6 +1,6 @@
 # BBlove
 
-BBlove is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at THF Radio / Torhaus, Berlin on Fri, 21 Aug 2026.
+BBlove is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at THF Radio / Torhaus, Berlin on Fri, 21 Aug 2026.
 
 BBlove is a techno and experimental artist tracked on soundcheck, with 7 sets logged across Berlin and Bucharest. Often billed alongside Alas (2), Arieshandmodel and Blossom Hill. Next up: THF Radio / Torhaus, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ BBlove is a techno and experimental artist tracked on soundcheck, with 7 sets lo
 
 Alas (2), Arieshandmodel, Blossom Hill
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bblove/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bblove/)*

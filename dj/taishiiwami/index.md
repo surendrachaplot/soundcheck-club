@@ -1,6 +1,6 @@
 # TAISHI IWAMI
 
-TAISHI IWAMI is a Pop and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Spread, Tokyo on Sat, 22 Aug 2026.
+TAISHI IWAMI is a Pop and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Spread, Tokyo on Sat, 22 Aug 2026.
 
 TAISHI IWAMI is a pop and post-punk artist tracked on soundcheck, with 55 sets logged across Seoul and Tokyo. Often billed alongside Keigo, HALU(Tribal Connection) and AYANA KOSHIBA. Next up: Spread, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ TAISHI IWAMI is a pop and post-punk artist tracked on soundcheck, with 55 sets l
 
 Keigo, HALU(Tribal Connection), AYANA KOSHIBA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*

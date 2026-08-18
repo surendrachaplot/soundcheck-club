@@ -1,6 +1,6 @@
 # Bom Beijo
 
-Bom Beijo is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 12 Sept 2026.
+Bom Beijo is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 12 Sept 2026.
 
 Bom Beijo is an electronica and experimental artist tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside Ana Pacheco, Sara Wual and Senhor Santos. Next up: Arroz Estúdios, Lisbon on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Bom Beijo is an electronica and experimental artist tracked on soundcheck, with 
 
 Ana Pacheco, Sara Wual, Senhor Santos
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bombejio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bombejio/)*

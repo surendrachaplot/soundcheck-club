@@ -1,6 +1,6 @@
 # Avalon The Bar
 
-Avalon The Bar is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Sonido Avalon (AP, Fitzy, 1Ø1, Statistically Inferior, Kortx)" on Fri, 21 Aug 2026.
+Avalon The Bar is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Sonido Avalon (AP, Fitzy, 1Ø1, Statistically Inferior, Kortx)" on Fri, 21 Aug 2026.
 
 Avalon The Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 387 Brunswick St, Fitzroy VIC 3065, Australia.
 
@@ -16,4 +16,4 @@ Avalon The Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming ni
 
 387 Brunswick St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/avalon-the-bar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/avalon-the-bar/)*

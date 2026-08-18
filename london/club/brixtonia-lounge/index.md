@@ -1,6 +1,6 @@
 # Brixtonia Lounge
 
-Brixtonia Lounge is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Inna BPMz" on Thu, 27 Aug 2026.
+Brixtonia Lounge is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Inna BPMz" on Thu, 27 Aug 2026.
 
 Brixtonia Lounge is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Edge <3, Niceup and Wiwson. Browse upcoming dates, start times and who's playing. 35 Brixton Station Rd, London, SW9 8PB.
 
@@ -14,4 +14,4 @@ Brixtonia Lounge is a music venue in London listed on soundcheck. 1 upcoming nig
 
 35 Brixton Station Rd, London, SW9 8PB, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixtonia-lounge/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixtonia-lounge/)*

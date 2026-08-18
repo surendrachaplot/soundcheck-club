@@ -1,6 +1,6 @@
 # POIZN
 
-POIZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Silbergold, Frankfurt on Fri, 21 Aug 2026.
+POIZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Silbergold, Frankfurt on Fri, 21 Aug 2026.
 
 POIZN is a techno and trance artist tracked on soundcheck, with 20 sets logged across Cologne and Frankfurt. Often billed alongside Harmann, VILLA (DE) and AUHAM. Next up: Silbergold, Frankfurt on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ POIZN is a techno and trance artist tracked on soundcheck, with 20 sets logged a
 
 Harmann, VILLA (DE), AUHAM
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*

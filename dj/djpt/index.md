@@ -1,6 +1,6 @@
 # DJPT
 
-DJPT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 21 Aug 2026.
+DJPT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 21 Aug 2026.
 
 DJPT is a techno and club artist tracked on soundcheck, with 68 sets logged across Chicago and Newyorkcity. Often billed alongside Sevyn Love, DJ DEADNAME and Alissa Brianna. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ DJPT is a techno and club artist tracked on soundcheck, with 68 sets logged acro
 
 Sevyn Love, DJ DEADNAME, Alissa Brianna
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*

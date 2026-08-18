@@ -1,6 +1,6 @@
 # Pauliexoxoxo
 
-Pauliexoxoxo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - downtown t.o., Toronto on Sat, 5 Sept 2026.
+Pauliexoxoxo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - downtown t.o., Toronto on Sat, 5 Sept 2026.
 
 Pauliexoxoxo is a techno and electro artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside Vyl3t, Audi Étoffe and Hycastle. Next up: TBA - downtown t.o., Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pauliexoxoxo is a techno and electro artist based in Canada, tracked on soundche
 
 Vyl3t, Audi Étoffe, Hycastle
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliexoxoxo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliexoxoxo/)*

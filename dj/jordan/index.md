@@ -1,6 +1,6 @@
 # Jordan
 
-Jordan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
+Jordan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
 
 Jordan is a house and techno artist tracked on soundcheck, with 11 sets logged across Berlin, London, Sanfrancisco and Tokyo. Often billed alongside DJ Cira, Loora and SHINZEE. Next up: Lightbox, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jordan is a house and techno artist tracked on soundcheck, with 11 sets logged a
 
 DJ Cira, Loora, SHINZEE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*

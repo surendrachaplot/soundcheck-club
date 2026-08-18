@@ -1,6 +1,6 @@
 # Shura
 
-Shura is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at H0L0, New York City on Wed, 19 Aug 2026.
+Shura is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at H0L0, New York City on Wed, 19 Aug 2026.
 
 Shura is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Pupstar. Next up: H0L0, Newyorkcity on Wed 19 Aug.
 
@@ -14,4 +14,4 @@ Shura is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 Pupstar
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shura/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shura/)*

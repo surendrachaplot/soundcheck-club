@@ -1,6 +1,6 @@
 # Folic State
 
-Folic State is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mena Berlin, Berlin on Fri, 28 Aug 2026.
+Folic State is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mena Berlin, Berlin on Fri, 28 Aug 2026.
 
 Folic State is a house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Cosmik Konnection, Ash Roy and Camo Braxton. Next up: Mena Berlin, Berlin on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Folic State is a house and techno artist tracked on soundcheck, with 2 sets logg
 
 Cosmik Konnection, Ash Roy, Camo Braxton
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folicstate/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folicstate/)*

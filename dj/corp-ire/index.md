@@ -1,6 +1,6 @@
 # CORP (IRE)
 
-CORP (IRE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+CORP (IRE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 CORP (IRE) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Belfast, Glasgow, London and Manchester. Often billed alongside Laithal, GUZZ. and 222babychai. Next up: TBA, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ CORP (IRE) is a techno and house artist based in United Kingdom, tracked on soun
 
 Laithal, GUZZ., 222babychai
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corp-ire/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corp-ire/)*

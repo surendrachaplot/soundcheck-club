@@ -1,6 +1,6 @@
 # Simonotron
 
-Simonotron is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
+Simonotron is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
 
 Simonotron is a house and disco artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Edinburgh and Glasgow. Often billed alongside Marie Davidson, Accident Machine and Horse Meat Disco. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Simonotron is a house and disco artist based in United Kingdom, tracked on sound
 
 Marie Davidson, Accident Machine, Horse Meat Disco
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*

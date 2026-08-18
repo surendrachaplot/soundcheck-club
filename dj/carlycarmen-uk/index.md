@@ -1,6 +1,6 @@
 # Carly Carmen
 
-Carly Carmen is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Carly Carmen is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Carly Carmen is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Ibiza and London. Often billed alongside KAZIA, A.L.F and ACID HARRY. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Carly Carmen is a tech house and house artist based in United Kingdom, tracked o
 
 KAZIA, A.L.F, ACID HARRY
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlycarmen-uk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlycarmen-uk/)*

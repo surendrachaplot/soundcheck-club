@@ -1,6 +1,6 @@
 # 98dots
 
-98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Dolphin, Philadelphia on Sat, 29 Aug 2026.
+98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Dolphin, Philadelphia on Sat, 29 Aug 2026.
 
 98dots is a techno and house artist tracked on soundcheck, with 68 sets logged across Antwerp, Belgrade, Berlin and Boston and 11 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: The Dolphin, Philadelphia on Sat 29 Aug.
 
@@ -26,4 +26,4 @@
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

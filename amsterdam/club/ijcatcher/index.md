@@ -1,6 +1,6 @@
 # Ijcatcher
 
-Ijcatcher is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "minimal • vision / the first glimpse" on Sat, 26 Sept 2026.
+Ijcatcher is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "minimal • vision / the first glimpse" on Sat, 26 Sept 2026.
 
 Ijcatcher is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Piet Heinkade 59A, 1019BS.
 
@@ -14,4 +14,4 @@ Ijcatcher is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. 
 
 Piet Heinkade 59A, 1019BS, Amsterdam
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijcatcher/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijcatcher/)*

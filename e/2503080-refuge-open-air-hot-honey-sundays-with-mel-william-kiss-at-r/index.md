@@ -1,6 +1,6 @@
 # Refuge Open Air: Hot Honey Sundays with Melé, William Kiss at Refuge
 
-Refuge Open Air: Hot Honey Sundays with Melé, William Kiss on Sun 23 Aug, Newyorkcity. 3 acts on the bill: Anna Collecta, Melé and William Kiss. Preview the line-up and save it on soundcheck.
+Refuge Open Air: Hot Honey Sundays with Melé, William Kiss on Sun 23 Aug, Newyorkcity. 4 acts on the bill: Anna Collecta, Deo'jorge, Melé and William Kiss. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Refuge Open Air: Hot Honey Sundays with Melé, William Kiss on Sun 23 Aug, Newyo
 ## Line-up
 
 - Anna Collecta
+- Deo'jorge
 - Melé
 - William Kiss
 

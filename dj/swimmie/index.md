@@ -1,6 +1,6 @@
 # SWIMMIE
 
-SWIMMIE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+SWIMMIE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 SWIMMIE is a techno and electro artist tracked on soundcheck, with 34 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Brutal Twink, Subcultures and Cassi-DJ. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ SWIMMIE is a techno and electro artist tracked on soundcheck, with 34 sets logge
 
 Brutal Twink, Subcultures, Cassi-DJ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmie/)*

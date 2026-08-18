@@ -1,6 +1,6 @@
 # Mike Cashen
 
-Mike Cashen is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Moondog Hifi, New York City on Fri, 21 Aug 2026.
+Mike Cashen is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Moondog Hifi, New York City on Fri, 21 Aug 2026.
 
 Mike Cashen is a house and funk / soul artist tracked on soundcheck, with 6 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Greg Paulus, Lil'T and Shane One. Next up: Moondog Hifi, Newyorkcity on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Mike Cashen is a house and funk / soul artist tracked on soundcheck, with 6 sets
 
 Greg Paulus, Lil'T, Shane One
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikecashen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikecashen/)*

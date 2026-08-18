@@ -1,6 +1,6 @@
 # Gigi Testa
 
-Gigi Testa is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 22 Aug 2026.
+Gigi Testa is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 22 Aug 2026.
 
 Gigi Testa is a house and balearic artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Belgrade and Berlin and 11 more. Often billed alongside Davide D'Amico, Antal and Masalo. Next up: The Berkeley Suite, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gigi Testa is a house and balearic artist based in Italy, tracked on soundcheck,
 
 Davide D'Amico, Antal, Masalo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*

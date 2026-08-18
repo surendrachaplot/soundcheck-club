@@ -1,6 +1,6 @@
 # Arch535
 
-Arch535 is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "UNDERGROUND CONNECTION" on Sat, 26 Sept 2026.
+Arch535 is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "UNDERGROUND CONNECTION" on Sat, 26 Sept 2026.
 
 Arch535 is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Ace Shyllon, Lil Meesh and VIBRANT C. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -14,4 +14,4 @@ Arch535 is a music venue in London listed on soundcheck. 1 upcoming night, with 
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*

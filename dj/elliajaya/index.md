@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 28 Aug 2026.
+Ellia Jaya is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 28 Aug 2026.
 
 Ellia Jaya is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Belfast and 18 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Cabaret Voltaire, Edinburgh on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 86 sets 
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

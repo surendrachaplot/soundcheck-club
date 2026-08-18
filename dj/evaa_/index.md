@@ -1,6 +1,6 @@
 # Evaa_
 
-Evaa_ is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
+Evaa_ is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
 
 Evaa_ is a house and electro artist tracked on soundcheck, with 3 sets logged across Berlin and Rome. Often billed alongside Achieh, Francesco Salvadori and GRETA (2). Next up: TBA - Secret Location, Berlin on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Evaa_ is a house and electro artist tracked on soundcheck, with 3 sets logged ac
 
 Achieh, Francesco Salvadori, GRETA (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

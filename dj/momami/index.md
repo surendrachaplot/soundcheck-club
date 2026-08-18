@@ -1,6 +1,6 @@
 # Mo Mami
 
-Mo Mami is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
+Mo Mami is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pianos, New York City on Thu, 20 Aug 2026.
 
 Mo Mami is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Constantine (US), DJ Lady D and Mr. Apop. Next up: Pianos, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Mo Mami is a club and ghetto tech artist based in United States of America, trac
 
 Constantine (US), DJ Lady D, Mr. Apop
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momami/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momami/)*

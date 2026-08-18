@@ -1,6 +1,6 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at HENGE Brixton, London on Wed, 19 Aug 2026.
+Marcia Carr is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at HENGE Brixton, London on Wed, 19 Aug 2026.
 
 Marcia Carr is a house and disco artist tracked on soundcheck, with 73 sets logged across Brighton, Bristol, Leeds and London and 2 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: HENGE Brixton, London on Wed 19 Aug.
 
@@ -28,4 +28,4 @@ Marcia Carr is a house and disco artist tracked on soundcheck, with 73 sets logg
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

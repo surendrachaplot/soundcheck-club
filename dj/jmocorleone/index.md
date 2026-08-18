@@ -1,6 +1,6 @@
 # jmo corleone
 
-jmo corleone is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+jmo corleone is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 jmo corleone is a club and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside ZZ (4), 40split and Just Another Bitch. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ jmo corleone is a club and techno artist based in United States of America, trac
 
 ZZ (4), 40split, Just Another Bitch
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*

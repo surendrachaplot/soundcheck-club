@@ -1,14 +1,16 @@
 # ALICE STRIBLING
 
-ALICE STRIBLING is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Underground SF, San Francisco/Oakland on Thu, 27 Aug 2026.
+ALICE STRIBLING is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Underground SF, San Francisco/Oakland on Thu, 27 Aug 2026.
 
-ALICE STRIBLING is a house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Charles Hawthorne, Bored Lord and Del (4). Next up: Underground SF, Sanfrancisco on Thu 27 Aug.
+ALICE STRIBLING is a house and electronica artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Charles Hawthorne, Bored Lord and Del (4). Next up: Underground SF, Sanfrancisco on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Underground SF | San Francisco/Oakland |
+| Fri, 28 Aug 2026 | El Rio | San Francisco/Oakland |
+| Fri, 4 Sept 2026 | The Stud | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,4 +25,4 @@ ALICE STRIBLING is a house and electronica artist based in United States of Amer
 
 Charles Hawthorne, Bored Lord, Del (4)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicestribling/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicestribling/)*

@@ -1,6 +1,6 @@
 # BP (1)
 
-BP (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+BP (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 BP (1) is a house and techno artist tracked on soundcheck, with 26 sets logged across Glasgow, Leeds, London and Manchester. Often billed alongside Joe Reece, Jordan Walker and Roya Brehl. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ BP (1) is a house and techno artist tracked on soundcheck, with 26 sets logged a
 
 Joe Reece, Jordan Walker, Roya Brehl
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*

@@ -1,6 +1,6 @@
 # Mars Kasei
 
-Mars Kasei is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+Mars Kasei is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Mars Kasei is a club and footwork artist based in United States of America, tracked on soundcheck, with 37 sets logged across London, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside Discnogirl, DJ JUANNY and Tom Marsi. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mars Kasei is a club and footwork artist based in United States of America, trac
 
 Discnogirl, DJ JUANNY, Tom Marsi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marskasei/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marskasei/)*

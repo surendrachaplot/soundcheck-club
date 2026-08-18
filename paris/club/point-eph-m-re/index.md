@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Couvre x Chefs & NAAFI: BJF - Visions release party" on Fri, 21 Aug 2026.
+Point Ephémère is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Couvre x Chefs & NAAFI: BJF - Visions release party" on Fri, 21 Aug 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including AliXx, BJF, Fluid Matter and GLITTER55 and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -21,4 +21,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

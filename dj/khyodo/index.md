@@ -1,6 +1,6 @@
 # Khyodo
 
-Khyodo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+Khyodo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 Khyodo is a techno and industrial artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Geneva, Leipzig and Manchester. Often billed alongside Bildgewalt, FOKUS (Live) and GLASSBASS. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Khyodo is a techno and industrial artist based in Italy, tracked on soundcheck, 
 
 Bildgewalt, FOKUS (Live), GLASSBASS
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khyodo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khyodo/)*

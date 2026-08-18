@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "between x Irr[en]garten" on Wed, 19 Aug 2026.
+elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "between x Irr[en]garten" on Wed, 19 Aug 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights, with line-ups including :MUMM, Blank Vision, CAVVØ and DIRTY YOUTH and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -21,4 +21,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights,
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

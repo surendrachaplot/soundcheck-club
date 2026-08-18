@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "destiny" on Tue, 18 Aug 2026.
+Mitsuki is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "destiny" on Tue, 18 Aug 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including CALPISS, Celter, DJ Zenta and DOTT and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

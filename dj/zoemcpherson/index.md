@@ -1,6 +1,6 @@
 # Zoë Mc Pherson
 
-Zoë Mc Pherson is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Communale Saint-Ouen, Paris on Thu, 24 Sept 2026.
+Zoë Mc Pherson is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Communale Saint-Ouen, Paris on Thu, 24 Sept 2026.
 
 Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: Communale Saint-Ouen, Paris on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, tra
 
 Alessandra Leone, ABADIR, Evian Christ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*

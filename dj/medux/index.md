@@ -1,6 +1,6 @@
 # Medux
 
-Medux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 8 Copley Street, Roxbury MA, Boston on Sat, 22 Aug 2026.
+Medux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 8 Copley Street, Roxbury MA, Boston on Sat, 22 Aug 2026.
 
 Medux is a house and techno artist tracked on soundcheck, with 15 sets logged across Boston. Often billed alongside Charles Mazzola, Jordan Graham and Sacha Madadian. Next up: TBA - 8 Copley Street, Roxbury MA, Boston on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Medux is a house and techno artist tracked on soundcheck, with 15 sets logged ac
 
 Charles Mazzola, Jordan Graham, Sacha Madadian
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*

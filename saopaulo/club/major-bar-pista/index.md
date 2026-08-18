@@ -1,6 +1,6 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Major recebe Guma Joana convida: Nebulosa e Avante" on Wed, 19 Aug 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Major recebe Guma Joana convida: Nebulosa e Avante" on Wed, 19 Aug 2026.
 
 Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
@@ -21,4 +21,4 @@ Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 8 upcoming 
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

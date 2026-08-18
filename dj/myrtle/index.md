@@ -1,6 +1,6 @@
 # Myrtle
 
-Myrtle is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
+Myrtle is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
 
 Myrtle is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh. Often billed alongside ZO3 (1), Lara Sinclair and Buckfast Barbie. Next up: Sneaky Pete's, Edinburgh on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Myrtle is a bass and dubstep artist based in United Kingdom, tracked on soundche
 
 ZO3 (1), Lara Sinclair, Buckfast Barbie
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*

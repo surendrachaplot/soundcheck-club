@@ -1,6 +1,6 @@
 # gredeson
 
-gredeson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ficken 3000, Berlin on Sat, 22 Aug 2026.
+gredeson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ficken 3000, Berlin on Sat, 22 Aug 2026.
 
 gredeson is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Istanbul and Paris. Often billed alongside Khôra, Neyzen and Khloe. Next up: Ficken 3000, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ gredeson is a house and techno artist tracked on soundcheck, with 19 sets logged
 
 Khôra, Neyzen, Khloe
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gredeson/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gredeson/)*

@@ -1,6 +1,6 @@
 # Alexis Le-Tan
 
-Alexis Le-Tan is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at McNeills, Glasgow on Fri, 21 Aug 2026.
+Alexis Le-Tan is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at McNeills, Glasgow on Fri, 21 Aug 2026.
 
 Alexis Le-Tan is an acid and techno artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Joakim, Alicia Carrera and Field Notes DJs. Next up: McNeills, Glasgow on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Alexis Le-Tan is an acid and techno artist based in France, tracked on soundchec
 
 Joakim, Alicia Carrera, Field Notes DJs
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*

@@ -1,6 +1,6 @@
 # selacuna
 
-selacuna is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
+selacuna is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
 
 selacuna is a house and deep house artist tracked on soundcheck, with 8 sets logged across Losangeles and Newyorkcity. Often billed alongside Mantis Hands, Duneska and Luke Guyer. Next up: Jupiter Disco, Newyorkcity on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ selacuna is a house and deep house artist tracked on soundcheck, with 8 sets log
 
 Mantis Hands, Duneska, Luke Guyer
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selacuna/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selacuna/)*

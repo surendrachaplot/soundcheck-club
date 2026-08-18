@@ -1,8 +1,8 @@
 # saya (DE)
 
-saya (DE) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+saya (DE) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
 
-saya (DE) is a techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside HUJUS, No Valentia and Bours?. Next up: OXI, Berlin on Fri 28 Aug.
+saya (DE) is a techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Bours?, Caniche and Fran LF. Next up: OXI, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ saya (DE) is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 ## Shares bills with
 
-HUJUS, No Valentia, Bours?
+Bours?, Caniche, Fran LF
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*

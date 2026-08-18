@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Ben UFO is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Auckland and Austin and 57 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 226 sets logged
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

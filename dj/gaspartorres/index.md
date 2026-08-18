@@ -1,6 +1,6 @@
 # Gaspar Torres
 
-Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
+Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
 
 Gaspar Torres is a progressive house and electronica artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Kevin Di Serna, Tom Pavicich and Alain Pauwels. Next up: TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Gaspar Torres is a progressive house and electronica artist based in Netherlands
 
 Kevin Di Serna, Tom Pavicich, Alain Pauwels
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*

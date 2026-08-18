@@ -1,6 +1,6 @@
 # TIFLO
 
-TIFLO is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club Up, Amsterdam on Sat, 22 Aug 2026.
+TIFLO is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club Up, Amsterdam on Sat, 22 Aug 2026.
 
 TIFLO is a house and garage artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Baker (NL), Club Soda and MCL.. Next up: Club Up, Amsterdam on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ TIFLO is a house and garage artist based in Netherlands, tracked on soundcheck, 
 
 Baker (NL), Club Soda, MCL.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiflo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiflo/)*

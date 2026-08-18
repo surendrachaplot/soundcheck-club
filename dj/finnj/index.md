@@ -1,6 +1,6 @@
 # FinnJ
 
-FinnJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Buff Club, Glasgow on Fri, 21 Aug 2026.
+FinnJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Buff Club, Glasgow on Fri, 21 Aug 2026.
 
 FinnJ is a house and disco artist tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside Shaneo, DRUMA and Amizl. Next up: The Buff Club, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ FinnJ is a house and disco artist tracked on soundcheck, with 11 sets logged acr
 
 Shaneo, DRUMA, Amizl
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnj/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnj/)*

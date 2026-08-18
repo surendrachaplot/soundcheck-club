@@ -1,6 +1,6 @@
 # Lex Valverde
 
-Lex Valverde is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Radio Radio, Amsterdam on Sat, 19 Sept 2026.
+Lex Valverde is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Radio Radio, Amsterdam on Sat, 19 Sept 2026.
 
 Lex Valverde is an electronic artist based in Mexico, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Cleo Grooves. Next up: Radio Radio, Amsterdam on Sat 19 Sept.
 
@@ -14,4 +14,4 @@ Lex Valverde is an electronic artist based in Mexico, tracked on soundcheck, wit
 
 Cleo Grooves
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexvalverde/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexvalverde/)*

@@ -1,6 +1,6 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Elsewhere, New York City on Tue, 18 Aug 2026.
+Hixxy is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Elsewhere, New York City on Tue, 18 Aug 2026.
 
 Hixxy is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Brighton and Edinburgh and 11 more. Often billed alongside Dougal, Darren Styles and MC Storm. Next up: Elsewhere, Newyorkcity on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, tracked on soundche
 
 Dougal, Darren Styles, MC Storm
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

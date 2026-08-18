@@ -1,6 +1,6 @@
 # The Wireless Club
 
-The Wireless Club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "DANCE AGAIN! KASIDIT" on Fri, 28 Aug 2026.
+The Wireless Club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "DANCE AGAIN! KASIDIT" on Fri, 28 Aug 2026.
 
 The Wireless Club is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including Brownie Popkens and MJMA. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Wireless Club is a music venue in Bangkok listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | DANCE AGAIN! KASIDIT | Brownie Popkens, MJMA |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/the-wireless-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/the-wireless-club/)*

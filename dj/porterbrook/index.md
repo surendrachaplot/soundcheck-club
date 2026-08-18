@@ -1,6 +1,6 @@
 # Porter Brook
 
-Porter Brook is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
+Porter Brook is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
 
 Porter Brook is a techno and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside LINTD, Kop-Z and Hames. Next up: Hagglers Corner, Sheffield on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Porter Brook is a techno and house artist based in United Kingdom, tracked on so
 
 LINTD, Kop-Z, Hames
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*

@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Open Decks with STEEN & Surfing DJs - Producer Night" on Tue, 18 Aug 2026.
+SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Open Decks with STEEN & Surfing DJs - Producer Night" on Tue, 18 Aug 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including A DJ Named SNE, Amiti, Anthony Romano and Anyasa and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

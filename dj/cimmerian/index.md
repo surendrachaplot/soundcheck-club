@@ -1,6 +1,6 @@
 # Cimmerian
 
-Cimmerian is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
+Cimmerian is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
 
 Cimmerian is a techno and breakbeat artist tracked on soundcheck, with 11 sets logged across Sheffield. Often billed alongside Move Elusive, Harrison (UK) and CL:ARK. Next up: Sidney & Matilda, Sheffield on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cimmerian is a techno and breakbeat artist tracked on soundcheck, with 11 sets l
 
 Move Elusive, Harrison (UK), CL:ARK
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cimmerian/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cimmerian/)*

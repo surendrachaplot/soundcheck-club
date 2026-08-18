@@ -1,8 +1,8 @@
 # Flakka (2)
 
-Flakka (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
+Flakka (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
 
-Flakka (2) is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Krakow. Often billed alongside Ŧoxygene, Miss Pin and Carla Roca. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
+Flakka (2) is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Krakow. Often billed alongside Carla Roca, Kjar and Miss Pin. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Flakka (2) is a techno artist based in Poland, tracked on soundcheck, with 1 set
 
 ## Shares bills with
 
-Ŧoxygene, Miss Pin, Carla Roca
+Carla Roca, Kjar, Miss Pin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flakka-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flakka-2/)*

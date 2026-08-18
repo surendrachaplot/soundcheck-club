@@ -1,6 +1,6 @@
 # MARIUS SEBASTIAN
 
-MARIUS SEBASTIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+MARIUS SEBASTIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 MARIUS SEBASTIAN is a techno and house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside MEAKIN, I-DA and MAXYM. Next up: Basing House, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MARIUS SEBASTIAN is a techno and house artist tracked on soundcheck, with 23 set
 
 MEAKIN, I-DA, MAXYM
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariussebastian/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariussebastian/)*

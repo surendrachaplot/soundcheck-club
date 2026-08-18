@@ -1,6 +1,6 @@
 # Dinamite
 
-Dinamite is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Dinamite is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
 
 Dinamite is a techno and bass artist based in Spain, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Magda El Bayoumi, Steve Bicknell and Alienata. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dinamite is a techno and bass artist based in Spain, tracked on soundcheck, with
 
 Magda El Bayoumi, Steve Bicknell, Alienata
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamite/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamite/)*

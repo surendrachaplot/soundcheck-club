@@ -1,6 +1,6 @@
 # Myd
 
-Myd is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Le Bain, New York City on Fri, 21 Aug 2026.
+Myd is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Le Bain, New York City on Fri, 21 Aug 2026.
 
 Myd is a house and electro artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Le Bain, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Myd is a house and electro artist tracked on soundcheck, with 106 sets logged ac
 
 Busy P, Breakbot, Cassius
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

@@ -1,6 +1,6 @@
 # Gazin
 
-Gazin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Gazin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Gazin is a house and techno artist based in South Korea, tracked on soundcheck, with 8 sets logged across Portland. Often billed alongside Andy Warren, Peter Sheppard and Aaron Davis. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ Gazin is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Andy Warren, Peter Sheppard, Aaron Davis
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*

@@ -1,6 +1,6 @@
 # DJ Voices
 
-DJ Voices is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+DJ Voices is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 DJ Voices is a techno and bass artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Parris, Akanbi and Andrew Devlin. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ Voices is a techno and bass artist based in United States of America, tracked
 
 Parris, Akanbi, Andrew Devlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoices/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoices/)*

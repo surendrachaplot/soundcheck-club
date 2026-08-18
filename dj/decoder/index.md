@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Decoder is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 Decoder is a techno and minimal techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: FOLD, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 82 set
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

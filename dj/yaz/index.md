@@ -1,6 +1,6 @@
 # Yaz
 
-Yaz is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Yaz is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Yaz is a deep house and tech house artist tracked on soundcheck, with 61 sets logged across Bangkok, Manchester, Melbourne and Sanfrancisco and 2 more. Often billed alongside OGAN, Kohbain and Justyn Myers. Next up: F8 1192 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Yaz is a deep house and tech house artist tracked on soundcheck, with 61 sets lo
 
 OGAN, Kohbain, Justyn Myers
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaz/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaz/)*

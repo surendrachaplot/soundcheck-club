@@ -1,6 +1,6 @@
 # Paper-Cuts
 
-Paper-Cuts is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
+Paper-Cuts is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
 
 Paper-Cuts is a techno and tech house artist based in Australia, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen, Melbourne and Sydney. Often billed alongside Miscmeg, Mike Midnight and Venus Flytrap (2). Next up: TBA - Secret Location, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Paper-Cuts is a techno and tech house artist based in Australia, tracked on soun
 
 Miscmeg, Mike Midnight, Venus Flytrap (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*

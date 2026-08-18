@@ -1,6 +1,6 @@
 # HAO (CN)
 
-HAO (CN) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
+HAO (CN) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Fri, 28 Aug 2026.
 
 HAO (CN) is a techno and house artist tracked on soundcheck, with 40 sets logged across Athens, Berlin, Copenhagen and Hongkong and 8 more. Often billed alongside Cora (CN), DJB (CN) and Lawrence Lee. Next up: Mood Ring, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ HAO (CN) is a techno and house artist tracked on soundcheck, with 40 sets logged
 
 Cora (CN), DJB (CN), Lawrence Lee
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*

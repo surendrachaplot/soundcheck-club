@@ -1,6 +1,6 @@
 # Cortazar
 
-Cortazar is a Tech House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
+Cortazar is a Tech House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Cortazar is a tech house and progressive house artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Orson Sinaka, Almuedo and Natural Goofy. Next up: Village Underground Barcelona, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Cortazar is a tech house and progressive house artist tracked on soundcheck, wit
 
 Orson Sinaka, Almuedo, Natural Goofy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortazar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortazar/)*

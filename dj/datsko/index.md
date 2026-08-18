@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 21 Aug 2026.
+DATSKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 DATSKO is a techno and trance artist tracked on soundcheck, with 73 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 24 more. Often billed alongside Black Traffic, blk. and Alex Farell. Next up: Halcyon, Sanfrancisco on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ DATSKO is a techno and trance artist tracked on soundcheck, with 73 sets logged 
 
 Black Traffic, blk., Alex Farell
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

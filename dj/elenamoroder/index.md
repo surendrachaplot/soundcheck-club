@@ -1,6 +1,6 @@
 # Elena Moroder
 
-Elena Moroder is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Elena Moroder is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 Elena Moroder is a house and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Glasgow, Leeds and London and 3 more. Often billed alongside Trent Voyage, Alexander Skancke and Henriku. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Elena Moroder is a house and tech house artist based in Germany, tracked on soun
 
 Trent Voyage, Alexander Skancke, Henriku
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenamoroder/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenamoroder/)*

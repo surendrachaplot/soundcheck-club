@@ -1,6 +1,6 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
+Adam Port is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
 
 Adam Port is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside &ME, Rampa and Sossa. Next up: Valby Parken, Copenhagen on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Adam Port is a house and techno artist based in Germany, tracked on soundcheck, 
 
 &ME, Rampa, Sossa
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

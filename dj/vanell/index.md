@@ -1,8 +1,8 @@
 # Vanell
 
-Vanell is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
+Vanell is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
 
-Vanell is a house and minimal artist based in Croatia, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Karmon. Next up: Toekomstmuziek, Amsterdam on Fri 11 Sept.
+Vanell is a minimal and house artist based in Croatia, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Karmon. Next up: Toekomstmuziek, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Vanell is a house and minimal artist based in Croatia, tracked on soundcheck, wi
 
 Karmon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanell/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanell/)*

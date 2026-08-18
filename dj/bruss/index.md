@@ -1,6 +1,6 @@
 # BRUSS
 
-BRUSS is a Reggaeton and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bread & Butter Arch, London on Sat, 26 Sept 2026.
+BRUSS is a Reggaeton and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bread & Butter Arch, London on Sat, 26 Sept 2026.
 
 BRUSS is a reggaeton and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Mexicocity. Often billed alongside Gratia (2), S.U.R.E. and Anika. Next up: Bread & Butter Arch, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ BRUSS is a reggaeton and deep house artist based in United Kingdom, tracked on s
 
 Gratia (2), S.U.R.E., Anika
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruss/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruss/)*

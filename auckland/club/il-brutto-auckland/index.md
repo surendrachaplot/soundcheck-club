@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Colluded ft Cam Harris, Ruby Lee and Finlay Hooker" on Fri, 28 Aug 2026.
+Il Brutto Auckland is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Colluded ft Cam Harris, Ruby Lee and Finlay Hooker" on Fri, 28 Aug 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 3 upcoming nights, with line-ups including Cam Harris, EMMYJ, ONARSÉ and Takydon. Browse upcoming dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -16,4 +16,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 3 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

@@ -1,8 +1,8 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at essaim, Paris on Sat, 5 Sept 2026.
+Mac Declos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at essaim, Paris on Sat, 5 Sept 2026.
 
-Mac Declos is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Pablo Bozzi. Next up: essaim, Paris on Sat 5 Sept.
+Mac Declos is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Pablo Bozzi. Next up: essaim, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 182 sets log
 | Sat, 5 Sept 2026 | essaim | Paris |
 | Sun, 6 Sept 2026 | Else | Berlin |
 | Fri, 11 Sept 2026 | Club Vaag | Antwerp |
+| Fri, 11 Sept 2026 | Zoo | Geneva |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Wigwam | Dublin |
@@ -31,4 +32,4 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 182 sets log
 
 Anetha, Lacchesi, Pablo Bozzi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

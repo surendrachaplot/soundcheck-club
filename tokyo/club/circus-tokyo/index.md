@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "DIGOOD" on Fri, 21 Aug 2026.
+Circus Tokyo is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DIGOOD" on Fri, 21 Aug 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including ACHIRI, Baby J (2), JOKESONYOU and Kyoka and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including ACHIRI, Baby J (2), Coretex and Dustvoxx and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, 
 | Sun, 6 Sept 2026 | Pauline Herr with REXY=DEXY | REXY DEXY, SAKO |
 | Fri, 11 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
+| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

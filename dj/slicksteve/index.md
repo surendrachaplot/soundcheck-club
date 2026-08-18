@@ -1,6 +1,6 @@
 # Slick Steve
 
-Slick Steve is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Surfside, Malta on Wed, 19 Aug 2026.
+Slick Steve is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Surfside, Malta on Wed, 19 Aug 2026.
 
 Slick Steve is a house and disco artist tracked on soundcheck, with 19 sets logged across Amsterdam and Malta. Often billed alongside Nicky Slim, Macelli and Ben Cartyr. Next up: Surfside, Malta on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Slick Steve is a house and disco artist tracked on soundcheck, with 19 sets logg
 
 Nicky Slim, Macelli, Ben Cartyr
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slicksteve/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slicksteve/)*

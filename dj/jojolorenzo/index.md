@@ -1,8 +1,8 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TV Lounge, Detroit on Sat, 22 Aug 2026.
+Jojo Lorenzo is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TV Lounge, Detroit on Sat, 22 Aug 2026.
 
-Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 115 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and X & Ivy. Next up: TV Lounge, Detroit on Sat 22 Aug.
+Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 115 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: TV Lounge, Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 115 sets lo
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TV Lounge | Detroit |
 | Sun, 23 Aug 2026 | Club Vinyl | Denver |
-| Fri, 2 Oct 2026 | TBA - Brooklyn roots collective  | New York City |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 16 Oct 2026 | Don Quixote | Los Angeles |
 | Sat, 24 Oct 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | The Foundry | San Francisco/Oakland |
@@ -30,6 +30,6 @@ Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 115 sets lo
 
 ## Shares bills with
 
-Tinzo, RaeCola, X & Ivy
+Tinzo, RaeCola, Varist
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

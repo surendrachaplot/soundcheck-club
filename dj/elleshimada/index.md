@@ -1,6 +1,6 @@
 # Elle Shimada
 
-Elle Shimada is a Electronica and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Jago, London on Thu, 20 Aug 2026.
+Elle Shimada is a Electronica and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Jago, London on Thu, 20 Aug 2026.
 
 Elle Shimada is an electronica and broken beat artist tracked on soundcheck, with 18 sets logged across London, Melbourne, Sydney and Tokyo. Often billed alongside Asha Franco, Midnight Tenderness and Shy One. Next up: The Jago, London on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Elle Shimada is an electronica and broken beat artist tracked on soundcheck, wit
 
 Asha Franco, Midnight Tenderness, Shy One
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elleshimada/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elleshimada/)*

@@ -1,6 +1,6 @@
 # Steingold
 
-Steingold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Steingold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Steingold is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Chicago, Detroit, Losangeles and Toronto. Often billed alongside MIKE RANSOM, Ryan Spencer and Eddie Logix. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Steingold is a house and techno artist based in United States of America, tracke
 
 MIKE RANSOM, Ryan Spencer, Eddie Logix
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steingold/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steingold/)*

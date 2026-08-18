@@ -1,6 +1,6 @@
 # Luther Vine
 
-Luther Vine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Luther Vine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Luther Vine is a house and techno artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Birmingham, London and Milan. Often billed alongside Avsluta, Kai Campos and Michael J. Blood. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luther Vine is a house and techno artist based in United Kingdom, tracked on sou
 
 Avsluta, Kai Campos, Michael J. Blood
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luthervine/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luthervine/)*

@@ -1,6 +1,6 @@
 # jamadam
 
-jamadam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
+jamadam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
 
 jamadam is a techno and house artist based in Slovakia, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Zayac, charlii and hoelub. Next up: TBA - Bunker, Copenhagen on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ jamadam is a techno and house artist based in Slovakia, tracked on soundcheck, w
 
 Zayac, charlii, hoelub
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamadam/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamadam/)*

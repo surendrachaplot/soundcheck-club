@@ -1,6 +1,6 @@
 # MAUER
 
-MAUER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
+MAUER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
 
 MAUER is a techno and house artist based in Poland, tracked on soundcheck, with 27 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Wencel, Lilyol_ and BEXA. Next up: Mastak, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ MAUER is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 Wencel, Lilyol_, BEXA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauer/)*

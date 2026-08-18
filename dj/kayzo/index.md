@@ -1,6 +1,6 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Concourse Project, Austin on Fri, 28 Aug 2026.
+Kayzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Concourse Project, Austin on Fri, 28 Aug 2026.
 
 Kayzo is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Austin, Boston and Denver and 12 more. Often billed alongside Luude, hhunter and Alesso. Next up: The Concourse Project, Austin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kayzo is a techno and house artist based in United States of America, tracked on
 
 Luude, hhunter, Alesso
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

@@ -1,6 +1,6 @@
 # Kent Oria
 
-Kent Oria is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cave, Tokyo on Fri, 21 Aug 2026.
+Kent Oria is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cave, Tokyo on Fri, 21 Aug 2026.
 
 Kent Oria is a techno and psytrance artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside DANA NADA, ACHIRI and DANDAN. Next up: Cave, Tokyo on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Kent Oria is a techno and psytrance artist based in Japan, tracked on soundcheck
 
 DANA NADA, ACHIRI, DANDAN
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*

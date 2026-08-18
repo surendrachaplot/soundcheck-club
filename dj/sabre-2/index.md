@@ -1,6 +1,6 @@
 # Sabre (PL)
 
-Sabre (PL) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Sabre (PL) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Sabre (PL) is a techno and acid artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bucharest, Edinburgh and Krakow and 2 more. Often billed alongside Mislaw, Lucyd and Sept. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sabre (PL) is a techno and acid artist tracked on soundcheck, with 32 sets logge
 
 Mislaw, Lucyd, Sept
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*

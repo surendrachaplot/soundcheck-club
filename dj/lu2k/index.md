@@ -1,6 +1,6 @@
 # Lu2k
 
-Lu2k is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Saloon, Tokyo on Thu, 20 Aug 2026.
+Lu2k is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Saloon, Tokyo on Thu, 20 Aug 2026.
 
 Lu2k is a techno and club artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Belgrade and Chicago and 17 more. Often billed alongside Miley Serious, Jetty and Purple Matter. Next up: Saloon, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Lu2k is a techno and club artist tracked on soundcheck, with 48 sets logged acro
 
 Miley Serious, Jetty, Purple Matter
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lu2k/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lu2k/)*

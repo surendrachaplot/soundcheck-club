@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Afterglow - Apotheke" on Thu, 20 Aug 2026.
+Apotheke is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Afterglow - Apotheke" on Thu, 20 Aug 2026.
 
 Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Choopsie, Discotheke DJs, Gay Felony and Glo Phase and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -18,4 +18,4 @@ Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming nights,
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

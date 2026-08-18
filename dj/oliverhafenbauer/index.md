@@ -1,6 +1,6 @@
 # Oliver Hafenbauer
 
-Oliver Hafenbauer is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+Oliver Hafenbauer is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 Oliver Hafenbauer is a house and dub artist tracked on soundcheck, with 22 sets logged across Berlin, Frankfurt, Hongkong and London and 6 more. Often billed alongside n9oc, Ani Kvirkvelia and Candy Pollard. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Oliver Hafenbauer is a house and dub artist tracked on soundcheck, with 22 sets 
 
 n9oc, Ani Kvirkvelia, Candy Pollard
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhafenbauer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhafenbauer/)*

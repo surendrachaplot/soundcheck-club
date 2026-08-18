@@ -1,6 +1,6 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Spanners, London on Fri, 18 Sept 2026.
+RRRKRTA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Spanners, London on Fri, 18 Sept 2026.
 
 RRRKRTA is a techno and electronica artist based in Poland, tracked on soundcheck, with 27 sets logged across Belgrade, Berlin, Glasgow and Hamburg and 5 more. Often billed alongside Diamin, Elena Colombi and ābnamā. Next up: Spanners, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ RRRKRTA is a techno and electronica artist based in Poland, tracked on soundchec
 
 Diamin, Elena Colombi, ābnamā
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

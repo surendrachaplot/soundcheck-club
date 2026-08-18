@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "TUNNELWERK: DEEP & HYPNOTIC TECHNO NIGHT - ft CONOR KRANE & XSB-R" on Tue, 18 Aug 2026.
+Jade is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "TUNNELWERK: DEEP & HYPNOTIC TECHNO NIGHT - ft CONOR KRANE & XSB-R" on Tue, 18 Aug 2026.
 
 Jade is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Atomheartmommy, BEYBLADE SHAWTY, BLACKMDNA and boy_c0ded and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -20,4 +20,4 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

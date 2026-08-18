@@ -1,6 +1,6 @@
 # Snoozy
 
-Snoozy is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Snoozy is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 Snoozy is a jungle and breakbeat artist tracked on soundcheck, with 37 sets logged across London. Often billed alongside Rhi Spect, bomb shelter crew and Dogfish. Next up: M.O.T, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Snoozy is a jungle and breakbeat artist tracked on soundcheck, with 37 sets logg
 
 Rhi Spect, bomb shelter crew, Dogfish
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*

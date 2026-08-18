@@ -1,8 +1,8 @@
 # NORT (CO)
 
-NORT (CO) is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
+NORT (CO) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
 
-NORT (CO) is an acid and techno artist based in Colombia, tracked on soundcheck, with 1 set logged across Buenosaires. Often billed alongside ALYOSHA and AREA ØNE. Next up: Under Club, Buenosaires on Sat 29 Aug.
+NORT (CO) is a techno and acid artist based in Colombia, tracked on soundcheck, with 1 set logged across Buenosaires. Often billed alongside ALYOSHA and AREA ØNE. Next up: Under Club, Buenosaires on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ NORT (CO) is an acid and techno artist based in Colombia, tracked on soundcheck,
 
 ALYOSHA, AREA ØNE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nortco/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nortco/)*

@@ -1,6 +1,6 @@
 # Emma B
 
-Emma B is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
+Emma B is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
 Emma B is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Herr Krank. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Emma B is a house and techno artist tracked on soundcheck, with 93 sets logged a
 
 Deborah Aime La Bagarre, Baccus, Herr Krank
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

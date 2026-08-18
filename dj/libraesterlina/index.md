@@ -1,6 +1,6 @@
 # Libra Esterlina
 
-Libra Esterlina is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Libra Esterlina is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Libra Esterlina is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Edinburgh and Glasgow. Often billed alongside xivro, Bake and Chicha (2). Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Libra Esterlina is a bass and techno artist based in United Kingdom, tracked on 
 
 xivro, Bake, Chicha (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/libraesterlina/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/libraesterlina/)*

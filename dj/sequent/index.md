@@ -1,6 +1,6 @@
 # Sequent
 
-Sequent is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
+Sequent is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
 
 Sequent is a drum & bass and dubstep artist based in Austria, tracked on soundcheck, with 22 sets logged across London, Prague and Vienna. Often billed alongside Kasra, Special Guest (US) and VIBECHEN. Next up: Rhiz, Vienna on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Sequent is a drum & bass and dubstep artist based in Austria, tracked on soundch
 
 Kasra, Special Guest (US), VIBECHEN
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*

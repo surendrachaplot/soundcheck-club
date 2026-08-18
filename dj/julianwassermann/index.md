@@ -1,6 +1,6 @@
 # Julian Wassermann
 
-Julian Wassermann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Julian Wassermann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Julian Wassermann is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, Bucharest, Cologne and Frankfurt and 3 more. Often billed alongside Moritz Hofbauer, Ann Clue and Boris Brejcha. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Julian Wassermann is a techno and house artist tracked on soundcheck, with 21 se
 
 Moritz Hofbauer, Ann Clue, Boris Brejcha
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwassermann/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwassermann/)*

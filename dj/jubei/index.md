@@ -1,8 +1,8 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Junction Underground, Toronto on Fri, 21 Aug 2026.
+Jubei is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Junction Underground, Toronto on Fri, 21 Aug 2026.
 
-Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Basel, Berlin, Brighton and Bristol and 6 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Junction Underground, Toronto on Fri 21 Aug.
+Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Basel, Berlin, Brighton and Bristol and 7 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Junction Underground, Toronto on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Junction Underground | Toronto |
 | Sat, 22 Aug 2026 | Japan Monterrey | Mexico City |
+| Sat, 7 Nov 2026 | Amigo | Ghent |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 SP:MC, DJ Flight, Breakage
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*

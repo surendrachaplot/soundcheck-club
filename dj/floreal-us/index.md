@@ -1,6 +1,6 @@
 # Flo Real
 
-Flo Real is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at FLUCC, Vienna on Sat, 22 Aug 2026.
+Flo Real is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FLUCC, Vienna on Sat, 22 Aug 2026.
 
 Flo Real is a house and disco artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 7 more. Often billed alongside JP Bechamel, Moodymann and Rumi de Baires. Next up: FLUCC, Vienna on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Flo Real is a house and disco artist tracked on soundcheck, with 39 sets logged 
 
 JP Bechamel, Moodymann, Rumi de Baires
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*

@@ -1,13 +1,15 @@
 # Moon Boots
 
-Moon Boots is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
+Moon Boots is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
 
-Moon Boots is a house and disco artist tracked on soundcheck, with 32 sets logged across Austin, Chicago, Denver and Houston and 11 more. Often billed alongside James Juke, Pinto (US) and A-Trak. Next up: The Chocolate Factory, Newyorkcity on Thu 10 Sept.
+Moon Boots is a house and disco artist tracked on soundcheck, with 34 sets logged across Austin, Chicago, Denver and Houston and 12 more. Often billed alongside James Juke, DARIUS and Dam Swindle. Next up: FS., Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | FS. | Tokyo |
+| Sat, 22 Aug 2026 | FS. | Tokyo |
 | Thu, 10 Sept 2026 | The Chocolate Factory | New York City |
 
 ## Recently played
@@ -23,6 +25,6 @@ Moon Boots is a house and disco artist tracked on soundcheck, with 32 sets logge
 
 ## Shares bills with
 
-James Juke, Pinto (US), A-Trak
+James Juke, DARIUS, Dam Swindle
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonboots/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonboots/)*

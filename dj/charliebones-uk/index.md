@@ -1,6 +1,6 @@
 # Charlie Bones
 
-Charlie Bones is a Disco and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
+Charlie Bones is a Disco and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Carpet Shop, London on Fri, 21 Aug 2026.
 
 Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, Dublin and Edinburgh and 6 more. Often billed alongside Hannah Holland, Tash LC and Alex Kassian. Next up: The Carpet Shop, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked
 
 Hannah Holland, Tash LC, Alex Kassian
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*

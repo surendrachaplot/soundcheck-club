@@ -1,6 +1,6 @@
 # DCHM
 
-DCHM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Gewölbe, Cologne on Fri, 4 Sept 2026.
+DCHM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gewölbe, Cologne on Fri, 4 Sept 2026.
 
 DCHM is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Sedaction, Jascha Yousefi and lyzanne. Next up: Gewölbe, Cologne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DCHM is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Sedaction, Jascha Yousefi, lyzanne
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dchm/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dchm/)*

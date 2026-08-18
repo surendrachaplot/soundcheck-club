@@ -1,6 +1,6 @@
 # Rex the Dog
 
-Rex the Dog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Rex the Dog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 Rex the Dog is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside Michael Mayer, Narciss and Alex Kassian. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Rex the Dog is a techno and house artist based in United Kingdom, tracked on sou
 
 Michael Mayer, Narciss, Alex Kassian
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexthedog/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexthedog/)*

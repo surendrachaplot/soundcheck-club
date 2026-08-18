@@ -1,6 +1,6 @@
 # Sel & C
 
-Sel & C is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
+Sel & C is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
 
 Sel & C are an electro and house duo tracked on soundcheck, with 13 sets logged across London. Often billed alongside E. Alexander, Panno and Colby. Next up: Crate Brewery, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sel & C are an electro and house duo tracked on soundcheck, with 13 sets logged 
 
 E. Alexander, Panno, Colby
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selc/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selc/)*

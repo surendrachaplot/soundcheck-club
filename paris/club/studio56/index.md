@@ -1,6 +1,6 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Core W/ Jeffellhypno , Pechox , Yōkai." on Mon, 17 Aug 2026.
+Studio56 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Core W/ Jeffellhypno , Pechox , Yōkai." on Mon, 17 Aug 2026.
 
 Studio56 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Drivr, Ev (19), K0uci and Killoverjoy and 2 more. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
@@ -23,4 +23,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 14 upcoming nights, wit
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

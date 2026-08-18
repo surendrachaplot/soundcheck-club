@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Distrikt presents Captain Wallop B2B Truly Madly, Nate S.U & Elijah Something, Lydian" on Fri, 21 Aug 2026.
+Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Distrikt presents Captain Wallop B2B Truly Madly, Nate S.U & Elijah Something, Lydian" on Fri, 21 Aug 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including ad*n, B-HIND, Ben Murphy and Brennan and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -22,4 +22,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

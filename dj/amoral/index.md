@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+AMORAL is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 AMORAL is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside MARRØN, Rene Wise and Beste Hira. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ AMORAL is a techno and house artist tracked on soundcheck, with 160 sets logged 
 
 MARRØN, Rene Wise, Beste Hira
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

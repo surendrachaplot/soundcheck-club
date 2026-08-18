@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Floating Over - ÆDEN/ŒL Garten" on Wed, 19 Aug 2026.
+ÆDEN is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Floating Over - ÆDEN/ŒL Garten" on Wed, 19 Aug 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including KIV., Aaron Blau, Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

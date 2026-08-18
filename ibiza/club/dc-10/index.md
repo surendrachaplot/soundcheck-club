@@ -1,6 +1,6 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CircoLoco Ibiza - Week 17" on Mon, 17 Aug 2026.
+DC-10 is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CircoLoco Ibiza - Week 17" on Mon, 17 Aug 2026.
 
 DC-10 is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with line-ups including Aline Umber, Âme, ANOTR and Antal and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
@@ -23,4 +23,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with l
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

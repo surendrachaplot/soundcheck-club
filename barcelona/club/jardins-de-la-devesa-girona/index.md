@@ -1,6 +1,6 @@
 # Jardins de la Devesa, Girona
 
-Jardins de la Devesa, Girona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Alocasia TV x Sons al Parc at Girona / Mario F, Guille Pinet, Domi Tijoux b2b Javier Labarca" on Sat, 5 Sept 2026.
+Jardins de la Devesa, Girona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Alocasia TV x Sons al Parc at Girona / Mario F, Guille Pinet, Domi Tijoux b2b Javier Labarca" on Sat, 5 Sept 2026.
 
 Jardins de la Devesa, Girona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Dominique Tijoux, Guille Pinet, Javier Labarca and MarioF. Browse upcoming dates, start times and who's playing. 17007, Girona, Spain.
 
@@ -14,4 +14,4 @@ Jardins de la Devesa, Girona is a music venue in Barcelona listed on soundcheck.
 
 17007, Girona, Spain, Barcelona
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jardins-de-la-devesa-girona/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jardins-de-la-devesa-girona/)*

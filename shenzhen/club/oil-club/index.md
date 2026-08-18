@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Couch Co-Op 七夕 Sepcial：我的伴侣就是你之不一定幸运签" on Wed, 19 Aug 2026.
+OIL Club is a music venue in Shenzhen with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Couch Co-Op 七夕 Sepcial：我的伴侣就是你之不一定幸运签" on Wed, 19 Aug 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 13 upcoming nights, with line-ups including Biting Eye, Butterfly (2), D-Leria and DJ 86 and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 13 upcoming nights, 
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

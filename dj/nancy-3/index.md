@@ -1,6 +1,6 @@
 # Nancy (3)
 
-Nancy (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Nancy (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Nancy (3) is a house and minimal artist tracked on soundcheck, with 38 sets logged across Barcelona. Often billed alongside /K/iara, arnald and Vilalta. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nancy (3) is a house and minimal artist tracked on soundcheck, with 38 sets logg
 
 /K/iara, arnald, Vilalta
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancy-3/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancy-3/)*

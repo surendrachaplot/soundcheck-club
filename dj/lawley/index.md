@@ -1,8 +1,8 @@
 # Lawley
 
-Lawley is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
+Lawley is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
 
-Lawley is an electronic artist tracked on soundcheck, with 1 set logged across Belfast. Often billed alongside Craig Mitchell, CAOIMHE and Nitetales. Next up: Liquid Nightclub, Belfast on Sat 24 Oct.
+Lawley is an electronic artist tracked on soundcheck, with 1 set logged across Belfast. Often billed alongside CAOIMHE, Chris Cargo and Craig Mitchell. Next up: Liquid Nightclub, Belfast on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Lawley is an electronic artist tracked on soundcheck, with 1 set logged across B
 
 ## Shares bills with
 
-Craig Mitchell, CAOIMHE, Nitetales
+CAOIMHE, Chris Cargo, Craig Mitchell
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawley/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawley/)*

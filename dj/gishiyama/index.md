@@ -1,6 +1,6 @@
 # Gishiyama
 
-Gishiyama is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Goja, Bangkok on Fri, 21 Aug 2026.
+Gishiyama is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Goja, Bangkok on Fri, 21 Aug 2026.
 
 Gishiyama is a minimal and deep house artist based in Japan, tracked on soundcheck, with 78 sets logged across Bangkok. Often billed alongside DJ Krit Morton, GAOLAO and Yoongying. Next up: Goja, Bangkok on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Gishiyama is a minimal and deep house artist based in Japan, tracked on soundche
 
 DJ Krit Morton, GAOLAO, Yoongying
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gishiyama/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gishiyama/)*

@@ -1,6 +1,6 @@
 # Chucheewa
 
-Chucheewa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 5 Sept 2026.
+Chucheewa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 5 Sept 2026.
 
 Chucheewa is a house and techno artist based in Thailand, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 8 more. Often billed alongside DJ Krit Morton, Mamie's and Yoongying. Next up: Collingwood Basement, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Chucheewa is a house and techno artist based in Thailand, tracked on soundcheck,
 
 DJ Krit Morton, Mamie's, Yoongying
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*

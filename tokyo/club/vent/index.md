@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Haruka" on Fri, 21 Aug 2026.
+VENT is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Haruka" on Fri, 21 Aug 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Conures (DJ Tokunaga), Curses, D.Dan and DJ OGAWA and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

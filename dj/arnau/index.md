@@ -1,6 +1,6 @@
 # Arnau
 
-Arnau is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Arnau is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Arnau is a house and electronica artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Thehague. Often billed alongside Lexmic, Arnau Obiols and Edenfranz. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Arnau is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 Lexmic, Arnau Obiols, Edenfranz
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnau/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnau/)*

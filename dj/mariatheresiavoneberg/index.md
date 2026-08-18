@@ -1,6 +1,6 @@
 # Maria Theresia von Eberg
 
-Maria Theresia von Eberg is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Maria Theresia von Eberg is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, with 54 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Corios, J.WOCKENFUSS and LEENI. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, 
 
 Corios, J.WOCKENFUSS, LEENI
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*

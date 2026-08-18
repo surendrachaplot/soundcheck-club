@@ -1,6 +1,6 @@
 # DJ Andy Smith
 
-DJ Andy Smith is a Funk / Soul and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Future Yard, Liverpool on Fri, 25 Sept 2026.
+DJ Andy Smith is a Funk / Soul and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Future Yard, Liverpool on Fri, 25 Sept 2026.
 
 DJ Andy Smith is a funk / soul and dub artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol, Cork, Ibiza and Liverpool and 1 more. Often billed alongside Jazzheadchronic, Nick Halkes and Alex Mills. Next up: Future Yard, Liverpool on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Andy Smith is a funk / soul and dub artist based in United Kingdom, tracked o
 
 Jazzheadchronic, Nick Halkes, Alex Mills
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandysmith/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandysmith/)*

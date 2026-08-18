@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Freqy Friday" on Fri, 21 Aug 2026.
+The Crown is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Freqy Friday" on Fri, 21 Aug 2026.
 
 The Crown is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including Duality, Emma Rose, ROWANA and SIS:DEM and 1 more. Browse upcoming dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
@@ -17,4 +17,4 @@ The Crown is a music venue in Bristol listed on soundcheck. 4 upcoming nights, w
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

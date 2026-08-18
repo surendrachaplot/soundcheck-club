@@ -1,6 +1,6 @@
 # Indecent Noise
 
-Indecent Noise is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
+Indecent Noise is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at WaV, Liverpool on Sat, 22 Aug 2026.
 
 Indecent Noise is a trance and techno artist tracked on soundcheck, with 3 sets logged across Liverpool, Tokyo and Warsaw. Often billed alongside ASTY, ATT and DØLLHAUS. Next up: WaV, Liverpool on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Indecent Noise is a trance and techno artist tracked on soundcheck, with 3 sets 
 
 ASTY, ATT, DØLLHAUS
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indecentnoise/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indecentnoise/)*

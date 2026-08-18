@@ -1,6 +1,6 @@
 # Ams (FR)
 
-Ams (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Rex Club, Paris on Fri, 28 Aug 2026.
+Ams (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rex Club, Paris on Fri, 28 Aug 2026.
 
 Ams (FR) is a house and techno artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Lyon and Madrid and 7 more. Often billed alongside Camille Doe, GOGO GREEN and Lefblom. Next up: Rex Club, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ams (FR) is a house and techno artist tracked on soundcheck, with 58 sets logged
 
 Camille Doe, GOGO GREEN, Lefblom
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*

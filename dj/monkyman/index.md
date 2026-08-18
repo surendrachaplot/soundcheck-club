@@ -1,6 +1,6 @@
 # Monkyman
 
-Monkyman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Gretchen, Berlin on Sat, 29 Aug 2026.
+Monkyman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gretchen, Berlin on Sat, 29 Aug 2026.
 
 Monkyman is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Lisa Thaens, Alma Linda and Gina Sabatini. Next up: Gretchen, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Monkyman is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Lisa Thaens, Alma Linda, Gina Sabatini
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkyman/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkyman/)*

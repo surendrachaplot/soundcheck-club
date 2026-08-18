@@ -1,15 +1,15 @@
 # TBA
 
-TBA is a music venue in London with 278 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "-" on Thu, 20 Aug 2026.
+TBA is a music venue in London with 283 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "-" on Thu, 20 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 278 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 2flowers and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 283 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 2flowers and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | - |  |
-| Thu, 20 Aug 2026 | Safra social | Vann Essa |
+| Fri, 21 Aug 2026 | ADUNANZA ~ 96 • |  |
 | Fri, 21 Aug 2026 | lets party! 2.0 | Saulo Pisa |
 | Fri, 21 Aug 2026 | Moquette vol.1 | DJ WETPANTS, Full Multi, Lu Klein, System 42 |
 | Fri, 21 Aug 2026 | INCOGNITO and Dirty Epic present: Further with DJ Bone, Stacey Hotwaxx Hale & Mapamota | DJ Bone, Mapamota, Stacey Hotwaxx Hale |
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 278 upcoming nights, with l
 | Fri, 21 Aug 2026 | LOVE IS A VIRUS |  |
 | Fri, 21 Aug 2026 | EU - Fri, 21 Aug - Secret Location Rave VII  |  |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

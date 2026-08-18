@@ -1,6 +1,6 @@
 # A++
 
-A++ is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Toronto, Toronto on Sat, 22 Aug 2026.
+A++ is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Toronto, Toronto on Sat, 22 Aug 2026.
 
 A++ is an afrobeats and amapiano artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Bucharest, Istanbul, Prague and Toronto. Often billed alongside Alpha Particle Assembly, Atch22 and Demonika. Next up: TBA - Toronto, Toronto on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ A++ is an afrobeats and amapiano artist based in Netherlands, tracked on soundch
 
 Alpha Particle Assembly, Atch22, Demonika
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aromania/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aromania/)*

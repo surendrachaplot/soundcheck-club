@@ -1,6 +1,6 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Oriental Techno Garden - 東極玄音花園: Raeya Chen, Zenyee, Morva" on Fri, 21 Aug 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Oriental Techno Garden - 東極玄音花園: Raeya Chen, Zenyee, Morva" on Fri, 21 Aug 2026.
 
 Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upcoming nights, with line-ups including Acidalia, ÆQUAL, Alimac and Atmosphreal and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
@@ -23,4 +23,4 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upc
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

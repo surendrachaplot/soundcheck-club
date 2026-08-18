@@ -1,6 +1,6 @@
 # The Boat at Nyhavn 71
 
-The Boat at Nyhavn 71 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Sounds Good - Summer Boat Party" on Sat, 29 Aug 2026.
+The Boat at Nyhavn 71 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Sounds Good - Summer Boat Party" on Sat, 29 Aug 2026.
 
 The Boat at Nyhavn 71 is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Nyhavn 71.
 
@@ -14,4 +14,4 @@ The Boat at Nyhavn 71 is a music venue in Copenhagen listed on soundcheck. 1 upc
 
 Nyhavn 71, Copenhagen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/the-boat-at-nyhavn-71/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/the-boat-at-nyhavn-71/)*

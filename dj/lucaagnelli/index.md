@@ -1,6 +1,6 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
+Luca Agnelli is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
 
 Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside OMAKS, ANXHELA and Gianni Di Bernardo. Next up: Eden, Ibiza on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundche
 
 OMAKS, ANXHELA, Gianni Di Bernardo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*

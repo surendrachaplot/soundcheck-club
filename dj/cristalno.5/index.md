@@ -1,6 +1,6 @@
 # Cristal No.5
 
-Cristal No.5 is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Red Rattler, Sydney on Fri, 28 Aug 2026.
+Cristal No.5 is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Red Rattler, Sydney on Fri, 28 Aug 2026.
 
 Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck, with 33 sets logged across Bangkok, Melbourne and Sydney. Often billed alongside Haus of Ralph, Mon Franco and Baschoe. Next up: The Red Rattler, Sydney on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck
 
 Haus of Ralph, Mon Franco, Baschoe
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*

@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Polka Dot Disco Club invites Sama' Abdulhadi ♡ Sub Club ‪‪♡" on Fri, 21 Aug 2026.
+Sub Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Polka Dot Disco Club invites Sama' Abdulhadi ♡ Sub Club ‪‪♡" on Fri, 21 Aug 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Acido Cielo, acrosstheboard, Breathe and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

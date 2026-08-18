@@ -1,6 +1,6 @@
 # Acrocanthosaurus
 
-Acrocanthosaurus is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Solfa, Tokyo on Fri, 28 Aug 2026.
+Acrocanthosaurus is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Solfa, Tokyo on Fri, 28 Aug 2026.
 
 Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 64 sets logged across Tokyo. Often billed alongside Aki Dolanikov, Genick and SPRAYBOX. Next up: Solfa, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 64 sets l
 
 Aki Dolanikov, Genick, SPRAYBOX
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*

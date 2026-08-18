@@ -1,6 +1,6 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Wed, 19 Aug 2026.
+Megan Rosengarten is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Wed, 19 Aug 2026.
 
 Megan Rosengarten is a techno and experimental artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin and Newyorkcity. Often billed alongside Wren's Lullaby, Friedberg and B-SiiDE. Next up: Mood Ring, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Megan Rosengarten is a techno and experimental artist based in United States of 
 
 Wren's Lullaby, Friedberg, B-SiiDE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

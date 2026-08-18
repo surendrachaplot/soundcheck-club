@@ -1,6 +1,6 @@
 # DJ MJ
 
-DJ MJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Drop inn, Birmingham on Sat, 29 Aug 2026.
+DJ MJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Drop inn, Birmingham on Sat, 29 Aug 2026.
 
 DJ MJ is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Birmingham, Brighton, Liverpool and London. Often billed alongside Jeremy Sylvester, Mikey DJ and 808 State. Next up: The Drop inn, Birmingham on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ MJ is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Jeremy Sylvester, Mikey DJ, 808 State
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmj/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmj/)*

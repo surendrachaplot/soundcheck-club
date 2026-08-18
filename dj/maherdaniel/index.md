@@ -1,6 +1,6 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 19 Aug 2026.
+Maher Daniel is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 19 Aug 2026.
 
 Maher Daniel is a house and minimal artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Playa Soleil Ibiza, Ibiza on Wed 19 Aug.
 
@@ -28,4 +28,4 @@ Maher Daniel is a house and minimal artist tracked on soundcheck, with 102 sets 
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

@@ -1,6 +1,6 @@
 # Al Jones
 
-Al Jones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
+Al Jones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
 
 Al Jones is a house and techno artist based in Italy, tracked on soundcheck, with 80 sets logged across Bangkok, Hongkong, Kyoto and Losangeles and 4 more. Often billed alongside Fujiko, Frankie $ and kids eating bbq. Next up: Oath, Tokyo on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Al Jones is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Fujiko, Frankie $, kids eating bbq
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*

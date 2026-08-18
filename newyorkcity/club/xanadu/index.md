@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad," on Sun, 23 Aug 2026.
+Xanadu is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad," on Sun, 23 Aug 2026.
 
 Xanadu is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Andi and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

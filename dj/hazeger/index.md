@@ -1,6 +1,6 @@
 # Haze (GER)
 
-Haze (GER) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+Haze (GER) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
 Haze (GER) is a house and tech house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Munich. Often billed alongside Vincent Lang, VSMR and julës jay. Next up: Legal, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Haze (GER) is a house and tech house artist tracked on soundcheck, with 9 sets l
 
 Vincent Lang, VSMR, julës jay
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazeger/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazeger/)*

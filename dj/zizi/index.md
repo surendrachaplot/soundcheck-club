@@ -1,6 +1,6 @@
 # ZiZi
 
-ZiZi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Altenburg 1964, Prague on Thu, 20 Aug 2026.
+ZiZi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Altenburg 1964, Prague on Thu, 20 Aug 2026.
 
 ZiZi is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside zazitech, DDK (1) and RADYK. Next up: Altenburg 1964, Prague on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ ZiZi is a techno and tech house artist tracked on soundcheck, with 5 sets logged
 
 zazitech, DDK (1), RADYK
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*

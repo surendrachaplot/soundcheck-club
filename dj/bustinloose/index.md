@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+Bustin' Loose is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 Bustin' Loose is a house and disco artist tracked on soundcheck, with 147 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 147 sets l
 
 Tatiana, Magnolia_, Roland & Brother Rich
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

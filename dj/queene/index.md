@@ -1,6 +1,6 @@
 # Queen E
 
-Queen E is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 21 Aug 2026.
+Queen E is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 Queen E is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Ibiza and Stockholm. Often billed alongside Sean Fender, Dgeral and Pooja B. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Queen E is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 Sean Fender, Dgeral, Pooja B
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*

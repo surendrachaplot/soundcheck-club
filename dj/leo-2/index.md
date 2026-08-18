@@ -1,6 +1,6 @@
 # Leo (2)
 
-Leo (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Leo (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Leo (2) is a house and techno artist tracked on soundcheck, with 20 sets logged across Athens, Bali, Bucharest and Budapest and 10 more. Often billed alongside AbueKev, Colette and Daro. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Leo (2) is a house and techno artist tracked on soundcheck, with 20 sets logged 
 
 AbueKev, Colette, Daro
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-2/)*

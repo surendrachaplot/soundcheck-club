@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+Aroop Roy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
 Aroop Roy is a house and disco artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: fabric, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Aroop Roy is a house and disco artist tracked on soundcheck, with 96 sets logged
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

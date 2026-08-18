@@ -1,6 +1,6 @@
 # El Cid
 
-El Cid is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Club Cielo x Keep Hush" on Fri, 4 Sept 2026.
+El Cid is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Club Cielo x Keep Hush" on Fri, 4 Sept 2026.
 
 El Cid is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including DINABN, flirty800, Jae-an and Ly Tran and 1 more. Browse upcoming dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
 
@@ -15,4 +15,4 @@ El Cid is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, w
 
 4212 W. Sunset Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*

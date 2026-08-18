@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Warehouse, Leeds on Fri, 18 Sept 2026.
+Goosey is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Warehouse, Leeds on Fri, 18 Sept 2026.
 
 Goosey is a house and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 12 more. Often billed alongside Enzo is Burning, Gaskin and Luca Pernice. Next up: The Warehouse, Leeds on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Goosey is a house and tech house artist tracked on soundcheck, with 69 sets logg
 
 Enzo is Burning, Gaskin, Luca Pernice
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

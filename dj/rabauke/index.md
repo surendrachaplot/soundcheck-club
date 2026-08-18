@@ -1,6 +1,6 @@
 # Rabauke
 
-Rabauke is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
+Rabauke is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
 
 Rabauke is a techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Ritter Butzke, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rabauke is a techno artist based in Germany, tracked on soundcheck, with 14 sets
 
 Confred, Marius Holm, Pajüh
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabauke/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabauke/)*

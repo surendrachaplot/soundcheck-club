@@ -1,6 +1,6 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Tierhaus Fringe x Mile High Club feat. noodle, Lewis Robertson, yung kidd" on Fri, 28 Aug 2026.
+Leith Arches is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Tierhaus Fringe x Mile High Club feat. noodle, Lewis Robertson, yung kidd" on Fri, 28 Aug 2026.
 
 Leith Arches is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Lewis Robertson, noodle and yung kidd. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
@@ -16,4 +16,4 @@ Leith Arches is a music venue in Edinburgh listed on soundcheck. 3 upcoming nigh
 
 6 Manderston St, Edinburgh, EH6 8LY, Edinburgh
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*

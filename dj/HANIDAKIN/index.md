@@ -1,6 +1,6 @@
 # HANI DAKIN
 
-HANI DAKIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Slakthuset, Stockholm on Sat, 22 Aug 2026.
+HANI DAKIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Slakthuset, Stockholm on Sat, 22 Aug 2026.
 
 HANI DAKIN is a techno and industrial artist based in Spain, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Lilly Palmer, Gregor Tresher and Lorenzo Raganzini. Next up: Slakthuset, Stockholm on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ HANI DAKIN is a techno and industrial artist based in Spain, tracked on soundche
 
 Lilly Palmer, Gregor Tresher, Lorenzo Raganzini
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*

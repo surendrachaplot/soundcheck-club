@@ -1,6 +1,6 @@
 # Jemima from the Bible
 
-Jemima from the Bible is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 18 Sept 2026.
+Jemima from the Bible is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 18 Sept 2026.
 
 Jemima from the Bible is a techno and bass artist tracked on soundcheck, with 14 sets logged across Edinburgh and Glasgow. Often billed alongside DJ CABLECAR, Lara Sinclair and Dansa. Next up: The Berkeley Suite, Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jemima from the Bible is a techno and bass artist tracked on soundcheck, with 14
 
 DJ CABLECAR, Lara Sinclair, Dansa
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jemimafromthebible/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jemimafromthebible/)*

@@ -1,6 +1,6 @@
 # Adam Blake
 
-Adam Blake is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
+Adam Blake is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
 
 Adam Blake is a house and deep house artist based in Latvia, tracked on soundcheck, with 12 sets logged across Riga. Often billed alongside Kapusta, Rexton and Kelvin. Next up: Riga Wake, Riga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Adam Blake is a house and deep house artist based in Latvia, tracked on soundche
 
 Kapusta, Rexton, Kelvin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*

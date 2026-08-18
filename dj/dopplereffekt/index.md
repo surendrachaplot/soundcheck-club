@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
+Dopplereffekt is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
 
 Dopplereffekt is a techno and electro artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Bristol and Chicago and 16 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: 314 Scholes, Newyorkcity on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Dopplereffekt is a techno and electro artist tracked on soundcheck, with 36 sets
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

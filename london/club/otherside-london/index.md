@@ -1,6 +1,6 @@
 # Otherside London
 
-Otherside London is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Reggae Roast ft. Horseman, Mr Williamz, Natty Campbell + Donovan Kingjay - Live at Otherside" on Fri, 21 Aug 2026.
+Otherside London is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Reggae Roast ft. Horseman, Mr Williamz, Natty Campbell + Donovan Kingjay - Live at Otherside" on Fri, 21 Aug 2026.
 
 Otherside London is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Horsepower Productions and Voltage. Browse upcoming dates, start times and who's playing. 261 Portobello Road, London, W11 1LR.
 
@@ -18,4 +18,4 @@ Otherside London is a music venue in London listed on soundcheck. 5 upcoming nig
 
 261 Portobello Road, London, W11 1LR, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*

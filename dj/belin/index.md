@@ -1,6 +1,6 @@
 # Belin
 
-Belin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
+Belin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
 
 Belin is a techno and industrial artist based in Turkey, tracked on soundcheck, with 28 sets logged across Istanbul, London and Osaka. Often billed alongside Jehra, Brojski and MATT.. Next up: Low Profile Studios, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Belin is a techno and industrial artist based in Turkey, tracked on soundcheck, 
 
 Jehra, Brojski, MATT.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*

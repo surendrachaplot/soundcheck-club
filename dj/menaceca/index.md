@@ -1,14 +1,14 @@
 # MENACE (CA)
 
-MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat, 22 Aug 2026.
+MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
 
-MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Alley Kay, Burnii and KILL 9 1. Next up: TBA - 821 Runnymede Rd Toronto, ON M6N 3V8, Toronto on Sat 22 Aug.
+MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Alley Kay, Burnii and KILL 9 1. Next up: Runnymede Hall, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - 821 Runnymede Rd Toronto, ON M6N 3V8 | Toronto |
+| Sat, 22 Aug 2026 | Runnymede Hall | Toronto |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundc
 
 Alley Kay, Burnii, KILL 9 1
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*

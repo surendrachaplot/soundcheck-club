@@ -1,8 +1,8 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Zoo IS BACK - RESISTENZA: David Löhlein • Philippa Pacho • ROÜGE • Hermeth [VJ Mondame Pigeon]" on Fri, 28 Aug 2026.
+Zoo is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Zoo IS BACK - RESISTENZA: David Löhlein • Philippa Pacho • ROÜGE • Hermeth [VJ Mondame Pigeon]" on Fri, 28 Aug 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including Alpha Tracks, Bowmore, Cadence [HTRB] and David Löhlein and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including Adiel, Alex Nantaya, Alpha Tracks and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Zoo is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with lin
 | Fri, 4 Sept 2026 | LOCAL HEADZ: Gioski • Neciō • Megix • Phalera [VJs L12B] | Gioski, Megix |
 | Sat, 5 Sept 2026 | VORTEX: Alpha Tracks • Bowmore • Cadence • Ecar [VJ N1440] | Alpha Tracks, Bowmore, Cadence [HTRB], Ecar |
 | Wed, 9 Sept 2026 | FORWARD TO ROOTS: Queen Sheeba + Redubtion Sound System meets Bush Doctors Sound System |  |
+| Fri, 11 Sept 2026 | STROBE CULTURE WEEKENDER • presented by Laster & Tech Couture | Adiel, Alex Nantaya, Anabel Arroyo, Bailey Ibbs, Laia, Mac Declos, Roll Dann |
 
 ## Address
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

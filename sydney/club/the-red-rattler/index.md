@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Team Jersey Party Takeover" on Sat, 22 Aug 2026.
+The Red Rattler is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Team Jersey Party Takeover" on Sat, 22 Aug 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Arsonist and Cristal No.5. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -16,4 +16,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 3 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

@@ -1,6 +1,6 @@
 # Liroy
 
-Liroy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
+Liroy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
 
 Liroy is a techno and trance artist tracked on soundcheck, with 23 sets logged across Munich, Stuttgart and Vienna. Often billed alongside Caldarelli, Technoschnizzel and DJ Unholy. Next up: Rote Sonne, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Liroy is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 
 Caldarelli, Technoschnizzel, DJ Unholy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liroy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liroy/)*

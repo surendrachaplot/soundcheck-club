@@ -1,6 +1,6 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 21 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Cyril" on Fri, 21 Aug 2026.
+Club Vinyl is a music venue in Denver with 21 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Cyril" on Fri, 21 Aug 2026.
 
 Club Vinyl is a music venue in Denver listed on soundcheck. 21 upcoming nights, with line-ups including Ahadadream, Baauer, Bassjackers and Classmatic and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 21 upcoming nights, 
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

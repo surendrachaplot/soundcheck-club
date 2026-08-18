@@ -1,8 +1,8 @@
 # Scorpios
 
-Scorpios is a music venue in Mykonos with 15 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ANOTR, Lannka B2B Little D" on Tue, 18 Aug 2026.
+Scorpios is a music venue in Mykonos with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "ANOTR, Lannka B2B Little D" on Tue, 18 Aug 2026.
 
-Scorpios is a music venue in Mykonos listed on soundcheck. 15 upcoming nights, with line-ups including Âme, ANOTR, Avangart Tabldot and Damian Lazarus and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
+Scorpios is a music venue in Mykonos listed on soundcheck. 15 upcoming nights, with line-ups including Alex Kennon, Âme, ANOTR and Avangart Tabldot and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Scorpios is a music venue in Mykonos listed on soundcheck. 15 upcoming nights, w
 | Thu, 27 Aug 2026 | Jimi Jules, Avangart Tabldot, NFRTITI | Avangart Tabldot, Jimi Jules |
 | Fri, 28 Aug 2026 | Scorpios | Natascha Polké |
 | Tue, 1 Sept 2026 | Samm B2B Reznik, Avangart Tabldot | Avangart Tabldot, Reznik, Samm (BE) |
-| Thu, 3 Sept 2026 | Jean Claude Ades, Ede | Ede, Jean Claude Ades |
+| Thu, 3 Sept 2026 | Jean Claude Ades B2B Alex Kennon, Ede | Alex Kennon, Ede, Jean Claude Ades |
 | Tue, 8 Sept 2026 | Tripolism, Little D | Tripolism |
-| Wed, 9 Sept 2026 | Scorpios Label Night with Jean Claude Ades B2B Santiago Garcia, Lannka B2B Valeron | Jean Claude Ades, Santiago Garcia, Valeron |
+| Wed, 9 Sept 2026 | Scorpios Label Night with Jean Claude Ades B2B Santiago Garcia, Lannka  | Jean Claude Ades, Santiago Garcia, Valeron |
 
 ## Address
 
 Paraga, Mikonos 846 00, Greece, Mykonos
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*

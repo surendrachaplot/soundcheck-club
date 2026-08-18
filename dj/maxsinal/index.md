@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Max Sinàl is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Max Sinàl is a deep house and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 31 sets 
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

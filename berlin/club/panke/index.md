@@ -1,8 +1,8 @@
 # Panke
 
-Panke is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Picha Congo Fundraiser" on Fri, 21 Aug 2026.
+Panke is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Picha Congo Fundraiser" on Fri, 21 Aug 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Calcou and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Calcou and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with 
 | Sat, 5 Sept 2026 | THE MINE with Synkro, SGT Pokes, NINA, Torn, Formella, Dub Athlete, DUKU, Deximl | DUKU, Dub Athlete, Formella, SGT Pokes, Synkro |
 | Wed, 9 Sept 2026 | CONTAGIOUS - BEING album release concert | CONTAGIOUS, Mieko Suzuki, Rabih Beaini |
 | Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
-| Fri, 30 Oct 2026 | FUKSTEP |  |
+| Fri, 16 Oct 2026 | Bassism 5.0 feat. N-Type & SLOWIE | Dj Alyaz, Dj Quien, Grzly Adams, N-Type, Scre_wy, Tommy Lexxus, VILIFY |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

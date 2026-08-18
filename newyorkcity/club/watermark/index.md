@@ -1,8 +1,8 @@
 # Watermark
 
-Watermark is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "#1 PUERTO RICAN NIGHT - UNA NOCHE EN LA PLACITA - PERREO PIER" on Fri, 21 Aug 2026.
+Watermark is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "#1 PUERTO RICAN NIGHT - UNA NOCHE EN LA PLACITA - PERREO PIER" on Fri, 21 Aug 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nigh
 | Fri, 28 Aug 2026 | Rauw Alejandro Tribute Party - Noche de Saturno Latin Party |  |
 | Sat, 29 Aug 2026 | Bad Bunny Tribute Latin & Reggaeton Beach Party |  |
 | Sun, 30 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
-| Thu, 3 Sept 2026 | Labor Day Weekend Beach Festival - Reggaeton & Latin Party |  |
+| Sun, 30 Aug 2026 | Mexican Sunset Beach Party: Live Band: La Consentida |  |
 
 ## Address
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

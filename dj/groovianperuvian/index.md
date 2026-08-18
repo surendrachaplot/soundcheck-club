@@ -1,6 +1,6 @@
 # groovian peruvian
 
-groovian peruvian is a Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Praterinsel, Munich on Sat, 22 Aug 2026.
+groovian peruvian is a Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Praterinsel, Munich on Sat, 22 Aug 2026.
 
 groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside mafiii, DJ SEXSTASY and Katopodis. Next up: Praterinsel, Munich on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, w
 
 mafiii, DJ SEXSTASY, Katopodis
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*

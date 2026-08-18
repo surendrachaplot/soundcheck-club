@@ -1,6 +1,6 @@
 # Blaize Bass
 
-Blaize Bass is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
+Blaize Bass is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
 
 Blaize Bass is a psytrance and techno artist based in Australia, tracked on soundcheck, with 5 sets logged across Sydney and Tokyo. Often billed alongside Know How, Allen Cedano and Astrix. Next up: Cult Nightclub, Sydney on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Blaize Bass is a psytrance and techno artist based in Australia, tracked on soun
 
 Know How, Allen Cedano, Astrix
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaizebass/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaizebass/)*

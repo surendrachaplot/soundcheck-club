@@ -1,6 +1,6 @@
 # ZAVODA
 
-ZAVODA is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Los Angeles on Sat, 29 Aug 2026.
+ZAVODA is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Los Angeles on Sat, 29 Aug 2026.
 
 ZAVODA is a club and tech house artist tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Things You Say, BUCK/OFF and Flabbergast (LA). Next up: TBA, Losangeles on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ ZAVODA is a club and tech house artist tracked on soundcheck, with 4 sets logged
 
 Things You Say, BUCK/OFF, Flabbergast (LA)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zavoda/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zavoda/)*

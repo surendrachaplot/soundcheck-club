@@ -1,6 +1,6 @@
 # Dicso_Muzek
 
-Dicso_Muzek is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Süss War Gestern, Berlin on Tue, 25 Aug 2026.
+Dicso_Muzek is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Süss War Gestern, Berlin on Tue, 25 Aug 2026.
 
 Dicso_Muzek is a house and club artist based in Germany, tracked on soundcheck, with 61 sets logged across Berlin. Often billed alongside Better Call Paul, Nikklaas and ADAM REC.. Next up: Süss War Gestern, Berlin on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Dicso_Muzek is a house and club artist based in Germany, tracked on soundcheck, 
 
 Better Call Paul, Nikklaas, ADAM REC.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*

@@ -1,6 +1,6 @@
 # HOTBOI2300
 
-HOTBOI2300 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+HOTBOI2300 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 HOTBOI2300 is a techno and trance artist tracked on soundcheck, with 72 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 10 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ HOTBOI2300 is a techno and trance artist tracked on soundcheck, with 72 sets log
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*

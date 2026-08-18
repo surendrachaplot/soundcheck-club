@@ -1,6 +1,6 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 12 Sept 2026.
+John Summit is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 12 Sept 2026.
 
 John Summit is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Bali and Barcelona and 22 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ John Summit is a house and tech house artist tracked on soundcheck, with 111 set
 
 Eli Brown, Layton Giordani, Loco Dice
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

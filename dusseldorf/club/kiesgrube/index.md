@@ -1,6 +1,6 @@
 # Kiesgrube
 
-Kiesgrube is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Kiesgrube presents #WAH with NOVAH, Cloudy, NEGITIV, Vagabund" on Sun, 23 Aug 2026.
+Kiesgrube is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Kiesgrube presents #WAH with NOVAH, Cloudy, NEGITIV, Vagabund" on Sun, 23 Aug 2026.
 
 Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including Cloudy, DJ Gigola, Francisco Allendes and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. Blankenwasser Sudermannstraße 41468 Neuss.
 
@@ -15,4 +15,4 @@ Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights
 
 Blankenwasser Sudermannstraße 41468 Neuss, Düsseldorf
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*

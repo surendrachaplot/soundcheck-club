@@ -1,6 +1,6 @@
 # Andy411
 
-Andy411 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 22 Aug 2026.
+Andy411 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Andy411 is a club and house artist tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside LILRAV4, Femme Jatale and Shino Smoke. Next up: Arcana, Sanfrancisco on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Andy411 is a club and house artist tracked on soundcheck, with 7 sets logged acr
 
 LILRAV4, Femme Jatale, Shino Smoke
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy411/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy411/)*

@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans" on Thu, 20 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans" on Thu, 20 Aug 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -21,4 +21,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 8 upcomi
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

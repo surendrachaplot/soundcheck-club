@@ -1,6 +1,6 @@
 # Mike Gurrieri
 
-Mike Gurrieri is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 25 Sept 2026.
+Mike Gurrieri is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 25 Sept 2026.
 
 Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundcheck, with 38 sets logged across Melbourne. Often billed alongside Zepherin Saint, Kuzco and Zjoso. Next up: The Evelyn Hotel, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundche
 
 Zepherin Saint, Kuzco, Zjoso
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*

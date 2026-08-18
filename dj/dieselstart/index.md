@@ -1,6 +1,6 @@
 # Dieselstart
 
-Dieselstart is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 20 Aug 2026.
+Dieselstart is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 20 Aug 2026.
 
 Dieselstart is an electronic artist tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Zypher, Malvadisco and ACID B4RBIE. Next up: Golden Pudel Club, Hamburg on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Dieselstart is an electronic artist tracked on soundcheck, with 4 sets logged ac
 
 Zypher, Malvadisco, ACID B4RBIE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselstart/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselstart/)*

@@ -1,6 +1,6 @@
 # Another Taste
 
-Another Taste is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
+Another Taste is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
 
 Another Taste is a disco and funk / soul artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Ajuma, Danilo Plessow and Ays (NL). Next up: Noorderlicht Café, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Another Taste is a disco and funk / soul artist based in Netherlands, tracked on
 
 Ajuma, Danilo Plessow, Ays (NL)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*

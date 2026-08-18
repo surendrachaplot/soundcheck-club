@@ -1,6 +1,6 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Cabanne is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Cabanne is a house and minimal artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside Rhadoo, Lowris and Satoshi Tomiie. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cabanne is a house and minimal artist tracked on soundcheck, with 63 sets logged
 
 Rhadoo, Lowris, Satoshi Tomiie
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*

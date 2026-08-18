@@ -1,6 +1,6 @@
 # K1000o
 
-K1000o is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+K1000o is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 K1000o is a techno and electronica artist based in Venezuela, tracked on soundcheck, with 11 sets logged across Berlin and Madrid. Often billed alongside Redondoo, Yiye and Ari Jani. Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ K1000o is a techno and electronica artist based in Venezuela, tracked on soundch
 
 Redondoo, Yiye, Ari Jani
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k1000o/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k1000o/)*

@@ -1,6 +1,6 @@
 # Ana Karla
 
-Ana Karla is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Golden Gate, Berlin on Fri, 21 Aug 2026.
+Ana Karla is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Golden Gate, Berlin on Fri, 21 Aug 2026.
 
 Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck, with 51 sets logged across Berlin, Copenhagen, Hamburg and Oslo. Often billed alongside Ida Daugaard, Christina Evangelista and Geroge. Next up: Golden Gate, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Ana Karla is a house and techno artist based in Argentina, tracked on soundcheck
 
 Ida Daugaard, Christina Evangelista, Geroge
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*

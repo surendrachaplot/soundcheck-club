@@ -1,6 +1,6 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at vurt., Seoul on Fri, 21 Aug 2026.
+Mathys Lenne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at vurt., Seoul on Fri, 21 Aug 2026.
 
 Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside Maris Shilton, Mara Menace and Olivia Mendez. Next up: vurt., Seoul on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets lo
 
 Maris Shilton, Mara Menace, Olivia Mendez
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

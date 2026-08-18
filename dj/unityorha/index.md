@@ -1,6 +1,6 @@
 # Unit YoRHa
 
-Unit YoRHa is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Fri, 21 Aug 2026.
+Unit YoRHa is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Fri, 21 Aug 2026.
 
 Unit YoRHa is an experimental and electro artist tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Hunnygloss, finlince! and imyzuli. Next up: M.O.T, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Unit YoRHa is an experimental and electro artist tracked on soundcheck, with 9 s
 
 Hunnygloss, finlince!, imyzuli
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*

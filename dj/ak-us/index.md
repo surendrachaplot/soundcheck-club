@@ -1,6 +1,6 @@
 # AK (US)
 
-AK (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
+AK (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
 
 AK (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and JMT (2). Next up: Marble Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ AK (US) is a techno and house artist based in United States of America, tracked 
 
 Blackmoonchild, Disc Jockey George, JMT (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

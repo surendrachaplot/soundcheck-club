@@ -1,6 +1,6 @@
 # Junior Sanchez
 
-Junior Sanchez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
+Junior Sanchez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
 
 Junior Sanchez is a house and tech house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Boston, Detroit and Ibiza and 7 more. Often billed alongside Gettoblaster, Love & Logic and Devon James. Next up: Superior Ingredients, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Junior Sanchez is a house and tech house artist based in United States of Americ
 
 Gettoblaster, Love & Logic, Devon James
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*

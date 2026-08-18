@@ -1,6 +1,6 @@
 # Anomia
 
-Anomia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Le Red Room, Montreal on Sun, 23 Aug 2026.
+Anomia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Le Red Room, Montreal on Sun, 23 Aug 2026.
 
 Anomia is a tech house and house artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside Walji, AYMÉ and Harry Trancer. Next up: Le Red Room, Montreal on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ Anomia is a tech house and house artist based in Canada, tracked on soundcheck, 
 
 Walji, AYMÉ, Harry Trancer
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anomia/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anomia/)*

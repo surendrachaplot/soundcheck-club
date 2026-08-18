@@ -1,6 +1,6 @@
 # Yuto Takei
 
-Yuto Takei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Chika-Ikkai, Osaka on Sat, 22 Aug 2026.
+Yuto Takei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chika-Ikkai, Osaka on Sat, 22 Aug 2026.
 
 Yuto Takei is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Brussels, Ghent and Kyoto and 5 more. Often billed alongside Ario, Dihi and Lomax. Next up: Chika-Ikkai, Osaka on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Yuto Takei is a house and techno artist tracked on soundcheck, with 73 sets logg
 
 Ario, Dihi, Lomax
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yutotakei/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yutotakei/)*

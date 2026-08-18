@@ -1,6 +1,6 @@
 # Phoebe Roper
 
-Phoebe Roper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 16 Sept 2026.
+Phoebe Roper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 16 Sept 2026.
 
 Phoebe Roper is a house and garage artist tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside cara hegarty, LUKOA and Nikki Guild. Next up: Sneaky Pete's, Edinburgh on Wed 16 Sept.
 
@@ -24,4 +24,4 @@ Phoebe Roper is a house and garage artist tracked on soundcheck, with 8 sets log
 
 cara hegarty, LUKOA, Nikki Guild
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*

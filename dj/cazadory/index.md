@@ -1,6 +1,6 @@
 # cazadory
 
-cazadory is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - AMMA CAFE RIDGEWOOD, New York City on Fri, 28 Aug 2026.
+cazadory is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - AMMA CAFE RIDGEWOOD, New York City on Fri, 28 Aug 2026.
 
 cazadory is a club and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside dj wagner, WADDLE and Antide. Next up: TBA - AMMA CAFE RIDGEWOOD, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ cazadory is a club and techno artist based in United States of America, tracked 
 
 dj wagner, WADDLE, Antide
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cazadory/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cazadory/)*

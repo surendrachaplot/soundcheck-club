@@ -1,6 +1,6 @@
 # Epiphany
 
-Epiphany is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Epiphany is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Epiphany is an electronic artist based in Germany, tracked on soundcheck, with 1 set logged across Rotterdam. Often billed alongside AMORAL, Ambu Bambu and Candy Coup. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Epiphany is an electronic artist based in Germany, tracked on soundcheck, with 1
 
 AMORAL, Ambu Bambu, Candy Coup
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epiphany/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epiphany/)*

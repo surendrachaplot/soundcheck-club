@@ -1,6 +1,6 @@
 # Marios
 
-Marios is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
+Marios is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
 
 Marios is a house and post-punk artist based in United States of America, tracked on soundcheck, with 15 sets logged across Krakow and Newyorkcity. Often billed alongside Statice, Bodega Bruja and Kaili. Next up: ErF Studios, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Marios is a house and post-punk artist based in United States of America, tracke
 
 Statice, Bodega Bruja, Kaili
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marios/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marios/)*

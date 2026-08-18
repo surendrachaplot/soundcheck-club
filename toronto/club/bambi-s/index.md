@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Groove Pool" on Fri, 21 Aug 2026.
+Bambi's is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Groove Pool" on Fri, 21 Aug 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Cosmic JD, DINO (3), DJ Visitor and Ficilio and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -17,4 +17,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 4 upcoming nights, wit
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

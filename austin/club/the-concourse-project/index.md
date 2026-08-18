@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Azzecca (Extended Set) + William Kiss - Austin" on Fri, 21 Aug 2026.
+The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Azzecca (Extended Set) + William Kiss - Austin" on Fri, 21 Aug 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

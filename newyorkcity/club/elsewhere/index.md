@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Hixxy, m i m i, Nurse, KING" on Tue, 18 Aug 2026.
+Elsewhere is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Hixxy, m i m i, Nurse, KING" on Tue, 18 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including 6 SENSE, 999ADJ, AEREA and AKKI (DE) and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

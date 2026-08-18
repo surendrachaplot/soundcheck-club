@@ -1,6 +1,6 @@
 # Clem
 
-Clem is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
+Clem is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
 
 Clem is a house and electro artist based in Switzerland, tracked on soundcheck, with 1 set logged across Geneva. Often billed alongside Puma and mimetic. Next up: Tropical Corner, Geneva on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ Clem is a house and electro artist based in Switzerland, tracked on soundcheck, 
 
 Puma, mimetic
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clem/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clem/)*

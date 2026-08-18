@@ -1,6 +1,6 @@
 # Trucha
 
-Trucha is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 29 Oct 2026.
+Trucha is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 29 Oct 2026.
 
 Trucha is a house and disco artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Austin and Edinburgh. Often billed alongside A Pavlo, Maya Hacker and Ben Kok (2). Next up: The Bongo Club, Edinburgh on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Trucha is a house and disco artist based in United Kingdom, tracked on soundchec
 
 A Pavlo, Maya Hacker, Ben Kok (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*

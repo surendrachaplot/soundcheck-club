@@ -1,6 +1,6 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
+BRATATTACK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
 
 BRATATTACK is a club and techno artist tracked on soundcheck, with 20 sets logged across Boston, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Bullosa, YULIA (US) and 1morning. Next up: Mood Ring, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ BRATATTACK is a club and techno artist tracked on soundcheck, with 20 sets logge
 
 Bullosa, YULIA (US), 1morning
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

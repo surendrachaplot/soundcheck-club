@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "✦SEELEN x encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 18 Aug 2026.
+OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "✦SEELEN x encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 18 Aug 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

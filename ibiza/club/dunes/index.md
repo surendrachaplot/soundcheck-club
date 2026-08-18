@@ -1,6 +1,6 @@
 # Dunes
 
-Dunes is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Summer Nights Ibiza" on Sat, 22 Aug 2026.
+Dunes is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Summer Nights Ibiza" on Sat, 22 Aug 2026.
 
 Dunes is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, with line-ups including CATAWR, Elwei, Hector Moreno and Jess Rose and 2 more. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa, 07817 Sant Josep de sa Talaia, Illes Balears, España.
 
@@ -16,4 +16,4 @@ Dunes is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, with li
 
 Ctra. de Platja d'en Bossa, 07817 Sant Josep de sa Talaia, Illes Balears, España, Ibiza
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dunes/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dunes/)*

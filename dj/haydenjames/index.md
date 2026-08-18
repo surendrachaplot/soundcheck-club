@@ -1,6 +1,6 @@
 # Hayden James
 
-Hayden James is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Aracely Cafe, San Francisco/Oakland on Fri, 28 Aug 2026.
+Hayden James is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Aracely Cafe, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Hayden James is a house and deep house artist tracked on soundcheck, with 55 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Aracely Cafe, Sanfrancisco on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Hayden James is a house and deep house artist tracked on soundcheck, with 55 set
 
 Gorgon City, Claptone, Eli & Fur
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*

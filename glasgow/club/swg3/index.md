@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CBR x Glass Tank Garden Party" on Fri, 21 Aug 2026.
+SWG3 is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CBR x Glass Tank Garden Party" on Fri, 21 Aug 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including 222babychai, Andrew Thomson, AXION and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with 
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

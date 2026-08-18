@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Elements Cave" on Wed, 19 Aug 2026.
+Sala El Sol is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Elements Cave" on Wed, 19 Aug 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including DAVID MENA, JayVi, JvggedDoggie and Nixy and 2 more. Browse upcoming dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 4 upcoming nights, 
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

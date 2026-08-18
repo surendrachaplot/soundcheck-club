@@ -1,6 +1,6 @@
 # Some Uncertain Sir
 
-Some Uncertain Sir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
+Some Uncertain Sir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
 
 Some Uncertain Sir is a house and deep house artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Losangeles and Montreal and 2 more. Often billed alongside Falpa, Anderson (US) and DJ Zurückbleiben Bitte. Next up: TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Some Uncertain Sir is a house and deep house artist based in Germany, tracked on
 
 Falpa, Anderson (US), DJ Zurückbleiben Bitte
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someuncertainsir/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someuncertainsir/)*

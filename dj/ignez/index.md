@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Prince Charles, Berlin on Sat, 22 Aug 2026.
+Ignez is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Prince Charles, Berlin on Sat, 22 Aug 2026.
 
 Ignez is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Prince Charles, Berlin on Sat 22 Aug.
 
@@ -35,4 +35,4 @@ Ignez is a techno and house artist tracked on soundcheck, with 182 sets logged a
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

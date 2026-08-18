@@ -1,6 +1,6 @@
 # Elsaq
 
-Elsaq is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
+Elsaq is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
 
 Elsaq is a deep house and dub techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside ATEQ, Alexia (2) and Bärtaub. Next up: FOUND, Berlin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Elsaq is a deep house and dub techno artist based in Germany, tracked on soundch
 
 ATEQ, Alexia (2), Bärtaub
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsaq/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsaq/)*

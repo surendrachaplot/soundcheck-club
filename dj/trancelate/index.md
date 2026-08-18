@@ -1,6 +1,6 @@
 # Trancelate
 
-Trancelate is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
+Trancelate is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
 
 Trancelate is a techno artist based in Sweden, tracked on soundcheck, with 4 sets logged across Bucharest, Copenhagen and Stockholm. Often billed alongside AMEDEUS, Amnesico and DA NA. Next up: Nether Club, Bucharest on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Trancelate is a techno artist based in Sweden, tracked on soundcheck, with 4 set
 
 AMEDEUS, Amnesico, DA NA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancelate/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancelate/)*

@@ -1,6 +1,6 @@
 # Joshua Cordova
 
-Joshua Cordova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - 6910 Shirley Ave, Austin on Fri, 21 Aug 2026.
+Joshua Cordova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 6910 Shirley Ave, Austin on Fri, 21 Aug 2026.
 
 Joshua Cordova is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Austin, Belgrade and Berlin and 8 more. Often billed alongside Bill Converse, Sneaker and Alo. Next up: TBA - 6910 Shirley Ave, Austin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Joshua Cordova is a house and techno artist based in United States of America, t
 
 Bill Converse, Sneaker, Alo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacordova/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacordova/)*

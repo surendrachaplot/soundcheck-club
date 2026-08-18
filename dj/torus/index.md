@@ -1,6 +1,6 @@
 # Torus
 
-Torus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+Torus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Torus is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 SIGNAL (JP), Evian Christ, Ayana Pattra
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

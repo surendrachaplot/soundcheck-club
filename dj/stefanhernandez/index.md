@@ -1,6 +1,6 @@
 # Stefan Hernandez
 
-Stefan Hernandez is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
+Stefan Hernandez is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
 
 Stefan Hernandez is a techno and tech house artist tracked on soundcheck, with 20 sets logged across Bucharest. Often billed alongside AMEDEUS, KATHERYNE and Amnesico. Next up: Nether Club, Bucharest on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Stefan Hernandez is a techno and tech house artist tracked on soundcheck, with 2
 
 AMEDEUS, KATHERYNE, Amnesico
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanhernandez/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanhernandez/)*

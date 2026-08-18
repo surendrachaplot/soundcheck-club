@@ -1,6 +1,6 @@
-# Rusty Bar: PRe-Drink at Rusty Bar
+# Rusty Bar: Pre-Drink at Rusty Bar
 
-Rusty Bar: PRe-Drink on Fri 21 Aug, Malta. House. Preview the line-up and save it on soundcheck.
+Rusty Bar: Pre-Drink on Fri 21 Aug, Malta. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

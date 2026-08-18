@@ -1,6 +1,6 @@
 # Nark
 
-Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - SECRET LOCATION, Seattle on Fri, 28 Aug 2026.
+Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - SECRET LOCATION, Seattle on Fri, 28 Aug 2026.
 
 Nark is a house and techno artist tracked on soundcheck, with 65 sets logged across Losangeles, Mexicocity, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, Succubass and Wax Witch. Next up: TBA - SECRET LOCATION, Seattle on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Nark is a house and techno artist tracked on soundcheck, with 65 sets logged acr
 
 Sharlese, Succubass, Wax Witch
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*

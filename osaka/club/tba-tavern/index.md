@@ -1,6 +1,6 @@
 # TBA - TAVERN
 
-TBA - TAVERN is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "DELICIOUS HOUSE-BITES, BREWS & BEATS-" on Sat, 22 Aug 2026.
+TBA - TAVERN is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "DELICIOUS HOUSE-BITES, BREWS & BEATS-" on Sat, 22 Aug 2026.
 
 TBA - TAVERN is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including Tokumoto. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - TAVERN is a music venue in Osaka listed on soundcheck. 1 upcoming night, w
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | DELICIOUS HOUSE-BITES, BREWS & BEATS- | Tokumoto |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tba-tavern/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tba-tavern/)*

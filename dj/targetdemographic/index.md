@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Target Demographic is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 Target Demographic is a house and breakbeat artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Target Demographic is a house and breakbeat artist tracked on soundcheck, with 1
 
 Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

@@ -1,6 +1,6 @@
 # Kevin Di Serna
 
-Kevin Di Serna is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Kevin Di Serna is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
 Kevin Di Serna is a progressive house and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 5 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Gaspar Torres. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Kevin Di Serna is a progressive house and house artist tracked on soundcheck, wi
 
 Hernan Cattaneo, Agustin Ficarra, Gaspar Torres
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*

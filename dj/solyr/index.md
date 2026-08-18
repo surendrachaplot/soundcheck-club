@@ -1,6 +1,6 @@
 # Solyr
 
-Solyr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
+Solyr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Twist Bar, Prague on Fri, 21 Aug 2026.
 
 Solyr is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside sensour, Lana Ives and RYBA. Next up: Twist Bar, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Solyr is a techno and house artist tracked on soundcheck, with 11 sets logged ac
 
 sensour, Lana Ives, RYBA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solyr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solyr/)*

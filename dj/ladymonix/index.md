@@ -1,13 +1,14 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
+LADYMONIX is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
 
-LADYMONIX is a house and techno artist tracked on soundcheck, with 148 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Nowadays, Newyorkcity on Sat 22 Aug.
+LADYMONIX is a house and techno artist tracked on soundcheck, with 149 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - MJ’s North End Ice Cream | Detroit |
 | Sat, 22 Aug 2026 | Nowadays | New York City |
 | Sat, 29 Aug 2026 | Marble Bar | Detroit |
 | Sat, 19 Sept 2026 | The Beaumont Studios | Vancouver |
@@ -27,4 +28,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 148 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

@@ -1,6 +1,6 @@
 # Bluetoof
 
-Bluetoof is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
+Bluetoof is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
 
 Bluetoof is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Belfast, Berlin, Birmingham and Brighton and 20 more. Often billed alongside Jossy Mitsu, BLUMITSU and Oblig. Next up: The Carpet Shop, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bluetoof is a bass and techno artist based in United Kingdom, tracked on soundch
 
 Jossy Mitsu, BLUMITSU, Oblig
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*

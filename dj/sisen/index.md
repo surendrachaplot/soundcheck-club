@@ -1,6 +1,6 @@
 # SiSeN
 
-SiSeN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
+SiSeN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
 
 SiSeN is a techno and industrial artist tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside Takuya Angel, CHIKA and andro (GOTHIKA). Next up: Camelot, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ SiSeN is a techno and industrial artist tracked on soundcheck, with 49 sets logg
 
 Takuya Angel, CHIKA, andro (GOTHIKA)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*

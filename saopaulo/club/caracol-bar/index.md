@@ -1,6 +1,6 @@
 # Caracol Bar
 
-Caracol Bar is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Despedida Caracol Barra Funda Com Millos Kaiser E Gui Scott" on Sat, 22 Aug 2026.
+Caracol Bar is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Despedida Caracol Barra Funda Com Millos Kaiser E Gui Scott" on Sat, 22 Aug 2026.
 
 Caracol Bar is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights, with line-ups including Gui Scott, Julia Weck, Millos Kaiser and Vermelho. Browse upcoming dates, start times and who's playing. Rua Boracéa 160, Barra Funda, São Paulo.
 
@@ -15,4 +15,4 @@ Caracol Bar is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights
 
 Rua Boracéa 160, Barra Funda, São Paulo, Sao Paulo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/caracol-bar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/caracol-bar/)*

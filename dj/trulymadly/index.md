@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
+Truly Madly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
 
 Truly Madly is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Distrikt, Leeds on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Truly Madly is a house and tech house artist tracked on soundcheck, with 145 set
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

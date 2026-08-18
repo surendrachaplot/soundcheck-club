@@ -1,6 +1,6 @@
 # Oh See
 
-Oh See is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
+Oh See is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
 
 Oh See is a house and techno artist tracked on soundcheck, with 40 sets logged across Brighton, Cardiff and London. Often billed alongside Minister Ballantine, Tiffany Quinn and Myriad.. Next up: M.O.T, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Oh See is a house and techno artist tracked on soundcheck, with 40 sets logged a
 
 Minister Ballantine, Tiffany Quinn, Myriad.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*

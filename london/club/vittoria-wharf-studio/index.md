@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Bailey Ibbs (House Set) - Hybrid Events " on Fri, 21 Aug 2026.
+Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Bailey Ibbs (House Set) - Hybrid Events " on Fri, 21 Aug 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Amaliah, AmeliaBC, Arnault and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -21,4 +21,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

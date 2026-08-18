@@ -1,6 +1,6 @@
 # malengo
 
-malengo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
+malengo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
 
 malengo is a techno and bass artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside Hanaby, DEKKAPA and HiTech. Next up: Panke, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ malengo is a techno and bass artist tracked on soundcheck, with 32 sets logged a
 
 Hanaby, DEKKAPA, HiTech
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malengo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malengo/)*

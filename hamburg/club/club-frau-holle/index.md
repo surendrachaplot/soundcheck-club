@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "HYPER HOLLE with VABU, NIKIIJA, TANTE THOMAS" on Fri, 21 Aug 2026.
+Club Frau Holle is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "HYPER HOLLE with VABU, NIKIIJA, TANTE THOMAS" on Fri, 21 Aug 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Benjamin Grimm, CHICHO, Frank Leder and Larzo and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -16,4 +16,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 3 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

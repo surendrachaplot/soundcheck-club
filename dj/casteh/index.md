@@ -1,6 +1,6 @@
 # Casteh
 
-Casteh is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Bloop., London on Wed, 19 Aug 2026.
+Casteh is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bloop., London on Wed, 19 Aug 2026.
 
 Casteh is a club and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and London. Often billed alongside I·AMME, Crisalide and Francis Dhuit. Next up: Bloop., London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Casteh is a club and techno artist based in Spain, tracked on soundcheck, with 1
 
 I·AMME, Crisalide, Francis Dhuit
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casteh/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casteh/)*

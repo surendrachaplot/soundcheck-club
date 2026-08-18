@@ -1,6 +1,6 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 24 Aug 2026.
+Peace Control is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 24 Aug 2026.
 
 Peace Control is a house and afro house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Buenosaires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: Hï Ibiza, Ibiza on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ Peace Control is a house and afro house artist based in United States of America
 
 Francis Mercier, Marten Lou, Bontan
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*

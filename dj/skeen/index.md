@@ -1,6 +1,6 @@
 # SKEEN
 
-SKEEN is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
+SKEEN is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
 
 SKEEN is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Chicago and Glasgow. Often billed alongside AKA DISPLAY, DEJA and Johnny Greig. Next up: The Berkeley Suite, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ SKEEN is a techno and dub techno artist based in United Kingdom, tracked on soun
 
 AKA DISPLAY, DEJA, Johnny Greig
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeen/)*

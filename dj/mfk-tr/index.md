@@ -1,8 +1,8 @@
 # MFK
 
-MFK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 26 Aug 2026.
+MFK is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 26 Aug 2026.
 
-MFK is an afro house and house artist based in Turkey, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Rami, Shimza and Mahmut Orhan. Next up: Chinois Ibiza, Ibiza on Wed 26 Aug.
+MFK is a house and afro house artist based in Turkey, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Mahmut Orhan, Rami and Shimza. Next up: Chinois Ibiza, Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ MFK is an afro house and house artist based in Turkey, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Rami, Shimza, Mahmut Orhan
+Mahmut Orhan, Rami, Shimza
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfk-tr/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfk-tr/)*

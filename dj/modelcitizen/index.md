@@ -1,6 +1,6 @@
 # Model Citizen
 
-Model Citizen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
+Model Citizen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
 
 Model Citizen is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Liverpool, Manchester, Paris and Tallinn and 1 more. Often billed alongside Concierge, GFA and Cersy. Next up: Kazimier Stockroom, Liverpool on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Model Citizen is a techno and electro artist based in United Kingdom, tracked on
 
 Concierge, GFA, Cersy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modelcitizen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modelcitizen/)*

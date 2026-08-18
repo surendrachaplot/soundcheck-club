@@ -1,6 +1,6 @@
 # TBA - warehouse Denver Colorado 
 
-TBA - warehouse Denver Colorado  is a music venue in Denver with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "Gaiser live Denver 2026" on Sat, 22 Aug 2026.
+TBA - warehouse Denver Colorado  is a music venue in Denver with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Postponed Gaiser live Denver 2027" on Sat, 22 Aug 2026.
 
 TBA - warehouse Denver Colorado  is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Brunson, Gaiser and Nico Tobón. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - warehouse Denver Colorado  is a music venue in Denver listed on soundcheck
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Gaiser live Denver 2026 | Brunson, Gaiser, Nico Tobón |
+| Sat, 22 Aug 2026 | Postponed Gaiser live Denver 2027 | Brunson, Gaiser, Nico Tobón |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-warehouse-denver-colorado/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-warehouse-denver-colorado/)*

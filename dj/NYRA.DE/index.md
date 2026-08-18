@@ -1,6 +1,6 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+NYRA (DE) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside davyboi, Bruno Brero and Cara Elizabeth. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 davyboi, Bruno Brero, Cara Elizabeth
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

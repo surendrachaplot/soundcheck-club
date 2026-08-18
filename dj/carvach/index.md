@@ -1,6 +1,6 @@
 # Carvach
 
-Carvach is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
+Carvach is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
 
 Carvach is a progressive house and techno artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside IMVIC, W2M and CRIME LÉSE. Next up: Born 2B Music Bar, Barcelona on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Carvach is a progressive house and techno artist tracked on soundcheck, with 3 s
 
 IMVIC, W2M, CRIME LÉSE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carvach/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carvach/)*

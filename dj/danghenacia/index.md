@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Dan Ghenacia is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 147 se
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

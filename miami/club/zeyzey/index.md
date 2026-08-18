@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Buscabulla DJ SET (Free Entry)" on Thu, 20 Aug 2026.
+ZeyZey is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Buscabulla DJ SET (Free Entry)" on Thu, 20 Aug 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including Cult Member, Eli & Fur, GiZ and JAEL and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 19 upcoming nights, with 
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

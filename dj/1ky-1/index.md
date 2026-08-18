@@ -1,6 +1,6 @@
 # 1KY (1)
 
-1KY (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
+1KY (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
 
 1KY (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Harmony, Josh Wickers and ZAZA C. Next up: Tola, London on Fri 25 Sept.
 
@@ -14,4 +14,4 @@
 
 Harmony, Josh Wickers, ZAZA C
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1ky-1/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1ky-1/)*

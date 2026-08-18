@@ -1,6 +1,6 @@
 # Lith Li
 
-Lith Li is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Blvck Water, Osaka on Fri, 21 Aug 2026.
+Lith Li is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Blvck Water, Osaka on Fri, 21 Aug 2026.
 
 Lith Li is a techno and ebm artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona, Lisbon, London and Montreal and 5 more. Often billed alongside Ricardo Castro, Steve Weeks and FENGX2. Next up: Blvck Water, Osaka on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Lith Li is a techno and ebm artist based in Spain, tracked on soundcheck, with 3
 
 Ricardo Castro, Steve Weeks, FENGX2
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*

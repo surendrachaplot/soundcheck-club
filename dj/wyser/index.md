@@ -1,6 +1,6 @@
 # Wyser
 
-Wyser is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Blue Leopard Lounge, Chicago on Sat, 29 Aug 2026.
+Wyser is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Blue Leopard Lounge, Chicago on Sat, 29 Aug 2026.
 
 Wyser is a house and deep house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago and Sanfrancisco. Often billed alongside Shmoo, Ilana Ariella and DJ Lady D. Next up: Blue Leopard Lounge, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Wyser is a house and deep house artist based in United States of America, tracke
 
 Shmoo, Ilana Ariella, DJ Lady D
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wyser/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wyser/)*

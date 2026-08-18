@@ -1,6 +1,6 @@
 # Tokischa
 
-Tokischa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Tokischa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Tokischa is a house and electronica artist based in Dominican Republic, tracked on soundcheck, with 11 sets logged across Berlin, London, Losangeles and Mexicocity and 3 more. Often billed alongside Jyoty, Confidence Man and D. Tiffany. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tokischa is a house and electronica artist based in Dominican Republic, tracked 
 
 Jyoty, Confidence Man, D. Tiffany
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

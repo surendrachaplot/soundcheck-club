@@ -1,6 +1,6 @@
 # Bran (4)
 
-Bran (4) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Switch Bar, Barcelona on Fri, 28 Aug 2026.
+Bran (4) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Switch Bar, Barcelona on Fri, 28 Aug 2026.
 
 Bran (4) is a minimal and tech house artist tracked on soundcheck, with 3 sets logged across Barcelona and London. Often billed alongside Kolko, Dagger and HarriiG. Next up: Switch Bar, Barcelona on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Bran (4) is a minimal and tech house artist tracked on soundcheck, with 3 sets l
 
 Kolko, Dagger, HarriiG
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bran-4/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bran-4/)*

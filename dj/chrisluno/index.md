@@ -1,6 +1,6 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Open Aera, Toronto on Thu, 3 Sept 2026.
+Chris Luno is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Open Aera, Toronto on Thu, 3 Sept 2026.
 
 Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Basel and Berlin and 34 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Open Aera, Toronto on Thu 3 Sept.
 
@@ -29,4 +29,4 @@ Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets 
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

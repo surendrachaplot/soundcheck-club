@@ -1,6 +1,6 @@
 # Bruma
 
-Bruma is a Hip-Hop and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Era uma vez em Paris, Porto on Sun, 23 Aug 2026.
+Bruma is a Hip-Hop and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Era uma vez em Paris, Porto on Sun, 23 Aug 2026.
 
 Bruma is a hip-hop and latin bass artist tracked on soundcheck, with 8 sets logged across Buenosaires and Porto. Often billed alongside Nuno di Rosso, Francisco AP and Circa Papi. Next up: Era uma vez em Paris, Porto on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ Bruma is a hip-hop and latin bass artist tracked on soundcheck, with 8 sets logg
 
 Nuno di Rosso, Francisco AP, Circa Papi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruma/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruma/)*

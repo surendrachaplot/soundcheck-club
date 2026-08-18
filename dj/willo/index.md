@@ -1,13 +1,14 @@
 # Willo
 
-Willo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Willo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Willo is a house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Brisbane, Dublin and Liverpool and 4 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
+Willo is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brisbane, Dublin and Liverpool and 5 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Willo is a house and techno artist tracked on soundcheck, with 28 sets logged ac
 
 1tbsp, Ayebatonye, Duskus
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

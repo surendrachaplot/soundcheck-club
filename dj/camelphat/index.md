@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 19 Aug 2026.
+CamelPhat is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 19 Aug 2026.
 
 CamelPhat is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Amnesia Ibiza, Ibiza on Wed 19 Aug.
 
@@ -36,4 +36,4 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 205 sets logg
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

@@ -1,6 +1,6 @@
 # fleika
 
-fleika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Prague on Sat, 22 Aug 2026.
+fleika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Prague on Sat, 22 Aug 2026.
 
 fleika is a techno and house artist tracked on soundcheck, with 85 sets logged across Athens, Berlin, Hongkong and Lisbon and 8 more. Often billed alongside Marie Pravda, Pink Concrete and Axis Alpha. Next up: TBA, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ fleika is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 Marie Pravda, Pink Concrete, Axis Alpha
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*

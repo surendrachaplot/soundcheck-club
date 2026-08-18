@@ -1,6 +1,6 @@
 # Special Request
 
-Special Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Special Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Special Request is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: The Cause, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Special Request is a techno and house artist tracked on soundcheck, with 163 set
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

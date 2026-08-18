@@ -1,6 +1,6 @@
 # DJ SWISHA at Moongate Lounge
 
-DJ SWISHA at Moongate Lounge on Thu 20 Aug, Sanfrancisco. 1 act on the bill: DJ SWISHA. Preview the line-up and save it on soundcheck.
+DJ SWISHA at Moongate Lounge on Thu 20 Aug, Sanfrancisco. 1 act on the bill: DJ SWISHA. Club and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

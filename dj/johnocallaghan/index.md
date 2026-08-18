@@ -1,6 +1,6 @@
 # John O'Callaghan
 
-John O'Callaghan is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
+John O'Callaghan is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
 
 John O'Callaghan is a trance and techno artist tracked on soundcheck, with 30 sets logged across Bangkok, Bristol, Buenosaires and Chicago and 13 more. Often billed alongside Aly & Fila, Paul Van Dyk and Cosmic Gate. Next up: O2 Academy, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ John O'Callaghan is a trance and techno artist tracked on soundcheck, with 30 se
 
 Aly & Fila, Paul Van Dyk, Cosmic Gate
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*

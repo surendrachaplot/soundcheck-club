@@ -1,6 +1,6 @@
 # arawzi
 
-arawzi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at M.O.T, London on Thu, 10 Sept 2026.
+arawzi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Thu, 10 Sept 2026.
 
 arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged across Brighton and London. Often billed alongside Atoxyl, O.KAYE and Yiota. Next up: M.O.T, London on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged a
 
 Atoxyl, O.KAYE, Yiota
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*

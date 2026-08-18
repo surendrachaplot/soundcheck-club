@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism" on Sat, 22 Aug 2026.
+BASEMENT is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism" on Sat, 22 Aug 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

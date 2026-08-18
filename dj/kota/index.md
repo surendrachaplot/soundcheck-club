@@ -1,6 +1,6 @@
 # Kota
 
-Kota is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Red Bar, Tokyo on Tue, 18 Aug 2026.
+Kota is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Red Bar, Tokyo on Tue, 18 Aug 2026.
 
 Kota is a techno and house artist based in Japan, tracked on soundcheck, with 26 sets logged across Bali, Melbourne, Osaka and Tokyo and 1 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: Red Bar, Tokyo on Tue 18 Aug.
 
@@ -26,4 +26,4 @@ Kota is a techno and house artist based in Japan, tracked on soundcheck, with 26
 
 ATAMI, MOOTOE, OPTIMIST
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*

@@ -1,6 +1,6 @@
 # CIKO
 
-CIKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+CIKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 CIKO is a techno and trance artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin and Leipzig. Often billed alongside Hang Aoki, alemiko and Hanna Baertig. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ CIKO is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Hang Aoki, alemiko, Hanna Baertig
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciko/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciko/)*

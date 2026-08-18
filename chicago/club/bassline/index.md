@@ -1,6 +1,6 @@
 # Bassline
 
-Bassline is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "tranzit 009" on Fri, 21 Aug 2026.
+Bassline is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "tranzit 009" on Fri, 21 Aug 2026.
 
 Bassline is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2239 S. Michigan Chicago Illinois 60608 USA.
 
@@ -14,4 +14,4 @@ Bassline is a music venue in Chicago listed on soundcheck. 1 upcoming night. Bro
 
 2239 S. Michigan Chicago Illinois 60608 USA, Chicago
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bassline/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bassline/)*

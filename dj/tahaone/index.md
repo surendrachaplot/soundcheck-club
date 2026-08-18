@@ -1,6 +1,6 @@
 # TAHA ONE
 
-TAHA ONE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+TAHA ONE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 TAHA ONE is a techno and electronica artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Anahita Shamsaei, BLILI and D.M.S. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ TAHA ONE is a techno and electronica artist tracked on soundcheck, with 15 sets 
 
 Anahita Shamsaei, BLILI, D.M.S
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahaone/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahaone/)*

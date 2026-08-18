@@ -1,6 +1,6 @@
 # DIJA
 
-DIJA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
+DIJA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
 
 DIJA is a club and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Edinburgh, Glasgow and Liverpool. Often billed alongside 222babychai, Maveen and Rahul.mp3. Next up: SWG3, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DIJA is a club and techno artist based in United Kingdom, tracked on soundcheck,
 
 222babychai, Maveen, Rahul.mp3
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dija/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dija/)*

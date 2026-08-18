@@ -1,6 +1,6 @@
 # FLORENTIA
 
-FLORENTIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+FLORENTIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 FLORENTIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Ibiza and Liverpool and 4 more. Often billed alongside GW Harrison, ALISHA and Arielle Free. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ FLORENTIA is a house and tech house artist based in United Kingdom, tracked on s
 
 GW Harrison, ALISHA, Arielle Free
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*

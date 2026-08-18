@@ -1,6 +1,6 @@
 # MAJESTYOFDIVINITY
 
-MAJESTYOFDIVINITY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
+MAJESTYOFDIVINITY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kingdom Nightclub, Austin on Thu, 20 Aug 2026.
 
 MAJESTYOFDIVINITY is a house and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Austin. Often billed alongside DJ BAD APPLE, Hip Stir and Intimacy Simulator. Next up: Kingdom Nightclub, Austin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ MAJESTYOFDIVINITY is a house and club artist based in United States of America, 
 
 DJ BAD APPLE, Hip Stir, Intimacy Simulator
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majestyofdivinity/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majestyofdivinity/)*

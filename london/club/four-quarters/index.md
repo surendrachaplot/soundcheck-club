@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CYMATIC SOUND" on Wed, 19 Aug 2026.
+Four Quarters is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CYMATIC SOUND" on Wed, 19 Aug 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including ABIMBOLA, AfroLicious Mumma, Bindās and Equinox (UK) and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -21,4 +21,4 @@ Four Quarters is a music venue in London listed on soundcheck. 8 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

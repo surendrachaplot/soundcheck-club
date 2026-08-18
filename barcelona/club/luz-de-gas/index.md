@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "LOCKED 10 YEARS" on Fri, 21 Aug 2026.
+Luz De Gas is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "LOCKED 10 YEARS" on Fri, 21 Aug 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Ares Carter, Kev Williams, no_ip and Rafael (IS) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -16,4 +16,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

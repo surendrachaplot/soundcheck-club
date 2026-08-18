@@ -1,6 +1,6 @@
 # Pampa
 
-Pampa is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
+Pampa is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
 
 Pampa is a techno and electronica artist based in Argentina, tracked on soundcheck, with 2 sets logged across Buenosaires. Often billed alongside ANNĒ, Ben Klock and Bondarük. Next up: Under Club, Buenosaires on Sun 27 Sept.
 
@@ -18,4 +18,4 @@ Pampa is a techno and electronica artist based in Argentina, tracked on soundche
 
 ANNĒ, Ben Klock, Bondarük
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pampa/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pampa/)*

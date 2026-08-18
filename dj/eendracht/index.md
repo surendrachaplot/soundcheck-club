@@ -1,6 +1,6 @@
 # Eendracht
 
-Eendracht is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
+Eendracht is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
 
 Eendracht is a techno and bass artist based in France, tracked on soundcheck, with 2 sets logged across Nantes and Paris. Often billed alongside Antilogic, Catartsis and Speechmaker. Next up: Macadam, Nantes on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Eendracht is a techno and bass artist based in France, tracked on soundcheck, wi
 
 Antilogic, Catartsis, Speechmaker
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eendracht/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eendracht/)*

@@ -1,6 +1,6 @@
 # RION
 
-RION is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
+RION is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
 
 RION is a bass and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside MOOTOE, Tinker and ATAMI. Next up: Dogenzaka Church, Tokyo on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ RION is a bass and house artist based in Japan, tracked on soundcheck, with 21 s
 
 MOOTOE, Tinker, ATAMI
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*

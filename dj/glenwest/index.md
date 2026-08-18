@@ -1,6 +1,6 @@
 # Glen West
 
-Glen West is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
+Glen West is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
 Glen West is a trance and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Ghent. Often billed alongside Amøn, 3LEEZA and FEROTONINO. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Glen West is a trance and techno artist based in Australia, tracked on soundchec
 
 Amøn, 3LEEZA, FEROTONINO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*

@@ -1,8 +1,8 @@
 # Josh Dean
 
-Josh Dean is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
+Josh Dean is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
 
-Josh Dean is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Damian Lazarus, Ciclo and Loco Dice. Next up: [UNVRS], Ibiza on Wed 30 Sept.
+Josh Dean is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Calvin Clarke, Ciclo and Damian Lazarus. Next up: [UNVRS], Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Josh Dean is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-Damian Lazarus, Ciclo, Loco Dice
+Calvin Clarke, Ciclo, Damian Lazarus
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdean/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdean/)*

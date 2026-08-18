@@ -1,6 +1,6 @@
 # Philip Bogdan
 
-Philip Bogdan is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Climax-Institutes, Stuttgart on Thu, 20 Aug 2026.
+Philip Bogdan is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Climax-Institutes, Stuttgart on Thu, 20 Aug 2026.
 
 Philip Bogdan is a tech house and minimal artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Frankfurt, Hamburg and Stuttgart. Often billed alongside Sanel, GIORG and Temazcal (2). Next up: Climax-Institutes, Stuttgart on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Philip Bogdan is a tech house and minimal artist based in Germany, tracked on so
 
 Sanel, GIORG, Temazcal (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philipbogdan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philipbogdan/)*

@@ -1,6 +1,6 @@
 # Khen
 
-Khen is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ozmozis, Toronto on Fri, 16 Oct 2026.
+Khen is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ozmozis, Toronto on Fri, 16 Oct 2026.
 
 Khen is a progressive house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 23 more. Often billed alongside Guy J, Guy Mantzur and Eli Nissan. Next up: Ozmozis, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Khen is a progressive house and house artist tracked on soundcheck, with 67 sets
 
 Guy J, Guy Mantzur, Eli Nissan
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*

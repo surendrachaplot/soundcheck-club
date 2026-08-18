@@ -1,6 +1,6 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at fabric, London on Sat, 19 Sept 2026.
+Sam Paganini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at fabric, London on Sat, 19 Sept 2026.
 
 Sam Paganini is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: fabric, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sam Paganini is a techno and house artist tracked on soundcheck, with 97 sets lo
 
 Adiel, Anfisa Letyago, Daria Kolosova
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

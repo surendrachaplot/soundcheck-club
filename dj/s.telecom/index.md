@@ -1,6 +1,6 @@
 # S.Telecom
 
-S.Telecom is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Hertz, Seoul on Sat, 22 Aug 2026.
+S.Telecom is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hertz, Seoul on Sat, 22 Aug 2026.
 
 S.Telecom is a techno and house artist based in South Korea, tracked on soundcheck, with 45 sets logged across Paris and Seoul. Often billed alongside Yun Line, A.Attack and Hansy. Next up: Hertz, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ S.Telecom is a techno and house artist based in South Korea, tracked on soundche
 
 Yun Line, A.Attack, Hansy
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.telecom/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.telecom/)*

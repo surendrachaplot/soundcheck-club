@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nocturna, Ibiza on Wed, 19 Aug 2026.
+Jen Cardini is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nocturna, Ibiza on Wed, 19 Aug 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Nocturna, Ibiza on Wed 19 Aug.
 
@@ -30,4 +30,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 246 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

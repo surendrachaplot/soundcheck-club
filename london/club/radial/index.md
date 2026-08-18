@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Adult Party" on Fri, 21 Aug 2026.
+radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Adult Party" on Fri, 21 Aug 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Adam Curtain, Alex Sourbis, carmen (7) and Cathal and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 14 upcoming nights, with
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

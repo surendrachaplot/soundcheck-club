@@ -1,6 +1,6 @@
 # Next Door Records
 
-Next Door Records is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Denham Audio & L-Vis 1990 Launch Party [FREE ENTRY]" on Wed, 26 Aug 2026.
+Next Door Records is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Denham Audio & L-Vis 1990 Launch Party [FREE ENTRY]" on Wed, 26 Aug 2026.
 
 Next Door Records is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Beaabea, Denham Audio, Drew Karma and Jamie Funk and 2 more. Browse upcoming dates, start times and who's playing. 304 Uxbridge Road, London, W12 7LJ, United Kingdom.
 
@@ -16,4 +16,4 @@ Next Door Records is a music venue in London listed on soundcheck. 3 upcoming ni
 
 304 Uxbridge Road, London, W12 7LJ, United Kingdom, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*

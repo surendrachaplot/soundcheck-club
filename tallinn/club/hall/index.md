@@ -1,6 +1,6 @@
 # Hall
 
-Hall is a music venue in Tallinn with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "KONTRAST with Mija - Hall x SVE x culture unseen" on Fri, 4 Sept 2026.
+Hall is a music venue in Tallinn with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "KONTRAST with Mija - Hall x SVE x culture unseen" on Fri, 4 Sept 2026.
 
 Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming nights, with line-ups including animaTek (2), ANNDRA, Discolisko and In Furcht and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
@@ -16,4 +16,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming nights, with l
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

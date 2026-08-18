@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
+Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
 
 Echonomist is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, Avangart Tabldot and Hardt Antoine. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ Echonomist is a house and techno artist tracked on soundcheck, with 122 sets log
 
 Jenia Tarsol, Avangart Tabldot, Hardt Antoine
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

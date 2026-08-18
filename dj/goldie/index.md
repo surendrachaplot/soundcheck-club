@@ -1,6 +1,6 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
+Goldie is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
 
 Goldie is a drum & bass and jungle artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Joshua Brooks, Manchester on Fri 21 Aug.
 
@@ -32,4 +32,4 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 156 sets l
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

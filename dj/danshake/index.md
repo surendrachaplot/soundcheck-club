@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
+Dan Shake is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
 
 Dan Shake is a house and disco artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Else, Berlin on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 192 sets logge
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

@@ -1,8 +1,8 @@
 # inbuilt obsolescence
 
-inbuilt obsolescence is a Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
+inbuilt obsolescence is a Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
 
-inbuilt obsolescence is an ambient artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside azul, Romi and Toxido Mask. Next up: Ikii, Berlin on Thu 20 Aug.
+inbuilt obsolescence is an ambient artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Romi, Toxido Mask and azul. Next up: Ikii, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ inbuilt obsolescence is an ambient artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-azul, Romi, Toxido Mask
+Romi, Toxido Mask, azul
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inbuiltobsolescence/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inbuiltobsolescence/)*

@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Pan-Pot is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 172 sets logged
 
 Anfisa Letyago, Enrico Sangiuliano, Adam Beyer
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

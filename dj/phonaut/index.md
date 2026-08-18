@@ -1,6 +1,6 @@
 # Phonaut
 
-Phonaut is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Chicago on Fri, 21 Aug 2026.
+Phonaut is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Chicago on Fri, 21 Aug 2026.
 
 Phonaut is an ambient and acid artist tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside m50, Luke Handsfree and Tengui. Next up: TBA, Chicago on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Phonaut is an ambient and acid artist tracked on soundcheck, with 8 sets logged 
 
 m50, Luke Handsfree, Tengui
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonaut/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonaut/)*

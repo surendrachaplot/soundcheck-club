@@ -1,6 +1,6 @@
 # Slacky [Space Ritual]
 
-Slacky [Space Ritual] is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
+Slacky [Space Ritual] is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
 
 Slacky [Space Ritual] is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Simon Scott, Ana K Miller and Hooley. Next up: The Golden Lion, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Slacky [Space Ritual] is a downtempo and ambient artist based in United Kingdom,
 
 Simon Scott, Ana K Miller, Hooley
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackyspaceritual/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackyspaceritual/)*

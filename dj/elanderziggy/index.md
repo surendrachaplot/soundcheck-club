@@ -1,6 +1,6 @@
 # Elander Ziggy
 
-Elander Ziggy is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Elander Ziggy is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
 Elander Ziggy is a post-punk and techno artist tracked on soundcheck, with 20 sets logged across Lisbon and London. Often billed alongside Ricardo Castro, Steve Weeks and Odilon's Grip. Next up: Colours Hoxton, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Elander Ziggy is a post-punk and techno artist tracked on soundcheck, with 20 se
 
 Ricardo Castro, Steve Weeks, Odilon's Grip
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elanderziggy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elanderziggy/)*

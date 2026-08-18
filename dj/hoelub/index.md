@@ -1,6 +1,6 @@
 # hoelub
 
-hoelub is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
+hoelub is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Bunker, Copenhagen on Sat, 22 Aug 2026.
 
 hoelub is a techno artist tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Zayac, jamadam and charlii. Next up: TBA - Bunker, Copenhagen on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ hoelub is a techno artist tracked on soundcheck, with 2 sets logged across Copen
 
 Zayac, jamadam, charlii
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoelub/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoelub/)*

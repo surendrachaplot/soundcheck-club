@@ -1,6 +1,6 @@
 # Tiffany Quinn
 
-Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Quarters, Brighton on Sat, 22 Aug 2026.
+Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Quarters, Brighton on Sat, 22 Aug 2026.
 
 Tiffany Quinn is a house and disco artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, Bear Winder and Oh See. Next up: Quarters, Brighton on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Tiffany Quinn is a house and disco artist tracked on soundcheck, with 78 sets lo
 
 Maria Hanlon, Bear Winder, Oh See
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*

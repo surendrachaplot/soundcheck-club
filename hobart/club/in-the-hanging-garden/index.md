@@ -1,6 +1,6 @@
 # In The Hanging Garden
 
-In The Hanging Garden is a music venue in Hobart with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Loosie Grind & Track + Field" on Sat, 22 Aug 2026.
+In The Hanging Garden is a music venue in Hobart with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Loosie Grind & Track + Field" on Sat, 22 Aug 2026.
 
 In The Hanging Garden is a music venue in Hobart listed on soundcheck. 4 upcoming nights, with line-ups including Danny Rankin, DJ Sveta, James Massiah and Loosie Grind. Browse upcoming dates, start times and who's playing. 112 Murray Street, Hobart Tasmania, Australia, 7000.
 
@@ -17,4 +17,4 @@ In The Hanging Garden is a music venue in Hobart listed on soundcheck. 4 upcomin
 
 112 Murray Street, Hobart Tasmania, Australia, 7000, Hobart
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*

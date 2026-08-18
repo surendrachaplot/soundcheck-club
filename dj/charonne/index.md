@@ -1,6 +1,6 @@
 # Charonne
 
-Charonne is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 22 Aug 2026.
+Charonne is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 22 Aug 2026.
 
 Charonne is a house and electro artist based in France, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Blanco, Gabriel Belabbas and ABI (FR). Next up: Citadelle de Marseille, Marseille on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Charonne is a house and electro artist based in France, tracked on soundcheck, w
 
 Blanco, Gabriel Belabbas, ABI (FR)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*

@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Riktus with Cera Khin" on Thu, 20 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Riktus with Cera Khin" on Thu, 20 Aug 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, with line-ups including Angel Karel, BIIA, BLNK and Cera Khin and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming ni
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

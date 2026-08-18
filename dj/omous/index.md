@@ -1,6 +1,6 @@
 # OMO (US)
 
-OMO (US) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
+OMO (US) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
 
 OMO (US) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit. Often billed alongside Kuuma, RETCON and Babies R Stupid. Next up: Paris Bar, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ OMO (US) is a techno and experimental artist based in United States of America, 
 
 Kuuma, RETCON, Babies R Stupid
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*

@@ -1,6 +1,6 @@
 # Sleepy & Boo
 
-Sleepy & Boo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+Sleepy & Boo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 Sleepy & Boo are a deep house and techno duo tracked on soundcheck, with 192 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sleepy & Boo are a deep house and techno duo tracked on soundcheck, with 192 set
 
 Navider, Alex Sharp, D.T.H.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*

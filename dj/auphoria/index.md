@@ -1,13 +1,14 @@
 # Auphoria
 
-Auphoria is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Signal, New York City on Thu, 27 Aug 2026.
+Auphoria is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Fri, 21 Aug 2026.
 
-Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck, with 62 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Signal, Newyorkcity on Thu 27 Aug.
+Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck, with 63 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Summertime Roof Terrace, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Summertime Roof Terrace | New York City |
 | Thu, 27 Aug 2026 | Signal | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck
 
 Armii1n, Jeny Michelle, Choukroun
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*

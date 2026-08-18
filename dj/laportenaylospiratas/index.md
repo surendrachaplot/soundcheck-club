@@ -1,6 +1,6 @@
 # La Porteña y los Piratas
 
-La Porteña y los Piratas is a Latin Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Festa Major de Gràcia - Carrer Providència, Barcelona on Thu, 20 Aug 2026.
+La Porteña y los Piratas is a Latin Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Festa Major de Gràcia - Carrer Providència, Barcelona on Thu, 20 Aug 2026.
 
 La Porteña y los Piratas is a latin bass and electro artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside La Portenya DJ. Next up: Festa Major de Gràcia - Carrer Providència, Barcelona on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ La Porteña y los Piratas is a latin bass and electro artist tracked on soundche
 
 La Portenya DJ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*

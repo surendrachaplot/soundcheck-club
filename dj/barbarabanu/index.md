@@ -1,6 +1,6 @@
 # Barbara Banu
 
-Barbara Banu is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - OUR PLACE MUSIC BAR PRAGUE, Prague on Thu, 27 Aug 2026.
+Barbara Banu is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - OUR PLACE MUSIC BAR PRAGUE, Prague on Thu, 27 Aug 2026.
 
 Barbara Banu is an ebm and post-punk artist based in Spain, tracked on soundcheck, with 1 set logged across Prague. Next up: TBA - OUR PLACE MUSIC BAR PRAGUE, Prague on Thu 27 Aug.
 
@@ -10,4 +10,4 @@ Barbara Banu is an ebm and post-punk artist based in Spain, tracked on soundchec
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TBA - OUR PLACE MUSIC BAR PRAGUE | Prague |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarabanu/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarabanu/)*

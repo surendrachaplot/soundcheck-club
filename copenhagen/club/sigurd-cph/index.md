@@ -1,6 +1,6 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "2200" on Fri, 21 Aug 2026.
+Sigurd CPH is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "2200" on Fri, 21 Aug 2026.
 
 Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including John Vincent and Slackin Beats. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
@@ -17,4 +17,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 4 upcoming night
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

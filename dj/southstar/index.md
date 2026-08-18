@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 southstar is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ southstar is a techno and house artist tracked on soundcheck, with 57 sets logge
 
 Funk Tribu, DJ Heartstring, Janis Zielinski
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

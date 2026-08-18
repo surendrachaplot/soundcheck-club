@@ -1,6 +1,6 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
+Claire O'Brien is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at New Guernica, Melbourne on Fri, 21 Aug 2026.
 
 Claire O'Brien is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and DJ PGZ. Next up: New Guernica, Melbourne on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Claire O'Brien is a techno and house artist based in Australia, tracked on sound
 
 ATARANGI, Effy, DJ PGZ
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

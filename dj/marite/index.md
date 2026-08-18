@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Myra, Lisbon on Sat, 22 Aug 2026.
+Mari.te is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Myra, Lisbon on Sat, 22 Aug 2026.
 
 Mari.te is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: Myra, Lisbon on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Mari.te is a house and techno artist tracked on soundcheck, with 154 sets logged
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

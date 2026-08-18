@@ -1,6 +1,6 @@
 # SYSMIK
 
-SYSMIK is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
+SYSMIK is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
 
 SYSMIK is an industrial and techno artist tracked on soundcheck, with 8 sets logged across Brussels. Often billed alongside OWD (1), Leck Barker and Auk.. Next up: LEO, Brussels on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ SYSMIK is an industrial and techno artist tracked on soundcheck, with 8 sets log
 
 OWD (1), Leck Barker, Auk.
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sysmik/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sysmik/)*

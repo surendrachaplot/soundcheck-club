@@ -1,6 +1,6 @@
 # Martita
 
-Martita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
+Martita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
 
 Martita is a house and disco artist based in Poland, tracked on soundcheck, with 8 sets logged across London. Often billed alongside KOSIE, Malwen and Raab. Next up: Next Door Records Two, London on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Martita is a house and disco artist based in Poland, tracked on soundcheck, with
 
 KOSIE, Malwen, Raab
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martita/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martita/)*

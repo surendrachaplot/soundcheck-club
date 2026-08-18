@@ -1,6 +1,6 @@
 # Mel Blue
 
-Mel Blue is a Electronica and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Mel Blue is a Electronica and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Mel Blue is an electronica and garage artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside 1tbsp, Antenna (2) and C.FRIM. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Mel Blue is an electronica and garage artist based in Australia, tracked on soun
 
 1tbsp, Antenna (2), C.FRIM
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*

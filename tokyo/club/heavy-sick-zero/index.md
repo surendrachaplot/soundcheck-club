@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "生活 ～seikatsu～" on Wed, 19 Aug 2026.
+Heavy Sick Zero is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "生活 ～seikatsu～" on Wed, 19 Aug 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Chee Shimizu, COGEE, Keihin and Kim Laughton and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -17,4 +17,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

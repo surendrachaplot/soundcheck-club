@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "CVNTROL FREAK" on Sat, 22 Aug 2026.
+TBA - DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CVNTROL FREAK" on Sat, 22 Aug 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Alxander Ivey, Buttechno, Chemtrail Johnny and CHOíCE and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming night
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 | Sat, 26 Sept 2026 | Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana | Buttechno, Jen Cardini, Konduku, Rachana |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

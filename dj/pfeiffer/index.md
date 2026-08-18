@@ -1,6 +1,6 @@
 # Pfeiffer
 
-Pfeiffer is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
+Pfeiffer is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
 
 Pfeiffer is a techno and acid artist tracked on soundcheck, with 4 sets logged across Cologne. Often billed alongside Der Dritte Raum, EPHIE and Elisen. Next up: Odonien, Cologne on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Pfeiffer is a techno and acid artist tracked on soundcheck, with 4 sets logged a
 
 Der Dritte Raum, EPHIE, Elisen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pfeiffer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pfeiffer/)*

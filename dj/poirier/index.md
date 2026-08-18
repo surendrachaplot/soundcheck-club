@@ -1,6 +1,6 @@
 # Poirier
 
-Poirier is a Afro House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sat, 22 Aug 2026.
+Poirier is a Afro House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sat, 22 Aug 2026.
 
 Poirier is an afro house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, London, Lyon and Montreal. Often billed alongside Dana Ruh, Dave Huismans and Matthew Herbert. Next up: Village au Pied-du-Courant, Montreal on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Poirier is an afro house and techno artist tracked on soundcheck, with 14 sets l
 
 Dana Ruh, Dave Huismans, Matthew Herbert
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poirier/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poirier/)*

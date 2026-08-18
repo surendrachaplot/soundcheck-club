@@ -1,6 +1,6 @@
 # lorboo
 
-lorboo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Upstairs at the 700, Philadelphia on Sat, 22 Aug 2026.
+lorboo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Upstairs at the 700, Philadelphia on Sat, 22 Aug 2026.
 
 lorboo is a club and techno artist tracked on soundcheck, with 52 sets logged across Newyorkcity and Philadelphia. Often billed alongside ONEELEVEN, R3m Sativa and low iron. Next up: Upstairs at the 700, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ lorboo is a club and techno artist tracked on soundcheck, with 52 sets logged ac
 
 ONEELEVEN, R3m Sativa, low iron
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorboo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorboo/)*

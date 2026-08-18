@@ -1,6 +1,6 @@
 # Boris Brejcha - REFLECTIONS TOUR ISTANBUL at Küçükçiftlik Park
 
-Boris Brejcha - REFLECTIONS TOUR ISTANBUL at Küçükçiftlik Park on Sat 26 Sept, Istanbul. 2 acts on the bill: Ann Clue and Boris Brejcha. Minimal Techno. Preview the line-up and save it on soundcheck.
+Boris Brejcha - REFLECTIONS TOUR ISTANBUL at Küçükçiftlik Park on Sat 26 Sept, Istanbul. 2 acts on the bill: Ann Clue and Boris Brejcha. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

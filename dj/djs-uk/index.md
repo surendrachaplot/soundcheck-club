@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
+DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
 
 DJ S (UK) is a house and tech house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Bangkok and Belfast and 27 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Basing House, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ DJ S (UK) is a house and tech house artist tracked on soundcheck, with 165 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

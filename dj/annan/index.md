@@ -1,6 +1,6 @@
 # anna(n)
 
-anna(n) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 22 Aug 2026.
+anna(n) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 22 Aug 2026.
 
 anna(n) is a techno and trance artist based in Sweden, tracked on soundcheck, with 22 sets logged across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: Collingwood Basement, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ anna(n) is a techno and trance artist based in Sweden, tracked on soundcheck, wi
 
 Charlotte Rooney, Hasvat Informant, ADMINISTRATOR
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*

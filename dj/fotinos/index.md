@@ -1,6 +1,6 @@
 # Fotinos
 
-Fotinos is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Island Athens Riviera, Athens on Sun, 23 Aug 2026.
+Fotinos is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Island Athens Riviera, Athens on Sun, 23 Aug 2026.
 
 Fotinos is a house artist based in Greece, tracked on soundcheck, with 26 sets logged across Athens. Often billed alongside Nick Jojo (2), ELËKTRA and Raise (2). Next up: Island Athens Riviera, Athens on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Fotinos is a house artist based in Greece, tracked on soundcheck, with 26 sets l
 
 Nick Jojo (2), ELËKTRA, Raise (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fotinos/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fotinos/)*

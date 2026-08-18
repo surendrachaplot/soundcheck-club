@@ -1,6 +1,6 @@
 # Nilgün Özer
 
-Nilgün Özer is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Silent Green, Berlin on Tue, 18 Aug 2026.
+Nilgün Özer is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Silent Green, Berlin on Tue, 18 Aug 2026.
 
 Nilgün Özer is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Felicity Mangan, Martina Bertoni and Aude. Next up: Silent Green, Berlin on Tue 18 Aug.
 
@@ -20,4 +20,4 @@ Nilgün Özer is an electronic artist tracked on soundcheck, with 4 sets logged 
 
 Felicity Mangan, Martina Bertoni, Aude
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilgunozer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilgunozer/)*

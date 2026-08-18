@@ -1,6 +1,6 @@
 # VEGA
 
-VEGA is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Donny Benét // VEGA" on Wed, 23 Sept 2026.
+VEGA is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Donny Benét // VEGA" on Wed, 23 Sept 2026.
 
 VEGA is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including FKJ and Kenton Slash Demon. Browse upcoming dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
 
@@ -16,4 +16,4 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, wit
 
 Enghavevej 40, 1674 København V, Danmark, Copenhagen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*

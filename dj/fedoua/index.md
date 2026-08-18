@@ -1,13 +1,14 @@
 # Fedo (UA)
 
-Fedo (UA) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 28 Aug 2026.
+Fedo (UA) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 21 Aug 2026.
 
-Fedo (UA) is a house and minimal artist based in Ukraine, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Budapest and Lisbon and 3 more. Often billed alongside Bttologic, John Karam and Silat Beksi. Next up: MONKEY LOVE, Warsaw on Fri 28 Aug.
+Fedo (UA) is a house and minimal artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Budapest and Lisbon and 3 more. Often billed alongside Bttologic, John Karam and Silat Beksi. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - Backstage - Carrer Casp, 33B | Barcelona |
 | Fri, 28 Aug 2026 | MONKEY LOVE | Warsaw |
 | Thu, 3 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
@@ -26,4 +27,4 @@ Fedo (UA) is a house and minimal artist based in Ukraine, tracked on soundcheck,
 
 Bttologic, John Karam, Silat Beksi
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*

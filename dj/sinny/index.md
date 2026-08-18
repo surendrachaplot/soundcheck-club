@@ -1,6 +1,6 @@
 # sinny
 
-sinny is a Broken Beat and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Ormside Projects, London on Sat, 22 Aug 2026.
+sinny is a Broken Beat and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ormside Projects, London on Sat, 22 Aug 2026.
 
 sinny is a broken beat and electronica artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside DJ Marcelle, Dj wiggles and Dome Zero. Next up: Ormside Projects, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ sinny is a broken beat and electronica artist based in United Kingdom, tracked o
 
 DJ Marcelle, Dj wiggles, Dome Zero
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinny/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinny/)*

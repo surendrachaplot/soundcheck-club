@@ -1,6 +1,6 @@
 # Blame the Booker
 
-Blame the Booker is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Blame the Booker is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Blame the Booker is a trance and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 13 more. Often billed alongside The Jakob Sister, Sabu! and RaverPik. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Blame the Booker is a trance and techno artist tracked on soundcheck, with 117 s
 
 The Jakob Sister, Sabu!, RaverPik
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*

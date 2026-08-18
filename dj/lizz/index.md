@@ -1,6 +1,6 @@
 # Lizz
 
-Lizz is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Melbourne Town Hall, Melbourne on Fri, 28 Aug 2026.
+Lizz is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Melbourne Town Hall, Melbourne on Fri, 28 Aug 2026.
 
 Lizz is a minimal and house artist based in Romania, tracked on soundcheck, with 78 sets logged across Bangkok, Barcelona, Berlin and Boston and 27 more. Often billed alongside Cosmjn, Gescu and ELV/RA. Next up: Melbourne Town Hall, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lizz is a minimal and house artist based in Romania, tracked on soundcheck, with
 
 Cosmjn, Gescu, ELV/RA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*

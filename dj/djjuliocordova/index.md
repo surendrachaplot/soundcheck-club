@@ -1,6 +1,6 @@
 # J. Córdova
 
-J. Córdova is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nowadays, New York City on Thu, 3 Sept 2026.
+J. Córdova is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nowadays, New York City on Thu, 3 Sept 2026.
 
 J. Córdova is a techno and club artist tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity and Sanfrancisco. Often billed alongside karennoid, DJ Aguara'i and Ariel Zetina. Next up: Nowadays, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ J. Córdova is a techno and club artist tracked on soundcheck, with 42 sets logg
 
 karennoid, DJ Aguara'i, Ariel Zetina
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*

@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "NT's Loft: Gia Fu (All Night Long)" on Fri, 21 Aug 2026.
+Night Tales Loft is a music venue in London with 22 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "NT's Loft: Gia Fu (All Night Long)" on Fri, 21 Aug 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 6 SENSE, Alexander Nut, Bridge (NY) and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 22 upcoming ni
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

@@ -1,6 +1,6 @@
 # Djavan Guy
 
-Djavan Guy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Mood Ring, New York City on Sat, 22 Aug 2026.
+Djavan Guy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Sat, 22 Aug 2026.
 
 Djavan Guy is an afro house and afro tech artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity. Often billed alongside NewYorkKnick, Stevo Blaque and Sade James. Next up: Mood Ring, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Djavan Guy is an afro house and afro tech artist based in United States of Ameri
 
 NewYorkKnick, Stevo Blaque, Sade James
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djavanguy/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djavanguy/)*

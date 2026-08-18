@@ -1,14 +1,15 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at migas, a listening bar, Berlin on Thu, 20 Aug 2026.
+Stanislav Tolkachev is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at migas, a listening bar, Berlin on Thu, 20 Aug 2026.
 
-Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: migas, a listening bar, Berlin on Thu 20 Aug.
+Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: migas, a listening bar, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | migas, a listening bar | Berlin |
+| Sun, 6 Sept 2026 | Para Klub Beograd | Belgrade |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 6
 
 Katya Milch, Nastia, Louwave
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

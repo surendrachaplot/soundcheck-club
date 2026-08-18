@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at PRST, Vienna on Fri, 21 Aug 2026.
+Dj Babatr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at PRST, Vienna on Fri, 21 Aug 2026.
 
 Dj Babatr is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: PRST, Vienna on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Dj Babatr is a techno and house artist tracked on soundcheck, with 98 sets logge
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

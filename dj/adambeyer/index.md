@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 19 Aug 2026.
+Adam Beyer is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 19 Aug 2026.
 
 Adam Beyer is a techno and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Amnesia Ibiza, Ibiza on Wed 19 Aug.
 
@@ -34,4 +34,4 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 183 set
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

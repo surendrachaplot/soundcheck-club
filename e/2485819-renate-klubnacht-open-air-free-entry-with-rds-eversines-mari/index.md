@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal on Sat 22 Aug, Berlin. 13 acts on the bill: Amy Kisnorbo, Bakläxa, DJ SKIN and Eversines and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal on Sat 22 Aug, Berlin. 14 acts on the bill: Amy Kisnorbo, Bakläxa, DJ SKIN and Eversines and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iteration
 - DJ SKIN
 - Eversines
 - Frank Heise
+- Fukinsei
 - Mademoisel
 - Marie K (1)
 - mgt (DE)

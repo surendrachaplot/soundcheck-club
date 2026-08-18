@@ -1,8 +1,8 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Jyoty is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
+Jyoty is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jyoty is a house and techno artist tracked on soundcheck, with 133 sets logged a
 | Mon, 7 Sept 2026 | 3fifty Terrace | Detroit |
 | Fri, 11 Sept 2026 | Nowadays | New York City |
 | Sat, 12 Sept 2026 | Signal | New York City |
+| Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -33,4 +34,4 @@ Jyoty is a house and techno artist tracked on soundcheck, with 133 sets logged a
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

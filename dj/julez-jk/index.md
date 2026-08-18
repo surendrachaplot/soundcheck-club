@@ -1,6 +1,6 @@
 # JULEZ JK
 
-JULEZ JK is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 5 Sept 2026.
+JULEZ JK is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 5 Sept 2026.
 
 JULEZ JK is an acid and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Barcelona and Stuttgart. Often billed alongside Coppola (DE), DAWIT and Cem (2). Next up: TBA - Secret Location: Adress on Ticket , Stuttgart on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ JULEZ JK is an acid and house artist based in Germany, tracked on soundcheck, wi
 
 Coppola (DE), DAWIT, Cem (2)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-jk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-jk/)*

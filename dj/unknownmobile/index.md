@@ -1,6 +1,6 @@
 # Unknown Mobile
 
-Unknown Mobile is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Villa, Oslo on Fri, 16 Oct 2026.
+Unknown Mobile is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Villa, Oslo on Fri, 16 Oct 2026.
 
 Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on soundcheck, with 7 sets logged across Copenhagen, Oslo, Sandiego and Sanfrancisco and 1 more. Often billed alongside Atrevido, Crushed Peanut and DJ D.Dee. Next up: The Villa, Oslo on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on sou
 
 Atrevido, Crushed Peanut, DJ D.Dee
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*

@@ -1,6 +1,6 @@
 # Oran Mor
 
-Oran Mor is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 17 Aug 2026; the next is "RAREOWEEN // Tre Reynolds + Lewis Taylor" on Sat, 31 Oct 2026.
+Oran Mor is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "RAREOWEEN // Tre Reynolds + Lewis Taylor" on Sat, 31 Oct 2026.
 
 Oran Mor is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including gau7t, Lewis Taylor and Tre Reynolds. Browse upcoming dates, start times and who's playing. 731 Great Western Road; Glasgow, G12 8QX; Scotland.
 
@@ -14,4 +14,4 @@ Oran Mor is a music venue in Glasgow listed on soundcheck. 1 upcoming night, wit
 
 731 Great Western Road; Glasgow, G12 8QX; Scotland, Glasgow
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/oran-mor/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/oran-mor/)*

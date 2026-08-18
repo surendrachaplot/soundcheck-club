@@ -1,6 +1,6 @@
 # ishka machina
 
-ishka machina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Stalin, Prague on Fri, 28 Aug 2026.
+ishka machina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Stalin, Prague on Fri, 28 Aug 2026.
 
 ishka machina is a techno and trance artist based in India, tracked on soundcheck, with 64 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Stalin, Prague on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ishka machina is a techno and trance artist based in India, tracked on soundchec
 
 Takē, AVHD, jardabpm
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*

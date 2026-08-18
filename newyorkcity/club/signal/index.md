@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis" on Fri, 21 Aug 2026.
+Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis" on Fri, 21 Aug 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

@@ -1,6 +1,6 @@
 # VEYRA
 
-VEYRA is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 21 Aug 2026.
+VEYRA is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 21 Aug 2026.
 
 VEYRA is a disco and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Skybxrn, Nori (UK) and TIRTA. Next up: Nico's Bar at Hackney Bridge, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ VEYRA is a disco and club artist based in United Kingdom, tracked on soundcheck,
 
 Skybxrn, Nori (UK), TIRTA
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veyra/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veyra/)*

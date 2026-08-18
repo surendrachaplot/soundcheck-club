@@ -1,6 +1,6 @@
 # Vainqueur
 
-Vainqueur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Vainqueur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Vainqueur is a techno and house artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin and Porto. Often billed alongside Substance, Scion and Afra. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Vainqueur is a techno and house artist tracked on soundcheck, with 9 sets logged
 
 Substance, Scion, Afra
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vainqueur/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vainqueur/)*

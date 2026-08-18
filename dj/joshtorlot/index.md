@@ -1,6 +1,6 @@
 # Josh Torlot
 
-Josh Torlot is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Egg London, London on Sat, 5 Sept 2026.
+Josh Torlot is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Egg London, London on Sat, 5 Sept 2026.
 
 Josh Torlot is a tech house and minimal artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Taylor Crane, Fatzo and Kerri Chandler. Next up: Egg London, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Josh Torlot is a tech house and minimal artist tracked on soundcheck, with 14 se
 
 Taylor Crane, Fatzo, Kerri Chandler
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtorlot/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtorlot/)*

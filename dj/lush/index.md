@@ -1,6 +1,6 @@
 # Lush
 
-Lush is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Junction Underground, Toronto on Fri, 21 Aug 2026.
+Lush is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Junction Underground, Toronto on Fri, 21 Aug 2026.
 
 Lush is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 13 sets logged across Mexicocity, Sanfrancisco, Toronto and Washingtondc. Often billed alongside Marcus Visionary, Gremlinz and Rumbleton. Next up: Junction Underground, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Lush is a drum & bass and jungle artist based in Canada, tracked on soundcheck, 
 
 Marcus Visionary, Gremlinz, Rumbleton
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lush/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lush/)*

@@ -1,6 +1,6 @@
 # Steelyard Kelham
 
-Steelyard Kelham is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "SOSA EXTENDED SET - Groovebox at SteelYard, Sheffield" on Sat, 22 Aug 2026.
+Steelyard Kelham is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SOSA EXTENDED SET - Groovebox at SteelYard, Sheffield" on Sat, 22 Aug 2026.
 
 Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 3 upcoming nights, with line-ups including Boss Priester, bullet tooth, Emma 2000 and Jhobei and 2 more. Browse upcoming dates, start times and who's playing. The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS.
 
@@ -16,4 +16,4 @@ Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 3 upcoming 
 
 The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS, Sheffield
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*

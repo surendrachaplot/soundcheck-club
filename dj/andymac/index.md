@@ -1,6 +1,6 @@
 # Andy Mac
 
-Andy Mac is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
+Andy Mac is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
 
 Andy Mac is a house and disco artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton, Bristol, Cork and Liverpool and 1 more. Often billed alongside Jay L, Armand Van Helden and Ben Santiago. Next up: Strange Brew, Bristol on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Andy Mac is a house and disco artist based in United Kingdom, tracked on soundch
 
 Jay L, Armand Van Helden, Ben Santiago
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymac/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymac/)*

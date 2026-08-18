@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Woo York (LIVE)" on Thu, 20 Aug 2026.
+Loo Loo is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Woo York (LIVE)" on Thu, 20 Aug 2026.
 
 Loo Loo is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including DECO (MX), Hunter/Game, Johnny Chief and Mat.Joe and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -22,4 +22,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, 
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

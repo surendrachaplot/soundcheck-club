@@ -1,6 +1,6 @@
 # DJ Mustard
 
-DJ Mustard is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
+DJ Mustard is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
 
 DJ Mustard is a hip-hop artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Next up: KOKO, London on Sat 29 Aug.
 
@@ -10,4 +10,4 @@ DJ Mustard is a hip-hop artist based in United Kingdom, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | KOKO | London |
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmustard/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmustard/)*

@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "Club 1210 with Arto & Anton Goltermann" on Thu, 20 Aug 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Club 1210 with Arto & Anton Goltermann" on Thu, 20 Aug 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including Amazinggaijin, Anton Goltermann, CTRLZORA and John Raffaele and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

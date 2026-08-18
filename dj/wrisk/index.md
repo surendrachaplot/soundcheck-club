@@ -1,6 +1,6 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
 
 Wrisk is a techno and hardcore artist tracked on soundcheck, with 75 sets logged across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: The Mash House, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Wrisk is a techno and hardcore artist tracked on soundcheck, with 75 sets logged
 
 DV60, Smiff, Sea Urchin
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

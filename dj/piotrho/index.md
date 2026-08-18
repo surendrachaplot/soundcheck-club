@@ -1,6 +1,6 @@
 # Piotr Ho
 
-Piotr Ho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
+Piotr Ho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
 
 Piotr Ho is a techno and house artist based in Poland, tracked on soundcheck, with 39 sets logged across Krakow and Warsaw. Often billed alongside Mambi Dexter, Cocolino and Fibon. Next up: Smolna, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Piotr Ho is a techno and house artist based in Poland, tracked on soundcheck, wi
 
 Mambi Dexter, Cocolino, Fibon
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piotrho/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piotrho/)*

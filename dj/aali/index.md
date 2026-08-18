@@ -1,6 +1,6 @@
 # aali
 
-aali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Spin, San Diego on Sun, 23 Aug 2026.
+aali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Spin, San Diego on Sun, 23 Aug 2026.
 
 aali is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside AMIRA, AMANTE and Cris Herrera. Next up: Spin, Sandiego on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ aali is a techno and house artist based in United States of America, tracked on 
 
 AMIRA, AMANTE, Cris Herrera
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aali/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aali/)*

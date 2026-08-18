@@ -1,6 +1,6 @@
-# Les Enfants Brillants pres. DJ Koolt 3h set at muamua (seaseaclub) at Seaseaclub Barcelona
+# Les Enfants Brillants pres. DJ Koolt 3h set at MUAMUA (SEASEACLUB) at Seaseaclub Barcelona
 
-Les Enfants Brillants pres. DJ Koolt 3h set at muamua (seaseaclub) at Seaseaclub Barcelona on Thu 10 Sept, Barcelona. 6 acts on the bill: DJ Koolt, EMilio (2), Nico Etorena and Nicolas Amaro and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants Brillants pres. DJ Koolt 3h set at MUAMUA (SEASEACLUB) at Seaseaclub Barcelona on Thu 10 Sept, Barcelona. 6 acts on the bill: DJ Koolt, EMilio (2), Nico Etorena and Nicolas Amaro and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

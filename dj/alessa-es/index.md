@@ -1,6 +1,6 @@
 # Alessa (ES)
 
-Alessa (ES) is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 17 Aug 2026, next at Switch Bar, Barcelona on Wed, 2 Sept 2026.
+Alessa (ES) is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Switch Bar, Barcelona on Wed, 2 Sept 2026.
 
 Alessa (ES) is an electronica artist tracked on soundcheck, with 21 sets logged across Barcelona and Madrid. Often billed alongside Adriana Ruas, Alexxx and Alfonsvs. Next up: Switch Bar, Barcelona on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Alessa (ES) is an electronica artist tracked on soundcheck, with 21 sets logged 
 
 Adriana Ruas, Alexxx, Alfonsvs
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessa-es/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessa-es/)*

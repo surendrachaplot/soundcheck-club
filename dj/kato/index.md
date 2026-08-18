@@ -1,6 +1,6 @@
 # Kato
 
-Kato is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
+Kato is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
 
 Kato is a techno and house artist based in Australia, tracked on soundcheck, with 137 sets logged across Berlin, Melbourne, Sydney and Tokyo. Often billed alongside Simon Caldwell, Reenie and Magda Bytnerowicz. Next up: TBA, Sydney on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Kato is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 Simon Caldwell, Reenie, Magda Bytnerowicz
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*

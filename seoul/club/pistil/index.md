@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "ALL MY FELLAS" on Fri, 28 Aug 2026.
+Pistil is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "ALL MY FELLAS" on Fri, 28 Aug 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including AEIDA, BAAWLA, Dalmoori and GODOT and 1 more. Browse upcoming dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with l
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

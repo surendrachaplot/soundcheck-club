@@ -1,6 +1,6 @@
 # DINA
 
-DINA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
+DINA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
 
 DINA is a techno and trance artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 34 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: Nowadays, Newyorkcity on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ DINA is a techno and trance artist tracked on soundcheck, with 128 sets logged a
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

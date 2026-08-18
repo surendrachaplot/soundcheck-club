@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Mon, 17 Aug 2026; the next is "5:14 Sessions: Kanatonik" on Tue, 18 Aug 2026.
+Le Red Room is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "5:14 Sessions: Kanatonik" on Tue, 18 Aug 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Anomia, DJ Pacifier, fangsie and Guillaume Michaud and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -23,4 +23,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming night
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

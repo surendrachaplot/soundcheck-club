@@ -1,6 +1,6 @@
 # Simula
 
-Simula is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 17 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+Simula is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
 Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Antwerp, Basel, Berlin and Brighton and 22 more. Often billed alongside Jakes, BassLayerz and Hedex. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on s
 
 Jakes, BassLayerz, Hedex
 
-*Updated Mon, 17 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
+*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
