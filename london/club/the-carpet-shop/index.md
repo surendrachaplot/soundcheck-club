@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Gigs 4 Good" on Thu, 20 Aug 2026.
+The Carpet Shop is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Gigs 4 Good" on Thu, 20 Aug 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 2xAA, A.N.T, Alexander Nut and Bluetoof and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 2xAA, A.N.T, Alexander Nut and Bluetoof and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 

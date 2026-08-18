@@ -1,6 +1,6 @@
 # Bullet Proof Groove at Mitsuki
 
-Bullet Proof Groove at Mitsuki on Thu 27 Aug, Tokyo. 2 acts on the bill: Frankie $ and YAMA(JP/OSK). Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Bullet Proof Groove at Mitsuki on Thu 27 Aug, Tokyo. 2 acts on the bill: Frankie $ and YAMA(JP/OSK). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

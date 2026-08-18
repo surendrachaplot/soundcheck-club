@@ -1,8 +1,8 @@
 # Ethera
 
-Ethera is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
+Ethera is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
 
-Ethera is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside ENOME, Saint Popsy and EMBEE3. Next up: Cassiopeia, Berlin on Fri 18 Sept.
+Ethera is a drum & bass and garage artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside ENOME, Saint Popsy and EMBEE3. Next up: Cassiopeia, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 

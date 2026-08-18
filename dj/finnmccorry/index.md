@@ -1,13 +1,14 @@
 # Finn
 
-Finn is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
+Finn is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 22 Aug 2026.
 
-Finn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Edinburgh, Glasgow, Hamburg and Liverpool and 3 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: Botanical Gin Garden, Liverpool on Sun 30 Aug.
+Finn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Edinburgh, Glasgow, Hamburg and Liverpool and 3 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: Club Frau Holle, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Club Frau Holle | Hamburg |
 | Sun, 30 Aug 2026 | Botanical Gin Garden | Liverpool |
 | Sun, 20 Sept 2026 | The White Hotel | Manchester |
 

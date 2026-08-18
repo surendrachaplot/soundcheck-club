@@ -1,13 +1,14 @@
 # Rama NYC
 
-Rama NYC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bambi's, Toronto on Sat, 29 Aug 2026.
+Rama NYC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 23 Aug 2026.
 
-Rama NYC is a house and techno artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Chicago and London and 4 more. Often billed alongside Desyn, Max Sprauer and Tom Morgan. Next up: Bambi's, Toronto on Sat 29 Aug.
+Rama NYC is a house and techno artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Chicago and London and 4 more. Often billed alongside Desyn, Faciendo Soundsystem and Max Sprauer. Next up: Summertime Roof Terrace, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | Summertime Roof Terrace | New York City |
 | Sat, 29 Aug 2026 | Bambi's | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ Rama NYC is a house and techno artist tracked on soundcheck, with 40 sets logged
 
 ## Shares bills with
 
-Desyn, Max Sprauer, Tom Morgan
+Desyn, Faciendo Soundsystem, Max Sprauer
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramanyc/)*

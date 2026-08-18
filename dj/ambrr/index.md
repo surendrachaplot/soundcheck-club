@@ -1,14 +1,15 @@
 # AMBRR
 
-AMBRR is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
+AMBRR is a House and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
 
-AMBRR is a house and reggaeton artist tracked on soundcheck, with 11 sets logged across London, Losangeles and Paris. Often billed alongside ELLADHC, Alxander Ivey and AyChibs. Next up: TBA - Paris, Paris on Sat 19 Sept.
+AMBRR is a house and latin bass artist tracked on soundcheck, with 12 sets logged across London, Losangeles, Paris and Rotterdam. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: TBA - Paris, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - Paris | Paris |
+| Fri, 25 Sept 2026 | Mono | Rotterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ AMBRR is a house and reggaeton artist tracked on soundcheck, with 11 sets logged
 
 ## Shares bills with
 
-ELLADHC, Alxander Ivey, AyChibs
+ELLADHC, ARRA, Alxander Ivey
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

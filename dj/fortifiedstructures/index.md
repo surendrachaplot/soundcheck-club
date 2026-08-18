@@ -10,7 +10,7 @@ FortifiedStructures is a hardcore and gabber artist based in Canada, tracked on 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | ErF Studios | New York City |
 | Sat, 12 Sept 2026 | TBA - Unannounced | Boston |
-| Sat, 12 Sept 2026 | TBA - Disclosed day of event | Boston |
+| Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Rampa
 
-Rampa is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Rampa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Rampa is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: DC-10, Ibiza on Mon 17 Aug.
+Rampa is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: Pacha Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Fri, 21 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 19 Sept 2026 | Depot Mayfield | Manchester |

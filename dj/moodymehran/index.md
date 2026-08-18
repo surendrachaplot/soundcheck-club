@@ -1,13 +1,14 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
+Moody Mehran is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mono, Rotterdam on Sat, 5 Sept 2026.
 
-Moody Mehran is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
+Moody Mehran is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Mono, Rotterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Mono | Rotterdam |
 | Fri, 25 Sept 2026 | Atelier Rooftop | Berlin |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 

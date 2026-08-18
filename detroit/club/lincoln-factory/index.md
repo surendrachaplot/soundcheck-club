@@ -9,7 +9,7 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | small talk with britty., Dan Bain, and Mister Joshooa | Dan Bain, Mister Joshooa, britty. |
-| Fri, 21 Aug 2026 | TBA |  |
+| Fri, 21 Aug 2026 | Blair French / Todd Modes / Medha Achar |  |
 | Sat, 22 Aug 2026 | DJ Nobu - Kyle Geiger - Lincoln Factory | DJ Nobu, Kyle Geiger, LOFILA |
 | Fri, 28 Aug 2026 | GHETTOTECHTOPIA | DJ Godfather, DJ Spinn, Fullbodydurag, Planet KaiA, Sheefy McFly |
 | Fri, 4 Sept 2026 | Helena Hauff | Helena Hauff |

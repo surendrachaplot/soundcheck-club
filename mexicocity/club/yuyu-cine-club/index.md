@@ -9,7 +9,7 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 6 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Yu Yu Cine Club: MUTEK takeover w/ Gerd Janson | Gerd Janson, Kodemul, Ursula Prawn |
-| Sat, 22 Aug 2026 | Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA | Concepción Huerta, KEBRA, Kelman Duran |
+| Sat, 22 Aug 2026 | Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA, Guapis | Concepción Huerta, DJ Guapis, KEBRA, Kelman Duran |
 | Fri, 28 Aug 2026 | Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, ZutZut | Imaabs, Microhm, Siete Catorce |
 | Sat, 29 Aug 2026 | Yu Yu Cine Club: Club Colima takeover with Black Rave Culture, Charles Moon, Alena Vox | Alena Vox, Black Rave Culture, Charles Moon |
 | Sat, 5 Sept 2026 | Yu Yu Cine Club: Goldie | Goldie |

@@ -1,8 +1,8 @@
 # sadgal
 
-sadgal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
+sadgal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
 
-sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with 107 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: TBA, Mexicocity on Sat 29 Aug.
+sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with 108 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: TBA, Mexicocity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA | Mexico City |
 | Fri, 11 Sept 2026 | Brutal Mx | Mexico City |
+| Tue, 15 Sept 2026 | TBA | Mexico City |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
 
-Arapu is a house and minimal artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: DC-10, Ibiza on Mon 17 Aug.
+Arapu is a house and minimal artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Seaseaclub Barcelona, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sun, 23 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 28 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sat, 29 Aug 2026 | Refuge | New York City |

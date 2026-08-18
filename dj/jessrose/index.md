@@ -1,8 +1,8 @@
 # Jess Rose
 
-Jess Rose is a House and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
+Jess Rose is a House and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
 
-Jess Rose is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Glasgow, Ibiza and London and 1 more. Often billed alongside Nick Charles, Princess Elf Bar and Qoqnut. Next up: Dunes, Ibiza on Sat 22 Aug.
+Jess Rose is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Barcelona, Glasgow, Ibiza and London and 1 more. Often billed alongside Nick Charles, Princess Elf Bar and Qoqnut. Next up: Dunes, Ibiza on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jess Rose is a house and drum & bass artist based in United Kingdom, tracked on 
 | Sat, 22 Aug 2026 | Dunes | Ibiza |
 | Fri, 28 Aug 2026 | Ramona | Manchester |
 | Sat, 29 Aug 2026 | The DBA | Manchester |
+| Sun, 30 Aug 2026 | renae | Manchester |
 | Sat, 5 Sept 2026 | The DBA | Manchester |
 
 ## Recently played

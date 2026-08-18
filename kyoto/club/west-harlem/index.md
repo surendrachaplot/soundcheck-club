@@ -1,8 +1,8 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "RiD" on Thu, 20 Aug 2026.
+West Harlem is a music venue in Kyoto with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "RiD" on Thu, 20 Aug 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, with line-ups including C.Versa, Dihi, Dinamarca and D.J.Fulltono and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming nights, with line-ups including C.Versa, Dihi, Dinamarca and D.J.Fulltono and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
@@ -10,6 +10,7 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, w
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | RiD | C.Versa, Dihi, Sou Kitahara |
 | Fri, 21 Aug 2026 | Interzone | Ryogo |
+| Wed, 26 Aug 2026 | citta | Mario Kassian, sak (4) |
 | Sat, 29 Aug 2026 | おれたちがつくるなつ | EUREKA, KOTSU, kitapon |
 | Mon, 31 Aug 2026 | FMKS | Kross Section |
 | Fri, 4 Sept 2026 | podo | KOTSU, ish (JP), kasetakumi (2), kimryo, nap(JP) |

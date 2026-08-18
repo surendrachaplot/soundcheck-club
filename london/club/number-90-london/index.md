@@ -8,7 +8,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 18 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Mixmag Lab London with MPH | MPH (1) |
+| Thu, 20 Aug 2026 | Mixmag Lab London with MPH | Arthi, Kiimi, MPH (1) |
 | Fri, 21 Aug 2026 | Kooky Ken: Label Launch Party | A.Wild, Benny Bysouth, Cam Harrop, Kennedy (UK), Redshift (2) |
 | Sun, 23 Aug 2026 | Snooze After Hours | Alek Mater, Essentia (Duplicity), Gridlock, HMMND, OllyK, PAVEL__, Sofi., Vivra Verra |
 | Thu, 27 Aug 2026 | Carina Lawrence - Rebirth Single Launch Party | Carina Lawrence |

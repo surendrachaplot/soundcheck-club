@@ -8,7 +8,7 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | DV60 + Friends [5am Special] | DV60 |
+| Fri, 21 Aug 2026 | DV60 + Friends [5am Special] | Buckfast Barbie, DV60 |
 | Sat, 22 Aug 2026 | INCA SOUND SYSTEM X PIEUTE SKATE JAM AFTER PARTY W/ KAMI-O |  |
 | Sat, 22 Aug 2026 | Inca Sound System presents - Pieute Skate Jam afterparty with Kami-O, Anikonik + more | Anikonik, Kami-O |
 | Sat, 22 Aug 2026 | CALYX Fringe pt.2 (5am License) - DV60, malicedeejay, Wrisk, amhailt.xox | DV60, Wrisk, amhailt.xox, malicedeejay |

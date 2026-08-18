@@ -1,8 +1,8 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nitsa Club, Barcelona on Fri, 28 Aug 2026.
+Fatima Hajji is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nitsa Club, Barcelona on Fri, 28 Aug 2026.
 
-Fatima Hajji is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Nitsa Club, Barcelona on Fri 28 Aug.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Nitsa Club, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 187 sets l
 | Fri, 11 Sept 2026 | Public Works | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 

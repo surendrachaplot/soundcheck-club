@@ -1,18 +1,20 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
+Echonomist is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
 
-Echonomist is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, Avangart Tabldot and Hardt Antoine. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
+Echonomist is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sun, 23 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 11 Sept 2026 | MODULE | Copenhagen |
 | Sun, 13 Sept 2026 | TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA) | Los Angeles |
 | Sat, 19 Sept 2026 | House of Yes | New York City |
 | Fri, 25 Sept 2026 | Filmtheater Sendlinger Tor | Munich |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 
 ## Recently played
@@ -28,6 +30,6 @@ Echonomist is a house and techno artist tracked on soundcheck, with 122 sets log
 
 ## Shares bills with
 
-Jenia Tarsol, Avangart Tabldot, Hardt Antoine
+Jenia Tarsol, ARODES, Avangart Tabldot
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

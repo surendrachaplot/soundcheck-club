@@ -1,14 +1,15 @@
 # Vass
 
-Vass is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
+Vass is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
 
-Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Colour Factory, London on Mon 31 Aug.
+Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Colour Factory, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Colour Factory | London |
+| Sat, 26 Sept 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 7 Nov 2026 | The Yard | Manchester |
 

@@ -1,8 +1,8 @@
 # Eddie Van Poppel
 
-Eddie Van Poppel is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
+Eddie Van Poppel is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
 
-Eddie Van Poppel is a house and club artist tracked on soundcheck, with 116 sets logged across London. Often billed alongside VanRock, Mr Fresh Official and NYCity Soundz. Next up: Crown Pier, London on Sat 29 Aug.
+Eddie Van Poppel is a house and club artist tracked on soundcheck, with 117 sets logged across London. Often billed alongside VanRock, Mr Fresh Official and NYCity Soundz. Next up: Crown Pier, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eddie Van Poppel is a house and club artist tracked on soundcheck, with 116 sets
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Crown Pier | London |
 | Sat, 26 Sept 2026 | Crown Pier | London |
+| Sat, 31 Oct 2026 | Crown Pier | London |
 
 ## Recently played
 

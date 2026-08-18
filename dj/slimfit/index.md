@@ -1,8 +1,8 @@
 # Slimfit
 
-Slimfit is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
+Slimfit is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
 
-Slimfit is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: export, Rotterdam on Sat 22 Aug.
+Slimfit is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: export, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Slimfit is a techno and house artist tracked on soundcheck, with 120 sets logged
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | export | Rotterdam |
 | Fri, 4 Sept 2026 | Paradiso | Amsterdam |
+| Fri, 25 Sept 2026 | Mono | Rotterdam |
 
 ## Recently played
 

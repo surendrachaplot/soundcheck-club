@@ -1,14 +1,15 @@
 # Iori
 
-Iori is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at VENT, Tokyo on Fri, 4 Sept 2026.
+Iori is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at VENT, Tokyo on Fri, 4 Sept 2026.
 
-Iori is a techno and house artist based in Japan, tracked on soundcheck, with 61 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Sakuma, YouForgot and Celter. Next up: VENT, Tokyo on Fri 4 Sept.
+Iori is a techno and house artist based in Japan, tracked on soundcheck, with 62 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Sakuma, YouForgot and Celter. Next up: VENT, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | VENT | Tokyo |
+| Sat, 19 Sept 2026 | 88block | Tokyo |
 
 ## Recently played
 

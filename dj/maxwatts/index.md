@@ -1,14 +1,15 @@
 # Max Watts
 
-Max Watts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
+Max Watts is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
 
-Max Watts is a techno and house artist tracked on soundcheck, with 98 sets logged across Berlin, Chicago, Detroit and London and 9 more. Often billed alongside Sugar (4), Miguel Cisne and MGUN. Next up: 314 Scholes, Newyorkcity on Fri 21 Aug.
+Max Watts is a techno and house artist tracked on soundcheck, with 99 sets logged across Berlin, Chicago, Detroit and London and 9 more. Often billed alongside Sugar (4), Miguel Cisne and MGUN. Next up: 314 Scholes, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | 314 Scholes | New York City |
+| Thu, 17 Sept 2026 | Trans-Pecos | New York City |
 
 ## Recently played
 

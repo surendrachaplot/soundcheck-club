@@ -1,14 +1,13 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+William Kiss is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Concourse Project, Austin on Fri, 21 Aug 2026.
 
-William Kiss is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: DC-10, Ibiza on Mon 17 Aug.
+William Kiss is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: The Concourse Project, Austin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Fri, 21 Aug 2026 | The Concourse Project | Austin |
 | Sat, 22 Aug 2026 | Hotel X Toronto | Toronto |
 | Sun, 23 Aug 2026 | Refuge | New York City |

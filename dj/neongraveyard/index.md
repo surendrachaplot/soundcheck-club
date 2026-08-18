@@ -1,8 +1,8 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Klein Phönix, Istanbul on Fri, 21 Aug 2026.
+Neon Graveyard is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Klein Phönix, Istanbul on Fri, 21 Aug 2026.
 
-Neon Graveyard is a techno and trance artist based in Germany, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Johannes Schuster, KUKO and Adrian Mills. Next up: Klein Phönix, Istanbul on Fri 21 Aug.
+Neon Graveyard is a techno and trance artist based in Germany, tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Johannes Schuster, KUKO and Adrian Mills. Next up: Klein Phönix, Istanbul on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neon Graveyard is a techno and trance artist based in Germany, tracked on soundc
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Klein Phönix | Istanbul |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 4 Sept 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 5 Sept 2026 | Arzenal | Budapest |
 | Sat, 24 Oct 2026 | Gate Milano | Milan |
 

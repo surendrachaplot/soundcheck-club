@@ -1,13 +1,14 @@
 # sin serif
 
-sin serif is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
+sin serif is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-sin serif is a baile funk and techno artist tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside KALI., dj latinchat and auto_timer. Next up: Lark, Berlin on Sat 3 Oct.
+sin serif is a techno and house artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside KALI., dj latinchat and auto_timer. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Renate | Berlin |
 | Sat, 3 Oct 2026 | Lark | Berlin |
 
 ## Recently played

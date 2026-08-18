@@ -1,6 +1,6 @@
 # Paradise x Loveland - ADE 2026 at Mediahaven - Minervahaven
 
-Paradise x Loveland - ADE 2026 at Mediahaven - Minervahaven on Fri 23 Oct, Amsterdam. 1 act on the bill: Jamie Jones. House. Preview the line-up and save it on soundcheck.
+Paradise x Loveland - ADE 2026 at Mediahaven - Minervahaven on Fri 23 Oct, Amsterdam. 15 acts on the bill: AJ Christou, Archie Hamilton, Easttown and FIFI FORTE and 11 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,20 @@ Paradise x Loveland - ADE 2026 at Mediahaven - Minervahaven on Fri 23 Oct, Amste
 
 ## Line-up
 
+- AJ Christou
+- Archie Hamilton
+- Easttown
+- FIFI FORTE
+- Fleur Shore
+- Hidde van Wee
+- Hot Since 82
 - Jamie Jones
+- Joe Rolét
+- Manda Moor
+- Olive F
+- Omar+
+- Prunk
+- Rooléh
+- Seth Troxler
 
 *Source: [soundcheck](https://soundcheck.club/e/2455390-paradise-x-loveland-ade-2026-at-mediahaven-minervahaven/)*

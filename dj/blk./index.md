@@ -1,14 +1,13 @@
 # blk.
 
-blk. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
+blk. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
-blk. is a techno and trance artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Amnesia Ibiza, Ibiza on Mon 17 Aug.
+blk. is a techno and trance artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sun, 30 Aug 2026 | The Telegraph Building | Belfast |
 | Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |

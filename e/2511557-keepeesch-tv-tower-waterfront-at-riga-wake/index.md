@@ -1,6 +1,6 @@
 # Keepeesch: TV Tower Waterfront at Riga Wake
 
-Keepeesch: TV Tower Waterfront at Riga Wake on Sat 29 Aug, Riga. 6 acts on the bill: Adam Blake, DEEP DISTRICT, Kapusta and Nineseb and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Keepeesch: TV Tower Waterfront at Riga Wake on Sat 29 Aug, Riga. 9 acts on the bill: Adam Blake, DEEP DISTRICT, harmo:nika and Kapusta and 5 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,12 @@ Keepeesch: TV Tower Waterfront at Riga Wake on Sat 29 Aug, Riga. 6 acts on the b
 
 - Adam Blake
 - DEEP DISTRICT
+- harmo:nika
 - Kapusta
 - Nineseb
 - Rexton
+- Riposte
+- Tony (LV)
 - Utip
 
 *Source: [soundcheck](https://soundcheck.club/e/2511557-keepeesch-tv-tower-waterfront-at-riga-wake/)*

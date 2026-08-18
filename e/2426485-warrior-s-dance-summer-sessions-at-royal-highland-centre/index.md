@@ -1,6 +1,6 @@
 # Warrior's Dance Summer Sessions at Royal Highland Centre
 
-Warrior's Dance Summer Sessions at Royal Highland Centre on Sat 29 Aug, Edinburgh. 7 acts on the bill: Carl Cox, Darrell Pulse, E.DN and Frazi.er and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Warrior's Dance Summer Sessions at Royal Highland Centre on Sat 29 Aug, Edinburgh. 9 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, Carl Cox, Darrell Pulse and David Rodigan and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Warrior's Dance Summer Sessions at Royal Highland Centre on Sat 29 Aug, Edinburg
 
 ## Line-up
 
+- ¥ØU$UK€ ¥UK1MAT$U
 - Carl Cox
 - Darrell Pulse
+- David Rodigan
 - E.DN
 - Frazi.er
 - ona:v

@@ -1,8 +1,8 @@
 # Rosati
 
-Rosati is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Rosati is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
-Rosati is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and Blasha & Allatt. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
+Rosati is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rosati is a techno and house artist tracked on soundcheck, with 80 sets logged a
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | RADION | Amsterdam |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Rosati is a techno and house artist tracked on soundcheck, with 80 sets logged a
 
 ## Shares bills with
 
-Steffi, Comrade Winston, Blasha & Allatt
+Steffi, Comrade Winston, DVS1
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

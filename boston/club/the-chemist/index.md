@@ -1,8 +1,8 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rythym" on Thu, 20 Aug 2026.
+The Chemist is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rythym" on Thu, 20 Aug 2026.
 
-The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel, DJ maddog and Frank Paper and 2 more. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
+The Chemist is a music venue in Boston listed on soundcheck. 6 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel, Camila (2) and Chris Clement and 2 more. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
 ## What's on
 
@@ -10,7 +10,9 @@ The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, 
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Rythym |  |
 | Fri, 21 Aug 2026 | Boston Wax Club - Pop Up Party | LOLAXVA, Nils Taylor, Selector X |
+| Thu, 27 Aug 2026 | FOUNDATION X | Camila (2), Chris Clement, LOLAXVA, Selector X, Xoce |
 | Fri, 28 Aug 2026 | Stereo33: Lenore, Frank Paper, Maddog | DJ maddog, Frank Paper, Lenore |
+| Sat, 29 Aug 2026 | sistema v1: SEO, CYZ, MOB |  |
 | Sat, 26 Sept 2026 | CONNECTEDwith presents Anthony Pappa | Anthony Pappa, Brian Gravel |
 
 ## Address

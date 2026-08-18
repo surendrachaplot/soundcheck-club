@@ -1,14 +1,15 @@
 # Patrick Rowe
 
-Patrick Rowe is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Patrick Rowe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
-Patrick Rowe is an electronic artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Craig Richards, Gabriel Rai and Ruby SD. Next up: Gaffe, London on Sun 30 Aug.
+Patrick Rowe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Craig Richards, Gabriel Rai and Ruby SD. Next up: Gaffe, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gaffe | London |
+| Fri, 4 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 

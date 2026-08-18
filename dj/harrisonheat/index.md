@@ -1,14 +1,15 @@
 # Harrison Heat
 
-Harrison Heat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 21 Aug 2026.
+Harrison Heat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 21 Aug 2026.
 
-Harrison Heat is a house and techno artist tracked on soundcheck, with 72 sets logged across Copenhagen and Nantes. Often billed alongside Anna Logic, Prom Night and Lucky Lube. Next up: Klub Werkstatt, Copenhagen on Fri 21 Aug.
+Harrison Heat is a house and techno artist tracked on soundcheck, with 73 sets logged across Copenhagen and Nantes. Often billed alongside Anna Logic, Prom Night and Lucky Lube. Next up: Klub Werkstatt, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Klub Werkstatt | Copenhagen |
+| Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 

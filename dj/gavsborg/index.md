@@ -1,13 +1,14 @@
 # Gavsborg
 
-Gavsborg is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Gavsborg is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Trans-Pecos, New York City on Thu, 17 Sept 2026.
 
-Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: Trans-Pecos, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Trans-Pecos | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 

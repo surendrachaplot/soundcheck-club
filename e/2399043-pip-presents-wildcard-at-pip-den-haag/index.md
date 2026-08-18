@@ -1,6 +1,6 @@
 # PIP presents Wildcard at PIP Den Haag
 
-PIP presents Wildcard at PIP Den Haag on Sat 5 Sept, Thehague. Experimental. Preview the line-up and save it on soundcheck.
+PIP presents Wildcard at PIP Den Haag on Sat 5 Sept, Thehague. Drum & Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

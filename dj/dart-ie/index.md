@@ -1,14 +1,13 @@
 # DART
 
-DART is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
+DART is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 31 Aug 2026.
 
-DART is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: Amnesia Ibiza, Ibiza on Mon 17 Aug.
+DART is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: Amnesia Ibiza, Ibiza on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | TivoliVredenburg | Utrecht |
 | Sat, 5 Sept 2026 | Mondo Open Air | Madrid |

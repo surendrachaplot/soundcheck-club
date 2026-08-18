@@ -1,14 +1,15 @@
 # S FLY
 
-S FLY is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gallery, London on Fri, 28 Aug 2026.
+S FLY is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gallery, London on Fri, 28 Aug 2026.
 
-S FLY is a drum & bass and garage artist tracked on soundcheck, with 37 sets logged across Hongkong, London, Melbourne and Newyorkcity and 2 more. Often billed alongside Beezo, Ricky Sahota and Smoke NGB. Next up: Gallery, London on Fri 28 Aug.
+S FLY is a drum & bass and garage artist tracked on soundcheck, with 38 sets logged across Hongkong, London, Melbourne and Newyorkcity and 2 more. Often billed alongside Beezo, Ricky Sahota and Smoke NGB. Next up: Gallery, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Gallery | London |
+| Fri, 25 Sept 2026 | The Timber Loft | London |
 
 ## Recently played
 

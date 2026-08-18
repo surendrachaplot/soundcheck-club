@@ -1,8 +1,8 @@
 # Steffen Lengler
 
-Steffen Lengler is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pimpernel, Munich on Sun, 30 Aug 2026.
+Steffen Lengler is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pimpernel, Munich on Sun, 30 Aug 2026.
 
-Steffen Lengler is a tech house and minimal artist tracked on soundcheck, with 107 sets logged across Berlin, Frankfurt, Munich and Stuttgart. Often billed alongside ROBOTIQ, Johnny D and Sandra Gold. Next up: Pimpernel, Munich on Sun 30 Aug.
+Steffen Lengler is a tech house and minimal artist tracked on soundcheck, with 108 sets logged across Berlin, Frankfurt, Munich and Stuttgart. Often billed alongside ROBOTIQ, Johnny D and Sandra Gold. Next up: Pimpernel, Munich on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Steffen Lengler is a tech house and minimal artist tracked on soundcheck, with 1
 | Sun, 30 Aug 2026 | Pimpernel | Munich |
 | Sun, 6 Sept 2026 | Pimpernel | Munich |
 | Wed, 16 Sept 2026 | Pimpernel | Munich |
+| Sat, 26 Sept 2026 | Pimpernel | Munich |
 
 ## Recently played
 

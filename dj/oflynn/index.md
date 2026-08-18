@@ -1,8 +1,8 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
-O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 | Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Fri, 11 Sept 2026 | Oxford Art Factory | Sydney |
 | Sat, 12 Sept 2026 | The Night Cat | Melbourne |
+| Sun, 13 Sept 2026 | Howler | Melbourne |
 | Fri, 18 Sept 2026 | Neck of the Woods | Auckland |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |

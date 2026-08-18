@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+Marcel Dettmann is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 256 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Westhafen, Leipzig on Sat 5 Sept.
+Marcel Dettmann is a techno and house artist tracked on soundcheck, with 257 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 256 set
 | Fri, 9 Oct 2026 | Flash | Washington DC |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
-| Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ PAURRO is a house and techno artist tracked on soundcheck, with 174 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | smartbar | Chicago |
-| Sat, 22 Aug 2026 | TBA - OUTDOOR VENUE  | Philadelphia |
+| Sat, 22 Aug 2026 | Love City Gardens | Philadelphia |
 | Sun, 23 Aug 2026 | Signal | New York City |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 

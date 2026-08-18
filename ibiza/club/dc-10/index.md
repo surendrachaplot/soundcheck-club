@@ -1,14 +1,13 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CircoLoco Ibiza - Week 17" on Mon, 17 Aug 2026.
+DC-10 is a music venue in Ibiza with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Solid Grooves - Week 12" on Thu, 20 Aug 2026.
 
-DC-10 is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with line-ups including Aline Umber, Âme, ANOTR and Antal and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
+DC-10 is a music venue in Ibiza listed on soundcheck. 15 upcoming nights, with line-ups including Âme, ANOTR, Antal and Bedouin and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | CircoLoco Ibiza - Week 17 | &ME, Aline Umber, Arapu, Call Super, Chloé Caillet, David Triana, Honey Dijon, ISAbella, Krol, O.BEE, Palms Trax, Priku, Rakim Under, Rampa, Skream, The Blessed Madonna, Tomas Station, William Kiss |
 | Thu, 20 Aug 2026 | Solid Grooves - Week 12 |  |
 | Mon, 24 Aug 2026 | CircoLoco Ibiza - Week 18 | ANOTR, Bushbaby, Carlita, Chris Stussy, DESIREE (RSA), HALFPINT, Jonny Rock, Larry Latenight, Mochakk, Ogazón, Ryan Elliott, Seth Troxler, Sossa, Âme |
 | Thu, 27 Aug 2026 | Solid Grooves - Week 13 |  |
@@ -18,6 +17,7 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with l
 | Thu, 10 Sept 2026 | Solid Grooves - Week 15 |  |
 | Mon, 14 Sept 2026 | CircoLoco Ibiza - Week 21 |  |
 | Thu, 17 Sept 2026 | Solid Grooves - Week 16 |  |
+| Mon, 21 Sept 2026 | CircoLoco Ibiza - Week 22 |  |
 
 ## Address
 

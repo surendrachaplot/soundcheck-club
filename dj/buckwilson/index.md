@@ -1,8 +1,8 @@
 # Buck Wilson
 
-Buck Wilson is a Tech House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mothership, San Francisco/Oakland on Fri, 21 Aug 2026.
+Buck Wilson is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mothership, San Francisco/Oakland on Fri, 21 Aug 2026.
 
-Buck Wilson is a tech house and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Golem (US), Discnogirl and QUETZAL. Next up: Mothership, Sanfrancisco on Fri 21 Aug.
+Buck Wilson is a club and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Discnogirl, Golem (US) and QUETZAL. Next up: Mothership, Sanfrancisco on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Buck Wilson is a tech house and bass artist based in United States of America, t
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Mothership | San Francisco/Oakland |
 | Sat, 22 Aug 2026 | Bar Part Time | San Francisco/Oakland |
+| Thu, 24 Sept 2026 | Club Six | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Buck Wilson is a tech house and bass artist based in United States of America, t
 
 ## Shares bills with
 
-Golem (US), Discnogirl, QUETZAL
+Discnogirl, Golem (US), QUETZAL
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buckwilson/)*

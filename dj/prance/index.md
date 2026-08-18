@@ -1,8 +1,8 @@
 # Prance
 
-Prance is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Prance is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
-Prance is a techno and house artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 4 more. Often billed alongside Joya Astou, Najel Monteiro and Hashashin. Next up: Shunter, Rotterdam on Sat 22 Aug.
+Prance is a techno and house artist based in Netherlands, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 4 more. Often billed alongside Joya Astou, Najel Monteiro and Mees Javois. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Prance is a techno and house artist based in Netherlands, tracked on soundcheck,
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Sun, 23 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 5 Sept 2026 | CLUB RAUM | Amsterdam |
+| Fri, 18 Sept 2026 | Mono | Rotterdam |
 | Sat, 19 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 
@@ -27,6 +28,6 @@ Prance is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 ## Shares bills with
 
-Joya Astou, Najel Monteiro, Hashashin
+Joya Astou, Najel Monteiro, Mees Javois
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prance/)*

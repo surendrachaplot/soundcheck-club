@@ -1,13 +1,14 @@
 # Glaskeen
 
-Glaskeen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Glaskeen is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
 
-Glaskeen is a techno and trance artist based in France, tracked on soundcheck, with 3 sets logged across Lyon and Paris. Often billed alongside 2HOT2PLAY, AREA ØNE and Blasha & Allatt. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Glaskeen is a techno and hardcore artist based in France, tracked on soundcheck, with 4 sets logged across Lyon and Paris. Often billed alongside 2HOT2PLAY, AREA ØNE and Blasha & Allatt. Next up: Titan Xyphos Complex, Lyon on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Titan Xyphos Complex | Lyon |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played

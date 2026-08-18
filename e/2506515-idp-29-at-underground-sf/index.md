@@ -1,6 +1,6 @@
 # IDP 29 at Underground SF
 
-IDP 29 at Underground SF on Sat 10 Oct, Sanfrancisco. 2 acts on the bill: Hydroplane and Øbsrvr (PDX). Breakcore and IDM. Preview the line-up and save it on soundcheck.
+IDP 29 at Underground SF on Sat 10 Oct, Sanfrancisco. 2 acts on the bill: Hydroplane and Øbsrvr (PDX). Electro and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

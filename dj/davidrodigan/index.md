@@ -1,13 +1,14 @@
 # David Rodigan
 
-David Rodigan is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Live From Wythenshawe Park, Manchester on Sun, 30 Aug 2026.
+David Rodigan is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
-David Rodigan is a dub and drum & bass artist tracked on soundcheck, with 34 sets logged across Barcelona, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Chimpo, Kirollus and Arielle Free. Next up: Live From Wythenshawe Park, Manchester on Sun 30 Aug.
+David Rodigan is a dub and drum & bass artist tracked on soundcheck, with 35 sets logged across Barcelona, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Chimpo, Kirollus and Arielle Free. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Sun, 30 Aug 2026 | Live From Wythenshawe Park | Manchester |
 
 ## Recently played

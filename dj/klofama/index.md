@@ -1,8 +1,8 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
+KLOFAMA is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
 
-KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: UNO MALTA, Malta on Fri 28 Aug.
+KLOFAMA is a techno and industrial artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: UNO MALTA, Malta on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets lo
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | O2 Academy | Glasgow |
 | Sat, 12 Sept 2026 | The Yard Vienna | Vienna |
+| Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 9 Oct 2026 | Sala Urbana | Mexico City |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |

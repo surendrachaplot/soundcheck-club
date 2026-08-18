@@ -1,14 +1,15 @@
 # SENNY D
 
-SENNY D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Z Maruyama, Tokyo on Sat, 22 Aug 2026.
+SENNY D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Z Maruyama, Tokyo on Sat, 22 Aug 2026.
 
-SENNY D is a techno and house artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside YURI VALEN, Shogo Ito and Drunken Kong. Next up: Z Maruyama, Tokyo on Sat 22 Aug.
+SENNY D is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside YURI VALEN, Shogo Ito and Drunken Kong. Next up: Z Maruyama, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Z Maruyama | Tokyo |
+| Sat, 5 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 

@@ -1,14 +1,17 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Township Rebellion (Alemania)" on Fri, 21 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "100 Underground: MORVIUS, Shanti Clasing, Sabina Palma" on Wed, 19 Aug 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 5 upcoming nights, with line-ups including Pleasurekraft and Township Rebellion. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Baby Mango, Coratella, MORVIUS and Octoptic and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Township Rebellion (Alemania) | Township Rebellion |
+| Wed, 19 Aug 2026 | 100 Underground: MORVIUS, Shanti Clasing, Sabina Palma | MORVIUS, Sabina Palma |
+| Thu, 20 Aug 2026 | Solorio, Stimulation B2B Coratella, Gir B2B Fran | Coratella, Stimulation |
+| Fri, 21 Aug 2026 | Township Rebellion (Alemania), Tatan, Octoptic | Octoptic, Township Rebellion |
+| Sat, 22 Aug 2026 | The Criminal Sounds, Baby Mango, Quecho | Baby Mango, Quecho |
 | Thu, 27 Aug 2026 | Verdant: Embi, Pako, Azanara, Un Extraño Enemigo, Brayis |  |
 | Fri, 28 Aug 2026 | Pleasurekraft (Kraftek / USA) | Pleasurekraft |
 | Fri, 16 Oct 2026 | La Plazuela (Dj Set) |  |

@@ -1,14 +1,15 @@
 # Mignon (2)
 
-Mignon (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Stoked&stoned, Seoul on Thu, 20 Aug 2026.
+Mignon (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Stoked&stoned, Seoul on Thu, 20 Aug 2026.
 
-Mignon (2) is a house and techno artist based in South Korea, tracked on soundcheck, with 41 sets logged across Seoul. Often billed alongside Nolove, Youngseok and JNS. Next up: Stoked&stoned, Seoul on Thu 20 Aug.
+Mignon (2) is a house and techno artist based in South Korea, tracked on soundcheck, with 42 sets logged across Seoul. Often billed alongside Nolove, Youngseok and Closet Yi. Next up: Stoked&stoned, Seoul on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Stoked&stoned | Seoul |
+| Fri, 21 Aug 2026 | Shelter | Seoul |
 | Sun, 23 Aug 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
@@ -24,6 +25,6 @@ Mignon (2) is a house and techno artist based in South Korea, tracked on soundch
 
 ## Shares bills with
 
-Nolove, Youngseok, JNS
+Nolove, Youngseok, Closet Yi
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mignon-2/)*

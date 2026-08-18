@@ -1,13 +1,14 @@
 # Artist Lebo
 
-Artist Lebo is a Amapiano and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Theata, London on Fri, 4 Sept 2026.
+Artist Lebo is a Amapiano and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at renae, Manchester on Fri, 21 Aug 2026.
 
-Artist Lebo is an amapiano and broken beat artist tracked on soundcheck, with 22 sets logged across London and Manchester. Often billed alongside CLEIDO, DJ TOOTS and DJEFF. Next up: Theata, London on Fri 4 Sept.
+Artist Lebo is an amapiano and broken beat artist tracked on soundcheck, with 23 sets logged across London and Manchester. Often billed alongside CLEIDO, DJ TOOTS and DJEFF. Next up: renae, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | renae | Manchester |
 | Fri, 4 Sept 2026 | Theata | London |
 
 ## Recently played

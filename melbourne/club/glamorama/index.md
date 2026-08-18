@@ -9,7 +9,7 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 8 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Interval - BURNR [NL] + DAYZZI | DAYZZI, Ejeckt |
-| Sat, 22 Aug 2026 | Hooker + Fosters at Glamorama Saturdays | Fosters, Hooker |
+| Sat, 22 Aug 2026 | Hooker + Fosters at Glamorama Saturdays | Fosters, Hooker, Matt Radovich |
 | Sat, 29 Aug 2026 | Fabrication | bellxsxs |
 | Sat, 29 Aug 2026 | People's Party at Glamorama Saturdays | Joey Coco, Slumdog |
 | Fri, 4 Sept 2026 | Interval - Dan Newman [UK] | Dan Newman |

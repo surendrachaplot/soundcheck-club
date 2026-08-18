@@ -1,14 +1,15 @@
 # c00lm8
 
-c00lm8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at JAKI, Cologne on Fri, 18 Sept 2026.
+c00lm8 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at JAKI, Cologne on Fri, 18 Sept 2026.
 
-c00lm8 is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside AMSL, Elisen and Leon Hagen. Next up: JAKI, Cologne on Fri 18 Sept.
+c00lm8 is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside AMSL, Elisen and Leon Hagen. Next up: JAKI, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | JAKI | Cologne |
+| Sat, 7 Nov 2026 | WP8 | Düsseldorf |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Hard Queens #3 at Titan Xyphos Complex
 
-Hard Queens #3 at Titan Xyphos Complex on Fri 25 Sept, Lyon. 3 acts on the bill: Lady Dammage, Plume and uphoria. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hard Queens #3 at Titan Xyphos Complex on Fri 25 Sept, Lyon. 4 acts on the bill: Glaskeen, Lady Dammage, Plume and uphoria. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hard Queens #3 at Titan Xyphos Complex on Fri 25 Sept, Lyon. 3 acts on the bill:
 
 ## Line-up
 
+- Glaskeen
 - Lady Dammage
 - Plume
 - uphoria

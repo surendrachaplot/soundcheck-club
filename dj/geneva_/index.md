@@ -1,13 +1,14 @@
 # Geneva_
 
-Geneva_ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Djoon, Paris on Fri, 18 Sept 2026.
+Geneva_ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
 
-Geneva_ is a house and techno artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside Adrien Calvet, Aidan and Akua. Next up: Djoon, Paris on Fri 18 Sept.
+Geneva_ is a house and techno artist based in France, tracked on soundcheck, with 11 sets logged across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside MVHY, Adrien Calvet and Aidan. Next up: Crack Bellmer, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Crack Bellmer | Berlin |
 | Fri, 18 Sept 2026 | Djoon | Paris |
 
 ## Recently played
@@ -23,6 +24,6 @@ Geneva_ is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Adrien Calvet, Aidan, Akua
+MVHY, Adrien Calvet, Aidan
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*

@@ -1,14 +1,15 @@
 # Flat Esoteric
 
-Flat Esoteric is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
+Flat Esoteric is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
 
-Flat Esoteric is a techno and house artist based in Australia, tracked on soundcheck, with 19 sets logged across Melbourne. Often billed alongside Willis Anne, gross margins and CAITY WATSON. Next up: Collingwood Basement, Melbourne on Fri 28 Aug.
+Flat Esoteric is a techno and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne. Often billed alongside Willis Anne, gross margins and CAITY WATSON. Next up: Collingwood Basement, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Collingwood Basement | Melbourne |
+| Fri, 4 Sept 2026 | New Guernica | Melbourne |
 | Sat, 12 Sept 2026 | The Russian House | Melbourne |
 
 ## Recently played

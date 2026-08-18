@@ -1,8 +1,8 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Prunk is a House and Tech House artist with 22 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Cova Santa, Ibiza on Tue 18 Aug.
+Prunk is a house and tech house artist tracked on soundcheck, with 297 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 

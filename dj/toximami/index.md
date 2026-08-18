@@ -1,14 +1,13 @@
 # TOXIMAMI
 
-TOXIMAMI is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Eden, Ibiza on Mon, 17 Aug 2026.
+TOXIMAMI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Praterinsel, Munich on Sat, 22 Aug 2026.
 
-TOXIMAMI is a techno and trance artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: Eden, Ibiza on Mon 17 Aug.
+TOXIMAMI is a techno and trance artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: Praterinsel, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Eden | Ibiza |
 | Sat, 22 Aug 2026 | Praterinsel | Munich |
 | Fri, 11 Sept 2026 | Else | Berlin |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |

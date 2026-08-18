@@ -1,14 +1,15 @@
 # JNS
 
-JNS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hertz, Seoul on Fri, 21 Aug 2026.
+JNS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hertz, Seoul on Fri, 21 Aug 2026.
 
-JNS is a house and techno artist based in South Korea, tracked on soundcheck, with 157 sets logged across Seoul. Often billed alongside Gyusco, Closet Yi and Jesse You. Next up: Hertz, Seoul on Fri 21 Aug.
+JNS is a house and techno artist based in South Korea, tracked on soundcheck, with 158 sets logged across Seoul. Often billed alongside Gyusco, Closet Yi and Jesse You. Next up: Hertz, Seoul on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Hertz | Seoul |
+| Sat, 22 Aug 2026 | Paper | Seoul |
 
 ## Recently played
 

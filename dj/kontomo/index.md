@@ -1,14 +1,15 @@
 # KONTOMO
 
-KONTOMO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+KONTOMO is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
-KONTOMO is a techno and industrial artist based in China, tracked on soundcheck, with 14 sets logged across Bangkok, Hongkong, Osaka and Shenzhen and 1 more. Often billed alongside Linh Violet, EVE (1) and TEI TEI. Next up: clubasia, Tokyo on Fri 21 Aug.
+KONTOMO is a techno and industrial artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Hongkong, Osaka and Shenzhen and 1 more. Often billed alongside Linh Violet, EVE (1) and TEI TEI. Next up: clubasia, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | clubasia | Tokyo |
+| Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 
 ## Recently played
 

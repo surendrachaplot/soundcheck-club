@@ -1,8 +1,8 @@
 # Pauli B
 
-Pauli B is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at YSY, Berlin on Sat, 29 Aug 2026.
+Pauli B is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at YSY, Berlin on Sat, 29 Aug 2026.
 
-Pauli B is a house and deep house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Moritz Biebl. Next up: YSY, Berlin on Sat 29 Aug.
+Pauli B is a house and tech house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Moritz Biebl. Next up: YSY, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 

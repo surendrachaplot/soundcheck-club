@@ -1,6 +1,6 @@
 # DJ Three & Öona Dahl [open-to-close] at Flash
 
-DJ Three & Öona Dahl [open-to-close] at Flash on Sat 5 Sept, Washingtondc. 3 acts on the bill: Conscious Contact, DJ Three and Öona Dahl. House and Minimal. Preview the line-up and save it on soundcheck.
+DJ Three & Öona Dahl [open-to-close] at Flash on Sat 5 Sept, Washingtondc. 5 acts on the bill: Conscious Contact, DJ Three, markintheDark and Monile and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ DJ Three & Öona Dahl [open-to-close] at Flash on Sat 5 Sept, Washingtondc. 3 ac
 
 - Conscious Contact
 - DJ Three
+- markintheDark
+- Monile
 - Öona Dahl
 
 *Source: [soundcheck](https://soundcheck.club/e/2506181-dj-three-ona-dahl-open-to-close-at-flash/)*

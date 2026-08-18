@@ -1,6 +1,6 @@
-# Bassism 5.0 feat. N-Type & SLOWIE at Panke
+# Bassism 5.0 feat. N-Type & Slowie at Panke
 
-Bassism 5.0 feat. N-Type & SLOWIE at Panke on Fri 16 Oct, Berlin. 7 acts on the bill: Dj Alyaz, Dj Quien, Grzly Adams and N-Type and 3 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Bassism 5.0 feat. N-Type & Slowie at Panke on Fri 16 Oct, Berlin. 7 acts on the bill: Dj Alyaz, Dj Quien, Grzly Adams and N-Type and 3 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

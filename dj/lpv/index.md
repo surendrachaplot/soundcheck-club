@@ -1,14 +1,13 @@
 # LPV
 
-LPV is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
+LPV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
 
-LPV is a techno and trance artist based in Italy, tracked on soundcheck, with 15 sets logged across Athens, Berlin, Cardiff and Milan and 4 more. Often billed alongside Fran LF, Lars Huismann and Parallx. Next up: Tresor / Globus, Berlin on Mon 17 Aug.
+LPV is a techno and trance artist based in Italy, tracked on soundcheck, with 15 sets logged across Athens, Berlin, Cardiff and Milan and 4 more. Often billed alongside Fran LF, Lars Huismann and Parallx. Next up: AUX Club, Athens on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 25 Sept 2026 | AUX Club | Athens |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 

@@ -9,7 +9,7 @@ Dev/Null is a jungle and drum & bass artist based in United States of America, t
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Unannounced | Boston |
-| Sat, 12 Sept 2026 | TBA - Disclosed day of event | Boston |
+| Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |
 
 ## Recently played
 

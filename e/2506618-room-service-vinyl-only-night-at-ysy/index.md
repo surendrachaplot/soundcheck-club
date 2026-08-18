@@ -1,6 +1,6 @@
 # room service: Vinyl-Only Night at YSY
 
-room service: Vinyl-Only Night at YSY on Sat 29 Aug, Berlin. 2 acts on the bill: Moritz Biebl and Pauli B. House and Deep House. Preview the line-up and save it on soundcheck.
+room service: Vinyl-Only Night at YSY on Sat 29 Aug, Berlin. 2 acts on the bill: Moritz Biebl and Pauli B. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

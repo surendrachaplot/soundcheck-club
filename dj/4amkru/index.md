@@ -1,8 +1,8 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
+4am Kru is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
 
-4am Kru is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: FORGE, Sheffield on Fri 2 Oct.
+4am Kru is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: FORGE, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | FORGE | Sheffield |
 | Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
+| Fri, 9 Oct 2026 | O2 Academy Leeds | Leeds |
 | Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played

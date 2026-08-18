@@ -1,6 +1,6 @@
 # BLOND:ISH presents ABRACADABRA London at The Cause
 
-BLOND:ISH presents ABRACADABRA London at The Cause on Sun 30 Aug, London. 1 act on the bill: BLOND:ISH. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+BLOND:ISH presents ABRACADABRA London at The Cause on Sun 30 Aug, London. 3 acts on the bill: BLOND:ISH, Goosey and Salomé Le Chat. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ BLOND:ISH presents ABRACADABRA London at The Cause on Sun 30 Aug, London. 1 act 
 ## Line-up
 
 - BLOND:ISH
+- Goosey
+- Salomé Le Chat
 
 *Source: [soundcheck](https://soundcheck.club/e/2475420-blond-ish-presents-abracadabra-london-at-the-cause/)*

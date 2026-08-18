@@ -1,14 +1,16 @@
 # WAN.1
 
-WAN.1 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
+WAN.1 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
 
-WAN.1 is a techno and trance artist tracked on soundcheck, with 81 sets logged across Berlin and Marseille. Often billed alongside FREEGO, Zutri and Backyard Mix. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
+WAN.1 is a techno and trance artist tracked on soundcheck, with 83 sets logged across Berlin and Marseille. Often billed alongside FREEGO, Zutri and Backyard Mix. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
+| Thu, 17 Sept 2026 | OST | Berlin |
+| Thu, 24 Sept 2026 | OST | Berlin |
 
 ## Recently played
 

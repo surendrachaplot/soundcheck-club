@@ -1,14 +1,15 @@
 # Moti (CR)
 
-Moti (CR) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at StereoBar, Montreal on Fri, 21 Aug 2026.
+Moti (CR) is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at StereoBar, Montreal on Fri, 21 Aug 2026.
 
-Moti (CR) is a progressive house and techno artist based in Costa Rica, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Crescenzo, Cristina Lazic and ELIF. Next up: StereoBar, Montreal on Fri 21 Aug.
+Moti (CR) is a progressive house and techno artist based in Costa Rica, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside BERLIN, Crescenzo and Cristina Lazic. Next up: StereoBar, Montreal on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | StereoBar | Montreal |
+| Sat, 29 Aug 2026 | Blue Room | Montreal |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Moti (CR) is a progressive house and techno artist based in Costa Rica, tracked 
 
 ## Shares bills with
 
-Crescenzo, Cristina Lazic, ELIF
+BERLIN, Crescenzo, Cristina Lazic
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moticr/)*

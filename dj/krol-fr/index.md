@@ -1,14 +1,13 @@
 # Krol
 
-Krol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Krol is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
-Krol is a house and minimal artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: DC-10, Ibiza on Mon 17 Aug.
+Krol is a house and minimal artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Fvtvr, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 

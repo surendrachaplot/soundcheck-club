@@ -1,8 +1,8 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Noizer pres. Sara Delirio + Kai Galactic" on Thu, 20 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Noizer pres. Sara Delirio + Kai Galactic" on Thu, 20 Aug 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including Mariiin, Adi, Alexander Skancke and Alex Dima and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "vurtnight Mathys Lenne" on Fri, 21 Aug 2026.
+vurt. is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "vurtnight Mathys Lenne" on Fri, 21 Aug 2026.
 
-vurt. is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including chukimaandal, D-Leria, Djilogue and Inger and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
+vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including ANSOL, chukimaandal, D-Leria and Djilogue and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
 ## What's on
 
@@ -11,6 +11,8 @@ vurt. is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with li
 | Fri, 21 Aug 2026 | vurtnight Mathys Lenne | Mathys Lenne, SJK (1), SUNA |
 | Sat, 22 Aug 2026 | 夜行性: nocturnal | Inger, Ininin, Zorba, chukimaandal |
 | Fri, 28 Aug 2026 | vurtnight D-Leria LIVE | D-Leria, Djilogue, SUZAN (2) |
+| Sat, 29 Aug 2026 | Resident Night | ANSOL, GOBI, SUNA |
+| Sat, 5 Sept 2026 | vurtnight Rrose | Rrose |
 
 ## Address
 

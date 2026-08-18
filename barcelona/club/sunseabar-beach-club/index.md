@@ -1,8 +1,8 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Noizer pres. Heatwave Vol. 3" on Thu, 20 Aug 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Noizer pres. Heatwave Vol. 3" on Thu, 20 Aug 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including acidheaven, Adria (ES), Adrian Grösser and AFFKT and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including acidheaven, Adria (ES), Adrian Grösser and AFFKT and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upco
 | Thu, 27 Aug 2026 | FREE BEACH PARTY Bonanza x Liquid Palms pres. Paolo Mosca | Adrian Grösser, Breezy S, Derovio, NOBODYISALICE, Paolo Mosca |
 | Fri, 28 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost Invites Innuendo at Platja Del Fòrum  | EFÍMERO |
 | Sat, 29 Aug 2026 | Less is More x Medio Crew presents Prichindel | Daescu, Gera (3), Kid Moss, Prichindel |
-| Sun, 30 Aug 2026 | Outer Place On The Beach x Les Enfants |  |
+| Sun, 30 Aug 2026 | Outer Place Showcase On the Beach | Dean Denali, Jorge Escribano, Lumiere, Ma.to |
 | Fri, 4 Sept 2026 | FREE OPEN AIR BEACH PARTY - Time To Panic | Iro Aka, LM, Pol K, Walrus, ildec |
-| Sat, 5 Sept 2026 | Magnetic People Day Time at SunSeaBar - FREE OPEN AIR BEACH PARTY |  |
+| Sat, 5 Sept 2026 | Magnetic People Day Time at SunSeaBar - FREE OPEN AIR BEACH PARTY | BizZa, CAAL, De La Swing, Dellavega, LondonGround, Pau Guilera, Ssero |
 
 ## Address
 

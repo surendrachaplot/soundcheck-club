@@ -1,8 +1,8 @@
 # Toni Pfad
 
-Toni Pfad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Toni Pfad is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
-Toni Pfad is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Crille & Tamalt, Hannie Phi and Heimlich Maneuver. Next up: Hoppetosse, Berlin on Sat 22 Aug.
+Toni Pfad is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Crille & Tamalt, Hannie Phi and Heimlich Maneuver. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toni Pfad is a house and techno artist tracked on soundcheck, with 26 sets logge
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Hoppetosse | Berlin |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
+| Sun, 20 Sept 2026 | Paloma | Berlin |
 
 ## Recently played
 

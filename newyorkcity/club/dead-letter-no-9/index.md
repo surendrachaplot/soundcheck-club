@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans" on Thu, 20 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans" on Thu, 20 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 8 upcomi
 | Sat, 29 Aug 2026 | Freshly Pressed presents: Roni Amitai, Connie, Asha Jasz, Harry Fletcher, Jared Maharaj | Asha Jasz, Connie, Harry Fletcher, Jared Maharaj, Roni Amitai, Vivian Wang |
 | Sat, 5 Sept 2026 | Tommie Sunshine, Amber Valenine, SPRFRK - Dead Letter No.9 | Amber Valentine, SPRFRK, Tommie Sunshine |
 | Fri, 11 Sept 2026 | The Disco Express: Roland & Brother Rich, Bustin' Loose, Birdee - Dead Letter No.9 | Birdee, Bustin' Loose, Roland & Brother Rich |
+| Fri, 18 Sept 2026 | Sabine Blaizin, Val Fleury, Miss Gypsy, Very J, Vereda INTL + Tony Flow (LIVE) | Miss Gypsy, Val Fleury, Very J |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # V Í A The Collective: Tempted at OIL Club
 
-V Í A The Collective: Tempted at OIL Club on Sun 23 Aug, Shenzhen. 1 act on the bill: Sydney Barringer. Techno. Preview the line-up and save it on soundcheck.
+V Í A The Collective: Tempted at OIL Club on Sun 23 Aug, Shenzhen. 2 acts on the bill: Minh (2) and Sydney Barringer. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ V Í A The Collective: Tempted at OIL Club on Sun 23 Aug, Shenzhen. 1 act on the
 
 ## Line-up
 
+- Minh (2)
 - Sydney Barringer
 
 *Source: [soundcheck](https://soundcheck.club/e/2478944-v-a-the-collective-tempted-at-oil-club/)*

@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 19 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 19 Aug 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and Chuki Juri and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and Chuki Juri and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming night
 | Thu, 27 Aug 2026 | Night District | Dub Isotope, Forward Sisters, Genoe, Larhythmix, Migz, janosch |
 | Sat, 29 Aug 2026 | STAY TOXIC x RAZJOB [FREE ENTRY*] |  |
 | Sun, 30 Aug 2026 | Dyke Goth Night |  |
-| Fri, 11 Sept 2026 | Tales of Dakno: The Berlin Story | BILLY, Mario Ignacio, Stella Fiore |
+| Fri, 4 Sept 2026 | Bad Dad with CYRK, Geneva, Vivienne & Dugong | CYRK, Geneva_, La Schmock, MVHY |
 
 ## Address
 

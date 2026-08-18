@@ -1,14 +1,15 @@
 # Aram
 
-Aram is a Deep House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Système, Montreal on Sun, 6 Sept 2026.
+Aram is a Deep House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Système, Montreal on Sun, 6 Sept 2026.
 
-Aram is a deep house and balearic artist tracked on soundcheck, with 17 sets logged across Mexicocity, Montreal, Seoul and Toronto and 1 more. Often billed alongside Guthrie, Soos and THe LYONZ. Next up: Système, Montreal on Sun 6 Sept.
+Aram is a deep house and trance artist tracked on soundcheck, with 18 sets logged across Dublin, Mexicocity, Montreal and Seoul and 2 more. Often billed alongside Guthrie, Soos and THe LYONZ. Next up: Système, Montreal on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Système | Montreal |
+| Sat, 19 Sept 2026 | The Bernard Shaw | Dublin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
+Rebekah Abdeen is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
 
-Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 53 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Sport Mode. Next up: The Carpet Shop, London on Sat 22 Aug.
+Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 54 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Sport Mode. Next up: The Carpet Shop, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 53 sets l
 | Sat, 22 Aug 2026 | The Carpet Shop | London |
 | Wed, 26 Aug 2026 | Next Door Records | London |
 | Sat, 5 Sept 2026 | Oxygenic | Newcastle |
+| Thu, 24 Sept 2026 | The Fox and Firkin | London |
 
 ## Recently played
 

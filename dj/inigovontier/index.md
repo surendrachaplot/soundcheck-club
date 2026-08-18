@@ -1,13 +1,14 @@
 # Iñigo Vontier
 
-Iñigo Vontier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at public records, New York City on Sat, 5 Sept 2026.
+Iñigo Vontier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Datcha, Montreal on Fri, 4 Sept 2026.
 
-Iñigo Vontier is a techno and house artist tracked on soundcheck, with 78 sets logged across Bali, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Sabrina, Concret and SABRINA (3). Next up: public records, Newyorkcity on Sat 5 Sept.
+Iñigo Vontier is a techno and house artist tracked on soundcheck, with 79 sets logged across Bali, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Sabrina, Concret and SABRINA (3). Next up: Bar Datcha, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Bar Datcha | Montreal |
 | Sat, 5 Sept 2026 | public records | New York City |
 
 ## Recently played

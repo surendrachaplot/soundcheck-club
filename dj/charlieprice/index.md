@@ -1,14 +1,14 @@
 # Charlie Price
 
-Charlie Price is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at House of Ora, London on Fri, 16 Oct 2026.
+Charlie Price is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, London on Fri, 16 Oct 2026.
 
-Charlie Price is a house and jazz artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Dan Cluskey, Late Night Disco and Suka Meneri. Next up: House of Ora, London on Fri 16 Oct.
+Charlie Price is a house and jazz artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Dan Cluskey, Late Night Disco and Suka Meneri. Next up: TBA, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | House of Ora | London |
+| Fri, 16 Oct 2026 | TBA | London |
 
 ## Recently played
 

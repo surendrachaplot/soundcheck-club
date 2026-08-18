@@ -1,6 +1,6 @@
 # Supraliminal at Bossa Nova Civic Club
 
-Supraliminal at Bossa Nova Civic Club on Mon 24 Aug, Newyorkcity. 4 acts on the bill: Bookworms, Jalpari, MIRA MIRA and Rage.inald. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Supraliminal at Bossa Nova Civic Club on Mon 24 Aug, Newyorkcity. 5 acts on the bill: Bookworms, Evilo, Jalpari and MIRA MIRA and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Supraliminal at Bossa Nova Civic Club on Mon 24 Aug, Newyorkcity. 4 acts on the 
 ## Line-up
 
 - Bookworms
+- Evilo
 - Jalpari
 - MIRA MIRA
 - Rage.inald

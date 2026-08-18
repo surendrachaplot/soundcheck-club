@@ -9,7 +9,7 @@ Popper Cherry is a trance and house artist tracked on soundcheck, with 13 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Electrowerkz | London |
-| Sat, 5 Sept 2026 | TBA | Belfast |
+| Sat, 5 Sept 2026 | Oh Yeah Music Centre | Belfast |
 | Sat, 31 Oct 2026 | The Oh Yeah Centre | Belfast |
 
 ## Recently played

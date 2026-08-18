@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Open Decks with STEEN & Surfing DJs - Producer Night" on Tue, 18 Aug 2026.
+SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Open Decks with STEEN & Surfing DJs - Producer Night" on Tue, 18 Aug 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including A DJ Named SNE, Amiti, Anthony Romano and Anyasa and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including A DJ Named SNE, Amiti, Anthony Romano and Anyasa and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
@@ -15,9 +15,9 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, w
 | Tue, 25 Aug 2026 | Open Decks with STEEN & Masht | STEEN |
 | Wed, 26 Aug 2026 | Open Decks with STEEN and finding your niche | STEEN |
 | Thu, 27 Aug 2026 | Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP) | Bruce Wayne (US), ELIVVATE, IgP (1), KRAVE, Wires (US) |
+| Fri, 28 Aug 2026 | Benson | Benson |
 | Sat, 29 Aug 2026 | Memba |  |
 | Tue, 1 Sept 2026 | Open Decks with STEEN & Bojaq | STEEN |
-| Wed, 2 Sept 2026 | Open Decks with STEEN and Too Rhythmic | STEEN |
 
 ## Address
 

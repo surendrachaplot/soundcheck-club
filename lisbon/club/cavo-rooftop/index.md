@@ -1,14 +1,15 @@
 # Cavo Rooftop
 
-Cavo Rooftop is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "DARIAH ‣ OLI LIU ‣ Rui Alves ‣ SLIM J | SUNDAY 30 AUG • CAVO TERRACE • FREE ENTRY" on Sun, 30 Aug 2026.
+Cavo Rooftop is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DARIAH ‣ OLI LIU ‣ Rui Alves ‣ SLIM J | SUNDAY 30 AUG • CAVO TERRACE • FREE ENTRY" on Sun, 30 Aug 2026.
 
-Cavo Rooftop is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Rui Alves and SLIM J. Browse upcoming dates, start times and who's playing. Terminal de Cruzeiros de Lisboa, Lisbon, Portugal 1100-651.
+Cavo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Nicolle Velcro, Rui Alves and SLIM J. Browse upcoming dates, start times and who's playing. Terminal de Cruzeiros de Lisboa, Lisbon, Portugal 1100-651.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | DARIAH ‣ OLI LIU ‣ Rui Alves ‣ SLIM J / SUNDAY 30 AUG • CAVO TERRACE • FREE ENTRY | Rui Alves, SLIM J |
+| Sun, 6 Sept 2026 | Nicolle Velcro ‣ Blan.ca ‣ Rui Alves ‣ Neapo - SUNDAY 6 SEP × CAVO TERRACE • FREE | Nicolle Velcro, Rui Alves |
 
 ## Address
 

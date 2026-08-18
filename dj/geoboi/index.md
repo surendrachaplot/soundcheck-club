@@ -1,14 +1,15 @@
 # Geoboi
 
-Geoboi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Silverlake, Los Angeles on Fri, 28 Aug 2026.
+Geoboi is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Silverlake, Los Angeles on Fri, 28 Aug 2026.
 
-Geoboi is a techno and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Shane Thomas, Miracles and Mez Monty. Next up: TBA - Silverlake, Losangeles on Fri 28 Aug.
+Geoboi is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Shane Thomas, Miracles and Mez Monty. Next up: TBA - Silverlake, Losangeles on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA - Silverlake | Los Angeles |
+| Fri, 4 Sept 2026 | TBA | Los Angeles |
 
 ## Recently played
 

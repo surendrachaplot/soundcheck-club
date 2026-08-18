@@ -10,7 +10,7 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 97 sets logged 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The White Hotel | Manchester |
 | Tue, 25 Aug 2026 | The Berkeley Suite | Glasgow |
-| Sat, 12 Sept 2026 | TBA - Disclosed day of event | Boston |
+| Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |
 
 ## Recently played
 

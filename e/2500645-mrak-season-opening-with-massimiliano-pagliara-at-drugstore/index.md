@@ -1,6 +1,6 @@
 # MRAK Season Opening with Massimiliano Pagliara at Drugstore Beograd
 
-MRAK Season Opening with Massimiliano Pagliara at Drugstore Beograd on Fri 4 Sept, Belgrade. 1 act on the bill: Massimiliano Pagliara. Preview the line-up and save it on soundcheck.
+MRAK Season Opening with Massimiliano Pagliara at Drugstore Beograd on Fri 4 Sept, Belgrade. 2 acts on the bill: Ali Guney and Massimiliano Pagliara. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MRAK Season Opening with Massimiliano Pagliara at Drugstore Beograd on Fri 4 Sep
 
 ## Line-up
 
+- Ali Guney
 - Massimiliano Pagliara
 
 *Source: [soundcheck](https://soundcheck.club/e/2500645-mrak-season-opening-with-massimiliano-pagliara-at-drugstore/)*

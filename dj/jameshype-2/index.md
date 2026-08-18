@@ -1,14 +1,13 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Cavo Paradiso, Mykonos on Mon, 17 Aug 2026.
+James Hype (UK) is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 19 Aug 2026.
 
-James Hype (UK) is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Cavo Paradiso, Mykonos on Mon 17 Aug.
+James Hype (UK) is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hï Ibiza, Ibiza on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Cavo Paradiso | Mykonos |
 | Wed, 19 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |

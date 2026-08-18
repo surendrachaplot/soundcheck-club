@@ -1,14 +1,15 @@
 # Bodio
 
-Bodio is a Tech House and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
+Bodio is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Resume Valencia, Valencia on Fri, 21 Aug 2026.
 
-Bodio is a tech house and ebm artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Valencia. Often billed alongside Broken boy, Toxin and Svarn. Next up: Resume Valencia, Valencia on Fri 21 Aug.
+Bodio is a tech house and minimal artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Valencia. Often billed alongside Broken boy, Toxin and Svarn. Next up: Resume Valencia, Valencia on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Resume Valencia | Valencia |
+| Sat, 22 Aug 2026 | Resume Valencia | Valencia |
 
 ## Recently played
 

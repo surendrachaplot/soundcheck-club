@@ -1,8 +1,8 @@
 # Adiel
 
-Adiel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Adiel is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
 
-Adiel is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: Zoo, Geneva on Fri 11 Sept.
+Adiel is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: Zoo, Geneva on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Adiel is a techno and house artist tracked on soundcheck, with 209 sets logged a
 | Fri, 18 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 25 Sept 2026 | Forte Antenne | Rome |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 

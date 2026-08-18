@@ -1,14 +1,15 @@
 # Tangela
 
-Tangela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
+Tangela is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
 
-Tangela is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
+Tangela is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 5 Sept 2026 | La Prairie du Canal | Paris |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played

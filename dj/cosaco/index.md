@@ -1,14 +1,15 @@
 # Cosaco
 
-Cosaco is a Reggaeton and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
+Cosaco is a Reggaeton and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
 
-Cosaco is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 52 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and Fourth World Music. Next up: BarKa, Warsaw on Thu 20 Aug.
+Cosaco is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 53 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and eylau. Next up: BarKa, Warsaw on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | BarKa | Warsaw |
+| Fri, 21 Aug 2026 | barStudio | Warsaw |
 | Fri, 25 Sept 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 26 Sept 2026 | Piękny Pies | Krakow |
 
@@ -25,6 +26,6 @@ Cosaco is a reggaeton and baile funk artist based in Poland, tracked on soundche
 
 ## Shares bills with
 
-KarateKnur, Adobo (PL), Fourth World Music
+KarateKnur, Adobo (PL), eylau
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*

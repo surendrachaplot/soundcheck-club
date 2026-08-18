@@ -1,6 +1,6 @@
 # MIXECT: 001 at Daikanyama ORD.
 
-MIXECT: 001 at Daikanyama ORD. on Fri 28 Aug, Tokyo. 8 acts on the bill: Andrew (TREKKIE TRAX), Genick, Jacotanu and Nakamura Minami and 4 more. Electro and Grime. Preview the line-up and save it on soundcheck.
+MIXECT: 001 at Daikanyama ORD. on Fri 28 Aug, Tokyo. 9 acts on the bill: Andrew (TREKKIE TRAX), Carpainter, Genick and Jacotanu and 5 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MIXECT: 001 at Daikanyama ORD. on Fri 28 Aug, Tokyo. 8 acts on the bill: Andrew 
 ## Line-up
 
 - Andrew (TREKKIE TRAX)
+- Carpainter
 - Genick
 - Jacotanu
 - Nakamura Minami

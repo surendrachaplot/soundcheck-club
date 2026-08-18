@@ -9,7 +9,7 @@ Rhyw is a techno and bass artist tracked on soundcheck, with 93 sets logged acro
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Paloma | Berlin |
-| Sat, 5 Sept 2026 | 1520 | Manchester |
+| Sat, 5 Sept 2026 | Hidden | Manchester |
 
 ## Recently played
 

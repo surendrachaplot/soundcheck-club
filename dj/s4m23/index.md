@@ -1,13 +1,14 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 6910 Shirley Ave, Austin on Fri, 21 Aug 2026.
+S4M23 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mansions, New York City on Thu, 20 Aug 2026.
 
-S4M23 is a techno and house artist tracked on soundcheck, with 74 sets logged across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: TBA - 6910 Shirley Ave, Austin on Fri 21 Aug.
+S4M23 is a techno and house artist tracked on soundcheck, with 75 sets logged across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Mansions, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Mansions | New York City |
 | Fri, 21 Aug 2026 | TBA - 6910 Shirley Ave | Austin |
 | Sat, 29 Aug 2026 | Green Room NYC | New York City |
 | Fri, 11 Sept 2026 | TBA - Downtown | Los Angeles |

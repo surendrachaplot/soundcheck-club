@@ -13,7 +13,7 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 | Sat, 22 Aug 2026 | HØL: Phil Berg, Blame The Mono, Arkane b2b INLIMEN, Danny Roach, djcd, švedka, Edac | Arkane, Blame The Mono, Danny Roach, Edac, INLIMEN, Phil Berg, djcd, švedka |
 | Fri, 28 Aug 2026 | FILTH: Alternative Queer Pride | Deventi, Egui, Gridlock, Kessie, RayRay, SBBS, TAITO, Varanasi, quarter ohm |
 | Fri, 28 Aug 2026 | QueerPOC Brazilian Funk Rave |  |
-| Sat, 29 Aug 2026 | BENT x Power Dance Club | Aiden Francis, David James MCR, Esmé, Jase Jeffery, Jess Rose, Luigi Di Venere, PHIA SKY, Stathis (GR) |
+| Sat, 29 Aug 2026 | BENT x Power Dance Club | Aiden Francis, David James MCR, Esmé, Jase Jeffery, Jess Rose, Luigi Di Venere, PHIA SKY, SDJ (1), Stathis (GR) |
 | Sun, 30 Aug 2026 | LOVE.LAB DOES PRIDE | Ali Roche (2), ZESTY (UK), blo rida, chlo333e, lol (8) |
 | Fri, 4 Sept 2026 | NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION | CBABY, FKA Hardcore, FOULMOUTH, PEPPA (2), RUBY RAWR, Selvasolstice |
 | Sat, 5 Sept 2026 | BOOTLEG 002 | Jess Rose, Karlie Marx, MARACUYá, Qoqnut, atalaya |

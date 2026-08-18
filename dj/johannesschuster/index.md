@@ -1,8 +1,8 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Arzenal, Budapest on Wed 19 Aug.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Arzenal, Budapest on Wed 19 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 29 Aug 2026 | Schrotty | Cologne |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
@@ -19,7 +20,6 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
-| Fri, 25 Sept 2026 | Bootshaus | Cologne |
 
 ## Recently played
 

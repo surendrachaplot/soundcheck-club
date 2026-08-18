@@ -9,7 +9,7 @@ exmantera is an experimental and club artist tracked on soundcheck, with 30 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TBA - Secret Warehouse Location | Denver |
-| Sat, 22 Aug 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
+| Sat, 22 Aug 2026 | Public Works | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | TBA | London |
 
 ## Recently played

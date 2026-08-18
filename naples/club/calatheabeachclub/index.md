@@ -9,7 +9,7 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | ONDA • Timmy Regisford + Fabrizio Fattore, Ylenia Del Giudice | Fabrizio Fattore, Timmy Regisford, Ylenia Del Giudice |
-| Sat, 29 Aug 2026 | ONDA x PARTYNOTCOM • The Blessed Madonna | Fabio Stingo, Gabriele Russo, The Blessed Madonna |
+| Sat, 29 Aug 2026 | ONDA x PARTYNOTCOM  | Fabio Stingo, Gabriele Russo, The Blessed Madonna |
 | Sat, 5 Sept 2026 | L'ULTIMA ONDA |  |
 
 ## Address

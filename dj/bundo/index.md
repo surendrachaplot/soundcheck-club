@@ -1,14 +1,15 @@
 # Bundo
 
-Bundo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 4 Sept 2026.
+Bundo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 4 Sept 2026.
 
-Bundo is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Miami and Tokyo. Often billed alongside NITA, Arao and Monna Lisa. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 4 Sept.
+Bundo is a techno and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Miami and Tokyo. Often billed alongside NITA, Arao and Monna Lisa. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
+| Sat, 19 Sept 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 
 ## Recently played
 

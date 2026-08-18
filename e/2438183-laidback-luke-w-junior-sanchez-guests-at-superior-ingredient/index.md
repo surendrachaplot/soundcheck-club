@@ -1,6 +1,6 @@
 # Laidback Luke w. Junior Sanchez & Guests at Superior Ingredients
 
-Laidback Luke w. Junior Sanchez & Guests at Superior Ingredients on Sun 6 Sept, Newyorkcity. 2 acts on the bill: Junior Sanchez and Laidback Luke. House. Preview the line-up and save it on soundcheck.
+Laidback Luke w. Junior Sanchez & Guests at Superior Ingredients on Sun 6 Sept, Newyorkcity. 3 acts on the bill: Junior Sanchez, Laidback Luke and Sarindipity. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Laidback Luke w. Junior Sanchez & Guests at Superior Ingredients on Sun 6 Sept, 
 
 - Junior Sanchez
 - Laidback Luke
+- Sarindipity
 
 *Source: [soundcheck](https://soundcheck.club/e/2438183-laidback-luke-w-junior-sanchez-guests-at-superior-ingredient/)*

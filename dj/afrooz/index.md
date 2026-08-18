@@ -1,14 +1,15 @@
 # Afrooz
 
-Afrooz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
+Afrooz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
 
-Afrooz is a techno and house artist based in Canada, tracked on soundcheck, with 32 sets logged across Toronto and Vancouver. Often billed alongside AWood, Fisher Bryce and Andre Rose. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
+Afrooz is a techno and house artist based in Canada, tracked on soundcheck, with 33 sets logged across Toronto and Vancouver. Often billed alongside AWood, Fisher Bryce and Andre Rose. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2) | Vancouver |
+| Fri, 2 Oct 2026 | TBA | Vancouver |
 
 ## Recently played
 

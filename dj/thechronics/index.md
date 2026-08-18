@@ -1,14 +1,13 @@
 # The Chronics
 
-The Chronics is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
+The Chronics is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at M7 Club, Barcelona on Fri, 2 Oct 2026.
 
-The Chronics is a techno and ghetto tech artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Bours?, Chlär and Alarico. Next up: Tresor / Globus, Berlin on Mon 17 Aug.
+The Chronics is a techno and ghetto tech artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Bours?, Chlär and Alarico. Next up: M7 Club, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 2 Oct 2026 | M7 Club | Barcelona |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 

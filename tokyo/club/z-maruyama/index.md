@@ -9,7 +9,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | DAITOKAI | CLESENT, Daitto, FRNNNDZ, u z z v |
-| Sat, 22 Aug 2026 | SHEAR | Nobuya, SENNY D, Shogo Ito, Shun Mizuki |
+| Sat, 22 Aug 2026 | SHEAR (TECHNO) | Nobuya, SENNY D, Shogo Ito, Shun Mizuki |
 | Thu, 27 Aug 2026 | PENPAL (HOUSE) | Shimpei Watanabe, Yukio Nohara |
 | Fri, 28 Aug 2026 | GROOVIN' | DJ HOKUTO, DJ Hazime |
 | Fri, 4 Sept 2026 | ASPIRE | CLESENT, Osamu M, RYOHEI |

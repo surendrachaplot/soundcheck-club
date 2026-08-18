@@ -1,8 +1,8 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+L.P. Rhythm is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 29 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Dullingham Polo Club, London on Sat 22 Aug.
+L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 29 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 171 set
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | Superior Ingredients | New York City |
+| Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played

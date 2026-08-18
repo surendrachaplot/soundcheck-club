@@ -9,7 +9,7 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 70
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Honey Street Studio | Manchester |
-| Sat, 5 Sept 2026 | 1520 | Manchester |
+| Sat, 5 Sept 2026 | Hidden | Manchester |
 | Sat, 12 Sept 2026 | The White Hotel | Manchester |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+DJ Fuckoff is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mono, Rotterdam on Sat, 29 Aug 2026.
 
-DJ Fuckoff is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: The Cause, London on Sat 12 Sept.
+DJ Fuckoff is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Mono, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Mono | Rotterdam |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Renate | Berlin |
 

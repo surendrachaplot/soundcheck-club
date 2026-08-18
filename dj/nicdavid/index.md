@@ -1,13 +1,14 @@
 # Nic David
 
-Nic David is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Last Arch, London on Sat, 26 Sept 2026.
+Nic David is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
-Nic David is a house and electro artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Barcelona, Hamburg and London. Often billed alongside Adam Romo, BEGGSY and Bear Winder. Next up: Last Arch, London on Sat 26 Sept.
+Nic David is a house and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Barcelona, Hamburg and London. Often billed alongside 3 Minds, Adam Romo and BEGGSY. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 26 Sept 2026 | Last Arch | London |
 
 ## Recently played
@@ -22,6 +23,6 @@ Nic David is a house and electro artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Adam Romo, BEGGSY, Bear Winder
+3 Minds, Adam Romo, BEGGSY
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicdavid/)*

@@ -12,8 +12,16 @@
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
   <link rel="preconnect" href="https://i.ytimg.com" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <!-- ORDER MATTERS FOR CRAWLERS. Bing fetches /favicon.ico first and otherwise
+       takes a RASTER <link>; it largely will not use an SVG. favicon-32x32.png
+       was declared here for months while 404ing, so the only icon that resolved
+       was the SVG — which is why search results showed a generic globe instead
+       of the logo. All of these are generated from icons/icon-512.png by
+       build-club, so they cannot drift or go missing again. -->
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/icons/icon-192.png" />
   <!-- PWA: installable on iOS/Android, standalone, dark chrome -->
   <link rel="manifest" href="/manifest.webmanifest" />
@@ -21,11 +29,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.f40338a823b4.css">
+  <link rel="stylesheet" href="/app.4c6a61c98bad.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786979923709">
+<meta name="sc-build" content="1787067297067">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 <meta name="description" content="Vandi upcoming shows: Circolo Magnolia, Milan — Fri, 18 Sept 2026; block., Dublin — Sat, 19 Sept 2026. Vandi is a house and disco artist based in United States of America, tracked on soundcheck, with 6 sets logged across Dublin, Milan, Newyorkcity and Seattle. Often billed alongside Dj incognito mode, Dylema and Janere">
 <link rel="canonical" href="https://soundcheck.club/dj/vandi/">
@@ -94,7 +102,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">90 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">125 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">20 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">32 events</span></a></li><li><a href="/london/2026-08-21/">Fri 21 Aug <span class="c">91 events</span></a></li><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">126 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">20 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -211,7 +219,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.f40338a823b4.js" defer></script>
+  <script src="/app.4c6a61c98bad.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

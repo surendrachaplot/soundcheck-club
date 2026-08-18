@@ -1,14 +1,15 @@
 # Sholinger
 
-Sholinger is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
+Sholinger is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
 
-Sholinger is a techno and electro artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Copenhagen and Prague. Often billed alongside Borenstein, KVNDRA and Miles Kvndra. Next up: ://about blank, Berlin on Thu 27 Aug.
+Sholinger is a techno and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Copenhagen and Prague. Often billed alongside Borenstein, Gabrielle (DE) and KVNDRA. Next up: ://about blank, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | ://about blank | Berlin |
+| Fri, 25 Sept 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sholinger is a techno and electro artist tracked on soundcheck, with 14 sets log
 
 ## Shares bills with
 
-Borenstein, KVNDRA, Miles Kvndra
+Borenstein, Gabrielle (DE), KVNDRA
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*

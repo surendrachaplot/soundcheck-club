@@ -1,8 +1,8 @@
 # The Social Club
 
-The Social Club is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CASA" on Fri, 21 Aug 2026.
+The Social Club is a music venue in Newcastle with 26 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "CASA" on Fri, 21 Aug 2026.
 
-The Social Club is a music venue in Newcastle listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 28-32 Collingwood Street, Newcastle upon Tyne, NE1 1JF, United Kingdom.
+The Social Club is a music venue in Newcastle listed on soundcheck. 26 upcoming nights. Browse upcoming dates, start times and who's playing. 28-32 Collingwood Street, Newcastle upon Tyne, NE1 1JF, United Kingdom.
 
 ## What's on
 
@@ -10,7 +10,14 @@ The Social Club is a music venue in Newcastle listed on soundcheck. 3 upcoming n
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | CASA |  |
 | Sat, 22 Aug 2026 | Tropiloco |  |
+| Fri, 28 Aug 2026 | CASA |  |
 | Sat, 29 Aug 2026 | Tropiloco |  |
+| Fri, 4 Sept 2026 | CASA |  |
+| Fri, 11 Sept 2026 | CASA |  |
+| Mon, 14 Sept 2026 | Tropiloco |  |
+| Fri, 18 Sept 2026 | CASA |  |
+| Mon, 21 Sept 2026 | Tropiloco |  |
+| Fri, 25 Sept 2026 | CASA |  |
 
 ## Address
 

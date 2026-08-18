@@ -1,13 +1,14 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "An R'n'B party called JACK" on Sat, 22 Aug 2026.
+FLUCC is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "NACHTSCHUB with ATZENPUNK" on Fri, 21 Aug 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including A.Pringle, Donation, Flo Real and JP Bechamel and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including A.Pringle, andris, ATZENPUNK and BLUDHOUND and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | NACHTSCHUB with ATZENPUNK | ATZENPUNK, BLUDHOUND, Dj Wifi (3), Gosh, andris |
 | Sat, 22 Aug 2026 | An R'n'B party called JACK | Flo Real, JP Bechamel |
 | Fri, 28 Aug 2026 | PANZERSCHOKOLADE #33 | Donation, Zombieflesheater |
 | Sat, 29 Aug 2026 | CIVIC: Body Control Reloaded | Menessy |

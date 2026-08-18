@@ -15,7 +15,7 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 10 upcoming
 | Mon, 28 Sept 2026 | Aircraft in Kantine am Berghain | Aircraft |
 | Thu, 1 Oct 2026 | Young Widows (US), Aicher, LVFT |  |
 | Tue, 6 Oct 2026 | Obsimo (live set) - Berlin | Obsimo |
-| Sat, 10 Oct 2026 | This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop | Do you know Juno, Fabrizio Rat - La Machina, Mattia Prete, Misloop |
+| Sat, 10 Oct 2026 | This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop | Do you know Juno, Fabrizio Rat - La Machina, Mattia Prete, Misloop, Nory Kimijima |
 | Thu, 15 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
 | Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Flowgeist |
 

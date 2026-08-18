@@ -1,8 +1,8 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "135+ mit Grooveraiderz & Sonara – Open Air & Club" on Thu, 20 Aug 2026.
+Bahnwärter Thiel is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "135+ mit Grooveraiderz & Sonara – Open Air & Club" on Thu, 20 Aug 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including 9LALEY, A-DEE, ÆNN and ÆNZØ and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including 9LALEY, A-DEE, ÆNN and ÆNZØ and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming ni
 | Sat, 29 Aug 2026 | Rote Sonne x Bahnwärter Thiel Open Air & Club | 9LALEY, Alicea, Anna Ullrich, Confusion, DJ Mischkonsum, DJ SUSI, DJ Yugo, FJUSHA, IZZYA, MASSAGIO, Oliver Albach, Roshan, SloMo, buuo, suki, ÆNZØ |
 | Thu, 3 Sept 2026 | 135+ mit Uhrwerk der Nacht & 808 Kollektive | JACID |
 | Fri, 4 Sept 2026 | SYNTHX 3 Year Anniversary | ANASTASÍA, Jan Minnerup, MBREKK, NAGINI, Praun, TONA, Vaneska, ÆNN |
+| Sat, 5 Sept 2026 | Wannda Circus Closing / Bahnwärter Edition | Cottí Larje, Käthe & Haes, Nhii, vivi |
 | Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air mit Christian Löffler |  |
 
 ## Address

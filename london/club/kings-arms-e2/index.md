@@ -15,7 +15,7 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 16 upcoming night
 | Sat, 5 Sept 2026 | Kings Turntable: Handy Joe [05.09.2026] |  |
 | Sat, 5 Sept 2026 | Kings Turntable: Handy Joe [05.09.2026] |  |
 | Sun, 6 Sept 2026 | Vinyl Open Decks with George Kerr [06.09.2026] |  |
-| Sat, 12 Sept 2026 | Kings Turntable: Flashback Records East |  |
+| Sat, 12 Sept 2026 | Kings Turntable: Flashback Records East [12.09.2026] |  |
 | Sun, 13 Sept 2026 | Kings Turntable: Advice From Father [13.09.2026] |  |
 | Sat, 19 Sept 2026 | Kings Turntable: Gillian Wedderburn [19.09.2026] |  |
 

@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 21 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Havana Meets Kingston Sound System" on Fri, 21 Aug 2026.
+The Fox and Firkin is a music venue in London with 22 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Havana Meets Kingston Sound System" on Fri, 21 Aug 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Case (2) and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming 
 | Fri, 4 Sept 2026 | DJ Dymond presents Xpression | DJ Dymond, Dispatch, Leks, Vektah |
 | Sat, 5 Sept 2026 | POPOLA |  |
 | Sun, 6 Sept 2026 | Lloyd Coxsone, Haseeb Iqbal, Linett Kamala | Haseeb Iqbal |
-| Sat, 12 Sept 2026 | Aroop Roy & Friends | Aroop Roy |
+| Fri, 11 Sept 2026 | Club Glow Takeover: Yas Reven, Henry Greenleaf, LMajor b2b.Mani Festo, Mak & Pasteman,  | Henry Greenleaf, LMajor, Mak & Pasteman, Mani Festo, Yas Reven |
 
 ## Address
 

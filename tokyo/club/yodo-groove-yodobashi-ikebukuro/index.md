@@ -1,8 +1,8 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SUBSPACE feat. RINALY – Rooftop Day Party at YODO GROOVE" on Sat, 22 Aug 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SUBSPACE feat. RINALY – Rooftop Day Party at YODO GROOVE" on Sat, 22 Aug 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Antoniexx, Black Asteroid, Chika Luna and DJ AKi and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including TATSUYA, Antoniexx, Black Asteroid and Chika Luna and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Sat, 29 Aug 2026 | YODO GROOVE PRESENTS: SKY MUSIC JOURNEY – Electronic Music Rooftop Day Party | hara (2) |
 | Sun, 30 Aug 2026 | YODO GROOVE PRESENTS SKY MUSIC JOURNEY × EN / WEEK | Antoniexx, GOLDEN ROA, JURI HOSHINO |
 | Sun, 6 Sept 2026 | Black Asteroid(US) & Risa Taniguchi — TOKYO ROOFTOP TECHNO - SKY MUSIC JOURNEY | Black Asteroid, MAREAM, Ririko, Risa Taniguchi, YURI VALEN |
+| Sat, 12 Sept 2026 | PALMERA — TOKYO ROOFTOP TECH HOUSE / OPEN AIR & SUNSET | Keigo, Nosh, TATSUYA |
 | Sun, 13 Sept 2026 | DANCEDEVICE meets velfarre PLANET LOVE | Ko Kimura, Q'hey, YOSHIMASA |
 
 ## Address

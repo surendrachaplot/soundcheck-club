@@ -1,8 +1,8 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
+Easttown is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
+Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Easttown is a house and tech house artist tracked on soundcheck, with 97 sets lo
 | Fri, 11 Sept 2026 | Night Tales | London |
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 

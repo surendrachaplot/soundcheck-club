@@ -1,14 +1,15 @@
 # Sirens
 
-Sirens is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
+Sirens is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
 
-Sirens is a techno and club artist based in China, tracked on soundcheck, with 70 sets logged across Lisbon and Shenzhen. Often billed alongside Jascer, Beibeilon and Nebulae. Next up: OIL Club, Shenzhen on Sat 29 Aug.
+Sirens is a techno and club artist based in China, tracked on soundcheck, with 71 sets logged across Lisbon and Shenzhen. Often billed alongside Jascer, Beibeilon and Nebulae. Next up: OIL Club, Shenzhen on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | OIL Club | Shenzhen |
+| Sat, 12 Sept 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 

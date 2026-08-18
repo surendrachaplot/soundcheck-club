@@ -9,7 +9,7 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 188 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | smartbar | Chicago |
-| Sat, 22 Aug 2026 | TBA - OUTDOOR VENUE  | Philadelphia |
+| Sat, 22 Aug 2026 | Love City Gardens | Philadelphia |
 | Thu, 27 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 29 Aug 2026 | smartbar | Chicago |
 | Fri, 4 Sept 2026 | The Berkeley Suite | Glasgow |

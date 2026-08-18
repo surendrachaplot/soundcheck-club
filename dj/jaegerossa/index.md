@@ -1,13 +1,14 @@
 # Jaegerossa
 
-Jaegerossa is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
+Jaegerossa is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Suono, Liverpool on Fri, 28 Aug 2026.
 
-Jaegerossa is a disco and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Glasgow, Ibiza, Liverpool and London and 1 more. Often billed alongside The Reflex, James Greenwood and Moodena. Next up: fabric, London on Sat 24 Oct.
+Jaegerossa is a disco and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Glasgow, Ibiza, Liverpool and London and 1 more. Often billed alongside The Reflex, James Greenwood and John Morales. Next up: Suono, Liverpool on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Suono | Liverpool |
 | Sat, 24 Oct 2026 | fabric | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Jaegerossa is a disco and house artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-The Reflex, James Greenwood, Moodena
+The Reflex, James Greenwood, John Morales
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaegerossa/)*

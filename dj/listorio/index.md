@@ -1,14 +1,15 @@
 # LISTORIO
 
-LISTORIO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+LISTORIO is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
-LISTORIO is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Katy Rough, Trancestrudel and BRAINDAAMAGE. Next up: ://about blank, Berlin on Fri 28 Aug.
+LISTORIO is a trance and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne and Hamburg. Often billed alongside IGDA, Katy Rough and Trancestrudel. Next up: ://about blank, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
+| Fri, 4 Sept 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LISTORIO is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Katy Rough, Trancestrudel, BRAINDAAMAGE
+IGDA, Katy Rough, Trancestrudel
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/listorio/)*

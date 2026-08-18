@@ -15,7 +15,7 @@ Flash is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights,
 | Sat, 29 Aug 2026 | Oliver Koletzki b2b Frida Darko | Adrian Collazo, DJ Soul (US), Frida Darko, Oliver Koletzki, TiERRA |
 | Sun, 30 Aug 2026 | Sunday Love: Jamie 3:26 - Sal Negro - Gianni V | Jamie 3:26, Sal Negro |
 | Fri, 4 Sept 2026 | fumi | JADE CAO, fumi (DE) |
-| Sat, 5 Sept 2026 | DJ Three & Öona Dahl [open-to-close] | Conscious Contact, DJ Three, Öona Dahl |
+| Sat, 5 Sept 2026 | DJ Three & Öona Dahl [open-to-close] | Conscious Contact, DJ Three, Monile, markintheDark, Öona Dahl |
 | Sun, 6 Sept 2026 | Sunday Love: Eduardo de la Calle - dimneonsum - Edo | Edo, Eduardo de la Calle |
 | Fri, 11 Sept 2026 | Anastazja | Anastazja, Apollo Dust, Cuedra, Henry P (US), John Talabot |
 

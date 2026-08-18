@@ -1,6 +1,6 @@
 # Veronica schip at Het Veronica Schip
 
-Veronica schip at Het Veronica Schip on Fri 28 Aug, Amsterdam. 5 acts on the bill: Christoph Cham, ilse dorine, LGNA and Sisi Carini and 1 more. Preview the line-up and save it on soundcheck.
+Veronica schip at Het Veronica Schip on Fri 28 Aug, Amsterdam. 5 acts on the bill: Christoph Cham, ilse dorine, LGNA and Sisi Carini and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

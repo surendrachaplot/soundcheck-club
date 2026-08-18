@@ -1,13 +1,14 @@
 # BizZa
 
-BizZa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 20 Sept 2026.
+BizZa is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
-BizZa is a house and tech house artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Buenosaires, Chicago and Ibiza and 7 more. Often billed alongside Pau Guilera, DIROS and Vidaloca. Next up: Seaseaclub Barcelona, Barcelona on Sun 20 Sept.
+BizZa is a house and tech house artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona, Buenosaires, Chicago and Ibiza and 7 more. Often billed alongside Pau Guilera, DIROS and De La Swing. Next up: Sunseabar Beach Club, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 20 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ BizZa is a house and tech house artist based in Spain, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Pau Guilera, DIROS, Vidaloca
+Pau Guilera, DIROS, De La Swing
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*

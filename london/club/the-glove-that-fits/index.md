@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "family affair volume X: a party for palestine" on Fri, 21 Aug 2026.
+The Glove That Fits is a music venue in London with 24 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "family affair volume X: a party for palestine" on Fri, 21 Aug 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 7005, AJ Manning, Alan Fitzpatrick and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 7005, A.Wild, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 | Sat, 29 Aug 2026 | Breathe Deeply | Juliana Branco, Oscar Jones, Simoon Pedro, TEZZA |
 | Thu, 3 Sept 2026 | Rubedo II | CITYTRONIX, Modlar, Shayleen Rose |
 | Fri, 4 Sept 2026 | Club Hiatus x Nein: Danny Daze | Danny Daze, Franklin DJ, Meltem Yazar, Tronik Youth |
+| Fri, 4 Sept 2026 | Wap.Recs presents Greville, A.Wild, Patrick Rowe | A.Wild, Greville, Patrick Rowe, Skip Wooznam |
 | Sat, 5 Sept 2026 | Day & Night: Atlas Project x Bath House x Mission Control | Ardishko, FASTON, Saumac |
-| Sun, 6 Sept 2026 | Fossil Archive presents: Gareth Wild, Vindya, R.M.K | Gareth Wild, R.M.K, Vindya |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # alterum
 
-alterum is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
+alterum is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
 
-alterum is a hardcore and drum & bass artist tracked on soundcheck, with 59 sets logged across Berlin, Brighton, Bristol and Glasgow and 4 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Club360, London on Fri 11 Sept.
+alterum is a hardcore and drum & bass artist tracked on soundcheck, with 60 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Club360, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Club360 | London |
+| Fri, 18 Sept 2026 | Plot 22 | Sheffield |
 
 ## Recently played
 

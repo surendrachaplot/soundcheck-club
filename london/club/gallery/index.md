@@ -13,7 +13,7 @@ Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, wit
 | Sat, 22 Aug 2026 | THEAFTERPARTY |  |
 | Thu, 27 Aug 2026 | Paradox Nexus: Late Replies - Thursdays at Gallery | Late Replies, Leith |
 | Fri, 28 Aug 2026 | Gallery x Anza presents: KARABA | KARABA, Leeda, Nicky Summers, S FLY, Shena |
-| Sat, 29 Aug 2026 | Hypnotized x Il Lamma presents Ashibah | Ashibah |
+| Sat, 29 Aug 2026 | Ashibah - Hypnotized x Il Lamma - Gallery London | Ashibah |
 | Thu, 3 Sept 2026 | Paradox Nexus - Thursdays |  |
 | Fri, 4 Sept 2026 | Organic presents: Gabe | Gabe Live |
 | Sat, 5 Sept 2026 | Gallery Season 4 Launch party with Dennis Ferrer | Dennis Ferrer |

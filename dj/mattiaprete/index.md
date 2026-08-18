@@ -2,7 +2,7 @@
 
 Mattia Prete is a Jazz and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
 
-Mattia Prete is a jazz and techno artist tracked on soundcheck, with 22 sets logged across Athens, Berlin, Milan and Osaka and 4 more. Often billed alongside Tonbo, aixx and Aki Himanen. Next up: Kantine am Berghain, Berlin on Sat 10 Oct.
+Mattia Prete is a jazz and techno artist tracked on soundcheck, with 22 sets logged across Athens, Berlin, Milan and Osaka and 4 more. Often billed alongside Nory Kimijima, Tonbo and aixx. Next up: Kantine am Berghain, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Mattia Prete is a jazz and techno artist tracked on soundcheck, with 22 sets log
 
 ## Shares bills with
 
-Tonbo, aixx, Aki Himanen
+Nory Kimijima, Tonbo, aixx
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaprete/)*

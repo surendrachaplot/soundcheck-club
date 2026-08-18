@@ -1,14 +1,15 @@
 # Very J
 
-Very J is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
+Very J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
 
-Very J is a house and techno artist tracked on soundcheck, with 124 sets logged across Boston, Detroit, London and Losangeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: Good Room, Newyorkcity on Sat 29 Aug.
+Very J is a house and techno artist tracked on soundcheck, with 125 sets logged across Boston, Detroit, London and Losangeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: Good Room, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Good Room | New York City |
+| Fri, 18 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 

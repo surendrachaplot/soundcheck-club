@@ -1,8 +1,8 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Clutch, Warehouse Bangkok, Bangkok on Sat, 22 Aug 2026.
+Tomoki Tamura is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Clutch, Warehouse Bangkok, Bangkok on Sat, 22 Aug 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 24 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 22 Aug.
+Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 24 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 | Sat, 5 Sept 2026 | PRST | Vienna |
 | Fri, 11 Sept 2026 | Kaņepes Kultūras Centrs | Riga |
 | Sat, 12 Sept 2026 | Sameheads | Berlin |
+| Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 
 ## Recently played

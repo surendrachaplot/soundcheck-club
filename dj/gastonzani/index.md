@@ -1,14 +1,15 @@
 # Gaston Zani
 
-Gaston Zani is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
+Gaston Zani is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
 
-Gaston Zani is a techno artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
+Gaston Zani is a techno artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | TBA - TERMINAL SABADELL | Barcelona |
+| Sat, 17 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
+Colin Benders is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
 
-Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Speedy J, Dasha Rush and Ogazón. Next up: Kabelfabriek, Thehague on Sat 29 Aug.
+Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Speedy J, Dasha Rush and Ogazón. Next up: Kabelfabriek, Thehague on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Colin Benders is a techno and house artist based in Netherlands, tracked on soun
 | Sat, 10 Oct 2026 | Flash | Washington DC |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 | Sat, 17 Oct 2026 | TBA - Secret Venue, Bucharest | Bucharest |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 

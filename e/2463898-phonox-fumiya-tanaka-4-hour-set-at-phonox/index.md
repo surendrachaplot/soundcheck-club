@@ -1,6 +1,6 @@
 # Phonox: Fumiya Tanaka (4 Hour Set) at Phonox
 
-Phonox: Fumiya Tanaka (4 Hour Set) on Sat 5 Sept, London. 1 act on the bill: Fumiya Tanaka. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Phonox: Fumiya Tanaka (4 Hour Set) on Sat 5 Sept, London. 2 acts on the bill: Fumiya Tanaka and Teetee. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Phonox: Fumiya Tanaka (4 Hour Set) on Sat 5 Sept, London. 1 act on the bill: Fum
 ## Line-up
 
 - Fumiya Tanaka
+- Teetee
 
 *Source: [soundcheck](https://soundcheck.club/e/2463898-phonox-fumiya-tanaka-4-hour-set-at-phonox/)*

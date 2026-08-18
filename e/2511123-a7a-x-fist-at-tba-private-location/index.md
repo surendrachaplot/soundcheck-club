@@ -1,6 +1,6 @@
 # A7A x FIST at TBA - Private Location
 
-A7A x FIST at TBA - Private Location on Sat 5 Sept, Berlin. 5 acts on the bill: DJ Clone, Lawrence Lee, Why Be and Word of Command and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+A7A x FIST at TBA - Private Location on Sat 5 Sept, Berlin. 5 acts on the bill: DJ Clone, Lawrence Lee, Why Be and Word of Command and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

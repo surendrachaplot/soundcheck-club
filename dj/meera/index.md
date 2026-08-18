@@ -1,14 +1,13 @@
 # meera
 
-meera is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
+meera is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 4 Sept 2026.
 
-meera is an afro house and techno artist based in Norway, tracked on soundcheck, with 18 sets logged across Amsterdam, Copenhagen, Frankfurt and Ibiza and 7 more. Often billed alongside Damian Lazarus, Black Coffee and DESIREE (RSA). Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
+meera is an afro house and techno artist based in Norway, tracked on soundcheck, with 18 sets logged across Amsterdam, Copenhagen, Frankfurt and Ibiza and 7 more. Often billed alongside Damian Lazarus, Black Coffee and DESIREE (RSA). Next up: Hï Ibiza, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

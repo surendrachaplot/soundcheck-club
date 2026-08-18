@@ -1,8 +1,8 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
+Jesse G is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
 
-Jesse G is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
+Jesse G is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jesse G is a techno and house artist tracked on soundcheck, with 99 sets logged 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 11 Sept 2026 | TBA | Toronto |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # 安定の不安定 at オッタンタ
 
-安定の不安定 at オッタンタ on Sat 19 Sept, Tokyo. 1 act on the bill: Kaw (1). Techno and House. Preview the line-up and save it on soundcheck.
+安定の不安定 at オッタンタ on Sat 19 Sept, Tokyo. 2 acts on the bill: Kaw (1) and Nao.Ichikawa. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - Kaw (1)
+- Nao.Ichikawa
 
 *Source: [soundcheck](https://soundcheck.club/e/2512113-at/)*

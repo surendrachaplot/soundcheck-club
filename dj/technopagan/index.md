@@ -9,7 +9,7 @@ Technopagan is a hardcore and techno artist based in United States of America, t
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TBA - Secret Warehouse Location | Denver |
-| Sat, 22 Aug 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
+| Sat, 22 Aug 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 

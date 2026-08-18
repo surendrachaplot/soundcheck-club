@@ -1,14 +1,13 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at KitKatClub, Berlin on Mon, 17 Aug 2026.
+Robert Owens is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
 
-Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: KitKatClub, Berlin on Mon 17 Aug.
+Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 17 Aug 2026 | KitKatClub | Berlin |
 | Sat, 5 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 

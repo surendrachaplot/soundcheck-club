@@ -1,8 +1,8 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fvtvr, Paris on Fri, 28 Aug 2026.
+Chris Liebing is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fvtvr, Paris on Fri, 28 Aug 2026.
 
-Chris Liebing is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Speedy J, Daria Kolosova and Ben Klock. Next up: Fvtvr, Paris on Fri 28 Aug.
+Chris Liebing is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Fvtvr, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Liebing is a techno and house artist tracked on soundcheck, with 176 sets 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | Refuge | New York City |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Chris Liebing is a techno and house artist tracked on soundcheck, with 176 sets 
 
 ## Shares bills with
 
-Speedy J, Daria Kolosova, Ben Klock
+Speedy J, Daria Kolosova, FJAAK
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

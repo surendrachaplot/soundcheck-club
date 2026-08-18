@@ -1,8 +1,8 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - SECRET LOCATION, Liverpool on Sat, 5 Sept 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - SECRET LOCATION, Liverpool on Sat, 5 Sept 2026.
 
-Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Horse Meat Disco, Love Injection and CC:DISCO!. Next up: TBA - SECRET LOCATION, Liverpool on Sat 5 Sept.
+Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belfast and 26 more. Often billed alongside Horse Meat Disco, Love Injection and CC:DISCO!. Next up: TBA - SECRET LOCATION, Liverpool on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 7
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - SECRET LOCATION | Liverpool |
 | Sat, 12 Sept 2026 | Tresor / Globus | Berlin |
+| Sat, 3 Oct 2026 | smartbar | Chicago |
 
 ## Recently played
 

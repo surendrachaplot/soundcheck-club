@@ -1,14 +1,14 @@
 # Audiodise Park Montjuic
 
-Audiodise Park Montjuic is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "AUDIODISE Park open-air Montjuïc" on Sun, 27 Sept 2026.
+Audiodise Park Montjuic is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "AUDIODISE PARK pres. Liquid Earth b2b Tibi Dabo, Tomoki Tamura" on Sun, 27 Sept 2026.
 
-Audiodise Park Montjuic is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. La Font Del Gat, Passeig de Santa Madrona, 28, Sants-Montjuïc, 08038 Barcelona.
+Audiodise Park Montjuic is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Liquid Earth, Tibi Dabo and Tomoki Tamura. Browse upcoming dates, start times and who's playing. La Font Del Gat, Passeig de Santa Madrona, 28, Sants-Montjuïc, 08038 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | AUDIODISE Park open-air Montjuïc |  |
+| Sun, 27 Sept 2026 | AUDIODISE PARK pres. Liquid Earth b2b Tibi Dabo, Tomoki Tamura | Liquid Earth, Tibi Dabo, Tomoki Tamura |
 
 ## Address
 

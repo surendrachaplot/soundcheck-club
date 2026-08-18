@@ -9,7 +9,7 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 3 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Fantastic Man presents Sarahtonin | Sarahtonin |
-| Sat, 5 Sept 2026 | World of Twist Birthday Special: Global Grooves with DAR DISKU | DAR DISKU |
+| Sat, 5 Sept 2026 | World of Twist with DAR DISKU: Birthday Special / Global Grooves | DAR DISKU |
 | Sat, 26 Sept 2026 | Glasgow Reggae Club presents Rocking Vibrations |  |
 
 ## Address

@@ -9,7 +9,7 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | ☆ SLUT PARTY ☆ | Auntie Chanel, CleoTheeDoll, Fullbodydurag, Garrison XR, Syd (2), X(S)INA |
-| Fri, 21 Aug 2026 | A BIG A$$ PARTY | Dastardly Kids, Disc Jockey George, Raphael, Syd (US) |
+| Fri, 21 Aug 2026 | A BIG A$$ PARTY (rescheduled TBD) | Dastardly Kids, Disc Jockey George, Raphael, Syd (US) |
 | Sat, 22 Aug 2026 | Tinzo + JOJO • DETROIT | Dantiez, Jojo Lorenzo, Tinzo |
 | Sat, 29 Aug 2026 | DONLITE: Donavan Glover & Fullbodydurag | Donavan Glover, Fullbodydurag |
 | Sat, 5 Sept 2026 | Jamie 3:26 drops in on Detroit | Eddie Logix, Jamie 3:26, angela baskets, dej.y |

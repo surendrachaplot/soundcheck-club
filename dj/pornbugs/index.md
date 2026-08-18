@@ -1,13 +1,14 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
+Pornbugs is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Blue Summer Ibiza Boat, Ibiza on Sun, 13 Sept 2026.
 
-Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Czech Boat, Prague on Sat 19 Sept.
+Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Blue Summer Ibiza Boat, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Blue Summer Ibiza Boat | Ibiza |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Refuge
 
-Refuge is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Refuge Friday: AGÄPĒ with Chontane (Live), JKS, BENZA, Diossa" on Fri, 21 Aug 2026.
+Refuge is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Refuge Friday: AGÄPĒ with Chontane (Live), JKS, BENZA, Diossa" on Fri, 21 Aug 2026.
 
-Refuge is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including Ahadadream, Akua, Alci and Anna Collecta and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including Ahadadream, Akua, Alci and Anna Collecta and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 

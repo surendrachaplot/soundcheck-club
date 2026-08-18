@@ -1,14 +1,15 @@
 # AmyElle
 
-AmyElle is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
+AmyElle is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
 
-AmyElle is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Dundee and London. Often billed alongside Jesabel, Tommy Farrow and AVANTIME. Next up: The Dutch Master, London on Sat 5 Sept.
+AmyElle is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Dundee and London. Often billed alongside Jesabel, Leena Punks and Tommy Farrow. Next up: The Dutch Master, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Dutch Master | London |
+| Fri, 25 Sept 2026 | The Timber Loft | London |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ AmyElle is a house and progressive house artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-Jesabel, Tommy Farrow, AVANTIME
+Jesabel, Leena Punks, Tommy Farrow
 
 *Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyelle/)*

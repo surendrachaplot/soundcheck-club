@@ -1,14 +1,15 @@
 # Christian Coiffure
 
-Christian Coiffure is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Saint-Denis, Paris on Sat, 29 Aug 2026.
+Christian Coiffure is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Saint-Denis, Paris on Sat, 29 Aug 2026.
 
-Christian Coiffure is a techno and bass artist tracked on soundcheck, with 20 sets logged across Berlin, Bristol, Brussels and Lisbon and 6 more. Often billed alongside Konduku, Souzo and livwutang. Next up: TBA - Saint-Denis, Paris on Sat 29 Aug.
+Christian Coiffure is a techno and bass artist tracked on soundcheck, with 21 sets logged across Berlin, Bristol, Brussels and Lisbon and 6 more. Often billed alongside Konduku, Souzo and livwutang. Next up: TBA - Saint-Denis, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Saint-Denis | Paris |
+| Sat, 5 Sept 2026 | La Prairie du Canal | Paris |
 
 ## Recently played
 

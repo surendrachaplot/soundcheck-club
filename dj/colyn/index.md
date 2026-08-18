@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
+Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
 
-Colyn is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 28 Aug.
+Colyn is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Colyn is a techno and house artist tracked on soundcheck, with 157 sets logged a
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Wed, 23 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sun, 11 Oct 2026 | Savaya Bali | Bali |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 

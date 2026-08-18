@@ -1,6 +1,6 @@
 # INVITES: Perc at Faust
 
-INVITES: Perc at Faust on Sat 22 Aug, Seoul. 4 acts on the bill: Faacia, Mars Parck, Perc and Stann Lumo. Preview the line-up and save it on soundcheck.
+INVITES: Perc at Faust on Sat 22 Aug, Seoul. 5 acts on the bill: Faacia, kakifromseoul, Mars Parck and Perc and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ INVITES: Perc at Faust on Sat 22 Aug, Seoul. 4 acts on the bill: Faacia, Mars Pa
 ## Line-up
 
 - Faacia
+- kakifromseoul
 - Mars Parck
 - Perc
 - Stann Lumo
