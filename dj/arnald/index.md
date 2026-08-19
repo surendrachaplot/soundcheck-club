@@ -1,6 +1,6 @@
 # arnald
 
-arnald is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+arnald is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 arnald is a tech house and house artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona and Madrid. Often billed alongside Vilalta, Vallde and Nancy (3). Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ arnald is a tech house and house artist based in Spain, tracked on soundcheck, w
 
 Vilalta, Vallde, Nancy (3)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnald/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnald/)*

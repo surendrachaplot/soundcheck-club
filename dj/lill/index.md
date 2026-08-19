@@ -1,6 +1,6 @@
 # Lill
 
-Lill is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Lill is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Lill is a house artist based in Estonia, tracked on soundcheck, with 9 sets logged across Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lill is a house artist based in Estonia, tracked on soundcheck, with 9 sets logg
 
 ALCATRAZ, ARMANA KHAN, Aiden Francis
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*

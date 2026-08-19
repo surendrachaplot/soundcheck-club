@@ -1,6 +1,6 @@
 # Lao (MX)
 
-Lao (MX) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+Lao (MX) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 Lao (MX) is a club and electronica artist tracked on soundcheck, with 22 sets logged across Austin, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Imaabs, OMAAR and Phanta. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lao (MX) is a club and electronica artist tracked on soundcheck, with 22 sets lo
 
 Imaabs, OMAAR, Phanta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laomx/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laomx/)*

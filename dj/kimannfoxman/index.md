@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
+Kim Ann Foxman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
 
 Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Auckland, Bali and Bangkok and 32 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: Palais de Tokyo, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 131 sets
 
 Cora (CN), DJ TOOL, Jen Cardini
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

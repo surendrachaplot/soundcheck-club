@@ -1,6 +1,6 @@
 # un club bonito
 
-un club bonito is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SARRADA LATINA" on Sat, 22 Aug 2026.
+un club bonito is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SARRADA LATINA" on Sat, 22 Aug 2026.
 
 un club bonito is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including DU'DU (MX) and KRISTYA. Browse upcoming dates, start times and who's playing. Nuevo Leon 89.
 
@@ -17,4 +17,4 @@ un club bonito is a music venue in Mexicocity listed on soundcheck. 4 upcoming n
 
 Nuevo Leon 89, Mexico City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*

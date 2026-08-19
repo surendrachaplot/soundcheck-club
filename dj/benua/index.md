@@ -1,6 +1,6 @@
 # Benua
 
-Benua is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Prisma, Berlin on Thu, 20 Aug 2026.
+Benua is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Prisma, Berlin on Thu, 20 Aug 2026.
 
 Benua is a techno artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside The Kiss, Blck-Swan and H7 (3). Next up: Prisma, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Benua is a techno artist tracked on soundcheck, with 19 sets logged across Berli
 
 The Kiss, Blck-Swan, H7 (3)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benua/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benua/)*

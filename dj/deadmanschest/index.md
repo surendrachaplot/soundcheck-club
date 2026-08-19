@@ -1,6 +1,6 @@
 # Dead Man's Chest
 
-Dead Man's Chest is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
+Dead Man's Chest is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
 
 Dead Man's Chest is a jungle and drum & bass artist tracked on soundcheck, with 21 sets logged across Brighton, Bristol, Budapest and Denver and 7 more. Often billed alongside Double O, Decibella and Artificial Red. Next up: Atno, Budapest on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Dead Man's Chest is a jungle and drum & bass artist tracked on soundcheck, with 
 
 Double O, Decibella, Artificial Red
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmanschest/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmanschest/)*

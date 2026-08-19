@@ -1,6 +1,6 @@
 # Babo
 
-Babo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Babo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Babo is a house and tech house artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona. Often billed alongside BRU ON, Mario Chicoli and KBTO. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Babo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 BRU ON, Mario Chicoli, KBTO
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*

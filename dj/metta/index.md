@@ -1,6 +1,6 @@
 # Metta
 
-Metta is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
+Metta is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
 
 Metta is an electronica and club artist tracked on soundcheck, with 2 sets logged across Miami and Sheffield. Often billed alongside Glyde, KYNOT and Lange. Next up: Network, Sheffield on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Metta is an electronica and club artist tracked on soundcheck, with 2 sets logge
 
 Glyde, KYNOT, Lange
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metta/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metta/)*

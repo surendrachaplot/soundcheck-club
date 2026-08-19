@@ -1,6 +1,6 @@
 # Chicago Social Club
 
-Chicago Social Club is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DILJIT DOSANJH AFTERPARTY" on Mon, 7 Sept 2026.
+Chicago Social Club is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DILJIT DOSANJH AFTERPARTY" on Mon, 7 Sept 2026.
 
 Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Christian Nielsen, Ely Oaks, Hedda Stenberg and Maceo Plex and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam.
 
@@ -17,4 +17,4 @@ Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 4 upcomi
 
 Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*

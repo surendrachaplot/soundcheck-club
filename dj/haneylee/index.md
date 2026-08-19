@@ -1,6 +1,6 @@
 # Haney Lee
 
-Haney Lee is a Bass and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
+Haney Lee is a Bass and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
 
 Haney Lee is a bass and uk funky artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Krakow and Seoul. Often billed alongside Shins, Hyejin and Juuno. Next up: Blank Site, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Haney Lee is a bass and uk funky artist based in United Kingdom, tracked on soun
 
 Shins, Hyejin, Juuno
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*

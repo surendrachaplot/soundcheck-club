@@ -1,6 +1,6 @@
 # Arrested Development
 
-Arrested Development is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Button Factory, Dublin on Wed, 26 Aug 2026.
+Arrested Development is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Button Factory, Dublin on Wed, 26 Aug 2026.
 
 Arrested Development is a hip-hop and afrobeat artist tracked on soundcheck, with 3 sets logged across Berlin, Dublin and Liverpool. Next up: Button Factory, Dublin on Wed 26 Aug.
 
@@ -15,4 +15,4 @@ Arrested Development is a hip-hop and afrobeat artist tracked on soundcheck, wit
 
 - Astra Kulturhaus, Berlin — Tue, 4 Nov 2025
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arresteddevelopment/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arresteddevelopment/)*

@@ -1,6 +1,6 @@
 # DJ Goth Spice
 
-DJ Goth Spice is a Guaracha and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Fri, 28 Aug 2026.
+DJ Goth Spice is a Guaracha and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 DJ Goth Spice is a guaracha and ebm artist tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside @djlobottomy and DJ Mutant Otter. Next up: Thee Stork Club, Sanfrancisco on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ DJ Goth Spice is a guaracha and ebm artist tracked on soundcheck, with 2 sets lo
 
 @djlobottomy, DJ Mutant Otter
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgothspice/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgothspice/)*

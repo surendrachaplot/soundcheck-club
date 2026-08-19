@@ -1,6 +1,6 @@
 # Toshiki Ohta
 
-Toshiki Ohta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Social, London on Fri, 28 Aug 2026.
+Toshiki Ohta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Social, London on Fri, 28 Aug 2026.
 
 Toshiki Ohta is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Tia Cousins, Jaye Ward and Michelle Manetti. Next up: The Social, London on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Toshiki Ohta is a house and techno artist tracked on soundcheck, with 38 sets lo
 
 Tia Cousins, Jaye Ward, Michelle Manetti
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toshikiohta/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toshikiohta/)*

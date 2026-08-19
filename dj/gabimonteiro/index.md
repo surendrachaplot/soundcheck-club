@@ -1,6 +1,6 @@
 # Gabi Monteiro
 
-Gabi Monteiro is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Blockparty: Wheels and Decks, Berlin on Sat, 22 Aug 2026.
+Gabi Monteiro is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Blockparty: Wheels and Decks, Berlin on Sat, 22 Aug 2026.
 
 Gabi Monteiro is a baile funk and afrobeat artist based in Brazil, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside kimbwazo, ARN4L2 and Acid.Foxy. Next up: Blockparty: Wheels and Decks, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gabi Monteiro is a baile funk and afrobeat artist based in Brazil, tracked on so
 
 kimbwazo, ARN4L2, Acid.Foxy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabimonteiro/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabimonteiro/)*

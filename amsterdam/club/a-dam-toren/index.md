@@ -1,6 +1,6 @@
 # A'DAM Toren
 
-A'DAM Toren is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "A'DAM Toren ADE 2026" on Wed, 21 Oct 2026.
+A'DAM Toren is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "A'DAM Toren ADE 2026" on Wed, 21 Oct 2026.
 
 A'DAM Toren is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Ajuma, Aline Rocha, Anil Aras and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 1, 1031KS Amsterdam.
 
@@ -14,4 +14,4 @@ A'DAM Toren is a music venue in Amsterdam listed on soundcheck. 1 upcoming night
 
 Overhoeksplein 1, 1031KS Amsterdam, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/a-dam-toren/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/a-dam-toren/)*

@@ -1,6 +1,6 @@
 # Rakish
 
-Rakish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club 77, Sydney on Sun, 27 Sept 2026.
+Rakish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club 77, Sydney on Sun, 27 Sept 2026.
 
 Rakish is a house and techno artist tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Deepa, Jhassic and Baschoe. Next up: Club 77, Sydney on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Rakish is a house and techno artist tracked on soundcheck, with 36 sets logged a
 
 Deepa, Jhassic, Baschoe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakish/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakish/)*

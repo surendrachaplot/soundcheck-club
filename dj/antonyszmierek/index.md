@@ -1,6 +1,6 @@
 # Antony Szmierek
 
-Antony Szmierek is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Jacaranda Baltic, Liverpool on Tue, 25 Aug 2026.
+Antony Szmierek is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Jacaranda Baltic, Liverpool on Tue, 25 Aug 2026.
 
 Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 9 sets logged across Berlin, Birmingham, Bristol and Brussels and 5 more. Often billed alongside 1-800 GIRLS, ANNA and Aiden Francis. Next up: Jacaranda Baltic, Liverpool on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 9 s
 
 1-800 GIRLS, ANNA, Aiden Francis
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*

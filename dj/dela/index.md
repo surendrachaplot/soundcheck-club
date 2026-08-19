@@ -1,6 +1,6 @@
 # Dela
 
-Dela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Chicago on Sat, 22 Aug 2026.
+Dela is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Chicago on Sat, 22 Aug 2026.
 
 Dela is a techno and house artist tracked on soundcheck, with 10 sets logged across Chicago, Cologne and Detroit. Often billed alongside Microdot, AMAYAH and Kula. Next up: TBA, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dela is a techno and house artist tracked on soundcheck, with 10 sets logged acr
 
 Microdot, AMAYAH, Kula
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dela/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dela/)*

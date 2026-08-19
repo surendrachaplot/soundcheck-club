@@ -1,6 +1,6 @@
 # Roar Brewing (Detroit)
 
-Roar Brewing (Detroit) is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Sunset Sessions w/Andre Terrell" on Sat, 22 Aug 2026.
+Roar Brewing (Detroit) is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Sunset Sessions w/Andre Terrell" on Sat, 22 Aug 2026.
 
 Roar Brewing (Detroit) is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Andre Terrell. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Roar Brewing (Detroit) is a music venue in Detroit listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sunset Sessions w/Andre Terrell | Andre Terrell |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/roar-brewing-detroit/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/roar-brewing-detroit/)*

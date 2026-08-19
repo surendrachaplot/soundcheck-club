@@ -1,6 +1,6 @@
-# Shift_Mixer at The Timber Loft
+# SHIFT_Mixer at The Timber Loft
 
-Shift_Mixer at The Timber Loft on Fri 25 Sept, London. 13 acts on the bill: Alexa (KR), Alythia Kwan, AmyElle and Desyfer and 9 more. House and Deep House. Preview the line-up and save it on soundcheck.
+SHIFT_Mixer at The Timber Loft on Fri 25 Sept, London. 14 acts on the bill: Alexa (KR), Alythia Kwan, AmyElle and Desyfer and 10 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Shift_Mixer at The Timber Loft on Fri 25 Sept, London. 13 acts on the bill: Alex
 - Lomas
 - Micky Miller
 - MXV (UK)
+- Nicholsandroark
 - Night Edition
 - NouchKat
 - S FLY

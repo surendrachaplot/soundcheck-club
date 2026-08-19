@@ -1,6 +1,6 @@
 # Paulawar
 
-Paulawar is a Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
+Paulawar is a Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
 
 Paulawar is a bass and reggaeton artist based in Chile, tracked on soundcheck, with 30 sets logged across Berlin and Paris. Often billed alongside Taradud, PAULAH and Dakn. Next up: Panke, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Paulawar is a bass and reggaeton artist based in Chile, tracked on soundcheck, w
 
 Taradud, PAULAH, Dakn
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*

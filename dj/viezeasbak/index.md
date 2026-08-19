@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 13 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
+Vieze Asbak is a Techno and Hardcore artist with 13 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
 
 Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, KARAH and Restricted. Next up: Kømplex Lisbon, Lisbon on Thu 27 Aug.
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 97 sets 
 
 KLOFAMA, KARAH, Restricted
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

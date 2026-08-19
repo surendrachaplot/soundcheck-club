@@ -1,6 +1,6 @@
 # Lo Five
 
-Lo Five is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Commune, Liverpool on Thu, 10 Sept 2026.
+Lo Five is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Commune, Liverpool on Thu, 10 Sept 2026.
 
 Lo Five is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Jez Thelwell. Next up: Commune, Liverpool on Thu 10 Sept.
 
@@ -14,4 +14,4 @@ Lo Five is an experimental and electronica artist based in United Kingdom, track
 
 Jez Thelwell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lofive/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lofive/)*

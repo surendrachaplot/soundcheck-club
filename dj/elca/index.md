@@ -1,6 +1,6 @@
 # ELCA
 
-ELCA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+ELCA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 ELCA is a techno and trance artist tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside Arsom, CALIFANO and DJ Dopamina. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ELCA is a techno and trance artist tracked on soundcheck, with 15 sets logged ac
 
 Arsom, CALIFANO, DJ Dopamina
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elca/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elca/)*

@@ -1,13 +1,14 @@
 # Shadesy
 
-Shadesy is a Footwork and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
+Shadesy is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
 
-Shadesy is a footwork and hardcore artist tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Rory K, P-Hocto and ISORA. Next up: Lost Horizon, Bristol on Fri 30 Oct.
+Shadesy is a footwork and hardcore artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Rory K, P-Hocto and ISORA. Next up: Planet Wax, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Planet Wax | London |
 | Fri, 30 Oct 2026 | Lost Horizon | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shadesy is a footwork and hardcore artist tracked on soundcheck, with 22 sets lo
 
 Rory K, P-Hocto, ISORA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*

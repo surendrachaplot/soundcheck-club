@@ -1,6 +1,6 @@
 # Meskalino
 
-Meskalino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Przyjaźń, Warsaw on Thu, 20 Aug 2026.
+Meskalino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Przyjaźń, Warsaw on Thu, 20 Aug 2026.
 
 Meskalino is a house and techno artist based in Poland, tracked on soundcheck, with 52 sets logged across London and Warsaw. Often billed alongside KEVS, Jerry M and HANICZ. Next up: Przyjaźń, Warsaw on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Meskalino is a house and techno artist based in Poland, tracked on soundcheck, w
 
 KEVS, Jerry M, HANICZ
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*

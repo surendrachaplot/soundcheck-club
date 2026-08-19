@@ -1,6 +1,6 @@
 # Bonq
 
-Bonq is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+Bonq is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 Bonq is a techno and house artist based in Germany, tracked on soundcheck, with 55 sets logged across Bangkok, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, KEN (DE) and DJ PayPaul. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Bonq is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 DJ Jordan, KEN (DE), DJ PayPaul
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*

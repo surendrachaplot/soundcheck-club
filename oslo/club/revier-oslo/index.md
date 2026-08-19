@@ -1,6 +1,6 @@
 # Revier Oslo
 
-Revier Oslo is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "FRIDAY AW / CHILL EVANS + EPONYMOUS MONK" on Fri, 28 Aug 2026.
+Revier Oslo is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "FRIDAY AW / CHILL EVANS + EPONYMOUS MONK" on Fri, 28 Aug 2026.
 
 Revier Oslo is a music venue in Oslo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Kongens gate 5, 0153 Oslo.
 
@@ -15,4 +15,4 @@ Revier Oslo is a music venue in Oslo listed on soundcheck. 2 upcoming nights. Br
 
 Kongens gate 5, 0153 Oslo, Oslo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*

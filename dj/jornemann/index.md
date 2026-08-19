@@ -1,6 +1,6 @@
 # Jørnemann
 
-Jørnemann is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Minimal Bar, Berlin on Sat, 19 Sept 2026.
+Jørnemann is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Minimal Bar, Berlin on Sat, 19 Sept 2026.
 
 Jørnemann is a deep house and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Arnaud Is Dancing and Gaya (FR). Next up: Minimal Bar, Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Jørnemann is a deep house and house artist based in Germany, tracked on soundch
 
 Arnaud Is Dancing, Gaya (FR)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jornemann/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jornemann/)*

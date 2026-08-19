@@ -1,6 +1,6 @@
 # Jazzy Lioness
 
-Jazzy Lioness is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
+Jazzy Lioness is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
 
 Jazzy Lioness is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Leeds and Manchester. Often billed alongside Jazzy L, Chimpo and Jack Banner. Next up: Hidden, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jazzy Lioness is a drum & bass and jungle artist tracked on soundcheck, with 16 
 
 Jazzy L, Chimpo, Jack Banner
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzylioness/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzylioness/)*

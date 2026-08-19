@@ -1,6 +1,6 @@
 # King Inesse
 
-King Inesse is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 28 Aug 2026.
+King Inesse is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 28 Aug 2026.
 
 King Inesse is a house and club artist tracked on soundcheck, with 7 sets logged across Chicago and Newyorkcity. Often billed alongside Armand Van Helden, Bad Boy Bill and CTRLZORA. Next up: Smoke & Mirrors, Chicago on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ King Inesse is a house and club artist tracked on soundcheck, with 7 sets logged
 
 Armand Van Helden, Bad Boy Bill, CTRLZORA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinginesse/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinginesse/)*

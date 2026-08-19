@@ -1,6 +1,6 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Scorpios, Mykonos on Fri, 28 Aug 2026.
+Natascha Polké is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Scorpios, Mykonos on Fri, 28 Aug 2026.
 
 Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: Scorpios, Mykonos on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

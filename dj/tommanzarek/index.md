@@ -1,6 +1,6 @@
 # Tom Manzarek
 
-Tom Manzarek is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Esplanade du J4, Marseille on Thu, 20 Aug 2026.
+Tom Manzarek is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Esplanade du J4, Marseille on Thu, 20 Aug 2026.
 
 Tom Manzarek is a house and hip-hop artist based in France, tracked on soundcheck, with 8 sets logged across London, Marseille and Paris. Often billed alongside Marina Rabita, CABALE and Goldie B. Next up: Esplanade du J4, Marseille on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Tom Manzarek is a house and hip-hop artist based in France, tracked on soundchec
 
 Marina Rabita, CABALE, Goldie B
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommanzarek/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommanzarek/)*

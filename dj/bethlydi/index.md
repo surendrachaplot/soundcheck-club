@@ -1,6 +1,6 @@
 # Beth Lydi
 
-Beth Lydi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Berlin on Sat, 29 Aug 2026.
+Beth Lydi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Berlin on Sat, 29 Aug 2026.
 
 Beth Lydi is a techno and house artist based in Norway, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Hamburg and Newyorkcity and 4 more. Often billed alongside Andreas Henneberg, Pascale Voltaire and Xenaia. Next up: TBA, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Beth Lydi is a techno and house artist based in Norway, tracked on soundcheck, w
 
 Andreas Henneberg, Pascale Voltaire, Xenaia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethlydi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethlydi/)*

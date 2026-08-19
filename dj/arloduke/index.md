@@ -1,6 +1,6 @@
 # Arlo Duke
 
-Arlo Duke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 24 Sept 2026.
+Arlo Duke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 24 Sept 2026.
 
 Arlo Duke is a house and techno artist tracked on soundcheck, with 19 sets logged across Brighton, Edinburgh, Glasgow and London. Often billed alongside George Best, Carter Lewallen and Breathe. Next up: La Cheetah Club, Glasgow on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Arlo Duke is a house and techno artist tracked on soundcheck, with 19 sets logge
 
 George Best, Carter Lewallen, Breathe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arloduke/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arloduke/)*

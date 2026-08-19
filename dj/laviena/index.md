@@ -1,6 +1,6 @@
 # Laviena
 
-Laviena is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+Laviena is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 Laviena is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Budapest and Leipzig and 1 more. Often billed alongside GLASSBASS, SubkoØne and KREONE. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Laviena is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 GLASSBASS, SubkoØne, KREONE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laviena/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laviena/)*

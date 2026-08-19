@@ -1,6 +1,6 @@
 # Merchant
 
-Merchant is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Merchant is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 Merchant is a house and disco artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Edinburgh, London and Losangeles and 8 more. Often billed alongside Richard Fribert, Max Hammur and Boboxa. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Merchant is a house and disco artist based in United Kingdom, tracked on soundch
 
 Richard Fribert, Max Hammur, Boboxa
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*

@@ -1,6 +1,6 @@
 # Under The Arches
 
-Under The Arches is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Reeshy - ALL NIGHT LONG" on Sat, 29 Aug 2026.
+Under The Arches is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Reeshy - ALL NIGHT LONG" on Sat, 29 Aug 2026.
 
 Under The Arches is a music venue in Leeds listed on soundcheck. 3 upcoming nights, with line-ups including dj sweet6teen, Mella Dee, Reeshy and Saoirse and 1 more. Browse upcoming dates, start times and who's playing. Lower Briggate, LS1 6LY.
 
@@ -16,4 +16,4 @@ Under The Arches is a music venue in Leeds listed on soundcheck. 3 upcoming nigh
 
 Lower Briggate, LS1 6LY, Leeds
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*

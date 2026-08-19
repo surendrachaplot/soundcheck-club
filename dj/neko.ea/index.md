@@ -1,6 +1,6 @@
 # neko.ea
 
-neko.ea is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
+neko.ea is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
 
 neko.ea is a techno and progressive house artist based in Indonesia, tracked on soundcheck, with 12 sets logged across Melbourne and Seoul. Often billed alongside Hasvat Informant, Ali Bilal and Alilia. Next up: Collingwood Basement, Melbourne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ neko.ea is a techno and progressive house artist based in Indonesia, tracked on 
 
 Hasvat Informant, Ali Bilal, Alilia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*

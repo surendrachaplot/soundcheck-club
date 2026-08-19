@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "ACN with cotton // GRETA" on Sat, 29 Aug 2026.
+Astron Club is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "ACN with cotton // GRETA" on Sat, 29 Aug 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including Ancient Methods, ANFS, Cherry Distress and Choronzon and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -17,4 +17,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 4 upcoming nights, 
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

@@ -1,14 +1,15 @@
 # THEMPRESS
 
-THEMPRESS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+THEMPRESS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-THEMPRESS is a techno and house artist tracked on soundcheck, with 95 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Southwark Park, London on Sun 30 Aug.
+THEMPRESS is a techno and house artist tracked on soundcheck, with 96 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Southwark Park | London |
+| Sat, 5 Sept 2026 | Colour Factory | London |
 | Fri, 11 Sept 2026 | Club360 | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ THEMPRESS is a techno and house artist tracked on soundcheck, with 95 sets logge
 
 CHEZA LUCINA, Michelle Manetti, Princess Xixi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*

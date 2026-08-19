@@ -1,6 +1,6 @@
 # Bob Manzanilla
 
-Bob Manzanilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
+Bob Manzanilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
 
 Bob Manzanilla is a house and techno artist based in Ireland, tracked on soundcheck, with 25 sets logged across Dublin, Liverpool and Vancouver. Often billed alongside ShaunaDee, Collie (1) and REEN. Next up: Plaza of Nations Dock, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bob Manzanilla is a house and techno artist based in Ireland, tracked on soundch
 
 ShaunaDee, Collie (1), REEN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmanzanilla/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmanzanilla/)*

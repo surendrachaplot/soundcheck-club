@@ -1,6 +1,6 @@
 # Habibi Funk
 
-Habibi Funk is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Import Export, Munich on Sat, 22 Aug 2026.
+Habibi Funk is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Import Export, Munich on Sat, 22 Aug 2026.
 
 Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 24 more. Often billed alongside Nabihah Iqbal, Hadj Sameer and Arp Frique. Next up: Import Export, Munich on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 58 set
 
 Nabihah Iqbal, Hadj Sameer, Arp Frique
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*

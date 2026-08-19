@@ -1,14 +1,15 @@
 # Joe Tagessian
 
-Joe Tagessian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Phoenix Landing, Boston on Wed, 19 Aug 2026.
+Joe Tagessian is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phoenix Landing, Boston on Wed, 19 Aug 2026.
 
-Joe Tagessian is a house and techno artist tracked on soundcheck, with 93 sets logged across Boston, Chicago, Detroit and Miami and 5 more. Often billed alongside Bruno Limma, Ohm Hourani and Caruan. Next up: Phoenix Landing, Boston on Wed 19 Aug.
+Joe Tagessian is a house and techno artist tracked on soundcheck, with 94 sets logged across Boston, Chicago, Detroit and Miami and 5 more. Often billed alongside Bruno Limma, Ohm Hourani and Caruan. Next up: Phoenix Landing, Boston on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 19 Aug 2026 | Phoenix Landing | Boston |
+| Fri, 21 Aug 2026 | Desnuda Cocina | Boston |
 | Sun, 30 Aug 2026 | ESC | Montreal |
 
 ## Recently played
@@ -26,4 +27,4 @@ Joe Tagessian is a house and techno artist tracked on soundcheck, with 93 sets l
 
 Bruno Limma, Ohm Hourani, Caruan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*

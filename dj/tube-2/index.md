@@ -1,6 +1,6 @@
 # Tube (2)
 
-Tube (2) is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bogart House, New York City on Sat, 22 Aug 2026.
+Tube (2) is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bogart House, New York City on Sat, 22 Aug 2026.
 
 Tube (2) is a techno and reggaeton artist based in Colombia, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside 8888, zorenLo and 2AT. Next up: Bogart House, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tube (2) is a techno and reggaeton artist based in Colombia, tracked on soundche
 
 8888, zorenLo, 2AT
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*

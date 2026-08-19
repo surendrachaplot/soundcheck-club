@@ -1,6 +1,6 @@
 # Mystic Jungle
 
-Mystic Jungle is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
+Mystic Jungle is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
 
 Mystic Jungle is a disco and house artist tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Istanbul and Milan and 3 more. Often billed alongside Whodamanny, Kapote and Adriana (1). Next up: Umoya, Naples on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Mystic Jungle is a disco and house artist tracked on soundcheck, with 10 sets lo
 
 Whodamanny, Kapote, Adriana (1)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticjungle/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticjungle/)*

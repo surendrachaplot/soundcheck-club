@@ -1,6 +1,6 @@
 # LAPORTE
 
-LAPORTE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eden NYC, New York City on Sat, 15 Aug 2026.
+LAPORTE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eden NYC, New York City on Sat, 15 Aug 2026.
 
 LAPORTE is a house and techno artist tracked on soundcheck, with 22 sets logged across Brussels, Geneva, Newyorkcity and Washingtondc. Often billed alongside LAPORTE TWINS, James Juke and Coco & Breezy. Next up: Eden NYC, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LAPORTE is a house and techno artist tracked on soundcheck, with 22 sets logged 
 
 LAPORTE TWINS, James Juke, Coco & Breezy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laporte/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laporte/)*

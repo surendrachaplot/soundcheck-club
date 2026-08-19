@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
+Raphael Carrau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
 
 Raphael Carrau is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Austin, Bali and Bangkok and 37 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: Starlane Pizza Bar, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Raphael Carrau is a house and techno artist tracked on soundcheck, with 134 sets
 
 Unai Trotti, Colin Chiddle, Vass
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

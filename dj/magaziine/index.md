@@ -1,13 +1,14 @@
 # Magaziine
 
-Magaziine is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Maison Close, London on Wed, 16 Sept 2026.
+Magaziine is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Multi Story, London on Fri, 28 Aug 2026.
 
-Magaziine is a house and afro house artist based in Estonia, tracked on soundcheck, with 9 sets logged across Ibiza and London. Often billed alongside AZZA, CAMZ and Millica. Next up: Maison Close, London on Wed 16 Sept.
+Magaziine is an afro house and house artist based in Estonia, tracked on soundcheck, with 10 sets logged across Ibiza and London. Often billed alongside AZZA, CAMZ and Millica. Next up: Multi Story, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Multi Story | London |
 | Wed, 16 Sept 2026 | Maison Close | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Magaziine is a house and afro house artist based in Estonia, tracked on soundche
 
 AZZA, CAMZ, Millica
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magaziine/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magaziine/)*

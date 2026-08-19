@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 30 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma" on Fri, 21 Aug 2026.
+fabric is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma" on Fri, 21 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Amoss and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with
 | Sun, 30 Aug 2026 | Appetite Afterparty (Sunday) - Locky B2B Elliot Schooling & Liam Palmer, Captain Wallop + more | Captain Wallop, Elliot Schooling, Hank (US), Laura De Greef, Liam Palmer, Locky, Max Sinàl, Sarah Story, Wax Material |
 | Fri, 4 Sept 2026 | FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more | Anaïs, BCee, Bluck, Brookes Brothers, Georgie Riot, Jakes, Jojo Deevoy, Koven, Ruthless, SAVANNAH, Zero |
 | Sat, 5 Sept 2026 | fabric: Danilo Plessow (MCDE), Kenny Larkin, Seb Odyssey | Danilo Plessow, Kenny Larkin, Seb Odyssey |
-| Sun, 6 Sept 2026 | CAYA by fabric: Rarebit x CUE - Lucas Alexander + more tba | Lucas Alexander |
+| Sun, 6 Sept 2026 | CAYA by fabric: Rarebit x CUE - DJ Cosworth, Oldboy, Lucas Alexander + more | Cam Foster, DJ Cosworth, Lucas Alexander, Oldboy |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

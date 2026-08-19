@@ -1,6 +1,6 @@
 # Liminal People
 
-Liminal People is a Disco and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
+Liminal People is a Disco and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
 
 Liminal People is a disco and afrobeats artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Paris. Often billed alongside Paloma (DJ), Alfie Panaiotis and Mr Bongo. Next up: Grow, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Liminal People is a disco and afrobeats artist based in United Kingdom, tracked 
 
 Paloma (DJ), Alfie Panaiotis, Mr Bongo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalpeople/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalpeople/)*

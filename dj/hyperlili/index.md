@@ -1,6 +1,6 @@
 # HyperLili
 
-HyperLili is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+HyperLili is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 HyperLili is a techno and trance artist tracked on soundcheck, with 50 sets logged across Amsterdam, Basel, Berlin and Ghent and 4 more. Often billed alongside Jeans (NL), Cosmox and CyberFairy777. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HyperLili is a techno and trance artist tracked on soundcheck, with 50 sets logg
 
 Jeans (NL), Cosmox, CyberFairy777
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*

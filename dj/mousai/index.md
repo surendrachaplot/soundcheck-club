@@ -1,6 +1,6 @@
 # Mousai
 
-Mousai is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 12 Sept 2026.
+Mousai is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Sat, 12 Sept 2026.
 
 Mousai is a jungle and garage artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bristol, London and Manchester and 2 more. Often billed alongside Janaway, The Bass Injector and Betsy Mae. Next up: M.O.T, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mousai is a jungle and garage artist tracked on soundcheck, with 58 sets logged 
 
 Janaway, The Bass Injector, Betsy Mae
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mousai/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mousai/)*

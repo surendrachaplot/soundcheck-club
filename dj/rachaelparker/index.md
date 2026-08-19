@@ -1,6 +1,6 @@
 # Rachael Parker
 
-Rachael Parker is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Exodos Lounge, Detroit on Fri, 21 Aug 2026.
+Rachael Parker is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Exodos Lounge, Detroit on Fri, 21 Aug 2026.
 
 Rachael Parker is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit. Often billed alongside Bruce Bailey, DJ SYNC and LYTSKIN DAVE. Next up: Exodos Lounge, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rachael Parker is a house and deep house artist based in United States of Americ
 
 Bruce Bailey, DJ SYNC, LYTSKIN DAVE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachaelparker/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachaelparker/)*

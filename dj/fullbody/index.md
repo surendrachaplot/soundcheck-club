@@ -1,6 +1,6 @@
 # FULLBODY
 
-FULLBODY is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
+FULLBODY is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
 
 FULLBODY is a jungle and hardcore artist based in United States of America, tracked on soundcheck, with 1 set logged across Chicago. Often billed alongside Casper McFadden, Lil Kevo 303 and Yesterdayneverhappened. Next up: The Burlington, Chicago on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ FULLBODY is a jungle and hardcore artist based in United States of America, trac
 
 Casper McFadden, Lil Kevo 303, Yesterdayneverhappened
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbody/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbody/)*

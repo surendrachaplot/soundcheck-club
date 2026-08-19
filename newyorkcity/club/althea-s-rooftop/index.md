@@ -1,6 +1,6 @@
 # Althea's Rooftop
 
-Althea's Rooftop is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Open decks" on Wed, 19 Aug 2026.
+Althea's Rooftop is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Open decks" on Wed, 19 Aug 2026.
 
 Althea's Rooftop is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Bruce Wayne (US) and VIRA. Browse upcoming dates, start times and who's playing. 634 west 52 str New york.
 
@@ -16,4 +16,4 @@ Althea's Rooftop is a music venue in Newyorkcity listed on soundcheck. 3 upcomin
 
 634 west 52 str New york, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*

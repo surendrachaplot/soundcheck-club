@@ -1,6 +1,6 @@
 # Erika de Casier
 
-Erika de Casier is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Erika de Casier is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 Erika de Casier is an electronica and r&b artist based in Denmark, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Jayda G, Nick León and Oklou. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Erika de Casier is an electronica and r&b artist based in Denmark, tracked on so
 
 Jayda G, Nick León, Oklou
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*

@@ -1,6 +1,6 @@
-# Kiesgrube presents THE SEASON CLOSING with Joseph Capriati, B2B Mau P, SPECIAL GUEST at Kiesgrube
+# Kiesgrube presents THE SEASON CLOSING with Joseph Capriati, B3B Mau P B3B DJ Tennis at Kiesgrube
 
-Kiesgrube presents THE SEASON CLOSING with Joseph Capriati, B2B Mau P, SPECIAL GUEST on Sun 30 Aug, Dusseldorf. 5 acts on the bill: DJ Gigola, Francisco Allendes, Joseph Capriati and Mau P and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Kiesgrube presents THE SEASON CLOSING with Joseph Capriati, B3B Mau P B3B DJ Tennis on Sun 30 Aug, Dusseldorf. 6 acts on the bill: DJ Gigola, DJ Tennis, Francisco Allendes and Joseph Capriati and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Kiesgrube presents THE SEASON CLOSING with Joseph Capriati, B2B Mau P, SPECIAL G
 ## Line-up
 
 - DJ Gigola
+- DJ Tennis
 - Francisco Allendes
 - Joseph Capriati
 - Mau P

@@ -1,13 +1,14 @@
 # Hua Li 化力
 
-Hua Li 化力 is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Système, Montreal on Thu, 3 Sept 2026.
+Hua Li 化力 is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret location, Montreal on Sat, 22 Aug 2026.
 
-Hua Li 化力 is a house and experimental artist tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside Janette King, Amos Don and Cadence Weapon. Next up: Système, Montreal on Thu 3 Sept.
+Hua Li 化力 is a house and experimental artist tracked on soundcheck, with 11 sets logged across Montreal and Toronto. Often billed alongside Janette King, Amos Don and Cadence Weapon. Next up: TBA - Secret location, Montreal on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA - Secret location | Montreal |
 | Thu, 3 Sept 2026 | Système | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hua Li 化力 is a house and experimental artist tracked on soundcheck, with 10 
 
 Janette King, Amos Don, Cadence Weapon
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huali/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huali/)*

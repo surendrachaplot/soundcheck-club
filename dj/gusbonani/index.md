@@ -1,6 +1,6 @@
 # Gus Bonani
 
-Gus Bonani is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 21 Aug 2026.
+Gus Bonani is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 21 Aug 2026.
 
 Gus Bonani is a house and electronica artist tracked on soundcheck, with 3 sets logged across Buenosaires. Often billed alongside Diego Ro-k and Guile. Next up: Avant Garten, Buenosaires on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Gus Bonani is a house and electronica artist tracked on soundcheck, with 3 sets 
 
 Diego Ro-k, Guile
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gusbonani/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gusbonani/)*

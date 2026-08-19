@@ -1,6 +1,6 @@
 # MYNA
 
-MYNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
+MYNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
 
 MYNA is a techno and house artist tracked on soundcheck, with 52 sets logged across London, Manchester, Miami and Sheffield. Often billed alongside Gracie T, Shannon From Admin and colecta. Next up: The Carpet Shop, London on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ MYNA is a techno and house artist tracked on soundcheck, with 52 sets logged acr
 
 Gracie T, Shannon From Admin, colecta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

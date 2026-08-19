@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 20 Aug 2026.
+TBA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 20 Aug 2026.
 
 TBA is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 20 Aug.
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist tracked on soundcheck, with 242 sets logged acr
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

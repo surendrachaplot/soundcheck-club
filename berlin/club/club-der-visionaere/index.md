@@ -1,8 +1,8 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "+22957193023 Les dangers du portefeuille magique" on Sat, 15 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "+22957193023 Les dangers du portefeuille magique" on Sat, 15 Aug 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anderson (US), Andrea Ferlin, Andres Bucci and Au Contraire and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Mariiin, Anderson (US), Andrea Ferlin and Andres Bucci and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

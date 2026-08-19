@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
+Tommy Phillips is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
 
 Tommy Phillips is a tech house and house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Boomerang Beach, Thehague on Sun 23 Aug.
 
@@ -31,4 +31,4 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 62 s
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

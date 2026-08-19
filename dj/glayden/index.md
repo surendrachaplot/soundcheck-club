@@ -1,6 +1,6 @@
 # Glayden
 
-Glayden is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
+Glayden is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
 
 Glayden is an electronic artist based in Finland, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Oslo and Paris and 4 more. Often billed alongside Paul Seul, MFM (FI) and Niko Demus. Next up: Blå, Oslo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Glayden is an electronic artist based in Finland, tracked on soundcheck, with 12
 
 Paul Seul, MFM (FI), Niko Demus
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*

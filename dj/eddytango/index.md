@@ -1,6 +1,6 @@
 # Eddy Tango
 
-Eddy Tango is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
+Eddy Tango is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
 
 Eddy Tango is a progressive house and deep house artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Pedro Mercado, AMYMI MUSICA and Daniel Pinho. Next up: The Flying Dutchman Café, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Eddy Tango is a progressive house and deep house artist tracked on soundcheck, w
 
 Pedro Mercado, AMYMI MUSICA, Daniel Pinho
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddytango/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddytango/)*

@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Different Spaces in Concert with The Tunegirl, Tauceti, VSK, Maasym, Ivan Emanuel, Sweeko" on Sat, 22 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Different Spaces in Concert with The Tunegirl, Tauceti, VSK, Maasym, Ivan Emanuel, Sweeko" on Sat, 22 Aug 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including Ben Hille, Blawan, DICE and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -17,4 +17,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

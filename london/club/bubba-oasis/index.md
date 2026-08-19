@@ -1,6 +1,6 @@
 # Bubba Oasis
 
-Bubba Oasis is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Bubba Oasis Clapham | House Party" on Fri, 21 Aug 2026.
+Bubba Oasis is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Bubba Oasis Clapham | House Party" on Fri, 21 Aug 2026.
 
 Bubba Oasis is a music venue in London listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 44-48 Clapham High St, London SW4 7UR.
 
@@ -20,4 +20,4 @@ Bubba Oasis is a music venue in London listed on soundcheck. 7 upcoming nights. 
 
 44-48 Clapham High St, London SW4 7UR, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis/)*

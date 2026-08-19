@@ -1,6 +1,6 @@
 # koen.fm (2)
 
-koen.fm (2) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
+koen.fm (2) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 koen.fm (2) is a house and downtempo artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Thehague. Often billed alongside Daan Donk, DJ-MB and Mia Cecille. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ koen.fm (2) is a house and downtempo artist based in Netherlands, tracked on sou
 
 Daan Donk, DJ-MB, Mia Cecille
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koen.fm-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koen.fm-2/)*

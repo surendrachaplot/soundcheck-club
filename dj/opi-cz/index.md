@@ -1,6 +1,6 @@
 # Opi (CZ)
 
-Opi (CZ) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fuchs2, Prague on Thu, 3 Sept 2026.
+Opi (CZ) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fuchs2, Prague on Thu, 3 Sept 2026.
 
 Opi (CZ) is a house and deep house artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Miami and Prague. Often billed alongside tg_paul, C-Motion and Jessy Nimni. Next up: Fuchs2, Prague on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Opi (CZ) is a house and deep house artist based in Czech Republic, tracked on so
 
 tg_paul, C-Motion, Jessy Nimni
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opi-cz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opi-cz/)*

@@ -1,6 +1,6 @@
 # STORM
 
-STORM is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mdlr, Singapore on Sat, 22 Aug 2026.
+STORM is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mdlr, Singapore on Sat, 22 Aug 2026.
 
 STORM is a house and hip-hop artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Brussels and Manchester and 5 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Mdlr, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ STORM is a house and hip-hop artist tracked on soundcheck, with 19 sets logged a
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*

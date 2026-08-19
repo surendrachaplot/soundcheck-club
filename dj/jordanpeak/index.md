@@ -1,6 +1,6 @@
 # Jordan Peak
 
-Jordan Peak is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at La Terrrazza, Barcelona on Fri, 21 Aug 2026.
+Jordan Peak is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Terrrazza, Barcelona on Fri, 21 Aug 2026.
 
 Jordan Peak is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 12 more. Often billed alongside Clive Henry, D Stone and Darius Syrossian. Next up: La Terrrazza, Barcelona on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Jordan Peak is a house and tech house artist based in United Kingdom, tracked on
 
 Clive Henry, D Stone, Darius Syrossian
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanpeak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanpeak/)*

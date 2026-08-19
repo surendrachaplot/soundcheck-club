@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "(FREE) Wednesnight with Jacarei, Keyblow" on Wed, 19 Aug 2026.
+Garage 442 is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "(FREE) Wednesnight with Jacarei, Keyblow" on Wed, 19 Aug 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including MKT (DE) and UAV Jammer. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -22,4 +22,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 9 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

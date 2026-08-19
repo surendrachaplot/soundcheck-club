@@ -1,6 +1,6 @@
 # Opera Club
 
-Opera Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "TУСОВКА 2000-Х | IMPREZA" on Sat, 22 Aug 2026.
+Opera Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "TУСОВКА 2000-Х | IMPREZA" on Sat, 22 Aug 2026.
 
 Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TУСОВКА 2000-Х / IMPREZA |  |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*

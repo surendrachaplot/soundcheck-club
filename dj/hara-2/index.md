@@ -1,6 +1,6 @@
 # hara (2)
 
-hara (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 29 Aug 2026.
+hara (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 29 Aug 2026.
 
 hara (2) is a house and electro artist based in Japan, tracked on soundcheck, with 29 sets logged across Newyorkcity and Tokyo. Often billed alongside okadada, Carpainter and Acrocanthosaurus. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ hara (2) is a house and electro artist based in Japan, tracked on soundcheck, wi
 
 okadada, Carpainter, Acrocanthosaurus
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hara-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hara-2/)*

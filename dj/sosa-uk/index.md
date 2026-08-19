@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
+SOSA (UK) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Hï Ibiza, Ibiza on Tue 18 Aug.
 
@@ -15,6 +15,7 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 18 Aug 2026
 - West Street, Glasgow — Sat, 15 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
@@ -22,10 +23,9 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 - Stage B, New York City — Sat, 13 Jun 2026
 - Radius, Chicago — Fri, 29 May 2026
 - Beach House San Diego, San Diego — Sun, 24 May 2026
-- THE SHOP, Seattle — Sat, 23 May 2026
 
 ## Shares bills with
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

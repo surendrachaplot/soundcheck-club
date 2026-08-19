@@ -1,6 +1,6 @@
 # Paàl
 
-Paàl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
+Paàl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
 Paàl is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Austin, Berlin, Boston and Bucharest and 19 more. Often billed alongside Grosera, Parallx and DJ Spit. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Paàl is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Grosera, Parallx, DJ Spit
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paal/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paal/)*

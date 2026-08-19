@@ -1,6 +1,6 @@
 # KG Radio
 
-KG Radio is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Drill Rave with HEDO HYDR8 (DK) & SAWOPO (BG)" on Fri, 21 Aug 2026.
+KG Radio is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Drill Rave with HEDO HYDR8 (DK) & SAWOPO (BG)" on Fri, 21 Aug 2026.
 
 KG Radio is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including Bianca Intensa and HEDO HYDR8. Browse upcoming dates, start times and who's playing. Nušićeva 14.
 
@@ -14,4 +14,4 @@ KG Radio is a music venue in Belgrade listed on soundcheck. 1 upcoming night, wi
 
 Nušićeva 14, Belgrade
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kg-radio/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kg-radio/)*

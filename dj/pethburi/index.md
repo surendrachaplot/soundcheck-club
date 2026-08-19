@@ -1,6 +1,6 @@
 # PethbUri
 
-PethbUri is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Razzmatazz, Barcelona on Fri, 28 Aug 2026.
+PethbUri is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Razzmatazz, Barcelona on Fri, 28 Aug 2026.
 
 PethbUri is an electronic artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona. Often billed alongside DJ2D2, Sushinigami and Dirti Larita. Next up: Razzmatazz, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ PethbUri is an electronic artist based in Spain, tracked on soundcheck, with 43 
 
 DJ2D2, Sushinigami, Dirti Larita
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pethburi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pethburi/)*

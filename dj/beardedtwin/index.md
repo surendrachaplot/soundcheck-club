@@ -1,6 +1,6 @@
 # Bearded Twin
 
-Bearded Twin is a Drone and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Delight Factory, New York City on Fri, 21 Aug 2026.
+Bearded Twin is a Drone and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Delight Factory, New York City on Fri, 21 Aug 2026.
 
 Bearded Twin is a drone and ambient artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Tiny Techno. Next up: Delight Factory, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bearded Twin is a drone and ambient artist based in United States of America, tr
 
 Tiny Techno
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beardedtwin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beardedtwin/)*

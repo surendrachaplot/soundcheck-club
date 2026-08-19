@@ -1,6 +1,6 @@
 # Renzo (3)
 
-Renzo (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
+Renzo (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
 
 Renzo (3) is a house and minimal artist tracked on soundcheck, with 10 sets logged across Berlin, Bucharest, Edinburgh and Milan and 1 more. Often billed alongside Re.dep, AND1 (2) and Aamir. Next up: TBA - East Gallery Dock, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Renzo (3) is a house and minimal artist tracked on soundcheck, with 10 sets logg
 
 Re.dep, AND1 (2), Aamir
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-3/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-3/)*

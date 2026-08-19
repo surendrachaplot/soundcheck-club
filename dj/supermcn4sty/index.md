@@ -1,6 +1,6 @@
 # SUPERMCN4STY
 
-SUPERMCN4STY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lefty's Day & Night, Austin on Sun, 30 Aug 2026.
+SUPERMCN4STY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lefty's Day & Night, Austin on Sun, 30 Aug 2026.
 
 SUPERMCN4STY is a house and disco artist tracked on soundcheck, with 38 sets logged across Austin. Often billed alongside BabiBoi, Brett Johnson and HYPERFEMME. Next up: Lefty's Day & Night, Austin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ SUPERMCN4STY is a house and disco artist tracked on soundcheck, with 38 sets log
 
 BabiBoi, Brett Johnson, HYPERFEMME
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supermcn4sty/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supermcn4sty/)*

@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Shai FM & WILHELMINA || BROTHA TAAJ & XIO" on Fri, 21 Aug 2026.
+Bastet is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Shai FM & WILHELMINA || BROTHA TAAJ & XIO" on Fri, 21 Aug 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Amal, Black Rave Culture, Firestone and has.san and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -17,4 +17,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

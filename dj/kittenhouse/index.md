@@ -1,6 +1,6 @@
 # kittenhouse
 
-kittenhouse is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Brushy Street Commons, Austin on Sat, 5 Sept 2026.
+kittenhouse is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Brushy Street Commons, Austin on Sat, 5 Sept 2026.
 
 kittenhouse is a hardcore and club artist tracked on soundcheck, with 22 sets logged across Austin, Chicago, Detroit and Miami and 4 more. Often billed alongside Demifiend, GUSSYEE and Obi-Wan Shinobi. Next up: Brushy Street Commons, Austin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ kittenhouse is a hardcore and club artist tracked on soundcheck, with 22 sets lo
 
 Demifiend, GUSSYEE, Obi-Wan Shinobi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*

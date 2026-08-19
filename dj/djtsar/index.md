@@ -1,6 +1,6 @@
 # DJ Tsar
 
-DJ Tsar is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+DJ Tsar is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 DJ Tsar is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Athens and London. Often billed alongside SVRN, LUNAUR.AA and Ununu. Next up: M.O.T, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ Tsar is a techno and industrial artist based in United Kingdom, tracked on so
 
 SVRN, LUNAUR.AA, Ununu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtsar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtsar/)*

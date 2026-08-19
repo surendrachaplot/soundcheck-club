@@ -1,6 +1,6 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Steve Aoki | Argie | Terry" on Tue, 18 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Steve Aoki | Argie | Terry" on Tue, 18 Aug 2026.
 
 Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Argie, Armand Van Helden, Benny Benassi and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
@@ -21,4 +21,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 8 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

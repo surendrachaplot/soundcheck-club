@@ -1,6 +1,6 @@
 # Low-D
 
-Low-D is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+Low-D is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 Low-D is an electro and breakbeat artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Erol Arda, AZA and Ramsey Neville. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Low-D is an electro and breakbeat artist tracked on soundcheck, with 4 sets logg
 
 Erol Arda, AZA, Ramsey Neville
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/low-d/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/low-d/)*

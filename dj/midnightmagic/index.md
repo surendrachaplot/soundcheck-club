@@ -1,6 +1,6 @@
 # Midnight Magic
 
-Midnight Magic is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Bellwether, Los Angeles on Fri, 21 Aug 2026.
+Midnight Magic is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Bellwether, Los Angeles on Fri, 21 Aug 2026.
 
 Midnight Magic is a disco and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit, Losangeles, Mexicocity and Nashville and 2 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: The Bellwether, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Midnight Magic is a disco and house artist based in United States of America, tr
 
 Andi, COLOURS 87, Facets
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*

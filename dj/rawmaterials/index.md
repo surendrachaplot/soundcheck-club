@@ -1,6 +1,6 @@
 # raw materials
 
-raw materials is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Palace Vinyl, London on Fri, 28 Aug 2026.
+raw materials is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Palace Vinyl, London on Fri, 28 Aug 2026.
 
 raw materials is a house and dub artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Doul, green digger and DJ VALENTINE. Next up: Palace Vinyl, London on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ raw materials is a house and dub artist tracked on soundcheck, with 4 sets logge
 
 Doul, green digger, DJ VALENTINE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmaterials/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmaterials/)*

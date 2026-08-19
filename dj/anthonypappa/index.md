@@ -1,6 +1,6 @@
 # Anthony Pappa
 
-Anthony Pappa is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Box Hub, Glasgow on Sun, 30 Aug 2026.
+Anthony Pappa is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Box Hub, Glasgow on Sun, 30 Aug 2026.
 
 Anthony Pappa is a progressive house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 21 more. Often billed alongside Dave Seaman, Danny Howells and James Zabiela. Next up: Box Hub, Glasgow on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Anthony Pappa is a progressive house and house artist tracked on soundcheck, wit
 
 Dave Seaman, Danny Howells, James Zabiela
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*

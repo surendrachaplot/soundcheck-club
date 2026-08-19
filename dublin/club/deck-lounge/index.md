@@ -1,6 +1,6 @@
 # Deck Lounge
 
-Deck Lounge is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "GABE & guests — Vibez Open Air Dublin" on Sat, 5 Sept 2026.
+Deck Lounge is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "GABE & guests — Vibez Open Air Dublin" on Sat, 5 Sept 2026.
 
 Deck Lounge is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Gabe Live. Browse upcoming dates, start times and who's playing. Block E  D03 K7W7 Dublin 3.
 
@@ -14,4 +14,4 @@ Deck Lounge is a music venue in Dublin listed on soundcheck. 1 upcoming night, w
 
 Block E  D03 K7W7 Dublin 3, Dublin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/deck-lounge/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/deck-lounge/)*

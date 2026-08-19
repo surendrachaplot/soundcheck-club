@@ -1,6 +1,6 @@
 # Munsha
 
-Munsha is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ausland, Berlin on Sat, 12 Sept 2026.
+Munsha is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ausland, Berlin on Sat, 12 Sept 2026.
 
 Munsha is a drone and experimental artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside KLEA, Martin Long and X:RA. Next up: Ausland, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Munsha is a drone and experimental artist based in Germany, tracked on soundchec
 
 KLEA, Martin Long, X:RA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munsha/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munsha/)*

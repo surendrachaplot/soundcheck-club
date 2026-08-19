@@ -1,6 +1,6 @@
 # Kasja
 
-Kasja is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
+Kasja is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Blue Velvet, Berlin on Fri, 21 Aug 2026.
 
 Kasja is a club and experimental artist tracked on soundcheck, with 18 sets logged across Athens and Berlin. Often billed alongside Milad Samara, ELAYN and Souci. Next up: Blue Velvet, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Kasja is a club and experimental artist tracked on soundcheck, with 18 sets logg
 
 Milad Samara, ELAYN, Souci
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*

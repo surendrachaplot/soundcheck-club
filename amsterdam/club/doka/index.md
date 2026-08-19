@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Doka Studio with Colored Craig - Fais Le Beau" on Sat, 5 Sept 2026.
+Doka is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Doka Studio with Colored Craig - Fais Le Beau" on Sat, 5 Sept 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Antal, Charmaine, Colored Craig and Daan Donk and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -21,4 +21,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

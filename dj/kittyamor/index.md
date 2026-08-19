@@ -1,6 +1,6 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Chinese Laundry, Sydney on Sat, 22 Aug 2026.
+Kitty Amor is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Chinese Laundry, Sydney on Sat, 22 Aug 2026.
 
 Kitty Amor is a house and afro house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: Chinese Laundry, Sydney on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Kitty Amor is a house and afro house artist tracked on soundcheck, with 92 sets 
 
 Andrea Oliva, Major League Djz, SYREETA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*

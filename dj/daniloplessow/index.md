@@ -1,8 +1,8 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sísí Rooftop Glasgow, Glasgow on Sun, 30 Aug 2026.
+Danilo Plessow is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sísí Rooftop Glasgow, Glasgow on Sun, 30 Aug 2026.
 
-Danilo Plessow is a house and disco artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Sísí Rooftop Glasgow, Glasgow on Sun 30 Aug.
+Danilo Plessow is a house and disco artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Sísí Rooftop Glasgow, Glasgow on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 162 sets 
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Sísí Rooftop Glasgow | Glasgow |
 | Sat, 5 Sept 2026 | fabric | London |
+| Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 26 Sept 2026 | Quarters | Brighton |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -31,4 +32,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 162 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

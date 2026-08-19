@@ -1,6 +1,6 @@
 # French Street (Strange Field)
 
-French Street (Strange Field) is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Out of Bounds x Strange Field" on Fri, 18 Sept 2026.
+French Street (Strange Field) is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Out of Bounds x Strange Field" on Fri, 18 Sept 2026.
 
 French Street (Strange Field) is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 105 French St, Glasgow G40 4EH.
 
@@ -14,4 +14,4 @@ French Street (Strange Field) is a music venue in Glasgow listed on soundcheck. 
 
 105 French St, Glasgow G40 4EH, Glasgow
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/french-street-strange-field/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/french-street-strange-field/)*

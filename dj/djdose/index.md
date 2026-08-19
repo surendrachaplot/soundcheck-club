@@ -1,6 +1,6 @@
 # DJ Dose
 
-DJ Dose is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+DJ Dose is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
 
 DJ Dose is a techno and electro artist tracked on soundcheck, with 15 sets logged across Hamburg, Leipzig and Nurnberg. Often billed alongside Antoine Baiser, Marco Baskind and face*. Next up: Südpol, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Dose is a techno and electro artist tracked on soundcheck, with 15 sets logge
 
 Antoine Baiser, Marco Baskind, face*
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdose/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdose/)*

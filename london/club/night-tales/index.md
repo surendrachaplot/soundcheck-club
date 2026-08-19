@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rinse Summer Terrace Party ft. Benga, Oneman, Nyra + more" on Thu, 20 Aug 2026.
+Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rinse Summer Terrace Party ft. Benga, Oneman, Nyra + more" on Thu, 20 Aug 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Alexia Glensy, Alex Neri, Benga and Cap and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights,
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

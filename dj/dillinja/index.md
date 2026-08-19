@@ -1,8 +1,8 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: The Cause, London on Sat 22 Aug.
+Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 111 sets
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Sun, 23 Aug 2026 | The Wardrobe | Leeds |
+| Sat, 29 Aug 2026 | Concorde 2 | Brighton |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 4 Sept 2026 | TivoliVredenburg | Utrecht |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
@@ -33,4 +34,4 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 111 sets
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

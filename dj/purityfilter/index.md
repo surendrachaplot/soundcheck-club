@@ -1,6 +1,6 @@
 # Purity Filter
 
-Purity Filter is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ortlieb's, Philadelphia on Fri, 21 Aug 2026.
+Purity Filter is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ortlieb's, Philadelphia on Fri, 21 Aug 2026.
 
 Purity Filter is a trance and hardcore artist based in United States of America, tracked on soundcheck, with 20 sets logged across Brighton, Chicago, Denver and London and 7 more. Often billed alongside LUNAx3, VAPERROR and Vertigoaway. Next up: Ortlieb's, Philadelphia on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Purity Filter is a trance and hardcore artist based in United States of America,
 
 LUNAx3, VAPERROR, Vertigoaway
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*

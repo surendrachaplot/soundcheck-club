@@ -1,6 +1,6 @@
 # Blint
 
-Blint is a UK Funky and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
+Blint is a UK Funky and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
 
 Blint is an uk funky and breakbeat artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Aura Nox, Dub Isotope and FOOOL. Next up: Tresor / Globus, Berlin on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ Blint is an uk funky and breakbeat artist tracked on soundcheck, with 6 sets log
 
 Aura Nox, Dub Isotope, FOOOL
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blint/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blint/)*

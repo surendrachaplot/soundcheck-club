@@ -1,6 +1,6 @@
 # CÉ LA VI
 
-CÉ LA VI is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "INTO ART: Horizon Red Edition" on Sat, 22 Aug 2026.
+CÉ LA VI is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "INTO ART: Horizon Red Edition" on Sat, 22 Aug 2026.
 
 CÉ LA VI is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Akhil (UK), Everything Is ART and RORY KITE. Browse upcoming dates, start times and who's playing. 1 PADDINGTON SQUARE  17th & 18th Floor, London England, W2 1DL.
 
@@ -16,4 +16,4 @@ CÉ LA VI is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 
 1 PADDINGTON SQUARE  17th & 18th Floor, London England, W2 1DL, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/c-la-vi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/c-la-vi/)*

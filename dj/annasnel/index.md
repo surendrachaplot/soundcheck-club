@@ -1,6 +1,6 @@
 # ANNASNEL
 
-ANNASNEL is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+ANNASNEL is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 ANNASNEL is a house and trance artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ANNASNEL is a house and trance artist based in Netherlands, tracked on soundchec
 
 Niklas Becher, UriBlanch, 22 Interns
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*

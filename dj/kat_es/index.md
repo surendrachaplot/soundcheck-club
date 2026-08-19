@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
+Kat_Es is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
 
 Kat_Es is a house and techno artist based in Poland, tracked on soundcheck, with 42 sets logged across Berlin and Leipzig. Often billed alongside La Terrasse, Lobo (DE) and Monsai. Next up: Bulbul Berlin, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kat_Es is a house and techno artist based in Poland, tracked on soundcheck, with
 
 La Terrasse, Lobo (DE), Monsai
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

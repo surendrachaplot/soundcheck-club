@@ -1,6 +1,6 @@
 # Sleight of Hands
 
-Sleight of Hands is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
+Sleight of Hands is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Sleight of Hands is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Cole Odin, Doc Martin and Anthony Mansfield. Next up: The Great Northern, Sanfrancisco on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Sleight of Hands is a house and tech house artist based in United States of Amer
 
 Cole Odin, Doc Martin, Anthony Mansfield
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleightofhands/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleightofhands/)*

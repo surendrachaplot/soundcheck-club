@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Palais, London on Fri, 21 Aug 2026.
+ÜBERKIKZ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Palais, London on Fri, 21 Aug 2026.
 
 ÜBERKIKZ is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: Palais, London on Fri 21 Aug.
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

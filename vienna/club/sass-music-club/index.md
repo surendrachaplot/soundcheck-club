@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Donnerstag Nacht with COZi" on Thu, 20 Aug 2026.
+SASS Music Club is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Donnerstag Nacht with COZi" on Thu, 20 Aug 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Andi Britz, C.love, COZi and Crazy Sonic and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -21,4 +21,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 8 upcoming nigh
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

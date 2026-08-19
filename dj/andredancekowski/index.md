@@ -1,6 +1,6 @@
 # André Dancekowski
 
-André Dancekowski is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Goldener Reiter, Munich on Fri, 21 Aug 2026.
+André Dancekowski is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Goldener Reiter, Munich on Fri, 21 Aug 2026.
 
 André Dancekowski is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Brussels, Cologne and Dublin and 6 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Goldener Reiter, Munich on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ André Dancekowski is a house and techno artist based in Germany, tracked on sou
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

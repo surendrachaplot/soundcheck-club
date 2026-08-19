@@ -1,8 +1,8 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Deep Street x Strange Brew with Glenn Underground" on Fri, 21 Aug 2026.
+Strange Brew is a music venue in Bristol with 16 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Deep Street x Strange Brew with Glenn Underground" on Fri, 21 Aug 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Addsound, Alicia Carrera, Andy Blake and Andy Mac and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 16 upcoming nights, with line-ups including Addsound, Alicia Carrera, Andy Blake and Andy Mac and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming night
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

@@ -1,6 +1,6 @@
 # Captain Knuckles
 
-Captain Knuckles is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fröccsterasz, Budapest on Sat, 29 Aug 2026.
+Captain Knuckles is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fröccsterasz, Budapest on Sat, 29 Aug 2026.
 
 Captain Knuckles is a house and tech house artist based in Hungary, tracked on soundcheck, with 74 sets logged across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Fröccsterasz, Budapest on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Captain Knuckles is a house and tech house artist based in Hungary, tracked on s
 
 Sobek, Sabani, Adx
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*

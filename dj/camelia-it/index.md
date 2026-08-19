@@ -1,6 +1,6 @@
 # Camelia (IT)
 
-Camelia (IT) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
+Camelia (IT) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
 
 Camelia (IT) is a deep house and house artist tracked on soundcheck, with 26 sets logged across Barcelona and Milan. Often billed alongside Nesi, Dario Damerini and Alice Youngling. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Camelia (IT) is a deep house and house artist tracked on soundcheck, with 26 set
 
 Nesi, Dario Damerini, Alice Youngling
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelia-it/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelia-it/)*

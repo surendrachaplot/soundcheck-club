@@ -1,6 +1,6 @@
 # LegenDari
 
-LegenDari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
+LegenDari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Rooftop Location in Brooklyn, New York City on Sat, 22 Aug 2026.
 
 LegenDari is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Miami and Newyorkcity. Often billed alongside Rei Calero, A.Arias and Carlos Rivera. Next up: TBA - Secret Rooftop Location in Brooklyn, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ LegenDari is a house and techno artist based in United States of America, tracke
 
 Rei Calero, A.Arias, Carlos Rivera
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*

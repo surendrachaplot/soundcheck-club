@@ -1,6 +1,6 @@
 # DJ Fat Frog
 
-DJ Fat Frog is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Sat, 29 Aug 2026.
+DJ Fat Frog is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mood Ring, New York City on Sat, 29 Aug 2026.
 
 DJ Fat Frog is a jungle and footwork artist tracked on soundcheck, with 40 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside satandoll, dj 5spice and LEEJAY. Next up: Mood Ring, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Fat Frog is a jungle and footwork artist tracked on soundcheck, with 40 sets 
 
 satandoll, dj 5spice, LEEJAY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*

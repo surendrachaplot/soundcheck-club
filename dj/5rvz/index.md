@@ -1,6 +1,6 @@
 # 5RVZ
 
-5RVZ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fitzroy, Berlin on Thu, 24 Sept 2026.
+5RVZ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fitzroy, Berlin on Thu, 24 Sept 2026.
 
 5RVZ is an experimental and club artist tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, London and Milan and 2 more. Often billed alongside Hagva, Harald Uunk and SAMWHO. Next up: Fitzroy, Berlin on Thu 24 Sept.
 
@@ -24,4 +24,4 @@
 
 Hagva, Harald Uunk, SAMWHO
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5rvz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5rvz/)*

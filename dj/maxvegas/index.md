@@ -1,6 +1,6 @@
 # MAXVEGAS
 
-MAXVEGAS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Her, Melbourne on Sat, 29 Aug 2026.
+MAXVEGAS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Her, Melbourne on Sat, 29 Aug 2026.
 
 MAXVEGAS is a house and tech house artist based in France, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Ed Kent, Charlotte Rooney and Chris NG. Next up: Her, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MAXVEGAS is a house and tech house artist based in France, tracked on soundcheck
 
 Ed Kent, Charlotte Rooney, Chris NG
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvegas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvegas/)*

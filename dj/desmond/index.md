@@ -1,6 +1,6 @@
 # Desmond
 
-Desmond is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
+Desmond is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
 
 Desmond is a minimal and house artist tracked on soundcheck, with 2 sets logged across London and Nottingham. Often billed alongside Big Nick D, Golden Lights and Vior. Next up: The Bodega Social Club, Nottingham on Sun 30 Aug.
 
@@ -18,4 +18,4 @@ Desmond is a minimal and house artist tracked on soundcheck, with 2 sets logged 
 
 Big Nick D, Golden Lights, Vior
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desmond/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desmond/)*

@@ -1,6 +1,6 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Signal W/ Dean Lexar , Dj Épi , Sasha Kills" on Tue, 18 Aug 2026.
+Studio56 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Signal W/ Dean Lexar , Dj Épi , Sasha Kills" on Tue, 18 Aug 2026.
 
 Studio56 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Drivr, Ev (19), K0uci and Killoverjoy and 1 more. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
@@ -23,4 +23,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 13 upcoming nights, wit
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

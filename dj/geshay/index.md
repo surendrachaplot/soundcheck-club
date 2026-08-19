@@ -1,6 +1,6 @@
 # GESHAY
 
-GESHAY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
+GESHAY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
 
 GESHAY is a house and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles and Sandiego. Often billed alongside Bella Cosmic, AMIRA and Araminta. Next up: Level 8 DTLA, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ GESHAY is a house and disco artist based in United States of America, tracked on
 
 Bella Cosmic, AMIRA, Araminta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geshay/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geshay/)*

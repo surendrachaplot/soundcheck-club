@@ -1,6 +1,6 @@
 # Vinz (ITA)
 
-Vinz (ITA) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Vinz (ITA) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Vinz (ITA) is a tech house and house artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Mario Chicoli, Babo and Mastro Sally. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Vinz (ITA) is a tech house and house artist tracked on soundcheck, with 5 sets l
 
 Mario Chicoli, Babo, Mastro Sally
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*

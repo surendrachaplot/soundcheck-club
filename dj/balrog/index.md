@@ -1,6 +1,6 @@
 # Balrog
 
-Balrog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 22 Aug 2026.
+Balrog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 22 Aug 2026.
 
 Balrog is a techno and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Belfast, Berlin, Krakow and Leeds and 4 more. Often billed alongside Aero (1), Habgud and INLIMEN. Next up: Eastern Bloc Records, Manchester on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Balrog is a techno and house artist based in United Kingdom, tracked on soundche
 
 Aero (1), Habgud, INLIMEN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*

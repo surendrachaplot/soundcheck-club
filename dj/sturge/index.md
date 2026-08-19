@@ -1,6 +1,6 @@
 # Sturge
 
-Sturge is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
+Sturge is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 29 Aug 2026.
 
 Sturge is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Belfast, Galway, Ibiza and London and 1 more. Often billed alongside Axel Boman, Burlie Mac and Christopher Coe. Next up: The Ulster Sports Club, Belfast on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Sturge is a house and deep house artist based in United Kingdom, tracked on soun
 
 Axel Boman, Burlie Mac, Christopher Coe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sturge/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sturge/)*

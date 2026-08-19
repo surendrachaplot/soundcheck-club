@@ -1,6 +1,6 @@
 # Sayuri (2)
 
-Sayuri (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at White Space Lab, Tokyo on Sat, 29 Aug 2026.
+Sayuri (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at White Space Lab, Tokyo on Sat, 29 Aug 2026.
 
 Sayuri (2) is a house and techno artist tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside Satoshi Matsui, guro.det and AMANE. Next up: White Space Lab, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sayuri (2) is a house and techno artist tracked on soundcheck, with 47 sets logg
 
 Satoshi Matsui, guro.det, AMANE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-2/)*

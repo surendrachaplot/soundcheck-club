@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at La Terrrazza, Barcelona on Sat, 29 Aug 2026.
+Upper90 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Terrrazza, Barcelona on Sat, 29 Aug 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 122 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: La Terrrazza, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 122 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

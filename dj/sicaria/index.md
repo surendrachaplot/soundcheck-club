@@ -1,6 +1,6 @@
 # SICARIA
 
-SICARIA is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Palais, London on Fri, 25 Sept 2026.
+SICARIA is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Palais, London on Fri, 25 Sept 2026.
 
 SICARIA is a dubstep and bass artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Interplanetary Criminal, SGT Pokes and Sully. Next up: Palais, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SICARIA is a dubstep and bass artist tracked on soundcheck, with 102 sets logged
 
 Interplanetary Criminal, SGT Pokes, Sully
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sicaria/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sicaria/)*

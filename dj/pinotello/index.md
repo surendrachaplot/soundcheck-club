@@ -1,14 +1,15 @@
 # Pinotello
 
-Pinotello is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Pinotello is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Pinotello is a hardcore and gabber artist tracked on soundcheck, with 23 sets logged across Antwerp, Barcelona, Berlin and Brussels and 6 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
+Pinotello is a hardcore and gabber artist tracked on soundcheck, with 24 sets logged across Antwerp, Barcelona, Berlin and Brussels and 6 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 24 Oct 2026 | Fabrik | Madrid |
 | Sun, 1 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Pinotello is a hardcore and gabber artist tracked on soundcheck, with 23 sets lo
 
 The Dark Horror, Lekkerfaces, Major Conspiracy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*

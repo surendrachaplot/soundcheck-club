@@ -1,6 +1,6 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
+Ottoman Grüw is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
 
 Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Athens and Berlin and 9 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Madame Moustache, Brussels on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 55 sets lo
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

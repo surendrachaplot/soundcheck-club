@@ -1,6 +1,6 @@
 # Secondcity
 
-Secondcity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 22 Aug 2026.
+Secondcity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 22 Aug 2026.
 
 Secondcity is a house and tech house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Bristol and Chicago and 14 more. Often billed alongside Steven Cee, Brian Smith and Ellie Cocks. Next up: Shrine Auditorium and Expo Hall, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Secondcity is a house and tech house artist tracked on soundcheck, with 44 sets 
 
 Steven Cee, Brian Smith, Ellie Cocks
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcity/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcity/)*

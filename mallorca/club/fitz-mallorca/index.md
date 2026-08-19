@@ -1,6 +1,6 @@
 # Fitz Mallorca
 
-Fitz Mallorca is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "ANOTR" on Sun, 23 Aug 2026.
+Fitz Mallorca is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "ANOTR" on Sun, 23 Aug 2026.
 
 Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 1 upcoming night, with line-ups including ANOTR. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
 
@@ -14,4 +14,4 @@ Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 1 upcoming nigh
 
 Avinguda de Gabriel Roca, 32,  Palma, Illes Balears, Mallorca
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/fitz-mallorca/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/fitz-mallorca/)*

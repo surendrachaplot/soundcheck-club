@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Coco Maria is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

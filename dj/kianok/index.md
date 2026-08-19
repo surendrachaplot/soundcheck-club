@@ -1,14 +1,15 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Kian OK is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
-Kian OK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Ghent and London and 3 more. Often billed alongside Bowyer, Kyle Toole and Picasso. Next up: Gaffe, London on Sun 30 Aug.
+Kian OK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Ghent and London and 4 more. Often billed alongside Bowyer, Kyle Toole and Picasso. Next up: Gaffe, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gaffe | London |
+| Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kian OK is a house and techno artist based in United Kingdom, tracked on soundch
 
 Bowyer, Kyle Toole, Picasso
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

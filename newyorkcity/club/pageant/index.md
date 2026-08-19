@@ -1,6 +1,6 @@
 # Pageant
 
-Pageant is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Sound Restorer: Wet Currency (Mekko Harjo & NY Graffiti), Sound Restorer (Johnny D & richmcd)" on Thu, 20 Aug 2026.
+Pageant is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Sound Restorer: Wet Currency (Mekko Harjo & NY Graffiti), Sound Restorer (Johnny D & richmcd)" on Thu, 20 Aug 2026.
 
 Pageant is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Arushi Jain, Eden Aurelius, Kfeelz and Mariposa. Browse upcoming dates, start times and who's playing. 70 Graham Ave.
 
@@ -15,4 +15,4 @@ Pageant is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights,
 
 70 Graham Ave, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pageant/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pageant/)*

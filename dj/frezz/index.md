@@ -1,6 +1,6 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gallery, London on Thu, 20 Aug 2026.
+FrezZ is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gallery, London on Thu, 20 Aug 2026.
 
 FrezZ is a tech house and minimal artist tracked on soundcheck, with 43 sets logged across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: Gallery, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ FrezZ is a tech house and minimal artist tracked on soundcheck, with 43 sets log
 
 Giovanni Savoca, Simon Carr, George Morteanu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*

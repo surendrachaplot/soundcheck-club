@@ -1,6 +1,6 @@
 # Guzt
 
-Guzt is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 30 Aug 2026.
+Guzt is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 30 Aug 2026.
 
 Guzt is a tech house and minimal artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside SepTeo, ICE THOMPSON and Iglesias. Next up: Summertime Roof Terrace, Newyorkcity on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Guzt is a tech house and minimal artist tracked on soundcheck, with 5 sets logge
 
 SepTeo, ICE THOMPSON, Iglesias
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guzt/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guzt/)*

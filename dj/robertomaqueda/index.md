@@ -1,6 +1,6 @@
 # Roberto Maqueda
 
-Roberto Maqueda is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Roberto Maqueda is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Roberto Maqueda is an experimental and techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Basel, Berlin, Glasgow and Seoul. Often billed alongside Andriy K., AXT and Agonis. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Roberto Maqueda is an experimental and techno artist based in Spain, tracked on 
 
 Andriy K., AXT, Agonis
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*

@@ -1,6 +1,6 @@
 # Microhm
 
-Microhm is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 28 Aug 2026.
+Microhm is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 28 Aug 2026.
 
 Microhm is a techno and experimental artist based in Mexico, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside Imaabs, Ruiseñor and Aunty Rayzor. Next up: YuYu Cine Club, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Microhm is a techno and experimental artist based in Mexico, tracked on soundche
 
 Imaabs, Ruiseñor, Aunty Rayzor
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microhm/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microhm/)*

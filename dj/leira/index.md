@@ -1,6 +1,6 @@
 # Leira
 
-Leira is a House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Crystal Lounge, Seattle on Fri, 4 Sept 2026.
+Leira is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Crystal Lounge, Seattle on Fri, 4 Sept 2026.
 
 Leira is a house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Seattle. Often billed alongside Dane Garfield, Spaceotter and Trinitron. Next up: Crystal Lounge, Seattle on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Leira is a house artist based in United States of America, tracked on soundcheck
 
 Dane Garfield, Spaceotter, Trinitron
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leira/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leira/)*

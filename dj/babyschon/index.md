@@ -1,14 +1,18 @@
 # babyschön
 
-babyschön is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+babyschön is a House and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Night Tales Loft, London on Fri, 28 Aug 2026.
 
-babyschön is a house and acid artist tracked on soundcheck, with 84 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 12 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: The Cause, London on Sat 12 Sept.
+babyschön is a house and acid artist tracked on soundcheck, with 88 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 13 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: Night Tales Loft, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Night Tales Loft | London |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 12 Sept 2026 | The Model | Nottingham |
+| Sat, 7 Nov 2026 | Night Tales Loft | London |
+| Sat, 14 Nov 2026 | Night Tales Loft | London |
 
 ## Recently played
 
@@ -25,4 +29,4 @@ babyschön is a house and acid artist tracked on soundcheck, with 84 sets logged
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

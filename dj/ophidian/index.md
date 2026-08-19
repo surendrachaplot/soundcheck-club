@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
+Ophidian is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: Kilomètre25, Paris on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Drokz, Anime, Korsakoff
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

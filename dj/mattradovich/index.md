@@ -1,8 +1,8 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 21 Aug 2026.
+Matt Radovich is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 21 Aug 2026.
 
-Matt Radovich is a techno and house artist tracked on soundcheck, with 76 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Chiara Kickdrum. Next up: Sub Club Melbourne, Melbourne on Fri 21 Aug.
+Matt Radovich is a techno and house artist tracked on soundcheck, with 77 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Chiara Kickdrum. Next up: Sub Club Melbourne, Melbourne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Matt Radovich is a techno and house artist tracked on soundcheck, with 76 sets l
 | Fri, 21 Aug 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 21 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sat, 22 Aug 2026 | Glamorama | Melbourne |
+| Sat, 5 Sept 2026 | My Aeon | Melbourne |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Matt Radovich is a techno and house artist tracked on soundcheck, with 76 sets l
 
 Craig McWhinney, Mike Callander, Chiara Kickdrum
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

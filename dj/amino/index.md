@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 15605 Woodrow Wilson st Detroit , Detroit on Fri, 21 Aug 2026.
+Amino is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 15605 Woodrow Wilson st Detroit , Detroit on Fri, 21 Aug 2026.
 
 Amino is a techno and house artist tracked on soundcheck, with 85 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: TBA - 15605 Woodrow Wilson st Detroit , Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Amino is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

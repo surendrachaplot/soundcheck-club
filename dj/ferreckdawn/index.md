@@ -1,6 +1,6 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Savaya Bali, Bali on Fri, 21 Aug 2026.
+Ferreck Dawn is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Savaya Bali, Bali on Fri, 21 Aug 2026.
 
 Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: Savaya Bali, Bali on Fri 21 Aug.
 
@@ -32,4 +32,4 @@ Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 90 set
 
 Claptone, Sam Divine, Todd Terry
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

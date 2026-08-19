@@ -1,6 +1,6 @@
 # Fygma
 
-Fygma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Decodance Bar, San Francisco/Oakland on Sat, 22 Aug 2026.
+Fygma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Decodance Bar, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Fygma is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside dananas, &ndmore and Foxbox. Next up: Decodance Bar, Sanfrancisco on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Fygma is a house and techno artist based in United States of America, tracked on
 
 dananas, &ndmore, Foxbox
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fygma/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fygma/)*

@@ -1,6 +1,6 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "YOTO x AFRO SLOT SPECIAL" on Fri, 21 Aug 2026.
+YOTO is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "YOTO x AFRO SLOT SPECIAL" on Fri, 21 Aug 2026.
 
 YOTO is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including DJ Boas, J.TU, NEAF and Tracy Mayy and 1 more. Browse upcoming dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ YOTO is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with l
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

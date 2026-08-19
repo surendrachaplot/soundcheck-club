@@ -1,15 +1,15 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Art Club, Houston on Tue, 18 Aug 2026.
+DJ Tennis is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 29 Aug 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 295 sets logged across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Art Club, Houston on Tue 18 Aug.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Hï Ibiza, Ibiza on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Art Club | Houston |
 | Sat, 29 Aug 2026 | Hï Ibiza | Ibiza |
+| Sun, 30 Aug 2026 | Kiesgrube | Düsseldorf |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 18 Sept 2026 | Art Club | Houston |
 | Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
@@ -21,6 +21,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 295 sets logg
 
 ## Recently played
 
+- Art Club, Houston — Tue, 18 Aug 2026
 - DC-10, Ibiza — Mon, 10 Aug 2026
 - W Barcelona, Barcelona — Sun, 2 Aug 2026
 - Hangaren, Copenhagen — Sat, 1 Aug 2026
@@ -28,10 +29,9 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 295 sets logg
 - Santanna Mykonos, Mykonos — Mon, 27 Jul 2026
 - Chinois Ibiza, Ibiza — Sun, 26 Jul 2026
 - Antonioli Hangar, Ibiza — Sun, 26 Jul 2026
-- TBA - Pferdesport Pfannenstiel Meilen, Zurich — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

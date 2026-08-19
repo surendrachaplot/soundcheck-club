@@ -1,6 +1,6 @@
 # Ma.to
 
-Ma.to is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Ma.to is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 Ma.to is a techno and electro artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 3 more. Often billed alongside Velardi, Dean Denali and Fr.analog. Next up: Sunseabar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Ma.to is a techno and electro artist tracked on soundcheck, with 30 sets logged 
 
 Velardi, Dean Denali, Fr.analog
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.to/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.to/)*

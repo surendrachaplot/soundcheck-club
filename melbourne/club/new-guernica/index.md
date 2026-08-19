@@ -1,6 +1,6 @@
 # New Guernica
 
-New Guernica is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "+1 x Fluxx Pres: Claire O'Brien, Atarangi + Special Guest" on Fri, 21 Aug 2026.
+New Guernica is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "+1 x Fluxx Pres: Claire O'Brien, Atarangi + Special Guest" on Fri, 21 Aug 2026.
 
 New Guernica is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including ATARANGI, Bekks, CHEEKI and Claire O'Brien and 2 more. Browse upcoming dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
 
@@ -16,4 +16,4 @@ New Guernica is a music venue in Melbourne listed on soundcheck. 3 upcoming nigh
 
 64 Smith Street, Collingwood, VIC 3066, Melbourne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*

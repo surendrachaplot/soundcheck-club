@@ -1,6 +1,6 @@
 # James Vincent
 
-James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
+James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
 
 James Vincent is a deep house and disco artist tracked on soundcheck, with 67 sets logged across Chicago, Detroit and Lisbon. Often billed alongside Cordell Johnson, Lorenzo Dewberry and CTRLZORA. Next up: MotorCity Wine, Detroit on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ James Vincent is a deep house and disco artist tracked on soundcheck, with 67 se
 
 Cordell Johnson, Lorenzo Dewberry, CTRLZORA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*

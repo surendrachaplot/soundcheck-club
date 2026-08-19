@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Bezometer" on Tue, 18 Aug 2026.
+Viadukt Bar is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Earwax Brothers with Chillum Trio" on Wed, 19 Aug 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Meister, Derek (2), Electric Boutique and Meo Culpa and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Daniel Meister, Derek (2), Electric Boutique and Meo Culpa and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Bezometer | Octile |
 | Wed, 19 Aug 2026 | Earwax Brothers with Chillum Trio |  |
 | Sat, 22 Aug 2026 | Andras Bader + Zvezda Beta |  |
 | Sun, 23 Aug 2026 | Ethnotech pres. Water Vibes | Meo Culpa, OIEE, Zakhorov |
@@ -19,4 +18,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

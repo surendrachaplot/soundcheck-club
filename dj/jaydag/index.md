@@ -1,14 +1,13 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
+Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Magazine Open–Air, London on Sat, 22 Aug 2026.
 
-Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Belfast and 46 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: 528 Ibiza, Ibiza on Tue 18 Aug.
+Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Belfast and 46 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: Magazine Open–Air, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Magazine Open–Air | London |
 | Fri, 4 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | BIRD | Rotterdam |
@@ -21,6 +20,7 @@ Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Tue, 18 Aug 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 27 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
@@ -28,10 +28,9 @@ Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 28 Jun 2026
 - Amnesia Ibiza, Ibiza — Fri, 12 Jun 2026
 - BCM, Mallorca — Sat, 6 Jun 2026
-- Costa Da Caparica, Lisbon — Fri, 29 May 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Barry Can't Swim, salute
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

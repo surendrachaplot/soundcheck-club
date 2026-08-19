@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Metalheadz Blue Note Sessions (Birmingham)" on Fri, 28 Aug 2026.
+Hare & Hounds is a music venue in Birmingham with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Metalheadz Blue Note Sessions (Birmingham)" on Fri, 28 Aug 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming nights, with line-ups including Doc Scott, Goldie, Greg Wilson and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -22,4 +22,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming ni
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

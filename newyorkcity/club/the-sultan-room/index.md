@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Makeout City, Dead Love Triangle, Dayfiction, Artschool" on Tue, 18 Aug 2026.
+The Sultan Room is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "CASA TULUM - A Tulum Inspired House Music Party" on Fri, 21 Aug 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Bandolover, Gardy Girault, grunge mum and LABNON and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Bandolover, Gardy Girault, grunge mum and LABNON and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Makeout City, Dead Love Triangle, Dayfiction, Artschool |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Sat, 22 Aug 2026 | Afrobeat Nights NYC |  |
@@ -23,4 +22,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

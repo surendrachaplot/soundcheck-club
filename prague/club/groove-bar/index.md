@@ -1,6 +1,6 @@
 # Groove Bar
 
-Groove Bar is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Vanko" on Thu, 20 Aug 2026.
+Groove Bar is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Vanko" on Thu, 20 Aug 2026.
 
 Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including dMIT.RY, mitt and Solyr. Browse upcoming dates, start times and who's playing. Voršilská 6, Praha 1 / 110 00.
 
@@ -16,4 +16,4 @@ Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming nights, w
 
 Voršilská 6, Praha 1 / 110 00, Prague
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/groove-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/groove-bar/)*

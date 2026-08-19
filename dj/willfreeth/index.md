@@ -1,6 +1,6 @@
 # Will Freeth
 
-Will Freeth is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Will Freeth is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Will Freeth is a house and techno artist based in Australia, tracked on soundcheck, with 11 sets logged across Sydney. Often billed alongside Mozz, Caleb Jackson and DAUG. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Will Freeth is a house and techno artist based in Australia, tracked on soundche
 
 Mozz, Caleb Jackson, DAUG
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*

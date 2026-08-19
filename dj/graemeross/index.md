@@ -1,6 +1,6 @@
 # Graeme Ross
 
-Graeme Ross is a Dub and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Elmhurst, London on Sun, 30 Aug 2026.
+Graeme Ross is a Dub and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Elmhurst, London on Sun, 30 Aug 2026.
 
 Graeme Ross is a dub and disco artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside Neil Thornton, Chris Coco and Cosmic Bob. Next up: The Elmhurst, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Graeme Ross is a dub and disco artist tracked on soundcheck, with 19 sets logged
 
 Neil Thornton, Chris Coco, Cosmic Bob
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graemeross/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graemeross/)*

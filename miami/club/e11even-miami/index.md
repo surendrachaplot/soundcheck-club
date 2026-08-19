@@ -1,6 +1,6 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 42 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DJ Obscene at E11EVEN" on Tue, 18 Aug 2026.
+E11EVEN MIAMI is a music venue in Miami with 42 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DJ Obscene at E11EVEN" on Tue, 18 Aug 2026.
 
 E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 42 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
@@ -23,4 +23,4 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 42 upcoming nights
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

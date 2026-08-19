@@ -1,6 +1,6 @@
 # VOID/DIVO
 
-VOID/DIVO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
+VOID/DIVO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 VOID/DIVO is a techno and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Madrid and Paris. Often billed alongside Jhort, ALEKSANDRE and servei. Next up: Village Underground Barcelona, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ VOID/DIVO is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 Jhort, ALEKSANDRE, servei
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voiddivo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voiddivo/)*

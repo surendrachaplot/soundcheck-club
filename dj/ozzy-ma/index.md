@@ -1,6 +1,6 @@
 # ØZZY
 
-ØZZY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
+ØZZY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
 
 ØZZY is a techno and hardcore artist based in Malta, tracked on soundcheck, with 12 sets logged across Malta. Often billed alongside Echofaze, Reactant and Gabbu. Next up: Liquid Club, Malta on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 Echofaze, Reactant, Gabbu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzy-ma/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzy-ma/)*

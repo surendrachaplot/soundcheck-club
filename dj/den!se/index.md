@@ -1,6 +1,6 @@
 # DEN!SE
 
-DEN!SE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+DEN!SE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 DEN!SE is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Solvados, BRT.C and Jasmin Giovanazzi. Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DEN!SE is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Solvados, BRT.C, Jasmin Giovanazzi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/den!se/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/den!se/)*

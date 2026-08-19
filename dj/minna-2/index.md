@@ -1,14 +1,13 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
+MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: 528 Ibiza, Ibiza on Tue 18 Aug.
+MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Mon, 14 Sept 2026 | Sub Club | Glasgow |
@@ -20,6 +19,7 @@ MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged ac
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Tue, 18 Aug 2026
 - LN-CC, London — Thu, 6 Aug 2026
 - Cova Santa, Ibiza — Tue, 14 Jul 2026
 - Jumbi, London — Sat, 11 Jul 2026
@@ -27,10 +27,9 @@ MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged ac
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Thu, 18 Jun 2026
-- Sama, Tbilisi — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Kirollus, Dan Shake, Melvo Baptiste
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

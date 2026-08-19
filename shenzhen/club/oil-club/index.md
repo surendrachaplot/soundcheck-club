@@ -1,8 +1,8 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 17 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Couch Co-Op 七夕 Sepcial：我的伴侣就是你之不一定幸运签" on Wed, 19 Aug 2026.
+OIL Club is a music venue in Shenzhen with 21 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Couch Co-Op 七夕 Sepcial：我的伴侣就是你之不一定幸运签" on Wed, 19 Aug 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 17 upcoming nights, with line-ups including Anita B Queen, Beibeilon, Biting Eye and Butterfly (2) and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 21 upcoming nights, with line-ups including ADRIANNA, Alex Banks, Anita B Queen and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
@@ -16,11 +16,11 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 17 upcoming nights, 
 | Thu, 27 Aug 2026 | Dissolve The Ego Pres: Nikos | o0 (1) |
 | Fri, 28 Aug 2026 | 闪耀星BlazingStars Pres. otakotak 2026中国巡演 | Butterfly (2), Flower Boy, Replica.mp3, hatemebaby |
 | Sat, 29 Aug 2026 | OIL Pres. D-Leria (Modular Live) | D-Leria, NEBULAE, Sirens, o0 (1), piro |
+| Sun, 30 Aug 2026 | 新面孔 xīn miàn kǒng Vol.48 |  |
 | Fri, 4 Sept 2026 | PAiN 2st Ann. Pres. 蛇精病发作中 Kinara & Soup snakeS | Butterfly (2), Manson, Replica.mp3, Soup snakeS |
-| Fri, 4 Sept 2026 | SYNTONY |  |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

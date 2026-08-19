@@ -1,6 +1,6 @@
 # Vadim Khan
 
-Vadim Khan is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
+Vadim Khan is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
 
 Vadim Khan is a techno and acid artist based in Canada, tracked on soundcheck, with 35 sets logged across Miami and Toronto. Often billed alongside Measure Divide, Darkova and AADJA. Next up: Motorista Studio, Toronto on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Vadim Khan is a techno and acid artist based in Canada, tracked on soundcheck, w
 
 Measure Divide, Darkova, AADJA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimkhan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimkhan/)*

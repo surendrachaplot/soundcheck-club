@@ -1,6 +1,6 @@
 # Sabina Palma
 
-Sabina Palma is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Oriente, Mexico City on Wed, 19 Aug 2026.
+Sabina Palma is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Oriente, Mexico City on Wed, 19 Aug 2026.
 
 Sabina Palma is a techno and electronica artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Botelo, Deenia and MORVIUS. Next up: Bar Oriente, Mexicocity on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Sabina Palma is a techno and electronica artist based in Mexico, tracked on soun
 
 Botelo, Deenia, MORVIUS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*

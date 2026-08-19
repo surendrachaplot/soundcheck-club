@@ -1,6 +1,6 @@
 # nish.
 
-nish. is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+nish. is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 nish. is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Newyorkcity. Often billed alongside BL SUEDE, Mana Moves and Andy Oro. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ nish. is a house and ghetto tech artist based in United States of America, track
 
 BL SUEDE, Mana Moves, Andy Oro
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*

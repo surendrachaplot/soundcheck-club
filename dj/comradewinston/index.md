@@ -1,6 +1,6 @@
 # Comrade Winston
 
-Comrade Winston is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+Comrade Winston is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
 Comrade Winston is a techno and house artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Dublin and Madrid and 7 more. Often billed alongside Rosati, Beau Didier and Blasha & Allatt. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Comrade Winston is a techno and house artist based in Netherlands, tracked on so
 
 Rosati, Beau Didier, Blasha & Allatt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*

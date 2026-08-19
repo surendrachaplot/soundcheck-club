@@ -1,6 +1,6 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 28 Aug 2026.
+Ape Drums is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Ape Drums is an afro house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside Andrea Oliva, Diplo and Francis Mercier. Next up: Chinois Ibiza, Ibiza on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ape Drums is an afro house and house artist tracked on soundcheck, with 37 sets 
 
 Andrea Oliva, Diplo, Francis Mercier
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

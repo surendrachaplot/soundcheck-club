@@ -1,6 +1,6 @@
 # Paduan
 
-Paduan is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
+Paduan is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
 
 Paduan is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Barcelona. Often billed alongside .VRIL, Artefakt and Barker. Next up: TBA - Pratdip (Tarragona, Spain), Barcelona on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Paduan is a techno and ambient artist based in Netherlands, tracked on soundchec
 
 .VRIL, Artefakt, Barker
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paduan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paduan/)*

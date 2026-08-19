@@ -1,6 +1,6 @@
 # Tchami
 
-Tchami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
+Tchami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Tchami is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Boston and Chicago and 23 more. Often billed alongside AC Slater, David Guetta and Wax Motif. Next up: Ushuaïa Ibiza, Ibiza on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Tchami is a house and tech house artist tracked on soundcheck, with 55 sets logg
 
 AC Slater, David Guetta, Wax Motif
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*

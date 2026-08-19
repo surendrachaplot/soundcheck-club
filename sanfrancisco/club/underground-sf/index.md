@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Shelter SF DNB - Loud Time / Audio1 / Kinetik / Shadow Spirit / Shibumi" on Thu, 20 Aug 2026.
+Underground SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Shelter SF DNB - Loud Time / Audio1 / Kinetik / Shadow Spirit / Shibumi" on Thu, 20 Aug 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including DJ JUANNY, ALICE STRIBLING, Beverly Chills and Digital KitKat and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -22,4 +22,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

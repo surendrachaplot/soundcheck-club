@@ -1,6 +1,6 @@
 # Trevor Fung
 
-Trevor Fung is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at HENGE Brixton, London on Wed, 19 Aug 2026.
+Trevor Fung is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HENGE Brixton, London on Wed, 19 Aug 2026.
 
 Trevor Fung is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Alex Savvides, DJ Ron and Grooverider. Next up: HENGE Brixton, London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Trevor Fung is a house and balearic artist based in United Kingdom, tracked on s
 
 Alex Savvides, DJ Ron, Grooverider
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorfung/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorfung/)*

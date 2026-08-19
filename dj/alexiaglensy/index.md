@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Radio Radio, Amsterdam on Fri, 21 Aug 2026.
+Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Radio Radio, Amsterdam on Fri, 21 Aug 2026.
 
 Alexia Glensy is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Radio Radio, Amsterdam on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 163 sets 
 
 Alex Dima, Gabbs, Christian AB
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

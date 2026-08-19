@@ -1,6 +1,6 @@
 # Machinedrum
 
-Machinedrum is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FS., Tokyo on Fri, 28 Aug 2026.
+Machinedrum is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FS., Tokyo on Fri, 28 Aug 2026.
 
 Machinedrum is a house and bass artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Bianca Oblivion, Barclay Crenshaw and Breaka. Next up: FS., Tokyo on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Machinedrum is a house and bass artist based in United States of America, tracke
 
 Bianca Oblivion, Barclay Crenshaw, Breaka
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*

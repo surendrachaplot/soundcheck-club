@@ -1,6 +1,6 @@
 # I·AMME
 
-I·AMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bloop., London on Wed, 19 Aug 2026.
+I·AMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bloop., London on Wed, 19 Aug 2026.
 
 I·AMME is a club and techno artist tracked on soundcheck, with 5 sets logged across Barcelona and London. Often billed alongside Casteh, Crisalide and Nulse. Next up: Bloop., London on Wed 19 Aug.
 
@@ -21,4 +21,4 @@ I·AMME is a club and techno artist tracked on soundcheck, with 5 sets logged ac
 
 Casteh, Crisalide, Nulse
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i·amme/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i·amme/)*

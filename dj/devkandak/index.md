@@ -1,6 +1,6 @@
 # Dev Kandak
 
-Dev Kandak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
+Dev Kandak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
 
 Dev Kandak is a techno and trance artist tracked on soundcheck, with 17 sets logged across Belfast, Edinburgh and Glasgow. Often billed alongside DÉTOLLY, Brad Herbert and CLEAR UK. Next up: The Berkeley Suite, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Dev Kandak is a techno and trance artist tracked on soundcheck, with 17 sets log
 
 DÉTOLLY, Brad Herbert, CLEAR UK
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devkandak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devkandak/)*

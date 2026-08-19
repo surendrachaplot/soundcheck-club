@@ -1,6 +1,6 @@
 # Subtrax
 
-Subtrax is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
+Subtrax is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
 
 Subtrax is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Faster Horses, A.N.I. and ACA (YU). Next up: The Telegraph Building, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Subtrax is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Faster Horses, A.N.I., ACA (YU)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subtrax/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subtrax/)*

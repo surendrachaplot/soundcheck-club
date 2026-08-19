@@ -1,6 +1,6 @@
 # Stimulation
 
-Stimulation is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Oriente, Mexico City on Thu, 20 Aug 2026.
+Stimulation is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Oriente, Mexico City on Thu, 20 Aug 2026.
 
 Stimulation is a house and tech house artist tracked on soundcheck, with 9 sets logged across Bali, Mexicocity, Paris and Prague. Often billed alongside Buket, Deep Mind Direction and Juliana Yamasaki. Next up: Bar Oriente, Mexicocity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Stimulation is a house and tech house artist tracked on soundcheck, with 9 sets 
 
 Buket, Deep Mind Direction, Juliana Yamasaki
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulation/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulation/)*

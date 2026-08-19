@@ -1,14 +1,14 @@
 # Triad (Es)
 
-Triad (Es) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Studio Stereo, Barcelona on Fri, 21 Aug 2026.
+Triad (Es) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 21 Aug 2026.
 
-Triad (Es) is a house and minimal artist tracked on soundcheck, with 22 sets logged across Barcelona and Milan. Often billed alongside Marcelo Cura, Bttologic and Will Deluxe. Next up: Studio Stereo, Barcelona on Fri 21 Aug.
+Triad (Es) is a house and minimal artist tracked on soundcheck, with 22 sets logged across Barcelona and Milan. Often billed alongside Marcelo Cura, Bttologic and Will Deluxe. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Studio Stereo | Barcelona |
+| Fri, 21 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Triad (Es) is a house and minimal artist tracked on soundcheck, with 22 sets log
 
 Marcelo Cura, Bttologic, Will Deluxe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*

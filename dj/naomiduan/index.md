@@ -1,6 +1,6 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
+Naomi Duan is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
 
 Naomi Duan is a techno and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: The Chocolate Factory, Newyorkcity on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Naomi Duan is a techno and electronica artist based in United States of America,
 
 1morning, Alex Stein, Daybreak
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*

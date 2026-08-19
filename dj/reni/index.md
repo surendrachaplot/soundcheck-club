@@ -1,8 +1,8 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
+re:ni is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
 
-re:ni is a techno and bass artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 42 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
+re:ni is a techno and bass artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 42 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ re:ni is a techno and bass artist tracked on soundcheck, with 145 sets logged ac
 | Fri, 18 Sept 2026 | Badaboum | Paris |
 | Sat, 19 Sept 2026 | Badaboum | Paris |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 
 ## Recently played
@@ -29,4 +30,4 @@ re:ni is a techno and bass artist tracked on soundcheck, with 145 sets logged ac
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

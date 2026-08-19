@@ -1,6 +1,6 @@
 # 96zen
 
-96zen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
+96zen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
 
 96zen is a trance and techno artist based in Hungary, tracked on soundcheck, with 17 sets logged across Budapest. Often billed alongside CRIME, Valenthin and Paralich. Next up: Atno, Budapest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@
 
 CRIME, Valenthin, Paralich
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*

@@ -1,6 +1,6 @@
 # Jus Now
 
-Jus Now is a Dancehall and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Limin Southbank, London on Sun, 23 Aug 2026.
+Jus Now is a Dancehall and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Limin Southbank, London on Sun, 23 Aug 2026.
 
 Jus Now is a dancehall and afrobeats artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Jamz Supernova and Yazmin Lacey. Next up: Limin Southbank, London on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ Jus Now is a dancehall and afrobeats artist based in United Kingdom, tracked on 
 
 Jamz Supernova, Yazmin Lacey
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jusnow/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jusnow/)*

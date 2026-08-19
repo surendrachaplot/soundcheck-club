@@ -1,14 +1,15 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Kerrie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
-Kerrie is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: The Glove That Fits, London on Sat 22 Aug.
+Kerrie is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: The Glove That Fits, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Glove That Fits | London |
+| Fri, 11 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 9 Oct 2026 | The Legion | Manchester |
 
@@ -27,4 +28,4 @@ Kerrie is a techno and house artist tracked on soundcheck, with 125 sets logged 
 
 Mareena, Sunil Sharpe, DJ Bone
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

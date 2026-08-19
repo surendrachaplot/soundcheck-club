@@ -1,6 +1,6 @@
 # MIIIA
 
-MIIIA is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
+MIIIA is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
 
 MIIIA is an experimental and techno artist based in China, tracked on soundcheck, with 6 sets logged across Vancouver. Often billed alongside 8ULENTINA, Embaci and Melt (CA). Next up: SFU Goldcorp Centre for the Arts, Vancouver on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ MIIIA is an experimental and techno artist based in China, tracked on soundcheck
 
 8ULENTINA, Embaci, Melt (CA)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miiia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miiia/)*

@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Bushbaby is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
-Bushbaby is a garage and house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), Chris Stussy and Conducta. Next up: DC-10, Ibiza on Mon 24 Aug.
+Bushbaby is a garage and house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), Chris Stassy and Conducta. Next up: DC-10, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Bushbaby is a garage and house artist tracked on soundcheck, with 87 sets logged
 
 ## Shares bills with
 
-MPH (1), Chris Stussy, Conducta
+MPH (1), Chris Stassy, Conducta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

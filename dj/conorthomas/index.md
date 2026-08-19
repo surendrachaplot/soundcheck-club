@@ -1,6 +1,6 @@
 # Conor Thomas
 
-Conor Thomas is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
+Conor Thomas is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
 
 Conor Thomas is an ebm and club artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Bristol, Glasgow and London and 2 more. Often billed alongside Faux Naif, Annabel Fraser and Anna Gray. Next up: The White Hotel, Manchester on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Conor Thomas is an ebm and club artist based in United Kingdom, tracked on sound
 
 Faux Naif, Annabel Fraser, Anna Gray
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*

@@ -1,6 +1,6 @@
 # Rozzer
 
-Rozzer is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at LFO.exp, Madrid on Fri, 11 Sept 2026.
+Rozzer is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at LFO.exp, Madrid on Fri, 11 Sept 2026.
 
 Rozzer is an electronica and experimental artist based in Spain, tracked on soundcheck, with 15 sets logged across London and Madrid. Often billed alongside Facs, Rubén Secaduras and TOM CHIESA. Next up: LFO.exp, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Rozzer is an electronica and experimental artist based in Spain, tracked on soun
 
 Facs, Rubén Secaduras, TOM CHIESA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozzer/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozzer/)*

@@ -1,6 +1,6 @@
 # Suzana Benesova
 
-Suzana Benesova is a Ambient and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Wagenhallen, Stuttgart on Sat, 19 Sept 2026.
+Suzana Benesova is a Ambient and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wagenhallen, Stuttgart on Sat, 19 Sept 2026.
 
 Suzana Benesova is an ambient and idm artist tracked on soundcheck, with 3 sets logged across Amsterdam, Berlin and Stuttgart. Often billed alongside Andriy K., BLUME and Cobahn. Next up: Wagenhallen, Stuttgart on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Suzana Benesova is an ambient and idm artist tracked on soundcheck, with 3 sets 
 
 Andriy K., BLUME, Cobahn
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanabenesova/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanabenesova/)*

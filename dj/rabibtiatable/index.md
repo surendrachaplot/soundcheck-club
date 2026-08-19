@@ -1,6 +1,6 @@
 # Rabibti áTable
 
-Rabibti áTable is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Salöön (Säälchen/Holzmarkt 25), Berlin on Thu, 20 Aug 2026.
+Rabibti áTable is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Salöön (Säälchen/Holzmarkt 25), Berlin on Thu, 20 Aug 2026.
 
 Rabibti áTable is a disco and techno artist tracked on soundcheck, with 12 sets logged across Berlin and Prague. Often billed alongside saHHar, Meriem S and MUNSEF. Next up: Salöön (Säälchen/Holzmarkt 25), Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Rabibti áTable is a disco and techno artist tracked on soundcheck, with 12 sets
 
 saHHar, Meriem S, MUNSEF
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*

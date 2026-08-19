@@ -1,6 +1,6 @@
 # Katie Pearson
 
-Katie Pearson is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 4 Sept 2026.
+Katie Pearson is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 4 Sept 2026.
 
 Katie Pearson is a house and club artist based in Australia, tracked on soundcheck, with 27 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Millú, Naycab and Activator (AU). Next up: Collingwood Basement, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Katie Pearson is a house and club artist based in Australia, tracked on soundche
 
 Millú, Naycab, Activator (AU)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*

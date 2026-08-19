@@ -1,6 +1,6 @@
 # Don Cabron
 
-Don Cabron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jardin Hospice, Brussels on Sat, 31 Oct 2026.
+Don Cabron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jardin Hospice, Brussels on Sat, 31 Oct 2026.
 
 Don Cabron is a house and techno artist based in Belgium, tracked on soundcheck, with 14 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Jaxter, GALAGO (BE) and Belben. Next up: Jardin Hospice, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Don Cabron is a house and techno artist based in Belgium, tracked on soundcheck,
 
 Jaxter, GALAGO (BE), Belben
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doncabron/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doncabron/)*

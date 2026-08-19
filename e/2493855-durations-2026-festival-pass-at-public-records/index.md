@@ -1,6 +1,6 @@
 # DURATIONS 2026 Festival Pass at public records
 
-DURATIONS 2026 Festival Pass at public records on Mon 9 Nov, Newyorkcity. 9 acts on the bill: Decoder, Eiko Ishibashi, Ghost Dubs and K Wata and 5 more. Experimental. Preview the line-up and save it on soundcheck.
+DURATIONS 2026 Festival Pass at public records on Mon 9 Nov, Newyorkcity. 31 acts on the bill: Abby Echiverri, Afrikan Sciences, Ayanna Heaven and Buttechno and 27 more. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,14 +10,36 @@ DURATIONS 2026 Festival Pass at public records on Mon 9 Nov, Newyorkcity. 9 acts
 
 ## Line-up
 
+- Abby Echiverri
+- Afrikan Sciences
+- Ayanna Heaven
+- Buttechno
+- Chantal Michelle
+- Claudio PRC
+- Courtney Bailey
+- Dasha Rush
 - Decoder
+- DJ Sprinkles
+- Eden Aurelius
 - Eiko Ishibashi
+- Francis Harris
 - Ghost Dubs
+- Human Space Machine
+- Innersha
+- JJJJJerome Ellis
 - K Wata
+- Kara-Lis Coverdale
 - Klein
 - LEYA
+- Matana Roberts
+- Molina
+- MORENXXX
+- Naone
+- Russell E.L. Butler
+- Significant Other
 - Suzanne Ciani
 - Terre Thaemlitz
+- William Basinski
 - Yu Su
 
 *Source: [soundcheck](https://soundcheck.club/e/2493855-durations-2026-festival-pass-at-public-records/)*

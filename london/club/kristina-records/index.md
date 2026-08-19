@@ -1,6 +1,6 @@
 # Kristina Records
 
-Kristina Records is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Mastering Black - X - Release Event" on Fri, 21 Aug 2026.
+Kristina Records is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Mastering Black - X - Release Event" on Fri, 21 Aug 2026.
 
 Kristina Records is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Mastering Black. Browse upcoming dates, start times and who's playing. 194 Well Street, E9 6QT London, United Kingdom.
 
@@ -14,4 +14,4 @@ Kristina Records is a music venue in London listed on soundcheck. 1 upcoming nig
 
 194 Well Street, E9 6QT London, United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kristina-records/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kristina-records/)*

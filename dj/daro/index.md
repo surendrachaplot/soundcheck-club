@@ -1,6 +1,6 @@
 # Daro
 
-Daro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Luzztro, Warsaw on Fri, 21 Aug 2026.
+Daro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Luzztro, Warsaw on Fri, 21 Aug 2026.
 
 Daro is a techno and trance artist based in Poland, tracked on soundcheck, with 11 sets logged across Frankfurt and Warsaw. Often billed alongside Mabu, HANICZ and KoZa. Next up: Luzztro, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Daro is a techno and trance artist based in Poland, tracked on soundcheck, with 
 
 Mabu, HANICZ, KoZa
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*

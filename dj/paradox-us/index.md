@@ -1,6 +1,6 @@
 # Paradøx
 
-Paradøx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+Paradøx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 Paradøx is a techno and industrial artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Purdy, Firebunny and Dark Attraction. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Paradøx is a techno and industrial artist tracked on soundcheck, with 21 sets l
 
 Purdy, Firebunny, Dark Attraction
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox-us/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox-us/)*

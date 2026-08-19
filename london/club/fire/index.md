@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Beyond" on Sat, 22 Aug 2026.
+Fire is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Beyond" on Sat, 22 Aug 2026.
 
 Fire is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including DJ Will and Raul Botella. Browse upcoming dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -21,4 +21,4 @@ Fire is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

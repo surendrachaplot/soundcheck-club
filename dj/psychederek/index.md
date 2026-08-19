@@ -1,6 +1,6 @@
 # Psychederek
 
-Psychederek is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 27 Aug 2026.
+Psychederek is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 27 Aug 2026.
 
 Psychederek is a house and acid artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Liverpool and Manchester. Often billed alongside Chris Massey, Bobby Thorpe and Aural-B. Next up: Eastern Bloc Records, Manchester on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Psychederek is a house and acid artist based in United Kingdom, tracked on sound
 
 Chris Massey, Bobby Thorpe, Aural-B
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psychederek/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psychederek/)*

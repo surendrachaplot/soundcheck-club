@@ -1,6 +1,6 @@
 # The Drake Hotel
 
-The Drake Hotel is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Funkbox Toronto (Official After Party)" on Sat, 22 Aug 2026.
+The Drake Hotel is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Funkbox Toronto (Official After Party)" on Sat, 22 Aug 2026.
 
 The Drake Hotel is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Anaïs, Elozyz, Iced Misto and SZETO and 1 more. Browse upcoming dates, start times and who's playing. 1150 Queen Street West; Toronto, ON M6J 1J3; Canada.
 
@@ -16,4 +16,4 @@ The Drake Hotel is a music venue in Toronto listed on soundcheck. 3 upcoming nig
 
 1150 Queen Street West; Toronto, ON M6J 1J3; Canada, Toronto
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*

@@ -1,6 +1,6 @@
 # Jiggy Boyz
 
-Jiggy Boyz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 19 Aug 2026.
+Jiggy Boyz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 19 Aug 2026.
 
 Jiggy Boyz is a techno and house artist based in United States of America, tracked on soundcheck, with 1 set logged across Losangeles. Often billed alongside Mesmé and Orlando Voorn. Next up: Jungle Hollywood, Losangeles on Wed 19 Aug.
 
@@ -14,4 +14,4 @@ Jiggy Boyz is a techno and house artist based in United States of America, track
 
 Mesmé, Orlando Voorn
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggyboyz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggyboyz/)*

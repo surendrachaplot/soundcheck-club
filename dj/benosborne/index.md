@@ -1,6 +1,6 @@
 # Ben Osborne
 
-Ben Osborne is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Wood Street Bear, London on Sat, 15 Aug 2026.
+Ben Osborne is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wood Street Bear, London on Sat, 15 Aug 2026.
 
 Ben Osborne is a disco and deep house artist tracked on soundcheck, with 45 sets logged across London. Often billed alongside Neil Thornton, Bobby Bucys and Aswad. Next up: Wood Street Bear, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ben Osborne is a disco and deep house artist tracked on soundcheck, with 45 sets
 
 Neil Thornton, Bobby Bucys, Aswad
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benosborne/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benosborne/)*

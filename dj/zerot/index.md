@@ -1,14 +1,15 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Zero T is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-Zero T is a drum & bass and jungle artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: The Cause, London on Sat 22 Aug.
+Zero T is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
+| Sat, 29 Aug 2026 | Concorde 2 | Brighton |
 | Sat, 17 Oct 2026 | Wigwam | Dublin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Zero T is a drum & bass and jungle artist tracked on soundcheck, with 69 sets lo
 
 Lenzman, MC Fox, Fabio
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*

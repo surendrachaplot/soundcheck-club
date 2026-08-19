@@ -1,6 +1,6 @@
 # Revír Karlín
 
-Revír Karlín is a music venue in Prague with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "• Tomas Zolan •" on Thu, 20 Aug 2026.
+Revír Karlín is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "• Tomas Zolan •" on Thu, 20 Aug 2026.
 
 Revír Karlín is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Tomas Zolan. Browse upcoming dates, start times and who's playing. Karolinská 7, Praha 8, Karlín.
 
@@ -14,4 +14,4 @@ Revír Karlín is a music venue in Prague listed on soundcheck. 1 upcoming night
 
 Karolinská 7, Praha 8, Karlín, Prague
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/rev-r-karl-n/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/rev-r-karl-n/)*

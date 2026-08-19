@@ -1,11 +1,18 @@
 # Mood Ring 9th Anniversary ~ Day Two at Mood Ring
 
-Mood Ring 9th Anniversary ~ Day Two on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Mood Ring 9th Anniversary ~ Day Two on Sat 26 Sept, Newyorkcity. 4 acts on the bill: Alejandra Sabillón, bossy boots, DJ Erewhon and MUSCLECARS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 26 Sept 2026 |
 | Venue | Mood Ring |
 | City | New York City |
+
+## Line-up
+
+- Alejandra Sabillón
+- bossy boots
+- DJ Erewhon
+- MUSCLECARS
 
 *Source: [soundcheck](https://soundcheck.club/e/2474549-mood-ring-9th-anniversary-day-two-at-mood-ring/)*

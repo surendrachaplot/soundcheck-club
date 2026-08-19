@@ -1,13 +1,14 @@
 # Dj Clark Gabble
 
-Dj Clark Gabble is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
+Dj Clark Gabble is a Amapiano and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
-Dj Clark Gabble is an amapiano and afro house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside By Dusk, Underground Tribe and Sho Gabi. Next up: HWK, London on Sat 12 Sept.
+Dj Clark Gabble is an amapiano and baile funk artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside By Dusk, Underground Tribe and Sho Gabi. Next up: Bread and Butter, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Bread and Butter | London |
 | Sat, 12 Sept 2026 | HWK | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dj Clark Gabble is an amapiano and afro house artist tracked on soundcheck, with
 
 By Dusk, Underground Tribe, Sho Gabi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclarkgabble/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclarkgabble/)*

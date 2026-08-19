@@ -1,6 +1,6 @@
 # Chris Di Perri
 
-Chris Di Perri is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Madam, Amsterdam on Fri, 18 Sept 2026.
+Chris Di Perri is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Madam, Amsterdam on Fri, 18 Sept 2026.
 
 Chris Di Perri is a tech house and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Melanie Ribbe, Domenic D'Agnelli and Matthias Tanzmann. Next up: Madam, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Chris Di Perri is a tech house and house artist based in Germany, tracked on sou
 
 Melanie Ribbe, Domenic D'Agnelli, Matthias Tanzmann
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*

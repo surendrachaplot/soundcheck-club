@@ -1,6 +1,6 @@
 # Harold
 
-Harold is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Harold is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Harold is a techno and idm artist based in Australia, tracked on soundcheck, with 29 sets logged across Amsterdam, Hobart, London and Melbourne and 2 more. Often billed alongside Tangerine, Emelyne and Hylke. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Harold is a techno and idm artist based in Australia, tracked on soundcheck, wit
 
 Tangerine, Emelyne, Hylke
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*

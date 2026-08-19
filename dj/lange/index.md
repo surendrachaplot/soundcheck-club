@@ -1,6 +1,6 @@
 # Lange
 
-Lange is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
+Lange is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
 
 Lange is a trance and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Aberdeen, Birmingham, Budapest and Ibiza and 7 more. Often billed alongside Rob Tissera, Dave Pearce and Dale Castell. Next up: Network, Sheffield on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Lange is a trance and house artist based in United Kingdom, tracked on soundchec
 
 Rob Tissera, Dave Pearce, Dale Castell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*

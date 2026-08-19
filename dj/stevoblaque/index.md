@@ -1,6 +1,6 @@
 # Stevo Blaque
 
-Stevo Blaque is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mood Ring, New York City on Sat, 22 Aug 2026.
+Stevo Blaque is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mood Ring, New York City on Sat, 22 Aug 2026.
 
 Stevo Blaque is a house and club artist tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Djavan Guy, Jaséda Galore and Sade James. Next up: Mood Ring, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Stevo Blaque is a house and club artist tracked on soundcheck, with 17 sets logg
 
 Djavan Guy, Jaséda Galore, Sade James
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*

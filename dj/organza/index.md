@@ -1,8 +1,8 @@
 # Organza
 
-Organza is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Organza is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
-Organza is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside elliephunk, materia hache and Kidcat. Next up: Kater, Berlin on Fri 28 Aug.
+Organza is a house and techno artist tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside elliephunk, materia hache and Kidcat. Next up: Kater, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Organza is a house and techno artist tracked on soundcheck, with 38 sets logged 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
+| Sat, 12 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Organza is a house and techno artist tracked on soundcheck, with 38 sets logged 
 
 elliephunk, materia hache, Kidcat
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*

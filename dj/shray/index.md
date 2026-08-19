@@ -1,6 +1,6 @@
 # SHRAY
 
-SHRAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+SHRAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 SHRAY is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity and Tokyo. Often billed alongside ceviché, Sam Valle and dj mangovape. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ SHRAY is a techno and house artist based in United States of America, tracked on
 
 ceviché, Sam Valle, dj mangovape
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shray/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shray/)*

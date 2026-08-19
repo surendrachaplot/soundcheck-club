@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz" on Fri, 21 Aug 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz" on Fri, 21 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Alex Xandra, Andriiic, Anton Quasi and audite and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

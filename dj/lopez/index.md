@@ -1,6 +1,6 @@
 # López
 
-López is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - DOSROMBOS, Barcelona on Sat, 14 Nov 2026.
+López is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - DOSROMBOS, Barcelona on Sat, 14 Nov 2026.
 
 López is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Barcelona. Next up: TBA - DOSROMBOS, Barcelona on Sat 14 Nov.
 
@@ -10,4 +10,4 @@ López is an electronic artist based in United Kingdom, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - DOSROMBOS | Barcelona |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lopez/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lopez/)*

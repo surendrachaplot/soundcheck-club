@@ -1,6 +1,6 @@
 # The Smoot Standard
 
-The Smoot Standard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Beantown house music event" on Fri, 21 Aug 2026.
+The Smoot Standard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Beantown house music event" on Fri, 21 Aug 2026.
 
 The Smoot Standard is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including DJ Yee. Browse upcoming dates, start times and who's playing. 313 Massachusetts Ave, Cambridge, MA 02139, USA.
 
@@ -16,4 +16,4 @@ The Smoot Standard is a music venue in Boston listed on soundcheck. 3 upcoming n
 
 313 Massachusetts Ave, Cambridge, MA 02139, USA, Boston
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*

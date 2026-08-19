@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "LETS PLAY ON THURSDAY" on Thu, 20 Aug 2026.
+Veronica Schip is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "LETS PLAY ON THURSDAY" on Thu, 20 Aug 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including ArioVistus, Baliology, Belocca and Danny Howells and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -19,4 +19,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming ni
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

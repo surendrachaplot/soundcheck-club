@@ -1,6 +1,6 @@
 # Agustina Aliaga
 
-Agustina Aliaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Music Club Pulse 22, Prague on Fri, 4 Sept 2026.
+Agustina Aliaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Music Club Pulse 22, Prague on Fri, 4 Sept 2026.
 
 Agustina Aliaga is a techno and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 2 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: Music Club Pulse 22, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Agustina Aliaga is a techno and electronica artist based in Spain, tracked on so
 
 HNKS, Julieta Wins, Lautaro Ibañez
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*

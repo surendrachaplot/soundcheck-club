@@ -1,6 +1,6 @@
 # Soulastico
 
-Soulastico is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
+Soulastico is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
 Soulastico is a house and disco artist based in Belgium, tracked on soundcheck, with 24 sets logged across Antwerp, Barcelona, Brussels and Ghent and 2 more. Often billed alongside Bibi Seck, Geheimzinnig Soundsystem and John Noseda. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Soulastico is a house and disco artist based in Belgium, tracked on soundcheck, 
 
 Bibi Seck, Geheimzinnig Soundsystem, John Noseda
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulastico/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulastico/)*

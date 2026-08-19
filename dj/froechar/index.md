@@ -1,6 +1,6 @@
 # Froe Char
 
-Froe Char is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
+Froe Char is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
 
 Froe Char is an ebm and techno artist tracked on soundcheck, with 5 sets logged across Brussels and Paris. Often billed alongside Ottoman Grüw, 2+2=5 and Age of Hate. Next up: Madame Moustache, Brussels on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Froe Char is an ebm and techno artist tracked on soundcheck, with 5 sets logged 
 
 Ottoman Grüw, 2+2=5, Age of Hate
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/froechar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/froechar/)*

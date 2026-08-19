@@ -1,6 +1,6 @@
 # Sofia Ilyas
 
-Sofia Ilyas is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
+Sofia Ilyas is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
 
 Sofia Ilyas is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Christian Löffler, Jaguar and Meredi. Next up: The Cause, London on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ Sofia Ilyas is a techno and deep house artist based in United Kingdom, tracked o
 
 Christian Löffler, Jaguar, Meredi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiailyas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiailyas/)*

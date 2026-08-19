@@ -1,6 +1,6 @@
 # Lucas Boston
 
-Lucas Boston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
+Lucas Boston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
 
 Lucas Boston is a techno and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin, Brisbane, Glasgow and Madrid and 4 more. Often billed alongside Brent Honey, Chlär and DINA. Next up: UNSW Roundhouse, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lucas Boston is a techno and house artist based in Australia, tracked on soundch
 
 Brent Honey, Chlär, DINA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*

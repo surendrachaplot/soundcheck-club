@@ -1,6 +1,6 @@
 # Elvin Brandhi
 
-Elvin Brandhi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Elvin Brandhi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Elvin Brandhi is an experimental and electronica artist tracked on soundcheck, with 22 sets logged across Barcelona, Belfast, Berlin and Bristol and 11 more. Often billed alongside KMRU, Heith and Kenichi Iwasa. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Elvin Brandhi is an experimental and electronica artist tracked on soundcheck, w
 
 KMRU, Heith, Kenichi Iwasa
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvinbrandhi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvinbrandhi/)*

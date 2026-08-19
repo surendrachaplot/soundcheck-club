@@ -1,6 +1,6 @@
 # Andy Luff
 
-Andy Luff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Radio Radio, Amsterdam on Fri, 21 Aug 2026.
+Andy Luff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Radio Radio, Amsterdam on Fri, 21 Aug 2026.
 
 Andy Luff is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Jos, Tadeusz and Loa Szala. Next up: Radio Radio, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Andy Luff is a house and techno artist tracked on soundcheck, with 111 sets logg
 
 Jos, Tadeusz, Loa Szala
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*

@@ -1,6 +1,6 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sub Club, Glasgow on Fri, 28 Aug 2026.
+Laure Croft is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sub Club, Glasgow on Fri, 28 Aug 2026.
 
 Laure Croft is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Sub Club, Glasgow on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 182 sets lo
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

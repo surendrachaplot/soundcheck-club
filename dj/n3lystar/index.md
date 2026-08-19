@@ -1,6 +1,6 @@
 # N3LYSTAR
 
-N3LYSTAR is a Baile Funk and Afro House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
+N3LYSTAR is a Baile Funk and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
 
 N3LYSTAR is a baile funk and afro house artist based in Brazil, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Brussels and Dublin and 4 more. Often billed alongside SILVASURFER, auto_timer and GUS (4). Next up: Marmorbar, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ N3LYSTAR is a baile funk and afro house artist based in Brazil, tracked on sound
 
 SILVASURFER, auto_timer, GUS (4)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n3lystar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n3lystar/)*

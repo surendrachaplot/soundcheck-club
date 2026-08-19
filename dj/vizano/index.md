@@ -1,6 +1,6 @@
 # VIZANO
 
-VIZANO is a Deep House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Secret Location, London on Sat, 10 Oct 2026.
+VIZANO is a Deep House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Secret Location, London on Sat, 10 Oct 2026.
 
 VIZANO is a deep house and afro tech artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Kakura, N1NJA and ShiShi. Next up: Secret Location, London on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ VIZANO is a deep house and afro tech artist tracked on soundcheck, with 2 sets l
 
 Kakura, N1NJA, ShiShi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*

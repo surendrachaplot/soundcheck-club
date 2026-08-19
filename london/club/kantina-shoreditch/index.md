@@ -1,6 +1,6 @@
 # Kantina Shoreditch
 
-Kantina Shoreditch is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "R'n'B LDN Carnival Terrace Party" on Sun, 30 Aug 2026.
+Kantina Shoreditch is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "R'n'B LDN Carnival Terrace Party" on Sun, 30 Aug 2026.
 
 Kantina Shoreditch is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 56 Scrutton St, London EC2A 4PH.
 
@@ -14,4 +14,4 @@ Kantina Shoreditch is a music venue in London listed on soundcheck. 1 upcoming n
 
 56 Scrutton St, London EC2A 4PH, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kantina-shoreditch/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kantina-shoreditch/)*

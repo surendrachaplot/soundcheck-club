@@ -1,6 +1,6 @@
 # Taiga
 
-Taiga is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 23 Aug 2026.
+Taiga is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 23 Aug 2026.
 
 Taiga is a house and techno artist tracked on soundcheck, with 37 sets logged across Auckland, Manchester, Newyorkcity and Paris and 3 more. Often billed alongside Hugo (US), Lucho (1) and Peter Kaufmann. Next up: Summertime Roof Terrace, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Taiga is a house and techno artist tracked on soundcheck, with 37 sets logged ac
 
 Hugo (US), Lucho (1), Peter Kaufmann
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*

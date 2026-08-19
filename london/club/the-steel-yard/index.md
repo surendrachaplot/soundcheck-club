@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "City Splash: Carnival Warm Up Party" on Fri, 28 Aug 2026.
+The Steel Yard is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "City Splash: Carnival Warm Up Party" on Fri, 28 Aug 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AVANTIME, Beezo, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 11 upcoming nigh
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

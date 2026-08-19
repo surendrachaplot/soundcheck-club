@@ -1,6 +1,6 @@
 # GHOST GIRL
 
-GHOST GIRL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sidney & Matilda, Sheffield on Sat, 22 Aug 2026.
+GHOST GIRL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sidney & Matilda, Sheffield on Sat, 22 Aug 2026.
 
 GHOST GIRL is a techno and electro artist tracked on soundcheck, with 2 sets logged across Sanfrancisco and Sheffield. Often billed alongside 9-System, Chris Jackson and Elwood. Next up: Sidney & Matilda, Sheffield on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ GHOST GIRL is a techno and electro artist tracked on soundcheck, with 2 sets log
 
 9-System, Chris Jackson, Elwood
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostgirl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostgirl/)*

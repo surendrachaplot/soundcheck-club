@@ -1,6 +1,6 @@
 # Nick from Sneaks
 
-Nick from Sneaks is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 19 Sept 2026.
+Nick from Sneaks is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 19 Sept 2026.
 
 Nick from Sneaks is a pop and disco artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Edinburgh. Often billed alongside Peaky Blindrunk, Alexis Taylor and Buckfast Barbie. Next up: Sneaky Pete's, Edinburgh on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nick from Sneaks is a pop and disco artist based in United Kingdom, tracked on s
 
 Peaky Blindrunk, Alexis Taylor, Buckfast Barbie
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickfromsneaks/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickfromsneaks/)*

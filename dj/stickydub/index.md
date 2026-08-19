@@ -1,14 +1,15 @@
 # Sticky Dub
 
-Sticky Dub is a Broken Beat and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hope House, Leeds on Fri, 4 Sept 2026.
+Sticky Dub is a Broken Beat and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hope House, Leeds on Fri, 4 Sept 2026.
 
-Sticky Dub is a broken beat and hip-hop artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside Alexander Nut, Saige Sounds and joey manzi. Next up: Hope House, Leeds on Fri 4 Sept.
+Sticky Dub is a broken beat and hip-hop artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside Alexander Nut, Saige Sounds and joey manzi. Next up: Hope House, Leeds on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Hope House | Leeds |
+| Sat, 5 Sept 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sticky Dub is a broken beat and hip-hop artist based in United Kingdom, tracked 
 
 Alexander Nut, Saige Sounds, joey manzi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*

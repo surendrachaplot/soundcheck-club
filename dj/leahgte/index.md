@@ -1,6 +1,6 @@
 # leahgte
 
-leahgte is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Phonox, London on Fri, 11 Sept 2026.
+leahgte is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Phonox, London on Fri, 11 Sept 2026.
 
 leahgte is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, Bellarosa and Salam Kitty. Next up: Phonox, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ leahgte is a techno and bass artist based in United Kingdom, tracked on soundche
 
 Rahul.mp3, Bellarosa, Salam Kitty
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*

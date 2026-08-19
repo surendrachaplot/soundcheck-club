@@ -1,6 +1,6 @@
 # DJ Jetset
 
-DJ Jetset is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
+DJ Jetset is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
 
 DJ Jetset is a trance and techno artist tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside Zukunftsfritze, MILANCHOLIE and senaitstar. Next up: Humboldthain Club, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Jetset is a trance and techno artist tracked on soundcheck, with 13 sets logg
 
 Zukunftsfritze, MILANCHOLIE, senaitstar
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetset/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetset/)*

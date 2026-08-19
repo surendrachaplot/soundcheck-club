@@ -1,6 +1,6 @@
 # silver pearl
 
-silver pearl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
+silver pearl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
 
 silver pearl is a techno and trance artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Prague and Rotterdam and 1 more. Often billed alongside Helmond Lang, dirtydms and Andriy K.. Next up: arkaoda Berlin, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ silver pearl is a techno and trance artist tracked on soundcheck, with 24 sets l
 
 Helmond Lang, dirtydms, Andriy K.
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*

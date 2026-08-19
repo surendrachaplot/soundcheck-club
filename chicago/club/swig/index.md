@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Goods Thursdays: Iváno Lima / Alex Pan" on Thu, 20 Aug 2026.
+Swig is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Goods Thursdays: Iváno Lima / Alex Pan" on Thu, 20 Aug 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Alex Pan (Det), Dan Bain, Duke Shin and Iváno Lima. Browse upcoming dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -15,4 +15,4 @@ Swig is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with l
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

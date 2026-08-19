@@ -1,6 +1,6 @@
 # Maito
 
-Maito is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Collect LX Factory, Lisbon on Thu, 20 Aug 2026.
+Maito is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Collect LX Factory, Lisbon on Thu, 20 Aug 2026.
 
 Maito is a house and progressive house artist based in Belgium, tracked on soundcheck, with 20 sets logged across Antwerp, Brussels, Ghent and Lisbon and 1 more. Often billed alongside Gamine, Alfred Anders and Ilias. Next up: Collect LX Factory, Lisbon on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Maito is a house and progressive house artist based in Belgium, tracked on sound
 
 Gamine, Alfred Anders, Ilias
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maito/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maito/)*

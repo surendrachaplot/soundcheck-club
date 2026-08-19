@@ -1,6 +1,6 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Island, Bristol on Sat, 12 Sept 2026.
+Jay Galligan is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Island, Bristol on Sat, 12 Sept 2026.
 
 Jay Galligan is a techno and tech house artist based in Ireland, tracked on soundcheck, with 13 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: The Island, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jay Galligan is a techno and tech house artist based in Ireland, tracked on soun
 
 Ario, Lynne, RS Tangent
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

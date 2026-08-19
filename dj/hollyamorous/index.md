@@ -1,6 +1,6 @@
 # Hollyamorous
 
-Hollyamorous is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
+Hollyamorous is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
 
 Hollyamorous is a trance and club artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow, Leeds and Manchester. Often billed alongside Princess Elf Bar, Willow J and chlo333e. Next up: Honey Street Studio, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Hollyamorous is a trance and club artist based in United Kingdom, tracked on sou
 
 Princess Elf Bar, Willow J, chlo333e
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*

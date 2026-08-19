@@ -1,11 +1,11 @@
-# House Guests: Classic, Groovy, Soulful House Music presented by Soundwave Market at TBA - Deli @ Dwell, 1300 N 2nd St
+# House Guests: Classic, Groovy, Soulful House Music presented by Soundwave Market at TBA - Deli @ Dwell, American St & Thompson St
 
-House Guests: Classic, Groovy, Soulful House Music presented by Soundwave Market at TBA - Deli @ Dwell, 1300 N 2nd St on Sat 5 Sept, Philadelphia. 4 acts on the bill: Big Queso, Cowa, Qino and tj groover. House. Preview the line-up and save it on soundcheck.
+House Guests: Classic, Groovy, Soulful House Music presented by Soundwave Market at TBA - Deli @ Dwell, American St & Thompson St on Sat 5 Sept, Philadelphia. 4 acts on the bill: Big Queso, Cowa, Qino and tj groover. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Sept 2026 |
-| Venue | TBA - Deli @ Dwell, 1300 N 2nd St |
+| Venue | TBA - Deli @ Dwell, American St & Thompson St |
 | City | Philadelphia |
 
 ## Line-up

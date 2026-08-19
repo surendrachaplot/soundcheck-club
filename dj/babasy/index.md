@@ -1,6 +1,6 @@
 # Baba Sy
 
-Baba Sy is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Baba Sy is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 Baba Sy is a breakbeat and bass artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Brussels and Milan and 5 more. Often billed alongside Opoku, TNTC and B4mba. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Baba Sy is a breakbeat and bass artist based in Spain, tracked on soundcheck, wi
 
 Opoku, TNTC, B4mba
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babasy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babasy/)*

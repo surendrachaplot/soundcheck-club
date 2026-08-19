@@ -1,6 +1,6 @@
 # x0trandon
 
-x0trandon is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
+x0trandon is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
 
 x0trandon is a club and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Toronto. Often billed alongside trandon, 22 (2) and Syd (US). Next up: Jade, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ x0trandon is a club and house artist based in United States of America, tracked 
 
 trandon, 22 (2), Syd (US)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x0trandon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x0trandon/)*

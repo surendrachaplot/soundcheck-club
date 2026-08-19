@@ -1,6 +1,6 @@
 # Guilherme VAC
 
-Guilherme VAC is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at D-EDGE, Sao Paulo on Thu, 27 Aug 2026.
+Guilherme VAC is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at D-EDGE, Sao Paulo on Thu, 27 Aug 2026.
 
 Guilherme VAC is a house and minimal artist tracked on soundcheck, with 6 sets logged across Saopaulo. Often billed alongside Zawa, A-CIDO and Anderson Noise. Next up: D-EDGE, Saopaulo on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Guilherme VAC is a house and minimal artist tracked on soundcheck, with 6 sets l
 
 Zawa, A-CIDO, Anderson Noise
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guilhermevac/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guilhermevac/)*

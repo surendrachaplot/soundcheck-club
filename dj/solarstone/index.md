@@ -1,6 +1,6 @@
 # Solarstone
 
-Solarstone is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
+Solarstone is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
 
 Solarstone is a trance and progressive house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Chicago, London and Losangeles and 9 more. Often billed alongside Amy Wiles, Billy Gillies and Armin van Buuren. Next up: Network, Sheffield on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Solarstone is a trance and progressive house artist tracked on soundcheck, with 
 
 Amy Wiles, Billy Gillies, Armin van Buuren
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*

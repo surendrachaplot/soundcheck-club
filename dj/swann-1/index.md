@@ -1,6 +1,6 @@
 # Swann
 
-Swann is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nocturna, Ibiza on Fri, 21 Aug 2026.
+Swann is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Nocturna, Ibiza on Fri, 21 Aug 2026.
 
 Swann is a house and electro artist tracked on soundcheck, with 45 sets logged across Barcelona, Brussels, Dublin and Ibiza and 3 more. Often billed alongside giac., Pau Rosés and Martini Raw. Next up: Nocturna, Ibiza on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Swann is a house and electro artist tracked on soundcheck, with 45 sets logged a
 
 giac., Pau Rosés, Martini Raw
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swann-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swann-1/)*

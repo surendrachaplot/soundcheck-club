@@ -1,6 +1,6 @@
 # KEBRA
 
-KEBRA is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
+KEBRA is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
 
 KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Lisbon and London and 9 more. Often billed alongside Babybruise, Basho and Lyo XS. Next up: YuYu Cine Club, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, wi
 
 Babybruise, Basho, Lyo XS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*

@@ -1,6 +1,6 @@
 # Teendrum
 
-Teendrum is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - helm, 3 Brothwick St, SE8 3GH, London on Sat, 29 Aug 2026.
+Teendrum is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - helm, 3 Brothwick St, SE8 3GH, London on Sat, 29 Aug 2026.
 
 Teendrum is an experimental and ambient artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Stella Z. Next up: TBA - helm, 3 Brothwick St, SE8 3GH, London on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Teendrum is an experimental and ambient artist tracked on soundcheck, with 2 set
 
 Stella Z
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teendrum/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teendrum/)*

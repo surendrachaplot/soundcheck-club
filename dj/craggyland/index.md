@@ -1,6 +1,6 @@
 # Craggyland
 
-Craggyland is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Old Hairdressers, Glasgow on Sun, 30 Aug 2026.
+Craggyland is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Old Hairdressers, Glasgow on Sun, 30 Aug 2026.
 
 Craggyland is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow and Manchester. Often billed alongside Acido Cielo, polyterror and -Doubt. Next up: The Old Hairdressers, Glasgow on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Craggyland is an experimental and club artist based in United Kingdom, tracked o
 
 Acido Cielo, polyterror, -Doubt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craggyland/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craggyland/)*

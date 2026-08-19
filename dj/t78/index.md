@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
+T78 is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
 
 T78 is a techno and acid artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Eden, Ibiza on Tue 1 Sept.
 
@@ -29,4 +29,4 @@ T78 is a techno and acid artist tracked on soundcheck, with 90 sets logged acros
 
 Aphøtic, BIIA, Basswell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

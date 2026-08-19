@@ -1,6 +1,6 @@
 # Křižíkova Fountain
 
-Křižíkova Fountain is a music venue in Prague with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Miss Monique" on Sun, 23 Aug 2026.
+Křižíkova Fountain is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Miss Monique" on Sun, 23 Aug 2026.
 
 Křižíkova Fountain is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Dominik Gehringer and Miss Monique. Browse upcoming dates, start times and who's playing. Výstaviště 170 00, 170 00 Praha 7-Bubeneč, Czechia.
 
@@ -14,4 +14,4 @@ Křižíkova Fountain is a music venue in Prague listed on soundcheck. 1 upcomin
 
 Výstaviště 170 00, 170 00 Praha 7-Bubeneč, Czechia, Prague
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k-i-kova-fountain/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k-i-kova-fountain/)*

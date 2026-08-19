@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 53 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Toshiyuki Goto & Eitetsu Takamiya" on Tue, 18 Aug 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 52 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Moc, DJ Eddie Mac & ANYO" on Wed, 19 Aug 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 53 upcoming nights, with line-ups including 7e, CHIDA, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 52 upcoming nights, with line-ups including 7e, CHIDA, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 | Wed, 19 Aug 2026 | Moc, DJ Eddie Mac & ANYO |  |
 | Thu, 20 Aug 2026 | DJ ISOROQU, HannaH & Kabe |  |
 | Fri, 21 Aug 2026 | SEARCHIN' | Dazzle Drums, Toshio Matsuura |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 53 upcomi
 | Wed, 26 Aug 2026 | OG Militant B, AKIM & JITSUMITSU | OG Militant B |
 | Thu, 27 Aug 2026 | MOTOKI, Yo4mo & osugi |  |
 | Sat, 29 Aug 2026 | CHIDA, HIDEO & RYOTETSU | CHIDA |
+| Sun, 30 Aug 2026 | SUNNY |  |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

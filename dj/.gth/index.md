@@ -1,6 +1,6 @@
 # .g (TH)
 
-.g (TH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Temp., Bangkok on Thu, 20 Aug 2026.
+.g (TH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Temp., Bangkok on Thu, 20 Aug 2026.
 
 .g (TH) is a house and techno artist based in Thailand, tracked on soundcheck, with 30 sets logged across Bangkok. Often billed alongside DMT Disco, JWP. and Genji. Next up: Bar Temp., Bangkok on Thu 20 Aug.
 
@@ -25,4 +25,4 @@
 
 DMT Disco, JWP., Genji
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*

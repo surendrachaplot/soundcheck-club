@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Sam Binga is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 83 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: The Regency Ballroom, Sanfrancisco on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 83 sets l
 
 Bianca Oblivion, Addison Groove, Amy Kisnorbo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

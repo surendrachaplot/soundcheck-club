@@ -1,6 +1,6 @@
 # Milkpaste
 
-Milkpaste is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Grifter Brewing Co., Sydney on Fri, 21 Aug 2026.
+Milkpaste is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Grifter Brewing Co., Sydney on Fri, 21 Aug 2026.
 
 Milkpaste is a house and techno artist based in Australia, tracked on soundcheck, with 23 sets logged across Sydney. Often billed alongside Unprotected Success, Harry Court and Alex Diwa. Next up: The Grifter Brewing Co., Sydney on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Milkpaste is a house and techno artist based in Australia, tracked on soundcheck
 
 Unprotected Success, Harry Court, Alex Diwa
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milkpaste/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milkpaste/)*

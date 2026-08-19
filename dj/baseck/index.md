@@ -1,6 +1,6 @@
 # Baseck
 
-Baseck is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Baseck is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 Baseck is a techno and hardcore artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Flapjack, Thrasher and 4LOKA. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Baseck is a techno and hardcore artist tracked on soundcheck, with 43 sets logge
 
 Flapjack, Thrasher, 4LOKA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*

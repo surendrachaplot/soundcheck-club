@@ -1,6 +1,6 @@
 # DFUNKLUB
 
-DFUNKLUB is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
+DFUNKLUB is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
 
 DFUNKLUB is a house and electronica artist based in Argentina, tracked on soundcheck, with 7 sets logged across Barcelona and Berlin. Often billed alongside Federico Molinari, Nekes and Lakeman. Next up: Club der Visionaere, Berlin on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ DFUNKLUB is a house and electronica artist based in Argentina, tracked on soundc
 
 Federico Molinari, Nekes, Lakeman
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dfunklub-ar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dfunklub-ar/)*

@@ -1,6 +1,6 @@
 # oomfhaver
 
-oomfhaver is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Baby's All Right, New York City on Fri, 21 Aug 2026.
+oomfhaver is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Baby's All Right, New York City on Fri, 21 Aug 2026.
 
 oomfhaver is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Max Parkinson, Minhas and Tone Troy. Next up: Baby's All Right, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ oomfhaver is a bass and dubstep artist based in United States of America, tracke
 
 Max Parkinson, Minhas, Tone Troy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oomfhaver/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oomfhaver/)*

@@ -1,14 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "PARTICLES" on Sun, 16 Aug 2026.
+Gaffe is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze" on Fri, 21 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, Aleromaze, ANNX and AYIM and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 1-800 GIRLS, Aleromaze, ANNX and AYIM and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 16 Aug 2026 | PARTICLES | Jane Fitz, Marco Shuttle |
 | Fri, 21 Aug 2026 | Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze | AYIM, Aleromaze, Cosmic Caz, Kaytseng, Max Burstyn, Medlock, Melati, Xquisite Korpse |
 | Sat, 22 Aug 2026 | Singularity X Ground Rules: Day 2 Night |  |
 | Fri, 28 Aug 2026 | FREEDIVE//004:Wendy,Gamine,Massimo | Gamine, Wendy Bkz |
@@ -18,9 +17,10 @@ Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with 
 | Sat, 12 Sept 2026 | A day with 1-800 GIRLS & Friends | 1-800 GIRLS |
 | Fri, 18 Sept 2026 | Refractor On Tour London ● 5th Anniversary ● | Feral, Jan Swam, TSUNIMAN, Timnah |
 | Sat, 19 Sept 2026 | Wisdom Teeth: Facta & K-LONE (All Day Long) & More TBA | Facta, K-LONE |
+| Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

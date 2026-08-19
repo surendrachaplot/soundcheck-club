@@ -1,6 +1,6 @@
 # PlayPlay
 
-PlayPlay is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+PlayPlay is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
 PlayPlay is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity and Philadelphia. Often billed alongside MF BUTCH, JIALING and theoretic. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ PlayPlay is a house and breakbeat artist based in United States of America, trac
 
 MF BUTCH, JIALING, theoretic
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/playplay/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/playplay/)*

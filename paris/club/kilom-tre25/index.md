@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "PARTY KULLT: 2VINE, 4000 Hz, NOCTA, DORY, ZO.5" on Thu, 20 Aug 2026.
+Kilomètre25 is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "PARTY KULLT: 2VINE, 4000 Hz, NOCTA, DORY, ZO.5" on Thu, 20 Aug 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Airod, ALT8, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

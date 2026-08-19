@@ -1,6 +1,6 @@
 # TTOMS
 
-TTOMS is a Garage and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
+TTOMS is a Garage and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
 
 TTOMS is a garage and progressive house artist tracked on soundcheck, with 5 sets logged across Barcelona and Birmingham. Often billed alongside Benja Millan, Bob Tosh and Cristina Lazic. Next up: City Hall, Barcelona on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ TTOMS is a garage and progressive house artist tracked on soundcheck, with 5 set
 
 Benja Millan, Bob Tosh, Cristina Lazic
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttoms/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttoms/)*

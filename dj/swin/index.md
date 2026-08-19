@@ -1,6 +1,6 @@
 # Swin
 
-Swin is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ouseburn Garden, Newcastle on Sun, 30 Aug 2026.
+Swin is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ouseburn Garden, Newcastle on Sun, 30 Aug 2026.
 
 Swin is a house and electro artist tracked on soundcheck, with 14 sets logged across Berlin, Manchester and Newcastle. Often billed alongside ROSIE, Holly Why and Brad P. Next up: Ouseburn Garden, Newcastle on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Swin is a house and electro artist tracked on soundcheck, with 14 sets logged ac
 
 ROSIE, Holly Why, Brad P
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swin/)*

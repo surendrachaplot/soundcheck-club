@@ -1,6 +1,6 @@
 # Argento
 
-Argento is a EBM and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+Argento is a EBM and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 Argento is an ebm and bass artist tracked on soundcheck, with 3 sets logged across Utrecht. Often billed alongside Bohm, CHEM:EX and Camy Huot. Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Argento is an ebm and bass artist tracked on soundcheck, with 3 sets logged acro
 
 Bohm, CHEM:EX, Camy Huot
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argento/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argento/)*

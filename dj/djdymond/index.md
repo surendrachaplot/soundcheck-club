@@ -1,6 +1,6 @@
 # DJ Dymond
 
-DJ Dymond is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Fox and Firkin, London on Fri, 4 Sept 2026.
+DJ Dymond is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Fox and Firkin, London on Fri, 4 Sept 2026.
 
 DJ Dymond is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dispatch, Leks and Vektah. Next up: The Fox and Firkin, London on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ DJ Dymond is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Dispatch, Leks, Vektah
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdymond/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdymond/)*

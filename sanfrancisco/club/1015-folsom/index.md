@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rival Consoles Live A/V Tour" on Thu, 20 Aug 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rival Consoles Live A/V Tour" on Thu, 20 Aug 2026.
 
 1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Andromedik, BLUKE, ChaseWest and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

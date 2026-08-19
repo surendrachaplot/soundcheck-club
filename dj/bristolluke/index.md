@@ -1,6 +1,6 @@
 # Bristol Luke
 
-Bristol Luke is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
+Bristol Luke is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
 
 Bristol Luke is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Edinburgh and Glasgow. Often billed alongside Medudesa, Divergence and Jurnalist. Next up: Nice N Sleazy, Glasgow on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Bristol Luke is a jungle and drum & bass artist based in United Kingdom, tracked
 
 Medudesa, Divergence, Jurnalist
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bristolluke/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bristolluke/)*

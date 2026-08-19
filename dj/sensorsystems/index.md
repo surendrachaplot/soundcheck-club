@@ -1,6 +1,6 @@
 # Sensor Systems
 
-Sensor Systems is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
+Sensor Systems is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
 
 Sensor Systems is a techno and progressive house artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Ali Bilal, Flat Esoteric and Hasvat Informant. Next up: New Guernica, Melbourne on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Sensor Systems is a techno and progressive house artist based in Australia, trac
 
 Ali Bilal, Flat Esoteric, Hasvat Informant
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensorsystems/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensorsystems/)*

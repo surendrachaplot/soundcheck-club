@@ -1,6 +1,6 @@
 # DJ Pitch
 
-DJ Pitch is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+DJ Pitch is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 DJ Pitch is a techno and club artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Bristol and Brussels and 14 more. Often billed alongside Simkin, Madjestic Kasual and Coe (1). Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Pitch is a techno and club artist tracked on soundcheck, with 48 sets logged 
 
 Simkin, Madjestic Kasual, Coe (1)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpitch/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpitch/)*

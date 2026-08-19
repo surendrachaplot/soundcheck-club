@@ -1,6 +1,6 @@
 # GALLY
 
-GALLY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
+GALLY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
 
 GALLY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh, Leeds and London. Often billed alongside AUDIO DUNE, Cam Foster and Dean Campbell. Next up: Distrikt, Leeds on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ GALLY is a house and tech house artist based in United Kingdom, tracked on sound
 
 AUDIO DUNE, Cam Foster, Dean Campbell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*

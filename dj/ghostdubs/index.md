@@ -1,14 +1,15 @@
 # Ghost Dubs
 
-Ghost Dubs is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Ghost Dubs is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Ghost Dubs is a dub and techno artist tracked on soundcheck, with 22 sets logged across Barcelona, Basel, Berlin and Brighton and 13 more. Often billed alongside The Bug, Emptyset and K Wata. Next up: public records, Newyorkcity on Mon 9 Nov.
+Ghost Dubs is a dub and techno artist tracked on soundcheck, with 23 sets logged across Barcelona, Basel, Berlin and Brighton and 13 more. Often billed alongside The Bug, K Wata and Ayanna Heaven. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | public records | New York City |
+| Sun, 15 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ghost Dubs is a dub and techno artist tracked on soundcheck, with 22 sets logged
 
 ## Shares bills with
 
-The Bug, Emptyset, K Wata
+The Bug, K Wata, Ayanna Heaven
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*

@@ -1,6 +1,6 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
+Claude VonStroke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
 
 Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: The Bentway, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 Green Velvet, Ardalan, Boys Noize
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*

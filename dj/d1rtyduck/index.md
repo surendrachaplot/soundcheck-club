@@ -1,6 +1,6 @@
 # D1rty Duck
 
-D1rty Duck is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 5 Sept 2026.
+D1rty Duck is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 5 Sept 2026.
 
 D1rty Duck is a trance and progressive house artist tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside Wiebe Roose, Camo Braxton and DAIVER. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ D1rty Duck is a trance and progressive house artist tracked on soundcheck, with 
 
 Wiebe Roose, Camo Braxton, DAIVER
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d1rtyduck/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d1rtyduck/)*

@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
 Lewis Taylor is a house and tech house artist tracked on soundcheck, with 42 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 12 more. Often billed alongside Harry Robson, Gaskin and Anil Aras. Next up: Distrikt, Leeds on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Lewis Taylor is a house and tech house artist tracked on soundcheck, with 42 set
 
 Harry Robson, Gaskin, Anil Aras
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

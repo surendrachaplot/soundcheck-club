@@ -1,13 +1,14 @@
 # MC Fearless
 
-MC Fearless is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+MC Fearless is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Social, London on Sat, 29 Aug 2026.
 
-MC Fearless is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Bristol, Glasgow and London and 1 more. Often billed alongside DJ Brockie, IC3 and DJ Rap. Next up: Studio 338, London on Sat 26 Sept.
+MC Fearless is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton, Bristol, Glasgow and London and 1 more. Often billed alongside DJ Brockie, DJ Rap and IC3. Next up: The Social, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | The Social | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ MC Fearless is a jungle and drum & bass artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-DJ Brockie, IC3, DJ Rap
+DJ Brockie, DJ Rap, IC3
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfearless/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfearless/)*

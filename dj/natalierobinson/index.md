@@ -1,14 +1,15 @@
 # Natalie Robinson
 
-Natalie Robinson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
+Natalie Robinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
 
-Natalie Robinson is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 22 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: SAGE, Berlin on Sat 5 Sept.
+Natalie Robinson is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: SAGE, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | SAGE | Berlin |
+| Sat, 19 Sept 2026 | Fuchs2 | Prague |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Natalie Robinson is a house and techno artist tracked on soundcheck, with 125 se
 
 Katy De Jesus, Naomi (Berlin), Mike Starr
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*

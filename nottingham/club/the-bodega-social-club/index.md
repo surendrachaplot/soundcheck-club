@@ -1,6 +1,6 @@
 # The Bodega Social Club
 
-The Bodega Social Club is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "10 Years Of Where Wax, Nottingham" on Sun, 30 Aug 2026.
+The Bodega Social Club is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "10 Years Of Where Wax, Nottingham" on Sun, 30 Aug 2026.
 
 The Bodega Social Club is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including Desmond, Golden Lights and Vior. Browse upcoming dates, start times and who's playing. 23 Pelham Street; Nottingham, NG1 2ED.
 
@@ -14,4 +14,4 @@ The Bodega Social Club is a music venue in Nottingham listed on soundcheck. 1 up
 
 23 Pelham Street; Nottingham, NG1 2ED, Nottingham
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-bodega-social-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-bodega-social-club/)*

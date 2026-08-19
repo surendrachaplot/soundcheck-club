@@ -1,6 +1,6 @@
 # Love Injection
 
-Love Injection is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The BBE Store, London on Fri, 28 Aug 2026.
+Love Injection is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The BBE Store, London on Fri, 28 Aug 2026.
 
 Love Injection is a house and disco artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: The BBE Store, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Love Injection is a house and disco artist based in United States of America, tr
 
 Toribio, MUSCLECARS, Colleen 'Cosmo' Murphy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*

@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 21 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis" on Fri, 21 Aug 2026.
+Hangaren is a music venue in Copenhagen with 22 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis" on Fri, 21 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 22 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

@@ -1,6 +1,6 @@
 # Char(k)
 
-Char(k) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Char(k) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Char(k) is a tech house and house artist based in Australia, tracked on soundcheck, with 19 sets logged across London and Melbourne. Often billed alongside Séarlait, Roka and Silki. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Char(k) is a tech house and house artist based in Australia, tracked on soundche
 
 Séarlait, Roka, Silki
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chark/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chark/)*

@@ -1,6 +1,6 @@
 # DAY/DEM
 
-DAY/DEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
+DAY/DEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
 
 DAY/DEM is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami and Newyorkcity. Often billed alongside ALEJO (US), DREAMINSLOW and Duality (US). Next up: Bossa Nova Civic Club, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DAY/DEM is a techno and house artist based in United States of America, tracked 
 
 ALEJO (US), DREAMINSLOW, Duality (US)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*

@@ -1,6 +1,6 @@
 # Slope Unit
 
-Slope Unit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
+Slope Unit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
 
 Slope Unit is a techno and house artist tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Abrew, Blue Hour and Buchan. Next up: K-Bar Powiśle, Warsaw on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Slope Unit is a techno and house artist tracked on soundcheck, with 3 sets logge
 
 Abrew, Blue Hour, Buchan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slopeunit/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slopeunit/)*

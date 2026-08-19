@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 19 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "BRAZLOMBIA" on Tue, 18 Aug 2026.
+Wax Music Lounge is a music venue in Melbourne with 18 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "CLOSED FOR PRIVATE FUNCTION FROM 8PM" on Wed, 19 Aug 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 19 upcoming nights, with line-ups including Colette and Zjoso. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 18 upcoming nights, with line-ups including Colette and Zjoso. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 19 Aug 2026 | CLOSED FOR PRIVATE FUNCTION FROM 8PM |  |
 | Thu, 20 Aug 2026 | TAIJAE |  |
 | Fri, 21 Aug 2026 | BIONIC BOOGIE | Colette |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 19 upcoming
 | Tue, 25 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 26 Aug 2026 | MELLOWDÍAS THUMP |  |
 | Thu, 27 Aug 2026 | SAOKO |  |
+| Fri, 28 Aug 2026 | SABOR LATINO |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

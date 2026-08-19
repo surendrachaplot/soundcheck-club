@@ -1,6 +1,6 @@
 # ShinyLight
 
-ShinyLight is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at N Seoul Tower, Seoul on Sat, 15 Aug 2026.
+ShinyLight is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at N Seoul Tower, Seoul on Sat, 15 Aug 2026.
 
 ShinyLight is a house and tech house artist tracked on soundcheck, with 13 sets logged across Seoul and Tokyo. Often billed alongside Better, Liza (KR) and Grace Kim. Next up: N Seoul Tower, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ShinyLight is a house and tech house artist tracked on soundcheck, with 13 sets 
 
 Better, Liza (KR), Grace Kim
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*

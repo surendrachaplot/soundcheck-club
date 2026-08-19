@@ -1,6 +1,6 @@
 # Subcode
 
-Subcode is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
+Subcode is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
 
 Subcode is a techno and industrial artist based in Poland, tracked on soundcheck, with 13 sets logged across Warsaw. Often billed alongside Pean, Herrszt and Szmer. Next up: Mastak, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Subcode is a techno and industrial artist based in Poland, tracked on soundcheck
 
 Pean, Herrszt, Szmer
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subcode/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subcode/)*

@@ -1,6 +1,6 @@
 # The Cornershop Bar
 
-The Cornershop Bar is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Summer Splash Shoreditch - Hip Hop R&B Bashment UKG Afro Soca Free Party" on Fri, 21 Aug 2026.
+The Cornershop Bar is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Summer Splash Shoreditch - Hip Hop R&B Bashment UKG Afro Soca Free Party" on Fri, 21 Aug 2026.
 
 The Cornershop Bar is a music venue in London listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 123 Shoreditch High Street  London E1 6JE.
 
@@ -23,4 +23,4 @@ The Cornershop Bar is a music venue in London listed on soundcheck. 14 upcoming 
 
 123 Shoreditch High Street  London E1 6JE, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*

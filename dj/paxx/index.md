@@ -1,6 +1,6 @@
 # Paxx
 
-Paxx is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at SASS Music Club, Vienna on Thu, 20 Aug 2026.
+Paxx is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at SASS Music Club, Vienna on Thu, 20 Aug 2026.
 
 Paxx is a tech house and house artist tracked on soundcheck, with 4 sets logged across Munich and Vienna. Often billed alongside Chet Rubbs, Kongusto and Melchiorr. Next up: SASS Music Club, Vienna on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Paxx is a tech house and house artist tracked on soundcheck, with 4 sets logged 
 
 Chet Rubbs, Kongusto, Melchiorr
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxx/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxx/)*

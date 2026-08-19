@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Chinese Laundry Invites Jacques Greene [CAN] Jacques Greene [CAN] + NEED FOR SPEED TAKEOVER" on Fri, 21 Aug 2026.
+Chinese Laundry is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Chinese Laundry Invites Jacques Greene [CAN] Jacques Greene [CAN] + NEED FOR SPEED TAKEOVER" on Fri, 21 Aug 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Bouki, bradeazy, Jacques Greene and Kitty Amor and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -18,4 +18,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 5 upcoming nigh
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

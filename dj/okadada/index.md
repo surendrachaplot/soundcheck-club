@@ -1,6 +1,6 @@
 # okadada
 
-okadada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
+okadada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
 
 okadada is a house and techno artist tracked on soundcheck, with 161 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Saloon, Tokyo on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ okadada is a house and techno artist tracked on soundcheck, with 161 sets logged
 
 FELINE (JP), Licaxxx, Sekitova
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*

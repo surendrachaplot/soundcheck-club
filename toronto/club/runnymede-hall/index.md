@@ -1,6 +1,6 @@
 # Runnymede Hall
 
-Runnymede Hall is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Patrick Mason: TORONTO" on Sat, 22 Aug 2026.
+Runnymede Hall is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Patrick Mason: TORONTO" on Sat, 22 Aug 2026.
 
 Runnymede Hall is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Alley Kay, DJ Minx, MENACE (CA) and Patrick Mason and 2 more. Browse upcoming dates, start times and who's playing. 821 Runnymede Rd.
 
@@ -14,4 +14,4 @@ Runnymede Hall is a music venue in Toronto listed on soundcheck. 1 upcoming nigh
 
 821 Runnymede Rd, Toronto
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/runnymede-hall/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/runnymede-hall/)*

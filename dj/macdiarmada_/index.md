@@ -1,6 +1,6 @@
 # macdiarmada_
 
-macdiarmada_ is a Bass and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 5 Sept 2026.
+macdiarmada_ is a Bass and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 5 Sept 2026.
 
 macdiarmada_ is a bass and disco artist tracked on soundcheck, with 4 sets logged across Galway and Glasgow. Often billed alongside Daniel Hive, Fixate and Fourth Precinct. Next up: The Berkeley Suite, Glasgow on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ macdiarmada_ is a bass and disco artist tracked on soundcheck, with 4 sets logge
 
 Daniel Hive, Fixate, Fourth Precinct
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdiarmada_/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdiarmada_/)*

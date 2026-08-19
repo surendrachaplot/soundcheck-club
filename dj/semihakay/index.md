@@ -1,6 +1,6 @@
 # Semih Akay
 
-Semih Akay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kastel, Istanbul on Wed, 19 Aug 2026.
+Semih Akay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kastel, Istanbul on Wed, 19 Aug 2026.
 
 Semih Akay is a house and tech house artist based in Turkey, tracked on soundcheck, with 38 sets logged across Istanbul. Often billed alongside Alexandr Grecov, DJ Queto and Fault. Next up: Kastel, Istanbul on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Semih Akay is a house and tech house artist based in Turkey, tracked on soundche
 
 Alexandr Grecov, DJ Queto, Fault
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*

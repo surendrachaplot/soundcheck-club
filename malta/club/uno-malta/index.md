@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "JUSTICE - TONY BOY" on Wed, 19 Aug 2026.
+UNO MALTA is a music venue in Malta with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "JUSTICE - TONY BOY" on Wed, 19 Aug 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 14 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Aline Rocha and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -23,4 +23,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 14 upcoming nights, wi
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

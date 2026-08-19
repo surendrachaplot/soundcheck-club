@@ -1,6 +1,6 @@
 # Xoce
 
-Xoce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Chemist, Boston on Thu, 27 Aug 2026.
+Xoce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Chemist, Boston on Thu, 27 Aug 2026.
 
 Xoce is a techno and house artist tracked on soundcheck, with 76 sets logged across Boston, Miami, Newyorkcity and Washingtondc. Often billed alongside MRRV, Niqi and Ketzaal. Next up: The Chemist, Boston on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Xoce is a techno and house artist tracked on soundcheck, with 76 sets logged acr
 
 MRRV, Niqi, Ketzaal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoce/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoce/)*

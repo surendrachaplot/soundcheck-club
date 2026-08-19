@@ -1,6 +1,6 @@
 # Hijo Pródigo
 
-Hijo Pródigo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 22 Aug 2026.
+Hijo Pródigo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 22 Aug 2026.
 
 Hijo Pródigo is a techno and house artist tracked on soundcheck, with 5 sets logged across Chicago and Newyorkcity. Often billed alongside Glamour Cadaver, Ariel Zetina and Carly Zeng. Next up: Loafers Cocktail Bar, Newyorkcity on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Hijo Pródigo is a techno and house artist tracked on soundcheck, with 5 sets lo
 
 Glamour Cadaver, Ariel Zetina, Carly Zeng
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijoprodigo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijoprodigo/)*

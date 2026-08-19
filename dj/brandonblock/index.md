@@ -1,6 +1,6 @@
 # Brandon Block
 
-Brandon Block is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at XOYO, London on Sat, 5 Sept 2026.
+Brandon Block is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at XOYO, London on Sat, 5 Sept 2026.
 
 Brandon Block is a house and tech house artist tracked on soundcheck, with 39 sets logged across Auckland, Brighton, Brisbane and Ibiza and 3 more. Often billed alongside Bongo Ben, Alex P and Tristan Ingram. Next up: XOYO, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Brandon Block is a house and tech house artist tracked on soundcheck, with 39 se
 
 Bongo Ben, Alex P, Tristan Ingram
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*

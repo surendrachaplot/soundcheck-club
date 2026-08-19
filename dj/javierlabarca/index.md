@@ -1,6 +1,6 @@
 # Javier Labarca
 
-Javier Labarca is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
+Javier Labarca is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
 
 Javier Labarca is a minimal and house artist tracked on soundcheck, with 4 sets logged across Barcelona and Buenosaires. Often billed alongside Dominique Tijoux, Daniel Sanchez and Munøz. Next up: Jardins de la Devesa, Girona, Barcelona on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Javier Labarca is a minimal and house artist tracked on soundcheck, with 4 sets 
 
 Dominique Tijoux, Daniel Sanchez, Munøz
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierlabarca/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierlabarca/)*

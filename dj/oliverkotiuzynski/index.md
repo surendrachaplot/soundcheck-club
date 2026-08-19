@@ -1,6 +1,6 @@
 # Oliver Kotiużyński
 
-Oliver Kotiużyński is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
+Oliver Kotiużyński is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
 
 Oliver Kotiużyński is a tech house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside UniKhatu, DNDEE and Jar:ex. Next up: Sensorium, Berlin on Wed 9 Sept.
 
@@ -18,4 +18,4 @@ Oliver Kotiużyński is a tech house and techno artist tracked on soundcheck, wi
 
 UniKhatu, DNDEE, Jar:ex
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkotiuzynski/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkotiuzynski/)*

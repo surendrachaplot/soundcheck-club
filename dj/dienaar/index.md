@@ -1,6 +1,6 @@
 # Dienaar
 
-Dienaar is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at De Maaskantine, Rotterdam on Sat, 29 Aug 2026.
+Dienaar is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Maaskantine, Rotterdam on Sat, 29 Aug 2026.
 
 Dienaar is a house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Rotterdam. Often billed alongside Ben Diggins, Hugo Out and LI-YU. Next up: De Maaskantine, Rotterdam on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Dienaar is a house artist based in Netherlands, tracked on soundcheck, with 4 se
 
 Ben Diggins, Hugo Out, LI-YU
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dienaar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dienaar/)*

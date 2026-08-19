@@ -1,6 +1,6 @@
 # Rei Room
 
-Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "SVB DRÆMZ FEAT RESONAMTUM" on Sat, 22 Aug 2026.
+Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "SVB DRÆMZ FEAT RESONAMTUM" on Sat, 22 Aug 2026.
 
 Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Avant-Garde Institute, Gerhard, Maseriche and Seagit Arc. Browse upcoming dates, start times and who's playing. Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700.
 
@@ -14,4 +14,4 @@ Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, 
 
 Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700, Mexico City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*

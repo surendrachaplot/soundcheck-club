@@ -1,14 +1,15 @@
 # Fynutzu
 
-Fynutzu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hafnia-Hallen, Copenhagen on Fri, 21 Aug 2026.
+Fynutzu is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hafnia-Hallen, Copenhagen on Fri, 21 Aug 2026.
 
-Fynutzu is a house and tech house artist based in Denmark, tracked on soundcheck, with 27 sets logged across Copenhagen and London. Often billed alongside Geroge, Daniel Naad and 7 Levels. Next up: Hafnia-Hallen, Copenhagen on Fri 21 Aug.
+Fynutzu is a house and tech house artist based in Denmark, tracked on soundcheck, with 28 sets logged across Copenhagen and London. Often billed alongside Geroge, Daniel Naad and 7 Levels. Next up: Hafnia-Hallen, Copenhagen on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Hafnia-Hallen | Copenhagen |
+| Sat, 24 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fynutzu is a house and tech house artist based in Denmark, tracked on soundcheck
 
 Geroge, Daniel Naad, 7 Levels
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fynutzu/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fynutzu/)*

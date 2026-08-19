@@ -1,6 +1,6 @@
 # LAMSI
 
-LAMSI is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Esplanade du J4, Marseille on Thu, 27 Aug 2026.
+LAMSI is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Esplanade du J4, Marseille on Thu, 27 Aug 2026.
 
 LAMSI is a house and electronica artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Jarreau Vandal, Tida Kamara and Chinnamasta. Next up: Esplanade du J4, Marseille on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ LAMSI is a house and electronica artist based in Netherlands, tracked on soundch
 
 Jarreau Vandal, Tida Kamara, Chinnamasta
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamsi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamsi/)*

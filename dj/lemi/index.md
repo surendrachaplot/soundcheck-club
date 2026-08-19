@@ -1,6 +1,6 @@
 # Lemi
 
-Lemi is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
+Lemi is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
 
 Lemi is a club and techno artist based in Kenya, tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside KA4U, Limited Toss and Mermaid. Next up: Noon + Cafe, Osaka on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Lemi is a club and techno artist based in Kenya, tracked on soundcheck, with 2 s
 
 KA4U, Limited Toss, Mermaid
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemi/)*

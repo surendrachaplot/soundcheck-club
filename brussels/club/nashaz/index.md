@@ -1,6 +1,6 @@
 # Nashaz
 
-Nashaz is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Les Halles + Hun Hun + Jano" on Fri, 21 Aug 2026.
+Nashaz is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Les Halles + Hun Hun + Jano" on Fri, 21 Aug 2026.
 
 Nashaz is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Ecleptix, GUZ (1), Jano and Les Halles. Browse upcoming dates, start times and who's playing. 3 rue picard 1000.
 
@@ -15,4 +15,4 @@ Nashaz is a music venue in Brussels listed on soundcheck. 2 upcoming nights, wit
 
 3 rue picard 1000, Brussels
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/nashaz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/nashaz/)*

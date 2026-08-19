@@ -1,6 +1,6 @@
 # Jojo Vice
 
-Jojo Vice is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
+Jojo Vice is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
 
 Jojo Vice is a house and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, Munich and Nurnberg and 1 more. Often billed alongside Andi Britz, André Dancekowski and Buzé. Next up: Legal, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jojo Vice is a house and trance artist tracked on soundcheck, with 24 sets logge
 
 Andi Britz, André Dancekowski, Buzé
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*

@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
+Regal86 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
 
 Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Tresor / Globus, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged 
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

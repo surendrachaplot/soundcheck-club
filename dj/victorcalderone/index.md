@@ -1,6 +1,6 @@
 # Victor Calderone
 
-Victor Calderone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pacha New York, New York City on Fri, 21 Aug 2026.
+Victor Calderone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pacha New York, New York City on Fri, 21 Aug 2026.
 
 Victor Calderone is a techno and house artist tracked on soundcheck, with 65 sets logged across Austin, Denver, Ibiza and Lisbon and 10 more. Often billed alongside Danyelino, Avision and Ms. Mada. Next up: Pacha New York, Newyorkcity on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Victor Calderone is a techno and house artist tracked on soundcheck, with 65 set
 
 Danyelino, Avision, Ms. Mada
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*

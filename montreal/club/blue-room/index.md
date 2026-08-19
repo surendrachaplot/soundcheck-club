@@ -1,6 +1,6 @@
 # Blue Room
 
-Blue Room is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "No Police / Sarah Kay" on Thu, 20 Aug 2026.
+Blue Room is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "No Police / Sarah Kay" on Thu, 20 Aug 2026.
 
 Blue Room is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including BERLIN, Moti (CR), Samira and Scoopsi and 1 more. Browse upcoming dates, start times and who's playing. 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor.
 
@@ -19,4 +19,4 @@ Blue Room is a music venue in Montreal listed on soundcheck. 6 upcoming nights, 
 
 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor, Montreal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*

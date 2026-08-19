@@ -1,6 +1,6 @@
 # JPEG (3)
 
-JPEG (3) is a Acid and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
+JPEG (3) is a Acid and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
 
 JPEG (3) is an acid and funk / soul artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona, Bristol, London and Manchester. Often billed alongside A:sine, Aloka and Burland. Next up: Wiper and True, Old Market Taproom, Bristol on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ JPEG (3) is an acid and funk / soul artist based in United Kingdom, tracked on s
 
 A:sine, Aloka, Burland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*

@@ -1,6 +1,6 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "dreamlink" on Thu, 20 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "dreamlink" on Thu, 20 Aug 2026.
 
 arkaoda Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Airaboi, Albin (BR), alizé.e and André Pahl and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
@@ -19,4 +19,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

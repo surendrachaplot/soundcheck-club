@@ -1,6 +1,6 @@
 # GIRL
 
-GIRL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
+GIRL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
 GIRL is a house and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Antwerp and London. Often billed alongside Slayphex Twins, Amy Os and BOY (1). Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ GIRL is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Slayphex Twins, Amy Os, BOY (1)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girl/)*

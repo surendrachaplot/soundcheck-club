@@ -1,6 +1,6 @@
 # Shane Codd
 
-Shane Codd is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Carlisle, Newcastle on Sat, 10 Oct 2026.
+Shane Codd is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Carlisle, Newcastle on Sat, 10 Oct 2026.
 
 Shane Codd is an electronica and house artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin and Newcastle. Often billed alongside Lewis Knights. Next up: TBA - Carlisle, Newcastle on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Shane Codd is an electronica and house artist based in Ireland, tracked on sound
 
 Lewis Knights
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanecodd/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanecodd/)*

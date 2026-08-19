@@ -1,6 +1,6 @@
 # Ornery
 
-Ornery is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Les Caves des Vollandes, Geneva on Fri, 25 Sept 2026.
+Ornery is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Les Caves des Vollandes, Geneva on Fri, 25 Sept 2026.
 
 Ornery is a progressive house and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 3 more. Often billed alongside 6RAJ, Barbur and POLS. Next up: Les Caves des Vollandes, Geneva on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Ornery is a progressive house and techno artist based in Italy, tracked on sound
 
 6RAJ, Barbur, POLS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*

@@ -1,6 +1,6 @@
 # Lotty
 
-Lotty is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
+Lotty is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hartmanis Manor, Riga on Fri, 21 Aug 2026.
 
 Lotty is a trance and techno artist based in Latvia, tracked on soundcheck, with 6 sets logged across Basel, Riga and Zurich. Often billed alongside Accelerationism, Alex Nantaya and Carmen Electro. Next up: Hartmanis Manor, Riga on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Lotty is a trance and techno artist based in Latvia, tracked on soundcheck, with
 
 Accelerationism, Alex Nantaya, Carmen Electro
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*

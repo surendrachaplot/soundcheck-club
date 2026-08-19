@@ -1,6 +1,6 @@
 # Woodster
 
-Woodster is a Disco and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club Makossa, London on Fri, 21 Aug 2026.
+Woodster is a Disco and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club Makossa, London on Fri, 21 Aug 2026.
 
 Woodster is a disco and dub artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Matt Prevett, Mr Ben and GENIETUNES. Next up: Club Makossa, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Woodster is a disco and dub artist based in United Kingdom, tracked on soundchec
 
 Matt Prevett, Mr Ben, GENIETUNES
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woodster/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woodster/)*

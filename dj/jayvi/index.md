@@ -1,6 +1,6 @@
 # JayVi
 
-JayVi is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sala El Sol, Madrid on Wed, 19 Aug 2026.
+JayVi is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sala El Sol, Madrid on Wed, 19 Aug 2026.
 
 JayVi is an acid and techno artist based in Spain, tracked on soundcheck, with 36 sets logged across Madrid. Often billed alongside Nixy, Pulpix and Trenzark. Next up: Sala El Sol, Madrid on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ JayVi is an acid and techno artist based in Spain, tracked on soundcheck, with 3
 
 Nixy, Pulpix, Trenzark
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvi/)*

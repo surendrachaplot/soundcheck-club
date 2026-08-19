@@ -1,6 +1,6 @@
 # La Fábrica de Hielo
 
-La Fábrica de Hielo is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "The Room" on Fri, 21 Aug 2026.
+La Fábrica de Hielo is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "The Room" on Fri, 21 Aug 2026.
 
 La Fábrica de Hielo is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Comptche St.. Browse upcoming dates, start times and who's playing. Carrer de Pavia, 37, 46011 València, Spain.
 
@@ -14,4 +14,4 @@ La Fábrica de Hielo is a music venue in Valencia listed on soundcheck. 1 upcomi
 
 Carrer de Pavia, 37, 46011 València, Spain, Valencia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-f-brica-de-hielo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-f-brica-de-hielo/)*

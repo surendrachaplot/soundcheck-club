@@ -1,13 +1,14 @@
 # Arthur Robert
 
-Arthur Robert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
+Arthur Robert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
-Arthur Robert is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bangkok and Berlin and 28 more. Often billed alongside Pink Concrete, Philippa Pacho and Chami. Next up: Lofi, Amsterdam on Sat 26 Sept.
+Arthur Robert is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Bangkok and Berlin and 28 more. Often billed alongside Pink Concrete, Philippa Pacho and Chami. Next up: Fuchs2, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Fuchs2 | Prague |
 | Sat, 26 Sept 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Arthur Robert is a techno and house artist tracked on soundcheck, with 74 sets l
 
 Pink Concrete, Philippa Pacho, Chami
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*

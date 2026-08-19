@@ -1,6 +1,6 @@
-# Palais: ...IsBurning at Palais
+# Palais ...IsBurning at Palais
 
-Palais: ...IsBurning on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Palais ...IsBurning on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # datacentre at Desterro
 
-datacentre at Desterro on Fri 21 Aug, Lisbon. 1 act on the bill: Asio Otus (2). Electro and Electronica. Preview the line-up and save it on soundcheck.
+datacentre at Desterro on Fri 21 Aug, Lisbon. 1 act on the bill: Asio Otus (2). Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

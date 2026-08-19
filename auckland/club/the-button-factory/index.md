@@ -1,6 +1,6 @@
 # The Button Factory
 
-The Button Factory is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "playtree" on Fri, 21 Aug 2026.
+The Button Factory is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "playtree" on Fri, 21 Aug 2026.
 
 The Button Factory is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Bass, Brown Sugar and Dylan C. Browse upcoming dates, start times and who's playing. 2 Abbey Street, Auckland CBD, Auckland 1010.
 
@@ -15,4 +15,4 @@ The Button Factory is a music venue in Auckland listed on soundcheck. 2 upcoming
 
 2 Abbey Street, Auckland CBD, Auckland 1010, Auckland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-button-factory/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-button-factory/)*

@@ -1,6 +1,6 @@
 # Etape
 
-Etape is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Etape is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Etape is a house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam and Paris. Often billed alongside Lenxi, Noord Loop and geri (NL). Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Etape is a house and techno artist tracked on soundcheck, with 12 sets logged ac
 
 Lenxi, Noord Loop, geri (NL)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etape-nl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etape-nl/)*

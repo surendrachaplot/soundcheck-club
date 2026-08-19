@@ -1,6 +1,6 @@
 # SØMA
 
-SØMA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
+SØMA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
 
 SØMA is a house and deep house artist tracked on soundcheck, with 14 sets logged across Berlin, Detroit, Lisbon and Mexicocity. Often billed alongside Rootian, DJ Putilla and Don Esquivel. Next up: Giri, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ SØMA is a house and deep house artist tracked on soundcheck, with 14 sets logge
 
 Rootian, DJ Putilla, Don Esquivel
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma/)*

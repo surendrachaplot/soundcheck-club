@@ -1,6 +1,6 @@
 # Darin Epsilon
 
-Darin Epsilon is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at El Charcon Beach, Malaga on Sat, 29 Aug 2026.
+Darin Epsilon is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at El Charcon Beach, Malaga on Sat, 29 Aug 2026.
 
 Darin Epsilon is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 25 more. Often billed alongside Rafa Silva, VONDA7 and Markus Klee. Next up: El Charcon Beach, Malaga on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Darin Epsilon is a techno and progressive house artist based in United States of
 
 Rafa Silva, VONDA7, Markus Klee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*

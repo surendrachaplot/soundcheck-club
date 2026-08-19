@@ -1,6 +1,6 @@
 # Marcelo Cura
 
-Marcelo Cura is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
+Marcelo Cura is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
 
 Marcelo Cura is a house and minimal artist tracked on soundcheck, with 45 sets logged across Barcelona and Mexicocity. Often billed alongside Alexxx, IVAN POSEIDON and Rele. Next up: Re-Clubbing Basement, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Marcelo Cura is a house and minimal artist tracked on soundcheck, with 45 sets l
 
 Alexxx, IVAN POSEIDON, Rele
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura-fr/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura-fr/)*

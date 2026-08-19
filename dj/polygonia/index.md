@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Polygonia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Polygonia is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Bali and Barcelona and 58 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -30,4 +30,4 @@ Polygonia is a techno and house artist tracked on soundcheck, with 222 sets logg
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

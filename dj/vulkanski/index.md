@@ -1,6 +1,6 @@
 # Vulkanski
 
-Vulkanski is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
+Vulkanski is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
 
 Vulkanski is a techno and ebm artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Frequency Shifter, Boyd Schidt and Liza Rivs. Next up: RSO.BERLIN, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vulkanski is a techno and ebm artist tracked on soundcheck, with 78 sets logged 
 
 Frequency Shifter, Boyd Schidt, Liza Rivs
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*

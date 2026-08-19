@@ -1,6 +1,6 @@
 # Jay Dalawa
 
-Jay Dalawa is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
+Jay Dalawa is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
 
 Jay Dalawa is a house and disco artist based in Philippines, tracked on soundcheck, with 33 sets logged across Detroit and Newyorkcity. Often billed alongside LANSUH, Alcantara and Gabriel Etrata. Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Jay Dalawa is a house and disco artist based in Philippines, tracked on soundche
 
 LANSUH, Alcantara, Gabriel Etrata
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydalawa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydalawa/)*

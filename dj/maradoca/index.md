@@ -1,6 +1,6 @@
 # MARADOCA
 
-MARADOCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
+MARADOCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
 
 MARADOCA is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Leipzig. Often billed alongside OLEA, mp.ulle and nøvae. Next up: elipamanoke, Leipzig on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MARADOCA is a techno and house artist based in Germany, tracked on soundcheck, w
 
 OLEA, mp.ulle, nøvae
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maradoca/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maradoca/)*

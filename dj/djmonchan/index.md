@@ -1,6 +1,6 @@
 # DJ Monchan
 
-DJ Monchan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at BAR Inc, Osaka on Thu, 20 Aug 2026.
+DJ Monchan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at BAR Inc, Osaka on Thu, 20 Aug 2026.
 
 DJ Monchan is a house and deep house artist based in Japan, tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside COTA, For Future's Sake and HYPNOTIC INC.. Next up: BAR Inc, Osaka on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ DJ Monchan is a house and deep house artist based in Japan, tracked on soundchec
 
 COTA, For Future's Sake, HYPNOTIC INC.
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonchan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonchan/)*

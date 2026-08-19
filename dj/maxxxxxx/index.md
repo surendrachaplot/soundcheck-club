@@ -1,6 +1,6 @@
 # Maxxxxxx
 
-Maxxxxxx is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+Maxxxxxx is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 Maxxxxxx is a techno and club artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside SEXMP3, 999ADJ and MSDELICIOUS. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Maxxxxxx is a techno and club artist based in Canada, tracked on soundcheck, wit
 
 SEXMP3, 999ADJ, MSDELICIOUS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxxxx/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxxxx/)*

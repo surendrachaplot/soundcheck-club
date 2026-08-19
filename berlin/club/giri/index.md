@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Giri x Rawa Club - Mexican Ambient Night" on Thu, 20 Aug 2026.
+Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Giri x Rawa Club - Mexican Ambient Night" on Thu, 20 Aug 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Baby Vulture, BENGALA, Blu:sh and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with l
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

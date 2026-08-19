@@ -1,6 +1,6 @@
 # Entek
 
-Entek is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+Entek is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 Entek is a broken beat and jazz artist tracked on soundcheck, with 15 sets logged across Amsterdam, London and Vienna. Often billed alongside Cengiz, Neue Grafik and DJ Programma. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Entek is a broken beat and jazz artist tracked on soundcheck, with 15 sets logge
 
 Cengiz, Neue Grafik, DJ Programma
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entek/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entek/)*

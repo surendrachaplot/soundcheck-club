@@ -1,6 +1,6 @@
 # Evelyn
 
-Evelyn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
+Evelyn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
 
 Evelyn is a techno and house artist tracked on soundcheck, with 33 sets logged across Denver, Detroit, Newyorkcity and Portland and 2 more. Often billed alongside CATA (1), 1morning and Arutani. Next up: Kauz, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Evelyn is a techno and house artist tracked on soundcheck, with 33 sets logged a
 
 CATA (1), 1morning, Arutani
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evelyn-dj/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evelyn-dj/)*

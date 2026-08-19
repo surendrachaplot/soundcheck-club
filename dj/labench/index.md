@@ -1,6 +1,6 @@
 # LABENCH
 
-LABENCH is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
+LABENCH is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
 
 LABENCH is a house artist based in France, tracked on soundcheck, with 12 sets logged across Ibiza, London and Paris. Often billed alongside KARLSEN, Sasson and Saül (FR). Next up: La Clairière, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LABENCH is a house artist based in France, tracked on soundcheck, with 12 sets l
 
 KARLSEN, Sasson, Saül (FR)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labench/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labench/)*

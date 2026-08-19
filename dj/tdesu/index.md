@@ -1,6 +1,6 @@
 # Tdesu
 
-Tdesu is a R&B and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Lobby at Ace Hotel Toronto, Toronto on Sat, 22 Aug 2026.
+Tdesu is a R&B and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Lobby at Ace Hotel Toronto, Toronto on Sat, 22 Aug 2026.
 
 Tdesu is a r&b and club artist based in Canada, tracked on soundcheck, with 33 sets logged across Mexicocity, Montreal, Toronto and Vancouver. Often billed alongside gurafiku, INTROSPKT and Sudaneeya. Next up: The Lobby at Ace Hotel Toronto, Toronto on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Tdesu is a r&b and club artist based in Canada, tracked on soundcheck, with 33 s
 
 gurafiku, INTROSPKT, Sudaneeya
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdesu/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdesu/)*

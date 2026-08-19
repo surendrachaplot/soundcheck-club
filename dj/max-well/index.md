@@ -1,6 +1,6 @@
 # Max Well
 
-Max Well is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Parallel, Amsterdam on Sat, 22 Aug 2026.
+Max Well is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Parallel, Amsterdam on Sat, 22 Aug 2026.
 
 Max Well is a house and club artist based in Romania, tracked on soundcheck, with 11 sets logged across Amsterdam, Cologne, Ibiza and Liverpool and 1 more. Often billed alongside Charlotte Van de Peer, Goody (UK) and JAYDAA. Next up: Parallel, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Max Well is a house and club artist based in Romania, tracked on soundcheck, wit
 
 Charlotte Van de Peer, Goody (UK), JAYDAA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/max-well/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/max-well/)*

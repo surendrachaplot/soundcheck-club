@@ -1,6 +1,6 @@
 # ANCHIN
 
-ANCHIN is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
+ANCHIN is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
 
 ANCHIN is a hip-hop and house artist based in Japan, tracked on soundcheck, with 17 sets logged across Kyoto and Osaka. Often billed alongside TAKENOKO, Zest and ryota dj. Next up: Socore Factory, Osaka on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ ANCHIN is a hip-hop and house artist based in Japan, tracked on soundcheck, with
 
 TAKENOKO, Zest, ryota dj
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anchin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anchin/)*

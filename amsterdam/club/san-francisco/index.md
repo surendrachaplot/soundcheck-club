@@ -1,6 +1,6 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "RA25: Amsterdam - Greenhouse Sessions live" on Thu, 22 Oct 2026.
+San Francisco is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "RA25: Amsterdam - Greenhouse Sessions live" on Thu, 22 Oct 2026.
 
 San Francisco is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
@@ -14,4 +14,4 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 1 upcoming nig
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

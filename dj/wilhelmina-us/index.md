@@ -1,6 +1,6 @@
 # WILHELMINA
 
-WILHELMINA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bastet, Philadelphia on Fri, 21 Aug 2026.
+WILHELMINA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bastet, Philadelphia on Fri, 21 Aug 2026.
 
 WILHELMINA is a club and techno artist based in Philippines, tracked on soundcheck, with 35 sets logged across Chicago, Houston, Melbourne and Newyorkcity and 4 more. Often billed alongside Castillonaire, EMZ! and rogue.wav. Next up: Bastet, Philadelphia on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ WILHELMINA is a club and techno artist based in Philippines, tracked on soundche
 
 Castillonaire, EMZ!, rogue.wav
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*

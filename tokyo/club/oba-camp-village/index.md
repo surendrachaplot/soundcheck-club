@@ -1,6 +1,6 @@
 # Oba Camp Village
 
-Oba Camp Village is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "GROW THE CULTURE OPEN AIR 2026" on Sat, 7 Nov 2026.
+Oba Camp Village is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "GROW THE CULTURE OPEN AIR 2026" on Sat, 7 Nov 2026.
 
 Oba Camp Village is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including akii, Big Animal Theory, Dayzero and Dx and 2 more. Browse upcoming dates, start times and who's playing. 3741 Okuno, Hinode-machi, Nishitama-gun, Tokyo.
 
@@ -14,4 +14,4 @@ Oba Camp Village is a music venue in Tokyo listed on soundcheck. 1 upcoming nigh
 
 3741 Okuno, Hinode-machi, Nishitama-gun, Tokyo, Tokyo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oba-camp-village/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oba-camp-village/)*

@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
+Nicole Moudaber is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 Nicole Moudaber is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Hï Ibiza, Ibiza on Tue 18 Aug.
 
@@ -17,6 +17,7 @@ Nicole Moudaber is a techno and house artist tracked on soundcheck, with 130 set
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 18 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
 - Ritter Butzke, Berlin — Sat, 15 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
@@ -24,10 +25,9 @@ Nicole Moudaber is a techno and house artist tracked on soundcheck, with 130 set
 - Lofi, Amsterdam — Sat, 8 Aug 2026
 - Chinois Ibiza, Ibiza — Mon, 6 Jul 2026
 - Ku Barcelona, Barcelona — Sun, 5 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

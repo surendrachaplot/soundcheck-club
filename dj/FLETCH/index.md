@@ -1,6 +1,6 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+FLETCH is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
 FLETCH is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Birmingham and Boston and 20 more. Often billed alongside Mason Collective, Max Dean and REME. Next up: Legal, Munich on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ FLETCH is a house and tech house artist tracked on soundcheck, with 60 sets logg
 
 Mason Collective, Max Dean, REME
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

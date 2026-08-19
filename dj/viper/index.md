@@ -1,6 +1,6 @@
 # Viper
 
-Viper is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Viper is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 Viper is an afro house and techno artist tracked on soundcheck, with 6 sets logged across Cologne, London, Mexicocity and Newyorkcity. Often billed alongside Eszter, AGNY and Pardis. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Viper is an afro house and techno artist tracked on soundcheck, with 6 sets logg
 
 Eszter, AGNY, Pardis
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*

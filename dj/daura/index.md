@@ -1,6 +1,6 @@
 # Daura
 
-Daura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
+Daura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
 
 Daura is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Brussels and Dusseldorf and 20 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: THE MAGICK BAR, Rome on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Daura is a techno and house artist tracked on soundcheck, with 54 sets logged ac
 
 Moaad BKR, Mr. Murray, Cosmic JD
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

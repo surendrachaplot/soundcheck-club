@@ -1,6 +1,6 @@
 # 2lovers
 
-2lovers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 14 Sept 2026.
+2lovers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 14 Sept 2026.
 
 2lovers is a house and deep house artist based in Spain, tracked on soundcheck, with 5 sets logged across Ibiza and Madrid. Often billed alongside Oscar Colorado, Andrea Raffa and Bachi. Next up: Chinois Ibiza, Ibiza on Mon 14 Sept.
 
@@ -21,4 +21,4 @@
 
 Oscar Colorado, Andrea Raffa, Bachi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2lovers/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2lovers/)*

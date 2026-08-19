@@ -1,6 +1,6 @@
 # Malte Süß
 
-Malte Süß is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Silbergold, Frankfurt on Sat, 22 Aug 2026.
+Malte Süß is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Silbergold, Frankfurt on Sat, 22 Aug 2026.
 
 Malte Süß is a house and disco artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Luca Olivotto, Michael Lane and Eva Crystaltips. Next up: Silbergold, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Malte Süß is a house and disco artist based in Germany, tracked on soundcheck,
 
 Luca Olivotto, Michael Lane, Eva Crystaltips
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesuß/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesuß/)*

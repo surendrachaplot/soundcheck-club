@@ -1,6 +1,6 @@
 # SKYLERMYLER
 
-SKYLERMYLER is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
+SKYLERMYLER is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
 SKYLERMYLER is an electronica and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside CLO (2), Céleste and DART. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ SKYLERMYLER is an electronica and progressive house artist based in United Kingd
 
 CLO (2), Céleste, DART
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*

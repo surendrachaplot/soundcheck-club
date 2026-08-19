@@ -1,6 +1,6 @@
 # Nihal El Aasar
 
-Nihal El Aasar is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Thu, 20 Aug 2026.
+Nihal El Aasar is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Thu, 20 Aug 2026.
 
 Nihal El Aasar is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Glasgow, London and Manchester. Often billed alongside Toumba, Fantastic Man and Jeneen. Next up: M.O.T, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Nihal El Aasar is an experimental and club artist based in United Kingdom, track
 
 Toumba, Fantastic Man, Jeneen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*

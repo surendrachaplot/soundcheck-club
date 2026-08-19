@@ -1,6 +1,6 @@
 # Domenic Cappello
 
-Domenic Cappello is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Domenic Cappello is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 Domenic Cappello is a house and techno artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: FOLD, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Domenic Cappello is a house and techno artist based in United Kingdom, tracked o
 
 Alien Communications, DJ Harri, Stevie Cox
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*

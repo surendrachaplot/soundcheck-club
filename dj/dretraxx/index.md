@@ -1,6 +1,6 @@
 # Dretraxx
 
-Dretraxx is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 20 Aug 2026.
+Dretraxx is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 20 Aug 2026.
 
 Dretraxx is an acid and techno artist tracked on soundcheck, with 65 sets logged across Detroit and Toronto. Often billed alongside Tammy Lakkis, Beau Wanzer and Dru Ruiz. Next up: Northern Lights Lounge, Detroit on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Dretraxx is an acid and techno artist tracked on soundcheck, with 65 sets logged
 
 Tammy Lakkis, Beau Wanzer, Dru Ruiz
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dretraxx/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dretraxx/)*

@@ -1,6 +1,6 @@
 # Kray Atief
 
-Kray Atief is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at murmur, Amsterdam on Fri, 21 Aug 2026.
+Kray Atief is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at murmur, Amsterdam on Fri, 21 Aug 2026.
 
 Kray Atief is a dub and experimental artist tracked on soundcheck, with 18 sets logged across Amsterdam. Often billed alongside SBS (2), Anna Randt and Annebel. Next up: murmur, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kray Atief is a dub and experimental artist tracked on soundcheck, with 18 sets 
 
 SBS (2), Anna Randt, Annebel
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krayatief/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krayatief/)*

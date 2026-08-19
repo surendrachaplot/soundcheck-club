@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta" on Fri, 21 Aug 2026.
+Société des arts technologiques is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta" on Fri, 21 Aug 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including A Guy Called Gerald, Alan Harman, Barker and Cabaret Voltaire and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -23,4 +23,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

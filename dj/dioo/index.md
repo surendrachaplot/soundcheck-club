@@ -1,6 +1,6 @@
 # Dioo
 
-Dioo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
+Dioo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
 
 Dioo is a techno and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside CDJ-666, I-RO and Joya Astou. Next up: CLUB RAUM, Amsterdam on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Dioo is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 CDJ-666, I-RO, Joya Astou
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dioo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dioo/)*

@@ -1,6 +1,6 @@
 # LFT (KR)
 
-LFT (KR) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
+LFT (KR) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
 
 LFT (KR) is a club and electronica artist based in South Korea, tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside pa de haan., JIHEE KIM and AEIDA. Next up: Cakeshop, Seoul on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ LFT (KR) is a club and electronica artist based in South Korea, tracked on sound
 
 pa de haan., JIHEE KIM, AEIDA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lft-kr/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lft-kr/)*

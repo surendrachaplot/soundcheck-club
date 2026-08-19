@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Phoenix Landing, Boston on Thu, 20 Aug 2026.
+Fred V is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phoenix Landing, Boston on Thu, 20 Aug 2026.
 
 Fred V is a drum & bass and bass artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Boston and 15 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Phoenix Landing, Boston on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Fred V is a drum & bass and bass artist tracked on soundcheck, with 40 sets logg
 
 Flava D, Whiney, Metrik
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

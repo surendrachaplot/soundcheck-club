@@ -1,6 +1,6 @@
 # Iluvonionz
 
-Iluvonionz is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
+Iluvonionz is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
 
 Iluvonionz is a bass and jungle artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside CryoutMercy, Jonquar and KC (NYC). Next up: Bossa Nova Civic Club, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Iluvonionz is a bass and jungle artist tracked on soundcheck, with 10 sets logge
 
 CryoutMercy, Jonquar, KC (NYC)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iluvonionz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iluvonionz/)*

@@ -1,6 +1,6 @@
 # Kobashi Mitsuki
 
-Kobashi Mitsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Oath, Tokyo on Tue, 18 Aug 2026.
+Kobashi Mitsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Oath, Tokyo on Tue, 18 Aug 2026.
 
 Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundcheck, with 80 sets logged across Osaka and Tokyo. Often billed alongside Terax, niwa and lostbaggage. Next up: Oath, Tokyo on Tue 18 Aug.
 
@@ -13,6 +13,7 @@ Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundche
 
 ## Recently played
 
+- Oath, Tokyo — Tue, 18 Aug 2026
 - Oath, Tokyo — Tue, 11 Aug 2026
 - Oath, Tokyo — Sat, 25 Jul 2026
 - Azumaya, Tokyo — Thu, 16 Jul 2026
@@ -20,10 +21,9 @@ Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundche
 - DJ Bar Bridge Shinjuku, Tokyo — Mon, 6 Jul 2026
 - Oath, Tokyo — Tue, 30 Jun 2026
 - Azumaya, Tokyo — Mon, 29 Jun 2026
-- Koara, Tokyo — Thu, 25 Jun 2026
 
 ## Shares bills with
 
 Terax, niwa, lostbaggage
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*

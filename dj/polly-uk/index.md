@@ -1,6 +1,6 @@
 # POLLY (UK)
 
-POLLY (UK) is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
+POLLY (UK) is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
 
 POLLY (UK) is a trance and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Adore Hathaway, Meow Meow and ACCARD. Next up: The Queen Adelaide, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ POLLY (UK) is a trance and garage artist based in United Kingdom, tracked on sou
 
 Adore Hathaway, Meow Meow, ACCARD
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polly-uk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polly-uk/)*

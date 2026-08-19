@@ -1,6 +1,6 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
+papa jazz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
 
 papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 92 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Rafatel, Barreto and Duke Skylocker (Disco Dust). Next up: Palais, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ papa jazz is a house and deep house artist based in Canada, tracked on soundchec
 
 Rafatel, Barreto, Duke Skylocker (Disco Dust)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*

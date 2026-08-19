@@ -1,6 +1,6 @@
 # Dynamic Experience
 
-Dynamic Experience is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
+Dynamic Experience is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Malzfabrik, Berlin on Sat, 22 Aug 2026.
 
 Dynamic Experience is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Krakow and Leipzig. Often billed alongside MOMSON, Repthiloid and 0megavybe. Next up: Malzfabrik, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dynamic Experience is a techno and trance artist based in Germany, tracked on so
 
 MOMSON, Repthiloid, 0megavybe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicexperience/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicexperience/)*

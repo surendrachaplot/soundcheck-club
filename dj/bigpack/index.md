@@ -1,6 +1,6 @@
 # Big Pack
 
-Big Pack is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sunday Sunday, Mexico City on Sat, 22 Aug 2026.
+Big Pack is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sunday Sunday, Mexico City on Sat, 22 Aug 2026.
 
 Big Pack is a house and deep house artist tracked on soundcheck, with 9 sets logged across Austin and Mexicocity. Often billed alongside Duke Skylocker (Disco Dust), Homero Espinosa and Alena Vox. Next up: Sunday Sunday, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Big Pack is a house and deep house artist tracked on soundcheck, with 9 sets log
 
 Duke Skylocker (Disco Dust), Homero Espinosa, Alena Vox
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigpack/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigpack/)*

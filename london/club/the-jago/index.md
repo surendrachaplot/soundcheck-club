@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Energy Exchange Records : Tones of Resistance" on Thu, 20 Aug 2026.
+The Jago is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Energy Exchange Records : Tones of Resistance" on Thu, 20 Aug 2026.
 
 The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Elle Shimada, Joseph Russell and Magic Manfred. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -18,4 +18,4 @@ The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

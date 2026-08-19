@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 52 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Anyma presents ÆDEN" on Tue, 18 Aug 2026.
+[UNVRS] is a music venue in Ibiza with 52 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Anyma presents ÆDEN" on Tue, 18 Aug 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 52 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and AJ Christou and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -23,4 +23,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

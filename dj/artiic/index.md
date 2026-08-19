@@ -1,14 +1,15 @@
 # ARTIIC
 
-ARTIIC is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cadavra, Madrid on Sat, 22 Aug 2026.
+ARTIIC is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Cadavra, Madrid on Sat, 22 Aug 2026.
 
-ARTIIC is an electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona and Madrid. Often billed alongside Bustins, Arlo and Eli Kapowski. Next up: Cadavra, Madrid on Sat 22 Aug.
+ARTIIC is an electronica and electro artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona and Madrid. Often billed alongside Bustins, Arlo and Eli Kapowski. Next up: Cadavra, Madrid on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Cadavra | Madrid |
+| Thu, 3 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ ARTIIC is an electronica artist based in Spain, tracked on soundcheck, with 4 se
 
 Bustins, Arlo, Eli Kapowski
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artiic/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artiic/)*

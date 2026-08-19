@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Joshua Brooks, Manchester on Fri, 21 Aug 2026.
 
 Doc Scott is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 26 more. Often billed alongside Goldie, Ant TC1 and Grooverider. Next up: Joshua Brooks, Manchester on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Doc Scott is a drum & bass and jungle artist tracked on soundcheck, with 102 set
 
 Goldie, Ant TC1, Grooverider
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

@@ -1,6 +1,6 @@
 # Miami Wars
 
-Miami Wars is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Summer - Winyl Market Zone" on Sun, 23 Aug 2026.
+Miami Wars is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Summer - Winyl Market Zone" on Sun, 23 Aug 2026.
 
 Miami Wars is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Solec 8, 00-439 Warszawa.
 
@@ -14,4 +14,4 @@ Miami Wars is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Br
 
 Solec 8, 00-439 Warszawa, Warsaw
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*

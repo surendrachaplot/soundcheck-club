@@ -1,8 +1,8 @@
 # Maribou State
 
-Maribou State is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Maribou State is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
-Maribou State is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Chris Stussy, Adam Ten and Blawan. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+Maribou State is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Chris Stassy, Adam Ten and Blawan. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Maribou State is a house and electronica artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-Chris Stussy, Adam Ten, Blawan
+Chris Stassy, Adam Ten, Blawan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

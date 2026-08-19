@@ -1,6 +1,6 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "PANIC REOPENING PARTY: SOLIA" on Thu, 27 Aug 2026.
+Panic Room is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "PANIC REOPENING PARTY: SOLIA" on Thu, 27 Aug 2026.
 
 Panic Room is a music venue in Paris listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
@@ -16,4 +16,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 3 upcoming nights. Br
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

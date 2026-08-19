@@ -1,6 +1,6 @@
 # AD (UK)
 
-AD (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+AD (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 AD (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Bristol. Often billed alongside A.M.C., Anton X and Atlas (2). Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ AD (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 A.M.C., Anton X, Atlas (2)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ad-uk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ad-uk/)*

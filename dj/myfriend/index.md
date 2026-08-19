@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+My Friend is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 My Friend is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Austin, Belfast, Berlin and Dublin and 9 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ My Friend is a house and progressive house artist based in United Kingdom, track
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

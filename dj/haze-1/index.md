@@ -1,6 +1,6 @@
 # Haze (1)
 
-Haze (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+Haze (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
 Haze (1) is a house and jungle artist based in Ukraine, tracked on soundcheck, with 13 sets logged across Berlin, Brighton, Ibiza and Lyon and 3 more. Often billed alongside Vincent Lang, Julian Rtr and VSMR. Next up: Legal, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Haze (1) is a house and jungle artist based in Ukraine, tracked on soundcheck, w
 
 Vincent Lang, Julian Rtr, VSMR
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*

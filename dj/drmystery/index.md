@@ -1,6 +1,6 @@
 # DR MYSTERY
 
-DR MYSTERY is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at renae, Manchester on Thu, 20 Aug 2026.
+DR MYSTERY is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at renae, Manchester on Thu, 20 Aug 2026.
 
 DR MYSTERY is a techno and bass artist based in Latvia, tracked on soundcheck, with 32 sets logged across London, Manchester, Riga and Sheffield. Often billed alongside Obeka, Henzo and Korzi. Next up: renae, Manchester on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ DR MYSTERY is a techno and bass artist based in Latvia, tracked on soundcheck, w
 
 Obeka, Henzo, Korzi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*

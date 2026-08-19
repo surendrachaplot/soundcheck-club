@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 21 Aug 2026.
+Bambounou is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 21 Aug 2026.
 
 Bambounou is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Karmen Camina, Strasbourg on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Bambounou is a techno and house artist tracked on soundcheck, with 163 sets logg
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

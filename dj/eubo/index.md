@@ -1,6 +1,6 @@
 # Eubo
 
-Eubo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 27 Aug 2026.
+Eubo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 27 Aug 2026.
 
 Eubo is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Gourlay, E.DN and Liam Cappello. Next up: La Cheetah Club, Glasgow on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Eubo is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 Gourlay, E.DN, Liam Cappello
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eubo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eubo/)*

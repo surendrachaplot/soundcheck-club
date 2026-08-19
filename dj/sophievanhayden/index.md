@@ -1,6 +1,6 @@
 # Sophie van Hayden
 
-Sophie van Hayden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
+Sophie van Hayden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
 
 Sophie van Hayden is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, Patrick Scuro and Alex Xandra. Next up: Culture Box, Copenhagen on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Sophie van Hayden is a techno and house artist based in Germany, tracked on soun
 
 Fnatik, Patrick Scuro, Alex Xandra
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*

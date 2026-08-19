@@ -1,6 +1,6 @@
 # Merlin Cum
 
-Merlin Cum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Monster Ronson's Ichiban Karaoke, Berlin on Wed, 16 Sept 2026.
+Merlin Cum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Monster Ronson's Ichiban Karaoke, Berlin on Wed, 16 Sept 2026.
 
 Merlin Cum is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin and Riga. Often billed alongside Freiya March, Marss The Person and BLEACH.LIVE. Next up: Monster Ronson's Ichiban Karaoke, Berlin on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Merlin Cum is a techno and house artist tracked on soundcheck, with 16 sets logg
 
 Freiya March, Marss The Person, BLEACH.LIVE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*

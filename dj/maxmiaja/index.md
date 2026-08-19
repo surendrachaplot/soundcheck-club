@@ -1,6 +1,6 @@
 # Max Miaja
 
-Max Miaja is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Salon Badin, Montreal on Thu, 20 Aug 2026.
+Max Miaja is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Salon Badin, Montreal on Thu, 20 Aug 2026.
 
 Max Miaja is a house artist tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside Dapapa and The Director. Next up: Salon Badin, Montreal on Thu 20 Aug.
 
@@ -20,4 +20,4 @@ Max Miaja is a house artist tracked on soundcheck, with 4 sets logged across Mon
 
 Dapapa, The Director
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmiaja/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmiaja/)*

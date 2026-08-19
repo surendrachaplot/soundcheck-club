@@ -1,6 +1,6 @@
 # Secret Venue in Minatoku-Nishiazabu
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Inhale" on Fri, 21 Aug 2026.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Inhale" on Fri, 21 Aug 2026.
 
 Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Bundo, DØLLHAUS, ERIMIYA and imus and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundche
 | Sat, 19 Sept 2026 | VELTRAUM / Paula Koski | Bundo, ERIMIYA, NITA, Paula Koski, imus |
 | Sat, 14 Nov 2026 | Kosmopolis - TBA | Neutran |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*

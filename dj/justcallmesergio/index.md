@@ -1,6 +1,6 @@
 # justcallmesergio
 
-justcallmesergio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sekta Selekta, Krakow on Fri, 21 Aug 2026.
+justcallmesergio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sekta Selekta, Krakow on Fri, 21 Aug 2026.
 
 justcallmesergio is a house and electro artist tracked on soundcheck, with 43 sets logged across Berlin, Krakow and Oslo. Often billed alongside Rina Katen, Loves_kills and elliephunk. Next up: Sekta Selekta, Krakow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ justcallmesergio is a house and electro artist tracked on soundcheck, with 43 se
 
 Rina Katen, Loves_kills, elliephunk
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justcallmesergio/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justcallmesergio/)*

@@ -1,6 +1,6 @@
 # Sofried
 
-Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Surfside, Malta on Wed, 19 Aug 2026.
+Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Surfside, Malta on Wed, 19 Aug 2026.
 
 Sofried is a techno and house artist tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside PHYNYKS, Aiden (DE) and Andrea Giordani. Next up: Surfside, Malta on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Sofried is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 PHYNYKS, Aiden (DE), Andrea Giordani
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*

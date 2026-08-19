@@ -1,6 +1,6 @@
 # Junior Pappa
 
-Junior Pappa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Island Athens Riviera, Athens on Thu, 20 Aug 2026.
+Junior Pappa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Island Athens Riviera, Athens on Thu, 20 Aug 2026.
 
 Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Agent Greg and Alesso. Next up: Island Athens Riviera, Athens on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets lo
 
 Fused, Agent Greg, Alesso
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*

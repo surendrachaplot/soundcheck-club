@@ -1,6 +1,6 @@
 # DC Salas
 
-DC Salas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
+DC Salas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
 
 DC Salas is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sara Dziri, Innershades and Bon Public. Next up: Bike Jesus, Prague on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DC Salas is a house and techno artist tracked on soundcheck, with 107 sets logge
 
 Sara Dziri, Innershades, Bon Public
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*

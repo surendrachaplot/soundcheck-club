@@ -1,6 +1,6 @@
 # Tribal Link
 
-Tribal Link is a Grime and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
+Tribal Link is a Grime and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
 
 Tribal Link is a grime and techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Acid Carbon, !NN and Amor Ante. Next up: Bar A Bar, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Tribal Link is a grime and techno artist tracked on soundcheck, with 9 sets logg
 
 Acid Carbon, !NN, Amor Ante
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triballink/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triballink/)*

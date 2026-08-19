@@ -1,6 +1,6 @@
 # Pianos
 
-Pianos is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "BLOOM with JIALING, DJ-SUN, Bodegaparty, Mo Mami, Constantine, TCJ, and Mikasa" on Thu, 20 Aug 2026.
+Pianos is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "BLOOM with JIALING, DJ-SUN, Bodegaparty, Mo Mami, Constantine, TCJ, and Mikasa" on Thu, 20 Aug 2026.
 
 Pianos is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Adriatic, Bodegaparty, Constantine (US) and DJ-SUN and 2 more. Browse upcoming dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
@@ -18,4 +18,4 @@ Pianos is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, 
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

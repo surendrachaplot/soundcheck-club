@@ -1,6 +1,6 @@
 # Max Essa
 
-Max Essa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at DJ Bar Bridge, Tokyo on Fri, 4 Sept 2026.
+Max Essa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at DJ Bar Bridge, Tokyo on Fri, 4 Sept 2026.
 
 Max Essa is a house and techno artist based in Japan, tracked on soundcheck, with 89 sets logged across Tokyo. Often billed alongside Kengo, DJ Nori and Pine. Next up: DJ Bar Bridge, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Max Essa is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Kengo, DJ Nori, Pine
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxessa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxessa/)*

@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
+TASSERY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
 
 TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 16 more. Often billed alongside 6EJOU, Aphøtic and Carla Schmitt. Next up: Club Vaag, Antwerp on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 
 6EJOU, Aphøtic, Carla Schmitt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

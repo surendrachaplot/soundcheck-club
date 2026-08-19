@@ -1,6 +1,6 @@
 # Sanchez (1)
 
-Sanchez (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 31 Aug 2026.
+Sanchez (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 31 Aug 2026.
 
 Sanchez (1) is a house and deep house artist based in Spain, tracked on soundcheck, with 5 sets logged across Ibiza, Newyorkcity, Saopaulo and Sydney. Often billed alongside Oscar Colorado, Ben Nott and Daniel Dutts. Next up: Chinois Ibiza, Ibiza on Mon 31 Aug.
 
@@ -21,4 +21,4 @@ Sanchez (1) is a house and deep house artist based in Spain, tracked on soundche
 
 Oscar Colorado, Ben Nott, Daniel Dutts
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanchez-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanchez-1/)*

@@ -1,6 +1,6 @@
 # Matt Tecson
 
-Matt Tecson is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KW Studios, Vancouver on Sat, 22 Aug 2026.
+Matt Tecson is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KW Studios, Vancouver on Sat, 22 Aug 2026.
 
 Matt Tecson is an experimental and club artist tracked on soundcheck, with 14 sets logged across Montreal, Osaka and Vancouver. Often billed alongside Ivy Hollivana, avas and x/o. Next up: KW Studios, Vancouver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Matt Tecson is an experimental and club artist tracked on soundcheck, with 14 se
 
 Ivy Hollivana, avas, x/o
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matttecson/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matttecson/)*

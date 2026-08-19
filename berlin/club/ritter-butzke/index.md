@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Community-Rave - free entry until 7pm" on Fri, 21 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Community-Rave - free entry until 7pm" on Fri, 21 Aug 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aimé You, Anne-Sophie Selig, Antic Soul and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -17,10 +17,10 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming night
 | Sat, 29 Aug 2026 | BERLIN IST RAW at Garten der Nacht | Anne-Sophie Selig, Dompe, Jens Schwan, Jesper Aubin, Phonique, Raj Shindi |
 | Sat, 29 Aug 2026 | SAVE RAW RAVE Afterparty | Anne-Sophie Selig, Antic Soul, Asem Shama, Blame the Booker, Diskosport, Dompe, EUROPLUS, Emerson, Ivana, Jens Schwan, Jesper Aubin, Kenzura, Lola Brennt, MIMI404, Martha O., Morelia, Nat SuPrise, Phonique, Raj Shindi, Userkiller, gem.ini |
 | Fri, 4 Sept 2026 | Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM | Bøgen, Misha Svirid, Nico Morano, Stefan Muchte, Syntonos, TONI, Vlad Yaki |
-| Sat, 5 Sept 2026 | Giorgia Angiuli Live (Open Air) - free entry until 7pm | Giorgia Angiuli |
+| Sat, 5 Sept 2026 | Giorgia Angiuli Live (Open Air) - free entry until 7pm | BOHO, Ele Luz, Giorgia Angiuli, Gunnar Stiller |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

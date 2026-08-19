@@ -1,6 +1,6 @@
 # Nathan Pinder
 
-Nathan Pinder is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Outdoor Location, Brisbane on Sat, 22 Aug 2026.
+Nathan Pinder is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Outdoor Location, Brisbane on Sat, 22 Aug 2026.
 
 Nathan Pinder is a house and garage artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Brisbane, Brussels, Leeds and Liverpool and 7 more. Often billed alongside Arthur Onni, Ethan. and Krane. Next up: TBA - Secret Outdoor Location, Brisbane on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nathan Pinder is a house and garage artist based in United Kingdom, tracked on s
 
 Arthur Onni, Ethan., Krane
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanpinder/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanpinder/)*

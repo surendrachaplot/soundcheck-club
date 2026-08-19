@@ -1,6 +1,6 @@
 # Miguel De Bois
 
-Miguel De Bois is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Metro Theatre, Sydney on Sat, 22 Aug 2026.
+Miguel De Bois is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Metro Theatre, Sydney on Sat, 22 Aug 2026.
 
 Miguel De Bois is a house and trance artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Kendal, OLIVIA LENSEN and LAMMER. Next up: The Metro Theatre, Sydney on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Miguel De Bois is a house and trance artist based in Netherlands, tracked on sou
 
 Kendal, OLIVIA LENSEN, LAMMER
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*

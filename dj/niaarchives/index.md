@@ -1,6 +1,6 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FS., Tokyo on Fri, 28 Aug 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FS., Tokyo on Fri, 28 Aug 2026.
 
 Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 32 more. Often billed alongside Overmono, SHERELLE and Jyoty. Next up: FS., Tokyo on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 92 s
 
 Overmono, SHERELLE, Jyoty
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

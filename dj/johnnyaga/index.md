@@ -1,6 +1,6 @@
 # Johnnyaga
 
-Johnnyaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
+Johnnyaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
 
 Johnnyaga is a techno and trance artist tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside Mondenkind, Bendix and Rn86. Next up: elipamanoke, Leipzig on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ Johnnyaga is a techno and trance artist tracked on soundcheck, with 8 sets logge
 
 Mondenkind, Bendix, Rn86
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyaga/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyaga/)*

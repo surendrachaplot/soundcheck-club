@@ -1,6 +1,6 @@
 # Steph Who?
 
-Steph Who? is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
+Steph Who? is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
 
 Steph Who? is a techno and ghetto tech artist tracked on soundcheck, with 28 sets logged across Detroit. Often billed alongside DJ Her Boyfriend, Swingvibe and Billy Winters. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Steph Who? is a techno and ghetto tech artist tracked on soundcheck, with 28 set
 
 DJ Her Boyfriend, Swingvibe, Billy Winters
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephwho/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephwho/)*

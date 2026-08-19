@@ -1,6 +1,6 @@
 # And.re
 
-And.re is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
+And.re is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
 
 And.re is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Ibiza and Stuttgart and 1 more. Often billed alongside tobe, Kevin Cook and Don Juanito. Next up: TBA - East Gallery Dock, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ And.re is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 tobe, Kevin Cook, Don Juanito
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*

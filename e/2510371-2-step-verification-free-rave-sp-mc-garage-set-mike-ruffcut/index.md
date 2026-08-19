@@ -1,6 +1,6 @@
-# 2-Step Verification - FREE RAVE - SP:MC (Garage Set) / MIke 'Ruffcut' Lloyd / Lily London at Colour Factory
+# 2-Step Verification - FREE RAVE - SP:MC (Garage Set) / Mike 'Ruffcut' Lloyd at Colour Factory
 
-2-Step Verification - FREE RAVE - SP:MC (Garage Set) / MIke 'Ruffcut' Lloyd / Lily London at Colour Factory on Fri 11 Sept, London. 3 acts on the bill: Lily London, Ruggz and SP:MC. House and Garage. Preview the line-up and save it on soundcheck.
+2-Step Verification - FREE RAVE - SP:MC (Garage Set) / Mike 'Ruffcut' Lloyd at Colour Factory on Fri 11 Sept, London. 4 acts on the bill: Bubski, Lily London, Ruggz and SP:MC. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Bubski
 - Lily London
 - Ruggz
 - SP:MC

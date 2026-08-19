@@ -1,6 +1,6 @@
 # Scoopsi
 
-Scoopsi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Blue Room, Montreal on Sat, 29 Aug 2026.
+Scoopsi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Blue Room, Montreal on Sat, 29 Aug 2026.
 
 Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, with 89 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 6 more. Often billed alongside Annina, Jack Clark and Jonaku (DE). Next up: Blue Room, Montreal on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Annina, Jack Clark, Jonaku (DE)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*

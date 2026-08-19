@@ -1,14 +1,15 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
+Tala Berg is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
 
-Tala Berg is a techno and downtempo artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne and Munich. Often billed alongside Barnow, Prismode and Rosan. Next up: Bahnwärter Thiel, Munich on Sat 22 Aug.
+Tala Berg is a techno and downtempo artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Munich. Often billed alongside Barnow, Elisa Elisa and Prismode. Next up: Bahnwärter Thiel, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Bahnwärter Thiel | Munich |
+| Sat, 12 Sept 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Tala Berg is a techno and downtempo artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Barnow, Prismode, Rosan
+Barnow, Elisa Elisa, Prismode
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

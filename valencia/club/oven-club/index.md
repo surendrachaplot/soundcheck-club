@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Disco Sour: SOUMZ b2b Giorgio Bonetti" on Wed, 19 Aug 2026.
+Oven Club is a music venue in Valencia with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Disco Sour: SOUMZ b2b Giorgio Bonetti" on Wed, 19 Aug 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -21,4 +21,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, 
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

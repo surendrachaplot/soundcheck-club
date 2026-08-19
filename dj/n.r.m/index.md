@@ -1,6 +1,6 @@
 # N.R.M
 
-N.R.M is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
+N.R.M is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
 
 N.R.M is a techno and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, ENNIO and HAMY. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ N.R.M is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Faerber, ENNIO, HAMY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*

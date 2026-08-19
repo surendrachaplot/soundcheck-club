@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Scorpios, Mykonos on Thu, 20 Aug 2026.
+Damian Lazarus is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Scorpios, Mykonos on Thu, 20 Aug 2026.
 
 Damian Lazarus is a house and tech house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Scorpios, Mykonos on Thu 20 Aug.
 
@@ -32,4 +32,4 @@ Damian Lazarus is a house and tech house artist tracked on soundcheck, with 204 
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

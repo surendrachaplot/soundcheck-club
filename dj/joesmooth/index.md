@@ -1,6 +1,6 @@
 # Joe Smooth
 
-Joe Smooth is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
+Joe Smooth is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
 
 Joe Smooth is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Chicago, London and Marseille. Often billed alongside Alex Pi, DJ Pierre and Gettoblaster. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Joe Smooth is a house and techno artist based in United States of America, track
 
 Alex Pi, DJ Pierre, Gettoblaster
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joesmooth/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joesmooth/)*

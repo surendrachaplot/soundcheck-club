@@ -1,6 +1,6 @@
 # ZeroSound
 
-ZeroSound is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
+ZeroSound is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
 
 ZeroSound is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Leipzig. Often billed alongside Mondenkind, Johnnyaga and OutWithJane. Next up: elipamanoke, Leipzig on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ ZeroSound is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Mondenkind, Johnnyaga, OutWithJane
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerosound/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerosound/)*

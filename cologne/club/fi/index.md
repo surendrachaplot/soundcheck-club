@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "fi Garten x Langer Tag x SPFDJ & Parakeet & Plasma" on Sat, 22 Aug 2026.
+fi is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "fi Garten x Langer Tag x SPFDJ & Parakeet & Plasma" on Sat, 22 Aug 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Ada, Aino DJ, Alex Kassian and alleira and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -20,4 +20,4 @@ fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

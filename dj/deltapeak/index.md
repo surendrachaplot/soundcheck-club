@@ -1,8 +1,8 @@
 # Deltapeak
 
-Deltapeak is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+Deltapeak is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
-Deltapeak is a techno and trance artist tracked on soundcheck, with 71 sets logged across Berlin, Budapest, London and Munich and 2 more. Often billed alongside August Kind, bbymeister and jeanska. Next up: ÆDEN, Berlin on Fri 21 Aug.
+Deltapeak is a techno and trance artist tracked on soundcheck, with 72 sets logged across Berlin, Budapest, London and Munich and 2 more. Often billed alongside August Kind, bbymeister and jeanska. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Deltapeak is a techno and trance artist tracked on soundcheck, with 71 sets logg
 | Fri, 21 Aug 2026 | ÆDEN | Berlin |
 | Fri, 4 Sept 2026 | ://about blank | Berlin |
 | Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
+| Tue, 20 Oct 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Deltapeak is a techno and trance artist tracked on soundcheck, with 71 sets logg
 
 August Kind, bbymeister, jeanska
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltapeak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltapeak/)*

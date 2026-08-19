@@ -1,14 +1,13 @@
 # Calvin Harris
 
-Calvin Harris is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 18 Aug 2026.
+Calvin Harris is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Calvin Harris is a house and progressive house artist tracked on soundcheck, with 109 sets logged across Glasgow, Ibiza, London and Losangeles and 3 more. Often billed alongside Marc Kinchen, Bastille and Mumford. Next up: Ushuaïa Ibiza, Ibiza on Tue 18 Aug.
+Calvin Harris is a house and progressive house artist tracked on soundcheck, with 109 sets logged across Glasgow, Ibiza, London and Losangeles and 3 more. Often billed alongside Marc Kinchen, Bastille and Mumford. Next up: Ushuaïa Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Calvin Harris is a house and progressive house artist tracked on soundcheck, wit
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Tue, 18 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Fri, 14 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Tue, 11 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Fri, 7 Aug 2026
@@ -27,10 +27,9 @@ Calvin Harris is a house and progressive house artist tracked on soundcheck, wit
 - Ushuaïa Ibiza, Ibiza — Tue, 4 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Fri, 31 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Tue, 28 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Marc Kinchen, Bastille, Mumford
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*

@@ -1,6 +1,6 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Black Loops is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Black Loops is a house and deep house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Bali and Bangkok and 41 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Black Loops is a house and deep house artist tracked on soundcheck, with 146 set
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

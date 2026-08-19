@@ -1,6 +1,6 @@
 # Mack Loenz
 
-Mack Loenz is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
+Mack Loenz is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
 
 Mack Loenz is an electro and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Amsterdam, Barcelona and London. Often billed alongside Maceo Plex, Anthony Rother and Christian Nielsen. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Mack Loenz is an electro and house artist based in United States of America, tra
 
 Maceo Plex, Anthony Rother, Christian Nielsen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackloenz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackloenz/)*

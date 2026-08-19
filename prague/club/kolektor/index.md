@@ -1,6 +1,6 @@
 # Kolektor
 
-Kolektor is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Ink culture x Kolektor Pop Up" on Thu, 20 Aug 2026.
+Kolektor is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Ink culture x Kolektor Pop Up" on Thu, 20 Aug 2026.
 
 Kolektor is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Atlaskin and Jemazzz. Browse upcoming dates, start times and who's playing. Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -17,4 +17,4 @@ Kolektor is a music venue in Prague listed on soundcheck. 4 upcoming nights, wit
 
 Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*

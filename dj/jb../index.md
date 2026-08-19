@@ -1,6 +1,6 @@
 # Jb..
 
-Jb.. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
+Jb.. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
 
 Jb.. is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Duat and Eva Banks. Next up: Onyx (E1), London on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ Jb.. is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Duat, Eva Banks
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jb../)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jb../)*

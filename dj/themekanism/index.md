@@ -1,6 +1,6 @@
 # The Mekanism
 
-The Mekanism is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+The Mekanism is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 The Mekanism is a house and deep house artist based in France, tracked on soundcheck, with 24 sets logged across Geneva, Lisbon, London and Mexicocity and 4 more. Often billed alongside Armii1n, TIME AFTER TIME and Arthur Nozen. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ The Mekanism is a house and deep house artist based in France, tracked on soundc
 
 Armii1n, TIME AFTER TIME, Arthur Nozen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themekanism/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themekanism/)*

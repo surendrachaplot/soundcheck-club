@@ -1,6 +1,6 @@
 # Mondenkind
 
-Mondenkind is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
+Mondenkind is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Wed, 19 Aug 2026.
 
 Mondenkind is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Johnnyaga, MAUWI and Momo. Next up: elipamanoke, Leipzig on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Mondenkind is a techno and trance artist tracked on soundcheck, with 15 sets log
 
 Johnnyaga, MAUWI, Momo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mondenkind/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mondenkind/)*

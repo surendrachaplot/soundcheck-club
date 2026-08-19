@@ -1,6 +1,6 @@
 # MR SAJ
 
-MR SAJ is a Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at HERE, London on Sat, 24 Oct 2026.
+MR SAJ is a Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HERE, London on Sat, 24 Oct 2026.
 
 MR SAJ is an afrobeat artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Next up: HERE, London on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ MR SAJ is an afrobeat artist based in United Kingdom, tracked on soundcheck, wit
 
 - Brixton Jamm, London — Sat, 25 Jul 2026
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsaj/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsaj/)*

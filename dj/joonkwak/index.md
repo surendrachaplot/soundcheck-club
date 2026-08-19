@@ -1,6 +1,6 @@
 # Joon Kwak
 
-Joon Kwak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
+Joon Kwak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
 
 Joon Kwak is a techno and house artist based in South Korea, tracked on soundcheck, with 111 sets logged across Bangkok, Seoul, Taipei and Tokyo. Often billed alongside Suman, DAMIE (KR) and Marcus L. Next up: TBA, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Joon Kwak is a techno and house artist based in South Korea, tracked on soundche
 
 Suman, DAMIE (KR), Marcus L
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joonkwak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joonkwak/)*

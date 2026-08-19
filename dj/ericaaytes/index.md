@@ -1,6 +1,6 @@
 # Erica Aytes
 
-Erica Aytes is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
+Erica Aytes is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
 
 Erica Aytes is a funk / soul and r&b artist tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside Brad Hales and Adam Stanfel. Next up: Paris Bar, Detroit on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Erica Aytes is a funk / soul and r&b artist tracked on soundcheck, with 8 sets l
 
 Brad Hales, Adam Stanfel
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericaaytes/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericaaytes/)*

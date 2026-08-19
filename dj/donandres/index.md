@@ -1,6 +1,6 @@
 # Don Andres
 
-Don Andres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+Don Andres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
 Don Andres is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Frankfurt. Often billed alongside Martin Meyer, babxi and Pointbliss. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Don Andres is a house and techno artist based in Germany, tracked on soundcheck,
 
 Martin Meyer, babxi, Pointbliss
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donandres/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donandres/)*

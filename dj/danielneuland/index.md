@@ -1,6 +1,6 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+Daniel Neuland is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 65 
 
 vom Feisten, Martin Ka, Naicet
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

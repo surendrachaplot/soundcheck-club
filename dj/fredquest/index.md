@@ -1,6 +1,6 @@
 # Fred Quest
 
-Fred Quest is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club der Visionaere, Berlin on Fri, 11 Sept 2026.
+Fred Quest is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club der Visionaere, Berlin on Fri, 11 Sept 2026.
 
 Fred Quest is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Clovis, Anderson (US) and Darie. Next up: Club der Visionaere, Berlin on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Fred Quest is an electronic artist based in United Kingdom, tracked on soundchec
 
 Clovis, Anderson (US), Darie
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredquest/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredquest/)*

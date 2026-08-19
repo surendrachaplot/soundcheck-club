@@ -1,6 +1,6 @@
 # SOUNDTRIP: TULUM to LONDON with ALTO DJ, Bastiaan at Basing House
 
-SOUNDTRIP: TULUM to LONDON with ALTO DJ, Bastiaan at Basing House on Sat 29 Aug, London. 3 acts on the bill: ALTO  (UK), Bastiaan and Kalani. House and Tech House. Preview the line-up and save it on soundcheck.
+SOUNDTRIP: TULUM to LONDON with ALTO DJ, Bastiaan at Basing House on Sat 29 Aug, London. 4 acts on the bill: ALTO  (UK), Bastiaan, Kalani and Night Docker. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SOUNDTRIP: TULUM to LONDON with ALTO DJ, Bastiaan at Basing House on Sat 29 Aug,
 - ALTO  (UK)
 - Bastiaan
 - Kalani
+- Night Docker
 
 *Source: [soundcheck](https://soundcheck.club/e/2505947-soundtrip-tulum-to-london-with-alto-dj-bastiaan-at-basing-ho/)*

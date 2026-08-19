@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Zero Raves pres.: BRAINDAAMAGE" on Sat, 29 Aug 2026.
+Club Exil is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Zero Raves pres.: BRAINDAAMAGE" on Sat, 29 Aug 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including Anaïs, BRAINDAAMAGE, ESKEI83 and Jubin Amiri and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -15,4 +15,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 2 upcoming nights, wi
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

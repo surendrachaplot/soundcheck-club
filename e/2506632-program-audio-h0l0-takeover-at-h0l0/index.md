@@ -1,6 +1,6 @@
 # program audio H0L0 takeover at H0L0
 
-program audio H0L0 takeover on Thu 20 Aug, Newyorkcity. 5 acts on the bill: erika (SF), Lexicon, moth (US) and Sevyn Love and 1 more. Preview the line-up and save it on soundcheck.
+program audio H0L0 takeover on Thu 20 Aug, Newyorkcity. 6 acts on the bill: erika (SF), flan (2), Lexicon and moth (US) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ program audio H0L0 takeover on Thu 20 Aug, Newyorkcity. 5 acts on the bill: erik
 ## Line-up
 
 - erika (SF)
+- flan (2)
 - Lexicon
 - moth (US)
 - Sevyn Love

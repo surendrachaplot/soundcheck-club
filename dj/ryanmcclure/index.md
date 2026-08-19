@@ -1,6 +1,6 @@
 # Ryan McClure
 
-Ryan McClure is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at THE BATHS, Austin on Sat, 22 Aug 2026.
+Ryan McClure is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at THE BATHS, Austin on Sat, 22 Aug 2026.
 
 Ryan McClure is a tech house and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Austin, Chicago, Newyorkcity and Washingtondc. Often billed alongside Edward Frame, Juan40 and Qwest. Next up: THE BATHS, Austin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ryan McClure is a tech house and house artist based in United States of America,
 
 Edward Frame, Juan40, Qwest
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmcclure/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmcclure/)*

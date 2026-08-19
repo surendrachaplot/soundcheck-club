@@ -1,6 +1,6 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
+AREA ØNE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
 
 AREA ØNE is a techno and trance artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside Niotech, HANÀ and THISO. Next up: Under Club, Buenosaires on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ AREA ØNE is a techno and trance artist tracked on soundcheck, with 53 sets logg
 
 Niotech, HANÀ, THISO
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*

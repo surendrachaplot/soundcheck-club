@@ -1,6 +1,6 @@
 # Gian Grassi
 
-Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Clink Noord, Amsterdam on Fri, 21 Aug 2026.
+Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Clink Noord, Amsterdam on Fri, 21 Aug 2026.
 
 Gian Grassi is a progressive house artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside PABLON. Next up: Clink Noord, Amsterdam on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Gian Grassi is a progressive house artist tracked on soundcheck, with 2 sets log
 
 PABLON
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*

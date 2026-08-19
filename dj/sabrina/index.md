@@ -1,14 +1,15 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Sabrina is a Drum & Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 31 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, SP:MC and Monrroe. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 32 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, SP:MC and Monrroe. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 26 Sept 2026 | HERE | London |
 | Fri, 23 Oct 2026 | fabric | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 31 s
 
 Iñigo Vontier, SP:MC, Monrroe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

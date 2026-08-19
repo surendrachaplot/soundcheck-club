@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hang Dai Chinese, Dublin on Fri, 25 Sept 2026.
+Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hang Dai Chinese, Dublin on Fri, 25 Sept 2026.
 
 Noizar is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: Hang Dai Chinese, Dublin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist tracked on soundcheck, with 117 sets logged 
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

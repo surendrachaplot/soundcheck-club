@@ -1,6 +1,6 @@
 # B-SiDE (AU)
 
-B-SiDE (AU) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at OneSixOne, Melbourne on Thu, 20 Aug 2026.
+B-SiDE (AU) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at OneSixOne, Melbourne on Thu, 20 Aug 2026.
 
 B-SiDE (AU) is a house and deep house artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Cara Murphy, A.Well and Aldonna. Next up: OneSixOne, Melbourne on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ B-SiDE (AU) is a house and deep house artist tracked on soundcheck, with 8 sets 
 
 Cara Murphy, A.Well, Aldonna
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side-au/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side-au/)*

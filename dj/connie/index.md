@@ -1,6 +1,6 @@
 # Connie
 
-Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Connie is a house and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Barcelona, Losangeles, Milan and Newyorkcity and 1 more. Often billed alongside Amy Jor, Asha Jasz and Maksim. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Connie is a house and techno artist based in United States of America, tracked o
 
 Amy Jor, Asha Jasz, Maksim
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*

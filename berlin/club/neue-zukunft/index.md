@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "10¹⁷ (Colin Stetson  Stian Westerhus  Erland Dahlen), Actual Figures" on Wed, 19 Aug 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "10¹⁷ (Colin Stetson  Stian Westerhus  Erland Dahlen), Actual Figures" on Wed, 19 Aug 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -21,4 +21,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights.
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

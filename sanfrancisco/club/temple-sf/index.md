@@ -1,6 +1,6 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "A HIPHOP & R&B FRIDAY! Back To School Edition" on Fri, 21 Aug 2026.
+Temple SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "A HIPHOP & R&B FRIDAY! Back To School Edition" on Fri, 21 Aug 2026.
 
 Temple SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
@@ -18,4 +18,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

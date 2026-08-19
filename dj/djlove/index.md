@@ -1,6 +1,6 @@
 # DJ Love
 
-DJ Love is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club360, London on Sat, 26 Sept 2026.
+DJ Love is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club360, London on Sat, 26 Sept 2026.
 
 DJ Love is a club and pop artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 6 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: Club360, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Love is a club and pop artist based in United States of America, tracked on s
 
 Aletha, Emerald, BLUMITSU
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*

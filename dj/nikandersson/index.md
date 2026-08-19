@@ -1,6 +1,6 @@
 # Nik Andersson
 
-Nik Andersson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
+Nik Andersson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
 
 Nik Andersson is a house and tech house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Dusseldorf and Munich and 2 more. Often billed alongside Mark La Placa, VALI THUN and Jessy. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nik Andersson is a house and tech house artist tracked on soundcheck, with 21 se
 
 Mark La Placa, VALI THUN, Jessy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikandersson/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikandersson/)*

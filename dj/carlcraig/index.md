@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gewölbe, Cologne on Sat, 22 Aug 2026.
+Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gewölbe, Cologne on Sat, 22 Aug 2026.
 
 Carl Craig is a house and techno artist tracked on soundcheck, with 266 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Gewölbe, Cologne on Sat 22 Aug.
 
@@ -36,4 +36,4 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 266 sets log
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

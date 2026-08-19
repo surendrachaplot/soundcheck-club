@@ -1,6 +1,6 @@
 # Julian Ess
 
-Julian Ess is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rachdingue, Barcelona on Sat, 22 Aug 2026.
+Julian Ess is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rachdingue, Barcelona on Sat, 22 Aug 2026.
 
 Julian Ess is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Barcelona and Lisbon. Often billed alongside FreeAs, Doug Bass and Fernando De Matos. Next up: Rachdingue, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Julian Ess is a techno and tech house artist tracked on soundcheck, with 24 sets
 
 FreeAs, Doug Bass, Fernando De Matos
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianess-es/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianess-es/)*

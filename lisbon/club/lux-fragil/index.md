@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Ribatexas: Bernardo & Fonzi" on Thu, 20 Aug 2026.
+Lux Fragil is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Ribatexas: Bernardo & Fonzi" on Thu, 20 Aug 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Blue Hour, Dexter Lux, DJ MARIA. and Fonzi (2) and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -21,4 +21,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

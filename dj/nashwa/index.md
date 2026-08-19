@@ -1,6 +1,6 @@
 # Nashwa
 
-Nashwa is a Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
+Nashwa is a Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
 
 Nashwa is an electro artist tracked on soundcheck, with 3 sets logged across Brussels. Often billed alongside Bo Meng, La Dame and Mambele. Next up: Illegaal, Brussels on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Nashwa is an electro artist tracked on soundcheck, with 3 sets logged across Bru
 
 Bo Meng, La Dame, Mambele
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nashwa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nashwa/)*

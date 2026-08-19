@@ -1,6 +1,6 @@
 # Sakena Ali
 
-Sakena Ali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+Sakena Ali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
 Sakena Ali is a techno and house artist based in Denmark, tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside G.HO, Sofie Jacobi and Transparent Tim. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sakena Ali is a techno and house artist based in Denmark, tracked on soundcheck,
 
 G.HO, Sofie Jacobi, Transparent Tim
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*

@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
+Boss Priester is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
 
 Boss Priester is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 101 s
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

@@ -1,6 +1,6 @@
 # cute boys
 
-cute boys is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
+cute boys is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 19 Aug 2026.
 
 cute boys is a trance and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Lilflower and Robyn DaBank. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ cute boys is a trance and house artist based in United States of America, tracke
 
 ASTER (DJ), Lilflower, Robyn DaBank
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*

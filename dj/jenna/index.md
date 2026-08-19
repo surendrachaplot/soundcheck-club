@@ -1,6 +1,6 @@
 # Jenna
 
-Jenna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
+Jenna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
 
 Jenna is a house and techno artist tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside E3, Kim.Qna and Bumho. Next up: TBA, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jenna is a house and techno artist tracked on soundcheck, with 16 sets logged ac
 
 E3, Kim.Qna, Bumho
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*

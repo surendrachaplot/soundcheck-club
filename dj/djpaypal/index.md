@@ -1,6 +1,6 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
+DJ Paypal is a Footwork and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
 
 DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Sidney & Matilda, Sheffield on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logg
 
 Kloxii Li, Missy, TEDDMAN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

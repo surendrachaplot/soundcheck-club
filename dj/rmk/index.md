@@ -1,6 +1,6 @@
 # R.M.K
 
-R.M.K is a Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
+R.M.K is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
 
 R.M.K is a techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brighton and London and 1 more. Often billed alongside Vinicius Honorio, Mosai and Slumber. Next up: The Glove That Fits, London on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ R.M.K is a techno artist tracked on soundcheck, with 53 sets logged across Amste
 
 Vinicius Honorio, Mosai, Slumber
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmk/)*

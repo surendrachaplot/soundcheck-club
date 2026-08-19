@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "VALIS 1.0 - The Difference Engine" on Thu, 20 Aug 2026.
+The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "VALIS 1.0 - The Difference Engine" on Thu, 20 Aug 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

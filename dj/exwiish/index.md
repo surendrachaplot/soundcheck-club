@@ -1,6 +1,6 @@
 # ex wiish
 
-ex wiish is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - The Perch, Philadelphia on Fri, 28 Aug 2026.
+ex wiish is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - The Perch, Philadelphia on Fri, 28 Aug 2026.
 
 ex wiish is an experimental and ambient artist tracked on soundcheck, with 48 sets logged across Berlin, Glasgow, London and Losangeles and 4 more. Often billed alongside CYBERMISSION, Conna Haraway and K Wata. Next up: TBA - The Perch, Philadelphia on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ex wiish is an experimental and ambient artist tracked on soundcheck, with 48 se
 
 CYBERMISSION, Conna Haraway, K Wata
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exwiish/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exwiish/)*

@@ -1,6 +1,6 @@
 # Analog Crystal
 
-Analog Crystal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Analog Crystal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Analog Crystal is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Stuttgart. Often billed alongside Masedia, Miss Evoice and Andreas Henneberg. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Analog Crystal is a house and techno artist based in Germany, tracked on soundch
 
 Masedia, Miss Evoice, Andreas Henneberg
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/analogcrystal/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/analogcrystal/)*

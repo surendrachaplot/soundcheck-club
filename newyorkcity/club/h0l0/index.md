@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Technical Difficulties" on Wed, 19 Aug 2026.
+H0L0 is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Technical Difficulties" on Wed, 19 Aug 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Amelia Holt, Aurora Halal, Chez Damier and Dana Lu and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -9,7 +9,7 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 19 Aug 2026 | Technical Difficulties | Pupstar, Shura |
-| Thu, 20 Aug 2026 | program audio H0L0 takeover | Lexicon, Sevyn Love, erika (SF), moth (US), sfcowboy |
+| Thu, 20 Aug 2026 | program audio H0L0 takeover | Lexicon, Sevyn Love, erika (SF), flan (2), moth (US), sfcowboy |
 | Thu, 27 Aug 2026 | Nuvé: Summer Never Ends | Dana Lu, SKY JETTA |
 | Fri, 28 Aug 2026 | SHEILA | Lauren Flax, Miss Alicia, SPRFRK, ThoughtKnot |
 | Fri, 4 Sept 2026 | ReSolute presents: Traumer All-Night Long | Traumer |
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
+The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
 
 The Rocketman is a techno and trance artist tracked on soundcheck, with 36 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 17 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: Boucher Road Fields, Belfast on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ The Rocketman is a techno and trance artist tracked on soundcheck, with 36 sets 
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

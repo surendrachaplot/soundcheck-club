@@ -1,6 +1,6 @@
 # Candy Coup
 
-Candy Coup is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Candy Coup is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Candy Coup is a techno and house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Chucho, DIORA and Eurowitch. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Candy Coup is a techno and house artist based in Netherlands, tracked on soundch
 
 Chucho, DIORA, Eurowitch
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*

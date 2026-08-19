@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
+Factory Floor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
 
 Factory Floor is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Decius, Axel Boman and Bikini Body. Next up: Strange Brew, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Factory Floor is a house and techno artist tracked on soundcheck, with 17 sets l
 
 Decius, Axel Boman, Bikini Body
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/factoryfloor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/factoryfloor/)*

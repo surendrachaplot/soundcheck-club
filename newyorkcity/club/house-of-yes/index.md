@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "LEO RISING: Kyle Hall, Shaun J. Wright, TEE EM DEE" on Fri, 21 Aug 2026.
+House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "LEO RISING: Kyle Hall, Shaun J. Wright, TEE EM DEE" on Fri, 21 Aug 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aluna, CAM GIRL, Cosmo and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

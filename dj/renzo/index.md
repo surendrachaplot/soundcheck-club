@@ -1,6 +1,6 @@
 # RENZØ
 
-RENZØ is a Baile Funk and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
+RENZØ is a Baile Funk and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
 
 RENZØ is a baile funk and afro tech artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside ABIMBOLA, AfroLicious Mumma and Bindās. Next up: Four Quarters, London on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ RENZØ is a baile funk and afro tech artist tracked on soundcheck, with 2 sets l
 
 ABIMBOLA, AfroLicious Mumma, Bindās
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo/)*

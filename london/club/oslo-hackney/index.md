@@ -1,6 +1,6 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "AFTERS: Playing music from Tyler the Creator, Sexy Redd, Turnstile, JPEG Mafia" on Sat, 29 Aug 2026.
+Oslo Hackney is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "AFTERS: Playing music from Tyler the Creator, Sexy Redd, Turnstile, JPEG Mafia" on Sat, 29 Aug 2026.
 
 Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
@@ -19,4 +19,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming nights.
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

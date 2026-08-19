@@ -1,14 +1,15 @@
 # FridaY (DE)
 
-FridaY (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
+FridaY (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
 
-FridaY (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: NØMAD, Toronto on Fri 28 Aug.
+FridaY (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: NØMAD, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | NØMAD | Toronto |
+| Sun, 30 Aug 2026 | Œlgarten | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FridaY (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Dirtie Blonde, H.U.D.L, Quarterdef
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*

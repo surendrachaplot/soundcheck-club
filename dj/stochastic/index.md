@@ -1,6 +1,6 @@
 # Stochastic
 
-Stochastic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Night We Met, Nashville on Sat, 22 Aug 2026.
+Stochastic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Night We Met, Nashville on Sat, 22 Aug 2026.
 
 Stochastic is a house and progressive house artist based in Greece, tracked on soundcheck, with 14 sets logged across Athens and Nashville. Often billed alongside Falsa Magra (2), Adam Des and Amtrac. Next up: Night We Met, Nashville on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Stochastic is a house and progressive house artist based in Greece, tracked on s
 
 Falsa Magra (2), Adam Des, Amtrac
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*

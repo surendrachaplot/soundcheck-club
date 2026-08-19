@@ -1,6 +1,6 @@
 # Arielle
 
-Arielle is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Arielle is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Arielle is a trance and techno artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside lau.ra, Lex Hearth and Sasha GiGi. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Arielle is a trance and techno artist tracked on soundcheck, with 13 sets logged
 
 lau.ra, Lex Hearth, Sasha GiGi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielle/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielle/)*

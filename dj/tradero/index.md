@@ -1,6 +1,6 @@
 # Trader O
 
-Trader O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
+Trader O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at ErF Studios, New York City on Fri, 21 Aug 2026.
 
 Trader O is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Cataract, Ben Chaddha and Eric eric. Next up: ErF Studios, Newyorkcity on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Trader O is a house and techno artist based in United States of America, tracked
 
 Cataract, Ben Chaddha, Eric eric
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tradero/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tradero/)*

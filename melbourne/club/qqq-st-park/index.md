@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Benjamin at QQQ" on Fri, 21 Aug 2026.
+QQQ ST. Park is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Benjamin at QQQ" on Fri, 21 Aug 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Andy Hart, Bby Cass, Charlotte Rooney and Charms and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -21,4 +21,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

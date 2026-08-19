@@ -1,14 +1,15 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Blue Room, Montreal on Sat, 29 Aug 2026.
+BERLIN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Blue Room, Montreal on Sat, 29 Aug 2026.
 
-BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Blue Room, Montreal on Sat 29 Aug.
+BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Blue Room, Montreal on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Blue Room | Montreal |
+| Fri, 18 Sept 2026 | KitKatClub | Berlin |
 | Fri, 16 Oct 2026 | Catonium | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

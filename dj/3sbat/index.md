@@ -1,6 +1,6 @@
 # 3SBAT
 
-3SBAT is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
+3SBAT is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
 
 3SBAT is a techno and breakbeat artist based in Italy, tracked on soundcheck, with 19 sets logged across Berlin, Edinburgh and Glasgow. Often billed alongside Kalopsia, manu_facturer and Lockedback. Next up: EXIT Glasgow, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@
 
 Kalopsia, manu_facturer, Lockedback
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3sbat/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3sbat/)*

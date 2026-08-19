@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Massive presents Pola & Bryson" on Sat, 12 Sept 2026.
+The Brightside is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Massive presents Pola & Bryson" on Sat, 12 Sept 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with line-ups including Guau, Pola & Bryson and Yo Speed. Browse upcoming dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -15,4 +15,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

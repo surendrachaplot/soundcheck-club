@@ -1,6 +1,6 @@
 # KIBΘ
 
-KIBΘ is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
+KIBΘ is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
 KIBΘ is a techno and drum & bass artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside DJ AKi, KENJI FURUYA and Kiyoyuki Kanno. Next up: WOMB, Tokyo on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ KIBΘ is a techno and drum & bass artist tracked on soundcheck, with 2 sets logg
 
 DJ AKi, KENJI FURUYA, Kiyoyuki Kanno
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo-jp/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo-jp/)*

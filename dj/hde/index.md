@@ -1,6 +1,6 @@
 # H'de
 
-H'de is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
+H'de is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
 
 H'de is a house and disco artist based in Japan, tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside Ku'damm, ushiro and ANATAKIKOU. Next up: Teranoma Tidepool, Osaka on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ H'de is a house and disco artist based in Japan, tracked on soundcheck, with 2 s
 
 Ku'damm, ushiro, ANATAKIKOU
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hde/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hde/)*

@@ -1,6 +1,6 @@
 # Au Contraire
 
-Au Contraire is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
+Au Contraire is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
 
 Au Contraire is a techno and club artist tracked on soundcheck, with 3 sets logged across Berlin, Detroit and Montreal. Often billed alongside Jade, Kiju and PAS. Next up: Club der Visionaere, Berlin on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Au Contraire is a techno and club artist tracked on soundcheck, with 3 sets logg
 
 Jade, Kiju, PAS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aucontraire/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aucontraire/)*

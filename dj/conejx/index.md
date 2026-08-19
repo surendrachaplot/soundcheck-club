@@ -1,6 +1,6 @@
 # conejx
 
-conejx is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
+conejx is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
 
 conejx is a club and experimental artist tracked on soundcheck, with 8 sets logged across Berlin and Mexicocity. Often billed alongside DJ Fabis, Basho and Dj Rankng. Next up: Giri, Berlin on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ conejx is a club and experimental artist tracked on soundcheck, with 8 sets logg
 
 DJ Fabis, Basho, Dj Rankng
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conejx/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conejx/)*

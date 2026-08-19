@@ -1,6 +1,6 @@
 # Jotel California
 
-Jotel California is a Trance and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Jotel California is a Trance and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Jotel California is a trance and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Hamburg and Munich. Often billed alongside Aber DJ, Naone and Philipp Otterbach. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jotel California is a trance and electro artist tracked on soundcheck, with 15 s
 
 Aber DJ, Naone, Philipp Otterbach
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotelcalifornia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotelcalifornia/)*

@@ -1,6 +1,6 @@
 # MOSTASH
 
-MOSTASH is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+MOSTASH is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 MOSTASH is a deep house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Sanfrancisco and Tokyo. Often billed alongside SAGMO, ALMAS and Emanate. Next up: 1015 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ MOSTASH is a deep house and techno artist based in United States of America, tra
 
 SAGMO, ALMAS, Emanate
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostash/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostash/)*

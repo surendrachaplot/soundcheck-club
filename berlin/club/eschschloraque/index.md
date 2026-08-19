@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Cool Tunes for Hot Cats" on Wed, 19 Aug 2026.
+Eschschloraque is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Cool Tunes for Hot Cats" on Wed, 19 Aug 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 2 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

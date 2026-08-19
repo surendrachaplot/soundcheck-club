@@ -1,6 +1,6 @@
 # Exchange LA
 
-Exchange LA is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Mutate: Oguz" on Sat, 22 Aug 2026.
+Exchange LA is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Mutate: Oguz" on Sat, 22 Aug 2026.
 
 Exchange LA is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Massano and Township Rebellion. Browse upcoming dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
 
@@ -17,4 +17,4 @@ Exchange LA is a music venue in Losangeles listed on soundcheck. 4 upcoming nigh
 
 618 S. Spring St., Los Angeles, CA 90014, Los Angeles
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*

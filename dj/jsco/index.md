@@ -1,18 +1,18 @@
 # J@SCO
 
-J@SCO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Azumaya, Tokyo on Tue, 18 Aug 2026.
+J@SCO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
 
-J@SCO is a house and techno artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Olip, hiroto yano and ANZU. Next up: Azumaya, Tokyo on Tue 18 Aug.
+J@SCO is a house and techno artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Olip, hiroto yano and ANZU. Next up: VENT, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Azumaya | Tokyo |
 | Sat, 5 Sept 2026 | VENT | Tokyo |
 
 ## Recently played
 
+- Azumaya, Tokyo — Tue, 18 Aug 2026
 - WALL & WALL, Tokyo — Wed, 15 Jul 2026
 - Azumaya, Tokyo — Mon, 15 Jun 2026
 - Azumaya, Tokyo — Thu, 2 Apr 2026
@@ -24,4 +24,4 @@ J@SCO is a house and techno artist based in Japan, tracked on soundcheck, with 8
 
 Olip, hiroto yano, ANZU
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jsco/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jsco/)*

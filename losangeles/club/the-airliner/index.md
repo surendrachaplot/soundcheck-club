@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "The One Hundred" on Fri, 21 Aug 2026.
+The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "The One Hundred" on Fri, 21 Aug 2026.
 
 The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Akumen, Andy Oro, ash. and BLOODHOUND (3) and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -19,4 +19,4 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nig
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

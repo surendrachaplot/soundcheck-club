@@ -1,6 +1,6 @@
 # Sounds Like London: Spooky (All Vinyl, All Night) at Ninety One
 
-Sounds Like London: Spooky (All Vinyl, All Night) at Ninety One on Sat 31 Oct, London. 1 act on the bill: Spooky. Garage. Preview the line-up and save it on soundcheck.
+Sounds Like London: Spooky (All Vinyl, All Night) at Ninety One on Sat 31 Oct, London. 1 act on the bill: Spooky. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

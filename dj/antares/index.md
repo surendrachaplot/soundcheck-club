@@ -1,6 +1,6 @@
 # Antares
 
-Antares is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 26 Sept 2026.
+Antares is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Antares is a house and tech house artist based in Italy, tracked on soundcheck, with 15 sets logged across Antwerp, Ibiza, London and Mexicocity and 2 more. Often billed alongside Balzar, Auric and WARRE. Next up: Ushuaïa Ibiza, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Antares is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Balzar, Auric, WARRE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antares/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antares/)*

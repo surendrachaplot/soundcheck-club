@@ -1,6 +1,6 @@
 # Gerssein
 
-Gerssein is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Hangaren, Copenhagen on Sat, 22 Aug 2026.
+Gerssein is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hangaren, Copenhagen on Sat, 22 Aug 2026.
 
 Gerssein is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Tim Andresen, Nicolas Petersen and Shansen. Next up: Hangaren, Copenhagen on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Gerssein is a progressive house and techno artist based in Argentina, tracked on
 
 Tim Andresen, Nicolas Petersen, Shansen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerssein/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerssein/)*

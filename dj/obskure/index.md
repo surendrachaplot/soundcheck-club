@@ -1,6 +1,6 @@
 # obskure
 
-obskure is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Flux, Istanbul on Sat, 5 Sept 2026.
+obskure is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Flux, Istanbul on Sat, 5 Sept 2026.
 
 obskure is a techno and acid artist based in Turkey, tracked on soundcheck, with 13 sets logged across Istanbul and London. Often billed alongside Arya (TR), Cenk Tripper and INTENSA. Next up: Flux, Istanbul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ obskure is a techno and acid artist based in Turkey, tracked on soundcheck, with
 
 Arya (TR), Cenk Tripper, INTENSA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obskure/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obskure/)*

@@ -1,6 +1,6 @@
 # Daniel Dutts
 
-Daniel Dutts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
+Daniel Dutts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
 
 Daniel Dutts is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Boston, Chicago, London and Mexicocity and 4 more. Often billed alongside Pablo Romero, CAMILLA and John Raffaele. Next up: Signal, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Daniel Dutts is a house and techno artist based in United States of America, tra
 
 Pablo Romero, CAMILLA, John Raffaele
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*

@@ -1,6 +1,6 @@
 # Magas (2)
 
-Magas (2) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KABUL à GoGo, Utrecht on Fri, 25 Sept 2026.
+Magas (2) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KABUL à GoGo, Utrecht on Fri, 25 Sept 2026.
 
 Magas (2) is a house and breakbeat artist tracked on soundcheck, with 4 sets logged across Amsterdam and Utrecht. Often billed alongside TATE (2), B-Bop and DJ Balu. Next up: KABUL à GoGo, Utrecht on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Magas (2) is a house and breakbeat artist tracked on soundcheck, with 4 sets log
 
 TATE (2), B-Bop, DJ Balu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magas-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magas-2/)*

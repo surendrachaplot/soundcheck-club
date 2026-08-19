@@ -1,6 +1,6 @@
 # bond (ca)
 
-bond (ca) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+bond (ca) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 bond (ca) is a techno and acid artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal and Toronto. Often billed alongside /ASYNC, ADB (CA) and Istanbul Ghetto Club. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ bond (ca) is a techno and acid artist based in Canada, tracked on soundcheck, wi
 
 /ASYNC, ADB (CA), Istanbul Ghetto Club
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bondca/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bondca/)*

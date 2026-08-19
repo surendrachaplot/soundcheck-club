@@ -1,6 +1,6 @@
 # Vitamin Cos
 
-Vitamin Cos is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
+Vitamin Cos is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
 
 Vitamin Cos is a techno and club artist tracked on soundcheck, with 17 sets logged across Auckland, Seoul and Tokyo. Often billed alongside Keighto, Aliceyuki and BU$$IN. Next up: Blank Site, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Vitamin Cos is a techno and club artist tracked on soundcheck, with 17 sets logg
 
 Keighto, Aliceyuki, BU$$IN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamincos/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamincos/)*

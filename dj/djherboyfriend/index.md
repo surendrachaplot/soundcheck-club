@@ -1,6 +1,6 @@
 # DJ Her Boyfriend
 
-DJ Her Boyfriend is a Ghetto Tech and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
+DJ Her Boyfriend is a Ghetto Tech and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
 
 DJ Her Boyfriend is a ghetto tech and breakbeat artist tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Steph Who?, Swingvibe and Billy Winters. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DJ Her Boyfriend is a ghetto tech and breakbeat artist tracked on soundcheck, wi
 
 Steph Who?, Swingvibe, Billy Winters
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djherboyfriend/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djherboyfriend/)*

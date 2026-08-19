@@ -1,6 +1,6 @@
 # MAAT
 
-MAAT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 25 Aug 2026.
+MAAT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 25 Aug 2026.
 
 MAAT is a techno and house artist tracked on soundcheck, with 8 sets logged across Buenosaires, Osaka and Tokyo. Often billed alongside DJ B2B, DJ Kai and Dance. Next up: COUNTER CLUB, Tokyo on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ MAAT is a techno and house artist tracked on soundcheck, with 8 sets logged acro
 
 DJ B2B, DJ Kai, Dance
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maat/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maat/)*

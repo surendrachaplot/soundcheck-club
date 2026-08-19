@@ -1,6 +1,6 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
+BRAINDAAMAGE is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
 
 BRAINDAAMAGE is a techno and hardcore artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Berlin, Vienna and Zurich. Often billed alongside Raxeller, andris and CAERMI. Next up: Club Exil, Vienna on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ BRAINDAAMAGE is a techno and hardcore artist based in Switzerland, tracked on so
 
 Raxeller, andris, CAERMI
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

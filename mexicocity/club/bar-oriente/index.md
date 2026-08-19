@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "100 Underground: MORVIUS, Shanti Clasing, Sabina Palma" on Wed, 19 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "100 Underground: MORVIUS, Shanti Clasing, Sabina Palma" on Wed, 19 Aug 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Baby Mango, Coratella, MORVIUS and Octoptic and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -21,4 +21,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

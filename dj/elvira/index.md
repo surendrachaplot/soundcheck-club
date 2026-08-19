@@ -1,13 +1,14 @@
 # Elvira
 
-Elvira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
+Elvira is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at B-SIDE, Warsaw on Fri, 28 Aug 2026.
 
-Elvira is a house and techno artist based in Poland, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Frankfurt and Ghent and 6 more. Often billed alongside Samogulov, zenwerk and Bohan. Next up: Jasna 1, Warsaw on Sat 29 Aug.
+Elvira is a house and minimal artist based in Poland, tracked on soundcheck, with 40 sets logged across Berlin, Brussels, Frankfurt and Ghent and 6 more. Often billed alongside Samogulov, Sakrum and zenwerk. Next up: B-SIDE, Warsaw on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | B-SIDE | Warsaw |
 | Sat, 29 Aug 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
@@ -23,6 +24,6 @@ Elvira is a house and techno artist based in Poland, tracked on soundcheck, with
 
 ## Shares bills with
 
-Samogulov, zenwerk, Bohan
+Samogulov, Sakrum, zenwerk
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*

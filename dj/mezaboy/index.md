@@ -1,14 +1,14 @@
 # mezaboy
 
-mezaboy is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 22 Aug 2026.
+mezaboy is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Madrone Art Bar, San Francisco/Oakland on Thu, 20 Aug 2026.
 
-mezaboy is a house and breakbeat artist tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Serene Irene, AGROPOL and DJ Panderer. Next up: Madrone Art Bar, Sanfrancisco on Sat 22 Aug.
+mezaboy is a house and breakbeat artist tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Serene Irene, AGROPOL and DJ Panderer. Next up: Madrone Art Bar, Sanfrancisco on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Madrone Art Bar | San Francisco/Oakland |
+| Thu, 20 Aug 2026 | Madrone Art Bar | San Francisco/Oakland |
 
 ## Recently played
 
@@ -19,4 +19,4 @@ mezaboy is a house and breakbeat artist tracked on soundcheck, with 3 sets logge
 
 Serene Irene, AGROPOL, DJ Panderer
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezaboy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezaboy/)*

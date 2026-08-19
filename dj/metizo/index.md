@@ -1,6 +1,6 @@
 # Metizo
 
-Metizo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at La Récré, Montreal on Fri, 21 Aug 2026.
+Metizo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Récré, Montreal on Fri, 21 Aug 2026.
 
 Metizo is a techno and house artist tracked on soundcheck, with 13 sets logged across Brussels, Marseille, Montreal and Newyorkcity and 1 more. Often billed alongside Moaad BKR, DJ Skurge and Luminescu. Next up: La Récré, Montreal on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Metizo is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 Moaad BKR, DJ Skurge, Luminescu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metizo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metizo/)*

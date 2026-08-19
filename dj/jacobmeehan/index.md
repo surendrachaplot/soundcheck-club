@@ -1,6 +1,6 @@
 # Jacob Meehan
 
-Jacob Meehan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paloma, Berlin on Thu, 24 Sept 2026.
+Jacob Meehan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paloma, Berlin on Thu, 24 Sept 2026.
 
 Jacob Meehan is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Bangkok, Berlin, Brussels and Chicago and 12 more. Often billed alongside Dirty Daddy Don, BASHKKA and The Carry Nation. Next up: Paloma, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jacob Meehan is a house and techno artist based in United States of America, tra
 
 Dirty Daddy Don, BASHKKA, The Carry Nation
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmeehan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmeehan/)*

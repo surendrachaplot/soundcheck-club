@@ -1,6 +1,6 @@
 # La Penderie Noire
 
-La Penderie Noire is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 18 Sept 2026.
+La Penderie Noire is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 18 Sept 2026.
 
 La Penderie Noire is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Amsterdam, Basel, Belgrade and Berlin and 28 more. Often billed alongside LESSSS, AnD and CLTX. Next up: Studio Club Malaga, Malaga on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ La Penderie Noire is a techno and industrial artist tracked on soundcheck, with 
 
 LESSSS, AnD, CLTX
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapenderienoire/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapenderienoire/)*

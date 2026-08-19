@@ -1,6 +1,6 @@
 # Shanto
 
-Shanto is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ka'teen, Los Angeles on Fri, 21 Aug 2026.
+Shanto is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ka'teen, Los Angeles on Fri, 21 Aug 2026.
 
 Shanto is a deep house and afro house artist based in United States of America, tracked on soundcheck, with 28 sets logged across London, Losangeles, Milan and Portland. Often billed alongside PERSTEPHANII, Danny B (LA) and PABLoKEY. Next up: Ka'teen, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Shanto is a deep house and afro house artist based in United States of America, 
 
 PERSTEPHANII, Danny B (LA), PABLoKEY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanto/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanto/)*

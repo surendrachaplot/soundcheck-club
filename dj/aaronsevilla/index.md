@@ -1,6 +1,6 @@
 # AARON SEVILLA
 
-AARON SEVILLA is a Afro House and Afro Tech artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at BCM, Mallorca on Sat, 22 Aug 2026.
+AARON SEVILLA is a Afro House and Afro Tech artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at BCM, Mallorca on Sat, 22 Aug 2026.
 
 AARON SEVILLA is an afro house and afro tech artist tracked on soundcheck, with 69 sets logged across Athens, Bali, Barcelona and Bucharest and 14 more. Often billed alongside Claudia León, Hugel and Miss Monique. Next up: BCM, Mallorca on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ AARON SEVILLA is an afro house and afro tech artist tracked on soundcheck, with 
 
 Claudia León, Hugel, Miss Monique
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsevilla/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsevilla/)*

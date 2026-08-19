@@ -1,6 +1,6 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Freeze HiFi, Liverpool on Wed, 19 Aug 2026.
+Mr. V is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Freeze HiFi, Liverpool on Wed, 19 Aug 2026.
 
 Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: Freeze HiFi, Liverpool on Wed 19 Aug.
 
@@ -28,4 +28,4 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 
 David Harness, Franky Boissy, Hector Romero
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

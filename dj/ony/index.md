@@ -1,6 +1,6 @@
 # Ony
 
-Ony is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
+Ony is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
 
 Ony is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin, Leipzig, London and Tokyo. Often billed alongside RION, Tinker and .koshka.. Next up: Dogenzaka Church, Tokyo on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ Ony is a techno and house artist tracked on soundcheck, with 8 sets logged acros
 
 RION, Tinker, .koshka.
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ony/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ony/)*

@@ -1,6 +1,6 @@
 # Summertime Roof Terrace
 
-Summertime Roof Terrace is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location)" on Fri, 21 Aug 2026.
+Summertime Roof Terrace is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location)" on Fri, 21 Aug 2026.
 
 Summertime Roof Terrace is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Adam Collins, Amelia Holt, Auphoria and Cali Lanauze and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Summertime Roof Terrace is a music venue in Newyorkcity listed on soundcheck. 5 
 | Sat, 29 Aug 2026 | ACIDELICA with Jacky Sommer, Scotia & Amelia Holt | Amelia Holt, Jacky Sommer, Scotia |
 | Sun, 30 Aug 2026 | WAVE Pablo Romero | Guzt, ICE THOMPSON, JBERI (2), Pablo Romero, Rana Iravani, SepTeo |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/summertime-roof-terrace/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/summertime-roof-terrace/)*

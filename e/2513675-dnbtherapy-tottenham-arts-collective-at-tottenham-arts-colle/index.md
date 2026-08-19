@@ -1,6 +1,6 @@
 # dnbtherapy: Tottenham Arts Collective at Tottenham Arts Collective
 
-dnbtherapy: Tottenham Arts Collective on Fri 30 Oct, London. 2 acts on the bill: Congo Natty and Ray Keith. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+dnbtherapy: Tottenham Arts Collective on Fri 30 Oct, London. 3 acts on the bill: Congo Natty, MC Gusto and Ray Keith. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ dnbtherapy: Tottenham Arts Collective on Fri 30 Oct, London. 2 acts on the bill:
 ## Line-up
 
 - Congo Natty
+- MC Gusto
 - Ray Keith
 
 *Source: [soundcheck](https://soundcheck.club/e/2513675-dnbtherapy-tottenham-arts-collective-at-tottenham-arts-colle/)*

@@ -1,6 +1,6 @@
 # Gabbi Lopez
 
-Gabbi Lopez is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
+Gabbi Lopez is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
 
 Gabbi Lopez is a progressive house artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside ATMEN, Blaze and Bob Tosh. Next up: City Hall, Barcelona on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Gabbi Lopez is a progressive house artist tracked on soundcheck, with 4 sets log
 
 ATMEN, Blaze, Bob Tosh
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbilopez/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbilopez/)*

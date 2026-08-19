@@ -1,6 +1,6 @@
 # Muffy
 
-Muffy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Muffy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Muffy is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago. Often billed alongside Dunes of Dawn, Moorhaus and INPHINITY. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Muffy is a house and tech house artist based in United States of America, tracke
 
 Dunes of Dawn, Moorhaus, INPHINITY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muffy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muffy/)*

@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
+Volkoder is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
 
 Volkoder is a house and tech house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Budapest, Buenosaires and Ibiza and 4 more. Often billed alongside CamelPhat, Miss Monique and AJ Christou. Next up: Lieberscholli, Munich on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Volkoder is a house and tech house artist tracked on soundcheck, with 15 sets lo
 
 CamelPhat, Miss Monique, AJ Christou
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

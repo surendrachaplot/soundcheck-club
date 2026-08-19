@@ -1,6 +1,6 @@
 # Mattia Scolaro
 
-Mattia Scolaro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Mattia Scolaro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Mattia Scolaro is a tech house and house artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside ACA (YU), Reelow and Daes. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mattia Scolaro is a tech house and house artist tracked on soundcheck, with 11 s
 
 ACA (YU), Reelow, Daes
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiascolaro/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiascolaro/)*

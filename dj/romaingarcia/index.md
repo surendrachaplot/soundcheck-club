@@ -1,6 +1,6 @@
 # Romain Garcia
 
-Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
+Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Romain Garcia is a progressive house and deep house artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: Chinois Ibiza, Ibiza on Tue 15 Sept.
 
@@ -28,4 +28,4 @@ Romain Garcia is a progressive house and deep house artist based in France, trac
 
 Hana, Jody Wisternoff, Nicky Elisabeth
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*

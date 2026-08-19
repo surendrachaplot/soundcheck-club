@@ -1,6 +1,6 @@
 # CARTFISH
 
-CARTFISH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at THE BATHS, Austin on Sat, 22 Aug 2026.
+CARTFISH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at THE BATHS, Austin on Sat, 22 Aug 2026.
 
 CARTFISH is a house and tech house artist tracked on soundcheck, with 3 sets logged across Austin, Miami and Washingtondc. Often billed alongside DICKERMAN, DJ BAD APPLE and Grace Arribas. Next up: THE BATHS, Austin on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ CARTFISH is a house and tech house artist tracked on soundcheck, with 3 sets log
 
 DICKERMAN, DJ BAD APPLE, Grace Arribas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartfish/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartfish/)*

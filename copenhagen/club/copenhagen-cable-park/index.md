@@ -1,6 +1,6 @@
 # Copenhagen Cable Park
 
-Copenhagen Cable Park is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "ፓራዳንሱ [ Páradansu ] - Volume III" on Sat, 22 Aug 2026.
+Copenhagen Cable Park is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "ፓራዳንሱ [ Páradansu ] - Volume III" on Sat, 22 Aug 2026.
 
 Copenhagen Cable Park is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Copenhagen Cable Park is a music venue in Copenhagen listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | ፓራዳንሱ [ Páradansu ] - Volume III |  |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-cable-park/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-cable-park/)*

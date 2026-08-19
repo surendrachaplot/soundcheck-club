@@ -1,6 +1,6 @@
 # Yalla
 
-Yalla is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mach1 Club Nürnberg, Nürnberg on Sat, 5 Sept 2026.
+Yalla is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mach1 Club Nürnberg, Nürnberg on Sat, 5 Sept 2026.
 
 Yalla is a hip-hop and afro house artist tracked on soundcheck, with 4 sets logged across Istanbul, Nurnberg and Vienna. Often billed alongside Kiki and Semih Akay. Next up: Mach1 Club Nürnberg, Nurnberg on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Yalla is a hip-hop and afro house artist tracked on soundcheck, with 4 sets logg
 
 Kiki, Semih Akay
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yalla/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yalla/)*

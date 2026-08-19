@@ -1,6 +1,6 @@
 # Officium
 
-Officium is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Officium is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
 Officium is an experimental and techno artist tracked on soundcheck, with 12 sets logged across Lyon, Marseille, Paris and Singapore and 1 more. Often billed alongside Anetha, CCL and Elena Colombi. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Officium is an experimental and techno artist tracked on soundcheck, with 12 set
 
 Anetha, CCL, Elena Colombi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officium/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officium/)*

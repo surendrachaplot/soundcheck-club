@@ -1,13 +1,14 @@
 # Ina Kaysen
 
-Ina Kaysen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Ina Kaysen is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
 
-Ina Kaysen is a techno and house artist based in Belgium, tracked on soundcheck, with 10 sets logged across Brussels and Ghent. Often billed alongside Ampe, Bobbi Watson and Fais Le Beau. Next up: Circle Park, Brussels on Sat 29 Aug.
+Ina Kaysen is a techno and electronica artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Ampe, Bobbi Watson and Fais Le Beau. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Former Smatch Supermarket | Antwerp |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ina Kaysen is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Ampe, Bobbi Watson, Fais Le Beau
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*

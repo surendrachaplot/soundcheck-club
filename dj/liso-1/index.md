@@ -1,6 +1,6 @@
 # Liso (1)
 
-Liso (1) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+Liso (1) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 Liso (1) is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Oslo, Thehague and Utrecht. Often billed alongside HyperLili, Anémi and Eastern Distributor. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Liso (1) is a techno and psytrance artist based in Netherlands, tracked on sound
 
 HyperLili, Anémi, Eastern Distributor
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liso-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liso-1/)*

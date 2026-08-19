@@ -1,6 +1,6 @@
 # DJ Mods
 
-DJ Mods is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
+DJ Mods is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
 
 DJ Mods is a house and tech house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside B_LOVE, Ginn LDN and KNWLSY. Next up: Mezzanine - Tooting, London on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ DJ Mods is a house and tech house artist tracked on soundcheck, with 2 sets logg
 
 B_LOVE, Ginn LDN, KNWLSY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmods/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmods/)*

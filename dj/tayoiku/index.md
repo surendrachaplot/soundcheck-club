@@ -1,6 +1,6 @@
 # Tayo Iku
 
-Tayo Iku is a Dancehall and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Tayo Iku is a Dancehall and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Tayo Iku is a dancehall and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Tallinn. Often billed alongside Donnie Sunshine, Fiyahdred and Lil C. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Tayo Iku is a dancehall and disco artist based in United Kingdom, tracked on sou
 
 Donnie Sunshine, Fiyahdred, Lil C
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayoiku/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayoiku/)*

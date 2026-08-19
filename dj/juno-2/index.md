@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
+Juno (NY) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
 
 Juno (NY) is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 2 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Paragon, Newyorkcity on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 32 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

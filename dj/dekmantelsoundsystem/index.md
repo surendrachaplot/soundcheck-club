@@ -1,6 +1,6 @@
 # Dekmantel Soundsystem
 
-Dekmantel Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 14 Nov 2026.
+Dekmantel Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 14 Nov 2026.
 
 Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Casper Tielrooij, RHR and Call Super. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 4
 
 Casper Tielrooij, RHR, Call Super
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*

@@ -1,6 +1,6 @@
 # JBERI (2)
 
-JBERI (2) is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 30 Aug 2026.
+JBERI (2) is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 30 Aug 2026.
 
 JBERI (2) is a deep house and minimal artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Guzt, ICE THOMPSON and Pablo Romero. Next up: Summertime Roof Terrace, Newyorkcity on Sun 30 Aug.
 
@@ -14,4 +14,4 @@ JBERI (2) is a deep house and minimal artist based in United States of America, 
 
 Guzt, ICE THOMPSON, Pablo Romero
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jberi-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jberi-2/)*

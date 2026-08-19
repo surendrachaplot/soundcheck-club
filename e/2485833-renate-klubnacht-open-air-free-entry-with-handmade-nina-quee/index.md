@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer on Fri 28 Aug, Berlin. 7 acts on the bill: AGILY, ESVEAE, Handmade and Kingsizebed and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer on Fri 28 Aug, Berlin. 8 acts on the bill: AGILY, ESVEAE, Handmade and Kingsizebed and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer on Fri 28 Au
 - ESVEAE
 - Handmade
 - Kingsizebed
+- R.ocks
 - Samuel Fish
 - Samwise (US)
 - Shira Kela

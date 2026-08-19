@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "RNXRX, Dj Sul" on Tue, 18 Aug 2026.
+Switch Bar is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Wetness: Omen, MENTA" on Wed, 19 Aug 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Alessa (ES), Arildo, Bran (4) and Dagger and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Alessa (ES), Arildo, Bran (4) and Dagger and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | RNXRX, Dj Sul | Dj Sul, RNXRX |
 | Wed, 19 Aug 2026 | Wetness: Omen, MENTA | MENTA, Omen |
 | Thu, 20 Aug 2026 | The Dijous Saved My Life: Malcolm Moore, Arildo | Arildo, Malcolm Moore |
 | Fri, 21 Aug 2026 | Seven Villas showcase: Luis Leon, Mutul, Liza Oh, Pedro Sanmartin | Luis Leon, Mutul, Pedro Sanmartin |
@@ -23,4 +22,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 10 upcoming night
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

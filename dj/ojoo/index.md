@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
+ojoo is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
 
 ojoo is an experimental and dub artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside ojoo, Ossia and NVST. Next up: Fuse, Brussels on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ojoo is an experimental and dub artist tracked on soundcheck, with 99 sets logge
 
 ojoo, Ossia, NVST
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "House TV - Jae Bones - Fitzperc (1st Anniversary)" on Sat, 5 Sept 2026.
+The Lucky Cat is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "House TV - Jae Bones - Fitzperc (1st Anniversary)" on Sat, 5 Sept 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -14,4 +14,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 1 upcoming night.
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*

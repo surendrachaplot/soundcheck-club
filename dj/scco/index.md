@@ -1,6 +1,6 @@
 # SCCO
 
-SCCO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
+SCCO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
 
 SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Adam Chapman, Alfaz and Checketts. Next up: Starlane Pizza Bar, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged
 
 Adam Chapman, Alfaz, Checketts
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*

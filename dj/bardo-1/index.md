@@ -1,6 +1,6 @@
 # Bardo (1)
 
-Bardo (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
+Bardo (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
 
 Bardo (1) is a techno and ambient artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Ousia Sound, Phalcon and Retter (DE). Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Bardo (1) is a techno and ambient artist based in Spain, tracked on soundcheck, 
 
 Ousia Sound, Phalcon, Retter (DE)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*

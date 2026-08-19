@@ -1,6 +1,6 @@
 # Audio Obscura Festival [SOLD OUT] at Van Nelle Fabriek
 
-Audio Obscura Festival [SOLD OUT] at Van Nelle Fabriek on Sat 29 Aug, Rotterdam. 29 acts on the bill: AAT (NL), Chloé Caillet, Chris Stussy and DJ Gigola and 25 more. Trance and House. Preview the line-up and save it on soundcheck.
+Audio Obscura Festival [SOLD OUT] at Van Nelle Fabriek on Sat 29 Aug, Rotterdam. 29 acts on the bill: AAT (NL), Chloé Caillet, Chris Stassy and DJ Gigola and 25 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Audio Obscura Festival [SOLD OUT] at Van Nelle Fabriek on Sat 29 Aug, Rotterdam.
 
 - AAT (NL)
 - Chloé Caillet
-- Chris Stussy
+- Chris Stassy
 - DJ Gigola
 - DJ Heartstring
 - Eileen (NL)

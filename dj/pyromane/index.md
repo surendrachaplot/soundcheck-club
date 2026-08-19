@@ -1,6 +1,6 @@
 # Pyromane
 
-Pyromane is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Mon, 7 Sept 2026.
+Pyromane is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Mon, 7 Sept 2026.
 
 Pyromane is a techno and club artist tracked on soundcheck, with 15 sets logged across Montreal. Often billed alongside Palladium, Casa Kobrae and Katamina. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Pyromane is a techno and club artist tracked on soundcheck, with 15 sets logged 
 
 Palladium, Casa Kobrae, Katamina
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*

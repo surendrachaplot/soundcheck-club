@@ -1,6 +1,6 @@
 # Martim Rola
 
-Martim Rola is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
+Martim Rola is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
 
 Martim Rola is a techno and progressive house artist tracked on soundcheck, with 26 sets logged across Barcelona, Cardiff, Ibiza and Lisbon and 4 more. Often billed alongside ARODES, SHIA and Shimza. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Martim Rola is a techno and progressive house artist tracked on soundcheck, with
 
 ARODES, SHIA, Shimza
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*

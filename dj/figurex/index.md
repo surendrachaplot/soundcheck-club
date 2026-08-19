@@ -1,6 +1,6 @@
 # FIGUREX
 
-FIGUREX is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
+FIGUREX is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
 
 FIGUREX is a techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Berlin and Madrid. Often billed alongside Bära, DJ Lolo and Gonzalo S. Next up: Cadavra, Madrid on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ FIGUREX is a techno artist based in Spain, tracked on soundcheck, with 21 sets l
 
 Bära, DJ Lolo, Gonzalo S
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/figurex/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/figurex/)*

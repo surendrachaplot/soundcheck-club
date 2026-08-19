@@ -1,6 +1,6 @@
 # Ivy Hollivana
 
-Ivy Hollivana is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KW Studios, Vancouver on Fri, 18 Sept 2026.
+Ivy Hollivana is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KW Studios, Vancouver on Fri, 18 Sept 2026.
 
 Ivy Hollivana is an experimental and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Montreal, Seattle and Toronto and 1 more. Often billed alongside Matt Tecson, EtOH and Xiumei. Next up: KW Studios, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ivy Hollivana is an experimental and club artist based in United States of Ameri
 
 Matt Tecson, EtOH, Xiumei
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*

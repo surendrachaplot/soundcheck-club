@@ -1,6 +1,6 @@
 # Cannons
 
-Cannons is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OFF THE GRID: DJ KILLA SQUID, Fullbodydurag, Isaac & Javonntte" on Sat, 22 Aug 2026.
+Cannons is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "OFF THE GRID: DJ KILLA SQUID, Fullbodydurag, Isaac & Javonntte" on Sat, 22 Aug 2026.
 
 Cannons is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Andre Terrell, DJ KILLA SQUID, Fullbodydurag and Isaac Prieto and 2 more. Browse upcoming dates, start times and who's playing. 15421 Mack Ave.
 
@@ -17,4 +17,4 @@ Cannons is a music venue in Detroit listed on soundcheck. 4 upcoming nights, wit
 
 15421 Mack Ave, Detroit
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*

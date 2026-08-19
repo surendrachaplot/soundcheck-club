@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Spacer Woman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 Spacer Woman is a techno and trance artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 131 sets 
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

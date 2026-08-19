@@ -1,6 +1,6 @@
 # Open Aera
 
-Open Aera is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Volen Sentir (Sunset Rooftop Party)" on Thu, 20 Aug 2026.
+Open Aera is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Volen Sentir (Sunset Rooftop Party)" on Thu, 20 Aug 2026.
 
 Open Aera is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Chris Luno, EMBRZ (IE), Gabriel & Dresden and Jonathan Rosa and 2 more. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
 
@@ -19,4 +19,4 @@ Open Aera is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 
 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada, Toronto
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*

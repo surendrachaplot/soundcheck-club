@@ -1,6 +1,6 @@
 # Alfred Heinrichs
 
-Alfred Heinrichs is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Alfred Heinrichs is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Felix Kröcher, Nicolas Julian and Alignment. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 39 s
 
 Felix Kröcher, Nicolas Julian, Alignment
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*

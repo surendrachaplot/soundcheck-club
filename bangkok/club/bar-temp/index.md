@@ -1,6 +1,6 @@
 # Bar Temp.
 
-Bar Temp. is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Whojize w/The Residents" on Thu, 20 Aug 2026.
+Bar Temp. is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Whojize w/The Residents" on Thu, 20 Aug 2026.
 
 Bar Temp. is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including .g (TH), DMT Disco, DZ GAS and Elaheh and 2 more. Browse upcoming dates, start times and who's playing. 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100.
 
@@ -20,4 +20,4 @@ Bar Temp. is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, w
 
 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100, Bangkok
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*

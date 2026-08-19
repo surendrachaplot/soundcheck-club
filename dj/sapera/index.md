@@ -1,6 +1,6 @@
 # Sapera
 
-Sapera is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Descent, Boston on Thu, 10 Sept 2026.
+Sapera is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Descent, Boston on Thu, 10 Sept 2026.
 
 Sapera is a techno and electro artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston. Often billed alongside Xoce, Final Girl and Perc. Next up: Descent, Boston on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Sapera is a techno and electro artist based in United States of America, tracked
 
 Xoce, Final Girl, Perc
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sapera/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sapera/)*

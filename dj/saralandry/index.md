@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, London on Thu, 20 Aug 2026.
+Sara Landry is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, London on Thu, 20 Aug 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: TBA - Secret Location, London on Thu 20 Aug.
 
@@ -30,4 +30,4 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

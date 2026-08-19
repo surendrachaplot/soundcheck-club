@@ -14,7 +14,7 @@ CircoLoco Ibiza - Week 18 at DC-10 on Mon 24 Aug, Ibiza. 14 acts on the bill: Â
 - ANOTR
 - Bushbaby
 - Carlita
-- Chris Stussy
+- Chris Stassy
 - DESIREE (RSA)
 - HALFPINT
 - Jonny Rock

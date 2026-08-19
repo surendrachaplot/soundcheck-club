@@ -1,6 +1,6 @@
 # Shigeto
 
-Shigeto is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Salt Shed, Chicago on Sun, 23 Aug 2026.
+Shigeto is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Salt Shed, Chicago on Sun, 23 Aug 2026.
 
 Shigeto is a house and techno artist based in United States of America, tracked on soundcheck, with 224 sets logged across Boston, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: The Salt Shed, Chicago on Sun 23 Aug.
 
@@ -29,4 +29,4 @@ Shigeto is a house and techno artist based in United States of America, tracked 
 
 Kenjiro, Tammy Lakkis, Charles Trees
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*

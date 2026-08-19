@@ -1,6 +1,6 @@
 # Gino (DET)
 
-Gino (DET) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
+Gino (DET) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
 
 Gino (DET) is a house and deep house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Chicago, Detroit and Tokyo. Often billed alongside Tyson Dias, Chachi Guerrero and CoveLove. Next up: Spkrbox, Detroit on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Gino (DET) is a house and deep house artist based in United States of America, t
 
 Tyson Dias, Chachi Guerrero, CoveLove
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*

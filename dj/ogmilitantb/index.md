@@ -1,6 +1,6 @@
 # OG Militant B
 
-OG Militant B is a House and Dub artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 26 Aug 2026.
+OG Militant B is a House and Dub artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 26 Aug 2026.
 
 OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, with 109 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Lil Mofo, Aki Dolanikov and FELINE (JP). Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 26 Aug.
 
@@ -28,4 +28,4 @@ OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, w
 
 Lil Mofo, Aki Dolanikov, FELINE (JP)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*

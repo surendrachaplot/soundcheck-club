@@ -1,6 +1,6 @@
 # André Pahl
 
-André Pahl is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
+André Pahl is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 21 Aug 2026.
 
 André Pahl is a club and electro artist tracked on soundcheck, with 28 sets logged across Athens, Berlin, Bucharest and London and 4 more. Often billed alongside Saeko Killy, Alexander Arpeggio and Alicia Carrera. Next up: arkaoda Berlin, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ André Pahl is a club and electro artist tracked on soundcheck, with 28 sets log
 
 Saeko Killy, Alexander Arpeggio, Alicia Carrera
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepahl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepahl/)*

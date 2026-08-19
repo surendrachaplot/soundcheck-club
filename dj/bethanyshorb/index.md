@@ -1,6 +1,6 @@
 # Bethany Shorb
 
-Bethany Shorb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Spkrbox, Detroit on Fri, 21 Aug 2026.
+Bethany Shorb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Spkrbox, Detroit on Fri, 21 Aug 2026.
 
 Bethany Shorb is a house and techno artist tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Ryan Sadorus, Adam Ortiz and Dru Ruiz. Next up: Spkrbox, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bethany Shorb is a house and techno artist tracked on soundcheck, with 10 sets l
 
 Ryan Sadorus, Adam Ortiz, Dru Ruiz
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethanyshorb/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethanyshorb/)*

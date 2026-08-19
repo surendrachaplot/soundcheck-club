@@ -1,6 +1,6 @@
 # Usquare
 
-Usquare is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Purple Flame DJ Set" on Wed, 19 Aug 2026.
+Usquare is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Purple Flame DJ Set" on Wed, 19 Aug 2026.
 
 Usquare is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including LOV (1), Obsimo and Purple Flame. Browse upcoming dates, start times and who's playing. Av. de la Couronne 227, 1050 Bruxelles.
 
@@ -17,4 +17,4 @@ Usquare is a music venue in Brussels listed on soundcheck. 4 upcoming nights, wi
 
 Av. de la Couronne 227, 1050 Bruxelles, Brussels
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*

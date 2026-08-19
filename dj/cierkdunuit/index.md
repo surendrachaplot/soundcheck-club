@@ -1,6 +1,6 @@
 # Cierk du Nuit
 
-Cierk du Nuit is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
+Cierk du Nuit is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
 
 Cierk du Nuit is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Monster Mush, AMARE and Dimitri Cooman. Next up: Charlatan, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cierk du Nuit is a techno and hardcore artist tracked on soundcheck, with 17 set
 
 Monster Mush, AMARE, Dimitri Cooman
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cierkdunuit/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cierkdunuit/)*

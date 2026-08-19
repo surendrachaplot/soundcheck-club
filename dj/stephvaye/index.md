@@ -1,6 +1,6 @@
 # Steph Vaye
 
-Steph Vaye is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Good Room, New York City on Sat, 19 Sept 2026.
+Steph Vaye is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Good Room, New York City on Sat, 19 Sept 2026.
 
 Steph Vaye is an electronic artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Finn Jones, Lauren Murada and TYLERFROMWHERE. Next up: Good Room, Newyorkcity on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Steph Vaye is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 Finn Jones, Lauren Murada, TYLERFROMWHERE
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephvaye/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephvaye/)*

@@ -1,6 +1,6 @@
 # TBA - 70 huron street
 
-TBA - 70 huron street is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "BIMBO BUNKER" on Fri, 21 Aug 2026.
+TBA - 70 huron street is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "BIMBO BUNKER" on Fri, 21 Aug 2026.
 
 TBA - 70 huron street is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including baby mmune and DJ Nelinalations. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 70 huron street is a music venue in Toronto listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | BIMBO BUNKER | DJ Nelinalations, baby mmune |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-70-huron-street/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-70-huron-street/)*

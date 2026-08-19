@@ -1,6 +1,6 @@
 # Aracil
 
-Aracil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 6 Sept 2026.
+Aracil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 6 Sept 2026.
 
 Aracil is a house and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Bali, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Agatha Pher, Bebetta and Brenda Cast. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Aracil is a house and techno artist based in Spain, tracked on soundcheck, with 
 
 Agatha Pher, Bebetta, Brenda Cast
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aracil/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aracil/)*

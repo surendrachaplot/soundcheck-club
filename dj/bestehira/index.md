@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
+Beste Hira is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
 
 Beste Hira is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Rødhåd, Lobster (NL) and Freddy K. Next up: BASEMENT, Newyorkcity on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Beste Hira is a techno and house artist tracked on soundcheck, with 173 sets log
 
 Rødhåd, Lobster (NL), Freddy K
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

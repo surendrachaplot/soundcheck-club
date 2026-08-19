@@ -1,6 +1,6 @@
 # Datcha NONSTOP: Inigo Vontier [MEX, Calypso Cult], Von Party, Ume, Nosh at Bar Datcha
 
-Datcha NONSTOP: Inigo Vontier [MEX, Calypso Cult], Von Party, Ume, Nosh at Bar Datcha on Fri 4 Sept, Montreal. 4 acts on the bill: Iñigo Vontier, Nosh, Thomas Von Party and UME (CAN). Preview the line-up and save it on soundcheck.
+Datcha NONSTOP: Inigo Vontier [MEX, Calypso Cult], Von Party, Ume, Nosh at Bar Datcha on Fri 4 Sept, Montreal. 4 acts on the bill: Iñigo Vontier, Nosh, Thomas Von Party and UME (CAN). Tech House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

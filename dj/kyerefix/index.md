@@ -1,6 +1,6 @@
 # Kye Refix
 
-Kye Refix is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
+Kye Refix is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Basing House, London on Fri, 21 Aug 2026.
 
 Kye Refix is a tech house and house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Jerome Six, Shenin Amara and JAYDAA. Next up: Basing House, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kye Refix is a tech house and house artist tracked on soundcheck, with 18 sets l
 
 Jerome Six, Shenin Amara, JAYDAA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyerefix/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyerefix/)*

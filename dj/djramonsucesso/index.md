@@ -1,6 +1,6 @@
 # DJ Ramon Sucesso
 
-DJ Ramon Sucesso is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
+DJ Ramon Sucesso is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
 
 DJ Ramon Sucesso is a baile funk and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Bristol and Lisbon and 4 more. Often billed alongside S4DO, 2K88 and Aba Shanti-I. Next up: Nitsa Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Ramon Sucesso is a baile funk and techno artist tracked on soundcheck, with 1
 
 S4DO, 2K88, Aba Shanti-I
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djramonsucesso/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djramonsucesso/)*

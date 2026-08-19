@@ -1,6 +1,6 @@
 # SHADE 98
 
-SHADE 98 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sunnydaze, Osaka on Sun, 23 Aug 2026.
+SHADE 98 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sunnydaze, Osaka on Sun, 23 Aug 2026.
 
 SHADE 98 is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Osaka. Often billed alongside Ryosuke and Sonny Vercetti. Next up: Sunnydaze, Osaka on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ SHADE 98 is a techno and tech house artist tracked on soundcheck, with 10 sets l
 
 Ryosuke, Sonny Vercetti
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shade98/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shade98/)*

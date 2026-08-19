@@ -1,6 +1,6 @@
 # Dominik Gehringer
 
-Dominik Gehringer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Křižíkova Fountain, Prague on Sun, 23 Aug 2026.
+Dominik Gehringer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Křižíkova Fountain, Prague on Sun, 23 Aug 2026.
 
 Dominik Gehringer is a techno and progressive house artist tracked on soundcheck, with 17 sets logged across Berlin and Prague. Often billed alongside Orbith, Joris Voorn and Subgate. Next up: Křižíkova Fountain, Prague on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Dominik Gehringer is a techno and progressive house artist tracked on soundcheck
 
 Orbith, Joris Voorn, Subgate
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikgehringer/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikgehringer/)*

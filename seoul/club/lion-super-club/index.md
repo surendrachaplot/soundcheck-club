@@ -1,6 +1,6 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SOUNDCLASH THURSDAY'S" on Thu, 20 Aug 2026.
+Lion Super Club is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SOUNDCLASH THURSDAY'S" on Thu, 20 Aug 2026.
 
 Lion Super Club is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including ANXHELA, Elderbrook, Lunara and Minehero and 1 more. Browse upcoming dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
@@ -19,4 +19,4 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 6 upcoming night
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

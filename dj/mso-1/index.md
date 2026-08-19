@@ -1,6 +1,6 @@
 # MSO (1)
 
-MSO (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
+MSO (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
 
 MSO (1) is an electronic artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside m-onz and twoeight. Next up: M.O.T, London on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ MSO (1) is an electronic artist tracked on soundcheck, with 2 sets logged across
 
 m-onz, twoeight
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mso-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mso-1/)*

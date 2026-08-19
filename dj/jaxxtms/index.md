@@ -1,6 +1,6 @@
 # JAXX TMS
 
-JAXX TMS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Jumbi, London on Fri, 21 Aug 2026.
+JAXX TMS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Jumbi, London on Fri, 21 Aug 2026.
 
 JAXX TMS is a house and disco artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside yung_womb, DJ Westfa and JADA MORAES. Next up: Jumbi, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ JAXX TMS is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 yung_womb, DJ Westfa, JADA MORAES
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxtms/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxtms/)*

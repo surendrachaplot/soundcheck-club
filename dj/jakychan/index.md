@@ -1,6 +1,6 @@
 # Jáky Chan
 
-Jáky Chan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kassa Boat, Budapest on Sat, 22 Aug 2026.
+Jáky Chan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kassa Boat, Budapest on Sat, 22 Aug 2026.
 
 Jáky Chan is a house and trance artist tracked on soundcheck, with 18 sets logged across Budapest. Often billed alongside mkls, Eliézer (2) and Moräl. Next up: Kassa Boat, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jáky Chan is a house and trance artist tracked on soundcheck, with 18 sets logg
 
 mkls, Eliézer (2), Moräl
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakychan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakychan/)*

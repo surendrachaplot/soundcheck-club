@@ -1,6 +1,6 @@
 # Adriatic
 
-Adriatic is a R&B and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Pianos, New York City on Tue, 1 Sept 2026.
+Adriatic is a R&B and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Pianos, New York City on Tue, 1 Sept 2026.
 
 Adriatic is a r&b and pop artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Next up: Pianos, Newyorkcity on Tue 1 Sept.
 
@@ -10,4 +10,4 @@ Adriatic is a r&b and pop artist based in United States of America, tracked on s
 | --- | --- | --- |
 | Tue, 1 Sept 2026 | Pianos | New York City |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatic/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatic/)*

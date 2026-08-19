@@ -1,6 +1,6 @@
 # ALYOSHA
 
-ALYOSHA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
+ALYOSHA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Under Club, Buenos Aires on Sat, 29 Aug 2026.
 
 ALYOSHA is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Buenosaires, Copenhagen and Madrid and 2 more. Often billed alongside Kessler (AR), Anabel and Cobb Douglas. Next up: Under Club, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ALYOSHA is a techno and trance artist tracked on soundcheck, with 27 sets logged
 
 Kessler (AR), Anabel, Cobb Douglas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyosha/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyosha/)*

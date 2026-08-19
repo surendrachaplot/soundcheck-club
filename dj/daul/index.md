@@ -1,6 +1,6 @@
 # Daul
 
-Daul is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
+Daul is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
 
 Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, with 94 sets logged across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: FS., Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, 
 
 TRUEUNSOL, DJ Wow, Gyusco
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*

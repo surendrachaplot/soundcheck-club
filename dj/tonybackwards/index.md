@@ -1,6 +1,6 @@
 # Tony Backwards
 
-Tony Backwards is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 20 Aug 2026.
+Tony Backwards is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 20 Aug 2026.
 
 Tony Backwards is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 2 sets logged across Washingtondc. Often billed alongside Eusebio. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Tony Backwards is a house and funk / soul artist based in United States of Ameri
 
 Eusebio
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybackwards/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybackwards/)*

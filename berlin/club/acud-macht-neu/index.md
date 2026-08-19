@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MUSIC BUSINESS: SELF MADE STORY — Edition 2" on Thu, 20 Aug 2026.
+Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "MUSIC BUSINESS: SELF MADE STORY — Edition 2" on Thu, 20 Aug 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including DJ Kündigung, Femdelic, Lando and LEYA and 2 more. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

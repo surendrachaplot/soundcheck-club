@@ -1,6 +1,6 @@
 # zazitech
 
-zazitech is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Altenburg 1964, Prague on Thu, 20 Aug 2026.
+zazitech is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Altenburg 1964, Prague on Thu, 20 Aug 2026.
 
 zazitech is a techno and tech house artist tracked on soundcheck, with 86 sets logged across Berlin, Krakow, Madrid and Prague and 1 more. Often billed alongside DDK (1), jardabpm and RADYK. Next up: Altenburg 1964, Prague on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ zazitech is a techno and tech house artist tracked on soundcheck, with 86 sets l
 
 DDK (1), jardabpm, RADYK
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*

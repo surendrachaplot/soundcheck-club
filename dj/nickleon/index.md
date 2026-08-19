@@ -1,6 +1,6 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
+Nick León is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
 
 Nick León is a techno and club artist tracked on soundcheck, with 200 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: ICA, London on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Nick León is a techno and club artist tracked on soundcheck, with 200 sets logg
 
 DJ Python, Bitter Babe, Jonny From Space
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

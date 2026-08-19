@@ -1,6 +1,6 @@
 # WWW
 
-WWW is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "iiso Japan Live: sunrise Tokyo with 404 & CARESS" on Wed, 26 Aug 2026.
+WWW is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "iiso Japan Live: sunrise Tokyo with 404 & CARESS" on Wed, 26 Aug 2026.
 
 WWW is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including aryy, Dinamarca, kegøn and meweta and 2 more. Browse upcoming dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, Japan, 150-0042.
 
@@ -16,4 +16,4 @@ WWW is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, Japan, 150-0042, Tokyo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*

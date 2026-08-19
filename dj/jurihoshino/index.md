@@ -1,6 +1,6 @@
 # JURI HOSHINO
 
-JURI HOSHINO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 30 Aug 2026.
+JURI HOSHINO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 30 Aug 2026.
 
 JURI HOSHINO is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside RYOHEI, MonochroME (2) and ALEXANDER M. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ JURI HOSHINO is a techno and house artist based in Japan, tracked on soundcheck,
 
 RYOHEI, MonochroME (2), ALEXANDER M
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*

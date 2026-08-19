@@ -1,6 +1,6 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
+Carly Zeng is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
 
 Carly Zeng is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: TILLATEC, Amsterdam on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Carly Zeng is a techno and house artist tracked on soundcheck, with 133 sets log
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

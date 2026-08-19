@@ -1,6 +1,6 @@
 # caapi
 
-caapi is a Downtempo and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
+caapi is a Downtempo and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SWG3, Glasgow on Fri, 21 Aug 2026.
 
 caapi is a downtempo and new wave artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Glasgow and London. Often billed alongside Lizzie Urquhart, 222babychai and Andrew Thomson. Next up: SWG3, Glasgow on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ caapi is a downtempo and new wave artist based in United Kingdom, tracked on sou
 
 Lizzie Urquhart, 222babychai, Andrew Thomson
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caapi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caapi/)*

@@ -1,6 +1,6 @@
 # Kiimi
 
-Kiimi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NUMBER 90 LONDON, London on Thu, 20 Aug 2026.
+Kiimi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at NUMBER 90 LONDON, London on Thu, 20 Aug 2026.
 
 Kiimi is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Brighton, Bristol and Ibiza and 3 more. Often billed alongside HAAi, Saoirse and 2ManyDJs. Next up: NUMBER 90 LONDON, London on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Kiimi is a house and techno artist tracked on soundcheck, with 34 sets logged ac
 
 HAAi, Saoirse, 2ManyDJs
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*

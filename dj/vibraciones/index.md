@@ -1,6 +1,6 @@
 # VIBRACIONES
 
-VIBRACIONES is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Corner, Miami on Wed, 19 Aug 2026.
+VIBRACIONES is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Corner, Miami on Wed, 19 Aug 2026.
 
 VIBRACIONES is a techno and neo perreo artist tracked on soundcheck, with 8 sets logged across Miami. Often billed alongside DJ SABI, Pressure Point (US) and Quetamine. Next up: The Corner, Miami on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ VIBRACIONES is a techno and neo perreo artist tracked on soundcheck, with 8 sets
 
 DJ SABI, Pressure Point (US), Quetamine
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibraciones/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibraciones/)*

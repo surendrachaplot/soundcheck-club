@@ -1,6 +1,6 @@
 # Riskii (2)
 
-Riskii (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shelter, Seoul on Fri, 21 Aug 2026.
+Riskii (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shelter, Seoul on Fri, 21 Aug 2026.
 
 Riskii (2) is a house and techno artist based in South Korea, tracked on soundcheck, with 136 sets logged across Seoul. Often billed alongside givogi, JNS and Lyumin. Next up: Shelter, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Riskii (2) is a house and techno artist based in South Korea, tracked on soundch
 
 givogi, JNS, Lyumin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*

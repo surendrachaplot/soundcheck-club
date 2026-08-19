@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MONOLIT X Para Klub Beograd" on Sun, 30 Aug 2026.
+Para Klub Beograd is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "MONOLIT X Para Klub Beograd" on Sun, 30 Aug 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, with line-ups including .Paragon, BrüneX, Emma H and Filip Xavi and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -15,4 +15,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

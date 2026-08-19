@@ -1,6 +1,6 @@
 # DJ I.V.
 
-DJ I.V. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+DJ I.V. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 DJ I.V. is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Berlin, Chicago and Detroit. Often billed alongside Hardin, DJ Seoul and Augustus Williams. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ I.V. is a techno and house artist based in United States of America, tracked 
 
 Hardin, DJ Seoul, Augustus Williams
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*

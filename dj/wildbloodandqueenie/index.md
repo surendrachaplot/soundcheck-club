@@ -1,14 +1,15 @@
 # Wildblood and Queenie
 
-Wildblood and Queenie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
+Wildblood and Queenie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
 
-Wildblood and Queenie are a house and disco duo based in United Kingdom, tracked on soundcheck, with 33 sets logged across Brighton and London. Often billed alongside Horse Meat Disco, Jess Hands and Lulah Francs. Next up: Patterns, Brighton on Sun 30 Aug.
+Wildblood and Queenie are a house and disco duo based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton and London. Often billed alongside Horse Meat Disco, Chris de Buerre and Jess Hands. Next up: Patterns, Brighton on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Patterns | Brighton |
+| Sat, 5 Sept 2026 | Electrowerkz | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Wildblood and Queenie are a house and disco duo based in United Kingdom, tracked
 
 ## Shares bills with
 
-Horse Meat Disco, Jess Hands, Lulah Francs
+Horse Meat Disco, Chris de Buerre, Jess Hands
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildbloodandqueenie/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildbloodandqueenie/)*

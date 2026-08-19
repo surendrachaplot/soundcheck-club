@@ -1,6 +1,6 @@
 # MORVIUS
 
-MORVIUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Oriente, Mexico City on Wed, 19 Aug 2026.
+MORVIUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Oriente, Mexico City on Wed, 19 Aug 2026.
 
 MORVIUS is a techno and trance artist tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Deenia, Umvral and Finoh. Next up: Bar Oriente, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ MORVIUS is a techno and trance artist tracked on soundcheck, with 13 sets logged
 
 Deenia, Umvral, Finoh
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morvius/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morvius/)*

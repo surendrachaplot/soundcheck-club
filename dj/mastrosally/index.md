@@ -1,6 +1,6 @@
 # Mastro Sally
 
-Mastro Sally is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Mastro Sally is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Mastro Sally is a tech house and house artist based in Italy, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Mario Chicoli, Babo and MassiF. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mastro Sally is a tech house and house artist based in Italy, tracked on soundch
 
 Mario Chicoli, Babo, MassiF
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*

@@ -1,10 +1,10 @@
 # TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew at Noce KRK
 
-TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew at Noce KRK on Fri 2 Oct, Krakow. 4 acts on the bill: Abrew, Dimitri Cooman, MRV (1) and RAJZ. Techno and Club. Preview the line-up and save it on soundcheck.
+TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew at Noce KRK on Tue 10 Nov, Krakow. 4 acts on the bill: Abrew, Dimitri Cooman, MRV (1) and RAJZ. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 2 Oct 2026 |
+| Date | Tue, 10 Nov 2026 |
 | Venue | Noce KRK |
 | City | Krakow |
 

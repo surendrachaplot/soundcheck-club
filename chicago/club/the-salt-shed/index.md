@@ -1,6 +1,6 @@
 # The Salt Shed
 
-The Salt Shed is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Rooftop Sessions" on Sun, 23 Aug 2026.
+The Salt Shed is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rooftop Sessions" on Sun, 23 Aug 2026.
 
 The Salt Shed is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including BLESSTONIO, CTRLZORA, Nanoos and Shigeto. Browse upcoming dates, start times and who's playing. 1357 N Elston Ave, Chicago, IL 60642.
 
@@ -14,4 +14,4 @@ The Salt Shed is a music venue in Chicago listed on soundcheck. 1 upcoming night
 
 1357 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-salt-shed/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-salt-shed/)*

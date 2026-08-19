@@ -1,6 +1,6 @@
 # PUPA
 
-PUPA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at B2 Rīga, Riga on Fri, 4 Sept 2026.
+PUPA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at B2 Rīga, Riga on Fri, 4 Sept 2026.
 
 PUPA is a house and techno artist based in Latvia, tracked on soundcheck, with 58 sets logged across Bangkok, Riga and Tokyo. Often billed alongside Ikss, Will Sonic and Waxid. Next up: B2 Rīga, Riga on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ PUPA is a house and techno artist based in Latvia, tracked on soundcheck, with 5
 
 Ikss, Will Sonic, Waxid
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pupa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pupa/)*

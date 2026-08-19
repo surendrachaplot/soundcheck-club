@@ -1,6 +1,6 @@
 # Golem (US)
 
-Golem (US) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mothership, San Francisco/Oakland on Fri, 21 Aug 2026.
+Golem (US) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mothership, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Golem (US) is a garage and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Prague and Sanfrancisco. Often billed alongside lilia, DJ Buck and ipad baby (US). Next up: Mothership, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Golem (US) is a garage and house artist based in United States of America, track
 
 lilia, DJ Buck, ipad baby (US)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golemus/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golemus/)*

@@ -1,6 +1,6 @@
 # ANDI A.
 
-ANDI A. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paloma, Berlin on Fri, 11 Sept 2026.
+ANDI A. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paloma, Berlin on Fri, 11 Sept 2026.
 
 ANDI A. is an electro and house artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside Jaamann, Black Mirror Park and Crille & Tamalt. Next up: Paloma, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ANDI A. is an electro and house artist based in Germany, tracked on soundcheck, 
 
 Jaamann, Black Mirror Park, Crille & Tamalt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andia./)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andia./)*

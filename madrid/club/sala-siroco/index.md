@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Casacinco x Gusano Club" on Fri, 21 Aug 2026.
+Sala Siroco is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Casacinco x Gusano Club" on Fri, 21 Aug 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including Belkan, Djen, Fer Xplosion and G4G0 and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming nights,
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

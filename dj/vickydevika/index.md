@@ -1,6 +1,6 @@
 # Vicky Devika
 
-Vicky Devika is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cabaret Berlin, Montreal on Sat, 5 Sept 2026.
+Vicky Devika is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cabaret Berlin, Montreal on Sat, 5 Sept 2026.
 
 Vicky Devika is a progressive house and house artist tracked on soundcheck, with 22 sets logged across Montreal. Often billed alongside Un Zoo Le Jour, DJ Davidé and Davidé. Next up: Cabaret Berlin, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Vicky Devika is a progressive house and house artist tracked on soundcheck, with
 
 Un Zoo Le Jour, DJ Davidé, Davidé
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vickydevika/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vickydevika/)*

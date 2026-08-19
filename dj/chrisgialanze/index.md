@@ -1,6 +1,6 @@
 # Chris Gialanze
 
-Chris Gialanze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Toffler, Rotterdam on Sat, 26 Sept 2026.
+Chris Gialanze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Toffler, Rotterdam on Sat, 26 Sept 2026.
 
 Chris Gialanze is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Cardiff, Ibiza and Leeds and 7 more. Often billed alongside Ozzie Guven, DXNBY and Casey Spillman. Next up: Toffler, Rotterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Chris Gialanze is a house and tech house artist based in United Kingdom, tracked
 
 Ozzie Guven, DXNBY, Casey Spillman
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgialanze/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgialanze/)*

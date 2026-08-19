@@ -1,6 +1,6 @@
 # LIMA (NL)
 
-LIMA (NL) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+LIMA (NL) is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
 LIMA (NL) is a house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam and Rotterdam. Often billed alongside Ben Diggins, LI-YU and Steven Pieters. Next up: export, Rotterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ LIMA (NL) is a house artist based in Netherlands, tracked on soundcheck, with 11
 
 Ben Diggins, LI-YU, Steven Pieters
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limanl/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limanl/)*

@@ -1,6 +1,6 @@
 # Anikonik
 
-Anikonik is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
+Anikonik is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
 
 Anikonik is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Edinburgh and Glasgow. Often billed alongside Harry Jackson, DV60 and Pollyanna. Next up: The Mash House, Edinburgh on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Anikonik is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Harry Jackson, DV60, Pollyanna
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikonik/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikonik/)*

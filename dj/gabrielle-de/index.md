@@ -1,6 +1,6 @@
 # Gabrielle (DE)
 
-Gabrielle (DE) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
+Gabrielle (DE) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
 
 Gabrielle (DE) is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: OXI, Berlin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Gabrielle (DE) is a techno and tech house artist tracked on soundcheck, with 55 
 
 ATR DJ-TEAM, JOTAno, GLASSBASS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*

@@ -1,6 +1,6 @@
 # Sept
 
-Sept is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fvtvr, Paris on Fri, 28 Aug 2026.
+Sept is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fvtvr, Paris on Fri, 28 Aug 2026.
 
 Sept is a techno and house artist based in Poland, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside DLV, Danté and Lucinee. Next up: Fvtvr, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Sept is a techno and house artist based in Poland, tracked on soundcheck, with 1
 
 DLV, Danté, Lucinee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

@@ -1,6 +1,6 @@
 # PRDELANZA
 
-PRDELANZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Altenburg 1964, Prague on Fri, 28 Aug 2026.
+PRDELANZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Altenburg 1964, Prague on Fri, 28 Aug 2026.
 
 PRDELANZA is a house and techno artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague. Often billed alongside Big Lil, Fembot and Kewu. Next up: Altenburg 1964, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ PRDELANZA is a house and techno artist based in Czech Republic, tracked on sound
 
 Big Lil, Fembot, Kewu
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prdelanza/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prdelanza/)*

@@ -1,6 +1,6 @@
 # Suffyan
 
-Suffyan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
+Suffyan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
 
 Suffyan is a house and techno artist based in Singapore, tracked on soundcheck, with 18 sets logged across Seoul and Singapore. Often billed alongside VAIBS, Daryl Knows and sho&tell. Next up: TBA, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Suffyan is a house and techno artist based in Singapore, tracked on soundcheck, 
 
 VAIBS, Daryl Knows, sho&tell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suffyan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suffyan/)*

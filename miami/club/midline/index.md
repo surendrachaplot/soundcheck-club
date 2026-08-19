@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "slayr presents: Half Blood Tour MIAMI" on Tue, 18 Aug 2026.
+Midline is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "slayr presents: Half Blood Tour MIAMI" on Tue, 18 Aug 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Midline is a music venue in Miami listed on soundcheck. 11 upcoming nights, with
 | Tue, 20 Oct 2026 | ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR |  |
 | Sat, 31 Oct 2026 | DJ Habibeats MIAMI | DJ Habibeats |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

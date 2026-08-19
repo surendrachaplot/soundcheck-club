@@ -1,6 +1,6 @@
 # Stefan Andrei
 
-Stefan Andrei is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
+Stefan Andrei is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
 
 Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Obreja., Zigy and Desuba. Next up: Starlane Pizza Bar, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 2
 
 Obreja., Zigy, Desuba
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*

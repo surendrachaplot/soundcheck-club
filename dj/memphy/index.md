@@ -1,6 +1,6 @@
 # Memphy
 
-Memphy is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Massive, Seattle on Sat, 22 Aug 2026.
+Memphy is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Massive, Seattle on Sat, 22 Aug 2026.
 
 Memphy is a techno and club artist tracked on soundcheck, with 87 sets logged across Auckland, Berlin, Chicago and London and 10 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: Massive, Seattle on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Memphy is a techno and club artist tracked on soundcheck, with 87 sets logged ac
 
 Bapari, Sevyn 0000, FASHION (US)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*

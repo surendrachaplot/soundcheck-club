@@ -1,13 +1,14 @@
 # Dj magic touch
 
-Dj magic touch is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Social, London on Sat, 7 Nov 2026.
+Dj magic touch is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Sat, 10 Oct 2026.
 
-Dj magic touch is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Nicky B, Abby Daze and Ben Repertoire. Next up: The Social, London on Sat 7 Nov.
+Dj magic touch is a jungle and drum & bass artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Nicky B, Abby Daze and Andy Foundations. Next up: Planet Wax, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Planet Wax | London |
 | Sat, 7 Nov 2026 | The Social | London |
 
 ## Recently played
@@ -18,6 +19,6 @@ Dj magic touch is a drum & bass and jungle artist tracked on soundcheck, with 4 
 
 ## Shares bills with
 
-Nicky B, Abby Daze, Ben Repertoire
+Nicky B, Abby Daze, Andy Foundations
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagictouch/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagictouch/)*

@@ -1,6 +1,6 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Depot Mayfield, Manchester on Sat, 29 Aug 2026.
+Tia Cousins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Depot Mayfield, Manchester on Sat, 29 Aug 2026.
 
 Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: Depot Mayfield, Manchester on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets lo
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

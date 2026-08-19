@@ -1,8 +1,8 @@
 # Toman
 
-Toman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Colorado Charlie, The Hague on Fri, 21 Aug 2026.
+Toman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Colorado Charlie, The Hague on Fri, 21 Aug 2026.
 
-Toman is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and Chris Stussy. Next up: Colorado Charlie, Thehague on Fri 21 Aug.
+Toman is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and Chris Stassy. Next up: Colorado Charlie, Thehague on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Toman is a house and tech house artist tracked on soundcheck, with 156 sets logg
 
 ## Shares bills with
 
-ANOTR, Ben Sterling, Chris Stussy
+ANOTR, Ben Sterling, Chris Stassy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

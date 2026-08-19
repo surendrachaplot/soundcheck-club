@@ -1,6 +1,6 @@
 # Uri Mood
 
-Uri Mood is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
+Uri Mood is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
 
 Uri Mood is a house and tech house artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Belu Rodriguez, Fran Santos and Lautaro Deem. Next up: La Terrrazza, Barcelona on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Uri Mood is a house and tech house artist based in Spain, tracked on soundcheck,
 
 Belu Rodriguez, Fran Santos, Lautaro Deem
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urimood/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urimood/)*

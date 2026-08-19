@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "E L I X I R  THURSDAY  • Dretraxx • DR. Disko Dust" on Thu, 20 Aug 2026.
+Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "E L I X I R  THURSDAY  • Dretraxx • DR. Disko Dust" on Thu, 20 Aug 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Ameera, Brent Shay, DJ Candor and DJ I.V. and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -9,7 +9,7 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | E L I X I R  THURSDAY  • Dretraxx • DR. Disko Dust | DR. Disko Dust, Dretraxx |
-| Fri, 28 Aug 2026 | Alternative School presents: RELAY | Ameera, Shigeto, Sugar, Todd Modes |
+| Fri, 28 Aug 2026 | Alternative School presents: RELAY | Ameera, Shigeto, Sugar, Sugar (4), Todd Modes |
 | Sat, 29 Aug 2026 | Laylit #149 - Detroit |  |
 | Thu, 3 Sept 2026 | E L I X I R: BEYOND THE ABYSS: Scott Zacharias• K2• Dr.Disko Dust• Phunhouse• No Cover | DR. Disko Dust, Nick Kothari, Scott Zacharias |
 | Fri, 11 Sept 2026 | Anatomy presents: Marcel Fengler (IMF, Berghain) & More TBA | Marcel Fengler |
@@ -19,4 +19,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

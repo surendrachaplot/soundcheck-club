@@ -1,6 +1,6 @@
 # SHOW SHONNA
 
-SHOW SHONNA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Air Conditioned Lounge, San Diego on Sat, 22 Aug 2026.
+SHOW SHONNA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Air Conditioned Lounge, San Diego on Sat, 22 Aug 2026.
 
 SHOW SHONNA is a house and tech house artist tracked on soundcheck, with 14 sets logged across Sandiego. Often billed alongside Kale (2), Dolen and Martín. Next up: The Air Conditioned Lounge, Sandiego on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SHOW SHONNA is a house and tech house artist tracked on soundcheck, with 14 sets
 
 Kale (2), Dolen, Martín
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/showshonna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/showshonna/)*

@@ -1,6 +1,6 @@
 # Jinjé
 
-Jinjé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+Jinjé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
 Jinjé is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Leeds, Liverpool and London and 1 more. Often billed alongside Steffi, Afrodeutsche and Altinbas. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jinjé is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 Steffi, Afrodeutsche, Altinbas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinje/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinje/)*

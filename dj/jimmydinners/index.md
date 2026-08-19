@@ -1,13 +1,14 @@
 # Jimmy Dinners
 
-Jimmy Dinners is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at HWK, London on Sat, 5 Sept 2026.
+Jimmy Dinners is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
 
-Jimmy Dinners is a house and tech house artist tracked on soundcheck, with 11 sets logged across Liverpool and London. Often billed alongside Bedfactory Records, Nick Davis and Uncle Baz. Next up: HWK, London on Sat 5 Sept.
+Jimmy Dinners is a house and tech house artist tracked on soundcheck, with 12 sets logged across Liverpool and London. Often billed alongside Bedfactory Records, Nick Davis and Uncle Baz. Next up: Bar Bodega, Liverpool on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Bar Bodega | Liverpool |
 | Sat, 5 Sept 2026 | HWK | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jimmy Dinners is a house and tech house artist tracked on soundcheck, with 11 se
 
 Bedfactory Records, Nick Davis, Uncle Baz
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmydinners/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmydinners/)*

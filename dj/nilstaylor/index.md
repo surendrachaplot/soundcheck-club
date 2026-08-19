@@ -1,6 +1,6 @@
 # Nils Taylor
 
-Nils Taylor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Chemist, Boston on Fri, 21 Aug 2026.
+Nils Taylor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Chemist, Boston on Fri, 21 Aug 2026.
 
 Nils Taylor is a house and deep house artist tracked on soundcheck, with 3 sets logged across Boston. Often billed alongside LOLAXVA and Selector X. Next up: The Chemist, Boston on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Nils Taylor is a house and deep house artist tracked on soundcheck, with 3 sets 
 
 LOLAXVA, Selector X
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilstaylor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilstaylor/)*

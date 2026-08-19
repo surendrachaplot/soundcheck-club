@@ -1,6 +1,6 @@
 # Minna Thiel
 
-Minna Thiel is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "ghetto disco Open Air - Feierabend Edition" on Fri, 21 Aug 2026.
+Minna Thiel is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "ghetto disco Open Air - Feierabend Edition" on Fri, 21 Aug 2026.
 
 Minna Thiel is a music venue in Munich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Bernd-Eichinger-Platz 1, 80333 München.
 
@@ -14,4 +14,4 @@ Minna Thiel is a music venue in Munich listed on soundcheck. 1 upcoming night. B
 
 Bernd-Eichinger-Platz 1, 80333 München, Munich
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/minna-thiel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/minna-thiel/)*

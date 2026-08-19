@@ -1,6 +1,6 @@
 # Vilalta
 
-Vilalta is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Vilalta is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Vilalta is a tech house and minimal artist tracked on soundcheck, with 41 sets logged across Barcelona and Madrid. Often billed alongside arnald, Vallde and Nancy (3). Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vilalta is a tech house and minimal artist tracked on soundcheck, with 41 sets l
 
 arnald, Vallde, Nancy (3)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilalta/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilalta/)*

@@ -1,6 +1,6 @@
 # Luke McKeehan
 
-Luke McKeehan is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 22 Aug 2026.
+Luke McKeehan is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 22 Aug 2026.
 
 Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 29 sets logged across Vancouver. Often billed alongside Jesse Hills, DJ Heather and DJ Sneak. Next up: Gorg-O-Mish, Vancouver on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 29 se
 
 Jesse Hills, DJ Heather, DJ Sneak
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*

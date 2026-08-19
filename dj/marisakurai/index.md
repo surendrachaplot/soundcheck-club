@@ -1,6 +1,6 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Mitsuki, Tokyo on Sat, 22 Aug 2026.
+Mari Sakurai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Mitsuki, Tokyo on Sat, 22 Aug 2026.
 
 Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck, with 151 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Shinsuke Goto, YANNY (1) and 7e. Next up: Mitsuki, Tokyo on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck,
 
 Shinsuke Goto, YANNY (1), 7e
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*

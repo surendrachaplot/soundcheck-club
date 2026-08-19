@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Substrate pres. DJ Stingray 313" on Thu, 20 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Substrate pres. DJ Stingray 313" on Thu, 20 Aug 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights, with line-ups including 1tbsp, Amarji King, Archangel and Artemis.105 and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -22,4 +22,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 9 upcomin
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

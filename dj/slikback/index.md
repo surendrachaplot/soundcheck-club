@@ -1,6 +1,6 @@
 # Slikback
 
-Slikback is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Slikback is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Slikback is an experimental and bass artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Slikback is an experimental and bass artist tracked on soundcheck, with 57 sets 
 
 ojoo, Brodinski, upsammy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*

@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 67 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "PHASE:ONE" on Tue, 18 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 66 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SIGNALS - 5€ Tickets - with NSLZ, Nettta, DJ TRY & Suanni" on Wed, 19 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 67 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 66 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | PHASE:ONE | Justus Hildebrand |
 | Wed, 19 Aug 2026 | SIGNALS - 5€ Tickets - with NSLZ, Nettta, DJ TRY & Suanni | Cobb Douglas, DJ Try (US), NSLZ, Nettta, Suanni |
 | Wed, 19 Aug 2026 | SIGNALS |  |
 | Thu, 20 Aug 2026 | Chantal's House of Shame |  |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 67 upcoming 
 | Sun, 23 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 | Tue, 25 Aug 2026 | PHASE:ONE | RichBeat |
 | Wed, 26 Aug 2026 | SIGNALS - 5€ Tickets - with G.IO, LAURIX & YOUNG LOLO | GI.O, LAURIX (DE) |
+| Thu, 27 Aug 2026 | Chantal's House of Shame |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

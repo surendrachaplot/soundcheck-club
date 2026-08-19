@@ -1,6 +1,6 @@
 # Cooper Cooper
 
-Cooper Cooper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+Cooper Cooper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 Cooper Cooper is a techno and house artist based in Australia, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside 131bpm, ALP (DE) and Aaron Blau. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Cooper Cooper is a techno and house artist based in Australia, tracked on soundc
 
 131bpm, ALP (DE), Aaron Blau
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coopercooper/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coopercooper/)*

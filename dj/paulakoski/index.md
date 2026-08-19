@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Exit Reality, Singapore on Sat, 29 Aug 2026.
+Paula Koski is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Exit Reality, Singapore on Sat, 29 Aug 2026.
 
 Paula Koski is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: Exit Reality, Singapore on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 96 sets log
 
 Justine Perry, Steffi, Virginia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

@@ -1,6 +1,6 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
+Coflo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
 
 Coflo is a house and deep house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Chicago, Denver and Detroit and 15 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: Soup, Manchester on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Coflo is a house and deep house artist tracked on soundcheck, with 56 sets logge
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

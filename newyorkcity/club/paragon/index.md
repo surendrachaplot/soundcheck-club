@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Funk Flex, Daniro, Eden + ALEXIS DE LA ROSA, Total XTC" on Fri, 21 Aug 2026.
+Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Funk Flex, Daniro, Eden + ALEXIS DE LA ROSA, Total XTC" on Fri, 21 Aug 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Adred, ALEXIS DE LA ROSA, Anna Eberg and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

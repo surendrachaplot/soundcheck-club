@@ -1,6 +1,6 @@
 # ADR (US)
 
-ADR (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+ADR (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 ADR (US) is a house and tech house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Amsterdam, Manchester and Newyorkcity. Often billed alongside Jamback, Jamie Fielding and Job de Jong. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ ADR (US) is a house and tech house artist based in United States of America, tra
 
 Jamback, Jamie Fielding, Job de Jong
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*

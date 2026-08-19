@@ -1,6 +1,6 @@
 # Theodore Kittens
 
-Theodore Kittens is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 21 Aug 2026.
+Theodore Kittens is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 21 Aug 2026.
 
 Theodore Kittens is a house and garage artist tracked on soundcheck, with 4 sets logged across Adelaide and Melbourne. Often billed alongside BANO (AU), CONTEMPO and DANZAH. Next up: Revolver Upstairs, Melbourne on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Theodore Kittens is a house and garage artist tracked on soundcheck, with 4 sets
 
 BANO (AU), CONTEMPO, DANZAH
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorekittens/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorekittens/)*

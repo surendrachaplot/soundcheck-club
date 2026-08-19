@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
+Kendal is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Belaria and Miguel De Bois. Next up: Virage, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets 
 
 Andi, Belaria, Miguel De Bois
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

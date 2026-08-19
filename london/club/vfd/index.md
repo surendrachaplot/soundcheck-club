@@ -1,6 +1,6 @@
 # VFD
 
-VFD is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Seraphim" on Fri, 4 Sept 2026.
+VFD is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Seraphim" on Fri, 4 Sept 2026.
 
 VFD is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 66 Stoke Newington Road; Dalston; London N16 7XB; United Kingdom.
 
@@ -14,4 +14,4 @@ VFD is a music venue in London listed on soundcheck. 1 upcoming night. Browse up
 
 66 Stoke Newington Road; Dalston; London N16 7XB; United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vfd/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vfd/)*

@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Marie Davidson (LIVE)" on Thu, 20 Aug 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Marie Davidson (LIVE)" on Thu, 20 Aug 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Paula Tape and ABADIR and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

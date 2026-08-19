@@ -1,6 +1,6 @@
 # Kessler
 
-Kessler is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
+Kessler is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
 Kessler is a techno and breakbeat artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 21 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: export, Rotterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kessler is a techno and breakbeat artist based in United Kingdom, tracked on sou
 
 Koboro, Sally C, DJ BORING
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*

@@ -1,6 +1,6 @@
 # Circle Park
 
-Circle Park is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "BLACK GRAVITY DANCE Open Air / Afterparty by Microwave & Cröak" on Sat, 22 Aug 2026.
+Circle Park is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "BLACK GRAVITY DANCE Open Air / Afterparty by Microwave & Cröak" on Sat, 22 Aug 2026.
 
 Circle Park is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Ampe, Audrey Danza, Bitter Babe and Bo Meng and 2 more. Browse upcoming dates, start times and who's playing. Rue des Goujons 156, 1070 Anderlecht.
 
@@ -15,4 +15,4 @@ Circle Park is a music venue in Brussels listed on soundcheck. 2 upcoming nights
 
 Rue des Goujons 156, 1070 Anderlecht, Brussels
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*

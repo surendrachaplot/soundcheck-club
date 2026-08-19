@@ -1,6 +1,6 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 21 Aug 2026.
+Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 21 Aug 2026.
 
 Mai iachetti is a house and tech house artist tracked on soundcheck, with 125 sets logged across Boston, Chicago, Denver and Ibiza and 7 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Sunset Park Rooftop, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Mai iachetti is a house and tech house artist tracked on soundcheck, with 125 se
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

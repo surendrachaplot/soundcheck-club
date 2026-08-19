@@ -1,6 +1,6 @@
 # Rochelle Jordan
 
-Rochelle Jordan is a House and R&B artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at LAV - Lisboa ao Vivo, Lisbon on Sat, 22 Aug 2026.
+Rochelle Jordan is a House and R&B artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at LAV - Lisboa ao Vivo, Lisbon on Sat, 22 Aug 2026.
 
 Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Dublin and Lisbon and 11 more. Often billed alongside Disclosure, TOKiMONSTA and Bored Lord. Next up: LAV - Lisboa ao Vivo, Lisbon on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck
 
 Disclosure, TOKiMONSTA, Bored Lord
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*

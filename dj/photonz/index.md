@@ -1,6 +1,6 @@
 # Photonz
 
-Photonz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Lux Fragil, Lisbon on Sat, 29 Aug 2026.
+Photonz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lux Fragil, Lisbon on Sat, 29 Aug 2026.
 
 Photonz is a house and deep house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Lisbon, Paris and Porto. Often billed alongside Yen Sung, Shcuro and Sibson. Next up: Lux Fragil, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Photonz is a house and deep house artist tracked on soundcheck, with 37 sets log
 
 Yen Sung, Shcuro, Sibson
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photonz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photonz/)*

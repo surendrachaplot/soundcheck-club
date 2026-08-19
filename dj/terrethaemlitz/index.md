@@ -1,14 +1,15 @@
 # Terre Thaemlitz
 
-Terre Thaemlitz is a Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Terre Thaemlitz is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Terre Thaemlitz is an experimental artist tracked on soundcheck, with 2 sets logged across Newyorkcity and Sheffield. Often billed alongside 96 Back, Aba Shanti-I and Beatrice Dillon. Next up: public records, Newyorkcity on Mon 9 Nov.
+Terre Thaemlitz is an experimental artist tracked on soundcheck, with 3 sets logged across Newyorkcity and Sheffield. Often billed alongside 96 Back, Aba Shanti-I and Abby Echiverri. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | public records | New York City |
+| Sun, 15 Nov 2026 | Roulette | New York City |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Terre Thaemlitz is an experimental artist tracked on soundcheck, with 2 sets log
 
 ## Shares bills with
 
-96 Back, Aba Shanti-I, Beatrice Dillon
+96 Back, Aba Shanti-I, Abby Echiverri
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrethaemlitz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrethaemlitz/)*

@@ -1,6 +1,6 @@
 # Eug
 
-Eug is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 21 Aug 2026.
+Eug is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Eug is a house and techno artist tracked on soundcheck, with 19 sets logged across Sanfrancisco, Seoul and Tokyo. Often billed alongside Monkey Timers, FFAN and Kenji Takimi. Next up: Bar Part Time, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Eug is a house and techno artist tracked on soundcheck, with 19 sets logged acro
 
 Monkey Timers, FFAN, Kenji Takimi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eug/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eug/)*

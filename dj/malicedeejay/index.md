@@ -1,6 +1,6 @@
 # malicedeejay
 
-malicedeejay is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
+malicedeejay is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Mash House, Edinburgh on Sat, 22 Aug 2026.
 
 malicedeejay is a hardcore and club artist tracked on soundcheck, with 23 sets logged across Berlin and Edinburgh. Often billed alongside DV60, al gu and miira. Next up: The Mash House, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ malicedeejay is a hardcore and club artist tracked on soundcheck, with 23 sets l
 
 DV60, al gu, miira
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*

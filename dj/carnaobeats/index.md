@@ -1,6 +1,6 @@
 # Carnao Beats
 
-Carnao Beats is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+Carnao Beats is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
 Carnao Beats is a tech house and deep house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside JAYDAA, Pioneer and Steven Cee. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carnao Beats is a tech house and deep house artist tracked on soundcheck, with 1
 
 JAYDAA, Pioneer, Steven Cee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carnaobeats/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carnaobeats/)*

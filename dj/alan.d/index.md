@@ -1,6 +1,6 @@
 # Alan.D
 
-Alan.D is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Macadam, Nantes on Thu, 27 Aug 2026.
+Alan.D is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Macadam, Nantes on Thu, 27 Aug 2026.
 
 Alan.D is a house and deep house artist based in France, tracked on soundcheck, with 53 sets logged across Bangkok, Lyon, Nantes and Paris. Often billed alongside C.H.I.C.H.I., Crowd Control and Jazzie C. Next up: Macadam, Nantes on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Alan.D is a house and deep house artist based in France, tracked on soundcheck, 
 
 C.H.I.C.H.I., Crowd Control, Jazzie C
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alan.d/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alan.d/)*

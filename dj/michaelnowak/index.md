@@ -1,6 +1,6 @@
 # Michael Nowak
 
-Michael Nowak is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pimpernel, Munich on Tue, 18 Aug 2026.
+Michael Nowak is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pimpernel, Munich on Tue, 18 Aug 2026.
 
 Michael Nowak is a house and electro artist based in Germany, tracked on soundcheck, with 81 sets logged across Munich. Often billed alongside NOWAK, Alice DiMar and ROBOTIQ. Next up: Pimpernel, Munich on Tue 18 Aug.
 
@@ -13,6 +13,7 @@ Michael Nowak is a house and electro artist based in Germany, tracked on soundch
 
 ## Recently played
 
+- Pimpernel, Munich — Tue, 18 Aug 2026
 - Pimpernel, Munich — Tue, 4 Aug 2026
 - Pimpernel, Munich — Tue, 28 Jul 2026
 - Pimpernel, Munich — Tue, 14 Jul 2026
@@ -20,10 +21,9 @@ Michael Nowak is a house and electro artist based in Germany, tracked on soundch
 - Pimpernel, Munich — Tue, 23 Jun 2026
 - Pimpernel, Munich — Tue, 9 Jun 2026
 - Pimpernel, Munich — Tue, 26 May 2026
-- Pimpernel, Munich — Tue, 5 May 2026
 
 ## Shares bills with
 
 NOWAK, Alice DiMar, ROBOTIQ
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelnowak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelnowak/)*

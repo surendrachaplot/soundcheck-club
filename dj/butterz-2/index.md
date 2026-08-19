@@ -1,6 +1,6 @@
 # Butterz (2)
 
-Butterz (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Echo & Bounce, Brisbane on Thu, 27 Aug 2026.
+Butterz (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Echo & Bounce, Brisbane on Thu, 27 Aug 2026.
 
 Butterz (2) is a techno and house artist tracked on soundcheck, with 8 sets logged across Brisbane and Melbourne. Often billed alongside Christopher Brooks, DJ Rondel and Doppel. Next up: Echo & Bounce, Brisbane on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Butterz (2) is a techno and house artist tracked on soundcheck, with 8 sets logg
 
 Christopher Brooks, DJ Rondel, Doppel
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butterz-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butterz-2/)*

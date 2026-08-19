@@ -1,6 +1,6 @@
 # Nico Nova
 
-Nico Nova is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Nico Nova is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
 Nico Nova is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Chico, Estiva and Huminal. Next up: TBA, Amsterdam on Sun 27 Sept.
 
@@ -18,4 +18,4 @@ Nico Nova is a progressive house and deep house artist based in Netherlands, tra
 
 Chico, Estiva, Huminal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niconova/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niconova/)*

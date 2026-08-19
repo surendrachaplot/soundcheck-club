@@ -1,6 +1,6 @@
 # Swaytone
 
-Swaytone is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 18 Aug 2026.
+Swaytone is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 18 Aug 2026.
 
 Swaytone is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Corios, DAV3 and Eloïß. Next up: Der Weiße Hase, Berlin on Tue 18 Aug.
 
@@ -13,6 +13,7 @@ Swaytone is a techno and trance artist tracked on soundcheck, with 10 sets logge
 
 ## Recently played
 
+- Der Weiße Hase, Berlin — Tue, 18 Aug 2026
 - Der Weiße Hase, Berlin — Sat, 15 Aug 2026
 - Der Weiße Hase, Berlin — Tue, 28 Jul 2026
 - Der Weiße Hase, Berlin — Sat, 20 Jun 2026
@@ -20,10 +21,9 @@ Swaytone is a techno and trance artist tracked on soundcheck, with 10 sets logge
 - Lokschuppen Berlin, Berlin — Sun, 3 Aug 2025
 - Abstrakt, Berlin — Fri, 5 Apr 2024
 - Mensch Meier, Berlin — Fri, 22 Sept 2023
-- Lokschuppen Berlin, Berlin — Sun, 13 Aug 2023
 
 ## Shares bills with
 
 Corios, DAV3, Eloïß
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swaytone/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swaytone/)*

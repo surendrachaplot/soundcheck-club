@@ -1,6 +1,6 @@
 # discostan
 
-discostan is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Audium, San Francisco/Oakland on Sat, 5 Sept 2026.
+discostan is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Audium, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 discostan is a house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto and 1 more. Often billed alongside Lapgan, Captain Planet and Chaia. Next up: Audium, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ discostan is a house and club artist based in United States of America, tracked 
 
 Lapgan, Captain Planet, Chaia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*

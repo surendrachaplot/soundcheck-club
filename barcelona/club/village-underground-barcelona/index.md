@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Vetor Club x Plasma x Pirexia" on Sat, 22 Aug 2026.
+Village Underground Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Vetor Club x Plasma x Pirexia" on Sat, 22 Aug 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including A.Fruit, Albal, AMANTRA and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -20,4 +20,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

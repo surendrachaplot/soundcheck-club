@@ -1,6 +1,6 @@
 # Bumpr
 
-Bumpr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Bumpr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 Bumpr is a house and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside Ammé, Fabio Santos and Jesse Maas. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Bumpr is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Ammé, Fabio Santos, Jesse Maas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpr/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpr/)*

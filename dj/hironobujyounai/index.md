@@ -1,6 +1,6 @@
 # Hironobu Jyounai
 
-Hironobu Jyounai is a Drum & Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Shibuya Club Ball, Tokyo on Sat, 3 Oct 2026.
+Hironobu Jyounai is a Drum & Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shibuya Club Ball, Tokyo on Sat, 3 Oct 2026.
 
 Hironobu Jyounai is a drum & bass and jazz artist based in Japan, tracked on soundcheck, with 89 sets logged across Tokyo. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Yuta Takahashi. Next up: Shibuya Club Ball, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hironobu Jyounai is a drum & bass and jazz artist based in Japan, tracked on sou
 
 vinylDJ Eiji Takehana, Kenta Tominaga, Yuta Takahashi
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hironobujyounai/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hironobujyounai/)*

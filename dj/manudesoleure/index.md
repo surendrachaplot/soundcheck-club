@@ -1,6 +1,6 @@
 # Manu de Soleure
 
-Manu de Soleure is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Manu de Soleure is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Manu de Soleure is an electronic artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Zurich. Often billed alongside ADO (DE), Add FM and Ado. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Manu de Soleure is an electronic artist based in Switzerland, tracked on soundch
 
 ADO (DE), Add FM, Ado
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manudesoleure/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manudesoleure/)*

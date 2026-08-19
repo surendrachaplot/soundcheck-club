@@ -1,6 +1,6 @@
 # V3SNA
 
-V3SNA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+V3SNA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 V3SNA is a techno and electronica artist tracked on soundcheck, with 11 sets logged across Bucharest and Mexicocity. Often billed alongside Primal Sound, Astro and Avant-Garde Institute. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ V3SNA is a techno and electronica artist tracked on soundcheck, with 11 sets log
 
 Primal Sound, Astro, Avant-Garde Institute
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/v3sna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/v3sna/)*

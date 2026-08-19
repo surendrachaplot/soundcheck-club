@@ -1,6 +1,6 @@
 # scatterbrain
 
-scatterbrain is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
+scatterbrain is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
 scatterbrain is a drum & bass and dubstep artist tracked on soundcheck, with 7 sets logged across Barcelona, Bucharest and Prague. Often billed alongside 2Shy MC, DLR and Kundarini. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ scatterbrain is a drum & bass and dubstep artist tracked on soundcheck, with 7 s
 
 2Shy MC, DLR, Kundarini
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scatterbrain/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scatterbrain/)*

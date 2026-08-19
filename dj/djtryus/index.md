@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
+DJ Try (US) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Berlin, Ibiza, London and Manchester and 4 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and moistbreezy. Next up: Lokschuppen Berlin, Berlin on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, Princess Elf Bar, moistbreezy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

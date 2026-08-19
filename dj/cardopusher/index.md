@@ -1,6 +1,6 @@
 # Cardopusher
 
-Cardopusher is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
+Cardopusher is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
 
 Cardopusher is a reggaeton and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Safety Trance, BL4ZE and Manuka Honey. Next up: MIDNIGHT EAST, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cardopusher is a reggaeton and techno artist tracked on soundcheck, with 68 sets
 
 Safety Trance, BL4ZE, Manuka Honey
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*

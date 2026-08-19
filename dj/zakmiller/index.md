@@ -1,6 +1,6 @@
 # Zak Miller
 
-Zak Miller is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
+Zak Miller is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
 
 Zak Miller is a house and garage artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: Basing House, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Zak Miller is a house and garage artist based in United Kingdom, tracked on soun
 
 Alfaz, Bear Winder, A Hard Day's Dance
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*

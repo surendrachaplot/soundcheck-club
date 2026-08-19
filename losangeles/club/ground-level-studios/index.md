@@ -1,6 +1,6 @@
 # Ground Level Studios
 
-Ground Level Studios is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "CLOSER presents THERMAL with DATSKO (LA Debut)" on Sat, 22 Aug 2026.
+Ground Level Studios is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "CLOSER presents THERMAL with DATSKO (LA Debut)" on Sat, 22 Aug 2026.
 
 Ground Level Studios is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Ashley Anngora, DATSKO and Jacob Grosse. Browse upcoming dates, start times and who's playing. 1028 Los Angeles St., Los Angeles, CA 90015.
 
@@ -14,4 +14,4 @@ Ground Level Studios is a music venue in Losangeles listed on soundcheck. 1 upco
 
 1028 Los Angeles St., Los Angeles, CA 90015, Los Angeles
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ground-level-studios/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ground-level-studios/)*

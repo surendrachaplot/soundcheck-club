@@ -1,6 +1,6 @@
 # geneva
 
-geneva is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rex Club, Paris on Sat, 12 Sept 2026.
+geneva is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rex Club, Paris on Sat, 12 Sept 2026.
 
 geneva is a house and deep house artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Geneva and Madrid and 1 more. Often billed alongside Adnan Suara, Kapote and !NN. Next up: Rex Club, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ geneva is a house and deep house artist tracked on soundcheck, with 12 sets logg
 
 Adnan Suara, Kapote, !NN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva/)*

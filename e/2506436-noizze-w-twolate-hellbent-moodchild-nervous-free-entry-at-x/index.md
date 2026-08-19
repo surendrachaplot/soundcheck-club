@@ -1,6 +1,6 @@
-# NOIZZE W/ TWOLATE (HELLBENT - MOODCHILD - NERVOUS) FREE ENTRY at X Private Club
+# NOIZZE W/ TWOLATE (HELLBENT, MOODCHILD, NERVOUS) FREE ENTRY at X Private Club
 
-NOIZZE W/ TWOLATE (HELLBENT - MOODCHILD - NERVOUS) FREE ENTRY at X Private Club on Sat 22 Aug, Madrid. 1 act on the bill: Herrera (ES). House and Tech House. Preview the line-up and save it on soundcheck.
+NOIZZE W/ TWOLATE (HELLBENT, MOODCHILD, NERVOUS) FREE ENTRY at X Private Club on Sat 22 Aug, Madrid. 1 act on the bill: Herrera (ES). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

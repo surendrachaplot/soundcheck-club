@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Silent Green Open Lab #11: ..o & Nilgün Özer + Gabi Pedrosa" on Tue, 18 Aug 2026.
+Silent Green is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Unguarded pres. Jungstötter + Blurrydog" on Wed, 19 Aug 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Ana Roxanne, bela, Burnt Friedman and Carla dal Forno and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Ana Roxanne, bela, Burnt Friedman and Carla dal Forno and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Silent Green Open Lab #11: ..o & Nilgün Özer + Gabi Pedrosa | Nilgün Özer |
 | Wed, 19 Aug 2026 | Unguarded pres. Jungstötter + Blurrydog |  |
 | Fri, 21 Aug 2026 | Psychic Liberation Night: Niloofar Asghary + Júlia Koffler |  |
 | Fri, 28 Aug 2026 | Silent Green pres. Mutant Radio Sessions |  |
@@ -18,9 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming nights
 | Fri, 11 Sept 2026 | 15 YEARS zweikommasieben: Anna Homler + Steven Warwick + zweikommasieben DJs | Heatsick |
 | Tue, 15 Sept 2026 | Curbside Lambsear |  |
 | Sat, 19 Sept 2026 | Burnt Friedman pres. Secret Rhythms | Burnt Friedman |
+| Tue, 22 Sept 2026 | Carla dal Forno + Nein Rodere | Carla dal Forno |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

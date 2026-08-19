@@ -1,6 +1,6 @@
 # Subway
 
-Subway is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "KG PONYHOF präsentiert:  BASS & BÜTZJE" on Fri, 21 Aug 2026.
+Subway is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "KG PONYHOF präsentiert:  BASS & BÜTZJE" on Fri, 21 Aug 2026.
 
 Subway is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Monschi. Browse upcoming dates, start times and who's playing. Aachenerstr. 82-84; 50674 Cologne; Germany.
 
@@ -15,4 +15,4 @@ Subway is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with
 
 Aachenerstr. 82-84; 50674 Cologne; Germany, Cologne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*

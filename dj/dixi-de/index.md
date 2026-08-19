@@ -1,6 +1,6 @@
 # DIXI
 
-DIXI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
+DIXI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
 
 DIXI is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Stuttgart. Often billed alongside Femcat, Hannes Schuchardt and Marco Bastone. Next up: Fridas Pier, Stuttgart on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DIXI is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Femcat, Hannes Schuchardt, Marco Bastone
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dixi-de/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dixi-de/)*

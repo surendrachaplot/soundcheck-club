@@ -1,6 +1,6 @@
 # Let (3)
 
-Let (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at 33/45 Club, Valencia on Fri, 21 Aug 2026.
+Let (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at 33/45 Club, Valencia on Fri, 21 Aug 2026.
 
 Let (3) is a techno and house artist based in Paraguay, tracked on soundcheck, with 86 sets logged across Lisbon, Porto and Valencia. Often billed alongside H.Baukloh, Rúben Costa and Rui Trintaeum. Next up: 33/45 Club, Valencia on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Let (3) is a techno and house artist based in Paraguay, tracked on soundcheck, w
 
 H.Baukloh, Rúben Costa, Rui Trintaeum
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/let-3/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/let-3/)*

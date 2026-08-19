@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ✦ at ÆDEN
 
-ＬＩＬＩＴＨ✦ at ÆDEN on Wed 19 Aug, Berlin. Preview the line-up and save it on soundcheck.
+ＬＩＬＩＴＨ✦ at ÆDEN on Wed 19 Aug, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

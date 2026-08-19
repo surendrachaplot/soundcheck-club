@@ -1,6 +1,6 @@
 # Eternal (2)
 
-Eternal (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - CALL INFOLINE, Boston on Sat, 12 Sept 2026.
+Eternal (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - CALL INFOLINE, Boston on Sat, 12 Sept 2026.
 
 Eternal (2) is a jungle and drum & bass artist based in Dominican Republic, tracked on soundcheck, with 1 set logged across Boston. Often billed alongside Dazegxd, Dev/Null and FortifiedStructures. Next up: TBA - CALL INFOLINE, Boston on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ Eternal (2) is a jungle and drum & bass artist based in Dominican Republic, trac
 
 Dazegxd, Dev/Null, FortifiedStructures
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternal-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternal-2/)*

@@ -1,6 +1,6 @@
 # TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France
 
-TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Les Tropikantes #9" on Fri, 18 Sept 2026.
+TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Les Tropikantes #9" on Fri, 18 Sept 2026.
 
 TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Polyphone and stargurl. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 45 bis Avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France is a m
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Les Tropikantes #9 | Polyphone, stargurl |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-45-bis-avenue-de-la-belle-gabrielle-94130-nogent-sur-marne-france/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-45-bis-avenue-de-la-belle-gabrielle-94130-nogent-sur-marne-france/)*

@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Bar Shrimp: Yasmin Lever b2b Synkro" on Thu, 20 Aug 2026.
+Bar Shrimp is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Bar Shrimp: Yasmin Lever b2b Synkro" on Thu, 20 Aug 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Andrew Devine, dithering and Synkro. Browse upcoming dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -19,4 +19,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 6 upcoming night
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

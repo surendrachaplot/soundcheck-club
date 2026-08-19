@@ -1,6 +1,6 @@
 # Shishmish
 
-Shishmish is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Unter Deck, Munich on Wed, 19 Aug 2026.
+Shishmish is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Unter Deck, Munich on Wed, 19 Aug 2026.
 
 Shishmish is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Munich. Often billed alongside SASHTY, Dykstra and Marcel Dusk. Next up: Unter Deck, Munich on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Shishmish is a techno and trance artist based in Germany, tracked on soundcheck,
 
 SASHTY, Dykstra, Marcel Dusk
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishmish/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishmish/)*

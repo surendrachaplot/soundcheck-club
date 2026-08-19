@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
+SHDW is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Fridas Pier, Stuttgart on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 196 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

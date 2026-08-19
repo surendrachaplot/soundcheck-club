@@ -1,6 +1,6 @@
 # SIN VERGÜENZA [OPEN AIR + INDOOR] at OXI
 
-SIN VERGÜENZA [OPEN AIR + INDOOR] at OXI on Sat 12 Sept, Berlin. 11 acts on the bill: DJ Cringey, DJ SEXSTASY, Eliangel and FORTUNATA and 7 more. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+SIN VERGÜENZA [OPEN AIR + INDOOR] at OXI on Sat 12 Sept, Berlin. 13 acts on the bill: DJ Cringey, DJ SEXSTASY, Eliangel and FORTUNATA and 9 more. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,8 @@ SIN VERGÜENZA [OPEN AIR + INDOOR] at OXI on Sat 12 Sept, Berlin. 11 acts on the
 - Ojos de miel
 - PvssyDivx
 - SHOKI287
+- STEYA
 - TheMuffinMan
+- Vivienna
 
 *Source: [soundcheck](https://soundcheck.club/e/2512705-sin-verg-enza-open-air-indoor-at-oxi/)*

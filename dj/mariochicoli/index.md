@@ -1,6 +1,6 @@
 # Mario Chicoli
 
-Mario Chicoli is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Mario Chicoli is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Mario Chicoli is a house and tech house artist based in Italy, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Mastro Sally, Babo and Vinz (ITA). Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Mario Chicoli is a house and tech house artist based in Italy, tracked on soundc
 
 Mastro Sally, Babo, Vinz (ITA)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*

@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 34 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "ATATA live: Moans, Bones & Ascending Drones" on Wed, 19 Aug 2026.
+M.O.T is a music venue in London with 34 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "ATATA live: Moans, Bones & Ascending Drones" on Wed, 19 Aug 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 34 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 34 upcoming nights, with 
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

@@ -1,6 +1,6 @@
 # Dompe
 
-Dompe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Dompe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Dompe is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside Nils Ohrmann, ENDURO DISCO and Jens Schwan. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Dompe is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Nils Ohrmann, ENDURO DISCO, Jens Schwan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dompe/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dompe/)*

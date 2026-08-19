@@ -1,6 +1,6 @@
 # Knos
 
-Knos is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Neon Grotto, Austin on Thu, 20 Aug 2026.
+Knos is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Neon Grotto, Austin on Thu, 20 Aug 2026.
 
 Knos is a house and deep house artist tracked on soundcheck, with 81 sets logged across Austin. Often billed alongside Rambo, Leonie Leon and Mia D. Next up: Neon Grotto, Austin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Knos is a house and deep house artist tracked on soundcheck, with 81 sets logged
 
 Rambo, Leonie Leon, Mia D
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knos/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knos/)*

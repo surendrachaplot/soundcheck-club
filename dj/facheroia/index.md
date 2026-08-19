@@ -1,6 +1,6 @@
 # Facheroia
 
-Facheroia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Plac Zabaw nad Wisłą, Warsaw on Sun, 23 Aug 2026.
+Facheroia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Plac Zabaw nad Wisłą, Warsaw on Sun, 23 Aug 2026.
 
 Facheroia is a techno and electro artist tracked on soundcheck, with 36 sets logged across Berlin, Krakow and Warsaw. Often billed alongside PAWEL (PL), Richie Beige and DiV4. Next up: Plac Zabaw nad Wisłą, Warsaw on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Facheroia is a techno and electro artist tracked on soundcheck, with 36 sets log
 
 PAWEL (PL), Richie Beige, DiV4
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*

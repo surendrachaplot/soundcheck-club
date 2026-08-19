@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MINDTHEGAP: SEOUL" on Sat, 22 Aug 2026.
+UNDERCITY is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "MINDTHEGAP: SEOUL" on Sat, 22 Aug 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Bagagee Viphex13, H93 (KR), K4NCIIO and SONGPANCAKE. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -16,4 +16,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming nights, wit
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

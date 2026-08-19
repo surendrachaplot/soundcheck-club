@@ -1,6 +1,6 @@
 # DD
 
-DD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Time is the new space, Rotterdam on Fri, 21 Aug 2026.
+DD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Time is the new space, Rotterdam on Fri, 21 Aug 2026.
 
 DD is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, Rotterdam, Seoul and Toronto and 1 more. Often billed alongside DOMEL, MATRIX3K and Adroit Joe. Next up: Time is the new space, Rotterdam on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ DD is a techno and house artist based in United Kingdom, tracked on soundcheck, 
 
 DOMEL, MATRIX3K, Adroit Joe
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*

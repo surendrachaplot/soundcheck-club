@@ -1,6 +1,6 @@
 # Violently Happy
 
-Violently Happy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Violently Happy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
 Violently Happy is a house and techno artist tracked on soundcheck, with 44 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Fais Le Beau, Lola Haro and Sixsixsixties. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Violently Happy is a house and techno artist tracked on soundcheck, with 44 sets
 
 Fais Le Beau, Lola Haro, Sixsixsixties
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*

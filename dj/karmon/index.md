@@ -1,6 +1,6 @@
 # Karmon
 
-Karmon is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
+Karmon is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
 
 Karmon is a techno and minimal artist tracked on soundcheck, with 3 sets logged across Amsterdam and Oslo. Often billed alongside Alex Kennon, Andrew Meller and Christian Nielsen. Next up: Toekomstmuziek, Amsterdam on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Karmon is a techno and minimal artist tracked on soundcheck, with 3 sets logged 
 
 Alex Kennon, Andrew Meller, Christian Nielsen
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmon/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmon/)*

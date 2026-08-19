@@ -1,6 +1,6 @@
 # KIRSCH
 
-KIRSCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+KIRSCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 KIRSCH is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin, Dusseldorf, Hamburg and Ibiza and 2 more. Often billed alongside Chris Schwarzwälder, Coco and ELIF. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KIRSCH is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 Chris Schwarzwälder, Coco, ELIF
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsch/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsch/)*

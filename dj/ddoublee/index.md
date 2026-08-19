@@ -1,6 +1,6 @@
 # D Double E
 
-D Double E is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+D Double E is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 D Double E is a drum & bass and garage artist tracked on soundcheck, with 31 sets logged across Brighton, Bristol, Cardiff and Dublin and 8 more. Often billed alongside Sir Spyro, P Money and Capo Lee. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ D Double E is a drum & bass and garage artist tracked on soundcheck, with 31 set
 
 Sir Spyro, P Money, Capo Lee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*

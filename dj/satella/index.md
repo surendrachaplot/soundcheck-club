@@ -1,6 +1,6 @@
 # SATELLA
 
-SATELLA is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 29 Aug 2026.
+SATELLA is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 29 Aug 2026.
 
 SATELLA is a techno artist tracked on soundcheck, with 2 sets logged across Paris and Tokyo. Often billed alongside Bonaugur, DLP and DØLLHAUS. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ SATELLA is a techno artist tracked on soundcheck, with 2 sets logged across Pari
 
 Bonaugur, DLP, DØLLHAUS
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satella/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satella/)*

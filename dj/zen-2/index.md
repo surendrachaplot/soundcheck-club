@@ -1,6 +1,6 @@
 # Zen (2)
 
-Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 22 Aug 2026.
+Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 22 Aug 2026.
 
 Zen (2) is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin, Bristol, Milan and Osaka and 2 more. Often billed alongside AllA, Amz and Anil (UK). Next up: Southbank Warehouse, Sheffield on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zen (2) is a techno and tech house artist tracked on soundcheck, with 9 sets log
 
 AllA, Amz, Anil (UK)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*

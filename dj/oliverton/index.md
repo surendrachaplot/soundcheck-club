@@ -1,6 +1,6 @@
 # Oliver Ton
 
-Oliver Ton is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
+Oliver Ton is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
 
 Oliver Ton is a tech house and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Nils Herres, Tobi Cross and Cyco. Next up: Luftschloss auf dem Tempelhofer Feld, Berlin on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Oliver Ton is a tech house and techno artist based in Germany, tracked on soundc
 
 Nils Herres, Tobi Cross, Cyco
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverton/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverton/)*

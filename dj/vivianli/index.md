@@ -1,6 +1,6 @@
 # Vivian Li
 
-Vivian Li is a Downtempo and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Vivian Li is a Downtempo and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Vivian Li is a downtempo and dub techno artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside ArtSaves, 16:9 ratio and A Guy Called Gerald. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -20,4 +20,4 @@ Vivian Li is a downtempo and dub techno artist based in Canada, tracked on sound
 
 ArtSaves, 16:9 ratio, A Guy Called Gerald
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*

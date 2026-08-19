@@ -1,6 +1,6 @@
 # Lisa Lashes
 
-Lisa Lashes is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
+Lisa Lashes is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Lisa Lashes is a trance and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Aberdeen, Birmingham, Dublin and Ibiza and 3 more. Often billed alongside Judge Jules, Lange and Anne Savage. Next up: Amnesia Ibiza, Ibiza on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Lisa Lashes is a trance and house artist based in United Kingdom, tracked on sou
 
 Judge Jules, Lange, Anne Savage
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisalashes/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisalashes/)*

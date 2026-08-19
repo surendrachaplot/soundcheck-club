@@ -1,6 +1,6 @@
 # Radio Nacional
 
-Radio Nacional is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "blank.project" on Fri, 28 Aug 2026.
+Radio Nacional is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "blank.project" on Fri, 28 Aug 2026.
 
 Radio Nacional is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Radio Nacional is a music venue in Melbourne listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | blank.project |  |
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/radio-nacional/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/radio-nacional/)*

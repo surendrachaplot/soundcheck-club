@@ -1,6 +1,6 @@
 # Æ Problæm
 
-Æ Problæm is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
+Æ Problæm is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
 
 Æ Problæm is a house and deep house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Mad Shivers, Philippe Autuori and Josiane. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@
 
 Mad Shivers, Philippe Autuori, Josiane
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/æproblæm/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/æproblæm/)*

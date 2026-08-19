@@ -1,6 +1,6 @@
 # Fluid Matter
 
-Fluid Matter is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Point Ephémère, Paris on Sat, 22 Aug 2026.
+Fluid Matter is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Point Ephémère, Paris on Sat, 22 Aug 2026.
 
 Fluid Matter is a bass and trance artist based in France, tracked on soundcheck, with 14 sets logged across Lyon, Nantes and Paris. Often billed alongside Solma, Natural Limit and Background. Next up: Point Ephémère, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fluid Matter is a bass and trance artist based in France, tracked on soundcheck,
 
 Solma, Natural Limit, Background
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluidmatter/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluidmatter/)*

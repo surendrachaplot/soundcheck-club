@@ -1,14 +1,14 @@
 # Nathabes
 
-Nathabes is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Studio Stereo, Barcelona on Fri, 21 Aug 2026.
+Nathabes is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 21 Aug 2026.
 
-Nathabes is a house and tech house artist based in Morocco, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Lisbon and Paris. Often billed alongside Holly Molly, Anzar and Dan Ghenacia. Next up: Studio Stereo, Barcelona on Fri 21 Aug.
+Nathabes is a house and tech house artist based in Morocco, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Lisbon and Paris. Often billed alongside Holly Molly, Anzar and Dan Ghenacia. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Studio Stereo | Barcelona |
+| Fri, 21 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Nathabes is a house and tech house artist based in Morocco, tracked on soundchec
 
 Holly Molly, Anzar, Dan Ghenacia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathabes/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathabes/)*

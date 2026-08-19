@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA, Guapis at YuYu Cine Club
 
-Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA, Guapis at YuYu Cine Club on Sat 22 Aug, Mexicocity. 4 acts on the bill: Concepción Huerta, DJ Guapis, KEBRA and Kelman Duran. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA, Guapis at YuYu Cine Club on Sat 22 Aug, Mexicocity. 5 acts on the bill: Concepción Huerta, Diabla, DJ Guapis and KEBRA and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Yu Yu Cine Club: Materia Abierta takeover with La Bruja de Texcoco, KEBRA, Guapi
 ## Line-up
 
 - Concepción Huerta
+- Diabla
 - DJ Guapis
 - KEBRA
 - Kelman Duran

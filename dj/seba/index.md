@@ -1,6 +1,6 @@
 # Seba
 
-Seba is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Seba is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
 
 Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside rzt, Amit and BCee. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, 
 
 rzt, Amit, BCee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*

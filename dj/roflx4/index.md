@@ -1,6 +1,6 @@
 # RŌ (FLX4)
 
-RŌ (FLX4) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+RŌ (FLX4) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
 RŌ (FLX4) is a techno and acid artist tracked on soundcheck, with 7 sets logged across Barcelona and Berlin. Often billed alongside Julia Konor, H-R-Z and SYM. Next up: M7 Club, Barcelona on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ RŌ (FLX4) is a techno and acid artist tracked on soundcheck, with 7 sets logged
 
 Julia Konor, H-R-Z, SYM
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roflx4/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roflx4/)*

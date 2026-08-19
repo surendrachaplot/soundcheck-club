@@ -1,6 +1,6 @@
 # RAGE (3)
 
-RAGE (3) is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+RAGE (3) is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 RAGE (3) is a techno and baile funk artist tracked on soundcheck, with 3 sets logged across Berlin and Paris. Often billed alongside ADAM MUNNINGS, ANTYA and Ady Toledano. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ RAGE (3) is a techno and baile funk artist tracked on soundcheck, with 3 sets lo
 
 ADAM MUNNINGS, ANTYA, Ady Toledano
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*

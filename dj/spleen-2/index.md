@@ -1,6 +1,6 @@
 # spleen (2)
 
-spleen (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+spleen (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
 
 spleen (2) is a house and techno artist tracked on soundcheck, with 2 sets logged across Glasgow. Often billed alongside Génie, Frank Grime and Jay Celino. Next up: The Clydesdale, Glasgow on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ spleen (2) is a house and techno artist tracked on soundcheck, with 2 sets logge
 
 Génie, Frank Grime, Jay Celino
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen-2/)*

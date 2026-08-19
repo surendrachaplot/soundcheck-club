@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
+Dasha Rush is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
 
-Dasha Rush is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
+Dasha Rush is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 156 sets log
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Mon, 9 Nov 2026 | public records | New York City |
+| Fri, 13 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 156 sets log
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

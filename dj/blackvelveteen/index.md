@@ -1,6 +1,6 @@
 # Black Velveteen
 
-Black Velveteen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Monkey Loft, Seattle on Wed, 19 Aug 2026.
+Black Velveteen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Monkey Loft, Seattle on Wed, 19 Aug 2026.
 
 Black Velveteen is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit, London, Sanfrancisco and Seattle. Often billed alongside Christine Michelle, Citrus Age and Dj Sloth. Next up: The Monkey Loft, Seattle on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Black Velveteen is a house and deep house artist based in United States of Ameri
 
 Christine Michelle, Citrus Age, Dj Sloth
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvelveteen/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvelveteen/)*

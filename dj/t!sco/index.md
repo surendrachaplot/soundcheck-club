@@ -1,13 +1,14 @@
 # T!SCO
 
-T!SCO is a Funk / Soul and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cafe 1001, London on Mon, 14 Sept 2026.
+T!SCO is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 28 Aug 2026.
 
-T!SCO is a funk / soul and balearic artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside BRUIN (UK), Dan Cluskey and Haruka (UK). Next up: Cafe 1001, London on Mon 14 Sept.
+T!SCO is a disco and house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside BRUIN (UK), Dan Cluskey and Haruka (UK). Next up: The Little Neon Door, Shoreditch, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | The Little Neon Door, Shoreditch | London |
 | Mon, 14 Sept 2026 | Cafe 1001 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ T!SCO is a funk / soul and balearic artist tracked on soundcheck, with 19 sets l
 
 BRUIN (UK), Dan Cluskey, Haruka (UK)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t!sco/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t!sco/)*

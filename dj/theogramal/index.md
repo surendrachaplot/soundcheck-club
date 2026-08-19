@@ -1,6 +1,6 @@
 # Theo Gramal
 
-Theo Gramal is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
+Theo Gramal is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
 
 Theo Gramal is a techno and downtempo artist tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Nurnberg. Often billed alongside Solatic, Dolph and Emina Helena. Next up: Klunkerkranich, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Theo Gramal is a techno and downtempo artist tracked on soundcheck, with 16 sets
 
 Solatic, Dolph, Emina Helena
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*

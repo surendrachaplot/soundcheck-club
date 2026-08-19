@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Alma Negrot is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Alma Negrot is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 40 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

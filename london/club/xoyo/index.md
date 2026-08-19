@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 29 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "PARADOX" on Wed, 19 Aug 2026.
+XOYO is a music venue in London with 29 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "PARADOX" on Wed, 19 Aug 2026.
 
 XOYO is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Aidyscape, Aldor, Andrew Sharpe and AR (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -9,7 +9,7 @@ XOYO is a music venue in London listed on soundcheck. 29 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 19 Aug 2026 | PARADOX | Billa Bazz, Mads Diamond, erroneous |
-| Thu, 20 Aug 2026 | Insomnia London: DJelley, Nadia Summer, Temporary Alex | DJelley, Nadia Summer |
+| Thu, 20 Aug 2026 | Insomnia London: Nadia Summer, Temporary Alex, S.U.R.E | DJelley, Nadia Summer, S.U.R.E. |
 | Sat, 22 Aug 2026 | AAA Fusion presents Daxson extended set plus support | Aidyscape, Aldor, Andrew Sharpe, C-systems, DJMrB, Daxson, FROGR, IZZY(NL), Krevix, Mykei, Sago, Thiago Genez, YAARS |
 | Sat, 22 Aug 2026 | Zulu Nation - Summer Party  | DJ Majesty, European 305, N Fostell |
 | Mon, 24 Aug 2026 | MOTION Every Monday |  |
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 29 upcoming nights, with l
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

@@ -1,6 +1,6 @@
 # Smerz
 
-Smerz is a Pop and Electronica artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Smerz is a Pop and Electronica artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 42 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, DjRUM and NEW YORK. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 
 Valentina Magaletti, DjRUM, NEW YORK
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

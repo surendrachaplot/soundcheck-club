@@ -1,6 +1,6 @@
 # Rony Finkel
 
-Rony Finkel is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Sala Siroco, Madrid on Fri, 21 Aug 2026.
+Rony Finkel is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sala Siroco, Madrid on Fri, 21 Aug 2026.
 
 Rony Finkel is a house and electro artist based in Chile, tracked on soundcheck, with 22 sets logged across Barcelona and Madrid. Often billed alongside Misla, Diggz and Posada. Next up: Sala Siroco, Madrid on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rony Finkel is a house and electro artist based in Chile, tracked on soundcheck,
 
 Misla, Diggz, Posada
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyfinkel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyfinkel/)*

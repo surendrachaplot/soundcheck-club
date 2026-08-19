@@ -1,6 +1,6 @@
 # Pennywize
 
-Pennywize is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Luka, Seoul on Sat, 22 Aug 2026.
+Pennywize is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Luka, Seoul on Sat, 22 Aug 2026.
 
 Pennywize is a hardcore and gabber artist based in South Korea, tracked on soundcheck, with 32 sets logged across Hongkong and Seoul. Often billed alongside Carbonatez, BASSKRAP and HARDNENDZ. Next up: Luka, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pennywize is a hardcore and gabber artist based in South Korea, tracked on sound
 
 Carbonatez, BASSKRAP, HARDNENDZ
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pennywize/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pennywize/)*

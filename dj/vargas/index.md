@@ -1,6 +1,6 @@
 # Vargas
 
-Vargas is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fünk, Mexico City on Thu, 20 Aug 2026.
+Vargas is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fünk, Mexico City on Thu, 20 Aug 2026.
 
 Vargas is a house and ambient artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Brussels and Cologne and 11 more. Often billed alongside Rui Vargas, Varela and Laura Vargas. Next up: Fünk, Mexicocity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Vargas is a house and ambient artist tracked on soundcheck, with 75 sets logged 
 
 Rui Vargas, Varela, Laura Vargas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vargas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vargas/)*

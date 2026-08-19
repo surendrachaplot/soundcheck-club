@@ -1,6 +1,6 @@
 # HIEN
 
-HIEN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Starr Bar, New York City on Sun, 23 Aug 2026.
+HIEN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Starr Bar, New York City on Sun, 23 Aug 2026.
 
 HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest, Cologne and Newyorkcity. Often billed alongside $EJ, 444 (1) and 99 ranch. Next up: Starr Bar, Newyorkcity on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 8 
 
 $EJ, 444 (1), 99 ranch
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*

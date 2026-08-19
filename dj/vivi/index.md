@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+vivi is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 vivi is a house and disco artist based in Australia, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Hamburg and London and 3 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ vivi is a house and disco artist based in Australia, tracked on soundcheck, with
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

@@ -1,13 +1,14 @@
 # S_STEELE
 
-S_STEELE is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
+S_STEELE is a Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Electrowerkz, London on Sat, 5 Sept 2026.
 
-S_STEELE is a club artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Barcelona, London and Sanfrancisco. Often billed alongside teleopath, Bekefi and Sam Londt. Next up: Algha's Plantroom, London on Sat 19 Sept.
+S_STEELE is a club artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Barcelona, London and Sanfrancisco. Often billed alongside teleopath, Bekefi and Sam Londt. Next up: Electrowerkz, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Electrowerkz | London |
 | Sat, 19 Sept 2026 | Algha's Plantroom | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ S_STEELE is a club artist based in United Kingdom, tracked on soundcheck, with 6
 
 teleopath, Bekefi, Sam Londt
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*

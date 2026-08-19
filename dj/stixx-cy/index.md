@@ -1,6 +1,6 @@
 # STiXX
 
-STiXX is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+STiXX is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 STiXX is a tech house and house artist based in Cyprus, tracked on soundcheck, with 9 sets logged across Chicago and Newyorkcity. Often billed alongside Bella Mutino, Broken Hill and DJibouti. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ STiXX is a tech house and house artist based in Cyprus, tracked on soundcheck, w
 
 Bella Mutino, Broken Hill, DJibouti
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stixx-cy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stixx-cy/)*

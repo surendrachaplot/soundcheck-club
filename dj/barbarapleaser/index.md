@@ -1,6 +1,6 @@
 # Barbara Pleaser
 
-Barbara Pleaser is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
+Barbara Pleaser is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
 
 Barbara Pleaser is a bass and techno artist tracked on soundcheck, with 9 sets logged across Bali, Berlin and Singapore. Often billed alongside Cloudy Ku, Farouki and ALECCHINA. Next up: Crate Concept, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Barbara Pleaser is a bass and techno artist tracked on soundcheck, with 9 sets l
 
 Cloudy Ku, Farouki, ALECCHINA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapleaser/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapleaser/)*

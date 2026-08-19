@@ -1,6 +1,6 @@
 # Nate (Det)
 
-Nate (Det) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+Nate (Det) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
 
 Nate (Det) is a house and techno artist tracked on soundcheck, with 14 sets logged across Detroit, London, Newyorkcity and Sydney. Often billed alongside Max Watts, Sugar (4) and Anthony Jasper. Next up: E1, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Nate (Det) is a house and techno artist tracked on soundcheck, with 14 sets logg
 
 Max Watts, Sugar (4), Anthony Jasper
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natedet/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natedet/)*

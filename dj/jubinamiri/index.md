@@ -1,6 +1,6 @@
 # Jubin Amiri
 
-Jubin Amiri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
+Jubin Amiri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
 
 Jubin Amiri is a techno and trance artist tracked on soundcheck, with 9 sets logged across Vienna. Often billed alongside Stratera, BLUDHOUND and Dj Wifi (3). Next up: Club Exil, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jubin Amiri is a techno and trance artist tracked on soundcheck, with 9 sets log
 
 Stratera, BLUDHOUND, Dj Wifi (3)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubinamiri/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubinamiri/)*

@@ -1,6 +1,6 @@
 # Sariim
 
-Sariim is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Sariim is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Sariim is a bass and experimental artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Costa (FR), Chaosy and Jana Woodstock. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Sariim is a bass and experimental artist tracked on soundcheck, with 19 sets log
 
 Costa (FR), Chaosy, Jana Woodstock
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*

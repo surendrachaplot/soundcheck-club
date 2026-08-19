@@ -1,6 +1,6 @@
 # Makcim
 
-Makcim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Het Salon, Amsterdam on Fri, 21 Aug 2026.
+Makcim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Het Salon, Amsterdam on Fri, 21 Aug 2026.
 
 Makcim is a house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam and Lisbon. Often billed alongside Manuel Cotta, Daniele Temperilli and Ferro. Next up: Het Salon, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Makcim is a house and techno artist tracked on soundcheck, with 12 sets logged a
 
 Manuel Cotta, Daniele Temperilli, Ferro
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makcim/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makcim/)*

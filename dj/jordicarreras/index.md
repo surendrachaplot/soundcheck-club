@@ -1,6 +1,6 @@
 # Jordi Carreras
 
-Jordi Carreras is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hotel Labtwentytwo, Barcelona on Sat, 19 Sept 2026.
+Jordi Carreras is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hotel Labtwentytwo, Barcelona on Sat, 19 Sept 2026.
 
 Jordi Carreras is a funk / soul and disco artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Family Matters. Next up: Hotel Labtwentytwo, Barcelona on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Jordi Carreras is a funk / soul and disco artist based in Spain, tracked on soun
 
 Family Matters
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicarreras/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicarreras/)*

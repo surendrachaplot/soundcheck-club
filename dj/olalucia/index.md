@@ -1,6 +1,6 @@
 # Ola & Lucia
 
-Ola & Lucia is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+Ola & Lucia is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 Ola & Lucia are a house and garage duo based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds and Manchester. Often billed alongside Dungeon Meat, Georgia Girl and Locklead. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Ola & Lucia are a house and garage duo based in United Kingdom, tracked on sound
 
 Dungeon Meat, Georgia Girl, Locklead
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olalucia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olalucia/)*

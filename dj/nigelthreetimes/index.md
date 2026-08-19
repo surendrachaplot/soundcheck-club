@@ -1,6 +1,6 @@
 # NIGELTHREETIMES
 
-NIGELTHREETIMES is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+NIGELTHREETIMES is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
 NIGELTHREETIMES is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Miami, Newyorkcity, Osaka and Sanfrancisco and 1 more. Often billed alongside Andrew Devlin, No Sir and Alien D. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NIGELTHREETIMES is a house and techno artist based in United States of America, 
 
 Andrew Devlin, No Sir, Alien D
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*

@@ -1,6 +1,6 @@
 # Nixe
 
-Nixe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
+Nixe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
 
 Nixe is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Mona Moore, 2 Girls 1 Club and Anna Schreit. Next up: Klunkerkranich, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Nixe is a techno and house artist tracked on soundcheck, with 18 sets logged acr
 
 Mona Moore, 2 Girls 1 Club, Anna Schreit
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nixe/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nixe/)*

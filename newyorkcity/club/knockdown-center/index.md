@@ -1,15 +1,15 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "SG Lewis (DJ Set) in The Ruins (FRI)" on Fri, 21 Aug 2026.
+Knockdown Center is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SG Lewis (DJ Set) in The Ruins (FRI)" on Fri, 21 Aug 2026.
 
-Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 25 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | SG Lewis (DJ Set) in The Ruins (FRI) | SG Lewis |
-| Sat, 22 Aug 2026 | SG Lewis (DJ Set) in The Ruins (SAT) | SG Lewis |
+| Fri, 21 Aug 2026 | SG Lewis (DJ Set) in The Ruins (FRI) | Cosmo (NY), SG Lewis |
+| Sat, 22 Aug 2026 | SG Lewis (DJ Set) in The Ruins (SAT) | Kyle Walker, SG Lewis |
 | Sat, 29 Aug 2026 | Chaos In The CBD presents 'Dust Till Dawn | Chaos In The CBD, DJ Ray (2), Extra Andrew, Floorplan, Joe Claussell, Shy One, Suze Ijó |
 | Sun, 30 Aug 2026 | Mochakk, DJ SWISHA, nocapz., Leonce | DJ SWISHA, Leonce, Mochakk, nocapz. |
 | Thu, 3 Sept 2026 | Underworld presents Crazy, Crazy | Underworld |
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 24 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

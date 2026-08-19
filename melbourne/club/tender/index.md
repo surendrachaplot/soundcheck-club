@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "OK EG x Big Racket present: Workflows" on Sat, 22 Aug 2026.
+Tender is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "OK EG x Big Racket present: Workflows" on Sat, 22 Aug 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Hybrid Man and OK EG. Browse upcoming dates, start times and who's playing. 535 Sydney Road.
 
@@ -15,4 +15,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, wi
 
 535 Sydney Road, Melbourne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

@@ -1,6 +1,6 @@
 # Kiju
 
-Kiju is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
+Kiju is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
 
 Kiju is a techno and house artist tracked on soundcheck, with 63 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside coldchainlogistics, Evita and Sako (2). Next up: TBA - Secret Location, Toronto on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Kiju is a techno and house artist tracked on soundcheck, with 63 sets logged acr
 
 coldchainlogistics, Evita, Sako (2)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*

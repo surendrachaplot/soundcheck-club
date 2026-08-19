@@ -1,6 +1,6 @@
 # Marti-Time!
 
-Marti-Time! is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
+Marti-Time! is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
 
 Marti-Time! is a house and acid artist tracked on soundcheck, with 25 sets logged across Edinburgh. Often billed alongside Main Ingredient, Chris Astrojazz and DJ Shannon. Next up: Uplands Roast, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marti-Time! is a house and acid artist tracked on soundcheck, with 25 sets logge
 
 Main Ingredient, Chris Astrojazz, DJ Shannon
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marti-time!/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marti-time!/)*

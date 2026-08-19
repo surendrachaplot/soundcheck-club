@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
+Prosumer is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: La Terrrazza, Barcelona on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

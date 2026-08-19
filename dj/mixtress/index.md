@@ -1,6 +1,6 @@
 # mixtress
 
-mixtress is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Planet Wax, London on Fri, 21 Aug 2026.
+mixtress is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Fri, 21 Aug 2026.
 
 mixtress is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: Planet Wax, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ mixtress is a jungle and garage artist based in United Kingdom, tracked on sound
 
 Ell Murphy, Bakey, Breaka
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*

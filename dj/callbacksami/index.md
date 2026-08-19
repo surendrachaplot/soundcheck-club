@@ -1,6 +1,6 @@
 # CallBackSami
 
-CallBackSami is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Prairie du Canal, Paris on Sat, 29 Aug 2026.
+CallBackSami is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Prairie du Canal, Paris on Sat, 29 Aug 2026.
 
 CallBackSami is a trance and progressive house artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Copenhagen, Hamburg and Lyon and 1 more. Often billed alongside RIGO, Ramtarr and Axel Blanc. Next up: La Prairie du Canal, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CallBackSami is a trance and progressive house artist based in France, tracked o
 
 RIGO, Ramtarr, Axel Blanc
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callbacksami/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callbacksami/)*

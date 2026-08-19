@@ -1,6 +1,6 @@
 # Studerkel
 
-Studerkel is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Studerkel is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 Studerkel is an electro and ebm artist tracked on soundcheck, with 12 sets logged across Brussels and Paris. Often billed alongside cfds, Kalyug Citizen and Mascarpone. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Studerkel is an electro and ebm artist tracked on soundcheck, with 12 sets logge
 
 cfds, Kalyug Citizen, Mascarpone
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*

@@ -1,8 +1,8 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Seabird, London on Sat, 29 Aug 2026.
+MUSCLECARS is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Seabird, London on Sat, 29 Aug 2026.
 
-MUSCLECARS is a house and deep house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Athens, Auckland and Austin and 34 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: Seabird, London on Sat 29 Aug.
+MUSCLECARS is a house and deep house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Auckland and Austin and 34 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: Seabird, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MUSCLECARS is a house and deep house artist tracked on soundcheck, with 164 sets
 | Sat, 29 Aug 2026 | Seabird | London |
 | Sun, 30 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 12 Sept 2026 | H0L0 | New York City |
+| Sat, 26 Sept 2026 | Mood Ring | New York City |
 | Sat, 10 Oct 2026 | Night Tales | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ MUSCLECARS is a house and deep house artist tracked on soundcheck, with 164 sets
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

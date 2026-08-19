@@ -1,6 +1,6 @@
 # MiGS718
 
-MiGS718 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
+MiGS718 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
 
 MiGS718 is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Vyper, CYNICAL and STEEN. Next up: Wonderville, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ MiGS718 is a techno and hardcore artist based in United States of America, track
 
 Vyper, CYNICAL, STEEN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migs718/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migs718/)*

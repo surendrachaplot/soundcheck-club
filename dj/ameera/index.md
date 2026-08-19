@@ -1,6 +1,6 @@
 # Ameera
 
-Ameera is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
+Ameera is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 21 Aug 2026.
 
 Ameera is a house and funk / soul artist tracked on soundcheck, with 58 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Billy Winters, Kindle and Meftah. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Ameera is a house and funk / soul artist tracked on soundcheck, with 58 sets log
 
 Billy Winters, Kindle, Meftah
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*

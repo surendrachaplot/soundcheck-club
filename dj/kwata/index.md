@@ -1,14 +1,15 @@
 # K Wata
 
-K Wata is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
+K Wata is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-K Wata is a techno and bass artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Denver, Detroit and Losangeles and 10 more. Often billed alongside Enayet, Relaxer and Simisea. Next up: public records, Newyorkcity on Mon 9 Nov.
+K Wata is a techno and bass artist based in United States of America, tracked on soundcheck, with 55 sets logged across Chicago, Denver, Detroit and Losangeles and 10 more. Often billed alongside Enayet, Relaxer and Simisea. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | public records | New York City |
+| Sun, 15 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ K Wata is a techno and bass artist based in United States of America, tracked on
 
 Enayet, Relaxer, Simisea
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*

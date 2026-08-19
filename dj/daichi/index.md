@@ -1,6 +1,6 @@
 # Daichi
 
-Daichi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
+Daichi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
 
 Daichi is a house and techno artist tracked on soundcheck, with 114 sets logged across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside YO.AN, Kenji Takimi and YAMARCHY. Next up: Oath, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Daichi is a house and techno artist tracked on soundcheck, with 114 sets logged 
 
 YO.AN, Kenji Takimi, YAMARCHY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*

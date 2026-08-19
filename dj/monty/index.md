@@ -1,6 +1,6 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
+Monty is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
 
 Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: Le Sucre, Lyon on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logge
 
 Visages, Wiebe Roose, SP:MC
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

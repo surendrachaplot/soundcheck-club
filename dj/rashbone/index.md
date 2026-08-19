@@ -1,18 +1,18 @@
 # RashBone
 
-RashBone is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Enter Shibuya, Tokyo on Tue, 18 Aug 2026.
+RashBone is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at WOMB, Tokyo on Fri, 21 Aug 2026.
 
-RashBone is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside KANTA, MOOTOE and kyo (3). Next up: Enter Shibuya, Tokyo on Tue 18 Aug.
+RashBone is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside KANTA, MOOTOE and kyo (3). Next up: WOMB, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Enter Shibuya | Tokyo |
 | Fri, 21 Aug 2026 | WOMB | Tokyo |
 
 ## Recently played
 
+- Enter Shibuya, Tokyo — Tue, 18 Aug 2026
 - ZEROTOKYO, Tokyo — Thu, 30 Jul 2026
 - COUNTER CLUB, Tokyo — Sun, 19 Jul 2026
 - Circus Tokyo, Tokyo — Sat, 27 Jun 2026
@@ -25,4 +25,4 @@ RashBone is a bass and hip-hop artist based in Japan, tracked on soundcheck, wit
 
 KANTA, MOOTOE, kyo (3)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rashbone/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rashbone/)*

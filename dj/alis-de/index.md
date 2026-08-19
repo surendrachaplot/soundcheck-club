@@ -1,6 +1,6 @@
 # ALIS.
 
-ALIS. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
+ALIS. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
 
 ALIS. is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Mika Heggemann, Cleopard2000 and Stanislawa. Next up: Œlgarten, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ ALIS. is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Mika Heggemann, Cleopard2000, Stanislawa
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*

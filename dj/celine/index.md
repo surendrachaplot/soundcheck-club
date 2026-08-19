@@ -1,6 +1,6 @@
 # Céline
 
-Céline is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 19 Sept 2026.
+Céline is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 19 Sept 2026.
 
 Céline is a house and disco artist based in France, tracked on soundcheck, with 42 sets logged across Naples, Oslo, Paris and Porto and 1 more. Often billed alongside Molly, Belaria and Chloé. Next up: Rumore Nightclub Capri, Naples on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Céline is a house and disco artist based in France, tracked on soundcheck, with
 
 Molly, Belaria, Chloé
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celine/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celine/)*

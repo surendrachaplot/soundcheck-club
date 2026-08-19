@@ -1,6 +1,6 @@
 # WP8
 
-WP8 is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Spooky Surf Club w/  Bergen(Cologne), Phantomas & Wellness West" on Sat, 26 Sept 2026.
+WP8 is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Spooky Surf Club w/  Bergen(Cologne), Phantomas & Wellness West" on Sat, 26 Sept 2026.
 
 WP8 is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including Bergen (DE), c00lm8 and Soft Force. Browse upcoming dates, start times and who's playing. Kölner Str. 73, 40211 Düsseldorf, Germany.
 
@@ -15,4 +15,4 @@ WP8 is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with
 
 Kölner Str. 73, 40211 Düsseldorf, Germany, Düsseldorf
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/wp8/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/wp8/)*

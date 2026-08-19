@@ -1,6 +1,6 @@
 # Quecho
 
-Quecho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bar Oriente, Mexico City on Sat, 22 Aug 2026.
+Quecho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Oriente, Mexico City on Sat, 22 Aug 2026.
 
 Quecho is a techno and house artist based in Mexico, tracked on soundcheck, with 31 sets logged across Mexicocity. Often billed alongside GEO LINN, ARIS (MX) and Enya Botello. Next up: Bar Oriente, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Quecho is a techno and house artist based in Mexico, tracked on soundcheck, with
 
 GEO LINN, ARIS (MX), Enya Botello
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quecho/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quecho/)*

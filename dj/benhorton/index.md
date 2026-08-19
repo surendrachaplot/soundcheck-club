@@ -1,6 +1,6 @@
 # Ben Horton
 
-Ben Horton is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
+Ben Horton is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
 
 Ben Horton is a house and minimal artist based in Australia, tracked on soundcheck, with 18 sets logged across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside Capron, Stacie Fields and Ellia Jaya. Next up: Toffler, Rotterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ben Horton is a house and minimal artist based in Australia, tracked on soundche
 
 Capron, Stacie Fields, Ellia Jaya
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*

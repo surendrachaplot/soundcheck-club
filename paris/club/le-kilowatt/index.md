@@ -1,6 +1,6 @@
 # Le Kilowatt
 
-Le Kilowatt is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Liquicity Paris 2026" on Fri, 28 Aug 2026.
+Le Kilowatt is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Liquicity Paris 2026" on Fri, 28 Aug 2026.
 
 Le Kilowatt is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Andromedik, Fox Stevenson, Maduk and Muzz Khan and 2 more. Browse upcoming dates, start times and who's playing. 18 rue des Fusillés 94400 Vitry-sur-Seine.
 
@@ -14,4 +14,4 @@ Le Kilowatt is a music venue in Paris listed on soundcheck. 1 upcoming night, wi
 
 18 rue des Fusillés 94400 Vitry-sur-Seine, Paris
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*

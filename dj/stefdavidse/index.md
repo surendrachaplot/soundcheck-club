@@ -1,6 +1,6 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
+Stef Davidse is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
 
 Stef Davidse is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 15 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: [UNVRS], Ibiza on Wed 19 Aug.
 
@@ -30,4 +30,4 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 92 set
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

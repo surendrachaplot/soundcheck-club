@@ -1,13 +1,14 @@
 # ADRIANNA
 
-ADRIANNA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+ADRIANNA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at OIL Club, Shenzhen on Fri, 18 Sept 2026.
 
-ADRIANNA is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Copenhagen and Edinburgh and 7 more. Often billed alongside Lino Fuso, Christian Smith and Billy Nasty. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+ADRIANNA is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Copenhagen and Edinburgh and 8 more. Often billed alongside Lino Fuso, Christian Smith and Billy Nasty. Next up: OIL Club, Shenzhen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | OIL Club | Shenzhen |
 | Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | Lagerwal | Amsterdam |
 
@@ -26,4 +27,4 @@ ADRIANNA is a techno and tech house artist tracked on soundcheck, with 24 sets l
 
 Lino Fuso, Christian Smith, Billy Nasty
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*

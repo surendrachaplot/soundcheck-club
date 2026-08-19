@@ -1,6 +1,6 @@
 # sideral
 
-sideral is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+sideral is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 sideral is a techno and electronica artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside Mind Against, Dyzen and Recondite. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ sideral is a techno and electronica artist tracked on soundcheck, with 27 sets l
 
 Mind Against, Dyzen, Recondite
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sideral/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sideral/)*

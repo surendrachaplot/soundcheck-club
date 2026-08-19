@@ -1,6 +1,6 @@
 # J6 (UK)
 
-J6 (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+J6 (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 J6 (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside ADR (US), Alex Culross and Alexandria. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ J6 (UK) is a house and tech house artist based in United Kingdom, tracked on sou
 
 ADR (US), Alex Culross, Alexandria
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j6-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j6-1/)*

@@ -1,6 +1,6 @@
 # Micro Bites
 
-Micro Bites is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
+Micro Bites is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
 
 Micro Bites is a techno and house artist tracked on soundcheck, with 14 sets logged across Bangkok, London and Manchester. Often billed alongside Lau.tastic, Freetech and Jonas Lesitoc. Next up: TBA - Secret Location, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Micro Bites is a techno and house artist tracked on soundcheck, with 14 sets log
 
 Lau.tastic, Freetech, Jonas Lesitoc
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microbites/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microbites/)*

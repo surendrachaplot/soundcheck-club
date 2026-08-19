@@ -1,6 +1,6 @@
 # Oneman
 
-Oneman is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Night Tales, London on Thu, 20 Aug 2026.
+Oneman is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Night Tales, London on Thu, 20 Aug 2026.
 
 Oneman is a garage and bass artist tracked on soundcheck, with 88 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: Night Tales, London on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Oneman is a garage and bass artist tracked on soundcheck, with 88 sets logged ac
 
 RIZ LA TEEF, Lu.Re, Flowdan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*

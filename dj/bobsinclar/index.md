@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
+Bob Sinclar is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
 
 Bob Sinclar is a house and electro artist based in France, tracked on soundcheck, with 41 sets logged across Barcelona, Chicago, Geneva and Ibiza and 11 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: Ministry Of Sound, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Bob Sinclar is a house and electro artist based in France, tracked on soundcheck
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

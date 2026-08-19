@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "MCF" on Tue, 18 Aug 2026.
+DeTour is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "KASHIWAGI MANIA" on Fri, 21 Aug 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 204 (1), ASIN, BEPPU and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 204 (1), ASIN, BEPPU and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | MCF | Kenjiro, yugo |
 | Fri, 21 Aug 2026 | KASHIWAGI MANIA | CATRONICA, KASHIWAGI, Kaw (1) |
 | Sat, 22 Aug 2026 | Psychedelic DT | BEPPU, CATRONICA, Junya, kgee |
 | Sun, 23 Aug 2026 | DJ Kita 30th Anniversary | 204 (1), BEPPU, DJ Kita |
@@ -23,4 +22,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with 
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

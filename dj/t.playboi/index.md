@@ -1,6 +1,6 @@
 # T.PLAYBOI
 
-T.PLAYBOI is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+T.PLAYBOI is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 T.PLAYBOI is a techno and breakbeat artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ T.PLAYBOI is a techno and breakbeat artist tracked on soundcheck, with 24 sets l
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*

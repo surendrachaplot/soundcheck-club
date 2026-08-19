@@ -1,6 +1,6 @@
 # NT's Loft 11th Birthday: Free Rooftop Party at Night Tales Loft
 
-NT's Loft 11th Birthday: Free Rooftop Party at Night Tales Loft on Sat 12 Sept, London. 14 acts on the bill: Daisybelle, Elijah, G33 (UK) and Heels & Souls and 10 more. Preview the line-up and save it on soundcheck.
+NT's Loft 11th Birthday: Free Rooftop Party at Night Tales Loft on Sat 12 Sept, London. 15 acts on the bill: Daisybelle, Elijah, G33 (UK) and Heels & Souls and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ NT's Loft 11th Birthday: Free Rooftop Party at Night Tales Loft on Sat 12 Sept, 
 - Lady Passion
 - Maleek
 - Millian
+- Nadia Ksaiba
 - ODJ (1)
 - Samtheman
 - Selassie TBC

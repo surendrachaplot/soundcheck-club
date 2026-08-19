@@ -1,6 +1,6 @@
 # madmoiselle
 
-madmoiselle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
+madmoiselle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
 
 madmoiselle is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Maurice Mino, Sin:port and Alex Stein. Next up: TBA - „Lichtung“, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ madmoiselle is a techno and house artist tracked on soundcheck, with 31 sets log
 
 Maurice Mino, Sin:port, Alex Stein
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmoiselle/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmoiselle/)*

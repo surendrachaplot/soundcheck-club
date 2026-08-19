@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "DRESSCODE" on Wed, 19 Aug 2026.
+EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DRESSCODE" on Wed, 19 Aug 2026.
 
 EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with line-ups including 2AT, Byrd US, Chippy Nonstop and Codak and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nigh
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

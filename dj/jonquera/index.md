@@ -1,6 +1,6 @@
 # Jonquera
 
-Jonquera is a Experimental and Dembow artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Jonquera is a Experimental and Dembow artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
 Jonquera is an experimental and dembow artist based in France, tracked on soundcheck, with 11 sets logged across Athens, Bristol, Brussels and London and 2 more. Often billed alongside Elena Colombi, Officium and Amor Satyr. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jonquera is an experimental and dembow artist based in France, tracked on soundc
 
 Elena Colombi, Officium, Amor Satyr
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*

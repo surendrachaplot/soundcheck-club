@@ -1,6 +1,6 @@
 # Jucid
 
-Jucid is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
+Jucid is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
 
 Jucid is a house and club artist tracked on soundcheck, with 117 sets logged across Hongkong and Seoul. Often billed alongside Jesse You, Soyo and Acidwork. Next up: Nué Seoul, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jucid is a house and club artist tracked on soundcheck, with 117 sets logged acr
 
 Jesse You, Soyo, Acidwork
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jucid/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jucid/)*

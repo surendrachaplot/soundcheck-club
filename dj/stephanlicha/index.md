@@ -1,6 +1,6 @@
 # Stephan Licha
 
-Stephan Licha is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Stephan Licha is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Stephan Licha is a house and tech house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Stuttgart. Often billed alongside Licha, Emma Keks and Cyranotaurus Cortex. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Stephan Licha is a house and tech house artist based in Germany, tracked on soun
 
 Licha, Emma Keks, Cyranotaurus Cortex
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanlicha/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanlicha/)*

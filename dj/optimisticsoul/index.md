@@ -1,6 +1,6 @@
 # Optimistic Soul
 
-Optimistic Soul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
+Optimistic Soul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
 
 Optimistic Soul is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Edinburgh, Glasgow, Leeds and London and 1 more. Often billed alongside ButhoTheWarrior, RED-RUNNR and Austin Ato. Next up: Eiger Studios, Leeds on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Optimistic Soul is a house and deep house artist based in United Kingdom, tracke
 
 ButhoTheWarrior, RED-RUNNR, Austin Ato
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimisticsoul/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimisticsoul/)*

@@ -1,6 +1,6 @@
 # Webster's Rooftop and Bar
 
-Webster's Rooftop and Bar is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Community service & Bumpin present: Delusional Dreamland 5 Year Tour - Sydney" on Fri, 28 Aug 2026.
+Webster's Rooftop and Bar is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Community service & Bumpin present: Delusional Dreamland 5 Year Tour - Sydney" on Fri, 28 Aug 2026.
 
 Webster's Rooftop and Bar is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Hyan (2). Browse upcoming dates, start times and who's playing. 323 King St, Newtown NSW 2042.
 
@@ -14,4 +14,4 @@ Webster's Rooftop and Bar is a music venue in Sydney listed on soundcheck. 1 upc
 
 323 King St, Newtown NSW 2042, Sydney
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/webster-s-rooftop-and-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/webster-s-rooftop-and-bar/)*

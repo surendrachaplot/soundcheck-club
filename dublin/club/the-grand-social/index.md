@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "The Weeknd Dublin Concert Afterparty" on Sat, 22 Aug 2026.
+The Grand Social is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "The Weeknd Dublin Concert Afterparty" on Sat, 22 Aug 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -17,4 +17,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 4 upcoming nig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

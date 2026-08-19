@@ -1,6 +1,6 @@
 # Faciendo Soundsystem
 
-Faciendo Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 23 Aug 2026.
+Faciendo Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Summertime Roof Terrace, New York City on Sun, 23 Aug 2026.
 
 Faciendo Soundsystem is a house and techno artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Bucharest and London and 3 more. Often billed alongside Desyn, Tom Morgan and Rama NYC. Next up: Summertime Roof Terrace, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Faciendo Soundsystem is a house and techno artist tracked on soundcheck, with 23
 
 Desyn, Tom Morgan, Rama NYC
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*

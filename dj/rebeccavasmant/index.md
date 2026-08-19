@@ -1,6 +1,6 @@
 # Rebecca Vasmant
 
-Rebecca Vasmant is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
+Rebecca Vasmant is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
 
 Rebecca Vasmant is a house and jazz artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Athlete Whippet, Coco Maria and Kirollus. Next up: Djoon, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Rebecca Vasmant is a house and jazz artist tracked on soundcheck, with 55 sets l
 
 Athlete Whippet, Coco Maria, Kirollus
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*

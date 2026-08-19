@@ -1,6 +1,6 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Phonox, London on Fri, 6 Nov 2026.
+Ross From Friends is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phonox, London on Fri, 6 Nov 2026.
 
 Ross From Friends is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Logic1000 and Underworld. Next up: Phonox, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ross From Friends is a house and techno artist tracked on soundcheck, with 148 s
 
 Bicep, Logic1000, Underworld
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*

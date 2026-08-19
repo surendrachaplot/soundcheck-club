@@ -1,8 +1,8 @@
 # Tilian Gray
 
-Tilian Gray is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
+Tilian Gray is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
 
-Tilian Gray is a trance and progressive house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Bonzo (2), DJ Keyframe and dj_kareless. Next up: Berndhain, Berlin on Fri 11 Sept.
+Tilian Gray is a house and progressive house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Bonzo (2), DJ Keyframe and dj_kareless. Next up: Berndhain, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Tilian Gray is a trance and progressive house artist based in Germany, tracked o
 
 Bonzo (2), DJ Keyframe, dj_kareless
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiliangray/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiliangray/)*

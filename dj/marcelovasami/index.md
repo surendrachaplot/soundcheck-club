@@ -1,6 +1,6 @@
 # Marcelo Vasami
 
-Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 22 Aug 2026.
+Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 22 Aug 2026.
 
 Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 9 more. Often billed alongside Nicolas Rada, Antrim and Agustin Ficarra. Next up: D-EDGE, Saopaulo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, w
 
 Nicolas Rada, Antrim, Agustin Ficarra
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*

@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Club Night" on Fri, 21 Aug 2026.
+M-BIA is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Club Night w/ Morelia" on Fri, 21 Aug 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Anime, BrettHit, Daora and Deadly Guns and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -8,7 +8,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Club Night |  |
+| Fri, 21 Aug 2026 | Club Night w/ Morelia | Morelia, MØABEAT, SALCHIKILLER, Støffwechsel, Ultraviolect |
 | Sat, 22 Aug 2026 | Freakquency with Hatikwa | Daora, K3VKO, Onkel Tom, RHYTMOX |
 | Fri, 28 Aug 2026 | VEXED with Fernanda Martins  | BrettHit, Fernanda Martins |
 | Sat, 29 Aug 2026 | GOA Special pres. Klipsun [Brasilian Psytrance] | Kleiner Als Drei |
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

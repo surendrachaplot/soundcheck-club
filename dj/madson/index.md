@@ -1,6 +1,6 @@
 # Mad Son
 
-Mad Son is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
+Mad Son is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Humboldthain Club, Berlin on Fri, 21 Aug 2026.
 
 Mad Son is a techno and deep house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Naicet, Mona Pirzad and Corios. Next up: Humboldthain Club, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Mad Son is a techno and deep house artist tracked on soundcheck, with 6 sets log
 
 Naicet, Mona Pirzad, Corios
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*

@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
+Traumer is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Amnesia Ibiza, Ibiza on Tue 18 Aug.
 
@@ -23,6 +23,7 @@ Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
 - West Street, Glasgow — Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - SAGE, Berlin — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged
 - TBA - Camp Summerdaze Montreal, Montreal — Thu, 30 Jul 2026
 - TBA - Toronto, Toronto — Thu, 30 Jul 2026
 - Sophie Festival, Malaga — Sat, 25 Jul 2026
-- Parc de la Trinitat, Barcelona — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

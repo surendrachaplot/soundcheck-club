@@ -1,6 +1,6 @@
 # Shipwrecked Festival Site
 
-Shipwrecked Festival Site is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "OCTOBLAST" on Fri, 23 Oct 2026.
+Shipwrecked Festival Site is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "OCTOBLAST" on Fri, 23 Oct 2026.
 
 Shipwrecked Festival Site is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 186 Atkins Road, Te Arai, Auckland, 0975, New Zealand.
 
@@ -14,4 +14,4 @@ Shipwrecked Festival Site is a music venue in Auckland listed on soundcheck. 1 u
 
 186 Atkins Road, Te Arai, Auckland, 0975, New Zealand, Auckland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/shipwrecked-festival-site/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/shipwrecked-festival-site/)*

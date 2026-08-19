@@ -1,6 +1,6 @@
 # Freshkitos
 
-Freshkitos is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ministerium Club, Lisbon on Sun, 30 Aug 2026.
+Freshkitos is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ministerium Club, Lisbon on Sun, 30 Aug 2026.
 
 Freshkitos is a hardcore and techno artist tracked on soundcheck, with 16 sets logged across Lisbon and Porto. Often billed alongside David Moreira (2), Diana Oliveira and Rui Vargas. Next up: Ministerium Club, Lisbon on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Freshkitos is a hardcore and techno artist tracked on soundcheck, with 16 sets l
 
 David Moreira (2), Diana Oliveira, Rui Vargas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freshkitos/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freshkitos/)*

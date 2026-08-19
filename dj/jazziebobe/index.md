@@ -1,6 +1,6 @@
 # Jazzie B Obe
 
-Jazzie B Obe is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Ye Olde King & Queen Brighton, Brighton on Sun, 30 Aug 2026.
+Jazzie B Obe is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ye Olde King & Queen Brighton, Brighton on Sun, 30 Aug 2026.
 
 Jazzie B Obe is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, Glasgow, London and Newcastle. Often billed alongside Norman Jay, Craig Charles and Armand Van Helden. Next up: Ye Olde King & Queen Brighton, Brighton on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Jazzie B Obe is a disco and funk / soul artist based in United Kingdom, tracked 
 
 Norman Jay, Craig Charles, Armand Van Helden
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziebobe/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziebobe/)*

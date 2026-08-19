@@ -1,6 +1,6 @@
 # DPR (1)
 
-DPR (1) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Arts District LA, Los Angeles on Fri, 2 Oct 2026.
+DPR (1) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Arts District LA, Los Angeles on Fri, 2 Oct 2026.
 
 DPR (1) is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Bucharest and Hongkong and 12 more. Often billed alongside DJ Kirby, Ethan. and Que Sakamoto. Next up: TBA - Arts District LA, Losangeles on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DPR (1) is a house and minimal artist tracked on soundcheck, with 32 sets logged
 
 DJ Kirby, Ethan., Que Sakamoto
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*

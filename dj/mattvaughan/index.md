@@ -1,6 +1,6 @@
 # Matt Vaughan
 
-Matt Vaughan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 22 Aug 2026.
+Matt Vaughan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 22 Aug 2026.
 
 Matt Vaughan is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Stereogamous, Rakish and 3rd Orbit. Next up: Abercrombie Hotel, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Matt Vaughan is a house and techno artist tracked on soundcheck, with 15 sets lo
 
 Stereogamous, Rakish, 3rd Orbit
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattvaughan/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattvaughan/)*

@@ -1,6 +1,6 @@
 # Adam Pecho
 
-Adam Pecho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
+Adam Pecho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
 
 Adam Pecho is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago and Detroit. Often billed alongside Gabriel Palomo, dirtymoney and Brenda. Next up: TBA - Humboldt Park, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Adam Pecho is a techno and house artist based in United States of America, track
 
 Gabriel Palomo, dirtymoney, Brenda
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adampecho/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adampecho/)*

@@ -1,6 +1,6 @@
 # Saint Peter
 
-Saint Peter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
+Saint Peter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
 
 Saint Peter is a techno and house artist based in Poland, tracked on soundcheck, with 28 sets logged across Krakow and Warsaw. Often billed alongside Claude Degas, Sickdat and EM ILL. Next up: Smolna, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Saint Peter is a techno and house artist based in Poland, tracked on soundcheck,
 
 Claude Degas, Sickdat, EM ILL
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpeter/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpeter/)*

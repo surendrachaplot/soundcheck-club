@@ -1,6 +1,6 @@
 # The Piston
 
-The Piston is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "BODYCLOCK House - Bip, Zola, Miss Kleio" on Thu, 20 Aug 2026.
+The Piston is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "BODYCLOCK House - Bip, Zola, Miss Kleio" on Thu, 20 Aug 2026.
 
 The Piston is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Miss Kleio and Zola (TRM). Browse upcoming dates, start times and who's playing. 937 Bloor St W; Toronto, ON M6H 1L1; Canada.
 
@@ -14,4 +14,4 @@ The Piston is a music venue in Toronto listed on soundcheck. 1 upcoming night, w
 
 937 Bloor St W; Toronto, ON M6H 1L1; Canada, Toronto
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-piston/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-piston/)*

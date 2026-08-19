@@ -1,6 +1,6 @@
 # Tinker
 
-Tinker is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
+Tinker is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dogenzaka Church, Tokyo on Wed, 19 Aug 2026.
 
 Tinker is a club and pop artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Hamburg, Lisbon and Tokyo. Often billed alongside You Liang, RION and Ony. Next up: Dogenzaka Church, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Tinker is a club and pop artist based in United Kingdom, tracked on soundcheck, 
 
 You Liang, RION, Ony
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinker/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinker/)*

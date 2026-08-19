@@ -1,6 +1,6 @@
 # Ben Chaddha
 
-Ben Chaddha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
+Ben Chaddha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
 
 Ben Chaddha is a house and garage artist based in United States of America, tracked on soundcheck, with 6 sets logged across Chicago and Newyorkcity. Often billed alongside Cataract, Trader O and Boydell. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 2 Sept.
 
@@ -22,4 +22,4 @@ Ben Chaddha is a house and garage artist based in United States of America, trac
 
 Cataract, Trader O, Boydell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benchaddha/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benchaddha/)*

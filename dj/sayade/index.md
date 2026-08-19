@@ -1,6 +1,6 @@
 # saya (DE)
 
-saya (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+saya (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
 
 saya (DE) is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Bours?, Brtinzz and Caniche. Next up: OXI, Berlin on Fri 28 Aug.
 
@@ -15,4 +15,4 @@ saya (DE) is a techno and trance artist based in United Kingdom, tracked on soun
 
 Bours?, Brtinzz, Caniche
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*

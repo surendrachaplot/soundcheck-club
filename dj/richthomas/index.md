@@ -1,6 +1,6 @@
 # Rich Thomas
 
-Rich Thomas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Flash, Washington DC on Sun, 23 Aug 2026.
+Rich Thomas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Flash, Washington DC on Sun, 23 Aug 2026.
 
 Rich Thomas is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Washingtondc. Often billed alongside Chris Nitti, Aaron Sparks and DJ Chus. Next up: Flash, Washingtondc on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Rich Thomas is a house and deep house artist based in United States of America, 
 
 Chris Nitti, Aaron Sparks, DJ Chus
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*

@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Lofi, Amsterdam on Sat, 12 Sept 2026.
+Bibi Seck is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lofi, Amsterdam on Sat, 12 Sept 2026.
 
 Bibi Seck is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Lofi, Amsterdam on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 114 sets logg
 
 John Noseda, BAVR, Faisal
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

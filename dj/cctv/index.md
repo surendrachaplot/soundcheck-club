@@ -1,6 +1,6 @@
 # CCTV
 
-CCTV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at smartbar, Chicago on Fri, 28 Aug 2026.
+CCTV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at smartbar, Chicago on Fri, 28 Aug 2026.
 
 CCTV is a techno and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago and Copenhagen. Often billed alongside DJ Godfather, Drumset and Duke Shin. Next up: smartbar, Chicago on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ CCTV is a techno and electro artist based in United States of America, tracked o
 
 DJ Godfather, Drumset, Duke Shin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*

@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
+purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
 
 purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Brussels, Losangeles and Miami and 5 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Paragon, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

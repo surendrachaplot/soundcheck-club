@@ -1,6 +1,6 @@
 # Dennis Bovell
 
-Dennis Bovell is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Soul Mama Islington, London on Sun, 23 Aug 2026.
+Dennis Bovell is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Soul Mama Islington, London on Sun, 23 Aug 2026.
 
 Dennis Bovell is a dub and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, London and Melbourne and 2 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: Soul Mama Islington, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Dennis Bovell is a dub and house artist tracked on soundcheck, with 21 sets logg
 
 Tash LC, Alex Kassian, Elijah Minnelli
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

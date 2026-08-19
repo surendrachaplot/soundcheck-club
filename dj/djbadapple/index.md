@@ -1,13 +1,14 @@
 # DJ BAD APPLE
 
-DJ BAD APPLE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Line Hotel, Austin on Sun, 30 Aug 2026.
+DJ BAD APPLE is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at THE BATHS, Austin on Sat, 22 Aug 2026.
 
-DJ BAD APPLE is a house and club artist based in United States of America, tracked on soundcheck, with 104 sets logged across Austin. Often billed alongside MAJESTYOFDIVINITY, Al V Dam and Hip Stir. Next up: The Line Hotel, Austin on Sun 30 Aug.
+DJ BAD APPLE is a house and club artist based in United States of America, tracked on soundcheck, with 105 sets logged across Austin. Often billed alongside MAJESTYOFDIVINITY, Al V Dam and Hip Stir. Next up: THE BATHS, Austin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | THE BATHS | Austin |
 | Sun, 30 Aug 2026 | The Line Hotel | Austin |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ BAD APPLE is a house and club artist based in United States of America, track
 
 MAJESTYOFDIVINITY, Al V Dam, Hip Stir
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadapple/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadapple/)*

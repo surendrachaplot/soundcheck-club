@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Medis B2B Neek [all night long]" on Thu, 20 Aug 2026.
+The Love Inn is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Medis B2B Neek [all night long]" on Thu, 20 Aug 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including Medis, Neek and Paul Bozak Morrissey. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -15,4 +15,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 2 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

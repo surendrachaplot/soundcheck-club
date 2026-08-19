@@ -1,6 +1,6 @@
 # Dstm
 
-Dstm is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Gate Milano, Milan on Sat, 3 Oct 2026.
+Dstm is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Gate Milano, Milan on Sat, 3 Oct 2026.
 
 Dstm is a techno and industrial artist based in Italy, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside DEBBIE (IT), Angel Karel and CORA. Next up: Gate Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dstm is a techno and industrial artist based in Italy, tracked on soundcheck, wi
 
 DEBBIE (IT), Angel Karel, CORA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dstm/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dstm/)*

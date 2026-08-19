@@ -1,6 +1,6 @@
 # Nuno Clam
 
-Nuno Clam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
+Nuno Clam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
 
 Nuno Clam is a techno and house artist tracked on soundcheck, with 10 sets logged across Lisbon and Porto. Often billed alongside Downtown, Glender and A.Paul. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nuno Clam is a techno and house artist tracked on soundcheck, with 10 sets logge
 
 Downtown, Glender, A.Paul
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoclam/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoclam/)*

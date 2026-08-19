@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "AfterLife" on Sat, 22 Aug 2026.
+rake?raka? is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "AfterLife" on Sat, 22 Aug 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including ALTF4, DMITRI ABSINTHE, Don Son and HSC (1) and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -20,4 +20,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

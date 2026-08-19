@@ -1,6 +1,6 @@
 # Nawme
 
-Nawme is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Macadam, Nantes on Sat, 12 Sept 2026.
+Nawme is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Macadam, Nantes on Sat, 12 Sept 2026.
 
 Nawme is a breakbeat and techno artist based in France, tracked on soundcheck, with 11 sets logged across Nantes and Paris. Often billed alongside LIZZIE, RONI and Akira Yamagata. Next up: Macadam, Nantes on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nawme is a breakbeat and techno artist based in France, tracked on soundcheck, w
 
 LIZZIE, RONI, Akira Yamagata
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nawme/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nawme/)*

@@ -1,14 +1,14 @@
 # John Glass
 
-John Glass is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 22 Aug 2026.
+John Glass is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Madrone Art Bar, San Francisco/Oakland on Thu, 20 Aug 2026.
 
-John Glass is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Sanfrancisco. Often billed alongside Amatric, Pap. and AGROPOL. Next up: Madrone Art Bar, Sanfrancisco on Sat 22 Aug.
+John Glass is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Sanfrancisco. Often billed alongside Amatric, Pap. and AGROPOL. Next up: Madrone Art Bar, Sanfrancisco on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Madrone Art Bar | San Francisco/Oakland |
+| Thu, 20 Aug 2026 | Madrone Art Bar | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ John Glass is a house and deep house artist based in United States of America, t
 
 Amatric, Pap., AGROPOL
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnglass/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnglass/)*

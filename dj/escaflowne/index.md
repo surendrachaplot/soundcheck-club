@@ -1,6 +1,6 @@
 # EscaFlowne
 
-EscaFlowne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+EscaFlowne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 EscaFlowne is a techno and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Denver, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside fleet.dreams, Nick Boyd and Ben Zo. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ EscaFlowne is a techno and house artist based in United States of America, track
 
 fleet.dreams, Nick Boyd, Ben Zo
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*

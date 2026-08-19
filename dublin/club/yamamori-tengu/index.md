@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Research x Hidden Love: ANNĒ" on Fri, 21 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Research x Hidden Love: ANNĒ" on Fri, 21 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

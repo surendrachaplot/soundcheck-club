@@ -1,6 +1,6 @@
 # Mastering Black
 
-Mastering Black is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Kristina Records, London on Fri, 21 Aug 2026.
+Mastering Black is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kristina Records, London on Fri, 21 Aug 2026.
 
 Mastering Black is an ambient and acid artist tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside Richie Hawtin, APRS and Altinbas. Next up: Kristina Records, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Mastering Black is an ambient and acid artist tracked on soundcheck, with 3 sets
 
 Richie Hawtin, APRS, Altinbas
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*

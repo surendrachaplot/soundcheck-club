@@ -1,6 +1,6 @@
 # Loafers Cocktail Bar
 
-Loafers Cocktail Bar is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Midnight Swim: Hijo Prodigo" on Sat, 22 Aug 2026.
+Loafers Cocktail Bar is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Midnight Swim: Hijo Prodigo" on Sat, 22 Aug 2026.
 
 Loafers Cocktail Bar is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Hijo Pródigo and Kneaku. Browse upcoming dates, start times and who's playing. 517 Court Street, Brooklyn NY 11231.
 
@@ -17,4 +17,4 @@ Loafers Cocktail Bar is a music venue in Newyorkcity listed on soundcheck. 4 upc
 
 517 Court Street, Brooklyn NY 11231, New York City
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/loafers-cocktail-bar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/loafers-cocktail-bar/)*

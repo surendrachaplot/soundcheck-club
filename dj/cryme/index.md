@@ -1,6 +1,6 @@
 # CRYME
 
-CRYME is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
+CRYME is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
 
 CRYME is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Rakans, VINVAR and SIBAST. Next up: Maaya, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ CRYME is a techno and house artist tracked on soundcheck, with 94 sets logged ac
 
 Rakans, VINVAR, SIBAST
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*

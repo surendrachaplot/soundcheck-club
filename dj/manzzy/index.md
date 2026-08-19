@@ -1,6 +1,6 @@
 # Manzzy
 
-Manzzy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Reverie at the Park, Toronto on Fri, 28 Aug 2026.
+Manzzy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Reverie at the Park, Toronto on Fri, 28 Aug 2026.
 
 Manzzy is a house and disco artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside AKWA, Addy and Andre Zimmer. Next up: Reverie at the Park, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Manzzy is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 AKWA, Addy, Andre Zimmer
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*

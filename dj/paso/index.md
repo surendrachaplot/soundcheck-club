@@ -1,6 +1,6 @@
 # PASO
 
-PASO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 20 Aug 2026.
+PASO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 20 Aug 2026.
 
 PASO is a house and trance artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Edinburgh, Glasgow and Tbilisi. Often billed alongside Nadia Summer, BORLEY and ARWEN. Next up: People's Leisure Club, Edinburgh on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ PASO is a house and trance artist based in United Kingdom, tracked on soundcheck
 
 Nadia Summer, BORLEY, ARWEN
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*

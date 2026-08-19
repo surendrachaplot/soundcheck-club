@@ -1,6 +1,6 @@
 # Galluxy
 
-Galluxy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Ministry Of Sound, London on Fri, 4 Sept 2026.
+Galluxy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ministry Of Sound, London on Fri, 4 Sept 2026.
 
 Galluxy is a techno and house artist based in France, tracked on soundcheck, with 12 sets logged across Bali, Geneva, Ibiza and London and 1 more. Often billed alongside EWAVE, Chloe Martinez and OC & Verde. Next up: Ministry Of Sound, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Galluxy is a techno and house artist based in France, tracked on soundcheck, wit
 
 EWAVE, Chloe Martinez, OC & Verde
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galluxy/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galluxy/)*

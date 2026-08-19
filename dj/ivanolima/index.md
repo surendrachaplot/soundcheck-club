@@ -1,6 +1,6 @@
 # Iváno Lima
 
-Iváno Lima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Swig, Chicago on Thu, 20 Aug 2026.
+Iváno Lima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Swig, Chicago on Thu, 20 Aug 2026.
 
 Iváno Lima is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago and Newyorkcity. Often billed alongside Chelita, Miguel Ante and Tre Daniels. Next up: Swig, Chicago on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Iváno Lima is a house and techno artist based in United States of America, trac
 
 Chelita, Miguel Ante, Tre Daniels
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanolima/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanolima/)*

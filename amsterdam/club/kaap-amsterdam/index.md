@@ -1,6 +1,6 @@
 # Kaap Amsterdam
 
-Kaap Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Valtifest" on Sat, 22 Aug 2026.
+Kaap Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Valtifest" on Sat, 22 Aug 2026.
 
 Kaap Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Antrim, Ben Evers, Benjamin Brown and Chicola and 2 more. Browse upcoming dates, start times and who's playing. Zuider Ijdijk 1006.
 
@@ -18,4 +18,4 @@ Kaap Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming ni
 
 Zuider Ijdijk 1006, Amsterdam
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kaap-amsterdam/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kaap-amsterdam/)*

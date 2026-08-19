@@ -1,6 +1,6 @@
 # DJ KILLA SQUID
 
-DJ KILLA SQUID is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
+DJ KILLA SQUID is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
 
 DJ KILLA SQUID is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit. Often billed alongside Fullbodydurag, Sheefy McFly and Disc Jockey George. Next up: Cannons, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ KILLA SQUID is a house and hip-hop artist based in United States of America, 
 
 Fullbodydurag, Sheefy McFly, Disc Jockey George
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkillasquid/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkillasquid/)*

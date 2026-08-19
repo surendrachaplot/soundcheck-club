@@ -1,6 +1,6 @@
 # Weedo
 
-Weedo is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Hyde Club, Barcelona on Fri, 21 Aug 2026.
+Weedo is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hyde Club, Barcelona on Fri, 21 Aug 2026.
 
 Weedo is a progressive house artist based in Argentina, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside NOIYSE PROJECT, Polo (AR) and SACK (AR). Next up: Hyde Club, Barcelona on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Weedo is a progressive house artist based in Argentina, tracked on soundcheck, w
 
 NOIYSE PROJECT, Polo (AR), SACK (AR)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weedo/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weedo/)*

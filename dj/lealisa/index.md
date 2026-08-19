@@ -1,6 +1,6 @@
 # Lea Lisa
 
-Lea Lisa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Centre culturel Suisse, Paris on Sat, 19 Sept 2026.
+Lea Lisa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Centre culturel Suisse, Paris on Sat, 19 Sept 2026.
 
 Lea Lisa is a house and disco artist based in Switzerland, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 15 more. Often billed alongside Nahomi, Elliot Schooling and Kerri Chandler. Next up: TBA - Centre culturel Suisse, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Lea Lisa is a house and disco artist based in Switzerland, tracked on soundcheck
 
 Nahomi, Elliot Schooling, Kerri Chandler
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*

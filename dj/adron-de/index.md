@@ -1,6 +1,6 @@
 # Adron (DE)
 
-Adron (DE) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Klunkerkranich, Berlin on Wed, 19 Aug 2026.
+Adron (DE) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klunkerkranich, Berlin on Wed, 19 Aug 2026.
 
 Adron (DE) is a house and electronica artist tracked on soundcheck, with 6 sets logged across Berlin and Malaga. Often billed alongside Manu Strasse, Miguel Payda and A.N.I.C.E.. Next up: Klunkerkranich, Berlin on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Adron (DE) is a house and electronica artist tracked on soundcheck, with 6 sets 
 
 Manu Strasse, Miguel Payda, A.N.I.C.E.
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adron-de/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adron-de/)*

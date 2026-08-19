@@ -1,8 +1,8 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 16 upcoming nights listed on soundcheck as of Tue, 18 Aug 2026; the next is "Diamond Formation feat. PAURRO - Ariel Zetina - Cryberbully" on Fri, 21 Aug 2026.
+smartbar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Diamond Formation feat. PAURRO - Ariel Zetina - Cryberbully" on Fri, 21 Aug 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, with line-ups including Paula Tape, Ariel Zetina, Bambounou and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including Paula Tape, Ariel Zetina, Bambounou and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

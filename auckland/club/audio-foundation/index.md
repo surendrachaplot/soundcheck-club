@@ -1,6 +1,6 @@
 # Audio Foundation
 
-Audio Foundation is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Tue, 18 Aug 2026; the next is "Saturday Winter Series #12: Stephen Bain, Hermione Johnson" on Sat, 22 Aug 2026.
+Audio Foundation is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Saturday Winter Series #12: Stephen Bain, Hermione Johnson" on Sat, 22 Aug 2026.
 
 Audio Foundation is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4 Poynton Terrace, , Auckland Central, New Zealand.
 
@@ -14,4 +14,4 @@ Audio Foundation is a music venue in Auckland listed on soundcheck. 1 upcoming n
 
 4 Poynton Terrace, , Auckland Central, New Zealand, Auckland
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*

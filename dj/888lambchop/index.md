@@ -1,6 +1,6 @@
 # 888lambchop
 
-888lambchop is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
+888lambchop is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
 
 888lambchop is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside we1sman, hypemelo and Lady Witch. Next up: Spkrbox, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@
 
 we1sman, hypemelo, Lady Witch
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/888lambchop/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/888lambchop/)*

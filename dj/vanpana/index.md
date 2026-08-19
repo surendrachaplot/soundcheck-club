@@ -1,6 +1,6 @@
 # vanpana
 
-vanpana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Culture Box, Copenhagen on Sat, 29 Aug 2026.
+vanpana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Culture Box, Copenhagen on Sat, 29 Aug 2026.
 
 vanpana is a techno and house artist tracked on soundcheck, with 18 sets logged across Copenhagen. Often billed alongside AVI.avi, Arvy and Dico Nemus. Next up: Culture Box, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ vanpana is a techno and house artist tracked on soundcheck, with 18 sets logged 
 
 AVI.avi, Arvy, Dico Nemus
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanpana/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanpana/)*

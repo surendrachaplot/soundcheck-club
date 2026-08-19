@@ -1,6 +1,6 @@
 # Yhago
 
-Yhago is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
+Yhago is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
 
 Yhago is a house and afro house artist based in Spain, tracked on soundcheck, with 29 sets logged across Madrid. Often billed alongside DJ Chris (CA), Guidomik and Giulia Mad. Next up: EL SÓTANO, Madrid on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Yhago is a house and afro house artist based in Spain, tracked on soundcheck, wi
 
 DJ Chris (CA), Guidomik, Giulia Mad
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhago/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhago/)*

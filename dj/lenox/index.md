@@ -1,6 +1,6 @@
 # lenox
 
-lenox is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
+lenox is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
 
 lenox is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg, Newyorkcity and Toronto. Often billed alongside Andrew Lenox, Aydan XR and Bailey Brown. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ lenox is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 Andrew Lenox, Aydan XR, Bailey Brown
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*

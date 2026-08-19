@@ -1,6 +1,6 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+BYØRN is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
 BYØRN is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 35 more. Often billed alongside NOVAH, SIKOTI and Basswell. Next up: OST, Berlin on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ BYØRN is a techno and trance artist tracked on soundcheck, with 92 sets logged 
 
 NOVAH, SIKOTI, Basswell
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

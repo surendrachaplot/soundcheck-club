@@ -1,8 +1,8 @@
 # The Dark Horror
 
-The Dark Horror is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
+The Dark Horror is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
 
-The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 21 sets logged across Antwerp, Barcelona, Brussels and Cologne and 6 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
+The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 22 sets logged across Antwerp, Barcelona, Brussels and Cologne and 6 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on sou
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
+| Sat, 24 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on sou
 
 Pinotello, Dimitri K, Lekkerfaces
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*

@@ -1,6 +1,6 @@
 # Joachim Pastor
 
-Joachim Pastor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 29 Aug 2026.
+Joachim Pastor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 29 Aug 2026.
 
 Joachim Pastor is a techno and house artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Joris Delacroix, Teho and NTO. Next up: Fridas Pier, Stuttgart on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Joachim Pastor is a techno and house artist based in France, tracked on soundche
 
 Joris Delacroix, Teho, NTO
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*

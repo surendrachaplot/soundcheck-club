@@ -1,6 +1,6 @@
 # The Reflex
 
-The Reflex is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at The Street, Edinburgh on Sun, 6 Sept 2026.
+The Reflex is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Street, Edinburgh on Sun, 6 Sept 2026.
 
 The Reflex is a disco and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Edinburgh, Glasgow and Ibiza and 3 more. Often billed alongside Greg Wilson, Jaegerossa and Dave Lee. Next up: The Street, Edinburgh on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ The Reflex is a disco and house artist tracked on soundcheck, with 17 sets logge
 
 Greg Wilson, Jaegerossa, Dave Lee
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thereflex/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thereflex/)*

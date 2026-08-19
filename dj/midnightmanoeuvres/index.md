@@ -1,6 +1,6 @@
 # Midnight Manoeuvres
 
-Midnight Manoeuvres is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
+Midnight Manoeuvres is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
 
 Midnight Manoeuvres is an acid and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Rhem, Joshua (3) and Abby Daze. Next up: Brixton Radio, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Midnight Manoeuvres is an acid and house artist tracked on soundcheck, with 9 se
 
 Rhem, Joshua (3), Abby Daze
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmanoeuvres/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmanoeuvres/)*

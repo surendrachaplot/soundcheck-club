@@ -1,6 +1,6 @@
 # Perila
 
-Perila is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Pastiche, Berlin on Sat, 29 Aug 2026.
+Perila is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pastiche, Berlin on Sat, 29 Aug 2026.
 
 Perila is an ambient and experimental artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Ulla, DjRUM and upsammy. Next up: Pastiche, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Perila is an ambient and experimental artist based in Germany, tracked on soundc
 
 Ulla, DjRUM, upsammy
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*

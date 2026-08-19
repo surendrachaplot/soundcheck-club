@@ -1,6 +1,6 @@
 # ROSHI
 
-ROSHI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA, Athens on Sat, 22 Aug 2026.
+ROSHI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Athens on Sat, 22 Aug 2026.
 
 ROSHI is a techno and house artist based in Greece, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Losangeles and Newyorkcity and 2 more. Often billed alongside KLD (1), Pelany and Imperium. Next up: TBA, Athens on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ROSHI is a techno and house artist based in Greece, tracked on soundcheck, with 
 
 KLD (1), Pelany, Imperium
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshi/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshi/)*

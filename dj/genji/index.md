@@ -1,6 +1,6 @@
 # Genji
 
-Genji is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 18 Aug 2026, next at Horn, Bangkok on Thu, 20 Aug 2026.
+Genji is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Horn, Bangkok on Thu, 20 Aug 2026.
 
 Genji is a bass and club artist based in Thailand, tracked on soundcheck, with 18 sets logged across Bangkok. Often billed alongside JWP., OXYBOY and .g (TH). Next up: Horn, Bangkok on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Genji is a bass and club artist based in Thailand, tracked on soundcheck, with 1
 
 JWP., OXYBOY, .g (TH)
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genji/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genji/)*

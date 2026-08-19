@@ -1,6 +1,6 @@
 # Katscha
 
-Katscha is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Import Export, Munich on Fri, 21 Aug 2026.
+Katscha is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Import Export, Munich on Fri, 21 Aug 2026.
 
 Katscha is a bass and club artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne and Munich. Often billed alongside Acidfinky, Gîn Bali and NaN.. Next up: Import Export, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Katscha is a bass and club artist tracked on soundcheck, with 9 sets logged acro
 
 Acidfinky, Gîn Bali, NaN.
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katscha/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katscha/)*

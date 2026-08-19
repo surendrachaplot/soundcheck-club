@@ -1,14 +1,15 @@
 # Ani Klang
 
-Ani Klang is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at ErF Studios, New York City on Fri, 28 Aug 2026.
+Ani Klang is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at ErF Studios, New York City on Fri, 28 Aug 2026.
 
-Ani Klang is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Bristol, Manchester, Newyorkcity and Paris and 1 more. Often billed alongside Mars Kasei, DJ Pacifier and Discnogirl. Next up: ErF Studios, Newyorkcity on Fri 28 Aug.
+Ani Klang is a techno and hardcore artist tracked on soundcheck, with 25 sets logged across Bristol, London, Manchester and Newyorkcity and 2 more. Often billed alongside Mars Kasei, DJ Pacifier and Discnogirl. Next up: ErF Studios, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | ErF Studios | New York City |
+| Fri, 11 Sept 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ani Klang is a techno and hardcore artist tracked on soundcheck, with 24 sets lo
 
 Mars Kasei, DJ Pacifier, Discnogirl
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniklang/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniklang/)*

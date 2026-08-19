@@ -1,6 +1,6 @@
 # Freddy Gardens
 
-Freddy Gardens is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Paper, Seoul on Fri, 21 Aug 2026.
+Freddy Gardens is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paper, Seoul on Fri, 21 Aug 2026.
 
 Freddy Gardens is a house and balearic artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne, Seoul and Sydney. Often billed alongside Princey, Proto-Exotica and Porcelain Prince. Next up: Paper, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Freddy Gardens is a house and balearic artist based in Australia, tracked on sou
 
 Princey, Proto-Exotica, Porcelain Prince
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*

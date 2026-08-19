@@ -1,6 +1,6 @@
 # oshi (2)
 
-oshi (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Débris, Tokyo on Tue, 25 Aug 2026.
+oshi (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Débris, Tokyo on Tue, 25 Aug 2026.
 
 oshi (2) is a techno and bass artist tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside COSMOGANG, --- mr --- and ANiIIIIiiiKii. Next up: Débris, Tokyo on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ oshi (2) is a techno and bass artist tracked on soundcheck, with 13 sets logged 
 
 COSMOGANG, --- mr ---, ANiIIIIiiiKii
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi-2/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi-2/)*

@@ -1,6 +1,6 @@
 # natq
 
-natq is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Inferno, Copenhagen on Sat, 22 Aug 2026.
+natq is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Inferno, Copenhagen on Sat, 22 Aug 2026.
 
 natq is an electronica and house artist based in Denmark, tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen and Vienna. Often billed alongside Cristian Vogel, An-i and Galaxian. Next up: Inferno, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ natq is an electronica and house artist based in Denmark, tracked on soundcheck,
 
 Cristian Vogel, An-i, Galaxian
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natq/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natq/)*

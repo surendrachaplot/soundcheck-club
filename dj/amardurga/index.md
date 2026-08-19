@@ -1,6 +1,6 @@
 # AMAR DURGA
 
-AMAR DURGA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Cross Club, Prague on Fri, 28 Aug 2026.
+AMAR DURGA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cross Club, Prague on Fri, 28 Aug 2026.
 
 AMAR DURGA is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Prague. Often billed alongside Daria, Anton Imos and TBA. Next up: Cross Club, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ AMAR DURGA is a techno and tech house artist based in Czech Republic, tracked on
 
 Daria, Anton Imos, TBA
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amardurga/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amardurga/)*

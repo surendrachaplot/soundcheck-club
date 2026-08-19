@@ -1,14 +1,15 @@
 # Gardna
 
-Gardna is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Gardna is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Gardna is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Athens, Auckland, Bangkok and Brighton and 11 more. Often billed alongside Mozey, Hybrid Minds and Dillinja. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Gardna is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Athens, Auckland, Bangkok and Brighton and 11 more. Often billed alongside Mozey, Hybrid Minds and Dillinja. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 26 Sept 2026 | HERE | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gardna is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Mozey, Hybrid Minds, Dillinja
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*

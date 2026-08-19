@@ -1,6 +1,6 @@
 # Gremlin
 
-Gremlin is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Gremlin is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Gremlin is a house and afro house artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside DAWS, Activator (AU) and Jesse DM. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Gremlin is a house and afro house artist based in Australia, tracked on soundche
 
 DAWS, Activator (AU), Jesse DM
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlin/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlin/)*

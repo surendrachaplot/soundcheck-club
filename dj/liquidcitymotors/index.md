@@ -1,6 +1,6 @@
 # Liquid City Motors
 
-Liquid City Motors is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at smartbar, Chicago on Sat, 12 Sept 2026.
+Liquid City Motors is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at smartbar, Chicago on Sat, 12 Sept 2026.
 
 Liquid City Motors is a techno and club artist based in Australia, tracked on soundcheck, with 7 sets logged across Chicago and Detroit. Often billed alongside J. Córdova, Mecániko and 2Lanes. Next up: smartbar, Chicago on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Liquid City Motors is a techno and club artist based in Australia, tracked on so
 
 J. Córdova, Mecániko, 2Lanes
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidcitymotors/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidcitymotors/)*

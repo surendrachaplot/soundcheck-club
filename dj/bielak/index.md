@@ -1,6 +1,6 @@
 # bielak
 
-bielak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at MONKEY LOVE, Warsaw on Sat, 22 Aug 2026.
+bielak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MONKEY LOVE, Warsaw on Sat, 22 Aug 2026.
 
 bielak is a techno and house artist based in Poland, tracked on soundcheck, with 35 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bart ender and Taan. Next up: MONKEY LOVE, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ bielak is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Schmeltzer, bart ender, Taan
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*

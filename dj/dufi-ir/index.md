@@ -1,6 +1,6 @@
 # Dufi
 
-Dufi is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 18 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 26 Sept 2026.
+Dufi is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 26 Sept 2026.
 
 Dufi is a minimal techno and minimal artist based in Ireland, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside Dufi (2) and Sonja Moonear. Next up: Yamamori Tengu, Dublin on Sat 26 Sept.
 
@@ -14,4 +14,4 @@ Dufi is a minimal techno and minimal artist based in Ireland, tracked on soundch
 
 Dufi (2), Sonja Moonear
 
-*Updated Tue, 18 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dufi-ir/)*
+*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dufi-ir/)*
