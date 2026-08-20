@@ -12,12 +12,12 @@ Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with
 | Sat, 12 Sept 2026 | CODE 177 with Marlon Hoffstadt | Anetha, ArceX, CESAR ALMENA, HiTMiLØW, Lee Ann Roberts, Marlon Hoffstadt, Noise Mafia, Nuke, PETERBLUE, Selecta (ES), Serafina, Trancemaster Krause |
 | Sat, 19 Sept 2026 | 150 with Hardwell in Fabrik | Angerfist, Ender, Hardwell, Mad Dog, Neko, Sound Rush, Unicorn on Ketamine, Yeyo |
 | Sat, 26 Sept 2026 | MEGABRESH |  |
-| Sat, 10 Oct 2026 | LOOP with Fatboy Slim | Alex Clap, Chloé Caillet, Fatboy Slim, Layo & Bushwacka!, Patrick Topping, Raul Ortiz |
+| Sat, 10 Oct 2026 | LOOP with Fatboy Slim | Alex Clap, Carlos Chaparro, Chloé Caillet, Fatboy Slim, Hector Couto, Layo & Bushwacka!, Patrick Topping, Rafa Barrios, Raul Ortiz |
 | Sun, 11 Oct 2026 | CODE pres. UNREAL x KUKO All Night Long World Tour | KUKO |
 | Sun, 11 Oct 2026 | CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler | KUKO, KlangKuenstler |
 | Sat, 17 Oct 2026 | LA RESISTENCIA - Lethal industry | Brenda Serna (2), Carlos Pérez, Cristian Varela, Gaston Zani, H1pnos1s, K-Style, Pastis & Buenri |
 | Sat, 24 Oct 2026 | 150 by Fabrik - October 2026 Edition | BLNK, Dimitri K, Dual Damage, Ender, KRUELTY, Major Conspiracy, Noxiouz, Pinotello, Satirized, The Dark Horror, Unload, Yoshiko |
-| Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | Charlotte de Witte |
+| Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | CESAR ALMENA, Charlotte de Witte, In Verruf, Inox Traxx, Nastia, Nuke, Supergloss, Svetec, future.666 |
 
 ## Address
 

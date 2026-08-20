@@ -1,14 +1,15 @@
 # Junki Akutagawa
 
-Junki Akutagawa is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at flo Soakin, Osaka on Fri, 28 Aug 2026.
+Junki Akutagawa is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at flo Soakin, Osaka on Fri, 28 Aug 2026.
 
-Junki Akutagawa is a deep house and house artist tracked on soundcheck, with 46 sets logged across Osaka. Often billed alongside KONDO Mitsuo, yu-more and Sonny Vercetti. Next up: flo Soakin, Osaka on Fri 28 Aug.
+Junki Akutagawa is a deep house and house artist tracked on soundcheck, with 47 sets logged across Osaka. Often billed alongside KONDO Mitsuo, yu-more and Sonny Vercetti. Next up: flo Soakin, Osaka on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | flo Soakin | Osaka |
+| Fri, 4 Sept 2026 | Noon + Cafe | Osaka |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ MUNNI is a club and experimental artist tracked on soundcheck, with 26 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | XOYO | London |
-| Sat, 17 Oct 2026 | Night Tales | London |
+| Sat, 17 Oct 2026 | Arch 14 | London |
 
 ## Recently played
 

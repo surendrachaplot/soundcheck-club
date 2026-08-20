@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Pulso: Flor Coto, Nacho Carbajal, Santi Calvo, No Silver Bullet, Szew, Mati Amoretti" on Thu, 20 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Pulso: Flor Coto, Nacho Carbajal, Santi Calvo, No Silver Bullet, Szew, Mati Amoretti" on Thu, 20 Aug 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and Chuki Juri and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and Chuki Juri and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 

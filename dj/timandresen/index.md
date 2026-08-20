@@ -1,8 +1,8 @@
 # Tim Andresen
 
-Tim Andresen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jaeger, Oslo on Sat, 12 Sept 2026.
+Tim Andresen is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jaeger, Oslo on Sat, 12 Sept 2026.
 
-Tim Andresen is a house and techno artist based in Denmark, tracked on soundcheck, with 119 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 14 more. Often billed alongside Gerssein, NILU and Shansen. Next up: Jaeger, Oslo on Sat 12 Sept.
+Tim Andresen is a house and techno artist based in Denmark, tracked on soundcheck, with 120 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 14 more. Often billed alongside Gerssein, NILU and Shansen. Next up: Jaeger, Oslo on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tim Andresen is a house and techno artist based in Denmark, tracked on soundchec
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Jaeger | Oslo |
 | Sat, 19 Sept 2026 | Culture Box | Copenhagen |
+| Sat, 17 Oct 2026 | Culture Box | Copenhagen |
 | Sat, 31 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # JI_2001
 
-JI_2001 is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Mash House, Edinburgh on Fri, 21 Aug 2026.
+JI_2001 is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paradise Palms, Edinburgh on Thu, 20 Aug 2026.
 
-JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Dundee and Edinburgh. Often billed alongside Smiff, Lara Sinclair and Casement. Next up: The Mash House, Edinburgh on Fri 21 Aug.
+JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Dundee and Edinburgh. Often billed alongside Smiff, Lara Sinclair and Casement. Next up: Paradise Palms, Edinburgh on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Paradise Palms | Edinburgh |
 | Fri, 21 Aug 2026 | The Mash House | Edinburgh |
 
 ## Recently played

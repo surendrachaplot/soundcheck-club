@@ -1,0 +1,17 @@
+# PicNic x Aligned at TBA
+
+PicNic x Aligned at TBA on Sat 22 Aug, Copenhagen. 3 acts on the bill: hoelub, jamadam and Zayac. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 22 Aug 2026 |
+| Venue | TBA |
+| City | Copenhagen |
+
+## Line-up
+
+- hoelub
+- jamadam
+- Zayac
+
+*Source: [soundcheck](https://soundcheck.club/e/2511855-picnic-x-aligned-at-tba/)*

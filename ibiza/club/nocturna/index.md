@@ -10,7 +10,7 @@ Nocturna is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | AUDIODISE x OpenLab pres. Edward (Giegling), E.LINA and Swann | E.LINA, Edward, Swann |
 | Wed, 26 Aug 2026 | XTRA THE PARTY - AUGUST 26TH | ANDREA VANDALL, Inès Rau, LOVEFOXY |
-| Fri, 28 Aug 2026 | Rotary x Open Lab | Alex Neri, GNMR |
+| Fri, 28 Aug 2026 | Rotary x Open Lab - Press. Alex Neri, GNMR + Special Guests  | Alex Neri, GNMR |
 | Wed, 2 Sept 2026 | XTRA THE PARTY CLOSING - SEPTEMBER 2ND | Ceri, Grace Sands |
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/nocturna/)*

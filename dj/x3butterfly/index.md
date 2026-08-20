@@ -1,8 +1,8 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
+x3butterfly is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
 
-x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Berlin and Boston and 28 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Akua. Next up: TBA - 1 INGRAHAM ST, Newyorkcity on Sat 22 Aug.
+x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 189 sets logged across Amsterdam, Bangkok, Berlin and Boston and 28 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Akua. Next up: TBA - 1 INGRAHAM ST, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ x3butterfly is a techno and house artist based in United States of America, trac
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sun, 6 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Sat, 24 Oct 2026 | Eventhuset | Stockholm |
 

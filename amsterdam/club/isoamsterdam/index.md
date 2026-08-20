@@ -1,13 +1,14 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "New Era ISO session 2" on Sat, 29 Aug 2026.
+ISOamsterdam is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "YOUNG BOY DANCING GROUP" on Sat, 22 Aug 2026.
 
-ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Comrade Winston, DJ Heroin, Elisa Batti and GAZTAMBIDE and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
+ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Comrade Winston, DJ Heroin, Elisa Batti and GAZTAMBIDE and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | YOUNG BOY DANCING GROUP |  |
 | Sat, 29 Aug 2026 | New Era ISO session 2 | Elisa Batti, GAZTAMBIDE, Just(e) Alex, Megan Leber, Thoms Traxx |
 | Fri, 4 Sept 2026 | 2/3 with Rat Section, DJH, Macrosoft, Servicekit | DJ Heroin, Macrosoft, Rat Section |
 | Sat, 3 Oct 2026 | New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl | Comrade Winston |

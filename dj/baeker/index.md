@@ -1,14 +1,15 @@
 # baeker
 
-baeker is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pullman Rooftop Budapest, Budapest on Fri, 28 Aug 2026.
+baeker is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Pullman Rooftop Budapest, Budapest on Fri, 28 Aug 2026.
 
-baeker is a house and garage artist tracked on soundcheck, with 80 sets logged across Budapest. Often billed alongside quera, Kiqo and Gemcamp. Next up: Pullman Rooftop Budapest, Budapest on Fri 28 Aug.
+baeker is a house and garage artist tracked on soundcheck, with 81 sets logged across Budapest. Often billed alongside quera, Kiqo and Gemcamp. Next up: Pullman Rooftop Budapest, Budapest on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Pullman Rooftop Budapest | Budapest |
+| Fri, 11 Sept 2026 | Kassa Boat | Budapest |
 
 ## Recently played
 

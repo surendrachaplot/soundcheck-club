@@ -1,8 +1,8 @@
 # Notion
 
-Notion is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Notion is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Notion is a garage and house artist based in United Kingdom, tracked on soundche
 | Fri, 9 Oct 2026 | SWG3 | Glasgow |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
+| Sat, 17 Oct 2026 | Quarters | Brighton |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |

@@ -1,14 +1,15 @@
 # R°sha
 
-R°sha is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Podlasie Club, Chicago on Thu, 20 Aug 2026.
+R°sha is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Podlasie Club, Chicago on Thu, 20 Aug 2026.
 
-R°sha is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago and Newyorkcity. Often billed alongside Jon McCray, Vyper and Von. Next up: Podlasie Club, Chicago on Thu 20 Aug.
+R°sha is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 14 sets logged across Chicago and Newyorkcity. Often billed alongside Jon McCray, Vyper and Von. Next up: Podlasie Club, Chicago on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Podlasie Club | Chicago |
+| Sun, 6 Sept 2026 | The Jackhammer Chicago | Chicago |
 
 ## Recently played
 

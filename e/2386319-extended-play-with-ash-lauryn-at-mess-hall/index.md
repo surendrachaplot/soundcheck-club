@@ -1,6 +1,6 @@
 # Extended Play with Ash Lauryn at Mess Hall
 
-Extended Play with Ash Lauryn at Mess Hall on Sun 20 Sept, Washingtondc. 1 act on the bill: Ash Lauryn. Preview the line-up and save it on soundcheck.
+Extended Play with Ash Lauryn at Mess Hall on Sun 20 Sept, Washingtondc. 1 act on the bill: Ash Lauryn. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

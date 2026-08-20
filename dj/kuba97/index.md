@@ -1,8 +1,8 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Kuba'97 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
-Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 17 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Piedicavallo, Turin on Fri 21 Aug.
+Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 17 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Piedicavallo | Turin |
 | Sat, 5 Sept 2026 | Gaffe | London |
+| Fri, 2 Oct 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sat, 14 Nov 2026 | 宀 Club | Hong Kong |
 

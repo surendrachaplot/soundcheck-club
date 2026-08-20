@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 32 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rinse Summer Terrace Party ft. Benga, Oneman, Nyra + more" on Thu, 20 Aug 2026.
+Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rinse Summer Terrace Party ft. Benga, Oneman, Nyra + more" on Thu, 20 Aug 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Alexia Glensy, Alex Neri, Benga and Cap and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Alexia Glensy, Alex Neri, Ani Phoebe and Benga and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
@@ -12,12 +12,12 @@ Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights,
 | Fri, 21 Aug 2026 | Night Tales: Hamish & Toby + Laurine & Cecilio | Cecilio, Hamish & Toby, Laurine |
 | Fri, 21 Aug 2026 | Solar: House, Minimal, Edits |  |
 | Sat, 22 Aug 2026 | Paraiso Disco: House, Disco, Classics |  |
-| Thu, 27 Aug 2026 | Rinse Summer Terrace Party ft. Diffrent, Fold b2b Cu.rve, Mona Yim + more | Diffrent, Fold, Mona Yim, Samtheman |
+| Thu, 27 Aug 2026 | Rinse Summer Terrace Party ft. Diffrent, Fold b2b Cu.rve, Oscar Farrell + more | Diffrent, Fold, Mona Yim, Oscar Farrell, Samtheman |
 | Fri, 28 Aug 2026 | Night Tales: Joe Goddard [All Night Long] | Joe Goddard |
 | Sat, 29 Aug 2026 | Paraiso Disco: House, Disco, Classics |  |
 | Sun, 30 Aug 2026 | Night Tales: Ranger Trucco + more TBA [Debut London Headline] | Ranger Trucco |
-| Fri, 4 Sept 2026 | DISCO TEHRAN IN LONDON |  |
-| Sat, 5 Sept 2026 | Origins: Alexia Glensy, Cap, Doudou MD | Alexia Glensy, Cap, Doudou MD |
+| Fri, 4 Sept 2026 | DISCO TEHRAN IN LONDON | Ani Phoebe, Liminal People, MIRZA |
+| Sat, 5 Sept 2026 | Origins: Alexia Glensy, Cap, Doudou MD [Slapfunk & VBX] | Alexia Glensy, Cap, Doudou MD |
 
 ## Address
 

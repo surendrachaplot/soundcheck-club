@@ -1,6 +1,6 @@
 # Open Decks with STEEN & Masht at SILO
 
-Open Decks with STEEN & Masht at SILO on Tue 25 Aug, Newyorkcity. 1 act on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with STEEN & Masht at SILO on Tue 25 Aug, Newyorkcity. 2 acts on the bill: Fritz Ta and STEEN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Open Decks with STEEN & Masht at SILO on Tue 25 Aug, Newyorkcity. 1 act on the b
 
 ## Line-up
 
+- Fritz Ta
 - STEEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2498020-open-decks-with-steen-masht-at-silo/)*

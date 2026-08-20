@@ -14,7 +14,7 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming
 | Fri, 4 Sept 2026 | FILM FUND RAVE | Beverly Chills, xtcemi |
 | Fri, 11 Sept 2026 | PROX. Jason Kendig, Dr. Rek, Kenvulsion, M4RC0, Andrew Butcher | Dr. Rek, Jason Kendig |
 | Fri, 11 Sept 2026 | CLUB MUSIC |  |
-| Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Hydroplane, Xanopticon, Øbsrvr (PDX) |
+| Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Dr. Rek, Hydroplane, Xanopticon, Øbsrvr (PDX) |
 | Fri, 16 Oct 2026 | RM 303: Ghost in the Host | Jehnee |
 | Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Spiñorita |
 

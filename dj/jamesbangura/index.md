@@ -9,8 +9,8 @@ James Bangura is a techno and house artist tracked on soundcheck, with 67 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | La Gravière | Geneva |
-| Fri, 4 Sept 2026 | Bastet | Philadelphia |
 | Fri, 4 Sept 2026 | Good Room | New York City |
+| Sat, 5 Sept 2026 | Bastet | Philadelphia |
 
 ## Recently played
 

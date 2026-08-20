@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 23 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "REVOLVER BANDROOM: DUSTMYTE + Special Guests" on Thu, 20 Aug 2026.
+Revolver Upstairs is a music venue in Melbourne with 24 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "REVOLVER BANDROOM: DUSTMYTE + Special Guests" on Thu, 20 Aug 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 23 upcoming nights, with line-ups including Acid Safari, ADMINISTRATOR, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 24 upcoming nights, with line-ups including Acid Safari, ADMINISTRATOR, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Trendy Wendy
 
-Trendy Wendy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Street, Edinburgh on Fri, 21 Aug 2026.
+Trendy Wendy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Street, Edinburgh on Fri, 21 Aug 2026.
 
-Trendy Wendy is a disco and house artist tracked on soundcheck, with 64 sets logged across Edinburgh. Often billed alongside Mairi 'b' Pots, Steve Austin and DJ Zak from Bolton. Next up: The Street, Edinburgh on Fri 21 Aug.
+Trendy Wendy is a disco and house artist tracked on soundcheck, with 65 sets logged across Edinburgh. Often billed alongside Mairi 'b' Pots, Steve Austin and DJ Zak from Bolton. Next up: The Street, Edinburgh on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Street | Edinburgh |
+| Sat, 22 Aug 2026 | The Street | Edinburgh |
 
 ## Recently played
 

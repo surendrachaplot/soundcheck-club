@@ -1,14 +1,15 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Marie Malarie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-Marie Malarie is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Southwark Park, London on Sun 30 Aug.
+Marie Malarie is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Southwark Park | London |
+| Sun, 13 Sept 2026 | radial | London |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # JKriv
 
-JKriv is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Terrrazza, Barcelona on Fri, 28 Aug 2026.
+JKriv is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-JKriv is a house and disco artist tracked on soundcheck, with 126 sets logged across Auckland, Barcelona, Bristol and Chicago and 21 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: La Terrrazza, Barcelona on Fri 28 Aug.
+JKriv is a house and disco artist tracked on soundcheck, with 127 sets logged across Auckland, Barcelona, Bristol and Chicago and 21 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: 528 Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 25 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | La Terrrazza | Barcelona |
 
 ## Recently played

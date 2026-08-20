@@ -1,14 +1,13 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Ilario Alicante | Manolaco | Zyrak" on Wed, 19 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "David Morales" on Fri, 21 Aug 2026.
 
-Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 7 upcoming nights, with line-ups including Armand Van Helden, Benny Benassi, Claptone and David Morales and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
+Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 6 upcoming nights, with line-ups including Armand Van Helden, Benny Benassi, Claptone and David Morales and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Ilario Alicante / Manolaco / Zyrak | Ilario Alicante, Manolaco |
 | Fri, 21 Aug 2026 | David Morales | David Morales |
 | Sat, 22 Aug 2026 | Benny Benassi / Essentia / Squ4re / Zyrak | Benny Benassi, Essentia (Duplicity) |
 | Tue, 25 Aug 2026 | Armand Van Helden / Egmond | Armand Van Helden |

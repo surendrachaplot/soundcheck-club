@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DIFFUSE REALITY pres. Sender Berlin [Tresor]" on Thu, 20 Aug 2026.
+://about blank is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DIFFUSE REALITY pres. Sender Berlin [Tresor] 2 ROOMS + OPEN AIR " on Thu, 20 Aug 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | DIFFUSE REALITY pres. Sender Berlin [Tresor] | Anri, Blosvenn, Ecilo, NYCTO, Obscur, SURCO, Sender Berlin, Squaric |
+| Thu, 20 Aug 2026 | DIFFUSE REALITY pres. Sender Berlin [Tresor] 2 ROOMS + OPEN AIR  | Anri, Blosvenn, Ecilo, NYCTO, Obscur, SURCO, Sender Berlin, Squaric |
 | Thu, 20 Aug 2026 | ://sektgarten x Wohnzimmer-Kollektiv [free entry & open air] | Clarissa Gnade |
 | Fri, 21 Aug 2026 | ★ LOWKEY STARS ☆ 2ND ANNIVERSARY | BIJI ON DECKS, BOOTHBUNNY, Buday, Bélavie, DJ Hitwave, Dr.Waumiau, Glumo, Karolanne, Kolja.Kebab, Levandream, Lisatrix, MARRED, Mindframe, RichBeat, Røsenwasser, SASAXX, SOLID (2), TONITON, fU.impact, multivitaminmarie |
 | Fri, 21 Aug 2026 | ://sektgarten x Golden Times [free entry & open air] | Hagel |

@@ -9,7 +9,7 @@ A. CASANOVA is a house and electro artist tracked on soundcheck, with 18 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
-| Sat, 5 Sept 2026 | Studio Stereo | Barcelona |
+| Sat, 5 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 

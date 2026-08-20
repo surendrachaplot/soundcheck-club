@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
+Lena Willikens is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
 
-Lena Willikens is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Salon des Amateurs, Dusseldorf on Sat 22 Aug.
+Lena Willikens is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Salon des Amateurs, Dusseldorf on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 202 sets
 | Fri, 9 Oct 2026 | Strange Brew | Bristol |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
+| Sat, 7 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 

@@ -11,7 +11,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 11 upcoming nights, with l
 | Fri, 21 Aug 2026 | Fvtvr INVITES: Slam, David Asko, Hyper Sam | David Asko, Hyper Sam, Slam |
 | Sat, 22 Aug 2026 | BCCO BERLIN: TWO DOTS, Yasmin Regisford, DJ HYPERDRIVE | DJ Hyperdrive, Iman Janes, Sicion, Two Dots (FR), Yasmin Regisford |
 | Fri, 28 Aug 2026 | Fvtvr INVITES: Chris Liebing, Sept, TSIEG | Chris Liebing, Sept |
-| Sat, 29 Aug 2026 | HOUSE OF REKIDS: Radio Slave, Tal Fussman, Marli | Marli, Radio Slave, Tal Fussman |
+| Sat, 29 Aug 2026 | HOUSE OF REKIDS: Radio Slave, Tal Fussman, Arthur Pringle | Marli, Radio Slave, Tal Fussman |
 | Sat, 5 Sept 2026 | Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira | Beste Hira, Freddy K |
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |

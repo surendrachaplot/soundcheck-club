@@ -10,7 +10,7 @@ POPU is a techno and house artist tracked on soundcheck, with 79 sets logged acr
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2) | Vancouver |
 | Fri, 28 Aug 2026 | TBA - Outdoor Location | Vancouver |
-| Sat, 5 Sept 2026 | TBA - Secret Location | Vancouver |
+| Sat, 12 Sept 2026 | TBA - Secret Location | Vancouver |
 | Sat, 10 Oct 2026 | TBA | Vancouver |
 
 ## Recently played

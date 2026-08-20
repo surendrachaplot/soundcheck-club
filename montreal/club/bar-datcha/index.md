@@ -11,8 +11,8 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming nights,
 | Thu, 20 Aug 2026 | Hey: Albert with Andrea de Tour, DJ Romeo | Andrea de Tour, HEY: ALBERT |
 | Fri, 21 Aug 2026 | Rave It Like the 90s: Donotstealmyname, Anabasine, Lex Ferenda | Anabasine, Donotstealmyname, Lex Ferenda |
 | Sat, 22 Aug 2026 | Seer Records with Ficilio (TO) B2B Emiliano C & Mathew909  | Emiliano Chamandy, Ficilio, Pierre Kwenders |
-| Thu, 27 Aug 2026 | Smile because it happened.. Une soirée avec Patrick, DJ Mignon & Keywatch | key watch |
-| Fri, 28 Aug 2026 | Vasimolo (Sammy & Sami) and Alina (Ferias) | Alina (MTL), Vasimolo |
+| Thu, 27 Aug 2026 | Smile because it happened.. Une soirée avec Patrick, DJ Mignon & Keywatch | Patrick (6), key watch |
+| Fri, 28 Aug 2026 | Vasimolo and Alina (Ferias) | Alina (MTL), Vasimolo |
 | Sat, 29 Aug 2026 | MRKTBEATZ, Datcha tonight queen, Gwinestefani |  |
 | Thu, 3 Sept 2026 | Colombia Fundraiser |  |
 | Fri, 4 Sept 2026 | Datcha NONSTOP: Inigo Vontier [MEX, Calypso Cult], Von Party, Ume, Nosh | Iñigo Vontier, Nosh, Thomas Von Party, UME (CAN) |

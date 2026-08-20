@@ -1,8 +1,8 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SEVENTH HEAVEN" on Fri, 21 Aug 2026.
+ZUBAR is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SEVENTH HEAVEN" on Fri, 21 Aug 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AKARI, Dsitb, Futa and Kazu and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Abura, AKARI, Dsitb and Emerson and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 

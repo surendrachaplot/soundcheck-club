@@ -1,13 +1,14 @@
 # Mikeb
 
-Mikeb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Mikeb is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Zuco Roosdaal, Brussels on Sat, 5 Sept 2026.
 
-Mikeb is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles and Sanfrancisco. Often billed alongside Chemtrail Johnny, Hazy and JUAAN. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
+Mikeb is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Brussels, Losangeles and Sanfrancisco. Often billed alongside Chemtrail Johnny, Hazy and JUAAN. Next up: Zuco Roosdaal, Brussels on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Zuco Roosdaal | Brussels |
 | Sat, 12 Sept 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played

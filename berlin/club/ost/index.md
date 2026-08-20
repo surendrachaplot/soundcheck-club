@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Savory - Charleen Herzig & Friends" on Thu, 20 Aug 2026.
+OST is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Savory - Charleen Herzig & Friends" on Thu, 20 Aug 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and Alex Farell and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
@@ -17,7 +17,7 @@ OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 | Sun, 30 Aug 2026 | EPS x OST Afterparty | Katy Rough, senaitstar |
 | Thu, 3 Sept 2026 | Savory - Techno Every Thursday | Megaira, OnlyWithYou, TMS (Dj) |
 | Fri, 4 Sept 2026 | MAYHEM x OST w. ALT8, Krl Mx | ALT8, Antonym, GM1 (IT), Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
-| Thu, 10 Sept 2026 | Savory - Techno Every Thursday | Carotin, KEROSENE (ZA) |
+| Sat, 5 Sept 2026 | OST Klubnacht |  |
 
 ## Address
 

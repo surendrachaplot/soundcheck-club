@@ -1,10 +1,10 @@
 # MISCAST: Nowhere To Wear at TRANSMISSION DC
 
-MISCAST: Nowhere To Wear at TRANSMISSION DC on Sat 22 Aug, Washingtondc. 4 acts on the bill: ILUSM, JACKIECHANSDOG, LowNotes and Ryan Almoete Bo. Club. Preview the line-up and save it on soundcheck.
+MISCAST: Nowhere To Wear at TRANSMISSION DC on Sat 29 Aug, Washingtondc. 4 acts on the bill: ILUSM, JACKIECHANSDOG, LowNotes and Ryan Almoete Bo. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 22 Aug 2026 |
+| Date | Sat, 29 Aug 2026 |
 | Venue | TRANSMISSION DC |
 | City | Washington DC |
 

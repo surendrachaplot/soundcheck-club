@@ -1,8 +1,8 @@
 # Freddi
 
-Freddi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Freddi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside Gerardo Niva, OLIVIA LENSEN and Lisa Korver. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
+Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside Gerardo Niva, OLIVIA LENSEN and Lisa Korver. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Freddi is a house and techno artist based in Netherlands, tracked on soundcheck,
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 26 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 26 Sept 2026 | Mondo | Madrid |
+| Sat, 10 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 

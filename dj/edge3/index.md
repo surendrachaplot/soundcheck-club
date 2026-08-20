@@ -1,13 +1,14 @@
 # Edge <3
 
-Edge <3 is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Brixtonia Lounge, London on Thu, 27 Aug 2026.
+Edge <3 is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dalston Den, London on Fri, 21 Aug 2026.
 
-Edge <3 is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside DubFreq (2), Eche. and Agility. Next up: Brixtonia Lounge, London on Thu 27 Aug.
+Edge <3 is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Agility, Bryn Brax and DubFreq (2). Next up: Dalston Den, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Dalston Den | London |
 | Thu, 27 Aug 2026 | Brixtonia Lounge | London |
 
 ## Recently played
@@ -21,6 +22,6 @@ Edge <3 is a dubstep and garage artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-DubFreq (2), Eche., Agility
+Agility, Bryn Brax, DubFreq (2)
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*

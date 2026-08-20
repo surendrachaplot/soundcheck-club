@@ -1,13 +1,14 @@
 # Kane Solo
 
-Kane Solo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Kane Solo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
-Kane Solo is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across London and Malta. Often billed alongside Saf Mitchell, LUUD and Finn Eddy. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Kane Solo is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London and Malta. Often billed alongside Saf Mitchell, LUUD and Finn Eddy. Next up: Studio 338, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Studio 338 | London |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played

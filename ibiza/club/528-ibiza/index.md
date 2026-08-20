@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Andy Baxter, Jason Bye, Jo Mills, Slipmatt, Tall Paul |
 | Sun, 23 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 23.08 / Bob Moses, Henrik Schwarz (Live) | Bob Moses, Cristina Tosio, Henrik Schwarz, Julia Sandstorm, Landikhan, Omer Tayar, SHARE (NL) |
-| Tue, 25 Aug 2026 | PIKES PRESENTS AT 528 WITH Nightmares on Wax | Mr Scruff, Nightmares on Wax |
+| Tue, 25 Aug 2026 | PIKES PRESENTS AT 528 WITH Nightmares on Wax | Colleen 'Cosmo' Murphy, JKriv, Mr Scruff, Nightmares on Wax, Samsön |
 | Sat, 29 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS CLOSING | Allister Whitehead, Clara Da Costa, Jason Bye, K-Klass, Sarah Main |
 | Sun, 30 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 30.08 / WhoMadeWho, Mind Against | JANE RYSE, Mind Against, WhoMadeWho |
 | Tue, 1 Sept 2026 | PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa | Bushwacka!, Eris Drew, Faited, GIDEÖN, Octo Octa, Sally C |

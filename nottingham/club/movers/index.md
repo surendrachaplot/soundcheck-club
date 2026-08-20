@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Selectors: Alex Traska [Loose Joints] - two for 14 cocktails + wine deals" on Thu, 20 Aug 2026.
+Movers is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Selectors: Alex Traska [Loose Joints] - two for 14 cocktails + wine deals" on Thu, 20 Aug 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 12 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jamz Supernova and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 

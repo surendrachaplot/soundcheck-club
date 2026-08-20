@@ -16,7 +16,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming n
 | Sat, 29 Aug 2026 | Rote Sonne x Bahnwärter Thiel Open Air & Club | 9LALEY, Alicea, Anna Ullrich, Confusion, DJ Mischkonsum, DJ SUSI, DJ Yugo, FJUSHA, IZZYA, MASSAGIO, Oliver Albach, Roshan, SloMo, buuo, suki, ÆNZØ |
 | Thu, 3 Sept 2026 | 135+ mit Uhrwerk der Nacht & 808 Kollektive | JACID |
 | Fri, 4 Sept 2026 | SYNTHX 3 Year Anniversary | ANASTASÍA, Jan Minnerup, MBREKK, NAGINI, Praun, TONA, Vaneska, ÆNN |
-| Sat, 5 Sept 2026 | Wannda Circus Closing / Bahnwärter Edition | Cottí Larje, Käthe & Haes, Nhii, vivi |
+| Sat, 5 Sept 2026 | Wannda Circus Closing / Bahnwärter Edition | Cottí Larje, Käthe & Haes, Nhii, VIVI (DE), vivi |
 | Sat, 5 Sept 2026 | Vegan Beats - Das erste vegane Festival Süddeutschlands |  |
 
 ## Address

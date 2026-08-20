@@ -1,14 +1,15 @@
 # Cybersex
 
-Cybersex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at BASIS, Utrecht on Sat, 5 Sept 2026.
+Cybersex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at BASIS, Utrecht on Sat, 5 Sept 2026.
 
-Cybersex is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside TEKNA, Azyr and Blasha & Allatt. Next up: BASIS, Utrecht on Sat 5 Sept.
+Cybersex is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside TEKNA, Azyr and Blasha & Allatt. Next up: BASIS, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | BASIS | Utrecht |
+| Sat, 26 Sept 2026 | OST | Berlin |
 
 ## Recently played
 

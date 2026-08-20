@@ -1,6 +1,6 @@
 # KAPITEL Berlin at Lokschuppen Berlin
 
-KAPITEL Berlin at Lokschuppen Berlin on Sat 3 Oct, Berlin. 5 acts on the bill: Anuuk, DonChoppa, EGE363 and SEKTOR69 and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+KAPITEL Berlin at Lokschuppen Berlin on Sat 3 Oct, Berlin. 6 acts on the bill: Anuuk, DOCTOR MÜCKE, DonChoppa and EGE363 and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KAPITEL Berlin at Lokschuppen Berlin on Sat 3 Oct, Berlin. 5 acts on the bill: A
 ## Line-up
 
 - Anuuk
+- DOCTOR MÜCKE
 - DonChoppa
 - EGE363
 - SEKTOR69

@@ -1,6 +1,6 @@
 # III Points 2026 at Mana Wynwood
 
-III Points 2026 at Mana Wynwood on Fri 16 Oct, Miami. 13 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, 999999999, Adam Port and Beltran and 9 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+III Points 2026 at Mana Wynwood on Fri 16 Oct, Miami. 218 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, 619!, 999999999 and AABEL and 214 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,17 +11,222 @@ III Points 2026 at Mana Wynwood on Fri 16 Oct, Miami. 13 acts on the bill: ¥ØU
 ## Line-up
 
 - ¥ØU$UK€ ¥UK1MAT$U
+- 619!
 - 999999999
+- AABEL
 - Adam Port
+- Ale Acosta
+- ALEJO (US)
+- Alexx in Chainss
+- Aphex Twink
+- Artime
+- Ashley Venom
+- B0YG1RL
+- Baby Jesus
+- Bakke
+- Bassvictim
 - Beltran
 - Ben Sterling
+- Berrakka
+- Bill Patrick
+- Blood Orange
+- Bonita Applebumz
+- Bort
+- bozito
+- Bricolage
+- Brunello
+- Cami di Marzo
+- CHAOS!
+- Charlotte de Witte
+- ChaseWest
+- Cloonee
+- Coffintexts
+- Cole Knight
+- Connan Mockasin
+- Daizy
+- Danny Brown
+- Danny Daze
+- Danyelino
+- Daphni
+- David Vunk
+- DAY/DEM
+- Dean Turnley
+- Deep Cleansing
+- DIFFER
+- DJ D.Luxe
+- DJ Fuckoff
+- DJ Godfather
+- DJ Harvey
+- DJ Ray (2)
+- DJ SABI
+- DJ Three
+- DomnRob
+- Dr. Rubinstein
+- Duality (US)
+- Dude Skywalker
+- Eli Escobar
+- Elias Garcia
+- eveava
+- Extra Andrew
+- EZ Dee
+- feph
+- Fiin
+- FiNE
+- FIUZA (MX)
+- Floating Points
+- Flying Lotus
+- FORESEER
 - Four Tet
+- Franky Rizardo
+- Gabo Escalona
+- Generous B
+- Gio Elia
+- Grace Arribas
+- grant sabadash
+- GRUE5OME
+- gumthewrapper
+- HAAi
+- Hamdi (UK)
+- HAZÓN
+- Heidi Lawden
+- Honey Dijon
 - horsegiirL
+- Idriss D
+- Inbal
+- Interplanetary Criminal
+- INVT
+- Ivy Lab
+- Jacques Greene
+- Jane Remover
+- Jason Rault
+- JBZ
+- Jeremy Ismael
+- Jinks
+- Joanna Kuchta
+- Joss Dean
+- JOVIGIBS
+- Jubilee
+- Julia Saturno
+- Jump Source
+- Katie Ox
 - Kelela
+- KETTAMA
 - KI/KI
+- KinAhau
+- KUJO (US)
+- Kumi
+- La BB
+- Lady Narcisse
+- Lotusoph
+- Loukeman
+- Lousy Lover
+- Luke Dean_
+- Lupreme
+- Machine Girl
+- Madison Kay
+- Maher Daniel
+- Malone
+- Mango
+- Marco Carola
+- Marie Qrie
+- Marsolo
+- Marte
+- Mary Droppinz
+- Max Dean
+- Max Stern
+- Max Styler
+- Meghan Lee
+- MEGUSTA
+- Miguel Clark
+- Mila Gama
+- Milo Ziro
+- Monoky (2)
+- Moscoman
+- MPH (1)
+- Mr. Bitch
+- Mr. Tron
+- Ms. Mada
+- Mutant Pete
+- Mystic Bill
+- Naim Zarzour
+- Nat Siriani
+- Natalia Roth
+- Nicholas G. Padilla
+- Nick León
+- Nicole Gallamini
+- Nii Tei
+- Nikita Green
+- oma totem
+- OMRI.
+- p1no
+- Patch+
 - PAWSA
+- Peach
+- Pezlo MD
+- phiphi
+- Pressure Point (US)
+- PROLETAR
+- Puma (US)
+- Purity Ring
+- R/V Calypso
+- Racci
+- Rafael
+- RAJE
+- RARA (US)
+- Rebolledo
+- Red Axes
+- Rello
+- Rimaye
+- Robyn Sin Love
+- Roman Flügel
+- Romulo Del Castillo
+- RUDE BOY (US)
+- Safety Trance
+- Sam Alfred
+- SANTO
+- Saraga
+- SATURNSARii
+- SDRV
+- Sel.6
+- serafitz
+- Seth Troxler
+- Shanti Celeste
+- Shinobi
+- Shir Miya
+- SIEGEL (2)
+- Silvie Loto
+- Sister System
+- slugg
+- Sosa
+- Souls Departed
+- Spice Crime
+- Sunn O)))
+- Suz
+- Taimur
+- Terence Tabeau
+- Thunderpony
+- Tiffy Vera
+- Tiga
 - Tokischa
 - Tricky
+- Trippie Hippie (US)
+- True Vine
+- Uchi
+- Ultrathem
 - Underworld
+- v1fro
+- Vintage Culture
+- Violeta
+- Viva Vidal
+- vsyana
+- VTSS
+- Whitesquare
+- Will Buck
+- Will Renuart
+- Winter Wrong
+- x3butterfly
+- Xilla
+- YHWH Nailgun
+- ZEP (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2428241-iii-points-2026-at-mana-wynwood/)*

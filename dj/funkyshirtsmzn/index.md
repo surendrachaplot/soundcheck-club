@@ -9,7 +9,7 @@ Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
-| Sat, 5 Sept 2026 | Studio Stereo | Barcelona |
+| Sat, 5 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 

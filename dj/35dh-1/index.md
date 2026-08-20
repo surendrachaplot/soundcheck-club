@@ -1,8 +1,8 @@
 # 35DH-1
 
-35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Saloon, Tokyo on Sat, 22 Aug 2026.
+35DH-1 is a Amapiano and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Saloon, Tokyo on Sat, 22 Aug 2026.
 
-35DH-1 is an amapiano and techno artist based in Japan, tracked on soundcheck, with 161 sets logged across Tokyo. Often billed alongside Echigo, Arao and SN_Yeah. Next up: Saloon, Tokyo on Sat 22 Aug.
+35DH-1 is an amapiano and techno artist based in Japan, tracked on soundcheck, with 162 sets logged across Tokyo. Often billed alongside Echigo, Arao and SN_Yeah. Next up: Saloon, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Saloon | Tokyo |
 | Sun, 23 Aug 2026 | Dogenzaka Church | Tokyo |
+| Sun, 30 Aug 2026 | Dogenzaka Church | Tokyo |
 
 ## Recently played
 

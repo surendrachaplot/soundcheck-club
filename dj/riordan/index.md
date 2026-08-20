@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
+Riordan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 5 Sept 2026.
 
-Riordan is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: [UNVRS], Ibiza on Wed 19 Aug.
+Riordan is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Ushuaïa Ibiza, Ibiza on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 9 Oct 2026 | 1015 Folsom | San Francisco/Oakland |

@@ -1,14 +1,15 @@
 # RAJE
 
-RAJE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Floyd, Miami on Fri, 4 Sept 2026.
+RAJE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Floyd, Miami on Fri, 4 Sept 2026.
 
-RAJE is a house and tech house artist tracked on soundcheck, with 17 sets logged across Leeds, London, Losangeles and Miami. Often billed alongside salameh, ALISHA and JACK MARLOW. Next up: Floyd, Miami on Fri 4 Sept.
+RAJE is a house and tech house artist tracked on soundcheck, with 18 sets logged across Leeds, London, Losangeles and Miami. Often billed alongside salameh, slugg and ALISHA. Next up: Floyd, Miami on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Floyd | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -24,6 +25,6 @@ RAJE is a house and tech house artist tracked on soundcheck, with 17 sets logged
 
 ## Shares bills with
 
-salameh, ALISHA, JACK MARLOW
+salameh, slugg, ALISHA
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*

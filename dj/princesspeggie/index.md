@@ -1,8 +1,8 @@
 # Princess Peggie
 
-Princess Peggie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Rawhide, New York City on Fri, 28 Aug 2026.
+Princess Peggie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Rawhide, New York City on Fri, 28 Aug 2026.
 
-Princess Peggie is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Miami and Newyorkcity. Often billed alongside Miss Parker, DAIYAH and Byrell The Great. Next up: Club Rawhide, Newyorkcity on Fri 28 Aug.
+Princess Peggie is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Miami and Newyorkcity. Often billed alongside Miss Parker, DAIYAH and Byrell The Great. Next up: Club Rawhide, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Princess Peggie is a techno and house artist based in United States of America, 
 | Fri, 28 Aug 2026 | Club Rawhide | New York City |
 | Fri, 4 Sept 2026 | Qncc | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
+| Fri, 18 Sept 2026 | 100 Sutton Studios | New York City |
 
 ## Recently played
 

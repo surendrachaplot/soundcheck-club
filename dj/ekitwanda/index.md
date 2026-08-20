@@ -1,8 +1,8 @@
 # Ekitwanda
 
-Ekitwanda is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Daomé, Montreal on Thu, 3 Sept 2026.
+Ekitwanda is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Daomé, Montreal on Thu, 3 Sept 2026.
 
-Ekitwanda is a techno and club artist tracked on soundcheck, with 37 sets logged across Montreal. Often billed alongside Monsieurmadam, BLANKET and LaFHomme. Next up: Salon Daomé, Montreal on Thu 3 Sept.
+Ekitwanda is a techno and club artist tracked on soundcheck, with 38 sets logged across Montreal. Often billed alongside Monsieurmadam, BLANKET and LaFHomme. Next up: Salon Daomé, Montreal on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ekitwanda is a techno and club artist tracked on soundcheck, with 37 sets logged
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Salon Daomé | Montreal |
 | Thu, 3 Sept 2026 | Salon Daomé | Montreal |
+| Sat, 26 Sept 2026 | ESC | Montreal |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Just Modular at 303 at 303 Audiophile Bar
 
-Just Modular at 303 at 303 Audiophile Bar on Sat 12 Sept, Barcelona. 1 act on the bill: Selten. Techno. Preview the line-up and save it on soundcheck.
+Just Modular at 303 at 303 Audiophile Bar on Sat 12 Sept, Barcelona. 3 acts on the bill: ICKX, Selten and Waveratio 618. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Just Modular at 303 at 303 Audiophile Bar on Sat 12 Sept, Barcelona. 1 act on th
 
 ## Line-up
 
+- ICKX
 - Selten
+- Waveratio 618
 
 *Source: [soundcheck](https://soundcheck.club/e/2501905-just-modular-at-303-at-303-audiophile-bar/)*

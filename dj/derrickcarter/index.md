@@ -1,8 +1,8 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at smartbar, Chicago on Sun, 23 Aug 2026.
+Derrick Carter is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at smartbar, Chicago on Sun, 23 Aug 2026.
 
-Derrick Carter is a house and disco artist tracked on soundcheck, with 311 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: smartbar, Chicago on Sun 23 Aug.
+Derrick Carter is a house and disco artist tracked on soundcheck, with 312 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: smartbar, Chicago on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 311 sets 
 | Sun, 20 Sept 2026 | smartbar | Chicago |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sun, 27 Sept 2026 | smartbar | Chicago |
+| Sat, 10 Oct 2026 | Knockdown Center | New York City |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played

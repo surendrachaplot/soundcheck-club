@@ -1,14 +1,14 @@
 # sohotsospicy
 
-sohotsospicy is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Manchester on Fri, 2 Oct 2026.
+sohotsospicy is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
-sohotsospicy is a footwork and club artist tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Dublin and London and 1 more. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: TBA, Manchester on Fri 2 Oct.
+sohotsospicy is a footwork and club artist tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Dublin and London and 1 more. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: Rebellion, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Manchester |
+| Fri, 2 Oct 2026 | Rebellion | Manchester |
 
 ## Recently played
 

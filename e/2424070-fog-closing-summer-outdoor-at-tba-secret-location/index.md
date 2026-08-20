@@ -1,10 +1,10 @@
 # FOG: Closing Summer - Outdoor at TBA - Secret Location
 
-FOG: Closing Summer - Outdoor at TBA - Secret Location on Sat 5 Sept, Vancouver. 7 acts on the bill: Bronsön, David Alcaniz, DK PAU and Fizch and 3 more. Techno. Preview the line-up and save it on soundcheck.
+FOG: Closing Summer - Outdoor at TBA - Secret Location on Sat 12 Sept, Vancouver. 7 acts on the bill: Bronsön, David Alcaniz, DK PAU and Fizch and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Sept 2026 |
+| Date | Sat, 12 Sept 2026 |
 | Venue | TBA - Secret Location |
 | City | Vancouver |
 

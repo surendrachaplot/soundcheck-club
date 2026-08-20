@@ -1,14 +1,15 @@
 # ROW1
 
-ROW1 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
+ROW1 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
 
-ROW1 is a techno and trance artist tracked on soundcheck, with 13 sets logged across Antwerp, Barcelona, Basel and Berlin and 6 more. Often billed alongside NOVAH, Alycia Bezgo and CALLUSH. Next up: Edelfettwerk, Hamburg on Sun 30 Aug.
+ROW1 is a techno and trance artist tracked on soundcheck, with 14 sets logged across Antwerp, Barcelona, Basel and Berlin and 7 more. Often billed alongside NOVAH, CALLUSH and Alycia Bezgo. Next up: Edelfettwerk, Hamburg on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Edelfettwerk | Hamburg |
+| Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ROW1 is a techno and trance artist tracked on soundcheck, with 13 sets logged ac
 
 ## Shares bills with
 
-NOVAH, Alycia Bezgo, CALLUSH
+NOVAH, CALLUSH, Alycia Bezgo
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/row1/)*

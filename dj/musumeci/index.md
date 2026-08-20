@@ -1,13 +1,14 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+Musumeci is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Village Studios, Vancouver on Sat, 22 Aug 2026.
 
-Musumeci is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Kater, Berlin on Fri 4 Sept.
+Musumeci is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Village Studios, Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Village Studios | Vancouver |
 | Fri, 4 Sept 2026 | Kater | Berlin |
 | Sat, 5 Sept 2026 | Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1. | Krakow |
 

@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Agora: LWS b2b Gregor AM" on Thu, 20 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 33 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Agora: LWS b2b Gregor AM" on Thu, 20 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

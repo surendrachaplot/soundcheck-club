@@ -1,8 +1,8 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 13 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gabriela, New York City on Thu, 20 Aug 2026.
+Eli Escobar is a House and Electro artist with 14 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gabriela, New York City on Thu, 20 Aug 2026.
 
-Eli Escobar is a house and electro artist tracked on soundcheck, with 536 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, Newyorkcity on Thu 20 Aug.
+Eli Escobar is a house and electro artist tracked on soundcheck, with 537 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 536 sets l
 | Sat, 19 Sept 2026 | Floyd | Miami |
 | Fri, 2 Oct 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

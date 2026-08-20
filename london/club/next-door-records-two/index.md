@@ -8,7 +8,7 @@ Next Door Records Two is a music venue in London listed on soundcheck. 5 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Segment |  |
+| Fri, 21 Aug 2026 | Segment | Shiela. |
 | Sat, 29 Aug 2026 | Bad Intentions x MASS: Bank Holiday Special - FREE ENTRY | Joe Howey, Layson, Marlon Baleci |
 | Fri, 4 Sept 2026 | Zest Door Records | KOSIE, Malwen, Martita, Raab, Roy McKilljoy |
 | Sat, 5 Sept 2026 | SIBLING at NEXT DOOR RECORDS 2 | Hen Borton, MAÏS, QWAK |

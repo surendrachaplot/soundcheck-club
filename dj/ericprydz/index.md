@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 2 Sept 2026.
+Eric Prydz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 2 Sept 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Amnesia Ibiza, Ibiza on Wed 2 Sept.
+Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 101 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Amnesia Ibiza, Ibiza on Wed 2 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Gaswrx Birmingham | London |
 | Sat, 17 Oct 2026 | Depot Mayfield | Manchester |
+| Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | Tap1 | Copenhagen |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Pier 48's Shed A | San Francisco/Oakland |

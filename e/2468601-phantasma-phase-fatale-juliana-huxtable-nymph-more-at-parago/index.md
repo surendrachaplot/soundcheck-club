@@ -1,6 +1,6 @@
 # Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE at Paragon
 
-Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE at Paragon on Sat 22 Aug, Newyorkcity. 10 acts on the bill: Bodegaparty, Daniro, jo_sway and Juliana Huxtable and 6 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE at Paragon on Sat 22 Aug, Newyorkcity. 11 acts on the bill: Bodegaparty, Daniro, jo_sway and Juliana Huxtable and 7 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE at Paragon on Sat 22 Aug
 - Juliana Huxtable
 - NoahG
 - Nymph (NY)
+- Nymphostar
 - Phase Fatale
 - purp
 - shekdash

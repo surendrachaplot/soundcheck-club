@@ -15,7 +15,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nig
 | Thu, 27 Aug 2026 | SUMMER HEROES: Open Air with WHO ELSE | Belu Rodriguez, MøønkiZa, Uri Mood, WHO ELSE |
 | Fri, 28 Aug 2026 | Poly-Rythmo Club meets La Terrrazza | Disgonuts, JKriv, Sonido Tupinamba |
 | Sat, 29 Aug 2026 | Happy Techno at La Terrrazza Barcelona - Open Air / Daytime | Lexlay, Pirupa, Shitake |
-| Sat, 29 Aug 2026 | Club Inferno x LOVEANG3L | Upper90 |
+| Sat, 29 Aug 2026 | Club Inferno  | Marcelo Pantani, Upper90 |
 | Thu, 3 Sept 2026 | Soundset Sessions with WOLTERS | WOLTERS |
 | Sat, 5 Sept 2026 | Jackies Open Air Daytime w/ Gerd Janson (Open To Close) | Gerd Janson |
 

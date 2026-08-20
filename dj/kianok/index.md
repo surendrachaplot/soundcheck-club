@@ -9,7 +9,7 @@ Kian OK is a house and techno artist based in United Kingdom, tracked on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gaffe | London |
-| Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
+| Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 
 ## Recently played

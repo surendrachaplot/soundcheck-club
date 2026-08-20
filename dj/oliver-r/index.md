@@ -9,7 +9,7 @@ Oliver.r is a house and tech house artist based in United Kingdom, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | 45 London | London |
-| Sat, 17 Oct 2026 | Night Tales | London |
+| Sat, 17 Oct 2026 | Arch 14 | London |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 
 ## Recently played

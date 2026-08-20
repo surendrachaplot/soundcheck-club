@@ -1,23 +1,23 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Lamb" on Tue, 1 Sept 2026.
+Cinetol is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BUTZEMAN'S DEN" on Fri, 28 Aug 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Camy Huot, Deep Forest, echofarmer and Entrp and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including AFAR, Camy Huot, Deep Forest and echofarmer and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | BUTZEMAN'S DEN |  |
 | Tue, 1 Sept 2026 | Lamb | Lamb |
 | Tue, 8 Sept 2026 | Zoë Low |  |
+| Tue, 15 Sept 2026 | Concrete Vehicles |  |
+| Thu, 17 Sept 2026 | Detente Group |  |
+| Fri, 18 Sept 2026 | Too Martian |  |
+| Thu, 24 Sept 2026 | GB |  |
+| Fri, 25 Sept 2026 | HALLOWS + Orus Boris + Grauzone DJ team |  |
 | Sat, 26 Sept 2026 | Shadowfall Festival 2026 | Camy Huot, Entrp |
-| Tue, 6 Oct 2026 | Deep Forest | Deep Forest |
-| Sat, 17 Oct 2026 | Sergeant |  |
-| Sun, 18 Oct 2026 | Born at Midnite |  |
-| Thu, 22 Oct 2026 | Niels Orens support: echofarmer | Niels Orens, echofarmer |
-| Wed, 28 Oct 2026 | Velocity Made Good | Velocity Made Good |
-| Wed, 28 Oct 2026 | Velocity Made Good | Velocity Made Good |
-| Sun, 8 Nov 2026 | Loveth Besamoh + I Love You Honey Bunny |  |
+| Wed, 30 Sept 2026 | AFAR | AFAR |
 
 ## Address
 

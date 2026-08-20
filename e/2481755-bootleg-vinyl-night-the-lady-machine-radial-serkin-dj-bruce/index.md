@@ -1,11 +1,11 @@
-# Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee at TBA
+# Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee at DETROIT CLUB
 
-Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee at TBA on Fri 4 Sept, Barcelona. 4 acts on the bill: DJ Bruce Lee, Radial, Serkin and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
+Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee at DETROIT CLUB on Fri 4 Sept, Barcelona. 4 acts on the bill: DJ Bruce Lee, Radial, Serkin and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 4 Sept 2026 |
-| Venue | TBA |
+| Venue | DETROIT CLUB |
 | City | Barcelona |
 
 ## Line-up

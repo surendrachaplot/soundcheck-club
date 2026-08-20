@@ -9,7 +9,7 @@ Serkin is a techno and electronica artist based in Spain, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Moog Club | Barcelona |
-| Fri, 4 Sept 2026 | TBA | Barcelona |
+| Fri, 4 Sept 2026 | DETROIT CLUB | Barcelona |
 | Wed, 16 Sept 2026 | Moog Club | Barcelona |
 
 ## Recently played

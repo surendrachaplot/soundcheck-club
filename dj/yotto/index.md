@@ -1,8 +1,8 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 22 Aug 2026.
+Yotto is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 22 Aug 2026.
 
-Yotto is a progressive house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 22 Aug.
+Yotto is a progressive house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 100 s
 | Sat, 22 Aug 2026 | TBA - Mandarine Tent, Punta Carrasco | Buenos Aires |
 | Fri, 4 Sept 2026 | Marble Bar | Detroit |
 | Sat, 3 Oct 2026 | Digital | Newcastle |
+| Sat, 17 Oct 2026 | Bootshaus | Cologne |
 | Sat, 24 Oct 2026 | De Kromhouthal | Amsterdam |
 
 ## Recently played

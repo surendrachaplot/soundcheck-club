@@ -1,13 +1,14 @@
 # Jossy Mitsu
 
-Jossy Mitsu is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
+Jossy Mitsu is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Love Inn, Bristol on Fri, 11 Sept 2026.
 
-Jossy Mitsu is a techno and bass artist tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Bangkok and Belfast and 27 more. Often billed alongside Bluetoof, BLUMITSU and Neffa-T. Next up: Ormside Projects, London on Sat 19 Sept.
+Jossy Mitsu is a techno and bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Bangkok and Belfast and 27 more. Often billed alongside Bluetoof, BLUMITSU and Neffa-T. Next up: The Love Inn, Bristol on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | The Love Inn | Bristol |
 | Sat, 19 Sept 2026 | Ormside Projects | London |
 
 ## Recently played

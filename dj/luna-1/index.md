@@ -1,14 +1,13 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 19 Aug 2026.
+Luna (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lofi, Amsterdam on Sat, 3 Oct 2026.
 
-Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Bangkok and Budapest and 12 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Chinois Ibiza, Ibiza on Wed 19 Aug.
+Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Bangkok and Budapest and 12 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Lofi, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played

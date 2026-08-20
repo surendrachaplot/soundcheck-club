@@ -1,8 +1,8 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Prince Consort, Brisbane on Fri, 21 Aug 2026.
+Miley Serious is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Prince Consort, Brisbane on Fri, 21 Aug 2026.
 
-Miley Serious is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: The Prince Consort, Brisbane on Fri 21 Aug.
+Miley Serious is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: The Prince Consort, Brisbane on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 163 sets 
 | Fri, 21 Aug 2026 | The Prince Consort | Brisbane |
 | Sat, 5 Sept 2026 | Rex Club | Paris |
 | Sun, 20 Sept 2026 | The Cause | London |
+| Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Paragon | New York City |
 
 ## Recently played

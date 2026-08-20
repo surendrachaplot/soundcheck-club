@@ -1,14 +1,15 @@
 # Blood Orange
 
-Blood Orange is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Blood Orange is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-Blood Orange is an electronic artist based in United States of America, tracked on soundcheck, with 5 sets logged across Copenhagen, London, Paris and Turin. Often billed alongside A. G. Cook, Mechatok and Smerz. Next up: Southwark Park, London on Sat 29 Aug.
+Blood Orange is an electronica and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Copenhagen, London, Miami and Paris and 1 more. Often billed alongside YHWH Nailgun, A. G. Cook and Floating Points. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Southwark Park | London |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Blood Orange is an electronic artist based in United States of America, tracked 
 
 ## Shares bills with
 
-A. G. Cook, Mechatok, Smerz
+YHWH Nailgun, A. G. Cook, Floating Points
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodorange/)*

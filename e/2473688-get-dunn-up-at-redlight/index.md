@@ -1,6 +1,6 @@
 # Get Dunn Up at Redlight
 
-Get Dunn Up at Redlight on Fri 28 Aug, Manchester. 3 acts on the bill: Dan Louder, Gareth Gray and Lashimba. House and Disco. Preview the line-up and save it on soundcheck.
+Get Dunn Up at Redlight on Fri 28 Aug, Manchester. 3 acts on the bill: Dan Louder, Gareth Gray and Lashimba. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

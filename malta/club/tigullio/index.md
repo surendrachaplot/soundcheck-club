@@ -1,8 +1,8 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Holy Rave Malta - Week #9" on Thu, 20 Aug 2026.
+Tigullio is a music venue in Malta with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Holy Rave Malta - Week #9" on Thu, 20 Aug 2026.
 
-Tigullio is a music venue in Malta listed on soundcheck. 3 upcoming nights, with line-ups including CMGA, Kingsmo, Naomi Baldacchino and ZENA (KR). Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
+Tigullio is a music venue in Malta listed on soundcheck. 4 upcoming nights, with line-ups including CHINO [AR], CMGA, Kingsmo and Naomi Baldacchino and 1 more. Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Tigullio is a music venue in Malta listed on soundcheck. 3 upcoming nights, with
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | The Holy Rave Malta - Week #9 | Kingsmo |
 | Thu, 27 Aug 2026 | The Holy Rave Malta - Week #10 | Kingsmo, Naomi Baldacchino, ZENA (KR) |
+| Sat, 29 Aug 2026 | The Abyss | CHINO [AR] |
 | Thu, 3 Sept 2026 | The Holy Rave Malta - Closing Party | CMGA, Kingsmo, Naomi Baldacchino |
 
 ## Address

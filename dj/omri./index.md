@@ -1,8 +1,8 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Loo Loo, Mexico City on Fri, 21 Aug 2026.
+OMRI. is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Loo Loo, Mexico City on Fri, 21 Aug 2026.
 
-OMRI. is a house and tech house artist tracked on soundcheck, with 66 sets logged across Austin, Barcelona, Brussels and Buenosaires and 15 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Loo Loo, Mexicocity on Fri 21 Aug.
+OMRI. is a house and tech house artist tracked on soundcheck, with 67 sets logged across Austin, Barcelona, Brussels and Buenosaires and 15 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Loo Loo, Mexicocity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 66 sets logge
 | Fri, 18 Sept 2026 | BERHTA | Washington DC |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |
 | Sat, 26 Sept 2026 | fabric | London |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

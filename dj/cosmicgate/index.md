@@ -1,8 +1,8 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 20 Aug 2026.
+Cosmic Gate is a Trance and Progressive House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 20 Aug 2026.
 
-Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Austin and Belfast and 25 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Noto Philadelphia, Philadelphia on Thu 20 Aug.
+Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Austin and Belfast and 26 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Noto Philadelphia, Philadelphia on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 | Sun, 13 Sept 2026 | Wolkezwei | Leipzig |
 | Sat, 19 Sept 2026 | Binks Yard | Nottingham |
 | Sat, 26 Sept 2026 | Academy LA | Los Angeles |
+| Sat, 17 Oct 2026 | Bootshaus | Cologne |
 | Sun, 8 Nov 2026 | Superior Ingredients | New York City |
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
 

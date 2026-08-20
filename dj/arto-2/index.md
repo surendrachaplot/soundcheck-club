@@ -1,14 +1,15 @@
 # Arto (2)
 
-Arto (2) is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 3 Sept 2026.
+Arto (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 3 Sept 2026.
 
-Arto (2) is a house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside dj bootymagic, Anton Goltermann and Jake Mckay. Next up: H15 Scene & Studio, Copenhagen on Thu 3 Sept.
+Arto (2) is a house and disco artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside dj bootymagic, Anton Goltermann and Jake Mckay. Next up: H15 Scene & Studio, Copenhagen on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | H15 Scene & Studio | Copenhagen |
+| Fri, 18 Sept 2026 | Copenhill | Copenhagen |
 
 ## Recently played
 

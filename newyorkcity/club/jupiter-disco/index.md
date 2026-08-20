@@ -11,13 +11,13 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 25 upcoming 
 | Thu, 20 Aug 2026 | VISTA Album Release Party with Mantis Hands | Mantis Hands, Nicolò Bernardi, selacuna |
 | Fri, 21 Aug 2026 | The Jukeboxx: James Juke + Willy Soul | James Juke, Willy Soul |
 | Sat, 22 Aug 2026 | Mickey Perez All Night | Mickey Perez |
-| Sat, 22 Aug 2026 | señioritajuicy + Special Guests TBA |  |
 | Sun, 23 Aug 2026 | Sunday Bliss: La Reinarde, Miss Hapselam, Elephantglasses | Elephantglasses, La Reinarde |
 | Wed, 26 Aug 2026 | Jack Pompe + Special Guests TBA |  |
 | Thu, 27 Aug 2026 | Taj + Dj Practice  | Taj |
 | Fri, 28 Aug 2026 | Cecily & Heidy P | Dj incognito mode |
 | Sat, 29 Aug 2026 | Lauren Murada, Universal Cave, Women in STEM | Lauren Murada, Universal Cave |
 | Sun, 30 Aug 2026 | PUFF + Friends: Lou Isn't, LIONESSA, Boatneck | Boat Neck, LIONESSA, Lou Isn't, PUFF |
+| Wed, 2 Sept 2026 | synchroNYCity I: the dark side of the moon with Secret Grapes, SUPER WAV, tonton | SUPER WAV, Secret Grapes, tonton |
 
 ## Address
 

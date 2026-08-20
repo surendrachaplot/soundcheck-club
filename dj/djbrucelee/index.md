@@ -1,14 +1,14 @@
 # DJ Bruce Lee
 
-DJ Bruce Lee is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
+DJ Bruce Lee is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at DETROIT CLUB, Barcelona on Fri, 4 Sept 2026.
 
-DJ Bruce Lee is a techno and disco artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona and Madrid. Often billed alongside Ben Sims, Dafunkas and Amulador. Next up: TBA, Barcelona on Fri 4 Sept.
+DJ Bruce Lee is a techno and disco artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona and Madrid. Often billed alongside Ben Sims, Dafunkas and Amulador. Next up: DETROIT CLUB, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA | Barcelona |
+| Fri, 4 Sept 2026 | DETROIT CLUB | Barcelona |
 | Sat, 26 Sept 2026 | La Paloma | Barcelona |
 
 ## Recently played

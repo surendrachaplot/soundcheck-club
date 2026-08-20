@@ -1,14 +1,15 @@
 # Velasco
 
-Velasco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 27 Aug 2026.
+Velasco is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 27 Aug 2026.
 
-Velasco is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: arkaoda Berlin, Berlin on Thu 27 Aug.
+Velasco is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: arkaoda Berlin, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | arkaoda Berlin | Berlin |
+| Sat, 19 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Stage and Radio | Manchester |
 
 ## Recently played

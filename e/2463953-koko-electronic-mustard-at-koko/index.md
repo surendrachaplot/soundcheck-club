@@ -1,6 +1,6 @@
 # KOKO Electronic: Mustard at KOKO
 
-KOKO Electronic: Mustard on Sat 29 Aug, London. 1 act on the bill: DJ Mustard. Hip-Hop. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Mustard on Sat 29 Aug, London. 3 acts on the bill: DJ Mustard, Sir Spyro and Taylah Elaine. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ KOKO Electronic: Mustard on Sat 29 Aug, London. 1 act on the bill: DJ Mustard. H
 ## Line-up
 
 - DJ Mustard
+- Sir Spyro
+- Taylah Elaine
 
 *Source: [soundcheck](https://soundcheck.club/e/2463953-koko-electronic-mustard-at-koko/)*

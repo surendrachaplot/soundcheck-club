@@ -2,7 +2,7 @@
 
 UNLOCKED is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "AEG presents: Kenny Mason" on Thu, 27 Aug 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Carina Lawrence, Dosem, Eelke Kleijn and HARTY and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
@@ -15,7 +15,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming nights, wi
 | Sat, 5 Sept 2026 | The Soundgarden | Carina Lawrence, Eelke Kleijn, Lavie Au Soleil, Nick Warren, Sinca |
 | Fri, 2 Oct 2026 | Parable: KAS:ST at UNLOCKED | KAS:ST |
 | Sat, 3 Oct 2026 | High Fade presents 'Twice As Nice' London | High Fade |
-| Sat, 17 Oct 2026 | Parable: Dosem London Headline Show | Dosem |
+| Sat, 17 Oct 2026 | Dosem presents 'Passion' | Alythia Kwan, Dosem, My Friend |
 | Fri, 23 Oct 2026 | Sultan + Shepard (DJ) | Sultan + Shepard |
 | Fri, 30 Oct 2026 | Y U QT - UNLOCKED | Y U QT |
 

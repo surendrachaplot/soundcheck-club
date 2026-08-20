@@ -1,8 +1,8 @@
 # Marie Qrie
 
-Marie Qrie is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
+Marie Qrie is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
 
-Marie Qrie is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 35 sets logged across Miami and Newyorkcity. Often billed alongside SATURNSARii, Mauricio, The Invisible and Jonny From Space. Next up: TBA, Miami on Sat 5 Sept.
+Marie Qrie is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 36 sets logged across Miami and Newyorkcity. Often billed alongside SATURNSARii, Mauricio, The Invisible and Romulo Del Castillo. Next up: TBA, Miami on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marie Qrie is a techno and breakbeat artist based in United States of America, t
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Marie Qrie is a techno and breakbeat artist based in United States of America, t
 
 ## Shares bills with
 
-SATURNSARii, Mauricio, The Invisible, Jonny From Space
+SATURNSARii, Mauricio, The Invisible, Romulo Del Castillo
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marieqrie/)*

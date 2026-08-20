@@ -1,6 +1,6 @@
 # EMPATH 机械共生 at OIL Club
 
-EMPATH 机械共生 at OIL Club on Thu 20 Aug, Shenzhen. Garage and Acid. Preview the line-up and save it on soundcheck.
+EMPATH 机械共生 at OIL Club on Thu 20 Aug, Shenzhen. Acid and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

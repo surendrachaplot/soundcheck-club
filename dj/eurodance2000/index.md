@@ -1,17 +1,17 @@
 # Eurodance2000
 
-Eurodance2000 is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Wed, 19 Aug 2026.
+Eurodance2000 is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
-Eurodance2000 is a trance and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, OCIN and Scrappy Coco. Next up: Odonien, Cologne on Wed 19 Aug.
+Eurodance2000 is a trance and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, OCIN and Scrappy Coco. Next up: OST, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Odonien | Cologne |
 | Sat, 22 Aug 2026 | OST | Berlin |
 | Sat, 29 Aug 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Fri, 4 Sept 2026 | Schrotty | Cologne |
+| Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
+DJ Split is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
 
-DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Ido Toledano, AMANE and Alci. Next up: Refuge, Newyorkcity on Sat 29 Aug.
+DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Ido Toledano, AMANE and Alci. Next up: Refuge, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 | Sat, 29 Aug 2026 | Refuge | New York City |
 | Fri, 4 Sept 2026 | Standard Time | Toronto |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 19 Sept 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 

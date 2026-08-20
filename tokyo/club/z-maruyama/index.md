@@ -1,8 +1,8 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DAITOKAI" on Fri, 21 Aug 2026.
+Z Maruyama is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DAITOKAI" on Fri, 21 Aug 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including avion__, Chika Luna, CLESENT and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Paolo Ferrara, avion__, Calavera and CHIKA and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, wi
 | Sat, 5 Sept 2026 | NAO BIRTHDAY EDITION AT SYNTH | Nobuya, Rickey Shannon, YUXI, avion__ |
 | Fri, 11 Sept 2026 | MYSTIC PULSE | YOSHIROTTEN, dj yumi-cco |
 | Sat, 12 Sept 2026 | LOTUS | Nanlaze, Shingo Nakamura, Tuyetmizuno, cosmolady, hidemi |
+| Fri, 18 Sept 2026 | NERO PRESENTS Paolo Ferrara (HARD TECHNO/TECHNO) | CHIKA, Calavera, DALJAE, Paolo Ferrara |
 
 ## Address
 

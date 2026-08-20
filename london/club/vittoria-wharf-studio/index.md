@@ -10,7 +10,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcomin
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Bailey Ibbs (House Set) - Hybrid Events  | Bailey Ibbs |
 | Sun, 23 Aug 2026 | [FREE] Ossia Summer Day Party - Hackney Wick |  |
-| Sat, 29 Aug 2026 | TranceParty:Preflight |  |
+| Sat, 29 Aug 2026 | TranceParty:Preflight | Evian Christ, seretide |
 | Sat, 5 Sept 2026 | London Love Letter by Night | Amaliah, AmeliaBC, Danielle |
 | Sat, 5 Sept 2026 | Collide x Amaeo Label w/ SKALA & Theologos Day Party | Arnault, Greg Nox, Patrick Serhal, SKALA, Theologos |
 | Sat, 12 Sept 2026 | Amalfi Music x Bassic | Rhiavas, Wooka |

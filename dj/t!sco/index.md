@@ -1,14 +1,15 @@
 # T!SCO
 
-T!SCO is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 28 Aug 2026.
+T!SCO is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Little Neon Door, Shoreditch, London on Fri, 28 Aug 2026.
 
-T!SCO is a disco and house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside BRUIN (UK), Dan Cluskey and Haruka (UK). Next up: The Little Neon Door, Shoreditch, London on Fri 28 Aug.
+T!SCO is a disco and house artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside BRUIN (UK), Dan Cluskey and Haruka (UK). Next up: The Little Neon Door, Shoreditch, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Little Neon Door, Shoreditch | London |
+| Sat, 5 Sept 2026 | HWK | London |
 | Mon, 14 Sept 2026 | Cafe 1001 | London |
 
 ## Recently played

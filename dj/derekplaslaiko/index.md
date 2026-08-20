@@ -1,13 +1,14 @@
 # Derek Plaslaiko
 
-Derek Plaslaiko is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Derek Plaslaiko is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Process PDX, Portland on Fri, 4 Sept 2026.
 
-Derek Plaslaiko is a techno and acid artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Chicago, Denver and Detroit and 5 more. Often billed alongside Erika, Mike Servito and Patrick Russell. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Derek Plaslaiko is a techno and acid artist based in United States of America, tracked on soundcheck, with 42 sets logged across Berlin, Chicago, Denver and Detroit and 5 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Process PDX, Portland on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Process PDX | Portland |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Derek Plaslaiko is a techno and acid artist based in United States of America, t
 
 ## Shares bills with
 
-Erika, Mike Servito, Patrick Russell
+Erika, Mike Servito, BMG
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derekplaslaiko/)*

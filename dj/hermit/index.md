@@ -1,8 +1,8 @@
 # Hermit
 
-Hermit is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MV Pearl of London, London on Sat, 22 Aug 2026.
+Hermit is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MV Pearl of London, London on Sat, 22 Aug 2026.
 
-Hermit is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and BrassTooth. Next up: MV Pearl of London, London on Sat 22 Aug.
+Hermit is a house and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and BrassTooth. Next up: MV Pearl of London, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hermit is a house and garage artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | MV Pearl of London | London |
 | Sat, 12 Sept 2026 | Upper East | London |
+| Sat, 12 Sept 2026 | Basing House | London |
 
 ## Recently played
 

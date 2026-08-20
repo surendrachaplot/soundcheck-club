@@ -1,8 +1,8 @@
 # Sabura
 
-Sabura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Sabura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 103 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 104 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sabura is a techno and house artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 12 Sept 2026 | Fridas Pier | Stuttgart |
+| Sat, 19 Sept 2026 | Nachtigall | Cologne |
 
 ## Recently played
 

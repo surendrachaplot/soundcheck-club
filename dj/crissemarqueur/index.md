@@ -1,14 +1,15 @@
 # CrisseMarqueur
 
-CrisseMarqueur is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at ESC, Montreal on Thu, 20 Aug 2026.
+CrisseMarqueur is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ESC, Montreal on Thu, 20 Aug 2026.
 
-CrisseMarqueur is a techno and electro artist tracked on soundcheck, with 66 sets logged across Montreal and Toronto. Often billed alongside Pretty Privilege, Syana and Jade(MTL). Next up: ESC, Montreal on Thu 20 Aug.
+CrisseMarqueur is a techno and electro artist tracked on soundcheck, with 67 sets logged across Montreal and Toronto. Often billed alongside Pretty Privilege, Syana and Jade(MTL). Next up: ESC, Montreal on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | ESC | Montreal |
+| Sat, 26 Sept 2026 | ESC | Montreal |
 
 ## Recently played
 

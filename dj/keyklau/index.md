@@ -1,14 +1,15 @@
 # Keyklau
 
-Keyklau is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 21 Aug 2026.
+Keyklau is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 21 Aug 2026.
 
-Keyklau is a techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 21 Aug.
+Keyklau is a techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Madrid and Paris. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Wed, 16 Sept 2026 | Rex Club | Paris |
 
 ## Recently played
 

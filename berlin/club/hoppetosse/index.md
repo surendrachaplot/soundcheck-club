@@ -12,7 +12,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 7 upcoming nights, w
 | Sat, 22 Aug 2026 | coppi at Hoppetosse  | Balthazar Martinez, Carl Hang, Lask, Lucas Depta, Pino Peña, Pschukk, Salty DJ, Sevensol, Toni Pfad, Violetta (DE), ele uno |
 | Sun, 23 Aug 2026 | Analog meets Digital: rooftop hangout x djay Pro |  |
 | Fri, 11 Sept 2026 | 23 Jahre Betriebsfeier | BODYSHIFT, Carina Posse, Casimir von Oettingen, Coco, Elli Altenberger, Empro, Flo Pirke, Ida Daugaard, Jakob Seidensticker, Lucas Hulan, MELINA (3), Marco Resmann, Mona Moore, Roni Amitai, Scoopsi, Spencer Parker, Surreal (DE), The Reason Y, Tweaken |
-| Fri, 25 Sept 2026 | Musek Vol. VI | Francesco Farfa, Hamsa, Janina, Miki |
+| Fri, 25 Sept 2026 | Musek Vol. VII | Francesco Farfa, Hamsa, Janina, Miki |
 | Sat, 3 Oct 2026 | Yellow Mellow |  |
 | Fri, 9 Oct 2026 | Apricots' Jam |  |
 

@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 27 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "GABRIEL MUÑOZ B3B LASSE TOP B3B MEES MATTERN - ALL NIGHT (18+)" on Fri, 21 Aug 2026.
+BRET is a music venue in Amsterdam with 29 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "GABRIEL MUÑOZ B3B LASSE TOP B3B MEES MATTERN - ALL NIGHT (18+)" on Fri, 21 Aug 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 27 upcoming nights, with line-ups including Anz, Bennet, Bibi Seck and Children of Valis and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 29 upcoming nights, with line-ups including Anz, Bastienne, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 

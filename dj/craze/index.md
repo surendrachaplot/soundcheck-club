@@ -1,8 +1,8 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Substation, Seattle on Fri, 21 Aug 2026.
+Craze is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Substation, Seattle on Fri, 21 Aug 2026.
 
-Craze is a drum & bass and jungle artist tracked on soundcheck, with 56 sets logged across Amsterdam, Auckland, Austin and Boston and 15 more. Often billed alongside shinobi (US), Billy Daniel Bunter and Dillinja. Next up: Substation, Seattle on Fri 21 Aug.
+Craze is a drum & bass and jungle artist tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Austin and Boston and 15 more. Often billed alongside shinobi (US), Billy Daniel Bunter and Solartrak. Next up: Substation, Seattle on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Craze is a drum & bass and jungle artist tracked on soundcheck, with 56 sets log
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Substation | Seattle |
 | Thu, 29 Oct 2026 | Marble Bar | Detroit |
+| Sat, 31 Oct 2026 | Fire & Lightbox | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Craze is a drum & bass and jungle artist tracked on soundcheck, with 56 sets log
 
 ## Shares bills with
 
-shinobi (US), Billy Daniel Bunter, Dillinja
+shinobi (US), Billy Daniel Bunter, Solartrak
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

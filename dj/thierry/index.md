@@ -1,14 +1,15 @@
 # Thierry
 
-Thierry is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
+Thierry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
 
-Thierry is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside caLLy, Audio Werner and Chrissy Hope. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
+Thierry is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brussels and London. Often billed alongside caLLy, Audio Werner and Chrissy Hope. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Starlane Pizza Bar | London |
+| Sat, 5 Sept 2026 | Zuco Roosdaal | Brussels |
 
 ## Recently played
 

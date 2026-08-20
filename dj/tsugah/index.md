@@ -1,14 +1,15 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+T & Sugah is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Delta Heavy, Mozey and Pola & Bryson. Next up: UNO MALTA, Malta on Thu 3 Sept.
+T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Delta Heavy, Mozey and Pola & Bryson. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 4 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 19 Sept 2026 | The Woodshop | New York City |
 
 ## Recently played

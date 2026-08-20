@@ -1,6 +1,6 @@
 # GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky at Freight Brixton
 
-GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky at Freight Brixton on Sat 5 Sept, London. 3 acts on the bill: Chunky, DJ Perception and MJ Cole. Garage. Preview the line-up and save it on soundcheck.
+GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky at Freight Brixton on Sat 5 Sept, London. 5 acts on the bill: Baxtak, Chunky, DJ Perception and MJ Cole and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky at Freight Brixt
 
 ## Line-up
 
+- Baxtak
 - Chunky
 - DJ Perception
 - MJ Cole
+- Particles
 
 *Source: [soundcheck](https://soundcheck.club/e/2478497-ghost-of-garage-w-mj-cole-dj-perception-rich-reason-chunky-a/)*

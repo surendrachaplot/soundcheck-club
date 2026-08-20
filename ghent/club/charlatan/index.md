@@ -11,7 +11,7 @@ Charlatan is a music venue in Ghent listed on soundcheck. 5 upcoming nights, wit
 | Fri, 21 Aug 2026 | Resident Night - Carlamote & Mr. Noisy | Carlamote, Mr. Noisy |
 | Sat, 22 Aug 2026 | Glitterbox | Cosmo, Woodhead |
 | Sat, 29 Aug 2026 | RED D ALL NIGHT LONG | Red D |
-| Sat, 26 Sept 2026 | Loud Ladies | AM.I, AMARE, Cierk du Nuit, Doreen Van Steen |
+| Sat, 26 Sept 2026 | Loud Ladies Release Party | AM.I, AMARE, Cierk du Nuit, Doreen Van Steen |
 | Sat, 3 Oct 2026 | Vroeg Pieken |  |
 
 ## Address

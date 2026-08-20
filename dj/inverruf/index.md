@@ -1,8 +1,8 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+In Verruf is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
-In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: OST, Berlin on Sat 22 Aug.
+In Verruf is a techno and trance artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: OST, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets log
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Fri, 23 Oct 2026 | Gate Milano | Milan |
+| Sat, 31 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 

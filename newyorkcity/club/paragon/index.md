@@ -1,15 +1,15 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Funk Flex, Daniro, Eden + ALEXIS DE LA ROSA, Total XTC" on Fri, 21 Aug 2026.
+Paragon is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Funk Flex, Daniro, Eden + ALEXIS DE LA ROSA, Total XTC" on Fri, 21 Aug 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Adred, ALEXIS DE LA ROSA, Anna Eberg and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including Adred, ALEXIS DE LA ROSA, Anna Eberg and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Funk Flex, Daniro, Eden + ALEXIS DE LA ROSA, Total XTC | ALEXIS DE LA ROSA, Daniro, EDEN BEKELE, Total XTC |
-| Sat, 22 Aug 2026 | Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE | Bodegaparty, Daniro, Juliana Huxtable, NoahG, Nymph (NY), Phase Fatale, Tromac, jo_sway, purp, shekdash |
+| Sat, 22 Aug 2026 | Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE | Bodegaparty, Daniro, Juliana Huxtable, NoahG, Nymph (NY), Nymphostar, Phase Fatale, Tromac, jo_sway, purp, shekdash |
 | Fri, 28 Aug 2026 | Pressure: Randomer, Flores Negras, Juno + SLICK DOWN with De Schuurman | De Schuurman, Flores Negras, Juno (NY), Love Higher, Randomer, Simisola, wahala.wav |
 | Sat, 29 Aug 2026 | Paradiso: Todd Terry, Stonie Blue, Madre Guía + DAIYAH, Pure Immanence | DAIYAH, Madre Guía, Pure Immanence, Stonie Blue, Todd Terry |
 | Fri, 4 Sept 2026 | METALHEADZ: Goldie, Adred, Diverge + Anónima, LOKA | Adred, Anónima, Diverge, Goldie, LOKA (US) |

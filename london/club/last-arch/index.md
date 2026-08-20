@@ -16,7 +16,7 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, w
 | Thu, 10 Sept 2026 | BASTI // All Night Long | BASTI(UK) |
 | Fri, 11 Sept 2026 | MindOut Music presents: Lineup TBA |  |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
-| Sat, 26 Sept 2026 | Eargasm's 2nd Birthday (Night w/ Nic David) | Nic David |
+| Sat, 26 Sept 2026 | Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) | Nic David |
 | Fri, 2 Oct 2026 | REEK0 (All Night Long) |  |
 
 ## Address

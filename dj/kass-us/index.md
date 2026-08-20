@@ -1,14 +1,14 @@
 # Kass (US)
 
-Kass (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Eagle, London on Sat, 29 Aug 2026.
+Kass (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Eagle of Detroit, London on Sat, 29 Aug 2026.
 
-Kass (US) is a house and techno artist tracked on soundcheck, with 43 sets logged across Detroit, London and Sydney. Often billed alongside Tylr, Loren and Garrison XR. Next up: The Eagle, London on Sat 29 Aug.
+Kass (US) is a house and techno artist tracked on soundcheck, with 43 sets logged across Detroit, London and Sydney. Often billed alongside Tylr, Loren and Garrison XR. Next up: The Eagle of Detroit, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | The Eagle | London |
+| Sat, 29 Aug 2026 | The Eagle of Detroit | London |
 
 ## Recently played
 

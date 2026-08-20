@@ -9,7 +9,7 @@ Modeci is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | THIRDRAIL Vol.10 TR-1000 | DJ Jeyon, DJ Soulscape, Jangster, Kyuchan, Yoel, bojvck |
-| Sat, 22 Aug 2026 | CYU VOL. 3 | ANDOW, DJ Co.kr, FAKEDEEPLEE |
+| Sat, 22 Aug 2026 | CYU VOL. 3 [AFRO/LATIN/WORLD] | ANDOW, DJ Co.kr, FAKEDEEPLEE |
 | Thu, 27 Aug 2026 | Paprika | AMANE, Hayato, JAEHAN (2), Sota Shimada |
 | Sat, 29 Aug 2026 | Roll That Beat with Tres Vibes (JPN) | Boyoon, DJ PI-GE, Hyerang, Kikiorix, Kyper, Satoshi Otsuki |
 | Sat, 29 Aug 2026 | Roll That Beat x TRESVIBES SOUNDSYSTEM | BABY DON’T CRY, DJ PI-GE, Kikiorix, Kyper, Magico., Satoshi Otsuki |

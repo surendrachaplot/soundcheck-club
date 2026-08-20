@@ -1,8 +1,8 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ATRIP B2B DJ BORING" on Sat, 12 Sept 2026.
+Academy LA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ATRIP B2B DJ BORING" on Sat, 12 Sept 2026.
 
-Academy LA is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including AC Slater, ATRIP, Cosmic Gate and DJ BORING and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including AC Slater, ATRIP, Cosmic Gate and DJ BORING and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 6 upcoming night
 | Sat, 3 Oct 2026 | Rebūke |  |
 | Fri, 30 Oct 2026 | AC Slater (Halloween Weekend) | AC Slater |
 | Sat, 31 Oct 2026 | Morten (Halloween Night) | Morten |
+| Fri, 13 Nov 2026 | Angrybaby |  |
 
 ## Address
 

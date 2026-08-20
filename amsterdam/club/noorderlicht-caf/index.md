@@ -2,7 +2,7 @@
 
 Noorderlicht Café is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "A Funky Wicked Jazz Fest 2026" on Sat, 22 Aug 2026.
 
-Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Andre Kronert, Andrey Pushkarev, Another Taste and [ares] and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
+Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Alden Tyrell, Andre Kronert, Andrey Pushkarev and Another Taste and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 4 upcomin
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | A Funky Wicked Jazz Fest 2026 | Another Taste, Drabes, Kid Sublime, Lucas Benjamin, Rob Manga |
 | Sat, 26 Sept 2026 | BHAE Festival | Christoph Cham, Mitch Oliver, [ares] |
-| Sat, 24 Oct 2026 | Bordello A Parigi - ADE |  |
+| Sat, 24 Oct 2026 | Bordello A Parigi - ADE | Alden Tyrell, Budino, Daniel Monaco, John Noseda, Nunzio Borino |
 | Sun, 25 Oct 2026 | Berg Audio | Andre Kronert, Andrey Pushkarev, COZi, Celine Roman, Demuja, Lola Palmer, Priku, Satoshi Tomiie |
 
 ## Address

@@ -2,14 +2,14 @@
 
 Sigma is a music venue in Ibiza with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Episode 4" on Fri, 21 Aug 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with line-ups including Arnaud Le Texier, Francesco Menduni, Luigi Rossi and Marcelo Demarco and 1 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with line-ups including Arnaud Le Texier, Francesco Menduni, Luca P and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Episode 4 | Arnaud Le Texier, Marcelo Demarco, Santa Cruz |
-| Tue, 25 Aug 2026 | Indeep |  |
+| Tue, 25 Aug 2026 | Indeep | Luca P, Mik Santoro |
 | Thu, 27 Aug 2026 | Lines & Dots | Luigi Rossi |
 | Fri, 28 Aug 2026 | Makino Ibiza [Drum & Bass] with Teej, Andy Tudor, Arya, Noel Sonkwa & Sean Rudz |  |
 | Sun, 30 Aug 2026 | Bonus Sunday |  |

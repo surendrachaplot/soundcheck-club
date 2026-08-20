@@ -13,7 +13,7 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 | Fri, 28 Aug 2026 | Slayyyland: CAM GIRL, Vice, P_A_T | CAM GIRL, Vice |
 | Sat, 29 Aug 2026 | ABC Party: Sponges, N2N, Sarindipity | N2N (US), Sarindipity |
 | Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
-| Sat, 5 Sept 2026 | Glitterbox: Dam Swindle, Mike Dunn, Cosmo and More | Cosmo, Dam Swindle, Mike Dunn |
+| Sat, 5 Sept 2026 | Glitterbox: Dam Swindle, Mike Dunn, Cosmo, Dennis Free, Mesa, Nikita Green | Cosmo, Dam Swindle, Dennis Free, Mike Dunn, Nikita Green |
 | Fri, 11 Sept 2026 | VIRGO RISING |  |
 | Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
 | Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |

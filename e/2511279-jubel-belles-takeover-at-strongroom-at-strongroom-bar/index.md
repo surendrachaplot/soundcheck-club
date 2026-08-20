@@ -1,6 +1,6 @@
 # Jubel: BELLES Takeover at Strongroom at Strongroom Bar
 
-Jubel: BELLES Takeover at Strongroom at Strongroom Bar on Sat 12 Sept, London. Preview the line-up and save it on soundcheck.
+Jubel: BELLES Takeover at Strongroom at Strongroom Bar on Sat 12 Sept, London. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

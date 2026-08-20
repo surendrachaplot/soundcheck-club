@@ -1,8 +1,8 @@
 # Shaun J. Wright
 
-Shaun J. Wright is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at House of Yes, New York City on Fri, 21 Aug 2026.
+Shaun J. Wright is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at House of Yes, New York City on Fri, 21 Aug 2026.
 
-Shaun J. Wright is a house and techno artist tracked on soundcheck, with 191 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: House of Yes, Newyorkcity on Fri 21 Aug.
+Shaun J. Wright is a house and techno artist tracked on soundcheck, with 192 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: House of Yes, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shaun J. Wright is a house and techno artist tracked on soundcheck, with 191 set
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | House of Yes | New York City |
 | Sun, 30 Aug 2026 | smartbar | Chicago |
+| Fri, 4 Sept 2026 | smartbar | Chicago |
 | Sun, 6 Sept 2026 | smartbar | Chicago |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Sun, 27 Sept 2026 | smartbar | Chicago |

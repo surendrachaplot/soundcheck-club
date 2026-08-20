@@ -1,14 +1,15 @@
 # Alcantara
 
-Alcantara is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
+Alcantara is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
 
-Alcantara is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Detroit and Newyorkcity. Often billed alongside Jay Dalawa, LANSUH and Gabriel Etrata. Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
+Alcantara is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit and Newyorkcity. Often billed alongside Jay Dalawa, LANSUH and Gabriel Etrata. Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Dead Letter No. 9 | New York City |
+| Sat, 22 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 

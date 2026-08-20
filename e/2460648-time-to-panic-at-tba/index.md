@@ -1,6 +1,6 @@
 # Time To Panic at TBA
 
-Time To Panic at TBA on Fri 4 Sept, Barcelona. 1 act on the bill: ildec. Preview the line-up and save it on soundcheck.
+Time To Panic at TBA on Fri 4 Sept, Barcelona. 6 acts on the bill: Bouch, Ed Warner, ildec and Soliad and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,11 @@ Time To Panic at TBA on Fri 4 Sept, Barcelona. 1 act on the bill: ildec. Preview
 
 ## Line-up
 
+- Bouch
+- Ed Warner
 - ildec
+- Soliad
+- Walrus
+- Waveratio 618
 
 *Source: [soundcheck](https://soundcheck.club/e/2460648-time-to-panic-at-tba/)*

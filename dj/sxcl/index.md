@@ -9,7 +9,7 @@ SXCL is a house and techno artist based in France, tracked on soundcheck, with 4
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Blue Velvet | Berlin |
-| Fri, 28 Aug 2026 | TBA | Berlin |
+| Fri, 28 Aug 2026 | Ziegrastraße 11 | Berlin |
 | Fri, 4 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played

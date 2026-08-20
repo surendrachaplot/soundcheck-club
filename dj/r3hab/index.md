@@ -1,8 +1,8 @@
 # R3hab
 
-R3hab is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bootshaus, Cologne on Fri, 4 Sept 2026.
+R3hab is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bootshaus, Cologne on Fri, 4 Sept 2026.
 
-R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Bangkok, Boston, Cologne and Ibiza and 6 more. Often billed alongside Afrojack, Justin Mylo and Martin Garrix. Next up: Bootshaus, Cologne on Fri 4 Sept.
+R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Bangkok, Boston, Cologne and Ibiza and 7 more. Often billed alongside Afrojack, Justin Mylo and Martin Garrix. Next up: Bootshaus, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ R3hab is a house and progressive house artist based in Netherlands, tracked on s
 | Fri, 4 Sept 2026 | Bootshaus | Cologne |
 | Thu, 10 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Q Nightclub | Seattle |
+| Sat, 26 Sept 2026 | New City Gas | Montreal |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played

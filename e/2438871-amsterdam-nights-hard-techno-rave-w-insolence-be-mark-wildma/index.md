@@ -1,6 +1,6 @@
-# Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [COL] at John Doe
+# Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU] at John Doe
 
-Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [COL] at John Doe on Sat 22 Aug, Amsterdam. 2 acts on the bill: Insolence and KLØVER. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU] at John Doe on Sat 22 Aug, Amsterdam. 2 acts on the bill: Insolence and KLØVER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
+KETTAMA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
 
-KETTAMA is a techno and house artist tracked on soundcheck, with 243 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Thu 20 Aug.
+KETTAMA is a techno and house artist tracked on soundcheck, with 244 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ KETTAMA is a techno and house artist tracked on soundcheck, with 243 sets logged
 | Wed, 7 Oct 2026 | Knockdown Center | New York City |
 | Thu, 8 Oct 2026 | Knockdown Center | New York City |
 | Fri, 9 Oct 2026 | Knockdown Center | New York City |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Coda
 
-Coda is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rebūke" on Sat, 22 Aug 2026.
+Coda is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rebūke" on Sat, 22 Aug 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including AC Slater, A Little Sound, Caspa and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including AC Slater, A Little Sound, Caspa and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Coda is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with 
 | Fri, 11 Sept 2026 | Julian Fijma | Julian Fijma |
 | Fri, 18 Sept 2026 | Linska | Linska |
 | Sat, 19 Sept 2026 | AC Slater | AC Slater |
+| Thu, 24 Sept 2026 | Joseph Ray |  |
 | Fri, 25 Sept 2026 | Ricardo Villalobos | Ricardo Villalobos |
 | Thu, 1 Oct 2026 | Cult Member | Cult Member |
-| Fri, 2 Oct 2026 | DEAN TURNLEY |  |
 
 ## Address
 

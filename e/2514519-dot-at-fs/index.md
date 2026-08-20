@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Fri 28 Aug, Tokyo. 6 acts on the bill: Cashmere Cat, Conducta, Flowdan and Fred again.. and 2 more. Preview the line-up and save it on soundcheck.
+DOT at FS. on Fri 28 Aug, Tokyo. 6 acts on the bill: Cashmere Cat, Conducta, Flowdan and Fred again.. and 2 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

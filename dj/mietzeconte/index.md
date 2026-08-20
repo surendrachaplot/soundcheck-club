@@ -1,8 +1,8 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Le Ritz PDB, Montreal on Wed, 2 Sept 2026.
+Mietze Conte is a House and Experimental artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Le Ritz PDB, Montreal on Wed, 2 Sept 2026.
 
-Mietze Conte is a house and experimental artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Bar Le Ritz PDB, Montreal on Wed 2 Sept.
+Mietze Conte is a house and experimental artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Bar Le Ritz PDB, Montreal on Wed 2 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 52 s
 | Fri, 30 Oct 2026 | Gorilla | Manchester |
 | Thu, 5 Nov 2026 | Hole44 | Berlin |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Fri, 13 Nov 2026 | Sala El Sol | Madrid |
 
 ## Recently played
 

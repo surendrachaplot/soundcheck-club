@@ -1,14 +1,15 @@
 # The Caley Bar
 
-The Caley Bar is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Matthew K" on Fri, 21 Aug 2026.
+The Caley Bar is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Matthew K" on Fri, 21 Aug 2026.
 
-The Caley Bar is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including anu. Browse upcoming dates, start times and who's playing. Princes Street, Edinburgh, United Kingdom EH1 2AB.
+The Caley Bar is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including anu. Browse upcoming dates, start times and who's playing. Princes Street, Edinburgh, United Kingdom EH1 2AB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Matthew K |  |
+| Sat, 22 Aug 2026 | David Barbarossa |  |
 | Wed, 9 Sept 2026 | Toki-O Nights: Powered by Technics (anu) | anu |
 | Wed, 23 Sept 2026 | Toki-O Nights: Powered by Technics (Scott Pelloux) |  |
 

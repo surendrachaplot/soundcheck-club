@@ -1,6 +1,6 @@
 # Hypernormalization at ACUD at Acud Macht NEU
 
-Hypernormalization at ACUD at Acud Macht NEU on Fri 21 Aug, Berlin. 10 acts on the bill: DJ Kündigung, Lando, MIÑIN and Mithril and 6 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Hypernormalization at ACUD at Acud Macht NEU on Fri 21 Aug, Berlin. 11 acts on the bill: DJ Kündigung, Lando, LINNÉA and MIÑIN and 7 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Hypernormalization at ACUD at Acud Macht NEU on Fri 21 Aug, Berlin. 10 acts on t
 
 - DJ Kündigung
 - Lando
+- LINNÉA
 - MIÑIN
 - Mithril
 - Privacy

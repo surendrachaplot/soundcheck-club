@@ -1,14 +1,15 @@
 # Tod Louie
 
-Tod Louie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
+Tod Louie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
 
-Tod Louie is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Copenhagen and London and 4 more. Often billed alongside Chris Solaris, Karl Fraunhofer and Thomas Refvik. Next up: The Villa, Oslo on Fri 21 Aug.
+Tod Louie is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Copenhagen and London and 4 more. Often billed alongside Chris Solaris, Karl Fraunhofer and Thomas Refvik. Next up: The Villa, Oslo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Villa | Oslo |
+| Sat, 5 Sept 2026 | Jaeger | Oslo |
 
 ## Recently played
 

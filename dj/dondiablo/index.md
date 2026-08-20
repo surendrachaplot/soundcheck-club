@@ -1,13 +1,14 @@
 # Don Diablo
 
-Don Diablo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at World Kyoto, Kyoto on Sat, 12 Sept 2026.
+Don Diablo is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at New City Gas, Montreal on Sat, 5 Sept 2026.
 
-Don Diablo is a house and club artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Fatima Hajji, Cera Khin and Clara Cuvé. Next up: World Kyoto, Kyoto on Sat 12 Sept.
+Don Diablo is a house and club artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Fatima Hajji, Cera Khin and Clara Cuvé. Next up: New City Gas, Montreal on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | New City Gas | Montreal |
 | Sat, 12 Sept 2026 | World Kyoto | Kyoto |
 
 ## Recently played

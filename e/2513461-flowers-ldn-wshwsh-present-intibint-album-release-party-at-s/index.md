@@ -1,6 +1,6 @@
 # flowers.ldn & WSHWSH present: Intibint Album Release Party at Stereo
 
-flowers.ldn & WSHWSH present: Intibint Album Release Party at Stereo on Sat 12 Sept, Glasgow. 3 acts on the bill: Maveen, Nihal El Aasar and Salam Kitty. Experimental and EBM. Preview the line-up and save it on soundcheck.
+flowers.ldn & WSHWSH present: Intibint Album Release Party at Stereo on Sat 12 Sept, Glasgow. 3 acts on the bill: Maveen, Nihal El Aasar and Salam Kitty. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 # Tom McRae
 
-Tom McRae is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Night Tales, London on Sat, 17 Oct 2026.
+Tom McRae is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Arch 14, London on Sat, 17 Oct 2026.
 
-Tom McRae is a house and deep house artist tracked on soundcheck, with 11 sets logged across Ibiza and London. Often billed alongside Curby, Dan Anderson and Mitch Barclay. Next up: Night Tales, London on Sat 17 Oct.
+Tom McRae is a house and deep house artist tracked on soundcheck, with 11 sets logged across Ibiza and London. Often billed alongside Curby, Dan Anderson and Mitch Barclay. Next up: Arch 14, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Night Tales | London |
+| Sat, 17 Oct 2026 | Arch 14 | London |
 
 ## Recently played
 

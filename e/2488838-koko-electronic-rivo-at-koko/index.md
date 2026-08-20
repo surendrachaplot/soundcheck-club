@@ -1,6 +1,6 @@
 # KOKO Electronic: Rivo at KOKO
 
-KOKO Electronic: Rivo on Sat 19 Sept, London. 2 acts on the bill: LUCH (MEX) and Rivo. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Rivo on Sat 19 Sept, London. 3 acts on the bill: LUCH (MEX), Rivo and Yulia Niko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ KOKO Electronic: Rivo on Sat 19 Sept, London. 2 acts on the bill: LUCH (MEX) and
 
 - LUCH (MEX)
 - Rivo
+- Yulia Niko
 
 *Source: [soundcheck](https://soundcheck.club/e/2488838-koko-electronic-rivo-at-koko/)*

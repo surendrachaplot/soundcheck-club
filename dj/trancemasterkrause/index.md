@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 21 Aug 2026.
+Trancemaster Krause is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 21 Aug 2026.
 
-Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 21 Aug.
+Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 18
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
+| Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

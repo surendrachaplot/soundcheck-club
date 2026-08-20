@@ -1,6 +1,6 @@
-# Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz at Colorado Charlie
+# Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT) at Colorado Charlie
 
-Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz on Sun 30 Aug, Thehague. 3 acts on the bill: Lisa Korver, Mika Heggemann and Olive Anguz. Preview the line-up and save it on soundcheck.
+Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT) on Sun 30 Aug, Thehague. 3 acts on the bill: Lisa Korver, Mika Heggemann and Olive Anguz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

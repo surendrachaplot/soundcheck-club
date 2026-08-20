@@ -1,6 +1,6 @@
 # Praerie Festival Reboot at Kater
 
-Praerie Festival Reboot at Kater on Fri 18 Sept, Berlin. 11 acts on the bill: A.D.H.S., Avocado, Dave Dinger and Katzengold and 7 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Praerie Festival Reboot at Kater on Fri 18 Sept, Berlin. 12 acts on the bill: A.D.H.S., Avocado, Dave Dinger and Katzengold and 8 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Praerie Festival Reboot at Kater on Fri 18 Sept, Berlin. 11 acts on the bill: A.
 - Krawalle und Liebe
 - Martin Ka
 - Maurice Mino
+- Phauna
 - Sin:port
 - Susi&Paula
 - TraumaMia

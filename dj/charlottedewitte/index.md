@@ -1,8 +1,8 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
+Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
 
-Charlotte de Witte is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and Joseph Capriati. Next up: Tapada da Ajuda, Lisbon on Sun 30 Aug.
+Charlotte de Witte is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Tapada da Ajuda, Lisbon on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 136 
 | Sun, 30 Aug 2026 | Tapada da Ajuda | Lisbon |
 | Sat, 5 Sept 2026 | Ex Macello | Milan |
 | Sat, 26 Sept 2026 | Fort Manoel | Malta |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | Navy Pier | Chicago |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 
@@ -27,6 +28,6 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 136 
 
 ## Shares bills with
 
-Enrico Sangiuliano, Adiel, Joseph Capriati
+Enrico Sangiuliano, Adiel, 999999999
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

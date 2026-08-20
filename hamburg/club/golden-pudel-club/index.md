@@ -1,8 +1,8 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Demorave w/ Bubamara, Dieselstart, Franzi, Chiki G" on Thu, 20 Aug 2026.
+Golden Pudel Club is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Demorave w/ Bubamara, Dieselstart, Franzi, Chiki G" on Thu, 20 Aug 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, Dieselstart and dj blip and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, Dieselstart and dj blip and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming 
 | Thu, 27 Aug 2026 | P.O.V. (Point of View) Vol. I – Hosted by INTERTRONIKA w/ Joy, Lenker, Lesbi Honest, Mama Love | MAMA LOVE |
 | Fri, 28 Aug 2026 | EGYM w/ Paranoid London, Dj Killing, Festnacht and Newinfluenzer | DJ KILLING, Festnacht, Newinfluenzer, Paranoid London |
 | Sat, 29 Aug 2026 | blipmotif | Barbaros, Eddie Ness, Laetizia, Marta Aurelia, Shimmy Robin, dj blip, keos |
-| Sat, 26 Sept 2026 | fuego with Sedaction, Ibizer, LAIDA, Laundry Service | Ibizer, Laundry Service, Sedaction |
+| Sat, 29 Aug 2026 | blipmotif | Barbaros, Eddie Ness, Fovian, Laetizia, Marta Aurelia, Mila Stern, Shimmy Robin, dj blip |
 
 ## Address
 

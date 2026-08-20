@@ -9,7 +9,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | GRIP [ XXX SPORTS NIGHT ] |  |
-| Fri, 21 Aug 2026 | HUNTER: GOIN' IN HARD (OUR 3RD BIRTHDAY) |  |
+| Fri, 21 Aug 2026 | HUNTER: GOIN' IN HARD (OUR 3RD BIRTHDAY) | Ricardo Castro |
 | Sat, 22 Aug 2026 | ELECTRO ROCKS |  |
 | Sat, 22 Aug 2026 | QTS: AFTER DARK | Farius, Pagano, Popper Cherry |
 | Fri, 28 Aug 2026 | KARMA KLUB | Amphia, Claudia Kane, Cosmic Caz, Nanzhen Yang, Ricardo Castro |

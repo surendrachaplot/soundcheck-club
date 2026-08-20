@@ -1,8 +1,8 @@
 # Alythia Kwan
 
-Alythia Kwan is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+Alythia Kwan is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
-Alythia Kwan is a progressive house and deep house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside MARIUS SEBASTIAN, AALEX and Fernweh (2). Next up: Camden Courtyard, London on Sat 22 Aug.
+Alythia Kwan is a progressive house and deep house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside MARIUS SEBASTIAN, AALEX and Fernweh (2). Next up: Camden Courtyard, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alythia Kwan is a progressive house and deep house artist tracked on soundcheck,
 | Sat, 22 Aug 2026 | Camden Courtyard | London |
 | Fri, 11 Sept 2026 | Basing House | London |
 | Fri, 25 Sept 2026 | The Timber Loft | London |
+| Sat, 17 Oct 2026 | UNLOCKED | London |
 
 ## Recently played
 

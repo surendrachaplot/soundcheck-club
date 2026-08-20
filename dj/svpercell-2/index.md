@@ -1,13 +1,14 @@
 # SVPERCELL
 
-SVPERCELL is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Sat, 22 Aug 2026.
+SVPERCELL is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Sat, 22 Aug 2026.
 
-SVPERCELL is a techno and dub techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Hamburg. Often billed alongside Danya (DE), Maasym and Temasa. Next up: Baalsaal, Hamburg on Sat 22 Aug.
+SVPERCELL is a techno and dub techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Hamburg. Often billed alongside Danya (DE), Maasym and Temasa. Next up: Baalsaal, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Baalsaal | Hamburg |
 | Sat, 22 Aug 2026 | Baalsaal | Hamburg |
 
 ## Recently played

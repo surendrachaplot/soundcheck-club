@@ -1,8 +1,8 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Paul Deep x La Biblioteca, San Telmo Buenos Aires" on Fri, 21 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Paul Deep x La Biblioteca, San Telmo Buenos Aires" on Fri, 21 Aug 2026.
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 12 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 14 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

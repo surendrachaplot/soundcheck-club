@@ -9,7 +9,7 @@ kish is a techno and house artist based in India, tracked on soundcheck, with 22
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA | Vancouver |
-| Sat, 5 Sept 2026 | TBA - Secret Location | Vancouver |
+| Sat, 12 Sept 2026 | TBA - Secret Location | Vancouver |
 | Sat, 19 Sept 2026 | TBA | Vancouver |
 
 ## Recently played

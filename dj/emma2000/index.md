@@ -1,14 +1,15 @@
 # Emma 2000
 
-Emma 2000 is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gallery, London on Thu, 20 Aug 2026.
+Emma 2000 is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gallery, London on Thu, 20 Aug 2026.
 
-Emma 2000 is a tech house and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Gallery, London on Thu 20 Aug.
+Emma 2000 is a house and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 6 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Gallery, London on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Gallery | London |
+| Fri, 25 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |

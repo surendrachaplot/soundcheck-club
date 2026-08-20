@@ -1,14 +1,14 @@
 # HEDO HYDR8
 
-HEDO HYDR8 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at KG Radio, Belgrade on Fri, 21 Aug 2026.
+HEDO HYDR8 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Studio Штајга, Belgrade on Fri, 21 Aug 2026.
 
-HEDO HYDR8 is a techno and bass artist based in Denmark, tracked on soundcheck, with 22 sets logged across Belgrade, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Muskila, Gavnlig and CAYOOTEE. Next up: KG Radio, Belgrade on Fri 21 Aug.
+HEDO HYDR8 is a techno and bass artist based in Denmark, tracked on soundcheck, with 22 sets logged across Belgrade, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Muskila, Gavnlig and CAYOOTEE. Next up: Studio Штајга, Belgrade on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | KG Radio | Belgrade |
+| Fri, 21 Aug 2026 | Studio Штајга | Belgrade |
 | Sun, 30 Aug 2026 | The Carpet Shop | London |
 
 ## Recently played

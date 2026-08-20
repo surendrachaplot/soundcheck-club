@@ -1,14 +1,13 @@
 # Maya Jane Coles
 
-Maya Jane Coles is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 19 Aug 2026.
+Maya Jane Coles is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Madrid Caja Mágica, Madrid on Fri, 11 Sept 2026.
 
-Maya Jane Coles is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Ellen Allien, AMÉMÉ and DJ Tennis. Next up: Hï Ibiza, Ibiza on Wed 19 Aug.
+Maya Jane Coles is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Ellen Allien, AMÉMÉ and DJ Tennis. Next up: Madrid Caja Mágica, Madrid on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Fri, 13 Nov 2026 | Night Tales | London |
 

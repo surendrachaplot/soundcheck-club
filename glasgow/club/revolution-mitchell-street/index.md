@@ -1,13 +1,14 @@
 # Revolution Mitchell Street
 
-Revolution Mitchell Street is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Life of Reilly - Day Clubbing Experience" on Sun, 27 Sept 2026.
+Revolution Mitchell Street is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BLNK White and Denim Party" on Sat, 19 Sept 2026.
 
-Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 84 Mitchell St, Glasgow G1 3NA.
+Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 84 Mitchell St, Glasgow G1 3NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | BLNK White and Denim Party |  |
 | Sun, 27 Sept 2026 | Life of Reilly - Day Clubbing Experience |  |
 
 ## Address

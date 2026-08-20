@@ -1,8 +1,8 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
+Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
 
-Gabbs is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
+Gabbs is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabbs is a house and techno artist tracked on soundcheck, with 179 sets logged a
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 12 Sept 2026 | Bunker | Turin |
+| Fri, 18 Sept 2026 | Fünk | Mexico City |
 | Sat, 10 Oct 2026 | Night Tales Loft | London |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 

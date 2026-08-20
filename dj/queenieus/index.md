@@ -1,8 +1,8 @@
 # QUEENIE (US)
 
-QUEENIE (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
+QUEENIE (US) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
 
-QUEENIE (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
+QUEENIE (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ QUEENIE (US) is a club and techno artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Monarch | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Fri, 11 Sept 2026 | El Rio | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
 
 ## Recently played

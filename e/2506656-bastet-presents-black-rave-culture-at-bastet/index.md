@@ -1,10 +1,10 @@
 # BASTET presents: Black Rave Culture at Bastet
 
-BASTET presents: Black Rave Culture at Bastet on Fri 4 Sept, Philadelphia. 4 acts on the bill: Amal, Black Rave Culture, James Bangura and Nativesun. Techno and Club. Preview the line-up and save it on soundcheck.
+BASTET presents: Black Rave Culture at Bastet on Sat 5 Sept, Philadelphia. 4 acts on the bill: Amal, Black Rave Culture, James Bangura and Nativesun. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Sept 2026 |
+| Date | Sat, 5 Sept 2026 |
 | Venue | Bastet |
 | City | Philadelphia |
 

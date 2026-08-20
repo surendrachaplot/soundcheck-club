@@ -1,13 +1,14 @@
 # Jake Hodgkinson
 
-Jake Hodgkinson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 22 Oct 2026.
+Jake Hodgkinson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 12 Sept 2026.
 
-Jake Hodgkinson is a house and tech house artist tracked on soundcheck, with 35 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside E. Alexander, Ollie Drummond and Sean Galvin (2). Next up: Eastern Bloc Records, Manchester on Thu 22 Oct.
+Jake Hodgkinson is a house and tech house artist tracked on soundcheck, with 36 sets logged across Barcelona, Bristol, Leeds and London and 3 more. Often billed alongside E. Alexander, Ollie Drummond and Sean Galvin (2). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Thu, 22 Oct 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played

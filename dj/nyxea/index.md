@@ -1,14 +1,15 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+NYXEA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
 
-NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside RHYTMOX, Texo and Daora. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
+NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside RHYTMOX, Texo and CARGO (DE). Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Großer Bunkerberg Volkspark Fhain | Berlin |
+| Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 30 Oct 2026 | M-BIA | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-RHYTMOX, Texo, Daora
+RHYTMOX, Texo, CARGO (DE)
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

@@ -9,7 +9,7 @@ HWK is a music venue in London listed on soundcheck. 4 upcoming nights, with lin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | out of the basement | Alexi Shell, Kilo Vee, Slayphex Twins, Vlad Zinn, acidhousewife3000, dbeater, funkshn, ttttttttt |
-| Sat, 5 Sept 2026 | Bedfactory Records 4th Birthday | Bedfactory Records, Jimmy Dinners, Nick Davis, Uncle Baz |
+| Sat, 5 Sept 2026 | Bedfactory Records 4th Birthday | Bear Winder, Bedfactory Records, Jimmy Dinners, Maria Hanlon, Nick Davis, T!SCO, Uncle Baz, boogielou |
 | Sat, 12 Sept 2026 | GROOVE FEST | A.K(lifee), Atomic Hooligan, CRUZ CTRL (3), Dj Clark Gabble, Fayli, LIMZy, Mixolis, Tre Hunter |
 | Sat, 3 Oct 2026 | SAMBA HAS LANDED |  |
 

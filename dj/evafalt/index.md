@@ -1,8 +1,8 @@
 # Eva Falt
 
-Eva Falt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bukanyr Boat, Prague on Sat, 29 Aug 2026.
+Eva Falt is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bukanyr Boat, Prague on Sat, 29 Aug 2026.
 
-Eva Falt is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Prague, Tokyo and Warsaw. Often billed alongside Axis Alpha, DJ Slater and ka.za. Next up: Bukanyr Boat, Prague on Sat 29 Aug.
+Eva Falt is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Prague, Tokyo and Warsaw. Often billed alongside Axis Alpha, DJ Slater and ka.za. Next up: Bukanyr Boat, Prague on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eva Falt is a techno and house artist tracked on soundcheck, with 50 sets logged
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Bukanyr Boat | Prague |
 | Fri, 4 Sept 2026 | Bike Jesus | Prague |
+| Fri, 11 Sept 2026 | Bar v Krymský | Prague |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

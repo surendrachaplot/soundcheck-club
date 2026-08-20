@@ -1,13 +1,14 @@
 # Seanni B
 
-Seanni B is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paris Bar, Detroit on Sat, 12 Sept 2026.
+Seanni B is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jobstoppers, Detroit on Sun, 30 Aug 2026.
 
-Seanni B is a club and techno artist based in United States of America, tracked on soundcheck, with 44 sets logged across Chicago, Detroit and Philadelphia. Often billed alongside Obi-Wan Shinobi, Kuuma and madeofants. Next up: Paris Bar, Detroit on Sat 12 Sept.
+Seanni B is a club and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Detroit and Philadelphia. Often billed alongside Obi-Wan Shinobi, Kuuma and madeofants. Next up: Jobstoppers, Detroit on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Jobstoppers | Detroit |
 | Sat, 12 Sept 2026 | Paris Bar | Detroit |
 
 ## Recently played

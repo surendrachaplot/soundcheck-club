@@ -1,6 +1,6 @@
 # HIVE FREE RAVE at DSTRKT Club Berlin
 
-HIVE FREE RAVE at DSTRKT Club Berlin on Fri 4 Sept, Berlin. 15 acts on the bill: Bollmann, Cobb Douglas, GRMR and IGDA and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+HIVE FREE RAVE at DSTRKT Club Berlin on Fri 4 Sept, Berlin. 16 acts on the bill: Bollmann, Cobb Douglas, DJ KAIDO and GRMR and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HIVE FREE RAVE at DSTRKT Club Berlin on Fri 4 Sept, Berlin. 15 acts on the bill:
 
 - Bollmann
 - Cobb Douglas
+- DJ KAIDO
 - GRMR
 - IGDA
 - LISTORIO

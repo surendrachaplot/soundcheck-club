@@ -13,7 +13,7 @@ Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Wed, 26 Aug 2026 | La Scarlette: Eloi, Lili Castiglioni, kou2tatane & more | Eloi, Lili Castiglioni |
 | Thu, 27 Aug 2026 | JETLAG REGGAETON AIRLINES |  |
 | Fri, 28 Aug 2026 | Transgenik |  |
-| Fri, 28 Aug 2026 | TRANSGENIK: Cleopard2000, Mija, KVN, Shannon | Cleopard2000, KVN, Mija, Shannon |
+| Fri, 28 Aug 2026 | TRANSGENIK: Cleopard2000, Mija, KVN, Shannon | Cleopard2000, KVKN, KVN, Mija, Shannon |
 | Sat, 29 Aug 2026 | Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain | Mely, Mount Kimbie, Tour-Maubourg |
 | Sat, 29 Aug 2026 | ALARMA: SPFDJ, aerodynamisme, Sukubratz, lilipop | SPFDJ, Sukubratz, aerodynamisme, lilipop |
 | Thu, 3 Sept 2026 | SUPERB NIGHT: M¥SS KETA (live), Cannelle (live), MATHILDE FERNANDEZ | Cannelle |

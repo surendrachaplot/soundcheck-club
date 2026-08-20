@@ -1,8 +1,8 @@
 # Charlie
 
-Charlie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bootshaus, Cologne on Fri, 21 Aug 2026.
+Charlie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bootshaus, Cologne on Fri, 21 Aug 2026.
 
-Charlie is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Marsman, Priku and Arapu. Next up: Bootshaus, Cologne on Fri 21 Aug.
+Charlie is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Marsman, Priku and Arapu. Next up: Bootshaus, Cologne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Charlie is a techno and house artist tracked on soundcheck, with 132 sets logged
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Bootshaus | Cologne |
 | Fri, 28 Aug 2026 | Club NYX | Amsterdam |
+| Fri, 28 Aug 2026 | Ham Farm, Lewes, | Brighton |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played

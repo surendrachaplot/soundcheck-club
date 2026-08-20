@@ -10,7 +10,7 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 se
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | La Gravière | Geneva |
 | Sat, 29 Aug 2026 | YuYu Cine Club | Mexico City |
-| Fri, 4 Sept 2026 | Bastet | Philadelphia |
+| Sat, 5 Sept 2026 | Bastet | Philadelphia |
 | Sat, 12 Sept 2026 | Paragon | New York City |
 | Thu, 24 Sept 2026 | Club Six | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |

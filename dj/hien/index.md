@@ -1,14 +1,15 @@
 # HIEN
 
-HIEN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starr Bar, New York City on Sun, 23 Aug 2026.
+HIEN is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Starr Bar, New York City on Sun, 23 Aug 2026.
 
-HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest, Cologne and Newyorkcity. Often billed alongside $EJ, 444 (1) and 99 ranch. Next up: Starr Bar, Newyorkcity on Sun 23 Aug.
+HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 9 sets logged across Budapest, Cologne and Newyorkcity. Often billed alongside $EJ, 444 (1) and 99 ranch. Next up: Starr Bar, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Starr Bar | New York City |
+| Fri, 11 Sept 2026 | TBA - secret location in bed-stuy | New York City |
 
 ## Recently played
 

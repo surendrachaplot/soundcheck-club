@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Wayward: Axis Minty" on Thu, 20 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Wayward: Axis Minty" on Thu, 20 Aug 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

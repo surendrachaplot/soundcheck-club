@@ -1,14 +1,15 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Shaolin Cowboy is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
-Shaolin Cowboy is a house and breakbeat artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Brussels and 14 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and sunflwr. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
+Shaolin Cowboy is a house and breakbeat artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Bristol and Brussels and 14 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and sunflwr. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Waterhouse Studios | Amsterdam |
+| Sat, 14 Nov 2026 | Phonox | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
+Meg10 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
 
-Meg10 is a techno and club artist tracked on soundcheck, with 137 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, MCR-T and Yazzus. Next up: Else, Berlin on Sat 5 Sept.
+Meg10 is a techno and club artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, MCR-T and Yazzus. Next up: Else, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Else | Berlin |
+| Fri, 25 Sept 2026 | Colour Factory | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

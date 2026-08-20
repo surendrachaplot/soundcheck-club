@@ -1,13 +1,14 @@
 # CLAWZ
 
-CLAWZ is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Strand DC, Washington DC on Sat, 26 Sept 2026.
+CLAWZ is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bourbon On Division, Chicago on Fri, 28 Aug 2026.
 
-CLAWZ is a techno and acid artist tracked on soundcheck, with 40 sets logged across Austin, Barcelona, Brussels and Chicago and 12 more. Often billed alongside X&trick, DYEN and 6EJOU. Next up: Strand DC, Washingtondc on Sat 26 Sept.
+CLAWZ is a techno and acid artist tracked on soundcheck, with 41 sets logged across Austin, Barcelona, Brussels and Chicago and 12 more. Often billed alongside X&trick, DYEN and 6EJOU. Next up: Bourbon On Division, Chicago on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Bourbon On Division | Chicago |
 | Sat, 26 Sept 2026 | Strand DC | Washington DC |
 
 ## Recently played

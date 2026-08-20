@@ -1,6 +1,6 @@
 # LIFE AFTER TRANCE / SHIBUYA69 at Mood Ring
 
-LIFE AFTER TRANCE / SHIBUYA69 at Mood Ring on Fri 28 Aug, Newyorkcity. 4 acts on the bill: ASTER (DJ), Diveo, Gagbert and HAO (CN). Trance and Pop. Preview the line-up and save it on soundcheck.
+LIFE AFTER TRANCE / SHIBUYA69 at Mood Ring on Fri 28 Aug, Newyorkcity. 5 acts on the bill: ASTER (DJ), Diveo, Gagbert and HAO (CN) and 1 more. Trance and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ LIFE AFTER TRANCE / SHIBUYA69 at Mood Ring on Fri 28 Aug, Newyorkcity. 4 acts on
 - Diveo
 - Gagbert
 - HAO (CN)
+- Hao Ran
 
 *Source: [soundcheck](https://soundcheck.club/e/2480797-life-after-trance-shibuya69-at-mood-ring/)*

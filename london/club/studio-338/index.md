@@ -9,7 +9,7 @@ Studio 338 is a music venue in London listed on soundcheck. 14 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | UKG Brunch - OUTDOOR SUMMER FESTIVAL | Artful Dodger, Donae'o, MC CKP, MC DT, MC Kie, Master Stepz, Pied Piper, Ramsey & Fen |
-| Sat, 22 Aug 2026 | Forward Motion After Party |  |
+| Sat, 22 Aug 2026 | Forward Motion After Party | HARTY, Jesse James, Kane Solo, O'Neil McDowall |
 | Sun, 30 Aug 2026 | Drake Night - Iceman - Bank Holiday Weekend |  |
 | Sat, 5 Sept 2026 | Summer Outdoor Garage Festival - Studio 338 London |  |
 | Sat, 12 Sept 2026 | DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE | Anil Aras, Boss Priester, Disciples, Hidde van Wee, Jamie Fielding, Smokey Bubblin' B, Tre Reynolds |

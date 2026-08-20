@@ -1,8 +1,8 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Blanch + Ladrillovitz + Serret" on Thu, 20 Aug 2026.
+Oven Club is a music venue in Valencia with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Blanch + Ladrillovitz + Serret" on Thu, 20 Aug 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 7 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Oven Club is a music venue in Valencia listed on soundcheck. 7 upcoming nights, 
 | Thu, 27 Aug 2026 | ERA: Aguirre + Jag + Robson | Aguirre, Robson |
 | Fri, 28 Aug 2026 | Total: Cheriii + Ariezzz + Ladrillovitz / Bar: Strange Boy & Fran-K | Ariezzz, BAR (DE), Cheriii, Ladrillovitz |
 | Sat, 29 Aug 2026 | RAWAX 15 YEARS: Robert Drewek + NACHO MARCO + [ØNE+1] / Bar: MO-OB | Robert Drewek |
+| Sat, 19 Sept 2026 | Nekoza Records present: DJ Senc | DJ Senc, Tommaso Pizzelli |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Cxnty School Disco - Summer School" on Fri, 21 Aug 2026.
+Brixton Jamm is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Cxnty School Disco - Summer School" on Fri, 21 Aug 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Crazy Cousinz, Donch, Donnie Sunshine and Harry Wilson and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Crazy Cousinz, Donch, Donnie Sunshine and Harry Wilson and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

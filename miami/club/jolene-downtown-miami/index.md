@@ -16,8 +16,8 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcomin
 | Sat, 29 Aug 2026 | Eli Escobar (Alll Night Long) | Eli Escobar |
 | Fri, 4 Sept 2026 | KinAhau | Cole Terrazas, KinAhau |
 | Sat, 5 Sept 2026 | Prunk | Bakke, Danyelino, Mario Liberti, Prunk, slugg |
-| Sat, 5 Sept 2026 | Yoyaku: Satoshie Tomiie | Kian OK, Lis Sarroca, Mari.te, Satoshi Tomiie |
 | Sun, 6 Sept 2026 | Quest, Traumer,  | Daizy, Quest, Shir Miya, Traumer |
+| Fri, 25 Sept 2026 | Yoyaku: Satoshi Tomiie | Kian OK, Lis Sarroca, Mari.te, Satoshi Tomiie |
 
 ## Address
 

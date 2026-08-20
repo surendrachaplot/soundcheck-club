@@ -1,8 +1,8 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Cole Knight is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Cole Knight is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Union Park, Chicago on Fri 4 Sept.
+Cole Knight is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cole Knight is a house and techno artist tracked on soundcheck, with 92 sets log
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 27 Sept 2026 | Floyd | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 

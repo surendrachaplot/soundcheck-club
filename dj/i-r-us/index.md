@@ -1,14 +1,15 @@
 # I-R (US)
 
-I-R (US) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
+I-R (US) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
 
-I-R (US) is a techno and acid artist tracked on soundcheck, with 7 sets logged across Chicago and Detroit. Often billed alongside RETCON, Augustus Williams and Kuuma. Next up: Paris Bar, Detroit on Thu 27 Aug.
+I-R (US) is a techno and acid artist tracked on soundcheck, with 8 sets logged across Chicago and Detroit. Often billed alongside RETCON, Augustus Williams and Kuuma. Next up: Paris Bar, Detroit on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Paris Bar | Detroit |
+| Sun, 30 Aug 2026 | Jobstoppers | Detroit |
 
 ## Recently played
 

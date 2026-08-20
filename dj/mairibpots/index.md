@@ -1,13 +1,14 @@
 # Mairi 'b' Pots
 
-Mairi 'b' Pots is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Are You Affiliated, Newcastle on Sun, 30 Aug 2026.
+Mairi 'b' Pots is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Doghouse, Edinburgh on Sat, 22 Aug 2026.
 
-Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 67 sets logged across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: Are You Affiliated, Newcastle on Sun 30 Aug.
+Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 68 sets logged across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: The Doghouse, Edinburgh on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | The Doghouse | Edinburgh |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 12 Sept 2026 | Hidden Heights Creative Studio | Newcastle |
 

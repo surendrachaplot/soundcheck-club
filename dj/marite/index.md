@@ -9,9 +9,9 @@ Mari.te is a house and techno artist tracked on soundcheck, with 156 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Myra | Lisbon |
-| Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
 | Fri, 11 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
+| Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,9 +11,12 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 245 sets l
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
+| Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 26 Sept 2026 | Flash | Washington DC |
+| Sat, 17 Oct 2026 | SMUT Athens | Athens |
+| Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 7 Nov 2026 | fabric | London |
 
 ## Recently played

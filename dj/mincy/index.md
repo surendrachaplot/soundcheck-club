@@ -1,14 +1,15 @@
 # Mincy
 
-Mincy is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 29 Aug 2026.
+Mincy is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 29 Aug 2026.
 
-Mincy is a garage and techno artist tracked on soundcheck, with 58 sets logged across Barcelona, Brisbane, Bristol and Hobart and 7 more. Often billed alongside Killjoy, Caitlin Medcalf and Dr Dubplate. Next up: Sub Club Melbourne, Melbourne on Sat 29 Aug.
+Mincy is a garage and techno artist tracked on soundcheck, with 59 sets logged across Barcelona, Brisbane, Bristol and Hobart and 7 more. Often billed alongside Killjoy, Caitlin Medcalf and Dr Dubplate. Next up: Sub Club Melbourne, Melbourne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sub Club Melbourne | Melbourne |
+| Sun, 4 Oct 2026 | The Ivy | Sydney |
 
 ## Recently played
 

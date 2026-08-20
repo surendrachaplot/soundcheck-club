@@ -1,14 +1,16 @@
 # Nikita Green
 
-Nikita Green is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
+Nikita Green is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
 
-Nikita Green is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Detroit, Madrid and Miami. Often billed alongside Souls Departed, True Vine and Coffintexts. Next up: Jolene Downtown Miami, Miami on Fri 28 Aug.
+Nikita Green is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit, Madrid, Miami and Newyorkcity. Often billed alongside Souls Departed, True Vine and Coffintexts. Next up: Jolene Downtown Miami, Miami on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Jolene Downtown Miami | Miami |
+| Sat, 5 Sept 2026 | House of Yes | New York City |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

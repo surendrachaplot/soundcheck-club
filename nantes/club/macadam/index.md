@@ -13,7 +13,7 @@ Macadam is a music venue in Nantes listed on soundcheck. 19 upcoming nights, wit
 | Sat, 22 Aug 2026 | Macadam x CONTINUUM • Psyk ~ ANNX ~ REDLUVED | ANNX, Psyk, REDLUVED |
 | Thu, 27 Aug 2026 | Macadam x Combo Bongos • Alan.D ~ Symraah | Alan.D |
 | Fri, 28 Aug 2026 | Macadam x ONSHORE • Na Nich ~ Mademoisel ~ Sunraï ~ Space Bond | Mademoisel, Sunchase |
-| Sat, 29 Aug 2026 | Macadam • Blasha & Allatt (house set) ~ Jorg Kuning (live) ~ Maï-Linh | Blasha & Allatt, Jorg Kuning, Maï-Linh |
+| Sat, 29 Aug 2026 | Macadam • Blasha & Allatt (house set) ~ Jorg Kuning (live) ~ Maï-Linh | Blasha & Allatt, DVDE, Jorg Kuning, Maï-Linh |
 | Fri, 4 Sept 2026 | Macadam x TSSRCT • Hadone ~ UFO95 (live) ~ Hanaka | Hadone, UFO95 |
 | Sat, 5 Sept 2026 | Macadam x MÄR • Viikatory ~ Krijka ~ Deuspy | Krijka, Viikatory |
 | Thu, 10 Sept 2026 | Macadam x Collectif 360 • Alura ~ Johan |  |

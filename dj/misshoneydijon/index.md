@@ -1,8 +1,8 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Honey Dijon is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stassy. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stassy. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 197 sets lo
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
+| Sat, 10 Oct 2026 | Knockdown Center | New York City |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 31 Oct 2026 | Magazine London | London |
 
 ## Recently played

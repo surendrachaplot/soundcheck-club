@@ -11,7 +11,7 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 | Sat, 22 Aug 2026 | JUICI 004 / day2nite | Calder, D'Nice, Dacxi, Manta, Qualia Trax, Reece Spooner, Yu Yang |
 | Thu, 27 Aug 2026 | Unbound Earth | Elle Akosua |
 | Fri, 28 Aug 2026 | Shimmer 008 - Affinities Edition |  |
-| Sat, 29 Aug 2026 | RALLY x Avalon Cafe: YHWH Nailgun presents |  |
+| Sat, 29 Aug 2026 | RALLY x Avalon Cafe: YHWH Nailgun presents | YHWH Nailgun |
 | Sat, 12 Sept 2026 | Small Car NRG | Memory Palace, Small Car NRG |
 | Sat, 19 Sept 2026 | Eterna |  |
 | Sun, 27 Sept 2026 | Devons Road x PJ presents Am 2 Pm | Junior Buzz, Rhi Spect |

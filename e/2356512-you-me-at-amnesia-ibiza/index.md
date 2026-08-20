@@ -1,6 +1,6 @@
 # You&Me at Amnesia Ibiza
 
-You&Me at Amnesia Ibiza on Thu 20 Aug, Ibiza. 6 acts on the bill: Benji King, Josh Baker, KETTAMA and Phill de Janeiro and 2 more. Tech House. Preview the line-up and save it on soundcheck.
+You&Me at Amnesia Ibiza on Thu 20 Aug, Ibiza. 10 acts on the bill: Amy Os, Benji King, Jamie Fielding and Josh Baker and 6 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,15 @@ You&Me at Amnesia Ibiza on Thu 20 Aug, Ibiza. 6 acts on the bill: Benji King, Jo
 
 ## Line-up
 
+- Amy Os
 - Benji King
+- Jamie Fielding
 - Josh Baker
 - KETTAMA
+- Local Dub
 - Phill de Janeiro
 - Reeshy
+- Sidney Charles
 - Silva Bumpa
 
 *Source: [soundcheck](https://soundcheck.club/e/2356512-you-me-at-amnesia-ibiza/)*

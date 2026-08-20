@@ -1,6 +1,6 @@
 # Kiez Rave at TBA - Zum Genossen
 
-Kiez Rave at TBA - Zum Genossen on Sat 5 Sept, Berlin. 1 act on the bill: Anna Konda. Techno and House. Preview the line-up and save it on soundcheck.
+Kiez Rave at TBA - Zum Genossen on Sat 5 Sept, Berlin. 2 acts on the bill: Anna Konda and Annakonda. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Kiez Rave at TBA - Zum Genossen on Sat 5 Sept, Berlin. 1 act on the bill: Anna K
 ## Line-up
 
 - Anna Konda
+- Annakonda
 
 *Source: [soundcheck](https://soundcheck.club/e/2516536-kiez-rave-at-tba-zum-genossen/)*

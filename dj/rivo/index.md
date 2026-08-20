@@ -1,14 +1,13 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 19 Aug 2026.
+Rivo is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
 
-Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Chinois Ibiza, Ibiza on Wed 19 Aug.
+Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Santanna Mykonos, Mykonos on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sat, 29 Aug 2026 | Mediapark Köln | Cologne |
 | Thu, 10 Sept 2026 | Hï Ibiza | Ibiza |

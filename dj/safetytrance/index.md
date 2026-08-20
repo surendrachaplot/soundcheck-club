@@ -1,8 +1,8 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
+Safety Trance is a Techno and Reggaeton artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MIDNIGHT EAST, Tokyo on Fri, 21 Aug 2026.
 
-Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: MIDNIGHT EAST, Tokyo on Fri 21 Aug.
+Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: MIDNIGHT EAST, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 108 s
 | Fri, 4 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | ALICE | Copenhagen |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Paragon | New York City |
 | Sat, 31 Oct 2026 | Cank Neukölln | Berlin |
 

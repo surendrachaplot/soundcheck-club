@@ -13,7 +13,7 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, wi
 | Fri, 28 Aug 2026 | Rat Girl Summer | CMD+JAZMINE, DJ girlcrush, Hope 808, Petal, chicas over rice |
 | Sat, 29 Aug 2026 | Dizzy 13 | Cure2, ntrllite, porygon k |
 | Fri, 4 Sept 2026 | Treats Per Minute | Caratastrophe, Jake Korolev |
-| Sat, 5 Sept 2026 | gay guy autumn | Cure2, Piscesprince, Samuelx, Tasheff, fake.stan |
+| Sat, 5 Sept 2026 | gay guy autumn | Cure2, Piscesprince, Samuelx, Tasheff, fake.stan, ultrap0p |
 | Fri, 25 Sept 2026 | Club Mustang | boy_c0ded, esme2k |
 
 ## Address

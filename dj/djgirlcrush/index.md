@@ -1,8 +1,8 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
+DJ girlcrush is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
 
-DJ girlcrush is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside Kristen London, Cryostatik and CMD+JAZMINE. Next up: Wonderville, Newyorkcity on Sat 22 Aug.
+DJ girlcrush is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity. Often billed alongside Kristen London, Cryostatik and CMD+JAZMINE. Next up: Wonderville, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ girlcrush is a techno and house artist based in United States of America, tra
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Wonderville | New York City |
 | Fri, 28 Aug 2026 | Jade | New York City |
+| Tue, 1 Sept 2026 | Selva NYC | New York City |
 | Thu, 3 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

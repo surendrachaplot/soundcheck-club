@@ -1,14 +1,15 @@
 # Extra Andrew
 
-Extra Andrew is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Extra Andrew is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
-Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 22 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Gee Dee, Earth Beat and DJ Ray (2). Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
+Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 23 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Gee Dee, Earth Beat and DJ Ray (2). Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Knockdown Center | New York City |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

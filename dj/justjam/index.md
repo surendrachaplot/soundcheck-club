@@ -9,7 +9,7 @@ Just Jam is a house and tech house artist tracked on soundcheck, with 62 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Loft | Manchester |
-| Sat, 22 Aug 2026 | TBA - EAST LONDON | London |
+| Sat, 22 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 

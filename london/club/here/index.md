@@ -10,7 +10,7 @@ HERE is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Orange At The Astoria Reunion | DJ Hype, Grooverider, Kenny Ken, Ray Keith, The Ragga Twins |
 | Tue, 1 Sept 2026 | Abel Selaocoe: live in London |  |
-| Fri, 4 Sept 2026 | HVYWGHT x 10 Years of 1985: Alix Perez [SOLD OUT] | Alix Perez, Beatrice M., Breakage, Cesco, HIJINX, Monty, Mr. G, SP:MC, Sharnie, Tasha, Visages |
+| Fri, 4 Sept 2026 | HVYWGHT x 10 Years of 1985: Alix Perez [RESALE] | Alix Perez, Beatrice M., Breakage, Cesco, HIJINX, Monty, Mr. G, SP:MC, Sharnie, Tasha, Visages |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA | AliA, Bitter Babe, Blawan, Mala |
 | Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Workforce |
 | Thu, 1 Oct 2026 | DJ Seinfeld presents 'If This Is It' LIVE | DJ Seinfeld |

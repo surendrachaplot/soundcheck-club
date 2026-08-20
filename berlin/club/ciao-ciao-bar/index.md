@@ -9,7 +9,7 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Studio Markant | Andre Kronert, Benny Grauer, Mar-C |
-| Sun, 6 Sept 2026 | Free entry: SUNDAY SESSIONS 001 | Champagner.Jannick, MARIE.MOON |
+| Sun, 6 Sept 2026 | Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 001 | Champagner.Jannick, MARIE.MOON |
 
 ## Address
 

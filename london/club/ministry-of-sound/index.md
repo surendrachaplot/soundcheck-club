@@ -9,7 +9,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | BLINK: KAREN HARDING, Nancie, RAPHI, STEPHANI B | Nancie |
-| Sat, 22 Aug 2026 | Rulin: DJ Harvey (All Night Long) | DJ Harvey |
+| Sat, 22 Aug 2026 | Rulin: DJ Harvey (All Night Long) - SOLD OUT | DJ Harvey |
 | Tue, 25 Aug 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 28 Aug 2026 | Smoove: Continental GT, Supa D, Crazy Cousinz + more | Continental GT, Crazy Cousinz, Daddy Chulo, Donch, Emz (MC), Pioneer, Rampage, Supa D, mastaque |
 | Sat, 29 Aug 2026 | Trance Sanctuary Courtyard Party | Mark Landragin |

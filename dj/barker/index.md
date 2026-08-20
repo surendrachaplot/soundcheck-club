@@ -1,14 +1,15 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Barker is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Barker is a techno and experimental artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Barker is a techno and experimental artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
+| Tue, 25 Aug 2026 | Esplanade Tranquille | Montreal |
 | Wed, 26 Aug 2026 | Société des arts technologiques | Montreal |
 | Fri, 4 Sept 2026 | TBA | Mexico City |
 | Thu, 24 Sept 2026 | ZENNER | Berlin |

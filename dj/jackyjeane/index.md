@@ -1,13 +1,14 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Prairie du Canal, Paris on Sat, 12 Sept 2026.
+Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
 
-Jacky Jeane is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: La Prairie du Canal, Paris on Sat 12 Sept.
+Jacky Jeane is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: La Rotonde Stalingrad, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | La Rotonde Stalingrad | Paris |
 | Sat, 12 Sept 2026 | La Prairie du Canal | Paris |
 
 ## Recently played

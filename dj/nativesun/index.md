@@ -9,7 +9,7 @@ Nativesun is a house and techno artist based in United States of America, tracke
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | La Gravière | Geneva |
-| Fri, 4 Sept 2026 | Bastet | Philadelphia |
+| Sat, 5 Sept 2026 | Bastet | Philadelphia |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played

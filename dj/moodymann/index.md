@@ -1,8 +1,8 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Moodymann is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
 
-Moodymann is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
+Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Moodymann is a house and techno artist tracked on soundcheck, with 158 sets logg
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 | Sat, 22 Aug 2026 | TBA | Singapore |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sat, 5 Sept 2026 | smartbar | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sun, 20 Sept 2026 | Umoya | Naples |
 | Sat, 26 Sept 2026 | 314 Scholes | New York City |

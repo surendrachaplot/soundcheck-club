@@ -1,6 +1,6 @@
 # OH MY DOT IT'S FRIDAY at Dot Club
 
-OH MY DOT IT'S FRIDAY at Dot Club on Fri 21 Aug, Hamburg. 1 act on the bill: lexpon. Techno. Preview the line-up and save it on soundcheck.
+OH MY DOT IT'S FRIDAY at Dot Club on Fri 21 Aug, Hamburg. 2 acts on the bill: Desslauer and lexpon. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OH MY DOT IT'S FRIDAY at Dot Club on Fri 21 Aug, Hamburg. 1 act on the bill: lex
 
 ## Line-up
 
+- Desslauer
 - lexpon
 
 *Source: [soundcheck](https://soundcheck.club/e/2516798-oh-my-dot-it-s-friday-at-dot-club/)*

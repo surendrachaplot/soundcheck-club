@@ -1,13 +1,14 @@
 # Dorian Paic
 
-Dorian Paic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 17 Oct 2026.
+Dorian Paic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
-Dorian Paic is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Alexander Skancke, Federico Molinari and Ricardo Villalobos. Next up: Les Enfants Brillants, Barcelona on Sat 17 Oct.
+Dorian Paic is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Alexander Skancke, Federico Molinari and Margaret Dygas. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 17 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dorian Paic is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Alexander Skancke, Federico Molinari, Ricardo Villalobos
+Alexander Skancke, Federico Molinari, Margaret Dygas
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*

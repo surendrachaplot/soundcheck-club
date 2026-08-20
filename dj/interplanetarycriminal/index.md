@@ -1,8 +1,8 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Sept 2026.
+Interplanetary Criminal is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Sept 2026.
 
-Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 4 Sept.
+Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 253 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |

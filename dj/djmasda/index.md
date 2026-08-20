@@ -1,8 +1,8 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ Masda is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-DJ Masda is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+DJ Masda is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Masda is a techno and house artist tracked on soundcheck, with 199 sets logge
 | Sat, 26 Sept 2026 | TBA - IYKYK  | Los Angeles |
 | Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Sat, 17 Oct 2026 | fabric | London |
+| Fri, 13 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played
 

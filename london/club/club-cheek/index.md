@@ -8,7 +8,7 @@ Club Cheek is a music venue in London listed on soundcheck. 13 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Whole Danth Catalogue UK Edition | Ossia |
+| Fri, 21 Aug 2026 | Whole Danth Catalogue UK Edition | Ossia, YASDUB |
 | Fri, 28 Aug 2026 | 5 GATE TEMPLE ~ CARNIVAL WEEKEND | Elheist, John T. Gast, Sou Varine, Xterea, fAt-lÏP |
 | Sat, 29 Aug 2026 | STRUCTURE X PRESSURE SYSTEMS | Fergus Sweetland, Joline Scheffler, Mosai, Yant |
 | Sun, 30 Aug 2026 | Whistle Crew Horns Crew X Launch Carnival Afterparty | DJ Kane (1), DJ LESSONS, DJ-HOTLINE 333, Double O, ETHICS, Junior Buzz, Philth, Sweetpea |

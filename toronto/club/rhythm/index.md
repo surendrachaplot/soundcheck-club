@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Long Play: Daft Punk" on Thu, 20 Aug 2026.
+Rhythm is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Long Play: Daft Punk" on Thu, 20 Aug 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Amália Leandro, Art Behaviour, Bellini Baby and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including Amália Leandro, Art Behaviour, Bellini Baby and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 

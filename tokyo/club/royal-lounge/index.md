@@ -1,8 +1,8 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "20 THU ROYAL THURSDAY" on Thu, 20 Aug 2026.
+Royal Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "20 THU ROYAL THURSDAY" on Thu, 20 Aug 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Addiy, Junya, KAIKAI and PUNK N MATRIX and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Addiy, Jackit, Junya and KAIKAI and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 

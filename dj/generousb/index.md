@@ -1,13 +1,14 @@
 # Generous B
 
-Generous B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Generous B is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Generous B is a house and disco artist tracked on soundcheck, with 22 sets logged across Miami. Often billed alongside Souls Departed, Cole Knight and JOVIGIBS. Next up: Factory Town, Miami on Fri 30 Oct.
+Generous B is a house and techno artist tracked on soundcheck, with 23 sets logged across Miami. Often billed alongside Souls Departed, Cole Knight and JOVIGIBS. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

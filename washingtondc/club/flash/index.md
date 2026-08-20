@@ -8,7 +8,7 @@ Flash is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Eelke Kleijn | Eelke Kleijn, Tomas C |
+| Fri, 21 Aug 2026 | Eelke Kleijn | BE EZY, Eelke Kleijn, House Twelve, Nico Parra, Tomas C |
 | Sat, 22 Aug 2026 | James Zabiela - Adi | Adi (CO), James Zabiela, SaintMark |
 | Sun, 23 Aug 2026 | Sunday Love: Isaac Carter - Cali Lanauze - Rich Thomas | Cali Lanauze, Isaac Carter, Rich Thomas |
 | Fri, 28 Aug 2026 | Makèz | Allanit, Dabz, Haffi, Makèz |

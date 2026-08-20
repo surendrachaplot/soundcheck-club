@@ -1,13 +1,14 @@
 # O'Neil McDowall
 
-O'Neil McDowall is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
+O'Neil McDowall is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
-O'Neil McDowall is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, London and Malta. Often billed alongside Sammy Porter, HARTY and George Mensah. Next up: Db55, Amsterdam on Thu 22 Oct.
+O'Neil McDowall is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Malta. Often billed alongside Sammy Porter, HARTY and George Mensah. Next up: Studio 338, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Studio 338 | London |
 | Thu, 22 Oct 2026 | Db55 | Amsterdam |
 
 ## Recently played

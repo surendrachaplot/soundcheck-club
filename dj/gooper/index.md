@@ -1,14 +1,15 @@
 # GooPer
 
-GooPer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
+GooPer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
 
-GooPer is a house and tech house artist based in Japan, tracked on soundcheck, with 42 sets logged across Tokyo. Often billed alongside Yuta Yamada, Amps and ISPA. Next up: HVEN, Tokyo on Fri 28 Aug.
+GooPer is a house and tech house artist based in Japan, tracked on soundcheck, with 43 sets logged across Tokyo. Often billed alongside Yuta Yamada, Amps and ISPA. Next up: HVEN, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | HVEN | Tokyo |
+| Fri, 11 Sept 2026 | Oath | Tokyo |
 
 ## Recently played
 

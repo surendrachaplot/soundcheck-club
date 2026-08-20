@@ -1,8 +1,8 @@
 # Addy
 
-Addy is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
+Addy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
 
-Addy is a tech house and house artist tracked on soundcheck, with 91 sets logged across Montreal and Toronto. Often billed alongside Manzone & Strong, Tyler Hill and Miz Megs. Next up: Sunnyside Pavilion, Toronto on Sat 29 Aug.
+Addy is a tech house and house artist tracked on soundcheck, with 92 sets logged across Montreal and Toronto. Often billed alongside Manzone & Strong, Tyler Hill and Miz Megs. Next up: Sunnyside Pavilion, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Addy is a tech house and house artist tracked on soundcheck, with 91 sets logged
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sunnyside Pavilion | Toronto |
 | Sat, 29 Aug 2026 | Wiggle Room | Toronto |
+| Sun, 6 Sept 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 

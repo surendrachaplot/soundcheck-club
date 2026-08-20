@@ -9,7 +9,7 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Crate Brewery | London |
-| Sat, 22 Aug 2026 | TBA - EAST LONDON | London |
+| Sat, 22 Aug 2026 | NUMBER 90 LONDON | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |

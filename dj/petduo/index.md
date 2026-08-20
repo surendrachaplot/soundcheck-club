@@ -1,14 +1,13 @@
 # PETDuo
 
-PETDuo is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sensorium, Berlin on Wed, 19 Aug 2026.
+PETDuo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sensorium, Berlin on Wed, 2 Sept 2026.
 
-PETDuo is a techno and industrial artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Basswell. Next up: Sensorium, Berlin on Wed 19 Aug.
+PETDuo is a techno and industrial artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Basswell. Next up: Sensorium, Berlin on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Sensorium | Berlin |
 | Wed, 2 Sept 2026 | Sensorium | Berlin |
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 

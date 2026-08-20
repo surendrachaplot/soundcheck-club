@@ -1,8 +1,8 @@
 # The Social
 
-The Social is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "LOCALISM: Jenny Twenty" on Fri, 21 Aug 2026.
+The Social is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "LOCALISM: Jenny Twenty" on Fri, 21 Aug 2026.
 
-The Social is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 

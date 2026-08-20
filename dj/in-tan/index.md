@@ -1,14 +1,13 @@
 # In-Tan
 
-In-Tan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 19 Aug 2026.
+In-Tan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 26 Aug 2026.
 
-In-Tan is a techno and house artist tracked on soundcheck, with 46 sets logged across Lyon, Marseille and Paris. Often billed alongside Kelbail, Cattoni and Artifak. Next up: La Gare / Le Gore, Paris on Wed 19 Aug.
+In-Tan is a techno and house artist tracked on soundcheck, with 46 sets logged across Lyon, Marseille and Paris. Often billed alongside Kelbail, Cattoni and Artifak. Next up: La Gare / Le Gore, Paris on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | La Gare / Le Gore | Paris |
 | Wed, 26 Aug 2026 | La Gare / Le Gore | Paris |
 | Thu, 27 Aug 2026 | La Gare / Le Gore | Paris |
 

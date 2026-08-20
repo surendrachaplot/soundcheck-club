@@ -1,8 +1,8 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Part Time Killer is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
-Part Time Killer is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: Arzenal, Budapest on Wed 19 Aug.
+Part Time Killer is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: Arzenal, Budapest on Wed 19 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Part Time Killer is a techno and trance artist tracked on soundcheck, with 160 s
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 
 ## Recently played
 

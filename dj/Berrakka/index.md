@@ -1,14 +1,15 @@
 # Berrakka
 
-Berrakka is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
+Berrakka is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
 
-Berrakka is a techno and club artist based in United States of America, tracked on soundcheck, with 61 sets logged across Losangeles, Miami, Newyorkcity and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: TBA, Miami on Sat 5 Sept.
+Berrakka is a techno and club artist based in United States of America, tracked on soundcheck, with 62 sets logged across Losangeles, Miami, Newyorkcity and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: TBA, Miami on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

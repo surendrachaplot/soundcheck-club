@@ -1,8 +1,8 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 21 Aug 2026.
+Nicole Gallamini is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 21 Aug 2026.
 
-Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 49 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Jolene Downtown Miami, Miami on Fri 21 Aug.
+Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 50 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Jolene Downtown Miami, Miami on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 49
 | Fri, 21 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sat, 29 Aug 2026 | Floyd | Miami |
 | Fri, 11 Sept 2026 | Floyd | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

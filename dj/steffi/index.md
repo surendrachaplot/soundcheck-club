@@ -1,8 +1,8 @@
 # Steffi
 
-Steffi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
+Steffi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
 
-Steffi is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: The Steel Yard, London on Fri 4 Sept.
+Steffi is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: The Steel Yard, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Steffi is a techno and house artist tracked on soundcheck, with 143 sets logged 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Steel Yard | London |
 | Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sun, 13 Sept 2026 | Masada | Milan |
 | Sat, 26 Sept 2026 | essaim | Paris |
 
 ## Recently played

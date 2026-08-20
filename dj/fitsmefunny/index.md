@@ -1,14 +1,15 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+FITS ME FUNNY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-FITS ME FUNNY is a techno and house artist tracked on soundcheck, with 51 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Dullingham Polo Club, London on Sat 22 Aug.
+FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 52 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
+| Sun, 30 Aug 2026 | Cafe 1001 | London |
 | Fri, 16 Oct 2026 | The DBA | Manchester |
 
 ## Recently played

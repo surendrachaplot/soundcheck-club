@@ -1,14 +1,15 @@
 # DJ SHIKISAI
 
-DJ SHIKISAI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Horn, Bangkok on Fri, 21 Aug 2026.
+DJ SHIKISAI is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Horn, Bangkok on Fri, 21 Aug 2026.
 
-DJ SHIKISAI is a house and disco artist based in Japan, tracked on soundcheck, with 160 sets logged across Bangkok, Kyoto, Seoul and Tokyo. Often billed alongside judgeman, Toshiyuki Goto and MASAYASU. Next up: Horn, Bangkok on Fri 21 Aug.
+DJ SHIKISAI is a house and disco artist based in Japan, tracked on soundcheck, with 161 sets logged across Bangkok, Kyoto, Seoul and Tokyo. Often billed alongside judgeman, Toshiyuki Goto and MASAYASU. Next up: Horn, Bangkok on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Horn | Bangkok |
+| Fri, 4 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 

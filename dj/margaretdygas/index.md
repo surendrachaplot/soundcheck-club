@@ -1,14 +1,15 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
+Margaret Dygas is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
 
-Margaret Dygas is a house and minimal artist tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
+Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Port of Belgrade | Belgrade |
+| Sun, 6 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |

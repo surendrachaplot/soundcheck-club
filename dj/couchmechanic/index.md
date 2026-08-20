@@ -1,14 +1,15 @@
 # Couch Mechanic
 
-Couch Mechanic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Vanguard, Sydney on Sat, 29 Aug 2026.
+Couch Mechanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Vanguard, Sydney on Sat, 29 Aug 2026.
 
-Couch Mechanic is a techno and house artist based in Australia, tracked on soundcheck, with 28 sets logged across Melbourne and Sydney. Often billed alongside Jane Decks, Lilac and Justin Muscat. Next up: The Vanguard, Sydney on Sat 29 Aug.
+Couch Mechanic is a techno and house artist based in Australia, tracked on soundcheck, with 29 sets logged across Melbourne and Sydney. Often billed alongside Jane Decks, Lilac and Casual P. Next up: The Vanguard, Sydney on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Vanguard | Sydney |
+| Sun, 4 Oct 2026 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Couch Mechanic is a techno and house artist based in Australia, tracked on sound
 
 ## Shares bills with
 
-Jane Decks, Lilac, Justin Muscat
+Jane Decks, Lilac, Casual P
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*

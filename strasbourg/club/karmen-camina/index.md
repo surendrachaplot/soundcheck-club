@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FLASHBALL [Beignet, Yume]" on Thu, 20 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FLASHBALL [Beignet, Yume]" on Thu, 20 Aug 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming ni
 | Sat, 29 Aug 2026 | BLINKD x CHROMA [NEUX • AMORAL • Shanda • Ponygirl • Don't Tell Mum • Lascar & Meursault] | AMORAL, Don't Tell Mum, NEUX, Ponygirl, Shanda |
 | Fri, 4 Sept 2026 | SOUND OF KARMEN [Peach (3h set) • Vio PRG (3h30 set)] | Peach, Vio PRG |
 | Thu, 10 Sept 2026 | BACK 2 MF [Devin Geko, Knuckle, Lude, Vano] | Lude (2) |
+| Sat, 12 Sept 2026 | KC [KITTIN • Vod Kasat • itako • Callèn & Ødass] | Callèn, Miss Kittin, Vod Kasat, itako |
 | Fri, 18 Sept 2026 | SPECIAL GROOVE [Deadbeat & Tikiman • Diane Moe] | Deadbeat, Paul St. Hilaire, Tikiman |
 | Fri, 25 Sept 2026 | Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] | ELLLL, Zoë Mc Pherson |
 

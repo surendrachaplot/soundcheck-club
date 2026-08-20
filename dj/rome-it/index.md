@@ -9,7 +9,7 @@ Rome (IT) is a house and techno artist tracked on soundcheck, with 20 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
-| Sat, 26 Sept 2026 | TBA | Barcelona |
+| Sat, 26 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 

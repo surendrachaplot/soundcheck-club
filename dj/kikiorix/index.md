@@ -1,8 +1,8 @@
 # Kikiorix
 
-Kikiorix is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
+Kikiorix is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
 
-Kikiorix is a house and techno artist based in Japan, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Berlin and Lisbon and 8 more. Often billed alongside Sisi, Kenji Takimi and Danilo Plessow. Next up: Nowadays, Newyorkcity on Sat 22 Aug.
+Kikiorix is a house and techno artist based in Japan, tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Berlin and Lisbon and 9 more. Often billed alongside Sisi, Kenji Takimi and Danilo Plessow. Next up: Nowadays, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kikiorix is a house and techno artist based in Japan, tracked on soundcheck, wit
 | Sat, 22 Aug 2026 | Nowadays | New York City |
 | Sat, 29 Aug 2026 | Modeci | Seoul |
 | Sat, 29 Aug 2026 | Modeci | Seoul |
+| Sun, 18 Oct 2026 | National Art School | Sydney |
 
 ## Recently played
 

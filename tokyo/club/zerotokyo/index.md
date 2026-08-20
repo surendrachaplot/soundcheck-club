@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS -" on Thu, 20 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS -" on Thu, 20 Aug 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
@@ -15,9 +15,9 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wi
 | Fri, 28 Aug 2026 | NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - | HATSUYUKI, NOËL, REXY DEXY, RYO2, SAKO, STRATAH, TRID3NT, omeme_gangimari |
 | Sat, 29 Aug 2026 | COMET SOUNDS vol.4 - ALL MIX / HIPHOP - | ACHIRI, Sakuma, ecec |
 | Fri, 4 Sept 2026 | ULTRAHAUS - HOUSE / TECH HOUSE - | CARTOON, Dan Miyagishi, Kijta, PUNK N MATRIX, Yamariki |
+| Sat, 5 Sept 2026 | EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE | AYANA KOSHIBA, Chamcham, DJ MARIA., EMILIO (3), Maya, SONATA, VOX (1), YAMARCHY, uuu7 |
+| Thu, 10 Sept 2026 | 理由 - ELECTRO / HIPHOP / R&B / HOUSE / BASS - | DA BOOK, DJ EYELASH |
 | Fri, 11 Sept 2026 | Locker Room feat.6EJOU - HARD TECHNO / TECHNO - | 6EJOU, DALJAE |
-| Fri, 18 Sept 2026 | GOLD DISC - ALL MIX - | Aiobahn |
-| Sun, 20 Sept 2026 | ESSENCE - Estella Boersma - TECHNO / HARD TECHNO - | Estella Boersma, HATSUYUKI, Kijta, O.Goo, STRATAH, YURI VALEN |
 
 ## Address
 

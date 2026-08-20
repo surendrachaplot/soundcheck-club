@@ -1,14 +1,14 @@
 # Bianca Intensa
 
-Bianca Intensa is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at KG Radio, Belgrade on Fri, 21 Aug 2026.
+Bianca Intensa is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Studio Штајга, Belgrade on Fri, 21 Aug 2026.
 
-Bianca Intensa is a bass and club artist based in Serbia, tracked on soundcheck, with 22 sets logged across Belgrade and Milan. Often billed alongside ninafterdark, Feloneezy and Honey Jazz. Next up: KG Radio, Belgrade on Fri 21 Aug.
+Bianca Intensa is a bass and club artist based in Serbia, tracked on soundcheck, with 22 sets logged across Belgrade and Milan. Often billed alongside ninafterdark, Feloneezy and Honey Jazz. Next up: Studio Штајга, Belgrade on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | KG Radio | Belgrade |
+| Fri, 21 Aug 2026 | Studio Штајга | Belgrade |
 
 ## Recently played
 

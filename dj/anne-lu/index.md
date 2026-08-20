@@ -1,13 +1,14 @@
 # Anne-Lu
 
-Anne-Lu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Sat, 22 Aug 2026.
+Anne-Lu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Sat, 22 Aug 2026.
 
-Anne-Lu is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside LEAN MARIS, FI3BER and DJ Semisecco. Next up: Baalsaal, Hamburg on Sat 22 Aug.
+Anne-Lu is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside LEAN MARIS, FI3BER and DJ Semisecco. Next up: Baalsaal, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Baalsaal | Hamburg |
 | Sat, 22 Aug 2026 | Baalsaal | Hamburg |
 
 ## Recently played

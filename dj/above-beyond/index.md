@@ -1,13 +1,14 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Above & Beyond is a Trance and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at SWG3, Glasgow on Fri, 16 Oct 2026.
 
-Above & Beyond are a trance and progressive house duo based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Bali and Belfast and 18 more. Often billed alongside Billy Gillies, Deadmau5 and Charlotte de Witte. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
+Above & Beyond are a trance and progressive house duo based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Bali and Belfast and 18 more. Often billed alongside Billy Gillies, Deadmau5 and Charlotte de Witte. Next up: SWG3, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | SWG3 | Glasgow |
 | Sat, 17 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 24 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 30 Oct 2026 | The Prospect Building | Bristol |

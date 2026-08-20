@@ -12,7 +12,7 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights,
 | Sat, 22 Aug 2026 | bwc sounds: Cosmic Rhythms Afterparty | DJ Sylo, Joshua Lang, Matthew Law |
 | Fri, 28 Aug 2026 | SOUND ASSEMBLY // JAEL & Khiari Bakar | JAEL, Khiari Bakar |
 | Sat, 29 Aug 2026 | Sweater On Polo, Sight -Beyond- Sound // Foxy Nora, Irie (Bully) | Foxy Nora, Sight -Beyond- Sound, Sweater On Polo |
-| Fri, 4 Sept 2026 | BASTET presents: Black Rave Culture | Amal, Black Rave Culture, James Bangura, Nativesun |
+| Sat, 5 Sept 2026 | BASTET presents: Black Rave Culture | Amal, Black Rave Culture, James Bangura, Nativesun |
 | Sat, 19 Sept 2026 | El Bait Baitkum: Juana, has.san, Vicenta, Firestone | Firestone, Juana, Vicenta, has.san |
 
 ## Address

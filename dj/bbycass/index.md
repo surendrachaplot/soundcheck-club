@@ -1,8 +1,8 @@
 # Bby Cass
 
-Bby Cass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
+Bby Cass is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
 
-Bby Cass is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Melbourne. Often billed alongside TEEJAY, Mike Callander and Sleepy Jay. Next up: QQQ ST. Park, Melbourne on Sat 22 Aug.
+Bby Cass is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Melbourne. Often billed alongside TEEJAY, Mike Callander and Sleepy Jay. Next up: QQQ ST. Park, Melbourne on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bby Cass is a house and techno artist based in Australia, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | QQQ ST. Park | Melbourne |
 | Sat, 22 Aug 2026 | Dr Morse | Melbourne |
+| Fri, 11 Sept 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 

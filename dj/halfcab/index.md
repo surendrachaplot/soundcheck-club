@@ -1,14 +1,15 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Matiz, Sao Paulo on Fri, 21 Aug 2026.
+Halfcab is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Matiz, Sao Paulo on Fri, 21 Aug 2026.
 
-Halfcab is a house and tech house artist tracked on soundcheck, with 20 sets logged across Malta and Saopaulo. Often billed alongside L_cio, BADSISTA and Delcu. Next up: Matiz, Saopaulo on Fri 21 Aug.
+Halfcab is a house and tech house artist tracked on soundcheck, with 21 sets logged across Malta and Saopaulo. Often billed alongside L_cio, Solarce Brothers and Ashibah. Next up: Matiz, Saopaulo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Matiz | Sao Paulo |
+| Sat, 22 Aug 2026 | Mercado Pago Hall | Sao Paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Halfcab is a house and tech house artist tracked on soundcheck, with 20 sets log
 
 ## Shares bills with
 
-L_cio, BADSISTA, Delcu
+L_cio, Solarce Brothers, Ashibah
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

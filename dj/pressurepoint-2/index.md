@@ -1,14 +1,15 @@
 # Pressure Point (US)
 
-Pressure Point (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
+Pressure Point (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
 
-Pressure Point (US) is a techno and house artist tracked on soundcheck, with 55 sets logged across Miami and Newyorkcity. Often billed alongside Berrakka, Lady Narcisse and SATURNSARii. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
+Pressure Point (US) is a techno and house artist tracked on soundcheck, with 56 sets logged across Miami and Newyorkcity. Often billed alongside Berrakka, Lady Narcisse and SATURNSARii. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Jolene Downtown Miami | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

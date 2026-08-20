@@ -1,8 +1,8 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
-Coffintexts is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Jonny From Space. Next up: Shunter, Rotterdam on Sat 22 Aug.
+Coffintexts is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 126 sets lo
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 19 Sept 2026 | Refuge | New York City |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 126 sets lo
 
 ## Shares bills with
 
-Sister System, SATURNSARii, Jonny From Space
+Sister System, SATURNSARii, Berrakka
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

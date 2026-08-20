@@ -1,14 +1,15 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
+Elijah Something is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
 
-Elijah Something is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bali, Leeds and London and 3 more. Often billed alongside Cassette, Litmus and Caleb Jackson. Next up: Distrikt, Leeds on Fri 21 Aug.
+Elijah Something is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Leeds and London and 3 more. Often billed alongside Cassette, Litmus and Caleb Jackson. Next up: Distrikt, Leeds on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Distrikt | Leeds |
+| Sun, 4 Oct 2026 | The Ivy | Sydney |
 
 ## Recently played
 

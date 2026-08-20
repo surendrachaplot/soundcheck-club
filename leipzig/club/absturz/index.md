@@ -1,8 +1,8 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RAWRpocalypse! xD" on Sat, 22 Aug 2026.
+Absturz is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RAWRpocalypse! xD" on Sat, 22 Aug 2026.
 
-Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, with line-ups including Christian Ackermann. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
+Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, with line-ups including Christian Ackermann and Oliotronix. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, wit
 | Fri, 4 Sept 2026 | CALL OF THE WILD #6 with Electronic Routes & exLEpäng |  |
 | Sat, 5 Sept 2026 | KARAOKE PARTY - Schiefe Töne, große Gefühle |  |
 | Fri, 11 Sept 2026 | [TRANCE EDIT] |  |
+| Sat, 26 Sept 2026 | br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party | Oliotronix |
 
 ## Address
 

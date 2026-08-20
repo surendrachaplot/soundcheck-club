@@ -1,6 +1,6 @@
 # Petrified Phoenix Showcase in Odonien at Odonien
 
-Petrified Phoenix Showcase in Odonien on Sat 29 Aug, Cologne. 14 acts on the bill: Avocado, Baerbel, Daniel Neuland and Danito and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+Petrified Phoenix Showcase in Odonien on Sat 29 Aug, Cologne. 17 acts on the bill: Avocado, Baerbel, Daniel Neuland and Danito and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,12 +17,15 @@ Petrified Phoenix Showcase in Odonien on Sat 29 Aug, Cologne. 14 acts on the bil
 - Dave Dinger
 - derderwandert
 - Justice
+- JUSTICE (DE)
 - Nic Lorenz
 - NUAH
 - Pauli Pocket
+- Rad.Lez
 - Rallo
 - Susi&Paula
 - vivi
+- VIVI (DE)
 - vom Feisten
 
 *Source: [soundcheck](https://soundcheck.club/e/2488934-petrified-phoenix-showcase-in-odonien-at-odonien/)*

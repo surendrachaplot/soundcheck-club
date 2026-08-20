@@ -1,6 +1,6 @@
 # LOOP with Fatboy Slim at Fabrik
 
-LOOP with Fatboy Slim at Fabrik on Sat 10 Oct, Madrid. 6 acts on the bill: Alex Clap, Chloé Caillet, Fatboy Slim and Layo & Bushwacka! and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+LOOP with Fatboy Slim at Fabrik on Sat 10 Oct, Madrid. 9 acts on the bill: Alex Clap, Carlos Chaparro, Chloé Caillet and Fatboy Slim and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,13 @@ LOOP with Fatboy Slim at Fabrik on Sat 10 Oct, Madrid. 6 acts on the bill: Alex 
 ## Line-up
 
 - Alex Clap
+- Carlos Chaparro
 - Chloé Caillet
 - Fatboy Slim
+- Hector Couto
 - Layo & Bushwacka!
 - Patrick Topping
+- Rafa Barrios
 - Raul Ortiz
 
 *Source: [soundcheck](https://soundcheck.club/e/2495405-loop-with-fatboy-slim-at-fabrik/)*

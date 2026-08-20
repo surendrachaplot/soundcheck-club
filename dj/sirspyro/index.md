@@ -1,14 +1,15 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
+Sir Spyro is a Grime and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
 
-Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Footsie, Kahn and Joker. Next up: Cupra City Garage Manchester, Manchester on Fri 21 Aug.
+Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Footsie, Kahn and Joker. Next up: Cupra City Garage Manchester, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Cupra City Garage Manchester | Manchester |
+| Sat, 29 Aug 2026 | KOKO | London |
 | Thu, 24 Sept 2026 | Hidden | Manchester |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |

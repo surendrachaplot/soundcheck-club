@@ -16,7 +16,7 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 | Sun, 6 Sept 2026 | Piknic Électronik MTL #14: Misstress Barbara / Dameer | Dameer, Misstress Barbara, Ossifer, Raf Reza, mayalabae |
 | Mon, 7 Sept 2026 | Piknic Électronik MTL #15: Cloudy / No Diploma Records | Cloudy, No Police, Pyromane |
 | Sun, 13 Sept 2026 | Piknic Électronik MTL #16: Dean Turnley, Julian Fijma / Roche Musique: Didi Han, Cezaire | Cezaire, Dean Turnley, Didi Han, Julian Fijma, Prospa |
-| Sat, 19 Sept 2026 | RuPaul DJ Set - Parc Jean-Drapeau |  |
+| Sat, 19 Sept 2026 | RuPaul DJ Set - Parc Jean-Drapeau | BisouBizou |
 | Sat, 26 Sept 2026 | Ricardo Villalobos - Parc Jean-Drapeau | Maher Daniel, Ricardo Villalobos |
 
 ## Address

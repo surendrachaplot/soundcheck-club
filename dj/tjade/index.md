@@ -1,8 +1,8 @@
 # Tjade
 
-Tjade is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Tjade is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-Tjade is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 16 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
+Tjade is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 16 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tjade is a house and techno artist tracked on soundcheck, with 115 sets logged a
 | Fri, 4 Sept 2026 | block. | Dublin |
 | Sat, 5 Sept 2026 | Sacré | Paris |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
+| Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |

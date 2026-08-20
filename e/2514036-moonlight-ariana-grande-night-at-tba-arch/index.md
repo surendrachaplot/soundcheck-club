@@ -1,6 +1,6 @@
 # MOONLIGHT -ARIANA GRANDE NIGHT- at TBA - ARCH
 
-MOONLIGHT -ARIANA GRANDE NIGHT- at TBA - ARCH on Wed 23 Sept, Tokyo. 1 act on the bill: MAXIM (8). Pop and R&B. Preview the line-up and save it on soundcheck.
+MOONLIGHT -ARIANA GRANDE NIGHT- at TBA - ARCH on Wed 23 Sept, Tokyo. 2 acts on the bill: crazist and MAXIM (8). Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MOONLIGHT -ARIANA GRANDE NIGHT- at TBA - ARCH on Wed 23 Sept, Tokyo. 1 act on th
 
 ## Line-up
 
+- crazist
 - MAXIM (8)
 
 *Source: [soundcheck](https://soundcheck.club/e/2514036-moonlight-ariana-grande-night-at-tba-arch/)*

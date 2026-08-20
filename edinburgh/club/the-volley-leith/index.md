@@ -1,14 +1,15 @@
 # The Volley Leith
 
-The Volley Leith is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Volley Fridays" on Fri, 21 Aug 2026.
+The Volley Leith is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Volley Fridays" on Fri, 21 Aug 2026.
 
-The Volley Leith is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 180 Leith Walk, Edinburgh EH6 5EA.
+The Volley Leith is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 180 Leith Walk, Edinburgh EH6 5EA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Volley Fridays |  |
+| Sat, 22 Aug 2026 | Volley Saturdays |  |
 
 ## Address
 

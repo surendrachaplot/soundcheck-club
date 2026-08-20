@@ -1,14 +1,15 @@
 # Andie
 
-Andie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Badin, Montreal on Sat, 29 Aug 2026.
+Andie is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Badin, Montreal on Sat, 29 Aug 2026.
 
-Andie is a house and disco artist based in Canada, tracked on soundcheck, with 30 sets logged across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Salon Badin, Montreal on Sat 29 Aug.
+Andie is a disco and house artist based in Canada, tracked on soundcheck, with 31 sets logged across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Salon Badin, Montreal on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Salon Badin | Montreal |
+| Sat, 5 Sept 2026 | Le Balcon | Montreal |
 
 ## Recently played
 

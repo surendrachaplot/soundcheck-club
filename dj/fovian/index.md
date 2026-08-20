@@ -1,14 +1,15 @@
 # Fovian
 
-Fovian is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lilli Escher, Hamburg on Sat, 22 Aug 2026.
+Fovian is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lilli Escher, Hamburg on Sat, 22 Aug 2026.
 
-Fovian is a techno and trance artist tracked on soundcheck, with 32 sets logged across Hamburg. Often billed alongside cmp (1), ONLYLU and Shimmy Robin. Next up: Lilli Escher, Hamburg on Sat 22 Aug.
+Fovian is a techno and trance artist tracked on soundcheck, with 33 sets logged across Hamburg. Often billed alongside cmp (1), ONLYLU and Shimmy Robin. Next up: Lilli Escher, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Lilli Escher | Hamburg |
+| Sat, 29 Aug 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played
 

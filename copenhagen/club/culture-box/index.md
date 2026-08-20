@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Hyggelit Showcase: Sophie van Hayden / Relinquo / Severin / No Celebrity / Rozgu / Hermann Brav" on Fri, 21 Aug 2026.
+Culture Box is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Hyggelit Showcase: Sophie van Hayden / Relinquo / Severin / No Celebrity / Rozgu / Hermann Brav" on Fri, 21 Aug 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Alex Stein and AMITTET and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Albano Bastonero and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

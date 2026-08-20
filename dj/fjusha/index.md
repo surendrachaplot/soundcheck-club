@@ -1,8 +1,8 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 28 Aug 2026.
+FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 28 Aug 2026.
 
-FJUSHA is a techno and trance artist tracked on soundcheck, with 67 sets logged across Athens, Bangkok, Barcelona and Basel and 21 more. Often billed alongside DJ Cringey, Bae Blade and Clara Cuvé. Next up: RSO.BERLIN, Berlin on Fri 28 Aug.
+FJUSHA is a techno and trance artist tracked on soundcheck, with 68 sets logged across Athens, Bangkok, Barcelona and Basel and 21 more. Often billed alongside DJ Cringey, Bae Blade and CALLUSH. Next up: RSO.BERLIN, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 67 sets logged 
 | Fri, 28 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Bahnwärter Thiel | Munich |
 | Sat, 19 Sept 2026 | KALT | Strasbourg |
+| Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 67 sets logged 
 
 ## Shares bills with
 
-DJ Cringey, Bae Blade, Clara Cuvé
+DJ Cringey, Bae Blade, CALLUSH
 
 *Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

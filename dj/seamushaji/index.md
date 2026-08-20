@@ -1,14 +1,15 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
+Seamus Haji is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
 
-Seamus Haji is a house and disco artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 11 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Amnesia Ibiza, Ibiza on Fri 4 Sept.
+Seamus Haji is a house and disco artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 11 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Amnesia Ibiza, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Wiggle Room | Toronto |
 | Fri, 25 Sept 2026 | TBA - 6th St Bridge | Los Angeles |
 
 ## Recently played

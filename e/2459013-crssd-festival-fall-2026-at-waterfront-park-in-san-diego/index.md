@@ -1,6 +1,6 @@
 # CRSSD Festival Fall 2026 at Waterfront Park in San Diego
 
-CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandiego. 37 acts on the bill: 999999999, ARODES, Ben UFO and Carlita and 33 more. Preview the line-up and save it on soundcheck.
+CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandiego. 40 acts on the bill: 999999999, Adam Sellouk, Ahadadream and ARODES and 36 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,11 @@ CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandieg
 ## Line-up
 
 - 999999999
+- Adam Sellouk
+- Ahadadream
 - ARODES
 - Ben UFO
+- Boys Noize
 - Carlita
 - ChaseWest
 - Chris Lake

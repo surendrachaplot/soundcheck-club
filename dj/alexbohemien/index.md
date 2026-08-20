@@ -1,0 +1,28 @@
+# Alex Bohemien
+
+Alex Bohemien is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+
+Alex Bohemien is a tech house and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Key Eff, Broosk and Redical. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Sept 2026 | TBA - Il Mercato Centrale | Melbourne |
+
+## Recently played
+
+- Dunes, Ibiza — Wed, 29 Jul 2026
+- WOMB, Tokyo — Sat, 25 Jul 2026
+- Club Partenopeo, Naples — Fri, 3 Jul 2026
+- Dunes, Ibiza — Wed, 24 Jun 2026
+- Union Club, Vauxhall, London — Fri, 19 Jun 2026
+- Gallery, London — Thu, 18 Jun 2026
+- Duel Club, Naples — Fri, 8 May 2026
+- Duel Club, Naples — Fri, 17 Apr 2026
+
+## Shares bills with
+
+Key Eff, Broosk, Redical
+
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

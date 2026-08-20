@@ -1,6 +1,6 @@
 # Whole Danth Catalogue UK Edition at Club Cheek
 
-Whole Danth Catalogue UK Edition at Club Cheek on Fri 21 Aug, London. 1 act on the bill: Ossia. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Whole Danth Catalogue UK Edition at Club Cheek on Fri 21 Aug, London. 2 acts on the bill: Ossia and YASDUB. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Whole Danth Catalogue UK Edition at Club Cheek on Fri 21 Aug, London. 1 act on t
 ## Line-up
 
 - Ossia
+- YASDUB
 
 *Source: [soundcheck](https://soundcheck.club/e/2512304-whole-danth-catalogue-uk-edition-at-club-cheek/)*

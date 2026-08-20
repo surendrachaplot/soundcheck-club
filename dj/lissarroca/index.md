@@ -9,8 +9,8 @@ Lis Sarroca is a house and techno artist tracked on soundcheck, with 96 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Les Enfants Brillants | Barcelona |
-| Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
 | Fri, 18 Sept 2026 | 3oz Dive Club | San Diego |
+| Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 | Fri, 9 Oct 2026 | Les Enfants Brillants | Barcelona |
 

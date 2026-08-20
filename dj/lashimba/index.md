@@ -1,8 +1,8 @@
 # Lashimba
 
-Lashimba is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Redlight, Manchester on Fri, 28 Aug 2026.
+Lashimba is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Redlight, Manchester on Fri, 28 Aug 2026.
 
-Lashimba is a minimal and tech house artist tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Obeka, CBABY and Dan Louder. Next up: Redlight, Manchester on Fri 28 Aug.
+Lashimba is a tech house and minimal artist tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Obeka, CBABY and Dan Louder. Next up: Redlight, Manchester on Fri 28 Aug.
 
 ## Upcoming shows
 

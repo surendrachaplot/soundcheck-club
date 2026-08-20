@@ -1,13 +1,14 @@
 # Loïc
 
-Loïc is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Buenos Aires on Fri, 4 Sept 2026.
+Loïc is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Saldias Arena, Buenos Aires on Sat, 29 Aug 2026.
 
-Loïc is a house and italo disco artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: TBA, Buenosaires on Fri 4 Sept.
+Loïc is a house and italo disco artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: Saldias Arena, Buenosaires on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Saldias Arena | Buenos Aires |
 | Fri, 4 Sept 2026 | TBA | Buenos Aires |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Onométro
 
-Onométro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Oath, Tokyo on Wed, 19 Aug 2026.
+Onométro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bonobo, Tokyo on Fri, 21 Aug 2026.
 
-Onométro is a house and techno artist tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Oath, Tokyo on Wed 19 Aug.
+Onométro is a house and techno artist tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Bonobo, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Oath | Tokyo |
 | Fri, 21 Aug 2026 | Bonobo | Tokyo |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # ONíRICA pres Colyn at INPUT High Fidelity Dance Club
 
-ONíRICA pres Colyn at INPUT High Fidelity Dance Club on Wed 23 Sept, Barcelona. 1 act on the bill: Colyn. Techno and Deep House. Preview the line-up and save it on soundcheck.
+ONíRICA pres Colyn at INPUT High Fidelity Dance Club on Wed 23 Sept, Barcelona. 2 acts on the bill: Colyn and Rivellino. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ ONíRICA pres Colyn at INPUT High Fidelity Dance Club on Wed 23 Sept, Barcelona.
 ## Line-up
 
 - Colyn
+- Rivellino
 
 *Source: [soundcheck](https://soundcheck.club/e/2489588-on-rica-pres-colyn-at-input-high-fidelity-dance-club/)*

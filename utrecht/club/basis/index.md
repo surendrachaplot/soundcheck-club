@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra" on Fri, 21 Aug 2026.
+BASIS is a music venue in Utrecht with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra" on Fri, 21 Aug 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 16 upcoming nights, with line-ups including 36framez, Alarico, BIIA and Bohm and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with line-ups including 36framez, Alarico, BIIA and Bohm and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 

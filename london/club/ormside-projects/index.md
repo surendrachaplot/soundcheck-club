@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ORMSIDE presents: DJ Marcelle (in Conversation & Extended Set) with sinny & Marylou " on Sat, 22 Aug 2026.
+Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ORMSIDE presents: DJ Marcelle (in Conversation & Extended Set) with sinny & Marylou " on Sat, 22 Aug 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 404 eros, anu, AYEGY and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 404 eros, anu, AYEGY and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 

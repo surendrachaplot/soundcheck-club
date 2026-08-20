@@ -1,8 +1,8 @@
 # EZA (DE)
 
-EZA (DE) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
+EZA (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
 
-EZA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin. Often billed alongside e.leptic, Patchy and Paul Bauhaus. Next up: Humboldthain Club, Berlin on Sat 22 Aug.
+EZA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside e.leptic, Patchy and Paul Bauhaus. Next up: Humboldthain Club, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ EZA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, 
 | Fri, 4 Sept 2026 | ://about blank | Berlin |
 | Sat, 5 Sept 2026 | Großer Bunkerberg Volkspark Fhain | Berlin |
 | Sat, 5 Sept 2026 | Humboldthain Club | Berlin |
+| Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

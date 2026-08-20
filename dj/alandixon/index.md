@@ -1,13 +1,14 @@
 # Alan Dixon
 
-Alan Dixon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
+Alan Dixon is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Audio Club, Geneva on Sat, 29 Aug 2026.
 
-Alan Dixon is a house and afro house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Chinois Ibiza, Ibiza on Fri 11 Sept.
+Alan Dixon is a house and afro house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Audio Club, Geneva on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Audio Club | Geneva |
 | Fri, 11 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | KOKO | London |
 

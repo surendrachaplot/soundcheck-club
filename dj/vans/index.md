@@ -1,14 +1,15 @@
 # Vans
 
-Vans is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
+Vans is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
 
-Vans is a tech house and house artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Tim Dauz, RICK E and AMI (NY). Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
+Vans is a tech house and house artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Tim Dauz, RICK E and AMI (NY). Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Dead Letter No. 9 | New York City |
+| Sat, 22 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 

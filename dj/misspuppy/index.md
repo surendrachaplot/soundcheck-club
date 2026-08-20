@@ -1,14 +1,15 @@
 # Miss Puppy
 
-Miss Puppy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+Miss Puppy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
-Miss Puppy is a techno and house artist based in Denmark, tracked on soundcheck, with 56 sets logged across Brussels, Copenhagen and Hamburg. Often billed alongside Ida Aya, Phloem and steamboi. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
+Miss Puppy is a techno and house artist based in Denmark, tracked on soundcheck, with 57 sets logged across Brussels, Copenhagen and Hamburg. Often billed alongside Ida Aya, Phloem and steamboi. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Den Anden Side | Copenhagen |
+| Fri, 18 Sept 2026 | Copenhill | Copenhagen |
 
 ## Recently played
 

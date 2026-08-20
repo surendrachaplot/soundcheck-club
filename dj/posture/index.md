@@ -9,7 +9,7 @@ Posture is a techno and house artist based in Germany, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Kater | Berlin |
-| Fri, 28 Aug 2026 | TBA | Berlin |
+| Fri, 28 Aug 2026 | Ziegrastraße 11 | Berlin |
 
 ## Recently played
 

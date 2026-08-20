@@ -9,7 +9,7 @@ Tylr is a house and techno artist tracked on soundcheck, with 325 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - The Vault : 16940 Hamilton Avenue: | Detroit |
-| Sat, 29 Aug 2026 | The Eagle | London |
+| Sat, 29 Aug 2026 | The Eagle of Detroit | London |
 
 ## Recently played
 

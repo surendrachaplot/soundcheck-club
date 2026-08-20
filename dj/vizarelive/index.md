@@ -1,13 +1,14 @@
 # VIZARE Live
 
-VIZARE Live is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at LA-YAM Rooftop, London on Sat, 12 Sept 2026.
+VIZARE Live is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
-VIZARE Live is a minimal and house artist tracked on soundcheck, with 11 sets logged across Berlin, Istanbul, London and Paris. Often billed alongside Cesar Merveille, Viken Arman and Clovis. Next up: LA-YAM Rooftop, London on Sat 12 Sept.
+VIZARE Live is a minimal and house artist tracked on soundcheck, with 12 sets logged across Berlin, Istanbul, London and Paris. Often billed alongside Cesar Merveille, Viken Arman and Clovis. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 12 Sept 2026 | LA-YAM Rooftop | London |
 
 ## Recently played

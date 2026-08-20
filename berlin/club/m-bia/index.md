@@ -17,7 +17,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with 
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |
 | Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Remzcore |
-| Sat, 26 Sept 2026 | Tropical Nomads presents: Technology (Nano Rec.) |  |
+| Sat, 26 Sept 2026 | Tropical Nomads presents: Technology (Nano Rec.) & ARAM (Believe Lab) |  |
 
 ## Address
 

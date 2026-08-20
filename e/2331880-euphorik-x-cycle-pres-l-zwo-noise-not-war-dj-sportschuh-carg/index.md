@@ -1,6 +1,6 @@
 # EUPHORIK x CYCLE pres. L.zwo, Noise Not War, DJ SPORTSCHUH, CARGO, Alex Friday, L-AUX, MADMAN at Lokschuppen Berlin
 
-EUPHORIK x CYCLE pres. L.zwo, Noise Not War, DJ SPORTSCHUH, CARGO, Alex Friday, L-AUX, MADMAN at Lokschuppen Berlin on Sat 29 Aug, Berlin. 16 acts on the bill: Alex Friday, Backyard Mix, CARGO (DE) and DiscoDaisy and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+EUPHORIK x CYCLE pres. L.zwo, Noise Not War, DJ SPORTSCHUH, CARGO, Alex Friday, L-AUX, MADMAN at Lokschuppen Berlin on Sat 29 Aug, Berlin. 17 acts on the bill: Alex Friday, Backyard Mix, CARGO (DE) and DiscoDaisy and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ EUPHORIK x CYCLE pres. L.zwo, Noise Not War, DJ SPORTSCHUH, CARGO, Alex Friday, 
 - L.zwo
 - Limoncello
 - MADMAN (2)
+- MATHILDA (2)
 - Noise Not War
 - SHOKI287
 - SIKXTO

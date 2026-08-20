@@ -1,13 +1,14 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Rauschhaus is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Veronica Schip, Amsterdam on Sat, 26 Sept 2026.
 
-Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Markus Klee, Around Us and Katzengold. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
+Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Markus Klee, Around Us and Katzengold. Next up: Veronica Schip, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Veronica Schip | Amsterdam |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
 
 ## Recently played

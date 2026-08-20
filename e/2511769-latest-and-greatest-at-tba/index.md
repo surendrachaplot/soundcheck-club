@@ -1,6 +1,6 @@
 # Latest and Greatest at TBA
 
-Latest and Greatest at TBA on Sun 27 Sept, Chicago. 3 acts on the bill: Johnny Armstrong, Mantas Steles and Taimur. Techno and House. Preview the line-up and save it on soundcheck.
+Latest and Greatest at TBA on Sun 27 Sept, Chicago. 4 acts on the bill: D A S, Johnny Armstrong, Mantas Steles and Taimur. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Latest and Greatest at TBA on Sun 27 Sept, Chicago. 3 acts on the bill: Johnny A
 
 ## Line-up
 
+- D A S
 - Johnny Armstrong
 - Mantas Steles
 - Taimur

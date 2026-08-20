@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois" on Thu, 20 Aug 2026.
+nachbar is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois" on Thu, 20 Aug 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including angelboy, Flits, Isaiah (NL) and Lamique and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including angelboy, Flits, Isaiah (NL) and Lamique and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # TRANSGENIK: Cleopard2000, Mija, KVN, Shannon at Virage
 
-TRANSGENIK: Cleopard2000, Mija, KVN, Shannon at Virage on Fri 28 Aug, Paris. 4 acts on the bill: Cleopard2000, KVN, Mija and Shannon. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANSGENIK: Cleopard2000, Mija, KVN, Shannon at Virage on Fri 28 Aug, Paris. 5 acts on the bill: Cleopard2000, KVKN, KVN and Mija and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TRANSGENIK: Cleopard2000, Mija, KVN, Shannon at Virage on Fri 28 Aug, Paris. 4 a
 ## Line-up
 
 - Cleopard2000
+- KVKN
 - KVN
 - Mija
 - Shannon

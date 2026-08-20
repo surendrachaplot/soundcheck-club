@@ -9,7 +9,7 @@ Bermondsey Social Club is a music venue in London listed on soundcheck. 2 upcomi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Bloom Sound 3rd Birthday w/ Chris Brooks, Brandon Tourle, Diego Gee (Tech House All Day Long) | Brandon Tourle, Chris Brooks, DRIA, Diego Gee, KOLO, MiddleGround |
-| Fri, 25 Sept 2026 | Continental Jam Selection |  |
+| Fri, 25 Sept 2026 | Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House |  |
 
 ## Address
 

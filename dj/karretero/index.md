@@ -1,8 +1,8 @@
 # Karretero
 
-Karretero is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
+Karretero is a Tech House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
 
-Karretero is a techno and tech house artist based in Spain, tracked on soundcheck, with 46 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 2 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: Madrid Caja Mágica, Madrid on Sat 5 Sept.
+Karretero is a tech house and techno artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 2 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: Madrid Caja Mágica, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Karretero is a techno and tech house artist based in Spain, tracked on soundchec
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |

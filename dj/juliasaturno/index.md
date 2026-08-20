@@ -1,14 +1,15 @@
 # Julia Saturno
 
-Julia Saturno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 20 Aug 2026.
+Julia Saturno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 20 Aug 2026.
 
-Julia Saturno is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Miami. Often billed alongside CHAOS!, Lotusoph and SATURNSARii. Next up: Jolene Downtown Miami, Miami on Thu 20 Aug.
+Julia Saturno is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside CHAOS!, Lotusoph and SATURNSARii. Next up: Jolene Downtown Miami, Miami on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Jolene Downtown Miami | Miami |
+| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Chino
 
-Chino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
+Chino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
 
-Chino is a techno and electro artist based in Poland, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Buenosaires and Krakow and 4 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
+Chino is a techno and electro artist based in Poland, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Buenosaires and Krakow and 4 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Angel Music Bar | Melbourne |
+| Sat, 19 Sept 2026 | Chmury | Warsaw |
 
 ## Recently played
 

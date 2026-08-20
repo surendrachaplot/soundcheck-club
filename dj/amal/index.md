@@ -9,7 +9,7 @@ Amal is a club and house artist based in United States of America, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | La Gravière | Geneva |
-| Fri, 4 Sept 2026 | Bastet | Philadelphia |
+| Sat, 5 Sept 2026 | Bastet | Philadelphia |
 | Sun, 6 Sept 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 

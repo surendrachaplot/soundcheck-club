@@ -1,13 +1,14 @@
 # Ziegrastraße 11
 
-Ziegrastraße 11 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "AKKUT" on Fri, 18 Sept 2026.
+Ziegrastraße 11 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Blowjobcenter: The Blow Ball" on Fri, 28 Aug 2026.
 
-Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Forgotten Sounds, ISHAPE, LUISELLE and TRYCK. Browse upcoming dates, start times and who's playing. Ziegrastraße 11, 12057 Berlin, Germany.
+Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Agua con gas, Forgotten Sounds, ISHAPE and Joan Bernat and 2 more. Browse upcoming dates, start times and who's playing. Ziegrastraße 11, 12057 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Blowjobcenter: The Blow Ball | Agua con gas, Joan Bernat, Kubin, Posture, SENERGI, SXCL |
 | Fri, 18 Sept 2026 | AKKUT | Forgotten Sounds, ISHAPE, LUISELLE, TRYCK |
 
 ## Address
