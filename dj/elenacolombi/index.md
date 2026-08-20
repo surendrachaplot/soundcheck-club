@@ -1,8 +1,8 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Elena Colombi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
-Elena Colombi is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Piedicavallo, Turin on Fri 21 Aug.
+Elena Colombi is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Elena Colombi is a techno and house artist tracked on soundcheck, with 137 sets 
 | Fri, 21 Aug 2026 | Piedicavallo | Turin |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
+| Sat, 26 Sept 2026 | Zentralwäscherei | Zurich |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Elena Colombi is a techno and house artist tracked on soundcheck, with 137 sets 
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Altern 8 b2b Slipmatt w/ MC Magika [Prodigy & Carl Cox Afterparty]" on Thu, 20 Aug 2026.
+Wigwam is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Altern 8 b2b Slipmatt w/ MC Magika [Prodigy & Carl Cox Afterparty]" on Thu, 20 Aug 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including ALPER SKR, Altern-8, Angel D'lite and BENZA and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

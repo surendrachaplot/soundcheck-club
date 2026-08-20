@@ -1,14 +1,15 @@
 # hatemebaby
 
-hatemebaby is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at OIL Club, Shenzhen on Fri, 28 Aug 2026.
+hatemebaby is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OIL Club, Shenzhen on Fri, 28 Aug 2026.
 
-hatemebaby is a club and experimental artist based in China, tracked on soundcheck, with 4 sets logged across Hongkong and Shenzhen. Often billed alongside BNT (CN), Butterfly (2) and Flower Boy. Next up: OIL Club, Shenzhen on Fri 28 Aug.
+hatemebaby is a club and experimental artist based in China, tracked on soundcheck, with 5 sets logged across Hongkong and Shenzhen. Often billed alongside Replica.mp3, BNT (CN) and Butterfly (2). Next up: OIL Club, Shenzhen on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | OIL Club | Shenzhen |
+| Sat, 3 Oct 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ hatemebaby is a club and experimental artist based in China, tracked on soundche
 
 ## Shares bills with
 
-BNT (CN), Butterfly (2), Flower Boy
+Replica.mp3, BNT (CN), Butterfly (2)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hatemebaby/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hatemebaby/)*

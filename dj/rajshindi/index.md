@@ -1,6 +1,6 @@
 # Raj Shindi
 
-Raj Shindi is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Raj Shindi is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Raj Shindi is a house and minimal artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Jesper Aubin, Martin Brodin and Anne-Sophie Selig. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Raj Shindi is a house and minimal artist based in Sweden, tracked on soundcheck,
 
 Jesper Aubin, Martin Brodin, Anne-Sophie Selig
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajshindi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajshindi/)*

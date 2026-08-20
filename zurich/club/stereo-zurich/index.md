@@ -1,6 +1,6 @@
 # Stereo (Zurich)
 
-Stereo (Zurich) is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Aliceyuki / Steve Marvin / Dominik André" on Sat, 22 Aug 2026.
+Stereo (Zurich) is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Aliceyuki / Steve Marvin / Dominik André" on Sat, 22 Aug 2026.
 
 Stereo (Zurich) is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Aliceyuki and Dominik André. Browse upcoming dates, start times and who's playing. Brauerstrasse 36, 8004 Zürich, Switzerland.
 
@@ -14,4 +14,4 @@ Stereo (Zurich) is a music venue in Zurich listed on soundcheck. 1 upcoming nigh
 
 Brauerstrasse 36, 8004 Zürich, Switzerland, Zurich
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/stereo-zurich/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/stereo-zurich/)*

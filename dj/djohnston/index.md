@@ -1,6 +1,6 @@
 # DJohnston
 
-DJohnston is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
+DJohnston is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
 
 DJohnston is a techno and electro artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona. Often billed alongside Verushka, Jhort and servei. Next up: Razzmatazz, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJohnston is a techno and electro artist based in Spain, tracked on soundcheck, 
 
 Verushka, Jhort, servei
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djohnston/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djohnston/)*

@@ -1,6 +1,6 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Sina (AU) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 38 s
 
 Kavil, Vlada, Tangerine
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

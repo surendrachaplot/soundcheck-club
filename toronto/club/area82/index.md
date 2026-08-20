@@ -1,6 +1,6 @@
 # Area82
 
-Area82 is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "STARSTRUCK: StarTroupe.EXE, michael angelo,  Silkcastle, HANDSTAND" on Sat, 22 Aug 2026.
+Area82 is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "STARSTRUCK: StarTroupe.EXE, michael angelo,  Silkcastle, HANDSTAND" on Sat, 22 Aug 2026.
 
 Area82 is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 793 Dundas St W.
 
@@ -14,4 +14,4 @@ Area82 is a music venue in Toronto listed on soundcheck. 1 upcoming night. Brows
 
 793 Dundas St W, Toronto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/area82/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/area82/)*

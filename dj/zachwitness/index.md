@@ -1,6 +1,6 @@
 # Zach Witness
 
-Zach Witness is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
+Zach Witness is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
 
 Zach Witness is a house and electro artist tracked on soundcheck, with 26 sets logged across Denver, Detroit, Ibiza and London and 4 more. Often billed alongside Melvo Baptiste, Yasmin and DJ Spen. Next up: Dead Letter No. 9, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Zach Witness is a house and electro artist tracked on soundcheck, with 26 sets l
 
 Melvo Baptiste, Yasmin, DJ Spen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*

@@ -1,6 +1,6 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Ben Sims & Merve" on Sat, 22 Aug 2026.
+KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Ben Sims & Merve" on Sat, 22 Aug 2026.
 
 KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, with line-ups including 6EJOU, Justine Perry, Alarico and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
@@ -9,7 +9,7 @@ KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Ben Sims & Merve | Ben Sims, Justine Maze, Merve, STU (FR), Schaed |
-| Sat, 29 Aug 2026 | The Third Room: Andy Martin, Costanza, Marcal, Felix Feer, Justine Perry  | Andy Martin, Costanza, Dimë, Felix Fleer, Justine Perry, Marcal |
+| Sat, 29 Aug 2026 | The Third Room: Andy Martin, Costanza, Marcal, Felix Fleer, Justine Perry  | Andy Martin, Costanza, Dimë, Felix Fleer, Justine Perry, Marcal |
 | Sat, 5 Sept 2026 | DINA | ANNUN, Arbo, DINA, Halès, Zhar |
 | Sat, 12 Sept 2026 | Steve Rachmad | Steve Rachmad |
 | Fri, 18 Sept 2026 | ABJECT ACT : 6EJOU, Trudge, MORSURE , SPØRE, GARGOYL, LUDE, MEURSAULT, SEXY SAMU  | 6EJOU, Lude (2), MORSURE, Trudge |
@@ -23,4 +23,4 @@ KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, wi
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

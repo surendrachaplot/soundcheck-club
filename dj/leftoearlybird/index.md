@@ -1,14 +1,15 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Lefto Early Bird is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Lefto Early Bird is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Job Jobse. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Lefto Early Bird is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Job Jobse. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lefto Early Bird is a house and techno artist tracked on soundcheck, with 119 se
 
 Marco Weibel, AliA, Job Jobse
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*

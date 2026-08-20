@@ -1,6 +1,6 @@
 # Paul T
 
-Paul T is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Paul T is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 Paul T is a drum & bass and jungle artist tracked on soundcheck, with 14 sets logged across Antwerp, Bangkok, Brighton and Bristol and 3 more. Often billed alongside Bryan Gee, Inja and Jumping Jack Frost. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Paul T is a drum & bass and jungle artist tracked on soundcheck, with 14 sets lo
 
 Bryan Gee, Inja, Jumping Jack Frost
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pault/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pault/)*

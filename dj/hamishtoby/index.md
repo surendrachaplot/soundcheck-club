@@ -1,8 +1,8 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Night Tales, London on Fri, 21 Aug 2026.
+Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Night Tales, London on Fri, 21 Aug 2026.
 
-Hamish & Toby are a house and tech house duo tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside The Ghost, Dr Banana and Truly Madly. Next up: Night Tales, London on Fri 21 Aug.
+Hamish & Toby are a house and tech house duo tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside The Ghost, Dr Banana and Truly Madly. Next up: Night Tales, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hamish & Toby are a house and tech house duo tracked on soundcheck, with 132 set
 | Fri, 21 Aug 2026 | Night Tales | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 25 Sept 2026 | Moon Club | Bristol |
 | Sat, 26 Sept 2026 | Distrikt | Leeds |
 
 ## Recently played
@@ -28,4 +29,4 @@ Hamish & Toby are a house and tech house duo tracked on soundcheck, with 132 set
 
 The Ghost, Dr Banana, Truly Madly
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

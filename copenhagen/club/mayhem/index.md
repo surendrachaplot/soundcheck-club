@@ -1,6 +1,6 @@
 # Mayhem
 
-Mayhem is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Fons Daurat Edicions præsenterer" on Sat, 22 Aug 2026.
+Mayhem is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Fons Daurat Edicions præsenterer" on Sat, 22 Aug 2026.
 
 Mayhem is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including Markus Sollid. Browse upcoming dates, start times and who's playing. Ragnhildgade 1; 2100 Copenhagen.
 
@@ -16,4 +16,4 @@ Mayhem is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, w
 
 Ragnhildgade 1; 2100 Copenhagen, Copenhagen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*

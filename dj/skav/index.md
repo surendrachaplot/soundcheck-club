@@ -1,6 +1,6 @@
 # Skav
 
-Skav is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+Skav is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 Skav is a techno and tech house artist based in Italy, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Enrico Chirchiello, Francesco Poggi and KINIA G. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Skav is a techno and tech house artist based in Italy, tracked on soundcheck, wi
 
 Enrico Chirchiello, Francesco Poggi, KINIA G
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skav/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skav/)*

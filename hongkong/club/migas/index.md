@@ -1,6 +1,6 @@
 # Migas
 
-Migas is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Magnetic Soul presents Future Engineers" on Sat, 29 Aug 2026.
+Migas is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Magnetic Soul presents Future Engineers" on Sat, 29 Aug 2026.
 
 Migas is a music venue in Hongkong listed on soundcheck. 1 upcoming night, with line-ups including 1908, Drafus, Future Engineers and Magnetic Soul. Browse upcoming dates, start times and who's playing. 3/F, H Queen’s, 80 Queens Road Central , HK.
 
@@ -14,4 +14,4 @@ Migas is a music venue in Hongkong listed on soundcheck. 1 upcoming night, with 
 
 3/F, H Queen’s, 80 Queens Road Central , HK, Hong Kong
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/migas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/migas/)*

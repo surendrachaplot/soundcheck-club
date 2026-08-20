@@ -1,6 +1,6 @@
 # Orazio Rispo
 
-Orazio Rispo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rumore Nightclub Capri, Naples on Fri, 28 Aug 2026.
+Orazio Rispo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Rumore Nightclub Capri, Naples on Fri, 28 Aug 2026.
 
 Orazio Rispo is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Naples, Newyorkcity and Paris. Often billed alongside O.BEE, Maksim and Tomas Station. Next up: Rumore Nightclub Capri, Naples on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Orazio Rispo is a house and techno artist based in United States of America, tra
 
 O.BEE, Maksim, Tomas Station
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*

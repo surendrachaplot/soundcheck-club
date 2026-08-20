@@ -1,6 +1,6 @@
 # Elk
 
-Elk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Brasserie de la Senne, Brussels on Sat, 22 Aug 2026.
+Elk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Brasserie de la Senne, Brussels on Sat, 22 Aug 2026.
 
 Elk is a house and disco artist tracked on soundcheck, with 16 sets logged across Brussels, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Patch FD, BP (1) and Elk Gerd. Next up: Brasserie de la Senne, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Elk is a house and disco artist tracked on soundcheck, with 16 sets logged acros
 
 Patch FD, BP (1), Elk Gerd
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elk/)*

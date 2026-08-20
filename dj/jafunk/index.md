@@ -1,8 +1,8 @@
 # Jafunk
 
-Jafunk is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Razzmatazz 3, Barcelona on Wed, 11 Nov 2026.
+Jafunk is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz 3, Barcelona on Wed, 11 Nov 2026.
 
-Jafunk is a house and disco artist based in Australia, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Lisbon and London and 3 more. Often billed alongside Barbara Tucker, Bustin' Loose and Crystal Touch. Next up: Razzmatazz 3, Barcelona on Wed 11 Nov.
+Jafunk is a house and disco artist based in Australia, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Lisbon and London and 3 more. Often billed alongside Barbara Tucker, Bustin' Loose and Crystal Touch. Next up: Razzmatazz 3, Barcelona on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jafunk is a house and disco artist based in Australia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Razzmatazz 3 | Barcelona |
 | Thu, 12 Nov 2026 | Café Berlín | Madrid |
+| Sat, 14 Nov 2026 | Night Tales | London |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Jafunk is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 Barbara Tucker, Bustin' Loose, Crystal Touch
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jafunk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jafunk/)*

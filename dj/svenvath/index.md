@@ -1,8 +1,8 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
-Sven Vath is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: fabric, London on Fri 21 Aug.
+Sven Vath is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: fabric, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 209 sets logg
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Thu, 1 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Tue, 17 Nov 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 209 sets logg
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

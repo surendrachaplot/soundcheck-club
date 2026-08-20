@@ -1,6 +1,6 @@
 # bouncy cat
 
-bouncy cat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 23 Sept 2026.
+bouncy cat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 23 Sept 2026.
 
 bouncy cat is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside bbymeister, 9LALEY and Amøn. Next up: Lokschuppen Berlin, Berlin on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ bouncy cat is a techno and trance artist based in Germany, tracked on soundcheck
 
 bbymeister, 9LALEY, Amøn
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncycat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncycat/)*

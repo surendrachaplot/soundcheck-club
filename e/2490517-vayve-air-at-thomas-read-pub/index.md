@@ -1,6 +1,6 @@
 # VAYVE:Air at Thomas Read Pub
 
-VAYVE:Air at Thomas Read Pub on Sat 12 Sept, Hamburg. 3 acts on the bill: REILIX, TWOFACEDKIMMY and Unromantic. Trance and Techno. Preview the line-up and save it on soundcheck.
+VAYVE:Air at Thomas Read Pub on Sat 12 Sept, Hamburg. 4 acts on the bill: REILIX, TRYPTAJ, TWOFACEDKIMMY and Unromantic. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VAYVE:Air at Thomas Read Pub on Sat 12 Sept, Hamburg. 3 acts on the bill: REILIX
 ## Line-up
 
 - REILIX
+- TRYPTAJ
 - TWOFACEDKIMMY
 - Unromantic
 

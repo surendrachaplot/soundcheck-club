@@ -1,6 +1,6 @@
 # Jawnino
 
-Jawnino is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
+Jawnino is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
 
 Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside KAVARI, Mechatok and CHAMBER45. Next up: NUMBER 90 LONDON, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundc
 
 KAVARI, Mechatok, CHAMBER45
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

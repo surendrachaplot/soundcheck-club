@@ -1,6 +1,6 @@
 # Belmonte
 
-Belmonte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+Belmonte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
 Belmonte is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and London. Often billed alongside Clemente Loffredo, Colaps and Cristian Sirica. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Belmonte is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Clemente Loffredo, Colaps, Cristian Sirica
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belmonte/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belmonte/)*

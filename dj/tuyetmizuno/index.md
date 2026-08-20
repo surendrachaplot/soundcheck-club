@@ -1,8 +1,8 @@
 # Tuyetmizuno
 
-Tuyetmizuno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
+Tuyetmizuno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
 
-Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, with 70 sets logged across Amsterdam and Tokyo. Often billed alongside Nanlaze, You Liang and Kulage. Next up: VENT, Tokyo on Fri 28 Aug.
+Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, with 71 sets logged across Amsterdam and Tokyo. Often billed alongside Nanlaze, You Liang and Kulage. Next up: VENT, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | VENT | Tokyo |
 | Sat, 12 Sept 2026 | Z Maruyama | Tokyo |
+| Sat, 26 Sept 2026 | or | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, 
 
 Nanlaze, You Liang, Kulage
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuyetmizuno/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuyetmizuno/)*

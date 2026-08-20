@@ -1,6 +1,6 @@
 # AJACENT
 
-AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
+AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
 
 AJACENT is a techno and baile funk artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside shirlz, ASTER (DJ) and Pablo Vitale. Next up: Wonderville, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ AJACENT is a techno and baile funk artist based in United States of America, tra
 
 shirlz, ASTER (DJ), Pablo Vitale
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*

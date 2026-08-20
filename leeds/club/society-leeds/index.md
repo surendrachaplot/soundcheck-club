@@ -1,6 +1,6 @@
 # Society Leeds
 
-Society Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "JAKD Presents After Dark" on Sat, 29 Aug 2026.
+Society Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "JAKD Presents After Dark" on Sat, 29 Aug 2026.
 
 Society Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 14 Swinegate, Leeds. LS4 1AG.
 
@@ -14,4 +14,4 @@ Society Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming night. 
 
 14 Swinegate, Leeds. LS4 1AG, Leeds
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/society-leeds/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/society-leeds/)*

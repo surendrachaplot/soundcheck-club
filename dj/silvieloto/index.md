@@ -1,6 +1,6 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Colorado Charlie, The Hague on Fri, 21 Aug 2026.
+Silvie Loto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Colorado Charlie, The Hague on Fri, 21 Aug 2026.
 
 Silvie Loto is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stassy. Next up: Colorado Charlie, Thehague on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Silvie Loto is a house and tech house artist tracked on soundcheck, with 81 sets
 
 PAWSA, Dennis Cruz, Chris Stassy
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

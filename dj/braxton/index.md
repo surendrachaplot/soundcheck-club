@@ -1,6 +1,6 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 29 Aug 2026.
+Braxton is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 29 Aug 2026.
 
 Braxton is a progressive house and deep house artist tracked on soundcheck, with 40 sets logged across Austin, Berlin, Brighton and Bristol and 16 more. Often billed alongside Durante, Hana and Marsh. Next up: Blique by Nobis Rooftop, Stockholm on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Braxton is a progressive house and deep house artist tracked on soundcheck, with
 
 Durante, Hana, Marsh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

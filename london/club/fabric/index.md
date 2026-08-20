@@ -1,14 +1,14 @@
 # fabric
 
-fabric is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma" on Fri, 21 Aug 2026.
+fabric is a music venue in London with 31 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma" on Fri, 21 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma | Ben Sterling, DELASFLORES, Dale Mussington, Ms. Mada, Oma (UK), Regan Funk, Sven Vath |
+| Fri, 21 Aug 2026 | fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma | Andrés Solar, Ben Sterling, Christian Sanchez, DELASFLORES, Dale Mussington, Duble Mctruble, Ms. Mada, Oma (UK), Regan Funk, Sven Vath |
 | Sat, 22 Aug 2026 | Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more | A Hard Day's Dance, Aroop Roy, Donis, Ella Knight, Flight Facilities, Fort Romeau, Jennifer Loveless, Kirollus, MILLIE, Pheebs |
 | Sat, 22 Aug 2026 | Jake Mander |  |
 | Sun, 23 Aug 2026 | CAYA by fabric: Inermu - James Dexter (All Night Long) | James Dexter |
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

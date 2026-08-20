@@ -1,6 +1,6 @@
 # KLÖSS
 
-KLÖSS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
+KLÖSS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
 
 KLÖSS is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin and Paris. Often billed alongside FC Kabagar, Amygdala and Annie. Next up: Lokschuppen Berlin, Berlin on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ KLÖSS is a techno and trance artist tracked on soundcheck, with 4 sets logged a
 
 FC Kabagar, Amygdala, Annie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*

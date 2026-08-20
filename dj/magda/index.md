@@ -1,8 +1,8 @@
 # Magda
 
-Magda is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Magda is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
-Magda is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 47 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
+Magda is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Berlin and 47 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Magda is a techno and house artist tracked on soundcheck, with 158 sets logged a
 | Sat, 29 Aug 2026 | Yamamori Tengu | Dublin |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Fri, 2 Oct 2026 | Laak | The Hague |
+| Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ Magda is a techno and house artist tracked on soundcheck, with 158 sets logged a
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

@@ -1,6 +1,6 @@
 # MOKER
 
-MOKER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+MOKER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 MOKER is a techno and trance artist based in Belgium, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Miamor, Skeletor Yogi and Lena De Roose. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MOKER is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 
 Miamor, Skeletor Yogi, Lena De Roose
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moker/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moker/)*

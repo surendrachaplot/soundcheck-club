@@ -1,8 +1,8 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 20 Aug 2026.
+Electrowerkz is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 20 Aug 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AyChibs, Chris de Buerre, Dj.Malefica and Dom de Sousa and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Amphia, AyChibs, Chris de Buerre and Claudia Kane and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights
 | Fri, 21 Aug 2026 | HUNTER: GOIN' IN HARD (OUR 3RD BIRTHDAY) |  |
 | Sat, 22 Aug 2026 | ELECTRO ROCKS |  |
 | Sat, 22 Aug 2026 | QTS: AFTER DARK | Farius, Pagano, Popper Cherry |
-| Fri, 28 Aug 2026 | KARMA KLUB |  |
+| Fri, 28 Aug 2026 | KARMA KLUB | Amphia, Claudia Kane, Cosmic Caz, Nanzhen Yang, Ricardo Castro |
 | Fri, 4 Sept 2026 | Riot x One Night SWer Pride Festival |  |
 | Sat, 5 Sept 2026 | BASH | Chris de Buerre, Dom de Sousa, Milk & Sugar, Ryussi, S_STEELE, Wildblood and Queenie |
 | Fri, 11 Sept 2026 | HONEY HONEY |  |
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

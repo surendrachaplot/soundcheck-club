@@ -1,6 +1,6 @@
 # John Gomi
 
-John Gomi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Coconut Club, Austin on Sat, 29 Aug 2026.
+John Gomi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Coconut Club, Austin on Sat, 29 Aug 2026.
 
 John Gomi is a techno and house artist tracked on soundcheck, with 34 sets logged across Austin. Often billed alongside M. Shogi, nulllluna and Joan Dark. Next up: Coconut Club, Austin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ John Gomi is a techno and house artist tracked on soundcheck, with 34 sets logge
 
 M. Shogi, nulllluna, Joan Dark
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomi/)*

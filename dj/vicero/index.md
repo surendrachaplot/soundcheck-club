@@ -1,6 +1,6 @@
 # VIĆERO
 
-VIĆERO is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Baalsaal, Hamburg on Fri, 21 Aug 2026.
+VIĆERO is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Fri, 21 Aug 2026.
 
 VIĆERO is a tech house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Frankfurt and Hamburg. Often billed alongside rodmor, Eva.nyx and Robert Brescan. Next up: Baalsaal, Hamburg on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VIĆERO is a tech house and techno artist based in Germany, tracked on soundchec
 
 rodmor, Eva.nyx, Robert Brescan
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicero/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicero/)*

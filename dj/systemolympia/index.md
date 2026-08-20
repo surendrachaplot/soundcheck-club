@@ -1,14 +1,15 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+System Olympia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
-System Olympia is a house and disco artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Move D, Attila and Bushbby. Next up: Night Tales Loft, London on Sat 12 Sept.
+System Olympia is a house and disco artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Move D, Attila and Bushbby. Next up: Night Tales Loft, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
+| Wed, 23 Sept 2026 | The Shacklewell Arms | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ System Olympia is a house and disco artist tracked on soundcheck, with 71 sets l
 
 Move D, Attila, Bushbby
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*

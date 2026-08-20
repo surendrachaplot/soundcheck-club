@@ -1,6 +1,6 @@
 # Skydrips
 
-Skydrips is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
+Skydrips is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
 
 Skydrips is a downtempo and electronica artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Solatic, Dolph and Jonas Schilling. Next up: Klunkerkranich, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Skydrips is a downtempo and electronica artist tracked on soundcheck, with 10 se
 
 Solatic, Dolph, Jonas Schilling
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydrips/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skydrips/)*

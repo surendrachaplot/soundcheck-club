@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "RAVE360 - FREE Hard Techno 360 Event" on Fri, 21 Aug 2026.
+Kømplex Lisbon is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RAVE360 - FREE Hard Techno 360 Event" on Fri, 21 Aug 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including GADDAM, KØDE X, Pestdokter and Trik (2) and 1 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -18,4 +18,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 5 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

@@ -1,6 +1,6 @@
 # Komplex
 
-Komplex is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Komplexion: Still Luv H.E.R" on Sat, 22 Aug 2026.
+Komplex is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Komplexion: Still Luv H.E.R" on Sat, 22 Aug 2026.
 
 Komplex is a music venue in Nashville listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Komplex is a music venue in Nashville listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Komplexion: Still Luv H.E.R |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/komplex/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/komplex/)*

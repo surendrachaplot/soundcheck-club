@@ -1,6 +1,6 @@
 # MAMO (2)
 
-MAMO (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Sat, 29 Aug 2026.
+MAMO (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at UNO MALTA, Malta on Sat, 29 Aug 2026.
 
 MAMO (2) is a techno and industrial artist based in Malta, tracked on soundcheck, with 19 sets logged across Malta. Often billed alongside MALISTA, Lombz and VRDKT. Next up: UNO MALTA, Malta on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MAMO (2) is a techno and industrial artist based in Malta, tracked on soundcheck
 
 MALISTA, Lombz, VRDKT
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo-2/)*

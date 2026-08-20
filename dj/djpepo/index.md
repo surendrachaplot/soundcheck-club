@@ -1,6 +1,6 @@
 # Dj Pepo
 
-Dj Pepo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sala Cocó, Madrid on Sat, 5 Sept 2026.
+Dj Pepo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sala Cocó, Madrid on Sat, 5 Sept 2026.
 
 Dj Pepo is a techno and industrial artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona, Madrid, Malaga and Naples and 1 more. Often billed alongside Cristian Varela, Abel Ramos and CESAR ALMENA. Next up: Sala Cocó, Madrid on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dj Pepo is a techno and industrial artist based in Spain, tracked on soundcheck,
 
 Cristian Varela, Abel Ramos, CESAR ALMENA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpepo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpepo/)*

@@ -1,6 +1,6 @@
 # Hotmood
 
-Hotmood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at THE BATHS, Austin on Sat, 29 Aug 2026.
+Hotmood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at THE BATHS, Austin on Sat, 29 Aug 2026.
 
 Hotmood is a house and disco artist based in Mexico, tracked on soundcheck, with 17 sets logged across Austin, Denver, London and Madrid and 4 more. Often billed alongside Boys Don't Disco, DJ HOT DONNA and Lu Fortis. Next up: THE BATHS, Austin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hotmood is a house and disco artist based in Mexico, tracked on soundcheck, with
 
 Boys Don't Disco, DJ HOT DONNA, Lu Fortis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*

@@ -1,6 +1,6 @@
 # Ledisko
 
-Ledisko is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Salon Badin, Montreal on Fri, 21 Aug 2026.
+Ledisko is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Badin, Montreal on Fri, 21 Aug 2026.
 
 Ledisko is a house and disco artist tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Sancho, Esther Côté and The Fitness. Next up: Salon Badin, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ledisko is a house and disco artist tracked on soundcheck, with 20 sets logged a
 
 Sancho, Esther Côté, The Fitness
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ledisko/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ledisko/)*

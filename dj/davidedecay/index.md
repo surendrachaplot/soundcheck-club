@@ -1,13 +1,14 @@
 # Davide Decay
 
-Davide Decay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at STEREO, London on Sun, 11 Oct 2026.
+Davide Decay is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
-Davide Decay is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, London and Newyorkcity. Often billed alongside Max., Claudio Basile and LUUD. Next up: STEREO, London on Sun 11 Oct.
+Davide Decay is a house and minimal artist tracked on soundcheck, with 19 sets logged across Berlin, London and Newyorkcity. Often billed alongside Max., Claudio Basile and LUUD. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Starlane Pizza Bar | London |
 | Sun, 11 Oct 2026 | STEREO | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Davide Decay is a house and techno artist tracked on soundcheck, with 18 sets lo
 
 Max., Claudio Basile, LUUD
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedecay/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedecay/)*

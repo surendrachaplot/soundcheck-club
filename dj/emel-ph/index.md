@@ -1,6 +1,6 @@
 # Emel
 
-Emel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Emel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Emel is a house and techno artist tracked on soundcheck, with 25 sets logged across Bangkok, Berlin, Budapest and Hongkong and 6 more. Often billed alongside Ouissam, Saint Guel and Mr. Ho. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Emel is a house and techno artist tracked on soundcheck, with 25 sets logged acr
 
 Ouissam, Saint Guel, Mr. Ho
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*

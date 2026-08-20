@@ -1,6 +1,6 @@
 # Nathan Detroit
 
-Nathan Detroit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
+Nathan Detroit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
 
 Nathan Detroit is a techno and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Ibiza and Portland. Often billed alongside Ben Tactic, JAK and Simon Morell. Next up: The Den, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Nathan Detroit is a techno and house artist based in United Kingdom, tracked on 
 
 Ben Tactic, JAK, Simon Morell
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathandetroit/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathandetroit/)*

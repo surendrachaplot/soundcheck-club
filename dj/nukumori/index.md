@@ -1,6 +1,6 @@
 # Nukumori
 
-Nukumori is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
+Nukumori is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
 
 Nukumori is a bass and garage artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sandiego. Often billed alongside techki, AFFIRM and Bojak. Next up: Break Point, Sandiego on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Nukumori is a bass and garage artist based in United States of America, tracked 
 
 techki, AFFIRM, Bojak
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*

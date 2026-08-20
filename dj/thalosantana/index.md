@@ -1,6 +1,6 @@
 # Thalo Santana
 
-Thalo Santana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Insel der Jugend, Berlin on Sat, 29 Aug 2026.
+Thalo Santana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Insel der Jugend, Berlin on Sat, 29 Aug 2026.
 
 Thalo Santana is a house and techno artist based in Brazil, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside Thabo, Kolter and Julian Feierabend. Next up: Insel der Jugend, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Thalo Santana is a house and techno artist based in Brazil, tracked on soundchec
 
 Thabo, Kolter, Julian Feierabend
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thalosantana/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thalosantana/)*

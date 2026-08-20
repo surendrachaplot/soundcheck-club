@@ -1,6 +1,6 @@
 # Avashi
 
-Avashi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Letnisko Żoliborz, Warsaw on Fri, 21 Aug 2026.
+Avashi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Letnisko Żoliborz, Warsaw on Fri, 21 Aug 2026.
 
 Avashi is a techno and bass artist tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Vizril, dj neurospicy and Cosaco. Next up: Letnisko Żoliborz, Warsaw on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Avashi is a techno and bass artist tracked on soundcheck, with 7 sets logged acr
 
 Vizril, dj neurospicy, Cosaco
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avashi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avashi/)*

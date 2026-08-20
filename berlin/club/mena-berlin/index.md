@@ -1,6 +1,6 @@
 # Mena Berlin
 
-Mena Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Sound Therapy" on Fri, 21 Aug 2026.
+Mena Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sound Therapy" on Fri, 21 Aug 2026.
 
 Mena Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Camo Braxton, Cosmik Konnection, Davidlab and disttler and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, 
 
 Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*

@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Sammy Boyko" on Thu, 20 Aug 2026.
+Twist Bar is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sammy Boyko" on Thu, 20 Aug 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including Ghandi, Jeku, Kosmic Skaut and mitt and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 6 upcoming nights, wi
 | Fri, 28 Aug 2026 | Kosmic Skaut, Psj | Kosmic Skaut |
 | Sat, 29 Aug 2026 | Jeku (FIN) | Jeku |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

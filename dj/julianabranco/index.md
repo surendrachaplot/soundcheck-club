@@ -1,6 +1,6 @@
 # Juliana Branco
 
-Juliana Branco is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Juliana Branco is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 Juliana Branco is a house and electro artist tracked on soundcheck, with 40 sets logged across London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and GOIA AMO. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Juliana Branco is a house and electro artist tracked on soundcheck, with 40 sets
 
 Leonardo Cruz DJ, Simoon Pedro, GOIA AMO
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*

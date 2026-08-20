@@ -1,6 +1,6 @@
 # Federsen
 
-Federsen is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 25 Sept 2026.
+Federsen is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 25 Sept 2026.
 
 Federsen is a dub techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across London, Manchester and Prague. Often billed alongside Andy Green, Antepop and Quadrant Soundscape. Next up: Eastern Bloc Records, Manchester on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Federsen is a dub techno and house artist based in United States of America, tra
 
 Andy Green, Antepop, Quadrant Soundscape
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federsen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federsen/)*

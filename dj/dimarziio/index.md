@@ -1,6 +1,6 @@
 # Dimarziio
 
-Dimarziio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 27 Aug 2026.
+Dimarziio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 27 Aug 2026.
 
 Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona and Berlin. Often billed alongside Ale Hope, BERNOUT and Crisalide. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, w
 
 Ale Hope, BERNOUT, Crisalide
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*

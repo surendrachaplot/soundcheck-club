@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Prichindel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Prichindel is a house and minimal artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Boston and Brussels and 15 more. Often billed alongside Dragos Ilici, Mark Dumitrescu and Cap. Next up: Sunseabar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Prichindel is a house and minimal artist tracked on soundcheck, with 64 sets log
 
 Dragos Ilici, Mark Dumitrescu, Cap
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

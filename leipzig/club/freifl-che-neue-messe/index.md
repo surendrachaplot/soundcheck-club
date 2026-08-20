@@ -1,6 +1,6 @@
 # Freifläche Neue Messe
 
-Freifläche Neue Messe is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Leider 9 x Free Open Air" on Sat, 29 Aug 2026.
+Freifläche Neue Messe is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Leider 9 x Free Open Air" on Sat, 29 Aug 2026.
 
 Freifläche Neue Messe is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including CAMPA, Fennek, Langnikel and Moto Moto and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Freifläche Neue Messe is a music venue in Leipzig listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Leider 9 x Free Open Air | CAMPA, Fennek, Langnikel, Moto Moto, NICI PALM |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/freifl-che-neue-messe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/freifl-che-neue-messe/)*

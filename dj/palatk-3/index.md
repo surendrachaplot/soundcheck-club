@@ -1,8 +1,8 @@
 # PALATK (3)
 
-PALATK (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
+PALATK (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
 
-PALATK (3) is a techno and tech house artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Dr.Waumiau, FAballert and FRÆNCIS. Next up: DNA. CLUB, Berlin on Sat 22 Aug.
+PALATK (3) is a techno and tech house artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Daniela Dair, Dr.Waumiau and FAballert. Next up: DNA. CLUB, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ PALATK (3) is a techno and tech house artist based in Italy, tracked on soundche
 
 ## Shares bills with
 
-Dr.Waumiau, FAballert, FRÆNCIS
+Daniela Dair, Dr.Waumiau, FAballert
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palatk-3/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palatk-3/)*

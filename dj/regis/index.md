@@ -1,8 +1,8 @@
 # Regis
 
-Regis is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 20 Aug 2026.
+Regis is a Techno and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 20 Aug 2026.
 
-Regis is a techno and minimal techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 20 Aug.
+Regis is a techno and drum & bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Regis is a techno and minimal techno artist tracked on soundcheck, with 103 sets
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

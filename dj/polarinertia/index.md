@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
+Polar Inertia is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Polar Inertia is a techno and experimental artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: TBA - San Francisco, Sanfrancisco on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Polar Inertia is a techno and experimental artist based in France, tracked on so
 
 Priori, Anthony Linell, A Strange Wedding
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

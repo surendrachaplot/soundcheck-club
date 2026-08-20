@@ -1,6 +1,6 @@
 # MEDDRY
 
-MEDDRY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
+MEDDRY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
 MEDDRY is a house and tech house artist based in Canada, tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Loch, Art Behaviour and CZYN. Next up: Rhythm, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MEDDRY is a house and tech house artist based in Canada, tracked on soundcheck, 
 
 Loch, Art Behaviour, CZYN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meddry/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meddry/)*

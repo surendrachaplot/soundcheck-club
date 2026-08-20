@@ -1,8 +1,8 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
+Bella Claxton is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mondo, Madrid on Sat, 22 Aug 2026.
 
-Bella Claxton is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: Mondo, Madrid on Sat 22 Aug.
+Bella Claxton is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: Mondo, Madrid on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 116 sets 
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
+| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
-| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 116 sets 
 
 Kyle Starkey, Faster Horses, LAMMER
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

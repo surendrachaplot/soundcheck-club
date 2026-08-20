@@ -1,6 +1,6 @@
 # Revolucien
 
-Revolucien is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tresor / Globus, Berlin on Wed, 26 Aug 2026.
+Revolucien is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tresor / Globus, Berlin on Wed, 26 Aug 2026.
 
 Revolucien is an electronic artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Momo Femi, ALKARLINE and Silberhauch. Next up: Tresor / Globus, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Revolucien is an electronic artist based in Germany, tracked on soundcheck, with
 
 Momo Femi, ALKARLINE, Silberhauch
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revolucien/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revolucien/)*

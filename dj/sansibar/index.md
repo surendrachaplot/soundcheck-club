@@ -1,6 +1,6 @@
 # Sansibar
 
-Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 Sansibar is a techno and electro artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 45 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Sansibar is a techno and electro artist tracked on soundcheck, with 148 sets log
 
 dj sweet6teen, Naone, Angel D'lite
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

@@ -1,6 +1,6 @@
 # planetperris
 
-planetperris is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Club Rawhide, New York City on Thu, 20 Aug 2026.
+planetperris is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Rawhide, New York City on Thu, 20 Aug 2026.
 
 planetperris is a house and club artist based in United States of America, tracked on soundcheck, with 44 sets logged across Newyorkcity. Often billed alongside Perris, BEARCAT and Sam Clarke. Next up: Club Rawhide, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ planetperris is a house and club artist based in United States of America, track
 
 Perris, BEARCAT, Sam Clarke
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planetperris/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planetperris/)*

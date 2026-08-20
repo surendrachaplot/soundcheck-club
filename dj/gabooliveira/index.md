@@ -1,13 +1,14 @@
 # Gabo Oliveira
 
-Gabo Oliveira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
+Gabo Oliveira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
-Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundcheck, with 53 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Rods Franchin, XipNoize and Vitor Munhoz. Next up: Re-Clubbing Basement, Barcelona on Sat 12 Sept.
+Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundcheck, with 54 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Rods Franchin, XipNoize and PAZ WAZ HERE. Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Almar Beach Club | Barcelona |
 | Sat, 12 Sept 2026 | Re-Clubbing Basement | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundchec
 
 ## Shares bills with
 
-Rods Franchin, XipNoize, Vitor Munhoz
+Rods Franchin, XipNoize, PAZ WAZ HERE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*

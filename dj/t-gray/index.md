@@ -1,6 +1,6 @@
 # T-Gray
 
-T-Gray is a Progressive House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 20 Aug 2026.
+T-Gray is a Progressive House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 20 Aug 2026.
 
 T-Gray is a progressive house and downtempo artist tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside Maarten Spoor, Around Us and Lbert. Next up: Veronica Schip, Amsterdam on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ T-Gray is a progressive house and downtempo artist tracked on soundcheck, with 2
 
 Maarten Spoor, Around Us, Lbert
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t-gray/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t-gray/)*

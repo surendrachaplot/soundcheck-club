@@ -1,6 +1,6 @@
 # Sara Garvey
 
-Sara Garvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
+Sara Garvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
 
 Sara Garvey is a house and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, London and Manchester. Often billed alongside Booker T, Comfy Bella and Dave Beer. Next up: Distrikt, Leeds on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sara Garvey is a house and techno artist based in United Kingdom, tracked on sou
 
 Booker T, Comfy Bella, Dave Beer
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saragarvey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saragarvey/)*

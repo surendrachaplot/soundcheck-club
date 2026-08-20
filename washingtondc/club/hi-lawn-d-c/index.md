@@ -1,6 +1,6 @@
 # Hi-Lawn D.C.
 
-Hi-Lawn D.C. is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "AZURE DC LDW at HI LAWN ROOFTOP" on Sat, 5 Sept 2026.
+Hi-Lawn D.C. is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "AZURE DC LDW at HI LAWN ROOFTOP" on Sat, 5 Sept 2026.
 
 Hi-Lawn D.C. is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Bambi (Menage a Trois) and VLAD (Terra Firma). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hi-Lawn D.C. is a music venue in Washingtondc listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | AZURE DC LDW at HI LAWN ROOFTOP | Bambi (Menage a Trois), VLAD (Terra Firma) |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/hi-lawn-d-c/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/hi-lawn-d-c/)*

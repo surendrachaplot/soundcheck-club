@@ -1,8 +1,8 @@
 # Hector Moralez
 
-Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
+Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
 
-Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver, Losangeles, Miami and Sanfrancisco and 2 more. Often billed alongside J-Dub, Amália Leandro and DJ Dazy. Next up: The Monty Bar, Losangeles on Sat 29 Aug.
+Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver, Losangeles, Miami and Sanfrancisco and 2 more. Often billed alongside J-Dub, DJ Dazy and Amália Leandro. Next up: The Monty Bar, Losangeles on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Hector Moralez is a house and tech house artist based in United States of Americ
 
 ## Shares bills with
 
-J-Dub, Amália Leandro, DJ Dazy
+J-Dub, DJ Dazy, Amália Leandro
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*

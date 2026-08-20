@@ -1,6 +1,6 @@
 # Daniel Duese
 
-Daniel Duese is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Daniel Duese is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 Daniel Duese is a techno and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Eddi Sander, hi beam and Marc Machado. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Daniel Duese is a techno and tech house artist based in Germany, tracked on soun
 
 Eddi Sander, hi beam, Marc Machado
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielduese/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielduese/)*

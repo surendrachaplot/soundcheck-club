@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Automata Drum & Bass 28AUG - Etherwood Barcelona" on Fri, 28 Aug 2026.
+DETROIT CLUB is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Automata Drum & Bass 28AUG - Etherwood Barcelona" on Fri, 28 Aug 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Babo, ERØXX, Etherwood and m4rküse and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -20,4 +20,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming nigh
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

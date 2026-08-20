@@ -1,14 +1,15 @@
 # Ìyáàlù
 
-Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
+Ìyáàlù is a UK Funky and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
 
-Ìyáàlù is an uk funky and baile funk artist tracked on soundcheck, with 28 sets logged across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: The Carpet Shop, London on Fri 28 Aug.
+Ìyáàlù is an uk funky and baile funk artist tracked on soundcheck, with 29 sets logged across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: The Carpet Shop, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Carpet Shop | London |
+| Sat, 26 Sept 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 CXLI, OTDELTA, Bushbby
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*

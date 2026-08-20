@@ -1,6 +1,6 @@
 # Shirlee
 
-Shirlee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
+Shirlee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
 
 Shirlee is a house and deep house artist tracked on soundcheck, with 27 sets logged across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and A$H BANKS. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Shirlee is a house and deep house artist tracked on soundcheck, with 27 sets log
 
 Guillaume Michaud, Ben Sterling, A$H BANKS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*

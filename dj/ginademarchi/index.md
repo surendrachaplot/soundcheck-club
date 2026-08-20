@@ -1,14 +1,15 @@
 # Gina Demarchi
 
-Gina Demarchi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Else, Berlin on Fri, 18 Sept 2026.
+Gina Demarchi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Fri, 18 Sept 2026.
 
-Gina Demarchi is a techno and house artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 12 more. Often billed alongside Amanda Mussi, Anders Horse and Johannes Astrup. Next up: Else, Berlin on Fri 18 Sept.
+Gina Demarchi is a techno and house artist tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 13 more. Often billed alongside Amanda Mussi, Anders Horse and Johannes Astrup. Next up: Else, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Else | Berlin |
+| Sun, 4 Oct 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gina Demarchi is a techno and house artist tracked on soundcheck, with 51 sets l
 
 Amanda Mussi, Anders Horse, Johannes Astrup
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*

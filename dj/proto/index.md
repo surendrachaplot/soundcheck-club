@@ -1,6 +1,6 @@
 # Proto
 
-Proto is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
+Proto is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
 
 Proto is a dubstep artist tracked on soundcheck, with 3 sets logged across Berlin and London. Often billed alongside Axle, DJ Gabi and Eklekta. Next up: Planet Wax, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Proto is a dubstep artist tracked on soundcheck, with 3 sets logged across Berli
 
 Axle, DJ Gabi, Eklekta
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proto/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proto/)*

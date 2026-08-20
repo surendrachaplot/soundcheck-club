@@ -1,6 +1,6 @@
 # Anasbri
 
-Anasbri is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Anasbri is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
 Anasbri is an electronica and ambient artist based in France, tracked on soundcheck, with 6 sets logged across Milan and Turin. Often billed alongside bipolar, ATTAR and Big Hands. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Anasbri is an electronica and ambient artist based in France, tracked on soundch
 
 bipolar, ATTAR, Big Hands
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anasbri/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anasbri/)*

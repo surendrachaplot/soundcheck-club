@@ -1,6 +1,6 @@
 # Aiur
 
-Aiur is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
+Aiur is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
 
 Aiur is a hardcore and gabber artist tracked on soundcheck, with 2 sets logged across Bucharest. Often billed alongside Dalek, Meiremax and Morph (RO). Next up: Forge, Bucharest on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Aiur is a hardcore and gabber artist tracked on soundcheck, with 2 sets logged a
 
 Dalek, Meiremax, Morph (RO)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiur/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiur/)*

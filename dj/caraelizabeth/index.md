@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
+Cara Elizabeth is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
 
 Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 20 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Virage, Paris on Sat 22 Aug.
 
@@ -35,4 +35,4 @@ Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 137 set
 
 Kø:lab, Part Time Killer, SEKTOR69
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

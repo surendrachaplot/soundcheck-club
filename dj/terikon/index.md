@@ -1,6 +1,6 @@
 # Terikon
 
-Terikon is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Terikon is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Terikon is a bass and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Paris and Saopaulo. Often billed alongside Sergey Chernyshov, Habitat Shaking and Little Vanya. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Terikon is a bass and techno artist based in Germany, tracked on soundcheck, wit
 
 Sergey Chernyshov, Habitat Shaking, Little Vanya
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terikon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terikon/)*

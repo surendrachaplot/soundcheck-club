@@ -1,6 +1,6 @@
 # TRINIDADDY
 
-TRINIDADDY is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
+TRINIDADDY is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Toronto on Sat, 22 Aug 2026.
 
 TRINIDADDY is a club and bass artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside VUHNNY, Shaingel and 999ADJ. Next up: TBA, Toronto on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ TRINIDADDY is a club and bass artist based in Canada, tracked on soundcheck, wit
 
 VUHNNY, Shaingel, 999ADJ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trinidaddy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trinidaddy/)*

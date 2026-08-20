@@ -1,6 +1,6 @@
 # Maria Politi
 
-Maria Politi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Maria Politi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
 
 Maria Politi is a house and techno artist tracked on soundcheck, with 55 sets logged across Athens, Berlin, Leipzig and Paris and 1 more. Often billed alongside Stathis (GR), K.atou and ClubKid. Next up: KREUZWERK, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Maria Politi is a house and techno artist tracked on soundcheck, with 55 sets lo
 
 Stathis (GR), K.atou, ClubKid
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*

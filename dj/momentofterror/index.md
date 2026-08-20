@@ -1,6 +1,6 @@
 # Moment of Terror
 
-Moment of Terror is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+Moment of Terror is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
 Moment of Terror is a techno and industrial artist tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Kassebaum, Khadija and Sadmi. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Moment of Terror is a techno and industrial artist tracked on soundcheck, with 2
 
 Kassebaum, Khadija, Sadmi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momentofterror/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momentofterror/)*

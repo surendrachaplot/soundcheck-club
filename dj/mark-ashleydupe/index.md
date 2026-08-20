@@ -1,6 +1,6 @@
 # Mark-Ashley Dupé
 
-Mark-Ashley Dupé is a House and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Colour Factory, London on Sat, 22 Aug 2026.
+Mark-Ashley Dupé is a House and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Colour Factory, London on Sat, 22 Aug 2026.
 
 Mark-Ashley Dupé is a house and dancehall artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across London and Manchester. Often billed alongside Donnie Sunshine, Joshua James and Fat Tony. Next up: Colour Factory, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mark-Ashley Dupé is a house and dancehall artist based in United Kingdom, track
 
 Donnie Sunshine, Joshua James, Fat Tony
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mark-ashleydupe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mark-ashleydupe/)*

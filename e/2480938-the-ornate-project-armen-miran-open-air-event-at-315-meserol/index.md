@@ -1,6 +1,6 @@
 # The Ornate Project: Armen Miran (Open-Air Event) at 315 Meserole
 
-The Ornate Project: Armen Miran (Open-Air Event) at 315 Meserole on Sat 29 Aug, Newyorkcity. 1 act on the bill: Armen Miran. House and Deep House. Preview the line-up and save it on soundcheck.
+The Ornate Project: Armen Miran (Open-Air Event) at 315 Meserole on Sat 29 Aug, Newyorkcity. 4 acts on the bill: Armen Miran, Jeny Michelle, JLu (MX) and Mayte. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ The Ornate Project: Armen Miran (Open-Air Event) at 315 Meserole on Sat 29 Aug, 
 ## Line-up
 
 - Armen Miran
+- Jeny Michelle
+- JLu (MX)
+- Mayte
 
 *Source: [soundcheck](https://soundcheck.club/e/2480938-the-ornate-project-armen-miran-open-air-event-at-315-meserol/)*

@@ -1,8 +1,8 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
-Viktoria Spielmann is a techno artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Leipzig and Prague. Often billed alongside Mikrotakt, AEREA and DJ Cringey. Next up: Odonien, Cologne on Fri 21 Aug.
+Viktoria Spielmann is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside Mikrotakt, AEREA and DJ Cringey. Next up: Odonien, Cologne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Viktoria Spielmann is a techno artist tracked on soundcheck, with 14 sets logged
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Odonien | Cologne |
 | Tue, 25 Aug 2026 | OXI | Berlin |
+| Fri, 18 Sept 2026 | Raedli | Zurich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Viktoria Spielmann is a techno artist tracked on soundcheck, with 14 sets logged
 
 Mikrotakt, AEREA, DJ Cringey
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

@@ -1,6 +1,6 @@
 # Aroop Roy & Friends at The Fox and Firkin
 
-Aroop Roy & Friends at The Fox and Firkin on Sat 12 Sept, London. 1 act on the bill: Aroop Roy. House and Disco. Preview the line-up and save it on soundcheck.
+Aroop Roy & Friends at The Fox and Firkin on Sat 12 Sept, London. 4 acts on the bill: Aroop Roy, Jimpster, Kanem and Megatronic. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Aroop Roy & Friends at The Fox and Firkin on Sat 12 Sept, London. 1 act on the b
 ## Line-up
 
 - Aroop Roy
+- Jimpster
+- Kanem
+- Megatronic
 
 *Source: [soundcheck](https://soundcheck.club/e/2496619-aroop-roy-friends-at-the-fox-and-firkin/)*

@@ -1,6 +1,6 @@
 # KILL.DB
 
-KILL.DB is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SASS Music Club, Vienna on Sun, 23 Aug 2026.
+KILL.DB is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SASS Music Club, Vienna on Sun, 23 Aug 2026.
 
 KILL.DB is a house and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Frankfurt and Vienna. Often billed alongside Carl Bergé, Pauly and BERF. Next up: SASS Music Club, Vienna on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ KILL.DB is a house and tech house artist based in Germany, tracked on soundcheck
 
 Carl Bergé, Pauly, BERF
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kill.db/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kill.db/)*

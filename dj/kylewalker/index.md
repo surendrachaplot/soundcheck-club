@@ -1,6 +1,6 @@
 # Kyle Walker
 
-Kyle Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Knockdown Center, New York City on Sat, 22 Aug 2026.
+Kyle Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Knockdown Center, New York City on Sat, 22 Aug 2026.
 
 Kyle Walker is a house and tech house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Chicago and Denver and 11 more. Often billed alongside Carlita, Chesster and Eli Brown. Next up: Knockdown Center, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kyle Walker is a house and tech house artist tracked on soundcheck, with 51 sets
 
 Carlita, Chesster, Eli Brown
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*

@@ -1,17 +1,17 @@
 # Backsteinboot
 
-Backsteinboot is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Moonstompers with The Ghost, S.Moreira, Gnarly J" on Fri, 11 Sept 2026.
+Backsteinboot is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Moonstompers with The Ghost, S.Moreira, Gnarly J" on Fri, 11 Sept 2026.
 
-Backsteinboot is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Alexia, Gnarly J, Jack D and S.Moreira and 1 more. Browse upcoming dates, start times and who's playing. Eiswerderstrasse 18, 13585 Berlin.
+Backsteinboot is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Alexia, Alexia (2), Gnarly J and Jack D and 2 more. Browse upcoming dates, start times and who's playing. Eiswerderstrasse 18, 13585 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Moonstompers with The Ghost, S.Moreira, Gnarly J | Alexia, Gnarly J, Jack D, S.Moreira, The Ghost |
+| Fri, 11 Sept 2026 | Moonstompers with The Ghost, S.Moreira, Gnarly J | Alexia, Alexia (2), Gnarly J, Jack D, S.Moreira, The Ghost |
 
 ## Address
 
 Eiswerderstrasse 18, 13585 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/backsteinboot/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/backsteinboot/)*

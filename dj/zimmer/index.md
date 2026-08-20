@@ -1,6 +1,6 @@
 # Zimmer
 
-Zimmer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Chatroom at Elsewhere, New York City on Fri, 21 Aug 2026.
+Zimmer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Chatroom at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 Zimmer is a house and deep house artist tracked on soundcheck, with 30 sets logged across Berlin, Losangeles, Mexicocity and Munich and 6 more. Often billed alongside Zaatar, DJ Football and Francesca. Next up: Chatroom at Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zimmer is a house and deep house artist tracked on soundcheck, with 30 sets logg
 
 Zaatar, DJ Football, Francesca
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zimmer/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zimmer/)*

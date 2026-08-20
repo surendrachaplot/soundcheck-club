@@ -1,6 +1,6 @@
 # Ellie Talebian
 
-Ellie Talebian is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
+Ellie Talebian is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
 
 Ellie Talebian is a house and disco artist tracked on soundcheck, with 10 sets logged across Brighton, London and Newyorkcity. Often billed alongside NJ Strange, Seamus Haji and Wildblood and Queenie. Next up: Quarters, Brighton on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ellie Talebian is a house and disco artist tracked on soundcheck, with 10 sets l
 
 NJ Strange, Seamus Haji, Wildblood and Queenie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellietalebian/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellietalebian/)*

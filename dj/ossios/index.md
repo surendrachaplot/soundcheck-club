@@ -1,6 +1,6 @@
 # Ossios
 
-Ossios is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ikii, Berlin on Sat, 22 Aug 2026.
+Ossios is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ikii, Berlin on Sat, 22 Aug 2026.
 
 Ossios is a house and electro artist tracked on soundcheck, with 49 sets logged across Berlin, Istanbul, Lisbon and Mexicocity and 1 more. Often billed alongside Bastard Love, GNMR and Marcolino. Next up: Ikii, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ossios is a house and electro artist tracked on soundcheck, with 49 sets logged 
 
 Bastard Love, GNMR, Marcolino
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossios/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossios/)*

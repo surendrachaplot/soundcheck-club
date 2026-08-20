@@ -1,6 +1,6 @@
 # Brad Hales
 
-Brad Hales is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
+Brad Hales is a Funk / Soul and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paris Bar, Detroit on Fri, 28 Aug 2026.
 
 Brad Hales is a funk / soul and r&b artist tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside Erica Aytes, Adam Stanfel and Andrés. Next up: Paris Bar, Detroit on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Brad Hales is a funk / soul and r&b artist tracked on soundcheck, with 11 sets l
 
 Erica Aytes, Adam Stanfel, Andrés
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradhales/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradhales/)*

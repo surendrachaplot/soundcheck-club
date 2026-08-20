@@ -1,8 +1,8 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
+LSDXOXO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
 
-LSDXOXO is a techno and club artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and FJAAK. Next up: VENT, Tokyo on Sat 29 Aug.
+LSDXOXO is a techno and club artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and Chippy Nonstop. Next up: VENT, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LSDXOXO is a techno and club artist tracked on soundcheck, with 191 sets logged 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | VENT | Tokyo |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 17 Oct 2026 | Ingram Plaza | San Diego |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ LSDXOXO is a techno and club artist tracked on soundcheck, with 191 sets logged 
 
 ## Shares bills with
 
-VTSS, Boys Noize, FJAAK
+VTSS, Boys Noize, Chippy Nonstop
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

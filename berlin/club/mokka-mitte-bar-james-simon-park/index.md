@@ -1,17 +1,18 @@
 # Mokka Mitte Bar / James Simon Park
 
-Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Ducks on Vinyls Release Party feat SIP Happens" on Sat, 5 Sept 2026.
+Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Weniger Ist Mehr" on Sat, 22 Aug 2026.
 
-Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including D1rty Duck and Wiebe Roose. Browse upcoming dates, start times and who's playing. Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park.
+Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including D1rty Duck, Mark van der Ree, Vanree and Wiebe Roose. Browse upcoming dates, start times and who's playing. Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Weniger Ist Mehr | Mark van der Ree, Vanree |
 | Sat, 5 Sept 2026 | Ducks on Vinyls Release Party feat SIP Happens | D1rty Duck, Wiebe Roose |
 
 ## Address
 
 Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*

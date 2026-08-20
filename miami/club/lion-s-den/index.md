@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Aftercito at Lions Den" on Thu, 20 Aug 2026.
+Lion's Den is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Aftercito at Lions Den" on Thu, 20 Aug 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming nights, with line-ups including Daizy, Gio Elia, Manumat and phiphi and 2 more. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
 
@@ -18,4 +18,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming nights, wi
 
 150 NW 73rd st, Miami
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

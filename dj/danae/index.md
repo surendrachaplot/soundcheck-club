@@ -1,6 +1,6 @@
 # Arianna Danae
 
-Arianna Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
+Arianna Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
 
 Arianna Danae is a house and techno artist tracked on soundcheck, with 78 sets logged across Boston, Detroit, Edinburgh and London and 5 more. Often billed alongside MNSA, Fatin and Nadim Maghzal. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Arianna Danae is a house and techno artist tracked on soundcheck, with 78 sets l
 
 MNSA, Fatin, Nadim Maghzal
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*

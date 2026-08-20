@@ -1,8 +1,8 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Love Inn, Bristol on Thu, 20 Aug 2026.
+Neek is a Techno and Dubstep artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Love Inn, Bristol on Thu, 20 Aug 2026.
 
-Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Love Inn, Bristol on Thu 20 Aug.
+Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Love Inn, Bristol on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 | Thu, 20 Aug 2026 | The Love Inn | Bristol |
 | Sat, 29 Aug 2026 | The Pitt Market | Edinburgh |
 | Fri, 4 Sept 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 26 Sept 2026 | Colour Factory | London |
 | Fri, 16 Oct 2026 | The Dome | Liverpool |
 | Fri, 23 Oct 2026 | Room 2 Glasgow | Glasgow |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
@@ -30,4 +31,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

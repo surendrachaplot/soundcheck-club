@@ -1,6 +1,6 @@
 # schwrzmlrn
 
-schwrzmlrn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
+schwrzmlrn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
 
 schwrzmlrn is a techno and trance artist tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside Simon Phil.ter, Alisa Stovik and BB Deng. Next up: elipamanoke, Leipzig on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ schwrzmlrn is a techno and trance artist tracked on soundcheck, with 7 sets logg
 
 Simon Phil.ter, Alisa Stovik, BB Deng
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwrzmlrn/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwrzmlrn/)*

@@ -1,8 +1,8 @@
 # EPHIE
 
-EPHIE is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
+EPHIE is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
 
-EPHIE is a techno and acid artist tracked on soundcheck, with 10 sets logged across Cologne. Often billed alongside Elisen, Eszter and Leolo Lozone. Next up: Odonien, Cologne on Sat 5 Sept.
+EPHIE is a techno and acid artist tracked on soundcheck, with 11 sets logged across Cologne. Often billed alongside Elisen, Eszter and Leolo Lozone. Next up: Odonien, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ EPHIE is a techno and acid artist tracked on soundcheck, with 10 sets logged acr
 | Sat, 5 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Odonien | Cologne |
+| Sat, 19 Sept 2026 | Gewölbe | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ EPHIE is a techno and acid artist tracked on soundcheck, with 10 sets logged acr
 
 Elisen, Eszter, Leolo Lozone
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephie/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephie/)*

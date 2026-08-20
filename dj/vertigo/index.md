@@ -1,6 +1,6 @@
 # Vertigo
 
-Vertigo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Vertigo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Vertigo is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Detroit, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside BAD JUUJU, Clearcast and Skiis. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Vertigo is a techno and house artist based in United States of America, tracked 
 
 BAD JUUJU, Clearcast, Skiis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*

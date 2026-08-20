@@ -1,6 +1,6 @@
 # Fukumachi
 
-Fukumachi is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KHIDI, Tbilisi on Fri, 21 Aug 2026.
+Fukumachi is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at KHIDI, Tbilisi on Fri, 21 Aug 2026.
 
 Fukumachi is an electronic artist tracked on soundcheck, with 7 sets logged across Berlin, Paris and Tbilisi. Often billed alongside Boyd Schidt, Caniche and Comethisfar. Next up: KHIDI, Tbilisi on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Fukumachi is an electronic artist tracked on soundcheck, with 7 sets logged acro
 
 Boyd Schidt, Caniche, Comethisfar
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukumachi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukumachi/)*

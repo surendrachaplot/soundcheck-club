@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fünk, Mexico City on Fri, 28 Aug 2026.
+Pangaea is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fünk, Mexico City on Fri, 28 Aug 2026.
 
 Pangaea is a techno and bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Bali and 49 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: Fünk, Mexicocity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Pangaea is a techno and bass artist tracked on soundcheck, with 121 sets logged 
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

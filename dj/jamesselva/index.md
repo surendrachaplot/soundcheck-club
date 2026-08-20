@@ -1,6 +1,6 @@
 # James Selva
 
-James Selva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tuff Club, Singapore on Fri, 4 Sept 2026.
+James Selva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tuff Club, Singapore on Fri, 4 Sept 2026.
 
 James Selva is a house and techno artist tracked on soundcheck, with 58 sets logged across Bali, Bangkok, Kualalumpur and Singapore. Often billed alongside Sivanesh, Cosmo Carbon and Bongomann. Next up: Tuff Club, Singapore on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ James Selva is a house and techno artist tracked on soundcheck, with 58 sets log
 
 Sivanesh, Cosmo Carbon, Bongomann
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesselva/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesselva/)*

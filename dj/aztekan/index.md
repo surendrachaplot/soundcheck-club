@@ -1,14 +1,14 @@
 # Aztekan
 
-Aztekan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Inland Empire, Los Angeles on Fri, 21 Aug 2026.
+Aztekan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Inland Empire (45min from LA), Los Angeles on Fri, 21 Aug 2026.
 
-Aztekan is a techno and acid artist based in United States of America, tracked on soundcheck, with 25 sets logged across Boston, Denver, Detroit and Losangeles and 1 more. Often billed alongside Developer, JIA and Adra. Next up: TBA - Inland Empire, Losangeles on Fri 21 Aug.
+Aztekan is a techno and acid artist based in United States of America, tracked on soundcheck, with 25 sets logged across Boston, Denver, Detroit and Losangeles and 1 more. Often billed alongside Developer, JIA and Adra. Next up: TBA - Inland Empire (45min from LA), Losangeles on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA - Inland Empire | Los Angeles |
+| Fri, 21 Aug 2026 | TBA - Inland Empire (45min from LA) | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Aztekan is a techno and acid artist based in United States of America, tracked o
 
 Developer, JIA, Adra
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aztekan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aztekan/)*

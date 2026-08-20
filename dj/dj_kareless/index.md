@@ -1,6 +1,6 @@
 # dj_kareless
 
-dj_kareless is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
+dj_kareless is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
 
 dj_kareless is a progressive house and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside DJ Keyframe, Bonzo (2) and Kenny Danger. Next up: Berndhain, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ dj_kareless is a progressive house and house artist based in Germany, tracked on
 
 DJ Keyframe, Bonzo (2), Kenny Danger
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_kareless/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_kareless/)*

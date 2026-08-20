@@ -1,6 +1,6 @@
 # Mara Menace
 
-Mara Menace is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Mara Menace is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Mara Menace is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside Maris Shilton, Sicion and Mathys Lenne. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Mara Menace is a techno and house artist based in Germany, tracked on soundcheck
 
 Maris Shilton, Sicion, Mathys Lenne
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*

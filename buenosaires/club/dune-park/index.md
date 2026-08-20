@@ -1,6 +1,6 @@
 # Dune Park
 
-Dune Park is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "LEGACY VOL. XIV" on Sat, 22 Aug 2026.
+Dune Park is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "LEGACY VOL. XIV" on Sat, 22 Aug 2026.
 
 Dune Park is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including KUSS and Marcos Fagoaga. Browse upcoming dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
 
@@ -15,4 +15,4 @@ Dune Park is a music venue in Buenosaires listed on soundcheck. 2 upcoming night
 
 Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina, Buenos Aires
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*

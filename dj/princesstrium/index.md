@@ -1,6 +1,6 @@
 # Princess Trium
 
-Princess Trium is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Model, Nottingham on Sat, 26 Sept 2026.
+Princess Trium is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Model, Nottingham on Sat, 26 Sept 2026.
 
 Princess Trium is a club and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona, Leeds, London and Manchester and 1 more. Often billed alongside DJ Frizzy D, Ivicore and CHEZA LUCINA. Next up: The Model, Nottingham on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Princess Trium is a club and electronica artist tracked on soundcheck, with 23 s
 
 DJ Frizzy D, Ivicore, CHEZA LUCINA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesstrium/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesstrium/)*

@@ -1,6 +1,6 @@
 # Yago
 
-Yago is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Yago is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Yago is an electronic artist based in Italy, tracked on soundcheck, with 3 sets logged across Basel, Madrid and Rotterdam. Often billed alongside AMORAL, Ambu Bambu and Brennan Heart. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Yago is an electronic artist based in Italy, tracked on soundcheck, with 3 sets 
 
 AMORAL, Ambu Bambu, Brennan Heart
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yago/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yago/)*

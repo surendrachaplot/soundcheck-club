@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 31 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Midnight Bass x Sneaky Pete's All Stars" on Wed, 19 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Agora: LWS b2b Gregor AM" on Thu, 20 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Midnight Bass x Sneaky Pete's All Stars | Buckfast Barbie, DV60, Dansa, Sweet Philly, m1 (1), miira, monicat |
 | Thu, 20 Aug 2026 | Agora: LWS b2b Gregor AM | Gregor AM, LWS |
 | Fri, 21 Aug 2026 | discotia: Hobbes | Hobbes, discotia |
 | Sat, 22 Aug 2026 | Athens of the North Disco Club: Festival Special | Euan Fryer, Lel Palfrey |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming ni
 | Tue, 25 Aug 2026 | RARE Club // Fringe Closer | Becca Egan, cara hegarty, zohra |
 | Wed, 26 Aug 2026 | Midnight Bass // Easts Meets West w/ imo-Lu (Hospital Records) + more | Amber Leith, Corran, SHAWK, SOLECTA, imo-Lu, ms-g |
 | Thu, 27 Aug 2026 | haptic + friends (festival special) | Bartek, freddy haptic |
+| Fri, 28 Aug 2026 | Heyday: Masha Mar & Prosumer | Masha Mar, Prosumer |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

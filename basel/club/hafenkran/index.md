@@ -1,6 +1,6 @@
 # Hafenkran
 
-Hafenkran is a music venue in Basel with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rogue: Hafenkran" on Sat, 29 Aug 2026.
+Hafenkran is a music venue in Basel with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rogue: Hafenkran" on Sat, 29 Aug 2026.
 
 Hafenkran is a music venue in Basel listed on soundcheck. 1 upcoming night, with line-ups including Galopp, Megix, Nhū and SANEM. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hafenkran is a music venue in Basel listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Rogue: Hafenkran | Galopp, Megix, Nhū, SANEM |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/hafenkran/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/hafenkran/)*

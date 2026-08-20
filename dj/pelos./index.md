@@ -1,6 +1,6 @@
 # Pelos.
 
-Pelos. is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
+Pelos. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
 
 Pelos. is a techno artist tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside R. Martin, Acid Fran and Ayako Mori. Next up: Cadavra, Madrid on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Pelos. is a techno artist tracked on soundcheck, with 10 sets logged across Madr
 
 R. Martin, Acid Fran, Ayako Mori
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pelos./)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pelos./)*

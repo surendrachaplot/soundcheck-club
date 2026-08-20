@@ -1,6 +1,6 @@
 # Vertigoaway
 
-Vertigoaway is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ortlieb's, Philadelphia on Fri, 21 Aug 2026.
+Vertigoaway is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ortlieb's, Philadelphia on Fri, 21 Aug 2026.
 
 Vertigoaway is a trance and experimental artist tracked on soundcheck, with 3 sets logged across Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside Purity Filter, CHKDSK and Enable Secret. Next up: Ortlieb's, Philadelphia on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Vertigoaway is a trance and experimental artist tracked on soundcheck, with 3 se
 
 Purity Filter, CHKDSK, Enable Secret
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigoaway/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigoaway/)*

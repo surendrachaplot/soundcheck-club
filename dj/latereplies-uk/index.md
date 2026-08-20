@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 22 Aug 2026.
+Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Late Replies is a tech house and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Bali and Barcelona and 16 more. Often billed alongside Detlef, Darius Syrossian and Seb Zito. Next up: Ushuaïa Ibiza, Ibiza on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Late Replies is a tech house and house artist tracked on soundcheck, with 70 set
 
 Detlef, Darius Syrossian, Seb Zito
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

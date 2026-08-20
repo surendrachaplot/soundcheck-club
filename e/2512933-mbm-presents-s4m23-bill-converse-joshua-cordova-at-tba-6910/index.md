@@ -1,6 +1,6 @@
 # MBM presents: S4M23, Bill Converse, Joshua Cordova at TBA - 6910 Shirley Ave
 
-MBM presents: S4M23, Bill Converse, Joshua Cordova at TBA - 6910 Shirley Ave on Fri 21 Aug, Austin. 3 acts on the bill: Bill Converse, Joshua Cordova and S4M23. Techno. Preview the line-up and save it on soundcheck.
+MBM presents: S4M23, Bill Converse, Joshua Cordova at TBA - 6910 Shirley Ave on Fri 21 Aug, Austin. 3 acts on the bill: Bill Converse, Joshua Cordova and S4M23. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

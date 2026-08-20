@@ -1,6 +1,6 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
+Rad.Lez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
 
 Rad.Lez is a techno and electro artist based in Venezuela, tracked on soundcheck, with 101 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Birgit, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rad.Lez is a techno and electro artist based in Venezuela, tracked on soundcheck
 
 Lazykid, Shabiki, HNGT
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

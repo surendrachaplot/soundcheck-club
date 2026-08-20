@@ -1,6 +1,6 @@
 # Somna
 
-Somna is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
+Somna is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
 
 Somna is a trance and techno artist based in Canada, tracked on soundcheck, with 4 sets logged across London, Sandiego, Seattle and Tokyo. Often billed alongside Andy Moor, AEMI and Ayana Pattra. Next up: Basing House, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Somna is a trance and techno artist based in Canada, tracked on soundcheck, with
 
 Andy Moor, AEMI, Ayana Pattra
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somna/)*

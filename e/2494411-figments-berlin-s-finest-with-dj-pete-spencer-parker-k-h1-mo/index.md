@@ -1,6 +1,6 @@
 # Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro at ÆDEN
 
-Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro at ÆDEN on Sun 23 Aug, Berlin. 12 acts on the bill: arbër, DJ Pete, K-H1 and KIV. and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro at ÆDEN on Sun 23 Aug, Berlin. 13 acts on the bill: arbër, DJ Pete, K-H1 and KIV. and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arb�
 - Mottomo
 - MXC
 - No Auer
+- Pleasure
 - søssa
 - Spencer Parker
 - Vaccaro

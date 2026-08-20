@@ -1,6 +1,6 @@
 # The Journey Men
 
-The Journey Men is a Deep House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Patterns, Brighton on Sat, 22 Aug 2026.
+The Journey Men is a Deep House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Patterns, Brighton on Sat, 22 Aug 2026.
 
 The Journey Men is a deep house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Glasgow, Lisbon and Liverpool and 1 more. Often billed alongside Craig Smith, DJ Spen and Jimmy Allen. Next up: Patterns, Brighton on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ The Journey Men is a deep house and funk / soul artist based in United Kingdom, 
 
 Craig Smith, DJ Spen, Jimmy Allen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*

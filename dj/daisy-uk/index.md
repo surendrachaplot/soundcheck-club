@@ -1,8 +1,8 @@
 # DAISY
 
-DAISY is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kazimier Garden, Liverpool on Sat, 22 Aug 2026.
+DAISY is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kazimier Garden, Liverpool on Sat, 22 Aug 2026.
 
-DAISY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: Kazimier Garden, Liverpool on Sat 22 Aug.
+DAISY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: Kazimier Garden, Liverpool on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DAISY is a garage and house artist based in United Kingdom, tracked on soundchec
 | Sat, 22 Aug 2026 | Kazimier Garden | Liverpool |
 | Sat, 5 Sept 2026 | renae | Manchester |
 | Fri, 2 Oct 2026 | Night Tales Loft | London |
+| Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
@@ -28,4 +29,4 @@ DAISY is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Silva Bumpa, Oldboy (2), Prozak (IRL)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*

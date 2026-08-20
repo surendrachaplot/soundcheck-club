@@ -1,6 +1,6 @@
 # Kira (3)
 
-Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Kira (3) is a drum & bass and jungle artist based in Moldova, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Bristol and Krakow and 2 more. Often billed alongside Break, Breakage and Clive Henry. Next up: The Cause, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kira (3) is a drum & bass and jungle artist based in Moldova, tracked on soundch
 
 Break, Breakage, Clive Henry
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*

@@ -1,6 +1,6 @@
 # ALBERTO DIMEO
 
-ALBERTO DIMEO is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at NIX Barcelon, Barcelona on Sun, 30 Aug 2026.
+ALBERTO DIMEO is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at NIX Barcelon, Barcelona on Sun, 30 Aug 2026.
 
 ALBERTO DIMEO is a tech house artist tracked on soundcheck, with 10 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Freddy Bello, fajardo and jose fajardo. Next up: NIX Barcelon, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ ALBERTO DIMEO is a tech house artist tracked on soundcheck, with 10 sets logged 
 
 Freddy Bello, fajardo, jose fajardo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albertodimeo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albertodimeo/)*

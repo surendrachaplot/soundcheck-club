@@ -1,6 +1,6 @@
 # The Virgil
 
-The Virgil is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "MÁCHINA by She's in Parties" on Fri, 4 Sept 2026.
+The Virgil is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "MÁCHINA by She's in Parties" on Fri, 4 Sept 2026.
 
 The Virgil is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4519 Santa Monica Blvd, Los Angeles, CA 90029.
 
@@ -14,4 +14,4 @@ The Virgil is a music venue in Losangeles listed on soundcheck. 1 upcoming night
 
 4519 Santa Monica Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-virgil/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-virgil/)*

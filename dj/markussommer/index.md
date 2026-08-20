@@ -1,13 +1,15 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nido Marseille, Marseille on Sat, 12 Sept 2026.
+Markus Sommer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 5 Sept 2026.
 
-Markus Sommer is a house and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Tom Ries, Tzena and Phil Evans. Next up: Nido Marseille, Marseille on Sat 12 Sept.
+Markus Sommer is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Tom Ries, Tzena and Phil Evans. Next up: Collect LX Factory, Lisbon on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Collect LX Factory | Lisbon |
+| Sat, 5 Sept 2026 | Collect LX Factory | Lisbon |
 | Sat, 12 Sept 2026 | Nido Marseille | Marseille |
 
 ## Recently played
@@ -25,4 +27,4 @@ Markus Sommer is a house and techno artist based in Germany, tracked on soundche
 
 Tom Ries, Tzena, Phil Evans
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*

@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Kellie Allen is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Kellie Allen is a house and tech house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 119 se
 
 Prunk, Dennis Quin, M-High
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

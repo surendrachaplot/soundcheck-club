@@ -1,6 +1,6 @@
 # The Bernabela Project
 
-The Bernabela Project is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
+The Bernabela Project is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
 
 The Bernabela Project is a techno and house artist tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Ataxia, DJ Three and John Acquaviva. Next up: Marble Bar, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ The Bernabela Project is a techno and house artist tracked on soundcheck, with 1
 
 Ataxia, DJ Three, John Acquaviva
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebernabelaproject/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebernabelaproject/)*

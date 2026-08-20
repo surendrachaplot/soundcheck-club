@@ -1,6 +1,6 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Ground at Club Space, Miami on Sat, 22 Aug 2026.
+LOLSNAKE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Ground at Club Space, Miami on Sat, 22 Aug 2026.
 
 LOLSNAKE is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: The Ground at Club Space, Miami on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 217 sets logge
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

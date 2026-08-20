@@ -1,6 +1,6 @@
 # Tom & Collins
 
-Tom & Collins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Coda, Toronto on Fri, 28 Aug 2026.
+Tom & Collins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Coda, Toronto on Fri, 28 Aug 2026.
 
 Tom & Collins are a house and tech house duo tracked on soundcheck, with 60 sets logged across Austin, Boston, Buenosaires and Chicago and 18 more. Often billed alongside Claptone, Hugel and Yamagucci. Next up: Coda, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Tom & Collins are a house and tech house duo tracked on soundcheck, with 60 sets
 
 Claptone, Hugel, Yamagucci
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*

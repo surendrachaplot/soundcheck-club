@@ -1,6 +1,6 @@
-# The Mystic Rose meets Liquid Soul & DR MOTTE at KitKatClub
+# The Mystic Rose meets Liquid Soul & Dr. Motte at KitKatClub
 
-The Mystic Rose meets Liquid Soul & DR MOTTE at KitKatClub on Fri 18 Sept, Berlin. 3 acts on the bill: BERLIN, Dr. Motte and Liquid Soul. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+The Mystic Rose meets Liquid Soul & Dr. Motte at KitKatClub on Fri 18 Sept, Berlin. 3 acts on the bill: BERLIN, Dr. Motte and Liquid Soul. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

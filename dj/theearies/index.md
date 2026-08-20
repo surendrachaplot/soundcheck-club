@@ -1,6 +1,6 @@
 # Thee Aries
 
-Thee Aries is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bogart House, New York City on Sat, 22 Aug 2026.
+Thee Aries is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bogart House, New York City on Sat, 22 Aug 2026.
 
 Thee Aries is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Someone From Berlin, Ben Wild and Justin Cudmore. Next up: Bogart House, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Thee Aries is a house and techno artist based in United States of America, track
 
 Someone From Berlin, Ben Wild, Justin Cudmore
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theearies/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theearies/)*

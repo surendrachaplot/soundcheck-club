@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hangaren, Copenhagen on Fri, 28 Aug 2026.
+Kyle Starkey is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Fri, 28 Aug 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Hangaren, Copenhagen on Fri 28 Aug.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Hangaren, Copenhagen on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 163 sets l
 | Sat, 5 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 5 Sept 2026 | Mondo | Madrid |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Sat, 12 Sept 2026 | BASIS | Utrecht |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Moon Club | Bristol |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 163 sets l
 
 DART, Benwal, Faster Horses
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

@@ -1,6 +1,6 @@
 # TBA - Multiple Venues (93 Feet East & E1 Afterparty)
 
-TBA - Multiple Venues (93 Feet East & E1 Afterparty) is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Boat Club Halloween @ 93 Feet East & E1 Afterparty" on Sat, 31 Oct 2026.
+TBA - Multiple Venues (93 Feet East & E1 Afterparty) is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Boat Club Halloween @ 93 Feet East & E1 Afterparty" on Sat, 31 Oct 2026.
 
 TBA - Multiple Venues (93 Feet East & E1 Afterparty) is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including G CHASE, HARTY, Mazos and Mike Younger and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Multiple Venues (93 Feet East & E1 Afterparty) is a music venue in London 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Boat Club Halloween @ 93 Feet East & E1 Afterparty | G CHASE, HARTY, Mazos, Mike Younger, Sonny Kane |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-multiple-venues-93-feet-east-e1-afterparty/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-multiple-venues-93-feet-east-e1-afterparty/)*

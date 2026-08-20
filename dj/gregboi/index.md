@@ -1,6 +1,6 @@
 # Gregboi
 
-Gregboi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Gregboi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets logged across Detroit. Often billed alongside Ryan Sadorus, Marcus NF Harris and Czboogie. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets log
 
 Ryan Sadorus, Marcus NF Harris, Czboogie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*

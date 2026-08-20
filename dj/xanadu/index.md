@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Xanadu is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 Xanadu is a hip-hop and electronica artist tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Facs, Primitivizm and 1-800 GIRLS. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Xanadu is a hip-hop and electronica artist tracked on soundcheck, with 4 sets lo
 
 Facs, Primitivizm, 1-800 GIRLS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanadu/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanadu/)*

@@ -1,6 +1,6 @@
 # Dave Mech
 
-Dave Mech is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
+Dave Mech is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
 
 Dave Mech is a techno and electro artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Utrecht. Often billed alongside Gabrielle (DE), Jasmin Giovanazzi and Mattone. Next up: OXI, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Dave Mech is a techno and electro artist tracked on soundcheck, with 16 sets log
 
 Gabrielle (DE), Jasmin Giovanazzi, Mattone
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*

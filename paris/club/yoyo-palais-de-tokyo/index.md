@@ -1,0 +1,17 @@
+# YoYo - Palais de Tokyo
+
+YoYo - Palais de Tokyo is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "SXM Festival X Kalua - YOYO, PALAIS DE TOKYO" on Sat, 19 Sept 2026.
+
+YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 13 avenue du Président Wilson 75016 Paris.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 19 Sept 2026 | SXM Festival X Kalua - YOYO, PALAIS DE TOKYO |  |
+
+## Address
+
+13 avenue du Président Wilson 75016 Paris, Paris
+
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*

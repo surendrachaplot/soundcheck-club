@@ -1,6 +1,6 @@
 # TRANCEPORT at Rebecca's
 
-TRANCEPORT at Rebecca's on Thu 20 Aug, Newyorkcity. 2 acts on the bill: ASTER (DJ) and hans bas. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANCEPORT at Rebecca's on Thu 20 Aug, Newyorkcity. 3 acts on the bill: ASTER (DJ), hans bas and ultrap0p. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ TRANCEPORT at Rebecca's on Thu 20 Aug, Newyorkcity. 2 acts on the bill: ASTER (D
 
 - ASTER (DJ)
 - hans bas
+- ultrap0p
 
 *Source: [soundcheck](https://soundcheck.club/e/2514187-tranceport-at-rebecca-s/)*

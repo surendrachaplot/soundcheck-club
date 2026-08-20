@@ -1,6 +1,6 @@
 # Don't at M.O.T
 
-Don't at M.O.T on Sat 3 Oct, London. 1 act on the bill: Jerome Hill. Techno. Preview the line-up and save it on soundcheck.
+Don't at M.O.T on Sat 3 Oct, London. 2 acts on the bill: Jerome Hill and Peder Mannerfelt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Don't at M.O.T on Sat 3 Oct, London. 1 act on the bill: Jerome Hill. Techno. Pre
 ## Line-up
 
 - Jerome Hill
+- Peder Mannerfelt
 
 *Source: [soundcheck](https://soundcheck.club/e/2451086-don-t-at-m-o-t/)*

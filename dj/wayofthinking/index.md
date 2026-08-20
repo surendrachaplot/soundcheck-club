@@ -1,8 +1,8 @@
 # Way Of Thinking
 
-Way Of Thinking is a Minimal Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
+Way Of Thinking is a Minimal Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
 
-Way Of Thinking is a minimal techno and techno artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside ARODES, &ME and Adam Port. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
+Way Of Thinking is a minimal techno and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside ARODES, &ME and Adam Port. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Way Of Thinking is a minimal techno and techno artist tracked on soundcheck, wit
 
 ## Recently played
 
+- Void Club, Berlin — Wed, 19 Aug 2026
 - BORIS CLUB, Barcelona — Sat, 9 May 2026
 - Kater, Berlin — Fri, 1 May 2026
 - TBA - El Balneario, Baños del Carmen, Malaga — Sat, 22 Mar 2025
@@ -20,10 +21,9 @@ Way Of Thinking is a minimal techno and techno artist tracked on soundcheck, wit
 - Birgit, Berlin — Sun, 21 Jul 2024
 - Mirano, Brussels — Fri, 15 Mar 2024
 - Studio Club Malaga, Mallorca — Sat, 10 Feb 2024
-- Studio Club Malaga, Mallorca — Fri, 5 Jan 2024
 
 ## Shares bills with
 
 ARODES, &ME, Adam Port
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wayofthinking/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wayofthinking/)*

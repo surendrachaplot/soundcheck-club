@@ -1,6 +1,6 @@
 # kids eating bbq
 
-kids eating bbq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
+kids eating bbq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Oath, Tokyo on Fri, 21 Aug 2026.
 
 kids eating bbq is a house and techno artist tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Al Jones, BANANA-CHAN and Datwun. Next up: Oath, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ kids eating bbq is a house and techno artist tracked on soundcheck, with 11 sets
 
 Al Jones, BANANA-CHAN, Datwun
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidseatingbbq/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidseatingbbq/)*

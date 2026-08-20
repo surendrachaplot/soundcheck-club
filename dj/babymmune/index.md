@@ -1,6 +1,6 @@
 # baby mmune
 
-baby mmune is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 70 huron street, Toronto on Fri, 21 Aug 2026.
+baby mmune is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 70 huron street, Toronto on Fri, 21 Aug 2026.
 
 baby mmune is a club and afrobeats artist based in Canada, tracked on soundcheck, with 22 sets logged across London, Marseille and Toronto. Often billed alongside ADEOLA, Adeo!a and 999ADJ. Next up: TBA - 70 huron street, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ baby mmune is a club and afrobeats artist based in Canada, tracked on soundcheck
 
 ADEOLA, Adeo!a, 999ADJ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babymmune/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babymmune/)*

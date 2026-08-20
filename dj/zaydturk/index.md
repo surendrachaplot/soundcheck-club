@@ -1,6 +1,6 @@
 # Zayd Turk
 
-Zayd Turk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Green Room NYC, New York City on Sat, 22 Aug 2026.
+Zayd Turk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Green Room NYC, New York City on Sat, 22 Aug 2026.
 
 Zayd Turk is a house and tech house artist based in Lebanon, tracked on soundcheck, with 6 sets logged across Montreal and Newyorkcity. Often billed alongside ABS (4), Adam Rose and Alton Miller. Next up: Green Room NYC, Newyorkcity on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Zayd Turk is a house and tech house artist based in Lebanon, tracked on soundche
 
 ABS (4), Adam Rose, Alton Miller
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaydturk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaydturk/)*

@@ -1,6 +1,6 @@
 # OverALL at Solfa
 
-OverALL at Solfa on Sat 5 Sept, Tokyo. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+OverALL at Solfa on Sat 5 Sept, Tokyo. Dub and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

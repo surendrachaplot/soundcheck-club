@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SW ♡ IBIZA AUGUST 19" on Wed, 19 Aug 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SW ♡ IBIZA AUGUST 19" on Wed, 19 Aug 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Maher Daniel, Nima Gorji and PERSIC. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -23,4 +23,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming n
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

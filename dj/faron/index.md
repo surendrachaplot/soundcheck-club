@@ -1,6 +1,6 @@
 # faron
 
-faron is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Plażówka Saska, Warsaw on Fri, 21 Aug 2026.
+faron is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Plażówka Saska, Warsaw on Fri, 21 Aug 2026.
 
 faron is a bass and techno artist tracked on soundcheck, with 60 sets logged across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: Plażówka Saska, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ faron is a bass and techno artist tracked on soundcheck, with 60 sets logged acr
 
 Some Guest, iffi, dd (PL)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

@@ -1,8 +1,8 @@
 # SAKO
 
-SAKO is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
+SAKO is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
 
-SAKO is a drum & bass and bass artist tracked on soundcheck, with 102 sets logged across Montreal, Osaka and Tokyo. Often billed alongside MOOTOE, ATAMI and Altemica. Next up: ZEROTOKYO, Tokyo on Fri 28 Aug.
+SAKO is a drum & bass and bass artist tracked on soundcheck, with 103 sets logged across Montreal, Osaka and Tokyo. Often billed alongside MOOTOE, ATAMI and Altemica. Next up: ZEROTOKYO, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SAKO is a drum & bass and bass artist tracked on soundcheck, with 102 sets logge
 | Fri, 28 Aug 2026 | ZEROTOKYO | Tokyo |
 | Sat, 29 Aug 2026 | Camelot | Tokyo |
 | Sun, 6 Sept 2026 | Circus Tokyo | Tokyo |
+| Tue, 3 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ SAKO is a drum & bass and bass artist tracked on soundcheck, with 102 sets logge
 
 MOOTOE, ATAMI, Altemica
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*

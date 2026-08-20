@@ -1,6 +1,6 @@
 # Arielle Free
 
-Arielle Free is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 12 Sept 2026.
+Arielle Free is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Arielle Free is a house and tech house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: Hï Ibiza, Ibiza on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Arielle Free is a house and tech house artist tracked on soundcheck, with 128 se
 
 David Guetta, Meduza, Sam Divine
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*

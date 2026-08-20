@@ -1,8 +1,8 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+DJ Fart in the Club is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
-DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Kia (AU), deep creep and CCL. Next up: Gaffe, London on Sat 5 Sept.
+DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Kia (AU), deep creep and CCL. Next up: Gaffe, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 115
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
+| Sat, 12 Sept 2026 | Ankali & Planeta Za | Prague |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 31 Oct 2026 | The Pitt Market | Edinburgh |
@@ -29,4 +30,4 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 115
 
 Kia (AU), deep creep, CCL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "House Music Fridays: Wally Callerio, Mai Mai + Matthew Brian B2B Eric Leonardis" on Fri, 21 Aug 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "House Music Fridays: Wally Callerio, Mai Mai + Matthew Brian B2B Eric Leonardis" on Fri, 21 Aug 2026.
 
 The Air Conditioned Lounge is a music venue in Sandiego listed on soundcheck. 3 upcoming nights, with line-ups including Ben Annand, Bird Lady, Eric Leonardis and Matthew Brian and 2 more. Browse upcoming dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -16,4 +16,4 @@ The Air Conditioned Lounge is a music venue in Sandiego listed on soundcheck. 3 
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

@@ -1,6 +1,6 @@
 # Blue Flower
 
-Blue Flower is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Numm, Tokyo on Thu, 20 Aug 2026.
+Blue Flower is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Numm, Tokyo on Thu, 20 Aug 2026.
 
 Blue Flower is a house and bass artist based in Japan, tracked on soundcheck, with 84 sets logged across Osaka, Seoul and Tokyo. Often billed alongside FT (JP), DJ MOCHIZUKI and Guchon. Next up: Numm, Tokyo on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Blue Flower is a house and bass artist based in Japan, tracked on soundcheck, wi
 
 FT (JP), DJ MOCHIZUKI, Guchon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blueflower/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blueflower/)*

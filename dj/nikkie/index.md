@@ -1,6 +1,6 @@
 # Nikkie
 
-Nikkie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Nikkie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Nikkie is a house and techno artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Milan, Naples and Rome and 2 more. Often billed alongside Alexia Glensy, Bakked and Munir Nadir. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nikkie is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 Alexia Glensy, Bakked, Munir Nadir
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkie/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkie/)*

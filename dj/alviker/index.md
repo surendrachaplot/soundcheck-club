@@ -1,6 +1,6 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at EL SÓTANO, Madrid on Sun, 6 Sept 2026.
+Alviker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at EL SÓTANO, Madrid on Sun, 6 Sept 2026.
 
 Alviker is a techno and trance artist based in Spain, tracked on soundcheck, with 71 sets logged across Bangkok, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Reitze, ISA (ES) and Alputo. Next up: EL SÓTANO, Madrid on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Alviker is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Reitze, ISA (ES), Alputo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*

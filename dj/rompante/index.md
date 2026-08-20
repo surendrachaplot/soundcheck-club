@@ -1,6 +1,6 @@
 # Rompante
 
-Rompante is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Plano B, Porto on Fri, 21 Aug 2026.
+Rompante is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Plano B, Porto on Fri, 21 Aug 2026.
 
 Rompante is a house and tech house artist based in Portugal, tracked on soundcheck, with 39 sets logged across Lisbon, Porto and Washingtondc. Often billed alongside Bruno (2), Let (3) and Nave Mãe. Next up: Plano B, Porto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rompante is a house and tech house artist based in Portugal, tracked on soundche
 
 Bruno (2), Let (3), Nave Mãe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rompante/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rompante/)*

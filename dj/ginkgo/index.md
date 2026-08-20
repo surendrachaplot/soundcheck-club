@@ -1,6 +1,6 @@
 # Ginkgo
 
-Ginkgo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Ginkgo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Ginkgo is a house and disco artist based in United States of America, tracked on soundcheck, with 12 sets logged across Portland. Often billed alongside Andy Warren, Peter Sheppard and Axel Boman. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Ginkgo is a house and disco artist based in United States of America, tracked on
 
 Andy Warren, Peter Sheppard, Axel Boman
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginkgo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginkgo/)*

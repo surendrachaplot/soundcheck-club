@@ -1,8 +1,8 @@
 # Saqib
 
-Saqib is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
-Saqib is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
+Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Saqib is a house and techno artist based in United States of America, tracked on
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Elsewhere | New York City |
 | Thu, 10 Sept 2026 | The Monkey Loft | Seattle |
+| Sat, 12 Sept 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Saqib is a house and techno artist based in United States of America, tracked on
 
 Nhii, Francesca Lombardo, Matt Caines
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

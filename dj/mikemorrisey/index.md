@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
+Mike Morrisey is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Mike Morrisey is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 8 more. Often billed alongside Luke Welsh, Dan Costello and MPhilly. Next up: Tantra Bar Ibiza, Ibiza on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mike Morrisey is a tech house and house artist based in United Kingdom, tracked 
 
 Luke Welsh, Dan Costello, MPhilly
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

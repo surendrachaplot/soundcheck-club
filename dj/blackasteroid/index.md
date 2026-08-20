@@ -1,6 +1,6 @@
 # Black Asteroid
 
-Black Asteroid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
+Black Asteroid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
 
 Black Asteroid is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Denver, Hongkong and London and 6 more. Often billed alongside Baikamo, Chris Liebing and DJ SIN. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Black Asteroid is a techno and industrial artist based in United States of Ameri
 
 Baikamo, Chris Liebing, DJ SIN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackasteroid/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackasteroid/)*

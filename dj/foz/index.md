@@ -1,6 +1,6 @@
 # Foz
 
-Foz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
+Foz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
 
 Foz is a house and disco artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Sam Pratt, Bobby O'Donnell and Dragoon. Next up: Ouseburn Garden, Newcastle on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Foz is a house and disco artist based in United Kingdom, tracked on soundcheck, 
 
 Sam Pratt, Bobby O'Donnell, Dragoon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foz/)*

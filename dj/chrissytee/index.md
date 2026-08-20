@@ -1,6 +1,6 @@
 # Chrissy Tee
 
-Chrissy Tee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Chicago on Sat, 22 Aug 2026.
+Chrissy Tee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Chicago on Sat, 22 Aug 2026.
 
 Chrissy Tee is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside Toyacoyah, Current and LTJ Bukem. Next up: TBA, Chicago on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Chrissy Tee is a drum & bass and jungle artist based in United States of America
 
 Toyacoyah, Current, LTJ Bukem
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissytee/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissytee/)*

@@ -1,6 +1,6 @@
 # FUNDRAISER (4 years Tanz in Frankfurt x 3 years Zuflucht) at Tokonoma Club
 
-FUNDRAISER (4 years Tanz in Frankfurt x 3 years Zuflucht) at Tokonoma Club on Sat 22 Aug, Frankfurt. 12 acts on the bill: Bodin, DJ ASS TITS, GERKE and N.J. Quist and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+FUNDRAISER (4 years Tanz in Frankfurt x 3 years Zuflucht) at Tokonoma Club on Sat 22 Aug, Frankfurt. 15 acts on the bill: annna (2), Bodin, DJ ASS TITS and GERKE and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ FUNDRAISER (4 years Tanz in Frankfurt x 3 years Zuflucht) at Tokonoma Club on Sa
 
 ## Line-up
 
+- annna (2)
 - Bodin
 - DJ ASS TITS
 - GERKE
+- Laetizia
+- N:in (DE)
 - N.J. Quist
 - Nizar Sarakbi
 - not even noticed

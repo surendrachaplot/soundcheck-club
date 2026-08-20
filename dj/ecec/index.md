@@ -1,6 +1,6 @@
 # ecec
 
-ecec is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bolero, Seoul on Thu, 20 Aug 2026.
+ecec is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bolero, Seoul on Thu, 20 Aug 2026.
 
 ecec is a techno and house artist tracked on soundcheck, with 176 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Bolero, Seoul on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ ecec is a techno and house artist tracked on soundcheck, with 176 sets logged ac
 
 JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Superluminal X Closer" on Sat, 29 Aug 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Superluminal X Closer" on Sat, 29 Aug 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Ancut, Annyrock, Carmilla Sioux and CCL and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

@@ -1,6 +1,6 @@
 # BLESSTONIO
 
-BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Salt Shed, Chicago on Sun, 23 Aug 2026.
+BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Salt Shed, Chicago on Sun, 23 Aug 2026.
 
 BLESSTONIO is a house and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Chicago, Detroit, Mexicocity and Newyorkcity. Often billed alongside CTRLZORA, Kenjiro and BLACKCLUB. Next up: The Salt Shed, Chicago on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ BLESSTONIO is a house and techno artist based in United States of America, track
 
 CTRLZORA, Kenjiro, BLACKCLUB
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*

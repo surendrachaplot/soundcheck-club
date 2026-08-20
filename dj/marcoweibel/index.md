@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Eavesdrop, New York City on Fri, 21 Aug 2026.
+Marco Weibel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Eavesdrop, New York City on Fri, 21 Aug 2026.
 
 Marco Weibel is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Berlin and Chicago and 18 more. Often billed alongside Lefto Early Bird, Spurge and Dean Chew. Next up: Eavesdrop, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Marco Weibel is a house and techno artist tracked on soundcheck, with 124 sets l
 
 Lefto Early Bird, Spurge, Dean Chew
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

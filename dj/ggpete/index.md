@@ -1,6 +1,6 @@
 # ggpete
 
-ggpete is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+ggpete is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 ggpete is a bass and baile funk artist tracked on soundcheck, with 6 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Camillionaire, Esch and IN PARALLEL. Next up: F8 1192 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ ggpete is a bass and baile funk artist tracked on soundcheck, with 6 sets logged
 
 Camillionaire, Esch, IN PARALLEL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ggpete/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ggpete/)*

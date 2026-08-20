@@ -1,6 +1,6 @@
 # Small Great House 'September Edition' (Open Air + Indoor) 19 Hours at OXI
 
-Small Great House 'September Edition' (Open Air + Indoor) 19 Hours at OXI on Sat 5 Sept, Berlin. 13 acts on the bill: Cosmic Cherry, Darwin Stapel, David Silver and Eva Crystaltips and 9 more. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'September Edition' (Open Air + Indoor) 19 Hours at OXI on Sat 5 Sept, Berlin. 14 acts on the bill: Cosmic Cherry, Darwin Stapel, David Silver and Eva Crystaltips and 10 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,5 +23,6 @@ Small Great House 'September Edition' (Open Air + Indoor) 19 Hours at OXI on Sat
 - Quadrakey
 - SELESSA T.
 - Siggatunez
+- Soulidan
 
 *Source: [soundcheck](https://soundcheck.club/e/2449551-small-great-house-september-edition-open-air-indoor-19-hours/)*

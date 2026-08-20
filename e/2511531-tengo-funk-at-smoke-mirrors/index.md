@@ -1,6 +1,6 @@
-# Tengo Funk at Smoke & Mirrors
+# TENGO FUNK at Smoke & Mirrors
 
-Tengo Funk at Smoke & Mirrors on Fri 28 Aug, Chicago. 2 acts on the bill: J Santos and King Inesse. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+TENGO FUNK at Smoke & Mirrors on Fri 28 Aug, Chicago. 2 acts on the bill: J Santos and King Inesse. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

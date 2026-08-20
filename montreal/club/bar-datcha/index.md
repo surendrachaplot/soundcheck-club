@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Hey: Albert with Andrea de Tour, DJ Romeo" on Thu, 20 Aug 2026.
+Bar Datcha is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Hey: Albert with Andrea de Tour, DJ Romeo" on Thu, 20 Aug 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Alina (MTL), Anabasine, Andrea de Tour and Donotstealmyname and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -21,4 +21,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming nights,
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

@@ -1,6 +1,6 @@
 # Daniel Englisch
 
-Daniel Englisch is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Cologne on Sat, 29 Aug 2026.
+Daniel Englisch is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Cologne on Sat, 29 Aug 2026.
 
 Daniel Englisch is a techno and acid artist tracked on soundcheck, with 14 sets logged across Amsterdam, Cologne, Detroit and Utrecht. Often billed alongside Raw Underground, Detune and Sudden Moves. Next up: TBA, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Daniel Englisch is a techno and acid artist tracked on soundcheck, with 14 sets 
 
 Raw Underground, Detune, Sudden Moves
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*

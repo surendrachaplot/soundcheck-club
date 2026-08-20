@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Ananda (BR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Ananda (BR) is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Victin and Alírio. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Ananda (BR) is a techno and house artist tracked on soundcheck, with 51 sets log
 
 Kontronatura, Victin, Alírio
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

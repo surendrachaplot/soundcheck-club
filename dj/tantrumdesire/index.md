@@ -1,14 +1,15 @@
 # Tantrum Desire
 
-Tantrum Desire is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
+Tantrum Desire is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
 
-Tantrum Desire is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Auckland and Boston and 7 more. Often billed alongside Craze, Inja and Sigma. Next up: Distrikt, Prague on Fri 30 Oct.
+Tantrum Desire is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Auckland and Boston and 7 more. Often billed alongside Craze, Inja and Sigma. Next up: Distrikt, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Distrikt | Prague |
+| Fri, 6 Nov 2026 | Helitehas | Tallinn |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tantrum Desire is a drum & bass and bass artist based in United Kingdom, tracked
 
 Craze, Inja, Sigma
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tantrumdesire/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tantrumdesire/)*

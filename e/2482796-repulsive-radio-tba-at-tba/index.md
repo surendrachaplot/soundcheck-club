@@ -1,10 +1,10 @@
 # REPULSIVE RADIO: TBA at TBA
 
-REPULSIVE RADIO: TBA on Fri 18 Sept, Toronto. 2 acts on the bill: 666.pastel and Rareasfck. Hardcore and Latin Bass. Preview the line-up and save it on soundcheck.
+REPULSIVE RADIO: TBA on Sat 19 Sept, Toronto. 2 acts on the bill: 666.pastel and Rareasfck. Hardcore and Breakcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Sat, 19 Sept 2026 |
 | Venue | TBA |
 | City | Toronto |
 

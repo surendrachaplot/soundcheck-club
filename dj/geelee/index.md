@@ -1,6 +1,6 @@
 # GEE LEE
 
-GEE LEE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+GEE LEE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 GEE LEE is a house and garage artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Berlin and Cardiff and 13 more. Often billed alongside salameh, JACK MARLOW and WarrenKo. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ GEE LEE is a house and garage artist tracked on soundcheck, with 46 sets logged 
 
 salameh, JACK MARLOW, WarrenKo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*

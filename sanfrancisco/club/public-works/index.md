@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Oliver Koletzki presented by Public Works" on Fri, 21 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Oliver Koletzki presented by Public Works" on Fri, 21 Aug 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including 3kelves, Asymmetry, Benjamin K and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including 3kelves, AGROPOL, Âme and Asymmetry and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming 
 | Sat, 22 Aug 2026 | ++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 | Gabberbitch69, Hissy Fit, Technopagan, exmantera |
 | Fri, 28 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 28 Aug 2026 | Öona Dahl & David Hohme presented by Public Works | David Hohme, Öona Dahl |
+| Sat, 29 Aug 2026 | FREE RAVE with Room 4 Improvement presented by Night Shift | Clancy Hickinbotham, Jimmy B, Phil Spank, natebytheway |
+| Sat, 29 Aug 2026 | Secret Psychedelica: VIRGO WORLD with DIGITAL HIPPIE |  |
+| Thu, 3 Sept 2026 | Function 500 with Jaag & BROKE LEG | AGROPOL, BROKE LEG, DJ Panderer, Jaag |
 | Sat, 5 Sept 2026 | Partiboi69, Harrison BDP presented by Goldenvoice | Harrison BDP, Partiboi69 |
 | Fri, 11 Sept 2026 | Fatima Hajji presented by Public Works | Fatima Hajji, S.I.M, Sandra Mane, cstr |
 | Sat, 12 Sept 2026 | Boombox Cartel presented by Public Works & Insomniac |  |
-| Sat, 19 Sept 2026 | MGMT DJ SET presented by Goldenvoice | Jeremy Castillo, Mishka |
-| Sat, 3 Oct 2026 | JANTSEN PRESENTED BY VEXRA & Public Works |  |
-| Fri, 16 Oct 2026 | PW 16-Year Anniversary Night One: Detroit Love with Carl Craig & Moodymann | Carl Craig, Moodymann |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

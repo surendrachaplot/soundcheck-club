@@ -1,6 +1,6 @@
 # Chris Honorat
 
-Chris Honorat is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
+Chris Honorat is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
 
 Chris Honorat is a techno artist tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside Bevel, Chich and DJ Tuttle. Next up: Glazart, Paris on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Chris Honorat is a techno artist tracked on soundcheck, with 4 sets logged acros
 
 Bevel, Chich, DJ Tuttle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishonorat-fr/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishonorat-fr/)*

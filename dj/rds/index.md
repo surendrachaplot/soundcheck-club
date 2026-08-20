@@ -1,14 +1,15 @@
 # RDS
 
-RDS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+RDS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
-RDS is a house and techno artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, London and Marseille and 1 more. Often billed alongside Eversines, Marie K (1) and Human Space Machine. Next up: Renate, Berlin on Sat 22 Aug.
+RDS is a house and techno artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, London and Marseille and 1 more. Often billed alongside Eversines, Marie K (1) and Pieter Jansen. Next up: Renate, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Renate | Berlin |
+| Sat, 3 Oct 2026 | FOLD | London |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ RDS is a house and techno artist based in Netherlands, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Eversines, Marie K (1), Human Space Machine
+Eversines, Marie K (1), Pieter Jansen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rds/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rds/)*

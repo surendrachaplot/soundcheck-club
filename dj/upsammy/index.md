@@ -1,6 +1,6 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
+upsammy is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
 
 upsammy is a techno and experimental artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Palais de Tokyo, Paris on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 183 sets
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

@@ -1,6 +1,6 @@
 # Liv K
 
-Liv K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
+Liv K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
 
 Liv K is a techno and house artist tracked on soundcheck, with 32 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Field Note, Lis Dalton and Dijipoune. Next up: Nowadays, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Liv K is a techno and house artist tracked on soundcheck, with 32 sets logged ac
 
 Field Note, Lis Dalton, Dijipoune
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livk/)*

@@ -1,6 +1,6 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Völklingen Ironworks, Berlin on Fri, 21 Aug 2026.
+KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Völklingen Ironworks, Berlin on Fri, 21 Aug 2026.
 
 KARAH is a techno and industrial artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Völklingen Ironworks, Berlin on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 141 sets log
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

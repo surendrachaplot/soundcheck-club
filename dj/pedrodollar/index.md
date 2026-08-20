@@ -1,6 +1,6 @@
 # Pedrodollar
 
-Pedrodollar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
+Pedrodollar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
 
 Pedrodollar is a house and deep house artist based in Sweden, tracked on soundcheck, with 18 sets logged across Barcelona, Cologne, Detroit and London and 7 more. Often billed alongside Kornél Kovács, Axel Boman and Studio Barnhus. Next up: Fünk, Mexicocity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pedrodollar is a house and deep house artist based in Sweden, tracked on soundch
 
 Kornél Kovács, Axel Boman, Studio Barnhus
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodollar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodollar/)*

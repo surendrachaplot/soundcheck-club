@@ -1,6 +1,6 @@
 # sak (4)
 
-sak (4) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at West Harlem, Kyoto on Wed, 26 Aug 2026.
+sak (4) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at West Harlem, Kyoto on Wed, 26 Aug 2026.
 
 sak (4) is a techno and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Kyoto and Osaka. Often billed alongside kotakunisaki, C.Versa and Mario Kassian. Next up: West Harlem, Kyoto on Wed 26 Aug.
 
@@ -22,4 +22,4 @@ sak (4) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 kotakunisaki, C.Versa, Mario Kassian
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*

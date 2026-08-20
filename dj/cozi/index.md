@@ -1,6 +1,6 @@
 # COZi
 
-COZi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at SASS Music Club, Vienna on Thu, 20 Aug 2026.
+COZi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at SASS Music Club, Vienna on Thu, 20 Aug 2026.
 
 COZi is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: SASS Music Club, Vienna on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ COZi is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Elijah Something, Sasha Milani, Aldonna
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*

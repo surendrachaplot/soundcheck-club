@@ -1,6 +1,6 @@
 # Adam Eisert
 
-Adam Eisert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+Adam Eisert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 Adam Eisert is a techno and house artist based in Poland, tracked on soundcheck, with 11 sets logged across Copenhagen. Often billed alongside Halfdan Sandquist, Harrison Heat and Anna Logic. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Adam Eisert is a techno and house artist based in Poland, tracked on soundcheck,
 
 Halfdan Sandquist, Harrison Heat, Anna Logic
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adameisert/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adameisert/)*

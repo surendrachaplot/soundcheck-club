@@ -1,6 +1,6 @@
 # CoveLove
 
-CoveLove is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
+CoveLove is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
 
 CoveLove is a minimal and house artist tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside PETER GUY, Julian Abel and Andrea Ghita. Next up: Spkrbox, Detroit on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ CoveLove is a minimal and house artist tracked on soundcheck, with 24 sets logge
 
 PETER GUY, Julian Abel, Andrea Ghita
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/covelove-us/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/covelove-us/)*

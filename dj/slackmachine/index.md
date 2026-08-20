@@ -1,6 +1,6 @@
 # SLACKMACHINE
 
-SLACKMACHINE is a Italo Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Zero Lounge, Los Angeles on Thu, 20 Aug 2026.
+SLACKMACHINE is a Italo Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Zero Lounge, Los Angeles on Thu, 20 Aug 2026.
 
 SLACKMACHINE is an italo disco and electronica artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Miami. Often billed alongside Driver405, Holly Dodson and Roy LaCroix. Next up: Zero Lounge, Losangeles on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ SLACKMACHINE is an italo disco and electronica artist based in United States of 
 
 Driver405, Holly Dodson, Roy LaCroix
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackmachine/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackmachine/)*

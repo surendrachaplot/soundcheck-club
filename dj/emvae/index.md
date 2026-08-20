@@ -1,14 +1,15 @@
 # Emvae
 
-Emvae is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Emvae is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Emvae is a house and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
+Emvae is a house and progressive house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
+| Sat, 5 Sept 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Emvae is a house and trance artist tracked on soundcheck, with 67 sets logged ac
 
 Moxes, SAIDAH, Doppelgang
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

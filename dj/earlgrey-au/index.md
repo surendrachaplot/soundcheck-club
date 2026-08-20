@@ -1,6 +1,6 @@
 # DJ Earl Grey
 
-DJ Earl Grey is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 22 Aug 2026.
+DJ Earl Grey is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 22 Aug 2026.
 
 DJ Earl Grey is a house and bass artist tracked on soundcheck, with 39 sets logged across Lisbon, Manchester, Melbourne and Sydney. Often billed alongside Adi Toohey, Deepa and Adriana (1). Next up: Angel Music Bar, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Earl Grey is a house and bass artist tracked on soundcheck, with 39 sets logg
 
 Adi Toohey, Deepa, Adriana (1)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*

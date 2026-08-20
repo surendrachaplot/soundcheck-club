@@ -1,13 +1,14 @@
 # Maggs Bruchez
 
-Maggs Bruchez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at South Bowl, Philadelphia on Sat, 22 Aug 2026.
+Maggs Bruchez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at South Bowl, Philadelphia on Sat, 22 Aug 2026.
 
-Maggs Bruchez is a house and deep house artist tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Ty Salone, DJ Dommis and Daniel Dutts. Next up: South Bowl, Philadelphia on Sat 22 Aug.
+Maggs Bruchez is a house and deep house artist tracked on soundcheck, with 12 sets logged across Philadelphia. Often billed alongside Ty Salone, DJ Dommis and Daniel Dutts. Next up: South Bowl, Philadelphia on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | South Bowl | Philadelphia |
 | Sat, 22 Aug 2026 | South Bowl | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maggs Bruchez is a house and deep house artist tracked on soundcheck, with 11 se
 
 Ty Salone, DJ Dommis, Daniel Dutts
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggsbruchez/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggsbruchez/)*

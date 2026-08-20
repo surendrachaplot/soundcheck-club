@@ -1,6 +1,6 @@
 # Ayumi (DE)
 
-Ayumi (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at 88block, Tokyo on Thu, 20 Aug 2026.
+Ayumi (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 88block, Tokyo on Thu, 20 Aug 2026.
 
 Ayumi (DE) is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin, Leipzig, Newyorkcity and Tokyo. Often billed alongside V:SONNTAG, Medha and n.akin. Next up: 88block, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Ayumi (DE) is a techno and house artist tracked on soundcheck, with 16 sets logg
 
 V:SONNTAG, Medha, n.akin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayumi-de/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayumi-de/)*

@@ -1,6 +1,6 @@
 # FIFI FORTE
 
-FIFI FORTE is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at fabric, London on Sat, 19 Sept 2026.
+FIFI FORTE is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Sat, 19 Sept 2026.
 
 FIFI FORTE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, Liverpool and London and 4 more. Often billed alongside Jamie Jones, Manda Moor and Mike Morrisey. Next up: fabric, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ FIFI FORTE is a house and tech house artist based in United Kingdom, tracked on 
 
 Jamie Jones, Manda Moor, Mike Morrisey
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*

@@ -1,14 +1,13 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Wednesday's Prescription - Holy Ray" on Wed, 19 Aug 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Thursday's Prescription - Jazz K" on Thu, 20 Aug 2026.
 
-Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Clap Kent, DiSALAZAR, fetche and Jazz K and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
+Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Clap Kent, DiSALAZAR, fetche and Jazz K and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Wednesday's Prescription - Holy Ray |  |
 | Thu, 20 Aug 2026 | Thursday's Prescription - Jazz K | Jazz K |
 | Sat, 22 Aug 2026 | Saturday's Prescription - Landeep |  |
 | Sun, 23 Aug 2026 | Sunday's Prescription - Chica Acosta |  |
@@ -23,4 +22,4 @@ Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 10 upcom
 
 Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain, Barcelona
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*

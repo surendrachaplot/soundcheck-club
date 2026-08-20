@@ -1,14 +1,15 @@
 # Kalimanda
 
-Kalimanda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 29 Aug 2026.
+Kalimanda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 29 Aug 2026.
 
-Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Emilion Dollar Baby, Domovnika and Fo Ewa. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 29 Aug.
+Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Emilion Dollar Baby, Domovnika and Fo Ewa. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Schiffsanlegestelle Uber Arena | Berlin |
+| Fri, 6 Nov 2026 | AMT | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Emilion Dollar Baby, Domovnika, Fo Ewa
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*

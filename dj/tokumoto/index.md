@@ -1,6 +1,6 @@
 # Tokumoto
 
-Tokumoto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - TAVERN, Osaka on Sat, 22 Aug 2026.
+Tokumoto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - TAVERN, Osaka on Sat, 22 Aug 2026.
 
 Tokumoto is a house and tech house artist based in Japan, tracked on soundcheck, with 42 sets logged across Osaka. Often billed alongside fb5 (1), DMITRI ABSINTHE and KENJI MARUI. Next up: TBA - TAVERN, Osaka on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tokumoto is a house and tech house artist based in Japan, tracked on soundcheck,
 
 fb5 (1), DMITRI ABSINTHE, KENJI MARUI
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokumoto/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokumoto/)*

@@ -1,6 +1,6 @@
 # Solus
 
-Solus is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Pullman Rooftop Budapest, Budapest on Fri, 28 Aug 2026.
+Solus is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pullman Rooftop Budapest, Budapest on Fri, 28 Aug 2026.
 
 Solus is a house and industrial artist tracked on soundcheck, with 25 sets logged across Amsterdam, Budapest, Manchester and Prague and 1 more. Often billed alongside kD (HU), Sam Gittis and AR38. Next up: Pullman Rooftop Budapest, Budapest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Solus is a house and industrial artist tracked on soundcheck, with 25 sets logge
 
 kD (HU), Sam Gittis, AR38
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*

@@ -1,6 +1,6 @@
 # Michael Reinboth
 
-Michael Reinboth is a Jazz and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Landesmuseum, Zurich on Mon, 17 Aug 2026.
+Michael Reinboth is a Jazz and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Landesmuseum, Zurich on Mon, 17 Aug 2026.
 
 Michael Reinboth is a jazz and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Munich and Tokyo and 2 more. Often billed alongside Alles Andere, Hans Nieswandt and Thomas Herb. Next up: Landesmuseum, Zurich on Mon 17 Aug.
 
@@ -27,4 +27,4 @@ Michael Reinboth is a jazz and disco artist based in Germany, tracked on soundch
 
 Alles Andere, Hans Nieswandt, Thomas Herb
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*

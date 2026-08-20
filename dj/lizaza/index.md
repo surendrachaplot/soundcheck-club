@@ -1,6 +1,6 @@
 # LIZAZA
 
-LIZAZA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+LIZAZA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 LIZAZA is a techno and tech house artist based in Russia, tracked on soundcheck, with 36 sets logged across London. Often billed alongside Leviminks, Arrosa and DELARA. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ LIZAZA is a techno and tech house artist based in Russia, tracked on soundcheck,
 
 Leviminks, Arrosa, DELARA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*

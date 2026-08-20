@@ -1,6 +1,6 @@
 # I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks at Humboldthain Club
 
-I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks at Humboldthain Club on Fri 4 Sept, Berlin. 11 acts on the bill: bbymeister, DJ Jetset, DJ Räucherlaks and DJ Tallboy and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks at Humboldthain Club on Fri 4 Sept, Berlin. 12 acts on the bill: Atzlina, bbymeister, DJ Jetset and DJ Räucherlaks and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks a
 
 ## Line-up
 
+- Atzlina
 - bbymeister
 - DJ Jetset
 - DJ Räucherlaks

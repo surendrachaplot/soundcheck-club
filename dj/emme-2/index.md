@@ -1,6 +1,6 @@
 # emme (2)
 
-emme (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nobu Hotel, Barcelona on Fri, 21 Aug 2026.
+emme (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nobu Hotel, Barcelona on Fri, 21 Aug 2026.
 
 emme (2) is a techno and house artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside ARMIX, Arieshandmodel and Binks (CA). Next up: Nobu Hotel, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ emme (2) is a techno and house artist tracked on soundcheck, with 10 sets logged
 
 ARMIX, Arieshandmodel, Binks (CA)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*

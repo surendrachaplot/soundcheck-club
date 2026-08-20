@@ -1,8 +1,8 @@
 # Javier Anxiety
 
-Javier Anxiety is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
+Javier Anxiety is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 22 Aug 2026.
 
-Javier Anxiety is a house and disco artist based in Argentina, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Copenhagen and Ibiza and 1 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: Bulbul Berlin, Berlin on Sat 22 Aug.
+Javier Anxiety is a house and disco artist based in Argentina, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: Bulbul Berlin, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Javier Anxiety is a house and disco artist based in Argentina, tracked on soundc
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Bulbul Berlin | Berlin |
 | Fri, 4 Sept 2026 | Kater | Berlin |
+| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Javier Anxiety is a house and disco artist based in Argentina, tracked on soundc
 
 Bauen, Gabs Leyton, Luca Olivotto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*

@@ -1,6 +1,6 @@
 # LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE at Lokschuppen Berlin
 
-LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE at Lokschuppen Berlin on Fri 4 Sept, Berlin. 14 acts on the bill: ABAD MANNERS, CARGO, CARGO (DE) and Carotin and 10 more. Preview the line-up and save it on soundcheck.
+LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE at Lokschuppen Berlin on Fri 4 Sept, Berlin. 15 acts on the bill: ABAD MANNERS, Anna Ullrich, CARGO and CARGO (DE) and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE at Lokschup
 ## Line-up
 
 - ABAD MANNERS
+- Anna Ullrich
 - CARGO
 - CARGO (DE)
 - Carotin

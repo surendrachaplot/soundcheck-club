@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SUN > ATG < SET: EERIE collective" on Thu, 20 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SUN > ATG < SET EERIE collective: zazitech, DDK, RADYK, & ZiZi" on Thu, 20 Aug 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 2NDRA, 3ever, aláya and Atlaskin and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -8,7 +8,7 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | SUN > ATG < SET: EERIE collective | DDK (1), RADYK, ZiZi, zazitech |
+| Thu, 20 Aug 2026 | SUN > ATG < SET EERIE collective: zazitech, DDK, RADYK, & ZiZi | DDK (1), RADYK, ZiZi, zazitech |
 | Fri, 21 Aug 2026 | ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender W/ Bloody Mary, Lars Huismann, Ly Sas | 2NDRA, AVHD, Bloody Mary, DARDANELLA, Dash (CZ), Diva, IAmNøt, KAWA, Kino Paladino, Lars Huismann, Ly Sas, MARS (4), Nadine, Nanzhen Yang, Patricio Strix, Pink Concrete, RiVid, Riki Boro, S.N.R.I., SJ Yellow, SURCO, Technadze, VISNEACS, VLZQUES, enthrust |
 | Thu, 27 Aug 2026 | SUN > ATG < SET: AVHD, Ayiaa, Iriky | AVHD, Ayiaa, Iriky |
 | Fri, 28 Aug 2026 | GOODBYE SUMMER: Raphael Kosmos, Midirama, Feenicks, Atlaskin, aláya, PRDELANZA & Lilith | Atlaskin, Feenicks, Midirama, PRDELANZA, Raphael Kosmos, aláya |
@@ -20,4 +20,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

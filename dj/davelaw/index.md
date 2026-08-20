@@ -1,6 +1,6 @@
 # Dave Law
 
-Dave Law is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Neon Social, Sheffield on Fri, 28 Aug 2026.
+Dave Law is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Neon Social, Sheffield on Fri, 28 Aug 2026.
 
 Dave Law is an electronic artist tracked on soundcheck, with 3 sets logged across Manchester and Sheffield. Often billed alongside Lil Meesh, Sean McCabe and CJ Mackintosh. Next up: TBA - Neon Social, Sheffield on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Dave Law is an electronic artist tracked on soundcheck, with 3 sets logged acros
 
 Lil Meesh, Sean McCabe, CJ Mackintosh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davelaw/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davelaw/)*

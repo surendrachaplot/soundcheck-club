@@ -1,6 +1,6 @@
 # Oliver Raumklang
 
-Oliver Raumklang is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Minimal Bar, Berlin on Sat, 22 Aug 2026.
+Oliver Raumklang is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Minimal Bar, Berlin on Sat, 22 Aug 2026.
 
 Oliver Raumklang is a house and deep house artist based in Germany, tracked on soundcheck, with 87 sets logged across Berlin, Cologne, Prague and Stuttgart and 1 more. Often billed alongside DJ with Soul, Daniel Neighbour and Mathias Birnbaum. Next up: Minimal Bar, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Oliver Raumklang is a house and deep house artist based in Germany, tracked on s
 
 DJ with Soul, Daniel Neighbour, Mathias Birnbaum
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverraumklang/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverraumklang/)*

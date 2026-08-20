@@ -1,6 +1,6 @@
 # Casika
 
-Casika is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
+Casika is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
 
 Casika is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds and Manchester. Often billed alongside Myles Harris, Riley and Del-30. Next up: Parkside Rooftop, Leeds on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Casika is a house and tech house artist based in United Kingdom, tracked on soun
 
 Myles Harris, Riley, Del-30
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casika/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casika/)*

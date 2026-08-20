@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Cocoon Frankfurt ZOOM" on Fri, 6 Nov 2026.
+Zoom Club is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Cocoon Frankfurt ZOOM" on Fri, 6 Nov 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with line-ups including NTO and Swimming Paul. Browse upcoming dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -17,4 +17,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights,
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

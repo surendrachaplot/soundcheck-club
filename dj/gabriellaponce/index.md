@@ -1,6 +1,6 @@
 # Gabriella Ponce
 
-Gabriella Ponce is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
+Gabriella Ponce is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
 
 Gabriella Ponce is a techno and electronica artist tracked on soundcheck, with 33 sets logged across Barcelona. Often billed alongside Nicolas Gazitua, XipNoize and Gabo Oliveira. Next up: City Hall, Barcelona on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Gabriella Ponce is a techno and electronica artist tracked on soundcheck, with 3
 
 Nicolas Gazitua, XipNoize, Gabo Oliveira
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellaponce/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellaponce/)*

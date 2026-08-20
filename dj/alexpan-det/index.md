@@ -1,6 +1,6 @@
 # Alex Pan (Det)
 
-Alex Pan (Det) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Swig, Chicago on Thu, 20 Aug 2026.
+Alex Pan (Det) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Swig, Chicago on Thu, 20 Aug 2026.
 
 Alex Pan (Det) is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago and Detroit. Often billed alongside dust (Detroit), britty. and BEIGE. Next up: Swig, Chicago on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Alex Pan (Det) is a house and techno artist based in United States of America, t
 
 dust (Detroit), britty., BEIGE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*

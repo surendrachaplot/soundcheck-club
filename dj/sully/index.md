@@ -1,6 +1,6 @@
 # Sully
 
-Sully is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phonox, London on Fri, 28 Aug 2026.
+Sully is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Phonox, London on Fri, 28 Aug 2026.
 
 Sully is a jungle and drum & bass artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: Phonox, London on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Sully is a jungle and drum & bass artist tracked on soundcheck, with 142 sets lo
 
 Tim Reaper, Dwarde, Coco Bryce
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*

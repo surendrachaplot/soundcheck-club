@@ -1,6 +1,6 @@
 # Cherry (MX)
 
-Cherry (MX) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+Cherry (MX) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
 
 Cherry (MX) is a house and club artist tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Avant-Garde Institute, DJ Hiccup and HKPD. Next up: CHICO, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cherry (MX) is a house and club artist tracked on soundcheck, with 12 sets logge
 
 Avant-Garde Institute, DJ Hiccup, HKPD
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrymx/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrymx/)*

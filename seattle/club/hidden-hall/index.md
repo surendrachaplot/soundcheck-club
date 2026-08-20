@@ -1,6 +1,6 @@
 # Hidden Hall
 
-Hidden Hall is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "REFLECT - Deep House & Melodic Techno featuring: Kobalt, MZ Artiz" on Tue, 1 Sept 2026.
+Hidden Hall is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "REFLECT - Deep House & Melodic Techno featuring: Kobalt, MZ Artiz" on Tue, 1 Sept 2026.
 
 Hidden Hall is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Juan Maclean, Korra the Kid, Lusine and Matthew Dear and 1 more. Browse upcoming dates, start times and who's playing. 400 N 35th Street Seattle, WA 98103.
 
@@ -18,4 +18,4 @@ Hidden Hall is a music venue in Seattle listed on soundcheck. 5 upcoming nights,
 
 400 N 35th Street Seattle, WA 98103, Seattle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*

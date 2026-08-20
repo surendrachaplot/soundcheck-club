@@ -1,6 +1,6 @@
 # Denise Lopes
 
-Denise Lopes is a Baile Funk and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
+Denise Lopes is a Baile Funk and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Skatecafe, Amsterdam on Fri, 21 Aug 2026.
 
 Denise Lopes is a baile funk and techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside AAlva, Not Yet (2) and Pedro da Mata. Next up: Skatecafe, Amsterdam on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Denise Lopes is a baile funk and techno artist based in Netherlands, tracked on 
 
 AAlva, Not Yet (2), Pedro da Mata
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniselopes/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniselopes/)*

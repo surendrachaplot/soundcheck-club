@@ -1,6 +1,6 @@
 # Egotot
 
-Egotot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Egotot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Egotot is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Budapest and Dusseldorf and 9 more. Often billed alongside Pino Peña, Anterist and Franz Jäger. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Egotot is a techno and house artist tracked on soundcheck, with 49 sets logged a
 
 Pino Peña, Anterist, Franz Jäger
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*

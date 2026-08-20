@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
+Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lightbox, London on Sat, 29 Aug 2026.
 
 Loora is a techno and tech house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Giusy S (2). Next up: Lightbox, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Loora is a techno and tech house artist tracked on soundcheck, with 25 sets logg
 
 Thomas Galbardi, Dhez, Giusy S (2)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

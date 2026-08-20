@@ -1,6 +1,6 @@
 # digital selves
 
-digital selves is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
+digital selves is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
 
 digital selves is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, London and Sheffield. Often billed alongside hellocatfood, trampbunny and Tyger Blue. Next up: The Carpet Shop, London on Wed 16 Sept.
 
@@ -24,4 +24,4 @@ digital selves is an experimental and electronica artist based in United Kingdom
 
 hellocatfood, trampbunny, Tyger Blue
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalselves/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalselves/)*

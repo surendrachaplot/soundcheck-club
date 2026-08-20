@@ -1,6 +1,6 @@
 # Marc Gimeno
 
-Marc Gimeno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
+Marc Gimeno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
 
 Marc Gimeno is a house and deep house artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona. Often billed alongside Dadame, Dario Damerini and Breixo Martinez. Next up: La Terrrazza, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marc Gimeno is a house and deep house artist based in Spain, tracked on soundche
 
 Dadame, Dario Damerini, Breixo Martinez
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgimeno/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgimeno/)*

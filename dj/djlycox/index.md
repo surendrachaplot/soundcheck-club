@@ -1,6 +1,6 @@
 # DJ Lycox
 
-DJ Lycox is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+DJ Lycox is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 DJ Lycox is a club and bass artist based in Portugal, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 17 more. Often billed alongside Dj Danifox, DJ Marfox and DJ Narciso. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Lycox is a club and bass artist based in Portugal, tracked on soundcheck, wit
 
 Dj Danifox, DJ Marfox, DJ Narciso
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*

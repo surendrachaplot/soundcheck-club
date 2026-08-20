@@ -1,14 +1,13 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Azumaya -Wednesday-" on Wed, 19 Aug 2026.
+Azumaya is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "R＆B Thursday" on Thu, 20 Aug 2026.
 
-Azumaya is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Kentaro Takizawa, kuniii, roomquake and Shun Kurashima and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
+Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Kentaro Takizawa, kuniii, roomquake and Shun Kurashima and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Azumaya -Wednesday- | SIGNAL (JP), TOBI |
 | Thu, 20 Aug 2026 | R＆B Thursday |  |
 | Fri, 21 Aug 2026 | Azumaya -Friday- | ueue (2) |
 | Mon, 24 Aug 2026 | Azumaya -Monday- | kuniii |
@@ -23,4 +22,4 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with
 
 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*

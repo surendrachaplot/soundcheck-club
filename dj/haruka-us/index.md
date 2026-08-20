@@ -1,6 +1,6 @@
 # Haruka (US)
 
-Haruka (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
+Haruka (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
 
 Haruka (US) is a house and techno artist tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: 99 Scott Ave, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Haruka (US) is a house and techno artist tracked on soundcheck, with 42 sets log
 
 4AM NYC, 7e, Akua
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*

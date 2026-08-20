@@ -1,6 +1,6 @@
 # Maulini
 
-Maulini is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 20 Aug 2026.
+Maulini is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 20 Aug 2026.
 
 Maulini is a house and tech house artist tracked on soundcheck, with 15 sets logged across Miami. Often billed alongside Antonio Estrada, Nat Siriani and Felizeta. Next up: Bodega Taqueria Y Tequila, Miami on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Maulini is a house and tech house artist tracked on soundcheck, with 15 sets log
 
 Antonio Estrada, Nat Siriani, Felizeta
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maulini/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maulini/)*

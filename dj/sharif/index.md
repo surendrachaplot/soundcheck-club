@@ -1,6 +1,6 @@
 # Activator
 
-Activator is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
+Activator is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
 
 Activator is a tech house and trance artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin and Melbourne. Often billed alongside DJ Jordan, GHOST DE and Klipp&Klar. Next up: Angel Music Bar, Melbourne on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Activator is a tech house and trance artist based in United States of America, t
 
 DJ Jordan, GHOST DE, Klipp&Klar
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharif/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharif/)*

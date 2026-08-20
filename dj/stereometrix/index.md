@@ -1,6 +1,6 @@
 # stereometrix
 
-stereometrix is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at B-SIDE, Warsaw on Sat, 22 Aug 2026.
+stereometrix is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at B-SIDE, Warsaw on Sat, 22 Aug 2026.
 
 stereometrix is a house and tech house artist tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside Ilya Semashkevich, Samogulov and Shjva. Next up: B-SIDE, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ stereometrix is a house and tech house artist tracked on soundcheck, with 18 set
 
 Ilya Semashkevich, Samogulov, Shjva
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereometrix/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereometrix/)*

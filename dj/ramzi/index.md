@@ -1,6 +1,6 @@
 # RAMZi
 
-RAMZi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+RAMZi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
 RAMZi is a house and tech house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Ramzilla, Anabasine and D. Tiffany. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ RAMZi is a house and tech house artist tracked on soundcheck, with 59 sets logge
 
 Ramzilla, Anabasine, D. Tiffany
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi/)*

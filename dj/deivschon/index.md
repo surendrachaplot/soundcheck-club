@@ -1,6 +1,6 @@
 # Deiv Schon
 
-Deiv Schon is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Afrika Club, Recoleta, Buenos Aires on Thu, 20 Aug 2026.
+Deiv Schon is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Afrika Club, Recoleta, Buenos Aires on Thu, 20 Aug 2026.
 
 Deiv Schon is a deep house and tech house artist tracked on soundcheck, with 9 sets logged across Buenosaires, Losangeles, Miami and Sanfrancisco and 1 more. Often billed alongside Martinignaccio, 1 to 1 and Borak. Next up: TBA - Afrika Club, Recoleta, Buenosaires on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Deiv Schon is a deep house and tech house artist tracked on soundcheck, with 9 s
 
 Martinignaccio, 1 to 1, Borak
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*

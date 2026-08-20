@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "8 Jahre Pfandidos (BOX OFFICE ONLY) w/ Sire Jonah, Mareike Bautz, SACID uvm" on Fri, 21 Aug 2026.
+Jonny Knüppel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "8 Jahre Pfandidos (BOX OFFICE ONLY) w/ Sire Jonah, Mareike Bautz, SACID uvm" on Fri, 21 Aug 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including AAMIROO, Aber DJ, alemiko and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -16,4 +16,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

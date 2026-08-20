@@ -1,6 +1,6 @@
 # Synapsefirer
 
-Synapsefirer is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, London on Fri, 21 Aug 2026.
+Synapsefirer is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, London on Fri, 21 Aug 2026.
 
 Synapsefirer is an experimental and hardcore artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London. Often billed alongside Baptist (UK), Naramnesia and flippedcrosses. Next up: TBA, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Synapsefirer is an experimental and hardcore artist based in United Kingdom, tra
 
 Baptist (UK), Naramnesia, flippedcrosses
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*

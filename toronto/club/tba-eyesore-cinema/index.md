@@ -1,6 +1,6 @@
 # TBA - Eyesore Cinema 
 
-TBA - Eyesore Cinema  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Suspiria (2018) Screening" on Tue, 25 Aug 2026.
+TBA - Eyesore Cinema  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Suspiria (2018) Screening" on Tue, 25 Aug 2026.
 
 TBA - Eyesore Cinema  is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Eyesore Cinema  is a music venue in Toronto listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Suspiria (2018) Screening |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-eyesore-cinema/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-eyesore-cinema/)*

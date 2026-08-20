@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Meke invites: justcallmesergio, Lil Dave" on Fri, 21 Aug 2026.
+Sekta Selekta is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Meke invites: justcallmesergio, Lil Dave" on Fri, 21 Aug 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including 4\4, Glassz, Hubsond and justcallmesergio and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -17,4 +17,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 4 upcoming nights
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

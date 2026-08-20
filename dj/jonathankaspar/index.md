@@ -1,8 +1,8 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bikini Beach, Cologne on Fri, 28 Aug 2026.
+Jonathan Kaspar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bikini Beach, Cologne on Fri, 28 Aug 2026.
 
-Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Bikini Beach, Cologne on Fri 28 Aug.
+Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Bikini Beach, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 186 set
 | Sun, 6 Sept 2026 | Airport Düsseldorf | Düsseldorf |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | fabric | London |
+| Sat, 17 Oct 2026 | fi | Cologne |
 | Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
 
 ## Recently played
@@ -31,4 +32,4 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 186 set
 
 Mira, Robag Wruhme, Chris Schwarzwälder
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

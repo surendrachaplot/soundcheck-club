@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
+Glenn Underground is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Amsterdam, Bristol, Chicago and Detroit and 5 more. Often billed alongside Aaron Dae, Adorio and Disgonuts. Next up: Strange Brew, Bristol on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Adorio, Disgonuts
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

@@ -1,6 +1,6 @@
 # Jon Connor
 
-Jon Connor is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia, Bangkok on Fri, 21 Aug 2026.
+Jon Connor is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia, Bangkok on Fri, 21 Aug 2026.
 
 Jon Connor is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bangkok, Berlin, Hongkong and Melbourne and 1 more. Often billed alongside Sam Laxton, Felix Reichelt and LonSkii. Next up: Amnesia, Bangkok on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jon Connor is a techno and hardcore artist based in United Kingdom, tracked on s
 
 Sam Laxton, Felix Reichelt, LonSkii
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonconnor-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonconnor-uk/)*

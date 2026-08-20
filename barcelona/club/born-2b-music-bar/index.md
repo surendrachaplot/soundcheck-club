@@ -1,6 +1,6 @@
 # Born 2B Music Bar
 
-Born 2B Music Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "AddicTech Showcase" on Fri, 21 Aug 2026.
+Born 2B Music Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "AddicTech Showcase" on Fri, 21 Aug 2026.
 
 Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Carvach, Drunk At Vogue, Hermansen and IMVIC and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
@@ -16,4 +16,4 @@ Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming
 
 Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona, Barcelona
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*

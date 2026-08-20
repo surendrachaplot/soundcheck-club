@@ -1,6 +1,6 @@
 # RaW
 
-RaW is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at the inner circle vienna / wien, Vienna on Sat, 29 Aug 2026.
+RaW is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at the inner circle vienna / wien, Vienna on Sat, 29 Aug 2026.
 
 RaW is a techno and tech house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Birmingham and Cologne and 12 more. Often billed alongside Alternate State, Jakob (BE) and Justin Muscat. Next up: the inner circle vienna / wien, Vienna on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ RaW is a techno and tech house artist based in Germany, tracked on soundcheck, w
 
 Alternate State, Jakob (BE), Justin Muscat
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*

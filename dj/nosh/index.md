@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
+Nosh is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
 
 Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, Fate (2) and Kiju. Next up: TBA - Secret Location, Toronto on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 dawny, Fate (2), Kiju
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

@@ -1,6 +1,6 @@
 # K-stoge
 
-K-stoge is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
+K-stoge is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
 
 K-stoge is an ambient and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside m50, DJ 1985 and J.Wiltshire. Next up: TBA, Chicago on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ K-stoge is an ambient and acid artist based in United Kingdom, tracked on soundc
 
 m50, DJ 1985, J.Wiltshire
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-stoge/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-stoge/)*

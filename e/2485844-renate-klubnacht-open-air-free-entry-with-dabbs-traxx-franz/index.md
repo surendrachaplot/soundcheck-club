@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK on Sat 29 Aug, Berlin. 12 acts on the bill: Amy Dabbs, anna andersrum, Charlie Vaux and Franz Scala and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK on Sat 29 Aug, Berlin. 13 acts on the bill: Amy Dabbs, anna andersrum, Charlie Vaux and Franz Scala and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄ
 - Hanaby
 - HEDDA
 - Kabinett
+- La cani
 - lil ja
 - Linnea Mae
 - Sanaz

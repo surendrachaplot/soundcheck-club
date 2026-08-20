@@ -1,6 +1,6 @@
 # Anastasia Giovani
 
-Anastasia Giovani is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
+Anastasia Giovani is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
 
 Anastasia Giovani is a techno and acid artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Chicago, Denver and Losangeles and 1 more. Often billed alongside EMILIANA, Alex Casillas and DJ Hyperactive. Next up: Grand Park, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Anastasia Giovani is a techno and acid artist based in United States of America,
 
 EMILIANA, Alex Casillas, DJ Hyperactive
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiagiovani/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiagiovani/)*

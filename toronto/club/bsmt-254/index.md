@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "OVERDRIVE" on Thu, 20 Aug 2026.
+Bsmt 254 is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "OVERDRIVE" on Thu, 20 Aug 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Brash-B, Burnin' Vernon, CRISTI:ANA and Dan Medland. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -16,4 +16,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 3 upcoming nights, wi
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

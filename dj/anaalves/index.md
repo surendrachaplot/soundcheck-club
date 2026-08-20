@@ -1,8 +1,8 @@
 # Ana Alves
 
-Ana Alves is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 20 Aug 2026.
+Ana Alves is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 20 Aug 2026.
 
-Ana Alves is a techno and house artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Bucharest and Madrid. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Sunseabar Beach Club, Barcelona on Thu 20 Aug.
+Ana Alves is a techno and house artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Bucharest and Madrid. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Sunseabar Beach Club, Barcelona on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ana Alves is a techno and house artist tracked on soundcheck, with 71 sets logge
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Fri, 4 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 12 Sept 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ana Alves is a techno and house artist tracked on soundcheck, with 71 sets logge
 
 Hayden F, Lola Kay, MRIYA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*

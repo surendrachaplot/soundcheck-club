@@ -1,8 +1,8 @@
 # colell
 
-colell is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
+colell is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
 
-colell is a trance and techno artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Leeds and Lisbon and 5 more. Often billed alongside HØLEIGH, Medlock and April (UK). Next up: The White Hotel, Manchester on Fri 21 Aug.
+colell is a trance and techno artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Leeds and Lisbon and 5 more. Often billed alongside HØLEIGH, Medlock and April (UK). Next up: The White Hotel, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ colell is a trance and techno artist tracked on soundcheck, with 41 sets logged 
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The White Hotel | Manchester |
 | Sat, 29 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
+| Sat, 19 Sept 2026 | TBA - secret location | Barcelona |
 | Wed, 4 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ colell is a trance and techno artist tracked on soundcheck, with 41 sets logged 
 
 HØLEIGH, Medlock, April (UK)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

@@ -1,6 +1,6 @@
 # Beat Cult - Rave Cafe event at Killing Time
 
-Beat Cult - Rave Cafe event at Killing Time on Fri 4 Sept, Valencia. 3 acts on the bill: Broken boy, Svarn and Toxin. Preview the line-up and save it on soundcheck.
+Beat Cult - Rave Cafe event at Killing Time on Fri 4 Sept, Valencia. 3 acts on the bill: Broken boy, Svarn and Toxin. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

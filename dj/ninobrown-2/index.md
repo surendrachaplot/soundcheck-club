@@ -1,6 +1,6 @@
 # Nino Brown (2)
 
-Nino Brown (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Nino Brown (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Nino Brown (2) is a club and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Young Teesh, Bambii and Chinelo. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nino Brown (2) is a club and techno artist tracked on soundcheck, with 62 sets l
 
 Young Teesh, Bambii, Chinelo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*

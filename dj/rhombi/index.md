@@ -1,6 +1,6 @@
 # Rhombi
 
-Rhombi is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
+Rhombi is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
 
 Rhombi is a drum & bass and bass artist based in Canada, tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside Miss Kleio, Zola (TRM) and Jonah K. Next up: TBA, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rhombi is a drum & bass and bass artist based in Canada, tracked on soundcheck, 
 
 Miss Kleio, Zola (TRM), Jonah K
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhombi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhombi/)*

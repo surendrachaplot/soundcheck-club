@@ -1,14 +1,15 @@
 # NARA (UK)
 
-NARA (UK) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
+NARA (UK) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
 
-NARA (UK) is a techno and industrial artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Amphia, Donna (UK) and Elisa Bee. Next up: M.O.T, London on Fri 28 Aug.
+NARA (UK) is a techno and industrial artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside AYLIN IDAH, Amphia and David Ramsay. Next up: M.O.T, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | M.O.T | London |
+| Fri, 11 Sept 2026 | TBA - HACKNEY WICK | London |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ NARA (UK) is a techno and industrial artist tracked on soundcheck, with 4 sets l
 
 ## Shares bills with
 
-Amphia, Donna (UK), Elisa Bee
+AYLIN IDAH, Amphia, David Ramsay
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*

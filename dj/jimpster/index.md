@@ -1,13 +1,14 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Jimpster is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
-Jimpster is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Brighton and Budapest and 30 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Jimpster is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Brighton and Budapest and 30 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: The Fox and Firkin, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | The Fox and Firkin | London |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sat, 17 Oct 2026 | The Jazz Cafe | London |
 | Thu, 22 Oct 2026 | Transit | Amsterdam |
@@ -27,4 +28,4 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 81 sets lo
 
 Neil Pierce, Sy Sez, Anton Tumas
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

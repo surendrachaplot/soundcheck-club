@@ -1,6 +1,6 @@
 # MOYA_
 
-MOYA_ is a Reggaeton and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Vespers Club, London on Sun, 30 Aug 2026.
+MOYA_ is a Reggaeton and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Vespers Club, London on Sun, 30 Aug 2026.
 
 MOYA_ is a reggaeton and dancehall artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Chidera O, JEVAN and Kabir. Next up: Vespers Club, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ MOYA_ is a reggaeton and dancehall artist tracked on soundcheck, with 12 sets lo
 
 Chidera O, JEVAN, Kabir
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moya_/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moya_/)*

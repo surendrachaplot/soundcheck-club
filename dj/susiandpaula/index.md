@@ -1,14 +1,15 @@
 # Susi&Paula
 
-Susi&Paula is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+Susi&Paula is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
-Susi&Paula is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Odonien, Cologne on Sat 29 Aug.
+Susi&Paula is a techno and house artist tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Avocado, JUSTICE (DE) and Baerbel. Next up: Odonien, Cologne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Odonien | Cologne |
+| Fri, 18 Sept 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Susi&Paula is a techno and house artist tracked on soundcheck, with 23 sets logg
 
 ## Shares bills with
 
-JUSTICE (DE), Avocado, Baerbel
+Avocado, JUSTICE (DE), Baerbel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*

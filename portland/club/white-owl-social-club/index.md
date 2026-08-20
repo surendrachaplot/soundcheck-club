@@ -1,6 +1,6 @@
 # White Owl Social Club
 
-White Owl Social Club is a music venue in Portland with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Your Sunday Best feat. Eddie C., Conoley Ospovat and Gazin" on Sun, 23 Aug 2026.
+White Owl Social Club is a music venue in Portland with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Your Sunday Best feat. Eddie C., Conoley Ospovat and Gazin" on Sun, 23 Aug 2026.
 
 White Owl Social Club is a music venue in Portland listed on soundcheck. 2 upcoming nights, with line-ups including Andy Warren, Conoley Ospovat, DJ Dazy and DJ Spun and 2 more. Browse upcoming dates, start times and who's playing. 1305 SE 8th Ave; Portland; Oregon 97214.
 
@@ -15,4 +15,4 @@ White Owl Social Club is a music venue in Portland listed on soundcheck. 2 upcom
 
 1305 SE 8th Ave; Portland; Oregon 97214, Portland
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/white-owl-social-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/white-owl-social-club/)*

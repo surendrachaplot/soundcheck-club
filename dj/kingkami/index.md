@@ -1,0 +1,28 @@
+# King Kami
+
+King Kami is a House and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz, Barcelona on Fri, 4 Sept 2026.
+
+King Kami is a house and hard drum artist based in Brazil, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside Nick León, BANU (2) and NOIA. Next up: Razzmatazz, Barcelona on Fri 4 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Sept 2026 | Razzmatazz | Barcelona |
+
+## Recently played
+
+- Duro de Matar, Lisbon — Fri, 31 Jul 2026
+- Outra Cena, Lisbon — Fri, 17 Jul 2026
+- Costa Da Caparica, Lisbon — Fri, 29 May 2026
+- Lux Fragil, Lisbon — Fri, 29 May 2026
+- Outra Cena, Lisbon — Sat, 18 Apr 2026
+- Noir Désir, Lisbon — Fri, 6 Feb 2026
+- Outra Cena, Lisbon — Thu, 1 Jan 2026
+- Outra Cena, Lisbon — Sun, 28 Dec 2025
+
+## Shares bills with
+
+Nick León, BANU (2), NOIA
+
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkami/)*

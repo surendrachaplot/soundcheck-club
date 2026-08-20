@@ -1,18 +1,19 @@
 # Mooi Space
 
-Mooi Space is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Ben UFO at Mooi Space" on Fri, 11 Sept 2026.
+Mooi Space is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity) " on Fri, 28 Aug 2026.
 
-Mooi Space is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Ben UFO and Vegyn. Browse upcoming dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
+Mooi Space is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including 747, Ben UFO, Circumscums and Emily Nicoll and 2 more. Browse upcoming dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Ben UFO at Mooi Space | Ben UFO |
+| Fri, 28 Aug 2026 | FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity)  | Circumscums, Juan Evangelista, eRee |
+| Fri, 11 Sept 2026 | Ben UFO Open - Close at Mooi Space presented by Standard Time x PARADOX | 747, Ben UFO, Emily Nicoll |
 | Sat, 7 Nov 2026 | HEADACHE LIVE AT Mooi Space | Vegyn |
 
 ## Address
 
 75 Pelham Avenue, Toronto, ON, M6N1A5, Toronto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*

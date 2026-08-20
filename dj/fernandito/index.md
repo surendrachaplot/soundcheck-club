@@ -1,6 +1,6 @@
 # fernanDITO
 
-fernanDITO is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Metropolitan Bar, New York City on Sat, 22 Aug 2026.
+fernanDITO is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Metropolitan Bar, New York City on Sat, 22 Aug 2026.
 
 fernanDITO is a house and italo disco artist tracked on soundcheck, with 23 sets logged across Melbourne and Newyorkcity. Often billed alongside SPRFRK, Kandylion and AC_LOVE. Next up: Metropolitan Bar, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ fernanDITO is a house and italo disco artist tracked on soundcheck, with 23 sets
 
 SPRFRK, Kandylion, AC_LOVE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandito/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandito/)*

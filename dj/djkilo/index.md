@@ -1,6 +1,6 @@
 # DJ Kilo
 
-DJ Kilo is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
+DJ Kilo is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
 
 DJ Kilo is a club and hip-hop artist tracked on soundcheck, with 5 sets logged across London, Melbourne, Nottingham and Rotterdam. Often billed alongside Princess Trium, Atilla the Hvn and Baum. Next up: Revolver Upstairs, Melbourne on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ DJ Kilo is a club and hip-hop artist tracked on soundcheck, with 5 sets logged a
 
 Princess Trium, Atilla the Hvn, Baum
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilo/)*

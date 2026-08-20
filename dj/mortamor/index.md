@@ -1,6 +1,6 @@
 # Morta Mor
 
-Morta Mor is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Morta Mor is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Morta Mor is a house and electronica artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Alma Linda, Madmotormiquel and Mathias Kaden. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Morta Mor is a house and electronica artist tracked on soundcheck, with 5 sets l
 
 Alma Linda, Madmotormiquel, Mathias Kaden
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mortamor/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mortamor/)*

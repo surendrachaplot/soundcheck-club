@@ -1,6 +1,6 @@
 # Rob Mdna
 
-Rob Mdna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
+Rob Mdna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
 
 Rob Mdna is a techno and trance artist based in Spain, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Divad Yaya, Ama Lien and Dingo Tracks. Next up: MODULE, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rob Mdna is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 Divad Yaya, Ama Lien, Dingo Tracks
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robmdna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robmdna/)*

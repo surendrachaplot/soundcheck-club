@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
+Loukeman is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
 
 Loukeman is a house and electronica artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Brussels and Chicago and 8 more. Often billed alongside Marie Davidson, Vegyn and A Good Year. Next up: Smoke & Mirrors, Chicago on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Loukeman is a house and electronica artist tracked on soundcheck, with 27 sets l
 
 Marie Davidson, Vegyn, A Good Year
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

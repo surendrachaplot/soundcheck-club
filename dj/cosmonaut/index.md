@@ -1,6 +1,6 @@
 # Cosmonaut
 
-Cosmonaut is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hall, Tallinn on Sat, 22 Aug 2026.
+Cosmonaut is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hall, Tallinn on Sat, 22 Aug 2026.
 
 Cosmonaut is a progressive house and techno artist tracked on soundcheck, with 3 sets logged across Tallinn. Often billed alongside Cyril Berg, Ken Dark and Khmelnitsky. Next up: Hall, Tallinn on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Cosmonaut is a progressive house and techno artist tracked on soundcheck, with 3
 
 Cyril Berg, Ken Dark, Khmelnitsky
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmonaut/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmonaut/)*

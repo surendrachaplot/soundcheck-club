@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
+Kepler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
 
 Kepler is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Kepler is a house and tech house artist tracked on soundcheck, with 152 sets log
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

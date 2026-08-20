@@ -1,6 +1,6 @@
 # Studio Stereo pres. Sons Al Parc showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo pres. Sons Al Parc showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 3 Sept, Barcelona. 2 acts on the bill: ARTIIC and Bustins. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo pres. Sons Al Parc showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 3 Sept, Barcelona. 3 acts on the bill: ARTIIC, Bustins and LM. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Studio Stereo pres. Sons Al Parc showcase at TBA - Studio Stereo, close to pl. C
 
 - ARTIIC
 - Bustins
+- LM
 
 *Source: [soundcheck](https://soundcheck.club/e/2494926-studio-stereo-pres-sons-al-parc-showcase-at-tba-studio-stere/)*

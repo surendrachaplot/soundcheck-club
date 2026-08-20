@@ -1,6 +1,6 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Le Red Room, Montreal on Tue, 25 Aug 2026.
+Manuel Falardeau is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Le Red Room, Montreal on Tue, 25 Aug 2026.
 
 Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 41 sets logged across Montreal. Often billed alongside Latour, DUZA and Lex Ferenda. Next up: Le Red Room, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 41
 
 Latour, DUZA, Lex Ferenda
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*

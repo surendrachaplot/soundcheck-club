@@ -1,6 +1,6 @@
 # Julia Pé
 
-Julia Pé is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sala Siroco, Madrid on Fri, 28 Aug 2026.
+Julia Pé is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sala Siroco, Madrid on Fri, 28 Aug 2026.
 
 Julia Pé is a techno and club artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Madrid and Thehague. Often billed alongside Parallax, .VRIL and Adrian Marth. Next up: Sala Siroco, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Julia Pé is a techno and club artist based in Spain, tracked on soundcheck, wit
 
 Parallax, .VRIL, Adrian Marth
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliape/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliape/)*

@@ -1,6 +1,6 @@
 # ELLLL
 
-ELLLL is a Breakbeat and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 25 Sept 2026.
+ELLLL is a Breakbeat and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 25 Sept 2026.
 
 ELLLL is a breakbeat and experimental artist tracked on soundcheck, with 20 sets logged across Berlin, Cork, Lisbon and Prague and 1 more. Often billed alongside Daire Carolan, Glimmerman and Lolz. Next up: Karmen Camina, Strasbourg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ELLLL is a breakbeat and experimental artist tracked on soundcheck, with 20 sets
 
 Daire Carolan, Glimmerman, Lolz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellll-ie/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellll-ie/)*

@@ -1,6 +1,6 @@
 # Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises
 
-Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Fri 21 Aug, Newyorkcity. 3 acts on the bill: C.M.A., Jordi Iven and Rockin Moroccin. House. Preview the line-up and save it on soundcheck.
+Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Fri 21 Aug, Newyorkcity. 4 acts on the bill: C.M.A., Deo'jorge, Jordi Iven and Rockin Moroccin. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Fri 21 Aug, Newyorkcit
 ## Line-up
 
 - C.M.A.
+- Deo'jorge
 - Jordi Iven
 - Rockin Moroccin
 

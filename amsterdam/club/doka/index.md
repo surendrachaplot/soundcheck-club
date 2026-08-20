@@ -1,13 +1,14 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Doka Studio with Colored Craig - Fais Le Beau" on Sat, 5 Sept 2026.
+Doka is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Doka Studio with Moody Mehran - Kyra Khaldi" on Fri, 4 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Antal, Charmaine, Colored Craig and Daan Donk and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Doka Studio with Moody Mehran - Kyra Khaldi | Kyra Khaldi, Moody Mehran |
 | Sat, 5 Sept 2026 | Doka Studio with Colored Craig - Fais Le Beau | Colored Craig, Fais Le Beau |
 | Fri, 11 Sept 2026 | Polychrome x Doka Studio with Faited - Tanzverbot | Faited |
 | Sat, 12 Sept 2026 | Doka Studio with Antal (All night long) | Antal |
@@ -16,9 +17,10 @@ Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with
 | Fri, 18 Sept 2026 | Tale of Bus w/ Sugar Free, Daan Donk | Daan Donk, Sugar Free |
 | Sat, 19 Sept 2026 | Doka Studio with De Sluwe Vos B2B Theo Kottis | De Sluwe Vos, Theo Kottis |
 | Fri, 25 Sept 2026 | Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |
+| Wed, 21 Oct 2026 | Live Coding Sessions x Doka Culture [ADE] | Jobi, MYNA |
 
 ## Address
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

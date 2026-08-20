@@ -1,6 +1,6 @@
 # Maldoror
 
-Maldoror is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 29 Aug 2026.
+Maldoror is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Arroz Estúdios, Lisbon on Sat, 29 Aug 2026.
 
 Maldoror is an industrial and techno artist tracked on soundcheck, with 30 sets logged across Barcelona and Lisbon. Often billed alongside Raver's Diary, Aura and Arweenn. Next up: Arroz Estúdios, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Maldoror is an industrial and techno artist tracked on soundcheck, with 30 sets 
 
 Raver's Diary, Aura, Arweenn
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maldoror/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maldoror/)*

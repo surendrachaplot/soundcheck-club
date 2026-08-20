@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Club inFiné invite Nathan Fake Live + guests" on Fri, 9 Oct 2026.
+Petit CAB is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Club inFiné invite Nathan Fake Live + guests" on Fri, 9 Oct 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Nathan Fake. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -14,4 +14,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 1 upcoming night, 
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

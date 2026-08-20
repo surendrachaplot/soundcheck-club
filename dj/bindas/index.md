@@ -1,6 +1,6 @@
 # Bindās
 
-Bindās is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
+Bindās is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
 
 Bindās is an uk funky and garage artist based in India, tracked on soundcheck, with 3 sets logged across London. Often billed alongside RIMIX, ABIMBOLA and AfroLicious Mumma. Next up: Four Quarters, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Bindās is an uk funky and garage artist based in India, tracked on soundcheck, 
 
 RIMIX, ABIMBOLA, AfroLicious Mumma
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bindas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bindas/)*

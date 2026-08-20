@@ -1,6 +1,6 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Fringe BALKANARAMA" on Fri, 21 Aug 2026.
+La Belle Angele is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Fringe BALKANARAMA" on Fri, 21 Aug 2026.
 
 La Belle Angele is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Billy Nasty, cara hegarty, Fërb and Keyte and 2 more. Browse upcoming dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ La Belle Angele is a music venue in Edinburgh listed on soundcheck. 3 upcoming n
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

@@ -1,6 +1,6 @@
 # Manuel Moreno
 
-Manuel Moreno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Landesmuseum, Zurich on Mon, 17 Aug 2026.
+Manuel Moreno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Landesmuseum, Zurich on Mon, 17 Aug 2026.
 
 Manuel Moreno is a house and deep house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Landesmuseum, Zurich on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Manuel Moreno is a house and deep house artist tracked on soundcheck, with 19 se
 
 Caromelle, AANN, Felix E
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*

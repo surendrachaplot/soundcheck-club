@@ -1,6 +1,6 @@
 # Ellxandra
 
-Ellxandra is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret location, Montreal on Sat, 22 Aug 2026.
+Ellxandra is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret location, Montreal on Sat, 22 Aug 2026.
 
 Ellxandra is a house and minimal artist tracked on soundcheck, with 41 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Claire, Massyl and DJ Chris (CA). Next up: TBA - Secret location, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ellxandra is a house and minimal artist tracked on soundcheck, with 41 sets logg
 
 Claire, Massyl, DJ Chris (CA)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*

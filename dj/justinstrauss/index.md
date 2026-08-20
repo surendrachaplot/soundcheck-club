@@ -1,6 +1,6 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Système, Montreal on Fri, 21 Aug 2026.
+Justin Strauss is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Système, Montreal on Fri, 21 Aug 2026.
 
 Justin Strauss is a house and electro artist tracked on soundcheck, with 176 sets logged across Belfast, Berlin, Boston and Chicago and 12 more. Often billed alongside Andi, Max Pask and Eli Escobar. Next up: Système, Montreal on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Justin Strauss is a house and electro artist tracked on soundcheck, with 176 set
 
 Andi, Max Pask, Eli Escobar
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

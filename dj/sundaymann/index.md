@@ -1,6 +1,6 @@
 # Sundaymann
 
-Sundaymann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Sundaymann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Sundaymann is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside Physix, Kairogen and Lewis Lowe. Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sundaymann is a house and techno artist based in United Kingdom, tracked on soun
 
 Physix, Kairogen, Lewis Lowe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaymann/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaymann/)*

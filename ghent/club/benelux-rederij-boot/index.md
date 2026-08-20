@@ -1,6 +1,6 @@
 # Benelux Rederij Boot
 
-Benelux Rederij Boot is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Back To Wax x We Play House Boat Party" on Sun, 30 Aug 2026.
+Benelux Rederij Boot is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Back To Wax x We Play House Boat Party" on Sun, 30 Aug 2026.
 
 Benelux Rederij Boot is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including D-FAULT, His dudeness and Red D. Browse upcoming dates, start times and who's playing. Recollettenlei 32, 9000 Gent, Belgium.
 
@@ -14,4 +14,4 @@ Benelux Rederij Boot is a music venue in Ghent listed on soundcheck. 1 upcoming 
 
 Recollettenlei 32, 9000 Gent, Belgium, Ghent
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/benelux-rederij-boot/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/benelux-rederij-boot/)*

@@ -1,6 +1,6 @@
 # ZDBT
 
-ZDBT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
+ZDBT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
 
 ZDBT is a techno and house artist based in Canada, tracked on soundcheck, with 48 sets logged across Detroit, Mexicocity, Montreal and Newyorkcity and 3 more. Often billed alongside Syd Woz, Dairy Free and Amelia Holt. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ZDBT is a techno and house artist based in Canada, tracked on soundcheck, with 4
 
 Syd Woz, Dairy Free, Amelia Holt
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*

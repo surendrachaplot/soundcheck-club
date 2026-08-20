@@ -1,6 +1,6 @@
 # Kyoso
 
-Kyoso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Kyoso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Kyoso is a techno and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Warsaw. Often billed alongside Wispelturig, Auua. and BUDZKO. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kyoso is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 Wispelturig, Auua., BUDZKO
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoso/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoso/)*

@@ -1,6 +1,6 @@
 # DATTA
 
-DATTA is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+DATTA is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 DATTA is an acid and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Mary X, Ardishko and Chocobiz. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ DATTA is an acid and house artist based in United Kingdom, tracked on soundcheck
 
 Mary X, Ardishko, Chocobiz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datta/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datta/)*

@@ -1,6 +1,6 @@
 # GALAGO (BE)
 
-GALAGO (BE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at UMI, Brussels on Fri, 4 Sept 2026.
+GALAGO (BE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at UMI, Brussels on Fri, 4 Sept 2026.
 
 GALAGO (BE) is a techno and house artist based in Belgium, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Don Cabron, Jaxter and Groovegsus. Next up: UMI, Brussels on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ GALAGO (BE) is a techno and house artist based in Belgium, tracked on soundcheck
 
 Don Cabron, Jaxter, Groovegsus
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*

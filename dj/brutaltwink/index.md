@@ -1,14 +1,15 @@
 # Brutal Twink
 
-Brutal Twink is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
+Brutal Twink is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
 
-Brutal Twink is an electro and house artist tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside Subcultures, Melona and Actual Angel. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 2 Sept.
+Brutal Twink is an electro and house artist tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Subcultures, Melona and Actual Angel. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Thu, 17 Sept 2026 | Jupiter Disco | New York City |
 | Sat, 26 Sept 2026 | Hart Bar | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Brutal Twink is an electro and house artist tracked on soundcheck, with 38 sets 
 
 Subcultures, Melona, Actual Angel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brutaltwink/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brutaltwink/)*

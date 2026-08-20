@@ -1,6 +1,6 @@
 # Fia Fiell
 
-Fia Fiell is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
+Fia Fiell is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
 
 Fia Fiell is an ambient and downtempo artist tracked on soundcheck, with 7 sets logged across London and Melbourne. Often billed alongside Cell, Greer and Other Joe. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ Fia Fiell is an ambient and downtempo artist tracked on soundcheck, with 7 sets 
 
 Cell, Greer, Other Joe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiafiell/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiafiell/)*

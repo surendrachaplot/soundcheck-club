@@ -1,6 +1,6 @@
 # Bereket
 
-Bereket is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+Bereket is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
 Bereket is a techno and dub techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Aanandi, Valentin Lamar and J. Albert. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Bereket is a techno and dub techno artist tracked on soundcheck, with 5 sets log
 
 Aanandi, Valentin Lamar, J. Albert
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bereket/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bereket/)*

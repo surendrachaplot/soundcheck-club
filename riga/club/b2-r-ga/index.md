@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "MICRONICA ALL NIGHT LONG" on Fri, 21 Aug 2026.
+B2 Rīga is a music venue in Riga with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "MICRONICA ALL NIGHT LONG" on Fri, 21 Aug 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 4 upcoming nights, with line-ups including Clicklounge, D I N, Grisha Nirgov and iOAN (LV) and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -17,4 +17,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 4 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

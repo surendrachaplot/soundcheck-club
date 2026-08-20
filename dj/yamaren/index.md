@@ -1,6 +1,6 @@
 # YAMAREN
 
-YAMAREN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
+YAMAREN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
 
 YAMAREN is a techno and house artist tracked on soundcheck, with 17 sets logged across Milan and Tokyo. Often billed alongside Rei7801, Kurea and HAYATE. Next up: Dopo?Space, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ YAMAREN is a techno and house artist tracked on soundcheck, with 17 sets logged 
 
 Rei7801, Kurea, HAYATE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamaren/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamaren/)*

@@ -1,6 +1,6 @@
 # Kabulom
 
-Kabulom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
+Kabulom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
 
 Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Leipzig, Lisbon and Saopaulo. Often billed alongside OMOLOKO, Paulete Lindacelva and BADSISTA. Next up: Central 1926, Saopaulo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 OMOLOKO, Paulete Lindacelva, BADSISTA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*

@@ -1,6 +1,6 @@
-# Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass at Dalston Den
+# Breakaway - FREE ENTRY BEFORE 12AM - Jungle / Drum & Bass at Dalston Den
 
-Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass at Dalston Den on Fri 21 Aug, London. 2 acts on the bill: Bryn Brax and Whatsname. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway - FREE ENTRY BEFORE 12AM - Jungle / Drum & Bass at Dalston Den on Fri 21 Aug, London. 3 acts on the bill: Agility, Bryn Brax and Whatsname. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass at Dalston Den on Fri 21
 
 ## Line-up
 
+- Agility
 - Bryn Brax
 - Whatsname
 

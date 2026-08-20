@@ -1,6 +1,6 @@
 # Atomlui
 
-Atomlui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
+Atomlui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
 
 Atomlui is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Renate, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Atomlui is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 Antoine Baiser, Bombe, John Joses
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*

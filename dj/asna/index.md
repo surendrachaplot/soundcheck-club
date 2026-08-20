@@ -1,6 +1,6 @@
 # asna
 
-asna is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - check description, Berlin on Fri, 28 Aug 2026.
+asna is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - check description, Berlin on Fri, 28 Aug 2026.
 
 asna is a techno and afro tech artist tracked on soundcheck, with 7 sets logged across Berlin, Cologne, Geneva and Nantes and 1 more. Often billed alongside Aaro (3), Catu Diosis and Charisse C. Next up: TBA - check description, Berlin on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ asna is a techno and afro tech artist tracked on soundcheck, with 7 sets logged 
 
 Aaro (3), Catu Diosis, Charisse C
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asna/)*

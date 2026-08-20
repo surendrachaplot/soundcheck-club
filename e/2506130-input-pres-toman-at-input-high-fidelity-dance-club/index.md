@@ -1,6 +1,6 @@
 # INPUT pres Toman at INPUT High Fidelity Dance Club
 
-INPUT pres Toman at INPUT High Fidelity Dance Club on Sat 12 Sept, Barcelona. 1 act on the bill: Toman. Techno and House. Preview the line-up and save it on soundcheck.
+INPUT pres Toman at INPUT High Fidelity Dance Club on Sat 12 Sept, Barcelona. 2 acts on the bill: Max Haas and Toman. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INPUT pres Toman at INPUT High Fidelity Dance Club on Sat 12 Sept, Barcelona. 1 
 
 ## Line-up
 
+- Max Haas
 - Toman
 
 *Source: [soundcheck](https://soundcheck.club/e/2506130-input-pres-toman-at-input-high-fidelity-dance-club/)*

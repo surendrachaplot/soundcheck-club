@@ -1,6 +1,6 @@
 # Genie (1)
 
-Genie (1) is a Club and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lazy Thinking, Sydney on Fri, 21 Aug 2026.
+Genie (1) is a Club and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lazy Thinking, Sydney on Fri, 21 Aug 2026.
 
 Genie (1) is a club and jungle artist tracked on soundcheck, with 11 sets logged across Australiancapitalterritory, London, Melbourne and Sydney. Often billed alongside Dyslecta, Ed Kent and JP (1). Next up: Lazy Thinking, Sydney on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Genie (1) is a club and jungle artist tracked on soundcheck, with 11 sets logged
 
 Dyslecta, Ed Kent, JP (1)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genie-1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genie-1/)*

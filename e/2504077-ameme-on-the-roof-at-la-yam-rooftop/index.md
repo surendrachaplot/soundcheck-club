@@ -1,6 +1,6 @@
 # Ameme on the roof at LA-YAM Rooftop
 
-Ameme on the roof at LA-YAM Rooftop on Sun 23 Aug, London. 1 act on the bill: AMÉMÉ. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Ameme on the roof at LA-YAM Rooftop on Sun 23 Aug, London. 4 acts on the bill: AMÉMÉ, Johnny Fiore, Shamiso and VENERE. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Ameme on the roof at LA-YAM Rooftop on Sun 23 Aug, London. 1 act on the bill: AM
 ## Line-up
 
 - AMÉMÉ
+- Johnny Fiore
+- Shamiso
+- VENERE
 
 *Source: [soundcheck](https://soundcheck.club/e/2504077-ameme-on-the-roof-at-la-yam-rooftop/)*

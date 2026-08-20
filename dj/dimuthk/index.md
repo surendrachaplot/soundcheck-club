@@ -1,14 +1,15 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Roll this way Sushi, Toronto on Thu, 20 Aug 2026.
+Dimuth K is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Roll this way Sushi, Toronto on Thu, 20 Aug 2026.
 
-Dimuth K is a progressive house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, London, Melbourne and Montreal and 1 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: TBA - Roll this way Sushi, Toronto on Thu 20 Aug.
+Dimuth K is a progressive house and deep house artist tracked on soundcheck, with 22 sets logged across Amsterdam, London, Melbourne and Montreal and 1 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: TBA - Roll this way Sushi, Toronto on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | TBA - Roll this way Sushi | Toronto |
+| Fri, 11 Sept 2026 | Bunker Toronto | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dimuth K is a progressive house and techno artist tracked on soundcheck, with 21
 
 Simply City, Hernan Cattaneo, Adiel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*

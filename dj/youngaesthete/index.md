@@ -1,6 +1,6 @@
 # Young Aesthete
 
-Young Aesthete is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fuchs2, Prague on Thu, 20 Aug 2026.
+Young Aesthete is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Thu, 20 Aug 2026.
 
 Young Aesthete is an electronica and garage artist tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Animistic Beliefs, DJ Ebhardy and DJ MELL G. Next up: Fuchs2, Prague on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Young Aesthete is an electronica and garage artist tracked on soundcheck, with 5
 
 Animistic Beliefs, DJ Ebhardy, DJ MELL G
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngaesthete/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngaesthete/)*

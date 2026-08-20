@@ -1,8 +1,8 @@
 # JUAAN
 
-JUAAN is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Oven Club, Valencia on Fri, 21 Aug 2026.
+JUAAN is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Oven Club, Valencia on Fri, 21 Aug 2026.
 
-JUAAN is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: Oven Club, Valencia on Fri 21 Aug.
+JUAAN is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: Oven Club, Valencia on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JUAAN is a house and techno artist tracked on soundcheck, with 62 sets logged ac
 | Fri, 21 Aug 2026 | Oven Club | Valencia |
 | Sat, 22 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 4 Sept 2026 | Lasociaciøn | Madrid |
+| Sat, 12 Sept 2026 | BRET | Amsterdam |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
@@ -29,4 +30,4 @@ JUAAN is a house and techno artist tracked on soundcheck, with 62 sets logged ac
 
 Alex Dima, Alexia Glensy, Dyed Soundorom
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*

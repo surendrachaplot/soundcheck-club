@@ -1,6 +1,6 @@
 # Chris Pavlov
 
-Chris Pavlov is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
+Chris Pavlov is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
 
 Chris Pavlov is a disco and balearic artist tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside VHS King, Cole Thompson and Coastal. Next up: TBA, Losangeles on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Chris Pavlov is a disco and balearic artist tracked on soundcheck, with 5 sets l
 
 VHS King, Cole Thompson, Coastal
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrispavlov/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrispavlov/)*

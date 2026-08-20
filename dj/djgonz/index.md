@@ -1,14 +1,15 @@
 # DJ Gonz
 
-DJ Gonz is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+DJ Gonz is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
-DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Bristol and Dusseldorf and 5 more. Often billed alongside Conrad Pack, John T. Gast and Angel Steele. Next up: Bermondsey Triangle, London on Sat 26 Sept.
+DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Bristol and Dusseldorf and 5 more. Often billed alongside Conrad Pack, John T. Gast and Angel Steele. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Sat, 10 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on 
 
 Conrad Pack, John T. Gast, Angel Steele
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*

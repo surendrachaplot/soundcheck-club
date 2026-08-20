@@ -1,6 +1,6 @@
 # Larzo
 
-Larzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
+Larzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
 
 Larzo is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Sebus, Benjamin Grimm and Birkenlauber. Next up: Club Frau Holle, Hamburg on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Larzo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Sebus, Benjamin Grimm, Birkenlauber
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larzo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larzo/)*

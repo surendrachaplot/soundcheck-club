@@ -1,6 +1,6 @@
 # Castaways
 
-Castaways is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "CHASING SUN(SETS) II - Gene Farris, AUSTIN ASHTIN: LEGEND ON THE LAKE" on Sat, 22 Aug 2026.
+Castaways is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "CHASING SUN(SETS) II - Gene Farris, AUSTIN ASHTIN: LEGEND ON THE LAKE" on Sat, 22 Aug 2026.
 
 Castaways is a music venue in Chicago listed on soundcheck. 5 upcoming nights, with line-ups including Azzecca, Cameron Jack, Gene Farris and Nick Warren and 1 more. Browse upcoming dates, start times and who's playing. 1603 N Lake Shore Dr, Chicago, Illinois 60614.
 
@@ -18,4 +18,4 @@ Castaways is a music venue in Chicago listed on soundcheck. 5 upcoming nights, w
 
 1603 N Lake Shore Dr, Chicago, Illinois 60614, Chicago
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*

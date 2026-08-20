@@ -1,6 +1,6 @@
 # DARÍO
 
-DARÍO is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+DARÍO is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 DARÍO is a techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside CLAUDIA (ES), L4I4 and Amaliah. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ DARÍO is a techno artist based in Spain, tracked on soundcheck, with 6 sets log
 
 CLAUDIA (ES), L4I4, Amaliah
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darío/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darío/)*

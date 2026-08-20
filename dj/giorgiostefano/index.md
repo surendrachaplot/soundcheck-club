@@ -1,6 +1,6 @@
 # Giorgio Stefano
 
-Giorgio Stefano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Pracht, Frankfurt on Fri, 21 Aug 2026.
+Giorgio Stefano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pracht, Frankfurt on Fri, 21 Aug 2026.
 
 Giorgio Stefano is a house and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Frankfurt, Mexicocity and Miami. Often billed alongside Claudius (DE), Alejandra Rosales and Baum. Next up: Pracht, Frankfurt on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Giorgio Stefano is a house and tech house artist based in Spain, tracked on soun
 
 Claudius (DE), Alejandra Rosales, Baum
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiostefano/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiostefano/)*

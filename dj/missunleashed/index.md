@@ -1,6 +1,6 @@
 # Miss Unleashed
 
-Miss Unleashed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
+Miss Unleashed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
 
 Miss Unleashed is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside BOHO, DJ Sweedee and Jakob Lesch. Next up: SAGE, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Miss Unleashed is a techno and trance artist based in Germany, tracked on soundc
 
 BOHO, DJ Sweedee, Jakob Lesch
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missunleashed/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missunleashed/)*

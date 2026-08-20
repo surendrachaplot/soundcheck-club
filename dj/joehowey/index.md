@@ -1,6 +1,6 @@
 # Joe Howey
 
-Joe Howey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
+Joe Howey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
 
 Joe Howey is a house and tech house artist tracked on soundcheck, with 16 sets logged across Leeds, London and Manchester. Often billed alongside Nikol, .cosm and Keefy G. Next up: Next Door Records Two, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Joe Howey is a house and tech house artist tracked on soundcheck, with 16 sets l
 
 Nikol, .cosm, Keefy G
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joehowey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joehowey/)*

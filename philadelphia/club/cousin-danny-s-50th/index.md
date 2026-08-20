@@ -1,6 +1,6 @@
 # Cousin Danny's/ 50th
 
-Cousin Danny's/ 50th is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Bbymutha, sha ray & dj haram, Archangel, Commitment" on Fri, 21 Aug 2026.
+Cousin Danny's/ 50th is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bbymutha, sha ray & dj haram, Archangel, Commitment" on Fri, 21 Aug 2026.
 
 Cousin Danny's/ 50th is a music venue in Philadelphia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 N. 50th St, Philadelphia, PA, 19143.
 
@@ -14,4 +14,4 @@ Cousin Danny's/ 50th is a music venue in Philadelphia listed on soundcheck. 1 up
 
 1 N. 50th St, Philadelphia, PA, 19143, Philadelphia
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/cousin-danny-s-50th/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/cousin-danny-s-50th/)*

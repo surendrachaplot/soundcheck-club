@@ -1,6 +1,6 @@
 # Dylan Fly
 
-Dylan Fly is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 21 Aug 2026.
+Dylan Fly is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 21 Aug 2026.
 
 Dylan Fly is a tech house and house artist tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside BrettyBoop, Batiste and Gabe Katz. Next up: Paradise Grapevine Winery, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dylan Fly is a tech house and house artist tracked on soundcheck, with 11 sets l
 
 BrettyBoop, Batiste, Gabe Katz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*

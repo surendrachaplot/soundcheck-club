@@ -1,6 +1,6 @@
 # Alba (2)
 
-Alba (2) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lucky's, Dublin on Fri, 28 Aug 2026.
+Alba (2) is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lucky's, Dublin on Fri, 28 Aug 2026.
 
 Alba (2) is a club and electronica artist tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Cork and Dublin and 3 more. Often billed alongside Tadhg K, Síofra and Cathy Flynn. Next up: Lucky's, Dublin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alba (2) is a club and electronica artist tracked on soundcheck, with 19 sets lo
 
 Tadhg K, Síofra, Cathy Flynn
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*

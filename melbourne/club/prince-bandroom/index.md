@@ -1,6 +1,6 @@
 # Prince Bandroom
 
-Prince Bandroom is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Petit Biscuit" on Sat, 19 Sept 2026.
+Prince Bandroom is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Petit Biscuit" on Sat, 19 Sept 2026.
 
 Prince Bandroom is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Petit Biscuit. Browse upcoming dates, start times and who's playing. 29 Fitzroy St; St Kilda, Melbourne, VIC 3182; Australia.
 
@@ -15,4 +15,4 @@ Prince Bandroom is a music venue in Melbourne listed on soundcheck. 2 upcoming n
 
 29 Fitzroy St; St Kilda, Melbourne, VIC 3182; Australia, Melbourne
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/prince-bandroom/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/prince-bandroom/)*

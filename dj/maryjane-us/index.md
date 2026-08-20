@@ -1,6 +1,6 @@
 # Mary Jane (US)
 
-Mary Jane (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lunasol, Miami on Sat, 12 Sept 2026.
+Mary Jane (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lunasol, Miami on Sat, 12 Sept 2026.
 
 Mary Jane (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Losangeles, Miami, Newyorkcity and Sanfrancisco. Often billed alongside Dude Skywalker, Kike Roldan and Nii Tei. Next up: Lunasol, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mary Jane (US) is a house and deep house artist based in United States of Americ
 
 Dude Skywalker, Kike Roldan, Nii Tei
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*

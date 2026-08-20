@@ -1,6 +1,6 @@
 # Studio the Venue
 
-Studio the Venue is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "RAMPAGE ROADSHOW | AUCKLAND" on Fri, 28 Aug 2026.
+Studio the Venue is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RAMPAGE ROADSHOW | AUCKLAND" on Fri, 28 Aug 2026.
 
 Studio the Venue is a music venue in Auckland listed on soundcheck. 4 upcoming nights, with line-ups including Basstripper, Danny Byrd, Hoax (UK) and Macky Gee and 2 more. Browse upcoming dates, start times and who's playing. 340 Karangahape Road Auckland 1010 New Zealand.
 
@@ -17,4 +17,4 @@ Studio the Venue is a music venue in Auckland listed on soundcheck. 4 upcoming n
 
 340 Karangahape Road Auckland 1010 New Zealand, Auckland
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*

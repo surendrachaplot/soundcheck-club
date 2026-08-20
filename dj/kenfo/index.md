@@ -1,6 +1,6 @@
 # Kenfo
 
-Kenfo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 21 Aug 2026.
+Kenfo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 21 Aug 2026.
 
 Kenfo is a house and techno artist tracked on soundcheck, with 14 sets logged across Melbourne and Sydney. Often billed alongside Baschoe, AAA and Karani. Next up: Abercrombie Hotel, Sydney on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kenfo is a house and techno artist tracked on soundcheck, with 14 sets logged ac
 
 Baschoe, AAA, Karani
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenfo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenfo/)*

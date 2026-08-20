@@ -1,6 +1,6 @@
 # Matteea
 
-Matteea is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Red Ruby, Bali on Fri, 21 Aug 2026.
+Matteea is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Red Ruby, Bali on Fri, 21 Aug 2026.
 
 Matteea is a tech house and techno artist tracked on soundcheck, with 3 sets logged across Bali and Milan. Often billed alongside La Sape, Aznamir and KARBO. Next up: Red Ruby, Bali on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Matteea is a tech house and techno artist tracked on soundcheck, with 3 sets log
 
 La Sape, Aznamir, KARBO
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteea/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteea/)*

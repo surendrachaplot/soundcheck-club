@@ -1,6 +1,6 @@
 # Nissa Carrington
 
-Nissa Carrington is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
+Nissa Carrington is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
 
 Nissa Carrington is a bass and club artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 1 more. Often billed alongside yung_womb, Slimgirl fat and SLIC Unit. Next up: Golden Pudel Club, Hamburg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nissa Carrington is a bass and club artist tracked on soundcheck, with 33 sets l
 
 yung_womb, Slimgirl fat, SLIC Unit
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*

@@ -1,6 +1,6 @@
 # Lovecraft
 
-Lovecraft is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Refuge, New York City on Fri, 28 Aug 2026.
+Lovecraft is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Refuge, New York City on Fri, 28 Aug 2026.
 
 Lovecraft is a deep house and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and Newyorkcity. Often billed alongside OBA+FLIP, Daniel Cowel and Mira. Next up: Refuge, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lovecraft is a deep house and house artist based in United States of America, tr
 
 OBA+FLIP, Daniel Cowel, Mira
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecraft/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecraft/)*

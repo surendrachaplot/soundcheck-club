@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
+1morning is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Good Room, New York City on Sat, 29 Aug 2026.
 
 1morning is a techno and club artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Good Room, Newyorkcity on Sat 29 Aug.
 
@@ -29,4 +29,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

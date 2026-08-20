@@ -1,6 +1,6 @@
 # nutenrieth
 
-nutenrieth is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+nutenrieth is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
 nutenrieth is an electro and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne and Hamburg. Often billed alongside Annemalie, Arninho and Bergen. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ nutenrieth is an electro and techno artist based in Germany, tracked on soundche
 
 Annemalie, Arninho, Bergen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*

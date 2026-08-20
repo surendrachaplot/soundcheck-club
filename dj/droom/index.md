@@ -1,6 +1,6 @@
 # Droom
 
-Droom is a Italo Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Time is the new space, Rotterdam on Fri, 21 Aug 2026.
+Droom is a Italo Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Time is the new space, Rotterdam on Fri, 21 Aug 2026.
 
 Droom is an italo disco and electro artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Rotterdam. Often billed alongside DD and Rimini Express. Next up: Time is the new space, Rotterdam on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Droom is an italo disco and electro artist based in Netherlands, tracked on soun
 
 DD, Rimini Express
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*

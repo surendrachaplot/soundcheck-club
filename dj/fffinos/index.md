@@ -1,6 +1,6 @@
 # FFFINOS
 
-FFFINOS is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Low Four Studio, Manchester on Sat, 5 Sept 2026.
+FFFINOS is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Low Four Studio, Manchester on Sat, 5 Sept 2026.
 
 FFFINOS is an electronica and experimental artist tracked on soundcheck, with 3 sets logged across Manchester. Often billed alongside Alliyah Enyo, Andras_2020 and Apu Nanu. Next up: Low Four Studio, Manchester on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ FFFINOS is an electronica and experimental artist tracked on soundcheck, with 3 
 
 Alliyah Enyo, Andras_2020, Apu Nanu
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fffinos/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fffinos/)*

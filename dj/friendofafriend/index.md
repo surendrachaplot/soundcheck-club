@@ -1,6 +1,6 @@
 # FriendofaFriend
 
-FriendofaFriend is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
+FriendofaFriend is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
 FriendofaFriend is a tech house and house artist based in Canada, tracked on soundcheck, with 7 sets logged across Chicago, London and Toronto. Often billed alongside Art Behaviour, CZYN and Loch. Next up: Rhythm, Toronto on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ FriendofaFriend is a tech house and house artist based in Canada, tracked on sou
 
 Art Behaviour, CZYN, Loch
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friendofafriend/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friendofafriend/)*

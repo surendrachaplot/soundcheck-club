@@ -1,6 +1,6 @@
 # Cakeshop presents: Ship Sket ( Planet Mu/ UK) at Cakeshop
 
-Cakeshop presents: Ship Sket ( Planet Mu/ UK) on Fri 11 Sept, Seoul. 4 acts on the bill: DDD (2), Excultist, Mount XLR and Ship Sket. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Cakeshop presents: Ship Sket ( Planet Mu/ UK) on Fri 11 Sept, Seoul. 5 acts on the bill: ccottonmouth, DDD (2), Excultist and Mount XLR and 1 more. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Cakeshop presents: Ship Sket ( Planet Mu/ UK) on Fri 11 Sept, Seoul. 4 acts on t
 
 ## Line-up
 
+- ccottonmouth
 - DDD (2)
 - Excultist
 - Mount XLR

@@ -1,6 +1,6 @@
 # Suono
 
-Suono is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Suono: Morgan" on Sat, 22 Aug 2026.
+Suono is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Suono: Morgan" on Sat, 22 Aug 2026.
 
 Suono is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including AC Groove, Jade Edwards, Jaegerossa and Jimmy Allen and 1 more. Browse upcoming dates, start times and who's playing. Lâ€™Aperitivo Basement, 112 Bold Street, L1 4HY.
 
@@ -18,4 +18,4 @@ Suono is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, wit
 
 Lâ€™Aperitivo Basement, 112 Bold Street, L1 4HY, Liverpool
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/suono/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/suono/)*

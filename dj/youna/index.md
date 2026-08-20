@@ -1,8 +1,8 @@
 # You&Na
 
-You&Na is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+You&Na is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-You&Na is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Leipzig. Often billed alongside Andre Kronert, Anni Herzer and Annina. Next up: Westhafen, Leipzig on Sat 5 Sept.
+You&Na is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Leipzig. Often billed alongside DJ Exit, Andre Kronert and Anni Herzer. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ You&Na is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Andre Kronert, Anni Herzer, Annina
+DJ Exit, Andre Kronert, Anni Herzer
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youna/)*

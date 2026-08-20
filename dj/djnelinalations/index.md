@@ -1,6 +1,6 @@
 # DJ Nelinalations
 
-DJ Nelinalations is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 70 huron street, Toronto on Fri, 21 Aug 2026.
+DJ Nelinalations is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 70 huron street, Toronto on Fri, 21 Aug 2026.
 
 DJ Nelinalations is a techno and trance artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside MSDELICIOUS, Maxxxxxx and Nihility. Next up: TBA - 70 huron street, Toronto on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ DJ Nelinalations is a techno and trance artist based in Netherlands, tracked on 
 
 MSDELICIOUS, Maxxxxxx, Nihility
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnelinalations/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnelinalations/)*

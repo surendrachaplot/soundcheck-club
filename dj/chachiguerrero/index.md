@@ -1,6 +1,6 @@
 # Chachi Guerrero
 
-Chachi Guerrero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
+Chachi Guerrero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
 
 Chachi Guerrero is a house and techno artist tracked on soundcheck, with 49 sets logged across Boston, Chicago, Detroit and Newyorkcity. Often billed alongside La Spacer, CQQCHiFRUIT and Duke Shin. Next up: TBA - Humboldt Park, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Chachi Guerrero is a house and techno artist tracked on soundcheck, with 49 sets
 
 La Spacer, CQQCHiFRUIT, Duke Shin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*

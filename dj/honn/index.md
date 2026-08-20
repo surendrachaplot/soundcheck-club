@@ -1,6 +1,6 @@
 # Honn
 
-Honn is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
+Honn is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
 
 Honn is a techno and electro artist based in South Korea, tracked on soundcheck, with 289 sets logged across Seoul and Tokyo. Often billed alongside MOVIN.KR, X2C (1) and bumv. Next up: Shelter, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Honn is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 MOVIN.KR, X2C (1), bumv
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honn/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honn/)*

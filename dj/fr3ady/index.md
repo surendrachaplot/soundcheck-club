@@ -1,6 +1,6 @@
 # FR3ADY
 
-FR3ADY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sonnenscheinetage, Cologne on Sat, 22 Aug 2026.
+FR3ADY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sonnenscheinetage, Cologne on Sat, 22 Aug 2026.
 
 FR3ADY is a house and deep house artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Camikazy Uzi, Kirilski and Pura Pachanga. Next up: Sonnenscheinetage, Cologne on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ FR3ADY is a house and deep house artist based in Netherlands, tracked on soundch
 
 Camikazy Uzi, Kirilski, Pura Pachanga
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*

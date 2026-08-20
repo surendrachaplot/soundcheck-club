@@ -1,6 +1,6 @@
 # NaN
 
-NaN is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
+NaN is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dalston Superstore, London on Fri, 21 Aug 2026.
 
 NaN is an electro and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, London and Madrid and 2 more. Often billed alongside &more, 1000raks and Abdullah Miniawy. Next up: Dalston Superstore, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NaN is an electro and house artist tracked on soundcheck, with 11 sets logged ac
 
 &more, 1000raks, Abdullah Miniawy
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nan-es/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nan-es/)*

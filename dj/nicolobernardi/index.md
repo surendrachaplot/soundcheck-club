@@ -1,6 +1,6 @@
 # Nicolò Bernardi
 
-Nicolò Bernardi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
+Nicolò Bernardi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
 
 Nicolò Bernardi is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Mexicocity and Newyorkcity. Often billed alongside Sploofi, Ron Like Hell and Haruka. Next up: Jupiter Disco, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Nicolò Bernardi is a techno and house artist based in United States of America,
 
 Sploofi, Ron Like Hell, Haruka
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolobernardi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolobernardi/)*

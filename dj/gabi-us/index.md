@@ -1,6 +1,6 @@
 # Gabi
 
-Gabi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Gabi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Gabi is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Berlin, Detroit, London and Miami and 2 more. Often billed alongside Ahya Simone, Alex V and Anna Eberg. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Gabi is a house and techno artist based in United States of America, tracked on 
 
 Ahya Simone, Alex V, Anna Eberg
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*

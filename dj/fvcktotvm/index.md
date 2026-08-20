@@ -1,6 +1,6 @@
 # Fvck Totvm
 
-Fvck Totvm is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
+Fvck Totvm is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
 
 Fvck Totvm is an electro and techno artist tracked on soundcheck, with 17 sets logged across Barcelona and London. Often billed alongside Amor Ante, Labåzuy and TECHSIA. Next up: Bar A Bar, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Fvck Totvm is an electro and techno artist tracked on soundcheck, with 17 sets l
 
 Amor Ante, Labåzuy, TECHSIA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*

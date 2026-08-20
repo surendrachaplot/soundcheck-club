@@ -1,6 +1,6 @@
 # Hans Bricks
 
-Hans Bricks is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - One Hour South of Sydney, Sydney on Fri, 9 Oct 2026.
+Hans Bricks is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - One Hour South of Sydney, Sydney on Fri, 9 Oct 2026.
 
 Hans Bricks is a psytrance and techno artist based in Australia, tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside Synestrix, $CRAIC and Autogenesis. Next up: TBA - One Hour South of Sydney, Sydney on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Hans Bricks is a psytrance and techno artist based in Australia, tracked on soun
 
 Synestrix, $CRAIC, Autogenesis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hansbricks/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hansbricks/)*

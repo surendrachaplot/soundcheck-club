@@ -1,6 +1,6 @@
 # Bookworms
 
-Bookworms is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
+Bookworms is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
 
 Bookworms is a techno and experimental artist tracked on soundcheck, with 31 sets logged across Detroit and Newyorkcity. Often billed alongside Sweater On Polo, Max Watts and Russell E.L. Butler. Next up: 314 Scholes, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Bookworms is a techno and experimental artist tracked on soundcheck, with 31 set
 
 Sweater On Polo, Max Watts, Russell E.L. Butler
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookworms/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookworms/)*

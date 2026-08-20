@@ -1,6 +1,6 @@
 # Venn Diagramm
 
-Venn Diagramm is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
+Venn Diagramm is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Spkrbox, Detroit on Thu, 20 Aug 2026.
 
 Venn Diagramm is a techno and electro artist tracked on soundcheck, with 25 sets logged across Detroit and Washingtondc. Often billed alongside Tom McBride, Lady Witch and Miguel Cisne. Next up: Spkrbox, Detroit on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Venn Diagramm is a techno and electro artist tracked on soundcheck, with 25 sets
 
 Tom McBride, Lady Witch, Miguel Cisne
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*

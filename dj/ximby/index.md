@@ -1,6 +1,6 @@
 # Xim (BY)
 
-Xim (BY) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jasna 1, Warsaw on Sat, 19 Sept 2026.
+Xim (BY) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jasna 1, Warsaw on Sat, 19 Sept 2026.
 
 Xim (BY) is a techno and experimental artist based in Poland, tracked on soundcheck, with 9 sets logged across Warsaw. Often billed alongside BUDZKO, Raketka and Aetha. Next up: Jasna 1, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Xim (BY) is a techno and experimental artist based in Poland, tracked on soundch
 
 BUDZKO, Raketka, Aetha
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ximby/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ximby/)*

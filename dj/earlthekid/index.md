@@ -1,6 +1,6 @@
 # Earl the Kid
 
-Earl the Kid is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at E1, London on Sat, 12 Sept 2026.
+Earl the Kid is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at E1, London on Sat, 12 Sept 2026.
 
 Earl the Kid is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam and London. Often billed alongside Andres Forero, Armooniaman and Aur0m. Next up: E1, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Earl the Kid is a techno and trance artist based in United Kingdom, tracked on s
 
 Andres Forero, Armooniaman, Aur0m
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlthekid/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlthekid/)*

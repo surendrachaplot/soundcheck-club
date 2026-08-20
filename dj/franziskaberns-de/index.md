@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Franziska Berns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
 Franziska Berns is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside dj sweet6teen and Ata. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Franziska Berns is a house and techno artist tracked on soundcheck, with 91 sets
 
 dj sweet6teen, , Ata
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

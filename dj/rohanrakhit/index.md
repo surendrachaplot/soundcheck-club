@@ -1,6 +1,6 @@
 # Rohan Rakhit
 
-Rohan Rakhit is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Rohan Rakhit is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 sets logged across Berlin, Leeds, Liverpool and London. Often billed alongside Donut, Soph and Raji Rags. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 se
 
 Donut, Soph, Raji Rags
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*

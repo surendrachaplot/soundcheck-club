@@ -1,6 +1,6 @@
 # Newworldaquarium
 
-Newworldaquarium is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Newworldaquarium is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
 
 Newworldaquarium is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside .VRIL, Aka Hyoo and Answer Code Request. Next up: Paradiso, Amsterdam on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Newworldaquarium is a techno and experimental artist based in Netherlands, track
 
 .VRIL, Aka Hyoo, Answer Code Request
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newworldaquarium/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newworldaquarium/)*

@@ -1,6 +1,6 @@
 # True Vine
 
-True Vine is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mad Radio Miami, Miami on Sat, 22 Aug 2026.
+True Vine is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mad Radio Miami, Miami on Sat, 22 Aug 2026.
 
 True Vine is a house and experimental artist based in United States of America, tracked on soundcheck, with 53 sets logged across Miami and Newyorkcity. Often billed alongside Bort, Sister System and Bakke. Next up: Mad Radio Miami, Miami on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ True Vine is a house and experimental artist based in United States of America, 
 
 Bort, Sister System, Bakke
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*

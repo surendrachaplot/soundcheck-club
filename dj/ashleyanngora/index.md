@@ -1,6 +1,6 @@
 # Ashley Anngora
 
-Ashley Anngora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ground Level Studios, Los Angeles on Sat, 22 Aug 2026.
+Ashley Anngora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ground Level Studios, Los Angeles on Sat, 22 Aug 2026.
 
 Ashley Anngora is a house and techno artist tracked on soundcheck, with 9 sets logged across Hamburg, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Artsychoke, David Gomez and Jacob Grosse. Next up: Ground Level Studios, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ashley Anngora is a house and techno artist tracked on soundcheck, with 9 sets l
 
 Artsychoke, David Gomez, Jacob Grosse
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyanngora/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyanngora/)*

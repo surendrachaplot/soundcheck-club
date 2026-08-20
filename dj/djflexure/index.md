@@ -1,6 +1,6 @@
 # DJ Flexure
 
-DJ Flexure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Débris, Tokyo on Sat, 22 Aug 2026.
+DJ Flexure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Débris, Tokyo on Sat, 22 Aug 2026.
 
 DJ Flexure is a house and techno artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside Tommy House, cirra and CJ (Plus Ones). Next up: Débris, Tokyo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Flexure is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Tommy House, cirra, CJ (Plus Ones)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*

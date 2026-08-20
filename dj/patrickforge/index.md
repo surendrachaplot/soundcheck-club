@@ -1,6 +1,6 @@
 # Patrick Forge
 
-Patrick Forge is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Grow, London on Sat, 12 Sept 2026.
+Patrick Forge is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Grow, London on Sat, 12 Sept 2026.
 
 Patrick Forge is a jazz and broken beat artist tracked on soundcheck, with 23 sets logged across Brighton, Dublin, Edinburgh and London and 1 more. Often billed alongside Gilles Peterson, Bugz in the Attic and Cosmo Sofi. Next up: Grow, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Patrick Forge is a jazz and broken beat artist tracked on soundcheck, with 23 se
 
 Gilles Peterson, Bugz in the Attic, Cosmo Sofi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickforge/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickforge/)*

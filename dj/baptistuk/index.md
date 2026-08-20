@@ -1,6 +1,6 @@
 # Baptist (UK)
 
-Baptist (UK) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
+Baptist (UK) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
 
 Baptist (UK) is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: TBA - Venue MOT, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Baptist (UK) is a hardcore and trance artist based in United Kingdom, tracked on
 
 Synapsefirer, Lau.tastic, Dres Codex
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*

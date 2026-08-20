@@ -1,6 +1,6 @@
 # Bunker Club
 
-Bunker Club is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rago presents: Until The Morning...#002 (Carnival Special) - Bunker Deptford" on Sun, 30 Aug 2026.
+Bunker Club is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rago presents: Until The Morning...#002 (Carnival Special) - Bunker Deptford" on Sun, 30 Aug 2026.
 
 Bunker Club is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Rago. Browse upcoming dates, start times and who's playing. 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom.
 
@@ -14,4 +14,4 @@ Bunker Club is a music venue in London listed on soundcheck. 1 upcoming night, w
 
 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*

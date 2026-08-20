@@ -1,6 +1,6 @@
 # CAAL
 
-CAAL is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
+CAAL is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
 CAAL is a techno and tech house artist based in Spain, tracked on soundcheck, with 57 sets logged across Barcelona, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Marco Faraone, Mar-T and Luca Donzelli. Next up: Sunseabar Beach Club, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ CAAL is a techno and tech house artist based in Spain, tracked on soundcheck, wi
 
 Marco Faraone, Mar-T, Luca Donzelli
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caal/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caal/)*

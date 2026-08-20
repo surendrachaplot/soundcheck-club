@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hidden, Manchester on Fri, 11 Sept 2026.
+Touré is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hidden, Manchester on Fri, 11 Sept 2026.
 
 Touré is an electro and house artist tracked on soundcheck, with 36 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: Hidden, Manchester on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Touré is an electro and house artist tracked on soundcheck, with 36 sets logged
 
 Larushkin, Sleepy Jean, Antoin KMA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

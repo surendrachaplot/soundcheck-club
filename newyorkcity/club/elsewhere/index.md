@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Kimonos, Narasimha, Sleepy & Boo, AKKI, DAYTIMERS NYC: Saqib, TimahTempo, faizan" on Fri, 21 Aug 2026.
+Elsewhere is a music venue in New York City with 44 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Kimonos, Narasimha, Sleepy & Boo, AKKI, DAYTIMERS NYC: Saqib, TimahTempo, faizan" on Fri, 21 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 44 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -13,7 +13,7 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nigh
 | Sat, 22 Aug 2026 | sound.wav: a boat party by Elsewhere & Eavesdrop with Todd Edwards, Ptoe Sou | Todd Edwards |
 | Sat, 22 Aug 2026 | sound.wav: a boat party by Elsewhere & Eavesdrop w/ BRIDGE, DJ Shannon | Bridge (NY), DJ Shannon |
 | Sat, 22 Aug 2026 | Never Dull, Boogietraxx, Zeeva | Boogietraxx, Never Dull |
-| Sat, 22 Aug 2026 | SG Lewis and friends | SG Lewis |
+| Sat, 22 Aug 2026 | SG Lewis, Cosmo, Edd, Griffin Maxwell Brooks, Ksenyeah B2B Manguito, Makèz, Things You Say | Cosmo (NY), Edd (1), Griffin Maxwell Brooks, Ksenyeah, Makèz, Manguito, SG Lewis, Things You Say |
 | Sun, 23 Aug 2026 | Tarka: LILLA, SAMIA, Ushka, Zara Dekho b2b Dynoman | Dynoman, LILLA, SAMIA, Ushka, Zara Dekho |
 | Thu, 27 Aug 2026 | Rival Consoles | Rival Consoles |
 | Thu, 27 Aug 2026 | Water From Your Eyes (Rachel Brown) DJ Set, DJ Practice |  |
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

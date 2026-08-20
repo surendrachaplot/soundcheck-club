@@ -1,6 +1,6 @@
 # Vivienna
 
-Vivienna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Rote Sonne, Munich on Sat, 22 Aug 2026.
+Vivienna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Rote Sonne, Munich on Sat, 22 Aug 2026.
 
 Vivienna is a techno and trance artist tracked on soundcheck, with 26 sets logged across Berlin, Leipzig, Munich and Vienna. Often billed alongside Armin Hermann, Bitschu Batschu and ELOISA. Next up: Rote Sonne, Munich on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Vivienna is a techno and trance artist tracked on soundcheck, with 26 sets logge
 
 Armin Hermann, Bitschu Batschu, ELOISA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*

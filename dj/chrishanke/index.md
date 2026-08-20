@@ -1,6 +1,6 @@
 # Chris Hanke
 
-Chris Hanke is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+Chris Hanke is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 Chris Hanke is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Maik Gyver, Slurm McKenzie and Adri Tüde. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chris Hanke is a techno and tech house artist tracked on soundcheck, with 10 set
 
 Maik Gyver, Slurm McKenzie, Adri Tüde
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishanke/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishanke/)*

@@ -1,6 +1,6 @@
 # Dan Ivy
 
-Dan Ivy is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hagglers Corner, Sheffield on Fri, 28 Aug 2026.
+Dan Ivy is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hagglers Corner, Sheffield on Fri, 28 Aug 2026.
 
 Dan Ivy is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Sheffield. Often billed alongside Cameo Blush, Corcra and POSER. Next up: Hagglers Corner, Sheffield on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Dan Ivy is an electronica and house artist based in United Kingdom, tracked on s
 
 Cameo Blush, Corcra, POSER
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danivy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danivy/)*

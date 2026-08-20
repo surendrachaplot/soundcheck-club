@@ -1,6 +1,6 @@
 # Hanna
 
-Hanna is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klymax Discotheque, Bali on Sat, 22 Aug 2026.
+Hanna is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klymax Discotheque, Bali on Sat, 22 Aug 2026.
 
 Hanna is a house and disco artist tracked on soundcheck, with 4 sets logged across Bali, Chicago, Hamburg and Tokyo. Often billed alongside Derrick Carter, HIMAWARI and Kohei. Next up: Klymax Discotheque, Bali on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Hanna is a house and disco artist tracked on soundcheck, with 4 sets logged acro
 
 Derrick Carter, HIMAWARI, Kohei
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*

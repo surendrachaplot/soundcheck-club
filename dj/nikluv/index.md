@@ -1,6 +1,6 @@
 # Nik Luv
 
-Nik Luv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Nik Luv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Nik Luv is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside CIKO, HØLLE (2) and SACID. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Nik Luv is a house and techno artist tracked on soundcheck, with 5 sets logged a
 
 CIKO, HØLLE (2), SACID
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikluv/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikluv/)*

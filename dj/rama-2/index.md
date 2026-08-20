@@ -1,14 +1,15 @@
 # Rama (2)
 
-Rama (2) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Rama (2) is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
-Rama (2) is an experimental and bass artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside ZULI, Assyouti and Oldyungmayn. Next up: HUNGR, Tallinn on Fri 21 Aug.
+Rama (2) is an experimental and bass artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | HUNGR | Tallinn |
+| Sat, 5 Sept 2026 | TBA - Private Location | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Rama (2) is an experimental and bass artist tracked on soundcheck, with 42 sets 
 
 ## Shares bills with
 
-ZULI, Assyouti, Oldyungmayn
+ZULI, Assyouti, Bungalovv
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rama-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rama-2/)*

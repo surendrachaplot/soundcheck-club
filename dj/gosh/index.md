@@ -1,6 +1,6 @@
 # Gosh
 
-Gosh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
+Gosh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
 
 Gosh is a techno and house artist tracked on soundcheck, with 5 sets logged across Tokyo and Vienna. Often billed alongside ATZENPUNK, BLUDHOUND and DJ 34. Next up: FLUCC, Vienna on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Gosh is a techno and house artist tracked on soundcheck, with 5 sets logged acro
 
 ATZENPUNK, BLUDHOUND, DJ 34
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gosh/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gosh/)*

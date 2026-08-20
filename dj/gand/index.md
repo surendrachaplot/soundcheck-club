@@ -1,6 +1,6 @@
 # Gan D
 
-Gan D is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+Gan D is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 Gan D is an experimental and idm artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Sanfrancisco. Often billed alongside HyperLili, SBS (2) and 3Points. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Gan D is an experimental and idm artist based in Netherlands, tracked on soundch
 
 HyperLili, SBS (2), 3Points
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gand/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gand/)*

@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Carré is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 Carré is a bass and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Samwise (US), Seyer (UK) and Darwin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Carré is a bass and techno artist based in United States of America, tracked on
 
 Samwise (US), Seyer (UK), Darwin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

@@ -1,6 +1,6 @@
 # benben
 
-benben is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Exit Reality, Singapore on Sat, 22 Aug 2026.
+benben is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Exit Reality, Singapore on Sat, 22 Aug 2026.
 
 benben is a techno and house artist tracked on soundcheck, with 14 sets logged across Singapore. Often billed alongside sho&tell, VAIBS and 3MZY. Next up: Exit Reality, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ benben is a techno and house artist tracked on soundcheck, with 14 sets logged a
 
 sho&tell, VAIBS, 3MZY
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benben-sg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benben-sg/)*

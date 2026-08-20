@@ -1,15 +1,15 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "small talk with britty., Dan Bain, and Mister Joshooa" on Thu, 20 Aug 2026.
+Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "small talk with britty., Dan Bain, and Mister Joshooa" on Thu, 20 Aug 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Arlo Parks, britty., Dan Bain and DJ Godfather and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Arlo Parks, Blair French, britty. and Dan Bain and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | small talk with britty., Dan Bain, and Mister Joshooa | Dan Bain, Mister Joshooa, britty. |
-| Fri, 21 Aug 2026 | Blair French / Todd Modes / Medha Achar |  |
+| Fri, 21 Aug 2026 | Blair French / Todd Modes - ALL NIGHT LONG | Blair French, Todd Modes |
 | Sat, 22 Aug 2026 | DJ Nobu - Kyle Geiger - Lincoln Factory | DJ Nobu, Kyle Geiger, LOFILA |
 | Fri, 28 Aug 2026 | GHETTOTECHTOPIA | DJ Godfather, DJ Spinn, Fullbodydurag, Planet KaiA, Sheefy McFly |
 | Fri, 4 Sept 2026 | Helena Hauff | Helena Hauff |
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

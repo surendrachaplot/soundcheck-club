@@ -1,6 +1,6 @@
 # Sinister Dosage
 
-Sinister Dosage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Marble Bar, Detroit on Thu, 29 Oct 2026.
+Sinister Dosage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Marble Bar, Detroit on Thu, 29 Oct 2026.
 
 Sinister Dosage is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside Brent Shay, A K and Amino. Next up: Marble Bar, Detroit on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Sinister Dosage is a drum & bass and jungle artist based in United States of Ame
 
 Brent Shay, A K, Amino
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinisterdosage/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinisterdosage/)*

@@ -1,6 +1,6 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Midwife (US) & Devin Shaffer (US) — Live at the church" on Wed, 11 Nov 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Midwife (US) & Devin Shaffer (US) — Live at the church" on Wed, 11 Nov 2026.
 
 Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Midwife. Browse upcoming dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
@@ -14,4 +14,4 @@ Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 1
 
 Herrfurthplatz 14, 12049 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*

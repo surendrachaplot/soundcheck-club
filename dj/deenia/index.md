@@ -1,6 +1,6 @@
 # Deenia
 
-Deenia is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
+Deenia is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
 
 Deenia is a techno and reggaeton artist based in Mexico, tracked on soundcheck, with 50 sets logged across Mexicocity. Often billed alongside Praqqa, Umvral and Vekan. Next up: Bajo Mundo, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Deenia is a techno and reggaeton artist based in Mexico, tracked on soundcheck, 
 
 Praqqa, Umvral, Vekan
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deenia/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deenia/)*

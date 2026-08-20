@@ -1,6 +1,6 @@
 # DJ Dial-on
 
-DJ Dial-on is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Système, Montreal on Sun, 6 Sept 2026.
+DJ Dial-on is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Système, Montreal on Sun, 6 Sept 2026.
 
 DJ Dial-on is a house and funk / soul artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Aram, DJ Hidi and Sami (4). Next up: Système, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ DJ Dial-on is a house and funk / soul artist tracked on soundcheck, with 13 sets
 
 Aram, DJ Hidi, Sami (4)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdial-on/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdial-on/)*

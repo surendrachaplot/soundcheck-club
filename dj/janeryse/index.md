@@ -1,6 +1,6 @@
 # JANE RYSE
 
-JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 30 Aug 2026.
+JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 JANE RYSE is a house and afro house artist tracked on soundcheck, with 50 sets logged across Antwerp, Basel, Belgrade and Berlin and 10 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: 528 Ibiza, Ibiza on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ JANE RYSE is a house and afro house artist tracked on soundcheck, with 50 sets l
 
 Hyenah, Walter Griot, Ukãi Ndame
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*

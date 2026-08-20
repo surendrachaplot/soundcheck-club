@@ -1,6 +1,6 @@
 # Giale
 
-Giale is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
+Giale is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
 
 Giale is a techno and electro artist tracked on soundcheck, with 43 sets logged across Milan, Naples and Tokyo. Often billed alongside Creamy, Andrewww and Hiroko Hacci. Next up: Ex Macello, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Giale is a techno and electro artist tracked on soundcheck, with 43 sets logged 
 
 Creamy, Andrewww, Hiroko Hacci
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*

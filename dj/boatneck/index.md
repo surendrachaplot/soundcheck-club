@@ -1,14 +1,15 @@
 # Boat Neck
 
-Boat Neck is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+Boat Neck is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
-Boat Neck is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Alex McCracken, Artwork and Lee Cash. Next up: Good Room, Newyorkcity on Fri 28 Aug.
+Boat Neck is an electronic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Alex McCracken, Artwork and LIONESSA. Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Good Room | New York City |
+| Sun, 30 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Boat Neck is an electronic artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Alex McCracken, Artwork, Lee Cash
+Alex McCracken, Artwork, LIONESSA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boatneck/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boatneck/)*

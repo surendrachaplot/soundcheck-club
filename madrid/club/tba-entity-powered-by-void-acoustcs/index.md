@@ -1,6 +1,6 @@
 # TBA - ENTITY powered by VOID ACOUSTCS
 
-TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "TECHSI" on Fri, 18 Sept 2026.
+TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "TECHSI" on Fri, 18 Sept 2026.
 
 TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid listed on sound
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TECHSI |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-entity-powered-by-void-acoustcs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-entity-powered-by-void-acoustcs/)*

@@ -1,6 +1,6 @@
 # Electric Garden
 
-Electric Garden is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "RED LINE: DAY SHIFT — TECHNO, HARD BOUNCE & HARD TRANCE IN DUBLIN" on Sat, 22 Aug 2026.
+Electric Garden is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RED LINE: DAY SHIFT — TECHNO, HARD BOUNCE & HARD TRANCE IN DUBLIN" on Sat, 22 Aug 2026.
 
 Electric Garden is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including ALPER SKR, Dean Sherry, DJ Deece and DJ PIERR and 2 more. Browse upcoming dates, start times and who's playing. 13-14 Liberty Lane, Dublin 8, D08 NF86.
 
@@ -18,4 +18,4 @@ Electric Garden is a music venue in Dublin listed on soundcheck. 5 upcoming nigh
 
 13-14 Liberty Lane, Dublin 8, D08 NF86, Dublin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*

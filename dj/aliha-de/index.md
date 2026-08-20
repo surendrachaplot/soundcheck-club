@@ -1,6 +1,6 @@
 # Aliha
 
-Aliha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Baalsaal, Hamburg on Fri, 28 Aug 2026.
+Aliha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Baalsaal, Hamburg on Fri, 28 Aug 2026.
 
 Aliha is a techno and house artist tracked on soundcheck, with 30 sets logged across Berlin, Budapest, Hamburg and Leipzig. Often billed alongside Temasa, SIX DIMENSIONS and DJ Hellfire. Next up: Baalsaal, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Aliha is a techno and house artist tracked on soundcheck, with 30 sets logged ac
 
 Temasa, SIX DIMENSIONS, DJ Hellfire
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliha-de/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliha-de/)*

@@ -1,6 +1,6 @@
 # DASTY
 
-DASTY is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bolero, Seoul on Fri, 21 Aug 2026.
+DASTY is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bolero, Seoul on Fri, 21 Aug 2026.
 
 DASTY is a club and hip-hop artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside SKiiDA, ANDOW and DOBERMAN. Next up: Bolero, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DASTY is a club and hip-hop artist based in South Korea, tracked on soundcheck, 
 
 SKiiDA, ANDOW, DOBERMAN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasty/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasty/)*

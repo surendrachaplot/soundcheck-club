@@ -1,13 +1,14 @@
 # Edd (1)
 
-Edd (1) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Edd (1) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
 
-Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, with 54 sets logged across Bali, Barcelona, Denver and Ibiza and 9 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, with 55 sets logged across Bali, Barcelona, Denver and Ibiza and 9 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Elsewhere | New York City |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
@@ -28,4 +29,4 @@ Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, 
 
 Andrea Oliva, Nic Fanciulli, Fresh Prince
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*

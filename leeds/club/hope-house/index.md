@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "COSMIC SLOP" on Fri, 28 Aug 2026.
+Hope House is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "COSMIC SLOP" on Fri, 28 Aug 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including BOSSdaddy, Chin, DJ Gilla and Rachel Jazz and 1 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -18,4 +18,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 5 upcoming nights, wi
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

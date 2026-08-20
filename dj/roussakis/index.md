@@ -1,6 +1,6 @@
 # Roussakis
 
-Roussakis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
+Roussakis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
 
 Roussakis is a house and techno artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Max Finney, Anders HP and Anja Pi. Next up: Culture Box, Copenhagen on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Roussakis is a house and techno artist based in Denmark, tracked on soundcheck, 
 
 Max Finney, Anders HP, Anja Pi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roussakis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roussakis/)*

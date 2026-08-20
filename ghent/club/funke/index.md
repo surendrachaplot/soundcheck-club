@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "COORREENTE LABEL NIGHT with Eduardo de la Calle" on Fri, 21 Aug 2026.
+Funke is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "COORREENTE LABEL NIGHT with Eduardo de la Calle" on Fri, 21 Aug 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Eduardo de la Calle and Jorge Flukso. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -14,4 +14,4 @@ Funke is a music venue in Ghent listed on soundcheck. 1 upcoming night, with lin
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

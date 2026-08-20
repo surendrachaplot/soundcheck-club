@@ -1,6 +1,6 @@
 # nilehn
 
-nilehn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+nilehn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
 nilehn is a techno and experimental artist tracked on soundcheck, with 12 sets logged across Leeds. Often billed alongside Ben Zulu, Jake Mehew and NikNak. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ nilehn is a techno and experimental artist tracked on soundcheck, with 12 sets l
 
 Ben Zulu, Jake Mehew, NikNak
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*

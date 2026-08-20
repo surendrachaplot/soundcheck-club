@@ -1,6 +1,6 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+TWIENA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 TWIENA is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Doppelgang, Mary Lake and Fafi Abdel Nour. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ TWIENA is a techno and house artist tracked on soundcheck, with 119 sets logged 
 
 Doppelgang, Mary Lake, Fafi Abdel Nour
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

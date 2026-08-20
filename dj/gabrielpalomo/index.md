@@ -1,6 +1,6 @@
 # Gabriel Palomo
 
-Gabriel Palomo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
+Gabriel Palomo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
 
 Gabriel Palomo is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Chicago and Detroit. Often billed alongside Adam Pecho, Pat Fee and Mark Angel. Next up: TBA - Humboldt Park, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gabriel Palomo is a techno and house artist based in United States of America, t
 
 Adam Pecho, Pat Fee, Mark Angel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielpalomo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielpalomo/)*

@@ -1,6 +1,6 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Airport pres. Felix Kröcher (extended) with Ben Techy" on Fri, 28 Aug 2026.
+Airport Würzburg is a music venue in Nürnberg with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Airport pres. Felix Kröcher (extended) with Ben Techy" on Fri, 28 Aug 2026.
 
 Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 6 upcoming nights, with line-ups including BØĘRY, Cassa Cristano, dasstudach and DJ maddog and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
@@ -19,4 +19,4 @@ Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 6 upcoming 
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

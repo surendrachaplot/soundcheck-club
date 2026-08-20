@@ -1,20 +1,20 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Freeze HiFi, Liverpool on Wed, 19 Aug 2026.
+Mr. V is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at O Beach, Ibiza on Sat, 22 Aug 2026.
 
-Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: Freeze HiFi, Liverpool on Wed 19 Aug.
+Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: O Beach, Ibiza on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Freeze HiFi | Liverpool |
 | Sat, 22 Aug 2026 | O Beach | Ibiza |
 | Fri, 28 Aug 2026 | Cardiff Lounge | San Francisco/Oakland |
 | Sun, 30 Aug 2026 | White Rabbit | San Francisco/Oakland |
 
 ## Recently played
 
+- Freeze HiFi, Liverpool — Wed, 19 Aug 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 14 Aug 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 7 Aug 2026
 - White Rabbit, San Francisco/Oakland — Sun, 26 Jul 2026
@@ -22,10 +22,9 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 - Cardiff Lounge, San Francisco/Oakland — Fri, 17 Jul 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 10 Jul 2026
 - TBA, San Francisco/Oakland — Sat, 27 Jun 2026
-- Cardiff Lounge, San Francisco/Oakland — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 David Harness, Franky Boissy, Hector Romero
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

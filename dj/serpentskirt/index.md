@@ -1,6 +1,6 @@
 # serpentskirt
 
-serpentskirt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+serpentskirt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 serpentskirt is a techno and electro artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin and Newyorkcity. Often billed alongside Subcultures, SWIMMIE and ALI IRL. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ serpentskirt is a techno and electro artist based in United States of America, t
 
 Subcultures, SWIMMIE, ALI IRL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serpentskirt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serpentskirt/)*

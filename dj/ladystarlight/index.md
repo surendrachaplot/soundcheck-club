@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Lady Starlight is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Basel and Berlin and 31 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: Salesforce Park, Sanfrancisco on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 83 sets 
 
 STERAC, David Castellani, MAEDON
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

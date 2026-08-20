@@ -1,8 +1,8 @@
 # Barbara Tucker
 
-Barbara Tucker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Barbara Tucker is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
-Barbara Tucker is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Bucharest, Chicago and Detroit and 12 more. Often billed alongside Natasha Diggs, Bustin' Loose and The Shapeshifters. Next up: Ministry Of Sound, London on Sat 5 Sept.
+Barbara Tucker is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Bucharest, Chicago and Detroit and 12 more. Often billed alongside Bustin' Loose, Natasha Diggs and Sam Karlson. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Barbara Tucker is a house and disco artist based in United States of America, tr
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Ministry Of Sound | London |
 | Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Barbara Tucker is a house and disco artist based in United States of America, tr
 
 ## Shares bills with
 
-Natasha Diggs, Bustin' Loose, The Shapeshifters
+Bustin' Loose, Natasha Diggs, Sam Karlson
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*

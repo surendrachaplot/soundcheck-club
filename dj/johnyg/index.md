@@ -1,6 +1,6 @@
 # Johny G
 
-Johny G is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
+Johny G is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at MODULE, Copenhagen on Sat, 22 Aug 2026.
 
 Johny G is a techno artist tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Adrat, Anna Logic and Elliott Taguchi. Next up: MODULE, Copenhagen on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Johny G is a techno artist tracked on soundcheck, with 3 sets logged across Cope
 
 Adrat, Anna Logic, Elliott Taguchi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnyg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnyg/)*

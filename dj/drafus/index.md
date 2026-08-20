@@ -1,6 +1,6 @@
 # Drafus
 
-Drafus is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Migas, Hong Kong on Sat, 29 Aug 2026.
+Drafus is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Migas, Hong Kong on Sat, 29 Aug 2026.
 
 Drafus is a drum & bass and jungle artist tracked on soundcheck, with 3 sets logged across Hongkong. Often billed alongside Magnetic Soul, Mengzy and 1908. Next up: Migas, Hongkong on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Drafus is a drum & bass and jungle artist tracked on soundcheck, with 3 sets log
 
 Magnetic Soul, Mengzy, 1908
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drafus/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drafus/)*

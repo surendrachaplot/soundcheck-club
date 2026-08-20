@@ -1,14 +1,15 @@
 # Finona Rider
 
-Finona Rider is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Finona Rider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Finona Rider is a house and techno artist tracked on soundcheck, with 92 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside Anton Jonathan, Ilja Franz and Erhardt Schuster. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Finona Rider is a house and techno artist tracked on soundcheck, with 93 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside Anton Jonathan, Ilja Franz and Erhardt Schuster. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Sat, 19 Sept 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Finona Rider is a house and techno artist tracked on soundcheck, with 92 sets lo
 
 Anton Jonathan, Ilja Franz, Erhardt Schuster
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*

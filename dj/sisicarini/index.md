@@ -1,6 +1,6 @@
 # Sisi Carini
 
-Sisi Carini is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
+Sisi Carini is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
 
 Sisi Carini is an afro house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Hoani Teano, Bart Blankman and Caelestis. Next up: Het Veronica Schip, Amsterdam on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Sisi Carini is an afro house and techno artist tracked on soundcheck, with 7 set
 
 Hoani Teano, Bart Blankman, Caelestis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisicarini/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisicarini/)*

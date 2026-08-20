@@ -1,6 +1,6 @@
 # Maarten Vos
 
-Maarten Vos is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Han River Ferry, Seoul on Sat, 29 Aug 2026.
+Maarten Vos is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Han River Ferry, Seoul on Sat, 29 Aug 2026.
 
 Maarten Vos is an ambient and experimental artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Copenhagen and Seoul. Often billed alongside sooom, Joon Kwak and Deadbeat. Next up: TBA - Han River Ferry, Seoul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Maarten Vos is an ambient and experimental artist based in Netherlands, tracked 
 
 sooom, Joon Kwak, Deadbeat
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenvos/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenvos/)*

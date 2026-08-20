@@ -1,6 +1,6 @@
 # Housequake
 
-Housequake is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Housequake is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 Housequake is a house and tech house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Nashville, Rotterdam and Thehague. Often billed alongside Erick E, ROOG and Benny Rodrigues. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Housequake is a house and tech house artist based in Netherlands, tracked on sou
 
 Erick E, ROOG, Benny Rodrigues
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*

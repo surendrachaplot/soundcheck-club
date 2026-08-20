@@ -1,6 +1,6 @@
 # LockEight
 
-LockEight is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
+LockEight is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
 
 LockEight is a house and minimal artist based in Canada, tracked on soundcheck, with 12 sets logged across Newyorkcity and Toronto. Often billed alongside Barbosa, ANDI WALL and Ammo Avenue. Next up: The Bentway, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ LockEight is a house and minimal artist based in Canada, tracked on soundcheck, 
 
 Barbosa, ANDI WALL, Ammo Avenue
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockeight/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockeight/)*

@@ -1,6 +1,6 @@
 # Flørist
 
-Flørist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
+Flørist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
 
 Flørist is a house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Hamburg and London and 7 more. Often billed alongside Nathan Melja, C3D-E and Estimulo. Next up: TBA - Secret Location, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Flørist is a house and techno artist tracked on soundcheck, with 37 sets logged
 
 Nathan Melja, C3D-E, Estimulo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*

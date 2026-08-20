@@ -1,6 +1,6 @@
 # Physix
 
-Physix is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Physix is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Physix is a house and electro artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh and Glasgow. Often billed alongside Sundaymann, Domenic Cappello and Lewis Lowe. Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Physix is a house and electro artist based in United Kingdom, tracked on soundch
 
 Sundaymann, Domenic Cappello, Lewis Lowe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/physix/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/physix/)*

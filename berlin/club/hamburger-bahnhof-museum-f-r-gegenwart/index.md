@@ -1,6 +1,6 @@
 # Hamburger Bahnhof - Museum für Gegenwart
 
-Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Berlin Beats: Regis live feat. Liam Andrews / Sandwell District" on Thu, 20 Aug 2026.
+Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Berlin Beats: Regis live feat. Liam Andrews / Sandwell District" on Thu, 20 Aug 2026.
 
 Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including BASHKKA, Regis and Sandwell District. Browse upcoming dates, start times and who's playing. Invalidenstraße 50-51, 10557 Berlin.
 
@@ -15,4 +15,4 @@ Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on s
 
 Invalidenstraße 50-51, 10557 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*

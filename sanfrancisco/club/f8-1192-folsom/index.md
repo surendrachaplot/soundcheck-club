@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Strut Sf 5 Year Anniversary feat DJ Three" on Wed, 19 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Wayward: Axis Minty" on Thu, 20 Aug 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -8,7 +8,6 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Strut Sf 5 Year Anniversary feat DJ Three | DJ Three, Jeno |
 | Thu, 20 Aug 2026 | Wayward: Axis Minty | Bobby Lyte, Kohbain, OGAN, Yaz |
 | Thu, 20 Aug 2026 | Causmic Creative presents BOGL |  |
 | Fri, 21 Aug 2026 | Matt Jereza's Birthday Takeover at F8 | Camillionaire, dj kelleyjane, ggpete |
@@ -17,10 +16,11 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcomin
 | Wed, 26 Aug 2026 | JustJovani'S TECHNO BIRTHDAY  | JustJovani |
 | Wed, 26 Aug 2026 | Strut SF and F8 present DJ Mes | DJ Mes, Matthew Brian, Sharon Buck |
 | Sat, 29 Aug 2026 | Hazardous Nemesis PRESENTS: HARDCORE HEAVEN FT. Feardotcom, andy pls, Sophiaaaahjkl;8901, etc | @djlobottomy, DJ Saratonin, Feardotcom, Rivs, Sophiaaaahjkl;8901 |
+| Thu, 3 Sept 2026 | HIDRA and F8 present Music Is the Answer | HIDRA, SARA AFSHAR |
 | Fri, 4 Sept 2026 | HYPERDRIVE with KAYA! |  |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

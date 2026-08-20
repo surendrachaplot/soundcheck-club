@@ -1,6 +1,6 @@
 # Szew
 
-Szew is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Szew is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
 Szew is a house and electro artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin and Leipzig. Often billed alongside Flor Coto, Rafael and Chuki Juri. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Szew is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 Flor Coto, Rafael, Chuki Juri
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*

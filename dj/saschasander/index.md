@@ -1,6 +1,6 @@
 # Sascha Sander
 
-Sascha Sander is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Sascha Sander is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 Sascha Sander is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Alex New, Balagan Sisters and Benji DF. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Sascha Sander is a techno and house artist tracked on soundcheck, with 3 sets lo
 
 Alex New, Balagan Sisters, Benji DF
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschasander/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschasander/)*

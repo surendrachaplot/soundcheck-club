@@ -1,14 +1,15 @@
 # bojvck
 
-bojvck is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bolero, Seoul on Thu, 20 Aug 2026.
+bojvck is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bolero, Seoul on Thu, 20 Aug 2026.
 
-bojvck is a club and bass artist tracked on soundcheck, with 96 sets logged across Hongkong, London, Paris and Seoul and 2 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: Bolero, Seoul on Thu 20 Aug.
+bojvck is a club and bass artist tracked on soundcheck, with 97 sets logged across Hongkong, London, Paris and Seoul and 2 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: Bolero, Seoul on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Bolero | Seoul |
+| Fri, 21 Aug 2026 | Modeci | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ bojvck is a club and bass artist tracked on soundcheck, with 96 sets logged acro
 
 DJ Co.kr, DJ POOL, SINAHILL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*

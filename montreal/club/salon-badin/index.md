@@ -1,6 +1,6 @@
 # Salon Badin
 
-Salon Badin is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Salon Badin: Max Miaja" on Thu, 20 Aug 2026.
+Salon Badin is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Salon Badin: Max Miaja" on Thu, 20 Aug 2026.
 
 Salon Badin is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including Andie, Dusty FingerZ, Ledisko and Max Miaja and 2 more. Browse upcoming dates, start times and who's playing. 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9.
 
@@ -19,4 +19,4 @@ Salon Badin is a music venue in Montreal listed on soundcheck. 6 upcoming nights
 
 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9, Montreal
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*

@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Nico Moreno is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside DYEN, I Hate Models and Trym. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 190 sets lo
 
 DYEN, I Hate Models, Trym
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

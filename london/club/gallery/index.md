@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Paradox Nexus: Emma 2000 - Thursdays at Gallery" on Thu, 20 Aug 2026.
+Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Paradox Nexus: Emma 2000 - Thursdays at Gallery" on Thu, 20 Aug 2026.
 
 Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including ANMLxPRTY, Ashibah, By Dusk and D1 x Samir (DVS) and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, wit
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

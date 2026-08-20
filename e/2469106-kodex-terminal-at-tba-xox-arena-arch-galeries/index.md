@@ -1,6 +1,6 @@
 # KODEX: TERMINAL at TBA - XOX Arena, ARCH GALERIES
 
-KODEX: TERMINAL at TBA - XOX Arena, ARCH GALERIES on Sat 22 Aug, Kualalumpur. 3 acts on the bill: Dimitri K, Dual Damage and Yoshiko. Hardcore and Noise. Preview the line-up and save it on soundcheck.
+KODEX: TERMINAL at TBA - XOX Arena, ARCH GALERIES on Sat 22 Aug, Kualalumpur. 4 acts on the bill: Dimitri K, Dual Damage, TCHUNO and Yoshiko. Hardcore and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ KODEX: TERMINAL at TBA - XOX Arena, ARCH GALERIES on Sat 22 Aug, Kualalumpur. 3 
 
 - Dimitri K
 - Dual Damage
+- TCHUNO
 - Yoshiko
 
 *Source: [soundcheck](https://soundcheck.club/e/2469106-kodex-terminal-at-tba-xox-arena-arch-galeries/)*

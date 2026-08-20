@@ -1,11 +1,16 @@
 # JAUDA season opening at Kaņepes Kultūras Centrs
 
-JAUDA season opening at Kaņepes Kultūras Centrs on Fri 25 Sept, Riga. Trance and Electronica. Preview the line-up and save it on soundcheck.
+JAUDA season opening at Kaņepes Kultūras Centrs on Fri 25 Sept, Riga. 2 acts on the bill: First kiss and Hannah Holland. Trance and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 25 Sept 2026 |
 | Venue | Kaņepes Kultūras Centrs |
 | City | Riga |
+
+## Line-up
+
+- First kiss
+- Hannah Holland
 
 *Source: [soundcheck](https://soundcheck.club/e/2494801-jauda-season-opening-at-ka-epes-kult-ras-centrs/)*

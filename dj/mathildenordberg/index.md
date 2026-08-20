@@ -1,6 +1,6 @@
 # Mathilde Nordberg
 
-Mathilde Nordberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SAGE, Berlin on Sat, 29 Aug 2026.
+Mathilde Nordberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SAGE, Berlin on Sat, 29 Aug 2026.
 
 Mathilde Nordberg is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin and Copenhagen. Often billed alongside Tim Andresen, Rauschhaus and ADAPT (DK). Next up: SAGE, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mathilde Nordberg is a techno and house artist tracked on soundcheck, with 9 set
 
 Tim Andresen, Rauschhaus, ADAPT (DK)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathildenordberg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathildenordberg/)*

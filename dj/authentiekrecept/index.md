@@ -1,6 +1,6 @@
 # Authentiek Recept
 
-Authentiek Recept is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 21 Aug 2026.
+Authentiek Recept is a House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 21 Aug 2026.
 
 Authentiek Recept is a house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside PERSIANLOVE!. Next up: Het Sieraad, Amsterdam on Fri 21 Aug.
 
@@ -15,4 +15,4 @@ Authentiek Recept is a house artist based in Netherlands, tracked on soundcheck,
 
 PERSIANLOVE!
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authentiekrecept/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authentiekrecept/)*

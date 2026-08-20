@@ -1,6 +1,6 @@
 # Paul Anthonee
 
-Paul Anthonee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Paul Anthonee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 Paul Anthonee is a techno and house artist tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside 6RAJ, AMARE and Andi de Luxe. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Paul Anthonee is a techno and house artist tracked on soundcheck, with 3 sets lo
 
 6RAJ, AMARE, Andi de Luxe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*

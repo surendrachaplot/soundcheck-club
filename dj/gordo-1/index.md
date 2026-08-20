@@ -1,6 +1,6 @@
 # Gordo (1)
 
-Gordo (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 22 Aug 2026.
+Gordo (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 22 Aug 2026.
 
 Gordo (1) is a house and tech house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Austin and Ibiza and 6 more. Often billed alongside Blackchild, Denis Sulta and FISHER. Next up: Bolivar Beach Bar, Athens on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gordo (1) is a house and tech house artist based in United States of America, tr
 
 Blackchild, Denis Sulta, FISHER
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo-1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo-1/)*

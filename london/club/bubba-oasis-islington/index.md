@@ -1,6 +1,6 @@
 # Bubba Oasis, Islington
 
-Bubba Oasis, Islington is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "In The Canopy Rooftop Party" on Sat, 22 Aug 2026.
+Bubba Oasis, Islington is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "In The Canopy Rooftop Party" on Sat, 22 Aug 2026.
 
 Bubba Oasis, Islington is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Teray. Browse upcoming dates, start times and who's playing. 57-58 Upper St, London, N1 0NY.
 
@@ -23,4 +23,4 @@ Bubba Oasis, Islington is a music venue in London listed on soundcheck. 13 upcom
 
 57-58 Upper St, London, N1 0NY, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*

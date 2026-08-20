@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Sukkerspinn - release gig (support: Stian Skaaden) // Himmel" on Thu, 20 Aug 2026.
+Blå is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sukkerspinn - release gig (support: Stian Skaaden) // Himmel" on Thu, 20 Aug 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including Egyptian Lover, Glayden, Los Thuthanaka and Olefonken and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -21,4 +21,4 @@ Blå is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

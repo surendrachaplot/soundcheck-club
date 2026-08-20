@@ -1,6 +1,6 @@
 # Drinkhall Venue
 
-Drinkhall Venue is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "OKUJOU BEAT - Chikara's Last Show in Berlin" on Wed, 19 Aug 2026.
+Drinkhall Venue is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "OKUJOU BEAT - Chikara's Last Show in Berlin" on Wed, 19 Aug 2026.
 
 Drinkhall Venue is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including AGY3NA, Izumi Yamamoto and Rakans. Browse upcoming dates, start times and who's playing. Oranienstraße 36 10999 Berlin.
 
@@ -17,4 +17,4 @@ Drinkhall Venue is a music venue in Berlin listed on soundcheck. 4 upcoming nigh
 
 Oranienstraße 36 10999 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*

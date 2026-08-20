@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Bambule (House & Techno, 80s, 90s, Pop, Hip Hop)" on Sat, 22 Aug 2026.
+Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bambule (House & Techno, 80s, 90s, Pop, Hip Hop)" on Sat, 22 Aug 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Corios, Daniel Duese, MARIA FM and Dydaa Forne and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

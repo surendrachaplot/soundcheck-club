@@ -1,6 +1,6 @@
 # Ininin
 
-Ininin is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at vurt., Seoul on Sat, 22 Aug 2026.
+Ininin is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at vurt., Seoul on Sat, 22 Aug 2026.
 
 Ininin is a techno and ebm artist based in South Korea, tracked on soundcheck, with 30 sets logged across Seoul and Tokyo. Often billed alongside SIJIN, Bumho and 501A. Next up: vurt., Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ininin is a techno and ebm artist based in South Korea, tracked on soundcheck, w
 
 SIJIN, Bumho, 501A
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ininin/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ininin/)*

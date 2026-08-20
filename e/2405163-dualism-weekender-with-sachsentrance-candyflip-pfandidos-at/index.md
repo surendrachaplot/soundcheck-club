@@ -1,6 +1,6 @@
 # DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank
 
-DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on Fri 28 Aug, Berlin. 43 acts on the bill: 4NOUK, alemiko, AMO and Balkhausen and 39 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on Fri 28 Aug, Berlin. 44 acts on the bill: 4NOUK, alemiko, AMO and Balkhausen and 40 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -50,6 +50,7 @@ DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on 
 - RaverPik
 - Rocko Garoni
 - Sabu!
+- SASAXX
 - Sire Jonah
 - The Jakob Sister
 - Zaphy

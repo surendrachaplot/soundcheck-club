@@ -1,6 +1,6 @@
 # Shoshanaaaaaaa
 
-Shoshanaaaaaaa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kilomètre25, Paris on Fri, 18 Sept 2026.
+Shoshanaaaaaaa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kilomètre25, Paris on Fri, 18 Sept 2026.
 
 Shoshanaaaaaaa is a trance and techno artist tracked on soundcheck, with 3 sets logged across Berlin and Paris. Often billed alongside .JKM, 25EMEHEURE and ANDATA. Next up: Kilomètre25, Paris on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Shoshanaaaaaaa is a trance and techno artist tracked on soundcheck, with 3 sets 
 
 .JKM, 25EMEHEURE, ANDATA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoshanaaaaaaa/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoshanaaaaaaa/)*

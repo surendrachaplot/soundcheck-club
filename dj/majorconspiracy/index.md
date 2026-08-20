@@ -1,6 +1,6 @@
 # Major Conspiracy
 
-Major Conspiracy is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Major Conspiracy is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Major Conspiracy is a hardcore and gabber artist tracked on soundcheck, with 19 sets logged across Amsterdam, Brussels, Cologne and Frankfurt and 6 more. Often billed alongside Dimitri K, Pinotello and Partyraiser. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Major Conspiracy is a hardcore and gabber artist tracked on soundcheck, with 19 
 
 Dimitri K, Pinotello, Partyraiser
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majorconspiracy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majorconspiracy/)*

@@ -1,6 +1,6 @@
 # Sulk Hogan (2)
 
-Sulk Hogan (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - outdoors , Toronto on Fri, 21 Aug 2026.
+Sulk Hogan (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - outdoors , Toronto on Fri, 21 Aug 2026.
 
 Sulk Hogan (2) is a techno and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside In Depth Subject, Kara Kara and MSDELICIOUS. Next up: TBA - outdoors , Toronto on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Sulk Hogan (2) is a techno and house artist based in Canada, tracked on soundche
 
 In Depth Subject, Kara Kara, MSDELICIOUS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*

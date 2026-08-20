@@ -1,8 +1,8 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Catalina Classic Cruises, Los Angeles on Sun, 6 Sept 2026.
+Mark Farina is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Catalina Classic Cruises, Los Angeles on Sun, 6 Sept 2026.
 
-Mark Farina is a house and deep house artist tracked on soundcheck, with 119 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Catalina Classic Cruises, Losangeles on Sun 6 Sept.
+Mark Farina is a house and deep house artist tracked on soundcheck, with 120 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Catalina Classic Cruises, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 119 set
 | Fri, 11 Sept 2026 | The Pearl | Vancouver |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Sat, 31 Oct 2026 | ZeyZey | Miami |
+| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 119 set
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

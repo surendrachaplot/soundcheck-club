@@ -1,6 +1,6 @@
 # AZDRA
 
-AZDRA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
+AZDRA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sensorium, Berlin on Fri, 21 Aug 2026.
 
 AZDRA is a techno and tech house artist based in Poland, tracked on soundcheck, with 13 sets logged across Berlin and Warsaw. Often billed alongside harder danny, party poison and NEKTØ (BY). Next up: Sensorium, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ AZDRA is a techno and tech house artist based in Poland, tracked on soundcheck, 
 
 harder danny, party poison, NEKTØ (BY)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azdra/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azdra/)*

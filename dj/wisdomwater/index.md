@@ -1,6 +1,6 @@
 # Wisdom Water
 
-Wisdom Water is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 21 Aug 2026.
+Wisdom Water is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 21 Aug 2026.
 
 Wisdom Water is a house and minimal artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Anton Kuznetsov, Oskar Schnetter and shiritaki. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Wisdom Water is a house and minimal artist tracked on soundcheck, with 8 sets lo
 
 Anton Kuznetsov, Oskar Schnetter, shiritaki
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wisdomwater/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wisdomwater/)*

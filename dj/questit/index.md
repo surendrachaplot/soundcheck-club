@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
+Quest (IT) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
 
 Quest (IT) is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Scânteia +, Bucharest on Fri 21 Aug.
 
@@ -33,4 +33,4 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 169 sets log
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

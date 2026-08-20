@@ -1,6 +1,6 @@
 # KRISTINA PI
 
-KRISTINA PI is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
+KRISTINA PI is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
 
 KRISTINA PI is an electro and house artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona, Marseille and Paris. Often billed alongside Alejo mata, Alen Aladin and DIROS. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ KRISTINA PI is an electro and house artist based in Spain, tracked on soundcheck
 
 Alejo mata, Alen Aladin, DIROS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinapi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinapi/)*

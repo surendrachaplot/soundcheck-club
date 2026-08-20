@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Christian AB & Daniel Lien" on Fri, 21 Aug 2026.
+Trädgården is a music venue in Stockholm with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Christian AB & Daniel Lien" on Fri, 21 Aug 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nights, with line-ups including Andree Bohlin, Anthony Linell, Christian AB and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -21,4 +21,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nigh
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

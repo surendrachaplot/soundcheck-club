@@ -1,6 +1,6 @@
 # Empty DJ
 
-Empty DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Raffy's, Melbourne on Sun, 6 Sept 2026.
+Empty DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Raffy's, Melbourne on Sun, 6 Sept 2026.
 
 Empty DJ is a house and tech house artist tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Emma Renée and Harry Who. Next up: Raffy's, Melbourne on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ Empty DJ is a house and tech house artist tracked on soundcheck, with 2 sets log
 
 Emma Renée, Harry Who
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emptydj/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emptydj/)*

@@ -1,6 +1,6 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Cova Santa, Ibiza on Fri, 21 Aug 2026.
+Emanuel Satie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cova Santa, Ibiza on Fri, 21 Aug 2026.
 
 Emanuel Satie is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Cova Santa, Ibiza on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Emanuel Satie is a house and techno artist tracked on soundcheck, with 93 sets l
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

@@ -1,14 +1,15 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Night Tales Loft, London on Sat, 3 Oct 2026.
+John Tejada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Night Tales Loft, London on Sat, 3 Oct 2026.
 
-John Tejada is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Denver, London and Losangeles and 5 more. Often billed alongside Danny Goliger, Jacqueline and KiNK. Next up: Night Tales Loft, London on Sat 3 Oct.
+John Tejada is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Denver, London and Losangeles and 5 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: Night Tales Loft, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Night Tales Loft | London |
+| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ John Tejada is a house and techno artist tracked on soundcheck, with 29 sets log
 
 ## Shares bills with
 
-Danny Goliger, Jacqueline, KiNK
+DJ Sneak, Danny Goliger, Dj Kerry
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

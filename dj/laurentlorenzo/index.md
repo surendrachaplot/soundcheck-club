@@ -1,6 +1,6 @@
 # Laurent Lorenzo
 
-Laurent Lorenzo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
+Laurent Lorenzo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
 
 Laurent Lorenzo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Viénce, NABER and CBR (Berlin). Next up: Coco Boule, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Laurent Lorenzo is a house and tech house artist based in Netherlands, tracked o
 
 Viénce, NABER, CBR (Berlin)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentlorenzo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentlorenzo/)*

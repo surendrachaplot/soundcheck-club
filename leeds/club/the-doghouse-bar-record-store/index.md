@@ -1,6 +1,6 @@
 # The Doghouse bar & Record Store
 
-The Doghouse bar & Record Store is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "OnTime presents: Bday Bash w Roya Brehl, Bay b2b Mia, Bod Min + Residents" on Sat, 22 Aug 2026.
+The Doghouse bar & Record Store is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "OnTime presents: Bday Bash w Roya Brehl, Bay b2b Mia, Bod Min + Residents" on Sat, 22 Aug 2026.
 
 The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Bod Min and Roya Brehl. Browse upcoming dates, start times and who's playing. 90 Kirkgate, Leeds LS2 7DJ, UK.
 
@@ -14,4 +14,4 @@ The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 
 
 90 Kirkgate, Leeds LS2 7DJ, UK, Leeds
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*

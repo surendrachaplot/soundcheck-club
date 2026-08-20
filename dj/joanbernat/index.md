@@ -1,6 +1,6 @@
 # Joan Bernat
 
-Joan Bernat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Berlin on Fri, 28 Aug 2026.
+Joan Bernat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Berlin on Fri, 28 Aug 2026.
 
 Joan Bernat is a house and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Agua con gas, DJ Aficionado and El Fulminador. Next up: TBA, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Joan Bernat is a house and techno artist tracked on soundcheck, with 3 sets logg
 
 Agua con gas, DJ Aficionado, El Fulminador
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joanbernat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joanbernat/)*

@@ -1,6 +1,6 @@
 # TACSY
 
-TACSY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
+TACSY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 22 Aug 2026.
 
 TACSY is a house and techno artist tracked on soundcheck, with 6 sets logged across Osaka. Often billed alongside EYEMAY, Koichi (Koichiro Okada) and Mercy.. Next up: Teranoma Tidepool, Osaka on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ TACSY is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 EYEMAY, Koichi (Koichiro Okada), Mercy.
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tacsy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tacsy/)*

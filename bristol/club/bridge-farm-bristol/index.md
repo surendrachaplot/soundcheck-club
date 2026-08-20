@@ -1,6 +1,6 @@
 # Bridge Farm Bristol
 
-Bridge Farm Bristol is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Night Cap - Day Party at the Farm" on Sat, 26 Sept 2026.
+Bridge Farm Bristol is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Night Cap - Day Party at the Farm" on Sat, 26 Sept 2026.
 
 Bridge Farm Bristol is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bridge Farm Bristol is a music venue in Bristol listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Night Cap - Day Party at the Farm |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bridge-farm-bristol/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bridge-farm-bristol/)*

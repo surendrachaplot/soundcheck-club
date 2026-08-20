@@ -1,6 +1,6 @@
 # DJ Pantha
 
-DJ Pantha is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - The Brick Yard, Sheffield on Sat, 22 Aug 2026.
+DJ Pantha is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - The Brick Yard, Sheffield on Sat, 22 Aug 2026.
 
 DJ Pantha is a bass and drum & bass artist tracked on soundcheck, with 24 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Bassboy, Burgaboy and Chad Harrison. Next up: TBA - The Brick Yard, Sheffield on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Pantha is a bass and drum & bass artist tracked on soundcheck, with 24 sets l
 
 Bassboy, Burgaboy, Chad Harrison
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpantha/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpantha/)*

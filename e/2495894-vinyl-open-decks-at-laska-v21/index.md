@@ -1,6 +1,6 @@
 # Vinyl Open Decks at Laska V21
 
-Vinyl Open Decks at Laska V21 on Sun 23 Aug, Riga. Funk / Soul and Acid. Preview the line-up and save it on soundcheck.
+Vinyl Open Decks at Laska V21 on Sun 23 Aug, Riga. Acid and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

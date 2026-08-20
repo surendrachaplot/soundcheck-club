@@ -1,6 +1,6 @@
 # DoubtingThomas
 
-DoubtingThomas is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 21 Aug 2026.
+DoubtingThomas is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 21 Aug 2026.
 
 DoubtingThomas is a minimal techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Frankfurt and Lisbon and 8 more. Often billed alongside AOKI takamasa, Kohei and Rem Kina. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DoubtingThomas is a minimal techno and house artist based in Germany, tracked on
 
 AOKI takamasa, Kohei, Rem Kina
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubtingthomas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubtingthomas/)*

@@ -1,6 +1,6 @@
 # Haunted Dancehall x Mass presents: Positive Harmony 07 at TBA - Wellington Studios
 
-Haunted Dancehall x Mass presents: Positive Harmony 07 at TBA - Wellington Studios on Sat 19 Sept, Manchester. 2 acts on the bill: Nikol and Opul. Preview the line-up and save it on soundcheck.
+Haunted Dancehall x Mass presents: Positive Harmony 07 at TBA - Wellington Studios on Sat 19 Sept, Manchester. 3 acts on the bill: fig (4), Nikol and Opul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Haunted Dancehall x Mass presents: Positive Harmony 07 at TBA - Wellington Studi
 
 ## Line-up
 
+- fig (4)
 - Nikol
 - Opul
 

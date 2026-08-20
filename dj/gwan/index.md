@@ -1,6 +1,6 @@
 # gwän
 
-gwän is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
+gwän is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
 
 gwän is a techno and house artist tracked on soundcheck, with 75 sets logged across Athens, Basel, Berlin and Dusseldorf and 3 more. Often billed alongside Comethisfar, Uväll and VINVAR. Next up: Flux, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ gwän is a techno and house artist tracked on soundcheck, with 75 sets logged ac
 
 Comethisfar, Uväll, VINVAR
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*

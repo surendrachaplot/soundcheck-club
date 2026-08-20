@@ -1,6 +1,6 @@
 # Anop
 
-Anop is a Trance and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
+Anop is a Trance and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
 
 Anop is a trance and club artist tracked on soundcheck, with 44 sets logged across Edinburgh, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: Honey Street Studio, Manchester on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Anop is a trance and club artist tracked on soundcheck, with 44 sets logged acro
 
 Princess Elf Bar, ASHTYLR, Akamwave
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*

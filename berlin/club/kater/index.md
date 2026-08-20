@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!)" on Fri, 21 Aug 2026.
+Kater is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!)" on Fri, 21 Aug 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, A.D.H.S. and Adri Alibi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Kater is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 | Fri, 4 Sept 2026 | Kater x Zapped & Anxiety Therapy | Annina, DANNSEN, Franco Strato, Javier Anxiety, Jonaku (DE), Mauro Caracho, Musumeci |
 | Sat, 5 Sept 2026 | Katernacht with Reflex Blue, Frinda di Lanco, Telephones + more | Alex New, Benji DF, Daniel Dreier, Eloïß, Frinda di Lanco, John Loveless, Madd Rod, Martin Underwood, Multifun, Nicole., Reflex Blue, Sascha Sander, Telephones, Vicky Brabeck |
 | Fri, 11 Sept 2026 | FOREVER 25 curated by Franca & Mimi Love | Aera, Anja Schneider, Aron Friedman, Britta Arnold, Casimir von Oettingen, Chris Schwarzwälder, Danielle Nicole, Dilby, Dombrance, Electronic Elephant, Erhardt Schuster, Franca, Ida Daugaard, Iorie, JUSTICE (DE), Joyce Muniz, Lemonella, Linus Duewer, Mathias Kaden, Mimi Love, Morta Mor, Pauli Pocket, Playlove, RSS Disco, Roni Amitai, Sascha Cawa, Shimon (3), Steve Challier, TARS, Vornelinks |
-| Fri, 18 Sept 2026 | Praerie Festival Reboot at Kater | Martin Ka, Maurice Mino, Sin:port |
+| Fri, 18 Sept 2026 | Praerie Festival Reboot | A.D.H.S., Avocado, Dave Dinger, Katzengold, Kos:mo, Krawalle und Liebe, Martin Ka, Maurice Mino, Sin:port, Susi&Paula, TraumaMia |
 | Sat, 19 Sept 2026 | Kater x Riotvan & Muting The Noise | ARCYDARO, Dominic Pohlmann, Menqui, Panthera Krause, Peter Invasion, Red Axes, Rena Volvo, Shubostar, Syrtaki |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

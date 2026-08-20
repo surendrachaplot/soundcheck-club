@@ -1,6 +1,6 @@
 # Thaïs (FR)
 
-Thaïs (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Gare / Le Gore, Paris on Thu, 20 Aug 2026.
+Thaïs (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Gare / Le Gore, Paris on Thu, 20 Aug 2026.
 
 Thaïs (FR) is a techno and house artist tracked on soundcheck, with 34 sets logged across Bangkok, Brussels, Dusseldorf and Lisbon and 7 more. Often billed alongside Andy Pi, Beatrice M. and Blanche. Next up: La Gare / Le Gore, Paris on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Thaïs (FR) is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Andy Pi, Beatrice M., Blanche
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*

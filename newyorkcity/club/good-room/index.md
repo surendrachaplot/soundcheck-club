@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Honey Trap & Accessory Records: Titonton Duvante (live), Rose Kourts, Amelia Holt + more" on Thu, 20 Aug 2026.
+Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Honey Trap & Accessory Records: Titonton Duvante (live), Rose Kourts, Amelia Holt + more" on Thu, 20 Aug 2026.
 
 Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 1morning, A lana, Alex McCracken and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -17,10 +17,10 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 | Sat, 5 Sept 2026 | Fango, Tim Sweeney, gabby cocco (all night) | Fango, Tim Sweeney, gabby cocco |
 | Sun, 6 Sept 2026 | Gloria Danger | Budino, Gee Dee, Liad Krispin, Mike Servito, ThoughtKnot |
 | Fri, 11 Sept 2026 | Justin Strauss (all night), Rissa Garcia, Ruez | Justin Strauss, Rissa Garcia, Ruez |
-| Fri, 18 Sept 2026 | Eli Escobar (all night) | Eli Escobar |
+| Fri, 18 Sept 2026 | Eli Escobar (all night), Eternal Love (all night) | Eli Escobar, Eternal Love |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

@@ -1,8 +1,8 @@
 # Junior Buzz
 
-Junior Buzz is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+Junior Buzz is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
-Junior Buzz is a jungle and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London. Often billed alongside Rhi Spect, Hughesee and Louise Plus One. Next up: Club Cheek, London on Sun 30 Aug.
+Junior Buzz is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London. Often billed alongside Rhi Spect, Hughesee and Louise Plus One. Next up: Club Cheek, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Junior Buzz is a jungle and house artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Club Cheek | London |
 | Sun, 27 Sept 2026 | Avalon Cafe Bermondsey | London |
+| Sat, 10 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Junior Buzz is a jungle and house artist based in United Kingdom, tracked on sou
 
 Rhi Spect, Hughesee, Louise Plus One
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*

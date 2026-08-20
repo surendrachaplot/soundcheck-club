@@ -1,6 +1,6 @@
 # Radius
 
-Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DARC Sport with ACRAZE" on Sat, 22 Aug 2026.
+Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DARC Sport with ACRAZE" on Sat, 22 Aug 2026.
 
 Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including Afrojack, AMAYAH, Ben Böhmer and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, wit
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

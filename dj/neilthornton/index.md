@@ -1,8 +1,8 @@
 # Neil Thornton
 
-Neil Thornton is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Elmhurst, London on Sun, 30 Aug 2026.
+Neil Thornton is a Funk / Soul and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Elmhurst, London on Sun, 30 Aug 2026.
 
-Neil Thornton is a funk / soul and disco artist tracked on soundcheck, with 112 sets logged across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: The Elmhurst, London on Sun 30 Aug.
+Neil Thornton is a funk / soul and disco artist tracked on soundcheck, with 113 sets logged across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: The Elmhurst, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neil Thornton is a funk / soul and disco artist tracked on soundcheck, with 112 
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | The Elmhurst | London |
 | Fri, 4 Sept 2026 | The Elmhurst | London |
+| Sat, 5 Sept 2026 | The Elmhurst | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Neil Thornton is a funk / soul and disco artist tracked on soundcheck, with 112 
 
 Matt Young, Sean Innit, Ray Juss
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*

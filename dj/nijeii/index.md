@@ -1,6 +1,6 @@
 # NIJEII
 
-NIJEII is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+NIJEII is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 NIJEII is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity and Seoul. Often billed alongside WADDLE, duco and y2aura. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ NIJEII is a techno and ghetto tech artist based in United States of America, tra
 
 WADDLE, duco, y2aura
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*

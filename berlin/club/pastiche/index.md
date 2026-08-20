@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Rabih Beaini - Hybrid Set" on Fri, 21 Aug 2026.
+Pastiche is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rabih Beaini - Hybrid Set" on Fri, 21 Aug 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including COLA REN, JS, Perila and Rabih Beaini and 1 more. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -18,4 +18,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wit
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

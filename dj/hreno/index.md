@@ -1,6 +1,6 @@
 # Hreno
 
-Hreno is a Electronica and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Collect LX Factory, Lisbon on Fri, 21 Aug 2026.
+Hreno is a Electronica and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Collect LX Factory, Lisbon on Fri, 21 Aug 2026.
 
 Hreno is an electronica and disco artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Lisbon and Tokyo. Often billed alongside Mike Shannon, Deadbeat and Tom Trago. Next up: Collect LX Factory, Lisbon on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Hreno is an electronica and disco artist based in Germany, tracked on soundcheck
 
 Mike Shannon, Deadbeat, Tom Trago
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*

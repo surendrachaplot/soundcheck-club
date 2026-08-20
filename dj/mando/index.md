@@ -1,6 +1,6 @@
 # Mando
 
-Mando is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 22 Aug 2026.
+Mando is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 22 Aug 2026.
 
 Mando is a techno and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Leeds and London and 2 more. Often billed alongside WASP, Foolishman and Gen Yamada. Next up: Circus Tokyo, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mando is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 WASP, Foolishman, Gen Yamada
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mando/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mando/)*

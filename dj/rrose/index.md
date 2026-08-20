@@ -1,8 +1,8 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Rrose is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
-Rrose is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Wata Igarashi and Polygonia. Next up: The Glove That Fits, London on Sat 22 Aug.
+Rrose is a techno and experimental artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Wata Igarashi and Polygonia. Next up: The Glove That Fits, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 137 sets l
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Wed, 30 Sept 2026 | Konzerthaus Berlin | Berlin |
+| Sat, 3 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
 | Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
@@ -33,4 +34,4 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 137 sets l
 
 DJ Nobu, Wata Igarashi, Polygonia
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

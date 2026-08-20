@@ -1,6 +1,6 @@
 # Joya Astou
 
-Joya Astou is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Joya Astou is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Joya Astou is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Prance, Delano Legito and Mees Javois. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Joya Astou is a techno and minimal techno artist based in Netherlands, tracked o
 
 Prance, Delano Legito, Mees Javois
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*

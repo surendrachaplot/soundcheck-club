@@ -1,6 +1,6 @@
 # Pbox Stnd
 
-Pbox Stnd is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "PBOXSTND meets EPICK" on Sun, 23 Aug 2026.
+Pbox Stnd is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "PBOXSTND meets EPICK" on Sun, 23 Aug 2026.
 
 Pbox Stnd is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including CCC (US), KATIMI AI, KZA and SKNHDZ. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Pbox Stnd is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, wit
 | Sun, 23 Aug 2026 | PBOXSTND meets EPICK | CCC (US) |
 | Sat, 29 Aug 2026 | PBOX STND meets FDTD | KATIMI AI, KZA, SKNHDZ |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*

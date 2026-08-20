@@ -1,11 +1,15 @@
 # Sunset Music Sessions at Terraza Dos Equis
 
-Sunset Music Sessions at Terraza Dos Equis on Sun 23 Aug, Mexicocity. House. Preview the line-up and save it on soundcheck.
+Sunset Music Sessions at Terraza Dos Equis on Sun 23 Aug, Mexicocity. 1 act on the bill: Bones. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 23 Aug 2026 |
 | Venue | Terraza Dos Equis |
 | City | Mexico City |
+
+## Line-up
+
+- Bones
 
 *Source: [soundcheck](https://soundcheck.club/e/2464684-sunset-music-sessions-at-terraza-dos-equis/)*

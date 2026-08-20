@@ -1,6 +1,6 @@
-# Ultima 2026 / Alessandro Cortini - Heiða Mobeck / Nati Infiniti at Rockefeller Music Hall
+# Ultima 2026 / Alessandro Cortini · Heiða Mobeck / Nati Infiniti at Rockefeller Music Hall
 
-Ultima 2026 / Alessandro Cortini - Heiða Mobeck / Nati Infiniti at Rockefeller Music Hall on Wed 16 Sept, Oslo. Electro and Jazz. Preview the line-up and save it on soundcheck.
+Ultima 2026 / Alessandro Cortini · Heiða Mobeck / Nati Infiniti at Rockefeller Music Hall on Wed 16 Sept, Oslo. Electro and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

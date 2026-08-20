@@ -1,6 +1,6 @@
 # MP LOVE
 
-MP LOVE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Skyport Marina, New York City on Sat, 29 Aug 2026.
+MP LOVE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Skyport Marina, New York City on Sat, 29 Aug 2026.
 
 MP LOVE is a house and afro house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Bruce Wayne (US), ASTER (DJ) and Chriscendo. Next up: Skyport Marina, Newyorkcity on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ MP LOVE is a house and afro house artist based in United States of America, trac
 
 Bruce Wayne (US), ASTER (DJ), Chriscendo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mplove/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mplove/)*

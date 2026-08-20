@@ -1,6 +1,6 @@
 # AEKO
 
-AEKO is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Cologne on Sat, 12 Sept 2026.
+AEKO is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Cologne on Sat, 12 Sept 2026.
 
 AEKO is a techno and ebm artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Dusseldorf and Hamburg. Often billed alongside Kyohara, Scepticism and Deep Mind Direction. Next up: TBA, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AEKO is a techno and ebm artist based in Germany, tracked on soundcheck, with 26
 
 Kyohara, Scepticism, Deep Mind Direction
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aeko/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aeko/)*

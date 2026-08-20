@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "MRAK Season Opening with Massimiliano Pagliara" on Fri, 4 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "MRAK Season Opening with Massimiliano Pagliara" on Fri, 4 Sept 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Ali Guney, Carbon Based Lifeforms, cassandrah and Commissar  Lag and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -17,4 +17,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

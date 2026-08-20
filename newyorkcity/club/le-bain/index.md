@@ -1,14 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DANCE DANCE DANCE" on Wed, 19 Aug 2026.
+Le Bain is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Susanne Bartsch Wants You ON TOP" on Thu, 20 Aug 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Devoye, DJ Moma, Duneska and Francois K and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Devoye, DJ Moma, Duneska and Francois K and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | DANCE DANCE DANCE | DJ Moma, Uche |
 | Thu, 20 Aug 2026 | Susanne Bartsch Wants You ON TOP | Robyn DaBank, Vyper |
 | Thu, 20 Aug 2026 | Sunset with Fulano Librizzi |  |
 | Fri, 21 Aug 2026 | Myd X Le Bain | Myd |
@@ -18,9 +17,10 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights
 | Sun, 23 Aug 2026 | WORLD OF ECHOES feat. François K & Justin Strauss | Francois K, Justin Strauss |
 | Wed, 26 Aug 2026 | DANCE DANCE DANCE | DJ Moma, Uche |
 | Thu, 27 Aug 2026 | Susanne Bartsch Wants You ON TOP | Miss Parker, planetperris |
+| Sat, 29 Aug 2026 | Softgel Sunset | Duneska |
 
 ## Address
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

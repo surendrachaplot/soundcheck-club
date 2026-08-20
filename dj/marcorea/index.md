@@ -1,6 +1,6 @@
 # Marco Rea
 
-Marco Rea is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at NEO CLUB ROMA, Rome on Fri, 21 Aug 2026.
+Marco Rea is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at NEO CLUB ROMA, Rome on Fri, 21 Aug 2026.
 
 Marco Rea is a club and house artist based in Italy, tracked on soundcheck, with 24 sets logged across Rome. Often billed alongside Achille Lombardi, Max Beat and Flavio Rago. Next up: NEO CLUB ROMA, Rome on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Marco Rea is a club and house artist based in Italy, tracked on soundcheck, with
 
 Achille Lombardi, Max Beat, Flavio Rago
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcorea/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcorea/)*

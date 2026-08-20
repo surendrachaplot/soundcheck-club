@@ -1,8 +1,8 @@
 # Louie G
 
-Louie G is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 10 mins from hackney wick station, London on Sat, 22 Aug 2026.
+Louie G is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 10 mins from hackney wick station, London on Sat, 22 Aug 2026.
 
-Louie G is an electro and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bucharest and Glasgow and 9 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: TBA - 10 mins from hackney wick station, London on Sat 22 Aug.
+Louie G is an electro and techno artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, Bucharest and Glasgow and 9 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: TBA - 10 mins from hackney wick station, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Louie G is an electro and techno artist tracked on soundcheck, with 79 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - 10 mins from hackney wick station | London |
 | Sat, 12 Sept 2026 | Kapsule | Liverpool |
+| Fri, 30 Oct 2026 | 1520 | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Louie G is an electro and techno artist tracked on soundcheck, with 79 sets logg
 
 Ryan Ingleby, Ethan McNamara, DMC.
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*

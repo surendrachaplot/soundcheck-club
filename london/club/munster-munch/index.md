@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Subsonic Events" on Sat, 22 Aug 2026.
+Munster Munch is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Subsonic Events" on Sat, 22 Aug 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Exotico. Browse upcoming dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -14,4 +14,4 @@ Munster Munch is a music venue in London listed on soundcheck. 1 upcoming night,
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

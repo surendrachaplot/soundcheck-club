@@ -1,6 +1,6 @@
 # PERSTEPHANII
 
-PERSTEPHANII is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ka'teen, Los Angeles on Fri, 21 Aug 2026.
+PERSTEPHANII is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ka'teen, Los Angeles on Fri, 21 Aug 2026.
 
 PERSTEPHANII is an afro house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles and Milan. Often billed alongside Shanto, Araminta and DENYC. Next up: Ka'teen, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ PERSTEPHANII is an afro house and deep house artist based in United States of Am
 
 Shanto, Araminta, DENYC
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perstephanii/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perstephanii/)*

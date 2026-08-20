@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 21 Aug 2026.
+Bailey Ibbs is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 21 Aug 2026.
 
 Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Vittoria Wharf Studio, London on Fri 21 Aug.
 
@@ -34,4 +34,4 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets lo
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

@@ -1,6 +1,6 @@
 # Giddy Club - free entry until 7pm at Ritter Butzke
 
-Giddy Club - free entry until 7pm at Ritter Butzke on Fri 18 Sept, Berlin. 6 acts on the bill: Aimé You, Danito San, Mababy and MC-K and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Giddy Club - free entry until 7pm at Ritter Butzke on Fri 18 Sept, Berlin. 7 acts on the bill: Aimé You, Danito San, Mababy and Mareike Bautz and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Giddy Club - free entry until 7pm at Ritter Butzke on Fri 18 Sept, Berlin. 6 act
 - Aimé You
 - Danito San
 - Mababy
+- Mareike Bautz
 - MC-K
 - Natta
 - Valeby

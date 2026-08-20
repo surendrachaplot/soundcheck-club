@@ -1,6 +1,6 @@
 # Dj Hidrataccioni
 
-Dj Hidrataccioni is a Latin Bass and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
+Dj Hidrataccioni is a Latin Bass and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Giri, Berlin on Thu, 20 Aug 2026.
 
 Dj Hidrataccioni is a latin bass and neo perreo artist based in Mexico, tracked on soundcheck, with 44 sets logged across Antwerp, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ2D2, Dirti Larita and L'Miranda. Next up: Giri, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Dj Hidrataccioni is a latin bass and neo perreo artist based in Mexico, tracked 
 
 DJ2D2, Dirti Larita, L'Miranda
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhidrataccioni/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhidrataccioni/)*

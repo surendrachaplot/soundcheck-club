@@ -1,6 +1,6 @@
 # Maddest
 
-Maddest is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+Maddest is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
 Maddest is a techno artist based in Russia, tracked on soundcheck, with 8 sets logged across Berlin, Milan and Vienna. Often billed alongside Ragliaz, NOVZE and Bluest. Next up: Maaya, Berlin on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Maddest is a techno artist based in Russia, tracked on soundcheck, with 8 sets l
 
 Ragliaz, NOVZE, Bluest
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddest/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddest/)*

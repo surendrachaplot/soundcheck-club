@@ -1,6 +1,6 @@
 # R1D1
 
-R1D1 is a Minimal Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret Location - Infos on our socials , Berlin on Sat, 19 Sept 2026.
+R1D1 is a Minimal Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location - Infos on our socials , Berlin on Sat, 19 Sept 2026.
 
 R1D1 is a minimal techno and experimental artist based in France, tracked on soundcheck, with 7 sets logged across Berlin and Paris. Often billed alongside STO_DJ, Mad Rey and Maruwa. Next up: TBA - Secret Location - Infos on our socials , Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ R1D1 is a minimal techno and experimental artist based in France, tracked on sou
 
 STO_DJ, Mad Rey, Maruwa
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1d1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1d1/)*

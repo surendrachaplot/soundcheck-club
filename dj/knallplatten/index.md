@@ -1,6 +1,6 @@
 # Knallplatten
 
-Knallplatten is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sauna Club, Munich on Thu, 20 Aug 2026.
+Knallplatten is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sauna Club, Munich on Thu, 20 Aug 2026.
 
 Knallplatten is a trance and techno artist tracked on soundcheck, with 31 sets logged across Berlin and Munich. Often billed alongside Linz (Grell), Amøn and Dudelburschen. Next up: Sauna Club, Munich on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Knallplatten is a trance and techno artist tracked on soundcheck, with 31 sets l
 
 Linz (Grell), Amøn, Dudelburschen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*

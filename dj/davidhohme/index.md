@@ -1,6 +1,6 @@
 # David Hohme
 
-David Hohme is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Monkey Loft, Seattle on Fri, 21 Aug 2026.
+David Hohme is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Monkey Loft, Seattle on Fri, 21 Aug 2026.
 
 David Hohme is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Austin, Buenosaires, Losangeles and Miami and 6 more. Often billed alongside 2melo, Alkemiss Erika and Amiti. Next up: The Monkey Loft, Seattle on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ David Hohme is a deep house and progressive house artist based in United States 
 
 2melo, Alkemiss Erika, Amiti
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhohme/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhohme/)*

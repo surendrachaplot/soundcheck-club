@@ -1,6 +1,6 @@
 # Nikita T
 
-Nikita T is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Nikita T is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Nikita T is a bass and techno artist based in Lithuania, tracked on soundcheck, with 19 sets logged across Berlin and Madrid. Often billed alongside Retter (DE), Rafush and Triqi. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nikita T is a bass and techno artist based in Lithuania, tracked on soundcheck, 
 
 Retter (DE), Rafush, Triqi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitat/)*

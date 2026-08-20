@@ -1,6 +1,6 @@
 # Ellice
 
-Ellice is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Goldener Reiter, Munich on Sat, 29 Aug 2026.
+Ellice is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Goldener Reiter, Munich on Sat, 29 Aug 2026.
 
 Ellice is a house and tech house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Munich. Often billed alongside Subthiel, Chet Rubbs and David Hornung. Next up: Goldener Reiter, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ellice is a house and tech house artist based in Germany, tracked on soundcheck,
 
 Subthiel, Chet Rubbs, David Hornung
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellice/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellice/)*

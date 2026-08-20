@@ -1,6 +1,6 @@
 # Luo Gouverneur
 
-Luo Gouverneur is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
+Luo Gouverneur is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
 
 Luo Gouverneur is a house and electro artist tracked on soundcheck, with 10 sets logged across Barcelona, Nantes and Paris. Often billed alongside 3h12, Unsho and Adam Pits. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Luo Gouverneur is a house and electro artist tracked on soundcheck, with 10 sets
 
 3h12, Unsho, Adam Pits
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luogouverneur/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luogouverneur/)*

@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
 Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: clubasia, Tokyo on Fri 21 Aug.
 
@@ -11,7 +11,7 @@ Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logg
 | Fri, 21 Aug 2026 | clubasia | Tokyo |
 | Sat, 22 Aug 2026 | Faust | Seoul |
 | Sat, 5 Sept 2026 | TBA - Secret Warehouse | Paris |
-| Fri, 18 Sept 2026 | Bike Jesus | Prague |
+| Fri, 18 Sept 2026 | Fuchs2 | Prague |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logg
 
 Somniac One, Ansome, DAX J
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

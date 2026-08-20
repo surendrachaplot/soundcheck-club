@@ -1,6 +1,6 @@
 # BILL.E
 
-BILL.E is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bolero, Seoul on Sat, 22 Aug 2026.
+BILL.E is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bolero, Seoul on Sat, 22 Aug 2026.
 
 BILL.E is a club and hip-hop artist tracked on soundcheck, with 40 sets logged across Bangkok, London and Seoul. Often billed alongside Daul, KINGMCK and SKiiDA. Next up: Bolero, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ BILL.E is a club and hip-hop artist tracked on soundcheck, with 40 sets logged a
 
 Daul, KINGMCK, SKiiDA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*

@@ -1,6 +1,6 @@
 # S4CS -saqess + S3R4PH Community Space- at Shinjuku Duusraa
 
-S4CS -saqess + S3R4PH Community Space- at Shinjuku Duusraa on Mon 21 Sept, Tokyo. 3 acts on the bill: Acrocanthosaurus, saqess and 反核機動隊. Bass and Dub. Preview the line-up and save it on soundcheck.
+S4CS -saqess + S3R4PH Community Space- at Shinjuku Duusraa on Mon 21 Sept, Tokyo. 4 acts on the bill: Acrocanthosaurus, ALPHA (4), saqess and 反核機動隊. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ S4CS -saqess + S3R4PH Community Space- at Shinjuku Duusraa on Mon 21 Sept, Tokyo
 ## Line-up
 
 - Acrocanthosaurus
+- ALPHA (4)
 - saqess
 - 反核機動隊
 

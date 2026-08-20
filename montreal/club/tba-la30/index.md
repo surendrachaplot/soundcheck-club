@@ -1,6 +1,6 @@
 # TBA - La30
 
-TBA - La30 is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "WaveLink" on Tue, 25 Aug 2026.
+TBA - La30 is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "WaveLink" on Tue, 25 Aug 2026.
 
 TBA - La30 is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Hellgrammite. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - La30 is a music venue in Montreal listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | WaveLink | Hellgrammite |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-la30/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-la30/)*

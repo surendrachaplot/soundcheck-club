@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Levan // Vlad" on Fri, 21 Aug 2026.
+Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Aniri Chan // Vlad Phangan" on Fri, 21 Aug 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -8,7 +8,7 @@ Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Levan // Vlad | Levan, VLAD PHANGAN |
+| Fri, 21 Aug 2026 | Aniri Chan // Vlad Phangan | Aniri Chan, Levan, VLAD PHANGAN |
 | Sat, 22 Aug 2026 | Notwelcome | Notwelcome |
 | Sat, 22 Aug 2026 | BASS SLAUGHTER x TRT: SUBLIMINAL | DENOVA, Leprosy, MBark, MVKO, Notwelcome, XSYNC19, oshigakill |
 | Sat, 22 Aug 2026 | BASS SLAUGHTER session 5 (SUBLIMINAL) | B2BBASS, MBark, MVKO, XSYNC19, excels, oshigakill |
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, wi
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

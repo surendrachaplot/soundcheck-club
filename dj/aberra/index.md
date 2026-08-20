@@ -1,6 +1,6 @@
 # Aberra
 
-Aberra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Astoria, Turin on Fri, 13 Nov 2026.
+Aberra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Astoria, Turin on Fri, 13 Nov 2026.
 
 Aberra is a techno and trance artist tracked on soundcheck, with 21 sets logged across Turin. Often billed alongside Rytm, Teeo and Syca. Next up: Astoria, Turin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Aberra is a techno and trance artist tracked on soundcheck, with 21 sets logged 
 
 Rytm, Teeo, Syca
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*

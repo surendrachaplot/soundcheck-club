@@ -1,8 +1,8 @@
 # ABAD MANNERS
 
-ABAD MANNERS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+ABAD MANNERS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
-ABAD MANNERS is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Madrid. Often billed alongside BIXBITA, Benleh and CARGO. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
+ABAD MANNERS is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Madrid. Often billed alongside Anna Ullrich, BIXBITA and Benleh. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ ABAD MANNERS is a techno and trance artist tracked on soundcheck, with 3 sets lo
 
 ## Shares bills with
 
-BIXBITA, Benleh, CARGO
+Anna Ullrich, BIXBITA, Benleh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abadmanners/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abadmanners/)*

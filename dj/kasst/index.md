@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+KAS:ST is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
 
 KAS:ST is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ KAS:ST is a techno and house artist tracked on soundcheck, with 90 sets logged a
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

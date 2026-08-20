@@ -1,6 +1,6 @@
 # The Reason Y
 
-The Reason Y is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+The Reason Y is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 The Reason Y is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Frankfurt, Hamburg and Munich and 2 more. Often billed alongside Camea, Coco and Eliza Feliz. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ The Reason Y is a techno and house artist based in Germany, tracked on soundchec
 
 Camea, Coco, Eliza Feliz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thereasony/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thereasony/)*

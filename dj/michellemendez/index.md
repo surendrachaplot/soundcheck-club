@@ -1,6 +1,6 @@
 # Michelle Mendez
 
-Michelle Mendez is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
+Michelle Mendez is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
 
 Michelle Mendez is a techno and industrial artist based in United States of America, tracked on soundcheck, with 21 sets logged across Sandiego. Often billed alongside JAQ.XS, ARP8 and Byrd US. Next up: EQ San Diego, Sandiego on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Michelle Mendez is a techno and industrial artist based in United States of Amer
 
 JAQ.XS, ARP8, Byrd US
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemendez/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemendez/)*

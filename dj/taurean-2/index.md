@@ -1,6 +1,6 @@
 # TAUREAN (2)
 
-TAUREAN (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+TAUREAN (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
 TAUREAN (2) is a techno and house artist based in Ireland, tracked on soundcheck, with 48 sets logged across Berlin, Cork and Dublin. Often billed alongside JenTen, The Camel and Ayham. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TAUREAN (2) is a techno and house artist based in Ireland, tracked on soundcheck
 
 JenTen, The Camel, Ayham
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean-2/)*

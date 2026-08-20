@@ -1,6 +1,6 @@
 # Nhii
 
-Nhii is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 21 Aug 2026.
+Nhii is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 21 Aug 2026.
 
 Nhii is a deep house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Brussels and Chicago and 17 more. Often billed alongside Saqib, Sarkis Mikael and CIOZ. Next up: Do Not Sit On The Furniture, Miami on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Nhii is a deep house and house artist tracked on soundcheck, with 59 sets logged
 
 Saqib, Sarkis Mikael, CIOZ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*

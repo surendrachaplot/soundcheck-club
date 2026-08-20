@@ -1,6 +1,6 @@
 # Dexter Lux
 
-Dexter Lux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lux Fragil, Lisbon on Fri, 21 Aug 2026.
+Dexter Lux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lux Fragil, Lisbon on Fri, 21 Aug 2026.
 
 Dexter Lux is a house and techno artist tracked on soundcheck, with 75 sets logged across Lisbon, Porto and Stockholm. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Lux Fragil, Lisbon on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dexter Lux is a house and techno artist tracked on soundcheck, with 75 sets logg
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexterlux/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexterlux/)*

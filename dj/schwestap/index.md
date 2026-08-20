@@ -1,8 +1,8 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Schwesta P is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | nachbar | Amsterdam |
+| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Sat, 7 Nov 2026 | Neue Welle | Leipzig |
 
@@ -29,4 +30,4 @@ Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck
 
 EliaHaze, Anton Jonathan, Carluschka
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

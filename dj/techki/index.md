@@ -1,6 +1,6 @@
 # techki
 
-techki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
+techki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
 
 techki is a garage and bass artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sandiego and Sanfrancisco. Often billed alongside Nukumori, SUPPA and ADMRL. Next up: Break Point, Sandiego on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ techki is a garage and bass artist based in United States of America, tracked on
 
 Nukumori, SUPPA, ADMRL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techki/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techki/)*

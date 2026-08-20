@@ -1,15 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 79 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "go.play mit Sarah" on Tue, 18 Aug 2026.
+Minimal Bar is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "electronic.thursday mit CEEE, OTTO FORDA & " on Thu, 20 Aug 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beshy and Beta Basti and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including Andi de Luxe, Andre Salmon, Beshy and Beta Basti and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | go.play mit Sarah |  |
-| Wed, 19 Aug 2026 | mittendrin mit Fenoma | Fenoma |
 | Thu, 20 Aug 2026 | electronic.thursday mit CEEE, OTTO FORDA &  | CEEE, Kijara |
 | Fri, 21 Aug 2026 | luca.and.friends. mit Luca ( Minimal Bar) & Freunde |  |
 | Sat, 22 Aug 2026 | Circular Music with Oliver Raumklang and Nazaruk | Oliver Raumklang |
@@ -18,9 +16,11 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming nights,
 | Tue, 25 Aug 2026 | go.play mit vernimoon | vernimoon |
 | Wed, 26 Aug 2026 | mittendrin mit Jim Dz | Fenoma, Jim Dz |
 | Thu, 27 Aug 2026 | electronic.thursday mit Man-L | Man-L |
+| Fri, 28 Aug 2026 | DAZA & freunde | Andre Salmon, Culo Sucio, DAZA, Daniel Jaramillo |
+| Sat, 29 Aug 2026 | Equilibrisme x Dub Explorations | Man-L, Quadrant Soundscape |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

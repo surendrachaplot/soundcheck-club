@@ -1,8 +1,8 @@
 # Kasper Marott
 
-Kasper Marott is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Le Sucre, Lyon on Sun, 23 Aug 2026.
+Kasper Marott is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Le Sucre, Lyon on Sun, 23 Aug 2026.
 
-Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 153 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Le Sucre, Lyon on Sun 23 Aug.
+Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 154 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Le Sucre, Lyon on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Le Sucre | Lyon |
 | Fri, 28 Aug 2026 | DOCK B | Paris |
+| Fri, 11 Sept 2026 | The Villa | Oslo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 
 Audrey Danza, Téa, Martin Gilleshøj
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*

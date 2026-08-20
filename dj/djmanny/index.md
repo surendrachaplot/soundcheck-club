@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
+DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Portland on Fri, 21 Aug 2026.
 
 DJ Manny is a footwork and techno artist tracked on soundcheck, with 86 sets logged across Austin, Boston, Chicago and Detroit and 6 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: TBA, Portland on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DJ Manny is a footwork and techno artist tracked on soundcheck, with 86 sets log
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

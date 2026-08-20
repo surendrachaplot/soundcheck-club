@@ -1,14 +1,15 @@
 # Uncle Dugs
 
-Uncle Dugs is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Uncle Dugs is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
-Uncle Dugs is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: Eutopia Whs, London on Sat 5 Sept.
+Uncle Dugs is a jungle and drum & bass artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: Eutopia Whs, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
+| Fri, 16 Oct 2026 | The Fox and Firkin | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Uncle Dugs is a drum & bass and jungle artist tracked on soundcheck, with 61 set
 
 The Ragga Twins, Nicky Blackmarket, DJ Brockie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*

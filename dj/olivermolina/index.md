@@ -1,14 +1,15 @@
 # Oliver Molina
 
-Oliver Molina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Carats cafe, Brighton on Sat, 5 Sept 2026.
+Oliver Molina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Carats cafe, Brighton on Sat, 5 Sept 2026.
 
-Oliver Molina is a house and techno artist tracked on soundcheck, with 20 sets logged across Brighton and London. Often billed alongside Rubén Baiz, Leo Christopher and Obester. Next up: TBA - Carats cafe, Brighton on Sat 5 Sept.
+Oliver Molina is a house and techno artist tracked on soundcheck, with 21 sets logged across Brighton and London. Often billed alongside Rubén Baiz, Leo Christopher and Obester. Next up: TBA - Carats cafe, Brighton on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Carats cafe | Brighton |
+| Sat, 12 Sept 2026 | Fortune of War | Brighton |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Oliver Molina is a house and techno artist tracked on soundcheck, with 20 sets l
 
 Rubén Baiz, Leo Christopher, Obester
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermolina/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermolina/)*

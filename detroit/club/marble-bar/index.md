@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Gezellig feat Ted Krisko (of Ataxia) b2b Mister Joshooa" on Fri, 21 Aug 2026.
+Marble Bar is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Gezellig feat Ted Krisko (of Ataxia) b2b Mister Joshooa" on Fri, 21 Aug 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including AK (US), Andrés, Ataxia and CAM GIRL and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -22,4 +22,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

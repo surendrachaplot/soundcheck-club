@@ -1,6 +1,6 @@
 # NoahShea
 
-NoahShea is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eavesdrop, New York City on Sun, 23 Aug 2026.
+NoahShea is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eavesdrop, New York City on Sun, 23 Aug 2026.
 
 NoahShea is an electronic artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside 2Tall, DANILO BRACA and Nog. Next up: Eavesdrop, Newyorkcity on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ NoahShea is an electronic artist tracked on soundcheck, with 7 sets logged acros
 
 2Tall, DANILO BRACA, Nog
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshea/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshea/)*

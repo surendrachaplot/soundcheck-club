@@ -1,6 +1,6 @@
 # Beignet
 
-Beignet is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Karmen Camina, Strasbourg on Thu, 20 Aug 2026.
+Beignet is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Karmen Camina, Strasbourg on Thu, 20 Aug 2026.
 
 Beignet is a minimal and tech house artist tracked on soundcheck, with 12 sets logged across Strasbourg. Often billed alongside Doudeh, Joey 808 and 1client. Next up: Karmen Camina, Strasbourg on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Beignet is a minimal and tech house artist tracked on soundcheck, with 12 sets l
 
 Doudeh, Joey 808, 1client
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beignet/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beignet/)*

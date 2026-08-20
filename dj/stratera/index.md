@@ -1,6 +1,6 @@
 # Stratera
 
-Stratera is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
+Stratera is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Exil, Vienna on Sat, 29 Aug 2026.
 
 Stratera is a techno and drum & bass artist based in Austria, tracked on soundcheck, with 28 sets logged across Budapest, Hamburg and Vienna. Often billed alongside TEKKNISH, Jubin Amiri and Albin Brezlan. Next up: Club Exil, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Stratera is a techno and drum & bass artist based in Austria, tracked on soundch
 
 TEKKNISH, Jubin Amiri, Albin Brezlan
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*

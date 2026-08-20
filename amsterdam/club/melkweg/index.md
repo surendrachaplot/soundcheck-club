@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]" on Fri, 21 Aug 2026.
+Melkweg is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]" on Fri, 21 Aug 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, Alleviate and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

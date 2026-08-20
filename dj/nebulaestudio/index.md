@@ -1,6 +1,6 @@
 # Nebula Estudio
 
-Nebula Estudio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Artlab, Buenos Aires on Sat, 29 Aug 2026.
+Nebula Estudio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Artlab, Buenos Aires on Sat, 29 Aug 2026.
 
 Nebula Estudio is a house and deep house artist tracked on soundcheck, with 5 sets logged across Buenosaires. Often billed alongside Franie Smith, Furz and Loïc. Next up: Artlab, Buenosaires on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Nebula Estudio is a house and deep house artist tracked on soundcheck, with 5 se
 
 Franie Smith, Furz, Loïc
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*

@@ -1,6 +1,6 @@
 # Tonchius
 
-Tonchius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
+Tonchius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
 
 Tonchius is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Oslo and Tbilisi. Often billed alongside Ronya, Rub800 and Alex Jangle. Next up: The Villa, Oslo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Tonchius is a house and techno artist tracked on soundcheck, with 23 sets logged
 
 Ronya, Rub800, Alex Jangle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonchius/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonchius/)*

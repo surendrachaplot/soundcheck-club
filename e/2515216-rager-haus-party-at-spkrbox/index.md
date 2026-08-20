@@ -1,6 +1,6 @@
 # Rager Haus Party at Spkrbox
 
-Rager Haus Party at Spkrbox on Thu 27 Aug, Detroit. 2 acts on the bill: 888lambchop and Sheefy McFly. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Rager Haus Party at Spkrbox on Thu 27 Aug, Detroit. 3 acts on the bill: 888lambchop, Bale Defoe and Sheefy McFly. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Rager Haus Party at Spkrbox on Thu 27 Aug, Detroit. 2 acts on the bill: 888lambc
 ## Line-up
 
 - 888lambchop
+- Bale Defoe
 - Sheefy McFly
 
 *Source: [soundcheck](https://soundcheck.club/e/2515216-rager-haus-party-at-spkrbox/)*

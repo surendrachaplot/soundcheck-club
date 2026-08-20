@@ -1,13 +1,14 @@
 # NordOst
 
-NordOst is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at clubasia, Tokyo on Thu, 27 Aug 2026.
+NordOst is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Swipe 池尻大橋, Tokyo on Fri, 21 Aug 2026.
 
-NordOst is a hardcore and techno artist based in Japan, tracked on soundcheck, with 110 sets logged across Seoul and Tokyo. Often billed alongside illequal, migeru and arow. Next up: clubasia, Tokyo on Thu 27 Aug.
+NordOst is a hardcore and techno artist based in Japan, tracked on soundcheck, with 111 sets logged across Seoul and Tokyo. Often billed alongside illequal, migeru and arow. Next up: Swipe 池尻大橋, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Swipe 池尻大橋 | Tokyo |
 | Thu, 27 Aug 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ NordOst is a hardcore and techno artist based in Japan, tracked on soundcheck, w
 
 illequal, migeru, arow
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*

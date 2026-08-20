@@ -1,6 +1,6 @@
 # Chris Jackson
 
-Chris Jackson is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sidney & Matilda, Sheffield on Sat, 22 Aug 2026.
+Chris Jackson is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sidney & Matilda, Sheffield on Sat, 22 Aug 2026.
 
 Chris Jackson is a techno and electronica artist tracked on soundcheck, with 12 sets logged across Sheffield. Often billed alongside Jacksa, Paniolo and Wanton Beast. Next up: Sidney & Matilda, Sheffield on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Chris Jackson is a techno and electronica artist tracked on soundcheck, with 12 
 
 Jacksa, Paniolo, Wanton Beast
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjackson/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjackson/)*

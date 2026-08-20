@@ -1,6 +1,6 @@
 # Sebastian Gabriel
 
-Sebastian Gabriel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+Sebastian Gabriel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 Sebastian Gabriel is a techno and house artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Dancel Culture, Nick Ta Mere and manque. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Sebastian Gabriel is a techno and house artist tracked on soundcheck, with 7 set
 
 Dancel Culture, Nick Ta Mere, manque
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangabriel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangabriel/)*

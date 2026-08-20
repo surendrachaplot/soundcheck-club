@@ -1,6 +1,6 @@
 # SPRAYBOX
 
-SPRAYBOX is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
+SPRAYBOX is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
 
 SPRAYBOX is a bass and garage artist based in Japan, tracked on soundcheck, with 39 sets logged across Manchester, Osaka, Sydney and Tokyo. Often billed alongside Genick, Ogasawara and Jacotanu. Next up: Daikanyama ORD., Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SPRAYBOX is a bass and garage artist based in Japan, tracked on soundcheck, with
 
 Genick, Ogasawara, Jacotanu
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*

@@ -1,6 +1,6 @@
 # Slay
 
-Slay is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "HARDPOINT PRESENTS: Big K - Kenai + more" on Sat, 19 Sept 2026.
+Slay is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "HARDPOINT PRESENTS: Big K - Kenai + more" on Sat, 19 Sept 2026.
 
 Slay is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 24 Glassford Street, Glasgow, G1 1UL.
 
@@ -15,4 +15,4 @@ Slay is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse
 
 24 Glassford Street, Glasgow, G1 1UL, Glasgow
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*

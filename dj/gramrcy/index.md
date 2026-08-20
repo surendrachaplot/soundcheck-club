@@ -1,6 +1,6 @@
 # Gramrcy
 
-Gramrcy is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
+Gramrcy is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
 
 Gramrcy is a house and acid artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Edinburgh and London and 1 more. Often billed alongside MLE (UK), Daisy Moon and John Loveless. Next up: The Carpet Shop, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gramrcy is a house and acid artist based in United Kingdom, tracked on soundchec
 
 MLE (UK), Daisy Moon, John Loveless
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*

@@ -1,6 +1,6 @@
 # Roberto Corrales
 
-Roberto Corrales is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Macarena Club, Barcelona on Wed, 19 Aug 2026.
+Roberto Corrales is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Macarena Club, Barcelona on Wed, 19 Aug 2026.
 
 Roberto Corrales is a techno and house artist based in Costa Rica, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside Bassten, 1OO1O and AWSM. Next up: Macarena Club, Barcelona on Wed 19 Aug.
 
@@ -12,6 +12,7 @@ Roberto Corrales is a techno and house artist based in Costa Rica, tracked on so
 
 ## Recently played
 
+- Macarena Club, Barcelona — Wed, 19 Aug 2026
 - Prisma, Berlin — Thu, 6 Aug 2026
 - Birgit, Berlin — Fri, 17 Jul 2026
 - Motolinia 33, Mexico City — Thu, 22 May 2025
@@ -21,4 +22,4 @@ Roberto Corrales is a techno and house artist based in Costa Rica, tracked on so
 
 Bassten, 1OO1O, AWSM
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertocorrales/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertocorrales/)*

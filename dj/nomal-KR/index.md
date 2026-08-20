@@ -1,13 +1,14 @@
 # Nomal
 
-Nomal is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at teller, Seoul on Sun, 30 Aug 2026.
+Nomal is a Minimal Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Nué Seoul, Seoul on Fri, 21 Aug 2026.
 
-Nomal is a minimal techno and tech house artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside Mihak, Jongho and Kibum. Next up: teller, Seoul on Sun 30 Aug.
+Nomal is a minimal techno and tech house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Seoul. Often billed alongside Mihak, Jongho and Kibum. Next up: Nué Seoul, Seoul on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Nué Seoul | Seoul |
 | Sun, 30 Aug 2026 | teller | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nomal is a minimal techno and tech house artist based in South Korea, tracked on
 
 Mihak, Jongho, Kibum
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*

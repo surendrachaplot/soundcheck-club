@@ -1,6 +1,6 @@
 # YOYOHEI
 
-YOYOHEI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Red Bar, Tokyo on Thu, 20 Aug 2026.
+YOYOHEI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Red Bar, Tokyo on Thu, 20 Aug 2026.
 
 YOYOHEI is a house and techno artist tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside Chihoshi, kRs (2) and TAT2K. Next up: Red Bar, Tokyo on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ YOYOHEI is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 Chihoshi, kRs (2), TAT2K
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyohei/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyohei/)*

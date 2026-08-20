@@ -1,6 +1,6 @@
 # Adriaan de Roover
 
-Adriaan de Roover is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cmon Ground, Ghent on Fri, 21 Aug 2026.
+Adriaan de Roover is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cmon Ground, Ghent on Fri, 21 Aug 2026.
 
 Adriaan de Roover is an ambient and drone artist tracked on soundcheck, with 8 sets logged across Antwerp, Berlin, Brussels and Ghent and 3 more. Often billed alongside Fumitake Tamura, Klein and Mark Templeton. Next up: Cmon Ground, Ghent on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Adriaan de Roover is an ambient and drone artist tracked on soundcheck, with 8 s
 
 Fumitake Tamura, Klein, Mark Templeton
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriaanderoover/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriaanderoover/)*

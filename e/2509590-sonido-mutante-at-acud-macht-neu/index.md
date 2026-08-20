@@ -1,6 +1,6 @@
 # Sonido Mutante at Acud Macht NEU
 
-Sonido Mutante at Acud Macht NEU on Sat 29 Aug, Berlin. 2 acts on the bill: Femdelic and TRU:L. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sonido Mutante at Acud Macht NEU on Sat 29 Aug, Berlin. 2 acts on the bill: Femdelic and TRU:L. Latin Bass and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

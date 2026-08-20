@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove" on Fri, 21 Aug 2026.
+Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove" on Fri, 21 Aug 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Adam Ten, Adapter, Arc Music and Authentiek Recept and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nigh
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

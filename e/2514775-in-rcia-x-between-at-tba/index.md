@@ -1,6 +1,6 @@
 # inércia x Between at TBA
 
-inércia x Between at TBA on Sat 26 Sept, Lisbon. 4 acts on the bill: Guigas, Nibius, Pitcho and Stckman. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+inércia x Between at TBA on Sat 26 Sept, Lisbon. 6 acts on the bill: Billi, Francisca Urbano, Guigas and Nibius and 2 more. Techno and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ inércia x Between at TBA on Sat 26 Sept, Lisbon. 4 acts on the bill: Guigas, Ni
 
 ## Line-up
 
+- Billi
+- Francisca Urbano
 - Guigas
 - Nibius
 - Pitcho

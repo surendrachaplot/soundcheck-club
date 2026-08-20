@@ -1,6 +1,6 @@
 # Araminta
 
-Araminta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
+Araminta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
 
 Araminta is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Losangeles. Often billed alongside MAEYO, hombre plata and Shredy. Next up: Level 8 DTLA, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Araminta is a house and tech house artist based in United Kingdom, tracked on so
 
 MAEYO, hombre plata, Shredy
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/araminta/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/araminta/)*

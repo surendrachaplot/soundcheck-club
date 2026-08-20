@@ -1,6 +1,6 @@
 # MarioF
 
-MarioF is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
+MarioF is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
 
 MarioF is a house and techno artist tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Guille Pinet, Røpe and L1NUS. Next up: Jardins de la Devesa, Girona, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MarioF is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 Guille Pinet, Røpe, L1NUS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariof/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariof/)*

@@ -1,6 +1,6 @@
 # Emma Pea
 
-Emma Pea is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "embraceOurweird x RAW for All" on Sat, 29 Aug 2026.
+Emma Pea is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "embraceOurweird x RAW for All" on Sat, 29 Aug 2026.
 
 Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including JaFrei Loufoque, Phat Beat and RedtomCat. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wit
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*

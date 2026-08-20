@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Swami Sound is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Swami Sound is a garage and house artist tracked on soundcheck, with 101 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Swami Sound is a garage and house artist tracked on soundcheck, with 101 sets lo
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

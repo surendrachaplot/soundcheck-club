@@ -1,6 +1,6 @@
 # Isa Rojas
 
-Isa Rojas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Macarena Club, Barcelona on Wed, 26 Aug 2026.
+Isa Rojas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Macarena Club, Barcelona on Wed, 26 Aug 2026.
 
 Isa Rojas is a house and deep house artist tracked on soundcheck, with 108 sets logged across Barcelona, Madrid and Paris. Often billed alongside Amalia Balbontin, Jade Rolt and Jen Cruz. Next up: Macarena Club, Barcelona on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Isa Rojas is a house and deep house artist tracked on soundcheck, with 108 sets 
 
 Amalia Balbontin, Jade Rolt, Jen Cruz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*

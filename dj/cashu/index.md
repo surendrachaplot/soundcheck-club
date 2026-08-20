@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Crono Club, Sao Paulo on Sat, 22 Aug 2026.
+Cashu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Crono Club, Sao Paulo on Sat, 22 Aug 2026.
 
 Cashu is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: Crono Club, Saopaulo on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Cashu is a techno and house artist tracked on soundcheck, with 145 sets logged a
 
 BADSISTA, RHR, Alírio
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

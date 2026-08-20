@@ -1,6 +1,6 @@
 # GIDEÖN
 
-GIDEÖN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
+GIDEÖN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
 
 GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Athens, Bali, Berlin and Bristol and 11 more. Often billed alongside Michelle Manetti, Hannah Holland and THEMPRESS. Next up: [UNVRS], Ibiza on Wed 19 Aug.
 
@@ -14,6 +14,7 @@ GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 19 Aug 2026
 - Refuge, New York City — Sat, 27 Jun 2026
 - Signal, New York City — Fri, 29 May 2026
 - The Red Church, Bristol — Sat, 2 May 2026
@@ -21,10 +22,9 @@ GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundch
 - Corsica Studios, London — Sun, 15 Feb 2026
 - Sala Zenith, Madrid — Mon, 5 Jan 2026
 - Signal, New York City — Sun, 21 Dec 2025
-- Lux Fragil, Lisbon — Sat, 15 Nov 2025
 
 ## Shares bills with
 
 Michelle Manetti, Hannah Holland, THEMPRESS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*

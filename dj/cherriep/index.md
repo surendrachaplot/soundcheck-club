@@ -1,6 +1,6 @@
 # Cherriep
 
-Cherriep is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sat, 22 Aug 2026.
+Cherriep is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sat, 22 Aug 2026.
 
 Cherriep is a techno and house artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Kaspr, Ana Luisa and Cal C (Modern Art). Next up: Paradise Grapevine Winery, Toronto on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Cherriep is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 Kaspr, Ana Luisa, Cal C (Modern Art)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriep/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriep/)*

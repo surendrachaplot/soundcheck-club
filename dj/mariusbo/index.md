@@ -1,6 +1,6 @@
 # Marius Bø
 
-Marius Bø is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at FOLD, London on Sat, 22 Aug 2026.
+Marius Bø is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at FOLD, London on Sat, 22 Aug 2026.
 
 Marius Bø is a trance and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside Ekkel, Mikkel Rev and Oprofessionell. Next up: FOLD, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marius Bø is a trance and techno artist tracked on soundcheck, with 54 sets log
 
 Ekkel, Mikkel Rev, Oprofessionell
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariusbo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariusbo/)*

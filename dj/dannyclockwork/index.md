@@ -1,6 +1,6 @@
 # Danny Clockwork
 
-Danny Clockwork is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Danny Clockwork is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Danny Clockwork is a house and tech house artist tracked on soundcheck, with 13 sets logged across Glasgow, Ibiza, London and Manchester. Often billed alongside Andy Manston, Bongo Ben and Seb Fontaine. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Danny Clockwork is a house and tech house artist tracked on soundcheck, with 13 
 
 Andy Manston, Bongo Ben, Seb Fontaine
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyclockwork/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyclockwork/)*

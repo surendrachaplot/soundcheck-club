@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Arzenal, Budapest on Wed 19 Aug.
 
@@ -19,6 +19,7 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 69 sets l
 
 ## Recently played
 
+- Arzenal, Budapest — Wed, 19 Aug 2026
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - MÄX, Zurich — Sat, 8 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
@@ -26,10 +27,9 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 69 sets l
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
-- TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Azyr, JAZZY (2), Nikolina
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

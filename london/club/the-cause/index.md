@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SIGNAL FESTIVAL 2026" on Sat, 22 Aug 2026.
+The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SIGNAL FESTIVAL 2026" on Sat, 22 Aug 2026.
 
 The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including KT, Aba Shanti-I, AliA and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

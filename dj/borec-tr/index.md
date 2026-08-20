@@ -1,6 +1,6 @@
 # Borec
 
-Borec is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Borec is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
 Borec is a house and minimal artist based in Turkey, tracked on soundcheck, with 9 sets logged across Istanbul and Tbilisi. Often billed alongside BOOSAY, Baban and Cesar Merveille. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Borec is a house and minimal artist based in Turkey, tracked on soundcheck, with
 
 BOOSAY, Baban, Cesar Merveille
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borec-tr/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borec-tr/)*

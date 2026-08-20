@@ -1,6 +1,6 @@
 # Carlamote
 
-Carlamote is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Charlatan, Ghent on Fri, 21 Aug 2026.
+Carlamote is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Charlatan, Ghent on Fri, 21 Aug 2026.
 
 Carlamote is a house and pop artist tracked on soundcheck, with 8 sets logged across Ghent. Often billed alongside Nadiem Shah, Dj Licious and Lowie Trio. Next up: Charlatan, Ghent on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Carlamote is a house and pop artist tracked on soundcheck, with 8 sets logged ac
 
 Nadiem Shah, Dj Licious, Lowie Trio
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamote/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamote/)*

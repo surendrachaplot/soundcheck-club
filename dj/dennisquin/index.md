@@ -1,14 +1,13 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 18 Aug 2026.
+Dennis Quin is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sub Club, Glasgow on Thu, 3 Sept 2026.
 
-Dennis Quin is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Austin and Bali and 29 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Hï Ibiza, Ibiza on Tue 18 Aug.
+Dennis Quin is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Austin and Bali and 29 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Sub Club, Glasgow on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Thu, 3 Sept 2026 | Sub Club | Glasgow |
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
@@ -34,4 +33,4 @@ Dennis Quin is a house and tech house artist tracked on soundcheck, with 152 set
 
 Prunk, Job de Jong, M-High
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*

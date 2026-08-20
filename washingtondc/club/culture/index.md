@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Nü Androids presents: Patrick Topping" on Fri, 21 Aug 2026.
+Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Nü Androids presents: Patrick Topping" on Fri, 21 Aug 2026.
 
 Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including AC Slater, Gravagerz, Morgan Seatree and Nitefreak and 1 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -23,4 +23,4 @@ Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming night
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

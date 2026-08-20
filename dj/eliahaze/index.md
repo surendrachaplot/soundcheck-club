@@ -1,6 +1,6 @@
 # EliaHaze
 
-EliaHaze is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+EliaHaze is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 EliaHaze is a techno and house artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside DJ Babyblade, DJ SOURCE and Anton Jonathan. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ EliaHaze is a techno and house artist based in Germany, tracked on soundcheck, w
 
 DJ Babyblade, DJ SOURCE, Anton Jonathan
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*

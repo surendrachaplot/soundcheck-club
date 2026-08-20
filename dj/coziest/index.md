@@ -1,6 +1,6 @@
 # Coziest
 
-Coziest is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
+Coziest is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Blank Site, Seoul on Fri, 21 Aug 2026.
 
 Coziest is a garage and bass artist tracked on soundcheck, with 48 sets logged across Barcelona, Bristol, London and Paris and 1 more. Often billed alongside BAAWLA, MAR VISTA and DJ Co.kr. Next up: Blank Site, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Coziest is a garage and bass artist tracked on soundcheck, with 48 sets logged a
 
 BAAWLA, MAR VISTA, DJ Co.kr
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coziest/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coziest/)*

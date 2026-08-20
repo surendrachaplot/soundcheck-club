@@ -1,6 +1,6 @@
 # Imaabs
 
-Imaabs is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 28 Aug 2026.
+Imaabs is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 28 Aug 2026.
 
 Imaabs is an experimental and club artist based in Chile, tracked on soundcheck, with 20 sets logged across Losangeles and Mexicocity. Often billed alongside Microhm, Tomás Urquieta and Lao (MX). Next up: YuYu Cine Club, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Imaabs is an experimental and club artist based in Chile, tracked on soundcheck,
 
 Microhm, Tomás Urquieta, Lao (MX)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*

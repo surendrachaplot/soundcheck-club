@@ -1,6 +1,6 @@
 # Heléna Star
 
-Heléna Star is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
+Heléna Star is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
 
 Heléna Star is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Bristol and Brussels and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Louise Chen. Next up: The Greyhound, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Heléna Star is a house and techno artist tracked on soundcheck, with 49 sets lo
 
 Jaye Ward, Michelle Manetti, Louise Chen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*

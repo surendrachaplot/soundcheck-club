@@ -1,6 +1,6 @@
 # Bruno Castillo
 
-Bruno Castillo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
+Bruno Castillo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
 
 Bruno Castillo is a house and electro artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside Cucut, Adria (ES) and Dadame. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Bruno Castillo is a house and electro artist based in Spain, tracked on soundche
 
 Cucut, Adria (ES), Dadame
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocastillo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocastillo/)*

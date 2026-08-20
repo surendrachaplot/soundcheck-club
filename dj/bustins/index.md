@@ -1,6 +1,6 @@
 # Bustins
 
-Bustins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
+Bustins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
 
 Bustins is a house and tech house artist tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside ARTIIC, ILIAZ and Yotu Meneo. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Bustins is a house and tech house artist tracked on soundcheck, with 9 sets logg
 
 ARTIIC, ILIAZ, Yotu Meneo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustins/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustins/)*

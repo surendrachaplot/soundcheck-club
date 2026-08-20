@@ -1,6 +1,6 @@
 # Friedberg
 
-Friedberg is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
+Friedberg is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
 
 Friedberg is a techno and experimental artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Megan Rosengarten, DREAMINSLOW and Concrete Husband. Next up: TBA - 1 INGRAHAM ST, Newyorkcity on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Friedberg is a techno and experimental artist based in United States of America,
 
 Megan Rosengarten, DREAMINSLOW, Concrete Husband
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*

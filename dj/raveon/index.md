@@ -1,6 +1,6 @@
 # RaveØn
 
-RaveØn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Neükolln , Berlin on Fri, 28 Aug 2026.
+RaveØn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Neükolln , Berlin on Fri, 28 Aug 2026.
 
 RaveØn is a techno and trance artist tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Krakow and Prague and 1 more. Often billed alongside Kate Loss, MERVH and KORRA. Next up: TBA - Neükolln , Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ RaveØn is a techno and trance artist tracked on soundcheck, with 19 sets logged
 
 Kate Loss, MERVH, KORRA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveon/)*

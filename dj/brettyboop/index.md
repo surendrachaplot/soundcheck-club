@@ -1,6 +1,6 @@
 # BrettyBoop
 
-BrettyBoop is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 21 Aug 2026.
+BrettyBoop is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 21 Aug 2026.
 
 BrettyBoop is a house and afro house artist tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Dylan Fly, Dylan Sky and KIMVANITY. Next up: Paradise Grapevine Winery, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ BrettyBoop is a house and afro house artist tracked on soundcheck, with 19 sets 
 
 Dylan Fly, Dylan Sky, KIMVANITY
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*

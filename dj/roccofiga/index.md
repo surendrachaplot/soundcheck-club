@@ -1,6 +1,6 @@
 # ROCCO (FIGA)
 
-ROCCO (FIGA) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
+ROCCO (FIGA) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
 
 ROCCO (FIGA) is a techno and club artist tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Lester Fitzpatrick, Concrete Husband and Cyb3r Bull. Next up: Green Room NYC, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ROCCO (FIGA) is a techno and club artist tracked on soundcheck, with 20 sets log
 
 Lester Fitzpatrick, Concrete Husband, Cyb3r Bull
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*

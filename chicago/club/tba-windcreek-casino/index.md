@@ -1,6 +1,6 @@
 # TBA - Windcreek Casino
 
-TBA - Windcreek Casino is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Deon Cole presents: Terry Hunter Experience" on Sat, 29 Aug 2026.
+TBA - Windcreek Casino is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Deon Cole presents: Terry Hunter Experience" on Sat, 29 Aug 2026.
 
 TBA - Windcreek Casino is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Windcreek Casino is a music venue in Chicago listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Deon Cole presents: Terry Hunter Experience |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-windcreek-casino/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-windcreek-casino/)*

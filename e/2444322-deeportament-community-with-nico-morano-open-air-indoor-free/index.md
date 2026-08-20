@@ -1,6 +1,6 @@
 # Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM at Ritter Butzke
 
-Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM at Ritter Butzke on Fri 4 Sept, Berlin. 7 acts on the bill: Bøgen, Misha Svirid, Nico Morano and Stefan Muchte and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM at Ritter Butzke on Fri 4 Sept, Berlin. 8 acts on the bill: Bøgen, Eva Kim, Misha Svirid and Nico Morano and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7
 ## Line-up
 
 - Bøgen
+- Eva Kim
 - Misha Svirid
 - Nico Morano
 - Stefan Muchte

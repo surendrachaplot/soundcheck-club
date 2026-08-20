@@ -1,6 +1,6 @@
 # TEZZA
 
-TEZZA is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+TEZZA is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 TEZZA is an experimental and techno artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Diana Loredana, Thomas Galbardi and EARPRINT. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ TEZZA is an experimental and techno artist tracked on soundcheck, with 8 sets lo
 
 Diana Loredana, Thomas Galbardi, EARPRINT
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tezza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tezza/)*

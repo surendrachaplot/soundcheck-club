@@ -1,6 +1,6 @@
 # Tapada da Ajuda
 
-Tapada da Ajuda is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Fuse Records: 15th Anniversary (Day)" on Sat, 29 Aug 2026.
+Tapada da Ajuda is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Fuse Records: 15th Anniversary (Day)" on Sat, 29 Aug 2026.
 
 Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Ale De Tuglie, Analodjica, Booka Shade and Boundless (1) and 2 more. Browse upcoming dates, start times and who's playing. Tapada da Ajuda, 1349-017 Lisboa.
 
@@ -15,4 +15,4 @@ Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 2 upcoming nigh
 
 Tapada da Ajuda, 1349-017 Lisboa, Lisbon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*

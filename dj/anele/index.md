@@ -1,6 +1,6 @@
 # Anele
 
-Anele is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
+Anele is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
 
 Anele is a house and amapiano artist based in South Africa, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Katerinha, Njeri and Khadija (DE). Next up: OHM, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Anele is a house and amapiano artist based in South Africa, tracked on soundchec
 
 Katerinha, Njeri, Khadija (DE)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anele/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anele/)*

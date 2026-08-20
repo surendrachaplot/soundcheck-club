@@ -1,6 +1,6 @@
 # Toni S
 
-Toni S is a Experimental and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at radial, London on Sat, 19 Sept 2026.
+Toni S is a Experimental and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at radial, London on Sat, 19 Sept 2026.
 
 Toni S is an experimental and garage artist tracked on soundcheck, with 21 sets logged across Barcelona and London. Often billed alongside New Flesh (2), London Hatred and Becky Stroke. Next up: radial, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Toni S is an experimental and garage artist tracked on soundcheck, with 21 sets 
 
 New Flesh (2), London Hatred, Becky Stroke
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*

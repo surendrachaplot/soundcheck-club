@@ -1,6 +1,6 @@
 # Shai FM
 
-Shai FM is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bastet, Philadelphia on Fri, 21 Aug 2026.
+Shai FM is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bastet, Philadelphia on Fri, 21 Aug 2026.
 
 Shai FM is a bass and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco and 2 more. Often billed alongside DJ Papaya, Mario Cotto and John Raffaele. Next up: Bastet, Philadelphia on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Shai FM is a bass and techno artist based in United States of America, tracked o
 
 DJ Papaya, Mario Cotto, John Raffaele
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*

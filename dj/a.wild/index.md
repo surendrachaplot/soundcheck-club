@@ -1,6 +1,6 @@
 # A.Wild
 
-A.Wild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
+A.Wild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
 
 A.Wild is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Bristol and London. Often billed alongside Luca and Sol, Edward and Acid Sally. Next up: NUMBER 90 LONDON, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ A.Wild is a house and techno artist based in United Kingdom, tracked on soundche
 
 Luca and Sol, Edward, Acid Sally
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*

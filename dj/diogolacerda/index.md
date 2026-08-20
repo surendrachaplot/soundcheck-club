@@ -1,6 +1,6 @@
 # Diogo Lacerda
 
-Diogo Lacerda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Collect LX Factory, Lisbon on Thu, 20 Aug 2026.
+Diogo Lacerda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Collect LX Factory, Lisbon on Thu, 20 Aug 2026.
 
 Diogo Lacerda is a house and techno artist based in Portugal, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Ghent and Lisbon. Often billed alongside Venus News Network, Colin Chiddle and Dan Piu. Next up: Collect LX Factory, Lisbon on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Diogo Lacerda is a house and techno artist based in Portugal, tracked on soundch
 
 Venus News Network, Colin Chiddle, Dan Piu
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diogolacerda/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diogolacerda/)*

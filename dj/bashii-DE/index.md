@@ -1,6 +1,6 @@
 # bashii (DE)
 
-bashii (DE) is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
+bashii (DE) is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
 
 bashii (DE) is an italo disco and techno artist tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Dj Bowlz, andré wiese and Bizzarro Universe. Next up: TBA - „Lichtung“, Cologne on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ bashii (DE) is an italo disco and techno artist tracked on soundcheck, with 2 se
 
 Dj Bowlz, andré wiese, Bizzarro Universe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashii-DE/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashii-DE/)*

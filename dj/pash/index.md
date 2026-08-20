@@ -1,6 +1,6 @@
 # Pash
 
-Pash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
+Pash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
 
 Pash is a techno and house artist tracked on soundcheck, with 10 sets logged across Basel, Istanbul, Lisbon and London and 1 more. Often billed alongside 1luu, ATTEMPT and Anthik. Next up: The Chippo Hotel, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pash is a techno and house artist tracked on soundcheck, with 10 sets logged acr
 
 1luu, ATTEMPT, Anthik
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pash/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pash/)*

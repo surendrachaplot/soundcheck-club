@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 21 Aug 2026.
+IAMBP is a Electro and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Sunseabar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged 
 
 HearThug, Occibel, Alyhas
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

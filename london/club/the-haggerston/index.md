@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "CARNIVAL PRE PARTY by PERREA" on Sat, 22 Aug 2026.
+The Haggerston is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "CARNIVAL PRE PARTY by PERREA" on Sat, 22 Aug 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including DIGITALSAINT, KATALYSSST, Kim Öhman and LISAKEEKS and 1 more. Browse upcoming dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -17,4 +17,4 @@ The Haggerston is a music venue in London listed on soundcheck. 4 upcoming night
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

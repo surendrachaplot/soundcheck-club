@@ -1,6 +1,6 @@
 # Mo's Restaurant
 
-Mo's Restaurant is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Soul Circle" on Sat, 29 Aug 2026.
+Mo's Restaurant is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Soul Circle" on Sat, 29 Aug 2026.
 
 Mo's Restaurant is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mo's Restaurant is a music venue in London listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Soul Circle |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mo-s-restaurant/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mo-s-restaurant/)*

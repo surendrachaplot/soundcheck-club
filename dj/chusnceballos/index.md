@@ -1,8 +1,8 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Reelworks Denver, Denver on Sat, 22 Aug 2026.
+Chus & Ceballos is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Reelworks Denver, Denver on Sat, 22 Aug 2026.
 
-Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Claptone. Next up: Reelworks Denver, Denver on Sat 22 Aug.
+Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Claptone. Next up: Reelworks Denver, Denver on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundc
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Reelworks Denver | Denver |
 | Sat, 29 Aug 2026 | Stereo | Montreal |
+| Sat, 5 Sept 2026 | Fabrik | Madrid |
 | Sat, 12 Sept 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
@@ -27,4 +28,4 @@ Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundc
 
 Amal Nemer, Ben Arsenal, Claptone
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

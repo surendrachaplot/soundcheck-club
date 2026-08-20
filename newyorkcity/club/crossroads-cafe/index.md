@@ -1,6 +1,6 @@
 # Crossroads Cafe
 
-Crossroads Cafe is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "AUDIOSYNTHEIS: open air party by Dance Support with SilkyBlack, DJ Courtney K, DJ Passion Fruit" on Sat, 29 Aug 2026.
+Crossroads Cafe is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "AUDIOSYNTHEIS: open air party by Dance Support with SilkyBlack, DJ Courtney K, DJ Passion Fruit" on Sat, 29 Aug 2026.
 
 Crossroads Cafe is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including DJ Courtney K and SilkyBlack. Browse upcoming dates, start times and who's playing. 119 Knickerbocker Ave, Brooklyn, NY 11237, USA.
 
@@ -14,4 +14,4 @@ Crossroads Cafe is a music venue in Newyorkcity listed on soundcheck. 1 upcoming
 
 119 Knickerbocker Ave, Brooklyn, NY 11237, USA, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/crossroads-cafe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/crossroads-cafe/)*

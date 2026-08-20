@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Outer Heaven presents: Robbie Lumpkin" on Wed, 19 Aug 2026.
+Outer Heaven is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Outer Heaven presents: Shawn Dub" on Thu, 20 Aug 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including André Baum, Aurora Halal, Bella Mutino and deep creep and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including André Baum, Aurora Halal, Bella Mutino and deep creep and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Outer Heaven presents: Robbie Lumpkin | Robbie Lumpkin |
 | Thu, 20 Aug 2026 | Outer Heaven presents: Shawn Dub | Hilu, Laila Amira, Shawn Dub |
 | Fri, 21 Aug 2026 | Outer Heaven presents: André Baum | André Baum, Bella Mutino |
 | Sat, 22 Aug 2026 | Outer Heaven presents: Justin Strauss | Justin Strauss, Matt FX |
@@ -21,4 +20,4 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 8 upcoming ni
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

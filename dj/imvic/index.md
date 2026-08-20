@@ -1,6 +1,6 @@
 # IMVIC
 
-IMVIC is a Progressive House and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
+IMVIC is a Progressive House and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
 
 IMVIC is a progressive house and rio funk artist tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Carvach, Hermansen and Mohini Burgos. Next up: Born 2B Music Bar, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ IMVIC is a progressive house and rio funk artist tracked on soundcheck, with 13 
 
 Carvach, Hermansen, Mohini Burgos
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvic/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvic/)*

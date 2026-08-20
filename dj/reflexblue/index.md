@@ -1,8 +1,8 @@
 # Reflex Blue
 
-Reflex Blue is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 22 Aug 2026.
+Reflex Blue is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 22 Aug 2026.
 
-Reflex Blue is a house and progressive house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Voigtmann, Cap and Doudou MD. Next up: Sunseabar Beach Club, Barcelona on Sat 22 Aug.
+Reflex Blue is a house and progressive house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Voigtmann, Cap and Doudou MD. Next up: Sunseabar Beach Club, Barcelona on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Reflex Blue is a house and progressive house artist tracked on soundcheck, with 
 | Sat, 22 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 5 Sept 2026 | Kater | Berlin |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Sat, 17 Oct 2026 | Distrikt | Leeds |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Reflex Blue is a house and progressive house artist tracked on soundcheck, with 
 
 Voigtmann, Cap, Doudou MD
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

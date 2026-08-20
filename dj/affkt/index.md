@@ -1,6 +1,6 @@
 # AFFKT
 
-AFFKT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+AFFKT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
 AFFKT is a techno and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, London and Losangeles and 11 more. Often billed alongside Fernando Lagreca, Acid Alien and Bonnie Spacey. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ AFFKT is a techno and house artist based in Spain, tracked on soundcheck, with 2
 
 Fernando Lagreca, Acid Alien, Bonnie Spacey
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/affkt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/affkt/)*

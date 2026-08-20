@@ -1,8 +1,8 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Holocene 2: Convextion with Madeera and Jeans and Lifestyle" on Fri, 28 Aug 2026.
+The Lubber Fiend is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Holocene 2: Convextion with Madeera and Jeans and Lifestyle" on Fri, 28 Aug 2026.
 
-The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Alyssa, Convextion, Cowper and Devon Rexi and 2 more. Browse upcoming dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
+The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, with line-ups including Al Bradley, Alyssa, Convextion and Cowper and 2 more. Browse upcoming dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
 ## What's on
 
@@ -13,9 +13,10 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 5 upcoming 
 | Thu, 17 Sept 2026 | New Ruins: Lubber Fiend Festival | Alyssa, Cowper, Devon Rexi, Elena Colombi, Maria W Horn, Philipp Otterbach, Rashad Becker, Rezzett, Vanity Productions, Voice Actor, i-sha |
 | Tue, 29 Sept 2026 | Sweets |  |
 | Sat, 3 Oct 2026 | Cassini presents: Noizar  | Noizar |
+| Sat, 10 Oct 2026 | even keel with precinct: Al Bradley & Steve Lipscombe | Al Bradley |
 
 ## Address
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

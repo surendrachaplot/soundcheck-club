@@ -1,8 +1,8 @@
 # Âme
 
-Âme is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Âme is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
-Âme is a techno and house artist tracked on soundcheck, with 348 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: DC-10, Ibiza on Mon 24 Aug.
+Âme is a techno and house artist tracked on soundcheck, with 349 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: DC-10, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@
 | Thu, 10 Sept 2026 | Scorpios | Mykonos |
 | Fri, 11 Sept 2026 | Budapest Park | Budapest |
 | Fri, 18 Sept 2026 | Sunset Park Rooftop | New York City |
+| Fri, 18 Sept 2026 | Public Works | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Grand Bizarre | Toronto |
-| Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

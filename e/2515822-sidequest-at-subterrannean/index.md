@@ -1,10 +1,10 @@
 # SIDEQUEST at Subterrannean
 
-SIDEQUEST at Subterrannean on Sat 22 Aug, Chicago. Baile Funk and Ghetto Tech. Preview the line-up and save it on soundcheck.
+SIDEQUEST at Subterrannean on Thu 20 Aug, Chicago. Baile Funk and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 22 Aug 2026 |
+| Date | Thu, 20 Aug 2026 |
 | Venue | Subterrannean |
 | City | Chicago |
 

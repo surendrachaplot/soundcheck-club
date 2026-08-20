@@ -1,6 +1,6 @@
 # mimetic
 
-mimetic is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
+mimetic is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tropical Corner, Geneva on Fri, 21 Aug 2026.
 
 mimetic is a techno and electro artist tracked on soundcheck, with 19 sets logged across Geneva, Milan and Paris. Often billed alongside Puma, Buds Buzzy and Garance. Next up: Tropical Corner, Geneva on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ mimetic is a techno and electro artist tracked on soundcheck, with 19 sets logge
 
 Puma, Buds Buzzy, Garance
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimetic/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimetic/)*

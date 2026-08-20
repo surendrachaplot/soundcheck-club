@@ -1,14 +1,13 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Scorpios, Mykonos on Wed, 19 Aug 2026.
+Samm (BE) is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
-Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, AJNA and Alex Wann. Next up: Scorpios, Mykonos on Wed 19 Aug.
+Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, AJNA and Alex Wann. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Scorpios | Mykonos |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Tue, 1 Sept 2026 | Scorpios | Mykonos |
 | Fri, 11 Sept 2026 | TBA | Brussels |
@@ -16,6 +15,7 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets l
 
 ## Recently played
 
+- Scorpios, Mykonos — Wed, 19 Aug 2026
 - Old Royal Naval College, London — Sat, 8 Aug 2026
 - Fridas Pier, Stuttgart — Sat, 25 Jul 2026
 - Valley, Berlin — Sat, 13 Jun 2026
@@ -23,10 +23,9 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets l
 - Elsewhere, New York City — Fri, 1 May 2026
 - Island Residence, Athens — Thu, 30 Apr 2026
 - Panama, Amsterdam — Sun, 26 Apr 2026
-- BORIS CLUB, Barcelona — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 ARODES, AJNA, Alex Wann
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

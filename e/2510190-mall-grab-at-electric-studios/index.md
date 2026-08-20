@@ -1,6 +1,6 @@
 # Mall Grab at Electric Studios
 
-Mall Grab at Electric Studios on Fri 4 Sept, Sheffield. 3 acts on the bill: HAAi, Mall Grab and Sam Alfred. Electro. Preview the line-up and save it on soundcheck.
+Mall Grab at Electric Studios on Fri 4 Sept, Sheffield. 5 acts on the bill: Giulia Tess, HAAi, Mall Grab and Sam Alfred and 1 more. Garage and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Mall Grab at Electric Studios on Fri 4 Sept, Sheffield. 3 acts on the bill: HAAi
 
 ## Line-up
 
+- Giulia Tess
 - HAAi
 - Mall Grab
 - Sam Alfred
+- Special Request
 
 *Source: [soundcheck](https://soundcheck.club/e/2510190-mall-grab-at-electric-studios/)*

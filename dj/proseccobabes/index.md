@@ -1,6 +1,6 @@
 # Prosecco Babes
 
-Prosecco Babes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Prosecco Babes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Prosecco Babes is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside DSGNRPSSY, Liad Krispin and 50PHIE. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Prosecco Babes is a techno and house artist based in Germany, tracked on soundch
 
 DSGNRPSSY, Liad Krispin, 50PHIE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proseccobabes/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proseccobabes/)*

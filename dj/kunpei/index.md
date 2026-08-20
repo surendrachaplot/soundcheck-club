@@ -1,6 +1,6 @@
 # KUNPEI
 
-KUNPEI is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
+KUNPEI is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 21 Aug 2026.
 
 KUNPEI is a techno and tech house artist based in Japan, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Rickey Shannon. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ KUNPEI is a techno and tech house artist based in Japan, tracked on soundcheck, 
 
 AMIDAdrive, LogicBeat, Rickey Shannon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*

@@ -1,14 +1,15 @@
 # Rein (NL)
 
-Rein (NL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
+Rein (NL) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
-Rein (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside BALAI, DJ Perroz and Noisy Shaun. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
+Rein (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside BALAI, DJ Perroz and Noisy Shaun. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Akhnaton | Amsterdam |
+| Sat, 7 Nov 2026 | Now&Wow | Rotterdam |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Rein (NL) is a techno artist based in Netherlands, tracked on soundcheck, with 4
 
 BALAI, DJ Perroz, Noisy Shaun
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reinnl/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reinnl/)*

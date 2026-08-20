@@ -1,6 +1,6 @@
 # Trypdø
 
-Trypdø is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
+Trypdø is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
 
 Trypdø is a techno and hardcore artist tracked on soundcheck, with 23 sets logged across Belfast, Berlin, Dublin and Hamburg and 3 more. Often billed alongside GØNA, The Jakob Sister and X&trick. Next up: Wigwam, Dublin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Trypdø is a techno and hardcore artist tracked on soundcheck, with 23 sets logg
 
 GØNA, The Jakob Sister, X&trick
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trypdo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trypdo/)*

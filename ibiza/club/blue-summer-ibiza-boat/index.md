@@ -1,6 +1,6 @@
 # Blue Summer Ibiza Boat
 
-Blue Summer Ibiza Boat is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "UMAMI Boat Party - Mihai Popoviciu - Pornbugs - EUGEN1O" on Sun, 13 Sept 2026.
+Blue Summer Ibiza Boat is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "UMAMI Boat Party - Mihai Popoviciu - Pornbugs - EUGEN1O" on Sun, 13 Sept 2026.
 
 Blue Summer Ibiza Boat is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Emanate, EUGEN1O, Mihai Popoviciu and Pornbugs. Browse upcoming dates, start times and who's playing. Carrer de la Mola 31, 07800, Evissa, Illes Balears.
 
@@ -15,4 +15,4 @@ Blue Summer Ibiza Boat is a music venue in Ibiza listed on soundcheck. 2 upcomin
 
 Carrer de la Mola 31, 07800, Evissa, Illes Balears, Ibiza
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-summer-ibiza-boat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-summer-ibiza-boat/)*

@@ -1,6 +1,6 @@
 # Kim.Qna
 
-Kim.Qna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shelter, Seoul on Fri, 21 Aug 2026.
+Kim.Qna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shelter, Seoul on Fri, 21 Aug 2026.
 
 Kim.Qna is a techno and house artist tracked on soundcheck, with 179 sets logged across Hongkong, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside Zeemen, DJ Funny and Gumi. Next up: Shelter, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kim.Qna is a techno and house artist tracked on soundcheck, with 179 sets logged
 
 Zeemen, DJ Funny, Gumi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*

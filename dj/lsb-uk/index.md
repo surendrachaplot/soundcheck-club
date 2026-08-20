@@ -1,6 +1,6 @@
 # LSB (UK)
 
-LSB (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HERE, London on Sat, 26 Sept 2026.
+LSB (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at HERE, London on Sat, 26 Sept 2026.
 
 LSB (UK) is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Berlin, Brighton, Bristol and Ghent and 8 more. Often billed alongside DRS, Lenzman and Bladerunner. Next up: HERE, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LSB (UK) is a drum & bass and jungle artist tracked on soundcheck, with 24 sets 
 
 DRS, Lenzman, Bladerunner
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb-uk/)*

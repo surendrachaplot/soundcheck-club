@@ -1,6 +1,6 @@
 # Hermansen
 
-Hermansen is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
+Hermansen is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
 
 Hermansen is a minimal and techno artist tracked on soundcheck, with 9 sets logged across Barcelona and Dublin. Often billed alongside Cam Roberts, IMVIC and Agustin Bosco. Next up: Born 2B Music Bar, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hermansen is a minimal and techno artist tracked on soundcheck, with 9 sets logg
 
 Cam Roberts, IMVIC, Agustin Bosco
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansen/)*

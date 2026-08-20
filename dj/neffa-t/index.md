@@ -1,14 +1,15 @@
 # Neffa-T
 
-Neffa-T is a Bass and Grime artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at essaim, Paris on Sat, 29 Aug 2026.
+Neffa-T is a Bass and Grime artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at essaim, Paris on Sat, 29 Aug 2026.
 
-Neffa-T is a bass and grime artist tracked on soundcheck, with 168 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 41 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: essaim, Paris on Sat 29 Aug.
+Neffa-T is a bass and grime artist tracked on soundcheck, with 169 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 41 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: essaim, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | essaim | Paris |
+| Fri, 11 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
@@ -32,4 +33,4 @@ Neffa-T is a bass and grime artist tracked on soundcheck, with 168 sets logged a
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

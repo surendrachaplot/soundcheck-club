@@ -1,6 +1,6 @@
 # IULIATSKI
 
-IULIATSKI is a Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
+IULIATSKI is a Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bredella Village, Basel on Sat, 22 Aug 2026.
 
 IULIATSKI is a trance artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Basel. Often billed alongside VXBZ and Swagchief. Next up: Bredella Village, Basel on Sat 22 Aug.
 
@@ -15,4 +15,4 @@ IULIATSKI is a trance artist based in Switzerland, tracked on soundcheck, with 2
 
 VXBZ, Swagchief
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*

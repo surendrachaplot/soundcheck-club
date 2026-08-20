@@ -1,6 +1,6 @@
 # NASHA
 
-NASHA is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bangkok Island, Bangkok on Fri, 21 Aug 2026.
+NASHA is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bangkok Island, Bangkok on Fri, 21 Aug 2026.
 
 NASHA is a psytrance artist tracked on soundcheck, with 16 sets logged across Bangkok, London, Oslo and Prague and 1 more. Often billed alongside Izzi, Sukh Knight and Ta1da. Next up: Bangkok Island, Bangkok on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NASHA is a psytrance artist tracked on soundcheck, with 16 sets logged across Ba
 
 Izzi, Sukh Knight, Ta1da
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasha/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasha/)*

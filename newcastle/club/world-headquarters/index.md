@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 19 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Daisy Roots Movement - D'n'B/Jungle Dance Workshop" on Wed, 19 Aug 2026.
+World Headquarters is a music venue in Newcastle with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bloom Summer Series - Dubstep Foundations" on Fri, 21 Aug 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 19 upcoming nights, with line-ups including A.M.C., Dan Fresco, Danny Snowden and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -8,7 +8,6 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 19 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
 | Fri, 21 Aug 2026 | Bloom Summer Series - Dubstep Foundations |  |
 | Sat, 22 Aug 2026 | DISTRICT 909 |  |
 | Sat, 22 Aug 2026 | Infusion X Mint Condition - MAD.AGAIN - In The Yard / Day & Night Party | Mad.Again (2) |
@@ -18,9 +17,10 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 19 upcomi
 | Wed, 2 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
 | Sat, 5 Sept 2026 | BLITZ IN THE YARD - FREE PARTY - DAY & NIGHT |  |
 | Wed, 9 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
+| Sat, 12 Sept 2026 | TOWNSIDE NEWCASTLE DEBUT |  |
 
 ## Address
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

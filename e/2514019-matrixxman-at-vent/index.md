@@ -1,6 +1,6 @@
 # Matrixxman at VENT
 
-Matrixxman at VENT on Sat 29 Aug, Tokyo. 1 act on the bill: Matrixxman. Techno. Preview the line-up and save it on soundcheck.
+Matrixxman at VENT on Sat 29 Aug, Tokyo. 3 acts on the bill: Bundo, Crazy Neo and Matrixxman. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Matrixxman at VENT on Sat 29 Aug, Tokyo. 1 act on the bill: Matrixxman. Techno. 
 
 ## Line-up
 
+- Bundo
+- Crazy Neo
 - Matrixxman
 
 *Source: [soundcheck](https://soundcheck.club/e/2514019-matrixxman-at-vent/)*

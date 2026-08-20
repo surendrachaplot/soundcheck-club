@@ -1,6 +1,6 @@
 # BAD JUUJU
 
-BAD JUUJU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+BAD JUUJU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 BAD JUUJU is a techno and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Vertigo, CYBER1A and Skiis. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ BAD JUUJU is a techno and house artist based in United States of America, tracke
 
 Vertigo, CYBER1A, Skiis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*

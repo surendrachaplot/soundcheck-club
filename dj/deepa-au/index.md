@@ -1,6 +1,6 @@
 # Deepa
 
-Deepa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Deepa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
 Deepa is a house and techno artist based in Australia, tracked on soundcheck, with 115 sets logged across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Deepa is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Ciara, Rakish, Baschoe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

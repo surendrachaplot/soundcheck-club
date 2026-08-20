@@ -1,6 +1,6 @@
 # CAVVØ
 
-CAVVØ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
+CAVVØ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
 
 CAVVØ is a trance and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Leipzig. Often billed alongside Raphus, VLUNA and Meyhartt. Next up: elipamanoke, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CAVVØ is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Raphus, VLUNA, Meyhartt
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cavvo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cavvo/)*

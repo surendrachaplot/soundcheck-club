@@ -1,6 +1,6 @@
 # KWH (DE)
 
-KWH (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Dual, Bangkok on Sat, 22 Aug 2026.
+KWH (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dual, Bangkok on Sat, 22 Aug 2026.
 
 KWH (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside KPODKPOD, Elaheh and Mumsfilibaba. Next up: Dual, Bangkok on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KWH (DE) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 KPODKPOD, Elaheh, Mumsfilibaba
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwh-de/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kwh-de/)*

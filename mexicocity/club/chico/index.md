@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Karate Audio Takeover" on Fri, 21 Aug 2026.
+CHICO is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Karate Audio Takeover" on Fri, 21 Aug 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including Cherry, Cherry (MX), DJ Earth Angel and Filius Natura and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -17,4 +17,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, wi
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

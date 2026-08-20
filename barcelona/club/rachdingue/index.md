@@ -1,6 +1,6 @@
 # Rachdingue
 
-Rachdingue is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Bart Skils (DRUMCODE) (Somnia NIGHT)" on Sat, 22 Aug 2026.
+Rachdingue is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bart Skils (DRUMCODE) (Somnia NIGHT)" on Sat, 22 Aug 2026.
 
 Rachdingue is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including AELVA K, Bart Skils, Esther Dune and I-F and 2 more. Browse upcoming dates, start times and who's playing. Vilajuïga, Alt Emporda, Costa Brava, Spain, 17493 Vilajuïga, Cataluna, Spain.
 
@@ -16,4 +16,4 @@ Rachdingue is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 
 Vilajuïga, Alt Emporda, Costa Brava, Spain, 17493 Vilajuïga, Cataluna, Spain, Barcelona
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/rachdingue/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/rachdingue/)*

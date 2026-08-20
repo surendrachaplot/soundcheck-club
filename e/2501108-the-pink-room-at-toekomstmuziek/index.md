@@ -1,6 +1,6 @@
 # The Pink Room at Toekomstmuziek
 
-The Pink Room at Toekomstmuziek on Fri 11 Sept, Amsterdam. 2 acts on the bill: Karmon and Vanell. House and Minimal. Preview the line-up and save it on soundcheck.
+The Pink Room at Toekomstmuziek on Fri 11 Sept, Amsterdam. 3 acts on the bill: Initials, Karmon and Vanell. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Pink Room at Toekomstmuziek on Fri 11 Sept, Amsterdam. 2 acts on the bill: K
 
 ## Line-up
 
+- Initials
 - Karmon
 - Vanell
 

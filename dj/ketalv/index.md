@@ -1,6 +1,6 @@
 # KETA (LV)
 
-KETA (LV) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
+KETA (LV) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
 
 KETA (LV) is a drum & bass and techno artist based in Latvia, tracked on soundcheck, with 27 sets logged across Amsterdam, Riga and Tallinn. Often billed alongside MSK (LV), ENTER (EE) and Sansave. Next up: H2o6, Riga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ KETA (LV) is a drum & bass and techno artist based in Latvia, tracked on soundch
 
 MSK (LV), ENTER (EE), Sansave
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketalv/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketalv/)*

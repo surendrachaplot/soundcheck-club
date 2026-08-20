@@ -1,6 +1,6 @@
 # Emz (MC)
 
-Emz (MC) is a Garage and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Emz (MC) is a Garage and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
 Emz (MC) is a garage and hip-hop artist tracked on soundcheck, with 14 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Addison Groove, Donch and Sam Binga. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Emz (MC) is a garage and hip-hop artist tracked on soundcheck, with 14 sets logg
 
 Addison Groove, Donch, Sam Binga
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emzmc/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emzmc/)*

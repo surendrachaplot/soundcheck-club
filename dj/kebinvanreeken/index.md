@@ -1,6 +1,6 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
 
 Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 1 more. Often billed alongside Adela, Antrim and Aubrey Fry. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 Adela, Antrim, Aubrey Fry
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

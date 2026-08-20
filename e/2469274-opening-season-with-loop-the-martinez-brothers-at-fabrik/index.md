@@ -1,6 +1,6 @@
 # OPENING SEASON with LOOP & The Martinez Brothers at Fabrik
 
-OPENING SEASON with LOOP & The Martinez Brothers at Fabrik on Sat 5 Sept, Madrid. 7 acts on the bill: Fleur Shore, Ilario Alicante, Mason Collective and Solardo and 3 more. Preview the line-up and save it on soundcheck.
+OPENING SEASON with LOOP & The Martinez Brothers at Fabrik on Sat 5 Sept, Madrid. 10 acts on the bill: Chus & Ceballos, Cuartero, Fleur Shore and Ilario Alicante and 6 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ OPENING SEASON with LOOP & The Martinez Brothers at Fabrik on Sat 5 Sept, Madrid
 
 ## Line-up
 
+- Chus & Ceballos
+- Cuartero
 - Fleur Shore
 - Ilario Alicante
 - Mason Collective
+- Raul Ortiz
 - Solardo
 - Technasia
 - The Martinez Brothers

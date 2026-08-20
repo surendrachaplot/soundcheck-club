@@ -1,6 +1,6 @@
 # Dondaz
 
-Dondaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
+Dondaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
 
 Dondaz is a techno and house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen and Munich. Often billed alongside ALADAG, Adala and B-ZEY. Next up: MODULE, Copenhagen on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Dondaz is a techno and house artist based in Denmark, tracked on soundcheck, wit
 
 ALADAG, Adala, B-ZEY
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dondaz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dondaz/)*

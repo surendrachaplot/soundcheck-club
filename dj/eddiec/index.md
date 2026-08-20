@@ -1,6 +1,6 @@
 # Eddie C
 
-Eddie C is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Eddie C is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Eddie C is a house and disco artist tracked on soundcheck, with 49 sets logged across Austin, Detroit, Dublin and London and 14 more. Often billed alongside Anthony Mansfield, Andy Warren and DJ M3. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Eddie C is a house and disco artist tracked on soundcheck, with 49 sets logged a
 
 Anthony Mansfield, Andy Warren, DJ M3
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*

@@ -1,6 +1,6 @@
 # Overland
 
-Overland is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
+Overland is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
 
 Overland is a techno and house artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Bristol and Chicago and 11 more. Often billed alongside xtine, DR BPM and Dairy Free. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Overland is a techno and house artist tracked on soundcheck, with 51 sets logged
 
 xtine, DR BPM, Dairy Free
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*

@@ -1,6 +1,6 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pacha New York, New York City on Fri, 21 Aug 2026.
+Loco Dice is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Pacha New York, New York City on Fri, 21 Aug 2026.
 
 Loco Dice is a tech house and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Pacha New York, Newyorkcity on Fri 21 Aug.
 
@@ -35,4 +35,4 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 201 sets 
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

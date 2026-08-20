@@ -1,6 +1,6 @@
 # Thiago Genez
 
-Thiago Genez is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
+Thiago Genez is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
 
 Thiago Genez is a trance and tech house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside C-systems, DJMrB and Sago. Next up: XOYO, London on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Thiago Genez is a trance and tech house artist tracked on soundcheck, with 8 set
 
 C-systems, DJMrB, Sago
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagogenez/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagogenez/)*

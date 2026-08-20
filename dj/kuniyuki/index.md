@@ -1,6 +1,6 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Kuniyuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
 
 Kuniyuki is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Denver and Hongkong and 16 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Kuniyuki is a house and techno artist tracked on soundcheck, with 67 sets logged
 
 Toshiya Kawasaki, KZA, Christian AB
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*

@@ -1,6 +1,6 @@
 # Pyrl
 
-Pyrl is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ernest, Newcastle on Thu, 20 Aug 2026.
+Pyrl is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ernest, Newcastle on Thu, 20 Aug 2026.
 
 Pyrl is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Newcastle. Often billed alongside 4am Kru, Amelia Leigh and Ghoulish. Next up: Ernest, Newcastle on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Pyrl is a jungle and garage artist based in United Kingdom, tracked on soundchec
 
 4am Kru, Amelia Leigh, Ghoulish
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrl/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrl/)*

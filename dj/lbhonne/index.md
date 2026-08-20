@@ -1,6 +1,6 @@
 # Lb Honne
 
-Lb Honne is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
+Lb Honne is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
 
 Lb Honne is a house and techno artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside matsssiii, Ben Kaczor and boaksi. Next up: FOUND, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Lb Honne is a house and techno artist based in Switzerland, tracked on soundchec
 
 matsssiii, Ben Kaczor, boaksi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbhonne/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbhonne/)*

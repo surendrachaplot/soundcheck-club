@@ -1,6 +1,6 @@
 # Zsiráf
 
-Zsiráf is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "FLAMINGO GARDEN XXL" on Thu, 20 Aug 2026.
+Zsiráf is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FLAMINGO GARDEN XXL" on Thu, 20 Aug 2026.
 
 Zsiráf is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including Ratkay and Viktor Bondar. Browse upcoming dates, start times and who's playing. Budapest, Teréz krt. 53, 1062 Hungary.
 
@@ -16,4 +16,4 @@ Zsiráf is a music venue in Budapest listed on soundcheck. 3 upcoming nights, wi
 
 Budapest, Teréz krt. 53, 1062 Hungary, Budapest
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*

@@ -1,6 +1,6 @@
 # DJ Spun
 
-DJ Spun is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
+DJ Spun is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
 
 DJ Spun is a house and acid artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Jeno, Stacy Christine and Galen. Next up: White Owl Social Club, Portland on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ Spun is a house and acid artist based in United States of America, tracked on
 
 Jeno, Stacy Christine, Galen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*

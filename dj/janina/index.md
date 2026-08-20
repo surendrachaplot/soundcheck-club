@@ -1,6 +1,6 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 21 Aug 2026.
+Janina is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 21 Aug 2026.
 
 Janina is a techno and tech house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 5 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Teatro Pereyra, Ibiza on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Janina is a techno and tech house artist tracked on soundcheck, with 70 sets log
 
 Francesco Farfa, Luigi Rossi, Piticu
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*

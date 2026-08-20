@@ -1,14 +1,15 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Villa, Oslo on Fri, 28 Aug 2026.
+Peder Mannerfelt is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Villa, Oslo on Fri, 28 Aug 2026.
 
-Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flore, mad miran and CCL. Next up: The Villa, Oslo on Fri 28 Aug.
+Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flore, mad miran and CCL. Next up: The Villa, Oslo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Villa | Oslo |
+| Sat, 3 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundch
 
 Flore, mad miran, CCL
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

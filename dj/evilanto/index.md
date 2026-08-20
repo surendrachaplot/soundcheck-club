@@ -1,6 +1,6 @@
 # Evil Anto
 
-Evil Anto is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at High Origins Speciality Coffee, Dublin on Sat, 29 Aug 2026.
+Evil Anto is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at High Origins Speciality Coffee, Dublin on Sat, 29 Aug 2026.
 
 Evil Anto is a disco and house artist based in Spain, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside GiovanniPasta, sona.dj and E The Artist. Next up: High Origins Speciality Coffee, Dublin on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Evil Anto is a disco and house artist based in Spain, tracked on soundcheck, wit
 
 GiovanniPasta, sona.dj, E The Artist
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilanto/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilanto/)*

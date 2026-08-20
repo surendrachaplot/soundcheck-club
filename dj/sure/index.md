@@ -1,6 +1,6 @@
 # S.U.R.E.
 
-S.U.R.E. is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at XOYO, London on Thu, 20 Aug 2026.
+S.U.R.E. is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at XOYO, London on Thu, 20 Aug 2026.
 
 S.U.R.E. is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Bristol and London. Often billed alongside Sharpson, Simon Alfred and BRUSS. Next up: XOYO, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ S.U.R.E. is a house and deep house artist based in United Kingdom, tracked on so
 
 Sharpson, Simon Alfred, BRUSS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*

@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "GET WOKE" on Sat, 29 Aug 2026.
+Cube is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "GET WOKE" on Sat, 29 Aug 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including CYBERHACKSYSTEM, DOLPHIN, EMILIO (3) and Miyuki Omura and 2 more. Browse upcoming dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -15,4 +15,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with lin
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

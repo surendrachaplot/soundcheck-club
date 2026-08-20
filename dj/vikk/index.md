@@ -1,14 +1,15 @@
 # VIKk
 
-VIKk is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 21 Aug 2026.
+VIKk is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 21 Aug 2026.
 
-VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Frankhan Selectist, Istanbul on Fri 21 Aug.
+VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Frankhan Selectist, Istanbul on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Frankhan Selectist | Istanbul |
+| Fri, 4 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 7
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

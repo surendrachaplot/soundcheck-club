@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 22 Aug 2026.
+La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 22 Aug 2026.
 
 La La is a house and techno artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Cabaret Voltaire, Edinburgh on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ La La is a house and techno artist tracked on soundcheck, with 142 sets logged a
 
 AIRKEY, Ben Hemsley, Ewan McVicar
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

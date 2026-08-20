@@ -1,6 +1,6 @@
 # TBA - Cosmopolitain Bar
 
-TBA - Cosmopolitain Bar is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Night Shift" on Fri, 28 Aug 2026.
+TBA - Cosmopolitain Bar is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Night Shift" on Fri, 28 Aug 2026.
 
 TBA - Cosmopolitain Bar is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Cosmopolitain Bar is a music venue in Montreal listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Night Shift |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-cosmopolitain-bar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-cosmopolitain-bar/)*

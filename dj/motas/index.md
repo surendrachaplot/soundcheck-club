@@ -1,6 +1,6 @@
 # Mötas
 
-Mötas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Mötas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Mötas is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Birmingham, Leeds and London. Often billed alongside Steevio, Suzybee and Kyle Parsley. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Mötas is a house and techno artist tracked on soundcheck, with 7 sets logged ac
 
 Steevio, Suzybee, Kyle Parsley
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motas/)*

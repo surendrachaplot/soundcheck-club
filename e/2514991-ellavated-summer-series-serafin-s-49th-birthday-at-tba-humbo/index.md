@@ -1,6 +1,6 @@
 # ELLAVATED SUMMER SERIES / SERAFIN'S 49TH BIRTHDAY at TBA - Humboldt Park
 
-ELLAVATED SUMMER SERIES / SERAFIN'S 49TH BIRTHDAY at TBA - Humboldt Park on Sat 29 Aug, Chicago. 6 acts on the bill: Adam Pecho, Chachi Guerrero, Gabriel Palomo and Jevon Jackson and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+ELLAVATED SUMMER SERIES / SERAFIN'S 49TH BIRTHDAY at TBA - Humboldt Park on Sat 29 Aug, Chicago. 7 acts on the bill: Adam Pecho, Chachi Guerrero, Gabriel Palomo and Jevon Jackson and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ ELLAVATED SUMMER SERIES / SERAFIN'S 49TH BIRTHDAY at TBA - Humboldt Park on Sat 
 - Chachi Guerrero
 - Gabriel Palomo
 - Jevon Jackson
+- Mark Angel
 - Pat Fee
 - Wyser
 

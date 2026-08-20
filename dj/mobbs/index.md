@@ -1,6 +1,6 @@
 # Mobbs
 
-Mobbs is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M.O.T, London on Wed, 2 Sept 2026.
+Mobbs is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at M.O.T, London on Wed, 2 Sept 2026.
 
 Mobbs is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, London and Manchester and 2 more. Often billed alongside susu laroche, JOSEF KURTZ and JULINE. Next up: M.O.T, London on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Mobbs is an ambient and experimental artist based in United Kingdom, tracked on 
 
 susu laroche, JOSEF KURTZ, JULINE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mobbs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mobbs/)*

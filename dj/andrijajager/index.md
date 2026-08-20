@@ -1,6 +1,6 @@
 # Andrija Jäger
 
-Andrija Jäger is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
+Andrija Jäger is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
 
 Andrija Jäger is a house and minimal artist based in Hungary, tracked on soundcheck, with 102 sets logged across Budapest. Often billed alongside JAGER (HU), Dorota and Acsa. Next up: TBA -  Secret Open Air Party, Budapest on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Andrija Jäger is a house and minimal artist based in Hungary, tracked on soundc
 
 JAGER (HU), Dorota, Acsa
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijajager/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijajager/)*

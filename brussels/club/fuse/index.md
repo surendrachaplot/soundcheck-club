@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Fuse presents: Dan Shake & Luke Alessi" on Sat, 22 Aug 2026.
+Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Fuse presents: Dan Shake & Luke Alessi" on Sat, 22 Aug 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including 2HOT2PLAY, ALT8, Andy C and Arter and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

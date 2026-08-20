@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 46 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Come To Butch" on Tue, 18 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 45 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Mahmut Orhan: Mahmut Orhan, Rivo, LUNA & LENTHE, VITE" on Wed, 19 Aug 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 46 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alan Dixon and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 45 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alan Dixon and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Come To Butch | Butch, Demi Riquisimo, Fafi Abdel Nour, Jennifer Loveless |
 | Wed, 19 Aug 2026 | Mahmut Orhan: Mahmut Orhan, Rivo, LUNA & LENTHE, VITE | Luna (1), Mahmut Orhan, Rivo, VITE |
 | Thu, 20 Aug 2026 | Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology | D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology |
 | Fri, 21 Aug 2026 | Major League Djz presents: SPARROW, Massuma, AMIYA | Major League Djz, Massuma, Sparrow (CH) |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 46 upcoming nights
 | Tue, 25 Aug 2026 | Come To Butch | Butch, Najeh, PARAMIDA, Shawnecy |
 | Wed, 26 Aug 2026 | Mahmut Orhan: Mahmut Orhan, Shimza, Rami, MFK | MFK, Mahmut Orhan, Rami, Shimza |
 | Thu, 27 Aug 2026 | Defected: Darius Syrossian, Low Steppa, Monki, Riva Starr, Sian Owen | Darius Syrossian, Lowsteppa, Monki, Riva Starr |
+| Fri, 28 Aug 2026 | Major League Djz presents: Ape Drums, GROSSOMODDO, Nicole da Silva | Ape Drums, Major League Djz, Nicole da Silva |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

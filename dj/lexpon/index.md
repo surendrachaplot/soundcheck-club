@@ -1,13 +1,14 @@
 # lexpon
 
-lexpon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Beat Boutique, Hamburg on Sat, 3 Oct 2026.
+lexpon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dot Club, Hamburg on Fri, 21 Aug 2026.
 
-lexpon is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Burak55, F!NN and Frank Leder. Next up: Beat Boutique, Hamburg on Sat 3 Oct.
+lexpon is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Burak55, F!NN and Frank Leder. Next up: Dot Club, Hamburg on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Dot Club | Hamburg |
 | Sat, 3 Oct 2026 | Beat Boutique | Hamburg |
 
 ## Recently played
@@ -19,4 +20,4 @@ lexpon is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Burak55, F!NN, Frank Leder
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexpon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexpon/)*

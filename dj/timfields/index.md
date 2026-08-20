@@ -1,6 +1,6 @@
 # Tim Fields
 
-Tim Fields is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eden NYC, New York City on Sun, 6 Sept 2026.
+Tim Fields is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eden NYC, New York City on Sun, 6 Sept 2026.
 
 Tim Fields is a club and baile funk artist based in United States of America, tracked on soundcheck, with 38 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Spinrillo, Nanoos and Vonnie Mack. Next up: Eden NYC, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Tim Fields is a club and baile funk artist based in United States of America, tr
 
 Spinrillo, Nanoos, Vonnie Mack
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timfields/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timfields/)*

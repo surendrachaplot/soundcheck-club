@@ -1,6 +1,6 @@
 # WKND X OFFLINE - SUMMER CLOSING at Weekend
 
-WKND X OFFLINE - SUMMER CLOSING at Weekend on Fri 11 Sept, Berlin. 1 act on the bill: DJ PayPaul. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X OFFLINE - SUMMER CLOSING at Weekend on Fri 11 Sept, Berlin. 2 acts on the bill: Black elektronika and DJ PayPaul. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WKND X OFFLINE - SUMMER CLOSING at Weekend on Fri 11 Sept, Berlin. 1 act on the 
 
 ## Line-up
 
+- Black elektronika
 - DJ PayPaul
 
 *Source: [soundcheck](https://soundcheck.club/e/2484478-wknd-x-offline-summer-closing-at-weekend/)*

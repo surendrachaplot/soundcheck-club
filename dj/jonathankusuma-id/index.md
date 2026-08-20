@@ -1,13 +1,14 @@
 # Jonathan Kusuma
 
-Jonathan Kusuma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+Jonathan Kusuma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Noon + Cafe, Osaka on Fri, 11 Sept 2026.
 
-Jonathan Kusuma is a house and techno artist based in Indonesia, tracked on soundcheck, with 33 sets logged across Bali, Bangkok, Berlin and Hongkong and 4 more. Often billed alongside YAMARCHY, Kimoji and CHIDA. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
+Jonathan Kusuma is a house and techno artist based in Indonesia, tracked on soundcheck, with 34 sets logged across Bali, Bangkok, Berlin and Hongkong and 5 more. Often billed alongside YAMARCHY, Kimoji and CHIDA. Next up: Noon + Cafe, Osaka on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Noon + Cafe | Osaka |
 | Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jonathan Kusuma is a house and techno artist based in Indonesia, tracked on soun
 
 YAMARCHY, Kimoji, CHIDA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*

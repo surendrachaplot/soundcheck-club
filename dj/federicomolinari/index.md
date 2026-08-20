@@ -1,6 +1,6 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
+Federico Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
 
 Federico Molinari is a house and techno artist tracked on soundcheck, with 67 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Club der Visionaere, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Federico Molinari is a house and techno artist tracked on soundcheck, with 67 se
 
 Nekes, Alvaro Medina, Dorian Paic
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*

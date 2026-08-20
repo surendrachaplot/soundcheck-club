@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 62 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "HIROSHI KAWANABE & FELINE" on Wed, 19 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 61 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "HOUSE-TEX" on Thu, 20 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 62 upcoming nights, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and KATIMI AI and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 61 upcoming nights, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and KATIMI AI and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | HIROSHI KAWANABE & FELINE | FELINE (JP) |
 | Thu, 20 Aug 2026 | HOUSE-TEX | DJ Emma, KZA |
 | Fri, 21 Aug 2026 | LONDON AFTER MIDNIGHT |  |
 | Sat, 22 Aug 2026 | Toshiyuki Goto & KEI NAKAHARA | Toshiyuki Goto |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 62 upcoming nights
 | Thu, 27 Aug 2026 | Royal Warrant Society |  |
 | Fri, 28 Aug 2026 | DJ Bar Bridge SHIBUYA 12th ANNIVERSARY PARTY 2DAYS DAY1 | DJ Nori, Ohishi |
 | Sat, 29 Aug 2026 | DJ Bar Bridge SHIBUYA 12th ANNIVERSARY PARTY 2DAYS DAY2 | DJ Emma, KATIMI AI, KZA, Toshiyuki Goto |
+| Mon, 31 Aug 2026 | STONE JAM |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

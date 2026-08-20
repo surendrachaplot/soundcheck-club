@@ -1,6 +1,6 @@
 # Tini Tun
 
-Tini Tun is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
+Tini Tun is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
 
 Tini Tun is a progressive house and electronica artist tracked on soundcheck, with 22 sets logged across Mexicocity. Often billed alongside Vazik, Em Boss and Gavin Hardkiss. Next up: TBA, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Tini Tun is a progressive house and electronica artist tracked on soundcheck, wi
 
 Vazik, Em Boss, Gavin Hardkiss
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinitun/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinitun/)*

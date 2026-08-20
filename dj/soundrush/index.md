@@ -1,8 +1,8 @@
 # Sound Rush
 
-Sound Rush is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
+Sound Rush is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
 
-Sound Rush is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Cologne, Frankfurt, Losangeles and Madrid and 3 more. Often billed alongside Yeyo, Angerfist and Act of Rage. Next up: Fabrik, Madrid on Sat 19 Sept.
+Sound Rush is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Cologne, Frankfurt, Losangeles and Madrid and 3 more. Often billed alongside Angerfist, Yeyo and Act of Rage. Next up: Fabrik, Madrid on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sound Rush is a hardcore and techno artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-Yeyo, Angerfist, Act of Rage
+Angerfist, Yeyo, Act of Rage
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundrush/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundrush/)*

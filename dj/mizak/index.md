@@ -1,6 +1,6 @@
 # MIZAK
 
-MIZAK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Treehaus, Uno Malta, Malta on Fri, 21 Aug 2026.
+MIZAK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Treehaus, Uno Malta, Malta on Fri, 21 Aug 2026.
 
 MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, with 9 sets logged across Malta. Often billed alongside ANT Mifsud, Carl Bee and Daniel Blade. Next up: Treehaus, Uno Malta, Malta on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, w
 
 ANT Mifsud, Carl Bee, Daniel Blade
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*

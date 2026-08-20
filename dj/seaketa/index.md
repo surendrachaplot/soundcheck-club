@@ -1,13 +1,14 @@
 # seaketa
 
-seaketa is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
+seaketa is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
 
-seaketa is an electronica and club artist based in Japan, tracked on soundcheck, with 23 sets logged across Kyoto and Tokyo. Often billed alongside NordOst, okadada and pnnikin. Next up: Saloon, Tokyo on Fri 21 Aug.
+seaketa is an electronica and club artist based in Japan, tracked on soundcheck, with 24 sets logged across Kyoto and Tokyo. Often billed alongside okadada, NordOst and pnnikin. Next up: Saloon, Tokyo on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Saloon | Tokyo |
 | Fri, 21 Aug 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ seaketa is an electronica and club artist based in Japan, tracked on soundcheck,
 
 ## Shares bills with
 
-NordOst, okadada, pnnikin
+okadada, NordOst, pnnikin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*

@@ -1,6 +1,6 @@
 # Dean Chew
 
-Dean Chew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
+Dean Chew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
 
 Dean Chew is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Bangkok and Berlin and 16 more. Often billed alongside Daryl Knows, Dexter Colt and Marco Weibel. Next up: TBA, Singapore on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Dean Chew is a house and techno artist tracked on soundcheck, with 60 sets logge
 
 Daryl Knows, Dexter Colt, Marco Weibel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*

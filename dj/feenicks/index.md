@@ -1,6 +1,6 @@
 # Feenicks
 
-Feenicks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 21 Aug 2026.
+Feenicks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 21 Aug 2026.
 
 Feenicks is a techno and trance artist based in United States of America, tracked on soundcheck, with 79 sets logged across Newyorkcity, Paris and Prague. Often billed alongside Raketa95, Misha Jaru and Pink Concrete. Next up: Ankali & Planeta Za, Prague on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Feenicks is a techno and trance artist based in United States of America, tracke
 
 Raketa95, Misha Jaru, Pink Concrete
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*

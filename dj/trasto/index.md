@@ -1,6 +1,6 @@
 # Trasto
 
-Trasto is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Lasociaciøn, Madrid on Fri, 18 Sept 2026.
+Trasto is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lasociaciøn, Madrid on Fri, 18 Sept 2026.
 
 Trasto is a techno and downtempo artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside ADRI.G, Jakka and Ricardo Morales. Next up: Lasociaciøn, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Trasto is a techno and downtempo artist tracked on soundcheck, with 15 sets logg
 
 ADRI.G, Jakka, Ricardo Morales
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trasto/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trasto/)*

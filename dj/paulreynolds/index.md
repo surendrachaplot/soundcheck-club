@@ -1,6 +1,6 @@
 # Paul Reynolds
 
-Paul Reynolds is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 24 Aug 2026.
+Paul Reynolds is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 24 Aug 2026.
 
 Paul Reynolds is a house and progressive house artist tracked on soundcheck, with 140 sets logged across Barcelona, Ibiza, Liverpool and London. Often billed alongside Black Coffee, Damian Lazarus and David Guetta. Next up: Ushuaïa Ibiza, Ibiza on Mon 24 Aug.
 
@@ -32,4 +32,4 @@ Paul Reynolds is a house and progressive house artist tracked on soundcheck, wit
 
 Black Coffee, Damian Lazarus, David Guetta
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulreynolds/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulreynolds/)*

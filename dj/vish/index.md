@@ -1,6 +1,6 @@
 # vish
 
-vish is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Greyhound, London on Thu, 3 Sept 2026.
+vish is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Greyhound, London on Thu, 3 Sept 2026.
 
 vish is a bass and garage artist tracked on soundcheck, with 19 sets logged across Leeds and London. Often billed alongside MF Ceól, MUSICKLUNATIC and Make Money Mafia. Next up: The Greyhound, London on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ vish is a bass and garage artist tracked on soundcheck, with 19 sets logged acro
 
 MF Ceól, MUSICKLUNATIC, Make Money Mafia
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*

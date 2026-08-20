@@ -1,6 +1,6 @@
 # WolfJazz
 
-WolfJazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
+WolfJazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
 
 WolfJazz is a techno and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh and Glasgow. Often billed alongside Keyte, Stephen Brown and Bash Man. Next up: La Belle Angele, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ WolfJazz is a techno and house artist based in United Kingdom, tracked on soundc
 
 Keyte, Stephen Brown, Bash Man
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*

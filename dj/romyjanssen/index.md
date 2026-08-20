@@ -1,6 +1,6 @@
 # Romy Janssen
 
-Romy Janssen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
+Romy Janssen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
 
 Romy Janssen is a house and techno artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Rancido, Romy and Benja (NL). Next up: Het Sieraad, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Romy Janssen is a house and techno artist based in Netherlands, tracked on sound
 
 Rancido, Romy, Benja (NL)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*

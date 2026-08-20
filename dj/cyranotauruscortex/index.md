@@ -1,6 +1,6 @@
 # Cyranotaurus Cortex
 
-Cyranotaurus Cortex is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Cyranotaurus Cortex is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Cyranotaurus Cortex is a new wave and italo disco artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Goldenaxe, Freudenthal and Stephan Licha. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cyranotaurus Cortex is a new wave and italo disco artist tracked on soundcheck, 
 
 Goldenaxe, Freudenthal, Stephan Licha
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyranotauruscortex/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyranotauruscortex/)*

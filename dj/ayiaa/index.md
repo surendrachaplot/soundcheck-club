@@ -1,14 +1,15 @@
 # Ayiaa
 
-Ayiaa is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Altenburg 1964, Prague on Thu, 27 Aug 2026.
+Ayiaa is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Altenburg 1964, Prague on Thu, 27 Aug 2026.
 
-Ayiaa is an electronic artist based in Czech Republic, tracked on soundcheck, with 12 sets logged across Prague. Often billed alongside Dash (CZ), Fembot and Shurigen. Next up: Altenburg 1964, Prague on Thu 27 Aug.
+Ayiaa is an electronic artist based in Czech Republic, tracked on soundcheck, with 13 sets logged across Prague. Often billed alongside Dash (CZ), Fembot and Shurigen. Next up: Altenburg 1964, Prague on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 12 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ayiaa is an electronic artist based in Czech Republic, tracked on soundcheck, wi
 
 Dash (CZ), Fembot, Shurigen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayiaa/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayiaa/)*

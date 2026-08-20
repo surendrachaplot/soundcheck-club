@@ -1,14 +1,13 @@
 # Studio Stereo
 
-Studio Stereo is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Studio Stereo TBA" on Fri, 4 Sept 2026.
+Studio Stereo is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Studio Stereo pres. Jabba Records showcase" on Sat, 5 Sept 2026.
 
-Studio Stereo is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including A. CASANOVA, FLEX.cat, Funky Shirts MZN and J.Benitez (2). Browse upcoming dates, start times and who's playing. 08007.
+Studio Stereo is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including A. CASANOVA, FLEX.cat, Funky Shirts MZN and J.Benitez (2). Browse upcoming dates, start times and who's playing. 08007.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Studio Stereo TBA | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
 | Sat, 5 Sept 2026 | Studio Stereo pres. Jabba Records showcase | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
 | Thu, 10 Sept 2026 | Studio Stereo TBA |  |
 | Fri, 11 Sept 2026 | Studio Stereo TBA |  |
@@ -23,4 +22,4 @@ Studio Stereo is a music venue in Barcelona listed on soundcheck. 10 upcoming ni
 
 08007, Barcelona
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*

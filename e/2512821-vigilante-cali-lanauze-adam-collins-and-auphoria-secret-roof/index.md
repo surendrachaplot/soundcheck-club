@@ -1,11 +1,11 @@
-# Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location) at Summertime Roof Terrace
+# Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location) at Roof Terrace BK
 
-Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location) at Summertime Roof Terrace on Fri 21 Aug, Newyorkcity. 3 acts on the bill: Adam Collins, Auphoria and Cali Lanauze. Minimal. Preview the line-up and save it on soundcheck.
+Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location) at Roof Terrace BK on Fri 21 Aug, Newyorkcity. 3 acts on the bill: Adam Collins, Auphoria and Cali Lanauze. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 21 Aug 2026 |
-| Venue | Summertime Roof Terrace |
+| Venue | Roof Terrace BK |
 | City | New York City |
 
 ## Line-up

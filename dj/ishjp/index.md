@@ -1,6 +1,6 @@
 # ish (JP)
 
-ish (JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at West Harlem, Kyoto on Fri, 4 Sept 2026.
+ish (JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at West Harlem, Kyoto on Fri, 4 Sept 2026.
 
 ish (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Kyoto. Often billed alongside nap(JP), Kross Section and kimryo. Next up: West Harlem, Kyoto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ish (JP) is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 nap(JP), Kross Section, kimryo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishjp/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishjp/)*

@@ -1,13 +1,14 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "City Splash: Carnival Warm Up Party" on Fri, 28 Aug 2026.
+The Steel Yard is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Destin Conrad - Roadrunner Album Release & Dancehall Bashment" on Thu, 20 Aug 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AVANTIME, Beezo, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AVANTIME, Beezo, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Destin Conrad - Roadrunner Album Release & Dancehall Bashment |  |
 | Fri, 28 Aug 2026 | City Splash: Carnival Warm Up Party | DJ Nate (UK), Rampage Sound |
 | Fri, 4 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - SOFT | Oliver Scala, SORAYA*, Steffi, Wes Baggaley |
 | Sat, 5 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - HARD | CITYTRONIX, Diana Isi, Laure Croft, Simik, nohexcode |
@@ -17,10 +18,9 @@ The Steel Yard is a music venue in London listed on soundcheck. 11 upcoming nigh
 | Sat, 3 Oct 2026 | Virus - Face 2 Face |  |
 | Sat, 10 Oct 2026 | Stanton Warriors presents: Stanton Sessions | Stanton Warriors |
 | Sat, 17 Oct 2026 | Cirque Du Rave Is Coming To London |  |
-| Fri, 23 Oct 2026 | LAVERN: 360 Show | LAVERN |
 
 ## Address
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

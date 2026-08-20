@@ -1,6 +1,6 @@
 # Peacock Lounge
 
-Peacock Lounge is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "We Micromanage Infinity, DJ Female Convict Scorpion, Shatter Pattern, Heglin & Benedict" on Thu, 10 Sept 2026.
+Peacock Lounge is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "We Micromanage Infinity, DJ Female Convict Scorpion, Shatter Pattern, Heglin & Benedict" on Thu, 10 Sept 2026.
 
 Peacock Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 552 Haight Street.
 
@@ -14,4 +14,4 @@ Peacock Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming
 
 552 Haight Street, San Francisco/Oakland
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/peacock-lounge/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/peacock-lounge/)*

@@ -1,13 +1,14 @@
 # VENERE
 
-VENERE is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Lock Inn Camden, London on Fri, 4 Sept 2026.
+VENERE is a Deep House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at LA-YAM Rooftop, London on Sun, 23 Aug 2026.
 
-VENERE is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Buenosaires, London and Tallinn. Often billed alongside Colaps, Lester Isaac and Bibiminor. Next up: Lock Inn Camden, London on Fri 4 Sept.
+VENERE is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Buenosaires, London and Tallinn. Often billed alongside Colaps, Lester Isaac and Bibiminor. Next up: LA-YAM Rooftop, London on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | LA-YAM Rooftop | London |
 | Fri, 4 Sept 2026 | Lock Inn Camden | London |
 | Sun, 13 Sept 2026 | The Timber Loft | London |
 
@@ -26,4 +27,4 @@ VENERE is a deep house and tech house artist based in United Kingdom, tracked on
 
 Colaps, Lester Isaac, Bibiminor
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*

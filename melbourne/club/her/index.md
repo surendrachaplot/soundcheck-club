@@ -1,6 +1,6 @@
 # Her
 
-Her is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "ALLEY TUNES TAKEOVER" on Sat, 29 Aug 2026.
+Her is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "ALLEY TUNES TAKEOVER" on Sat, 29 Aug 2026.
 
 Her is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Chris NG and MAXVEGAS. Browse upcoming dates, start times and who's playing. 270 Lonsdale St, Melbourne, Australia.
 
@@ -14,4 +14,4 @@ Her is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with l
 
 270 Lonsdale St, Melbourne, Australia, Melbourne
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*

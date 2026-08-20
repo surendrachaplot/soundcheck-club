@@ -1,14 +1,15 @@
 # James Frances
 
-James Frances is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
+James Frances is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
 
-James Frances is a house and funk / soul artist tracked on soundcheck, with 26 sets logged across Leeds. Often billed alongside Spilly, Anastasia McGarel and Liam Oades. Next up: Eiger Studios, Leeds on Fri 28 Aug.
+James Frances is a house and funk / soul artist tracked on soundcheck, with 27 sets logged across Leeds. Often billed alongside Anastasia McGarel, Spilly and Liam Oades. Next up: Eiger Studios, Leeds on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Eiger Studios | Leeds |
+| Fri, 2 Oct 2026 | Wharf Chambers | Leeds |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ James Frances is a house and funk / soul artist tracked on soundcheck, with 26 s
 
 ## Shares bills with
 
-Spilly, Anastasia McGarel, Liam Oades
+Anastasia McGarel, Spilly, Liam Oades
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfrances/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfrances/)*

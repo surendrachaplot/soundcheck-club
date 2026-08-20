@@ -1,6 +1,6 @@
 # ERIS
 
-ERIS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Wanderlust, Paris on Thu, 10 Sept 2026.
+ERIS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wanderlust, Paris on Thu, 10 Sept 2026.
 
 ERIS is a house and techno artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Dea (6), Enrica Falqui and Aline Umber. Next up: Wanderlust, Paris on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ ERIS is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Dea (6), Enrica Falqui, Aline Umber
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eris/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eris/)*

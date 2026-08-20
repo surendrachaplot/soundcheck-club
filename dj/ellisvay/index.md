@@ -1,6 +1,6 @@
 # Ellis Vay
 
-Ellis Vay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
+Ellis Vay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
 
 Ellis Vay is a disco and house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside muchogusto and stampott. Next up: Akhnaton, Amsterdam on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Ellis Vay is a disco and house artist based in Netherlands, tracked on soundchec
 
 muchogusto, stampott
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisvay/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisvay/)*

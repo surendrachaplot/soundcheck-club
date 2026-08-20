@@ -1,8 +1,8 @@
-# TBA - Bunker
+# TBA -  BUNKER
 
-TBA - Bunker is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "PicNic x Aligned" on Sat, 22 Aug 2026.
+TBA -  BUNKER is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "PicNic x Aligned" on Sat, 22 Aug 2026.
 
-TBA - Bunker is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including hoelub, jamadam and Zayac. Browse upcoming dates, start times and who's playing.
+TBA -  BUNKER is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including hoelub, jamadam and Zayac. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -11,4 +11,4 @@ TBA - Bunker is a music venue in Cologne listed on soundcheck. 2 upcoming nights
 | Sat, 22 Aug 2026 | PicNic x Aligned | Zayac, hoelub, jamadam |
 | Fri, 28 Aug 2026 | MUTATE AFTERS: Enzyme |  |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-bunker/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-bunker/)*

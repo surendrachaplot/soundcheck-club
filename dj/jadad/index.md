@@ -1,6 +1,6 @@
 # Jad Ad
 
-Jad Ad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+Jad Ad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 Jad Ad is a techno and house artist based in Palestine, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Chafic, Daragma and Aerodroemme. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jad Ad is a techno and house artist based in Palestine, tracked on soundcheck, w
 
 Chafic, Daragma, Aerodroemme
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadad/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadad/)*

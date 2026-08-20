@@ -1,6 +1,6 @@
 # Young Franco
 
-Young Franco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
+Young Franco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
 
 Young Franco is a house and disco artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Little Fritter, Osmosis Jones and 1tbsp. Next up: FS., Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Young Franco is a house and disco artist tracked on soundcheck, with 47 sets log
 
 Little Fritter, Osmosis Jones, 1tbsp
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*

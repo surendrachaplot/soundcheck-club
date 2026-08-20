@@ -1,6 +1,6 @@
 # DJ Sundae
 
-DJ Sundae is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ Sundae is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 DJ Sundae is a club and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 13 more. Often billed alongside John Talabot, Lena Willikens and Avalon Emerson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Sundae is a club and techno artist tracked on soundcheck, with 45 sets logged
 
 John Talabot, Lena Willikens, Avalon Emerson
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*

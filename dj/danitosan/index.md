@@ -1,8 +1,8 @@
 # Danito San
 
-Danito San is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+Danito San is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
-Danito San is a techno and ghetto tech artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Mababy, C'mon and DJ Primitivo. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
+Danito San is a techno and ghetto tech artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Mababy, Mareike Bautz and C'mon. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Danito San is a techno and ghetto tech artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-Mababy, C'mon, DJ Primitivo
+Mababy, Mareike Bautz, C'mon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danitosan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danitosan/)*

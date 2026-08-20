@@ -1,6 +1,6 @@
 # James Nash
 
-James Nash is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Joshua Brooks, Manchester on Sat, 26 Sept 2026.
+James Nash is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Joshua Brooks, Manchester on Sat, 26 Sept 2026.
 
 James Nash is a house and tech house artist tracked on soundcheck, with 12 sets logged across Bristol and Manchester. Often billed alongside Fleur Shore, A For Alpha and ALISHA. Next up: Joshua Brooks, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ James Nash is a house and tech house artist tracked on soundcheck, with 12 sets 
 
 Fleur Shore, A For Alpha, ALISHA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*

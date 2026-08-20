@@ -1,6 +1,6 @@
 # DJ MILLE
 
-DJ MILLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
+DJ MILLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
 
 DJ MILLE is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Momo, fr. JPLA and Finona Rider. Next up: Phoxxi Green Area, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ MILLE is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Momo, fr. JPLA, Finona Rider
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmille/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmille/)*

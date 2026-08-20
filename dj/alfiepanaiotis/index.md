@@ -1,6 +1,6 @@
 # Alfie Panaiotis
 
-Alfie Panaiotis is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
+Alfie Panaiotis is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
 
 Alfie Panaiotis is a disco and house artist based in France, tracked on soundcheck, with 15 sets logged across London and Paris. Often billed alongside Paloma (DJ), Tall Nico and Liminal People. Next up: Grow, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Alfie Panaiotis is a disco and house artist based in France, tracked on soundche
 
 Paloma (DJ), Tall Nico, Liminal People
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfiepanaiotis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfiepanaiotis/)*

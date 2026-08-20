@@ -1,13 +1,14 @@
 # Maveen
 
-Maveen is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Stereo, Glasgow on Sat, 12 Sept 2026.
+Maveen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Stereo, Glasgow on Mon, 24 Aug 2026.
 
-Maveen is a techno and house artist tracked on soundcheck, with 58 sets logged across Dundee, Edinburgh, Glasgow and Manchester. Often billed alongside Shakara, DIJA and Plantainchipps. Next up: Stereo, Glasgow on Sat 12 Sept.
+Maveen is a techno and house artist tracked on soundcheck, with 59 sets logged across Dundee, Edinburgh, Glasgow and Manchester. Often billed alongside Shakara, DIJA and Plantainchipps. Next up: Stereo, Glasgow on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 24 Aug 2026 | Stereo | Glasgow |
 | Sat, 12 Sept 2026 | Stereo | Glasgow |
 | Fri, 18 Sept 2026 | EXIT Glasgow | Glasgow |
 | Fri, 9 Oct 2026 | The Berkeley Suite | Glasgow |
@@ -27,4 +28,4 @@ Maveen is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 Shakara, DIJA, Plantainchipps
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maveen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maveen/)*

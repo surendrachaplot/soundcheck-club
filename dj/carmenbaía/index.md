@@ -1,13 +1,14 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sub Club, Glasgow on Thu, 8 Oct 2026.
+Carmen Baía is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 12 Sept 2026.
 
-Carmen Baía is a house and techno artist tracked on soundcheck, with 73 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Robbie, Jamie Gunn and T.D. Slider. Next up: Sub Club, Glasgow on Thu 8 Oct.
+Carmen Baía is a house and techno artist tracked on soundcheck, with 74 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Robbie, Jamie Gunn and T.D. Slider. Next up: People's Leisure Club, Edinburgh on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | People's Leisure Club | Edinburgh |
 | Thu, 8 Oct 2026 | Sub Club | Glasgow |
 | Thu, 29 Oct 2026 | King Tut's Wah Wah Hut | Glasgow |
 
@@ -26,4 +27,4 @@ Carmen Baía is a house and techno artist tracked on soundcheck, with 73 sets lo
 
 Robbie, Jamie Gunn, T.D. Slider
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

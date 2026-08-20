@@ -1,6 +1,6 @@
 # Soso Klein
 
-Soso Klein is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Klunkerkranich, Berlin on Fri, 21 Aug 2026.
+Soso Klein is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Fri, 21 Aug 2026.
 
 Soso Klein is a downtempo and house artist based in France, tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Copenhagen and Munich. Often billed alongside Horst Haller, Alex.Do and Elias Doré. Next up: Klunkerkranich, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Soso Klein is a downtempo and house artist based in France, tracked on soundchec
 
 Horst Haller, Alex.Do, Elias Doré
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*

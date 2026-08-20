@@ -1,6 +1,6 @@
 # audite
 
-audite is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+audite is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 audite is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Prague. Often billed alongside Upzet, Aynaet and Jimi Handtrix. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ audite is a drum & bass and jungle artist based in Germany, tracked on soundchec
 
 Upzet, Aynaet, Jimi Handtrix
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*

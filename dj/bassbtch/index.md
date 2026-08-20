@@ -1,6 +1,6 @@
 # Bass Btch
 
-Bass Btch is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
+Bass Btch is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
 
 Bass Btch is a house and pop artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Absoluut, TMORGZ and DJOOMPH. Next up: Club NYX, Amsterdam on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Bass Btch is a house and pop artist tracked on soundcheck, with 3 sets logged ac
 
 Absoluut, TMORGZ, DJOOMPH
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbtch/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbtch/)*

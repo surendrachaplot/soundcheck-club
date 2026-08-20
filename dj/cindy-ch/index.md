@@ -1,6 +1,6 @@
 # Cindy (CH)
 
-Cindy (CH) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Cindy (CH) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Cindy (CH) is a bass and techno artist based in Albania, tracked on soundcheck, with 5 sets logged across Amsterdam and Zurich. Often billed alongside A Strange Wedding, ADO (DE) and Add FM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Cindy (CH) is a bass and techno artist based in Albania, tracked on soundcheck, 
 
 A Strange Wedding, ADO (DE), Add FM
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*

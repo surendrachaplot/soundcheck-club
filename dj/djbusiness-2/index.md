@@ -1,6 +1,6 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Goldener Reiter, Munich on Sat, 22 Aug 2026.
+DJ Business (2) is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Goldener Reiter, Munich on Sat, 22 Aug 2026.
 
 DJ Business (2) is a house and ghetto tech artist based in Germany, tracked on soundcheck, with 49 sets logged across Basel, Berlin, Leipzig and Miami and 4 more. Often billed alongside Wall Ra, Carl Hang and die_ley. Next up: Goldener Reiter, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Business (2) is a house and ghetto tech artist based in Germany, tracked on s
 
 Wall Ra, Carl Hang, die_ley
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

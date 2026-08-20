@@ -1,6 +1,6 @@
 # REINKARNATION - SZG, MRGNSTRN, CARGO b2b DiscoDaisy, NETTTA, AMO at ://about blank
 
-REINKARNATION - SZG, MRGNSTRN, CARGO b2b DiscoDaisy, NETTTA, AMO at ://about blank on Sat 22 Aug, Berlin. 9 acts on the bill: alemiko, AMO, CARGO and DiscoDaisy and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+REINKARNATION - SZG, MRGNSTRN, CARGO b2b DiscoDaisy, NETTTA, AMO at ://about blank on Sat 22 Aug, Berlin. 11 acts on the bill: alemiko, AMO, Amo (IT) and CARGO and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ REINKARNATION - SZG, MRGNSTRN, CARGO b2b DiscoDaisy, NETTTA, AMO at ://about bla
 
 - alemiko
 - AMO
+- Amo (IT)
 - CARGO
+- CARGO (DE)
 - DiscoDaisy
 - DjRundfunk
 - jeanska

@@ -1,6 +1,6 @@
 # Aileron
 
-Aileron is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
+Aileron is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
 
 Aileron is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Glasgow. Often billed alongside COURTEZ, ITEM9 and SAPHOS. Next up: Club 69, Glasgow on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Aileron is a techno and trance artist based in United Kingdom, tracked on soundc
 
 COURTEZ, ITEM9, SAPHOS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aileron/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aileron/)*

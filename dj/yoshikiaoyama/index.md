@@ -1,6 +1,6 @@
 # Yoshiki Aoyama
 
-Yoshiki Aoyama is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Aoyama Hachi, Tokyo on Thu, 20 Aug 2026.
+Yoshiki Aoyama is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Aoyama Hachi, Tokyo on Thu, 20 Aug 2026.
 
 Yoshiki Aoyama is a house and disco artist based in Japan, tracked on soundcheck, with 94 sets logged across Tokyo. Often billed alongside Naoki Iwata, MagRena and TKS1T. Next up: Aoyama Hachi, Tokyo on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Yoshiki Aoyama is a house and disco artist based in Japan, tracked on soundcheck
 
 Naoki Iwata, MagRena, TKS1T
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikiaoyama/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikiaoyama/)*

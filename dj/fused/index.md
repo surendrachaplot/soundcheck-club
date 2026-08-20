@@ -1,6 +1,6 @@
 # Fused
 
-Fused is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 26 Aug 2026.
+Fused is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 26 Aug 2026.
 
 Fused is a house and techno artist based in Greece, tracked on soundcheck, with 20 sets logged across Athens, Barcelona and Mykonos. Often billed alongside John Summit, Gorgon City and Junior Pappa. Next up: Cavo Paradiso, Mykonos on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Fused is a house and techno artist based in Greece, tracked on soundcheck, with 
 
 John Summit, Gorgon City, Junior Pappa
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fused/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fused/)*

@@ -1,6 +1,6 @@
 # fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma at fabric
 
-fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma on Fri 21 Aug, London. 7 acts on the bill: Ben Sterling, Dale Mussington, DELASFLORES and Ms. Mada and 3 more. Preview the line-up and save it on soundcheck.
+fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma on Fri 21 Aug, London. 10 acts on the bill: Andrés Solar, Ben Sterling, Christian Sanchez and Dale Mussington and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan F
 
 ## Line-up
 
+- Andrés Solar
 - Ben Sterling
+- Christian Sanchez
 - Dale Mussington
 - DELASFLORES
+- Duble Mctruble
 - Ms. Mada
 - Oma (UK)
 - Regan Funk

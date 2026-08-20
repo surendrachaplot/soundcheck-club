@@ -1,6 +1,6 @@
 # Anémi
 
-Anémi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+Anémi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 Anémi is a techno and trance artist based in Norway, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Copenhagen and Oslo. Often billed alongside Skodde, Guild Navigator and Komet99. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Anémi is a techno and trance artist based in Norway, tracked on soundcheck, wit
 
 Skodde, Guild Navigator, Komet99
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anemi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anemi/)*

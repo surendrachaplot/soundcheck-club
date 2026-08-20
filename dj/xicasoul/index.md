@@ -1,6 +1,6 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Danger Danger, New York City on Fri, 21 Aug 2026.
+Xica Soul is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Danger Danger, New York City on Fri, 21 Aug 2026.
 
 Xica Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: Danger Danger, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Xica Soul is a house and disco artist based in United States of America, tracked
 
 Masha Mar, Marco Weibel, Tottie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*

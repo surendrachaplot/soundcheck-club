@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+IDEMI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 IDEMI is a house and techno artist tracked on soundcheck, with 19 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 12 more. Often billed alongside Marsolo, DJ Gigola and DJ Heartstring. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ IDEMI is a house and techno artist tracked on soundcheck, with 19 sets logged ac
 
 Marsolo, DJ Gigola, DJ Heartstring
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

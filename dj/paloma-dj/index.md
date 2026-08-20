@@ -1,6 +1,6 @@
 # Paloma (DJ)
 
-Paloma (DJ) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
+Paloma (DJ) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
 
 Paloma (DJ) is a disco and house artist based in Bulgaria, tracked on soundcheck, with 18 sets logged across Bristol, London and Rome. Often billed alongside Alfie Panaiotis, Liminal People and Mr Bongo. Next up: Grow, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Paloma (DJ) is a disco and house artist based in Bulgaria, tracked on soundcheck
 
 Alfie Panaiotis, Liminal People, Mr Bongo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma-dj/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma-dj/)*

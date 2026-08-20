@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+Blame The Mono is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
 Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets logged across Athens, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: The DBA, Manchester on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets
 
 DLV, CAIVA, DJ Hyperdrive
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

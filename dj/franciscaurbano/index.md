@@ -1,14 +1,15 @@
 # Francisca Urbano
 
-Francisca Urbano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Francisca Urbano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
-Francisca Urbano is a techno and house artist based in Portugal, tracked on soundcheck, with 58 sets logged across Lisbon, Porto and Zurich. Often billed alongside Johan (PT), Luisa and Amulador. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
+Francisca Urbano is a techno and house artist based in Portugal, tracked on soundcheck, with 59 sets logged across Lisbon, Porto and Zurich. Often billed alongside Johan (PT), Luisa and Amulador. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Village Underground Lisboa | Lisbon |
+| Sat, 26 Sept 2026 | TBA | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Francisca Urbano is a techno and house artist based in Portugal, tracked on soun
 
 Johan (PT), Luisa, Amulador
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*

@@ -1,6 +1,6 @@
 # VINAVINA
 
-VINAVINA is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Hope & Anchor, London on Sat, 22 Aug 2026.
+VINAVINA is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Hope & Anchor, London on Sat, 22 Aug 2026.
 
 VINAVINA is a disco and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Azire. Next up: TBA - Hope & Anchor, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ VINAVINA is a disco and house artist based in United Kingdom, tracked on soundch
 
 Azire
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinavina/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinavina/)*

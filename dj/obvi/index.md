@@ -1,6 +1,6 @@
 # obvi
 
-obvi is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
+obvi is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jade, New York City on Fri, 21 Aug 2026.
 
 obvi is a club and techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity and Philadelphia. Often billed alongside Traps N Trees, America Loves Me and Angel Jelly. Next up: Jade, Newyorkcity on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ obvi is a club and techno artist tracked on soundcheck, with 5 sets logged acros
 
 Traps N Trees, America Loves Me, Angel Jelly
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obvi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obvi/)*

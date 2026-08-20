@@ -1,6 +1,6 @@
 # Nat SuPrise
 
-Nat SuPrise is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 21 Aug 2026.
+Nat SuPrise is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 21 Aug 2026.
 
 Nat SuPrise is a techno and tech house artist based in Germany, tracked on soundcheck, with 84 sets logged across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: Der Weiße Hase, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Nat SuPrise is a techno and tech house artist based in Germany, tracked on sound
 
 Sika Akis, Kaminka Merel, Mijk van Dijk
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*

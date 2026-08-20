@@ -1,8 +1,8 @@
 # Manfredas
 
-Manfredas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Manfredas is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 30 more. Often billed alongside Ivan Smagghe, Dresden and Chez de Milo. Next up: The Cause, London on Sat 12 Sept.
+Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 30 more. Often billed alongside Ivan Smagghe, Dresden and Chez de Milo. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
+| Fri, 30 Oct 2026 | 1520 | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck
 
 Ivan Smagghe, Dresden, Chez de Milo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*

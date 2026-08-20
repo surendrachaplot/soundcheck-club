@@ -1,8 +1,8 @@
 # Wade
 
-Wade is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
+Wade is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
 
-Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Basel and Brisbane and 30 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Madrid Caja Mágica, Madrid on Sat 5 Sept.
+Wade is a tech house and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Basel and Brisbane and 30 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Madrid Caja Mágica, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Sat, 19 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 9 Oct 2026 | Opium Barcelona | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

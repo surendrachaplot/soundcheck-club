@@ -1,6 +1,6 @@
 # RONI
 
-RONI is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Fabriek, Brussels on Sat, 29 Aug 2026.
+RONI is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Fabriek, Brussels on Sat, 29 Aug 2026.
 
 RONI is a techno and bass artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 27 more. Often billed alongside Lisa More, Aloka and Identified Patient. Next up: La Fabriek, Brussels on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ RONI is a techno and bass artist tracked on soundcheck, with 113 sets logged acr
 
 Lisa More, Aloka, Identified Patient
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

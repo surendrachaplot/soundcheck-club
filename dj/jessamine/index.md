@@ -1,6 +1,6 @@
 # Jessamine
 
-Jessamine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Jessamine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Jessamine is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Barbara Hofmann, Lena Brumby and Rodmin. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jessamine is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Barbara Hofmann, Lena Brumby, Rodmin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessamine/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessamine/)*

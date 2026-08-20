@@ -1,6 +1,6 @@
 # Lady Shaka
 
-Lady Shaka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
+Lady Shaka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
 
 Lady Shaka is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside nasthug, ryota dj and Arthi. Next up: Else, Berlin on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Lady Shaka is a house and techno artist tracked on soundcheck, with 83 sets logg
 
 nasthug, ryota dj, Arthi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*

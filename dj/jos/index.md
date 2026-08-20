@@ -1,14 +1,15 @@
 # Jos
 
-Jos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Jos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
-Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: FOLD, London on Fri 28 Aug.
+Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: FOLD, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | FOLD | London |
+| Sat, 29 Aug 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jos is a techno and house artist based in United Kingdom, tracked on soundcheck,
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

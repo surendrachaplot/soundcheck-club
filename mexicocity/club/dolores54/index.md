@@ -1,13 +1,13 @@
 # Dolores54
 
-Dolores54 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "No solo escuchamos*" on Sat, 22 Aug 2026.
+Dolores54 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "No solo escuchamos*" on Sat, 22 Aug 2026.
 
-Dolores54 is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Carnal Ex, KOI (MX) and Ranma Entero. Browse upcoming dates, start times and who's playing.
+Dolores54 is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Carnal Ex, KOI (MX), MACHINNE and Ranma Entero. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | No solo escuchamos* | Carnal Ex, KOI (MX), Ranma Entero |
+| Sat, 22 Aug 2026 | No solo escuchamos* | Carnal Ex, KOI (MX), MACHINNE, Ranma Entero |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/dolores54/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/dolores54/)*

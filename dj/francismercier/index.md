@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 19 Aug 2026.
+Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 24 Aug 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Santanna Mykonos, Mykonos on Wed 19 Aug.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Santanna Mykonos | Mykonos |
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | TBA - The Port Lands | Toronto |
@@ -23,6 +22,7 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Wed, 19 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 17 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 10 Aug 2026
 - Santanna Mykonos, Mykonos — Sat, 8 Aug 2026
@@ -30,10 +30,9 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 25 Jul 2026
 - New City Gas, Montreal — Sat, 25 Jul 2026
-- Santanna Mykonos, Mykonos — Wed, 22 Jul 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

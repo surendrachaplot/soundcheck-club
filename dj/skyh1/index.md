@@ -1,6 +1,6 @@
 # SKY H1
 
-SKY H1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+SKY H1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 SKY H1 is a techno and experimental artist based in Belgium, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 8 more. Often billed alongside Mika Oki, Kode9 and Otis (BE). Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ SKY H1 is a techno and experimental artist based in Belgium, tracked on soundche
 
 Mika Oki, Kode9, Otis (BE)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyh1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyh1/)*

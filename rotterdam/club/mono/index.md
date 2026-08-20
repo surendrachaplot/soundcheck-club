@@ -1,6 +1,6 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "AUNT // DJ Fuckoff, Gyatso & Zena-Rae" on Sat, 29 Aug 2026.
+Mono is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "AUNT // DJ Fuckoff, Gyatso & Zena-Rae" on Sat, 29 Aug 2026.
 
 Mono is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including AMBRR, ARRA, DJ Assault and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
@@ -20,4 +20,4 @@ Mono is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with
 
 Vijverhofstraat 15, 3032 SB Rotterdam, Rotterdam
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*

@@ -1,6 +1,6 @@
 # Genoe
 
-Genoe is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
+Genoe is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
 
 Genoe is a bass and breakbeat artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Prague. Often billed alongside anna andersrum, Migz and Comf. Next up: Crack Bellmer, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Genoe is a bass and breakbeat artist based in Germany, tracked on soundcheck, wi
 
 anna andersrum, Migz, Comf
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*

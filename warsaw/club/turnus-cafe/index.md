@@ -1,6 +1,6 @@
 # Turnus Cafe
 
-Turnus Cafe is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "FREE SOUND SYSTEM OPEN-AIR" on Fri, 21 Aug 2026.
+Turnus Cafe is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "FREE SOUND SYSTEM OPEN-AIR" on Fri, 21 Aug 2026.
 
 Turnus Cafe is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Emilii Plater 31, 00-688 Warszawa.
 
@@ -14,4 +14,4 @@ Turnus Cafe is a music venue in Warsaw listed on soundcheck. 1 upcoming night. B
 
 Emilii Plater 31, 00-688 Warszawa, Warsaw
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/turnus-cafe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/turnus-cafe/)*

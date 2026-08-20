@@ -1,6 +1,6 @@
 # Pedro (CA)
 
-Pedro (CA) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
+Pedro (CA) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
 
 Pedro (CA) is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Toronto and Vancouver. Often billed alongside Alley Kay, MENACE. and R4TS. Next up: Runnymede Hall, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pedro (CA) is a techno and tech house artist based in Netherlands, tracked on so
 
 Alley Kay, MENACE., R4TS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroca/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroca/)*

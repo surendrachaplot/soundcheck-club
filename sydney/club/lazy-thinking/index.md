@@ -1,6 +1,6 @@
 # Lazy Thinking
 
-Lazy Thinking is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "little music party x Lazy Thinking Fundraiser (SOLD OUT)" on Fri, 21 Aug 2026.
+Lazy Thinking is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "little music party x Lazy Thinking Fundraiser (SOLD OUT)" on Fri, 21 Aug 2026.
 
 Lazy Thinking is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Arketek, Genie (1) and Postponez. Browse upcoming dates, start times and who's playing. 380 NEW CANTERBURY ROAD, DULWICH HILL, 2203.
 
@@ -14,4 +14,4 @@ Lazy Thinking is a music venue in Sydney listed on soundcheck. 1 upcoming night,
 
 380 NEW CANTERBURY ROAD, DULWICH HILL, 2203, Sydney
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/lazy-thinking/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/lazy-thinking/)*

@@ -1,6 +1,6 @@
 # K.pal
 
-K.pal is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bassiani, Tbilisi on Fri, 28 Aug 2026.
+K.pal is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bassiani, Tbilisi on Fri, 28 Aug 2026.
 
 K.pal is an electronic artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Tbilisi. Often billed alongside Anthony Linell, Bardia Mehrzadeh and Bero. Next up: Bassiani, Tbilisi on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ K.pal is an electronic artist based in Ukraine, tracked on soundcheck, with 5 se
 
 Anthony Linell, Bardia Mehrzadeh, Bero
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/K.pal/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/K.pal/)*

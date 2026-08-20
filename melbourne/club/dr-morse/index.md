@@ -1,6 +1,6 @@
 # Dr Morse
 
-Dr Morse is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "Walking Distance x Dr Morse" on Sat, 22 Aug 2026.
+Dr Morse is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Walking Distance x Dr Morse" on Sat, 22 Aug 2026.
 
 Dr Morse is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Bby Cass, Draw 4, Frizzy and Gracey. Browse upcoming dates, start times and who's playing. 274 Johnston St; Abbotsford VIC 3067.
 
@@ -14,4 +14,4 @@ Dr Morse is a music venue in Melbourne listed on soundcheck. 1 upcoming night, w
 
 274 Johnston St; Abbotsford VIC 3067, Melbourne
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*

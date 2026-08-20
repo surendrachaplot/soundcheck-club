@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Alt Baile: Ciao Hot Tour (UK debut)" on Fri, 21 Aug 2026.
+Hootananny Brixton is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Alt Baile: Ciao Hot Tour (UK debut)" on Fri, 21 Aug 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including DJ Puffy. Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -18,4 +18,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 5 upcoming n
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

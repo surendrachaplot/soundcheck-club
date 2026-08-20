@@ -1,6 +1,6 @@
-# BRANCHIE LAB AT MAGICK BAR - W/ Daura, Green, Na Diavl at THE MAGICK BAR
+# BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl at THE MAGICK BAR
 
-BRANCHIE LAB AT MAGICK BAR - W/ Daura, Green, Na Diavl at THE MAGICK BAR on Tue 25 Aug, Rome. 3 acts on the bill: Daura, Green (IT) and Na Diavl. Preview the line-up and save it on soundcheck.
+BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl at THE MAGICK BAR on Tue 25 Aug, Rome. 3 acts on the bill: Daura, Green (IT) and Na Diavl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

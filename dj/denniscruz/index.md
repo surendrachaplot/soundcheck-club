@@ -1,8 +1,8 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
 
-Dennis Cruz is a tech house and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Else, Berlin on Fri 21 Aug.
+Dennis Cruz is a tech house and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Else, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 176 set
 | Fri, 21 Aug 2026 | Else | Berlin |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
+| Fri, 11 Sept 2026 | TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin | Berlin |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
@@ -33,4 +34,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 176 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

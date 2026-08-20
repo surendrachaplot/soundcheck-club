@@ -1,6 +1,6 @@
 # Kapmar
 
-Kapmar is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hava Nightclub, Boston on Fri, 21 Aug 2026.
+Kapmar is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hava Nightclub, Boston on Fri, 21 Aug 2026.
 
 Kapmar is a club and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Boston, Chicago and Newyorkcity. Often billed alongside AG (1), BEYBLADE SHAWTY and Kai the Black Angel. Next up: Hava Nightclub, Boston on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Kapmar is a club and house artist based in United States of America, tracked on 
 
 AG (1), BEYBLADE SHAWTY, Kai the Black Angel
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapmar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapmar/)*

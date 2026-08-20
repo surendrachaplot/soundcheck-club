@@ -1,14 +1,15 @@
 # Louis The 4th
 
-Louis The 4th is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at De Fik Garden, Amsterdam on Sun, 30 Aug 2026.
+Louis The 4th is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Sun, 30 Aug 2026.
 
-Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 6 more. Often billed alongside Bliss (1), Camion Bazar and Chami. Next up: De Fik Garden, Amsterdam on Sun 30 Aug.
+Louis The 4th is a techno artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 6 more. Often billed alongside Bliss (1), Camion Bazar and Chami. Next up: De Fik Garden, Amsterdam on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
+| Sun, 6 Sept 2026 | Babour Sauvage | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38
 
 Bliss (1), Camion Bazar, Chami
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*

@@ -1,6 +1,6 @@
 # BTWN NTWRX
 
-BTWN NTWRX is a Breakbeat and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+BTWN NTWRX is a Breakbeat and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 BTWN NTWRX is a breakbeat and club artist tracked on soundcheck, with 5 sets logged across Amsterdam and Rome. Often billed alongside Daniel Englisch, Oliver Kucera and Adonis Wolf. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ BTWN NTWRX is a breakbeat and club artist tracked on soundcheck, with 5 sets log
 
 Daniel Englisch, Oliver Kucera, Adonis Wolf
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/btwnntwrx/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/btwnntwrx/)*

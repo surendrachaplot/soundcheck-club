@@ -1,13 +1,14 @@
 # Erin Page
 
-Erin Page is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at H0l0 Yard, New York City on Sun, 27 Sept 2026.
+Erin Page is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MAD Radio NYC, New York City on Sat, 22 Aug 2026.
 
-Erin Page is a house and techno artist tracked on soundcheck, with 15 sets logged across Newyorkcity and Washingtondc. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: H0l0 Yard, Newyorkcity on Sun 27 Sept.
+Erin Page is a house and techno artist tracked on soundcheck, with 16 sets logged across Newyorkcity and Washingtondc. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: MAD Radio NYC, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | MAD Radio NYC | New York City |
 | Sun, 27 Sept 2026 | H0l0 Yard | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Erin Page is a house and techno artist tracked on soundcheck, with 15 sets logge
 
 Cobrastrk, DJ AstroNat, j:drive
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*

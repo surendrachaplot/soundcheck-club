@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 21 Aug, Berlin. 5 acts on the bill: Gioski, LOUPING, Mabu and Predex and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 21 Aug, Berlin. 6 acts on the bill: Gioski, Leah Marie, LOUPING and Mabu and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Birgits WEEKENDER on Fri 21 Aug, Berlin. 5 acts on the bill: Gioski, LOUPING, Ma
 ## Line-up
 
 - Gioski
+- Leah Marie
 - LOUPING
 - Mabu
 - Predex

@@ -1,6 +1,6 @@
 # Uncle Baz
 
-Uncle Baz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
+Uncle Baz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
 
 Uncle Baz is a house and tech house artist tracked on soundcheck, with 12 sets logged across Liverpool and London. Often billed alongside Bedfactory Records, Jimmy Dinners and Nick Davis. Next up: Bar Bodega, Liverpool on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Uncle Baz is a house and tech house artist tracked on soundcheck, with 12 sets l
 
 Bedfactory Records, Jimmy Dinners, Nick Davis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unclebaz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unclebaz/)*

@@ -1,6 +1,6 @@
 # Paradise Grapevine Winery
 
-Paradise Grapevine Winery is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "FOUNTASIA FRIDAY PATIO DANCE PARTY at PARADISE GRAPEVINE GEARY" on Fri, 21 Aug 2026.
+Paradise Grapevine Winery is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FOUNTASIA FRIDAY PATIO DANCE PARTY at PARADISE GRAPEVINE GEARY" on Fri, 21 Aug 2026.
 
 Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including BrettyBoop, Cherriep, Dr. J and Dylan Fly and 2 more. Browse upcoming dates, start times and who's playing. 218 Geary Ave, M6H 2C3, Toronto, ON, Canada.
 
@@ -17,4 +17,4 @@ Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 4 up
 
 218 Geary Ave, M6H 2C3, Toronto, ON, Canada, Toronto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*

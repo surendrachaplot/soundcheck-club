@@ -1,6 +1,6 @@
 # DJ Francis
 
-DJ Francis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+DJ Francis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 DJ Francis is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and FLEXTASY. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Francis is a house and techno artist based in Germany, tracked on soundcheck,
 
 KEN (DE), DJ PayPaul, FLEXTASY
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrancis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrancis/)*

@@ -1,6 +1,6 @@
 # oozat
 
-oozat is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Sun, 6 Sept 2026.
+oozat is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Planet Wax, London on Sun, 6 Sept 2026.
 
 oozat is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Facs, Primitivizm and Hughesee. Next up: Planet Wax, London on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ oozat is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logg
 
 Facs, Primitivizm, Hughesee
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oozat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oozat/)*

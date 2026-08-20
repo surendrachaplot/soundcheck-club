@@ -1,6 +1,6 @@
 # Yuko Kakizawa
 
-Yuko Kakizawa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
+Yuko Kakizawa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
 
 Yuko Kakizawa is a house and electro artist based in France, tracked on soundcheck, with 48 sets logged across Berlin, Geneva, London and Marseille and 4 more. Often billed alongside Michel D., Cogan and Tatie Dee. Next up: Badaboum, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yuko Kakizawa is a house and electro artist based in France, tracked on soundche
 
 Michel D., Cogan, Tatie Dee
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukokakizawa/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukokakizawa/)*

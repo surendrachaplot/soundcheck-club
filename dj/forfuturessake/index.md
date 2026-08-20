@@ -1,14 +1,16 @@
 # For Future's Sake
 
-For Future's Sake is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 22 Aug 2026.
+For Future's Sake is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MAD Radio NYC, New York City on Fri, 21 Aug 2026.
 
-For Future's Sake is a house and disco artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Miami and Munich and 5 more. Often billed alongside Very J, Benjamin Roeder and 4AM NYC. Next up: TBA - Brooklyn, Newyorkcity on Sat 22 Aug.
+For Future's Sake is a house and disco artist based in United States of America, tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Miami and Munich and 5 more. Often billed alongside Very J, Benjamin Roeder and 4AM NYC. Next up: MAD Radio NYC, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | MAD Radio NYC | New York City |
 | Sat, 22 Aug 2026 | TBA - Brooklyn | New York City |
+| Sat, 19 Sept 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ For Future's Sake is a house and disco artist based in United States of America,
 
 Very J, Benjamin Roeder, 4AM NYC
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forfuturessake/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forfuturessake/)*

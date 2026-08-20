@@ -1,6 +1,6 @@
 # Janette King
 
-Janette King is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Secret location, Montreal on Sat, 22 Aug 2026.
+Janette King is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret location, Montreal on Sat, 22 Aug 2026.
 
 Janette King is a house and r&b artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Hua Li 化力, Aquaventure and Ellxandra. Next up: TBA - Secret location, Montreal on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Janette King is a house and r&b artist tracked on soundcheck, with 6 sets logged
 
 Hua Li 化力, Aquaventure, Ellxandra
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janetteking/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janetteking/)*

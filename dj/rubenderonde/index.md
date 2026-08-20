@@ -1,6 +1,6 @@
 # Ruben de Ronde
 
-Ruben de Ronde is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Epic Prague, Prague on Sat, 19 Sept 2026.
+Ruben de Ronde is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Epic Prague, Prague on Sat, 19 Sept 2026.
 
 Ruben de Ronde is a trance and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Hamburg, London, Paris and Prague. Often billed alongside Adrian Mega, Allen Watts and Amber Broos. Next up: Epic Prague, Prague on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Ruben de Ronde is a trance and techno artist based in Netherlands, tracked on so
 
 Adrian Mega, Allen Watts, Amber Broos
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*

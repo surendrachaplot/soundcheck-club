@@ -1,6 +1,6 @@
 # Cannonbar
 
-Cannonbar is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
+Cannonbar is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
 
 Cannonbar is a techno and acid artist based in France, tracked on soundcheck, with 24 sets logged across Brussels, Madrid and Paris. Often billed alongside Corbeille Dallas, 6thFloor and Lia Catreux. Next up: Le 211, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Cannonbar is a techno and acid artist based in France, tracked on soundcheck, wi
 
 Corbeille Dallas, 6thFloor, Lia Catreux
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cannonbar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cannonbar/)*

@@ -1,6 +1,6 @@
 # Bird Bones
 
-Bird Bones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 21 Aug 2026.
+Bird Bones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 21 Aug 2026.
 
 Bird Bones is a techno and house artist tracked on soundcheck, with 5 sets logged across Chicago and Detroit. Often billed alongside RIKHTER, DJ Psycho and Floor Supervisor. Next up: Smoke & Mirrors, Chicago on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Bird Bones is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 RIKHTER, DJ Psycho, Floor Supervisor
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdbones/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdbones/)*

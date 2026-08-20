@@ -1,6 +1,6 @@
 # OUTTEN
 
-OUTTEN is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
+OUTTEN is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
 
 OUTTEN is a house and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London, Manchester and Newcastle. Often billed alongside ADR (UK), Billy Best and Chanel Carmichael. Next up: Ramona, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ OUTTEN is a house and garage artist based in United Kingdom, tracked on soundche
 
 ADR (UK), Billy Best, Chanel Carmichael
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outten/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outten/)*

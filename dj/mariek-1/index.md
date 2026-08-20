@@ -1,8 +1,8 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Marie K (1) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
-Marie K (1) is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Renate, Berlin on Sat 22 Aug.
+Marie K (1) is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Renate, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marie K (1) is a techno and house artist tracked on soundcheck, with 67 sets log
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Renate | Berlin |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
+| Sat, 3 Oct 2026 | FOLD | London |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
@@ -28,4 +29,4 @@ Marie K (1) is a techno and house artist tracked on soundcheck, with 67 sets log
 
 Eversines, Caim, Pieter Jansen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*

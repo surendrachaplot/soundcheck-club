@@ -1,8 +1,8 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Circle Line Cruises, New York City on Sun, 23 Aug 2026.
+Joe Claussell is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Circle Line Cruises, New York City on Sun, 23 Aug 2026.
 
-Joe Claussell is a house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Circle Line Cruises, Newyorkcity on Sun 23 Aug.
+Joe Claussell is a house and deep house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Circle Line Cruises, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 84 se
 | Sat, 29 Aug 2026 | Knockdown Center | New York City |
 | Sat, 5 Sept 2026 | Locust Grove | New York City |
 | Sat, 19 Sept 2026 | The Cause | London |
+| Sat, 26 Sept 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 84 se
 
 Danny Krivit, Francois K, DJ Tennis
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

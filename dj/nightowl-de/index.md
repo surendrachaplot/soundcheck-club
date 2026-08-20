@@ -1,6 +1,6 @@
 # Nightowl
 
-Nightowl is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Mia Mao, Paris on Fri, 21 Aug 2026.
+Nightowl is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mia Mao, Paris on Fri, 21 Aug 2026.
 
 Nightowl is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Paris. Often billed alongside A.N.I., DNNS and Mad Dog. Next up: Mia Mao, Paris on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Nightowl is a techno artist based in Germany, tracked on soundcheck, with 3 sets
 
 A.N.I., DNNS, Mad Dog
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl-de/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl-de/)*

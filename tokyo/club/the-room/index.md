@@ -1,6 +1,6 @@
 # The Room
 
-The Room is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Tokyo Crossover Week 2026 at The Room" on Sat, 19 Sept 2026.
+The Room is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Tokyo Crossover Week 2026 at The Room" on Sat, 19 Sept 2026.
 
 The Room is a music venue in Tokyo listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003.
 
@@ -16,4 +16,4 @@ The Room is a music venue in Tokyo listed on soundcheck. 3 upcoming nights. Brow
 
 B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003, Tokyo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*

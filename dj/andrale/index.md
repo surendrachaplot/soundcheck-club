@@ -1,6 +1,6 @@
 # Andrale
 
-Andrale is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
+Andrale is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
 
 Andrale is a techno and tech house artist tracked on soundcheck, with 31 sets logged across Frankfurt and Munich. Often billed alongside Bait and Switch, Frau Laura and Bo Irion. Next up: Tanzhaus West, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Andrale is a techno and tech house artist tracked on soundcheck, with 31 sets lo
 
 Bait and Switch, Frau Laura, Bo Irion
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrale/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrale/)*

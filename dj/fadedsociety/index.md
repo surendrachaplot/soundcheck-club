@@ -1,6 +1,6 @@
 # Faded Society
 
-Faded Society is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+Faded Society is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 Faded Society is a house and electro artist tracked on soundcheck, with 64 sets logged across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Faded Society is a house and electro artist tracked on soundcheck, with 64 sets 
 
 Venxm, Adela, Kitsch
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*

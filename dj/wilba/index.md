@@ -1,14 +1,15 @@
 # Wilba
 
-Wilba is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Glove That Fits, London on Fri, 16 Oct 2026.
+Wilba is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Glove That Fits, London on Fri, 16 Oct 2026.
 
-Wilba is a tech house and minimal artist tracked on soundcheck, with 33 sets logged across Hamburg, London, Marseille and Melbourne and 1 more. Often billed alongside Jive Talk, Calla and Muster Men. Next up: The Glove That Fits, London on Fri 16 Oct.
+Wilba is a tech house and house artist tracked on soundcheck, with 34 sets logged across Hamburg, Leeds, London and Marseille and 2 more. Often billed alongside Jive Talk, Calla and Muster Men. Next up: The Glove That Fits, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Glove That Fits | London |
+| Sat, 17 Oct 2026 | Distrikt | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Wilba is a tech house and minimal artist tracked on soundcheck, with 33 sets log
 
 Jive Talk, Calla, Muster Men
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*

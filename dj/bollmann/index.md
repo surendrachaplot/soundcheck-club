@@ -1,6 +1,6 @@
 # Bollmann
 
-Bollmann is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
+Bollmann is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Pineapple Park, Munich on Sat, 22 Aug 2026.
 
 Bollmann is a techno and trance artist tracked on soundcheck, with 95 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: Pineapple Park, Munich on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Bollmann is a techno and trance artist tracked on soundcheck, with 95 sets logge
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

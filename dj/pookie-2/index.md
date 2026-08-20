@@ -1,6 +1,6 @@
 # Pookie (2)
 
-Pookie (2) is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club 77, Sydney on Fri, 18 Sept 2026.
+Pookie (2) is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club 77, Sydney on Fri, 18 Sept 2026.
 
 Pookie (2) is a house and r&b artist tracked on soundcheck, with 11 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Angie Osman, Ari Kiko and Baschoe. Next up: Club 77, Sydney on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Pookie (2) is a house and r&b artist tracked on soundcheck, with 11 sets logged 
 
 Angie Osman, Ari Kiko, Baschoe
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pookie-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pookie-2/)*

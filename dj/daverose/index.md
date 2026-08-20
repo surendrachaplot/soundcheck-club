@@ -1,6 +1,6 @@
 # Dave Rose
 
-Dave Rose is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
+Dave Rose is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 20 Aug 2026.
 
 Dave Rose is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Barcelona, Ibiza and Sandiego. Often billed alongside REDA (EG), Adrián Mejías and Alen Aladin. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 20 Aug.
 
@@ -24,4 +24,4 @@ Dave Rose is a house and tech house artist based in United States of America, tr
 
 REDA (EG), Adrián Mejías, Alen Aladin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daverose/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daverose/)*

@@ -1,6 +1,6 @@
 # Maksym Tkach
 
-Maksym Tkach is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at B-SIDE, Warsaw on Sat, 22 Aug 2026.
+Maksym Tkach is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at B-SIDE, Warsaw on Sat, 22 Aug 2026.
 
 Maksym Tkach is a tech house and deep house artist tracked on soundcheck, with 20 sets logged across Berlin, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Mike Trofimov, Roma Khropko and Loves_kills. Next up: B-SIDE, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Maksym Tkach is a tech house and deep house artist tracked on soundcheck, with 2
 
 Mike Trofimov, Roma Khropko, Loves_kills
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*

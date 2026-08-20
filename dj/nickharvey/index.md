@@ -1,6 +1,6 @@
 # Nick Harvey
 
-Nick Harvey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Provitreff, Zurich on Wed, 9 Sept 2026.
+Nick Harvey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Provitreff, Zurich on Wed, 9 Sept 2026.
 
 Nick Harvey is a house and tech house artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside Alan Lao. Next up: Provitreff, Zurich on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ Nick Harvey is a house and tech house artist based in Switzerland, tracked on so
 
 Alan Lao
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickharvey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickharvey/)*

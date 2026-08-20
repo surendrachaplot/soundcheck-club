@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 17 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Elements: presents PASO x Mixfits" on Thu, 20 Aug 2026.
+People's Leisure Club is a music venue in Edinburgh with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Elements: presents PASO x Mixfits" on Thu, 20 Aug 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming nights, with line-ups including Accident Machine, Astro, Body Clinic and Chris Astrojazz and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 19 upcoming nights, with line-ups including Accident Machine, Astro, Body Clinic and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -10,7 +10,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 17 upc
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Elements: presents PASO x Mixfits | Mixfits (2), PASO |
 | Fri, 21 Aug 2026 | La Beat Soul Club |  |
-| Sat, 22 Aug 2026 | Fangs Disco Club | Jacuzzi General |
+| Sat, 22 Aug 2026 | Fangs Disco Club | Jacuzzi General, Lietzsche |
 | Sun, 23 Aug 2026 | Late and Loud |  |
 | Tue, 25 Aug 2026 | Headset's Gay Garage | Katelate, Lara Sinclair, Sweet Philly |
 | Thu, 27 Aug 2026 | Elements: Magic - Fringe Closing Party: The Van Damn Experience | Van Damn |
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 17 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

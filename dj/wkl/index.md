@@ -1,6 +1,6 @@
 # WKL
 
-WKL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
+WKL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
 
 WKL is a techno and house artist based in Poland, tracked on soundcheck, with 9 sets logged across Warsaw. Often billed alongside Buchan, Edvvin and MATRIX3K. Next up: K-Bar Powiśle, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ WKL is a techno and house artist based in Poland, tracked on soundcheck, with 9 
 
 Buchan, Edvvin, MATRIX3K
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wkl/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wkl/)*

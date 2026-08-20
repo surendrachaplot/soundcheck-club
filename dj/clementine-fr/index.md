@@ -1,6 +1,6 @@
 # Clémentine
 
-Clémentine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at La Petite Halle, Paris on Wed, 2 Sept 2026.
+Clémentine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Petite Halle, Paris on Wed, 2 Sept 2026.
 
 Clémentine is a house and disco artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Lyon and Paris. Often billed alongside Saint-James, Busy P and DJ Football. Next up: La Petite Halle, Paris on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Clémentine is a house and disco artist based in France, tracked on soundcheck, 
 
 Saint-James, Busy P, DJ Football
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementine-fr/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementine-fr/)*

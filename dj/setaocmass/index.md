@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 29 Aug 2026.
+Setaoc Mass is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 29 Aug 2026.
 
 Setaoc Mass is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Philippa Pacho, Altinbas and Ben Klock. Next up: TBA - Los Angeles, Losangeles on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Setaoc Mass is a techno and house artist tracked on soundcheck, with 175 sets lo
 
 Philippa Pacho, Altinbas, Ben Klock
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

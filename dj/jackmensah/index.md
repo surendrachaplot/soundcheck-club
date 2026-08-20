@@ -1,6 +1,6 @@
 # Jack Mensah
 
-Jack Mensah is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
+Jack Mensah is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
 
 Jack Mensah is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside DJ Perception, Harry Luda and Lady Passion. Next up: Planet Wax, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Jack Mensah is a jungle and garage artist based in United Kingdom, tracked on so
 
 DJ Perception, Harry Luda, Lady Passion
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmensah/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmensah/)*

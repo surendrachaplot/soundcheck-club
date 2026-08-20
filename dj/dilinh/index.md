@@ -1,6 +1,6 @@
 # Di Linh
 
-Di Linh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Nyapi, Seoul on Fri, 21 Aug 2026.
+Di Linh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nyapi, Seoul on Fri, 21 Aug 2026.
 
 Di Linh is a house and techno artist based in Vietnam, tracked on soundcheck, with 34 sets logged across Bali, Bangkok, Berlin and Geneva and 11 more. Often billed alongside Ouissam, Saint Guel and Ruede Hagelstein. Next up: Nyapi, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Di Linh is a house and techno artist based in Vietnam, tracked on soundcheck, wi
 
 Ouissam, Saint Guel, Ruede Hagelstein
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

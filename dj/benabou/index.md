@@ -1,6 +1,6 @@
 # Benabou
 
-Benabou is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Gare / Le Gore, Paris on Sat, 29 Aug 2026.
+Benabou is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Gare / Le Gore, Paris on Sat, 29 Aug 2026.
 
 Benabou is a techno and electro artist based in France, tracked on soundcheck, with 29 sets logged across Berlin, Lyon and Paris. Often billed alongside Zadig, future.666 and ÜBERKIKZ. Next up: La Gare / Le Gore, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Benabou is a techno and electro artist based in France, tracked on soundcheck, w
 
 Zadig, future.666, ÜBERKIKZ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benabou/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benabou/)*

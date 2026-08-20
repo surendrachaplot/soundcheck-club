@@ -1,6 +1,6 @@
 # Mks
 
-Mks is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Salon Badin, Montreal on Sat, 22 Aug 2026.
+Mks is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Salon Badin, Montreal on Sat, 22 Aug 2026.
 
 Mks is an electronic artist based in Italy, tracked on soundcheck, with 4 sets logged across Montreal. Next up: Salon Badin, Montreal on Sat 22 Aug.
 
@@ -16,4 +16,4 @@ Mks is an electronic artist based in Italy, tracked on soundcheck, with 4 sets l
 - Salon Badin, Montreal — Sat, 7 Feb 2026
 - Salon Badin, Montreal — Sat, 18 Oct 2025
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mks/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mks/)*

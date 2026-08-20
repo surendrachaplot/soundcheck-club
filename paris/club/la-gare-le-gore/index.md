@@ -1,14 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "JAM DU BPM CONTEST" on Tue, 18 Aug 2026.
+La Gare / Le Gore is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "PYGMENTS inv. Cattoni & In-Tan" on Wed, 19 Aug 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Acid Oslo, A.mo, Axel Blanc and Benabou and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Acid Oslo, A.mo, Axel Blanc and Benabou and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | JAM DU BPM CONTEST |  |
 | Wed, 19 Aug 2026 | PYGMENTS inv. Cattoni & In-Tan | Cattoni, In-Tan |
 | Thu, 20 Aug 2026 | 59 BEL RECORDS inv. THAÏS & Sklaer B2B Ian Maur | Ian Maur, Sklaer, Thaïs (FR) |
 | Fri, 21 Aug 2026 | LA RIPOSTE: DON TURI inv. SECRET GUESTS |  |
@@ -18,9 +17,10 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 14 upcoming ni
 | Tue, 25 Aug 2026 | JAM DU BPM CONTEST |  |
 | Wed, 26 Aug 2026 | PYGMENTS inv. In-Tan & SECRET GUEST | In-Tan |
 | Thu, 27 Aug 2026 | PYGMENTS inv. In-Tan & SECRET GUEST | In-Tan |
+| Thu, 27 Aug 2026 | 59 BEL RECORDS inv. VANGUARD & Ian Maur | Ian Maur |
 
 ## Address
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

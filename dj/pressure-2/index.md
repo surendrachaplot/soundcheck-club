@@ -1,6 +1,6 @@
 # Pressure (2)
 
-Pressure (2) is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+Pressure (2) is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
 
 Pressure (2) is a latin bass and baile funk artist based in Poland, tracked on soundcheck, with 5 sets logged across Detroit, Liverpool and Warsaw. Often billed alongside Adobo (PL), Fourth World Music and Ivy. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Pressure (2) is a latin bass and baile funk artist based in Poland, tracked on s
 
 Adobo (PL), Fourth World Music, Ivy
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*

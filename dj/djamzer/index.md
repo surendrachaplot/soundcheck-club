@@ -1,6 +1,6 @@
 # Djamzer
 
-Djamzer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Button Factory, Dublin on Sat, 22 Aug 2026.
+Djamzer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Button Factory, Dublin on Sat, 22 Aug 2026.
 
 Djamzer is a techno and trance artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Dublin and Geneva and 3 more. Often billed alongside DICANIO, Pelin Vedis and Jelena. Next up: Button Factory, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Djamzer is a techno and trance artist based in Switzerland, tracked on soundchec
 
 DICANIO, Pelin Vedis, Jelena
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djamzer/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djamzer/)*

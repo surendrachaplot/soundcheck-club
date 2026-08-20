@@ -1,6 +1,6 @@
 # Hebbe
 
-Hebbe is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
+Hebbe is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
 Hebbe is a dubstep and bass artist tracked on soundcheck, with 5 sets logged across Chicago, London, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Bukkha, Clifford and Distance. Next up: export, Rotterdam on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Hebbe is a dubstep and bass artist tracked on soundcheck, with 5 sets logged acr
 
 Bukkha, Clifford, Distance
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hebbe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hebbe/)*

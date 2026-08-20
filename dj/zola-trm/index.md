@@ -1,6 +1,6 @@
 # Zola (TRM)
 
-Zola (TRM) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Piston, Toronto on Thu, 20 Aug 2026.
+Zola (TRM) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Piston, Toronto on Thu, 20 Aug 2026.
 
 Zola (TRM) is a techno and house artist based in Canada, tracked on soundcheck, with 42 sets logged across Toronto. Often billed alongside Miss Kleio, Rhombi and 999ADJ. Next up: The Piston, Toronto on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Zola (TRM) is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Miss Kleio, Rhombi, 999ADJ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zola-trm/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zola-trm/)*

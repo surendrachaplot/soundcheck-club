@@ -1,6 +1,6 @@
 # MOLLY SIX
 
-MOLLY SIX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at López 15, Mexico City on Fri, 28 Aug 2026.
+MOLLY SIX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at López 15, Mexico City on Fri, 28 Aug 2026.
 
 MOLLY SIX is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Lex Digital, Drakhen and Naij. Next up: López 15, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MOLLY SIX is a techno and hardcore artist based in Mexico, tracked on soundcheck
 
 Lex Digital, Drakhen, Naij
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysix/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysix/)*

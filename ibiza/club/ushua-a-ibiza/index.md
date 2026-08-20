@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 41 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 19 Aug 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 40 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Martin Garrix" on Thu, 20 Aug 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 41 upcoming nights, with line-ups including Afrojack, Alesso, Andrea Oliva and Antares and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 40 upcoming nights, with line-ups including Afrojack, Alesso, Andrea Oliva and Antares and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Brina Knauss, Dimitri Vegas & Like Mike, Oliver Heldens |
 | Thu, 20 Aug 2026 | Martin Garrix | Martin Garrix, Monki, Tchami, VisionV |
 | Fri, 21 Aug 2026 | Calvin Harris & MK | Calvin Harris, MPH (1), Marc Kinchen |
 | Sat, 22 Aug 2026 | ANTS | Hot Since 82, Late Replies, Nic Fanciulli, Sally C |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 41 upcoming night
 | Wed, 26 Aug 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Dimitri Vegas & Like Mike, Steve Aoki |
 | Thu, 27 Aug 2026 | Martin Garrix | Bella Backe, LAVERN, Martin Garrix |
 | Fri, 28 Aug 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, Tommy Gold |
+| Sat, 29 Aug 2026 | ANTS | Gorgon City, Kolsch, Paco Osuna, Raul Rodriguez, The Menendez Brothers |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

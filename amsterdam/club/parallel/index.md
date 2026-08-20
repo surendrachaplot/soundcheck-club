@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "DESCENDANTS" on Fri, 21 Aug 2026.
+Parallel is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DESCENDANTS" on Fri, 21 Aug 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Effy, General C'mamane, Idilay and Karyendasoul and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -21,4 +21,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, 
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

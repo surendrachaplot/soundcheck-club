@@ -1,6 +1,6 @@
 # Jay Fase
 
-Jay Fase is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 6 Sept 2026.
+Jay Fase is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 6 Sept 2026.
 
 Jay Fase is a house and tech house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Geneva, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Kintar, Kyle Linco and Panyer. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Jay Fase is a house and tech house artist based in Switzerland, tracked on sound
 
 Kintar, Kyle Linco, Panyer
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*

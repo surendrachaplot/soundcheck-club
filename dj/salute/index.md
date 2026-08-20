@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+salute is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 salute is a house and garage artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ salute is a house and garage artist tracked on soundcheck, with 183 sets logged 
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

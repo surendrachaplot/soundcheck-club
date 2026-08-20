@@ -1,6 +1,6 @@
 # Nikesch
 
-Nikesch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+Nikesch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
 Nikesch is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Frankfurt. Often billed alongside Laurine Philippe, Andrale and Annie O. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nikesch is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Laurine Philippe, Andrale, Annie O
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikesch/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikesch/)*

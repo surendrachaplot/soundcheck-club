@@ -1,6 +1,6 @@
 # Mazlika
 
-Mazlika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at VENT, Tokyo on Fri, 11 Sept 2026.
+Mazlika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at VENT, Tokyo on Fri, 11 Sept 2026.
 
 Mazlika is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside savezearth, Astma and HAYATO DELAROSSA. Next up: VENT, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mazlika is a techno and house artist based in Japan, tracked on soundcheck, with
 
 savezearth, Astma, HAYATO DELAROSSA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlika/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlika/)*

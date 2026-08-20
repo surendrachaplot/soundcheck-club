@@ -1,6 +1,6 @@
 # Riko Dan
 
-Riko Dan is a Grime and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+Riko Dan is a Grime and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 Riko Dan is a grime and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol, Brussels, Copenhagen and Leeds and 4 more. Often billed alongside Slimzee, SGT Pokes and MJK. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Riko Dan is a grime and bass artist based in United Kingdom, tracked on soundche
 
 Slimzee, SGT Pokes, MJK
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*

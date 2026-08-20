@@ -1,6 +1,6 @@
 # Kim Lana
 
-Kim Lana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Deaf Institute, Manchester on Sun, 30 Aug 2026.
+Kim Lana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Deaf Institute, Manchester on Sun, 30 Aug 2026.
 
 Kim Lana is a house and techno artist tracked on soundcheck, with 42 sets logged across Glasgow, Leeds, London and Manchester and 1 more. Often billed alongside Aiden Francis, DJ Bottom and Fastlove. Next up: The Deaf Institute, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Kim Lana is a house and techno artist tracked on soundcheck, with 42 sets logged
 
 Aiden Francis, DJ Bottom, Fastlove
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlana/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlana/)*

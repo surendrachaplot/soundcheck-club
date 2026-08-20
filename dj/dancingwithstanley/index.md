@@ -1,6 +1,6 @@
 # DANCING WITH STANLEY
 
-DANCING WITH STANLEY is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
+DANCING WITH STANLEY is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
 
 DANCING WITH STANLEY is a club and electro artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow and Manchester. Often billed alongside Kuriboh, sebastieN and KURLZ. Next up: renae, Manchester on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ DANCING WITH STANLEY is a club and electro artist based in United Kingdom, track
 
 Kuriboh, sebastieN, KURLZ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*

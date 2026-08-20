@@ -1,6 +1,6 @@
 # MØABEAT
 
-MØABEAT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at M-BIA, Berlin on Fri, 21 Aug 2026.
+MØABEAT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at M-BIA, Berlin on Fri, 21 Aug 2026.
 
 MØABEAT is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin. Often billed alongside L X S, DaSoMaZo and Popsen. Next up: M-BIA, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MØABEAT is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 L X S, DaSoMaZo, Popsen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moabeat/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moabeat/)*

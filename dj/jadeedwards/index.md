@@ -1,6 +1,6 @@
 # Jade Edwards
 
-Jade Edwards is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Suono, Liverpool on Fri, 28 Aug 2026.
+Jade Edwards is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Suono, Liverpool on Fri, 28 Aug 2026.
 
 Jade Edwards is a house and disco artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin, Ibiza, Liverpool and London and 2 more. Often billed alongside Saint Lukez, John Morales and Luke Una. Next up: Suono, Liverpool on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Jade Edwards is a house and disco artist based in United Kingdom, tracked on sou
 
 Saint Lukez, John Morales, Luke Una
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*

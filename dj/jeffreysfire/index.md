@@ -1,6 +1,6 @@
 # Jeffrey Sfire
 
-Jeffrey Sfire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Mansions, New York City on Thu, 20 Aug 2026.
+Jeffrey Sfire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mansions, New York City on Thu, 20 Aug 2026.
 
 Jeffrey Sfire is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Berlin, Chicago, Detroit and Hongkong and 6 more. Often billed alongside Mike Servito, Justin Cudmore and Carlos Souffront. Next up: Mansions, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Jeffrey Sfire is a house and techno artist based in United States of America, tr
 
 Mike Servito, Justin Cudmore, Carlos Souffront
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*

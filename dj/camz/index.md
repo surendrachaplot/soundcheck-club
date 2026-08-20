@@ -1,6 +1,6 @@
 # CAMZ
 
-CAMZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+CAMZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 CAMZ is a house and techno artist tracked on soundcheck, with 18 sets logged across Ibiza, London, Saopaulo and Sheffield. Often billed alongside AJ Christou, Bella Backe and Jamie Jones. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CAMZ is a house and techno artist tracked on soundcheck, with 18 sets logged acr
 
 AJ Christou, Bella Backe, Jamie Jones
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camz/)*

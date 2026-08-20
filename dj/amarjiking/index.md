@@ -1,8 +1,8 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
+Amarji King is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
 
-Amarji King is a club and techno artist tracked on soundcheck, with 46 sets logged across Austin, Chicago, Detroit and Houston and 7 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: TRANSMISSION DC, Washingtondc on Fri 21 Aug.
+Amarji King is a club and techno artist tracked on soundcheck, with 47 sets logged across Austin, Chicago, Detroit and Houston and 7 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: TRANSMISSION DC, Washingtondc on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Amarji King is a club and techno artist tracked on soundcheck, with 46 sets logg
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 22 Aug 2026 | Art Club | Houston |
+| Fri, 4 Sept 2026 | Market Hotel | New York City |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 46 sets logg
 
 HYPERFEMME, BLAIZE, IDKRYAN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

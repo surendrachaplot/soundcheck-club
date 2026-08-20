@@ -1,6 +1,6 @@
 # Gyatso
 
-Gyatso is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Mono, Rotterdam on Sat, 29 Aug 2026.
+Gyatso is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mono, Rotterdam on Sat, 29 Aug 2026.
 
 Gyatso is a ghetto tech and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and SAIDAH. Next up: Mono, Rotterdam on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Gyatso is a ghetto tech and house artist tracked on soundcheck, with 68 sets log
 
 Franky Sticks, ZEP (NL), SAIDAH
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*

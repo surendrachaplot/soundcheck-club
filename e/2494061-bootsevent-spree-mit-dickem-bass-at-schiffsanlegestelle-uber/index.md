@@ -1,6 +1,6 @@
 # Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena
 
-Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sept, Berlin. 2 acts on the bill: Carl Bergé and Shake Daddy. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sept, Berlin. 3 acts on the bill: Carl Bergé, Shake Daddy and Simonkannnix. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sep
 
 - Carl Bergé
 - Shake Daddy
+- Simonkannnix
 
 *Source: [soundcheck](https://soundcheck.club/e/2494061-bootsevent-spree-mit-dickem-bass-at-schiffsanlegestelle-uber/)*

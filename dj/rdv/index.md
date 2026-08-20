@@ -1,6 +1,6 @@
 # R/D/V
 
-R/D/V is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
+R/D/V is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
 R/D/V is a techno and ambient artist based in Italy, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Madrid and Milan and 1 more. Often billed alongside Denise Rabe, Doiléir and Gianmarco Silvetti. Next up: RADION, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ R/D/V is a techno and ambient artist based in Italy, tracked on soundcheck, with
 
 Denise Rabe, Doiléir, Gianmarco Silvetti
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rdv/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rdv/)*

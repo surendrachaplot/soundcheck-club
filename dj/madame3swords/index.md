@@ -1,6 +1,6 @@
 # madame3swords
 
-madame3swords is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Social, London on Thu, 27 Aug 2026.
+madame3swords is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Social, London on Thu, 27 Aug 2026.
 
 madame3swords is an electro and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside dogheadsurigeri, novasdemise and optionlist. Next up: The Social, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ madame3swords is an electro and house artist based in United Kingdom, tracked on
 
 dogheadsurigeri, novasdemise, optionlist
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*

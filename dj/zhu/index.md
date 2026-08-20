@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Pacha New York, New York City on Fri, 11 Sept 2026.
+ZHU is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Pacha New York, New York City on Fri, 11 Sept 2026.
 
 ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Pacha New York, Newyorkcity on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 Diplo, Azzecca, Biscits
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

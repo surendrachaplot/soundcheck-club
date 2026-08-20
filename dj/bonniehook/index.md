@@ -1,6 +1,6 @@
 # Bonnie Hook
 
-Bonnie Hook is a Ghetto Tech and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Outer Limits Lounge, Detroit on Thu, 20 Aug 2026.
+Bonnie Hook is a Ghetto Tech and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Outer Limits Lounge, Detroit on Thu, 20 Aug 2026.
 
 Bonnie Hook is a ghetto tech and jungle artist tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Auntie Chanel, we1sman and Bccording. Next up: Outer Limits Lounge, Detroit on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Bonnie Hook is a ghetto tech and jungle artist tracked on soundcheck, with 10 se
 
 Auntie Chanel, we1sman, Bccording
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniehook/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniehook/)*

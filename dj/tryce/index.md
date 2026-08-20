@@ -1,6 +1,6 @@
 # TRYCE
 
-TRYCE is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
+TRYCE is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
 
 TRYCE is an experimental and industrial artist based in Italy, tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen, Leipzig and London and 3 more. Often billed alongside ALEX WANG, Franarchy and ABADIR. Next up: Panke, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TRYCE is an experimental and industrial artist based in Italy, tracked on soundc
 
 ALEX WANG, Franarchy, ABADIR
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*

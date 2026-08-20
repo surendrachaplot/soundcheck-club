@@ -1,6 +1,6 @@
 # Andy Oro
 
-Andy Oro is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Airliner, Los Angeles on Sat, 22 Aug 2026.
+Andy Oro is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Airliner, Los Angeles on Sat, 22 Aug 2026.
 
 Andy Oro is a house and deep house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Akumen, No Pressure and agraybé. Next up: The Airliner, Losangeles on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Andy Oro is a house and deep house artist based in United States of America, tra
 
 Akumen, No Pressure, agraybé
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyoro/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyoro/)*

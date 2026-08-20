@@ -1,6 +1,6 @@
 # Hedemann
 
-Hedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
+Hedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
 
 Hedemann is a techno and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside Bastienne, Carmen Lisa (2) and Daniel Plainview. Next up: RADION, Amsterdam on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Hedemann is a techno and house artist based in Netherlands, tracked on soundchec
 
 Bastienne, Carmen Lisa (2), Daniel Plainview
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedemann/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedemann/)*

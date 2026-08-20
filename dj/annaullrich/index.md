@@ -1,8 +1,8 @@
 # Anna Ullrich
 
-Anna Ullrich is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
+Anna Ullrich is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
 
-Anna Ullrich is a trance and techno artist tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios (2) and KAROLINA. Next up: PRST, Vienna on Fri 28 Aug.
+Anna Ullrich is a trance and techno artist tracked on soundcheck, with 48 sets logged across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios (2) and KAROLINA. Next up: PRST, Vienna on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anna Ullrich is a trance and techno artist tracked on soundcheck, with 47 sets l
 | Fri, 28 Aug 2026 | PRST | Vienna |
 | Fri, 28 Aug 2026 | Gleis19 | Vienna |
 | Sat, 29 Aug 2026 | Bahnwärter Thiel | Munich |
+| Fri, 4 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 23 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 25 Sept 2026 | Südpol | Hamburg |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
@@ -30,4 +31,4 @@ Anna Ullrich is a trance and techno artist tracked on soundcheck, with 47 sets l
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

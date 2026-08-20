@@ -1,6 +1,6 @@
 # Sasha Carassi
 
-Sasha Carassi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
+Sasha Carassi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Sasha Carassi is a techno and house artist based in Italy, tracked on soundcheck, with 26 sets logged across Bangkok, Barcelona, Buenosaires and Copenhagen and 9 more. Often billed alongside Tale Of Us, CARLEO and Carleo. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
 
@@ -26,4 +26,4 @@ Sasha Carassi is a techno and house artist based in Italy, tracked on soundcheck
 
 Tale Of Us, CARLEO, Carleo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacarassi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacarassi/)*

@@ -1,8 +1,8 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 21 Aug 2026.
+Angel Negrin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 21 Aug 2026.
 
-Angel Negrin is a techno and electro artist based in Venezuela, tracked on soundcheck, with 16 sets logged across Aberdeen, Edinburgh and Glasgow. Often billed alongside Co-Accused, LOVELL and hubey. Next up: The Berkeley Suite, Glasgow on Fri 21 Aug.
+Angel Negrin is a techno and house artist based in Venezuela, tracked on soundcheck, with 17 sets logged across Aberdeen, Edinburgh and Glasgow. Often billed alongside LOVELL, Co-Accused and Kairogen. Next up: The Berkeley Suite, Glasgow on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Angel Negrin is a techno and electro artist based in Venezuela, tracked on sound
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Berkeley Suite | Glasgow |
 | Fri, 28 Aug 2026 | The Safari Lounge | Edinburgh |
+| Sat, 19 Sept 2026 | The Old Burnt Barns | Glasgow |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Angel Negrin is a techno and electro artist based in Venezuela, tracked on sound
 
 ## Shares bills with
 
-Co-Accused, LOVELL, hubey
+LOVELL, Co-Accused, Kairogen
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

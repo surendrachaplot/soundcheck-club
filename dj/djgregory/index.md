@@ -1,6 +1,6 @@
 # DJ Gregory
 
-DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 DJ Gregory is a house and afro house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Birmingham, Geneva and Ibiza and 6 more. Often billed alongside Bob Sinclar, Laurent Garnier and Marina Trench. Next up: Kaap Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Gregory is a house and afro house artist tracked on soundcheck, with 22 sets 
 
 Bob Sinclar, Laurent Garnier, Marina Trench
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*

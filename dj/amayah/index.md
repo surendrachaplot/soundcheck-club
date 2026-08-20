@@ -1,6 +1,6 @@
 # AMAYAH
 
-AMAYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+AMAYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
 AMAYAH is a techno and house artist tracked on soundcheck, with 34 sets logged across Chicago, Detroit, Losangeles and Washingtondc. Often billed alongside Microdot, PIP3DR3AM and hhunter. Next up: Radius, Chicago on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ AMAYAH is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 Microdot, PIP3DR3AM, hhunter
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*

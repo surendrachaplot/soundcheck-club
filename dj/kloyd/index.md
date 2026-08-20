@@ -1,6 +1,6 @@
 # Kloyd
 
-Kloyd is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Kloyd is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Kloyd is a house and electronica artist tracked on soundcheck, with 15 sets logged across Bristol, Leeds and London. Often billed alongside Jacana People, Dejector and Kilig (UK). Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kloyd is a house and electronica artist tracked on soundcheck, with 15 sets logg
 
 Jacana People, Dejector, Kilig (UK)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*

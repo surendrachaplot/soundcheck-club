@@ -1,6 +1,6 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Promise Cherry Beach: Therapy presents KRISHAWN, PSI & JBSax" on Sun, 23 Aug 2026.
+Cherry Beach is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Promise Cherry Beach Sunday August 30" on Sun, 23 Aug 2026.
 
 Cherry Beach is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including AZA, Dunaway, florasystem and godemperor (2) and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
@@ -8,12 +8,12 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 3 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Promise Cherry Beach: Therapy presents KRISHAWN, PSI & JBSax | KRISHAWN, Psi (1), Sophie Jones |
-| Sun, 30 Aug 2026 | Promise Cherry Beach: ASNM presents AZA (Detroit) | AZA, Dunaway, Program Sam, florasystem, godemperor (2), maxedvisa |
-| Mon, 7 Sept 2026 | Promise Cherry Beach presents Mark Oliver - Season Finale | Kiki LeFreak, Mark Oliver, Milch (1), Valeroo |
+| Sun, 23 Aug 2026 | Promise Cherry Beach Sunday August 30 | KRISHAWN, Psi (1), Sophie Jones |
+| Sun, 30 Aug 2026 | Promise Cherry Beach Sunday August 30 | AZA, Dunaway, Program Sam, florasystem, godemperor (2), maxedvisa |
+| Mon, 7 Sept 2026 | Promise Cherry Beach Season Finale Monday September 7 | Kiki LeFreak, Mark Oliver, Milch (1), Valeroo |
 
 ## Address
 
 Toronto, ON; Canada, Toronto
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

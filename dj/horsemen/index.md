@@ -1,6 +1,6 @@
 # Horsemen
 
-Horsemen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Horsemen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Horsemen is a house and disco artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Hamburg and London. Often billed alongside Luca Olivotto, Quadrakey and Eva Crystaltips. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Horsemen is a house and disco artist based in Netherlands, tracked on soundcheck
 
 Luca Olivotto, Quadrakey, Eva Crystaltips
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemen/)*

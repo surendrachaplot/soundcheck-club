@@ -1,6 +1,6 @@
 # Green Velvet
 
-Green Velvet is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
+Green Velvet is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at [UNVRS], Ibiza on Wed, 19 Aug 2026.
 
 Green Velvet is a house and techno artist tracked on soundcheck, with 107 sets logged across Austin, Boston, Buenosaires and Chicago and 22 more. Often billed alongside Layton Giordani, Patrick Topping and Dom Dolla. Next up: [UNVRS], Ibiza on Wed 19 Aug.
 
@@ -17,6 +17,7 @@ Green Velvet is a house and techno artist tracked on soundcheck, with 107 sets l
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 19 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 8 Aug 2026
 - Sable Miami, Miami — Sat, 13 Jun 2026
 - Bauhaus, Houston — Fri, 12 Jun 2026
@@ -24,10 +25,9 @@ Green Velvet is a house and techno artist tracked on soundcheck, with 107 sets l
 - Russell Industrial Center, Detroit — Mon, 25 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 2 May 2026
-- Fabrik, Madrid — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Layton Giordani, Patrick Topping, Dom Dolla
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*

@@ -1,6 +1,6 @@
 # Assembler Code
 
-Assembler Code is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
+Assembler Code is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
 
 Assembler Code is a techno and electro artist based in Australia, tracked on soundcheck, with 18 sets logged across Berlin, Brisbane, Melbourne and Sydney. Often billed alongside Jensen Interceptor, Caitlin Medcalf and Hedchef. Next up: Club 77, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Assembler Code is a techno and electro artist based in Australia, tracked on sou
 
 Jensen Interceptor, Caitlin Medcalf, Hedchef
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assemblercode/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assemblercode/)*

@@ -1,14 +1,13 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
+Joseph Capriati is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Santanna Mykonos, Mykonos on Fri, 21 Aug 2026.
 
-Joseph Capriati is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Amnesia Ibiza, Ibiza on Tue 18 Aug.
+Joseph Capriati is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Santanna Mykonos | Mykonos |
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,6 +19,7 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 216 set
 | Fri, 11 Sept 2026 | Brooklyn Army Terminal | New York City |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
+| Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 216 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

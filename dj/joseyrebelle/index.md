@@ -1,15 +1,17 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Phonox, London on Sat, 29 Aug 2026.
+Josey Rebelle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Phonox, London on Sat, 29 Aug 2026.
 
-Josey Rebelle is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Phonox, London on Sat 29 Aug.
+Josey Rebelle is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Phonox, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Phonox | London |
+| Fri, 11 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 9 Oct 2026 | The White Hotel | Manchester |
+| Sat, 10 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Josey Rebelle is a techno and house artist tracked on soundcheck, with 116 sets 
 
 Josh Caffé, CCL, NIKS
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

@@ -1,6 +1,6 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Cell Events presents: Swanny" on Fri, 21 Aug 2026.
+Club 69 is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Cell Events presents: Swanny" on Fri, 21 Aug 2026.
 
 Club 69 is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Aileron, COURTEZ, NRG Trax and SAPHOS and 1 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
@@ -17,4 +17,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

@@ -1,6 +1,6 @@
 # Sago
 
-Sago is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
+Sago is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
 
 Sago is a trance and tech house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: XOYO, London on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Sago is a trance and tech house artist tracked on soundcheck, with 8 sets logged
 
 C-systems, DJMrB, Thiago Genez
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*

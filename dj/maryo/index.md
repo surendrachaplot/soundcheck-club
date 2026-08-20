@@ -1,6 +1,6 @@
 # MARYO
 
-MARYO is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
+MARYO is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 23 Aug 2026.
 
 MARYO is a house and minimal artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Madrid and Malaga and 4 more. Often billed alongside Lisandro Mustapic, Sampol and Alvaro Medina. Next up: Sunseabar Beach Club, Barcelona on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ MARYO is a house and minimal artist tracked on soundcheck, with 74 sets logged a
 
 Lisandro Mustapic, Sampol, Alvaro Medina
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*

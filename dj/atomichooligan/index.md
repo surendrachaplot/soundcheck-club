@@ -1,6 +1,6 @@
 # Atomic Hooligan
 
-Atomic Hooligan is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
+Atomic Hooligan is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
 
 Atomic Hooligan is an afro house and amapiano artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Dj Clark Gabble, A.K(lifee) and CRUZ CTRL (3). Next up: HWK, London on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Atomic Hooligan is an afro house and amapiano artist tracked on soundcheck, with
 
 Dj Clark Gabble, A.K(lifee), CRUZ CTRL (3)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomichooligan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomichooligan/)*

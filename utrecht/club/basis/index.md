@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 15 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra" on Fri, 21 Aug 2026.
+BASIS is a music venue in Utrecht with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra" on Fri, 21 Aug 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming nights, with line-ups including 36framez, Alarico, BIIA and Bohm and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 16 upcoming nights, with line-ups including 36framez, Alarico, BIIA and Bohm and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
@@ -15,12 +15,12 @@ BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming nights, with
 | Fri, 4 Sept 2026 | BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 | Nedir Nadir, Ramon Berendes, Upper90 |
 | Sat, 5 Sept 2026 | BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH | Cybersex, DJ HÖRDE, DJ SPORTSCHUH |
 | Fri, 11 Sept 2026 | BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah | Alarico, DJ Cosworth, Hardline, Oldboy |
+| Sat, 12 Sept 2026 | BASIS x Smeerboel After/ Anna Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols | DART, Jessie Dols, Kyle Starkey |
 | Fri, 18 Sept 2026 | BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error | FENIM0RE, Ignez, Locus Error |
 | Sat, 19 Sept 2026 | BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky | DJ Chuckie, Koperblond, Nala, Yucky |
-| Fri, 25 Sept 2026 | BASIS/ Stan Christ all night long | Stan Christ |
 
 ## Address
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

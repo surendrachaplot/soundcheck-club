@@ -1,6 +1,6 @@
 # mvdi
 
-mvdi is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Supermarket, Zurich on Fri, 21 Aug 2026.
+mvdi is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Supermarket, Zurich on Fri, 21 Aug 2026.
 
 mvdi is a techno and acid artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Zurich. Often billed alongside Patrik Widmer, Meraki (3) and AREA ØNE. Next up: Supermarket, Zurich on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ mvdi is a techno and acid artist based in Switzerland, tracked on soundcheck, wi
 
 Patrik Widmer, Meraki (3), AREA ØNE
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*

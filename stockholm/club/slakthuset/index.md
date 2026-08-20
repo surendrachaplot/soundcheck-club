@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Hyperdrive - HANI DAKIN" on Sat, 22 Aug 2026.
+Slakthuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Hyperdrive - HANI DAKIN" on Sat, 22 Aug 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including HANI DAKIN, Andemon, Claire Hardman and Harami and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -18,4 +18,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

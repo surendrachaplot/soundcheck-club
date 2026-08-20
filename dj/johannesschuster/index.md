@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
 Johannes Schuster is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Arzenal, Budapest on Wed 19 Aug.
 
@@ -23,6 +23,7 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 191 
 
 ## Recently played
 
+- Arzenal, Budapest — Wed, 19 Aug 2026
 - Escala25, Lisbon — Sun, 16 Aug 2026
 - OST, Berlin — Sat, 15 Aug 2026
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
@@ -30,10 +31,9 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 191 
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

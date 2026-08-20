@@ -1,6 +1,6 @@
-# La Portenya y los Piratas in concert at Festa Major de Gràcia - Providència street stage at Festa Major de Gràcia - Carrer Verdi del Mig
+# La Portenya y los Piratas in concert at Festa Major de Gràcia - Verdi del Mig street stage at Festa Major de Gràcia - Carrer Verdi del Mig
 
-La Portenya y los Piratas in concert at Festa Major de Gràcia - Providència street stage at Festa Major de Gràcia - Carrer Verdi del Mig on Thu 20 Aug, Barcelona. 1 act on the bill: La Porteña y los Piratas. Electro and Latin Bass. Preview the line-up and save it on soundcheck.
+La Portenya y los Piratas in concert at Festa Major de Gràcia - Verdi del Mig street stage at Festa Major de Gràcia - Carrer Verdi del Mig on Thu 20 Aug, Barcelona. 1 act on the bill: La Porteña y los Piratas. Electro and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

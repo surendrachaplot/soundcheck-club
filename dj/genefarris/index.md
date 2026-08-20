@@ -1,6 +1,6 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Night We Met, Nashville on Fri, 21 Aug 2026.
+Gene Farris is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Night We Met, Nashville on Fri, 21 Aug 2026.
 
 Gene Farris is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: Night We Met, Nashville on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Gene Farris is a house and tech house artist tracked on soundcheck, with 109 set
 
 OFFAIAH, Mark Knight, Anthony Attalla
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

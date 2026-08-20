@@ -1,6 +1,6 @@
 # Wispelturig
 
-Wispelturig is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sat, 22 Aug 2026.
+Wispelturig is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sat, 22 Aug 2026.
 
 Wispelturig is an electronica and club artist tracked on soundcheck, with 23 sets logged across Amsterdam, Istanbul and Utrecht. Often billed alongside Kyoso, ADHI and Elisa Batti. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Wispelturig is an electronica and club artist tracked on soundcheck, with 23 set
 
 Kyoso, ADHI, Elisa Batti
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wispelturig/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wispelturig/)*

@@ -1,6 +1,6 @@
 # bumv
 
-bumv is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Stoked&stoned, Seoul on Sat, 22 Aug 2026.
+bumv is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Stoked&stoned, Seoul on Sat, 22 Aug 2026.
 
 bumv is a techno and electro artist based in South Korea, tracked on soundcheck, with 104 sets logged across Seoul. Often billed alongside Honn, X2C (1) and MOVIN.KR. Next up: Stoked&stoned, Seoul on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ bumv is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 Honn, X2C (1), MOVIN.KR
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*

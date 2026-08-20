@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Last Arch, London on Fri, 4 Sept 2026.
+Dan Andrei is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Last Arch, London on Fri, 4 Sept 2026.
 
 Dan Andrei is a minimal and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Last Arch, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Dan Andrei is a minimal and house artist tracked on soundcheck, with 111 sets lo
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

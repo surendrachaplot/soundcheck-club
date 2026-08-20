@@ -1,14 +1,15 @@
 # Victor Norman
 
-Victor Norman is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ascaroterassen, Stockholm on Sat, 22 Aug 2026.
+Victor Norman is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ascaroterassen, Stockholm on Sat, 22 Aug 2026.
 
-Victor Norman is a house and downtempo artist tracked on soundcheck, with 11 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Britta Arnold, Hraach and Ahiram. Next up: Ascaroterassen, Stockholm on Sat 22 Aug.
+Victor Norman is a progressive house and house artist tracked on soundcheck, with 12 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Ahiram, Britta Arnold and Hraach. Next up: Ascaroterassen, Stockholm on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Ascaroterassen | Stockholm |
+| Sat, 26 Sept 2026 | Gazebo | Stockholm |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Victor Norman is a house and downtempo artist tracked on soundcheck, with 11 set
 
 ## Shares bills with
 
-Britta Arnold, Hraach, Ahiram
+Ahiram, Britta Arnold, Hraach
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*

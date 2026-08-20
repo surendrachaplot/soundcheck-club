@@ -1,6 +1,6 @@
 # X2C (1)
 
-X2C (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
+X2C (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
 
 X2C (1) is a techno and electro artist based in South Korea, tracked on soundcheck, with 99 sets logged across Seoul. Often billed alongside Honn, bumv and MOVIN.KR. Next up: Shelter, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ X2C (1) is a techno and electro artist based in South Korea, tracked on soundche
 
 Honn, bumv, MOVIN.KR
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x2c-1/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x2c-1/)*

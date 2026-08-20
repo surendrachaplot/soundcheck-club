@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "bratty" on Fri, 21 Aug 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "bratty" on Fri, 21 Aug 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Aiden (DE), ANDATA, Charleen Herzig and dannycookin and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

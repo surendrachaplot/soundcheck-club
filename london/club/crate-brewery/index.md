@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "ATRIP Release Party" on Fri, 21 Aug 2026.
+Crate Brewery is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ATRIP Release Party" on Fri, 21 Aug 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alec Falconer, ATRIP, Checketts and Jamie Bloomfield and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -19,4 +19,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 6 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

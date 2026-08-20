@@ -1,6 +1,6 @@
 # Kip Analog
 
-Kip Analog is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Kip Analog is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Kip Analog is a techno and funk / soul artist tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Adrian Salcedo, Acid Pauli and Afgang. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Kip Analog is a techno and funk / soul artist tracked on soundcheck, with 6 sets
 
 Adrian Salcedo, Acid Pauli, Afgang
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kipanalog/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kipanalog/)*

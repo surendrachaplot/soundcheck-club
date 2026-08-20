@@ -1,6 +1,6 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Tonal, Mexico City on Fri, 21 Aug 2026.
+Dj Dizam is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tonal, Mexico City on Fri, 21 Aug 2026.
 
 Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Tonal, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dj Dizam is a hip-hop and house artist based in United States of America, tracke
 
 Black Daria, LOVERGRL, Bastian Bell
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

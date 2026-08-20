@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "☻ Bongo Reopening Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 4 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "☻ Bongo Reopening Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 4 Sept 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 11 upcoming nights, with line-ups including YVI, Anikonik, Bryan Gee and Brynk and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 11 upcoming n
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

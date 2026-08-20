@@ -1,6 +1,6 @@
 # Kush Jones
 
-Kush Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Hidden, Manchester on Fri, 23 Oct 2026.
+Kush Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hidden, Manchester on Fri, 23 Oct 2026.
 
 Kush Jones is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Hidden, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kush Jones is a techno and house artist tracked on soundcheck, with 116 sets log
 
 DJ SWISHA, MoMA Ready, AceMo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*

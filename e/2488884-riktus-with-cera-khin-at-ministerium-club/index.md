@@ -1,6 +1,6 @@
 # Riktus with Cera Khin at Ministerium Club
 
-Riktus with Cera Khin at Ministerium Club on Thu 20 Aug, Lisbon. 2 acts on the bill: Cera Khin and La Vera Notte. Techno. Preview the line-up and save it on soundcheck.
+Riktus with Cera Khin at Ministerium Club on Thu 20 Aug, Lisbon. 3 acts on the bill: Cera Khin, La Vera Notte and Række. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Riktus with Cera Khin at Ministerium Club on Thu 20 Aug, Lisbon. 2 acts on the b
 
 - Cera Khin
 - La Vera Notte
+- Række
 
 *Source: [soundcheck](https://soundcheck.club/e/2488884-riktus-with-cera-khin-at-ministerium-club/)*

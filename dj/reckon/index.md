@@ -1,6 +1,6 @@
 # Reckon
 
-Reckon is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
+Reckon is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
 
 Reckon is an electro and minimal artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Jamie Bloomfield, Harold. and Sel & C. Next up: Crate Brewery, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Reckon is an electro and minimal artist tracked on soundcheck, with 9 sets logge
 
 Jamie Bloomfield, Harold., Sel & C
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reckon/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reckon/)*

@@ -1,6 +1,6 @@
 # Nothing But Love
 
-Nothing But Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Nothing But Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Nothing But Love is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam and Munich. Often billed alongside Alex Volta, lisa luka and Addie Manson. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nothing But Love is a techno and house artist based in Germany, tracked on sound
 
 Alex Volta, lisa luka, Addie Manson
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*

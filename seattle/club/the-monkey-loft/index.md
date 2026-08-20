@@ -1,14 +1,13 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Habitat and Proton Amplified" on Wed, 19 Aug 2026.
+The Monkey Loft is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Deck'd Out #10 LNM & Shameless Pres. Cami Jones (Ibiza) + 11 Year Anniv" on Thu, 20 Aug 2026.
 
-The Monkey Loft is a music venue in Seattle listed on soundcheck. 7 upcoming nights, with line-ups including Black Velveteen, Cami Jones, Christine Michelle and David Hohme and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
+The Monkey Loft is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including Cami Jones, David Hohme, I.S.H and Pezzner and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Habitat and Proton Amplified | Black Velveteen, Christine Michelle |
 | Thu, 20 Aug 2026 | Deck'd Out #10 LNM & Shameless Pres. Cami Jones (Ibiza) + 11 Year Anniv | Cami Jones, I.S.H, Tony H |
 | Fri, 21 Aug 2026 | OFFLINE feat. David Hohme | David Hohme |
 | Thu, 27 Aug 2026 | Deck'd Out #11 with Global Bounce & Selector Records Showcases |  |
@@ -20,4 +19,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 7 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

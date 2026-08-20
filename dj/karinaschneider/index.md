@@ -1,6 +1,6 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Karina Schneider is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Karina Schneider is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Karina Schneider is a techno and house artist tracked on soundcheck, with 71 set
 
 Beau Didier, Marc Schneider, Flits
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

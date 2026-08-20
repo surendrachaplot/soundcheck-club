@@ -1,6 +1,6 @@
 # Yas Reven
 
-Yas Reven is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at PRST, Vienna on Fri, 21 Aug 2026.
+Yas Reven is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at PRST, Vienna on Fri, 21 Aug 2026.
 
 Yas Reven is a techno and house artist based in Italy, tracked on soundcheck, with 31 sets logged across Berlin, Lisbon, London and Milan and 4 more. Often billed alongside Simone de Kunovich, Nicola Mazzetti and Pascal Moscheni. Next up: PRST, Vienna on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Yas Reven is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Simone de Kunovich, Nicola Mazzetti, Pascal Moscheni
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*

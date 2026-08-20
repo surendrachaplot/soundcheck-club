@@ -1,6 +1,6 @@
 # Gallagher Square
 
-Gallagher Square is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "LED presents Chase & Status" on Sun, 6 Sept 2026.
+Gallagher Square is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "LED presents Chase & Status" on Sun, 6 Sept 2026.
 
 Gallagher Square is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with line-ups including Chase & Status, Mochakk and Sammy Virji. Browse upcoming dates, start times and who's playing. 840 K St, San Diego, CA 92101, United States.
 
@@ -17,4 +17,4 @@ Gallagher Square is a music venue in Sandiego listed on soundcheck. 4 upcoming n
 
 840 K St, San Diego, CA 92101, United States, San Diego
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*

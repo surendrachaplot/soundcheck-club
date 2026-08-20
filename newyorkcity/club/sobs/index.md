@@ -1,14 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "10 Years of Blonde: A Live Jazz Tribute to Frank Ocean" on Wed, 19 Aug 2026.
+SOBs is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Rival Battle: Pokemon Rap Concert" on Thu, 20 Aug 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including DJ Vega. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including DJ Vega. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | 10 Years of Blonde: A Live Jazz Tribute to Frank Ocean |  |
 | Thu, 20 Aug 2026 | Rival Battle: Pokemon Rap Concert | DJ Vega |
 | Thu, 20 Aug 2026 | Shonen Shout: Anime Rave - Anime NYC Day 1 | DJ Vega |
 | Wed, 26 Aug 2026 | SOB'S PREMIERE: Underground Hip Hop Takeover |  |
@@ -21,4 +20,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, wi
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

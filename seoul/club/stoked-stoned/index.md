@@ -1,6 +1,6 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Thursday Stoked&stoned" on Thu, 20 Aug 2026.
+Stoked&stoned is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Thursday Stoked&stoned" on Thu, 20 Aug 2026.
 
 Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including bumv, FOI (SK), Justruud and Krijka and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
@@ -17,4 +17,4 @@ Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming nights,
 
 Seoul, Yongsan District, Daesagwan-ro, 72 2F, Seoul
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*

@@ -1,6 +1,6 @@
 # FM Arlo
 
-FM Arlo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Gut Level, Sheffield on Fri, 11 Sept 2026.
+FM Arlo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gut Level, Sheffield on Fri, 11 Sept 2026.
 
 FM Arlo is a techno and bass artist tracked on soundcheck, with 15 sets logged across Sheffield. Often billed alongside Jacksa, Erst and Kit (UK). Next up: Gut Level, Sheffield on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ FM Arlo is a techno and bass artist tracked on soundcheck, with 15 sets logged a
 
 Jacksa, Erst, Kit (UK)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fmarlo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fmarlo/)*

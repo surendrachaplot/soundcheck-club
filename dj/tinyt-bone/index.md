@@ -1,6 +1,6 @@
 # Tiny T-Bone
 
-Tiny T-Bone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Silence Please, New York City on Sat, 22 Aug 2026.
+Tiny T-Bone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Silence Please, New York City on Sat, 22 Aug 2026.
 
 Tiny T-Bone is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity. Often billed alongside Raw Unkut, x3butterfly and AceMoMA. Next up: Silence Please, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tiny T-Bone is a house and techno artist based in United States of America, trac
 
 Raw Unkut, x3butterfly, AceMoMA
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*

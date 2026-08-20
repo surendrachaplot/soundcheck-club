@@ -1,6 +1,6 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hollywood Palladium, Los Angeles on Fri, 21 Aug 2026.
+Maddix is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hollywood Palladium, Los Angeles on Fri, 21 Aug 2026.
 
 Maddix is a techno and trance artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Bangkok and Basel and 54 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: Hollywood Palladium, Losangeles on Fri 21 Aug.
 
@@ -32,4 +32,4 @@ Maddix is a techno and trance artist tracked on soundcheck, with 155 sets logged
 
 The Rocketman, Billy Gillies, Armin van Buuren
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

@@ -1,6 +1,6 @@
 # Airrica
 
-Airrica is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Echostage, Washington DC on Sun, 6 Sept 2026.
+Airrica is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Echostage, Washington DC on Sun, 6 Sept 2026.
 
 Airrica is a house and tech house artist tracked on soundcheck, with 93 sets logged across Barcelona, Brussels, Chicago and Copenhagen and 20 more. Often billed alongside Damian Lazarus, Black Coffee and Adam Beyer. Next up: Echostage, Washingtondc on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Airrica is a house and tech house artist tracked on soundcheck, with 93 sets log
 
 Damian Lazarus, Black Coffee, Adam Beyer
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*

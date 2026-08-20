@@ -1,13 +1,14 @@
 # RATONC1T0
 
-RATONC1T0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
+RATONC1T0 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Xanadu, New York City on Sun, 13 Sept 2026.
 
-RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundcheck, with 18 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ether Pleaser, DAIYAH and KYRUH. Next up: Paragon, Newyorkcity on Fri 23 Oct.
+RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundcheck, with 19 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ether Pleaser, DAIYAH and KYRUH. Next up: Xanadu, Newyorkcity on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Xanadu | New York City |
 | Fri, 23 Oct 2026 | Paragon | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundc
 
 Ether Pleaser, DAIYAH, KYRUH
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*

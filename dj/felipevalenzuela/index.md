@@ -1,6 +1,6 @@
 # Felipe Valenzuela
 
-Felipe Valenzuela is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
+Felipe Valenzuela is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
 
 Felipe Valenzuela is a house and tech house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 10 more. Often billed alongside Dani Casarano, Abscal and Momo Trosman. Next up: Club der Visionaere, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Felipe Valenzuela is a house and tech house artist tracked on soundcheck, with 6
 
 Dani Casarano, Abscal, Momo Trosman
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*

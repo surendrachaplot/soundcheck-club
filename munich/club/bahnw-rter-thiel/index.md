@@ -1,8 +1,8 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "135+ mit Grooveraiderz & Sonara – Open Air & Club" on Thu, 20 Aug 2026.
+Bahnwärter Thiel is a music venue in Munich with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "135+ mit Grooveraiderz & Sonara – Open Air & Club" on Thu, 20 Aug 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including 9LALEY, A-DEE, ACE [DE] and ÆNN and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming nights, with line-ups including 9LALEY, A-DEE, ACE [DE] and ÆNN and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming n
 | Thu, 3 Sept 2026 | 135+ mit Uhrwerk der Nacht & 808 Kollektive | JACID |
 | Fri, 4 Sept 2026 | SYNTHX 3 Year Anniversary | ANASTASÍA, Jan Minnerup, MBREKK, NAGINI, Praun, TONA, Vaneska, ÆNN |
 | Sat, 5 Sept 2026 | Wannda Circus Closing / Bahnwärter Edition | Cottí Larje, Käthe & Haes, Nhii, vivi |
-| Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air mit Christian Löffler |  |
+| Sat, 5 Sept 2026 | Vegan Beats - Das erste vegane Festival Süddeutschlands |  |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

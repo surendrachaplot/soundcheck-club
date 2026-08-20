@@ -1,6 +1,6 @@
 # Rico Vision
 
-Rico Vision is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+Rico Vision is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 Rico Vision is a baile funk and amapiano artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Yengo, ABIMBOLA and Dj Clark Gabble. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Rico Vision is a baile funk and amapiano artist tracked on soundcheck, with 7 se
 
 Yengo, ABIMBOLA, Dj Clark Gabble
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricovision/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricovision/)*

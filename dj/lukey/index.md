@@ -1,13 +1,14 @@
 # Lukey
 
-Lukey is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club Bellevue, Zurich on Sat, 3 Oct 2026.
+Lukey is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
-Lukey is a house and minimal artist based in Ireland, tracked on soundcheck, with 22 sets logged across Barcelona, Dublin, Hongkong and Lisbon and 2 more. Often billed alongside Alessa (ES), Collie (1) and Dylema. Next up: Club Bellevue, Zurich on Sat 3 Oct.
+Lukey is a house and minimal artist based in Ireland, tracked on soundcheck, with 23 sets logged across Barcelona, Dublin, Hongkong and Lisbon and 2 more. Often billed alongside PAZ WAZ HERE, Alessa (ES) and Collie (1). Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Almar Beach Club | Barcelona |
 | Sat, 3 Oct 2026 | Club Bellevue | Zurich |
 
 ## Recently played
@@ -23,6 +24,6 @@ Lukey is a house and minimal artist based in Ireland, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Alessa (ES), Collie (1), Dylema
+PAZ WAZ HERE, Alessa (ES), Collie (1)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukey/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukey/)*

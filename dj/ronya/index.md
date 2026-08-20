@@ -1,6 +1,6 @@
 # Ronya
 
-Ronya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
+Ronya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Villa, Oslo on Fri, 21 Aug 2026.
 
 Ronya is a house and techno artist based in Norway, tracked on soundcheck, with 37 sets logged across Berlin, Birmingham, London and Oslo. Often billed alongside Tod Louie, Chris Solaris and Tonchius. Next up: The Villa, Oslo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ronya is a house and techno artist based in Norway, tracked on soundcheck, with 
 
 Tod Louie, Chris Solaris, Tonchius
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*

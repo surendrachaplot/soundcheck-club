@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 8 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Reggaeton Summer Terrace Party" on Fri, 21 Aug 2026.
+Ouseburn Garden is a music venue in Newcastle with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Reggaeton Summer Terrace Party" on Fri, 21 Aug 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 8 upcoming nights, with line-ups including Adam Lance, Alec Falconer, Bobby O'Donnell and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -21,4 +21,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 8 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

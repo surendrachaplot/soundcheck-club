@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "SG Lewis (DJ Set) in The Ruins (FRI)" on Fri, 21 Aug 2026.
+Knockdown Center is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SG Lewis (DJ Set) in The Ruins (FRI)" on Fri, 21 Aug 2026.
 
-Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 25 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 25 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

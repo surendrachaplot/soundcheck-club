@@ -1,6 +1,6 @@
 # Céline Technorama
 
-Céline Technorama is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at essaim, Paris on Fri, 21 Aug 2026.
+Céline Technorama is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at essaim, Paris on Fri, 21 Aug 2026.
 
 Céline Technorama is a techno and bass artist based in France, tracked on soundcheck, with 22 sets logged across Paris. Often billed alongside DJ Jee, Aubry and Cyberlife. Next up: essaim, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Céline Technorama is a techno and bass artist based in France, tracked on sound
 
 DJ Jee, Aubry, Cyberlife
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celinetechnorama/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celinetechnorama/)*

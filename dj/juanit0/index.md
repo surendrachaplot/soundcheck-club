@@ -1,6 +1,6 @@
 # Juanit0
 
-Juanit0 is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Standard Time, Toronto on Fri, 21 Aug 2026.
+Juanit0 is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Standard Time, Toronto on Fri, 21 Aug 2026.
 
 Juanit0 is a latin bass and experimental artist tracked on soundcheck, with 12 sets logged across Montreal and Toronto. Often billed alongside ESCOBUTT, Kaspr and 999ADJ. Next up: Standard Time, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Juanit0 is a latin bass and experimental artist tracked on soundcheck, with 12 s
 
 ESCOBUTT, Kaspr, 999ADJ
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanit0/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanit0/)*

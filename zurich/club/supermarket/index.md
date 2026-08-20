@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Acid Town" on Fri, 21 Aug 2026.
+Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Acid Town" on Fri, 21 Aug 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with line-ups including FLETCH, Alci, Andrey Pushkarev and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -23,4 +23,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights,
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

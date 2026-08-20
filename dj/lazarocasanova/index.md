@@ -1,6 +1,6 @@
 # Lazaro Casanova
 
-Lazaro Casanova is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 20 Aug 2026.
+Lazaro Casanova is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 20 Aug 2026.
 
 Lazaro Casanova is a house and afro house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: Bodega Taqueria Y Tequila, Miami on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Lazaro Casanova is a house and afro house artist based in United States of Ameri
 
 Oscar G, Nicole Fiallo, Mike Nervous
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*

@@ -1,6 +1,6 @@
 # Bembi
 
-Bembi is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
+Bembi is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
 
 Bembi is a house and afro house artist based in Argentina, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside BlackChilli, Guada Mariani and Guidomik. Next up: EL SÓTANO, Madrid on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Bembi is a house and afro house artist based in Argentina, tracked on soundcheck
 
 BlackChilli, Guada Mariani, Guidomik
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bembi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bembi/)*

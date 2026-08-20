@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "METANOIC at Hoppetosse" on Fri, 21 Aug 2026.
+Hoppetosse is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "METANOIC at Hoppetosse" on Fri, 21 Aug 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Alex Benz, Bailey Brown, Balthazar Martinez and BODYSHIFT and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 7 upcoming nights, w
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

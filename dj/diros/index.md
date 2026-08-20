@@ -1,15 +1,15 @@
 # DIROS
 
-DIROS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Macarena Club, Barcelona on Tue, 18 Aug 2026.
+DIROS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 20 Sept 2026.
 
-DIROS is a tech house and house artist based in Spain, tracked on soundcheck, with 63 sets logged across Amsterdam and Barcelona. Often billed alongside Jon Peña, Rubenus and Pau Guilera. Next up: Macarena Club, Barcelona on Tue 18 Aug.
+DIROS is a tech house and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Amsterdam and Barcelona. Often billed alongside Jon Peña, Rubenus and Pau Guilera. Next up: Seaseaclub Barcelona, Barcelona on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Macarena Club | Barcelona |
 | Sun, 20 Sept 2026 | Seaseaclub Barcelona | Barcelona |
+| Sat, 3 Oct 2026 | Cocoa Mataró | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ DIROS is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 Jon Peña, Rubenus, Pau Guilera
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diros/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diros/)*

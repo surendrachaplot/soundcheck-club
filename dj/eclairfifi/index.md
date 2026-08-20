@@ -1,6 +1,6 @@
 # Eclair Fifi
 
-Eclair Fifi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Eclair Fifi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Eclair Fifi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, LWS and Optimo (Espacio). Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Eclair Fifi is a house and techno artist based in United Kingdom, tracked on sou
 
 TSHA, LWS, Optimo (Espacio)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*

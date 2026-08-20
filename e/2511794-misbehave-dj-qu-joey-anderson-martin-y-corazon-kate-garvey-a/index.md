@@ -1,11 +1,11 @@
-# Misbehave: DJ Qu, Joey Anderson, Martin Y Corazon, Kate Garvey at Summertime Roof Terrace
+# Misbehave: DJ Qu, Joey Anderson, Martin Y Corazon, Kate Garvey at Roof Terrace BK
 
-Misbehave: DJ Qu, Joey Anderson, Martin Y Corazon, Kate Garvey at Summertime Roof Terrace on Sat 22 Aug, Newyorkcity. 4 acts on the bill: DJ Qu, Joey Anderson, Kate Garvey and Martín Y Corazón. House and Deep House. Preview the line-up and save it on soundcheck.
+Misbehave: DJ Qu, Joey Anderson, Martin Y Corazon, Kate Garvey at Roof Terrace BK on Sat 22 Aug, Newyorkcity. 4 acts on the bill: DJ Qu, Joey Anderson, Kate Garvey and Martín Y Corazón. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 22 Aug 2026 |
-| Venue | Summertime Roof Terrace |
+| Venue | Roof Terrace BK |
 | City | New York City |
 
 ## Line-up

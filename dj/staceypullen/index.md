@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Stacey Pullen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Stacey Pullen is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 115 sets 
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

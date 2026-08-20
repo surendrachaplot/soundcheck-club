@@ -1,13 +1,14 @@
 # Todd Modes
 
-Todd Modes is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 28 Aug 2026.
+Todd Modes is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lincoln Factory, Detroit on Fri, 21 Aug 2026.
 
-Todd Modes is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Detroit. Often billed alongside Ryan Spencer, Blair French and Eastside Jon. Next up: Northern Lights Lounge, Detroit on Fri 28 Aug.
+Todd Modes is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit. Often billed alongside Ryan Spencer, Blair French and Eastside Jon. Next up: Lincoln Factory, Detroit on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Lincoln Factory | Detroit |
 | Fri, 28 Aug 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Todd Modes is a house and disco artist based in United States of America, tracke
 
 Ryan Spencer, Blair French, Eastside Jon
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddmodes/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddmodes/)*

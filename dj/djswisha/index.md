@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Moongate Lounge, San Francisco/Oakland on Thu, 20 Aug 2026.
+DJ SWISHA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Moongate Lounge, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 DJ SWISHA is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Moongate Lounge, Sanfrancisco on Thu 20 Aug.
 
@@ -30,4 +30,4 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 191 sets logg
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

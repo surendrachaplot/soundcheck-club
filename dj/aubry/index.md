@@ -1,6 +1,6 @@
 # Aubry
 
-Aubry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 28 Aug 2026.
+Aubry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 28 Aug 2026.
 
 Aubry is a house and techno artist tracked on soundcheck, with 48 sets logged across Berlin, Lyon, Marseille and Paris. Often billed alongside Nicol, A-440 and Fenouil2000. Next up: La Station - Gare des Mines, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Aubry is a house and techno artist tracked on soundcheck, with 48 sets logged ac
 
 Nicol, A-440, Fenouil2000
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aubry/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aubry/)*

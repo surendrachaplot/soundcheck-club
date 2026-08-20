@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Channel Vision: Touch Grass" on Sat, 29 Aug 2026.
+Bread and Butter is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Channel Vision: Touch Grass" on Sat, 29 Aug 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Dj Clark Gabble, Donae'o, Faded Society and GDY GDY Gurps and 2 more. Browse upcoming dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -16,4 +16,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 3 upcoming nig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

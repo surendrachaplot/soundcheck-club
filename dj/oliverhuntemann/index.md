@@ -1,15 +1,17 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Te Motu - Vineyard Restaurant, Auckland on Fri, 4 Sept 2026.
+Oliver Huntemann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at elsewhere, Brisbane on Sun, 30 Aug 2026.
 
-Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Auckland and Bali and 22 more. Often billed alongside Steve Sai, Joseph Disco and Kaufmann. Next up: Te Motu - Vineyard Restaurant, Auckland on Fri 4 Sept.
+Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Bali and 23 more. Often billed alongside Steve Sai, Tommahawk and Andre Winter. Next up: elsewhere, Brisbane on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | elsewhere | Brisbane |
 | Fri, 4 Sept 2026 | Te Motu - Vineyard Restaurant | Auckland |
 | Fri, 4 Sept 2026 | Te Motu - Vineyard Restaurant | Auckland |
+| Fri, 18 Sept 2026 | Fridas Pier | Stuttgart |
 | Fri, 25 Sept 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -25,6 +27,6 @@ Oliver Huntemann is a techno and house artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-Steve Sai, Joseph Disco, Kaufmann
+Steve Sai, Tommahawk, Andre Winter
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "NITE SCHOOL: Light Asylum, BOAN, SRSQ djs Mister Sister + resident Candy Whiplash" on Thu, 20 Aug 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "NITE SCHOOL: Light Asylum, BOAN, SRSQ djs Mister Sister + resident Candy Whiplash" on Thu, 20 Aug 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 7 upcoming nights, with line-ups including Big Ace, Black Rave Culture, Claudia LB and Ctrl.mp3 and 2 more. Browse upcoming dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -20,4 +20,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

@@ -1,6 +1,6 @@
 # maniac&me
 
-maniac&me is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Minimal Bar, Berlin on Sun, 23 Aug 2026.
+maniac&me is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Minimal Bar, Berlin on Sun, 23 Aug 2026.
 
 maniac&me is a house and minimal artist based in Germany, tracked on soundcheck, with 86 sets logged across Berlin and Rome. Often billed alongside Sciarada, Anthony Georges Patrice and Kire (DE). Next up: Minimal Bar, Berlin on Sun 23 Aug.
 
@@ -32,4 +32,4 @@ maniac&me is a house and minimal artist based in Germany, tracked on soundcheck,
 
 Sciarada, Anthony Georges Patrice, Kire (DE)
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniacme/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniacme/)*

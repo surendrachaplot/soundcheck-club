@@ -1,6 +1,6 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Scorpios, Mykonos on Thu, 27 Aug 2026.
+Avangart Tabldot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Scorpios, Mykonos on Thu, 27 Aug 2026.
 
 Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Scorpios, Mykonos on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 88
 
 Mahmut Orhan, Henri Bergmann, Bedouin
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*

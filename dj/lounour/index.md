@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Lou Nour is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Lou Nour is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 2 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Lou Nour is a techno and trance artist based in United Kingdom, tracked on sound
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

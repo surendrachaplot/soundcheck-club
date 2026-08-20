@@ -1,6 +1,6 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
+Benny (El Rio Hostel) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
 
 Benny (El Rio Hostel) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: Starlane Pizza Bar, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Benny (El Rio Hostel) is a house and techno artist based in United Kingdom, trac
 
 Adi (CO), Anna Wall, Barbaros
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

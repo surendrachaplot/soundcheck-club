@@ -1,6 +1,6 @@
 # DEJA
 
-DEJA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
+DEJA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
 
 DEJA is a techno and trance artist tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside AKA DISPLAY, Johnny Greig and SKEEN. Next up: The Berkeley Suite, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ DEJA is a techno and trance artist tracked on soundcheck, with 11 sets logged ac
 
 AKA DISPLAY, Johnny Greig, SKEEN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deja/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deja/)*

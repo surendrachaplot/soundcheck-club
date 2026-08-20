@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Detroit Ufo" on Thu, 20 Aug 2026.
+Bar v Krymský is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Detroit Ufo" on Thu, 20 Aug 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including Raphael Kosmos. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -19,4 +19,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming night
 
 Krymská 21, Praha, Prague
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

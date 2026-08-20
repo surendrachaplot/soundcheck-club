@@ -1,14 +1,15 @@
 # Zhar
 
-Zhar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Zhar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
-Zhar is a techno and house artist based in France, tracked on soundcheck, with 28 sets logged across Basel, Berlin, Brussels and Paris and 1 more. Often billed alongside MALAISE VAGAL, Makar and ANNUN. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
+Zhar is a techno and house artist based in France, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Brussels and Paris and 1 more. Often billed alongside Lude (2), MALAISE VAGAL and Makar. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
+| Fri, 4 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
 | Sat, 5 Sept 2026 | KALT | Strasbourg |
 
 ## Recently played
@@ -24,6 +25,6 @@ Zhar is a techno and house artist based in France, tracked on soundcheck, with 2
 
 ## Shares bills with
 
-MALAISE VAGAL, Makar, ANNUN
+Lude (2), MALAISE VAGAL, Makar
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhar/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhar/)*

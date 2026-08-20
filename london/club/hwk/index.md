@@ -1,6 +1,6 @@
 # HWK
 
-HWK is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "out of the basement" on Sat, 22 Aug 2026.
+HWK is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "out of the basement" on Sat, 22 Aug 2026.
 
 HWK is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including A.K(lifee), acidhousewife3000, Alexi Shell and Atomic Hooligan and 2 more. Browse upcoming dates, start times and who's playing. 29 White Post Lane, E9 5EN.
 
@@ -17,4 +17,4 @@ HWK is a music venue in London listed on soundcheck. 4 upcoming nights, with lin
 
 29 White Post Lane, E9 5EN, London
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*

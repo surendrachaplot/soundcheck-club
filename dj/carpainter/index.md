@@ -1,6 +1,6 @@
 # Carpainter
 
-Carpainter is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
+Carpainter is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
 
 Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, with 47 sets logged across Kyoto, Newyorkcity and Tokyo. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: Daikanyama ORD., Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 Seimei, Andrew (TREKKIE TRAX), Genick
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*

@@ -1,6 +1,6 @@
 # Lua Jessen
 
-Lua Jessen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
+Lua Jessen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 21 Aug 2026.
 
 Lua Jessen is a house and tech house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside GIVIO, Mario Chicoli and Babo. Next up: Almar Beach Club, Barcelona on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Lua Jessen is a house and tech house artist tracked on soundcheck, with 3 sets l
 
 GIVIO, Mario Chicoli, Babo
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luajessen/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luajessen/)*

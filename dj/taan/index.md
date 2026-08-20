@@ -1,6 +1,6 @@
 # Taan
 
-Taan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at MONKEY LOVE, Warsaw on Sat, 22 Aug 2026.
+Taan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at MONKEY LOVE, Warsaw on Sat, 22 Aug 2026.
 
 Taan is a techno and bass artist based in Poland, tracked on soundcheck, with 59 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bielak and bart ender. Next up: MONKEY LOVE, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Taan is a techno and bass artist based in Poland, tracked on soundcheck, with 59
 
 Schmeltzer, bielak, bart ender
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*

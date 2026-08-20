@@ -1,6 +1,6 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Introspekt is a Garage and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Introspekt is a garage and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Austin, Barcelona and Belfast and 42 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -31,4 +31,4 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 180 sets lo
 
 Octo Octa, CCL, Bored Lord
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

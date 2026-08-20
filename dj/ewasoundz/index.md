@@ -1,6 +1,6 @@
 # EWASOUNDZ
 
-EWASOUNDZ is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Orange Room, London on Sat, 22 Aug 2026.
+EWASOUNDZ is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Orange Room, London on Sat, 22 Aug 2026.
 
 EWASOUNDZ is a club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Darama, GDY GDY Gurps and JuicySteamedHams. Next up: Orange Room, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ EWASOUNDZ is a club artist based in United Kingdom, tracked on soundcheck, with 
 
 Darama, GDY GDY Gurps, JuicySteamedHams
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewasoundz/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewasoundz/)*

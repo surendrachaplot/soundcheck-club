@@ -1,6 +1,6 @@
 # Caitlin Medcalf
 
-Caitlin Medcalf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
+Caitlin Medcalf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club 77, Sydney on Sat, 29 Aug 2026.
 
 Caitlin Medcalf is a techno and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne and Sydney. Often billed alongside Mincy, DAYZZI and Slamb. Next up: Club 77, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Caitlin Medcalf is a techno and house artist based in Australia, tracked on soun
 
 Mincy, DAYZZI, Slamb
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlinmedcalf/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlinmedcalf/)*

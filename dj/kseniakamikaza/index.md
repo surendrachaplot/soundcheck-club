@@ -1,14 +1,15 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
+Ksenia Kamikaza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
 
-Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Laska V21, Riga on Fri 25 Sept.
+Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Laska V21, Riga on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Laska V21 | Riga |
+| Fri, 2 Oct 2026 | Spilve Airport | Riga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 113 set
 
 Esoniq, Ikss, HP-82
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*

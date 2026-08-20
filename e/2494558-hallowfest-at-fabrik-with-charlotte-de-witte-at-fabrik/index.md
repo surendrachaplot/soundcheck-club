@@ -1,6 +1,6 @@
 # Hallowfest at Fabrik with Charlotte de Witte at Fabrik
 
-Hallowfest at Fabrik with Charlotte de Witte on Sat 31 Oct, Madrid. 1 act on the bill: Charlotte de Witte. Preview the line-up and save it on soundcheck.
+Hallowfest at Fabrik with Charlotte de Witte on Sat 31 Oct, Madrid. 1 act on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

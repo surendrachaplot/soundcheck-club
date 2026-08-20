@@ -1,6 +1,6 @@
 # KIVI
 
-KIVI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
+KIVI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at elipamanoke, Leipzig on Sat, 22 Aug 2026.
 
 KIVI is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Bristol and Leipzig and 4 more. Often billed alongside Deekline, Killa P and Benny Page. Next up: elipamanoke, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KIVI is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Deekline, Killa P, Benny Page
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kivi/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kivi/)*

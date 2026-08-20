@@ -1,14 +1,13 @@
 # Antonio Pepe
 
-Antonio Pepe is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
+Antonio Pepe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-Antonio Pepe is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Ibiza, Milan and Naples. Often billed alongside Joseph Capriati, Markantonio and Alarico. Next up: Amnesia Ibiza, Ibiza on Tue 18 Aug.
+Antonio Pepe is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Ibiza, Milan and Naples. Often billed alongside Joseph Capriati, Markantonio and Alarico. Next up: Amnesia Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
@@ -26,4 +25,4 @@ Antonio Pepe is a techno and tech house artist tracked on soundcheck, with 10 se
 
 Joseph Capriati, Markantonio, Alarico
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopepe/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopepe/)*

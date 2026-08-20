@@ -1,6 +1,6 @@
 # Josh Parkinson
 
-Josh Parkinson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
+Josh Parkinson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
 
 Josh Parkinson is a house and tech house artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Mas Que Nada Brothers, Onncor and Luke Wolfman. Next up: E1, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Josh Parkinson is a house and tech house artist tracked on soundcheck, with 26 s
 
 Mas Que Nada Brothers, Onncor, Luke Wolfman
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshparkinson/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshparkinson/)*

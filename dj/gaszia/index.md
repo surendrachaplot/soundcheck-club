@@ -1,6 +1,6 @@
 # gaszia
 
-gaszia is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
+gaszia is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
 
 gaszia is a club and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago, Denver, Losangeles and Newyorkcity and 3 more. Often billed alongside umru, Donatachi and MAMA SAN. Next up: Water & Power, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ gaszia is a club and techno artist based in United States of America, tracked on
 
 umru, Donatachi, MAMA SAN
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*

@@ -1,6 +1,6 @@
 # Brad2Mack
 
-Brad2Mack is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Mash House, Edinburgh on Fri, 4 Sept 2026.
+Brad2Mack is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Mash House, Edinburgh on Fri, 4 Sept 2026.
 
 Brad2Mack is a techno and trance artist tracked on soundcheck, with 14 sets logged across Edinburgh. Often billed alongside Quality Man, Brad Herbert and CLEAR UK. Next up: The Mash House, Edinburgh on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Brad2Mack is a techno and trance artist tracked on soundcheck, with 14 sets logg
 
 Quality Man, Brad Herbert, CLEAR UK
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brad2mack/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brad2mack/)*

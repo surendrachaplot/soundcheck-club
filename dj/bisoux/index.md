@@ -1,14 +1,15 @@
 # BISOUX
 
-BISOUX is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
+BISOUX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
 
-BISOUX is a trance and techno artist based in Belgium, tracked on soundcheck, with 25 sets logged across Antwerp, Berlin, Brussels and Paris and 1 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
+BISOUX is a trance and techno artist based in Belgium, tracked on soundcheck, with 26 sets logged across Antwerp, Berlin, Brussels and Paris and 1 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Former Smatch Supermarket | Antwerp |
+| Sat, 3 Oct 2026 | Kavka Oudaan | Antwerp |
 | Sat, 17 Oct 2026 | Club Vaag | Antwerp |
 
 ## Recently played
@@ -26,4 +27,4 @@ BISOUX is a trance and techno artist based in Belgium, tracked on soundcheck, wi
 
 Jef Nice, BAVR, Lisa Korver
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*

@@ -1,6 +1,6 @@
 # Mantis Hands
 
-Mantis Hands is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
+Mantis Hands is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jupiter Disco, New York City on Thu, 20 Aug 2026.
 
 Mantis Hands is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles and Newyorkcity. Often billed alongside selacuna, Annabelle (US) and Coyado. Next up: Jupiter Disco, Newyorkcity on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Mantis Hands is a house and techno artist based in United States of America, tra
 
 selacuna, Annabelle (US), Coyado
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantishands/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantishands/)*

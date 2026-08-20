@@ -1,6 +1,6 @@
 # Crown Nightclub
 
-Crown Nightclub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Wed, 19 Aug 2026; the next is "RedEye Boston presents: NIGHTSHIFT feat. HiTech" on Fri, 21 Aug 2026.
+Crown Nightclub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "RedEye Boston presents: NIGHTSHIFT feat. HiTech" on Fri, 21 Aug 2026.
 
 Crown Nightclub is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Amadeezy and HiTech. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Crown Nightclub is a music venue in Boston listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | RedEye Boston presents: NIGHTSHIFT feat. HiTech | Amadeezy, HiTech |
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/crown-nightclub/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/crown-nightclub/)*

@@ -1,6 +1,6 @@
 # Gui Scott
 
-Gui Scott is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 22 Aug 2026.
+Gui Scott is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 22 Aug 2026.
 
 Gui Scott is a house and disco artist based in Brazil, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Pino Henrique Pedra, Caio T. and Discos Baratos. Next up: Caracol Bar, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gui Scott is a house and disco artist based in Brazil, tracked on soundcheck, wi
 
 Pino Henrique Pedra, Caio T., Discos Baratos
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*

@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 19 Aug 2026; the next is "Get Together" on Fri, 21 Aug 2026.
+McNeills is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Get Together" on Fri, 21 Aug 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Alexis Le-Tan, GK Machine and Miles J Paralysis. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -15,4 +15,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, wi
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

@@ -1,6 +1,6 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Workforce is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Workforce is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: The Cause, London on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Workforce is a drum & bass and jungle artist tracked on soundcheck, with 42 sets
 
 SP:MC, LSB, Halogenix
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*

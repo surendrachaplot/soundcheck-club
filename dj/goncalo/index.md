@@ -1,6 +1,6 @@
 # Gonçalo
 
-Gonçalo is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
+Gonçalo is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
 
 Gonçalo is a tech house and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 3 more. Often billed alongside Alex Kennon, Anna Tur and Dub Tiger. Next up: Ku Barcelona, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Gonçalo is a tech house and techno artist tracked on soundcheck, with 25 sets l
 
 Alex Kennon, Anna Tur, Dub Tiger
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalo/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalo/)*

@@ -1,6 +1,6 @@
 # Prince Fatty
 
-Prince Fatty is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
+Prince Fatty is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
 
 Prince Fatty is a dub and dancehall artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, Kyoto, Liverpool and London and 2 more. Often billed alongside Charlie P, Iration Steppas and Mungo's Hi Fi. Next up: Praia Fluvial da Rapoula do Côa, Porto on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Prince Fatty is a dub and dancehall artist based in United Kingdom, tracked on s
 
 Charlie P, Iration Steppas, Mungo's Hi Fi
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princefatty/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princefatty/)*

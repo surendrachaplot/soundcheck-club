@@ -1,6 +1,6 @@
 # Jamie Paton
 
-Jamie Paton is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
+Jamie Paton is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
 
 Jamie Paton is a house and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bangkok, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside Chez de Milo, Ana K Miller and DJ Zombie. Next up: The Golden Lion, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jamie Paton is a house and acid artist based in United Kingdom, tracked on sound
 
 Chez de Milo, Ana K Miller, DJ Zombie
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepaton/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepaton/)*

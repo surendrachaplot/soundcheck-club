@@ -1,6 +1,6 @@
 # Dieselboy
 
-Dieselboy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Substation, Seattle on Fri, 21 Aug 2026.
+Dieselboy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Substation, Seattle on Fri, 21 Aug 2026.
 
 Dieselboy is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Boston and Detroit and 9 more. Often billed alongside Dave Shichman, Agent 137 and Craze. Next up: Substation, Seattle on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Dieselboy is a drum & bass and jungle artist based in United States of America, 
 
 Dave Shichman, Agent 137, Craze
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*

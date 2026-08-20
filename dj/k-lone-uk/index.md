@@ -1,8 +1,8 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
+K-LONE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
-K-LONE is a house and bass artist tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Facta, Yushh and EMA (1). Next up: Gaffe, London on Sat 19 Sept.
+K-LONE is a house and bass artist tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: Gaffe, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ K-LONE is a house and bass artist tracked on soundcheck, with 61 sets logged acr
 
 ## Shares bills with
 
-Facta, Yushh, EMA (1)
+Facta, Jorg Kuning, Yushh
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*

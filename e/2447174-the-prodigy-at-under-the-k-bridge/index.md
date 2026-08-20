@@ -1,6 +1,6 @@
 # The Prodigy at Under the K Bridge
 
-The Prodigy at Under the K Bridge on Fri 25 Sept, Newyorkcity. 2 acts on the bill: SEXTILE and The Prodigy. Preview the line-up and save it on soundcheck.
+The Prodigy at Under the K Bridge on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Brutalismus 3000, SEXTILE and The Prodigy. Breakbeat and Breakcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Prodigy at Under the K Bridge on Fri 25 Sept, Newyorkcity. 2 acts on the bil
 
 ## Line-up
 
+- Brutalismus 3000
 - SEXTILE
 - The Prodigy
 

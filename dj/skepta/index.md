@@ -1,6 +1,6 @@
 # Skepta
 
-Skepta is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
+Skepta is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Skepta is a tech house and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 16 more. Often billed alongside Black Coffee, TSHA and Green Velvet. Next up: Hï Ibiza, Ibiza on Sat 22 Aug.
 
@@ -33,4 +33,4 @@ Skepta is a tech house and house artist tracked on soundcheck, with 81 sets logg
 
 Black Coffee, TSHA, Green Velvet
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*

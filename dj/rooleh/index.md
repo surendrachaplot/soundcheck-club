@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 19 Aug 2026, next at TivoliVredenburg, Utrecht on Sat, 29 Aug 2026.
+Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TivoliVredenburg, Utrecht on Sat, 29 Aug 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: TivoliVredenburg, Utrecht on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 82 sets log
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

@@ -1,6 +1,6 @@
 # Joseph Tunde
 
-Joseph Tunde is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 5 Sept 2026.
+Joseph Tunde is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 5 Sept 2026.
 
 Joseph Tunde is a house and disco artist tracked on soundcheck, with 35 sets logged across London and Manchester. Often billed alongside Levi Love, lola:de and Dainty. Next up: Eastern Bloc Records, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Joseph Tunde is a house and disco artist tracked on soundcheck, with 35 sets log
 
 Levi Love, lola:de, Dainty
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtunde/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtunde/)*

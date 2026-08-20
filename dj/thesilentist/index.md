@@ -1,6 +1,6 @@
 # The Silentist
 
-The Silentist is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at got.Drip, Amsterdam on Fri, 21 Aug 2026.
+The Silentist is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at got.Drip, Amsterdam on Fri, 21 Aug 2026.
 
 The Silentist is a dub techno and deep house artist tracked on soundcheck, with 16 sets logged across Amsterdam and Thehague. Often billed alongside Giovane Filippo, tanggero and Frissonn. Next up: got.Drip, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ The Silentist is a dub techno and deep house artist tracked on soundcheck, with 
 
 Giovane Filippo, tanggero, Frissonn
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilentist/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilentist/)*

@@ -1,13 +1,14 @@
 # ANAHITA
 
-ANAHITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 19 Aug 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
+ANAHITA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Avve, Bangkok on Fri, 21 Aug 2026.
 
-ANAHITA is a techno and house artist tracked on soundcheck, with 28 sets logged across Bangkok, Istanbul, London and Losangeles and 2 more. Often billed alongside Anahita Shamsaei, Milli and Somme Farris. Next up: Miscellania, Melbourne on Sat 5 Sept.
+ANAHITA is a techno and house artist tracked on soundcheck, with 29 sets logged across Bangkok, Istanbul, London and Losangeles and 2 more. Often billed alongside Anahita Shamsaei, Milli and Somme Farris. Next up: Avve, Bangkok on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Avve | Bangkok |
 | Sat, 5 Sept 2026 | Miscellania | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ ANAHITA is a techno and house artist tracked on soundcheck, with 28 sets logged 
 
 Anahita Shamsaei, Milli, Somme Farris
 
-*Updated Wed, 19 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*
+*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*
